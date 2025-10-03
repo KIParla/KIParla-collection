@@ -1,0 +1,47 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "KIParla-collection"
+authors:
+  - family-names: Caterina
+    given-names: Mauri
+    orcid: "https://orcid.org/0000-0002-8226-7846"
+  - family-names: Silvia
+    given-names: Ballarè
+    orcid: "https://orcid.org/0000-0002-5568-1611"
+  - family-names: Massimo
+    given-names: Cerruti
+    orcid: "https://orcid.org/0000-0002-3744-7426"
+  - family-names: Eugenio
+    given-names: Goria
+    orcid: "https://orcid.org/0000-0003-0713-8961"
+  - family-names: Francesco
+    given-names: Suriano
+version: 1.0.0
+date-released: 2019-06-04
+url: "https://github.com/KIParla/KIParla-collection"
+license: CC-BY-NC-SA-4.0
+identifiers:
+  - description: "The concept DOI of the work"
+    type: doi
+    value: 10.60760/unibo/kiparla
+preferred-citation:
+  authors:
+  - family-names: Caterina
+    given-names: Mauri
+    orcid: "https://orcid.org/0000-0002-8226-7846"
+  - family-names: Silvia
+    given-names: Ballarè
+    orcid: "https://orcid.org/0000-0002-5568-1611"
+  - family-names: Massimo
+    given-names: Cerruti
+    orcid: "https://orcid.org/0000-0002-3744-7426"
+  - family-names: Eugenio
+    given-names: Goria
+    orcid: "https://orcid.org/0000-0003-0713-8961"
+  - family-names: Francesco
+    given-names: Suriano
+  journal: "Proceedings of the 6th Italian Conference on Computational Linguistics CLiC-it."
+  year: 2019
+  title: "KIParla corpus: a new resource for spoken Italian"
+  type: article
