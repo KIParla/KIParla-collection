@@ -1,0 +1,1084 @@
+BO094	riprendiamo la nostra lezione
+BO094	okay allora ancora eh
+BO094	piccoli problemi sulla riduzione naturale
+BO094	la lezione sta riprendendo
+BO094	allora mh
+BO094	allora è stata presentata
+BO094	una delegazione che conteneva
+BO094	eh questo passaggio
+BO094	allora vediamo un attimo
+BO094	cosa dice la regola di introduzione del quantificatore ehm universale
+BO094	dice che
+BO094	se io ho ottenuto a bi ci
+BO094	da assunzione da un insieme di assunzioni gamma dove non occorre ci
+BO094	va bene
+BO094	ci non il l'enunciato di gamma non occore la ci
+BO094	quindi la ci è nuova va bene
+BO094	rispetto alle assunzioni
+BO094	allora posso concludere per xx ics a
+BO094	allora uno dice bene allora io posso fare anche questo no
+BO094	perché se io assumo a bi ci ci occorre nell'assunzione
+BO094	capite
+BO094	se questa è una foglia e io a assumo a bi ci
+BO094	ci occo~ ci è assunzione e conclusione
+BO094	quindi ci occorre nell'assunzione
+BO094	quindi è chiaro che non posso ics xxx la regola
+BO094	va bene
+BO094	quindi io quest'a bi ci devo averlo ottenuto
+BO094	da un insieme di assunzioni dove dorvò porre la costante ci
+BO094	va bene
+BO094	bene
+BO094	oh vorrei eh cominc~ diciamo dire ancora qualcosa
+BO094	sul mmh
+BO094	un verso del teorema di validità xx dimostrato il teorema di validità nel seguente modo
+BO094	quindi per chi non era ieri a lezione in particolare
+BO094	il signore ecco ora che cerchi di recuperare
+BO094	la lezione di ieri
+BO094	cellulari sono un disastro devo dire la verità
+BO094	allora esiste
+BO094	un
+BO094	albero di
+BO094	sequenze chiuso
+BO094	per
+BO094	gamma xxx
+BO094	va bene
+BO094	questo è quello che abbiamo dimostrato er~ ieri e che oggi troverete xxx
+BO094	se esiste una derivazione xx gamma
+BO094	allora esiste anche un albero di sequenze chiusi
+BO094	per il sequente gamma
+BO094	benissimo
+BO094	questo è il teorema di validità
+BO094	il teorema di completezza è esattamente la freccia
+BO094	inversa
+BO094	cioè
+BO094	se vuoi fare un freccione inverso dal segno di seguente
+BO094	e se esiste un altro dei sequenti chiuso per gamma freccione a
+BO094	allora esiste anche una derivazione in deduzione xxx
+BO094	questa freccia è la freccia della completezza
+BO094	e forse
+BO094	non ce la facciamo a dimostrare
+BO094	trasformare i seguenti in xx
+???	si può fare
+BO094	
+BO094	guarda xxx
+BO094	va bene
+BO094	però ricordatevi che questo poi vediamo ora
+BO094	poi vediamo ora se
+BO094	giovedì ce la facciamo
+BO094	va bene mh
+BO094	questo è importante come vi dicevo
+BO094	perché mette in rapporto
+BO094	questo concetto sintattico
+BO094	con questo concetto semantico
+BO094	e noi già sappiamo che questo concetto
+BO094	è equivalente al fatto che gamma sia che a sia conseguenza logica xxx
+BO094	xx che abbiamo questi tre concetti
+BO094	va bene
+BO094	eh su cui praticamente si è fondato l'intero corso
+BO094	quindi per stabilire quand'è che a è conseguenza logica di gamma abbiamo usato
+BO094	eh leh le zero strutture o le elle uno strutture a seconda del linguaggio
+BO094	va bene
+BO094	poi abbiamo introdotto il concetto di albero dei sequenti
+BO094	e in particolare il concetto di albero chiuso di sequenti
+BO094	per dato sequente
+BO094	e poi il concetto di derivazione quindi sono tre concetti a xxxx
+BO094	a è conseguente a xx di gamma il sequente gamma freccione a ammette
+BO094	un un albero va bene
+BO094	esiste un albero di sequente chiuso per questo sequente
+BO094	bene o la cosa che volevo invece eh su cui eh
+BO094	cambiamo leggerme~ cambiamo argomento
+BO094	va bene perché su questo ormai ci siamo xxxx abbastanza
+BO094	vorrei farvi invece
+BO094	eh
+BO094	un lavoro quasi di esercitazione anzi precisamente è di esercitazione
+BO094	sui cosiddetti quantificatori numerici
+BO094	perché io credo di non avervene mai parlato
+BO094	a lezione
+BO094	dove avete le dispense sicuramente il dottor rossi vi ha fatto esercitazioni su questo
+BO094	eh
+BO094	voi dovreste avere il foglietto proprio nel materiale didattico
+BO094	con
+???	formalizzazione rispetto ai quantificatori numerici
+BO094	al massimo almeno esattamente
+BO094	al massimo almeno esattamente
+BO094	sono quelli va bene
+???	eh vi sentite tutti molto famigliari con
+BO094	no
+BO094	no ecco eh sempre così mai fare questa domanda
+BO094	va bene allora vediamo intanto di
+BO094	eh
+BO094	allora se io dico esistono
+BO094	almeno
+BO094	due studenti
+BO094	esistono almeno due studenti
+BO094	che mandano messaggi
+BO094	durante la lezione questo non lo scrivo va bene esistono almeno due studenti che ma~ allora noi abbiamo bisogno veramente di due xxxnari
+BO094	uno è essere studente e poi abbiamo emme di ics che voglia dire mandare messagini
+BO094	va bene
+BO094	la cosa mi interessa è
+BO094	è vedere come si scrive esistono almeno due
+BO094	oh supponete che io vi scriva questo
+BO094	esiste un ics
+BO094	eh
+BO094	e lo scriva esiste un ics e esiste un ipsilon
+BO094	ics è studente e manda messaggini
+BO094	e ipsilon è studente e manda messaggini
+BO094	vi sembra vi sembra che renda
+???	esiste almeno due
+???	no
+BO094	esistono due
+BO094	oh no perché potrebbero coincidere
+BO094	quando io xx il fatto di usare due variabili distinte
+BO094	ics e ipsilon
+BO094	non vuol dire che questi due
+BO094	oggetti
+BO094	non debbano essere lo stesso
+BO094	quindi
+BO094	io ho bisogno di aggiungere qui
+BO094	e
+BO094	non ics uguale a y
+BO094	quindi almeno due sen~ con un linguaggio senza identità
+BO094	non lo possiamo esprimere
+BO094	lo stesso almeno tre almeno quattro
+BO094	va bene prendo tre variabili prendo quattro variabili poi devo dire ics diverso da ipsilon eh ipsilon diverso da zeta fa tutte le combinazioni possibili
+BO094	va bene
+BO094	benissimo
+BO094	esistono almeno due studenti
+BO094	oh poi la cosa che invece
+BO094	se io invece qui dico esitono al massimo due studenti
+BO094	eccoci
+BO094	esistono al massimo du~ quand'è che questo è vero
+BO094	insomma è quando
+BO094	o nessuno studente manda messaggetti
+BO094	o uno studente manda messaggetti
+BO094	o due studenti mandano messaggetti fine
+BO094	allora però attenzione bene
+BO094	questo quantificatore esistono al massimo ricordatevi bene
+BO094	non può essere reso con un quantificatore esistenziale
+BO094	tutte le volte che io uso il quantificatore esistenziale vuol dire che almeno uno c'è
+BO094	eh invece quando io dico esistono al massimo devo considerare il caso che nessuno esista
+BO094	allora cosa faccio
+???	uso che cosa
+BO094	per ogni
+BO094	il per ogni eh uso una parafrasi molto noiosa
+BO094	va bene
+BO094	perché io dico
+BO094	se per per ogni allora
+BO094	xx almeno due
+BO094	presi tre individui qualsivoglia
+BO094	va bene
+BO094	se il primo è studente e manda messaggetti
+BO094	e il secondo è studente e manda messaggetti
+BO094	e il terzo è studente
+BO094	e manda messaggi
+BO094	allora
+BO094	o ics è uguale a ipsilon o ipsilon è uguale a zeta
+BO094	o ics uguale a zeta
+BO094	va bene
+BO094	presa una qualsiasi terna di studenti
+BO094	tali che
+BO094	xx insomma che godono di questa proprietà
+BO094	ecco perché vuol dire che almeno due
+BO094	devono collassare su uno
+BO094	va bene
+BO094	quindi l'esist~ esistere al massimo non è una vera esistenza qui viene detto
+BO094	come un quantificatore universale
+BO094	ecco notate una cosa
+BO094	uno potrebbe dire ma io questi quantificatori universali sul davanti
+BO094	li posso portare sul conseguente
+BO094	no
+BO094	capite che non lo posso fare perché ics ipsilon e zeta formano xx qua
+BO094	va bene e ora vediamo sull'esistono
+BO094	allora se invece dicessi esistono esattamente due studenti
+BO094	allora una cosa molto semplice potrebbe fare la congiunzione fra
+BO094	esistono almeno due studenti
+BO094	e esitono esa~ esistono al massimo due studenti
+BO094	però la sostituzione di questo due enunciati mi dà esistono esattamente
+BO094	però vediamo di scriverlo un po' meglio
+BO094	allora io avrò che
+BO094	esiste un ics e esiste un ipsilon
+BO094	ics studente emme di ics e
+BO094	ipsilon e studente e
+BO094	emme di ipsilon quindi questo mi dice che esitono due studenti che mandano messaggi
+BO094	e
+BO094	son distinti e ics è diverso quindi esitono almeno due fino a qui ho detto che esitono almeno due
+BO094	e ora vuol dire che esistono al massimo e
+BO094	per ogni zeta
+BO094	se esse di zeta e emme di zeta allora ics uguale a zeta oppure xx
+BO094	secondo me questa è una delle con~ non è la più sintetica possibile eh
+BO094	xx in cui esprimere l'esattamente esattamente due o esattamente tre
+BO094	però è molto intuitiva
+BO094	no
+BO094	prima dico esistono
+BO094	almeno due studenti tali che mandano i messaggi
+BO094	e penso al massimo preso un qualsiasi altro studente si identifica con uno di loro due
+BO094	va bene
+BO094	quindi questo diciamo qualche esercizio sul~ sui quantificatori numerici nel test ci sarà
+BO094	va bene
+BO094	oh l'altra cosa
+BO094	su cui forse
+BO094	vale la pena
+BO094	eh
+BO094	soffermarsi perché questo ha delle applicazioni notevoli
+BO094	anche in filosofia del linguaggio quindi chunque di voi faccia un corso in filosofia del linguaggio
+BO094	va bene e~ sono descrizioni definite
+BO094	e le abbiamo fatte non mi riordo
+BO094	però a lezione no e allora conviene che
+BO094	dica questa cosa ancora un po'
+BO094	allora il problema è dell'articolo determinativo il
+BO094	no
+BO094	o lo
+BO094	l'arti~ determinativo il
+BO094	ehm
+BO094	famoso esempio
+BO094	il re di francia
+BO094	è calvo
+BO094	va bene
+BO094	supponete che con erre di ics indico
+BO094	erre re di francia e con ci di ics indico che ics è calvo
+BO094	va bene
+BO094	ecco l'articolo determinativo il
+BO094	che vuol dire che
+BO094	esiste un re di francia ed è uno
+BO094	quindi io devo esprimere
+BO094	esattamente questa cosa
+BO094	quindi è chiaro voi direte che ci sono un momento ci sono modi alternativi
+BO094	vari modi per esprimere le cosiddette descrizioni definite
+BO094	va bene
+BO094	perché quando io dico il re di francia è chiaro che questo è
+BO094	un modo
+BO094	compresso
+BO094	va bene
+BO094	per indicare un individuo
+BO094	quindi un individuo lo posso indicare sia col proprio nome no
+BO094	che è quello che abbiamofatto finora nela nostro linguaggio costanti individuali
+BO094	presento coi nomi carlo beppe eccetera
+BO094	però può darsi che io non conosca il nome di questo signore come si sicuramente è però posso dire lo studente seduto in prima fila
+BO094	però se sono più d'uno nella fila di mezzo a sinistra vabbè insomma fa lo specifico bene
+BO094	in modo tale che la mia descrizione isoli solo lui
+BO094	va bene lo studente in prima fila con la giacca blu l'ho trovato ecco
+BO094	quindi
+BO094	lo studente in prima fila con la giacca blu è una descrizione xx è uno modo per indicare un individuo
+BO094	va bene
+BO094	lo studente in prima fila con la giacca blu eh ha fatto tutti gli esercizi
+BO094	d'accordo ecco allora un modo per risolvere le descrizioni definite
+BO094	è dicimo così all'interno del contesto
+BO094	eh diciamo eh diciamo ora teniamo qui presente la cosiddetta soluzione rassegnata
+BO094	che dice questo
+BO094	che io devo questo eh questo è
+BO094	xxxx questo qui è un terno va bene
+BO094	allora
+BO094	questa
+BO094	eh la struttura di questo enunciato
+BO094	è una struttura del tipo
+BO094	soggetto copula predicato
+BO094	no
+BO094	il re di francia è un soggetto è calvo
+BO094	però m eh
+BO094	xxx
+BO094	e potrei analizzarla va bene
+BO094	in questo modo
+BO094	però ho bisogno di introdurre
+BO094	dei temrini molto complessi va bene dei termini iota
+BO094	poi invece seguiremo
+BO094	la soluzione russelliana il qualche ci dice bene
+BO094	il re di francia è calvo noi lo risolviamo
+BO094	nel nostro linguaggio dei più mondi in questo modo
+BO094	esiste un ics
+BO094	il quale è re di francia
+BO094	ed è l'unico ad essere re di francia
+BO094	e però ogni zeta
+BO094	se zeta è re di francia allora ics uguale zeta
+BO094	quindi fino a qui io ho detto c'è un ics
+BO094	che è l'unico re di francia
+BO094	e lui è re di francia e tutti i re di francia sono uguali a lui
+BO094	xxxxx
+BO094	ecco
+BO094	eh tenete presente di una cosa che
+BO094	questa soluzione alla russell
+BO094	di trattare descrizioni definite cosa fa
+BO094	in qualche modo spezza cioè
+BO094	nel linguaggio naturale se midicono il re di francia è calvo
+BO094	in realtà io ho un nome complesso che poi un predicato
+BO094	va bene
+BO094	predico l'essere calvo di un certo individuo che descrivo mediante
+BO094	la costruzione linguistica più compelssa
+BO094	eh descrizione linguistica complessa che io perdo completamente
+BO094	in quest'analisi
+BO094	va bene perdo completamente
+BO094	però che vantaggio ha quest'analisi qui
+BO094	che
+BO094	si esegue in un linguaggio di cui xx identità
+BO094	quindi non abbiamo bisogno di
+BO094	arricchire
+BO094	il nostro linguaggio con particolari operatori
+BO094	i quali applicati a un predicato vi generano l'unico individuo che gode di quel predicato
+BO094	ovviamente certo se io ho predicato erre di ics io potrei
+BO094	oltre ai miei quantificatori
+BO094	i~ aggiungere altri operatori ad esempio operatore iota
+BO094	ho ics e due ics
+BO094	che è
+BO094	quell'ics che voglio xx
+BO094	va bene è il
+BO094	sì eh
+BO094	quell'ics che gode di erre
+BO094	allora in questo se io avessi un modo
+BO094	se il mio linguaggio contenesse questo operatore
+BO094	il re di francia è calvo potrei dire
+BO094	ci
+BO094	xxxxx
+BO094	va bene
+BO094	chi è che è calvo
+BO094	quello che è il re
+BO094	però ho bisogno di ampliare il linguaggio si può fare eh è un'altra strada come dire
+BO094	avviare il linguaggio coi cosiddetti operatori iota eccetera ma noi non facciamo questo
+BO094	ma semplciemente presentiamo la soluzione di russell
+BO094	che è molto economica
+BO094	perché non ci fa uscire
+BO094	dal nostro eh
+BO094	linguaggio del xx xxx
+BO094	va bene
+BO094	negli esercizi sul linguaggio di tarski
+BO094	eh molte volte potete trovare cose del genere
+BO094	il cubo a
+BO094	destra di bi
+BO094	è grande
+BO094	no allora anche qui avete bisogno di esprimere
+BO094	il cubo a destra di bi
+BO094	va bene
+BO094	allora di nuovo perché verrà fuori esiste un ics
+BO094	che è cubo
+BO094	eh right
+BO094	of ics bi
+BO094	eh attenzione
+BO094	quindi c'è un pun~ presente un cubo che è a destra di bi
+BO094	ed è l'unico cubo a destra di bi quindi qui la storia diventa molto lunga
+BO094	e per ogni zeta se zeta è un cubo
+BO094	e dovete ripetere right of
+BO094	zeta bi
+BO094	e preso qualsiasi ics zeta che sia cubo a destra di bi
+BO094	allora ics uguale a zeta
+BO094	va bene in questo modo avete detto che
+BO094	attenzione alle parentesi eh questa apre qui e ancora deve chiudere
+BO094	quindi c'è un ics che è cu per delta di bi
+BO094	preso qualsiasi altro cubo che sia delta di i vi uguale a xxx
+BO094	e
+BO094	è grande la
+BO094	ics
+BO094	chiusa la quadra
+BO094	va bene
+BO094	quindi avete un quantificatore esistenziale davanti
+BO094	a tutto quest'enunciato
+BO094	ci siamo
+BO094	va bene allora a questo punto noi ci vediamo giovedì
+BO094	e giovedì abbiamo due ore di lezione
+BO094	e due ore di esercitazione
+BO094	allora vorrei ricordare subito la vexata quaestio
+BO094	dei due test
+BO094	del diciannove dicembre e del diciotto gennaio
+BO094	chiaramente alcuni di voi mi hanno chiesto ma io li posso fare entrambi
+BO094	allora dopo aver discusso la cosa anche col dottor rossi vediamo di
+BO094	trovare una soluzione equa per tutti
+BO094	dunque la distanza fra il dicio~ diciannove dicembre e il diciotto gennaio
+BO094	è praticamente di due settimane lavorative
+???	visto che c'è pasqua nel m~
+BO094	
+BO094	natale nel mezzo
+BO094	va bene
+BO094	eh allora noi correggermo tutti i test
+BO094	sia del dicembre che di gennaio
+BO094	dopo il diciotto gennaio
+BO094	perché in ogni caso non mh anche voglio dire se lavorassimo il giorno di natale
+BO094	saremmo in grado solo di darvi un risultato pochissimi giorni prima di
+BO094	del test di gennaio che non vi serve a niente per la preparazione
+BO094	allora l'idea è la seguente
+BO094	voi anzi ne potete fare uno ne potete fare due va bene quello che volete
+BO094	d'accordo
+BO094	eh se li fatti tutti e due noi correggiamo solo l'ultimo quello del diciotto gennaio
+BO094	quindi uno può venire qui può giudicare che non è andato bene il test
+BO094	e lo rifà il diciotto gennaio e quello noi correggiamo va bene
+BO094	se invece uno viene qui il diciannove dicembre
+BO094	si autovaluta e dice no io il test l'ho fatto bene
+BO094	eh non ne voglio più sapere di logica va bene benissimo noi correggiamo quello del diciannove dicembre
+BO094	d'accordo
+BO094	quindi l'idea è che noi correggiamo un solo test per ognuno di voi
+BO094	quindi se uno ne fa due automaticamente
+BO094	correggiamo solo il secondo
+BO094	va bene il primo lo buttiamo via cioè non lo guardiamo nemmeno
+BO094	d'accordo
+BO094	benissimo questo almeno così dà a voi la possibilità
+BO094	guardate che è un grosso vantaggio perché dà a voi la possibilità
+BO094	di considerare il test di dicembre come un pretest vabbè una prova generale diciamo
+BO094	oh questo però il fatto di avervi concesso un test a dicembre non vuol dire che le lezioni finiscono una settimana prima a livello disciplinare contenutistico perché poi avete il test no
+BO094	questa è una richiesta in più che avete fatto voi a cui io malauguratamente ho detto si
+BO094	eh oh allora se no alla fine ha commentato una signorina ieri dicendo ma come lei ci fa cose nuove
+BO094	a una settimana dal test certo perché l'avete voluto voi il diciannove dicembre per me il test è sempre stato a gennaio quindi
+BO094	eh considero di poter tranquillamente di poter andare avanti con
+BO094	contenuti di carattere logico che ritengo facciano parte del kit di base
+BO094	di qualsiasi corso del primo anno
+BO094	va bene allora eh ieri forse abbiamo ehm
+BO094	diciamo svi~ concluso un po' in fretta il teorema di validità per il calcolo di deduzione naturale
+BO094	semmai riprendo alcune cose che riguardono i quantificatori
+BO094	poi eh
+BO094	alle cinque
+BO094	eh cinque e dieci
+BO094	conto di mettere online sul materiale didattico
+BO094	un file pi di effe che ho scritto a mano stamani
+BO094	ci sono sedici pagine
+BO094	con la dimostrazione manoscritta
+BO094	del
+BO094	molto bene xx abbiam fatto xx okay con
+BO094	con la dimostrazione del teorema di validità che ora il dottor rossi ha scannerizzato quindi sono in grado di mettere il file pi di effe sul materiale materiale didattico
+BO094	bene
+BO094	allora eh diciamo
+BO094	eh ieri mi è anche stato chiesto ma che tipo di che tipo di domande possono venir fuori
+BO094	va bene di fronte
+BO094	a questo a xx come dire
+BO094	questo contenuto logico no questo teorema
+BO094	eh vabbè una domanda per esempio potrebbe essere
+BO094	all'interno della dimostrazione del eh
+BO094	teorema di validità mostra che esiste un albero di sequenti chiuso
+BO094	rispetto all'applicazione di una regola che potrebbe essere
+BO094	tipiche di un'azione piuttosto che xx di unxxx
+BO094	quindi studiare vari xxx
+BO094	un'altra domanda potrebbe essere
+BO094	indica la struttura generale
+BO094	del
+BO094	della dimostrazione del teorema di validità
+BO094	quindi vi prego anche di guardare ora che fate la preparazione questi aspetti teorici eh allora
+BO094	noi volendo abbiamo fatto anche molte cose di carattere
+BO094	eh calcolistico no in un certo senso
+BO094	quindi il calcolo di sequente la xxx naturale eccetera
+BO094	ecco ci sono alcune definizioni però che sono molto importanti e nel test ve le ritrovate quindi è bene che le studiate
+BO094	per esempio il concetto di struttura per un linguaggio ics zero
+BO094	e avete gli appunti il concetto di scrittura pe run linguaggio erre uno
+BO094	che è più complesso ma avete gli appunti
+BO094	quindi quelle cose lì vanno sapute e attenzione vanno scritte anche in un italiano leggibile
+BO094	cioè non che
+BO094	ah che visto che si tratta di logica l'italiano non conta
+BO094	conta eh conta
+BO094	eh
+BO094	quindi eh poi ecco gli aspetti teorici quindi fonamentalmente vi dico lingua~ semantica per un linguaggio erre zero
+BO094	seomantica per un linguaggio erre uno
+BO094	il concetto di enunciato il concetto di formula ben formata
+BO094	sono queste piccole definizioni
+BO094	che noi abbiamo introdotto per esempio definizioni per induzione
+BO094	voglio dire che se le imparate è qualco~ è
+BO094	è un kit di conoscenza in più che io credo non avevate al liceo
+BO094	quindi siete qui per imparare qualcosa in più
+BO094	d'accordo
+BO094	eh ecco il teorema di validità
+BO094	è un esempio significativo
+BO094	di metateorema
+BO094	perché allora voi capite bene che in questo contesto
+BO094	le derivazioni
+BO094	sono i nostri oggetti di studio
+BO094	eh noi ragioniamo sulle derivazioni
+BO094	quindi diamo la definizione derivazione quella va imparata
+BO094	xx xxxx xxxx quella ce l'avete già sui foglietti nel materiale didattico
+BO094	d'accordo
+BO094	e e quindi diciamo dopo si tratta di
+BO094	studiare questi oggetti
+BO094	questo è stato un
+BO094	come dire
+BO094	questo è un problema
+BO094	eh mh
+BO094	diciamo di quest'attività
+BO094	di ragionare sulle derivazioni
+BO094	si inserisce in un progetto xxxxx della matematica della massima importanza
+BO094	eh lo vuole spiegare lei il processo fondazionale della mtematica della massima importanza no almeno allora ascolti
+BO094	qual è il punto
+BO094	è chiaro che i matematici
+BO094	da sempre hanno fatto dimostrazioni
+BO094	d'accordo
+BO094	e hanno studiato teorie all'interno delle quali
+BO094	uno strumento conoscitivo fondamentale
+BO094	era fare dimostrazioni
+BO094	poi pensate al caso semplicissimo dell'aritmetica in cui si ha xx assiomi che possiamo studiare
+BO094	e poi però immagino che al liceo xxxxx prova commutativa
+BO094	o avete dimostrato altre proprietà
+BO094	oh
+BO094	perché studiare da un punto di vista teorico astratto il concetto di derivazione
+BO094	perché io voglio studiare una teoria nel suo complesso
+BO094	e voglio essere sicura
+BO094	che
+BO094	applicando partendo da certi assiomi della teoria
+BO094	che applicando le mie regole cioè applicando la macchinetta logica il meccanismo logico
+BO094	non arrivo mai
+BO094	a una
+BO094	derivazione
+BO094	che in aritmetica per esempio termina con zero uguale a uno che è un modo per dire xx
+BO094	xxx
+BO094	e questo diciamo da un punto di vista generale questo è il grosso problema xx all'inizio del novecento
+BO094	che è il problema
+BO094	della
+BO094	consistenza
+BO094	ecco perché si studiano le dimostrazioni ecco perché si fa la proof theory la proof theory è partita con delle ambizioni enormi
+BO094	okay xx quindi cerchiamo della consistenza de xx
+BO094	quindi l'aritmetica considerata come la teoria matematica basilare
+BO094	xx posto in cui si costruisce la teoria dei numeri razionali la teoria dei numeri reali ma intanto
+BO094	l~ ragioniamo sui numeri naturali
+BO094	va bene
+BO094	e facciamo una teoria dei numeri
+BO094	eh il problema che ci si pone all'inizio del secolo scorso
+BO094	qui il grande il grande eroe è david xx
+BO094	con la sua scuola fra cui il nostro amico gerard gentzen
+BO094	va bene si pone il problema della consistenza dell'aritmetica
+BO094	e se lo pone in un modo molto molto concreto
+BO094	dice bene diamo una definizione precisa di derivazione
+BO094	che è quello che voi avete nei foglietti eh non è niente di più
+BO094	diamo una definizione precisa di derivazione
+BO094	studiamo le derivazioni
+BO094	eccola proof theory va bene a un progetto di ricerca va bene studiamo le derivazioni
+BO094	e mostriamo che nessuna derivazione aritmetica può terminare con zero uguale a uno
+BO094	in questo modo io ho dimostrato che diciamo
+BO094	tutto e gli assiomi i principi primi dell'aritmetica uniti al meccanismo logico non danno luogo a xxx perché basta che
+BO094	ci sia una tradizione zero uguale a uno quindi falsa che voi sapete che una logica classica dal falso segue tutto
+BO094	va bene quindi da zero uguale a uno qualsiasi cosa cinque uguale a quattro xx tutto teoremi veri falsi tutti xx
+BO094	va bene
+BO094	oh allora questo lavoro della proof theory che è stato portato avanti inizialmente da xx e dalla sua scuola tra cui gentzen
+BO094	all'università di gottingen ha avuto tuttora come dire ora eh cioè ha messo in piedi una
+BO094	catena di ricerche fondazionali
+BO094	di estrema importanza
+BO094	e quindi quando si parla di fondamenti della matematica
+BO094	questo è il primo problema da risolvere
+BO094	va bene
+BO094	poi vi dirò che non è possibile risolverlo
+BO094	poi questo spesso xx però per dirvi che quel pochino che noi stiamo facendo
+BO094	di riflettere sulle derivazioni
+BO094	o quanto meno di mostrare il teorema di validità
+BO094	va bene non è un gioco isolato è un gioco all'interno
+BO094	di un grandissimo progetto di ricerca iniziato nel secolo scorso
+BO094	oh
+BO094	allora ora voi capite che
+BO094	per
+BO094	cercare di dimostrare
+BO094	che nessuna derivazione può
+BO094	e x aritmetica perché su cui avvengono anche principi aritmetici
+BO094	può temrinare con zero uguale a uno
+BO094	il modo in cui le derivazioni vengono presentate
+BO094	è di fondamentale importanza
+BO094	quindi gentzen ci ha offerto due modi alternativi
+BO094	di presentare le derivazioni
+BO094	uno deduzione naturale su cui voi vi siete esercitati
+BO094	due calcolo dei sequenti
+BO094	non però letto come io vi ho fatto fare per due mesi di seguito
+BO094	dal basso verso l'alto con lettura semantica
+BO094	gentzen l'aveva pensato come calcolo deduttivo
+BO094	va bene
+BO094	quindi in cui le regole si leggono dall'alto verso il basso quindi se voi vi ricordate per esempio
+BO094	eh vediamo una banala gamma xx delta
+BO094	a
+BO094	e
+BO094	a questa però si vede male aspettate non xx ho scelto la regola sbagliata
+BO094	fatemi fare eh
+BO094	perché qui questa è proprio la lettura che si dà della virgola non mi serve a nulla
+BO094	gamma facciamo questa
+BO094	gamma uno freccione delta uno a
+BO094	gamma due freccione delta due bi
+BO094	allora
+BO094	se no mettiamo gamma sempre lo stesso ma sarebbe meglio mettere gamma uno
+BO094	gamma uno gamma due
+BO094	freccione
+BO094	a e bi
+BO094	voi questa regola
+BO094	che abbiamo cambiato right e
+BO094	l'abbiamo letta così va bene
+BO094	se faccio la congiunzione
+BO094	allora ho xx al primo congiunto o xx al secondo congiunto
+BO094	ottimo
+BO094	poi in realtà noi avevamo qui solo gamma questo gamma si metteva qua poi eran divisi in due insomma ci sono alcune generalizzazioni da fare
+BO094	oh ma proviamo a darne una lettura
+BO094	dall'alto verso il basso
+BO094	e tanto per semplificarsi la vita
+BO094	supponiamo che l'insieme delta uno sia vuoto a noi ci interessa l'aspetto concettuale più che
+BO094	e allora se
+BO094	a è derivabile capito ora questo lo leggo come derivabile
+BO094	se a è derivabile da gamma uno
+BO094	e bi è derivabile da gamma due dunque la loro congiunzione è derivabile da gamma uno e gamma due e è zero
+BO094	quindi tutte le regole che vi abbiamo dato
+BO094	ammettono questa doppia lettura
+BO094	quindi dal basso verso l'alto è una lettura semantica
+BO094	dall'alto verso il basso una lettura prettamente deduttiva in xx di dimostrazione
+BO094	questo è quello che xx raddoppia
+BO094	la doppia lettura delle regole è di una potenza straordinaria xx
+BO094	bene
+BO094	eh allora chiaramente come vi dicevo se uno vuole studiare le derivazioni
+BO094	eh sarà bene che trovi anche il modo più adeguato per presentarle
+BO094	quindi un modo per presentarle è
+BO094	eh il calcolo dei seguenti riletto dall'alto verso il basso
+BO094	un altro modo è la riduzione naturale che abbiamo visto
+BO094	va bene
+BO094	eh
+BO094	gentzen ecco il nostro amico
+BO094	riesce a dimostrare
+BO094	che la l'aritmetica è consistente attenzione
+BO094	però aspettate xx riesce a dimostrare utilizzando
+BO094	appositi calcoli di sequenze
+BO094	utilizzando però xx sul però è fondamentale
+BO094	utilizzando però metodi
+BO094	che vanno al di là dell'aritmetica stessa
+BO094	arriverà poi nel millenovecentotrentuno il teorema
+BO094	di kurt xxx
+BO094	almeno sentite parlare di questi personaggi
+BO094	va bene
+BO094	che mostra
+BO094	che la consistenza dell'aritmetica non è dimostrabile con
+BO094	strumenti
+BO094	eh esprimibili dentro l'aritmetica
+BO094	quindi è vero se gentzen dimostra
+BO094	la consistenza dell'aritmetica
+BO094	ma utilizzando dei concetti insiemistici
+BO094	in un certo senso più insicuri dell'aritmetica stessa
+BO094	e quindi
+BO094	va bene
+BO094	gelder dimostra che
+BO094	con strumenti tanto potenti tanti quelli dell'aritmetica
+BO094	non è possibile dimostrare la consistenza dell'aritmetica
+BO094	d'accordo
+BO094	quindi questo è stato uno dei fiorelli forse eh il più celebrato dei teoremi
+BO094	della
+BO094	della logica del secolo scorso attenzione anche quello di grentzen eh va bene
+BO094	questo è un risultato positivo
+BO094	molto importante
+BO094	e questo invece è un risultato negativo
+BO094	come voi sapete i risultati negativi
+BO094	sono devastanti no perché ti dicono
+BO094	ciò che non puoi fare
+BO094	danno eh un limite
+BO094	alla conoscenza possibile
+BO094	va bene
+BO094	quindi non puoi stabilire se l'aritmetica è consistente o meno utilizzando strumenti tanto forti quanto quelli dell'aritmetica
+BO094	in realtà xx poi voleva strumenti più deboli ma ora
+BO094	inutile stare a
+BO094	entrare in questi dettagli
+BO094	quindi abbiamo questi vari teoremi dell'incompletezza quella aritmetica
+BO094	e del
+BO094	oh eh ecco allora tutto questo
+BO094	diciamo questa romanzina
+BO094	per dirvi che uno studio teorico delle deduzioni
+BO094	vabbe è centrale ecco è centrale
+BO094	nell'atività eh
+BO094	della logica va bene dove voi avete visto una formula molto piccola ma almeno
+BO094	un'idea
+BO094	ve la siete fatta
+BO094	va bene eh dunque io direi a questo punto forse di
+BO094	a meno che non abbiate domande sulla dimostrazione del teorema di validità
+BO094	eh
+BO094	possiamo
+BO094	anche
+BO094	eh
+BO094	aspettare a discuterlo eventualmente giovedì
+BO094	così avete un giorno di tempo per leggervi i foglietti
+BO094	a orientarvi minimamente e poi possiamo fare una discussione giovedì
+BO094	eh che abbiamo in ogni caso quattro ore quindi c'è tempo per discutere
+BO094	va bene
+BO094	però chi ha già qualche domanda ora si rispone
+BO094	si cerca di rispondere
+BO094	d'accordo allora io oggi quello che volevo fare
+BO094	eh
+BO094	xx
+???	scusate c'è una domanda
+BO094	
+BO094	al test
+BO094	allora in genere guardate
+BO094	al test eh voi avrete
+BO094	eh non so
+BO094	dei foglietti va bene con tutte le domande
+BO094	e poi in genere mettiamo due fogli bianchi comunque
+???	qua potete usare il retro dei fogli insomma ecco fogli vostri è bene che non ne circolino d'accordo
+BO094	
+BO094	quindi eh noi aggiungeremo un foglio o due bianco spillato insieme al foglio con le domande e fate lì
+BO094	poi quello che voi non volete che io legga
+BO094	xx sopra e basta
+BO094	va bene
+BO094	oh
+BO094	dunque eh
+BO094	diciamo vorrei un atti~ diciamo ci sono due argomenti
+BO094	di cu~ che vorrei trattare oggi
+BO094	uno
+BO094	è se volete un ripasso
+BO094	su un argomento che forse non abbiamo approfondito abbastanza
+BO094	e cioè i quantificatori numerici
+BO094	questo è eh
+BO094	l'altra questione invece su cui volevo un attimino dire qualcosa
+BO094	era la questione
+BO094	di alcune forme normali
+BO094	eh
+BO094	eh di nuovo cerchiamo di
+BO094	eh ragionare ragionare
+BO094	allora
+BO094	io volevo che voi riusciste in qualche misura
+BO094	a sfruttare a sfruttare le equivalenze logiche che avete studiato
+BO094	per rendervi conto di eh una cosa che risulta essere abbastanza importante quando si fa metateoria
+BO094	cioè che xxx una qualsiasi formula a del prim'ordine
+BO094	è possibile
+BO094	individuare
+BO094	una formula
+BO094	equivalente ad a
+BO094	che è così strutturata
+BO094	e abbiamo
+BO094	una
+BO094	per cui intendo o un quantificatore universale o un quantificatore esistenziale
+BO094	e abbiamo una questa è un ics eh non è un per
+BO094	prendiamo a distinguere in un altro modo
+BO094	va bene
+BO094	allora
+BO094	eh ogni
+BO094	enunciato a
+BO094	è
+BO094	equivalente ad un enunciato in quella che si chiama forma normale prenessa
+BO094	che è così composta
+BO094	c'è un prefisso
+BO094	che sono tutti quantificatori
+BO094	alternati eh cioè nella nella combinazione che volete
+BO094	possono essere tutti universali mescolati non ha nessuna importanza
+BO094	una lista finita di quantificatori
+BO094	e poi una formula microapposizionale
+BO094	questa formula è del linguaggio erre zero
+BO094	poi volendo ancora
+BO094	eh indagare volevo ancora eh si può far vedere
+BO094	che
+BO094	questa formula vi
+BO094	può anch'essa avere una forma normale molto precisa
+BO094	eh per esempio potrebbe essere limitiamoci a questo
+BO094	potrebbe essere un enunciato due a
+BO094	quindi contiene solo i connettivi non
+BO094	enne e o
+BO094	d'accordo
+BO094	beh questo capite che il fatto
+BO094	che una formula possa essere
+BO094	eh equivalentemente espressa in una forma canonica
+BO094	è molto importante
+BO094	è importante perché
+BO094	eh se specialmente voglio ehm
+BO094	automi~ automatizzare eh che so io eh
+BO094	la ricerca di modelli di questa formula xxxxx genere
+BO094	eh avere prima io prendo in considerazione tutti quanti i quantificatori
+BO094	uno dopo l'altro
+BO094	va bene
+BO094	poi rimango solo a lavorare con i connettivi
+BO094	proposizionali in particolare per esempio solo quelli numerali va bene
+BO094	ecco e allora noi d'altra parte però abbiamo studiato
+BO094	tutta una serie di
+BO094	eh equivalenze logiche
+BO094	eh non so se nei foglietti ieri vi ho messo anche equivalenze logiche notevoli con i quantificatori
+BO094	no
+BO094	ecco allora questo forse è un'altra paginetta che dovrei aggiungere
+BO094	eh allora però attenzione io intanto ve le scrivo eh
+BO094	ve le scrivo
+BO094	e voi vedete che
+BO094	tutte queste equivalenze logiche che voi avete già studiato eh questo è un ripasso
+BO094	va bene
+BO094	e come dire vi semplicemente metto in evidenza un utilizzo di quelle equivalenze logiche va bene è solo un utilizzo di quelle equivalenze
+BO094	eh allora
+BO094	eh per esempio l'axx seguente
+BO094	oh
+BO094	che se noi abbiamo
+BO094	una eh un enunciato a
+BO094	che comincia con una negazione
+BO094	ed è seguito
+BO094	da un enunciato
+BO094	del tipo per ogni ics ci
+BO094	va bene
+BO094	questo voi sapete che è logicamente equivalente a
+BO094	esiste un ics tale che ci
+BO094	e allora vedete questa equivalenza logica mi serve a che co~ a portare
+BO094	a portare davanti i quantificatori
+BO094	li passo cos~ va bene piano piano li porto avanti va bene
+BO094	quindi ci sono se ho un non esiste un ics tale che ci questo è equivalente a per ogni ics non ci
+BO094	è vero che l'esistenziale diventa universale ma non è detto qui è un quantificatore portato prima del non
+BO094	capite
+BO094	oh andiamo avanti supponete di avere
+BO094	per ogni ics a
+BO094	e per ogni ics a
+BO094	e bi no quindi attenzione per ogni finisce qui eh quindi qui il connettivo principale è una e
+BO094	va bene
+BO094	eh questo è logicamente equivalente
+BO094	a per ogni ics a xx
+BO094	anche qui eh notate bene se voi fate
+BO094	l'albero di costruzione per questo enunciato
+BO094	eh questo è una congiunzione fra un universale e una formula qualsivoglia qui
+BO094	questa è invece l'enunciato quantificato io quantifico una congiunzione
+BO094	va bene
+BO094	oh
+BO094	il per ogni sulla e non mi crea problemi ecco se invece io ho per ogni ics a o bi
+BO094	eh allora questa è logicamente equivalente a per ogni ics a o bi attenzione
+BO094	purché
+BO094	ics non occorra
+BO094	quindi
+BO094	allora
+BO094	per fare in modo che questa condizione
+BO094	venga sempre soddisfatta
+BO094	io cosa faccio
+BO094	quando quello che di fatto voi fate sempre qundo prendete un enunciato xx a
+BO094	ogni quantificatore
+BO094	vincola una variabile diversa
+BO094	va bene
+BO094	in questo modo non avete mai problemi
+BO094	allora quindi allora anche qui vedete che il quantificatore universale è portato fuori va bene
+BO094	facciamo lo stesso col quantificatore esistenziale
+BO094	quindi se ho esiste un ics tale che a e bi
+BO094	questo è logicamente equivalente a esiste un ics tale che a e bi
+BO094	purché
+BO094	ics non occorra in b
+BO094	mentre esiste un ics tale che a o bi qui non aumento nessuna condizione
+BO094	è quivalente a esiste un ics tale che a
+BO094	quindi queste sono tutte equivalenze logiche che voi avete già dimostrato essere tali attraverso il calcolo dei sequenti
+BO094	va bene e ne avete fatte a bizzeffe di queste equivalenze
+BO094	la freccia che va in una direzione poi la freccia nell'altra x
+BO094	d'accordo
+BO094	ecco io sto semplicemente dicendo guardate che c'è un utilizzo significativo di queste equivalenze non sto dicendo altro
+BO094	e fra l'altro vi elenco una serie di equivalenze notevoli eh come abbiamo delle antologie notevoli poi vi metterò sul materiale didattico
+BO094	questo elenco di eh
+BO094	equivalenze logiche notevoli
+BO094	andiamo avanti allora ci è rimasto da considerare il l'implicazione
+BO094	allora supponiamo di avere
+BO094	esiste un ics tale che a implica bi
+BO094	questo sappiamo essere logicamente equivalente a per ogni ics
+BO094	a implica bi
+BO094	purché ics non compa~ purché ics non occorra
+BO094	in bi va bene
+BO094	quindi se avete un esistenziale sull'antecedente di un'implicazione lo portate davanti
+BO094	ma diventa universale
+BO094	va bene
+BO094	se avete invece un esistenziale
+BO094	se avete a implica esiste un ics tale che bi
+BO094	questo è logicamente equivalente a esiste un ics
+BO094	a implica bi
+BO094	purché e le condizioni ci vogliono sempre
+BO094	purché ics non occorra in a
+BO094	facciamo il duale come il quantificatore universale
+BO094	quindi se voi avete
+BO094	per ogni ics a implica bi
+BO094	questo è logicamente equivalente a esiste un ics tale che a implica bi
+BO094	di nuovo purché
+BO094	ics non occorra
+BO094	in bi
+BO094	quindi di nuovo darsi un antecedente un'implicazione un quantificatore si porta fuori
+BO094	ma si muta nel suo xx mentre la conseguente se avete a implica per ogni ics bi
+BO094	questo è logicamente equivalente a per ogni ics a implica
+BO094	purché
+BO094	ics non occorra
+BO094	in
+BO094	d'ccordo
+BO094	quindi vedete che noi abbiamo esaminato tutte le possibili combinazioni
+BO094	no
+BO094	quindi in ogni caso questi quantificatori possono essere portati fuori ora facciamo qualche esempio
+BO094	facciamo qualche esempio
+BO094	xx prendiamo qualsiasi cosa
+BO094	facciamo degli esempi molto facili eh
+BO094	guardate non mi viene in mente niente di meglio
+BO094	allora cominciamo dalle cose facili
+BO094	questo mi dice
+BO094	se tutti sono bi allora
+BO094	o esiste un ics che xx o esiste un ics tale che qu tale che qu o esiste un ics tale che erre
+BO094	potrebbe essere
+BO094	e xx se tutti sono numeri naturali
+BO094	allora
+BO094	eh esiste un numero pari oppure esiste un numero dispari
+BO094	va bene
+BO094	allora come procedo eh procedo nel modo ovvio
+BO094	posso scegliere praticamente
+BO094	eh qualsiasi quantificatore però iniziamo dai più ingenui
+BO094	allora qui ho
+BO094	eh questo quantificatore va bene che è dentro una o
+BO094	allora intanto io so che questo è logicamente equivalente a cosa a esiste un ics parentesi no momento invece qui è stato fatto un errore oh la la
+BO094	eh ah io predico bene e zappo male
+BO094	allora esiste un ipsilono esiste un xx eh xx uguali eh
+BO094	eh andavo subito nei guai capite
+BO094	eh xx xxxx
+BO094	allora
+BO094	la regola buona regola uno è che ogni quantificatore quantifica una variabile diversa
+BO094	eh anche se qui come dire mettete tutti gli ics quando poi non sapete più
+BO094	eh come gestire i quantificatori
+BO094	vedete io avevo qua xx un ics e qui xxx pasticcio enorme
+BO094	allora
+BO094	esiste un ipsilon
+BO094	tale che qu di ipsilon o esiste uno zeta xxx
+BO094	d'accordo
+BO094	questa abbiamo applicato ora non c'è più
+BO094	la regola che mi dice che un quantificatore all'interno di una xxxx può sempre essere portato fuori
+BO094	allora nuovamente posso portare fuori questo
+BO094	questo cosa viene fuori esiste un ics ora io lavoro su questo eh quindi esiste uno zeta mi definisce quello
+BO094	tale che
+BO094	qu di ipsilon o xx zeta
+BO094	ora cosa vogliamo fare
+BO094	vogliamo conviene lavorare un pochino anche su questo portiamo fuori
+BO094	questo universale
+BO094	dall'antecedente di una freccia
+BO094	e noi sappiamo diventa un esistenziale quindi ho esiste un'ics tale che se pi di ics allora esiste un ipsilon ed esiste uno zeta
+BO094	tale che qu di ipsilon o erre di ics
+BO094	andiamo ancora avanti
+BO094	e ora non mi rimane altro che portar fuori questi due quantificatori esistenziali dal conseguente dell'implicazione quindi non ho altro xx
+BO094	quindi è esiste un ics aperta parentesi esiste un ics ora è chiaro che
+BO094	questi io li porto gli faccio scavalcare la freccia
+BO094	quindi vado qui eh
+BO094	non scavalco qui va bene
+BO094	quindi esiste un'ics tale che diciamo che esiste un'ipsilon
+BO094	esiste un ipsilon parentesi
+BO094	di ics allora
+BO094	esiste uno zeta
+BO094	qu di ipsilon o erre di xx
+BO094	quindi manca solo da portar fuori questo quindi esiste un ics esiste un ipsilon esiste uno zeta
+BO094	tali che pi di ics allora
+BO094	allora
+BO094	qu di ipsilon o erre di zeta
+BO094	questa è la mia formula in forma
+BO094	prenessa
+BO094	perché io ho
+BO094	una stringa
+BO094	di quantificatori in questo caso tutti esistenziali perché è venuto così eh non è che ci avessi pensato o lo volessi fare
+BO094	va bene
+BO094	seguita da una formula
+BO094	in linguaggio erre zero
+BO094	però
+BO094	andiamo oltre se ora io vi dicessi si lo so però questa matrice queste xx xxxx fisso
+BO094	questa parte qui si chiama matrice
+BO094	dici sì però attenzione
+BO094	eh il connettivo se allora no non si riesce ad elaborare facilmente
+BO094	con un calcolatore
+BO094	come con le forze logiche le forze logiche riguardano no end e o
+BO094	e allroa qui voi cosa fareste
+BO094	semplicemente sotituite
+BO094	la parentesi quadra
+BO094	con un enunciato equivalente a questo
+BO094	che non contiene la freccia e qual è
+BO094	a voce alta
+???	avanti
+BO094	
+???	o che cosa
+BO094	
+BO094	bene
+BO094	ora però io mi trovo con
+BO094	questo o e all'interno della parentesi c'è un altro o
+BO094	per la proprietà associativa cosa posso fare
+BO094	togliere frensington
+BO094	eccolo
+BO094	questo ora capite
+BO094	è molto più gestibile da una macchina
+BO094	se io voglio fare per esempio deduzione automatica
+BO094	mi conviene molte volte oppure voglio capire se
+BO094	un enunciato è soddisfacibile o meno
+BO094	conviene prima
+BO094	metterlo in forma prenessa
+BO094	così io ho tutti i quantificatori qui
+BO094	va bene
+BO094	e poi ho una formula xxxx
+BO094	che è
+BO094	facilmente gestibile dalle forze logiche
+BO094	d'accordo
+BO094	eh allora diciamo così questo mi è servito per eh qui fare quest'elenco delle equivalenze notevoli
+BO094	equivalenze notevoli con quantificatori
+BO094	e indicare un possibile utilizzo
+BO094	eh
+BO094	forse possiamo permetterci anche un altro esercizio
+BO094	anzi possiamo fare così
+BO094	vi dò tre minuti di tempo vediamo di trovarne uno
+BO094	eh
+BO094	okay
+BO094	mettiamo questa in forma normale prenessa
+BO094	appena come antecendente una congiunzione va bene
+BO094	che mi implica questo questo c'ha già il quantificatore fuori vabbè
+BO094	quindi deve venir fuori un enunciato con tre quantificatori davanti e poi
+BO094	la formula del linguaggio elle zero
+BO094	e dopo la mettete anche in forma xx con xxx xx xx xxxx
+BO094	qualcuno ha già finito
+BO094	allo studente spagnolo dell'erasmus
+BO094	non c'è
+???	bene
+BO094	
+BO094	lei può applicare quello che vuole l'importante è che il risultato finale contenga solo i connettivi bureani
+???	not end or
+BO094	
+BO094	eh dev'essere logicamente equivalente certo
+BO094	cioè come dire quando lei anche qui
+BO094	cioè
+BO094	questa formula qui dentro la parentesi quadra
+???	è logicamente equivalente a questa cioè no è chiaro le trasformazioni si fatto tutte per equivalenza logica
+BO094	
+BO094	sì dipende dai casi
+BO094	ora vediamo non so vediamo in formule non so ma qui le indicazioni non ci sono xx
+BO094	allora
+BO094	eh lei
+BO094	ha fatto qualcosa no
+BO094	guardate son tutte regole che servono solo per portare fuori
+BO094	va bene
+BO094	allora cominciamo
+BO094	eh
+BO094	quale da quale quantificatore volete cominciare qui capite questi non sono quantificatori uno dentro l'altro praticamente son tutti qualificatori indipendenti no
+BO094	lei ha fatto
+BO094	sì
+BO094	allora venga su
+BO094	bene bene dai mettila a contatto laggiù
+BO094	ecco state attenti al vostro collega vada avanti vada avanti
+BO094	no no no assolutamente no ho detto a che devono stare attenti
+BO094	benissimo
+BO094	porti fuori quello guardate è un giochettino meccanico non pensate che sotto ci sia chissà quale cosa
+BO094	è solo questo spostare i simboli no
+BO094	benisismo fino a qui ci siamo
+BO094	poi venga qua vada da solo
+BO094	no va bene scriva di qua no non si preoccupi
+BO094	allora quale ha iniziato
+BO094	dall'ultimo dall'esiste zeta che è conseguente dell'implicazione benissimo perfetto
+BO094	xxxxx
+BO094	avanti qui sembra che c'è una xx da
+BO094	e poi questo ce lo riscriviamo
+BO094	oh aspetti lei però qui aveva per ogni
+BO094	vabbè
+BO094	bene xxxx
+BO094	lei ha portato questo fuori poi questo vabbè perfe~ sono passaggi abbastanza meccanici non c'è nulla di straordinario
+BO094	e ora arriviamo al problema della signorina
+BO094	sì applichi subito filone
+BO094	così arriviamo anche al problema che si faceva la signorina
+BO094	no lì va bene no no no fermo fermo fermo no no
+BO094	parentesi
+BO094	apro la parentesi
+BO094	bene
+BO094	perfetto
+BO094	allora d'accordo
+BO094	siete con noi fino a questo punto
+BO094	allora vedete che tutti i quantificatori sono sul davanti è un prefisso
+BO094	e qui abbiamo una formula numerale in cui compaiono solo connettivi not and or
+BO094	però la sua collega lassù molto raffinata ha detto sì però io ho questo non
+BO094	davanti a una e forse posso lavorarci ancora un pochino sopra
+BO094	e applico la legge di de morgan
+BO094	e ottengo vada avanti là xx lei intanto che scrivo il prefisso
+BO094	xxxx xxx
+BO094	vedete l'esigenza sentita dalla signorina è fondamentale va bene
+BO094	è fondamentale cioè grazie mille va tutto bene
+BO094	è fondamentale cioè l'esigenza di portare la negazione sugli a
+BO094	perché se io faccio così se io sono in grado di portare tutte le negazioni sugli atomi
+BO094	dopo di che che poi dopo di che io mi ritrovo eh degli enunciati di tipo enne zero che sono delle combinazioni solo
+BO094	combinazioni ottenute solo con enne e o di che cosa
+BO094	di atomi o negazioni di atomi
+BO094	e quelli che si chiamano ufficialmente in informatica letterali no
+BO094	quindi in qualche misura una volta che la negazione l'ho buttata
+BO094	eh sugli atomi me ne sono quasi liberata perché io ho gli atomi e la negazione degli atomi e poi combino con gli operatori end e o va bene
+BO094	allora
+BO094	eh
+BO094	voi eh
+BO094	avete una serie di tautologie notevoli
+BO094	che proprio vi dicono come fare per portare le negazioni sugli atomi
+BO094	din don din don quali sono
+BO094	lei ne ha già detta una a voce alta la dica de morgan è fondamentale va bene
+BO094	perché uno cosa fa
+BO094	prima con le leggi di filone e pisippo si sbarazza della delle implicazioni
+BO094	poi con de morgan le porta dentro
+BO094	quando poi ne ha due
+BO094	due di seguito
+BO094	le elimina perché non non ha equivalenze
+BO094	va bene
+BO094	quindi vedete che alla fine
+BO094	voglio dire eh
+BO094	questo nostro enunciato quassù
+BO094	va bene
+BO094	comincia a avere una forma molto più tra~ gestibile da una macchina
+BO094	c'è uno zeta tale che per ogni ics c'è un ipsilon tale che o ics non gode di pi o ipsilon non gode di erre oppure
+BO094	zeta gode di pi e zeta gode di erre
+BO094	d'accordo
+BO094	eh diciamo per una lettura umana questo non non non acqu~ aggiunge significato non aggiunge leggibilità
+BO094	però per una macchina
+BO094	è molto importante poter lavorare con delle strutture ben codificate va bene
+???	facciamo cinque minuti di intervallopoi riprendiamo
+???	io comunque ora le chiedo punto uno quello che ha spiegato ieri se ci sono le slides o cose tipo sai di base così so come recuperarlo punto due xxx

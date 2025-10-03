@@ -1,0 +1,1615 @@
+TOI011	((ride))
+???	((ride))
+TOR001	((ride))
+???	no no figurati adesso la cerchiamo ((ride))
+TOR001	xx
+???	sì ma di chi è:?
+???	c'era qualcosa che c'entra coi soldi penny,
+TOI011	[(cioè un nome che)],
+TOR001	pennywi[se penny::],
+TOR001	[ah diretta~ aspetta aspetta],
+TOI010	aspetta perché si apre (.) (as)petta arrivo.
+TOR001	(se clicchi sopra),
+TOI010	eh ma eh c'è la registrazione accesa.
+TOR001	>sì sì sì<.
+TOR001	no no ma stavo cercando la canzone (.) (as)petta (eh),
+???	arrivo.
+TOR001	c'entra penny.
+???	((ride)) (aspetta),
+TOR001	sixpence none the richer.
+TOR001	sì (.) fatto.
+TOR001	ma non: non mi ha detto mo~ tante (cose) dì più però (.) cioè non so chi siano vabbè comunque insomm(a),
+TOR001	okay,
+TOR001	allora,
+TOI010	avete domande prima di iniziare?
+TOI011	no.
+TOR001	no.
+TOI011	benissimo (.) che lavoro fate?
+TOI010	e::h sviluppatore software.
+TOR001	la stessa cosa.
+TOR001	mhmh.
+???	in [cosa consiste] in pratica?
+TOI010	[xxx]
+TOR001	programmiamo.
+TOI010	okay.
+TOI010	(in gene~) m:h creiamo:::,
+TOI010	qualcosa che non c'è.
+TOI010	o,
+TOI010	connettiamo cose::,
+TOI010	diverse tra di loro.
+TOI011	dell'informatica.
+TOR001	più pragmatica[mente:: siti internet e:h appli]cazioni: [e:h web] app e:h software di vario g[enere] eccetera eccetera.
+TOI010	[eh esatto perché io non ho idea di: cosa sia okay].
+TOR001	[sì].
+TOR001	[okay].
+TOR001	[okay].
+TOR001	quindi vi commissionano direttamente a voi qualcosa?
+TOI011	e poi lo fate vo:i o: ci sono intermedia:ri come funziona?
+TOI010	[beh dicia~]
+TOI010	[beh lavoran]do: l~ m:h u~ un po' lui l'intermediario cioè comunque noi altri colleghi noi:::,
+TOR001	(cioè) a volte capita anche sì di p[rendere d]irettamente,
+TOI010	[mhmh].
+TOR001	però:: sì di solito: (.) facciamo una riunione pri[ma e::] capiamo chi deve fare il lavoro come.
+TOR001	[okay].
+TOI010	okay.
+TOR001	e poi: lo si fa.
+TOI010	okay.
+TOR001	poi ogni tanto: (.) ci sono anche dei::: contatti diretti col cliente,
+TOI010	mhmh.
+TOR001	che cerchiamo di evitare,
+TOI011	((ride))
+TOI010	come la peste,
+TOI011	((ride))
+TOI011	però: sì in linea di massima sì.
+TOR001	la commessa viene presa dall'azienda e poi internamente si decid[e::],
+TOI011	[ok]ay.
+TOI010	chi fa cosa: in base a: capacità esperienza eccetera eccetera.
+TOR001	poi solo:: al:: cioè ti riferisci al momento attuale (.) [o::],
+TOI010	[per ade]sso sì (.) [poi dopo],
+TOR001	[okay (>va] bene<).
+TOR001	okay.
+TOR001	e quindi per esempio una cosa recente che avete fatto?
+TOI010	una app o un sito,
+TOI010	sì.
+TOR001	uno:: (.) un software gestionale per: condomini (.) e:h,
+TOR001	okay.
+TOI011	tutto [bene (aspetta)],
+???	[e::h] ((ride))
+TOR001	è caduto qualcosa ma non ho capito co~ [a:h è mio].
+???	[neanch'io].
+TOI010	okay.
+TOR001	sc[usa].
+???	[tutto a] posto?
+TOR001	tutto a posto.
+TOI011	((ride)) no figurati (.) [scusa mi dicevi]?
+TOI010	[un: software dic]ev(a) per: condomini sì [e::],
+TOI011	[sì anche se],
+TOI010	e io un [sof]tware e:h per l'insegnamento della: musica::,
+TOI011	[e~],
+TOI010	m:h [cosa:],
+TOI011	[delle scuole] medie.
+TOR001	sc~ delle scuole medie sì.
+TOR001	okay.
+TOI011	e quindi in pratica (cosa) facevano questi due cioè: (.) in cosa consisteva il software per l'insegnamento della musica?
+TOR001	software per l'insegnamento della musica:: (mh) essenzialmente è un programma che funziona su: su pc e su [mac],
+TOI011	[okay].
+TOR001	e::: dove ci sono degli spartiti ci sono delle canzoni e:: diciamo si si si si fanno partire queste queste tracc[e],
+TOI011	[mh]mh.
+TOR001	c'è una modalità di ascolto per cui dove: essenzialmente si si ascolta la traccia [in v]ersione:: come se fosse suonata,
+TOI011	[mhmh].
+TOI011	e: (.) e poi (c'è) invece una modalità di apprendimento dove:: diciamo a supporto di questa cosa c'è::,
+TOI011	la visualizzazione dello strumento per cui,
+TOR001	lo studente diciamo: ripete,
+TOI011	ok[ay].
+TOR001	[pig]iando: sui:: sui tasti del flauto la chitarra e la: e la pianola e la tastiera,
+TOI011	mhmh.
+TOR001	e::h diciamo ripete quello che vede sullo schermo (.) e di conseguenza impara:,
+TOR001	mhmh.
+TOI010	okay (.) invece tu dicevi? un'applicazione per?
+TOI010	sì.
+TOI010	un::(o) che m::h ho sviluppato in realtà è stata sviluppata inizialmente da una supervisione e da un::
+TOR001	un programmatore junior (.) [poi son] subentrato io per fare: delle altre: funzioni: (.) più avanzate,
+TOR001	[mhmh].
+TOI010	mhmh.
+TOI010	eh l~ (.) non è proprio uno: un software di gestione diciamo,
+TOR001	m:h condominiale classica no in realtà serve a:gli amministratori di condomi[nio per g]estire: (.) gli interventi di manutenzio[ne].
+TOR001	[mhmh].
+TOI010	[ah o]kay.
+TOI010	e:::m::h quindi,
+TOR001	e xx permette di essere:: di poter essere usato da più amministratori di condomini,
+TOI010	mhmh.
+TOR001	coordinati da (.) un: cosiddetto call center (.) [] e:: che,
+TOI010	[mhmh].
+TOI010	praticamente prende:: prende i guasti,
+TOR001	dai condomini che chiama[no (.) e] <poi li smista> ai vari::,
+TOI010	[okay].
+TOR001	ai vari amministratori di condominio che fanno parte della piattaforma (.) [che a] loro volta poi li assegnano ai vari fornitor[i::],
+TOR001	[mhmh].
+TOI010	[o]kay.
+TOR001	della::=mh ai:: insomma: (.) [tecnici che] poi (.) faranno,
+TOI010	[xx]
+TOR001	è stata xxrata con un::: con telegram,
+TOI010	mhmh.
+TOI010	che è la parte che maggiormante ho sviluppato io che: (.) diffonde::,
+TOR001	e comunica le notifiche non solo tramite mail ma anche: (.) [] con telegram.
+TOR001	[okay].
+TOR001	okay (.) perfetto.
+TOI010	(allora) da quanto tempo fate questo lavoro?
+TOR001	e::h vent'anni (.) credo ((ride)) [o]kay.
+???	[okay] ((ride))
+TOR001	in questa società o in assoluto?
+TOI010	no in assoluto.
+TOI011	s:ì (.) più o meno vent'anni.
+TOI011	bah no eh sì vent'anni io::,
+???	da qua~ da quant'è che lavoro in (.) cinque?
+TOI011	duemila:=e=tre.
+???	no duemila=e=tredici.
+???	tredici scusami sì.
+TOR001	((ride))
+TOI010	((ride))
+TOI011	xx duemila=e=tredici,
+TOR001	quindi ci:nque più un paio d'anni prima sei se~ sette [ti direi].
+TOR001	[oka]y.
+TOR001	va bene.
+TOI010	ehm:: lavorate in proprio o siete dipendenti?
+TOI011	co[me]?
+TOR001	[(sì siamo)],
+TOI010	[lavora]te in proprio o siete dipendenti?
+TOI011	[adesso siamo dipende]nti.
+TOR001	[(siamo dipendenti)].
+TOI010	ok[ay].
+TOR001	[x].
+TOI010	avete sempre fatto lo stesso lavoro?
+TOI010	no.
+TOR001	cioè (.) n:on nella stessa maniera.
+TOI010	okay.
+TOR001	però no anche: ho fatto anche lavori diversi.
+TOI010	tipo?
+TOR001	e:: lavorato:: in:: (mh) cioè (.) ho sempre fatto questo lavoro,
+TOI010	mhmh.
+TOI010	e:: ho avuto un:: u::n dove l'ho fatto un po',
+TOR001	per: delle società:: da dipendente o società private [poi mi sono] messo in proprio per:,
+TOI010	[mhmh].
+TOR001	(un:) otto anni (.) e mentre ero in proprio ho lavorato anche per apple do[ve::],
+TOI010	[(okay)].
+TOI010	ho fatto: tutt'altro cioè io mi sono occupato di:: di siri di::,
+TOR001	(un) (.) sempre:: insomma sempre informatica ma: un: tutto un altro genere di:: (.) di occupazione (e) di mansione.
+TOR001	[mhmh].
+TOR001	okay.
+TOI011	tu invece?
+TOI011	io ho fatto:: (.) anche altro,
+TOI011	m::h sempre: lavore:tti diciamo o cose da da weekend o::
+TOR001	comunque m:h diciamo (.) non non: per periodi prolunga[ti],
+TOI011	[mh]mh
+TOR001	ho:: (.) penso che il mio primo lavoro in assoluto sia stato il bagnino,
+TOI011	o[kay] ((ride))
+TOI010	[(ho) il brevetto da bagnino per cui ho] lavorato in un albergo e: facevo il bagnino nella piscina,
+TOI011	ah io per un amministratore di condominio inve:ce ((ride))
+TOI011	e::m::h e poi ho lavorato: invece:,
+TOR001	mh sì almeno tre anni nei weekend come:: barista (.) [] poi cameriere,
+TOI011	[mhmh].
+TOR001	e:: e poi:: (.) poi ho iniziato a fare [quello che] (faccio) adesso.
+TOI010	[okay].
+TOR001	è vero anch'io per un:: (.) un ann~ n~ netto e mezzo ero s~ (andavo) da barista (.) (o) mentre facevo il programmatore solo nel weekend (mi sa).
+TOR001	((ride)) okay.
+TOI010	ehm:: ti piacerebbe (.) anzi vi piacerebbe andare avanti a far sempre lo stesso lavoro oppure vi piacerebbe cambiare?
+TOI010	m:::h per me: mi piacerebbe: mi piace l'informatica:: probabilmente sono un po' logoro della mansione: del:,
+TOR001	(mi) piacerebbe:: insomma evolvermi [sì].
+TOR001	[mh]m.
+TOI010	[e quindi]?
+TOI010	[quindi] così:: (.) no poi anche perché credo:: cioè che in realtà ormai (sl~) il::,
+TOI010	cioè il ruolo dell'impegato,
+TOR001	sia del tutto:: cioè ormai (è) simile a quello dell'operaio però solamente: insomma in un nuovo contesto tecnologico [ma di f]atto,
+TOI010	[mhmh].
+TOR001	diciamo che ormai i rapporti e:: il tipo di lavoro sta diventando esattamente quello.
+TOI010	mhmh.
+TOI010	m::h seriale: con::,
+TOR001	insomma:: d:ella responsabilità che magari non ti compete nemmeno,
+TOI010	mhmh.
+TOI010	e: reperibilità: da ospedale: appunto: (.) cioè (.) ovviamente,
+???	(cosa? (.) [no vabbè ade~])
+TOI010	[un po' esagerato non è che xxx] ((ride))
+TOR001	[adesso esa~ no vabbè (ma perché) io mi baso mi ba]so anche sul passato ovviamente adesso non è più così [però qua]ndo,
+TOR001	) ((ride))
+TOI010	[mhmh].
+TOI010	avevo la partita iva sì cioè::,
+TOI010	il numero di telefono in mano ai:: ai clienti e ti chiamavano a qualsiasi orario pensando che tu s~ fossi,
+TOI010	responsabile::,
+TOR001	cioè acca ventiquattro di qualsiasi cosa tu avessi fatto [cioè] (.) neanche un dottore.
+TOR001	[mh mhmh].
+TOI010	cer[to].
+TOR001	[cioè i] dottori sabato e domenica non lavorano io:: a volte lavoravo (.) [(cioè)].
+TOR001	[mh mh]mh:.
+TOI010	e quindi t~ cioè ti piacerebbe andare avanti a far lo stesso lavoro ma: diciamo,
+TOR001	[e::::] cambiando: più tutelat[o:] cioè nel,
+TOR001	[cambiando::],
+TOI010	[mh].
+TOR001	d~ allor adesso la situazione in realtà è migliorata da quando:: da da prima.
+TOI010	mhmh.
+TOR001	però: diciamo che:: mi piacerebbe cambiare:: mansione [nella:],
+TOI010	[okay].
+TOR001	o ruolo ne~ all'interno di quell[o:: d]ello stesso settore.
+TOR001	[okay].
+TOI011	okay (.) tu invece?
+TOI011	ma allora ti dico anch'io: tendenzialmente::,
+TOR001	cioè (.) vorrei rimanere in questo ambito qu[a],
+TOI011	[mh]mh.
+TOI011	e: poi il discorso è che comunque cioè m:h lo sviluppo software l'informatica è una cosa enorme e ta~ e tante,
+TOR001	e: diciamo tanti lavori e tante mansioni stanno venendo fuori adesso cioè [tanti spe]cializzazioni sono cose,
+TOI011	[mhmh].
+TOI011	cose che non esistevano.
+TOI011	per cui:: m:h (.) tendenzialmente:: mh s~,
+TOR001	probabilmente mi piacerebbe specializzarmi in un qualcos[a:::]:::,
+TOI011	[mhmh].
+TOR001	specifico verticale,
+TOI011	mhmh.
+TOR001	poi non lo so (.) se sarà così però (io ti dico solo:) [tendenzialmen]te questo è,
+TOI011	[mhmh:].
+TOI011	e sicuramente: mi piacerebbe avere una:::,
+TOR001	cioè u~ un percorso di crescita che (.) che mi porti ad av~ ad essere una figura più di coordinamento magari e un [po' meno],
+TOI011	[mhmh].
+TOI011	e:::hm:: cioè,
+TOR001	di di realizzazi[one::] pratica delle cose.
+TOR001	[mhmhmh].
+TOI011	okay.
+TOR001	però: in linea di massima comunqu[e:: (son] felice) sì.
+TOR001	[okay].
+TOI011	per cui anche tu comunque rimanendo sempre nell'ambi[to]?
+TOR001	[ass]olutamente sì >°sì sì sì°<.
+TOI010	ehm:: pensate che torino sia un buon posto per lavorare?
+TOI010	eh bella domanda.
+TOI010	potrebbe esserlo (.) nel senso che:::,
+TOI010	(in:) in questo momento qui:: secondo me:: non tanto.
+TOI010	perché::: c'è: il solito:: discorso insomma,
+TOI010	quello che vedo io è molto:: molta stanchezza molto:,
+TOR001	m:h c'è po~ anche poca aggressività nel:: nel nel settore no [cioè s]i: m:h,
+TOI010	[mhmh].
+TOR001	cioè si lavoricchia (.) ec[co] (.) però e soprattutto (.) c'è::,
+TOI010	[mhmh].
+TOI010	molta poca specializzazione in questa cosa qua (.) cioè:: mh io,
+TOI010	m::h personalmente no: ho passato anche queste fasi qui nel senso che sono,
+TOI010	cresciuto (.) e:ro il pivello che faceva queste cose qui le facevo male,
+TOI010	adesso (.) mi~ (.) credo di farle un po' meglio,
+TOR001	però noto che comunque è questa la tendenza.
+TOI010	[mhmh].
+TOI010	[cioè],
+TOI010	io ho fatto:: anche qualche esperienza fuori,
+TOI010	e:: quello che vedi cioè è proprio u~ u~ u:::~,
+TOI010	insomma un salto: pazzesco no cioè (.) tra:::,
+TOR001	cioè magari tra come: m::h lavorano quei miei stessi colle[ghi],
+TOI010	[mh]mh.
+TOI010	e: invece: altrove cioè quello che vedo io è molto::,
+TOR001	e::hm un se~ un settore amatoriale (.) [non so],
+TOI010	[oka]y.
+TOR001	poi (.) sempre sull'eco di quello che arriva dall'estero no?
+TOI010	mh[m:h].
+TOI010	[le nuov]e cose che arri:vano sì le mettono in pratica xx (.) ma,
+TOR001	cioè sono sempre di seconda mano.
+TOI010	okay.
+TOI010	e (.) cioè dico che potrebbe esserlo perché,
+TOR001	m:::h cioè anche parlando con molte persone c'è (.) la creatività (.) [ci] sono le idee,
+TOI010	[mhmh].
+TOI010	però poi:: spesso si:: si cioè: m:h si riducono,
+TOR001	o all'apertura di una società che fallisce (.) entro pochissimo,
+TOI010	mhmh.
+TOR001	mh fatta:: insomma in una maniera un po:' sempre amatorial[e],
+TOI010	[mh]mh.
+TOR001	senza una una visione di prospettiva no?
+TOI010	[mhmh [mhmh].
+TOR001	[senza un bu]siness model che poi: possa avere:: non so magari un seguito,
+TOI010	mh okay.
+TOR001	e:: oppure insomma magari semplicemente mancanza di sold[i:],
+TOI010	[mhmh] mh.
+TOR001	o mancanza delle persone giuste che facciano andare avanti la cosa.
+TOI010	okay.
+TOI010	e anche,
+TOR001	la mancanza di (.) ovviamente investitori che [ci metta]no:,
+TOR001	[okay].
+TOI010	mhmh [mhmh].
+TOR001	[dei sold]i sopra.
+TOI011	soldi ((ride))
+TOR001	bah non so io forse sono un po' meno tragico diciamo: su questa: da questo punto di vista (.) nel senso che:: allora,
+TOI011	((ride))
+TOI011	m:h in generale torino come: come città mi piace molto,
+TOR001	e:: mi ci trovo bene (.) parlando per la mia esperienza [personal]e:,
+TOI011	[mhmh mh].
+TOI011	m::h sono comodo ma,
+TOR001	perché banalmente sono comodo nel posto di lavoro [dove a]bito: e: insomma e: e quindi diciamo che,
+TOR001	[mhmh].
+TOR001	((ride))
+TOI011	certo.
+TOI011	e:: e e essendo (.) comunque diciamo tendenzialmente una città un pochino più a misura: d'uomo rispetto ad altre città,
+TOR001	io (.) non mi trovo male.
+TOI011	mhmh [mh].
+TOI011	[e::] questa cosa che dice mattia è vera nel senso che,
+TOI011	e:::h,
+TOI011	torino (.) mh i~ in tante cose: rincorre un po' le altre (.) nello specifico milano.
+TOI011	anche da un punto di vista della tecnologia diciamo che milano è proprio (lab)
+TOR001	d[ove crescono] le cose e dove ci sono:: diciamo le aziende:,
+TOI011	[mh mhmh].
+TOR001	che fanno innovazione e che [fanno cose:] un po' più fighe.
+TOI011	[mhmh].
+TOI011	poi anche qua ci sono un sacco di realtà: questa cosa,
+TOI011	m::h diciamo,
+TOR001	la (.) questa differe:nza territoriale è anche un po' abbattuta dal discorso che comunque noi facciamo un lavoro che: non è,
+TOI011	cert[o].
+TOI010	[per] forza: [legato o localizza]to no?
+TOI011	[localizzato xx].
+TOI011	e:::,
+TOI011	e quindi::: sì (.) m::h probabilmente ecco nei confronti di milano,
+TOR001	e: il discorso è semplicemente una è una città più a misura d'uomo,
+TOI011	mhmh.
+TOI011	torino ovviamente dove:: gli stipendi sono più bassi però ovviamente la vita costa di meno,
+TOR001	e:: <di là ci sono probabilmente più> e::: un po' più di opportunità,
+TOI011	mh[m].
+TOR001	[per]ché: appunto: l~ lì c'è fermento dal punto di vista del digitale del:,
+TOI011	mhmh.
+TOI011	di quello che facciamo noi,
+TOI011	dopodiché è un altro genere di città co:n (.) stipendi più alti ma anche con un costo della vita diverso.
+TOR001	e in linea di massima:: (.) n~ non mi lamento di[ciamo].
+TOI010	[ok]ay.
+TOI010	quindi la soluzione=è?
+TOI011	xxx.
+TOR001	quindi la soluzione è xxarsi (.) esatto.
+TOR001	((ride))
+TOR001	ehm:: (.) e appunto pensate sarebbe meglio lavorare altrove?
+TOR001	cioè:,
+TOI010	detto questo riguardo a torino pensate che ci siano posti (.) in cui sarebbe meglio?
+TOR001	adesso dico una cosa che probabilmente:: cioè l'avrai già sentito da mi[lle vol]te però,
+TOI010	[mh].
+TOR001	cioè è sempre: u~ un rapporto di amore e odio [no]?
+TOI010	[mhmh].
+TOI010	nel senso che io::: più volte ormai cioè ho capito che,
+TOI010	dopo:: aver vissuto per trent'anni più di trent'anni qui:,
+TOR001	n:on è che:: disprezzi torino però semplicemente:: boh mi son stufato.
+TOI010	mhmh.
+TOI010	(e) io in realtà adesso:: ho deciso di metterci radici qui per vari motivi,
+TOI010	però:: cioè (dentro) di me:: non nascondo che ho sempre questa:: (.) cioè questa sensazione di,
+TOI010	non so cioè di probabilmente di: dover essere altrove.
+TOI010	con:: tutti i dubbi e:: le cose che::,
+TOI010	insomma che ti porti dietro però::,
+TOI010	e:: secondo me:: cioè siamo anche una generazione che secondo me si è fossilizzata:: tantissimo anche con::
+TOR001	cioè noi siamo i fi:gli dei migranti che ormai hanno trovato il posto dove star[e no]?
+TOI010	[mhmh] mhmh.
+TOI010	e quindi (.) n:on abbiamo più: (.) tanto la spinta e la fame di dire,
+TOR001	vado a cercare la f[ortuna altr]ove.
+TOI010	[mhmh mh].
+TOI010	perché: siamo:: (.) in una situ~ m:h in una situazione ambigua in cui,
+TOR001	non abbiamo così tanta fa:me ma non stiamo neanche così tan[to bene no]?
+TOI010	[mh mhmh].
+TOR001	e viviamo questo limbo (.) di:: di mezzo in cui n::on sappiamo cosa f[are].
+TOI010	[mh]m.
+TOR001	e quindi:: cioè s~ lo penso:: ma sono ancora qui.
+TOR001	okay ((ride))
+TOI011	secondo te?
+TOR001	vabbè no aspetta d~ co~ com'era la doma[nda]?
+TOI011	[la doma]nda era detto questo riguardo a torino ci[oè quello che] abbiam detto fino a adesso,
+TOR001	[(sì eh)],
+TOI011	pensi che sarebbe meglio lavorare altrove:? o ci sono luoghi in cui pensi sarebbe meglio?
+TOI011	ma e:: la mia considerazione è strettamente personale nel senso che io sono venuto a torino,
+TOI011	per::,
+TOR001	per fare l'università (.) che poi non ho finito al[trimenti non saremmo qua],
+???	[mhmh] ((ride))
+TOI011	((ride))
+TOI011	e::hm:::,
+TOR001	e quindi:: per me: cioè nel senso non è casa mia.
+TOI011	mhmh.
+TOR001	[m::h] io sono: n~ nato e cresciuto in un altro posto che non è una città: [con::] diciamo tutte le altre logiche,
+TOI011	[mhmh].
+TOI011	e:::,
+TOR001	tendenzialmente a me pe~ (.) piacerebbe o comunque sono nel processo di,
+TOI011	((ride))
+TOR001	e:: di tornare::: dalle mie parti (.) [mettiamo]la così.
+TOI011	[okay].
+TOI011	e:: tutto da definire tutto:: da capire esattamente come però:,
+TOR001	no~ non mi vedo:: [non mi] vedo: diciamo m::h as~ mh stabilito qua.
+TOR001	[okay].
+TOI011	okay.
+TOI011	anche perché tra un: tra una cosa e l'altra: io: appunto ho iniziato: cioè sono venuto qua per l'università nel duemila=e=cinque,
+TOR001	siamo [nel duemila=e]=diciotto,
+TOR001	[mh].
+TOI011	((ride))
+TOI011	e è un è po' vero quello che dice mattia cioè,
+TOR001	m~ mi ha stufato un po' ma no~ non: per per torino in sè [ma è prop]rio una questione di:
+TOI011	[mhmh].
+TOR001	sai di cambiame:nto (perché) dopo un po' dici vabbò nel senso [quello che] mi doveva dare::: me l'ha dato [e (.) e::] e quindi boh.
+TOR001	[certo].
+TOI011	[mhmh mhmh mhmh].
+TOR001	probabilmente mi piacerebbe: [mi piace]rebbe ritornare:,
+TOI011	[okay].
+TOR001	(dalle mie parti) di[ciamo].
+TOR001	[okay].
+TOI011	quindi comunque idealmente la vedi come una parentesi cio[è::: potendo:] (.) okay.
+TOI011	[sì assolutamente sì].
+TOR001	sì.
+TOR001	ehm::,
+TOI010	avete mai vissuto fuori torino?
+TOR001	sì.
+TOI010	okay.
+TOI010	e::hm::,
+TOI010	un t~ nella:: cioè nella mia esperienza cioè tu vi~ intendi vissuto: per:: motivi di lavoro?
+TOR001	o: perché: (abbia[mo:]),
+TOI010	[sì] o:: sì.
+TOI010	ma io ho vissuto: un po' in giro per un:: paio d'anni quando appunto ho lavorato per apple perché mi facevano girare un po',
+TOR001	ho vissuto un annetto in california qual[che me]se:::,
+TOI010	[ah].
+TOI010	ma,
+TOR001	tipo cinque o sei mesi a parigi adesso non [mi ricordo] neanche più,
+TOI010	[mhmh].
+TOR001	e::: e poco di meno:: (.) no molto di meno un n~ neanche un mese invece in: in irlanda.
+TOI010	mhmh.
+TOI010	quindi diciamo che (.) comunque,
+TOI010	(cioè) non è stato ovviamente un periodo::: cioè lunghissimo no? cioè però mi ha consentito (.) cioè di (.) essere lì,
+TOR001	non da:: turista.
+TOI010	mhmh mh.
+TOR001	(vai) lì con (.) una casa un lavoro:: [un:] anche una macchina delle volte,
+TOI010	[(certo)].
+TOI010	cioè quindi (.) cioè,
+TOR001	mi hanno proprio trapiantato m~ momentaneamente da un'altra parte no? [cioè quindi avevo] proprio,
+TOR001	((ride))
+TOI010	[mhmh].
+TOI010	nel:: ed è incredibile come,
+TOR001	tu prendi una routin:e in frettissima cioè [una volta] che hai un lavoro e sei:,
+TOR001	[mhmh].
+TOI010	°eh sì certo°.
+TOR001	non x m:h ci metti un po' ad adattarti però in realtà hai già diciamo tutto il percorso già fatto.
+TOI010	mh[mh].
+TOI010	[e q]uindi (.) (io),
+TOR001	vivevo::: vivevo lì con: anche: a volte la noia del caso no [nonostante::],
+TOI010	[mhmh mh].
+TOR001	e:: (.) e (.) ovviamente tutte le cose nuove che: che potevi vedere.
+TOI010	e come ti sei trovato?
+TOI010	eh molto bene (.) se non altro perché:: cioè comunque,
+TOI010	quello che io: ho notato più volte è che (.) un nuovo stimolo,
+TOI010	passata diciamo magari anche il timore iniziale,
+TOR001	in realtà t~ cioè ti mette in moto moto: una cosa: in testa che:: [xx] non pensavi nemmeno di avere,
+TOI010	[mhmh mh].
+TOI010	e: (.) ti sorprendi come magari poi cioè ti:: anche nel~ nelle sfide quotidiane::,
+TOR001	(lo devi fa:re cioè) perché devi [vivere no]? ((ride))
+TOI010	[certo] ((ride))
+TOI010	cioè io non: (.) sono andato: in f~ quando ero in francia io non sapevo il francese però::,
+TOI010	(l')ho dovuto fare (cioè) la eh
+TOR001	la spesa la dovevo fa:re: dovevo comunicare comunque un po' con la gente (.) e alla fine mi sono arrangiato.
+TOR001	certo.
+???	[e in ir]landa e california dove sei stato?
+TOI010	[eh].
+TOR001	in: california a cupertino e san fran[cisco],
+TOI010	[mh (o)kay].
+TOR001	e::hm: io vivevo: diciamo nella: south bay però: comunque mi spostavo tantissi[mo],
+TOI010	[m]hmh.
+TOR001	cioè e~ ero spesso a san francisco (.) anche se il lavoro in realtà è a couper[tino come:] dove c'era la sede principale,
+TOI010	[mhmh].
+TOR001	e::hm: che è praticamente aperta campagna però con::,
+TOI010	((ride))
+TOR001	cioè un po' un:a specie di (pescarito) per[ò:: con queste mega] società e::,
+TOI010	((ride)) [(okay)].
+TOR001	e ristoranti a mai finire xx (.) [(comunque) una cos]a che non manca mai è un: posto aperto dove mangiare.
+TOR001	[mhmh mh].
+TOR001	((ride))
+TOI010	okay.
+TOR001	e:: mentre invece: in irlanda ero a cork.
+TOI010	(okay) [bella cork].
+TOI010	[che è:: a su]d,
+TOI010	sì è: un:: è una come c(io)è (.) infatti la definiscono:: il la la più b:ella pi~ cioè la:: mh,
+TOI010	la più bella piccola città del mondo.
+TOR001	[(no)].
+???	è molto (a me era) piaciuta un sacco.
+TOI010	chi cork? io in[vece lo] ricordo come un posto orrendo.
+TOR001	[sì].
+TOI010	e a [me forse un] po' piacciono (quei postiun po') xxx ((ride))
+???	[no a me pia(ce)].
+TOI010	[xxx]
+TOR001	[cioè pensa pensa che: (.) dicono (che) è la seconda città più gros]sa:: del: dell'irlanda cioè ((ride)) una [è dublino (cioè)].
+TOI010	[è un buco] madonna.
+TOR001	sì è un buco che ti giri: in due ore (.) per[ò: i]nsomma un:: un centro città cari:[no no:]? sì sì sì anch'io.
+TOR001	[sì].
+TOI010	[cari:no].
+TOR001	e:: mh non so una mia collega c'è stata lì per un anno dice okay,
+TOI010	va [be:ne eh sì sì ((ride)) sì ((ride)) forse xxx],
+TOR001	[va be:ne e poi dopo un po' ti spari a:nche però ((ride)) no anche perché poi a]nche la la solita movida insomma dopo che e[sci],
+TOI010	[cer]to.
+TOR001	i posti li conosce:vi:,
+TOI010	sì si piccolina
+TOI010	guarda pensare è talmente piccola che io appena sono arrivato,
+TOR001	dopo:: quattro ore ho incontrato nel: nel cortile del:: m:h (.) del mio hote[l],
+TOI010	[m]hm.
+TOR001	un mio compagno di classe (.) che viveva lì.
+TOI010	((ride)) a cork? ((ride))
+TOR001	((ride)) a cork ((ride))
+TOR001	a me era piaciuta un sacco anche perché <sai boh magari> rispetto a dublino magari che è::
+TOI010	boh (.) la classica capitale europea tutto sommato,
+TOR001	mhmh.
+TOI010	cork: boh mi dava più l'idea di un posto:: reale non so come di[re].
+TOR001	[sì]?
+TOI010	(mah) insom~ [beh io son stata tre giorni eh quindi],
+TOR001	[(°xxx°)]
+TOI010	no[n ho avut]o la ((ride)) la (sensazio[ne di::]),
+TOI010	[(però)],
+TOI010	[una cosa che mi so]rprende anche comunque del:: m:h cioè anche c~ m:h,
+TOI010	sia un po' del:: della california che della:: del non so la: la francia perché non ci sono mai stato in c~ però nelle campagne no questi paesi qui,
+TOR001	perché poi alla fine cork (.) [per noi è come (.) è] un paese,
+TOI010	[è un paese (.) sì].
+TOR001	e:: non sono uguali ai nostri pae~ cioè i nostri paesi son proprio pae[si],
+TOI010	[mh]mh.
+TOR001	cioè (.) non c'è niente (.) lì invece cork [per esempio],
+TOI010	[(un sac]co sì).
+TOI010	o anche magari nelle piccole città californiane in pochissimo magari c'hai::,
+TOI010	un un sacco di negozi un sacco di vita che magari poi è (.) delimitata,
+TOR001	a quattro isola[ti però (.) c]i son[o].
+???	[mhmh mh].
+TOI010	[pe]rò intorno non c'è un ca:zzo (pro:prio e quindi de[vi fare) ancora::],
+???	[eh beh ma nei paesi non] c'è: proprio:: u~ [u:n],
+TOI010	[vabbè] xx (quando) c'è un paese,
+???	cioè io magari anche x,
+TOI010	[voglio] vedere quanti abitanti fa adesso cork.
+???	m:: [(medio)].
+TOI010	[(f)arà cen]tomi:la d[ai].
+???	[no:] no di più: (.) secondo me di più.
+TOI011	dire:: città come: de~ dell'emilia:: reggio emilia non è che c'è nie:nte den[tro].
+TOI010	ah beh sticazzi quindi pic[cola xx (piccola)].
+TOR001	[no ma cork >no no< ma cork è: (c'è eh no (.) eh)].
+TOI010	[no no (.) è piccolissima però c]omunque,
+???	e intorno sì c'è: [il nulla].
+TOI010	[centodici]annove.
+TOR001	(cioè) (.) pensa che addirittura [vengono],
+TOI011	[ah già che tu se]i fissato con: le popola[zioni x] ((ride))
+TOI010	[sì sì sì].
+TOR001	cioè (.) l~ la sera venivano dalle città vici:ne a cork per fare serata [no da:: limerick cosa c'è xx cosa],
+???	[eh sì beh anche perché intorno (.) eh sì (infatti)].
+TOR001	centodiciannove ti direi come parma.
+???	(ma) come pa:r[ma] ((ride))
+TOI010	[(vediamo) parma].
+???	[a centodiciannove] cos'è a:sti forse?
+TOI011	ma a[sti me::no xxx],
+TOR001	[no:: no xxx] (.) parma ne ha di più.
+???	[meno].
+TOR001	centonovantacinque.
+???	((ride))
+TOI010	((ride))
+???	quanti?
+TOR001	centonovantacinque. mantova
+???	(adesso va a) a tentati:vi.
+TOR001	eh beh certo come,
+???	((ride))
+TOR001	xxx [xxx]?
+???	[no no x] adesso sono appassionata quanti ne ha mantova?
+???	((tossisce))
+TOI010	quarantanove.
+TOI011	quaran[tanove]?
+???	[quarantano]ve (.) e ba[sta].
+TOI010	[quarantano]ve xx.
+TOR001	ma [scusa ma c'ha più::],
+TOI010	[cioè ha meno abitant]i di rho:?
+???	ma s[cusa ma xxo]?
+TOI010	[sai quanti] capoluoghi fanno meno di cinquantamila abita[(nti)]?
+???	[ma al]camo:: in sicilia ha più abitan[ti] (.) ((ride)) ma sì alcamo penso che f[accia],
+TOR001	[(i::a)],
+TOI011	((ride))
+???	[m:h xx sessanta].
+TOR001	[alcamo].
+TOI010	((ride)) [alcamo]
+TOR001	[no allora] (ehm) sì m:h (.) di più ne ha.
+TOI010	((ride))
+TOR001	di sicuro.
+TOI010	e in california sei riuscito a girare? o: lavorando::,
+???	s:ì no vabbè non tantissimo come volevo però sì quanto?
+TOI010	quarantacinque.
+TOR001	e:h infat[ti cioè vacca (.) è come man]tova (.) no sì ho girato vabbè san fra~ tu~ tutta la:: in realtà la:: m:h la baia,
+TOR001	[vedi]? ((ride))
+TOI010	mhmh.
+TOI010	che in realtà è molto grande perché (.) poi fa è uno:: m:h,
+TOI010	è:: praticamente uno stabilimento urbano:::,
+TOR001	a sè no?
+TOI010	mhmh.
+TOR001	e:: e infatti si chiama mh cioè (.) viene identificato proprio come:: baia [e] (.) in realtà,
+TOI010	[mhmh].
+TOR001	in california non è che sia così tanto: comunque: cioè che ci sia questa grossa densità di popolazione cioè (.) [ne~ nella baia],
+TOI010	[mhmh mh (.) eh sì].
+TOR001	(in) tutta la la parte d[i:: s]an francisco fino: a: (.) [san josè],
+???	[mhmh].
+TOR001	[°scusa°].
+TOI010	mhmh.
+TOI010	è: abbastanza piena cioè passi (.) continuamente da un: da un paese all'altro.
+???	dove poi ci sono appunto tutti [questi] colossi::,
+TOI010	[savona]
+TOR001	molto: molto di san francisco soprattutto all'inizio nella parte:: sud (.) [] e: m:h città dormitorio.
+TOR001	[mhmh].
+TOI010	mhmh.
+TOI010	ed è (.) anche perché comunque:: proprio san francisco (.) dentro,
+TOR001	è abbastanza inarrivabile come: prezzi [sia delle ca]se che affitti:,
+TOR001	[mhmh].
+TOI010	mhmh mhmh mh.
+TOI010	(>mi ha<) giusto detto::=un::,
+TOR001	un mio: colle[ga che viv]e lì che ha appena comprato casa,
+TOI010	[mhmh].
+TOR001	due o tre stanze penso nulla di: di [particolar]e,
+TOI010	[mhmh mh].
+TOR001	un milioncino.
+TOI010	((ride)) molto bene ((ride))
+???	((ride))
+TOR001	xxx ho trovato vice:nza centoundi[ci].
+???	[o:::h] bravissimo ((ride))
+TOI011	come vice[nza].
+TOI010	[come vic]en[za].
+TOI010	[co]me vice(nza).
+TOR001	e::hm:: e quindi poi vabbè c'è quella quella parte lì [poi] d~ da lì,
+TOI010	[mhmh].
+TOI010	fino più o meno a:,
+TOR001	e:: monterey non c'è: più nulla (.) [ci sono:] solamente: cittadine cos'è mo~ e:h monterey e quell'altra::,
+TOI010	[okay].
+TOR001	e: santa cruz (.) [dove] c'è l'università,
+???	[okay].
+TOI010	(quello è) xxx,
+TOR001	e anche:: l'(acquario) cioè quella (parte lì) e poi (.) di nuovo praticamente [più nu:lla] fino a los ange[les].
+TOR001	[più nulla],
+TOI010	[mh mh]m mh[mh].
+TOR001	[los] ang~ che sono (.) più o meno (.) san francisco e los angeles (ci) sono sei ore e mez[za di macchina],
+TOI010	[eh sì].
+TOI010	e quindi ci sono questi tre:: xx,
+TOI011	e: chiedendo anche a delle persone dicendo ma scusa [ma (.) sacram~]
+TOI010	[(praticamente) sta diven]tando il monolo[go di davide xx (questa intervista non ho capito)] cioè:,
+TOR001	[sacrame~ (.) mi fa delle doma:nde mi fa delle doma:nde].
+???	((ride))
+TOI010	no io sono sconvolto dal (wrest[ling) che non: non ave]ndo la tv (dico) [xx],
+TOR001	[sacra~ sacramento].
+TOR001	((ride))
+TOI010	[sacrame]nto è orribile [è uno dei posti più bru:tt(i)].
+TOR001	[no ma sacramento mi ha(n) detto che è una ghos]t town ((ride))
+???	è orri~ io ci ho fatto un mese a sacramento è uno dei posti più brutti [in cui abbia mai stat~ (.) son stata un mese a sacramento].
+TOI010	[sei mesi xxx].
+TOI011	[a:h ma (quindi) è per quello che mi fai le doman(de)],
+TOI010	[a:h] oka:y.
+TOI010	no comunque:: sì: e::h los angeles due volte,
+TOR001	san diego non ci sono anda[to],
+TOI010	[mh]mh.
+TOR001	e:: dovevo andare al lago tahoe anche: quello: [sfumato],
+???	[è molto bello] (.) [è molto bello].
+TOI010	[xxx].
+TOR001	e:: anche:: il lago tahoe e l'altro:: m:h,
+TOI010	((ride))
+???	yosemite (.) n:on s[ono riuscito ad an]dare,
+TOR001	[xx].
+TOI010	((ride))
+TOI010	e::,
+TOI010	poi ho fatto anche un voletto sul: sull'aereo::,
+TOI010	(insomma),
+TOR001	con un:: con:: con l'aereo di un mio colle[ga].
+TOI010	[mh]mh.
+TOR001	cioè non era suo [però lo guidava lui su un: un (c]essna),
+TOI010	[mh okay] ((ride))
+TOR001	sopra la baia comunque [fa la sua figura],
+TOI010	[eh è figo].
+TOI010	sì.
+TOR001	e:: da paloalto fino a san francis[co (aiuto no)] era: fino a:: m:h petaluma
+TOR001	[mhmh].
+???	ok[ay].
+TOI010	([allo]ra),
+???	[xxx].
+TOR001	[va a x]xx.
+TOI010	((ride))
+TOI010	xxx (stati lì) era il petaluma e dovevo (arrivà il),
+TOI010	pollo quello lì chicker e::h chicken::,
+TOR001	never ever.
+TOI010	ah sì:?
+TOR001	quello senza ni[ente proprio solo biologico] ((ride))
+TOR001	[okay] ((ride))
+TOR001	io ho fatto u~ un mese prigioniera di sacramento,
+TOR001	un posto veramente atroce comunque,
+TOI011	((ride)) tu invece hai vissuto all'estero? o fuori comunque lon[tano da:],
+TOI010	[perché è per] quello che poi io mi dimentic[o (delle domande in effetti comunque) comunque no è semplice io non ho vissuto all'estero ho vissuto a:],
+TOR001	[xx e:h xx].
+TOI011	[eh sì in effetti sì (.) ma io le ripeto] ((ride))
+TOR001	qui e a torino appun[to dove mi s]ono trasferito (e),
+TOI011	[okay].
+TOR001	prima vivevo a:ppunto in provincia di novara a pettenasco sul lago d'orta (.) [] dove ho vissuto fino a:,
+TOI011	[okay].
+TOR001	diciott'anni [diciannove a]nni finito il liceo: (.) [quindi:] sì semplice.
+TOR001	[okay].
+TOR001	[mhmh mhmh okay].
+TOI011	((ride)) adesso la faccio prima a te la domanda così ci alter[nia]mo ((ride))
+???	[mh],
+TOI011	((ride))
+TOR001	xx.
+TOI011	ti trasferiresti all'estero per lavorare?
+TOI011	(mi) trasferirei all'estero per lavorare,
+TOI011	e: ho come l'impressione di::: (.) non dico di aver perso il treno però: boh inizio a avere un'età::,
+TOI011	m::h non lo so,
+TOR001	cinque anni fa l'avrei fatto un pochino: (.) più con: (.) con tranquillità.
+TOI011	mhmh.
+TOI011	e:: rimane comunque sempre una cosa che mi piacerebbe fare::: mh,
+TOI011	pragmaticamente non so se: accadrà mai però:: boh.
+TOI011	(non lo so).
+TOR001	(co~) mi piacerebbe mi piace[rebbe] (.) mi piacerebbe (ba~),
+TOI011	[okay].
+TOR001	me l'avessi chiesto:: cinq[ue anni] fa ti avrei detto assolutamente sì,
+TOI011	[mhmh].
+TOI010	e poi::,
+TOR001	((tossisce))
+TOI011	ma come esperie:nza o perché pensi che all'estero ci sia più lavo:ro: x troveresti una situazione più:: non lo so soddisface:nte o,
+TOI011	allora,
+TOI011	s~ parlando strettamente del nostro lavoro è ab~ <abbastanza risaputo che>,
+TOR001	c(io)è: ci sono:: ma senza andare:: in califor[nia e in francia voglio dire].
+TOI011	[mhmh: (.) mhmh].
+TOI011	mh e::: c'è tanta richie:sta ci sono gli stipendi che sono::,
+TOI011	a~ altri: ordini di grandezza e:: insomma,
+TOR001	n:on soltanto per il lavoro.
+TOI011	mhmh.
+TOR001	perché:: detto questo fortunatamente appunto lavoriamo in un: ambito di di lavoro ce n'è anche qui.
+TOI011	[mhmh m]hm mh[m].
+TOI011	[e quindi],
+TOR001	[non] sarebbe una cosa del tipo okay sono cos[tre:tto] a scappare perché qua n[on: (.) non] so cosa fare.
+TOR001	[okay].
+TOI011	[mhmh mhmh].
+TOR001	andrei all'estero sicuramente per fare: per fare un'esperienza [per: insomma viv]ere: per un tot di tempo in un altro posto eccetera eccetera,
+TOI011	[mhmh mhmh mh].
+TOR001	come plus ci sarebbe comunque che:: (.) gli stipendi son[o:::] diversi.
+TOR001	[certo].
+TOI010	tu invece?
+TOI010	e::h sì: ho tentato di farlo,
+TOI010	m::h adesso in questo momento: diciamo che,
+TOR001	mi son sposa:to insomma il [l~ l~ l'anno scorso l'anno] scorso è stato un po'::: mi son cambiate molte cose [no? e quindi] diciamo che,
+TOR001	[okay] ((ride))
+TOI010	[o:kay].
+TOR001	(ho a)bbastanza messo radici [qui],
+TOI010	[o]kay.
+TOI010	non dico: (di no) mi piacerebbe sempre::,
+TOR001	ovviamente:: ora lo sforzo: per farlo sarebbe de[cisamente maggiore],
+???	[certo xx].
+TOI010	solo che pi[ù che il matrimo]nio (hai) anche un figlio che nasce tra due me:si.
+TOI010	[e::],
+TOR001	eh [sì: e una] (.) e una e una moglie [che sta],
+???	((ride))
+???	[che aggiungerei],
+TOI010	[(è vero) c]he magari non è inere:nte però,
+TOR001	e una moglie che sta portando i suoi genitori dalla cina a vivere in i[talia: permanentemente] no?
+TOR001	[ah okay quindi:: okay].
+TOI010	((ride))
+???	e quindi: ((ride))
+TOI011	[xxx]
+TOI010	([un paio] di robe in ballo (.) questi che [ti ri]ncorrono)
+TOI010	[eh (sì)],
+TOR001	e:cco quindi in realtà e::h mi piacerebbe per[ò::],
+???	((ride))
+TOI010	[(quindi] imparano) a parlare l'italiano.
+TOI010	non so mi sono anche:: un po' abituato a questa cosa qui,
+TOI010	certo è che guarda (.) ul~ l~ il mio: compromesso adesso sarebbe::,
+TOI010	non magari (.) e:h trasferirmi completamente all'estero però,
+TOR001	viaggiare per lavoro sì.
+TOI010	okay.
+TOI010	è un: ogni tanto fare: un viaggio,
+TOI010	è quella cosa che ti::: da un po' di:: riequilibra un po::' la mente.
+TOR001	no comunque (.) [una cosa se posso] aggiungere questa magari::,
+TOR001	((ride)) [che (pirla) (.) x]x)
+TOI010	[no scusa guardavo lui non] volevo.
+TOR001	[xxx]
+TOI010	((ride))
+???	a~ anche anche.
+TOI010	non dire no
+TOI010	((ride))
+???	E [NON SI VEDE (.) NON S]I VE:DE.
+???	[SEI REGISTRATO].
+TOR001	[xxx]
+TOI010	[tanto non c'è il video sei s]iamo tutti salvi.
+TOI010	((ride))
+TOI011	[no (è)],
+???	<[mettia~] mettiamo a verbale che (.) ha effet[tuato il gesto]>?
+TOR001	((ride))
+???	((ride))
+TOR001	[xxx]
+TOI010	((ride))
+TOR001	dello spingito~ no è::: una cosa:: che però,
+TOI010	((ride))
+TOI010	e: io ho notato che comunque,
+TOI010	s~ penso che chiunque abbia fatto,
+TOI010	cioè quando viaggi,
+TOR001	e::hm::: ovviamente cambi cominci a cambiare (il) metodo: cioè (il) modo di pens[are] no?
+TOI010	[mhmh].
+TOR001	anche per quanto riguarda:: la società: e soprattutto la politica.
+TOI010	mhmh.
+TOI010	cioè per me (.) par~ è stato proprio paradossale perché mi ha fatto diventare un po' meno::,
+TOI010	m::h come dire::,
+???	l:: l~ l~ l=mh,
+TOI010	campanilista.
+TOI010	no no: (no),
+TOI011	li~ [liberti~ non liberti:no libera~ (.) no].
+TOR001	[liberista (.) un po' (leghista) sei diven]tato.
+???	((ride))
+TOI011	[xxx].
+TOI010	[(ma sì lui (.) è questo)].
+???	[no] no un po' più [leghista però] (.) ecco meno un po' meno liberale (.) un po' meno liberale [(ma nel senso che)],
+???	[liberale].
+TOR001	[ma quello secondo me è es]serti sposato una cine:se secondo [me ma in senso buono] ((ride))
+TOI010	((ride))
+TOI010	[vabbè (.) ma sei talmente così liberale].
+TOI010	no però nel senso che i:o quello che: cioè (.) fuori,
+TOI010	c'è:: un::: un:: diciamo una osservanza del:: delle regole,
+TOI010	anche,
+TOR001	cioè sull'immigrazione o: su:: qualsiasi cosa [no]?
+TOI010	[mh]mh.
+TOI010	ci sono burocrazie che sono mo:lto più rigide,
+???	e col cazzo che ce la fai a scavalcarle no scusa.
+TOR001	((ride))
+TOI010	((ride))
+???	[xx]
+TOI010	[e tu vorresti vivere in un p]osto così?
+TOI010	ma (.) cioè m:h in che senso? non è che cioè ti bacchettano sono: però semplicemente vengono rispettate le regole che son stabilite.
+TOI010	no (.) mentre (cioè),
+TOR001	e questo qua è il paese invece del buonsenso no? [dove::] va=b:ene insomma la legge poi la::,
+TOI010	[mhmh].
+TOI010	la:: la fletti un po' dove: dove ti serve. io vabbè,
+TOI010	delle volte (.) ho trovato anche delle grosse contraddizioni no in questo perché,
+TOR001	lì era proprio l'assenza del buonsenso [dici ma] che cazzo cioè,
+TOR001	[mhmh].
+TOI010	[mhmh].
+TOR001	[non ha] senso sta roba (.) ti vai vai a cambiare la macchina in::,
+TOI010	((ride))
+TOR001	che hai a noleggio gli dici guarda te la porto un giorno prima posso prendere un'altra? no me la devi portare domani.
+TOI010	((ride))
+TOI010	ma (.) gli dico ma guarda te la pago da ade:sso (io) rinuncio ai giorni che,
+TOR001	che la potrei tenere in più però (.) dammene una adess[o (.) subit]o perché io domani non posso venire no devi venir domani (e ho detto) ma che ca~,
+TOR001	[mh mhmh].
+TOI010	((ride))
+TOR001	cioè è questo no?
+TOI010	okay.
+TOI010	e::hm::,
+TOI010	d~ per cui paradossalmente:: il viaggiare (.) nel mio caso un: po' mi ha fatto diventare::,
+TOR001	meno tollerante [ecco verso] alcune cose perché (.) prima invece,
+TOI010	[okay].
+TOI010	mh ragionavo molto più::: mh come sento: fare un po' in giro sempre:,
+TOR001	ma sì dai va bene tu:[tto:],
+TOI010	[°okay°].
+TOI010	vogliamoci bene cioè senza alcuna,
+TOI010	e:: senza alcun concetto,
+TOI010	cioè di che cosa,
+TOR001	mh siano le risorse.
+TOI010	mhmh.
+TOI010	cioé: del del fatto che,
+TOI010	e:::,
+TOI010	se tu prendi i numeri (.) fai dei calcoli (.) ve:di quanto puoi cioè no~ non fai (.) un:,
+TOR001	è sempre un ragionamento emotivo il no[stro] (.) mai (.) pragmatico,
+TOI010	[mhmh].
+TOR001	e magari:: cioè: ragionato (.) [cioè] qui si discute,
+TOI010	[mhmh].
+TOI010	ti faccio un esempio: così::,
+TOR001	un:: molto attuale no (co[munque) su]gli=immigranti.
+TOI010	[mhmh].
+TOI010	immigranti sì immigranti no cioè ma (.) nessuno,
+TOI010	ha mai fatto un:: un:,
+TOI010	cioè un'analisi,
+TOI010	sensata di,
+TOI010	okay (.) cioè noi possiamo permettere quanti come (.) cos~ come possiamo,
+TOI010	è sempre un discorso alla::,
+TOI010	cioè o sì o no:,
+TOI010	e: destra sinistra dove::,
+TOI010	poi alla fin fine: (ci) si genera solo il caos e nessuno,
+TOR001	alla fine trae le conclusioni.
+TOI010	mhmh mh[m].
+TOI010	[cioè è s]olamente un: mercato::,
+TOR001	(nessun) terreno di:: dialogo politico.
+TOI010	mh[m:].
+TOI010	[ormai] cioè,
+TOR001	reale no? (.) [] cioè comunque è un fenomeno che c'è,
+TOI010	[mhmh].
+TOI010	va affrontato,
+TOI010	come lo affrontiamo?
+TOR001	qua:nti realisticamente ne riusciamo a gest[ire]? dove diciamo okay li prendiamo li integriamo,
+TOI010	[mhmh].
+TOI010	e fa~ e qua:nti no?
+TOI010	senza dire eh vabbè se m::h,
+TOR001	sei un: fascista oppure al contrari[o::],
+TOI010	[(mhmh)].
+TOR001	sei: minchia il perbenista di sinistra del cazzo queste cose qua.
+TOI011	°okay°.
+TOR001	ecco la la domanda era sugl'immigrati?
+TOI010	((ride))
+TOI011	la la no la la ((ride))
+TOI010	((tossisce)) (scusate).
+???	no no questa l'ho aggiunta io in realtà è stata una mia digressione proprio gratui[ta (questa)] ((ride))
+TOR001	[(sul museo egi:)]zio e il,
+TOI010	((ride)) in che zona di torino vivete?
+TOR001	e::m:h io sono ab~ abito in centro ma: vabbè ho: sono vissu:to nato e vissuto in barriera di milano.
+TOI011	okay.
+???	ah io ho avuto da quando [ho iniziato:],
+TOI010	[xxx] è in borgo vittoria.
+TOI010	borgo [in b~ in] barriera di milano al limite al limite.
+???	piazza rebaudengo dai.
+TOI010	(no ma) lì è barriera piena.
+TOR001	°eh e:h (infatti è lì)° no vabbè barriera piena è: quella:: (in corso [giulio cesare]).
+???	((ride))
+TOI010	[(lì è barriera piena)].
+TOI010	è al limite (.) comunque sì inizia da lì.
+???	quella lì è già re baudengo:: [falchera].
+TOR001	[a: su quel tratto lì].
+TOR001	su quel lato lì:?
+TOI011	okay ((ride))
+TOI011	vabbè allora adesso io sono::,
+TOR001	in corso racconi:g[i::] e via frejus,
+TOI011	[okay].
+TOR001	e:: però diciamo,
+TOI011	però hai detto via frejus? e quindi non sei ancora integrato compl[etamente per],
+TOR001	[fr~ fri~ fri]jus.
+TOI011	no no qua dicono via frejus s[ono io che non mi a]datto a questa cosa scusa.
+TOR001	[°a::h°],
+TOI010	((ride))
+TOI011	(mi dicono [che) comunque è frejus].
+???	[e::h],
+TOR001	[e] bengasi.
+TOI011	[e bengasi (.) e sofia:].
+TOI010	[bengasi bengasi].
+TOI011	[e sofi:a].
+TOR001	vabbè comunque (.) e [che caz]zo (non lo so) ((ride)) vi[cino al mercato di corso racconi:gi] [comunque].
+TOI010	((ride))
+TOI010	[e:h],
+TOR001	[anche le:i xxx],
+TOI010	[okay].
+???	racco:[nigi] ((ride))
+TOR001	[che però xxxx è molto lungo come merca]to e mol[to xx e:h].
+TOI011	((ride))
+TOI010	[a:: vattene affan]c[ulo].
+???	[eh].
+TOI011	[è lungo] due chilometri.
+TOI011	(v)abè: ma il quartiere è quello.
+TOR001	e: però sono stato:: a~ m:::h all'inizio ero vicino a porta nuov[a:=e:] crocetta però al limite con: san salvario,
+???	[mhmh].
+TOI011	((tossisce))
+TOR001	e: poi sono stato in san salvar[io],
+TOI011	[mh]m.
+TOR001	e poi sono stato (.) per un breve te~ periodo invece crocetta un po' più: crocetta:: vip diciamo.
+TOI011	okay ((ride))
+TOI011	e:::,
+TOI011	sono stato anche molto vicino a dove sono adesso.
+TOR001	[sempr]e: vicino a corso racconigi,
+TOI011	[mhmh].
+TOR001	e:: adesso invece sono:: m:h sono lì (.) [po~ poco dis]tante via
+TOR001	[okay].
+TOR001	okay (io) abito in zona comunque no? è vicino a dove abito io.
+TOI011	io non [so un (cavolo) non so nea]nche dove abit[o anch'io abito lì allora] siamo a [posto] (.) sì (.) bravo.
+TOI011	[vicino a piazza rivoli].
+???	[vicino a:: (.) ah].
+TOI010	[via
+TOR001	via [a:h ho cap]ito [xx sì].
+???	[via
+TOI011	[via
+???	so[no a::] c~ sei sei minuti:: eh sette minuti a piedi dalla metro di: piazza rivoli
+TOR001	[(sedici)].
+TOI011	eh io di monte grappa.
+TOR001	a:h okay sei un po' più in là (va bene)
+TOI011	va bene (.) e:hm:: vi piace la zona in cui vivete?
+TOI010	sì.
+TOI010	sì sono:: in realtà son contento di essermi:: trasferito qua.
+TOR001	[cioè in:] in centro.
+TOI010	[mhmh].
+TOR001	cioè non ero:: alla fine all'inizio non ero proprio:: d'accordissimo perché vabbè i prezzi delle case sono::=eh stellari,
+TOI010	mhmh.
+TOR001	però alla fine:: son contento di:: essere (insomma) [di avercela] fatta.
+TOR001	[mhmh].
+TOI010	o[kay].
+TOR001	[perché] mia moglie: lavora a milano e quindi (.) [era mol]to comodo per lei.
+TOI011	[ah beh quindi],
+TOI011	sì (io) son contento perché::,
+TOI011	ah a parte che lì c'è il mercato di corso racconigi,
+TOR001	e:::h (un) posto [in cui non ci sono mai anda]to praticamente però è molto bello [(ho sentito dire)].
+TOR001	[xxx].
+TOI011	[anch'io sarò anda]ta due volte.
+TOR001	[(no) cioè (.) perché invece c'è la: la cona]d che è molto p(iù) molto più:,
+TOR001	[xx] ((ride))
+TOI011	((ride))
+TOI010	[poi ti danno anche i pu]:nti [queste cose qua al merc]ato (non lo fa[nno]).
+TOR001	[xxx].
+TOI010	((ride))
+TOI010	[sì esatto].
+???	[mai] preso xx pupazzetto alla fine: quello,
+TOI010	((ride))
+TOI011	eh?
+TOR001	cioè non so se ti dovrei dire quello che ti dovrei [dire o quello che effettivame]nte è,
+TOR001	[no di' quello che vuoi].
+TOI011	no no [di' la verità tranquillo].
+TOI010	[perché la verità è che son vic]ino al mercato più f~ uno dei mercati più fighi di torino,
+TOI011	[ma va (ma è questo qua) di: piazza bene:]fica quello più [fi:go da:i ma cosa di:ci cioè],
+TOI011	[xx (questo qua dietro e ci ripa:ssi)].
+TOI010	[(allora) questo è quello (.) questo è quello più tre]ndy.
+TOI011	quale?
+???	questo in [piazza benefica].
+TOI010	[eh (.) questo è per i ve]stiti per il [cibo (questo) fa cagare eh].
+TOI011	[eh].
+TOI010	[per i vestiti c'è un botto di roba ma per il] cibo (va:) (.) (va a cagare).
+???	ma che è?
+TOI011	>questo (genere di)< salame buono quanto costa? tre e cinqua:nta sì all'etto (.) quindi vuol dire trentacinque euro [al chilo].
+TOI010	[al ne]tto.
+???	a~ al al (.) al nerx (.) to x to.
+TOI011	[(su:ca)].
+TOR001	vabbè comunque stavam dicendo [e::h],
+TOI011	[e:h perché] ti piace la tua [zona].
+TOR001	[perché mi pia]ce la mia zona? ma principalmente per il mercato.
+TOI011	((ride))
+TOI010	((ride)) no mi piace [la mia zona perché],
+TOI011	[(no veramente) ma quante vo]lte ci vai al merc[ato]?
+TOI010	[ma non] ci son mai anda[to (dai ma) era uno sche:rzo e::h era uno scherzo].
+TOR001	[ma infatti cioè xxx] ((ride))
+TOR001	((ride))
+TOI010	(io sarò andata due volte in due a::nni) ((ride))
+TOI011	((ride))
+TOI011	perché mi piace la mia zona mi piace la mia zona perché allora è comoda e::h m:h,
+TOR001	perché è vicino a: sul percorso della metro questa è una figata atomica perché mi permette di (.) andare a lavoro,
+TOI011	mhmh.
+TOI011	con tre fermate di metro,
+TOI011	andare a lavoro,
+TOR001	cioè m:h noi lavoriamo qua vici[no quindi],
+TOI011	[mhmh mh]m.
+TOR001	e:h anche a piedi cioè nel senso [che:: boh],
+TOI010	[eh si (.) certo].
+TOI011	[mhmh].
+TOR001	d'estate comunque me lo faccio (.) [o l'anda]ta o il ritorno il ritorno per[ché l'andata (sono in) ritar]do,
+TOI010	[mhmh mh].
+TOI010	[e: anche],
+TOI011	e poi?
+TOI010	aspe' s~ che cosa?
+TOI011	no e poi anche cos'altro? quello che stavi dice~ per dire?
+TOR001	(eh se non mi fai finire) mattia (però eh),
+TOI011	((ride))
+TOR001	adesso non mi ricordo più è comodo per cosa stavo dicendo? [la metro],
+TOI011	[la metro] (.) il mer[cato la metro],
+TOR001	[ecco il merca]to la metro è comodo anche perché arrivando in macchina,
+TOR001	((ride))
+TOI011	mh.
+TOI011	e::h (.) comunque sei lì vicino perché sei: su: cors~ cos'è corso trapani quello:::,
+???	eh che poi va: (.) [allora] è è (.) comunque abbastanza comodo anche per la macch[ina perché (lo] pigli) da fuori [(quindi)],
+TOR001	[sì].
+TOR001	[okay].
+TOI011	[sì].
+TOI011	ci metti poco ad arrivare,
+TOR001	e::hm::: e basta essenzial[mente] sì.
+TOR001	[okay].
+TOI011	aspetti negativi della zona in cui vivete?
+TOI010	vabbè d~ parla un po' tu dell'immi[grazione e::],
+TOR001	[dei parche~ no dei] parche:ggi xx parliamo dei parcheggi allora aspetto negativo è che,
+TOI010	((ride))
+TOR001	vabbè mi hanno quadruplicato: il:: la tassa sul parcheggio.
+TOI010	o[kay].
+TOR001	[app]ena mi son trasferito tra l'a[ltro no]?
+TOI010	[e da] quindi da quando?
+TOR001	e::h l'a~ l'anno scor[so (no)]? eh si (.) [mhmh no no sì l'anno],
+TOR001	[okay].
+???	[eh non lo so (non uso) la macchina],
+TOI010	ma se è in base al reddito adesso.
+TOI010	eh.
+???	me l'han quadruplicato prima non er[a::],
+TOI010	[(e)] col reddito che hai come fanno a avertela quadruplicata?
+TOI010	eh vabbè ma eh si somma meh eh guarda che: in realtà non è proprio bassissimo eh.
+TOI010	cioè: la soglia è abbastanza::: bassa.
+TOI010	comunque,
+TOR001	diciamo che è una tassa occulta semplicemente: è una sovrattassa sul: [sul s]ul bollo ormai 'sta roba.
+TOI010	[okay].
+TOR001	(cioè:),
+TOI010	ma non c'è tipo il parcheggio per residenti 'ste ro[be qua:]?
+TOR001	[sì (.) è] quello [che mi hanno aumentato (.) sì esa~] ((ride))
+TOI010	[ah è quello che ti hanno okay okay (vabbè] no),
+TOR001	>(cioè) praticamente in realtà< viv:~ vivo qua dietr[o::].
+TOI010	[okay].
+TOR001	e::hm cioè in realtà vivo proprio in questo isolato.
+TOI010	okay.
+???	e::h (.) (cos'è cos'è ((ride)) questo isolato),
+TOR001	(ti) manca un po' il mercato di corso racconi:gi [(però)],
+TOI010	((ride))
+TOI011	[sì sì] sì.
+TOI010	(oh minchia [dovresti venire xx dovresti trasferiti da: da me: (.) figata)].
+TOR001	[(però) c'è il parcheggio c'è (.) devi:: devi girare un casino per] trovare il parcheggio poi comunque lo tro:vi e::h e sei felice ins[omma] (.) (eh).
+TOR001	[okay].
+TOI010	((ride)) per te inve[ce]? ah scusami (.) [stavi fine]ndo?
+TOI010	[(il)],
+TOI010	[x]
+TOI011	no no no vabbè (no).
+TOI010	bah allora aspetti negativi: sicuramente il mercato di corso racconigi.
+TOR001	((ride))
+TOI011	((ride))
+TOI011	perché comunque:: cioè è una cosa di cui non me ne frega un cazzo e ogni giorno c'è la gente che entra esce se ne va i ba:nchi del mercato le cose,
+TOI010	non si trova parcheggio quindi,
+TOI011	((ride))
+TOI010	((ride))
+???	ma non hai la macchina ((ride))
+TOR001	((ride))
+TOI010	((ride))
+???	((ride))
+TOR001	però ho amici che vengono a trovarmi in macchina al mattino quando c'è il mercato.
+TOI010	((ride))
+TOI011	ah.
+TOI011	(no) allora ap~ aspetti negativi allora tendenzialmente no però devo,
+TOI011	eh sollevare anch'io la questione parcheggi perché,
+TOI011	e:h la mia ragazza io non ho la macchina e la mia ragazza sì e spesso viaggiamo assieme,
+TOI011	e:: quando mi sposto in macchina,
+TOI011	trovare posto è davvero (.) davvero davvero (.) un casino.
+TOI011	cioè:: ci sono:: la domenica sera quando arri:vi piuttosto che: altri momenti un po' caldi,
+???	cioè devi girare come un pazzo per t~ eh per trovare:: il posto (.) e quello è una rottura di cazz(o) poi (io) non so se::,
+TOI011	((tossisce))
+TOR001	si può dire cazzo?
+TOI011	si può dire cazz[o: se]ntiti libero.
+TOI010	[okay].
+TOR001	ma poi tanto devi s:bobini tutto vero?
+TOI010	ecco [probabilmente sì: temo succederà questo] ((ride))
+TOI011	[eh (.) eh (allora)] ((ride))
+TOI011	[(che) non rimanga più niente di 'sta cosa].
+TOR001	no e::hm:: basta tendenzialment[e::],
+TOI011	[e bas]ta? (poi) il resto ti piace?
+TOR001	sì mi piace molto °sì sì sì sì°
+TOI011	non è [un po' vecch]io?
+TOR001	[a te non]
+TOI010	son solo vecchi pensiona:ti e vecchie pensiona:te.
+TOI011	(vabbè [anche qua eh)] ((ride))
+TOI011	[ma:: ti dico: da (una) (cioè)] allora,
+TOI011	punto di da un punto di vista dell'universita:rio,
+TOI011	ovviamente,
+TOR001	quando (vivevo) san salvario cioè boh è una [figata atomi]ca perché: tutte le sere in giro a far casino cose:,
+TOI011	[(è un'altra roba)],
+TOI011	e:: c'erano molte: facilities anche per quanto riguarda il: recupero di::,
+???	e::: (.) [] droga (.) per esempio.
+TOI011	[droga]
+TOR001	(è vero comunque) ((ride))
+???	((ride))
+TOI011	però [quella che] trovi [a san] salvario (dai),
+TOI011	[no],
+TOI011	[però],
+TOR001	vabbè ho ca~ no vabbè comunque c'erano un sacco di cose [che xx]a::,
+TOI011	[mh mhmh].
+TOR001	da studente universitario (.) [san sal]vario (.) figata.
+TOI011	[certo].
+TOR001	adesso come adesso sinceramente allora se mi devo muo~ cioè allora se devo andare in un posto mi muovo.
+TOI011	sì quello [sì].
+TOR001	[quindi] che sia: con i mezzi che sia con car to go:: [che sia con queste] robe qua,
+TOI011	[mh mhmh].
+TOR001	mi sposto per [(cui)],
+TOI011	[cer]to.
+TOR001	non è che ho la necessità di essere (.) so:pra alla movi[da no]?
+TOI011	[mhmh m]hm.
+TOI011	e:::h,
+TOI011	per cui::: (.) poi sai boh uno lavora (.) e::,
+TOR001	anche un caso particolare perché comunque io molto spesso nei weekend torno a casa a [casa] (.) provincia di nov[ara per cui],
+TOR001	[okay].
+TOI011	[okay okay okay].
+TOI011	boh non lo so:,
+TOR001	se se devo andare se devo:: la sera uscire esco prendo la metro vado in centro.
+TOI011	okay.
+TOR001	se:: vado:: a trovare un mio amico o quello che è mi mi spos[to e:h]m: lavorando qua vicino magari non passo neanche da casa s[e devo uscire],
+TOR001	[ti sposti].
+TOI011	[certo rimani] in giro.
+TOR001	quindi:: boh li vicino sì non c'è la cosa del tipo esco mi bevo una birr[a (.) m::h] (.) c'è lo sher[lock].
+TOR001	[eh esatto a me quello manca],
+TOR001	[eh sì].
+TOI011	che in cui p[asso:: però che] palle eh.
+TOI011	[però tu dici (anche) basta].
+TOI011	°certo°.
+TOR001	quello è vero sì sì mh come come:: locali non è:: non è il [massimo].
+TOI011	[c'è po]co.
+TOR001	sì >sì sì sì<.
+TOI011	va bene ehm:: (beh) la domanda dopo era hai frequentato le scuole nel quartiere in cui vivi ma mi sa di no:?
+TOR001	no.
+TOR001	no vero?
+TOR001	okay.
+TOI010	quindi le persone che frequentate principalmente abitano vicino a vo:i oppure in altre zo:ne o nel tuo caso immagino anche altrove?
+TOR001	no in altre zone.
+TOI010	in altre zon[e],
+TOR001	[per]ché sono i miei:: vecchi amici che insomma abitano: un po' si son sposta[ti però c]omunque arrivano dalla: dalla stessa zona.
+TOR001	[mhmh].
+TOI010	quindi barriera?
+TOR001	sì.
+TOI010	okay.
+TOR001	sì no~ non tutti (.) però comunque:: adesso uno che non era: in barriera si è trasferito in barriera.
+TOI010	ah (.) ((ride)) è [tornato].
+TOR001	[però comunque no] qui intorno:: no (.) [(°al]meno°),
+TOI011	[okay].
+TOI011	sì altre zone perché: diciamo che ho un misto di: ex e::h
+TOR001	compagni dell'università gente che:: è rimasta qua a tori:n[o e che si è tr]asferita per i fatti: propri eccetera ecce[tera].
+TOR001	[mhmh mhmh].
+TOI011	[o]kay
+TOI010	(i ba[ckstreet boys]).
+TOR001	[(chi sono) xx i backst]reet b[oys vabbè] (.) cioè [x] ((ride))
+TOR001	[temo di sì]
+TOI011	[sì] ((ride))
+TOR001	e::: colleghi che sono sparsi in gi:[ro:] e::: per cui: sì,
+TOI011	[okay].
+TOI011	in realtà (.) per u~ un caso,
+TOR001	caso vuole che: un:: mio amico: caro amico de:~ [xx] co~ coso all'università eh~ ehm come si dice?
+TOI011	[(è morto)]?
+TOR001	ha fatto l'università con me si è trasferito (.) a vivere vicino a me ma è: (.) è succ[essa:] successivamente questa cosa quindi sì.
+TOR001	[(a caso)].
+TOR001	okay.
+TOR001	ehm::: mh mh m:h,
+TOI010	trovate tutto nella zona in cui vivete o: dovete spostarvi spesso?
+TOI010	no questo:: è quello che mi piace molto di questa zona qui perché: comunque::,
+TOR001	sei mh (.) vicino:: più o meno a tutto,
+TOI010	mhmh.
+TOR001	anche: cioè spostandoti:: in bici o::=m:h a piedi.
+TOI010	mhmh.
+TOR001	l'unica cosa che m:anca (.) però non: francamente non:: non è un problema sono i supermercati quel[li: gro]ssi.
+TOI010	[okay].
+TOR001	(perché) comunque la spesa (.) quando vai a fare la spesa grossa insomma la fai: (.) non la fai ogni giorno quindi va bene.
+TOR001	mhmh mhmh mhmh.
+TOI011	per te invece? c'è c'è il mercato [(vicino)] ((ride))
+TOI010	[bah (.) io:: ti dico io: ho la grossa for]tuna di avere il mercato vicino
+TOR001	[xx (c'è il merca:to)].
+TOI010	((ride))
+TOI011	((ride))
+TOI011	no allora a parte gli scherzi (.) un'altra cosa che mi piace è che:,
+TOI010	cioè (.) è [è tori~ è tori:no] ma è è è già un po' provincia lì (.) cioè nel senso che quella strada lì:,
+TOR001	[è pieno di vecchi].
+TOI011	no: sono d'accordissimo cioè,
+TOR001	ci tro:vi (.) di tutto ci trovi la bottega ci trovi gli alimentari ci trovi un: sacco di ferramen[te ci trovi] tutti 'sti [posti qua],
+TOR001	[mhmh:].
+TOR001	[è vero],
+TOI011	ci sono un sacco di ferramenta. ((ride))
+???	fighissimo fighissimo.
+TOI011	i pensionati cos[a (f]anno)?
+TOI011	[e:],
+TOI010	esatto i pensionati cosa fanno vanno (nel[le ferramenta)].
+???	[vado in ferramenta sì].
+TOI011	[e attaccano roba].
+TOI011	[e (.) le:]: quindi: no (.) dove sono lì io è un::,
+TOI011	cioè se mi serve qualcosa esco e in cinque minuti ce l'ho e,
+TOR001	ci sono anche vicino supermercati un pochino più gra[ndi (.) come dic]eva mattia nel senso che c'è:,
+TOI011	[mhmh sì].
+TOR001	una conad un po' più gross[a: e]::: carrefour co~ cioè: nel senso::,
+TOI011	[sì].
+TOI011	quello sì non mi devo spostare se ho bisogno di qualcosa.
+TOI011	c'è anche vicino l'ufficio dei:: (.) com'è che è l'ufficio delle::,
+TOR001	delle tasse della:: (.) tarsu.
+TOI010	ah sì:?
+TOI011	ah beh quello è utilissimo [sì].
+TOI010	[che] pu:ttana eva son due anni che non pa[go].
+TOI011	[a:h] tra l'altro adesso e:h (mi hai ricordato) devo pagare: devo pagarla stasera (credo).
+TOR001	eh.
+TOI011	o:kay.
+TOR001	vabbè.
+TOI010	come vi muovete in città?
+TOI010	e::: dipende.
+TOI011	no e::hm ((tossisce))
+TOI010	dipende.
+???	eh dipende dove devo an[dare no no n]el spe~ ne:~ nel senso che se devo andare:::,
+TOI010	[certo].
+TOI010	cioè (.) a:vendo molte cose vicino,
+TOR001	spesso non ho bisogno di prendere la mac[china].
+???	[mhmh] quindi a pie[di]?
+TOI010	[(se no)].
+TOR001	e: a sì a piedi o::: adesso è da un po' che non lo fa~ però in bici (.) (s[e no)].
+TOI010	[okay].
+TOR001	per~ e:: oppure prendo la macchina (.) comunque io ho la mac[china] (quindi).
+TOR001	[okay].
+TOI010	[tu invece] dicevi i mezzi vero?
+TOI011	[però ci s~]
+TOR001	allora io mi (.) mi muovo (.) a piedi (.) molto (.) [perché mi] piace camminare,
+TOR001	[mhmh].
+TOI011	mh[m].
+TOR001	[e] comunque sono: abbastanza vicino ai posti che devo raggiungere di[ciamo].
+TOI011	[corso] francia è lungo sai che passeggiate ((ride))
+TOR001	e::h piedi e:h metro,
+TOI011	okay,
+TOI010	metro che prendo (.) tendenzialmente tutti i giorni,
+TOI011	e il longboard.
+TOI011	e:: longboard però vabbè:,
+???	longboard è più una cosa ch[e:] (.) fa colo:re se lo vuoi mettere ah sì: (no) (que)sti giovani che si spostano in longboard,
+TOR001	[(sì:)]?
+TOI011	((ride))
+TOI011	è uno skateboard ma più lungo.
+TOI010	cioè:: (vabbè).
+TOI011	ma lì non puoi fare: lo (iol) quelle: cose:?
+TOI010	ma se vuoi sì.
+TOI011	sì?
+TOI010	però forse non faceva parte della:: [(°domanda°)].
+TOR001	[m:h].
+???	no no ma ((ride))
+TOI011	ma al mercato ci vai a piedi in longboard o in metro?
+TOI011	vado a piedi ma me lo porto dietro.
+TOI010	si sa mai.
+TOR001	ma lo u[si ancora]?
+TOI011	[come ar]ma dici?
+TOI011	mi sono ammazzato col longboard tra l'altro.
+TOR001	anzi voglio aprire questa parentesi: sullo stato di conservazione delle strade,
+TOI011	mhmh.
+TOI011	perché mi sono ammazzato col longboard,
+TOI011	in parte perché ero ubriaco,
+TOI011	ma,
+TOR001	diciamo (da) una parte,
+TOI010	((ride))
+TOI011	((ride))
+TOR001	venti per~ no non lo so un ottanta per c~ sessanta per cento perché ero ubriaco [un quaranta] per cento perché,
+TOI011	[okay].
+???	(c'era) la strada dove c'era s~ era stato fatto un: una toppa,
+???	io ho avuto lo stesso problema cioè un:: bu:ca così mi sono scassato una caviglia ma ci ho messo un sacco a recuperare,
+TOI010	sai quelle cose che dicono minchia dovevi chiamare i vigili e far causa al comune di torino sì (minchia) [ubriaco come una] merda xx i vigili xxx una buca ue ue ue.
+TOR001	[sì sì sì].
+TOI011	((ride))
+???	eh sì.
+TOR001	((ride))
+TOI011	((ride))
+TOR001	comunque (.) non c'è una domanda sulle strade?
+TOI011	no.
+TOI011	no.
+TOI011	e::h cosa stavo dicendo? ques~ quest~ e a:h e poi fondamentale non ho una macchina,
+TOR001	car to go e=enjoy.
+TOI011	okay.
+TOI011	fondamentale.
+TOR001	cioè:: (.) m:h la sera quan[do::] sono in un posto un po' inculato che:: [non ci sono i mezz]i,
+TOR001	[mhmh].
+TOI011	[eh sì comodo].
+TOR001	e: quando ho bisogno di traspostare qualco[sa],
+TOI011	[mh] mhmh.
+???	nel senso che:: (tipo) quando devo spostare (ad esempio) un [mobile]::,
+TOR001	[(la casa)]?
+TOI011	((ride))
+TOI011	ma co:~
+TOR001	che cazzo ne so la bici un mobile qualcosa di un po' pi[ù: volumi]noso un elettrodomestico eccetera eccetera non ho: la macchina e quella [roba lì è (tot]ale),
+TOR001	[certo].
+TOI011	[mh mhmh].
+TOR001	tra l'altro dove sono io se ne trovan[o],
+TOI011	[s]ì.
+TOR001	abbastanza quindi:: cioè non c'è neanche il problema sai che sei in centro le s~ (.) [le spostano (tutti)],
+TOI011	[mhmh mhmh eh sì].
+TOI010	e:: quindi per me quella roba lì xx [è stata abba]stanza una svolta sì sì sì.
+TOR001	((tossisce))
+TOI011	[comodo].
+TOR001	e ho avuto anche il:: il tobike ma non:::,
+TOI011	non ha avuto succe[sso].
+TOI011	[no]n ha avuto successo perché la::,
+TOR001	la la come si dice la::: il coso più vicino era:: a x[xa::] era [lontano]
+TOR001	[scomodo].
+TOI011	[piazza rivoli].
+TOR001	[adesso ne han m]esso uno vicino invece a:: corso racconigi.
+TOI011	a è [vero].
+TOR001	[(vicino] alla piscina).
+TOI011	sì è vero.
+TOR001	(eh sì).
+TOR001	mh.
+TOI010	ehm:: (.) pensate che torino sia cambiata molto negli ultimi anni?
+TOI011	[e::hm] sì e sì diciam~ no e:h ultimi no più che altro definiamo ul[timi anni nel se~ v]abbè lo sappiamo tutti insomma xx ormai:,
+TOR001	[definisci molto].
+TOR001	((ride))
+TOI010	[ultimi anni eh].
+TOI010	dalle olimpiadi invernali quel fatidico a:nno in cui: c'è stato lo start no di della di: di torino,
+TOR001	sì è cambiata sicuramente:: da da come: da da quando ero giovane [no]?
+TOI010	[mhmh].
+TOI010	e::hm: però: penso che:: adesso insomma ci siamo::,
+TOI010	ha rallentato parecchio nel senso che adesso,
+TOI010	c'è stato quell'impennata,
+TOR001	#e poi (.) quella cosa lì: mantenuta stabile (.) [alla] torinese alla anzi alla: bugia nen
+TOI010	[mhmh].
+TOR001	piemontese esattamente così lo status quo (.) [perenne].
+TOI011	[mhmh:].
+TOR001	sì sono abbastanza d'accordo [con quello che] dice mattia diciamo.
+TOI011	[okay].
+TOI011	nel senso che::,
+TOI011	è s~
+TOR001	m::h se se consideriamo il periodo de:~ delle olimpiadi cioè tra una (.) tra una cosa e l'altra son (.) tanti anni [comunque] no?
+TOI010	[eh s(ì)].
+TOI011	e:h sì.
+TOI011	quindi: cioè dire okay,
+TOR001	quella cosa lì gli ha dato uno sprint che era una roba che se non fosse capitato probabilmente non,
+TOI011	mhmh.
+TOI010	no[n:],
+???	[ci s]arebbe anc~
+TOI011	sì?
+???	è mio?
+TOI011	sì sì.
+???	ah.
+TOI010	[xxx]
+TOI011	[ci sarebbe x],
+TOI011	[ah sì scusami].
+TOR001	[sì sì sì sì].
+TOI010	[no prego].
+TOI011	(veramente) ci sarebbe ancora il parcheggio in: piazza: vitto[rio (dici no)? (eh) sopra (però)].
+TOR001	[sì esatto quindi (bo:h ma) met]ti la me:tro per dire la metro col cazzo che la facevano a tori[no se non c'erano le] olimpiadi.
+TOI011	[mhmh mhmh:].
+TOR001	per cui::: gli ha dato uno: uno sprint e::h l'idea: è che comunque si sia (.) tendenzialmente un po' adagiata nel [senso che],
+TOI011	[okay].
+TOR001	(cioè) l'inerzia di questa cosa e poi è rim[asta (ferma)].
+TOR001	[mhmh m:h].
+TOI010	e (co~) (.) complessivamente siete contenti di torino?
+TOR001	e::: un: po' di meno adesso,
+TOI010	mhmh.
+TOI010	m::h ultimamente:: verso:::,
+TOR001	mh sono un po' meno contento.
+TOR001	okay.
+TOI010	ma per qualcosa in particolare o:::,
+TOR001	[sì (.) nel senso che] quando quando:: con mia moglie:: magari parliamo: cosa facciamo stasera?
+TOI010	[sensazione (generale)],
+TOR001	non c'è un cazzo da fare.
+TOI010	mhmh mh[m:],
+TOI010	[esse]nzialmente quello,
+TOI010	cioè: non: (.) anche perché comunque,
+TOI010	da: da coppia,
+TOR001	sai da giovane qualcosa magari (.) lo trovavi [no? cioè da] coppia comunque cosa::: fai se non s~ se non è il solito muse:o quelle robe lì,
+TOR001	[mhmh mh].
+TOI010	mh[m].
+TOI010	[un] po::' intellettuali cioè,
+TOI010	ma qualco~ (.) no~ non c'è mai qualcosa di::,
+TOR001	un po::' semplicemente di intrattenimen[to però::] da:: da coppia ec[co].
+TOR001	[mhmh mh].
+TOI010	[o]kay.
+TOR001	anche:: anche solo da un punto di vista (.) xx anche commerciale.
+TOI010	mhmh [mh].
+TOR001	[cioè] i::: i ristoranti alla fine che ci sono sono sempre quelli.
+TOI010	mhmh [mh].
+TOI010	[cioè l]ei (.) vabbè lei è di shangai quindi figurati eh però dice (.) qui,
+TOR001	lì c'è sempre un qualche: nuovo ristorante da provare qualcosa di nuovo [da: da ve]de[re no]?
+TOR001	[mhmh mh].
+TOI010	[da f]are.
+TOI010	qui no: alla fine sono quelle due cose lì,
+TOI011	quando esce la novità: tipo: cos'è::,
+TOI010	(edit).
+TOI011	no quelle le quelle patatine com'è che si chiamavano:? quelle amsterdam: chips quella roba,
+TOI010	ah [sì].
+TOR001	[an]diamo da amsterdam chips perché: cioè è la novità::,
+TOI010	((ride))
+TOR001	queste cose qui.
+TOI011	mhmh.
+TOR001	sei contento di torino e[ra la domand]a? sì.
+TOI011	[aha].
+TOI011	sono contento di torino.
+TOR001	al netto di tu:tto di:: come è cambiato di come non è cambia[to sono comu]nque contento.
+TOR001	[mhmh].
+TOR001	okay.
+TOI010	abbiamo quasi finito (.) cosa fate durante il tempo libero?
+TOR001	quale tempo libero ((ride)) no no ultimamente::,
+TOI011	((ride))
+TOI010	((ride))
+TOI011	e::h (il:) cosa faccio durante il tempo libero,
+TOR001	dai rispondo prima io che mi rompi il cazzo che ci metti troppo a rispondere.
+TOI010	((ride))
+TOI011	ma anche [perché non ho ancora deciso cosa rispon]dere.
+TOI011	[allora cosa faccio durante il tempo libero],
+TOR001	allora io non ho: grosse passioni non: a parte il longboard di [cui parlavo pri]ma,
+TOI010	[okay].
+TOI011	e il merc[ato] ((ride)) il merca~ ((ride))
+TOI011	[non sono un grosso sportivo],
+TOR001	però: nel tempo libero mi piace sciare io d'inverno scio [un bo]tto mi piace sciare,
+TOI011	[okay].
+TOR001	quindi vado: appena posso vado [e::] poi,
+TOI011	[mhmh].
+TOR001	ovviame~ non da qui nel senso (.) da là [(da casa)] perché sono un po' più comodo però è una cosa che mi piace f[are],
+TOI010	[mhmh:].
+TOI011	[io non ho] mai sciato [ti rendi conto]?
+TOI010	[ma non me ne frega un c]azzo sto rispondendo io xxx [mi stai parlando sopra].
+TOR001	((ride))
+TOI010	((ride))
+TOI010	[ma così insomma] per: arricchire un po',
+TOR001	xxx
+TOI011	((ride))
+TOI011	e::hm:: (.) mi piace molto la montagna quindi,
+TOI011	mi piace sciare perché mi piace molto la montagna e mi piace (.) molto (.) camminare fare escursioni in montagna e passeggiare,
+TOR001	e mi piace camminare e questo te l'ho gia detto prima quindi si ricollega al discorso dell'escur[sionismo],
+TOI011	[va bene].
+TOI010	in generale (.) e::hm:,
+TOI011	((tossisce))
+TOI011	e basta mi piace::: cioè,
+TOR001	diciamo che sono appassionato di tecnologia anche al di fuori d[ella:] de~ l'ambito la[vorativo per cui],
+TOR001	[okay].
+TOI011	[xxx].
+TOR001	paciocco sempre fa[ccio e un po' di ro]be per i fatti mie:i,
+TOR001	[okay].
+TOI011	mhmh mhmh mh
+TOI011	studio mica studio eccetera eccetera,
+TOR001	e:: e basta e quando riesco viaggio.
+TOI011	okay.
+TOR001	°fine°.
+TOI011	musica f~ cinema:?
+TOR001	e::h musica::: ho t~ l'abbonamento: premium a spotify,
+TOI011	((ride))
+TOR001	(questa non va bene? (.) [in teoria]?)
+TOI011	[così puoi non ascol]tare sol[o le playlist].
+TOR001	[così non] (.) poss~ es[a~ (.) poss:o:] (.) non (.) cioè posso scegliere cosa: [ascoltare e non non asc~]
+TOR001	[cioè sei libero dalle playlist].
+TOI010	[okay].
+TOI011	[puoi skippare q]uanto vu[oi].
+TOR001	[ski]ppar[e quanto voglio e non ho la] pubblicità,
+TOR001	[ah è vero (infatti sì)].
+TOI011	mhmh.
+TOR001	e::hm::: (.) poi? cosa stavam dicendo mus[ica ci~]
+TOI011	[musica con]ce:rti:,
+TOI011	m:::h,
+TOR001	ba::h no no di[ciamo che non son]o proprio pati:to di con[certi quan]do mi capita il gruppo che proprio è: un po' così
+TOR001	[okay].
+TOR001	[okay].
+TOI011	[okay].
+TOR001	[ci vado] però non sono uno che si fa i concerti (.) in modo seriale.
+TOI011	okay,
+TOR001	cinema quando esce qualcosa di interessante ci vado,
+TOI011	okay.
+TOR001	e:::h teatro non penso di esserci mai andato,
+TOI011	okay.
+TOI010	[e::],
+TOI011	[dai mai] mai?
+TOR001	son passato davanti.
+TOI010	((ride))
+TOI010	neanche a vedere tipo la locandie:ra quelle robe da da scuola: superiore no che ti portano a vedere,
+TOI011	(tipo) ruzza:nte: la mandragola no? xx
+TOR001	[xxx].
+TOI010	((ride)) [la mandragola] ((ride))
+???	((ride)) [no la (.) la] ((ride))
+TOI010	[stavo per dire la mandragora perché lui lavorava in un posto che si chiamava (madragola) xxx machiavelli chi cazzo lo conosce].
+TOR001	[xx si chiamava MANDRAGOLA lo:] ((ride))
+TOI010	((ride))
+TOI010	no ((ride))
+TOI011	no.
+TOR001	(no (.) te[ndenzialmente]),
+TOI011	[e quindi nient'al]tro?
+TOR001	no.
+TOI010	okay.
+TOI011	qualcosa di gol[doni no]?
+TOR001	[è triste? do]vrei dire [più cose]?
+TOI010	[no no figura]ti quello che vuoi ((ride))
+???	((ride))
+TOI011	((ride))
+???	se riuscite a xx (della mia) vita triste,
+TOI010	((ride))
+TOR001	((ride))
+TOI011	((ride))
+TOR001	non penso che la gente faccia tante cose in più [cioè nel senso x],
+???	[no no (.) figura]ti va beni~ sport nient'altro oltre al[lo sci]?
+TOI011	((ride)) [giochi a squa]sh.
+TOI010	ah no [ecco ho una volt]a sono andato a giocare a squash e mi sono rotto un ginocchio [coi miei colleghi quindi rientra anche],
+TOR001	[a squash (giochi)]?
+TOI010	[xxx] ((ride))
+TOI010	[nella] partita de:mo nella partita gratis che ci hanno offerto,
+TOI011	la prima volta si è spaccato il meni:sco ((ride))
+TOR001	comu:nque la cosa che mi piace di più fare è camminare que[sto segnatelo].
+TOI011	[okay va be]ne [va bene].
+TOR001	[perché a me] camminare piace un [casino].
+TOI010	[d'accordo].
+TOI011	sì:?
+TOI011	sì.
+TOI010	è una delle cose che mi piace di più.
+TOI011	mh (.) (davvero),
+TOR001	come hobby cosa fai cammino.
+TOI010	okay (.) tu invece?
+TOI010	io::: eh allora neanche io non ho grossi:: m:::h diciamo:: interessi proprio fondamentali del tempo libero però,
+TOR001	vabbè mi piace: (.) mi piace uscire con gli amici in[somma],
+TOI010	[mhmh].
+TOR001	ti dico quello che mi piace non [quello che sto] riuscendo a fare eh,
+TOR001	[sì sì].
+TOI010	o[kay] ((ride))
+TOI010	[(se no:)],
+TOI010	e::,
+TOR001	poi la stessa cosa anch'io non: vado a grandi concerti però se c'è qualcosa che mi inte[ressa:] ci vado sono andato all'ultimo di elio a[desso],
+TOR001	[mhmh mh].
+TOI010	[mhmh].
+TOI010	e: il cinema,
+TOI011	quando c'è qualcosa che mi interassa:: vado volent[ieri],
+TOI010	[che rispo]ste del cazzo.
+TOR001	e:h x e vabbè scu[sami (eh)],
+TOI011	((ride))
+TOI010	[no ma le ho de]tte anch'io eh,
+TOR001	cioè (.) non ho mai sciato ehm: (ecco) però mi piacerebbe farlo,
+TOI010	((ride))
+TOR001	e::h mi piace molto andare in bicicletta anche se poi in realtà:: non non non ci vado tantissimo,
+TOI010	ok[ay].
+TOI010	[però è pr]oprio un: secondo me: è proprio la::,
+TOR001	è la velocità di spostamento che:: mi piace di più no?
+TOI010	[okay].
+TOR001	[come:] né troppo:: tranne quando devi andare insomma sei di fretta però,
+TOI011	((ride))
+TOI010	né tro:ppo [l:ento né] troppo veloce.
+TOI010	[eh (esatto)].
+TOI011	no e:h sì perché io a camminare mi rompo i coglioni perché secondo me [è::],
+TOI010	[puoi cammi]nare veloc[e xx],
+TOI011	[è una velocità tro]ppo lenta (.) quella del: della camminata è::,
+TOI010	[(°vabbè°)].
+TOR001	[quindi] (.) [] mi xx proprio il:,
+TOI010	okay.
+TOI011	[forse devo] provare i pattini.
+TOI010	[(°okay°)].
+TOR001	poi (.) in realtà mi:: è da un po' che sto pensando anche::: mi insomma so~ suonavo la chit[arra è] da un: po' che: sto pensando di riprendere,
+TOR001	[mhmh].
+TOI010	mhmh.
+TOI010	cioè di: almeno di rimettermi: così a:,
+TOR001	perché:: era una cosa che mi distraeva tantissimo [e mi s]caricava anche solo che non: sono anora riuscito a riprendere.
+TOR001	[mhmh].
+???	o[(kay)].
+TOR001	[per il] software di musica.
+TOI010	((ride))
+???	(è vero).
+TOI010	(per) impa[rare],
+TOI011	[pi:] (.) pi: (.) [pi: (.) pi:].
+TOI010	[xxx].
+TOR001	e:h ((ride))
+TOI011	abbiam finito graz[ie],
+???	[abbiam f]inito?
+TOR001	e io ho una domanda (.) [ma c]ol tuo cazzo di dottorato di linguis[tica cosa c'en~]
+TOR001	[eh]?
+TOR001	[(asc~)] ((ride))
