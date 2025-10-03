@@ -110,7 +110,7 @@ Due to GDPR restrictions, pseudo-anonymized audio files (MP3) are available unde
 
 ## How to cite
 
-To cite this module please include
+To cite the complete KIParla collection please include
 
 > Caterina, M., Silvia, B., Massimo, C., Eugenio, G., & Francesco, S. (2019). KIParla corpus: a new resource for spoken Italian. In _Proceedings of the 6th Italian Conference on Computational Linguistics CLiC-it._
 
