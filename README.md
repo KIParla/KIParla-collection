@@ -112,18 +112,16 @@ Due to GDPR restrictions, pseudo-anonymized audio files (MP3) are available unde
 
 To cite this module please include
 
-> Mauri, C., Ballarè, S., & Zucchini, E. (2024). Modulo ParlaBO (Version 1.0.0) [Data set]. https://doi.org/https://doi.org/10.60760/unibo/parlabo
+> Caterina, M., Silvia, B., Massimo, C., Eugenio, G., & Francesco, S. (2019). KIParla corpus: a new resource for spoken Italian. In _Proceedings of the 6th Italian Conference on Computational Linguistics CLiC-it._
 
 in your references
 
 ```bibtex
-	@misc{Mauri_Modulo_ParlaBO_2024,
-		author = {Mauri, Caterina and Ballarè, Silvia and Zucchini, Eleonora},
-		doi = {https://doi.org/10.60760/unibo/parlabo},
-		month = oct,
-		title = {{Modulo ParlaBO}},
-		url = {https://github.com/KIParla/ParlaBO},
-		year = {2024}
+	@article{Caterina_KIParla_corpus_a_2019,
+		author = {Caterina, Mauri and Silvia, Ballarè and Massimo, Cerruti and Eugenio, Goria and Francesco, Suriano},
+		journal = {Proceedings of the 6th Italian Conference on Computational Linguistics CLiC-it.},
+		title = {{KIParla corpus: a new resource for spoken Italian}},
+		year = {2019}
 	}
 ```
 
