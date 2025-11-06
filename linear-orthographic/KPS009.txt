@@ -3,7 +3,6 @@ PKP041	mena
 PKP040	ma cos'è iceberg
 PKP040	yesice berg come dice la nonna
 PKP041	io mi compro sempre la ice berg
-PKP040	
 PKP042	nonna si dice iceberg
 PKP040	il problema è che mo è girarla
 PKP041	eh prova devi fare perciò è un passatempo
@@ -74,8 +73,6 @@ PKP041	perché lui fa sempre li battute quella non le capisce
 PKP039	è lenta
 PKP040	c'eri c'eri pure tu
 PKP042	no so x
-PKP041	
-PKP039	
 PKP039	ca scusa
 PKP040	anna se non hai le prove taci
 PKP041	lau
@@ -92,7 +89,6 @@ PKP039	li ha messe tutte sotto ce l'hai sa
 PKP042	eh non escono non salgono non salgono
 PKP042	mh
 PKP040	sto perdendo pezzi
-PKP040	
 PKP042	quindi i ragazzi di milano rimangono là
 PKP042	così sembra
 PKP039	forse paolo
@@ -119,7 +115,6 @@ PKP040	mhmh
 PKP039	ha preso i compensi purtroppo devi farti bene i conti
 PKP040	anna come puoi aver pensato che io non abbia messo i tovaglioli nel tavolo
 PKP039	pà vi ci la spicci sa
-PKP040	
 PKP042	mi passi~ ah poi poi me la passi
 PKP040	mh
 PKP040	poco poco
@@ -285,7 +280,6 @@ PKP040	mangiafuoco
 PKP042	secondo te lau
 PKP039	no questo qua ce l'ha la faccia da uno che fa divani per i cani cioè
 PKP041	troppo troppo banale
-PKP040	
 PKP042	che fa i divani per
 PKP041	per i cani no
 PKP042	i cani
@@ -323,7 +317,6 @@ PKP039	potrebbe essere stato quello ad avermi dato dolore l'altro giorno
 PKP039	ico scusi ma il dolore adesso ce l'ha
 PKP039	no mi è passato
 PKP040	e allora cioè ho detto le ho tolto quello là di dietro che si muoveva di più le è passato il dolore
-PKP039	
 PKP040	ciononostante qua~ tu mi dici può darsi che quello che c'ho mo era quello che mi aveva fatto male perciò lo dobbiamo togliere ma allora si fessa propria
 PKP039	marce' vedi male che vada fai questo della vita
 PKP040	dici che non era quello là che mi aveva fatto male

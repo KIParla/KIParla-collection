@@ -207,7 +207,6 @@ PKP040	io ho una propensione al disturbo istrionico dela personalità
 PKP047	no ieri sera ho visto un attimo
 PKP040	tu al menefreghismo delle mie cose
 PKP047	che augias no augias si chiama xxx augias è quello il giornalista
-PKP041	
 PKP047	tu sei proprio un egocentrico
 PKP040	è un dis~
 PKP040	stava distruggendo salvini
@@ -401,7 +400,6 @@ PKP047	ti devo far vedere un bel film laura
 PKP041	il treno per darjeeling di wes anderson
 PKP040	no
 PKP039	di che parla
-PKP047	
 PKP040	un viaggio in india
 PKP040	bel~ lo vedo
 PKP047	ma è mh di denuncia
@@ -411,7 +409,6 @@ PKP041	i film di wes anderson solitamente
 PKP040	no ma so sce e~ d~ i film che devi dire oh io ho visto un film di wes andreson bellissmo ah capisco tutte le xx
 PKP040	la scenografia
 PKP039	l'insostenibile leggerezza dell'essere
-PKP040	
 PKP047	quello xx come si chiama quello xx
 PKP047	però i suoi temi
 PKP041	solitamente quelli che ve~
@@ -434,8 +431,6 @@ PKP047	e lui è simmetrico eh ah la' è vero
 PKP040	compenso la mia asimmetria
 PKP039	eh vabbè
 PKP041	cosa dire di hopper
-PKP047	
-PKP040	
 PKP040	quella coso tronco c'aveva una marea di formiche eh
 PKP040	vuoi la frutta
 PKP047	vuo~
@@ -662,5 +657,4 @@ PKP041	cosa
 PKP040	finiamo
 PKP040	ah si si
 PKP041	beh dai mandiamo dai basta
-PKP040	
 PKP040	sparecchiamo

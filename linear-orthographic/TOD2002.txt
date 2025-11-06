@@ -42,7 +42,6 @@ TO081	no ho il terrore dei cani
 TO999	do di matto mi paralizzo
 TO081	addirittura
 TO999	sì
-TO081	
 TO999	è proprio irrazionale
 TO081	ma come mai
 TO081	e non si sa praticamente nessuno se lo ricorda a casa mia
@@ -93,7 +92,6 @@ TO081	xx xx tutto anche senza cani
 TO999	soprattutto
 TO999	okay
 TO081	senti allora so che te l'ho già chiesto ma la casa dove vivi ora come è fatta
-TO081	
 TO081	okay
 TO081	allora ora è un po' che me la immagino questa casa quindi
 TO081	eh
@@ -214,7 +212,6 @@ TO081	non so come si chiama
 TO081	su per il paraurti della macchina e tu non puoi partire se no uccidi il gatto e poi tua mamma ti mette fuori
 TO081	invece qui a torino di quelle cose no
 TO081	solo cose positive
-TO081	
 TO999	secondo me metto in pausa
 TO081	come stai
 ???	no non ho imparato
@@ -231,7 +228,6 @@ TO081	ci sto pensando per la prima volta nella vita
 TO081	potrei rivalutare il vivere in città
 TO999	dai non è così male
 TO081	beh ma neanche vivere in corso re umberto è così male
-TO081	
 TO081	ma non è male per niente però no cioè
 TO081	non lo so non era casa mia forse è stato
 TO999	starci per troppo poco tempo
@@ -294,7 +290,6 @@ TO999	allora sì però
 TO081	quindi che zona ti piacerebbe di torino
 TO999	no non lo so questa è una domanda troppo difficile
 TO081	voi fuorisede non conoscete le zone di torino
-TO999	
 TO081	questa è la verità
 TO999	no qualcuna la conosco però no non c'ho mai vissuto quindi non saprei
 TO999	mhmh
@@ -356,7 +351,6 @@ TO999	non vorrei viverci sopra
 TO081	no certo vabbè ma quando sei a casa tua dove esci
 TO999	beh a casa mia non è ci sono troppe eh no esatto
 TO999	la night life di nomepaese
-TO081	
 TO081	quella già è inesistente
 TO081	e anche lì attorno non troppissima vita sociale però
 TO081	e beh c'è qualche pub tipo il baladin originale il tapiozzo

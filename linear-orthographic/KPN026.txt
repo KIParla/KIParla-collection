@@ -44,7 +44,6 @@ PKP107	e
 PKP107	in pratica faccio vabbè mari finiam ste due birre e andiamo
 PKP107	vado in m~ mare per sciacquarmi un attimo
 PKP111	torno su e il mio zaino non c'era più
-PKP107	
 PKP107	solo il mio ovviamente
 PKP107	e quindi
 PKP107	niente dopo
@@ -54,7 +53,6 @@ PKP111	polizia polizia xx
 PKP111	davvero
 PKP107	ma lei è è è quella italiana
 PKP113	sì ma lei è matta
-PKP107	
 PKP113	sì ma abbiamo rischiato veramente il peggio il peggio abbiamo rischiato
 PKP107	no io mi sarei cagata
 PKP107	e
@@ -126,7 +124,6 @@ PKP113	ma è successo dopo che me lo avevan~ rubato
 PKP107	sì
 PKP113	secondo me è mia mamma perché lei ogni tanto entra dal mio
 PKP107	ah okay
-PKP113	
 PKP107	boh sarà entrata col telefono di un'altra su facebookay non lo so
 PKP111	oddio che ansia
 PKP107	vabbè ma loro secondo me lo hanno subito spento no
@@ -154,8 +151,6 @@ PKP107	dio bo che sfiga
 PKP111	infatti
 PKP107	dove sei
 PKP107	boh
-PKP113	
-PKP107	
 PKP107	vabbè dai
 PKP113	te hai studiato invece
 PKP113	moh insomma
@@ -175,7 +170,6 @@ PKP107	poi avevo anche le vans
 PKP113	otto ore
 PKP113	son~ tornata a casa
 PKP113	ave~
-PKP113	
 PKP113	avevo un
 PKP113	avevo un male
 PKP111	assurdo
@@ -184,7 +178,6 @@ PKP113	son~ dovuta stare nel letto stesa con le gambe in alto appoggiate al muro
 PKP107	ai piedi
 PKP113	madonna
 PKP111	vi giuro
-PKP111	
 PKP113	mi sembra un po' esagerato
 PKP113	otto ore
 PKP113	non mi son~ seduta un attimo non non abbiamo neanche uno sgabellino e niente
@@ -193,7 +186,6 @@ PKP111	di solito sto sempre seduta a studiare
 PKP111	boh a a anche
 PKP113	il laboratorio de dello scientifico c'è c'eran~ gli sgabelli
 PKP111	non ci son~ da noi
-PKP107	
 PKP113	non ci son gli sgabelli
 PKP113	no
 PKP107	xxx
@@ -202,7 +194,6 @@ PKP111	sì di venti minuti
 PKP113	ma perché non potete sedervi che cosa avete fatto di male
 PKP111	perché non ci son~ proprio gli sgabellini non c'è niente
 PKP111	e perché non ve li hanno messi
-PKP113	
 PKP111	non lo so
 PKP111	è una tortura
 PKP107	eh
@@ -261,7 +252,6 @@ PKP111	invece
 PKP111	io
 PKP113	in montagna son~ son~ andato in prontosoccorso anch'io
 PKP111	cosa dici
-PKP107	
 PKP111	cioè qua un cam~ oh un lazzaretto
 PKP113	un lazzaretto
 PKP111	cos'hai fatto
@@ -321,18 +311,13 @@ PKP111	ah la pizza
 PKP114	grano e farina
 PKP111	sì
 PKP111	sai cosa p~
-PKP113	
 PKP107	no vai con i denti chiara
 PKP111	vorrei capire questo suono come lo trascriverò
-PKP113	
-PKP111	
 PKP111	ah quindi anche il eh
 PKP107	i suoni devi trascrivere
 PKP111	no
-PKP107	
 PKP111	cioè dovrò trascrivere
 PKP113	adesso mi metto a fare il rumorista
-PKP107	
 PKP107	attenzione un suono
 PKP107	sciok
 PKP107	questo povevo evitarlo
@@ -369,8 +354,6 @@ PKP113	buona
 PKP111	adesso l'hanno aperta anche a forlì
 PKP113	dove
 PKP111	si chiama grano e farina pop
-PKP113	
-PKP113	
 PKP107	hanno aggiunto sta~ l'ultimo pop
 PKP111	ma perché pop
 PKP113	e dove
@@ -538,8 +521,6 @@ PKP113	beh è vicino dai
 PKP111	è vi~ è abbastanza vicino
 PKP107	sì il fatto è che vai in giornata no
 PKP111	più o meno
-PKP113	
-PKP111	
 PKP107	andiamo e torniamo va
 PKP113	vabbè in montagna ce ne metti quattro o cinque dai
 PKP113	no lì devi andare in puglia poi torni su e vai lì
@@ -555,14 +536,12 @@ PKP113	era molto acquosa sembra
 PKP107	boh sarà la bufala
 PKP111	ah ah
 PKP113	prossima volta è sempre da grano e m~ pastina
-PKP107	
 PKP111	grano e fari~
 PKP113	grano e farina
 PKP113	a me piace molto anche quella dove l'abbiam presa l'altra volta
 PKP107	come si chiama zak zatto
 PKP107	zak
 PKP114	è zak
-PKP113	
 PKP107	zappo
 PKP113	zak lo chiamano
 PKP113	zak
@@ -600,8 +579,6 @@ PKP113	non lo so non lo so xx
 PKP114	non lo so
 PKP107	a che ora arrivano
 PKP114	non me lo xx
-PKP111	
-PKP114	
 PKP114	è buonissima sta pizza
 PKP111	te non avevi fame hai detto
 PKP107	ne mangerei un'altra
@@ -636,7 +613,6 @@ PKP114	quelle basse così e
 PKP113	finita
 PKP114	sottili
 PKP111	arrivi massimo massimo a un due
-PKP113	
 PKP111	tipo quella del melograno
 PKP113	mai mangiata
 PKP107	non gli hai mai fatto mangiare quella del melograno
@@ -666,7 +642,6 @@ PKP114	esatto
 PKP113	eh
 PKP107	napoli
 PKP111	eh a napoli devi dare una passo
-PKP107	
 PKP113	giusto
 PKP107	te ci sei mai stata
 PKP113	mhmh
@@ -730,9 +705,7 @@ PKP113	un disagio
 PKP114	si
 PKP114	cioò eravamo
 PKP113	lo scatafascio
-PKP114	
 PKP113	gli italiani in francia
-PKP107	
 PKP111	ho una domanda loro cosa son venuti a fare a forlimpopoli
 PKP111	eh e loro a vill~
 PKP114	dove
@@ -753,8 +726,6 @@ PKP111	in quattro giorni
 PKP111	per imparare l'inglese
 PKP114	in francia
 PKP113	no è francese
-PKP107	
-PKP111	
 PKP114	xx
 PKP114	vabbè
 PKP107	comunque so che è molto divertente perché ci portavano sempre al bowling là in francia bellissimo
@@ -771,7 +742,6 @@ PKP114	a parte che ero una cazzo di
 PKP114	bomber in ing~ francese cioè sapevo
 PKP114	veramente tantissime cose infatti mi dispiace che non me lo dimen~ che me lo sono dimenticato
 PKP111	e capivo tutto
-PKP114	
 PKP114	ed ero con
 PKP114	un altro mio amico che lo capiva ne
 PKP114	e un napoletano
@@ -781,8 +751,6 @@ PKP114	alla nostra classe
 PKP114	e
 PKP114	e parlava solo
 PKP113	il napoletano cioè non capiva niente no
-PKP113	
-PKP114	
 PKP114	vabbè abbiamo fatto sto gioco
 PKP114	in questo
 PKP107	si chiamava il labirinto com'è che si dice in francese
@@ -798,7 +766,6 @@ PKP114	esatto
 PKP113	boh
 PKP107	mh
 PKP113	labyrinthe
-PKP114	
 PKP114	vabbè
 PKP114	entravi
 PKP114	e c~ era proprio un labirinto quindi le prove te le dovevi superare
@@ -817,25 +784,21 @@ PKP114	okay
 PKP114	andare dall'altra parte
 PKP114	aprire
 PKP113	m~ il cofanetto e dentro c'era la chiave per la porta successiva no
-PKP114	
 PKP114	e questo mio amico fa
 PKP114	o' faccio io o' faccio i~
 PKP113	praticamente prende la corda
 PKP114	chissà cos'ha combinato
 PKP113	tra l'altro era gigante
-PKP114	
 PKP114	prende la corda
 PKP107	pum in mezzo alla vasca si bagna tutto il cellulare
 PKP114	no
 PKP113	lui tutto tutto tutto
 PKP113	no
-PKP113	
 PKP114	xx
 PKP114	gli altri che erano tutti dei precisini
 PKP114	si mettono a ridere perché dicono delle robe in francese
 PKP114	beh lui si alza
 PKP113	cammina in questa vasca e comincia ad xx con i piedi
-PKP114	
 PKP114	torna di là prende la chiave andiamo avanti
 PKP114	beh il ridere che abbiam~ stavamo morendo
 PKP114	bellissimo però
@@ -850,15 +813,12 @@ PKP113	bella
 PKP113	io in francia vorrei andare a strasburgo
 PKP113	mi piace da morire
 PKP114	xxx
-PKP113	
 PKP114	sì che è in francia
 PKP107	vabbè non l'avrebbe detto se non era sicura di dove fosse
-PKP113	
 PKP113	sì che è in francia
 PKP111	no
 PKP113	è strasburgo
 PKP107	è una delle poche cose che so di geografia quindi sì dai
-PKP111	
 PKP107	a strasburgo
 PKP113	a far cosa
 PKP113	boh mi piace
@@ -876,7 +836,6 @@ PKP107	a bruxelles c'è un'altra co~ ci sono altre cose
 PKP111	c'è il parlamento
 PKP113	a bruxelles c'è il parlamento a strasburgo c'è la commissione tipo
 PKP111	no per me è bella non so cosa ci sia d vedere però mi piace molto
-PKP111	
 PKP113	secondo me non c'è niente
 PKP111	è bella
 PKP113	vabbè ma
@@ -894,7 +853,6 @@ PKP113	non lo sai
 PKP111	e lì ci sono anche le dieci cose più importani da fare e vedere a strasburgo quindi lo guarderò
 PKP111	sì ma guarda che
 PKP114	che se lo cerchi d~ di forlì anche lì te le dà cioè n~
-PKP113	
 PKP114	vabbè dai
 PKP107	è calda vero
 PKP107	comunque volevo dire che
@@ -908,7 +866,6 @@ PKP111	dio mio
 PKP107	e lo fa con gli scout questo
 PKP111	no lo fa lei
 PKP113	ah okay
-PKP114	
 PKP107	lei comunque si va a impelagare in questi progetti eh
 PKP113	xxx quest'anno lei eh
 PKP107	eh beh lei sì non ha molto da fare eh
@@ -964,9 +921,7 @@ PKP113	e adesso
 PKP111	è top
 PKP113	avete il soppalchino anche qui no
 PKP111	no
-PKP113	
 PKP111	sì almeno è una casa normale con delle porte
-PKP113	
 PKP107	aspetta devo
 PKP111	ma perché fede non viene stasera
 PKP113	ha una cena
@@ -984,7 +939,6 @@ PKP113	ah ah
 PKP111	è bella
 PKP113	la mi~
 PKP107	a parte che
-PKP113	
 PKP113	non c'è ancora né il riscaldamento
 PKP111	né il gas
 PKP113	vabbè adesso
@@ -1053,7 +1007,6 @@ PKP107	ma se passavano a farti un controllo
 PKP111	ah no perché oggi è il tuo giorno libero
 PKP107	no perché lei è lei è è in malattia da domani
 PKP113	ah
-PKP111	
 PKP111	questa camminata fa parte de~
 PKP113	della terapia
 PKP113	mh
@@ -1077,9 +1030,7 @@ PKP107	e va
 PKP111	dov'è la calla
 PKP111	è il passo della calla
 PKP114	ma che scout sei
-PKP111	
 PKP114	ma hai girato o co~
-PKP111	
 PKP111	ha~ ha~ hai hai
 PKP111	quanti anni hai fatto di scout
 PKP113	dieci
@@ -1096,8 +1047,6 @@ PKP111	ma non è vero
 PKP114	ma si sa x
 PKP107	quando eravamo piccoli quanti quante camminate abbiam fatto dalla calla
 PKP114	la calla
-PKP113	
-PKP111	
 PKP114	ah lei si
 PKP113	la calla
 PKP111	la calla
@@ -1107,8 +1056,6 @@ PKP114	vabbè che
 PKP114	i lupetti non chiedono mia dove siamo
 PKP113	cioè
 PKP114	non ho mai capito un cazzo dell'orientamento
-PKP107	
-PKP111	
 PKP113	e infatti vai in puglia e ti fregano tutto
 PKP107	ma si posson dire le parolacce
 PKP113	mah penso di sì
@@ -1117,13 +1064,11 @@ PKP107	io avrò ruttato cioè
 PKP113	infatti stiam facendo lo schifo
 PKP111	vabbè tanto
 PKP107	ma son nuovi quegli occhiali
-PKP113	
 PKP107	no son suoi
 PKP111	son miei
 PKP114	son tuoi
 PKP111	ma sei normale
 PKP113	ma son nuovi
-PKP111	
 PKP113	o so~
 PKP107	ma mi stanno male
 PKP107	sei serio
@@ -1148,14 +1093,11 @@ PKP111	ma no c'è sempre stato me lo ricordo che li ho presi così e
 PKP107	non ho mai notato che erano così infatti
 PKP111	su di me forse non te lo ricordi
 PKP113	ah adesso sì è che su di lei è diverso
-PKP113	
 PKP114	no ma io non li avevo mai visti sti cosi sti xx
 PKP114	comunque quando li han presi mi sa
 PKP111	i xx
-PKP114	
 PKP111	xx bene
 PKP113	mh seh non vanno bene a me
-PKP111	
 PKP107	da poco dobbiam fare un gioco bellissimo
 PKP111	cioè
 PKP107	mezzo porco
@@ -1238,13 +1180,9 @@ PKP114	lo scegli te
 PKP107	guarda che quattro blanco è uno normale capito
 PKP107	io una volta sai cosa ho fatto
 PKP113	tutti blanco
-PKP111	
-PKP107	
 PKP113	no rega è venuta fuori una roba
-PKP107	
 PKP107	faceva
 PKP107	xx
-PKP113	
 PKP107	e cos'ha detto il primo
 PKP107	no
 PKP113	non lo so ha detto una parola e il secondo ha detto un'altra parola
@@ -1258,7 +1196,6 @@ PKP107	poi dicevano ma te
 PKP107	perché hai detto così
 PKP107	ma dai è ovvio che quella parola è uguale
 PKP113	cioè
-PKP107	
 PKP111	è correlata
 PKP111	beh uh~
 PKP111	se son tutti blanchi
@@ -1268,18 +1205,14 @@ PKP107	e gli altri sì
 PKP113	certo
 PKP107	ah per forza
 PKP113	però è stato divertentissimo giuro
-PKP107	
 PKP113	bellissimo
 PKP107	ma è bello in po~ no è
 PKP114	ma è bello in tanti
 PKP107	lei mi sgamava sempre
 PKP114	sì perché tu facevi dicevi una parola poi x
-PKP107	
-PKP111	
 PKP107	sì sì vabbè antisgamo dai
 PKP107	cioè
 PKP113	palese proprio
-PKP114	
 PKP114	madonna
 PKP107	anche lì
 PKP111	come quando giochi a lupus
@@ -1294,14 +1227,10 @@ PKP114	quando
 PKP107	quando mi facevano lupo
 PKP114	s~ te non sai proprio recitare per niente
 PKP111	fortuna
-PKP114	
-PKP114	
 PKP107	fortuna fortuna che
 PKP113	posso fare xx
-PKP107	
 PKP114	no aspetta
 PKP114	fortuna
-PKP114	
 PKP107	fortuna che si parlava di notte perché se no
 PKP114	eh infatti
 PKP107	cioè che ci svegliavano di notte perché se no era finita
@@ -1326,10 +1255,8 @@ PKP107	lo prendo
 PKP107	sì ma ricordati se deve rimanere un po' per rossi e la bianchi
 PKP107	oddio rossi
 PKP113	mi viene l'xx
-PKP114	
 PKP107	come dice xx
 PKP113	non diciamoglielo
-PKP114	
 PKP107	te lo vuoi chiara
 PKP114	e andiamo
 PKP111	robi vuoi il gelato
@@ -1346,13 +1273,11 @@ PKP114	xx
 PKP113	però c'è
 PKP113	grazie quanto xxx
 PKP114	aspetta un po' magari
-PKP107	
 PKP111	quanto ce n'è
 PKP114	xx vieni qui
 PKP111	ma chi se l'è mangiato
 PKP111	io
 PKP107	ieri sera
-PKP111	
 PKP111	di~ durante
 PKP107	prima che mi chiamassero io ero lì che mangia~
 PKP113	okay non riusciamo a mangiarlo
@@ -1371,7 +1296,6 @@ PKP111	cosa ti hanno detto esattamente
 PKP111	ma e ha
 PKP111	ha chiamato prima la
 PKP107	la bianchi io non ho risposto perché stavo scofanando il gelato
-PKP111	
 PKP111	poi mi ha i~ m~ mi ha mi mi ha mandato ottomila messaggi
 PKP111	in cui diceva che te avevi avuto le tue solite crisi così
 PKP111	io l'ho
@@ -1440,9 +1364,7 @@ PKP114	xxx
 PKP113	ieri sera c'eravamo io e neri
 PKP114	non c'è più però nel senso
 PKP107	che stavamo
-PKP114	
 PKP113	cantando uno in un orecchio uno nell'altro della bianchi se credessi
-PKP113	
 PKP107	impazzita
 PKP113	xx a testa
 PKP107	credo di essermi mangiata un po' di polistirolo
@@ -1463,7 +1385,6 @@ PKP113	venti pagine di tesi da fare in una settimana e ottanta ore di tirocinio
 PKP113	le ridurrai in la metà
 PKP114	farai quaranta ore
 PKP113	eh non posso
-PKP111	
 PKP114	eh beh e ti fai sei
 PKP111	se potessi
 PKP111	venti pagine di di
@@ -1471,7 +1392,6 @@ PKP114	di tesi in una settimana
 PKP111	ma no non xx da dio
 PKP111	no xx
 PKP114	xx
-PKP111	
 PKP113	si sente xxx
 PKP107	quanto ci hai messo a far le altre
 PKP107	dai spengo

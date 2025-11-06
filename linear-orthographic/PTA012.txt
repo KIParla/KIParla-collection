@@ -44,7 +44,6 @@ TOR001	quindi mettermi io a disegnarmeli
 TOR001	mh mh mh mh
 TOR002	okay
 TOR001	wow
-TOR001	
 TOI014	ehm hai fatto altri lavori in passato
 TOI014	sì io ho lavorato in come call in in call center
 TOR001	come dipendente
@@ -130,7 +129,6 @@ TOR001	è difficile che xxx
 TOR002	beh io l'ho fatto a parigi
 TOR001	si
 TOR001	il primo eh
-TOR002	
 TOR002	xxx
 TOR002	no beh ma perché starei tipo sei mesi solo a ragionare su cosa voglio
 TOI014	cosa non voglio e poi
@@ -188,7 +186,6 @@ TOI014	mh mh
 TOI014	eh poi ho
 TOI014	mi piace anche andare al mare quindi
 TOR001	avendolo ho la possibilità di farlo quando desidero ecco
-TOR001	
 TOR001	certo
 TOI014	e a barcellona come ti sei trovato
 TOI014	a barcellona mi sono trovato molto bene ma
@@ -244,7 +241,6 @@ TOI014	esatto
 TOR001	sono tornato qui e adesso sono appunto in cerca di occupazione mentre imparo a fare i tatuaggi
 TOR001	okay
 TOI014	scusami eh sta roba dei tatuaggi
-TOR001	
 TOR001	cioè e come come fai cioè nel senso
 TOR001	mh trovi un'immagine e decidi di farla
 TOR001	come trovi l'ispirazione come
@@ -269,7 +265,6 @@ TOR001	sì mi é capitato di tatuare vari amici
 TOR001	okay
 TOI014	mh mh
 TOR001	perché ci si presta a vicenda
-TOI014	
 TOI014	per queste cose
 TOI014	eh io stesso ho fatto provare dei miei amici su di me per fargli capire com'era
 TOR001	per sfatare determinati miti ecco
@@ -284,10 +279,7 @@ TOI014	però quando uno trova una persona
 TOR002	quando uno trova una persona che si
 TOI014	xxx braccio
 TOR002	eh
-TOR001	
-TOI014	
 TOR001	questo può capitare anche
-TOR001	
 TOI014	eh dicevi quando uno trova una persona
 TOI014	quando uno trova una persona che si presta eh
 TOR001	hai fiducia non hai non ti interessa
@@ -300,7 +292,6 @@ TOR001	quello é anche vero piuttosto li risistemi dopo
 TOI014	okay
 TOI014	sì
 TOR001	esatto
-TOR001	
 TOI014	quindi dici che é la persona che si fa tatuare che dà fiducia alla persona che sta imparando
 TOR001	mh sì molte volte é così
 TOI014	okay
@@ -333,14 +324,12 @@ TOR001	d'accordo
 TOR001	emh mh mh mh
 TOI014	ti trasferiresti all'estero per lavorare
 TOR001	sì e me ci trasferirei a anche subito
-TOI014	
 TOR001	il prima possibile
 TOI014	okay
 TOI014	eh
 TOI014	appunto perché io ho questa
 TOI014	ammirazione verso la spagna e
 TOR001	il calore mi piace
-TOR001	
 TOI014	okay quindi sempre a valencia dicevi giusto
 TOI014	sì
 TOR001	adesso
@@ -372,8 +361,6 @@ TOR001	okay
 TOI014	hai frequentato le scuole lì quindi
 TOR002	ho frequentato le scuole
 TOI014	xxx tempo di scuole pensare
-TOR001	
-TOI014	
 TOR001	ho cambiato varie scuole appunto
 TOI014	okay
 TOR001	e ho conseguito un diploma in centro a torino
@@ -564,16 +551,13 @@ TOI014	eh sì
 TOR001	si ha vissuto da soli ecco
 TOR002	certo
 TOR001	é una merda non é difficile
-TOR001	
 TOR002	eh si vabbè per forza
 TOI014	ma io forse due volte son tornato a casa dopo che vivevo da solo non una
 TOR002	hai fatto fatica
 TOR001	ma eh che ho fatto fati~ non c'era più spa~ mio fratello si é espanso e quindi
-TOR002	
 TOR002	camera nostra é diventata camera sua e quindi la mia roba
 TOR001	eh eh é rimasta negli scatoloni finché non me ne sono andato un'altra volta
 TOI014	quand'é che sei tornato tu
-TOR002	
 TOR002	eh io son tornato dopo la germa~
 TOR002	sì
 TOR001	dopo la germania sono stato un po' dai miei
@@ -583,7 +567,6 @@ TOR001	e poi e prima ero stat~ e poi durante il dottorato stavo dai miei però p
 TOR002	e poi sei andato da giulio
 TOR001	poi sono stato da giulio e poi son stato basta
 TOR002	un nomade praticamente
-TOR001	
 TOI014	no però é vero cioè quando stai fuori casa poi rientrare coi tuoi é
 TOR001	é difficile
 TOI014	cioè ti ricambia qualunque dinamica ti sei creato da solo un disastro
@@ -601,7 +584,6 @@ TOI014	eh
 TOI014	ognuno faceva la propria vita ecco ogni tanto si faceva
 TOR001	quattro chiacchiere adesso con mio papà é identico quindi
 TOR002	okay
-TOI014	
 TOR001	mh mi trovo peggio sicuramente che rispetto a quando ero a barcellona
 TOI014	mh mh
 TOI014	eh perché convivere con una persona non é semplice perché ci sono cose che
@@ -610,7 +592,6 @@ TOR001	mh mh mh certo
 TOI014	okay cosa fai durante il tempo libero
 TOR001	io nel tempo libero vado in skate
 TOR001	perché ridi
-TOR002	
 TOI014	solo una cazzzata non importante
 TOR001	e vado in skate da sette anni
 TOI014	okay
@@ -725,7 +706,6 @@ TOI014	mh non é delle preferenze per quello che é uscire per me la sera a tori
 TOR001	decidono sempre gli altri
 TOI014	okay
 TOR002	faccio fare agli altri mi tolgo questo problema
-TOR001	
 TOR001	va bene
 TOI014	ehm ascolti musica
 TOR001	sì io ascolto tutti i giorni la musica
@@ -769,10 +749,8 @@ TOI014	va bene cinema
 TOR001	cinema guardo molti film
 TOI014	okay
 TOR001	eh mi sono scaricato netflix
-TOI014	
 TOR001	ed é una rovina appunto perché quando non esco la sera decido sempre di guardare un o una serie o dei film
 TOR002	lui ride perché é quello che faccio io nella mia vita praticamente
-TOI014	
 TOR001	okay
 TOI014	e quindi netflix sia serie tv che film
 TOR001	esatto
@@ -793,11 +771,9 @@ TOR001	mi fa seguire le puntate standoci fino all'ultimo secondo attaccato ecco
 TOR001	okay
 TOI014	okay allora proviamo
 TOR001	sì
-TOI014	
 TOR001	penso che in spagnolo sia meglio decisamente
 TOR002	eh lui lo capisce
 TOR001	eh guardo che é vero eh io ho vissuto eh due mesi però saltuari in spagna
-TOR002	
 TOI014	in andalucia
 TOR001	sì
 TOR002	ed é nato lo spagno~ beh ma io capire lo capisco dai
@@ -823,7 +799,6 @@ TOI014	grazie mille
 TOR001	grazie
 TOR002	allora mh
 TOR001	così abbiamo anche il tatuatore
-TOR001	
 TOI014	xxx metto via sta roba mi perdo sempre tutto
 TOR001	ce l'hai una cartina corta che io ho il tabacco
 TOI014	ma vuoi una sigaretta prendila tranquillo
@@ -840,9 +815,6 @@ TOI014	oh ma te ne rendi conto
 TOI014	é dello stesso segno eh
 TOI014	e quando i ti parlo molte risposte che mi vengono date
 TOR001	mi creano uno stato di confusione
-TOI014	
 TOR002	perché io dico queste cose le ho già sentite queste cose le ho già viste
-TOI014	
 TOR001	penso alla routine della quotidianità e dico ma sto facendo la stessa vita
-TOI014	
 TOI014	va all'astoria fa le foto quando stacca viene da me che sono le qua~

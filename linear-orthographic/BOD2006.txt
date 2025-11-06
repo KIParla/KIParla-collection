@@ -5,7 +5,6 @@ BO051	daniele
 BO049	ciao
 BO051	e come stai
 BO049	bene grazie
-BO049	
 BO049	bene
 BO049	allora
 BO051	per prima cosa ti vorrei chiedere intanto cosa fai nella vita
@@ -20,8 +19,6 @@ BO049	e suoni la chitarra
 BO051	e precedentemente che studi hai fatto
 BO051	ehm ho studiato
 BO049	mi imbarazzo
-BO051	
-BO049	
 BO051	perché
 BO051	no
 BO051	ho studiato
@@ -64,7 +61,6 @@ BO049	si sono figlio unico
 BO049	ah solite interviste
 BO049	sí sí
 BO049	continuano
-BO049	
 BO049	ehm
 BO051	hai sempre vissuto in quella casa é la casa della tua infanzia oppure xx
 BO051	m non esattamente
@@ -108,7 +104,6 @@ BO051	giustamente ma avete giá iniziato a guardare case state facendo
 BO051	sí
 BO049	sí sí
 BO049	bene
-BO049	
 BO051	e che quindi vi piacerebbe una casa di che tipo grande piccolo appartamento vorreste essere solo voi o
 BO049	no no l'im~ l'importante é che sia piccola ma che abbia quel minimo di spazio vitale per poter rimanere anche da soli in casa contemporaneamente
 BO049	da s~
@@ -116,7 +111,6 @@ BO049	bene bene bene
 BO049	e come e come la voresti arredare
 BO051	hai uno stile particolare oppure
 BO049	no mi piacciono molto le luci
-BO051	
 BO049	eh l'importante é che le luci siano calde poi non sono un grande amante dell'arredamento quindi mi mi interessa piú che altro che la luce sia accogliente
 BO049	okay
 BO049	okay perfetto
@@ -132,7 +126,6 @@ BO049	okay
 BO051	per studiare invece ti rechi magari in biblioteca
 BO049	magari sí
 BO051	magari sí
-BO049	
 BO051	che é grosso m~
 BO049	sí mi piace separare il luogo del lavoro dal luogo del riposo
 BO049	ci sta
@@ -187,7 +180,6 @@ BO049	direi sí
 BO051	ti ha c'é q~ c'é q~ un qualche episodio in particolare m magari divertente che puoi raccontare o
 BO049	beh e
 BO051	anche qualcosa di imbarazzante va bene
-BO051	
 BO051	e ma no diciamo che
 BO051	diciamo che l~ l~ quello che ha premiato di quell'esperienza é stato in realtá
 BO051	eh la grande libertá che si gode eh la totale indipendenza che si gode d~ m da molto giovani quindi so' stato in realtá tutto una grande sorpresa una grande eh novitá
@@ -196,7 +188,6 @@ BO049	sí
 BO051	mh e in casa come come sei di solito anche come com'eri in erasmus sei ordinato pulisci cucini oppure
 BO049	piú che pulire riordino
 BO051	riordini
-BO049	
 BO051	il disordine che tu hai creato
 BO051	sí sí sí eh peró
 BO051	come dire
@@ -270,7 +261,6 @@ BO051	gravitando un po' nella scena musicale insomma la voce circola e quando qu
 BO049	essenzialmente c~ ci sono giá quei legami di fiducia preesistenti e quindi insomma si si se ci si trova bene si conmincia a lavorare insieme con continuitá
 BO051	quindi sei contento di questo progetto
 BO051	a faccia ru cazz'
-BO049	
 BO049	perfetto
 BO051	hai suonato anche in altri gruppi oppure
 BO049	sí sí sí ho avuto un gruppo ho avuto un gruppo prima con cui ho suonato in realtá per la maggiorparte del della mia aperte virgolette carriera
@@ -304,7 +294,6 @@ BO051	è un annetto
 BO049	è un annetto
 BO051	e come ti trovi sei contento
 BO049	ah molto
-BO051	
 BO049	sì molto molto molto con alti e bassi chiaramente come tutte le relazioni peró molto bene
 BO049	bene
 BO049	eh sì

@@ -50,14 +50,12 @@ TOR001	emh
 TOR001	ti piacerebbe andare avanti a fare lo stesso lavoro
 TOI007	oppure vorresti cambiare
 TOR001	eh
-TOI007	
 TOI007	sono sono in dubbio
 TOI007	nel senso che
 TOI007	sì mi piace quello che faccio
 TOI007	però boh
 TOR001	non so se voglio farlo tutta la vita
 TOR001	okay
-TOI007	
 TOR001	quindi non lo so
 TOI007	cosa ti piacerebbe fare
 TOI007	non lo so
@@ -73,7 +71,6 @@ TOR001	vorrò farlo
 TOI007	okay
 TOR001	però è molto vago ancora
 TOR001	okay
-TOR001	
 TOR001	va bene
 TOI007	emh pensi che torino sia un buon posto per lavorare
 TOI007	sì
@@ -95,8 +92,6 @@ TOI007	infatti un'opzione è anche quella
 TOR001	tra le varie cose
 TOI007	okay
 TOI007	in un paese caldo
-TOR001	
-TOI007	
 TOI007	no sul serio in paese caldo e
 TOR001	non lo so
 TOI007	ma anche a fare tutt'altro
@@ -121,8 +116,6 @@ TOR001	no no è tutto molto nuvolo
 TOI007	proprio so~ solo solo
 TOR001	le nuvole esa~
 TOI007	solo che faccia caldo va bene
-TOR001	
-TOI007	
 TOI007	quello è il punto
 TOR001	imprescindibile
 TOR001	okay
@@ -130,11 +123,9 @@ TOR001	ma andresti all'estero anche per per lavoro
 TOI007	cioè non solo per un periodo breve ti trasferiresti
 TOI007	sì sì anche per lavoro sì
 TOI007	basta faccia caldo
-TOI007	
 TOR001	mi trasferirei eh
 TOI007	la priorità principale
 TOR001	questo cancellalo
-TOI007	
 TOI007	no eh
 TOI007	sì
 TOI007	non per tanti anni però
@@ -179,7 +170,6 @@ TOI007	mh mh
 TOI007	o australia non lo so
 TOI007	tutto però
 TOR001	li sparo così non c'è dietro vabbè
-TOR001	
 TOR001	okay
 TOI007	eh vivi a torino
 TOR001	sì
@@ -225,8 +215,6 @@ TOR001	va bene
 TOI007	ci sono dei problemi ci sono cose che miglioreresti della tua zona
 TOI007	eh
 TOI007	complicato
-TOR001	
-TOI007	
 TOI007	mi cogli un po' impreparato nel senso
 TOI007	sì ci sarebbero delle cose ma
 TOI007	come dire
@@ -255,11 +243,9 @@ TOI007	perché poi
 TOR001	ci sono anche tutte quelle persone lì e
 TOI007	certo
 TOR001	non è bellissimo nel senso alla fine
-TOR001	
 TOR001	emh
 TOI007	trovi tutto nel tuo quartiere o devi spostarti spesso
 TOI007	dipende quanto vuoi spendere
-TOI007	
 TOI007	cioè il pane costa
 TOR001	no c'è tutto sì sì
 TOR001	okay
@@ -273,7 +259,6 @@ TOR001	trovi roba più buona a
 TOI007	prezzi più bassi
 TOI007	prezzi più bassi e poi è bello
 TOR001	cioè nel senso in mezzo al delirio
-TOI007	
 TOR001	divertente
 TOR001	sì
 TOR001	emh
@@ -286,7 +271,6 @@ TOR001	però è successo anche in bici
 TOI007	complicato in bici far la spesa
 TOI007	sì sì abbastanza
 TOR001	le uova non arrivan quasi mai intere
-TOI007	
 TOR001	non tutte
 TOR001	emh
 TOR001	quindi a piedi scusami dicevi in bici
@@ -466,7 +450,6 @@ TOR001	no anche a milano
 TOR001	okay
 TOI007	tipo
 TOR001	tipo xxx milano
-TOI007	
 TOR001	carine le xxx
 TOI007	sì
 TOR001	erano tre batterie l'unico concerto con tre batterie live
@@ -494,7 +477,6 @@ TOI007	sì
 TOI007	non non tantissimo però
 TOR001	non c'è tempo per far tu~
 TOI007	se riesci vai diciamo
-TOR001	
 TOI007	okay va bene
 TOR001	sempre soldi
 TOI007	segui altri sport
@@ -564,7 +546,6 @@ TOI007	perché è troppo lungo
 TOR001	perché sì
 TOI007	però è molto bello
 TOR001	lo so
-TOI007	
 TOI007	lo so lo so
 TOR001	no però preferisco roba tipo true detective
 TOI007	okay

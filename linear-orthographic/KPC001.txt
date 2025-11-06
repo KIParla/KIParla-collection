@@ -4,7 +4,6 @@ PKP026	accendo
 PKP026	va bene
 PKP025	ci fermiamo un attimo e prendiamo il tè e la tisana
 PKP025	tè
-PKP026	
 PKP025	vai
 PKP026	lo zucchero c'è
 PKP025	sì
@@ -84,7 +83,6 @@ PKP026	no vabbè
 PKP025	eh però dopo farlo a entrambi
 PKP026	il prezzo
 PKP025	eh eh
-PKP025	
 PKP025	boh
 PKP026	oppure per michela
 PKP025	eh no
@@ -121,9 +119,7 @@ PKP026	il tè è pronto adesso lo verso eh
 PKP026	tisana e tè
 PKP026	facciamo una piccola pausa
 PKP025	rilassante
-PKP025	
 PKP025	se no i fiori
-PKP026	
 PKP025	eh un bouquet di fiori
 PKP026	che però già glielo fanno
 PKP025	una pianta carina un qualcosa carino che rimane comunque in casa un'orchidea qualcosa così
@@ -191,7 +187,6 @@ PKP026	perché tanto non è un matrimonio proprio
 PKP025	esatto un pensiero
 PKP025	quindi anch'io glie farò
 PKP025	gli farò i fiori
-PKP026	
 PKP025	dal fioraio qualc~ una composizione più che un mh fiori veri
 PKP025	ma
 PKP025	è che
@@ -277,7 +272,6 @@ PKP025	di fronte al tavolo di
 PKP025	mh
 PKP026	adulti
 PKP025	mh
-PKP025	
 PKP026	quindi entri al bagno c'è l'antibagno si chiama no
 PKP025	mh mh
 PKP025	poi c'è il bagno
@@ -335,7 +329,6 @@ PKP025	sì
 PKP026	eh infatti ma io non lo sapè
 PKP025	non prendi il tè
 PKP025	sì ma scotta
-PKP025	
 PKP025	quindi boh sabato
 PKP025	però mi so' divertita
 PKP025	c'era la sala è piccolo
@@ -399,7 +392,6 @@ PKP026	tutto annebbiato
 PKP025	comunque noi siamo stati costretti a andare via perché lì ce semo s~ ci siam fermati un attimo che c'era le po~ il posto per stare seduti
 PKP026	dove
 PKP025	in quella lì rossa piccolina e dei ragazzini ci guardavano malissimo
-PKP026	
 PKP025	e alla fine abbiam deciso de anda' a casa
 PKP026	ma che or'era
 PKP025	mezzanotte e mezza mezzanotte e un quarto
@@ -441,7 +433,6 @@ PKP025	boh anche a di rimini riccione se volete qualcosa
 PKP025	e lei gli ha detto guarda ci siamo molto divertiti però
 PKP025	sinceramente la cena
 PKP025	mh
-PKP025	
 PKP026	a parte che il servizio cioè
 PKP025	no a noi invece c'era un ragazzo tanto carino
 PKP025	non dieci minuti ti portava via il piatto
@@ -482,7 +473,6 @@ PKP026	vabbè che tanto se vai lì
 PKP025	cioè se tu decidi de andare in un locale così al chiuso pieno di gente un minimo di rischio de~ lo devi mette in conto
 PKP026	sa
 PKP025	infatti noi dicevamo dove prenotamo sabato prossimo perché tanto lo vogliamo prende a tutti i costi sto covid
-PKP025	
 PKP026	ma poi lorenzo fa il tampone il lunedì e il venerdì
 PKP025	qual era lorenzo
 PKP026	il ragazzo quello vicino
@@ -512,7 +502,6 @@ PKP025	cosa
 PKP026	uno m'ha regalato la rosa
 PKP025	chi
 PKP025	c'era
-PKP025	
 PKP026	c'era uno che vendeva le rose
 PKP025	mh
 PKP026	e que~ e un altro me l'ha regalata
@@ -568,7 +557,6 @@ PKP025	sì c'era stato quell'accoltellamento s'eran~ avevano accoltellato un rag
 PKP025	c'era i carabinieri
 PKP026	eh sì
 PKP025	eh tu pensa quanto può essere sicuro
-PKP026	
 PKP025	un posto così
 PKP025	però adesso fanno tipo una selezione prima che entri eh
 PKP026	poi ho visto ogni tanto ne portava uno fuori
@@ -620,7 +608,6 @@ PKP026	perché
 PKP025	io lavoro
 PKP026	a che ora è
 PKP025	non lo so
-PKP025	
 PKP026	ma ancora non è passato
 PKP025	eh un po' ci vuole
 PKP025	senti qua
@@ -761,7 +748,6 @@ PKP025	si stava bene il vento non c'era manco
 PKP026	ieri era freddo per anda' a camminare
 PKP025	ieri perché c'era tanto vento
 PKP025	dai m'è caduta tutta
-PKP026	
 PKP025	vabbè
 PKP026	buoni
 PKP026	abbiamo fatto merenda

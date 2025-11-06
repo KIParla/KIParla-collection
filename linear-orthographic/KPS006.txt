@@ -60,7 +60,6 @@ PKP006	ha pianto poi ieri al telefono
 PKP006	eh
 PKP001	ha detto
 PKP001	peccato
-PKP006	
 PKP004	eh
 PKP004	vabbè io non credo che
 PKP004	perché la figlia abbia preso questa decisione
@@ -84,7 +83,6 @@ PKP006	non dice mai niente xxx
 PKP005	ti devo dire una cosa ha detto
 PKP006	l'acqua elena pure
 PKP001	sembra più un funerale
-PKP006	
 PKP003	che altro io ho cercato
 PKP006	xxxxx
 PKP004	però
@@ -291,17 +289,14 @@ PKP006	mh
 PKP004	stanotte aveva fa~
 PKP006	aveva pianto per la fame
 PKP004	xx
-PKP001	
 PKP001	ha detto ho pianto
 PKP004	mi so' svegliato
 PKP001	ho pianto
 PKP006	ho pianto che avevo fame
-PKP006	
 PKP001	eh
 PKP006	sono assai a me eh
 PKP004	quando la dobbiamo fare l'intervista
 PKP001	a breve
-PKP005	
 PKP005	non vi finite il formaggio
 PKP004	ci sono pure io
 PKP004	no
@@ -339,7 +334,6 @@ PKP004	più piccole le posate
 PKP006	poi le hanno ingrandite
 PKP001	forse a xx è capitata pure la forchettina
 PKP001	sì
-PKP004	
 PKP004	tutto mignon
 PKP004	che ha detto marco
 PKP004	ha avuto paura a stare in questa casa
@@ -357,11 +351,9 @@ PKP004	mh
 PKP003	me lo ricordo che venivano quà
 PKP003	anni fa anni anni fa
 PKP001	eravamo nel balcone e mi disse accompagnami che ho paura al bagno
-PKP006	
 PKP004	meno male che avevi tenuto quella fetta di pane non bagnata
 PKP006	eh meno male infatti
 PKP001	che l'ha mangiata x
-PKP004	
 PKP004	ah
 PKP006	ho visto che l'ha guardato male perché
 PKP004	xx
@@ -374,7 +366,6 @@ PKP005	ho visto che l'ha guarda
 PKP003	sì ma uno che a quest'età c'ha questi problemi
 PKP004	xxxx
 PKP005	non sono problemi
-PKP004	
 PKP004	quello sarà stato sempre così
 PKP001	probabilmente la mamma lo ha
 PKP004	e mangia così
@@ -402,15 +393,12 @@ PKP004	lei andava nella c
 PKP005	mh
 PKP001	mi ricordo quando andammo in campagna a mangiare i panzerotti
 PKP005	sì
-PKP004	
 PKP004	una bella casetta lì
 PKP001	in campagna che avevano
 PKP004	ma dove era
 PKP004	era
 PKP004	andando
 PKP005	da xxxx
-PKP004	
-PKP005	
 PKP005	vicino
 PKP005	i terreni di zio peppino
 PKP004	e di zio antonio
@@ -433,7 +421,6 @@ PKP006	e cinquanta giga di internet
 PKP004	e io che me ne faccio
 PKP004	vabbè
 PKP001	te li danno mamma con sei euro
-PKP004	
 PKP004	te li tieni
 PKP006	visto che ora te li fanno pagare
 PKP006	devo farti x prima i numeri di telefono
@@ -498,7 +485,6 @@ PKP004	se tu ti abitui ad utilizzarlo
 PKP006	poi sarà automatico utilizzarne uno
 PKP006	ques~
 PKP001	questo non lo lascio
-PKP006	
 PKP006	madonna
 PKP006	c'è elena che me lo dice continuamente
 PKP006	però
@@ -513,7 +499,6 @@ PKP005	e solo tu e questo e quest'altro e ti faccio vedere quà
 PKP005	ohi
 PKP006	elena ha una personalità influente
 PKP001	mi m~ mi manda continuamente co~
-PKP006	
 PKP001	mo pure ada
 PKP004	ah sì
 PKP006	mh
@@ -532,7 +517,6 @@ PKP004	è buona
 PKP005	mh
 PKP004	secondo me il suo amico avrebbe fatto il bis oggi
 PKP005	sì oggi avrebbe mangiato abbondante
-PKP004	
 PKP005	a meno che
 PKP005	della serie
 PKP004	oh oh oh ah
@@ -555,8 +539,6 @@ PKP006	e ho fatto i complimenti perché mi era piaciuta
 PKP001	io non lo voglio xx
 PKP003	mhmh
 PKP001	e dice che mo mi chiama quello della torta
-PKP004	
-PKP003	
 PKP004	ha detto che se avesse avuto il tempo mi avrebbe fatto una torticina piccola
 PKP004	addirittura
 PKP004	sì lo disse
@@ -740,7 +722,6 @@ PKP003	l'unica cosa che posso fare
 PKP006	un po' più brutta mamma
 PKP006	è ricoverare pure lei nel
 PKP001	reparto di pediatria assieme a suo figlio
-PKP006	
 PKP006	e io mi assistevo lui
 PKP006	così xxxxx
 PKP006	un xxxx
@@ -774,7 +755,6 @@ PKP006	ho detto eh vabbè
 PKP006	ritornerà prima o poi
 PKP006	signora non c'è
 PKP004	mica diceva è morto
-PKP001	
 PKP006	ah
 PKP006	e io che insistevo
 PKP006	eh va bene dicevo ma
@@ -815,7 +795,6 @@ PKP006	non telefonare se hai bisogno
 PKP006	non fare come l'altra volta
 PKP001	il professore verdi è morto
 PKP004	è morto
-PKP006	
 PKP001	oddio ho detto io co~
 PKP006	eh vabbè
 PKP006	beh
@@ -908,7 +887,6 @@ PKP005	nessuno
 PKP001	già fatto
 PKP005	no
 PKP001	il trentasei mesi è finito
-PKP004	
 PKP006	trentasei mesi è finito
 PKP001	di già
 PKP004	mh
@@ -916,7 +894,6 @@ PKP006	ma dove l'avevano comprato
 PKP004	il giorno del mercato
 PKP004	ah
 PKP006	pensavo al supermercato
-PKP004	
 PKP006	altrimenti l~ potevamo prenderlo un pezzo
 PKP006	sapeva tutto xxx
 PKP006	gli lascia' un po' di formaggio
@@ -956,7 +933,6 @@ PKP001	sì
 PKP004	c'è una metà nonna
 PKP006	tieni
 PKP005	xxx
-PKP006	
 PKP006	stasera
 PKP004	cleo no
 PKP004	no delizioso
@@ -985,7 +961,6 @@ PKP004	lì l'hanno aperto un un
 PKP006	rivendita
 PKP004	è buono dai
 PKP005	è buono infatti
-PKP001	
 PKP004	il sonno
 PKP001	anch'io è il sole
 PKP004	non c'è il sole oggi
@@ -1001,8 +976,6 @@ PKP005	è come lo prendi
 PKP004	prendi di più perché ti esponi
 PKP001	sì
 PKP004	al nemico
-PKP005	
-PKP004	
 PKP005	devo lavare i capelli oggi
 PKP005	mh
 PKP001	pure io
@@ -1010,10 +983,8 @@ PKP004	sai che devo fare io
 PKP001	tu ti devi lava~ devi lavare la test all'asino
 PKP004	sai che devo fare io
 PKP004	cosa devi fare
-PKP004	
 PKP001	devi andare a fare un giro
 PKP004	sì
-PKP004	
 PKP001	mo vediamo
 PKP004	cosa
 PKP004	se si dorme
@@ -1023,7 +994,6 @@ PKP004	vabbè tu fai un po' di tirocinio poi ti riposi
 PKP005	andiamo alle vasche di sant'alessio
 PKP004	portatevi le canne
 PKP005	f~ fai
-PKP004	
 PKP005	fai tre ore
 PKP004	portatevi le canne da pesca
 PKP004	e poi
@@ -1034,7 +1004,6 @@ PKP004	quello che c'è
 PKP005	non si pescano con le canne da pesca le rane
 PKP006	quello che c'è
 PKP004	anche una suricchia
-PKP001	
 PKP004	cos'è una suricchia
 PKP001	una lucertola
 PKP004	ah
@@ -1053,7 +1022,6 @@ PKP004	mah
 PKP004	quello è un altro discorso
 PKP001	stupida
 PKP001	eh no eh no
-PKP004	
 PKP006	ci vuole un bel caffè adesso
 PKP004	ci è andato quell'altro xxx
 PKP004	no
@@ -1073,18 +1041,14 @@ PKP003	ah sì
 PKP001	che c'è
 PKP003	niente
 PKP001	sicuro che è morta
-PKP001	
 PKP005	xxx
 PKP004	e quindi
 PKP001	mh x
-PKP004	
 PKP003	veramente
 PKP004	ma no
 PKP001	non ho sentito io
 PKP004	aspetta
 PKP001	non mi è sembrata
-PKP001	
-PKP005	
 PKP006	vabbè quello devi sentirlo tu
 PKP005	sì
 PKP005	e quindi prima di fare
@@ -1098,14 +1062,10 @@ PKP004	io
 PKP004	come sempre
 PKP001	mia figlia non vuole aiutarmi
 PKP004	ottima risposta
-PKP004	
 PKP004	allora ieri sera si è avvicinata al lavandino
 PKP001	che c'erano i piatti da lavare
-PKP004	
 PKP004	e ha detto ah dai che li faccio io
 PKP001	okay
-PKP004	
-PKP006	
 PKP001	xx
 PKP006	ma non mi andava sì
 PKP004	ah ieri li hai lavati
@@ -1116,7 +1076,6 @@ PKP006	faccio io
 PKP004	quando c'è il sole
 PKP004	a te lo fa
 PKP004	a me no
-PKP001	
 PKP001	non è vero
 PKP004	qualche volta è capitato
 PKP004	ah
@@ -1136,7 +1095,6 @@ PKP006	ha detto quì mangiamo
 PKP006	ho detto no il capo ha detto
 PKP006	no che dobbiamo xx
 PKP001	chi
-PKP004	
 PKP005	come chi
 PKP006	e te l'ha dettogiuseppe
 PKP004	x
@@ -1158,7 +1116,6 @@ PKP001	ovviamente
 PKP004	ci mancherebbe
 PKP001	così
 PKP004	come padrone non è lui in questo caso
-PKP004	
 PKP004	no
 PKP001	non è né padrone non comanda neanche
 PKP006	no

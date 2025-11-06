@@ -32,7 +32,6 @@ BO115	mh ho cominciato ad annoiarmi un sacco perché non c'era niente di quello 
 BO114	mhmh
 BO114	però questo è stato anche un buono stimolo per partire
 BO115	e andare a vedere il mondo
-BO115	
 BO115	ehm
 BO114	i primi anni a bologna invece
 BO114	allora sono arrivata a bologna
@@ -85,11 +84,8 @@ BO115	non lo so
 BO114	chissà
 BO114	c'erano volte in cui non lo vedevi per giorni pensavi fosse tornato a piacenza
 BO115	in realtà era in camera che si era tipo preso un acido
-BO114	
-BO114	
 BO115	dopo un po' riusciva faceva oh raga avete due e cinquanta per la pizza
 BO115	vabbè
-BO115	
 BO114	dopo e
 BO115	assurdo
 BO114	mah
@@ -120,7 +116,6 @@ BO114	e io avevo pensato che fossero già tutti stra amici e arrivavo io che non
 BO115	poi in realtà mi è stato detto che io in realtà ho unito molto l'appartamento
 BO114	ah
 BO114	che prima stavano molto per i fatti loro
-BO115	
 BO114	non essendoci un personaggio come il verdi è difficile
 BO114	no pero tipo io entravo sempre in camera dei ragazzi
 BO115	che ne so a fumare una sigaretta in compagnia o chiedere qualsiasi cosa invece a quanto pare prima erano più divisi
@@ -129,7 +124,6 @@ BO114	e questo per i primi due anni
 BO114	no alla fine del primo anno ci hanno sfrattati
 BO114	perché abbiamo fatto una festicciola
 BO115	è crollato il controsoffitto a quelli di sotto
-BO114	
 BO114	hann~ hanno mandato via tutti dalla dall'edificio
 BO114	perché era tutto di proprietà di una famiglia
 BO115	e ma perché non era cioè non era a norma non era niente
@@ -138,7 +132,6 @@ BO115	era in regola dovevano sistemarlo tutto ma infatti adesso ci sono fuori le
 BO114	mh
 BO115	e poi siamo approdate qui in via @nomeluogo.
 BO114	via @nomeluogo,
-BO115	
 BO114	già molto altolocata qui la situazione
 BO115	certò beh via @nomeluogo via @nomeluogo comunque ci manteniamo
 BO114	quindi è il terzo anno che vivi in questa casa
@@ -209,9 +202,7 @@ BO114	madonna
 BO115	anche se prima di tutto devo laurearmi
 BO115	e
 BO114	ah è vero
-BO115	
 BO114	dai parlami della tua tesi
-BO114	
 BO114	la mia tesi senza relatore
 BO114	confronta l'uso che ha fatto de gaulle
 BO114	e che ha fatto berlusconi
@@ -254,7 +245,6 @@ BO114	cioè ci sono tutte queste piccole
 BO114	cose che
 BO115	sì
 BO114	beh un geniaccio
-BO115	
 BO115	e quindi inizierai ah beh ancora non hai trovato il relatore
 BO114	non sai neanche quando inizi
 BO114	no
@@ -299,10 +289,8 @@ BO114	mi ha raccontato il mio dentista che era il coinquilino di mio padre all'u
 BO114	che quando
 BO114	quando prendevano il treno per andare a milano
 BO115	mio papà per rimorchiare faceva le carte alle ragazze
-BO115	
 BO114	è così che ha conosciuto tua mamma
 BO114	no ha conosciuto mia mamma perché le dava ripetizioni di matematica
-BO115	
 BO114	perché tua mamma prendeva ripetizioni di matematica
 BO115	perché era scarsa in matematica
 BO115	ma al al liceo
@@ -321,11 +309,8 @@ BO114	e poi si era liberato un posto all'ospedale di @nomepaese
 BO115	e quindi si sono trasferiti a @nomepaese però all'inizio non sapevano bene nemmeno dove fosse
 BO114	cosa l'ospedale
 BO115	no @nomepaese
-BO114	
 BO114	mi ha detto mia mamma che tipo il primo mese mia nonna andava a fare la spesa a padova
-BO115	
 BO114	perché non si fidava tipo
-BO115	
 BO115	ah no lì dice no
 BO114	pensa te
 BO115	mh
@@ -347,7 +332,6 @@ BO115	eh non da dove eravam partiti
 BO114	cioè non prima dei tarocchi di cosa stavam parlando della tua tesi
 BO115	dei miei esami
 BO114	ah giusto sì
-BO115	
 BO115	e
 BO115	tuo fratello quindi legge i tarocchi
 BO114	anche lui per rimorchiare
@@ -377,7 +361,6 @@ BO115	andiamo a fare i giri in montagna
 BO114	no sì sicurametne prima mi devo laureare
 BO115	giusto
 BO114	come ben sai
-BO115	
 BO114	e però sì mi piacerebbe un sacco anche perché la montagna più ci vado più mi piace
 BO114	mh
 BO115	è una scuola di vita la montagna
@@ -419,5 +402,4 @@ BO114	se ti vedono se gli vai proprio davanti e gli dici guarda ho bisogno di la
 BO115	però anche lì avrei bisogno di un posto dove mi diano vitto e alloggio
 BO114	mh
 BO115	perché se vado in trentino non vado ogni giorno in trentino non c'ho neanche la patente
-BO115	
 BO115	va bene

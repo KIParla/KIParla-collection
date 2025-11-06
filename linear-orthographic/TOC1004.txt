@@ -102,7 +102,6 @@ TO018	eh mh
 TO019	si fermi un secondo
 TO018	sì
 TO019	prenda fiato
-TO018	
 TO018	prenda fiato non vada in apnea
 TO019	che non è non è il caso
 TO018	okay
@@ -849,7 +848,6 @@ TO019	io non non me lo ricordo
 TO018	mh
 TO019	ci si è messa da sola eh su questa xx
 TO020	lo so
-TO018	
 TO019	e sai che l'appetito vien mangiando quindi se uno stimola una curiosità
 TO019	eh mh
 TO018	categoria dei grassi
@@ -1018,7 +1016,6 @@ TO020	e prendo questo q~ vediamo se sono fortunato eh non è detto che lo sia su
 TO018	xxx
 TO018	sono fortunato
 TO018	oppure ho studiato la lezione
-TO018	
 TO018	allora
 TO018	questo grafico qui come lo lo
 TO018	questo e anche quello successivo poi
@@ -1284,7 +1281,6 @@ TO018	eh il pe~
 TO019	nel tacchino
 TO018	il petto
 TO019	direi proprio di sì
-TO018	
 TO018	vada tranquilla su tutto il resto
 TO018	perché
 TO019	mh lei ha detto prima giustamente bisogna fare attenzione alla presenza di emorrargie spuntature sulle ali e così via
@@ -1354,7 +1350,6 @@ TO018	e le femmine dodici
 TO019	alla stessa età
 TO018	sì
 ???	no
-TO018	
 TO018	beh no
 TO019	è lì la questione
 TO018	eh

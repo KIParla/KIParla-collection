@@ -24,8 +24,6 @@ PKP085	si chiama vacche rosse
 PKP085	eh ma cosa è
 PKP085	di che animale
 PKP083	vacca immagino
-PKP083	
-PKP084	
 PKP083	di toro
 PKP084	di che animale non era la domanda corretta
 PKP083	un parmigiano
@@ -35,7 +33,6 @@ PKP083	xx
 PKP083	devi assaggiare la differenza con questo
 PKP084	perché questo qua è terribile
 PKP084	mh
-PKP083	
 PKP083	prova
 PKP083	a parte che è ammuffito
 PKP085	buona
@@ -70,7 +67,6 @@ PKP084	marco
 PKP084	a parte che l'hai fatto col dito
 PKP084	e adesso
 PKP083	sei fregato
-PKP083	
 PKP085	in effetti
 PKP084	xx
 PKP083	sei fregato
@@ -79,7 +75,6 @@ PKP084	esagerato
 PKP085	x tutta la mano sei fregato
 PKP084	ma è così forte
 PKP083	leccati il dito
-PKP083	
 PKP083	te lo ricordi in cambogia
 PKP085	quando hai mangiato il peperoncino
 PKP085	vabbè
@@ -194,7 +189,6 @@ PKP085	isola
 PKP083	no
 PKP085	casa
 PKP083	casa
-PKP085	
 PKP084	luigi dice casa
 PKP085	dice casa
 PKP083	sì
@@ -248,15 +242,12 @@ PKP084	no da vocale
 PKP084	ah
 PKP083	x
 PKP083	puresciu
-PKP085	
 PKP083	da vocale
 PKP085	la u
 PKP084	s c
 PKP083	è s c
-PKP084	
 PKP085	mh
 PKP083	preceduta e seguita da vocale
-PKP083	
 PKP085	vabbè e che ne so
 PKP084	vabbè ce ne s~
 PKP085	dessiu
@@ -538,7 +529,6 @@ PKP084	no
 PKP085	un pochino mettine
 PKP084	come l'hai fatto
 PKP083	questo con la bassa temperatura
-PKP083	
 PKP084	con il nuovo giochino
 PKP084	nuovo giochino
 PKP085	settanta gradi per mi sembra due ore e mezzo
@@ -685,15 +675,12 @@ PKP084	le cose di plastica
 PKP084	devo far~
 PKP085	no porca miseria
 PKP083	no
-PKP085	
 PKP083	ma scusa erano pensavi fosse sodo
-PKP083	
 PKP083	io lo sapevo che
 PKP084	succedeva questa cosa
 PKP083	mamma le ha mischiate
 PKP085	lo sapevo
 PKP083	ah ci sono alcune sode okay
-PKP084	
 PKP085	mannaggia
 PKP083	friggi il tuorlo stasera
 PKP083	queste
@@ -739,7 +726,6 @@ PKP084	bravo
 PKP084	bravo
 PKP083	xx
 PKP083	mo qualcuno se lo beve
-PKP085	
 PKP083	bravo
 PKP083	bellino
 PKP085	e mo che si fa
@@ -808,9 +794,7 @@ PKP083	finitelo
 PKP083	e
 PKP084	non possiamo
 PKP083	e vabbè ormai
-PKP084	
 PKP083	è pollo
-PKP083	
 PKP083	vabbè in effetti scusa il pollo è
 PKP084	carne
 PKP084	non può essere carne il pollo
@@ -915,7 +899,6 @@ PKP085	è tale e quale
 PKP083	guanciale come
 PKP085	croccante
 PKP083	e no c'è la differenza
-PKP085	
 PKP083	io la faccio buona
 PKP083	ah ecco
 PKP084	non l'avevo messo in conto questo
@@ -973,7 +956,6 @@ PKP083	io le prendo
 PKP084	tieni
 PKP085	questo mettiamolo a posto
 PKP083	ehm
-PKP084	
 PKP083	stai prendendo le tazzine
 PKP084	eh
 PKP083	le tazzine
@@ -1121,7 +1103,6 @@ PKP083	quindi non ho capito
 PKP084	qual è la quantità
 PKP085	mh
 PKP083	almeno uno
-PKP084	
 PKP084	non ho idea di quanto sia la quantità però ogni sostanza
 PKP084	ha una dose letale media
 PKP083	da cui appunto prendi
@@ -1176,7 +1157,6 @@ PKP084	andare nelle acque inquinate così si vendicano con chi li pesca
 PKP083	anche quello è vero
 PKP084	però muoiono a prescindere
 PKP085	il problema è l'accumulo
-PKP085	
 PKP084	hai visto
 PKP085	arriva anche da noi
 PKP084	x
@@ -1185,7 +1165,6 @@ PKP083	a smaltirlo
 PKP085	interessante interessante
 PKP084	livello epatico
 PKP083	fegato
-PKP083	
 PKP083	non volevo chiederlo
 PKP083	vabbè quindi non ho capito
 PKP085	quando andiamo a pasqua
@@ -1294,16 +1273,13 @@ PKP085	eh
 PKP084	l'hai aperto
 PKP085	ha fatto l'uovo fri~
 PKP083	x
-PKP084	
 PKP083	ha fatto la frittata
 PKP085	l'ho f~
 PKP083	non si può più fare l'uovo fritto
-PKP084	
 PKP085	hai fatto la frittata
 PKP084	ah
 PKP085	complimenti
 PKP083	sta~ stavo andando in questo momento ad impanarlo
-PKP084	
 PKP083	finito
 PKP084	vabbè
 PKP083	oi oi o~
@@ -1315,6 +1291,3 @@ PKP085	e l'ammazzacaffè
 PKP085	ottima idea
 PKP083	due grazie
 PKP085	va bene
-PKP083	
-PKP085	
-PKP085	

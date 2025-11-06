@@ -67,7 +67,6 @@ TOR005	[se]ttantanove
 TOI023	è nato in provincia di?
 TOR005	venezia
 TOI023	venezia
-TOR005	
 TOI023	e: e risiede in provincia di torino?
 TOR005	sì
 TOI022	eh o[ka]y

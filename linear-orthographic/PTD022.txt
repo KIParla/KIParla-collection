@@ -33,7 +33,6 @@ TOR001	di non cambiare mai lavoro
 TOR001	okay
 TOI009	ti piacerebbe andare avanti a fare lo stesso lavoro o vorresti cambia~ okay
 TOR001	assolutamente non non posso fare altro non voglio fare altro cioè la mia la mia idea è quella di non fare altro
-TOR001	
 TOI009	va bene
 TOR001	piuttosto
 TOI009	okay
@@ -76,17 +75,14 @@ TOR001	non è caotica come gli altri posti ed è vicina soprattutto a milano che
 TOR001	mh mh mh
 TOR001	okay
 TOR001	perché dici che non potresti sopportare la vita milanese
-TOI009	
 TOI009	ma non la vita non le persone
 TOR001	è che non cioè nel senso io vabbè che son di torino quindi per me è giocare in casa quindi non è che
 TOR001	okay
-TOI009	
 TOI009	però mi rendo conto anche parlando con altre persone che non sono di torino o persone che sono arrivate da milano
 TOI009	ti rendi proprio conto che la particolarità di torino è proprio il fatto che è una grandissima città
 TOI009	che sembra un paesino
 TOR001	perché non ha il caos che va a milano o che c'è a roma non oso immaginare vivere a roma che
 TOR001	mh mh
-TOI009	
 TOR001	ci metti ore per arrivare in ufficio perché magari
 TOI009	mh mh mh
 TOI009	c'è traffico c'è casino mh
@@ -102,7 +98,6 @@ TOI009	okay
 TOR001	poi dipende eh se mi viene chiesto
 TOI009	certo
 TOR001	che mi arriva un contratto stellare allora lì
-TOI009	
 TOI009	lo fai però
 TOI009	nel senso non eh
 TOR001	se si può gestire lo farei tranquillamente da qua
@@ -152,10 +147,7 @@ TOR001	assolutamente sì
 TOR001	sì
 TOI009	perché e quali sono gli aspetti positivi
 TOR001	perché ogni mattina che esco di casa vedo la gran madre e dico
-TOI009	
 TOR001	meglio di così non quando c'hai la botta di culo meglio di così non
-TOI009	
-TOI009	
 TOI009	io no no a parte tutto perché mi rendo conto da
 TOI009	da provincia~ da che
 TOI009	per carità c'è c'è da dire che la provincia torinese e soprattutto dove son nato io
@@ -167,7 +159,6 @@ TOI009	mh mh mh
 TOR001	per me torino era a un passo non ho mai sentito questa distanza tra la città e il p~ e la eh
 TOI009	mh mh mh
 TOR001	e la camp~ una volta era campagna adesso non lo è più ma quando sono nato io c'erano le mucche diciamo
-TOI009	
 TOI009	è vero
 TOI009	e però io non so se ci ritornerei mai più perché il confort e la comodità di avere tutto quanto a torino e di non
 TOR001	di non prendere più la macchina per andare a lavorare di girare in bicicletta a piedi
@@ -199,7 +190,6 @@ TOI009	io sono convinto che da dopo le olimpiadi
 TOI009	grazie alle olimpiadi torino sia diventata una bella città prima non
 TOR001	non lo era cioè prima non era neanche conosciuta dai turisti
 TOI009	mh mh mh mh
-TOI009	
 TOR001	cioè era
 TOI009	e come pensi sia cambia~ io non sono di qua quindi
 TOR001	mah ti dico secondo me è cambiata in eh
@@ -229,7 +219,6 @@ TOR001	siano responsabilità dell'amministrazione del calo
 TOI009	parzialmente o insomma
 TOI009	secondo me
 TOR001	ogni cittadino vorrebbe mettersi nei panni di un sindaco ma secondo me non è in grado nessuno di noi è in grado di fare un sin~ cioè bisogna essere bravi a farlo
-TOR001	
 TOI009	mh mh
 TOR001	è ovvio che ci sono dei costi delle cose da tagliare non tagliare e c'è chi comunque è a favore che tagli quello e c'è chi non è a favore che tagli quello quindi
 TOI009	mh mh mh mh
@@ -237,7 +226,6 @@ TOR001	e vedi è impossibile
 TOI009	okay
 TOI009	eh mh
 TOR001	ci si lamenta è normale perché siamo bravi tutti quanti non c'è mai stata la perfezione
-TOR001	
 TOI009	okay
 TOR001	ci sta
 TOI009	ah mh quindi dicevi scusami che dal duemilasei miglioramento generale poi nell'ultimissimo periodo
@@ -304,7 +292,6 @@ TOI009	ma allora non sono un eh
 TOR001	uno che concerti tu~ tutto l'anno che programma a gennaio il eh
 TOR001	okay
 TOI009	okay
-TOI009	
 TOI009	però se ci sono
 TOI009	quando vado al concerto mi diverto diciamo
 TOI009	eh
@@ -330,7 +317,6 @@ TOI009	eh mh segui il calcio
 TOR001	sì
 TOI009	che squadra tifi
 TOI009	juventus
-TOR001	
 TOI009	beh non dirlo come se fosse scontato
 TOR001	no però vabbè
 TOI009	okay
@@ -373,7 +359,6 @@ TOI009	no è vero però
 TOR001	guardo molte serie tivù
 TOI009	netflix
 TOR001	sì netflix
-TOI009	
 TOR001	sky anche se
 TOI009	ah ah
 TOR001	da amici
@@ -387,7 +372,6 @@ TOR001	eh stranger things tutto
 TOI009	ah okay xx
 TOR001	e le classiche cioè
 TOI009	va bene va bene va bene a posto perfetto
-TOR001	
 TOI009	grazie posto così sì
 TOI009	finita
 TOR001	perfetto

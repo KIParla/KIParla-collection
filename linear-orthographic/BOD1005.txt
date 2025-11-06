@@ -59,7 +59,6 @@ BO094	e forse
 BO094	non ce la facciamo a dimostrare
 BO094	trasformare i seguenti in xx
 ???	si può fare
-BO094	
 BO094	guarda xxx
 BO094	va bene
 BO094	però ricordatevi che questo poi vediamo ora
@@ -382,7 +381,6 @@ BO094	trovare una soluzione equa per tutti
 BO094	dunque la distanza fra il dicio~ diciannove dicembre e il diciotto gennaio
 BO094	è praticamente di due settimane lavorative
 ???	visto che c'è pasqua nel m~
-BO094	
 BO094	natale nel mezzo
 BO094	va bene
 BO094	eh allora noi correggermo tutti i test
@@ -679,7 +677,6 @@ BO094	d'accordo allora io oggi quello che volevo fare
 BO094	eh
 BO094	xx
 ???	scusate c'è una domanda
-BO094	
 BO094	al test
 BO094	allora in genere guardate
 BO094	al test eh voi avrete
@@ -687,7 +684,6 @@ BO094	eh non so
 BO094	dei foglietti va bene con tutte le domande
 BO094	e poi in genere mettiamo due fogli bianchi comunque
 ???	qua potete usare il retro dei fogli insomma ecco fogli vostri è bene che non ne circolino d'accordo
-BO094	
 BO094	quindi eh noi aggiungeremo un foglio o due bianco spillato insieme al foglio con le domande e fate lì
 BO094	poi quello che voi non volete che io legga
 BO094	xx sopra e basta
@@ -946,9 +942,7 @@ BO094	con un enunciato equivalente a questo
 BO094	che non contiene la freccia e qual è
 BO094	a voce alta
 ???	avanti
-BO094	
 ???	o che cosa
-BO094	
 BO094	bene
 BO094	ora però io mi trovo con
 BO094	questo o e all'interno della parentesi c'è un altro o
@@ -987,16 +981,13 @@ BO094	qualcuno ha già finito
 BO094	allo studente spagnolo dell'erasmus
 BO094	non c'è
 ???	bene
-BO094	
 BO094	lei può applicare quello che vuole l'importante è che il risultato finale contenga solo i connettivi bureani
 ???	not end or
-BO094	
 BO094	eh dev'essere logicamente equivalente certo
 BO094	cioè come dire quando lei anche qui
 BO094	cioè
 BO094	questa formula qui dentro la parentesi quadra
 ???	è logicamente equivalente a questa cioè no è chiaro le trasformazioni si fatto tutte per equivalenza logica
-BO094	
 BO094	sì dipende dai casi
 BO094	ora vediamo non so vediamo in formule non so ma qui le indicazioni non ci sono xx
 BO094	allora

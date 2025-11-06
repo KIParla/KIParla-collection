@@ -7,7 +7,6 @@ PKP136	birra birra
 PKP139	partiamo giusto subito con la birra
 PKP139	sì
 PKP136	oh dio ma il mio bicchiere è tipo sotto è colorato belli~ ah è una mia impressione
-PKP136	
 PKP139	sì sì non sei così ubriaca
 PKP139	thanks
 PKP140	non ancora
@@ -200,7 +199,6 @@ PKP140	c'era il coro che cantava la la
 PKP136	oddio raga
 PKP136	c'eran delle persone che cantavano con la chitarra che per carità
 PKP140	momento romantico carino così però
-PKP136	
 PKP140	per noi che volevamo un po' di movida
 PKP136	niente
 PKP140	no non non era il massimo
@@ -237,7 +235,6 @@ PKP140	uno che mi offre la spesa xx insieme
 PKP139	come la devi prendere
 PKP140	no tu li compri io non li ho mai mangiati
 PKP136	è vero
-PKP139	
 PKP140	di vederli li ho visti xxx non li avevo mai mangiati
 PKP139	mh
 PKP140	ah c'era
@@ -249,15 +246,12 @@ PKP136	e siamo rimasti là tipo un ora
 PKP139	finché loro non se ne so andati
 PKP139	loro
 PKP140	loro che raccontavano queste barzellette no ridicole
-PKP139	
 PKP139	perché non facevano ridere
 PKP140	siamo rimasti tipo così ho detto beh andiamocene
 PKP136	no comunque prepotenza raga cioè
 PKP139	mh
 PKP139	ma infatti quell'alessio figo quanto vuoi amore però
 PKP136	questo censuralo però
-PKP140	
-PKP139	
 PKP136	figo quanto vuoi però
 PKP136	no ma
 PKP136	antipaticissimo quando se ne sono andati loro
@@ -278,17 +272,14 @@ PKP136	cioé
 PKP139	è vero è vero
 PKP136	poi è un maleducato
 PKP139	esattamente poi là mi è scaduto tutto ho detto okay non val la pena
-PKP140	
 PKP139	sì mamma mia
 PKP139	infatti c'è stato un momento tipo
 PKP140	eravamo davanti all'irish
-PKP136	
 PKP139	mh
 PKP139	c'è stato un momento che lui ha detto tipo andiamo a piazza maggiore così
 PKP136	io te e paola ci siamo guardati così
 PKP136	sì eravamo tipo
 PKP139	vabbe
-PKP136	
 PKP136	scelta discutibile ma lui sta a bologna
 PKP136	cioé studia a bologna
 PKP140	o lavora tipo
@@ -351,7 +342,6 @@ PKP140	e c'erano questi due che hanno iniziato a guardare
 PKP140	a uno del gruppo loro
 PKP140	hanno detto
 PKP136	vuoi fare a botte vuoi fare a botte vuoi fi~
-PKP140	
 PKP140	a una certa
 PKP136	questo piglia un tavolo e lo lancia
 PKP140	oddio
@@ -407,7 +397,6 @@ PKP139	e eh ed è successa questa scena
 PKP140	eh s~
 PKP140	e io ero tipo scioccata
 PKP136	poi poverino mio cugino si è trovato stavol~ vabbé
-PKP139	
 PKP136	oddio jack
 PKP139	venute bene
 PKP140	son venute benissimo
@@ -454,13 +443,11 @@ PKP136	sono la fine del mondo
 PKP140	davvero
 PKP140	ehm
 PKP140	e quelle con le patate così fatte al forno
-PKP136	
 PKP136	io mi ricordo
 PKP136	la polleria sotto casa
 PKP136	non so se avete presente in
 PKP140	quella che sta palatina
 PKP139	buona madona
-PKP139	
 PKP140	si ho capito
 PKP136	eh
 PKP139	ce l'hanno proprio buone
@@ -470,10 +457,7 @@ PKP136	l'altro giorno mia madre è scesa a prendere il pollo
 PKP136	ha detto eh no volevo prendere tipo
 PKP136	le salsiccie qualcosa c'era solo il pollo
 PKP139	solo vabbé proprio
-PKP140	
-PKP136	
 PKP139	si è trovata malissimo
-PKP140	
 PKP140	malissimo
 PKP139	non è dove prendeva pa
 PKP140	mhmh
@@ -608,17 +592,13 @@ PKP139	il ehm le c~ l'attrezzatura
 PKP139	per l'affitto dell'attrezzatura eccetera e tipo paola
 PKP139	aveva detto a parte che aveva detto tipo venite
 PKP136	xxxx
-PKP140	
-PKP139	
 PKP139	ehm
 PKP139	e poi ha detto tipo mh
 PKP139	eh
 PKP136	che aveva detto ho perso il filo
 PKP139	no che cinquanta euro
 PKP140	questo spritz
-PKP139	
 PKP136	male
-PKP139	
 PKP139	vabbé raga è che era solo per una giornata
 PKP139	quindi tu andavi tipo dormivi là
 PKP136	e poi stavi la giornata e ritornavi la sera pomeriggio
@@ -635,7 +615,6 @@ PKP139	ottimo
 PKP136	al ritorno mentre stavan tornando
 PKP139	solamente a paola poteva capitare
 PKP140	xxxx
-PKP140	
 PKP139	oddio e quindi mo
 PKP139	eh
 PKP139	eh boh io ho messo
@@ -644,7 +623,6 @@ PKP139	dove aveva scritto aspe~
 PKP139	tipo è esploso il motore una roba del genere
 PKP139	vediamo
 PKP140	pa'
-PKP139	
 PKP140	ve è andata a monte cimone
 PKP139	no
 PKP136	ci~ cimone non lo so come si chiama
@@ -710,7 +688,6 @@ PKP140	a x
 PKP140	e scendi
 PKP140	facilissimo
 PKP136	divertente perché scendi
-PKP140	
 PKP136	se cadi non succede niente perché vai sulla neve
 PKP136	ma con la scuola
 PKP136	quando
@@ -734,7 +711,6 @@ PKP140	non me lo chiedete
 PKP140	e tipo anche
 PKP140	abbastanza famoso
 PKP136	ma non mi ricordo qual è
-PKP140	
 PKP136	mh
 PKP139	xx
 PKP139	letteralmente noi siamo andati sulle murgie
@@ -810,7 +786,6 @@ PKP140	eh andammo c~ in questo locale
 PKP136	a prendere un po' di birra sai a monaco vai
 PKP140	beh certo ci mancherebbe
 PKP139	e vennero pure loro
-PKP140	
 PKP139	e quindi cioé ci portarono a bere della birra
 PKP140	i professori
 PKP140	mh
@@ -833,8 +808,6 @@ PKP140	si siedono all'altro tavolo
 PKP140	e tipo la
 PKP140	questa prof si offende perché
 PKP136	noi non ci siamo seduti vicino a loro
-PKP139	
-PKP140	
 PKP140	cioé ma non si offende della serie
 PKP140	cioé noi siamo andati con gli altri
 PKP140	cioé con i ragazzi dell'altra classe
@@ -896,7 +869,6 @@ PKP139	la rossi
 PKP139	ah
 PKP140	famosa rossi
 PKP136	eh e invece
-PKP140	
 PKP140	ehm invece l'altra
 PKP140	era di di chimica
 PKP139	biologia io l'amavo cioé io ho fatto farmacia per lei
@@ -916,7 +888,6 @@ PKP140	forse l'ha avuta mio fratello la bianchi allora
 PKP140	ed~ e lei è bravissima
 PKP140	cioé tipo super imparzia~
 PKP139	non era la mia preferita la mia seconda preferita però
-PKP140	
 PKP136	comunque l'adoravo
 PKP140	t'ha ispirato a fare
 PKP140	esatto cioé comunque
@@ -931,11 +902,8 @@ PKP140	era la rappresentante allora
 PKP140	cioé ho ancora in mente la scena
 PKP140	di questa che le apre la porta
 PKP136	col pigiama
-PKP139	
-PKP140	
 PKP139	con la vestaglia il cappellino
 PKP140	il cappellino c'aveva
-PKP140	
 PKP140	ve lo giuro
 PKP140	scusi prof
 PKP136	ragazzi vi siete comportati male tipo così
@@ -972,7 +940,6 @@ PKP140	infatti
 PKP139	anche per xxx questo era solo l'assaggio
 PKP139	grazie
 PKP136	xxxxxx
-PKP136	
 PKP136	dicevo per cinque anni
 PKP136	c'aveva~ s'accampavano un sacco di scuse
 PKP136	per non portarci in gita
@@ -994,13 +961,10 @@ PKP136	una professoressa che era nuova
 PKP136	costringere abbiamo convinta professoressa nuova di storia dell'arte
 PKP136	che qull'anno era arrivata in classe nostra
 PKP139	quindi non ci conosceva
-PKP140	
-PKP136	
 PKP136	non sapeva di tutto il nostro terrorismo psicologico
 PKP140	che invece
 PKP136	mado
 PKP140	gli altri prof erano ben
-PKP136	
 PKP136	ben consci di quello che andavano
 PKP136	a cui andavano incontro
 PKP136	e in più abbiamo convinto un'altra professoressa
@@ -1029,9 +993,7 @@ PKP136	a beh a parte questo
 PKP136	una volta
 PKP136	abbiamo fatto lo scherzo
 PKP139	di lasciare una bottiglia di vodka vuota
-PKP136	
 PKP140	dentro il cassetto della cattedra
-PKP136	
 PKP136	e una ragazza poi l'ha trovata
 PKP136	l'ha fatta vedere alla professoressa
 PKP136	la professoressa invece di
@@ -1055,19 +1017,14 @@ PKP136	cioé pensavano che c'eravamo ubriacati
 PKP139	durante le ore di lezio~
 PKP140	no
 PKP136	no
-PKP139	
-PKP136	
 PKP136	tutti contro
 PKP136	tutti contro ci sono andati tranne una professoressa che
 PKP136	scherzando una mattina
 PKP136	cioé è venuta ha detto ragazzi
 PKP140	la mattina dopo ha detto ragazzi ma
-PKP136	
 PKP136	voi la vodka
 PKP136	alle sette di mattina ma
 PKP139	molto meglio un cognac comunque cioé
-PKP140	
-PKP136	
 PKP140	lei è stata un po' più al gioco ma poi
 PKP136	aveva capito tra l'altro perché
 PKP136	sì
@@ -1084,7 +1041,6 @@ PKP136	no
 PKP136	e quindi abbiamo rischiato di non andare in gita per quel motivo
 PKP136	però è stato un buon mh come dire
 PKP139	una cosa di vanto per un bel po' di tempo
-PKP140	
 PKP136	eh ma poi alla fine siete andati
 PKP136	nostra
 PKP136	sì sì sì alla fine siamo andati per fortuna
@@ -1102,9 +1058,7 @@ PKP136	e là la professoressa che
 PKP136	abbamo convinto di storia dell'arte
 PKP136	è andata con noi al shisha bar
 PKP140	a fumare il narghilé
-PKP136	
 PKP139	xxxxx capire
-PKP140	
 PKP140	bellissimo
 PKP140	dai ci sta
 PKP136	eh le gite son belle per questo
@@ -1112,7 +1066,6 @@ PKP136	sì eh no
 PKP139	queste cose assurde
 PKP140	voi che avete fatto le gite
 PKP136	forse perché
-PKP140	
 PKP139	forse per questo poi lei c'è rimasta male
 PKP140	xxx
 PKP136	forse si voleva non lo so si voleva xxxx
@@ -1132,7 +1085,6 @@ PKP140	tremendo
 PKP140	e noi eravamo proprio sotto
 PKP140	cioè noi eravamo xx nel
 PKP136	nel seminterrato
-PKP140	
 PKP140	perché praticamente tu entravi
 PKP140	e c'erano
 PKP140	due aule
@@ -1145,7 +1097,6 @@ PKP140	mhmh
 PKP140	e poi tutto il resto si saliva sopra
 PKP140	e c'erano tutti i piani con le altre aule
 PKP136	quindi noi eravamo sempre isolati dal mondo
-PKP140	
 PKP140	eravamo noi e l'altra classe
 PKP140	che erano
 PKP140	altri ragazzi della e più piccoli di noi
@@ -1170,7 +1121,6 @@ PKP136	è stato brutto
 PKP136	che peccato ma poi
 PKP136	capiscili un po' sti ragazzi
 PKP139	che magari non vogliono stare con la professoressa
-PKP136	
 PKP139	vogliono stare con gli amici loro
 PKP140	ma infatti
 PKP140	ma noi stavamo cagati sotto raga
@@ -1179,7 +1129,6 @@ PKP136	cioé noi eravamo mor~
 PKP140	certo
 PKP140	noi all'esame di stato con
 PKP136	due interne offese
-PKP140	
 PKP140	cioé
 PKP136	eh l'unica nostra speranza erano gli interni
 PKP140	na condanna sì
@@ -1194,7 +1143,6 @@ PKP140	sì la terza prova
 PKP140	no tutto
 PKP140	prima prova italiano seconda prova
 PKP136	matematica
-PKP140	
 PKP140	cioé ti rendi co~ già la croce sopra
 PKP140	e in più terza prova tutte le ma~
 PKP140	le materie della terra
@@ -1204,7 +1152,6 @@ PKP140	cioé poi avere quel matematica
 PKP136	poi io personalmente
 PKP140	matematica
 PKP136	era la materia che
-PKP140	
 PKP140	che proprio mi spaventava di più
 PKP140	cioé chimica vabbé tutto quello che vuoi
 PKP140	ma matematica proprio
@@ -1228,29 +1175,21 @@ PKP136	al classico
 PKP136	matematica e fisica se ci fosse stata un'interna sapeva che
 PKP136	chiederci quegli argomenti quattro
 PKP140	che sapevamo no
-PKP139	
-PKP136	
 PKP136	io ho fatto scena muta
 PKP136	sia a matematica che fisica
 PKP140	mi ha messo davanti tipo un logaritmo
 PKP136	no
 PKP136	ma cose semplici solo che io proprio
 PKP139	manco le guardavo proprio durante l'anno
-PKP140	
-PKP136	
 PKP136	e quindi io tipo
 PKP136	così proprio
 PKP139	ho alzato le spalle ho detto mh no
-PKP140	
-PKP136	
 PKP136	scusi
 PKP136	vabbé fa niente e questa cosa di fisica
 PKP139	eh
-PKP140	
 PKP140	eh
 PKP136	puntini puntini
 PKP139	come glielo dico
-PKP140	
 PKP136	no no
 PKP139	eh
 PKP140	che belli i nostri esami
@@ -1302,7 +1241,6 @@ PKP140	no no è liberatorio proprio
 PKP136	è proprio liberatorio
 PKP140	è stupendo
 PKP136	è b~ è una bella sensa~ cioé dopo
-PKP136	
 PKP136	mi dispiace per ele
 PKP139	che non ha sperimentato questa
 PKP139	no io quando sono uscita dal
@@ -1312,12 +1250,10 @@ PKP139	prima di entrare
 PKP136	ho pianto come una fontana cioé nel
 PKP139	davvero
 PKP140	sì
-PKP139	
 PKP139	no prima del
 PKP139	quando mi hanno chiamato
 PKP139	sono entrara tipo mezz'ora dopo
 PKP140	perché mi si era staccato
-PKP136	
 PKP140	mio dio
 PKP136	è l'ansia
 PKP139	cuoricina
@@ -1328,8 +1264,6 @@ PKP140	ehm
 PKP139	tipo super felice
 PKP139	no io tipo ero rimasta se~
 PKP136	non avevo capito che era finito
-PKP140	
-PKP139	
 PKP139	sono rimasta al posto
 PKP139	dicevo bah mi faranno altre domande così
 PKP139	e tipo giù perché c'era solo un accompagnatore
@@ -1338,18 +1272,12 @@ PKP136	eh
 PKP139	beh certo
 PKP139	ehm
 PKP139	giù mi fa vabbé andiamo
-PKP140	
-PKP136	
-PKP136	
 PKP139	ma xxxx
-PKP140	
-PKP140	
 PKP140	andiamo
 PKP139	e poi dopo
 PKP139	no tipo lei ha detto
 PKP139	vabbé grazie poi eh
 PKP140	poi boh xxxx che cosa ha detto
-PKP139	
 PKP139	io sono andata vi sono andata a dormire mi ricordo
 PKP136	perché eravamo xxx
 PKP140	vabbé eh certo
@@ -1358,7 +1286,6 @@ PKP139	io mi ricordo quando sono uscita
 PKP140	no bugia ero andata a mangiare
 PKP139	ero super felice
 PKP136	perché non avevo potuto mangiare
-PKP136	
 PKP139	è andata a mangiare
 PKP140	ero andata a mangiare è vero
 PKP140	e invece il al mio

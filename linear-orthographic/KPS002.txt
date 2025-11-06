@@ -24,7 +24,6 @@ PKP104	cugino parente
 PKP104	sì può darsi pure che tu l'abbia vista poverina
 PKP104	st'anno le è venuta sta cosa
 PKP103	comunque sì massimo purtroppo n~ non c'a fa mi dispia~ non riesco
-PKP104	
 PKP104	cioè credimi se tu gli avessi detto che oggi pomeriggio saremmo usciti
 PKP104	figurati mi farea pure pi~ mi faceva pure piacere
 PKP105	ma sicuramente non sarei stata io a dirgli oggi pomeriggio sì andiamo alle tre usciamo
@@ -145,8 +144,6 @@ PKP103	boh dimmi
 PKP104	con me non era così veramen~
 PKP103	ma voi siete usciti insieme
 PKP103	non era così
-PKP104	
-PKP103	
 PKP103	no no per carità
 PKP103	carino eh però
 PKP103	per come mi ha trattata
@@ -210,26 +207,20 @@ PKP103	no
 PKP104	no
 PKP103	allora sei stata proprio scema
 PKP104	e io che ne sapevo io
-PKP104	
 PKP103	no stavo scherzando non lo so cioè boh
 PKP104	c'era questo che ci provava con me un'estate ma diversi anni fa
 PKP103	mh
 PKP103	e io sapevo che era fidanzata co~ fidanzato con una che non era prorpio amica mia cioè era amica di un'amica
 PKP103	e quindi io boh una sera ho fatto pure una figuraccia perché io non volevo andarmi lui mi aveva
 PKP104	ehm pure una discoteca che mi s'era
-PKP103	
 PKP103	avvicinato
 PKP104	allora veramente non sapevo cosa tirare fuori per ri~ tirarmi fuori dalla situazione allora ho detto ah che sonno mh
-PKP103	
 PKP104	ho finto di dormire così in piedi
-PKP103	
 PKP104	e infatti da lì mai più sentito
-PKP103	
 PKP103	e
 PKP103	non lo so se era fidanzato solo che non era il modo per chiederlo e
 PKP103	e invece no
 PKP104	quindi pure io
-PKP103	
 PKP103	troppo
 PKP104	troppo buona troppo buona eh
 PKP103	gentilissima
@@ -238,7 +229,6 @@ PKP103	xx
 PKP103	eh ho rivisto simona dopo
 PKP104	anni cioè io da da prima che iniziassimo l'università non la vedevo
 PKP103	simona è un'altra di quelle persone con cui io tipo non ho mai parlato in vita mia
-PKP104	
 PKP103	cioè si ogni tanto ma così perché c'eri tu non per altro
 PKP103	mo torna
 PKP104	minchia versa
@@ -278,7 +268,6 @@ PKP104	francesca dove sono le forchette
 PKP105	in quel cassetto
 PKP103	esatto
 PKP104	l'avevo indicato io
-PKP105	
 PKP103	il coltello pure
 PKP103	avevo già capito
 PKP103	no il coltello non mi serve
@@ -301,7 +290,6 @@ PKP103	il e
 PKP103	il soffritto questa volta no
 PKP104	che c'erano già le feste
 PKP103	vabbè avete fatto i panini
-PKP105	
 PKP104	se volete io c'ho del morzello in frigorifero
 PKP103	eh
 PKP104	x uno
@@ -315,7 +303,6 @@ PKP103	perché il morzello
 PKP103	cioè anche un po' mi fa impressione pensare a tutto quello che c'è dentro
 PKP105	soffritto classico vabbè
 PKP104	mh
-PKP104	
 PKP103	che cosa pensi che ci sia nel soffritto
 PKP105	no no non ci sono tutte le interiore
 PKP103	carne di maiale
@@ -323,7 +310,6 @@ PKP104	carne di maiale mista però non c'è tipo cuore polmoni cervello ossa
 PKP105	chi l'ha
 PKP104	tutti i xx io
 PKP104	tutta la x di marracash non non c'è
-PKP105	
 PKP105	io penso
 PKP103	la trippa
 PKP105	eh la trippa sì
@@ -337,7 +323,6 @@ PKP105	no come si chiama
 PKP104	i fratelli che fanno il morzello l pastore
 PKP105	viola
 PKP103	viola
-PKP104	
 PKP103	vabbè beppe viola dai
 PKP104	mai andata
 PKP103	io invece sì
@@ -428,7 +413,6 @@ PKP104	lei va a gua~ vei lei fa ma lo fa sempre
 PKP103	fa s~ guarda solo queste cose
 PKP104	un piacere stare con lei
 PKP103	no vabbè è è molto puntigliosa mettiamola così
-PKP104	
 PKP105	martina è una persona estremamente precisa ecco mettiamola così
 PKP104	fa economia
 PKP103	eh beh sì
@@ -453,7 +437,6 @@ PKP104	casa sua
 PKP104	al massimo mi può chiedere un parere ma
 PKP104	alla fine sceglie lei e soprattutto io
 PKP103	cioè a meno che non mi vedi non mi viene una persona che palesemente puzza non si lava
-PKP104	
 PKP103	ed è sgarbata non è che
 PKP104	non si cambia le mutande per tre giorni
 PKP103	cioè no eh questo non lo posso sapere io que~ questo sto come la cuccio io questo non lo posso dire perché non ti ho fatto l'elettro~ non ti ho fatto ti ho detto
@@ -470,9 +453,7 @@ PKP103	x
 PKP103	eh sì sì
 PKP103	ora non mi ricordo che ha detto va bé
 PKP104	ehm si
-PKP103	
 PKP105	mo devo vedere se questa c'ha l'imene intatto oppure no
-PKP103	
 PKP104	si avevamo sbagliato un po' tutti però era una cosa
 PKP103	eh se sul vocabolario puella me lo porta come vergine
 PKP104	come vergine
@@ -488,7 +469,6 @@ PKP104	eh che non era per que~ per questa cosa
 PKP103	l'aveva detto tipo non non so se a neri o a bianchi che avevano detto una scemenza
 PKP104	si ma mi ricordo pure quella
 PKP103	e la xx aveva risposto senti io non lo pos~ senti io questo non lo posso dire che non ti ho fatto l'elettro e non ti ho fatto la visita psichiatrica né l'elettrocardiogramma
-PKP104	
 PKP104	così
 PKP105	a gratis come sempre
 PKP103	vuoi un po' di philadelphia ila
@@ -512,8 +492,6 @@ PKP105	vedi te lo dicono tutti io da piccola quando mi chiedevano che cosa cucin
 PKP104	si
 PKP104	io gli dicevo
 PKP105	la pastina e l'insalata
-PKP103	
-PKP104	
 PKP103	la pastina in bianco
 PKP104	x x
 PKP103	e l'insalata
@@ -527,7 +505,6 @@ PKP105	quella mista prende d'insalata
 PKP103	il radicchio il radiccio
 PKP104	sì sì
 PKP103	ah questo non lo posso dire perché non ti ho fatto né l'elettrocardiogramma né la visita psichiatrica
-PKP103	
 PKP103	è troppo buona buona
 PKP104	vuoi ancora
 PKP105	mh
@@ -543,7 +520,6 @@ PKP103	oh no
 PKP104	non si è già
 PKP103	non abbiamo più visto francesca
 PKP104	no vabbè a me dispiace la volevo vedere
-PKP103	
 PKP104	non che si sia ammazzata perché mi ha detto
 PKP103	si infatti penso che pure lei non è che si è disperata quindi per questa cosa
 PKP103	no appunto
@@ -555,10 +531,8 @@ PKP103	anche se un pochino ci speravo
 PKP105	perché all'inizio noi eravamo proprio disperate però ho detto se non s~ se non hai ancora trovato niente facciamo qualcosa per pasquetta
 PKP103	mh
 PKP105	no no sono già organizzata
-PKP103	
 PKP103	manco a dire
 PKP105	cosa fai tu
-PKP103	
 PKP103	se vuoi venire
 PKP103	e poi tra l'altro mi aveva detto
 PKP103	o il giorno di pasqua o il giorno proprio prima
@@ -579,7 +553,6 @@ PKP104	no x e no sono stanco sono arrivato
 PKP104	sono stanco sono appena arrivato da cosenza
 PKP103	fra~
 PKP104	io quando mi faccio dodici ore di pulman dormo tre ore e poi vivo la giornata non è che
-PKP104	
 PKP103	mhmh mh
 PKP103	eh mi ricordo a gennaio ero risalita dopo natale
 PKP103	viaggio terribile perché in pullman ogni tanto mi trovo
@@ -633,7 +606,6 @@ PKP105	no no sto bene così
 PKP103	ade~ un kiwi
 PKP105	no no non ti preoccupare sto abbastanza piena
 PKP103	io non è che mi preoccupo ti sto offrendo se ti vanno
-PKP103	
 PKP105	no no non non mi va sto bene così
 PKP103	un'altra banana un'arancia
 PKP103	no no grazie
@@ -708,7 +680,6 @@ PKP105	però c'erano
 PKP104	e me li ha estratti due filippo e due il dentista rossi
 PKP104	sì sì me li ricordo che te li
 PKP103	mi ricordo che te li tenevi un quel sacchetto in quell'armadio infatti vedo ogni volta sti denti dico mah
-PKP105	
 PKP103	perché eri talmente dispiaciuta denti sanissimi
 PKP104	per la fata turchina
 PKP103	che ce li siamo conservati
@@ -760,7 +731,6 @@ PKP103	cioè la cosa diventa seria per davvero quindi lei gli ha fatto le corna 
 PKP104	che però non ha pro~ mh non vuole ancora accasarsi
 PKP103	che però non vuole ancora sistemarsi
 PKP104	vabbè
-PKP103	
 PKP104	arriverà anche a lui magari la campanella però
 PKP103	che tipa
 PKP104	si che poi l'ha tradito
@@ -789,7 +759,6 @@ PKP104	e
 PKP104	ingegneria fisica mi ha detto ludovica
 PKP104	che dice che pure che sono insieme al politecnico di milano lei non l'ha mai vista
 PKP103	dice che l'ha vista solo una volta mangiare sul prato con i suoi amici quando la quarantena era finita quando gli obblighi di mascherina erano finiti e tutto quanto
-PKP104	
 PKP103	e dice che era l'unica tra quattrocento persone seduta sul prato che mangiava con la mascherina
 PKP104	all'aperto eh non è che
 PKP103	faceva così
@@ -920,7 +889,6 @@ PKP103	mh
 PKP103	se dovessi entrare
 PKP103	perché c'è sia letteratura traduzione poi c'è cinese
 PKP105	continuo con sto cinese
-PKP103	
 PKP103	boh
 PKP104	oddio non so se è una scelta buona
 PKP103	praticamente ti sei scelta questo corso di laurea perché c'era cinese ed è la cosa che non ti piace fare
@@ -940,7 +908,6 @@ PKP104	e lui sa benissimo il cinese
 PKP103	antonio
 PKP103	antonio ehm
 PKP104	è bravissimo in cinese però mi ha fatto notare che me l'hanno insegnato male fin ora
-PKP105	
 PKP103	mh
 PKP105	perché effettivamente una cosa che dovrebbero fare
 PKP103	ma lui è laureato in lingue
@@ -963,7 +930,6 @@ PKP103	e ed è una cosa importante che non ci hanno fatto fare poi
 PKP105	lui dice che alcune cose di cultura che abbiamo fatto sono sbagliate
 PKP103	mh
 PKP104	questo vabbè mi interessa tanto non quanto tipo le sa le cose sul kung fu
-PKP103	
 PKP105	vabbè io non so manco quanto fidarmi perché fa un po' il me~ maestrino a volte
 PKP103	sì sì sì sì
 PKP103	però
@@ -983,7 +949,6 @@ PKP103	però se lui ha imparato il mandarino quello dovrebbe esse~ quello che st
 PKP103	vabbè poi vabbè davvero ci sono tantissimi dialetti che sono proprio pare delle lingue diverse
 PKP103	quindi mh
 PKP105	no è difficile
-PKP103	
 PKP103	cioè
 PKP103	cerco di non pensarci
 PKP105	però non è cioè non è la cosa più difficile

@@ -33,7 +33,6 @@ PKP039	e si vedeva una nave e laf~ come si dice la fonda
 PKP040	alla fonda
 PKP039	alla fonda
 PKP041	non che sta affonda
-PKP041	
 PKP040	io voglio il cucchiaio però
 PKP040	na prendilo
 PKP040	puoi alzarti ne hai facoltà
@@ -63,7 +62,6 @@ PKP041	non abbiamo una campagna un giardino
 PKP039	là
 PKP040	alla comunione di maura diedero un un pino una cosa del genere
 PKP041	ho detto ad antonello antoné mo che nasce tua nipote na foresta chiantu
-PKP040	
 PKP039	ieri sai perché li ho riconosciuti alla conad
 PKP040	mh
 PKP040	perché ho visto uno che guardava un cane che era entrato alla conad stava guardando
@@ -166,7 +164,6 @@ PKP041	non si può giustificare
 PKP039	beh so' stati bravi
 PKP040	nc'ha dato na buona idea la prossima vota la fanno
 PKP041	no l'hanno lanciato una molotov non hanno colpito il monumento
-PKP040	
 PKP040	fammi vedere
 PKP039	ca ci si fannu di cocaina li vagnuni
 PKP039	paola
@@ -205,7 +202,6 @@ PKP041	ah una paparella alta
 PKP039	capito
 PKP040	xx xx xx
 PKP040	eh
-PKP040	
 PKP040	be comunque a milano arriva il pesce pure fresco xx
 PKP040	no ti ho comprato ti ho comprato il cinghiale per quando vieni
 PKP040	mh e poi il capicollo
@@ -277,7 +273,6 @@ PKP040	sto morendo di sonno
 PKP041	solo che devo vedere la messa a che ora è domani perché mo cambia l'orario no
 PKP039	ma così l'avresti aperta
 PKP041	mena giù
-PKP040	
 PKP041	senti la tua amica che sta a edimburgo che dice tappata in casa no
 PKP040	no la situazione a edimburgo non la so
 PKP041	eh non è buona
@@ -338,7 +333,6 @@ PKP040	ha messo una foto
 PKP040	aurelio pentarossi
 PKP039	scusa si pensavo l'avessi visto qua
 PKP041	eh
-PKP040	
 PKP041	no l'hanno tolta quand'era magro
 PKP040	ho sentito la turca
 PKP041	che dice
@@ -372,7 +366,6 @@ PKP041	so cantante io
 PKP040	pa': non ci devi pensare
 PKP040	infatti tu non lo faresti
 PKP041	mo stai attento a non fare
-PKP040	
 PKP039	c'ho mal di testa
 PKP040	non mi capisci xx xx
 PKP040	l'altro giorno mentre facevo catechismo uno ha scorreggiato

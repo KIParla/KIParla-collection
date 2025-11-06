@@ -1,10 +1,7 @@
 PKP112	che tensione
-PKP112	
 PKP118	buon appetito
 PKP119	grazie
 PKP112	grazie altrettanto
-PKP118	
-PKP118	
 PKP112	è buona
 PKP112	boh
 PKP119	è molto grossa
@@ -13,8 +10,6 @@ PKP119	è cotta
 PKP119	eh beh
 PKP119	sì
 PKP118	è una bella pataccona
-PKP112	
-PKP119	
 PKP112	hai detto in dialetto
 PKP118	la nonna come sta
 PKP118	mi sa bene
@@ -65,7 +60,6 @@ PKP118	ma la troverai anche al supermercato
 PKP119	sì
 PKP112	eh oh eh
 PKP118	se vuoi
-PKP119	
 PKP118	hai sentito la nonna
 PKP119	gino
 PKP118	eh
@@ -79,19 +73,14 @@ PKP119	ah e
 PKP119	e mi ha detto che an~ l'aveva chiamata per capire un attimino cos'è che è però secondo lui lei ha un mh
 PKP118	boh c'è stato qualche discorso strano che ha avuto qualche tiraculo non so oh se ho capito bene con la nonna
 PKP112	ancora
-PKP119	
 PKP118	e allora per effetto del tiraculo eh si è levata dalla
 PKP119	da tutti xx
 PKP112	da tutti tutti i contatti del mondo
-PKP118	
 PKP119	ma cosa c'entrano le nostre xx
 PKP112	è un grosso tiraculo
-PKP118	
-PKP112	
 PKP119	boh
 PKP119	allora eh lei sicuramente sta passando il più brutto periodo della sua vita pe~
 PKP112	cos'hai trovato
-PKP119	
 PKP112	cosa
 PKP119	niente era un un pezzo di
 PKP112	ah
@@ -134,7 +123,6 @@ PKP119	la natura
 PKP118	vede e provvede sarà
 PKP119	boh
 PKP118	ha paura di rifare un'altra sally
-PKP118	
 PKP119	no dai tanto
 PKP118	no scherzo
 PKP119	ci riproveranno dai
@@ -163,7 +151,6 @@ PKP118	ah sì
 PKP119	basta che la
 PKP119	l'unico problema è che quando torna a casa c'è qualcuno che gli prepara un piatto così di pasta
 PKP118	e gli lava e gli stira e gli fa e lui non deve fare un cazzo e deve andare solo a lavorare
-PKP118	
 PKP112	la tesi oggi chiara sei andata avanti un po' a scriverla
 PKP118	no zero
 PKP112	dai
@@ -180,19 +167,13 @@ PKP118	perché dà più importanza a quella della magistrale quindi dai mi ha tr
 PKP118	della magistrale mh
 PKP119	bene
 PKP112	eh tranquilla è rimasta inculata lo sai vero
-PKP118	
 PKP112	sempre fine
-PKP119	
 PKP112	ti avevo avvisato che era possibile avere un discorso abbastanza scurrile
-PKP118	
 PKP119	ma penso che sia possibile
 PKP112	a tavola proprio sincero
 PKP119	eh
 PKP112	come il vino che sto per andare a bere
-PKP119	
 PKP118	ah beh siete di compagnia
-PKP112	
-PKP118	
 PKP119	ho la bocca piena
 PKP112	ah è vero non si parla con la bocca piena
 PKP112	eh non è xxx
@@ -245,7 +226,6 @@ PKP112	quando fai la laurea tu
 PKP112	ah si
 PKP119	tra l'altro mh
 PKP118	ci vestiamo da gli addams vi
-PKP112	
 PKP118	ma halloween è già il trentuno
 PKP112	mh
 PKP112	tra l'altro
@@ -275,8 +255,6 @@ PKP118	no è per il compleanno
 PKP112	bellino
 PKP119	mhmh
 PKP112	che bello non ho capito niente
-PKP118	
-PKP112	
 PKP118	le mandiamo una borraccia un'agenda con dentro tipo un itinerario di cose viene qua a bologna non so ristoranti cose da vedere così
 PKP112	beh così può vedere bologna che non l'aveva vista
 PKP119	eh
@@ -362,7 +340,6 @@ PKP112	ah tira di brutto ci son tutti i santi puoi pregare ogni e poi ci sono le
 PKP119	beh mhmh
 PKP119	le chiamano
 PKP112	cioè ogni tot scalini c'è la fermata col santo così ti puoi implorare il santo che ti aiuta per fare l'altra rampa
-PKP119	
 PKP119	e finché non arrivi su
 PKP118	poi andate a vedere c'è la madonna nera
 PKP118	vabbé
@@ -387,7 +364,6 @@ PKP118	io non sono mai andata
 PKP112	oh
 PKP119	ma anche tipo te sei mai stata a rocchetta mattei
 PKP112	la
-PKP112	
 PKP118	rocchetta mattei si chiama
 PKP112	cos'è
 PKP112	è penso vicino a bologna
@@ -628,8 +604,6 @@ PKP118	ah
 PKP119	io l'ho sempre chiamato michael ma non si chiama michael perché
 PKP112	never ending story
 PKP112	è tedesco
-PKP118	
-PKP119	
 PKP118	hai visto il film te
 PKP112	sì
 PKP112	io l'ho visto
@@ -688,7 +662,6 @@ PKP118	che buono
 PKP112	perché mi dà chiesa di rocchetta mattei xxxx
 PKP118	perché è una chiesa secondo me
 PKP119	ma questo è un castello
-PKP119	
 PKP118	no è di fianco c'è la chiesa
 PKP118	vabbè
 PKP118	mh sì
@@ -711,14 +684,11 @@ PKP112	l'hai tolta la parte tutt'intorno
 PKP118	sì è ammuffita
 PKP119	mi dai un'altro po' di fichino
 PKP112	pichino
-PKP118	
 PKP119	no
 PKP118	ha detto pichino
 PKP118	fico
 PKP118	ho detto fico
 PKP112	voglio un po' di fico caramellato
-PKP112	
-PKP119	
 PKP118	ha detto pichini vero
 PKP118	ah sai quanto ci vuole qua
 PKP119	altro che ottantatré chilometri sono centrotrentaquattro chilometri
@@ -730,8 +700,6 @@ PKP118	un'ora e tre quarti
 PKP112	due ci vogliono
 PKP119	vabbe dai ti fai una gita un giorno
 PKP112	non lo dire con la zia alberta eh
-PKP118	
-PKP118	
 PKP112	perché
 PKP112	si offende
 PKP112	dai chiamala
@@ -752,7 +720,6 @@ PKP119	prova
 PKP118	sì hai l'aids te me l'attacchi
 PKP112	ma smettila
 PKP118	mh
-PKP112	
 PKP119	l'aids
 PKP118	no l'aids il covid lì
 PKP112	il covid
@@ -768,13 +735,10 @@ PKP118	io non ce la faccio
 PKP112	eh mh un po' in là eh
 PKP119	guido io
 PKP112	così non ce la faccio il doppio
-PKP119	
 PKP112	arrivo che sono così
-PKP112	
 PKP119	me ne dai un altro po'
 PKP118	ma ehi
 PKP112	ma tu ma scusami e io vorrei un fico per me e ve lo mangiate voi
-PKP119	
 PKP118	no
 PKP112	mi dai un~ una puntina e poi ve lo magnate voi
 PKP118	il picchino
@@ -788,8 +752,6 @@ PKP119	che me lo mangio io da sola
 PKP119	no
 PKP119	tu non sei gestibile
 PKP118	col fico
-PKP112	
-PKP118	
 PKP119	dai dammene un'altro po'
 PKP112	ludovico sei buono come un fico
 PKP119	dai papà
@@ -802,7 +764,6 @@ PKP119	dai dammene un pezzetto
 PKP119	cos'è
 PKP119	non sono napoletane
 PKP112	guarda che è meraviglioso
-PKP118	
 PKP112	sono siciliani
 PKP119	eh ci
 PKP118	basta eh
@@ -819,7 +780,6 @@ PKP112	eh sì
 PKP118	ma basta ributtalo dentro quello
 PKP119	va bene
 PKP118	secondo te me lo fan ritirare fuori tre volte
-PKP112	
 PKP118	e chi se lo mangia tutto quello là
 PKP119	io
 PKP112	sta a vedere eh qui
@@ -855,7 +815,6 @@ PKP112	bene
 PKP118	cosa ti ha detto la zia veronica oggi
 PKP119	che sta bene
 PKP112	c'hai un po' di fico qui
-PKP118	
 PKP118	aspetta che mi pulisco
 PKP119	sta bene la zia
 PKP118	sta bene
@@ -905,7 +864,6 @@ PKP119	mh
 PKP119	ma chiara tu devi capire io l'ho ringraziata è ovvio che l'ho ringraziata
 PKP119	dicevo la gente non è che mi vede e se e son gesù
 PKP112	e tutti d~ mi portano i doni
-PKP112	
 PKP119	vabbè gli ha fatto la il lavoro
 PKP119	la gente
 PKP119	chi lo vuole fare a me piace molto eh

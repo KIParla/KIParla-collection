@@ -59,7 +59,6 @@ BOR001	e poi siamo venuti ad abitare qui in v~ in via @nomeluogo quando è nato 
 BOI009	mhmh
 BOR001	quando è nato daniel
 BOI010	mhmh
-BOR001	
 BOI009	okay
 BOI009	proprio ehm
 BOI010	ehm il contratto è andato lui a farlo un mese circa prima ma però quando è nato daniel ehm siam venuti abitare
@@ -67,7 +66,6 @@ BOI010	sì
 BOR001	che io avevo detto siamo in tre
 BOI010	mhmh
 BOI009	e dopo quando dopo un mese fa com' eravate in tre siete in quattro ah ma q~ quello lì è appena nato
-BOI010	
 BOI010	e siamo ancora qua
 BOR001	in questa casa qui
 BOR001	mhmh
@@ -88,7 +86,6 @@ BOR001	poi anche
 BOI010	mhmh
 BOI009	i~ in un in un batter d'ali in un un lampo
 BOI010	sì sì
-BOI009	
 BOR001	perché si va in carracci da da qui che prima si andava in stazione ti ricordi che si passava di lì
 BOR001	sì
 BOR001	mhmh
@@ -141,10 +138,8 @@ BOR001	e poi via @nomeluogo se andiamo indietro di di vent'anni venticinque anni
 BOI010	mhmh
 BOR001	si parcheggiava anche senza la retromarcia adesso non trovi un posto neanche se
 BOI009	mhmh
-BOI010	
 BOI009	perché c'è molto
 BOI010	ma nean~ anche di più di venticinque parli anche di trentacinque perché
-BOI009	
 BOI010	ti ricordi quando c'e~ ehm tuo figlio tuo padre lo sa benissimo che quando venivano a casa la notte giravano giravano perché non trovavano il parcheggio e
 BOR001	adesso è ancora mh c~ impressionante cioè non puoi muoverti se c'hai un parcheggio non puoi muoverti
 BOI009	mhmh
@@ -261,7 +256,6 @@ BOI009	no
 BOI010	vivi ancora così è stata brutta quel momento lì
 BOI009	perché nonostante tutto io sono ancora innamorato della città di bologna cioè è tanti anni che son qua e
 BOI009	sarà
-BOI010	
 BOI010	xxx
 BOI009	ho scelto prorio una città però anche qui ci sono
 BOI009	sì non
@@ -276,7 +270,6 @@ BOI009	xxx cose grosse no ehm
 BOI009	zona tranquilla
 BOR001	non so se sia colpa del fatto che c'è polizia carabinieri questura a ghem tut
 BOI010	mhmh
-BOI009	
 BOI009	c'è tutto
 BOR001	non so se
 BOI010	e e i portici sono anche quelli son peggiorati secondo voi
@@ -411,7 +404,6 @@ BOI009	e e l~ e la chiesa di q~ san petronio
 BOI010	e la chiesa di san petronio e così ma più che altro xxxx
 BOR001	e san luca fuori dal c~ dal centro eh s~ san luca che è una cosa è una chicca della città cioè san luca
 BOI010	mh
-BOI009	
 BOI009	e cosa c'è anche di bello che n~ noi ci siamo andati
 BOI009	ah l~ la
 BOR001	il palazzo albergati dove
@@ -514,7 +506,6 @@ BOI010	mhmh
 BOI009	andavano da calderoni poi dopo stavano a girare per p~ via indipendenza eh i biasanot
 BOR001	e allora la gente ci andava per potere incontrare quelli lì anche quell'altro cantante
 BOI010	mhmh
-BOI009	
 BOR001	ehm non de greg~ de gregori no de gregori
 BOI009	ma guccini
 BOI009	guccini
@@ -536,7 +527,6 @@ BOI009	non mi ricordo i nomi
 BOI009	eh ehm c'erano quelli dei
 BOI010	dei
 BOR001	ah mo s'at 'n sa brisa i nom
-BOI009	
 BOR001	quello che ha vinto sanremo due o tre anni fa che è l'amico di vasco rossi
 BOR001	mh
 BOR001	oddio chi è
@@ -619,7 +609,6 @@ BOR001	ma insomma ho mangiato così così
 BOI009	sì sì
 BOI009	poi
 BOR001	se un conto è se c~ prendi un francese o un inglese che quelli non capiscono nie~ xxxxxx
-BOI010	
 BOI009	eh dai brisa dir acsì xx che discorso
 BOR001	francese un fo' di mangiare ma gli inglesi
 BOI010	sì hanno una cucina molto diversa
@@ -844,7 +833,6 @@ BOI009	a a a u~ una damigiana una damigiana
 BOI010	adesso quest'anno invece avevano messo che si pagava e dovevi andarci prenotato
 BOI009	dopo c'era meno gente perché dopo
 BOR001	sempre per il c~
-BOR001	
 BOI009	però dai ce ne sono di iniziative
 BOI010	no qui ce n'è un bel po'
 BOI010	no no beh certo che ce ne sono a~ anche lì i volontari però era molto carino
@@ -1050,8 +1038,6 @@ BOI010	se invece ti vuole proprio una visita devi chiedere appuntamento
 BOI009	l'appuntamento
 BOI009	ehm ma diciamo che oh
 BOI010	s'adeguem
-BOR001	
-BOI009	
 BOI009	perché
 BOI009	non si può far altro
 BOR001	ehm anche perché
@@ -1119,7 +1105,6 @@ BOI010	al fa vuol p~ il mio numero beh signore ma scherza
 BOI010	ha ha visto quanti ne ho davanti almeno sto qua altre due ore
 BOI010	che xx sto bene qua
 BOR001	oh mi son sentito
-BOI009	
 BOI010	perché lui era un pensionato non aveva niente da fare
 BOI010	mi son~ ehm forse non aveva nessuno era
 BOR001	allora lui xxx bah che beh 'c tristezza
@@ -1130,7 +1115,6 @@ BOI010	mo dio bono
 BOI010	a dig oh mi dà ehm con malincuore oh me lo dia però
 BOI010	ilaria
 BOR001	vien ben chi uno mi dice a dig ma lei ha visto quanta gente al fa mhmh almeno do or a resto do or mo soppa ragazz
-BOI010	
 BOR001	no ci son rimasto di un m~ male ci son rimasto per lui
 BOI010	sì
 BOR001	sì perché poveretto
@@ -1254,7 +1238,6 @@ BOR001	anche se parliamo f~ fra di noi proprio in frares no butiamo un po' misto
 BOI010	sì ogni tanto
 BOI009	ogni tanto sì ag dem un culpet però n~
 BOR001	no no e poi la pronuncia noi ce l'abbiamo ferrarese la pronuncia
-BOI010	
 BOR001	la pe~ ehm la perdiamo
 BOI009	sì
 BOI010	sì
@@ -1263,7 +1246,6 @@ BOI010	come si sente tuo nonno che è modena
 BOI009	sgarbi a parlare f~ parlare senti che è un ferrarese noi no noi n~
 BOI009	ha molto il modenese
 BOR001	no no noi sì
-BOI010	
 BOI009	bah sì però
 BOR001	te non ti senti
 BOI010	eh
@@ -1271,7 +1253,6 @@ BOI009	boh
 BOI010	eh noi sì
 BOI009	alor cum è quando io sento un p~ frares dscorar a dig madonna
 BOR001	eh lo senti
-BOI009	
 BOI009	eh
 BOR001	ades t'ag fa sentir qual lì
 BOI009	esat~ dopo ti faccio sentire
@@ -1296,7 +1277,6 @@ BOI009	normalmente
 BOI010	perché mi ricordo quando eravamo al mare con ehm la lucia così che ridevate come dei matti ehm o anche l'irene così se diceva delle frasi
 BOI009	mh
 BOI010	però per lei erano
-BOI009	
 BOR001	dette normalmente
 BOR001	sì sì
 BOI010	no no
@@ -1353,12 +1333,10 @@ BOI009	cioè prima devo capire il senso della frase
 BOR001	mh
 BOI009	e dopo allora capisco che parola è quella lì e mi viene la pronuncia
 BOI009	e dopo
-BOI009	
 BOR001	sì sì anch'io anch'io
 BOI009	però
 BOI010	ah x
 BOR001	se vuoi vedere un qualche spunto di qualche battutina bolognese
-BOI010	
 BOI009	vedat
 BOI010	qui i ghè tut
 BOI010	qui
@@ -1490,7 +1468,6 @@ BOI010	leggi questa
 BOR001	eh ah ma no t'in trovi chi da ridar
 BOR001	allora
 BOI010	a truverla cota
-BOR001	
 BOR001	tuti ien bon
 BOR001	ed magnerla
 BOI009	ah a trovare ah la minestra se xxx
@@ -1504,7 +1481,6 @@ BOR001	fai prima certo certo
 BOR001	dopo lo capisci
 BOI009	sì sì
 BOI010	sì sì è per quello che ti ho detto
-BOI009	
 BOI009	il ferrarese col bolognese noi siam venuti qui
 BOI009	non è che ci fossero delle parole che non potevi capirle
 BOI009	perché
@@ -1574,7 +1550,6 @@ BOI009	mhmh
 BOI009	andiamo dentro quando siamo van~ venuti fuori fa dai che ti offro un cappuccino
 BOI009	e io dentro di me
 BOI010	mah adesso chissà cosa mi offre
-BOI009	
 BOI009	perché io ero sempre stata in campagna
 BOI009	al bar non c'ero mai andata
 BOI009	eh
@@ -1628,7 +1603,6 @@ BOR001	non aveva nessun permesso
 BOI010	sì sì
 BOI009	te vai a fare un monumento beh insomma eh
 BOR001	si è fatto un monumento per co~
-BOI010	
 BOI009	ma dopo l'han fatto veder per per tele~ p~ per al cinema eh a vigarano mainarda vai lì al quartiere del signor bianchi
 BOI009	dopo l'han f~
 BOI010	lo facevano vedere anche al cine~
@@ -1684,17 +1658,13 @@ BOI010	era un personaggio
 BOI010	nel bene un altro può ridere invece per lui ehm
 BOI009	e poi s~ t'ho detto ha fatto un monumento senza chiedere a nessuno
 BOR001	e
-BOI010	
 BOI009	eh
 BOI010	sì poi aveva tante case aveva il frutteto aveva
 BOI009	ehm et incora da registrar che stiamo parlando un po' di tutto
 BOR001	sì
 BOI010	mhmh
 BOI009	ah soppa però
-BOR001	
 BOI009	no vabbè è interessante
-BOI010	
-BOI009	
 BOI009	eh son tutte cose che
 BOI010	raccontate storie
 BOI009	sono storie
@@ -1870,7 +1840,6 @@ BOI009	ti davano la farina in base ai figli
 BOI009	ti davano la farina il tesserino per comprare la farina così in base a quante persone eravate in casa
 BOI009	lei aveva dei figli che ehm i gheva tri quatr'an zinc an si an e diez an e alora
 BOI010	n~ n~ ne aveva tanta che la dava anche via
-BOR001	
 BOI009	mhmh
 BOR001	e e così loro le davano qualchecos'altro
 BOI009	sì sì
@@ -1954,7 +1923,6 @@ BOI009	mhmh
 BOR001	altrimenti gliene buttavi dentro un po' che avevi scaldato te
 BOI010	mh
 BOI009	ah ehm
-BOI010	
 BOR001	eran tempi così eh e adesso ci
 BOI010	mh
 BOR001	uno si lamenta anche noi ade~ perché
@@ -1962,7 +1930,6 @@ BOI010	si eh in inverno è freddo
 BOR001	eh eh eh eh eh eh eh
 BOI009	al mattino quando va
 BOR001	sì sì
-BOI010	
 BOI010	vedi
 BOI010	la doccia si faceva così
 BOI010	e e quelli chi c~ avevano il tipo il il garage come c'ha tuo tuo nonno loris
@@ -1975,14 +1942,12 @@ BOI010	mh
 BOI009	eh sì
 BOI010	si lavava
 BOR001	quella lì xx che lo fa terence hill ch'al fa vedar che lo fa da vestito tutto
-BOI009	
 BOI009	che
 BOR001	si lavava le lenzuola così ci serviva una cosa
 BOI009	mhmh
 BOR001	abbastanza grande dopo lì si faceva il bagno
 BOI009	che tutti a turno
 BOR001	a turni
-BOI009	
 BOR001	no casomai
 BOI009	l'ultimo
 BOR001	l'ultimo che si lavava gl'era più sporc
@@ -1996,7 +1961,6 @@ BOI009	beh mo scherzi l'acqua non si cambiava mina oh
 BOI009	tanto avevano due anni di differenza quando i eran d'istà là dala nona
 BOI009	ehm facevano mettevamo fuori la catinella là di dietro al sole e alla sera
 BOI010	dentar
-BOI009	
 BOR001	però è bello
 BOR001	sì
 BOI010	sì sì
@@ -2092,7 +2056,6 @@ BOR001	e
 BOI009	xxx
 BOI010	di pancetta
 BOR001	di pancetta e la forchetta
-BOI009	
 BOI010	quella era la caterina
 BOI010	e andavi lì
 BOI009	perché quello lì si mangiava quando si era ba~ bambini in campagna
@@ -2101,7 +2064,6 @@ BOI010	la pancetta così col pane
 BOI010	e poi alla fine ti rimaneva
 BOI009	ehm ehm la pancetta a forza di mangiar del pane non a~ non avevi più voglia di mangiar la pancetta
 BOR001	la pancetta
-BOI010	
 BOI009	la caterina l'ha c~ l'ha fatto
 BOI009	e quel~
 BOI010	e ci scaldavano l'acqua poi dopo si faceva il bagno
@@ -2121,7 +2083,6 @@ BOI009	sì non
 BOI010	poi dopo invece quando siam venuti su era tutto aperto con la vasca là in fondo che quella l'hai vista anche te
 BOI010	sì dopo era dopo era così
 BOI010	invece giù era era diviso
-BOI010	
 BOR001	adesso giù l'han fatto tutto nuovo eh
 BOI010	ah beh
 BOI010	adesso non c'è neanche più
@@ -2212,7 +2173,6 @@ BOI010	ma quella famiglia lì c'aveva il c~ il cortile con la ta~ il tavolone lu
 BOI010	che lì ci stavi in quindici venti a s~ sedere
 BOI010	e allora tutti quelli che eran lì
 BOR001	a tutte le ore te li vedevi a tavola era una cosa stupenda
-BOI010	
 BOI009	io delle volte quando
 BOR001	son quelle case cumpagn in grecia penso che anche il grecia sia c~ ehm almeno ho visto per televisione
 BOI010	mh
@@ -2236,7 +2196,6 @@ BOI010	io a parte che noi mangiavamo sempre al ristorante perché avevano la cuc
 BOI010	però ah ehm è stato
 BOI010	u~ u~ una cosa
 BOR001	c~ che io non n~ t~ prima di andarci gli ho fatto un interrogatorio che neanche la polizia li interroga così ma in quanti siete cosa fa~ n~ non ero abituato a questo qua
-BOI009	
 BOI010	perché noi non siamo abituati
 BOI009	non siamo abituati a queste cose qua
 BOR001	a prendere qualcuno in casa a dormire
@@ -2269,7 +2228,6 @@ BOI010	si fermavano per parlare
 BOI010	sì perché là
 BOR001	sono in cinque milioni di in cinquemila abitanti eravamo in cinquanta mila t~ t~ immaginati che
 BOR001	mh
-BOI010	
 BOI010	una mattina vado in bottega
 BOI010	e allora a dig ehm s~ vorrei questo qui quello lì
 BOI010	e po' dop' al fa

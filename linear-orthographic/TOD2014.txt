@@ -13,7 +13,6 @@ TO059	qual è la vostra abitazione se avete coinquilini se mh state sole se vi p
 TO071	okay
 TO060	cominciamo con nadia
 TO060	con nadia o con lavinia
-TO071	
 TO059	co' lavinia sì ho detto io ho detto nadia ma ho indicato lavinia va bene cominciamo con lavinia
 TO059	okay
 TO071	allora io ho vissuto il il primo anno di università quindi comunque sempre nel duemila e diciotto
@@ -50,7 +49,6 @@ TO059	per scelta loro
 TO071	sì
 TO059	eri il problema eri tu forse
 TO071	eh fo~ probabilmente
-TO059	
 TO059	e no vabbè comunque vabbè la casa ehm era carina c'erano due stanze la singola la mia singola
 TO071	e poi un'altra che era la doppia
 TO059	aha
@@ -82,7 +80,6 @@ TO059	ma sei pure brava o ti piace e basta
 TO060	no secondo me so' brava
 TO071	è brava è brava
 TO059	okay va bene
-TO060	
 TO059	confermo
 TO071	e sempre in una singola con un'altra ragazza quindi sono due singole insomma è molto più tranquillo e gestibile
 TO071	okay
@@ -119,7 +116,6 @@ TO060	colle è che cos'è il tuo paese la tua città d'origine
 TO071	no nadia
 TO060	ah nadia ah okay di colle ho capito
 TO060	due nadia
-TO071	
 TO060	quindi due nadia va bene
 TO060	esattamente
 TO071	camere singole perché io camera doppia
@@ -168,7 +164,6 @@ TO071	quindi
 TO060	ora nadia ci parla di corso monte cucco casa e quartiere e coinquilini
 TO071	eh
 TO059	e lavinia poi di venezia dai dai va bene più
-TO060	
 TO071	non c'è molto da dire perché era lontanissimo tipo quaranta minuti di mezzi
 TO071	aha
 TO060	cioè dove sta questo monte cucco
@@ -194,7 +189,6 @@ TO060	'n ti co non ti conveniva scendere a porta nuova
 TO071	sì ma in entrambi i casi comunque dovevo fare due cambi e ci mettevo più di mezz'ora
 TO060	è ugual~
 TO071	la zona non c'è niente cioè proprio niente
-TO060	
 TO071	esci la sera dopo le dieci e forse trovi la signora col cagnolino e basta
 TO060	okay
 TO060	oltre al fatto che è un quartiere
@@ -219,7 +213,6 @@ TO059	sì
 TO060	poi vabbè è bello cioè ti fai la passeggiata quando è bel tempo
 TO059	se non straripa il po
 TO071	no
-TO071	
 TO071	okay
 TO059	torniamo a lavinia e andiamo a venezia
 TO059	ah io sono stata a venezia
@@ -240,7 +233,6 @@ TO059	una non c'era praticamente mai perché
 TO071	faceva sempre su e giù per casa e l'altra marchigiana una tipa stranissima
 TO071	mhm
 TO060	eh strana perché
-TO059	
 TO059	ehm
 TO059	è strana perché io che c~ io sono una persona molto paziente eppure c'ho avuto veramente
 TO071	gravi problemi di pazienza
@@ -269,7 +261,6 @@ TO071	esatto
 TO071	okay quindi abbiamo finito il periodo universitario andiamo un po' più indietro
 TO071	ditemi dove avete vissuto in gioventù
 ???	quando boh n~ ma no che mo siete vecchie insomma in in adolescenza okay forse adolescenti non lo siete
-TO071	
 TO059	più forse non lo so
 TO071	madonna direi di no
 TO060	okay
@@ -449,7 +440,6 @@ TO071	eh quindi niente sì
 TO071	okay
 TO071	ehm vi faccio un'ultima domandina
 ???	prima di chiudere che poi arriverà xxx me pare a 'sto punto
-TO071	
 TO071	no se mi volete dire invece due parole su le case dei nonni mo' dei nonni
 TO071	la situazione può esse~ molto varia per chiunque però se
 TO071	non lo so
@@ -511,7 +501,6 @@ TO059	mhm
 TO059	sempre provincia di terni
 TO059	in realtà non non stanno proprio diciamo nel paese ma un po' più fuori
 TO059	è una strada che va verso corbara praticamente c'è solo casa loro
-TO059	
 TO071	e anche sì e anche questa è una villa io mh in realtà ho sempre pensato fosse un po' una fattoria
 TO059	ah okay
 TO071	cioè io l'ho sempre chiamata una fattoria perché era così che
@@ -528,7 +517,6 @@ TO071	agnelli mon~ montoni addirittura
 TO059	aha
 TO059	mi ricordo era tipo una cosa più alta di me pericolosissimo oltretutto
 TO060	eh no è vero i piccioni
-TO071	
 TO059	mhm
 TO060	e le oche le anatre con lo stagnetto proprio molto molto carino vabbè poi
 TO059	scusa i piccioni allevati
@@ -538,7 +526,6 @@ TO059	nella gabbia
 TO059	certo
 TO071	cioè la piccionara la chiamano i nonni
 TO060	esatto
-TO059	
 TO059	c'è la piccionara dove ci stanno varie gabbie che in realtà poi sono aperte loro girano lì s'accoppiano
 TO071	poi vanno ritornano
 TO059	i piccioni li allevano sì sì
@@ -551,13 +538,10 @@ TO060	io non c'ho mai avuto il coraggio però chi se li magna dice che
 TO059	e non lo so infatti
 TO059	no raga sono so' buonissimi
 TO060	cioè mangiateli provateli veramente
-TO071	
-TO071	
 TO059	insomma xx perché a torino ce n'è x
 TO071	meh vabbè quelli di torino magari no e è quello il problema tanti pe~ pensano
 TO071	per poter
 TO060	eh
-TO059	
 TO059	che cioè tu prendi un piccione per strada e te lo mangi
 TO060	ovviamente cioè non è così insomma nel senso penso che rischi veramente di andare all'ospedale quindi no
 TO071	xxx
@@ -626,9 +610,7 @@ TO059	sbizzarrito con degli scherzi maschere che pendevano da dalle scale cioè
 TO071	sì veramente un po'
 TO059	okay comu~ come dire ha sprimentato la vena artistica pure su su sulla famiglia
 TO059	sì sì sì lui molto
-TO060	
 TO071	tua sorella in particolare
-TO059	
 TO071	sì porella
 TO059	poi avendo traumatizzato lei chiaramente tu tu sei scampata a certe cose perché
 TO059	sì no io sono scampata cioè tutti i miei cugini e tutti i più piccoli sono stati praticamente massacrati
@@ -646,7 +628,6 @@ TO071	eh io ho tanta pazienza ma veramente un'infinità di pazienza
 TO060	okay
 TO071	e il primo anno quando ero in corso monte cucco ho avuto questa coinquilina che
 TO060	corso monte cucco io ero là a lavorare a corso monte cucco vai vai
-TO060	
 TO071	che era un po' particolare del tipo boh
 TO060	aha
 TO060	le cose vanno in quel preciso punto spostate anche solo un po' più a destra o a sinistra era una tragedia

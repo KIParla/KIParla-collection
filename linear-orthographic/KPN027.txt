@@ -26,8 +26,6 @@ PKP116	normale
 PKP115	xxx
 PKP115	merda giorgia
 PKP115	se sei bella stasera non ti vedo mai così tirata
-PKP115	
-PKP116	
 PKP115	complimenti
 PKP115	io faccio grazie grazie
 PKP115	poi mi hanno visto il tatuaggio
@@ -54,9 +52,7 @@ PKP115	mhmh
 PKP115	e un altro che c'ho sempre nella mia classe
 PKP115	oh giorgia ma il tatuaggio é bellissimo
 PKP116	faccio eh grazie
-PKP115	
 PKP115	cosi gasatissima grazie grazie
-PKP116	
 PKP115	una bella serata allora dai
 PKP115	vi piace vi pi~
 PKP115	niente allora
@@ -99,7 +95,6 @@ PKP115	e avevano detto iniziamo da qua
 PKP116	secondo te chi era la prima
 PKP115	tu
 PKP116	eh
-PKP115	
 PKP115	ho detto oddio
 PKP115	mo mi alzo mi guardano tutti
 PKP115	mi sento a disagio perche io a me quando la gente mi fissa
@@ -164,7 +159,6 @@ PKP115	ah c'era anche la musica
 PKP116	mhmh
 PKP115	bello
 PKP115	allora ci siamo messi a fare i balli di gruppo
-PKP115	
 PKP115	io e xx c'eravamo messi
 PKP115	solo che io avevo i tacchi
 PKP115	quindi
@@ -202,19 +196,15 @@ PKP115	la sar~ la mamma di sara è un po' come la marty
 PKP115	cioè non regge praticamente niente
 PKP116	di alcool
 PKP115	xx
-PKP115	
 PKP115	la mamma di sara si beve che ne so
 PKP115	me~ mezzo bicchiere di vino
 PKP115	già
-PKP116	
 PKP115	ma dai
-PKP115	
 PKP115	allora
 PKP115	io avevo preso un mio drink
 PKP115	mi fa
 PKP115	giorgia
 PKP116	me ne versi un goccino nel mio bicchiere
-PKP115	
 PKP115	lo voglio assaggiare
 PKP115	va bene
 PKP115	cioè per me non era
@@ -224,9 +214,7 @@ PKP115	eh
 PKP115	lo be~
 PKP115	uh
 PKP115	xx
-PKP116	
 PKP115	eh ne è voluto ancora
-PKP115	
 PKP115	no alla fine se l'è preso lei
 PKP115	che oh è il mio
 PKP115	b~ bevo io
@@ -235,7 +223,6 @@ PKP115	niente così abbiamo iniziato a ballare abbiamo bevuto un po'
 PKP115	dopo siamo andati
 PKP115	di nuovo lì mh
 PKP115	se faccio un rutto
-PKP115	
 PKP115	okay
 PKP115	eh
 PKP115	siamo andati di nuovo nel tavolo
@@ -342,7 +329,6 @@ PKP116	gli ha fatto tutte le foto
 PKP115	gli ha fatto tutte le fo~
 PKP115	che comunque se prendevi un fotografo ti partivan dei gran soldi
 PKP116	quindi è xx bel regalo
-PKP115	
 PKP115	allora niente
 PKP115	avevamo aperto sta torta
 PKP115	solo che io ho detto
@@ -407,7 +393,6 @@ PKP115	e abbiamo
 PKP115	abbiamo fatto le foto
 PKP116	abbiam~ abbiamo aperto i regali
 PKP115	eh
-PKP116	
 PKP115	ha avuto dei bei regali
 PKP115	allo~
 PKP115	sì
@@ -500,10 +485,7 @@ PKP115	ah no
 PKP115	anzi
 PKP115	morticia era anche un bel pezzo di
 PKP115	eh
-PKP115	
 PKP115	cioè allora grazie
-PKP115	
-PKP116	
 PKP115	xx
 PKP115	mi fa
 PKP115	no no vai tranquilla giorgia
@@ -512,7 +494,6 @@ PKP115	faccio
 PKP115	benissimo
 PKP116	grazie
 PKP115	ora sono contenta
-PKP115	
 PKP115	poi
 PKP115	c'era
 PKP116	hai presente il rapporto che ho con marco
@@ -542,7 +523,6 @@ PKP115	oh ma non te ne puoi stare a casa tua
 PKP115	gli faccio
 PKP115	eh
 PKP115	vengo qua solo per darti fastidio
-PKP115	
 PKP115	e gli faccio
 PKP115	xx
 PKP115	è una mia gioia
@@ -554,7 +534,6 @@ PKP115	poi mi abbraccia
 PKP115	mi fa dai che sai che scherzo
 PKP116	mua~
 PKP115	ah beh carino
-PKP115	
 PKP115	ieri sera
 PKP115	è un'altra delle sue uscite
 PKP115	arrivo e mi fa
@@ -562,7 +541,6 @@ PKP115	ma ti devo acccompagnare a casa io
 PKP115	faccio
 PKP115	eh
 PKP115	ma io ti lascio quìì
-PKP116	
 PKP115	hai x x
 PKP115	allo~
 PKP115	eh
@@ -570,11 +548,8 @@ PKP115	lasciami qua io me la faccio a piedi
 PKP115	va bene
 PKP115	perfetto
 PKP115	così non ci sei
-PKP116	
 PKP115	tremendo
-PKP116	
 PKP115	si diverte
-PKP115	
 PKP115	x marco mi fa morire dal ridere
 PKP115	però
 PKP116	ogni volta
@@ -632,7 +607,6 @@ PKP116	c'ha un~
 PKP115	ma sono giovani ancora
 PKP116	no solo uno c'è
 PKP115	ah non c'è il nonno
-PKP116	
 PKP115	ah solo la nonna
 PKP115	sì sì
 PKP116	no
@@ -657,7 +631,6 @@ PKP115	poi quando sono andata via
 PKP115	gli faccio ciao
 PKP115	ci vediamo mua mua gli ho dato i bacini
 PKP115	mi fa ciao amore
-PKP116	
 PKP115	ah è espansiva nel modo di fare
 PKP115	no ma
 PKP115	lei
@@ -693,13 +666,9 @@ PKP115	lei mi guarda e mi fa
 PKP115	ah
 PKP115	te mi stai simpatica
 PKP115	però c'hai la faccia da cornuta
-PKP116	
 PKP115	ah proprio così ti dice
-PKP115	
-PKP116	
 PKP116	eh però
 PKP115	bella
-PKP115	
 PKP115	ah ma te lo dico
 PKP115	no qua
 PKP115	se sei
@@ -735,9 +704,7 @@ PKP116	perché c'aveva un malloppo così dentro la busta
 PKP115	mh
 PKP115	ha aperto la bu~
 PKP115	minchia
-PKP115	
 PKP115	xx
-PKP116	
 PKP115	eh beh insomma
 PKP115	sì
 PKP115	poi mh
@@ -826,8 +793,6 @@ PKP115	apre un coso di pandora
 PKP115	bella la nota musicale
 PKP115	uh
 PKP115	ve l'avevo detto che avevo ragione
-PKP115	
-PKP116	
 PKP116	meno male
 PKP115	cosa ci avete preso voi
 PKP115	guarda te lo
@@ -910,7 +875,6 @@ PKP115	arriva infatti anche la mamma di sara
 PKP116	tutto a posto
 PKP115	mh
 PKP115	benissimo
-PKP116	
 PKP115	c'erano delle belle
 PKP115	c'erano i
 PKP116	c'erano i bambini che giocavano
@@ -967,7 +931,6 @@ PKP115	mh
 PKP115	xx
 PKP116	perché xx
 PKP115	felicità
-PKP116	
 PKP115	andato bene
 PKP115	sì sì
 PKP115	e in pratica c'erano sti bambini che giocavano
@@ -1024,7 +987,6 @@ PKP115	è arrivata la mamma
 PKP115	ma gli ha tira~
 PKP116	come
 PKP115	mamma mia
-PKP115	
 PKP116	chi è che l'ha lanciato
 PKP116	mh
 PKP115	ma era piccolo questo che l'ha
@@ -1040,7 +1002,6 @@ PKP115	ma sai se sono molesti è inutile
 PKP115	chi è che è stato
 PKP115	così
 PKP116	tutti muti zitti immobili
-PKP115	
 PKP116	eh
 PKP115	oh mamma mi~
 PKP115	questa che

@@ -130,7 +130,6 @@ PKP030	è anche lo stesso vino non si può xxx
 PKP008	no no ma bello carino anche dentro è un ristorante un po' irish pub
 PKP008	uhm
 PKP032	ah
-PKP030	
 PKP008	stile
 PKP030	come si chiama
 PKP008	xxx qualcosa 'desso non mi non mi ricordo perché
@@ -173,11 +172,9 @@ PKP008	sì prima molto prima massi
 PKP030	paolo è quasi a alla fine di xxxxxxxx
 PKP030	sul put cioè corrono come dei matti no nel senso
 PKP008	effettivamente anch'io a mestre la mia città so le strade
-PKP030	
 PKP032	vado un po' più sparato però insomma là abbiamo fatto due volte
 PKP030	guarda che la tua città è xxxx
 PKP032	eh e allora la sua sarebbe xxxx xxxx cioè na~ ragazzi insomma non esageriamo
-PKP008	
 PKP008	eh chiamarla città
 PKP008	la sua città è mestre anche se xxxx è grosso xxxx dai
 PKP030	no è bella bella insomma
@@ -246,7 +243,6 @@ PKP008	dopo uno di un tavolo in fianco si è messo a gridare perché c'era una s
 PKP030	festeggiavano una coppia
 PKP008	uhm
 PKP032	e tuo papà ha detto è ora di andare a casa via
-PKP032	
 PKP008	sì perché sto qua che urla un locale chiuso
 PKP030	espelle liquidi no
 PKP032	ma aveva la mascherina o no ah
@@ -277,7 +273,6 @@ PKP030	cioè non no ti magni qua
 PKP032	questo pomeriggio a un certo punto vado dalla marina qua e dopo torno perché vengono loro qua
 PKP008	ah va ben
 PKP030	contenta a marina
-PKP008	
 PKP032	giovanni
 PKP030	ma vai a pie~ come vai via a piedi vai in macchina
 PKP032	vediamo
@@ -307,10 +302,8 @@ PKP032	sì sì mamma mia
 PKP030	alla sera il sabato cos'era il venerdì il sabato sera
 PKP030	alla sera
 PKP030	sabato sera
-PKP032	
 PKP008	che giri che ti ga fatto eh
 PKP030	mi sì veramente a clio ea go usada
-PKP032	
 PKP008	ea panda no
 PKP032	ea panda anca ma meno giri cioè go veramente fatto tanti giri
 PKP008	tu avanti e indietro
@@ -356,8 +349,6 @@ PKP008	bon sto vin va zo va zo liscio eh gesbocio mi
 PKP008	vai vai vai
 PKP032	vai cocinero
 PKP032	quince minuto
-PKP008	
-PKP008	
 PKP032	quanto manca piccenìn
 PKP008	no no dev'essere una roba
 PKP032	comunque siamo ancora indecisi dove andare a fare questo pranzo
@@ -421,16 +412,13 @@ PKP030	ma a to papà
 PKP008	xxx è un posto serio
 PKP032	a te non piace la tovaglietta di plastica con la carta sopra
 PKP008	miseria nera almanco una volta all~ all'anno che vado a magnar coi fioi che magno cioè
-PKP030	
 PKP008	e quella e tipo dove andavamo ancora quando faceva la nonna le a dicembre là eh siamo andati una volta
 PKP030	dove parli di cosa
 PKP008	quando che festeggiava tua mamma il compleanno eh che siamo andati eh aiuto
 PKP032	a nonna a nonna mia xx
 PKP030	con la nonna in cariola
 PKP032	se
-PKP030	
 PKP032	una volta verso
-PKP008	
 PKP030	ti ricordi
 PKP030	un agriturismo che c'era una donna molto
 PKP032	non so se era un ristorante o un agriturismo
@@ -457,7 +445,6 @@ PKP032	non mi ricordo il nome
 PKP008	si ma mi ricordo ghe zera anca i chi c'erano aspetta i
 PKP032	tutti
 PKP030	tutti di tuo fratello tutti gli albanesi gli italiani
-PKP008	
 PKP032	tutti
 PKP008	tutta la banda
 PKP008	tutti tutti sì sì c'è ancora quello là
@@ -470,9 +457,7 @@ PKP032	non mi ricordo
 PKP008	abbiamo fatto natale là due volte
 PKP032	era il xxx xxx gera sì dai siamo andati anche io e te una volta
 PKP030	mi e ti ghemo ze rivà a morena fatalità
-PKP008	
 PKP032	sì anche quello
-PKP032	
 PKP008	ma cossa i fassevi eà
 PKP030	ma siamo andati ancora coa nonna qualche altra volta che lo faseva sempre ai tempi in cui stava bene
 PKP032	sì sì sì per quello magari uno di quei posti là anche no è
@@ -498,7 +483,6 @@ PKP032	sul montello è da una vita che non vado io eh da quella volta là
 PKP008	e allora andiamo al montello
 PKP032	beccando una giornata decente
 PKP008	dobbiamo approfittare prima che chiudano tutto
-PKP032	
 PKP030	perché se i numeri schizzano a ventimila come o trentamila come in francia vedrai che
 PKP032	però dico caspita prim~ prima o poi si stabilizzerà anche st~ anche 'sta crescita o andremo avanti così a botte di
 PKP032	torna
@@ -522,7 +506,6 @@ PKP030	è l'ultima ad aprire e la prima a chiudere
 PKP030	cioè
 PKP008	sì ragazzi vabbè
 PKP030	la dice tutta
-PKP008	
 PKP008	forse dovrebbero fare perché i trasporti come fai a a a incrementare non è semplice
 PKP030	fare non è brutta l'idea di di xx che ha detto di fare a scaglioni cioè non è male
 PKP030	eh lo devi fare però
@@ -541,7 +524,6 @@ PKP032	oh ieri
 PKP030	ieri abbiamo visto la diretta del peronismo
 PKP032	ah sì
 PKP030	settantacinque anni dalla nascita del peronismo
-PKP008	
 PKP032	mi ha fatto vedere la città di buenos aires
 PKP030	ea gianna se ga curà do ore de
 PKP008	eh no vabbé ma è bello dai
@@ -549,14 +531,11 @@ PKP030	no a me piace perché a~ a~ ascoltare qualcosa nella lingua che te piasar
 PKP008	sì
 PKP032	fin troppo
 PKP030	ara sta bistecca ga proprio forma da argentina vara ara ara questa
-PKP032	
 PKP008	misiones buenos aires patagonia vara
 PKP030	mhmh
-PKP032	
 PKP008	vara parfin guarda guarda parfin terra del fuoco qua el triangoino
 PKP032	è vero ze vero è vero è vero è vero
 PKP030	quella me la mangio io
-PKP032	
 PKP030	questa
 PKP008	però va ben dentro le scuole in realtà funzionano anche abbastanza tutte le per esempio da mia mamma
 PKP030	han detto sì han detto
@@ -578,7 +557,6 @@ PKP030	non è no~ non stava male nel senso di febbre alta aveva un po' di insomm
 PKP030	allora l'ulss ha deciso di chiudere la scuola perché essendo una scuola piccola
 PKP008	non ci sono insegnanti che siano solo di una classe o di un'altra e di far fare il tampone a tutta la classe di questo ragazzo e a tutto il corpo docenti escluse tre persone
 PKP032	ah
-PKP008	
 PKP030	è chiaro
 PKP008	tra cui mia mamma e altri due perché loro avendo avuto quella classe quattro giorni prima non rientravano nel quindi l'ulss ovviamente se può ehm snellire
 PKP030	è giusto è giusto è giusto è giusto è giusto
@@ -611,7 +589,6 @@ PKP030	ah okay beh dai meglio
 PKP032	okay
 PKP030	te dago a ti l'argentina tea metto con quea che a ze più granda xx
 PKP030	boh
-PKP030	
 PKP008	beh allora vabbè pilates non è uno sp~ è anche uno sport individuale nel senso che comunque stai nella tua postazio~
 PKP030	dici non è tanto faticoso
 PKP008	sì stai nella tua postazione non ti devi non devi fare esercizi con altre persone che ti tocchi per cui però
@@ -623,7 +600,6 @@ PKP032	aspira ecco anche questo
 PKP032	ara un cimice
 PKP008	odiosi mamma mia
 PKP030	allora chauchas
-PKP008	
 PKP032	massi vuoi
 PKP008	sì madonna
 PKP032	anche se non sono caldi proprio son tiepidi
@@ -639,7 +615,6 @@ PKP030	se
 PKP032	hanno chiesto di fare oggi gli ho detto vara ragazzi cioè io son io sono da mio papà
 PKP030	dai sti cimici do ore
 PKP008	se volete qua è pieno di bar e pasticcerie c'è anche xxxx venite qua tanto guida la anna la anna mi fa sì sì vengo
-PKP032	
 PKP008	madonna c'è anche an~ quella nuova
 PKP008	ah
 PKP030	ma non c'è la alessia qua non c'entra
@@ -658,8 +633,6 @@ PKP032	metto a te cicci
 PKP008	dai
 PKP032	dove
 PKP008	sull'angolino che no ga ciapà el sugo eh ciò no ti ga da missiar tutto sennò
-PKP030	
-PKP008	
 PKP032	figurite se lo porto a mangiare in un agriturismo con con la tela cerata ta~ e la carta da pizzeria sora
 PKP032	coa te coa te~ ea tecia
 PKP008	grazie
@@ -682,7 +655,6 @@ PKP030	centotré anni
 PKP008	cento no centoquattro forse so che abbiamo fatto la festa dei cento che ci hanno invitati anche noi
 PKP030	mamma mia
 PKP008	sì proprio una cosa eh ehm senza figli senza marito
-PKP032	
 PKP008	eh ti ga capio qual è il segreto
 PKP030	per quello per quello è vissuta così tanto
 PKP032	il segreto de eh vabbé invece l'a~ l'altra sua nonna aveva fatto un ictus un mese fa
@@ -692,8 +664,6 @@ PKP008	bravo massi
 PKP032	buona
 PKP008	vedi che ogni tanto so bon far qualcossa
 PKP032	e bistecche
-PKP030	
-PKP008	
 PKP030	cento e rotti anni
 PKP032	ehm gli hanno detto praticamente ha fatto sto ictus gli hanno detto guardi che ci sono poche probabilità che sopravviva
 PKP030	mhmh
@@ -733,11 +703,8 @@ PKP030	sì
 PKP008	ea fa' me par de esser in coegio
 PKP030	in coegio
 PKP008	i ze tuti qua i ze tuti disgrassiai volevo dirle perché stai benissimo
-PKP008	
 PKP032	anche mia mamma chiamava vecchi gli altri
-PKP008	
 PKP032	quello queo ze vecio
-PKP008	
 PKP030	mia mamma non è mai piaciuto andare mai
 PKP008	ma non è una cosa be~ cioè
 PKP030	mia suocera invece sì eh
@@ -749,7 +716,6 @@ PKP032	a lucia
 PKP030	anche perché economicamente
 PKP008	quanti anni ha
 PKP030	te dissa~ te dis~ dissangua
-PKP032	
 PKP008	eh sì
 PKP008	eh
 PKP030	oggi c'è il nuovo dpcm eh
@@ -763,7 +729,6 @@ PKP030	ovvio ma
 PKP008	meno male che sono andato a tagliarmi i capelli la settimana scorsa
 PKP032	no ma ha detto di no
 PKP030	io ho la parrucchiera in casa dopo me li taglia
-PKP032	
 PKP008	mh
 PKP032	el coprifuoco non so a cosa serva sinceramente ho i me dubbi
 PKP030	ara ea coso ea
@@ -797,7 +762,6 @@ PKP032	ah il ventinove
 PKP008	uhm
 PKP030	il ventinove di questo mese
 PKP008	sto studiando come se fosse dopodomani ma
-PKP032	
 PKP030	bravo meglio no
 PKP032	eh beh ma è un esame tosto eh x
 PKP008	eh beh te lo togli dalle scatole no

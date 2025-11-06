@@ -53,13 +53,10 @@ PKP014	xxx
 PKP015	ok
 PKP014	ci stiam preparando per lo scodellamento
 PKP015	sì quello che ci aspetta
-PKP015	
 PKP014	abbiamo l'hccp possiam farlo
 PKP015	aiuto cuoco
-PKP014	
 PKP015	va mo là
 PKP013	grazie mille
-PKP018	
 PKP018	oh
 PKP018	vabbè volevo
 PKP013	niente
@@ -71,7 +68,6 @@ PKP013	mamma tu lo guardi doch con argentero
 PKP018	doc doc
 PKP018	no
 PKP014	cioè non ho mai guardato anche perché perché mi addormento guarda
-PKP018	
 PKP014	il telecomando è vostro fate come volete buon appetito
 PKP015	buon appetito
 PKP013	buon appetito
@@ -98,7 +94,6 @@ PKP015	e
 PKP013	sul galateo
 PKP018	esatto
 PKP013	poi sono andati in casa da gente che dice sì cos'è questo
-PKP018	
 PKP018	però è veramente fine secondo me
 PKP018	tra i vari
 PKP014	adesso questo lo sposto qua
@@ -117,11 +112,8 @@ PKP014	sei
 PKP015	sì
 PKP015	anch'io
 PKP014	mentre eravam nel bosco ero lì oddio
-PKP013	
-PKP014	
 PKP014	sì poi mia mamma si~ eh fa
 PKP015	fermi che ascolta
-PKP014	
 PKP015	ascolta cosa
 PKP014	xx può finire qua il giro
 PKP014	sì
@@ -131,7 +123,6 @@ PKP015	buon appetito
 PKP013	buon appetito
 PKP018	buon appetito
 PKP013	che bello
-PKP018	
 PKP013	la~ lasciamo questa o la volete al centro
 PKP014	no no ma va bene lì
 PKP014	no no
@@ -230,7 +221,6 @@ PKP014	eh
 PKP018	vai a sì caraffa
 PKP018	ma poverini
 PKP013	eran senz'acqua
-PKP018	
 PKP013	tata
 PKP015	il
 PKP018	sasso
@@ -256,8 +246,6 @@ PKP018	rosa mosqueta
 PKP018	dai che chiudiamo eh
 PKP013	vuoi andar fuori
 PKP014	sì alla fine mi sa che sta registrazione fallirà
-PKP013	
-PKP013	
 PKP014	ma va bene cioè
 PKP014	no no
 PKP013	che rottura di palle
@@ -285,7 +273,6 @@ PKP015	anche la guacamole
 PKP013	neanch'io
 PKP014	però ci stanno
 PKP015	di di hummus perché ti intontisce
-PKP018	
 PKP015	buon appetito
 PKP013	buon appetito
 PKP018	buon appetito
@@ -313,7 +300,6 @@ PKP018	mhmh
 PKP015	ah io sono innamorata di questo posto
 PKP018	mh
 PKP013	quei tipi lì son veramente guarda una cosa
-PKP013	
 PKP018	quelli là
 PKP018	credo che
 PKP015	non mi possano vedere
@@ -412,7 +398,6 @@ PKP018	non lo so
 PKP018	ma lì è una c'è proprio un'aura negativa
 PKP018	ieri che stavo andando a far pomeriggio
 PKP013	e ho lasciato lo sportello della macchina aperta per prendere il rusco
-PKP018	
 PKP018	mi sono accorta che loro stavano salendo in macchina e andando via dico scusa scusa
 PKP014	ah noi abbiamo la macchina piccola passiamo sai
 PKP018	oddio
@@ -551,7 +536,6 @@ PKP018	hanno degli amici non so molto
 PKP018	poi lui suona il piffero
 PKP018	io non ho mai detto niente
 PKP018	comincia a suonare il piffero alle due del pomeriggio o alle nove del mattino e suonalo fino alle sei alle otto di sera
-PKP018	
 PKP018	ma io
 PKP018	non ho mai detto niente cosa me ne frega
 PKP014	però
@@ -689,8 +673,6 @@ PKP018	cioè
 PKP014	somma lei ha iniziato a urlare come una matta
 PKP018	urlare
 PKP014	te hai capito
-PKP013	
-PKP018	
 PKP014	no ma ho sentito la telefonata prima di andare a far pomeriggio
 PKP018	cioè
 PKP018	esco di qua per andare la marianna piangeva
@@ -735,11 +717,9 @@ PKP018	cioè
 PKP018	capito era un uno messo meglio
 PKP018	quando m'han visto arrivare con la macchina lui m'ha guardato
 PKP014	perché lui ha un adesivo dietro con scritto no suv
-PKP018	
 PKP018	quindi quando io son arrivata con la macchina nuova lui mi deve aver fulminato e fa guarda questa
 PKP015	vabbè cioè io me la devo pagare
 PKP014	ma lui lo sa che forse non può neanche circolare con quella panda
-PKP015	
 PKP018	tipo in città in città forse non può gi~
 PKP014	beh magari
 PKP018	ma perché cos'è è quella vecchia
@@ -768,7 +748,6 @@ PKP013	di ventitré anni della vostra età
 PKP018	me
 PKP018	che la guido io per andare a prendere l'acqua alla cerelia
 PKP013	mi superano tutti
-PKP018	
 PKP014	oh dopo apriamo un altra bottiglia e festeggiamo eh
 PKP018	l'hai sentito questo mamma
 PKP014	è buonissimo
@@ -817,7 +796,6 @@ PKP018	ho detto e adesso cosa faccio
 PKP018	non ci avevano avvisato non si capiva
 PKP014	ho chiamato l'enel dico scusi ma
 PKP013	ma io sono qua
-PKP018	
 PKP014	beh eh
 PKP014	nel buio
 PKP018	al buio
@@ -859,17 +837,13 @@ PKP018	proprio al livello di fricchettoni
 PKP014	e la c~
 PKP018	sì
 PKP014	e la caterina gli ha~ e loro sentivo una volta al telefono che le ha~ diceva
-PKP014	
 PKP018	ma lasciali andare
 PKP018	diceva
 PKP018	per~ perché io a volte quando sento urlare anche l'altra sera ho setto sentiamo qual è il dramma
 PKP018	cosa su~ con'han fatto sta volta
 PKP013	io mi metto lì alla finestra al bagno tolgo la suoneria del cellulare
-PKP018	
 PKP014	xxx la radio
-PKP013	
 PKP018	cosa
-PKP013	
 PKP018	più forte
 PKP018	sentivo che diceva
 PKP018	era giugno sì perché noi dobbiam trovare il modo di andar via perché qui non si può più stare
@@ -900,8 +874,6 @@ PKP018	ho detto marianna ma
 PKP018	per fa~ se ti faccio vedere il video non so se ce l'ho ancora
 PKP018	dico ma marianna
 PKP013	scusami ma dove si lavano
-PKP014	
-PKP014	
 PKP018	non si lavano
 PKP018	cioè
 PKP013	io no~
@@ -909,7 +881,6 @@ PKP018	si laveran con la pioggia
 PKP018	ma il problema che
 PKP018	lui gira scalzo va al bosco
 PKP013	anche la mia amica l'ha visto mi fa
-PKP018	
 PKP018	dico ah
 PKP013	quindi s~ è la è la cattiveria non è mica perché per me possono fare i figli dei fiori
 PKP018	ma sì sì sì
@@ -1065,7 +1036,6 @@ PKP013	mi son fissata su sta cosa
 PKP015	mh
 PKP015	arrivi là neve
 PKP013	cosa
-PKP013	
 PKP015	ma alla fine non avete fatto il gi~ cioè
 PKP015	l'ultima volta no
 PKP018	no l'ultima volta siam stati nel xxx
@@ -1141,7 +1111,6 @@ PKP015	ah guarda che bello
 PKP014	ah è un bel sasso questo
 PKP018	ah par furz
 PKP015	allora
-PKP014	
 PKP018	è abitata dai cerbiatti
 PKP018	io ho saputo
 PKP018	perché l'ha visto la padrona
@@ -1177,7 +1146,6 @@ PKP018	ma sì tanto se ne andranno
 PKP013	tanto questi se stan male si fan male sai chi chiamano
 PKP015	ma sì
 PKP013	l'ambulanza
-PKP013	
 PKP015	chiamano lei
 PKP018	arrivi tu
 PKP018	arriviam sempre noi
@@ -1241,7 +1209,6 @@ PKP015	no sono arrivati
 PKP013	era mezzanotte circa
 PKP018	erano un uomo e una donna sono arrivati
 PKP015	vado a vedere sul servizio
-PKP013	
 PKP013	fanno
 PKP015	ma c'avete chiamato per portar fuori uno dalla pista
 PKP013	che c'è vabbè poverino nel senso
@@ -1272,7 +1239,6 @@ PKP018	mh xx
 PKP013	certo
 PKP013	e loro ma
 PKP018	io c'ho il doppio dei tuoi anni eh tu avrai diciott'anni io c'ho il doppio dei tuoi anni
-PKP013	
 PKP018	cioè ci vai te così
 PKP013	e quindi
 PKP018	e alla fine l'han fatto alzare e l'hanno fatto uscire
@@ -1284,8 +1250,6 @@ PKP013	ti garantisco uomini o donne
 PKP015	normali
 PKP018	xxxx
 PKP013	sì sì delle portaerei ci sono in ambulanza
-PKP015	
-PKP018	
 PKP013	e poi erano due soccorritori non erano infermieri cioè a meno che proprio non sei
 PKP018	mh sì sì
 PKP013	non mandi un infermiere su un polso
@@ -1307,7 +1271,6 @@ PKP018	magari
 PKP013	sì però non si dice così cioè
 PKP013	sì
 PKP018	cioè magari volevano anche essere simpatici però c'è che non è il momento c'è poi non è il eh esatto
-PKP018	
 PKP018	non son proprio s~ non sei professionale sei un idiota allora
 PKP013	se fai il volontario vai a fare i~ vai a fare il salumiere di giorno e non vieni a fare il volontario in ambula~ se sei un volontario
 PKP018	sì sì mh
@@ -1499,7 +1462,6 @@ PKP013	sì ma lui è proprio dodic'anni di as~
 PKP018	mh
 PKP018	eh proprio di
 PKP013	guarda
-PKP018	
 PKP013	ti faccio un video
 PKP018	no è dolcissimo lui
 PKP018	gli faccio un vi~
@@ -1514,9 +1476,7 @@ PKP018	dico sì la gente è disperata vuole una risposta
 PKP018	io gli dò il numero verde
 PKP018	dico però il medico di base o il sostituto che è non può dire chiami il centodiciotto per andare a fare il tampone non funziona così
 PKP018	cioè hm
-PKP018	
 PKP013	e quindi capito ci mancherebbe figurati
 PKP018	sì sì è che la gente sì si impanica perché poi appunto non hanno risposte precise
 PKP018	e hanno ragione dice ma scusi ma se io sono c'è
 PKP013	aspetta un mome~ intanto gli faccio un video
-PKP013	

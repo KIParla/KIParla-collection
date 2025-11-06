@@ -14,14 +14,12 @@ TO017	perché non ti ho detto il participio
 ???	se volete parlargli domani
 TO017	professore
 ???	sì chi dove
-TO017	
 ???	quale professore sì dimmi
 TO017	eh volevo dirle che mh io e altre ragazze
 ???	sì
 TO017	siamo una e un'altra
 ???	sì
 ???	facciamo arabo due e arabo tre insieme
-???	
 TO017	e perché siamo al terzo anno
 ???	tu mi avevi scritto una di voi mi aveva scritto
 ???	io le ho scritto sono~ sono io sì
@@ -897,7 +895,6 @@ TO017	pardon
 TO017	occidentale
 TO017	occidentale
 TO017	scusate
-TO017	
 TO017	eh mh
 TO017	e qui non si vede niente ma vi faccio vedere
 TO017	le
@@ -907,7 +904,6 @@ TO017	questa è
 TO017	okay
 TO017	no aspetta
 TO017	c'è l'altra
-TO017	
 TO017	dov'è la mappa
 TO017	non c'è
 TO017	non fa niente

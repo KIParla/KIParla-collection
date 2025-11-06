@@ -236,7 +236,6 @@ TOI008	mh mh mh
 TOR001	essendo in pieno centro comunque posso spostarmi a piedi in bicicletta o senza dover prender la macchina quindi
 TOI008	certo
 TOR001	l'ho usata per troppi anni e quindi
-TOI008	
 TOR001	ne ho la nausea
 TOI008	ma quindi tu sei mh vivi qui senza macchina
 TOR001	no ce l'ho la macchina
@@ -313,7 +312,6 @@ TOI008	que rispetto al passato ci fosse mh ci sia più offerta
 TOI008	no
 TOR001	è una cazzata quella che sto dicendo
 TOR001	no no ma io
-TOI008	
 TOI008	no stavo pensando un po' perché
 TOR001	ti dico io non è che faccio molta vita sociale in giro per locali ho quei quattro o cinque che mi piacciono in cui vado spesso e poi per il resto cerco sempre di uscire e andare fuori quindi
 TOI008	mh mh
@@ -365,7 +363,6 @@ TOR001	sì
 TOR001	e la festa di capodanno in piazza è stata fatta
 TOI008	al pala alpitour
 TOR001	sì
-TOI008	
 TOR001	ma c'è stato quello san giovanni
 TOI008	eh sì sì sì sì sì è vero
 TOI008	san giovanni che io ho trovato incredibile perché eh mh
@@ -386,7 +383,6 @@ TOI008	un terzo della gente eh io di solito no~ a~ mi ricordo che arrivavo
 TOR001	e c'era non riuscivo a arrivare vicino al fiume
 TOI008	mh mh
 TOR001	dovevo stare dietro agli alberi e mi coprivano la visuale
-TOI008	
 TOR001	quest'anno invece ero proprio davanti
 TOI008	mh mh mh mh
 TOR001	non c'era nessuno
@@ -413,15 +409,11 @@ TOR001	per carità era una cosa nuova per tutti quindi
 TOI008	no no sì
 TOI008	i francesi sono abituati
 TOR001	ci abitueremo anche noi eh boh
-TOR001	
 TOR001	mh mh
 TOI008	sì dici magari col tempo sì ma già ora
 TOI008	sì sicuramente
-TOR001	
 TOI008	speriamo
 TOR001	spero almeno
-TOI008	
-TOR001	
 TOI008	comunque globalmente sei soddisfatto della tua città cioè sei contento
 TOR001	sì torino mi piace molto
 TOI008	okay
@@ -431,7 +423,6 @@ TOR001	sia come
 TOI008	cosa sono le cose che ti piacciono di torino
 TOR001	mi piace molto la conformazione di torino quindi proprio proprio com'è fatta la città
 TOR001	nel senso che è quadrata
-TOI008	
 TOI008	eh sì
 TOR001	io ho detto conformazione ma in realtà proprio la l'architettura
 TOI008	okay
@@ -439,10 +430,8 @@ TOI008	a me piace tantissimo perché io
 TOR001	allora ti dico per tre anni son passato tutti i giorni in piazza san carlo in piazza castello per andare al lavoro
 TOI008	okay
 TOR001	ogni volta che ci passo mi piace un sacco cioè
-TOR001	
 TOI008	okay
 TOR001	e ma questa forse è una cosa mia personale che in tutte le città forse mi
-TOI008	
 TOI008	mi capiterebbe la stessa cosa no mi piace perché appunto come dicevo prima non è t~ oh
 TOR001	non è troppo grossa non è troppo piccola quindi la trovo a misura d'uomo proprio
 TOI008	mh mh
@@ -456,14 +445,12 @@ TOR001	eh mh
 TOI008	siviglia scusami l'hai trovata simile a torino
 TOR001	sì non so il perché
 TOR001	okay
-TOI008	
 TOR001	però ma forse anche lì perché c'era questo centro molto piccolo
 TOI008	mh mh
 TOI008	quindi un centro storico piccolo mh ah
 TOR001	me lo ricordo comunque abbastanza pedonale eh mh e comunque come qui qui a torino c'è il centro piccolo puoi girare tutto a piedi siviglia mh era
 TOI008	mh mh
 TOR001	m'era risultata non so familiare mettiamola così
-TOR001	
 TOR001	okay
 TOI008	cosa fai durante il tuo tempo libero
 TOI008	eh è una bella domanda
@@ -479,7 +466,6 @@ TOR001	vado a prendermi una birra così o altre cose di questo genere o tipo mi 
 TOR001	mh
 TOI008	mh
 TOR001	mi metto a programmare o a sviluppare qualcosa
-TOI008	
 TOI008	ma perché appunto è la mia passione quindi è mh
 TOR001	sì il tempo libero lo uso per fare quello che mi piace fare
 TOI008	okay
@@ -504,7 +490,6 @@ TOI008	è vero a berna vero
 TOR001	siamo passati sì siamo stati
 TOI008	eh mi ricordavo che me lo diceva
 TOR001	un giorno siamo passati siamo passati da berna
-TOI008	
 TOR001	eh mh e a vedere gli orsi
 TOI008	e no mh mh io ero lì a fare il periodo all'estero e mi ricordo che era un weekend che io non c'ero e mi aveva scritto anna
 TOR001	bellissimo
@@ -520,7 +505,6 @@ TOR001	poi siamo andati su alle l'obiettivo era arrivare alle cascate del reno
 TOI008	mh mh
 TOR001	anche quelle son bellissime proprio belle
 TOR001	eh immagino non son mai andata
-TOI008	
 TOR001	quindi sì tre o quattro viaggi all'anno li facciamo sì
 TOR001	beh è un sacco buono
 TOI008	e copenhagen siete già stati o
@@ -528,9 +512,7 @@ TOI008	no è la prima volta ci andiamo ci andiamo per la prima volta
 TOR001	e sfruttiamo l'occasione che anna ha degli amici anche lì
 TOI008	mh
 TOR001	dopo che ha fatto lo sve adesso ha amici in tutto il mondo e quindi li possiamo sfruttare per
-TOR001	
 TOR001	beh ottimo
-TOR001	
 TOR001	molto bella copenhagen
 TOI008	e quindi mi dicevi però attività nel tempo libero non so fai attività sportiva
 TOR001	no nulla assolutamente nulla
@@ -544,7 +526,6 @@ TOI008	al eh ogni tanto andiamo al cinema
 TOR001	poi se no
 TOI008	okay
 TOR001	sì la mia vita sociale è molto limitata
-TOR001	
 TOR001	okay
 TOI008	che film ti piacciono
 TOI008	mh
@@ -557,7 +538,6 @@ TOI008	ma andate spesso al cinema
 TOI008	al~ ultimamente non c'è stato un periodo che andavamo parecchio
 TOR001	però comunque uh mh di film ne guardo abbastanza soprattutto quando
 TOR001	okay
-TOI008	
 TOR001	nei giorni in cui soffro d'insonnia e quindi di notte per passare il tempo ci sono i film
 TOR001	okay
 TOI008	film o serie tv
@@ -567,13 +547,10 @@ TOR001	tutt'e due ultimamente molto più serie tv
 TOI008	okay
 TOR001	c'è molta più offerta che con il eh
 TOR001	eh sì
-TOR001	
 TOI008	tipo che serie tv guardi
 TOI008	quelle su netflix
 TOI008	tutte quelle di netflix
-TOR001	
 TOR001	tutte
-TOI008	
 TOI008	tutte
 TOR001	no vabbè eh mh
 TOI008	tutto il catalogo netflix
@@ -604,7 +581,6 @@ TOI008	quindi eh mh
 TOI008	facevo
 TOR001	facevo parecchi concerti
 TOR001	okay
-TOI008	
 TOR001	eh e andavo a sentire parecchi concerti ultimamente un po' di meno
 TOI008	okay
 TOR001	facevo uno o due all'anno
@@ -642,14 +618,12 @@ TOR001	è stato molto molto molto bello siamo arrivati a un livello semiprofessi
 TOI008	eh buono caspita
 TOI008	e poi siamo
 TOR001	sì sì
-TOI008	
 TOR001	è stato molto molto interessante
 TOR001	va bene io ho quasi finito eh
 TOR001	sport
 TOI008	ti piace guardarlo
 TOR001	mh non sono un grande amante dello sport cioè
 TOR001	niente
-TOI008	
 TOI008	andavo a sciare
 TOR001	con mio papà
 TOI008	okay
@@ -665,7 +639,6 @@ TOR001	okay
 TOI008	va bene
 TOI008	adesso sono di notte le olimpiadi
 TOR001	eh no di mattina
-TOI008	
 TOI008	è ancora peggio
 TOR001	di notte si potevano ancora guardare
 TOR001	è complicato

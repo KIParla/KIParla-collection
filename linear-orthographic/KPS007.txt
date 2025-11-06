@@ -42,7 +42,6 @@ PKP135	come no
 PKP134	sì sì sì vieni viene tutti i dati sensibili tutte le cose che possano far risalire a te verranno
 PKP135	no perché appunto stavo per dirti i nomi delle persone che ho ucciso l'altro ieri
 PKP134	ah già
-PKP135	
 PKP135	quanto sei cretina
 PKP135	a posto va bene quindi
 PKP134	bom questo era
@@ -140,7 +139,6 @@ PKP134	allora maria si mette
 PKP135	non so se l'hai visto il vestito quello suo di paillettes tipo corto argentato
 PKP134	mh no
 PKP135	eh mood punkabbestia con le martens sotto
-PKP135	
 PKP134	amo
 PKP135	ma io insomma secondo me è un po' eccessivo nel senso che a parte che farà un caldo boia
 PKP135	perché
@@ -158,12 +156,10 @@ PKP134	ma io volevo porti una domanda
 PKP134	eh
 PKP134	oltre a queste info che mi hai appena dato sugli orari eccetera
 PKP135	una domanda fondamentale cioè
-PKP134	
 PKP134	in che modo dovrei calibrare il mio outfit per mh la tua festa di laurea
 PKP135	mh la cosa più importante che mi preme di sapere diciamo è in realtà tipo se eh si possono mettere i tacchi o meno
 PKP134	ma come
 PKP135	eh paola in realtà voleva soltanto capire il grado di eleganza
-PKP134	
 PKP135	comunque dacci tutte le info che ci possano essere utili per venire al top alla tua festa a san valentino
 PKP135	no ma io sarö sempre extra
 PKP135	io sarò extra come sempre
@@ -203,7 +199,6 @@ PKP135	vabbè comunque
 PKP134	ma poi sotto a quella gonna rosa
 PKP135	io mi sarei portata sia i tacchi gialli
 PKP135	eh basta xx
-PKP135	
 PKP135	mh ma l'ho provata così a scazzo il tuo pantalone quello là giallo fluo
 PKP134	una bomba mi sta super bene
 PKP135	mh ma non te lo puoi mette~
@@ -235,7 +230,6 @@ PKP134	dai
 PKP135	oh
 PKP134	dai mangiatelo
 suoni	ma no cioè
-PKP135	
 PKP135	x
 PKP134	chi è
 PKP135	beh ovviamente la mamma papà
@@ -491,7 +485,6 @@ PKP135	ma a che altezza stavate
 PKP135	perché siamo an~ dietro vicino alle poste
 PKP135	vabbè e praticamente questo signore
 PKP135	e la nonna s'era fermata si voleva sedere ma là non ci sono nemmeno i muretti per per sedersi no o qualcosa quindi ho detto ma tu mo che fai dove ti riposi
-PKP134	
 PKP135	salute
 PKP135	grazie
 PKP135	e tu che fai dove dove ti riposi dove
@@ -499,16 +492,13 @@ PKP135	eh no io mo io mo mi siedo qua
 PKP135	ho detto sì ma dove ti siedi che non ci sta né un muretto né niente
 PKP135	esce questo signore ne~ mh che tipo dal suo garage
 PKP135	sai quello dove ci sta tipo l'officina andando verso le po~ no prima
-PKP135	
 PKP134	e praticamente esce sto signore e fa ah ti vuoi sedere no e gli porta una sedia
-PKP135	
 PKP135	tra l'altro mette a una certa accende la la radio
 PKP135	tipo canzoni
 PKP134	un po' di stampo fascistoide cioè tipo ho solo capito tipo la fanfara sotto cioè capito solo
 PKP135	mhmh
 PKP135	vabbè
 PKP135	eh e quindi vabbè fa ti vuoi sedere così e dopo un po' si mette a parlare la nonna adesso che si è riposata mi guarda e mi fa anzi no guarda la nonna e fa questo è tuo nipote
-PKP135	
 PKP134	la nonna ovviamente che non aveva capito cioè non è che sente la differenza
 PKP135	ma dopo scusami chiede~
 PKP134	e io gli ho detto di sì che gli dovevo dire
@@ -572,7 +562,6 @@ PKP135	io come zozza
 PKP134	il fatto è che non c'ho niente
 PKP134	e gli stivaletti col tacchetto
 PKP135	tacchi che ti puoi mettere ma che non ci soffri
-PKP134	
 PKP134	sempre per un lato fresh ma comunque comodo
 PKP135	non so se ho reso bene l'idea dice
 PKP134	io vorrei comprarmi i tacchi trasparenti
@@ -587,7 +576,6 @@ PKP134	boh ci fosse terra o comunque non so breccia che magari poteva essere
 PKP134	particolarmente difficile camminarci con i tacchi ma mh
 PKP134	perché non so nemmeno ancora se mettermi in realtà non ho proprio idea di cosa mi metterò
 suoni	però eh io e paola stavamo un attimo decidendo gli outfit
-PKP135	
 PKP134	no che ci mettiamo
 PKP135	allora questo potrebbe essere un buon punto di partenza per decidere
 PKP134	zozza
@@ -711,7 +699,6 @@ PKP135	nessuna
 PKP135	no davvero devo mettermici a pensare perché non ho non ho proprio idee
 PKP134	poi sono no non
 PKP134	io ho il pantaloncino corto beige e giallo in realtà che potrebbe andar bene pure con quelle scarpe
-PKP135	
 PKP134	eh sì
 PKP135	quello con quelle scarpe e il top
 PKP134	e il top della nonna
@@ -801,7 +788,6 @@ PKP135	che è un ciclistino
 PKP135	cioè magari davvero sopra mi ci metto una camicia che mi
 PKP135	mi fascia mi copre anche di più non so
 PKP135	mi ci posso mettere quella rosa
-PKP134	
 PKP135	qual è
 PKP135	sto scherzando
 PKP135	la camicia quella rosa tua che t'ho fregato
@@ -844,7 +830,6 @@ PKP134	no vabbè
 PKP135	io vado in crisi devo assolutamente finire di scrivere
 PKP134	oddio non me ne parlare non me ne parlare
 PKP135	prendiamoci il caffè
-PKP135	
 PKP134	vabbè
 PKP135	el ah le bollette
 PKP134	mo le facciamo
@@ -861,7 +846,6 @@ PKP135	tu sparecchia io vado a prendere le bollette il pc sta qua
 PKP134	okay
 PKP135	e facciamo il caffè
 PKP135	allora posso smettere di registrare
-PKP134	
 PKP135	già
 PKP135	beh sì
 PKP135	le cose noiose

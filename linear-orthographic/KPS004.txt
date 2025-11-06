@@ -23,7 +23,6 @@ PKP035	xxxxxxxxx
 PKP034	xxx
 PKP034	xxxxxxxx
 PKP035	eccola qua
-PKP034	
 PKP034	qua siamo a posto
 PKP035	ecco qua
 PKP034	xxx
@@ -38,8 +37,6 @@ PKP033	eh va bene sì
 PKP034	va bene
 PKP034	xxxxxx
 PKP035	tutto a posto
-PKP035	
-PKP033	
 PKP035	devo togliere la buccia
 PKP034	io la ma~ io la mangio è la parte più saporita
 PKP035	no no io non la non la l'ho lavata l'ho lavata le lavo queste qua
@@ -101,7 +98,6 @@ PKP033	mh
 PKP035	aspetta io mi devo liberare qua
 PKP034	l'imbarazzo della scelta
 PKP035	allora qui si sta scaldando
-PKP034	
 PKP034	io basta valerio io sto in cucina secondo me son fatta così
 PKP035	dico a tuo nonno fammi una cortesia non venire in cucina
 PKP035	oh sì sì
@@ -154,7 +150,6 @@ PKP034	sì
 PKP033	xx la rape stanno là eh
 PKP033	allora
 PKP035	dopo vi chiedo una cosa
-PKP035	
 PKP035	queste si chiamano fave bianche
 PKP033	anche dette f~ fave nette
 PKP035	perché non le mangio mai perché sono difficili non si trovano
@@ -167,8 +162,6 @@ PKP033	oh là
 PKP035	no non è molto caldo
 PKP035	pigliati quello che vuoi che io mo me piglio l'altre
 PKP035	i cuori pigliali belli cuoricini eh
-PKP035	
-PKP033	
 PKP033	no ma non mh
 PKP033	direi basta
 PKP035	io non ne voglio più
@@ -191,7 +184,6 @@ PKP033	ecco qua
 PKP034	ma c'è ancora due fave qua
 PKP033	mangiale se ti piacciono
 PKP035	adesso decido perché ci son tante cose
-PKP035	
 PKP035	oh
 PKP035	okay
 PKP034	okay okay okay
@@ -213,7 +205,6 @@ PKP035	mhmh
 PKP033	e poi guar~ e poi va i~ va messa in forno a centottanta gradi per dieci minuti
 PKP035	mh mh
 PKP033	ma sì col xxx
-PKP034	
 PKP034	no perché se tu non
 PKP033	se non la fai bollente stai tre ore e non si fa
 PKP035	no ma lo so lo so
@@ -287,7 +278,6 @@ PKP035	eh ma mh
 PKP033	no m~ manco quelle schifezze così
 PKP034	ma io non ho dubbi che la cucina di casa è meglio
 PKP035	sì però xxx io non lo voglio più
-PKP034	
 PKP034	non voglio fare niente più
 PKP033	lo sai che non voglio farci niente
 PKP034	poi però vai al ristorante
@@ -295,7 +285,6 @@ PKP033	non mi interessa guarda
 PKP033	e dici che
 PKP034	son meno buone di quelle che fai a casa
 PKP033	eh lo so però pazienza xx mi mangio una pizza pure che non mi piace ma io n~ non voglio voglio riposarmi capito
-PKP035	
 PKP033	l'ultima volta quando siamo andati da angelino pure ci ha portato pure un p~ un po' di fave così
 PKP033	eh
 PKP035	e
@@ -360,7 +349,6 @@ PKP034	stai pensando alla nonna stai pensando
 PKP034	brava grazie
 PKP034	meno male che tengo la ale mia qua pure che mi che sta con noi qui
 PKP034	e quasi quasi so~ subito sostituisce le miei nipoti cioè fa la vece pure tua allora mo quando
-PKP034	
 PKP033	allora l'acqua la metto in tavola xxxx sta qui
 PKP035	mhmh
 PKP034	non c'è altro vino beviamo acqua
@@ -422,7 +410,6 @@ PKP034	allora può si può registrare la mia vita
 PKP033	gliela dico xxxxx
 PKP034	no ma non non è eh no però è deve essere una conversazione non
 PKP035	una conversazione io parlo molto io parlo sai
-PKP034	
 PKP033	io adesso mentre parlo xxx
 PKP033	mh
 PKP034	va bene allora adesso registriamo così poi glielo mando
@@ -434,7 +421,6 @@ PKP034	no
 PKP033	verso così
 PKP034	c'è il vino
 PKP033	sì sto togliendo
-PKP033	
 PKP033	mh
 PKP034	quel resto lì di frittata
 PKP033	il x che ti va
@@ -559,7 +545,6 @@ PKP033	ma è da un pochino che alcune volte le faccio alla sera
 PKP033	mh
 PKP033	il nonno sa che
 PKP035	poco tempo fa ho fatto un chilo di zuppa di orzo
-PKP034	
 PKP034	xx
 PKP033	un chilo mamma mia
 PKP033	e poi mh
@@ -657,7 +642,6 @@ PKP035	filtrato sì sì mh
 PKP033	e il disopra lo mangiavi e il sotto erano le pose
 PKP035	sì ma non è buono
 PKP033	no macchè
-PKP035	
 PKP033	no
 PKP035	no ma tipo la mia amica di trieste se lo mangiava se lo beveva il caffè d'orzo
 PKP035	spesso
@@ -1543,7 +1527,6 @@ PKP035	cioè perché è parecchia
 PKP033	vabbè
 PKP034	però la vorrei dividere prima di mangiare
 PKP033	certo ci sono i xxxx là fai tutte le cose che vuoi
-PKP035	
 PKP033	oh questo bicchiere xxx attaccato
 PKP034	ah nonna
 PKP033	l'hai vista
@@ -1743,8 +1726,6 @@ PKP035	eh vabbè questo è vero o no
 PKP034	fossero stati buoni per xx
 PKP035	ma tu pensa ma tu pe~ ma tu pensa
 PKP035	tutti così
-PKP033	
-PKP034	
 PKP035	che quella poca volta che è venuta a roma eh
 PKP034	sì poteva correre quel rischio
 PKP035	cosa xxxx
@@ -1817,7 +1798,6 @@ PKP034	è pure
 PKP035	cioè è stupe~
 PKP035	e pure lì mi ricordo
 PKP033	qui no che attraverso gli archi c'è corrente
-PKP034	
 PKP035	mh non è vero
 PKP034	qui me~ da do~ da quale parte viene il vento
 PKP035	mh non è vero
@@ -1827,13 +1807,11 @@ PKP035	con la nonna
 PKP034	eh alt~ altra vittima
 PKP034	da roma
 PKP033	la ma~ ni~ ah ho lascia~ ho lasciato giulio e la antonella col nonno
-PKP034	
 PKP034	alle sei predemmo io mi informai alle sei presi il treno
 PKP034	per firenze andammo tutti e due a firenze allora
 PKP034	andammo a ponte a paza~ palazzo vecchio lì salimmo sopra tutto vedi tutto poi scendemmo ha detto nonna camminiamo qua che qua è bello ecce~ dopo un po' la nonna mia madre sai che disse
 PKP034	dice ma non
 PKP033	non si mangia dice
-PKP034	
 PKP035	voleva anda' a mangia'
 PKP034	vedi questa è la sostanza
 PKP034	dice tu
@@ -1847,7 +1825,6 @@ PKP033	due passeggiate
 PKP034	no l'alessandra
 PKP035	l'alessandra allora io
 PKP033	giusto no l'alessandra o la zia chiara
-PKP034	
 PKP035	mh
 PKP034	e basta
 PKP035	la zia chia~
@@ -1876,7 +1853,6 @@ PKP034	andiamo al ce~ a~ al centro pigliamo un albergo al centro non caro
 PKP034	poi non ti preoccupare una volta che stiamo al centro
 PKP035	ti sistemo io dove andare
 PKP033	ti sistemo proprio
-PKP034	
 PKP035	allora allora un giorno appena arrivammo
 PKP033	e ti e ti metto io
 PKP034	ma perché siete andate tu e la tina
@@ -1968,7 +1944,6 @@ PKP034	c'è una chiesa lì vicino
 PKP034	dico andiamo
 PKP034	se era una chiesa era chiusa
 PKP033	dopo due secondi si tira giù
-PKP034	
 PKP034	un temporale di quelli che lu sacerdote ha dovuto aprire perché c'erano tutti i turisti a fontana di trevi stavano tutti disperati così
 PKP033	quel poveretto il c~ sacerdote xxx ma era aperta la porta
 PKP034	xx bussa
@@ -1978,7 +1953,6 @@ PKP034	poi non lo so quei temporali
 PKP034	es~ eh primaverili là che xx piove forte poi si calma
 PKP034	dopo sa~ entrammo in chiesa stemmo lì un po' poi quando s'è calmato xxx siccome accanto c'è il quirinale
 PKP033	dico mo vieni con me andiamo al quirinale così ti faccio vedere il quirinale
-PKP035	
 PKP035	allora abbiam visto traforo
 PKP034	scalinata di trinità dei monti
 PKP033	s~
@@ -2122,7 +2096,6 @@ PKP034	sì questa sì
 PKP035	poi un'altra volta siamo andati
 PKP034	menescia è quando scolavi la pasta
 PKP033	a sorre~ a sorrento era
-PKP034	
 PKP033	sorrento
 PKP033	ah invece io sono stata più male
 PKP034	per andare ad amalfi
@@ -2549,7 +2522,6 @@ PKP034	a che fa piacere alla gente
 PKP033	sentire no che si scocciano no per dire poi se si scocciano ditemelo che vi siete scocciati
 PKP034	no no
 PKP033	io non continuo
-PKP034	
 PKP033	si xxx
 PKP034	adesso ci beviamo il caffè
 PKP034	sì
@@ -2627,7 +2599,6 @@ PKP034	mi ricordo e mio nonno mi mandò subito i soldi nonno gigi
 PKP033	nonno era un com~ era era uno che cambia~
 PKP034	e la nonna non se n'è accorta
 PKP033	non s'è accorta di niente ti ho detto da sola infatti andavo al centro per cui sapevo dove li avevo comprati avevo fatto tutto da sola
-PKP034	
 PKP034	ehm
 PKP033	nonno gigi era simpatico perché il nonno viaggiava molto
 PKP034	fa ridere
@@ -2911,7 +2882,6 @@ PKP034	a capri t~ elegante
 PKP034	cappello vestito di seta c'aveva poi il viso della mamma era proprio bellissimo
 PKP034	e che io col vestito della mamma ho fatto la prima comunione
 PKP033	lo feci trasformare in prima comunio~
-PKP034	
 PKP034	che poi io c'ho una gonna anzi c'avevo una fotografia poi non so che fine gli ho fatto fare
 PKP034	e se ne eh tornarono a roma
 PKP034	dopo fecero
@@ -3218,7 +3188,6 @@ PKP034	lasciò la moglie in romagna e tornò
 PKP034	perché l'azienda non poteva stare sola
 PKP034	anche se a lui lui era uno che gli piaceva fare le chiacchiere
 PKP033	i romagnoli fai la paola no
-PKP034	
 PKP034	chiacchierona chiacchieri chiacchieri però devo dire la eh la ch~ la paola è stata brava con giulio devo dire la verità
 PKP034	giulio la me~ eh la paola il braccio francesco la mente
 PKP034	perché gli diceva fai così fai così fai così lei faceva tutto eh vai qui fai qui vai qui vai qui vai qui vai dall'avvocato vai dal notaio vai da qui

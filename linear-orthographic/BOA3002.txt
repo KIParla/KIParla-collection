@@ -239,7 +239,6 @@ BO007	sì sì sì
 BO010	che bello
 BO007	mi rendi felice
 BO010	anche io
-BO007	
 BO007	così
 BO007	stop
 BO007	è finit~
@@ -282,7 +281,6 @@ BO009	odio
 BO007	puro
 BO007	la troia
 BO010	tanto è anonima
-BO007	
 BO007	ops scusi
 BO008	e l~ la signorina
 BO007	ti scusi
@@ -308,7 +306,6 @@ BO007	mhmh
 BO007	cioè a scherzare lui gli tirava la palla a lei lei gliela tirava addosso
 BO007	questa rideva rideva la prendeva in giro le faceva così lei lo spingeva
 BO009	ed io ero lì che stai calma stai xxx tipo in acqua e l'acqua iniziava a bollire dove ero io
-BO007	
 BO008	cioè l'acqua blu glu glu
 ???	il tuo passaggio
 BO010	il fumo
@@ -343,7 +340,6 @@ BO007	ha
 BO009	marianna
 BO010	ecco esatto
 BO010	che bella marianna
-BO010	
 BO010	non si sente tanto
 BO009	non so cantare
 BO010	vabbè

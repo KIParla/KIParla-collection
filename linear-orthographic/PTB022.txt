@@ -8,15 +8,12 @@ TOR001	perché a vederlo lì in piedi dà fastidio
 TOR002	sì in effetti è un po'
 TOR002	va bene allora
 TOR001	allora mi siedo qua
-TOI075	
-TOR001	
 TOR001	okay
 TOI075	lei ha sempre vissuto a torino
 TOR001	sì praticamente sempre solo quando andavo in ferie ma
 TOR001	okay
 TOI075	in vacanza quindi
 TOR001	eh
-TOR001	
 TOI075	e in che quartiere ha vissuto
 TOR002	ehm praticamente sarebbe quartiere che adesso si chiama aurora
 TOR001	mh
@@ -30,7 +27,6 @@ TOI075	quando sono nato io era un quartiere normale
 TOR001	non era non c'era la malavita
 TOI075	okay
 TOR001	diciamo
-TOR001	
 TOI075	e ha sempre vissuto lì
 TOR002	sì sono nato in via
 TOR001	mh
@@ -85,7 +81,6 @@ TOI075	praticamente nella zona
 TOR001	qui con~ come dicevo prima zona aurora
 TOI075	okay
 TOI075	ma non so
-TOI075	
 TOI075	x
 TOR001	da da allora sono sempre vissuto più o meno in questa zona
 TOI075	okay
@@ -128,7 +123,6 @@ TOI075	x
 TOI075	per esempio il c'era il diritto d'avere duecento grammi al giorno di pane
 TOI075	poi per gli altri generi
 TOR001	x cioè magari adesso ne consumano anche meno
-TOI075	
 TOI075	di duecento grammi ma siccome allora il pane era una parte essenziale
 TOI075	era molto importante poi
 TOI075	da duecento grammi erano scesi
@@ -144,11 +138,8 @@ TOI075	si cercava di acquistare qualcosa
 TOI075	lì dai contadini così
 TOI075	quella era
 TOR001	quella era la borsa nera lì c'erano quelli che lo facevano per per mestiere eh
-TOR002	
-TOI075	
 TOI075	andavano a comprare la roba all'esterno e la portavano in città
 TOR001	per rifornire gli affamati
-TOR002	
 TOI075	e se ti scoprivano cosa succedeva
 TOI075	x
 TOR002	eh
@@ -160,7 +151,6 @@ TOI075	non è che li fucilassero comunque
 TOI075	almeno la roba che portavano gliela xx
 TOR002	sequestravano e quindi era già un danno notevole
 TOI075	eh beh
-TOR001	
 TOR001	certo
 TOI075	e poi diceva dei bombardamenti
 TOR001	sì eh anche quello è diventato una cosa abbastanza
@@ -299,8 +289,6 @@ TOI075	eravamo tutti
 TOI075	iscritti alla gil
 TOI075	gioventù italiana del littorio
 TOR002	non si poteva scappare eh
-TOR001	
-TOI075	
 TOR002	tutti inquadrati
 TOI075	e cosa vi facevano fare
 TOR002	eh
@@ -315,8 +303,6 @@ TOI075	le categorie
 TOI075	e ognuno aveva la sua divisa bisognava comprare la divisa
 TOI075	per essere in regola
 TOR002	anch'io avevo la divisa balilla
-TOR001	
-TOI075	
 TOI075	xx
 TOI075	poi
 TOI075	tanto quando è proseguita la guerra
@@ -326,8 +312,6 @@ TOI075	mhmh
 TOR002	c'erano altre cose più gravi
 TOR001	eh beh
 TOR001	certo
-TOI075	
-TOI075	
 TOR002	x
 TOR002	e come l'avete vissuto quando mh
 TOR002	mh appunto quando è arrivata la repubblica
@@ -402,8 +386,6 @@ TOI075	e ho preso il diploma da ragioniere
 TOI075	e quindi dopo che ho preso il diploma
 TOI075	ho cercato così un impiego un po'
 TOR002	un po' decente che mi permettesse di vivere
-TOR001	
-TOR001	
 TOI075	certo
 TOI075	e quindi
 TOI075	nel frattempo ho continuato così
@@ -415,12 +397,9 @@ TOI075	mhmhmh
 TOI075	ero stato abbonato al teatro stabile
 TOI075	poi ero appassionato di opera lirica
 TOR001	tifoso del torino
-TOI075	
-TOI075	
 TOI075	quindi sono stato anche tanti anni abbonati al al torino calcio
 TOI075	insomma xx avevo diversi hobby
 TOR001	diverse attività non è che avessi un'attività prema~ prevalente così
-TOI075	
 TOR001	ero un po' eclettico diciamo
 TOR002	tanti interessi
 TOR002	certo
@@ -447,8 +426,6 @@ TOI075	eh
 TOR001	normalmente capita raramente di parlare piemontese
 TOI075	ma le piacerebbe
 TOR002	adesso è più facile parlare romeno
-TOR001	
-TOI075	
 TOI075	o spagnolo
 TOI075	ci son~ qui per esempio in questa struttura ci sono molte
 TOR001	ci sono molte operatrici romene e peruviane
@@ -460,19 +437,13 @@ TOI075	mhmh
 TOI075	adesso è ne è ar~ arrivata una giovane
 TOI075	italiana che anche lei vie~
 TOR002	è figlia di padre torinese una bestia rara
-TOR001	
-TOI075	
 TOR002	non l'ho più vista
-TOR001	
-TOI075	
 TOR002	non so se l'hanno già rapita
 TOI075	l'hanno mandata via
 TOI075	è sparita dalla circolazione
 TOI075	ma ero ben contento che ci fosse questa ragazza
 TOI075	così
 TOR002	piemontese doc
-TOR001	
-TOI075	
 TOR001	e invece
 TOI075	ma a lei piacerebbe avere occasioni per parlarlo
 TOI075	mah insomma se mi capita lo parlo volentieri
@@ -486,15 +457,12 @@ TOR002	tutti istruiti a parlare italiano
 TOI075	certo
 TOI075	piemontese veniva considerato una cosa da così da poveretti
 TOR001	da miserabili
-TOI075	
 TOI075	non era molto
 TOI075	considerato il dialetto piemontese
 TOR001	adesso poi c'è stato un ripensamento ma
 TOI075	mhmh
 TOI075	insomma
 TOR002	non è che nel frattempo i piemontesi sono quasi spariti quindi
-TOR001	
-TOI075	
 TOR001	c'è poco da fare
 TOI075	ma e lei l'ha imparato in casa cioè suo padre le parlava in
 TOI075	sì mia mat~ mia x parlavano piemontese
@@ -649,7 +617,6 @@ TOI075	come è cambiata questa relazione cioè pian piano
 TOI075	eh praticamente
 TOI075	gli immigrati italiani sono
 TOR001	siamo diventati tutti italiani
-TOI075	
 TOI075	e quindi ci sentiamo abbastanza solidali
 TOI075	e viceversa sono arrivati gli immigrati
 TOI075	dal dall'estero e quindi
@@ -677,8 +644,6 @@ TOI075	uno status symbol
 TOR002	ma era una cosa di oggetto un oggettoo comune come
 TOI075	sì
 TOR002	il frigorifero
-TOR001	
-TOI075	
 TOI075	o la lavatrice perché
 TOI075	anche gli elettrodomestici
 TOR001	prima della guerra non non si u~ non c'erano nelle case
@@ -700,7 +665,6 @@ TOR001	e e appunto
 TOR001	anche in base al tipo diverso di persone
 TOI075	che veniva a vivere a torino
 TOI075	mh
-TOR001	
 TOI075	okay e quindi secondo lei nel complesso è cambiata in peggio la città
 TOI075	eh eh diciamo no~ è difficile dire che sia migliorata eh
 TOI075	è ovvio che tutti tendono a
@@ -715,7 +679,6 @@ TOR001	quello che sta bene
 TOI075	ah sì certo
 TOI075	è contento di stare
 TOR002	come è adesso e chi chi sta male è ovvio che
-TOI075	
 TOR001	non è contento
 TOI075	certo
 TOR001	c'è poco da fare
@@ -734,8 +697,6 @@ TOI075	mi piaceva sedermi ai tavoli e guardare la gente che che passeggia
 TOI075	queste cose del genere
 TOR001	sa ognuno si diverte come può
 TOR001	sì sì
-TOI075	
-TOR001	
 TOR001	e altre altre mh
 TOI075	e altre zone che le piacciono o a cui è legato per qualche motivo
 TOR001	eh sono legato appunto a questa zona dove sono nato dove sono stato battezzato
@@ -752,8 +713,6 @@ TOR001	questa scuola niccolò tommaseo
 TOI075	mh
 TOI075	che si trova lì ci sono i giardini cavour
 TOR002	così un certo rimpianto per quando ero bambino sa ognuno
-TOR001	
-TOI075	
 TOI075	quand'era bambino
 TOI075	sembra di essere più felice che non quand'è cresciuto
 TOR001	l'impressione è quella
@@ -805,9 +764,6 @@ TOI075	eh se non fai attenzione
 TOI075	penso che
 TOI075	se uno ne può fare a meno io ne faccio a meno
 TOR002	e sto benissimo
-TOR001	
-TOI075	
-TOI075	
 TOI075	dico non è obbligatorio x sembra che
 TOI075	se uno non ha il sito internet oramai
 TOI075	non conta più niente
@@ -817,7 +773,6 @@ TOI075	faccio a meno del sito internet
 TOR001	e sto bene lo stesso
 TOR002	si vive bene
 TOR002	secondo quello che ti serve
-TOR002	
 TOR002	se a uno gli serve
 TOI075	sì se uno non ha bisogno
 TOI075	eh può darsi
@@ -838,7 +793,6 @@ TOI075	io
 TOI075	per me
 TOI075	se dipende da me
 TOR001	assolutamente non ci sarà
-TOI075	
 TOI075	spero che anche gli altri
 TOI075	si non si lascino illudere
 TOR001	è un po' un'illusione
@@ -851,8 +805,6 @@ TOR001	non è che
 TOI075	mhmhmh
 TOI075	che possono mantenerle
 TOR002	le promesse che hanno fatto i governanti di adesso
-TOR001	
-TOR002	
 TOI075	una gara a chi la spara più grossa
 TOI075	diciamo che io quando
 TOI075	ho cominciato ad avere un'opinione politica personale

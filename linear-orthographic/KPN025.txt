@@ -89,7 +89,6 @@ PKP107	non sapendo
 PKP107	che
 PKP107	im~ le posizioni su messenger
 PKP110	scompaiono dopo un'ora
-PKP107	
 PKP110	quindi lui gli ha riscritto
 PKP107	no
 PKP107	eh esatto
@@ -140,7 +139,6 @@ PKP108	e alle sei iniziavamo già
 PKP107	ah
 PKP108	a fare festa
 PKP109	ah
-PKP107	
 PKP110	quindi
 PKP109	ui
 PKP110	allora fa una merenda cena praticamente
@@ -149,11 +147,8 @@ PKP110	va~ a parte che voi avevate un'ora di lezione al giorno
 PKP107	quindi
 PKP107	esatto
 PKP109	non avevamo niente da fare
-PKP109	
 PKP109	fa solo
 PKP109	solo festa
-PKP108	
-PKP110	
 PKP110	magari io
 PKP110	eh che figata
 PKP108	io ci voglio andare a fare l'erasmus
@@ -163,8 +158,6 @@ PKP108	disorientata
 PKP107	demotivata
 PKP108	eh sì
 PKP110	diciamo
-PKP108	
-PKP108	
 PKP108	c'è voluto un po' pe~
 PKP108	poi
 PKP108	i~ in periodo di
@@ -184,7 +177,6 @@ PKP107	sì beh
 PKP107	no ma non ho studiato
 PKP108	è quello il problema
 PKP110	è quello
-PKP109	
 PKP108	cos'hai fatto xx
 PKP107	eh niente
 PKP108	niente
@@ -193,17 +185,13 @@ PKP109	ti vedevo là in camera che facevi qualcosa
 PKP107	gingillavi
 PKP110	mhmh
 PKP109	netflix
-PKP107	
 PKP109	gingillare è proprio un termine che verrà studiato
-PKP108	
 PKP108	gingillo
 PKP109	gingillina
-PKP108	
 PKP108	diceva nonna chiara
 PKP108	ti ricordi
 PKP109	gingillina
 PKP110	sì
-PKP107	
 PKP107	te quindi nonna vai da
 PKP110	da zia
 PKP108	sì
@@ -216,7 +204,6 @@ PKP108	veronica stamattina
 PKP110	allora gli ho detto
 PKP107	eh stavamo cercando di convincerla
 PKP108	x
-PKP110	
 PKP108	perché non vuole vedere la zia roberta
 PKP107	allora gli ho detto
 PKP108	eh
@@ -235,11 +222,8 @@ PKP108	mangiamo insieme
 PKP108	che ne dici
 PKP108	ho mandato la la faccia triste
 PKP109	pia~
-PKP108	
 PKP110	dico per favore
-PKP107	
 PKP109	eh
-PKP108	
 PKP108	e lei ha detto
 PKP108	boh
 PKP109	vedremo
@@ -296,7 +280,6 @@ PKP110	zia
 PKP109	cartomante
 PKP107	cartomante
 PKP109	cartomante
-PKP107	
 PKP107	beh
 PKP109	è raro avere una zia cartomante
 PKP110	e cosa ti vuoi
@@ -326,8 +309,6 @@ PKP109	potrei avere il bis
 PKP110	te lo sei spolverato eh
 PKP107	allora andiamo giù mercoledì sera solo per le carte
 PKP110	avevo fame
-PKP109	
-PKP109	
 PKP109	ah di
 PKP109	vuoi andar giù mercoledì
 PKP108	dormi con la nonna
@@ -336,7 +317,6 @@ PKP110	basta che
 PKP110	no che c'ho
 PKP110	queste due vecchie russano
 PKP109	mamma mia
-PKP110	
 PKP110	no
 PKP108	perché mi ritrovo lì
 PKP108	ma no c'è
@@ -349,7 +329,6 @@ PKP108	sta' senti' mari
 PKP110	c'hai la tua camerina
 PKP110	ma lo sai nonna che ti si sente che russi
 PKP109	d~ d~ dalla camera all'altra
-PKP110	
 PKP110	si sente che russi
 PKP108	da due camere di distanza
 PKP107	xxx
@@ -363,7 +342,6 @@ PKP108	perché se no mi da fastidio
 PKP110	sta notte ho russato
 PKP109	me so' addormentata prima io me sa
 PKP108	eh allora
-PKP107	
 PKP107	però io è vero ti sento
 PKP107	quando dormo qua
 PKP107	quando ti addormenti
@@ -374,10 +352,7 @@ PKP107	eh oh
 PKP107	che dopo dico
 PKP107	boh
 PKP109	è viva
-PKP107	
 PKP110	perché all'inizio russa poi smette
-PKP108	
-PKP110	
 PKP110	no ma
 PKP110	l'anno scorso o era due anni fa
 PKP110	che lei era venuta lì a dormire a porto recanati
@@ -391,11 +366,9 @@ PKP110	non ho do~
 PKP110	non ho chiuso occhio
 PKP110	tutta la notte
 PKP107	le ho fatto pure un video mentre russava l'ho fatto vedere alla mamma
-PKP110	
 PKP110	si è scon~
 PKP110	ah era rimasta sconvolta
 PKP108	mi ha chiesto di eliminarlo
-PKP108	
 PKP108	oddio
 PKP110	dai
 PKP108	sì ti giuro
@@ -417,18 +390,14 @@ PKP108	e mi sono messa a dormire in bagno
 PKP110	e dai
 PKP110	però non riuscivo a dormire
 PKP109	ho chiuso la porta si sentiva ancora il russo
-PKP110	
 PKP110	mi sono messa a leggere
 PKP110	e poi e sono le otto di mattina
 PKP110	la nonna si è svegliata
 PKP109	e io mi sono messa a dormire dalle otto alle nove
-PKP108	
-PKP108	
 PKP108	è per quello che la volta dopo
 PKP108	non sei volut~
 PKP110	papà t'è venuto a prendere era anche tardi ma t'è venuto prendere
 PKP109	assolutamente no
-PKP108	
 PKP110	per portarti a casa
 PKP108	mh
 PKP109	eh ragazze
@@ -459,7 +428,6 @@ PKP109	eh
 PKP109	ma scusami
 PKP108	ma se alla mattina non ti svegliano neanche le cannonate
 PKP110	eh beh
-PKP109	
 PKP107	scusa eh
 PKP109	ma infatti
 PKP109	perché sto fatto
@@ -487,9 +455,7 @@ PKP110	scusa
 PKP109	dormo a scuola
 PKP109	eh sì
 PKP108	certo
-PKP108	
 PKP110	e dai mari
-PKP109	
 PKP109	te lo danno i professori
 PKP108	dormire
 PKP108	xxx
@@ -633,7 +599,6 @@ PKP107	la vuoi
 PKP110	un pochino
 PKP107	con
 PKP110	ecco la nonna lo sa
-PKP110	
 PKP107	sì
 PKP108	il bordino della pentola
 PKP107	ma non è molto
@@ -771,9 +736,6 @@ PKP109	xx
 PKP110	eh
 PKP108	xxx
 PKP108	non si butta via niente
-PKP108	
-PKP108	
-PKP109	
 PKP110	ce n'è un altro po' per te mariarita
 PKP108	mh
 PKP109	si dai
@@ -816,7 +778,6 @@ PKP108	ah insomma
 PKP108	allo~ de~
 PKP108	o finitela
 PKP108	poi
-PKP109	
 PKP107	poi la finisci tu
 PKP108	la finisci tu
 PKP108	infatti
@@ -868,7 +829,6 @@ PKP108	poi c'era il capo dello stato
 PKP108	tutte tutte le nostre autorità
 PKP108	naturalmente
 PKP108	eh
-PKP108	
 PKP107	si è visto
 PKP109	wow
 PKP108	hanno fatto in fretta a farlo eh
@@ -877,26 +837,22 @@ PKP109	è dura
 PKP108	sarà che se vogliono
 PKP107	qui~ qui~ quindici mesi
 PKP108	eh infatti
-PKP107	
 PKP107	puoi
 PKP110	ci sei nonna
 PKP108	xx
 PKP108	eh è la
 PKP109	è un chicco che m'è andato per traverso
 PKP107	strano
-PKP110	
 PKP108	eh infatti
 PKP110	strano sì
 PKP109	xx
 PKP108	ti ingozzi tutte le volte mamma
 PKP110	xx
 PKP108	ci sei
-PKP109	
 PKP109	eh ma
 PKP109	perché vuoi parlare
 PKP108	e intanto mangiare
 PKP110	xx eh allora sto zitta e via
-PKP109	
 PKP109	lo dici dopo
 PKP108	eh
 PKP107	eh x
@@ -937,8 +893,6 @@ PKP110	mh
 PKP110	ma com'era tu che avevi tira~
 PKP110	l'ayatolla
 PKP109	al posto della ayatollah
-PKP107	
-PKP108	
 PKP108	l'ayatolla
 PKP107	chi è che l'aveva detto
 PKP109	io dio
@@ -985,7 +939,6 @@ PKP109	i veri valori della vita
 PKP110	e quali sarebbero
 PKP110	eh
 PKP109	eh
-PKP110	
 PKP110	no praticamente
 PKP110	no dopo mi ricordo che quando inizia a viaggiare
 PKP109	in tibet
@@ -1034,19 +987,14 @@ PKP109	x
 PKP108	ecco il melone
 PKP108	senti come tuona
 PKP107	tanto tuonò che piovve
-PKP109	
-PKP110	
 PKP109	e dal culo chi strombetta
 PKP107	chi x
-PKP108	
-PKP108	
 PKP109	questo
 PKP108	c'è xxx
 PKP109	questo è dante
 PKP109	quello che
 PKP107	vi ricordate di dante
 PKP108	esatto io mi ricordo
-PKP107	
 PKP109	amor che nulla amato amar perdona
 PKP110	te ancora mariarita lo devi studiare
 PKP108	ma c'è il ragazzo di fede
@@ -1080,11 +1028,8 @@ PKP110	no
 PKP108	no nonna
 PKP108	allora xxx
 PKP110	io sì
-PKP107	
-PKP110	
 PKP110	ovviamente
 PKP107	mi pare gusto
-PKP107	
 PKP110	si sentiranno tutti i masticamenti
 PKP107	tipo un video asmr
 PKP109	mhmh
@@ -1102,7 +1047,6 @@ PKP107	mi fanno senso
 PKP109	xx
 PKP107	chi
 PKP110	è tipo questa
-PKP110	
 PKP110	voi siete della
 PKP107	vecchia generazione
 PKP107	questi video
@@ -1156,7 +1100,6 @@ PKP107	peccato
 PKP107	ora
 PKP107	te lo dico
 PKP108	mh
-PKP107	
 PKP107	mh
 PKP107	beh
 PKP107	in
@@ -1196,7 +1139,6 @@ PKP107	sì
 PKP110	per fare il video asmr
 PKP107	per fare il video asmr
 PKP110	oh signore
-PKP109	
 PKP110	come ottanta euro per un mango
 PKP109	ma questo è xxx
 PKP109	ma dai
@@ -1229,7 +1171,6 @@ PKP108	perché c'hanno
 PKP108	veramente un
 PKP108	un contatto con
 PKP108	eh gli animali
-PKP109	
 PKP109	ma scusami
 PKP109	questa mangia
 PKP109	questo pesce
@@ -1283,7 +1224,6 @@ PKP107	masticavo
 PKP107	con la bocca chiusa e lei
 PKP107	e
 PKP109	e nel silenzio non sopportava che io masticassi
-PKP107	
 PKP109	che aveva fastidio il rumore che
 PKP107	xx avresti dovuto fare xxxx
 PKP107	di me che mastico
@@ -1318,7 +1258,6 @@ PKP110	no a me lo dicono
 PKP110	dicono mari smettila
 PKP110	noi te lo diciamo per il tuo bene
 PKP110	okay
-PKP108	
 PKP108	eh allora
 PKP110	facci caso xxx
 PKP110	eh ma infatti ogni volta ci provo
@@ -1385,7 +1324,6 @@ PKP107	oggi è martedì
 PKP108	no
 PKP108	ah eh
 PKP108	eh
-PKP108	
 PKP108	mangialo
 PKP110	xxxx dai
 PKP110	mh
@@ -1403,7 +1341,6 @@ PKP108	anche perché
 PKP109	mh
 PKP108	ha fatto colazione tardi
 PKP107	eh sì
-PKP109	
 PKP107	infatti
 PKP110	a che ora
 PKP110	però il latte ma è bellissimo
@@ -1415,14 +1352,10 @@ PKP109	xxx
 PKP110	s~ brichettino
 PKP110	è piccolino
 PKP109	amore bellissimo
-PKP110	
 PKP108	ma le cose minuscole sono un sacco carine
 PKP108	lo vuoi andare a prendere
 PKP109	te lo porti a casa
-PKP110	
-PKP110	
 PKP108	sì così in treno diventa ricotta
-PKP108	
 PKP107	no è sta~ è stato
 PKP108	è lunga conservazione
 PKP108	xx no
@@ -1459,10 +1392,8 @@ PKP110	in siciliano
 PKP107	e le altre due con chi le fai
 PKP107	boh magari con gli amici
 PKP108	adesso vedo
-PKP109	
 PKP109	fallo con la zia betta
 PKP108	una
-PKP109	
 PKP109	eh
 PKP110	e lo zio martino e
 PKP108	eh se era con giorgia facevamo
@@ -1484,7 +1415,6 @@ PKP108	c'è stata una
 PKP109	xxxx
 PKP108	fai fai schifo dai
 PKP110	xx la fetta
-PKP108	
 PKP109	oh
 PKP107	adesso te la mangi eh
 PKP110	spiegagli
@@ -1565,7 +1495,6 @@ PKP109	poi ci xxx
 PKP110	ah infatti
 PKP109	pensava
 PKP110	mi ha chiamato domenica a me
-PKP108	
 PKP110	eh
 PKP110	ha detto che si è alzata la mattina
 PKP110	eh ha chiamato l'ilaria che oltretutto
@@ -1633,7 +1562,6 @@ PKP109	beh vabbè
 PKP108	anche chiara mi chiede il permesso
 PKP108	beh
 PKP109	non è che chiede il permesso
-PKP108	
 PKP108	però
 PKP110	insomma
 PKP108	se gli dici di no mi sa che lo fa comunque
@@ -1694,10 +1622,8 @@ PKP109	eh
 PKP108	si preoccupa dai
 PKP108	eh
 PKP108	certo
-PKP107	
 PKP108	boh
 PKP107	oh
-PKP108	
 PKP109	menomale
 PKP109	se stiamo un altro po' qua
 PKP108	lo finiamo questo prosciutto
@@ -1718,17 +1644,12 @@ PKP110	no
 PKP110	mi sono
 PKP110	autofecondata
 PKP109	mi sono messa incinta da sola
-PKP108	
 PKP108	è
 PKP108	è diventata la la la
 PKP110	la pecorella dolly
 PKP107	produco
-PKP110	
 PKP108	esatto
-PKP110	
 PKP108	produco un clone
-PKP107	
-PKP108	
 PKP110	partorirà un clone
 PKP108	mhmh
 PKP110	eh
@@ -1756,7 +1677,6 @@ PKP110	no
 PKP110	ci dovevamo vedere stasera
 PKP108	però se piove
 PKP108	ah adesso vediamo
-PKP110	
 PKP110	già lui ha detto
 PKP110	che per farsi perdonare
 PKP110	lui e l'ila vogliono offrirci una cena

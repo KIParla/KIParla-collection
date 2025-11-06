@@ -1,5 +1,4 @@
 BO049	ehm ciao
-BO074	
 BO049	ciao
 BO074	tutto bene
 BO049	sì
@@ -22,7 +21,6 @@ BO074	e vivi in una casa in un appartamento in una villa in un non so cosa
 BO049	vivoin
 BO074	una capanna
 BO049	non vivo in una capanna neanche sotto un ponte
-BO074	
 BO074	ma vivo in una casa qua in centro
 BO074	che è una casa sì familiare divisa in due appartamenti
 BO049	al prim~ nel primo piano ci sto io e la mia famiglia al secondo piano invece ci sta mio zio
@@ -79,7 +77,6 @@ BO049	sì ho capito
 BO049	ehm
 BO049	la tua casa com'è ordinata
 BO049	tu che tipo sei la tieni in ordine pulisci
-BO074	
 BO074	mah
 BO074	eh allora
 BO074	adesso sto cercando
@@ -128,7 +125,6 @@ BO074	perché comunque d'esate più che altro uscivamo
 BO074	d'inverno li era era comodo perché adess~ prima c'era un camino
 BO074	adesso c'abbiamo
 BO074	è stato rimodernizzata e c'è una stufa
-BO049	
 BO049	ah okay
 BO074	un po' meno romantico però
 BO074	eh si
@@ -329,7 +325,6 @@ BO074	sì
 BO049	sì
 BO074	ma vi eravate preparati allenati oppure niente
 BO049	mh no siamo andati molto a caso
-BO074	
 BO074	a dir~ la verità
 BO074	e questo in parte l'avevo un po' sentito a livello fisico perché comunque molto faticoso
 BO074	però comunque una persona direi in salute
@@ -572,7 +567,6 @@ BO049	e di arrivare lì e poi dopo decidere dopo cosa fare
 BO049	mh
 BO049	bello
 BO074	bel ragionamento ci sta io ti ti copierò allora
-BO049	
 BO049	eh no va bene dai
 BO074	va bene così
 BO049	okay

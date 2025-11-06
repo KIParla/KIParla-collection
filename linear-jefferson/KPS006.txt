@@ -409,8 +409,6 @@ PKP004	ma dove era:?
 PKP004	era::
 PKP004	andando::
 PKP005	da xxxx
-PKP004	
-PKP005	
 PKP005	vicino::
 PKP005	i terreni di zio peppino
 PKP004	e di zio antonio

@@ -56,7 +56,6 @@ PKP075	era così fatta
 PKP070	no
 PKP070	e quindi non avete vinto niente
 PKP076	avevate solamente
-PKP075	
 PKP076	ma quante coppie eravate
 PKP076	mh pf sei sette
 PKP076	non mi ricordo
@@ -75,7 +74,6 @@ PKP070	sì
 PKP076	beh in teoria carlo non ci doveva più essere da quest'anno
 PKP070	in teoria
 PKP076	però lo hanno obbligato
-PKP075	
 PKP070	perché
 PKP070	perché hanno fatto tipo una riunione prima di iniziare
 PKP075	vabbè sono andate anche la emma e la giulia
@@ -199,12 +197,9 @@ PKP076	eravamo a due metri l'uno dall'altro e avevamo tutti la mascherina
 PKP075	siamo persone civili
 PKP070	eh sì si però
 PKP076	somma
-PKP075	
 PKP075	con le nuove normative arriva il sindaco
 PKP076	e vi port~ manda tutti a casa
 PKP075	a conscio viene il sindaco
-PKP076	
-PKP070	
 PKP076	beh i pulotti possono arrivare lo stesso
 PKP075	mhmh quello sì
 PKP070	i
@@ -294,7 +289,6 @@ PKP076	ma di recente quindi è andata là tipo là anche due giorni
 PKP075	mh
 PKP070	era impiegata
 PKP076	sì
-PKP070	
 PKP076	cioè
 PKP070	mh
 PKP076	più o meno sì perché si occupava anche del
@@ -337,9 +331,7 @@ PKP076	io sapevo dov'è so dov'è il ca del galletto
 PKP076	e allora fai quello che vuoi c'eri tu che
 PKP070	vabbè
 PKP076	ma il ristorante sai dov'è
-PKP070	
 PKP076	perché c'è anche un ristorante ca del galletto
-PKP075	
 PKP077	un hotel
 PKP070	albergo xx ci passi davanti
 PKP075	ah l'hotel
@@ -380,11 +372,8 @@ PKP076	è ancora
 PKP077	è lì
 PKP070	là abitava
 PKP076	dove andavo io quando
-PKP070	
-PKP076	
 PKP070	quando saltavi scuola
 PKP076	no no quella vol~ l'unica volta che ho bruciato sono andato lì
-PKP075	
 PKP076	a far cosa
 PKP070	colazione
 PKP075	colazione
@@ -395,21 +384,16 @@ PKP075	che schifo
 PKP076	non ti sentivi in colpa dopo
 PKP070	no
 PKP076	no perché avevo la giustificazione
-PKP075	
 PKP070	ma io te l'avevo fatta per un ora
 PKP076	mh mh
-PKP075	
 PKP070	e tu hai fatto due ore
 PKP076	io ne ho fatte due
-PKP070	
 PKP076	eh oh dovevo saltare l'interrogazione
-PKP075	
 PKP070	e pensi che la prof non se ne
 PKP075	ah affari suoi cioè nel senso avrà capito ma
 PKP070	magari la rossi
 PKP070	no
 PKP076	no la franceschi
-PKP070	
 PKP070	perché non avevo studiato se mi interrogava già non andavo bene in inglese
 PKP075	rischiavo
 PKP075	eh vabbè
@@ -436,7 +420,6 @@ PKP070	è la succursale
 PKP076	la succursale del duca
 PKP075	fa schifo
 PKP076	perché lo chiamano pollaio
-PKP070	
 PKP076	non lo so sinceramente
 PKP070	no
 PKP070	boh
@@ -469,7 +452,6 @@ PKP075	e c'è una colonna al centro
 PKP076	e allora dove andate
 PKP075	ci porta al parco quello vicino alla casa di riposo
 PKP076	ah
-PKP075	
 PKP076	anche d'inverno quando fa freddo
 PKP076	sì
 PKP070	sì a meno che non piova
@@ -488,9 +470,7 @@ PKP070	però abbiamo fatto anche orienteering là in giro per vicino al galletto
 PKP076	x quelle zone
 PKP070	a noi non l'hanno fatto fare xx
 PKP076	io e l'alessandra sempre in gruppo perdavamo più tempo a fumare sigarette che a far le co~
-PKP075	
 PKP070	pensate ti
-PKP075	
 PKP070	tanto lavoravate
 PKP077	beh siamo arrivati primi anche quella volta
 PKP075	pensa
@@ -499,7 +479,6 @@ PKP070	immaginati gli altri si saranno persi loro lì
 PKP070	e noi invece
 PKP070	primi
 PKP076	abbiamo anche la foto
-PKP075	
 PKP070	quella volta che avevate il calsettoni
 PKP070	no penso che sia stato per la
 PKP076	campestre
@@ -526,12 +505,9 @@ PKP076	la facevate sempre
 PKP076	sì
 PKP070	io sempre lì ultima
 PKP076	che palle
-PKP076	
 PKP070	camminavo
 PKP076	poi la gente arrivava alla fine e vomitava
-PKP070	
 PKP076	perché facevano gli sforzi
-PKP075	
 PKP070	e c'era chi chi voleva arrivare primo
 PKP076	x affari loro
 PKP075	che poi non non vinci nemmeno niente se arrivi primo
@@ -559,7 +535,6 @@ PKP076	ma non ti piaceva ginnastica
 PKP077	ci fa fare un chilometro e mezzo di corsa
 PKP076	quanto
 PKP070	un chilometro e mezzo
-PKP077	
 PKP077	pensa te
 PKP070	ah
 PKP070	è come andare tipo
@@ -574,7 +549,6 @@ PKP075	vabbè ma è di corsa
 PKP075	eh oh fai fiato
 PKP075	x
 PKP076	sennò sei sempre seduta
-PKP077	
 PKP076	devi partire piano un po' alla volta
 PKP077	ma è quello che ci ha detto lei
 PKP076	mh
@@ -624,7 +598,6 @@ PKP076	eh vabbè la fa la gloria fa la festa lei sabato
 PKP077	siamo tutti in tavoli separati però facciamo lo stesso la
 PKP076	eh sì
 PKP070	la festa
-PKP075	
 PKP076	l'importante è vedersi no
 PKP070	eh vabbè
 PKP070	sì sì per carità cioè nel senso tanto comunque non siamo mai tutti
@@ -634,7 +607,6 @@ PKP076	già preso tutti i regali
 PKP075	non tutti ma alcuni sì
 PKP070	ma in quanti siete alla fine
 PKP076	eh ti facevi dare il regalo e basta
-PKP076	
 PKP075	vabbè
 PKP076	dovete dirlo sapete perché bisogna prenotare mi go da disdir da chealtra parte
 PKP075	eh colpa mia
@@ -664,9 +636,7 @@ PKP077	però i xe qua insomma
 PKP075	sì sì che i vae dove che i vol
 PKP070	poi è più vicino
 PKP076	anch'io ho fatto un compleanno al tiki taki
-PKP075	
 PKP070	me ricordo sì
-PKP075	
 PKP070	ricordo
 PKP075	perché
 PKP075	che anni era
@@ -704,7 +674,6 @@ PKP070	ma feste che ha fatto al tiki taki no
 PKP070	no per me le aveva perse tipo qualcuno
 PKP070	che forse aveva portato anche la macchina fotografica e
 PKP076	perse
-PKP076	
 PKP075	eh
 PKP070	eh vabbè
 PKP070	vabbè cioè chi se ne frega
@@ -712,13 +681,10 @@ PKP075	sinceramente
 PKP070	non so c'erano belle foto
 PKP076	non penso perché era un'età disagiata
 PKP076	grazie eh
-PKP070	
-PKP075	
 PKP075	quindic'anni
 PKP076	perché disagiata
 PKP070	ma scus~
 PKP076	perché sei insulso a quell'età
-PKP075	
 PKP076	gloria hai sentito
 PKP075	che sono insulsa
 PKP070	eh vabbè
@@ -748,7 +714,6 @@ PKP077	hei ciao
 PKP070	ma cossa gaea el vivavoce
 PKP077	eh eh no penso che sia tipo il cellulare che sì è al massimo
 PKP076	madona te sente fin in fondo
-PKP075	
 PKP075	sì sì sì
 PKP076	eh
 PKP076	ieri mattina
@@ -762,7 +727,6 @@ PKP076	là sopra
 PKP076	e eravamo io la maria la matil~ e la marina
 PKP070	e son venuti buonissimi
 PKP070	mh come hai fatto
-PKP076	
 PKP070	cioè erano perfetti la ricetta che abbiamo usato l'altra volta però fatta meglio
 PKP076	perché
 PKP070	perché mi sono impegnata di più
@@ -778,10 +742,8 @@ PKP076	sarà venuta uno schifo
 PKP070	no era buona
 PKP076	com'è che l'avete fatta
 PKP077	tre uova il
-PKP070	
 PKP076	perché tre uova
 PKP077	perché la è a dieta e l'ha mangiata col pomodoro
-PKP070	
 PKP076	ah okay quindi avete fatto le giuste dosi
 PKP077	e vabbè poi grana perché il pecorino non ce l'aveva in realtà non aveva neanche il grana a casa
 PKP076	non va il pecorino sulla carbonara
@@ -837,7 +799,6 @@ PKP070	no mh
 PKP076	è bello quel posto
 PKP076	sì
 PKP070	ci abbiamo giocato a nascondino
-PKP070	
 PKP076	buona anche la birra
 PKP070	mh mh
 PKP076	ma voi quando avete mangiato lì avete mangiato cose a caso o quello che c'era lì
@@ -847,18 +808,15 @@ PKP076	eh
 PKP070	c'era una pizza surgelata là e abbiamo fatto quella
 PKP076	che schifo
 PKP070	e poi x tre toast tipo
-PKP070	
 PKP070	mh
 PKP070	perché ho visto che c'erano tipo vari cicchetti ma non
 PKP076	non ho visto bene
 PKP070	xx
 PKP076	perché stavo pensando alla birra
-PKP076	
 PKP070	mh mh
 PKP076	però sì dai ci stava
 PKP070	poi abbiamo fatto maratona di high school musical
 PKP076	per quello sei tornata a casa cantando canzoni di high school musical
-PKP076	
 PKP070	bello bello
 PKP076	che disagio
 PKP077	che ridere abbiamo riso tutto il tempo
@@ -866,7 +824,6 @@ PKP070	ahi ahi ahi
 PKP076	perché
 PKP070	perché se lo guardi attentamente è u~ una trashata
 PKP076	sì madonna
-PKP070	
 PKP076	infatti non l'ho mai visto ho visto solamente il secondo
 PKP077	fa un sacco ridere
 PKP077	xx
@@ -874,14 +831,12 @@ PKP070	xx x
 PKP076	ma li avete visti tutti quindi
 PKP070	no solo i primi due
 PKP076	ah ok
-PKP070	
 PKP076	e quindi non avete visto film horror
 PKP076	no
 PKP076	ma no
 PKP077	alla mariarita non piacciono
 PKP070	cossa gaea comprà
 PKP076	ah ok
-PKP070	
 PKP076	qualcuno di normale
 PKP070	cosa vuoi tu
 PKP076	noi dobbiamo ancora finire quella serie giapponese
@@ -890,17 +845,13 @@ PKP076	sì dobbiamo finire sia le principesse sirene che eh jun o
 PKP070	esatto
 PKP070	jun on jun o vabbè quello che è
 PKP076	eh ju ju vabbè quello che è eh basta
-PKP070	
 PKP076	io avevo iniziato anche le mew mew
 PKP070	ho visto
 PKP076	però non non son più andato avanti
 PKP070	ah vabbè
 PKP070	eh vabbè dai
 PKP070	però le ho messe lo stesso su tv time
-PKP076	
-PKP070	
 PKP076	solo perché devo aumentare
-PKP070	
 PKP070	beh sono a
 PKP076	tre mesi
 PKP070	boia
@@ -909,7 +860,6 @@ PKP076	e cinque ore
 PKP076	boia
 PKP070	hai passato tre mesi della tua vita a guardare serie tv
 PKP076	sì
-PKP070	
 PKP076	e ne vado fiero
 PKP070	quasi quatttro mesi
 PKP070	anche se in verità
@@ -921,7 +871,6 @@ PKP070	tipo flor
 PKP076	vabbè quello penso di averlo visto tutto
 PKP070	sì sì sì me lo ricordo pure io anche la fine me la ricordo
 PKP070	sì sì sì
-PKP076	
 PKP075	e avevo cinque anni
 PKP070	eh
 PKP076	sì
@@ -974,7 +923,6 @@ PKP070	abbiamo visto la zia
 PKP077	vabbè anche voi quella volta che siete andati a fare il tampone che non erano passati abbastanza giorni
 PKP070	eh lo so
 PKP077	infatti per quello io vi dicevo che
-PKP070	
 PKP075	non volevo i miei amici lo stesso
 PKP070	beh vabbè se i sintomi no i ghe xe venerdì dopo x deve fare
 PKP075	vabbè è quello il problema mamma
@@ -1023,8 +971,6 @@ PKP076	sì no nel senso per noi magari è anche un po' meno grave la cosa
 PKP070	però per lui è un pochino
 PKP075	bah staremo a vedere
 PKP076	ghe sarà carmelo che
-PKP075	
-PKP070	
 PKP076	sì infatti avrà il mamma mia
 PKP076	mamma lo zio
 PKP077	poretto
@@ -1046,7 +992,6 @@ PKP070	io la zia non l'ho vista
 PKP070	beh in effetti anche io non ci sono stato a contatto con la zia
 PKP070	perché ero tipo da tutt'altra parte
 PKP070	tu
-PKP076	
 PKP077	stacci lontana
 PKP075	anca ti te si stada a contatto con to sorea
 PKP070	sì ieri ser~ ieri sì
@@ -1062,19 +1007,12 @@ PKP077	poi dipende
 PKP075	va ben dai cossa vutu far
 PKP070	speriamo bene
 PKP076	tanto ormai siamo abituati cioè nel senso non è la prima volta
-PKP076	
-PKP076	
-PKP076	
 PKP077	ops
 PKP076	le da ormai le da sfigai no aver el corona virus
-PKP070	
-PKP077	
-PKP070	
 PKP076	sinceramente preferirei tipo passare sta pandemia senza averlo mai preso
 PKP075	mh
 PKP070	eh
 PKP076	anche perché magari sono così fortunato che lo prendo e ci muoio anche
-PKP070	
 PKP075	bah
 PKP070	vabbè
 PKP075	staremo a vedere

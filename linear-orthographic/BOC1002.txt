@@ -1,7 +1,6 @@
 BO087	buongiorno
 BO089	ecco buongiorno
 BO087	xxx
-BO087	
 BO087	no ho un po' freddo si può chiudere la porta
 ???	vi dispiace
 ???	a ma per chiudere
@@ -17,7 +16,6 @@ BO087	delle trad~ delle opere cinesi tradotte in italiano e una
 BO089	perché è spento
 BO089	bibliografia
 BO087	retrospettiva
-BO087	
 BO087	è spento o ancora non funziona
 BO089	no è proprio spento
 BO089	sì comunque è freddo anche fuori
@@ -189,7 +187,6 @@ BO087	c'è anche il nome in in cinese sia dell'opera che del eh dell'autor~ del
 BO089	traduttore
 BO087	dell'autore
 BO089	ah no e questo è il tiolo
-BO087	
 BO089	lun dun iu ba li min gin
 BO089	sì è il titolo del eh dell'opera
 BO089	quella tras~ traslitterazione pinyin del eh mh dei caratteri
@@ -333,7 +330,6 @@ BO089	e nel febbraio giugno dell'ottantasei
 BO087	forse è lo stigma è lo stesso numero
 BO087	non c'è
 BO089	ah ecco
-BO089	
 BO087	ecco
 BO089	sicuramente c'è
 BO087	mh mh
@@ -410,7 +406,6 @@ BO087	però questo lei lo deve
 BO089	focalizzare a lezione l'avre~ l'ho spiegato abbastanza bene ma si vede capisco che lei non
 BO087	sì
 BO089	perché una delle cose più difficili
-BO089	
 BO087	mh
 BO089	della mh bibliografia repertoriale e periodica
 BO087	mh mh mh
@@ -425,8 +420,6 @@ BO087	mh mh
 BO089	e quindi
 BO087	quindi magari un po'
 BO089	hanno una loro dimensione un po' fantasiosa talvolta
-BO089	
-BO087	
 BO087	allora
 BO087	senta rossi poi lei mi porta il manuale
 BO089	che manuale ha scelto
@@ -482,7 +475,6 @@ BO089	in origine a chi xxx
 BO087	dai librai dai ti~
 BO089	perché i librai stampano libri cioè lei va alla feltrinelli e vede lì gente che
 BO089	stampa eh
-BO087	
 BO089	col torchio stampa
 BO087	i tipografi
 BO089	oh questo questa parola questa parola assolutamente retro proprio la fuggono gli autori gli editori
@@ -491,7 +483,6 @@ BO087	ah mia zia faceva la tipografa tra l'altro
 BO089	pure
 BO087	sì
 BO089	maledetta rossi tipografo dove
-BO089	
 BO087	a @nomeluogo
 BO089	ah stupenda c'è una tradizione eccezionale
 BO089	mh mh
@@ -569,7 +560,6 @@ BO089	paesi diversi
 BO087	sì
 BO087	cina mh
 BO089	dov'è che si dov'è che si stampa cinese
-BO087	
 BO087	oltre che in cina
 BO089	shanghai
 BO087	mhmh
@@ -700,7 +690,6 @@ BO089	va bene rossi io sono contento e le do trenta
 BO087	grazie
 BO089	non le do la lode per la questione del eh
 BO089	dei cataloghi
-BO087	
 BO087	no
 BO087	no
 BO089	no per la questione della numerazione dei periodici perché lei non la sapeva se io gliela chiedevo lei non la sapeva

@@ -18,7 +18,6 @@ TOI006	mhmh
 TOR001	incremento gli ordini
 TOR002	okay
 TOR001	ma sei di quelli che girano col tablet per far vedere i prodotti
-TOI006	
 TOR001	no quello ancora
 TOR001	ma eh mh
 TOI006	quindi dicevi vendi imballaggi tipo
@@ -116,7 +115,6 @@ TOR001	è vero anche che hai delle aziende molto più grandi
 TOI006	mh mh
 TOI006	che ti possono
 TOR001	mettere diciamo i bastoni tra le ruote però ecco sì
-TOI006	
 TOI006	però la cosa più bella è che tu hai
 TOI006	devi renderti professionale perché
 TOR001	eh il cliente ha bisogno di te
@@ -208,7 +206,6 @@ TOR001	eh certo
 TOR001	mh mh mh eh no certo
 TOI006	eh mh ti piacerebbe andare avanti a fare lo stesso lavoro o vorresti cambiare
 TOR001	beh
-TOI006	
 TOI006	a me piace anche cambiare certo che se questo lavoro mi porta poi dei
 TOI006	mi indirizza verso dei un buon
 TOR001	una buona prospettiva
@@ -219,7 +216,6 @@ TOR001	lo farei anche in altre zone cioè comunque questo è un prodotto che ser
 TOI006	mhmh
 TOR002	puoi farlo anche in inghliterra questo lavoro lo puoi fare in india lo puoi fare in scozia anche se chi a beh in scozia puoi paradossalmente
 TOR001	scozia
-TOI006	
 TOI006	in nella fascia del nord italia vendi imballaggi industriali
 TOR001	di un certo livello magari in scozia son poche le aziende che fanno turbine che fanno
 TOI006	mh mh mh
@@ -236,8 +232,6 @@ TOI006	okay così
 TOR001	cioè adesso così non ti saprei dire ah vorrei fare
 TOR002	l astronauta
 TOR002	il batterista
-TOR001	
-TOI006	
 TOR002	sì mi piacerebbe fare il batterista ma anche lì dovrei fare un percorso che non ho ancora non ho portato ancora a
 TOR001	beh ma chet te ne frega se ti pigliano così e ti dan dei soldi
 TOI006	e ccerto
@@ -263,9 +257,6 @@ TOI006	sì
 ???	quello sì però quello vorrebbe ecco lì rifare proprio una vita cioè ri~ mettere da parte trent anni
 TOI006	rifare tutto
 TOR002	per prendere proprio poca roba eh
-TOR001	
-TOI006	
-TOI006	
 TOR002	xxxx
 TOI006	ci van tanti soldi secondo me
 TOR001	eh sì infatti
@@ -274,8 +265,6 @@ TOI006	aivoglia
 TOR001	però se uno se dov~ volessi fare una cosa forse quella è una di quelle che
 TOI006	beh figo
 TOR002	e il resto tutto quello che viene mettiamola proprio
-TOR001	
-TOR001	
 TOI006	allora mh pensi che torino sia un buon posto per lavorare
 TOI006	nel mio mondo no torino proprio no
 TOI006	eh
@@ -353,7 +342,6 @@ TOR002	son più con quello è il mia ehm è la mia
 TOR001	eh sì
 TOI006	mh mh mh
 TOR001	cioè a torino tu non venderai mai perugina toglitelo dalla testa cioè ma sembra stupido ma tu se entri in qualsiasi bar eh
-TOR001	
 TOI006	no no no ma è vero
 TOR001	vai nei nei supermercati è p è poca o comunque non vende molto
 ???	mh mh mh mh mh
@@ -445,7 +433,6 @@ TOR001	però la gente non le conosce ancora proprio perché secondo me
 TOI006	mh mh
 TOR001	c'è un po questa grossa attesa
 TOI006	okay
-TOI006	
 TOI006	eh
 TOR001	di aprirsi al mercato ecco tutto lì
 TOI006	mh mh mh mh
@@ -472,7 +459,6 @@ TOI006	mh mh mh mh
 TOR001	però poi alla fine siamo così un po' mammoni un po' così che alla fine ci lamentiamo ci lamentiamo e pensiamo che l'erba del vicino è sempre più fresca più buona
 TOI006	mh mh mh
 TOR001	probabilmente è meglio coltivare quella che hai nel tuo
-???	
 TOI006	è anche vero
 TOR002	e forse
 ???	eh boh
@@ -485,21 +471,16 @@ TOR002	sì anche quello
 TOI006	no ma infatti cioè devi aver voglia di essere un emigrato
 ???	eh per me anche andare ad asti ti rimane quella quella malinconia
 TOR001	ad asti
-TOR002	
 ???	minchia ci credo ad asti
 TOR001	ad asti
-TOI006	
 ???	per dirti cioè anche uno un napoletano a torino c'ha la malinconia della cittadina partenope
 TOI006	sì sì ma è normale
 TOR002	quello ti dico cioè eh
 TOI006	no no è giusto
 TOR001	però è un punto di vista mio se no fal falla tu cioè ognuno
-???	
 TOI006	xxx siamo andati siamo andati
 ???	scusa è la mia intervista ci posso dire quello che voglio
 TOR002	siamo andati a mirafiori sentiva la mancanza di cenisia
-TOR001	
-TOI006	
 TOR002	ma no ma
 ???	a gianni ma eh l'altro giorno eravamo in via vigliani ma non c era un negozio di strumenti là vicino
 TOI006	eravamo un po nostalgici
@@ -510,11 +491,7 @@ TOR002	ieri era
 ???	ieri
 TOI006	la mia intervista
 TOR001	eh no eh scusa se non posso neanche essere libero nel giudizio
-???	
 TOR002	è la sua intervista
-TOR001	
-TOI006	
-TOR001	
 TOI006	ah mh
 TOR001	poi ho perso la domanda perché
 TOI006	no no ci siamo ci siamo era se all estero c'è più c'è più lavoro
@@ -524,8 +501,6 @@ TOR002	così se tu avessi la possibilità
 TOR001	a brescia
 ???	a asti abbiamo detto
 TOR002	ad asti
-TOI006	
-???	
 TOI006	a brescia già un altro continente potrebbe essere
 TOR002	beh dipende da cosa dove dovrei fare
 TOI006	ci va il passaporto per andare a brescia
@@ -547,16 +522,11 @@ TOR001	e a parte che non mi devo limitare all europa andrei a cuba in sud americ
 ???	no no dove ti pare
 TOI006	xxx è già in macchina anche l africa è proprio xxx
 TOR002	cioè andrei dappertutto sì dipende da se ci f~
-TOI006	
 ???	vabbè ma che c'entra tu hai mai visto un elefante dal vivo io no
 TOR002	ma chi se ne frega ti sta chiedendo del lavoro anche dal vivo
-TOR001	
-TOR002	
 ???	io sì al circo una volta
 TOR002	interviste di lavoro ma avete mai visto degli elefanti e le giraffe e allora le giraffe
 ???	no perché io guardi che l ho visto lei forse non lo sa però
-TOR001	
-TOI006	
 TOI006	no vabbè per carità andrei a vedere anche
 ???	in iran non lo so sai che ci sono i giacimenti petroliferi
 TOR002	anche lì la guerra e il lavoro
@@ -565,7 +535,6 @@ TOI006	te lo vedi che torna con la kefiah in testa
 TOI006	col burqa ma vedi che il burqa
 TOR001	tanti prodotti che spediscono i miei clienti li mandano in iran è pazzesco cioè fanno un sacco di impianti
 TOR002	in iran
-TOI006	
 TOR001	ma cose grosse eh
 TOI006	ma la smetti di disturbare povero gianni
 TOI006	andrei ah ecco toh vogliamo farla vogliamo dirla tutta in inghilterra nella zona sud cioè quindi anche sotto londra
@@ -574,17 +543,12 @@ TOI006	a stonhenge
 TOR001	non mi venire a dire che non c'è lavoro lì ce n'è c'è di tutto à
 ???	e così c'è anche lavoro quello sei a posto
 TOR002	e poi non vedi gli elefanti
-TOR001	
-TOI006	
 TOR002	sì vabbè ma per dire
 ???	vabbè ma un circo di zingari lo troverà lo zoo
-TOR001	
 TOI006	lo zoo
 TOR001	che ne so andrei dappertutto non an~ ecco forse sarebbe meglio dire dove non andrei
 TOI006	ecco
 TOR002	nelle zone del nord della russia dove fa fre~ la siberia
-TOR001	
-TOI006	
 TOR001	oppure la zona asiatica non mi tipo la mongolia la cina non è che proprio è il mio sogno del domani il resto
 TOR002	non ti ispirano
 TOI006	in nepal ci andresti in nepal
@@ -650,16 +614,12 @@ TOI006	suoi pro e contro
 TOR001	ha i suoi pro~ mol~ più che problemi che non l'agorà dei greci per esempio
 TOR001	mh mh mh
 TOR001	mh
-TOI006	
 TOI006	no perché nell'agorà dei greci ci si trovava nelle piazze e si discuteva ormai anche nelle città ci son tutti o nelle boutique o dentro casa
 TOI006	quindi alla fine della fiera se abiti in collina o se abiti in campagna o se abiti in città
 TOI006	ti senti solo lo stesso
 TOI006	questo è il le le il punto del chiave
 TOI006	cioè non c'è più quella differenza come negli anni sessanta che se abitavi
 TOR002	a villastellone chissà dove cazzo eri
-???	
-TOR001	
-???	
 TOI006	abbiamo capito il concetto
 TOR002	eh no eh sembra che chissà che tipo di
 TOI006	è la prima uscita della tangenziale villastellone
@@ -671,7 +631,6 @@ TOI006	perfetto va bene
 TOI006	xxxx
 TOI006	o rho
 ???	no po~
-TOR001	
 TOI006	va bene va bene va bene ho capito dai
 TOR002	vicino a mortara no
 TOI006	minchia
@@ -679,9 +638,6 @@ TOI006	minchia
 TOR001	abbiamo capito il concetto
 TOR002	va bene
 ???	non c'è na fungiazza di minchia
-TOR001	
-TOI006	
-TOI006	
 ???	sì no alla fine nella città sei solo in mezzo alla confusione ma non es~ non ti dà più sviluppo personale
 TOR001	cioè hanno più vantaggi e adesso lo stesso vantaggio di vivere più fuori tipo in periferia
 TOR001	mh mh mh
@@ -885,7 +841,6 @@ TOI006	no no certo
 TOI006	cioè la gente si viene a vedere lo juventus stadium a parte che è privato
 TOI006	però non è quella l'economia dove deve girare una città perché vuol dire che se la juve domani non inizia più non continua a vincere gli scudetti
 TOR001	o a fare quello che no è che non viene più nessuno in questa città
-TOI006	
 TOI006	e no vabbè ma però alla fine i i turisti che vengono
 TOI006	cioè costa crociere fa scendere la gente a genova per fargli visitare il museo stadium
 ???	cioè lo stadium museum come si chiama sì
@@ -938,11 +893,9 @@ TOR002	tutto fa però non
 TOI006	cioè tu dici di mille persone
 TOI006	però non è to~ cioè un cinese non è che dice vado a torino va a venezia a firenze a milano perché c'è la moda o va a roma
 TOR001	o a napoli perché c'è il detto che là son tutti mariuoli e allora vado a napoli
-TOR001	
 TOR002	per vederli
 ???	vado a vedere
 TOR001	per farsi derubare
-???	
 TOR002	si mette xxxxx al collo e prova vediamo
 TOR001	quello sì ma
 TOI006	fa tipo quello è il safari
@@ -987,7 +940,6 @@ TOI006	mh mh mh
 TOR001	cioè quello vuol dire allora non lo facciamo perché se no ris~ fate come l'altra volta
 ???	ah beh
 TOR001	cioè
-TOI006	
 TOI006	mi sembra una cosa allora non dovresti più fare dopo ev~ eventi che son successi con eh
 TOI006	eh u~ sai quando c'era stato quel discorso della juve che erano morti
 TOR001	allora non vai più a vedere le trasferte
@@ -1002,9 +954,7 @@ TOR001	vabbè
 TOR001	eh mh
 TOI006	in generale sei contento della tua città
 TOR001	no
-???	
 TOR001	risposta conclusiva
-TOR001	
 TOI006	perché dici
 TOR001	perché secondo me si potrebbe fare si potrebbe vivere meglio
 TOI006	mh
@@ -1038,7 +988,6 @@ TOR002	ma non quello con la
 TOR001	sì
 TOI006	dunque cosa fai durante il tuo tempo libero
 TOR001	schifo
-TOI006	
 ???	che faccio leggo
 TOI006	musica sport
 TOR001	musica sport
@@ -1068,13 +1017,11 @@ TOI006	scrittori come non so politici mettici quello che vuoi
 TOR001	son tutti o su repubblica o corriere della sera
 TOI006	mh mh
 TOR001	sulla stampa son solo i raccomandati son rimasti
-TOI006	
 TOI006	no ma te lo dico proprio in un modo cioè ma eh
 TOI006	mi vergogno però è così c'è
 TOR001	c'è un mattia feltri sul buongiorno della stampa cosa mi serve
 TOI006	mh mh mh
 TOR001	vai a scrivere da tuo padre da libero cioè
-TOR001	
 TOI006	e cosa preferisci tra corriere e repubblica
 TOI006	beh se la stan giocando sai
 TOR001	perché corriere ha fatto dei bei investimenti però alla fine anche repubblica ha fatto un restyling diciamo
@@ -1198,7 +1145,6 @@ TOR001	la qualità c'è sempre
 TOR001	però
 TOI006	sì
 TOR001	sinceramente eh è vero che anche lì è sempre un po' più pericolo
-TOR001	
 TOI006	eh vai ai concerti
 TOR001	sì
 TOI006	tipo
@@ -1332,7 +1278,6 @@ TOR001	forse lo voleva anche marcare non gliene è mai fregato niente
 TOI006	mh mh mh mh
 TOI006	nel momento che adesso ha superato anche certe
 TOR001	certe complicazioni alla fine è come diceva luca carboni ci vuole un fisico bestiale magari lui ce l'ha
-TOI006	
 TOI006	e magari vuole anche mandare a fanculo tutti quelli che lo hanno giudicato fino ad oggi
 TOI006	però tra lui anche altre
 TOI006	altri artisti per carità
@@ -1408,7 +1353,6 @@ TOI006	gianmaria
 TOR002	gianmaria testa
 TOI006	testa è morto
 TOR002	però per di~
-TOR001	
 TOI006	buonanima
 TOI006	per dirti alla fine so~
 TOI006	son pochi ah di~ sotto quella
@@ -1418,8 +1362,6 @@ TOI006	han fatto altro
 TOR001	alla fiat
 TOI006	alla fiat forse
 TOR002	ai francesi che ci attacca
-TOR001	
-TOR001	
 TOR001	eh ah
 TOR001	che posti frequenti quando esci
 TOI006	da signora
@@ -1439,12 +1381,10 @@ TOR002	chi è silvano
 TOI006	no era un posto dove andavamo una volta silvano era è stato il suo migliore amico per un po'
 TOR002	sì
 TOR002	poi han litigato
-TOR001	
 TOR002	quest'estate non siamo più andati dalla signora
 TOR002	mh
 TOI006	l'ho vista l'altro giorno ti ho mandato anche la foto
 TOR002	sì
-TOR001	
 TOR002	ma chi era quella a cui hai fatto una foto in pullman per mandargliela
 TOI006	e diglielo spiegaglielo chi era
 TOR001	praticamente a volte andavamo in questo chiosco no
@@ -1454,25 +1394,17 @@ TOI006	in questo chiosco spesso eravamo io lui e marco
 TOR001	che mangiavamo patatine e bevevamo birra
 TOI006	mh
 TOR002	principalmente era quella la serata cioè noi uscivamo
-TOR001	
-TOI006	
 TOR001	con mille aspettative e poi invece ci
-TOR002	
 TOR002	con mille euro mai
-TOR001	
-TOI006	
 TOI006	quei pochi quei pochi spiccioli li spendevamo così
 TOR002	però lì c'era il giornale io leggevo la stampa leggevo torino cronaca
 TOI006	una volta c'ha messo pure un film in tv ci siam guardati il film in tv
 TOR001	sì una sera avevo anche il telecomando
-TOI006	
 TOI006	comunque niente arrivev~
 TOI006	si presentava tutte le sere questa signora
 TOR001	goffa
-TOI006	
 TOI006	e un po' matta
 TOR001	e diciamo ci scherzava~ ci ridevamo un po' sopra anche perché era una che borbottava un po'
-TOI006	
 TOR002	senza che nessuno gli dava conto
 TOI006	si metteva la giacca lì se gliela spostavi si incazzava cioè
 TOI006	si incazzava
@@ -1481,8 +1413,6 @@ TOI006	insomma c'era una storia dentro questi
 TOI006	poi questa iniziava con questa signora che gestiva sto chiosco
 TOI006	ti tirava fuori un pippone
 TOR001	i cazzi suoi che a questa non gliene fregava nie~ ogni volta che si andava diceva io non ne posso più di questa
-TOR001	
-TOI006	
 TOR001	quindi ecco quello è
 TOI006	ma dalla signora veniva questa
 TOR001	sì sì
@@ -1490,12 +1420,9 @@ TOR001	ah okay
 TOR001	va bene segui il calcio
 TOI006	abbiamo quasi finito eh
 TOR001	sì
-TOI006	
 TOR001	lo seguo attiva~ molto attivamente il calcio
 TOI006	che squadra tifi
 TOR002	il perugia
-TOR001	
-TOR001	
 TOI006	come mai
 ???	perché sono qua~ da quando sono andato in curva nord mi sono innamorato del tifo dei colori
 TOI006	cioè togli anche il fatto che è uno juventino venduto perché prima tifava juve
@@ -1516,8 +1443,6 @@ TOR002	ah è vero
 TOR002	è vero
 TOI006	però trezeguet ce l'avevi
 TOR002	e me l'ha regalata mio zio perché lavorava per i sony
-TOR001	
-TOI006	
 ???	aveva dei buoni prezzi all'epoca c'era la sony
 TOR001	comunque uno juventino venduto
 TOI006	eh quindi
@@ -1541,9 +1466,7 @@ TOI006	cioè ti ricordi quando
 TOR001	cioè è come l'amore a prima vista sì sì
 TOI006	okay va bene che partita era
 TOR001	era perugia ascoli tra l'altro
-???	
 TOR002	bella
-TOI006	
 TOI006	molto no scusa eh non so se era perugia torino
 TOI006	o perugia
 TOR002	sai che non so se sono indeciso sul dirlo
@@ -1562,10 +1485,8 @@ TOI006	non siam passati
 TOI006	però la prima prima partita dovrebbe essere stata juve ascoli
 TOR001	cioè perugia ascoli
 TOR001	che lapsus
-???	
 ???	che lapsus
 ???	di certo la juve contro l'ascoli
-TOR001	
 TOI006	e in che in che serie sta il perugia
 ???	adesso in serie bi
 TOR001	bi
@@ -1589,31 +1510,24 @@ TOI006	e lui fa non c'è la maglia del perugia
 ???	sai che ha detto non c'ho whatsapp adesso ho visto che l'ha messo
 TOI006	ah sì
 TOR001	mo gli scrivo antò forza grifo
-TOI006	
 TOR002	e allora è passato questo fa no e sì c'era quella del manchester e il bambino fa sì come quella del perugia tipo e gli ho detto
 TOI006	mh mh
 ???	forza gri~
 ???	no
 TOR001	il bambino voleva la maglia del milan o dell'inter e il padre gli fa no guarda che le maglie serie sono quelle del perugia
-TOR001	
-TOR002	
 ???	mh
 TOR001	per nazione
-???	
 TOR001	come confondere i bambini fin da piccoli
-TOR002	
 TOI006	vedi lui che va dal bambino si forza gri~ il bambino si spaventa scappa
 ???	no mi è capitato qualche anno fa di incontrare una famiglia ternana
 TOI006	ah di cade
 TOI006	su un tram qua e mi han chiesto un'informazione
 TOR001	e io non gliel'ho data
-TOI006	
 TOI006	io gli ho da~ eh parlavo e gli ho detto
 ???	poi avevo visto il bambino che c'aveva i colori della ternana ma non ci volevo credere ho detto ah ma siete umbri di dove ah di terni a io gli ho fatto ah io tifo grifo tifo perugia gli ho detto allora
 TOI006	e il bambino gli ha fatto
 TOR002	praticamente sì
 TOR001	mh mh
-TOI006	
 TOR002	abbiamo iniziato a a scontrarci un attimo il padre fa allora
 TOI006	col bambino
 TOR001	sì anche col bambino comunque il padre mi fa fai finta che non ci siamo mai conosciuti
@@ -1621,12 +1535,10 @@ TOI006	eh madonna
 ???	quando sono sceso e ho detto allora arrivederci e buon proseguimento
 TOI006	sì
 TOR002	e faccio e buon campionato visto che loro erano in serie bi tanto torneremo
-TOI006	
 TOR001	no no c'è proprio un odio
 TOI006	gente che tifa ternana sul pullman
 ???	c'è proprio un odio
 TOR002	e poi sì il terni è una squadra interessante
-TOR002	
 ???	com'è i colori rosso verde
 TOR002	verde e rosso sì
 TOI006	aspetta invece l'avellinoo è bianco verde
@@ -1638,7 +1550,6 @@ TOI006	e vai sempre in curva o anche solo in curva
 TOI006	sì sì sempre eh certo
 TOR002	a bologna ho fatto questioni che mi volevano mandare nei distinti
 TOR001	questioni
-TOR001	
 TOI006	preferisci guardare le partite allo stadio o
 TOR001	sì
 TOR001	sì
@@ -1650,7 +1561,6 @@ TOR001	okay si vive meglio ma non si vede la partita è ve~ vero però
 TOI006	eh mh
 TOI006	eh lì in tv a casa se ti incazzi mi ha visto lui ti ricordi che siam passati in serie bi
 TOR001	sono andato sul balcone di teo sì
-TOI006	
 TOI006	allo stadio
 TOR001	tutti capiscono perché stai lì
 TOI006	e certo
@@ -1661,7 +1571,6 @@ TOR001	no ridevo per eh ricordavo la scena
 TOR001	pensando a lui sul balcone che urla ah ho capito
 TOR002	ti piacciono
 TOR001	tutta la gente pazza a fianco
-TOR001	
 TOI006	ti piace il cinema
 TOR001	sì
 TOI006	che tipo di film guardi
@@ -1672,8 +1581,6 @@ TOI006	mh mh
 TOR001	comici
 TOI006	e tipo quali sono i tuoi film preferiti
 TOR002	beh il ragazzo di campagna
-TOR001	
-TOI006	
 TOR001	pozzetto sì mi piace carlo verdone di italiani troisi
 TOI006	mh mh mh
 TOI006	eh
@@ -1687,26 +1594,17 @@ TOI006	cioè
 TOR001	cioè quelli su roma spara milano risponde
 TOI006	ah che fighi
 TOR002	a me quellii ne ho guarda là sopra c'ho
-TOI006	
 TOR002	c'ho lo speciale c'ho dei cofanetti di
-TOI006	
 TOR001	speciale delle colonne sonore
-TOI006	
 TOR002	c'è sia tipo er monnezza sono io
-TOR001	
-TOI006	
 TOR002	ci sono le colonne sonore di franco micalizzi
-TOR001	
-TOI006	
 TOR001	e armando trovajoli cioè no a me queste cose mi piacciono un sacco
 TOI006	io avevo visto milano odia la polizia non può sparare
 TOR001	pesante
 TOI006	quello è bello a me era piaciuto un sacco
 TOR001	ah ma quello io mi guardo anche degli sketch al mattino quando mi sveglio
 TOR001	siamo andati tipo dieci giorni fa a vedere
-TOI006	
 TOR002	no no io a me
-???	
 TOI006	beh così
 TOI006	no vabbè sai
 TOR001	però gli faccio vedere
@@ -1733,8 +1631,6 @@ TOI006	ad arese
 ???	non c'è tanta
 ???	cioè tipo quei negozi tipo zara quei negozi dove in genere vado di solito
 ???	non sono tanto riforniti
-TOR002	
-TOR001	
 TOI006	c'è poca roba
 ???	fammi mettere a posto
 TOR001	sì c'è ci sono tanti negozi ma all'interno sono non sono riforniti come qui nel centro delle città

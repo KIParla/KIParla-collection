@@ -7,7 +7,6 @@ TOI002	o altre lingue
 TOI002	città di nascita del padre
 TOI003	questa è una domanda un po' infame
 TOR001	io metto sì
-TOI002	
 TOI003	ma che cosa
 TOI002	conosci dialetti italiani xx altre lingue
 TOI003	che lingue conosci
@@ -15,7 +14,6 @@ TOI002	eh
 TOI003	che lingue conosci
 TOI002	vabbè l'inglese quando vado all'estero parlo eh mi faccio capire
 TOR001	ma vaffanculo
-TOI002	
 TOI003	anch'io mi faccio capire cazzo vuol dire xxxxx
 TOR001	eh sì per gesti
 TOR002	eh quattro
@@ -28,21 +26,13 @@ TOI003	quanti ne abbiamo oggi tre
 TOR001	quanti ne abbiamo oggi
 TOI003	quattro
 TOR001	eh io in vacanza perdo tutto
-TOI003	
 TOI003	è diciotto
 TOR001	xx
-TOR001	
 TOI002	grazie
 TOR001	ma è un'intervista doppia o singola
 TOI002	doppia doppia la fate insieme
 TOI003	tipo le iene
-TOR001	
-TOI003	
 TOR003	chi è più bravo a letto lui
-TOI002	
-TOR002	
-TOR001	
-TOI003	
 TOI002	eh devo crocettare gli ultimi due quadratini giusto
 TOR001	tutto sì crocetta e firma dai xx minchia non finiamo più
 TOI002	vai vai
@@ -67,11 +57,6 @@ TOR001	quattro anni
 TOI002	ah caspita un sacco
 TOI003	dodici
 TOR003	un sacco
-TOI003	
-TOI002	
-TOR002	
-TOR001	
-TOI003	
 TOR001	x
 TOI003	in cosa consiste il lavoro cioè cosa fate
 TOR001	allora noi produciamo bulloneria e viteria speciale
@@ -102,7 +87,6 @@ TOR001	mh mh
 TOI002	okay
 TOR001	la mia mansione
 TOR003	sì
-TOI003	
 TOI002	ecco qua è bello
 TOR001	no io gestisco cantieri sto sui cantieri noi siamo un'azienda familiare
 TOR001	okay
@@ -110,18 +94,11 @@ TOI002	okay
 TOI003	mio cugino è in un ufficio e segue la parte amministrativa e io s~ s~ gestisco i cantieri
 TOR001	è nato con la camicia praticamente
 TOR001	okay
-TOR003	
 TOI002	però
 TOI003	il t~ il tempo lo passo più che altro al bar no
 TOI002	acqua gasata o xx
-TOR001	
-TOI003	
 TOI003	fa una bellissima vita
 TOR003	nella prossima vita vorrei nascere mario rossi
-TOI002	
-TOR002	
-TOR001	
-TOR001	
 TOI003	eh quindi lavori in proprio o sei dipendente in realtà l'avete già risposto
 TOR001	mh
 TOI003	tu sei dipendente tu invece lavori in proprio okay
@@ -147,10 +124,6 @@ TOR002	okay va bene
 TOI003	però non sei di quelli che fanno le perizie per l'assicurazione
 TOI003	mh magari
 TOR003	sai quanta corruzione sai quanti soldi no purtroppo no hanno provato a corrompermi anche lì però
-TOI002	
-TOR002	
-TOR001	
-TOI003	
 TOR002	avevi era più quello che che perdevi che quello che guadagnavi perché poi venivano anche gli ispettori della regione
 TOI003	ah
 TOI003	eh cammuffati da da un privato
@@ -174,15 +147,8 @@ TOI003	poi ovviamente dopo
 TOR003	dopo anni di magari di avvocati e processi magari però sei rovinato
 TOI003	nel dubbio
 TOR003	meglio andare in messico
-TOI002	
-TOR002	
-TOR001	
-TOR001	
 TOR001	nel dubbio meglio il messico
 TOI002	tu invece hai sempre fatto lo stesso lavoro
 TOR003	eh io purtroppo un anno ho lavorato
-TOR002	
-TOR001	
-TOI002	
 TOR001	no ho fatto mh pavimenti in resina da operaio in una ditta che conoscevamo
 TOR001	okay

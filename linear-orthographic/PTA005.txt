@@ -1,4 +1,3 @@
-TOR002	
 TOI005	ma guarda qua c'è da sparecchiare
 ???	dai dagli una mano al xx dai una mano xx
 TOR001	no sto qua seduta
@@ -9,7 +8,6 @@ TOI005	dai vabbè
 ???	no
 TOI005	no mi siedo qua
 TOR001	ti posso dire una cosa è fastidiosa
-TOR001	
 ???	va bene
 TOI005	ma no stefano piuttosto
 TOI005	sta lì a fissarmi e a rompermi xx
@@ -22,7 +20,6 @@ TOI005	ho quasi fini~
 TOR001	ah ma è già attivo ciao
 TOI005	l'ho acceso adesso
 TOR001	pubblico
-TOI005	
 TOR001	sono io francesco arancioni
 TOI005	aspetta fra~ ascolta ehi francesco
 TOI005	prova prova
@@ -30,15 +27,11 @@ TOR001	prova prova
 TOR001	quel pentolino lì s'era bruciata una mela
 TOI005	lascialo a mollo
 TOR001	allora il cortisone fa un brutto effetto
-TOR002	
 TOI005	si sente si sente che io sparecchio
 TOR002	ho bevuto un pochino
 TOR001	xxx
-TOR002	
-TOR001	
 TOI005	allora
 TOR001	stoppa e cancella
-???	
 TOI005	sì sì
 TOR001	quella puoi tenerla come ricordo
 TOR002	la tengo come suoneria del cellulare allora
@@ -47,9 +40,6 @@ TOI005	dio boia
 TOR001	anche
 TOI005	i primi venti secondi li cancelliamo magari
 TOR001	siamo siamo amici io e lui eh siamo amici
-???	
-TOR002	
-TOR001	
 TOI005	allora che lavoro fai
 TOI005	allora faccio tra virgolette l'operaio ma
 TOR001	di famiglia abbiamo un'autodemolizione quindi
@@ -83,7 +73,6 @@ TOI005	mh mh
 TOR001	avevo smesso di lavora~ di studiare
 TOI005	mh mh
 TOR001	quindi mio padre m'ha detto scegli
-TOI005	
 TOI005	quindi mi ha lasciato far le stesse ore che faceva mio fratello
 TOI005	lui di studio io di lavoro
 TOR001	poi quando lui è mancato io ho iniziato a lavorare
@@ -92,14 +81,12 @@ TOR001	tempo pieno
 TOI005	okay
 TOR001	quindi insomma un po' di tempo
 TOI005	okay beh sì nel duemilaotto
-TOR001	
 TOR001	ehm
 TOI005	quindi come cioè com'è organizzata la tua giornata quanto tempo passi a lavoro
 TOR001	beh diciamo tutto il giorno
 TOI005	okay
 TOI005	cioè vabbè mi alzo oramai
 TOR001	dalle sette alle sette e mezza in base a come sono stanco
-TOI005	
 TOR001	però alle otto esco di casa otto e mezzo il capannone è aperto
 TOI005	okay
 TOI005	poi
@@ -124,13 +111,9 @@ TOI005	ma non è così è di famiglia e quindi
 TOR001	non è tutto tuo
 TOR002	okay
 TOR001	il peggior dipendente possibile
-TOI005	
 TOR002	possiamo anche vederla in quella maniera
-TOR001	
-TOI005	
 ???	cioè non hai non hai i pregi del dipendente
 TOR001	sei dipendente ma hai tutti i cazzi dell'imprenditore
-TOI005	
 TOI005	pieno pieno poi quando lavori col padre
 TOI005	è fantastico
 TOR001	quando lavori con la famiglia è bellissimo
@@ -151,7 +134,6 @@ TOI005	è quello il fa~ sì
 TOR001	sì quindi va bene
 TOI005	beh com'è lavorare con tuo padre
 TOR001	eh vabbè è il padre
-TOI005	
 TOI005	poi quando è un padre che viaggia a mille
 TOI005	che viaggia non
 TOI005	ah tanto è difficile cioè
@@ -170,7 +152,6 @@ TOI005	quindi devi stare ai suoi ritmi
 TOI005	eh poi vabbè mio padre oltre a quello fa anche
 TOI005	ha aperto anche un locale dove ci lavora dentro quindi lavora venti ore al giorno quindi sai
 TOR001	va verso i sessant'anni ma niente lo ferma
-TOI005	
 TOI005	non è così facile certe volte
 TOR001	però puoi solo che stimarlo quindi
 TOI005	mh mh mh mh
@@ -216,7 +197,6 @@ TOI005	vabbè a me sarebbe piaciuto fare altre cose
 TOI005	perché boh sono uno sportivo volevo fare altre co~ però
 TOR001	è il mio lavoro e vado avan~ tanto dopo dieci anni hai non è che puoi fare
 TOR001	mh mh mh mh
-TOR001	
 TOR001	e potendo scegliere cosa avresti voluto fare
 TOI005	era la domanda dopo in parte mi hai risposto
 TOI005	e quindi vabbè eh vabbè avessi studia~ a beh non lo so nel senso
@@ -275,7 +255,6 @@ TOR001	no non te lo so dire
 TOI005	mh
 TOI005	non te lo so dire per una questione io sono il classico che ti dice
 TOR001	si può basare su quello sulle dicerie
-TOI005	
 TOI005	ah in germa~ come parlavam prima ah in germania ti pagano meglio ma alla fine spendi
 TOR001	spendi tanto allora ti dico minchia se è così
 TOI005	mh mh mh mh
@@ -406,7 +385,6 @@ TOR001	ho la telecom a fianco a me
 TOI005	mh mh
 TOI005	fa ridere
 TOR001	cioè i periodi che c'è una vacanza il ponte inizia quattro giorni prima
-TOI005	
 TOI005	senza macchine più nella telecom
 TOR001	la gente non c'è la via diventa vuota
 TOI005	mh mh mh mh
@@ -607,7 +585,6 @@ TOI005	mh mh mh mh
 TOR001	cioè l'unico che gli può dare i comandi è mio padre
 TOI005	mh mh mh mh
 TOR001	tutto il resto del mondo cioè e poi lui è proprio un raga~ un uomo rumeno di quelli duri
-TOI005	
 TOI005	uno che a un tempo
 TOI005	un po' di anni fa adesso boh ha avuto xx e quindi si è un po' rincoglionito però
 TOR001	è un grande io e lui ci siam scannati
@@ -616,7 +593,6 @@ TOR001	quando sei p~ pivello ma tutt'ora sei permaloso
 TOI005	certo
 TOI005	con mio padre è difficile anche con mio padre
 TOR001	lui ti d~ dà del permaloso a me ma lui è il primo a esser permaloso
-TOI005	
 TOI005	son tante cose che però su altri lavori
 TOI005	ti posso dire lavorare con la famiglia
 TOR001	con gli operai che tu sei il niente
@@ -648,7 +624,6 @@ TOR001	quello lo devo mettere in primis io devo ringraziare una persona come mio
 TOI005	mh mh mh mh
 TOR001	varia troppo da chi hai come capo
 TOI005	certo
-TOI005	
 TOI005	però tutt'ora i suoi cazziatoni comunque ogni tot mi svegliano
 TOI005	perché siamo in un limbo dove
 TOI005	c'è pochi soldi non sai come far le cose
@@ -656,10 +631,8 @@ TOR001	vorresti magari ingrandirti o cambiare delle cose ma tanto non lo puoi fa
 TOI005	mh mh mh mh
 TOI005	poi ti addormenti e comunque sei giovane
 TOR001	le passioni delle volte prevalgono sulla voglia di far certe cose
-TOI005	
 TOI005	ne vai un po' delle volte con la testa invece dovresti impegnarti di più
 TOR001	sul lavoro ti ribecchi i cazziatoni
-TOI005	
 TOI005	ti portano a spronare cioè
 TOR001	eh chi se hai a fianco uno così puoi andare avan~
 TOI005	mh mh mh mh
@@ -697,7 +670,6 @@ TOI005	col suo carattere cerca di tenere tutti uniti
 TOI005	litigando eh però siam tutti là
 TOR001	lui è una calamita a me lui è un personal chi dovresti intervistare è lui
 TOR001	mh mh mh mh
-TOI005	
 TOI005	è una calamita
 TOI005	una calamita per la gente una calamita c'ha il suo carattere poi
 TOR001	anche fisicamente imponente quindi non lo so ha proprio quell'atteggiamento che attrae la gente
@@ -705,18 +677,14 @@ TOI005	mh mh mh mh
 TOI005	lui è ancora tutt'ora
 TOI005	che se mi sente dire la parolaccia più del dovuto mi cazzia
 TOR001	e stai zitto
-TOI005	
 TOI005	non ti preoccupare che stai zitto
 TOI005	perché
 TOR001	perché è così che ti devo dire
 TOI005	beh però impari un sacco a stare con una persona così no
 TOR001	sì impari ad avere il caratteraccio che ha lui
-TOI005	
 TOR001	impari anche quello eh
-TOI005	
 TOI005	eh non lo so lo vedrò tra qualche anno
 TOR001	tutti mi dico~ che più vado avanti più gli assomiglio
-TOI005	
 TOR001	boh non lo so
 TOR001	beh
 TOI005	ne parli molto bene quindi dovrebbe essere una cosa positiva
@@ -748,7 +716,6 @@ TOR001	mh mh
 TOI005	mh mh mh mh
 TOI005	cioè
 TOR001	non lo son troppi pensieri che xx forse lo psicologo può aiutarmi
-TOR001	
 TOI005	allora in che zona di torino vivi
 TOR001	qua sono sì sì sì via
 TOI005	qua dietro
@@ -776,11 +743,9 @@ TOI005	mh mh mh
 TOI005	lo posso proprio dire
 TOI005	per fortuna ho una sorella che
 TOR001	è è proprio la classica matriarca che xx tiene tutto
-TOI005	
 TOI005	poi quando è mancato mio fratello guai a chi mi potesse dire no qualcosa
 TOI005	e anche lì sono stati periodi difficili
 TOR001	se io a lei dicevo quella persona non mi piace a lei non piaceva
-TOI005	
 TOI005	non esiste
 TOI005	xx ma sai è tutto un insieme di ro~
 TOI005	però bene o male siam sempre stati uniti
@@ -793,7 +758,6 @@ TOI005	poi ho fatto vabbè le medie
 TOI005	le medie con mio fratello già classi diverse perché io in prima media son stato segato
 TOI005	beh in quella classe c'han segato in sette
 TOR001	e non siamo non era proprio una classe
-TOI005	
 TOI005	dei migliori eh
 TOI005	quindi
 TOR001	allora lui è andato avanti lui era il classico genio
@@ -804,15 +768,12 @@ TOI005	lui era proprio un duro eh era proprio
 TOI005	però era il classico matematica queste cose ma nean~
 TOI005	le masticava di suo
 TOR001	io invece non c'avevo voglia di fa~ un cazzo mi piaceva disegnare
-TOI005	
 TOI005	mi piaceva andare a scuola io mi son sempre divertito
 TOR001	però non ascoltavo niente
 TOI005	mh
 TOI005	io non avevo problemi coi professori eh
 TOR001	io ero sempre educato non scherzare wei eh
-TOI005	
 TOR001	una volta che sono stato maleducato hanno chiamato i miei
-TOI005	
 TOI005	minchia no poi non mi succedeva niente però tanto
 TOI005	e~ era proprio la figuraccia che face~
 TOI005	quindi ti dico sotto quell'aspetto a me piaceva andare a scuola
@@ -826,12 +787,10 @@ TOI005	son bravo
 TOI005	copio bene le cose no
 TOI005	disegnato un animale
 TOR001	ma disegnato a certa maniera ho provato a disegnare la gioconda
-TOI005	
 TOI005	posso garantire che disegnato con una matita su un foglio
 TOI005	è andata proprio bene
 TOI005	però sai son quelle cose
 TOR001	mi son spinto un po' olt~
-TOI005	
 TOI005	no forse avrei dovuto intraprendere ecco quello
 TOR001	se dovevo dirti c~ mi rilassa
 TOI005	mh mh mh mh
@@ -839,7 +798,6 @@ TOI005	se tu mi metti a disegnare
 TOI005	tipo mi metti a disegnare tivù accesa che va per i fatti suoi
 TOI005	nessuno mi deve rompere eh
 TOR001	io vado in un altro mondo
-TOI005	
 TOR001	dimentico la giornata non lo so
 TOI005	mh mh mh mh
 TOR001	però non lo faccio mai
@@ -857,7 +815,6 @@ TOI005	sì sì deve venir a te
 TOI005	disegnare
 TOR001	è un'arte xxx ti metti lì xx
 TOR001	mh mh mh
-TOR001	
 TOI005	quindi dicevi che prima vivevi verso lingotto
 TOR001	sì
 TOI005	e poi dopo ti sei spostato direttamente qua
@@ -894,7 +851,6 @@ TOI005	quand'è che ti sei tras~ quand'è che vi siete trasferiti xx
 ???	eh sei mesi fa più o meno
 TOI005	quattro esattamente
 TOR001	maggio primo
-TOI005	
 TOI005	no ma me lo ricordo primo maggio
 TOR001	xx
 TOR001	okay
@@ -998,9 +954,7 @@ TOI005	e adesso è un incubo camminare che continuano a
 TOI005	e ve lo dico ci passo tutti i giorni
 TOI005	voglion tirare giù un ponte enorme
 TOR002	e ogni giorno ci lavoran cinque persone
-TOI005	
 TOR001	e ci sono venti vigili per gestire il traffico malamente
-TOR002	
 TOI005	ma ancora adesso
 ???	ancora adesso fra ma un anno ma lasciamo stare
 TOI005	hanno appena iniziato
@@ -1009,7 +963,6 @@ TOI005	che era la zona più industriale di torino
 TOI005	cosa che l'han fatta decadere anche quella
 TOI005	cosa che i periodi che ti dicevo che stavamo bene
 TOI005	quella zona era
-TOI005	
 TOI005	non lo so cioè lì passava il mondo intero
 TOR001	sul lato lavorativo tangenziale camion
 TOI005	mh mh mh
@@ -1038,7 +991,6 @@ TOI005	mh mh mh mh
 ???	invece di via di nanni il parcheggio
 TOI005	il parcheggio
 ???	ah beh via di nanni lasciam perde~
-TOR002	
 TOI005	non è vero non parcheggi lì
 TOI005	okay non c'è parcheggio però c'ha anche la sua motivazione
 TOI005	cosa ti devo dire via di nanni però cos~ cos'ha di bello
@@ -1091,7 +1043,6 @@ TOI005	io tutti ho gli zii che son di via frejus
 TOI005	son cresciuto in via frejus perché ho i cugini così
 TOI005	è tutto nei negozi lavorano perché si conoscon tutti è proprio
 TOR001	era la via dei pugliesi quella
-TOI005	
 TOR002	pugliese
 ???	non è vero
 TOR002	beh ma anche via di na~ è tutta zona campana
@@ -1123,9 +1074,7 @@ TOR001	cioè io scendo casa c'ho tutto
 TOR001	mh mh mh mh
 TOR001	e quindi come miglioreresti la tua zona
 TOR001	perché prima come dei problemi mi hai detto solo del cavalcavia
-TOI005	
 TOR002	vabbè ma quello è dell'altra zona
-TOR001	
 TOI005	ah già hai ragione
 TOR001	eh migliorare ma secondo me
 TOI005	ma vuoi un bicchiere scusami
@@ -1133,7 +1082,6 @@ TOR002	no no lascia volevo solo
 TOR001	ma abbiam finito x lascialo andare
 TOI005	c'è v~ volete una birra
 ???	no se la vuoi aprire la bevo poi
-TOR002	
 TOI005	a questo punto
 TOR001	già che ci siamo
 TOR002	xxxxx scusa
@@ -1141,8 +1089,6 @@ TOR001	eh
 TOR002	dico siam qua beviamoci una birra
 TOI005	aprila l'ho presa apposta
 ???	poi la peroni dai ragazzi
-TOR001	
-TOI005	
 TOR002	quella non registriamo
 TOI005	me l'ha fatta ricomprare eh
 TOR002	sì
@@ -1150,7 +1096,6 @@ TOR002	sono usci~ cioè era in frigo sono uscito l'altra sera
 TOR001	e l'ho portata a casa di edo xx mangiato
 TOR001	perché lui no perché compriamo le birre lui le porta sempre fuori
 TOI005	e rimaniamo sempre senza ho detto portale ma ricomprale
-TOR002	
 TOR001	e adesso la vai a ricomprare la birra
 ???	vai a cagare va
 ???	beh comunque noi da quando viviamo insieme alla fine
@@ -1196,19 +1141,15 @@ TOI005	cin
 TOR001	ci~ ci~ ci~
 TOR002	perché fai sempre la faccia da xx
 TOR001	xx
-???	
 TOR002	xxx
 ???	perché festeggio sempre
 TOI005	quindi cosa miglioreresti
 ???	non iniziare tornatene seduta là
-TOI005	
 TOI005	ecco lei
 TOR001	si può mettere lei
-TOI005	
 TOI005	che in questi casi
 TOI005	n~ non siamo compatibili
 ???	fra portamela mia
-TOR001	
 TOI005	allora trovi tutto nella tua zona nel tuo quartiere o devi spostarti spesso
 TOR001	no vabbè lì sotto abbastanza cioè via di nanni fo~
 TOI005	sì
@@ -1219,21 +1160,16 @@ TOI005	mh mh mh mh
 TOI005	vuoi il ristorantino c'è qualcosa
 ???	xxx no
 TOI005	xxx
-TOR001	
-TOR001	
 ???	cosa
 TOI005	il lavasciuga abbiamo
-TOI005	
 TOR001	lei ha scoperto la lavasciuga per la mia roba di lavoro è fantastica
 ???	cos'ha scoperto fichissimo
-TOI005	
 TOI005	eh
 TOR002	però
 ???	ma quello a gettoni quello grosso
 TOI005	sì sì
 TOR001	sì sì
 TOR002	beh figo aver la roba già asciugata
-TOI005	
 TOR001	eh ma soprattutto per la mia roba di lavoro che lovi~ rovina la lavatrice vabbè
 TOI005	la lavatrice
 TOI005	però ti devo dire ecco
@@ -1269,11 +1205,8 @@ TOI005	no no quello sì
 TOR002	la pizzeria
 ???	il negozio di internet
 TOI005	sì quello dove avevo fatto xx è sotto casa
-TOR001	
-???	
 TOR002	le pompe funebri abbiamo
 ???	beh è un bel xxxx
-TOR002	
 TOI005	scusa
 TOI005	no no ti dico guarda c'è il bar
 TOI005	è forte questo
@@ -1288,14 +1221,12 @@ TOI005	entran là loro li conoscon tutti di nome
 TOI005	però hai la qualità
 ???	ma se provi a mangiar due cose prendi una brioche spendi sette euro
 TOR001	lì costa tantissimo
-TOI005	
 TOI005	però ci va un botto di gente sono il primo ad andare perché
 TOR001	fanno quello che ti dicevo prima
 TOI005	mh mh mh mh
 TOI005	sono educati
 TOI005	ti sorridono
 TOR001	oramai entri il solito
-TOI005	
 TOR001	sembran cavolate
 TOI005	mh mh mh mh
 TOI005	però alla gente piace e lo vedo
@@ -1315,14 +1246,12 @@ TOR001	quello devo dirlo
 TOI005	mh mh mh
 TOI005	però entro là
 TOR001	c'è una commessa che oramai mi conosce
-TOI005	
 TOI005	sa come prendermi
 TOI005	mi dà quello che mi sta bene
 TOR001	io non perdo tempo
 TOI005	mh mh mh
 TOI005	poi lo prendo eh piace
 TOR001	boh pago e me ne vado
-TOR001	
 TOI005	dovresti andare anche tu eh
 TOR001	anche
 TOI005	sì portatelo dietro qualche volta
@@ -1337,7 +1266,6 @@ TOI005	vai davanti e c'è
 ???	vabbè ma c'è il cinese che fa scassare
 TOI005	xxx
 TOR002	poi hai il bar del cinese dove però ha una sua clientela
-TOI005	
 TOI005	attenzione vedi proprio
 TOI005	ecco in questo caso ora non è proprio fare il classico discorso
 TOI005	tu vai in questo bar
@@ -1383,36 +1311,25 @@ TOI005	stavam litigando su che film guardare
 TOI005	perché abbiamo gusti diversi
 TOI005	o passiamo con la mac~
 TOR001	guardiamo questo non c'entrava niente con gli altri
-TOI005	
 TOI005	parcheggiamo andiamo a piedi noi in mezz~ ah
 ???	centomila vecchi vabbè
-TOI005	
 ???	no a prescindere dopo un po' c'è stato un odore in quella sala che
 TOR001	sì
-TOR002	
-TOI005	
 TOI005	ma non è catti~ non è cattiveria
 ???	prima o poi anche noi
-TOI005	
 TOI005	involontariamente puzzeremo in quella maniera ma è giusto
 ???	poi c'era anche chi non si lavava perché la realtà dei fatti è quella
-TOI005	
 TOI005	però c'era proprio da
 TOR002	il vecchietto che ha iniziato a russare dal primo minuto
-TOI005	
 ???	la vecchietta che gli squilla il telefono
 ???	il cellulare
 TOI005	xxx
 TOI005	la vedi quando si è alzata dalla sedia
 TOI005	ma non lo dico per raccontare così
 ???	si è alzata così
-TOI005	
 TOR001	ingobbita
-TOI005	
 TOI005	continuava a squilla~ sotte~ xx non sapeva come sp~ e il mari~
 ???	spegnilo spegnilo speg~ gne~
-TOR001	
-TOI005	
 TOI005	e camminava non sapeva spegnerlo
 TOI005	cioè ma proprio
 TOI005	chi se la parlava per due ore
@@ -1501,14 +1418,12 @@ TOI005	mi raccontava mio nonno e mio zio questo qua che invece lui è ancora viv
 TOI005	è un mio prozio è una bomba eh lui
 TOI005	sta invecchiando ma viaggia come un treno ancora adesso
 TOR002	non sa bene l'italiano però
-TOI005	
 TOI005	particola~
 TOR001	lui è il pugliese che però ha imparato a sciare
 TOI005	che figo
 ???	si è comprato la ca~
 TOI005	xxxx
 TOR001	va
-TOI005	
 TOI005	lui è un amante dello sci si è comprato la casa
 ???	la casa in montagna tu devi capire che lui lavorava in fabbrica
 TOI005	la bella casina
@@ -1563,7 +1478,6 @@ TOI005	vero e proprio quindi a quei tempi
 TOI005	sai la lavorav~ eh
 TOI005	tu entravi là che l'uomo doveva essere a casa sua
 TOR001	parlare di donne fumarsi la sigaretta
-TOI005	
 TOR001	però c'aveva quel fascino che
 TOI005	certo
 TOI005	non lo so creava che forse quella zona ce l'aveva
@@ -1588,7 +1502,6 @@ TOR001	mio nonno era veneto e mia nonna emiliana
 TOR001	ah okay
 TOI005	ah okay okay
 TOR001	emiliana doc
-TOI005	
 TOR001	di quelle che l'hanno obbligata a sposarsi
 TOI005	okay
 TOI005	a diciassette anni non ne voleva sapere
@@ -1624,10 +1537,8 @@ TOR001	in questa età siamo un po' più cupi
 TOI005	mh mh mh mh mh
 TOI005	poi non lo so mh
 TOR001	magari sono io che
-???	
 TOI005	vabbè dai hai e~ esteso la domanda
 ???	si ma non so il perché
-TOI005	
 TOR001	comunque
 TOI005	allora come ti muovi in città abitualmente
 TOI005	macchina tutta la vita
@@ -1638,7 +1549,6 @@ TOI005	tanto avevo quelli poi mi dive~ mi piaceva
 TOI005	però
 TOR001	adesso c'ho la macchina da a~ lascia stare
 TOR001	un'altra vita
-TOI005	
 TOI005	senza macchina
 TOR001	eh
 TOR001	allora torino secondo te è cambiata molto dagli ultimi anni
@@ -1713,18 +1623,11 @@ TOR001	ma
 TOI005	a voglia
 TOI005	come ti dicevo prima la città di torino
 TOI005	la differenza che ha è che
-TOR001	
 TOR002	mi sa che ti ho fatto addormentare la gamba
 TOI005	si è tipo addormentata
-TOR001	
 TOI005	sì
 TOR001	infatti l'ho visto con un' espressione di
-TOR002	
-TOI005	
 TOR002	ho detto a questo gli sta venendo un ictus
-TOR001	
-TOR001	
-TOI005	
 TOI005	minchia ma che cazzo s~ scusa fra
 TOR001	beh totalmente in negativo
 TOI005	eh perché molti dicono che tipo dopo le olimpiadi sia migliorata molto
@@ -1745,7 +1648,6 @@ TOR001	e ve lo dico perché son cresciuto anche in quella zona cioè racchiude i
 ???	mh mh mh
 TOI005	piena di miei clienti xx
 TOR001	racchiude
-TOI005	
 TOR002	quella racchiude racchiude la la mia zona
 TOI005	ma xx son case occupate cos'è
 ???	sono occupate
@@ -1832,7 +1734,6 @@ TOI005	poi c'è chi può crederci e chi no
 TOR001	può chi accettarlo però la realtà dei fatti è anche quella
 TOI005	mh mh mh mh
 TOR001	troppa buricocrazia troppo però comunque non c'entra x
-TOI005	
 TOR001	vabbè
 TOR001	no però tipo in centro non lo so eh cioè mh
 TOI005	capisco quello che dici che è xx
@@ -2041,7 +1942,6 @@ TOR001	poi son stata male tutto il giorno dopo
 TOI005	molto bene
 ???	eh eh però è quello che ti voglio dire
 TOR001	però sappilo se hai una smart card
-TOI005	
 TOR001	ecco non c'è neanche la qualità oramai
 TOI005	no no è vero hai ragione
 TOR001	xxx cioè fa schifo eh
@@ -2059,8 +1959,6 @@ TOR002	ah infatti dicevo
 TOR001	eravamo io ugo marco e alberto
 TOR002	minchia trenta euro a testa o presente me li sarei ricordati
 TOR001	no no
-TOI005	
-TOR002	
 TOR002	abbiam pagato un sacco per mangiare delle cose
 TOI005	boh normali
 TOR002	no ma non
@@ -2119,16 +2017,13 @@ TOI005	basta non mi rompere
 TOR001	non ah io non lo accetto poi dopo basta
 TOI005	mh mh mh mh
 TOR001	scusa
-???	
 TOI005	niente niente
 TOR001	comunque
 TOI005	ah
 TOR001	poi io mi divulgo
 TOR002	no e la domanda dopo era sei contento della tua città però insomma
-???	
 TOI005	xxxx
 TOR001	io amo allora no io amo la mia città
-TOR002	
 TOI005	xxxx
 TOI005	e penso che
 TOI005	ecco ricolleghiamoci a un altro discorso
@@ -2141,24 +2036,16 @@ TOR001	basta cioè per come l'han lasciata decadere no
 TOI005	mh mh mh
 TOI005	sembra di vedere eh faccio ridere un po' alla buona
 TOR002	gotham city
-TOR001	
-???	
-TOI005	
 TOI005	xxxxxxx
 TOR001	ma scherzato
 TOI005	dunque cosa fai durante il tempo libero
 TOR001	eh ne faccio di cose
-TOI005	
 TOR001	alleno a football mi alleno sto con lei
-TOI005	
 TOR001	famiglia che tra cose
 TOI005	tempo libero
 ???	sì tempo libero vabbè
 ???	sono il suo hobby
-TOR001	
-TOI005	
 ???	sì sì lei è programmata come quando vado ad allenare eh
-TOI005	
 TOI005	oggi vedo te domani alleno
 TOR001	poi a pranzo mi alleno
 TOI005	e da quanto tempo alleni
@@ -2186,7 +2073,6 @@ TOR001	quindi posso allenare
 TOI005	mh mh mh
 TOI005	se no no
 TOR001	e oramai non posso più essere più un atleta anche in altri aspetti
-TOI005	
 TOI005	ah
 TOR001	va bene
 TOR001	ma scusate prima stavate dicendo ma io mi sa che mi son persa un passaggio
@@ -2274,21 +2160,16 @@ TOI005	cioè anche difficile
 TOI005	sì però
 TOR002	vabbè i madden di adesso sono fighissimi eh
 TOI005	cioè io non so neanche più giocare a calcio alla play xx
-TOI005	
 TOR002	no no no a madden c'ho giocato un casino certo
 TOI005	xxx
 TOR002	eh vabbè
 TOR002	eh forse secondo me tipo il duemilasei
 TOI005	duemilasette
 TOR002	no ma son quelli fighi sono i vecchi madden che son tutti squadrati
-TOR001	
-TOR002	
 TOI005	x dobbiam fare una serata madden
 TOI005	volentieri
 TOR002	il vecchio madden però
 TOI005	proverei tanto quello
-TOR001	
-TOR001	
 TOI005	quante volte a settimana alleni
 TOR001	eh adesso tre
 TOR001	eh beh un sacco
@@ -2299,7 +2180,6 @@ TOR001	okay
 TOI005	che altre cose fai durante il tempo libero
 TOR001	eh mi alleno
 TOI005	ok~
-TOI005	
 TOI005	mi alleno almeno
 TOR001	per adesso no però mi alleno
 TOI005	mh
@@ -2310,26 +2190,19 @@ TOI005	ah è vero prima dicevate del cinema
 TOI005	sì adesso non ci andiamo più tanto però normalmen~
 TOI005	tempo libero
 TOR001	sarò a casa io e lei
-???	
 ???	no p~ più che altro è molto difficile andare al cinema
 ???	perché impieghiamo tutta l'ora prima litigando sul film
 TOR001	quindi alla fine non ci andiamo più
-TOR002	
 TOR001	dimmi qualcosa che non so
-TOI005	
-TOI005	
 ???	sì forse abbiamo rinunciato un po' a quello
 TOR002	secondo me sì perché poi ti scoglioni cioè
-TOI005	
 TOR002	no la realtà dei fatti è anche gli orari cioè
 ???	alla fine ti chiudi a guardare i telefilm a casa
 TOR002	sì
-TOI005	
 TOI005	ammettia~ sì c'hai i telefilm
 TOI005	poi sei a casa tua
 TOR001	non lo so
 ???	dopo aver discusso per il telefilm vabbè
-TOI005	
 TOI005	ma per fortuna adesso l'abbiam trovato
 TOR001	meno male che sono due stagio~ eh
 ???	cosa guardate
@@ -2339,7 +2212,6 @@ TOR001	nove stagioni siamo alla quinta quindi
 TOI005	xxx noi l'abbiam già io l'ho già vista
 TOR001	riusciamo ad andare abbiamo ancora
 TOI005	dateci dei consigli magari
-TOR001	
 TOR002	proviamo qualcosa anche
 TOI005	volevo chiedere a xx a te piace sicuro ray donovan
 TOR001	sherlock
@@ -2404,10 +2276,7 @@ TOR002	anche noi
 TOR001	io non sopporto che minchia vedi le puntate non succede un cazzo
 TOR002	ma è come se guardasse adesso beverly hills capito
 ???	xxxx
-TOI005	
-TOR001	
 TOR001	l'han finito tutti ma basta
-TOI005	
 TOI005	ti devo dire allora
 TOI005	breaking bad è fatto benissimo
 ???	e gli attori valgono
@@ -2442,7 +2311,6 @@ TOI005	siamo degli animali quindi ci piaccion queste storie
 ???	io mentre studiavo per l'esame ero così disperata
 TOI005	che a volte lo guardavo
 TOR001	ma gli è piaciuto il problema è che gli è piaciuto anche a lei
-???	
 TOI005	xxxx
 ???	poi ora fa la gradassa però il discorso è questo
 TOI005	eh no vabbè
@@ -2508,10 +2376,7 @@ TOI005	sì sì
 TOR002	però è un'opera d'arte xxxx
 TOR001	a me era piaciuta la s~ cioè
 TOI005	adesso tira una fuori un'altra serie anni novanta
-???	
-???	
 TOR001	friends
-TOI005	
 TOR002	dai friends ha fatto la storia anche lei dai
 TOR002	xxxx tanto non non le so neanche quelle no
 TOI005	sons of anarchy avevo guardato
@@ -2522,9 +2387,7 @@ TOI005	è quella che è uguale a kurt cobain il protagonista
 ???	sì sì sì
 TOR001	sì
 TOR001	dopo aver fatto tre anni di palestra
-TOR002	
 TOI005	xx è un po' grosso boh
-TOR002	
 TOI005	no ma è simpatico eh
 TOR002	no eh ho visto una puntata
 TOI005	una cagata lì perché si picchia tutto il tempo però
@@ -2623,7 +2486,6 @@ TOR002	già eh
 TOI005	gli ultimi batman
 TOI005	vabbè batman quello vabbè
 TOR001	però è della dc è tutta un'altra cosa
-TOI005	
 TOI005	com'è che si chiama
 TOI005	lui sì vabbè e l'attore è un grande
 TOI005	anche gli scenari son cupi
@@ -2658,10 +2520,7 @@ TOR002	e tanti altri
 TOR002	film troppo del
 TOR001	opposti
 ???	e la palestina capito cioè lui
-TOR001	
 TOI005	oscilla come un pendolo
-TOR001	
-TOI005	
 TOR001	xxxx
 ???	saltando xxx xxx
 TOR002	vabbè ma c'hai beh dai meglio la palestina
@@ -2682,7 +2541,6 @@ TOI005	mh
 ???	e dai una valutazione per il fi~
 ???	no io thor l'ho visto nel contesto che è
 TOR001	un cretino biondo col bastone cioè
-???	
 TOI005	cosa ti devo dire
 TOR002	ma infa~
 ???	daredevil sarebbe
@@ -2691,7 +2549,6 @@ TOR002	col martello no thor ma non l'ultimo quello
 ???	b~ tot anni fa
 ???	tre ore era durato quella roba
 TOR001	tre ore cioè
-???	
 TOI005	non so
 ???	se vieni a vedere fast and furious
 TOI005	sì ma anche lì fast and furious sì ma
@@ -2737,7 +2594,6 @@ TOI005	sì però e cioè è un male che non è un male
 TOR002	che non è
 TOI005	è un bene che son quattro smandrappati
 TOR001	cioè stiam parlando di questo deficiente
-TOI005	
 TOI005	che poi han preso questo qua che fa il cattivo che è un mezzo rincoglionito
 TOI005	lei invece una cosa sovraumana che
 TOI005	ma mi va bene però è stato proprio
@@ -2746,7 +2602,6 @@ TOI005	quello ti posso commentare
 TOI005	non il fast and furious che è tamarro dal primo all'ultimo
 TOR002	sale solo il livello di tamarraggine
 TOR001	ma più che altro lì è star wars ci ha messo delle cose
-TOR002	
 TOI005	che non sono nella logica di quel film di quei te~
 TOI005	perché
 TOI005	perché ci hanno messo becco
@@ -2766,7 +2621,6 @@ TOI005	ma non perché è il vero star wars
 TOI005	meglio xx
 TOI005	ma dopo dart fener ti arriva sto deficiente con la faccia così
 TOR001	da de~ xx sto mongoloide
-TOI005	
 TOI005	dart fener che quando hanno voluto riprendere
 TOI005	gli inizi cioè far vedere chi è dart fener
 TOR002	han preso anakin skywalker che l'attore è stato un grande
@@ -2781,13 +2635,10 @@ TOI005	negli ultimi comunque la faccia sai la era
 TOR002	un attore pr~ becchi sto deficiente cioè ma raga
 TOI005	mh
 TOR001	che delusione
-TOI005	
 TOI005	che delusione
 TOR002	va bene che lei è una figa basta
 TOR001	no anche a me boh un grande delusione
 ???	poi facciamo l'elenco delle serie tivù così magari troviamo qualcosa xx
-TOI005	
-TOR001	
 TOR002	oltre a ray donovan anche abbiamo detto
 TOR002	oltre a ray donovan ma ray donované bello guarda che a lui piace
 TOR001	sicuro che gli piace
@@ -2802,7 +2653,6 @@ TOR001	dai spara le ultime domande
 TOI005	abbiam quasi finito
 TOR001	perché non so se tu devi riascoltarti tutto sto popozzo di roba
 ???	ovviamente
-TOI005	
 ???	ci siamo trainati ecco perchédovevate stare laggiù
 TOI005	vabbè andrà avanti veloce sì eh
 TOR002	dovevate stare laggiù a parlare
@@ -2826,7 +2676,6 @@ TOI005	entravi in partita ac dc roba
 TOI005	poi eh che ti dà una certa adrenalina
 TOI005	crescendo mi piace tanto sentire il jazz eh
 TOR001	sembra stupido ma ogni tanto in macchina ascolto la musica classica che mi rilassa
-TOI005	
 TOI005	che ti devo dire quando c'ho i momenti eh
 TOI005	xxx musica classica sai c'è rai uno lì come si chiama
 TOI005	e basta
@@ -2841,16 +2690,13 @@ TOR001	ma qualcuno ha sbagliato i biglietti
 ???	come ha fatto a sbagliare i biglietti
 TOI005	non lo so ho preso i green day
 TOR001	lasciam perdere
-TOI005	
 ???	le son piaciuti eh
 TOR001	stavamo anche da neanche un anno
-???	
 ???	ma io cioè fino al momento in cui glieli ho dati ero convinta
 ???	infatti vedo lui che guarda ah bello
 ???	gli faccio ma come perché reagisci così
 ???	sono i tuoi cantanti preferiti mi fa
 TOI005	no
-???	
 TOR002	e niente e quindi siamo andati noi e i quindicenni al concerto dei green day
 TOI005	no vabbè ma io sarei andato
 ???	però è stato bello xx
@@ -2955,7 +2801,6 @@ TOI005	apprezza anche come suonano quelle canzon~
 TOI005	cioè han suonato il gladiatore con sti violoncelli che è stato
 TOI005	qualcosa di spettacolare
 ???	quando hanno riprodotto gli ac dc coi violoncelli
-TOI005	
 TOI005	è chiaro dai cioè son brav~
 TOR001	son dei fenomeni che fanno quello per stare in piedi
 TOI005	mh mh mh
@@ -3000,12 +2845,9 @@ TOR001	ah e poi è sta~ tu l'ave~ li avevi visti i linkin park
 TOI005	no
 TOR001	ma ti piacciono
 ???	no
-TOR001	
-TOR001	
 TOR001	no mi ricordavo la data perché era il compleanno
 TOI005	di quello che si è impiccato il mese prima
 ???	ah okay
-TOI005	
 TOR001	eh no era suo amico
 TOI005	eh lo so lo so
 ???	per quello che si è ha ri~ ha ripreso la data
@@ -3150,13 +2992,11 @@ TOI005	eh ciò che
 TOI005	le can~ e te guardi le canzoni del cantante dei linkin park sono depres~
 TOI005	cioè cioè se le traduci ti suicidi
 TOR001	però poi prima di giocare mi danno un bel caricato
-TOR001	
 TOI005	le ultime domande son sul calcio segui il calcio
 TOR001	no cioè
 TOI005	zero zero zero
 TOR001	mi dispiace
 ???	abbiam finito allora
-TOI005	
 TOI005	eh non
 TOI005	allora apprezzo che sono degl~
 ???	se lo guardi bene cioè
@@ -3172,7 +3012,6 @@ TOI005	no ma va là son fuori
 TOI005	vedo che sono degli atleti fenomenali
 TOR001	ma dopo che giochi a football americano mi spiace
 TOR001	non esiste più niente
-TOI005	
 TOI005	no vabbè a me piace il basket
 TOR001	poi rugby non lo so a me piace più altro contatto
 TOI005	okay
@@ -3198,13 +3037,10 @@ TOI005	però proprio il sistema di gioco in sé che non mi attira
 TOR001	non mi piace non mi piace
 TOR001	bene
 TOR001	sei libero
-???	
 TOI005	grazie a te comunque
 TOR001	sei libera te che io xx
-???	
 TOR001	ha risposto in maniera pertinente alcune domande
 TOR001	certo no no ma va benissimo
-TOR002	
 TOI005	infatti è più una chiaccherata che
 TOI005	beh certo
 TOR001	ma per intervistare bene secondo me o la trasformi più su una chiccherata
@@ -3221,4 +3057,3 @@ TOR001	le due
 TOI005	ah
 TOR002	penso che sia finito il concerto
 TOI005	no se era bruce springsteen
-TOI005	

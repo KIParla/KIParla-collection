@@ -5,7 +5,6 @@ TO093	a registrare
 TO085	c'è la schedina piena
 TO085	no ho cancellato due file
 TO085	cosa fai
-TO094	
 TO085	mh
 TO094	cosa fai
 TO085	eh cioè ma perché fa così secondo te
@@ -201,11 +200,9 @@ TO093	ah ma a lavare i piatti sì
 TO085	il minimo
 TO093	la casa
 TO094	la casa no la casa l'abbiamo l'avete lavata ieri
-TO085	
 TO085	bravo
 TO094	ha corretto il verbo all'ultimo
 TO093	abbiamo
-TO094	
 TO085	ascoltami
 TO094	e
 TO093	eh bevo il caffè ma tu ne volevi un goccino
@@ -213,8 +210,6 @@ TO093	sì magari un po' di piatti effettivamente possiamo anche lasciarli qui
 TO085	per vedere che succede
 TO093	no no
 TO094	due settimane
-TO093	
-TO094	
 TO085	xxxxxxxx
 TO093	no
 TO093	vai sì tanto io mi devo fare la doccia
@@ -330,15 +325,12 @@ TO085	e devo scrivere lissone o xx
 TO085	lissone
 TO094	ah è un video
 TO094	sì l'ha mandato xx
-TO092	
 TO085	va bene i'm ready
 TO085	che carini
 TO094	ci sei anche tu
 TO085	sì figo
 TO085	ah ma anch'io mi sa dopo
 TO094	ah no non m'ha ripreso la bastarda
-TO092	
-TO094	
 TO085	ma chi l'ha fatto però
 TO094	xx scusa è la sorella di leti gli ho dato della bastarda
 TO085	xxx ecco
@@ -354,12 +346,9 @@ TO085	quando la xx mi ospita
 TO085	quando vuoi io ti ospito
 TO085	la prossima volta tu sul divano
 TO094	così verrai svegliata da marta
-TO092	
 TO085	ciò è vero
 TO085	e ti dirà vai nel mio letto
 TO092	che io voglio cucinare
-TO094	
-TO085	
 TO094	mi fumo una paglia
 TO094	ma infa~
 TO085	infatti per fortuna che eravate tutti su se~
@@ -378,7 +367,6 @@ TO085	eh niente vi ho lasciato una cosa xxx
 TO092	xxxx
 TO092	vado ciao bambola
 TO094	non ce la faccio verame~
-TO085	
 TO094	dai che ce la fai
 TO094	oka~
 TO093	ciao
@@ -408,12 +396,10 @@ TO085	comunque okay allora sì c'eri anche tu quel momen~
 TO094	sì c'ero anch'io
 TO085	che poi abbiamo iniziato a farci i gestacci noi due
 TO094	può essere sì
-TO085	
 TO085	e leti non capiva
 TO085	ed era scandalizzata
 TO094	no basta non lo voglio più vedere
 TO094	ah
-TO085	
 TO094	okay
 TO094	cazzo di xx
 TO094	oi bella
@@ -473,7 +459,6 @@ TO085	diciassette maggio eh
 TO094	devo muovermi
 TO094	per me a noi di più mi sembra
 TO085	xxxxx
-TO094	
 TO094	dopo poi comunque
 TO094	perché sono esami che puoi fare già adesso
 TO085	nella sessione

@@ -89,7 +89,6 @@ BOI004	e un motorino
 BOR002	quindi un garage
 BOI004	comprate una
 BOR002	comprata una
-BOI004	
 BOI005	eh però eh
 BOI005	due
 BOI004	anche il motorino
@@ -169,18 +168,15 @@ BOR002	di mezzo
 BOI004	di locomozione sì di mezzo oppure per voi è indifferente
 BOI004	allora ovviamente io a piedi mai
 BOR002	in bicicletta tanto meno
-BOI004	
 BOI004	e allora mh dipende dove devi andare e anche a che ora o con chi
 BOI004	cioè se dobbiamo andare in centro o se è estate
 BOI004	il motorino è la cosa migliore ovvio che se devi portarti la roba da mangiare devi comprare delle cose e e
 BOI004	il motorino non è comodissimo perché dove la metti la roba eh
 BOI004	se no vabbè io la macchina l'autobus poco proprio poco da quando abbiamo il motorino io penso di non averlo più toccato son sincera
 BOR002	ehm sì le bici mi fa schifo quindi
-BOI005	
 BOI005	io mi muovo quando posso sempre in scooter a meno che non piova a dirotto o non ci sia la neve
 BOI005	chiaramente se debbo spostare delle cose voluminose
 BOI005	acquistarle andarle a prendere da qualcuno debbo utilizzare l'automobile autobus mai
-BOI005	
 BOI005	praticamente mai
 BOI005	eh d'estate mi muovo volentieri in bicicletta ma più per
 BOI005	non per raggiungere un dato luogo perché si fa prima in motorino ma per
@@ -385,10 +381,8 @@ BOI004	ah sì io stavo pensando proprio solo ai portici di san luca non so perch
 BOI004	eh no aneddoti no sui portici in generale no
 BOI004	mh
 BOR002	io mi ricordo che chi è che dei nostri figli li chiamava i portici del bavaglione
-BOI005	
 BOI004	non mi ricordavo neanche del bavaglione
 BOR002	io mi ricordo i portici del bavaglione invece che del pavaglione
-BOI004	
 BOI004	questa è un aneddoto di casa nostra
 BOI004	e sui portici
 BOI005	son sincera non
@@ -402,7 +396,6 @@ BOI004	esatto
 BOR002	che c'hanno quell'odore di banana orribile
 BOI005	ah
 BOR002	penso di sì
-BOI004	
 BOI004	quando entri c'era quell'odore
 BOI005	mamma mia di banana a me la
 BOI005	ah
@@ -423,7 +416,6 @@ BOI004	secondo me i portici li dovrebbero fare in tutto il mondo perché è una 
 BOR002	eh di corte isolani con le frecce che tutte le volte che si passava di lì guardate le frecce degli indiani
 BOI004	degli indiani
 BOR002	degli indiani certo erano gli indiani
-BOI004	
 BOI004	ehm
 BOI004	sì mi ricordo quello come
 BOR002	quaxxx adesso
@@ -451,17 +443,14 @@ BOI005	quindi l'antenna prendeva molto più lontano ecco
 BOR002	questo sì
 BOI004	meh sembra completamente un altro mondo
 BOR002	un altro mondo eh sta' buono
-BOI004	
 BOI004	no io mi ricordo che noi facevamo il giro li sù
 BOR002	e arrivavamo vabbè a casaglia insomma quei posti lì poi buttavamo giù i bidoni
 BOI004	ma come
 BOR002	sì lascia stare io e bianchini sempre io bianchini e l'ilaria
 BOI004	no
 BOR002	andavamo prendevamo i bidoni e poi li buttavamo giù per
-BOI005	
 BOI004	la mamma teppista
 BOR002	vabbè ma sì
-BOI004	
 BOI004	cioè io lo facevo perché lo facevan tutti però s~ no però mi divertivo quello sì
 BOR002	ecco xx
 BOR002	sempre un po' relativo ai portici secondo voi come sono cambiati se sono cambiati
@@ -538,7 +527,6 @@ BOI004	io non mi ricordo
 BOI004	io ripeto io l~
 BOI004	il centro di bologna perché i portici son soprattutto lì
 BOR002	cioè ci sono anche qua alla croce eh i portici
-BOI005	
 BOI004	anche in via saffi ci sono i portici
 BOI004	eh e non non trovo la differ~ delle grandi differenze perché io poi da piccola c'andavo poco cioè andavamo in centro quando c'era santa lucia
 BOI005	eh in cos'è in san domenico che c'era
@@ -663,7 +651,6 @@ BOI004	far xx cioè l'idea di fare la docente alla primaria
 BOI004	o la vicepreside o perché no la preside
 BOR002	e chissà mai
 BOR002	yeah
-BOI004	
 BOR002	yeah
 BOI004	yeah
 BOI004	però è un lavoro che mi distacche~ cioè quello del preside m~ mi distaccherebbe molto dai bambini ehm
@@ -764,7 +751,6 @@ BOI005	dall'orientamento
 BOI005	che si ha per il lavoro
 BOI005	poi anche a bologna sicuramente
 BOR002	eh si sviluppano tutte le attività che in precedenza
-BOI005	
 BOI005	mh non non non non non si eran sviluppate poi tipo tipo tutti questi corrieri veloci
 BOI005	che però sono un po' l'ultima spiaggia no è come
 BOI005	come fare il taxista a new york no è un po' l'ultima spiaggia un po' il lavoro
@@ -795,7 +781,6 @@ BOI004	cioè ci sta nel senso eh però alla fine io
 BOI004	cioè anche marco ha appena finito un lavo~ vabbè che è un lavoro tecnico però finito un lavoro ne ha trovato subito un altro l'unica che non lo trova è la federica
 BOI004	e qui la chiudo ehm
 BOR002	però
-BOI004	
 BOI004	cioè a me sembra che bene o male
 BOI004	eh si riesca a trovare
 BOI004	poi ripeto magari non è il lavoro della tua vita
@@ -803,7 +788,6 @@ BOI004	però eh io credo che a bologna anche un po' gli artigiani ci siano a~ an
 BOI004	ci siano ancora degli artigiani quindi forse anche quelli
 BOI004	ti prendono
 BOR002	ehm sì mh secondo me siamo un po' fighetti ecco magari non vogliamo andare a distribuire le pizze
-BOI004	
 BOI004	e a fare il babysitter ma voglio già avere la mia pizzeria e mh fa~ far l'insegnante ecco
 BOI004	mettendola così
 BOI004	però no secondo me a bologna mh

@@ -2,7 +2,6 @@ PKP033	xxx
 PKP036	no no ma adesso ti do un fazzoletto
 PKP037	no è il naso che mi si è colato
 PKP036	ti si è colato eccola
-PKP033	
 PKP037	eccola
 PKP036	io mi prendo la sedia xx a tavola
 PKP033	che belli gli sposi
@@ -10,8 +9,6 @@ PKP033	grazie
 PKP033	grazie grazie
 PKP036	con voi c'abbiamo una foto tipo ah scusami
 PKP033	no no
-PKP037	
-PKP033	
 PKP033	xxx quella faccia
 PKP036	con voi credo che abbiamo solo una foto di gruppo
 PKP033	sì
@@ -66,7 +63,6 @@ PKP036	ah con la macchina di
 PKP033	xxx la macchina
 PKP036	di chi
 PKP037	del nonno di roberto
-PKP033	
 PKP036	ah okay
 PKP033	sono quelle piccoline carine
 PKP036	ah bene
@@ -167,7 +163,6 @@ PKP036	no oppure ti hanno seguito cioè hanno studiato il caso non so
 PKP036	mh
 PKP037	t'immagini
 PKP036	mh vabbè dai che è abbastanza prevedibile
-PKP036	
 PKP033	studiato il caso xx
 PKP033	non lo so
 PKP037	vabbè mi hanno mi hanno rubato solo delle biciclette
@@ -267,7 +262,6 @@ PKP036	sì esatto infatti mhmh
 PKP037	quel posto xx
 PKP036	mh bovais
 PKP037	bovais
-PKP033	
 PKP036	mhmh
 PKP033	ma in pratica non è parigi quindi devi fa' tutti i giri
 PKP036	no vabbè mh
@@ -275,9 +269,6 @@ PKP033	alla fine
 PKP036	però sì i prezzi dei voli cioè io ci ho provato a
 PKP033	esatto mi stavi a parla' male
 PKP036	esatto
-PKP037	
-PKP033	
-PKP033	
 PKP036	cioè io ci ho provato a guardare altre possibilità di spostamenti
 PKP033	mh
 PKP036	ma costano tantissimo cioè m
@@ -315,8 +306,6 @@ PKP033	circa
 PKP036	eh già
 PKP037	eh il giappone è bello
 PKP037	ah ah
-PKP036	
-PKP033	
 PKP036	ma voi come l'avevate scelto che non ho cioè che non non ho capito
 PKP033	è stato un bel viaggio
 PKP036	cioè non so se lo so sì
@@ -331,11 +320,9 @@ PKP033	in giappone
 PKP036	ah ah giusto
 PKP036	voleva fare il viaggio di dottorato
 PKP037	però siccome non si dottorava lui
-PKP033	
 PKP036	a un certo punto
 PKP037	intanto andiamo poi
 PKP036	intanto prendo il premio
-PKP036	
 PKP037	intanto viaggiamo poi vediamo
 PKP036	avevamo mi sa
 PKP036	volevamo fa' un viaggio grande
@@ -369,16 +356,12 @@ PKP037	li abbiamo presi
 PKP033	xx
 PKP036	basta
 PKP033	fine basta
-PKP037	
 PKP036	fine no fine perché ora non abbiamo organizzato niente'altro
-PKP036	
 PKP037	no cos'è natale poi mesi e mesi
 PKP036	fino all'estate
 PKP033	abbiamo fatto tutta un'estate
 PKP037	eh beh
 PKP033	cioè non sapevo neanche che altre città esistessero da visitare
-PKP036	
-PKP037	
 PKP036	xx
 PKP033	eh vabbè poi non abbiamo fatto niente
 PKP033	ma quindi la passione non
@@ -401,7 +384,6 @@ PKP033	quindi e
 PKP036	quindi ci vuole una cosa diversissima sì
 PKP037	xxx
 PKP036	sì quindi cambia~ cioè cambiamo un po'
-PKP036	
 PKP037	giusto
 PKP037	è comunque un paese
 PKP037	pseudo occidentale
@@ -419,13 +401,10 @@ PKP036	eh sì
 PKP033	ordinare
 PKP036	eh
 PKP037	cioè c'era una cosa del di gente così lasciavi lì
-PKP036	
 PKP037	sconvolgente
 PKP036	è molto x cioè sì sicuro
 PKP037	sì molto sicuro
 PKP033	poi se succede qualcosa tutti i poliziotti hanno settant'anni quindi non so quanto possano aiutare
-PKP036	
-PKP036	
 PKP033	ti correrebbero dietro
 PKP036	ma perché la popolazione è vecchia in generale
 PKP037	eh sì
@@ -435,7 +414,6 @@ PKP033	sono tutti vecchi mi sa
 PKP033	quindi cosa avete fatto di giro
 PKP037	io non so nulla eh del giappone quindi
 PKP036	brava neanche noi all'inizio
-PKP036	
 PKP036	abbiamo scoperto tutto
 PKP036	allora siamo andati a tokyo cinque giorni perché è gigante
 PKP036	quindi c'è un sacco di da girare
@@ -448,7 +426,6 @@ PKP036	eh io ero sconvolta
 PKP033	l'avrò vissuta malissimo sono stata malissimo
 PKP033	no beh infatti è tanto
 PKP037	cioè rid~ ridimmi il numero perché m~ mi sono distratta un'attimo
-PKP036	
 PKP033	e all'andata dodici e al ritorno quattordici
 PKP036	ah okay non so perché avevo capito diciotto e ho detto no no no okay
 PKP037	no diciotto è
@@ -465,7 +442,6 @@ PKP036	mh
 PKP033	sì è stato
 PKP037	allora tu vuoi sapere cosa c'è lì o ti fidi
 PKP036	no non credo
-PKP033	
 PKP036	okay
 PKP033	figurati
 PKP036	va bene però dai
@@ -509,14 +485,12 @@ PKP036	quel
 PKP033	sì ma non mi piace
 PKP036	io sì ma è terribile
 PKP037	non ti riempie
-PKP033	
 PKP036	faccio una grossa fatica ad abituarmi alle cose di soia
 PKP033	sì
 PKP036	ma non ci sto neanche provando eh in realtà
 PKP036	ma io le ho provate ma
 PKP033	mi piacciono troppo i formaggi poi
 PKP033	cioè non
-PKP036	
 PKP037	però
 PKP036	beh prima o poi fanno anche il latte sintetico
 PKP033	esatto
@@ -558,7 +532,6 @@ PKP033	no per me è la prima volta xx di queste città così
 PKP036	mh
 PKP036	coi palazzi e cose
 PKP037	quindi ero tipo così tutto il tempo
-PKP036	
 PKP036	però sì da visitare proprio tipo di culturale o cose mh
 PKP036	non tantissimo
 PKP037	puoi salire sulle torri e vedere la vista dall'alto ste cose qua
@@ -582,7 +555,6 @@ PKP037	ah
 PKP033	quindi mh
 PKP036	ah cioè hanno dei reperti comprati da qui
 PKP037	xxx
-PKP037	
 PKP036	no hanno abbiamo hanno trasferito non so quante statue anche di canova
 PKP037	non so che è
 PKP033	da da roma
@@ -618,7 +590,6 @@ PKP033	xxxxx
 PKP037	ma a roma quante persone sono
 PKP033	tre
 PKP037	ah okay okay
-PKP036	
 PKP037	davvero
 PKP033	sì
 PKP036	sì sì sì
@@ -627,11 +598,9 @@ PKP037	mhmh
 PKP036	poi salivi a quattro o cinque includendo aree metropolitane de roma
 PKP037	frascati
 PKP033	ma no anche frascati
-PKP033	
 PKP036	oh ma stamattina al tg c'era
 PKP033	una cosa di frascati pure io me so' girata e io ma dai ma che cazzo
 PKP033	sì
-PKP033	
 PKP037	un ac~ un accoltellato
 PKP036	è il terzo xx
 PKP037	è lì è dove abita lui
@@ -651,8 +620,6 @@ PKP033	sì non so perché
 PKP037	comunque erano ovviamente no
 PKP037	boh chissà
 PKP036	comunque la mia macchina era molto più vicina a pantano che a~
-PKP033	
-PKP036	
 PKP033	quindi sì diciamo che
 PKP036	ma mi vorrei mettervi più vicino le cose perché
 PKP033	ah tranq~
@@ -704,7 +671,6 @@ PKP036	invece tokyo era semplicemente
 PKP037	tokyo non è bella
 PKP036	kyoto o tokyo
 PKP037	e kyoto scusa
-PKP033	
 PKP036	ah non è bella
 PKP033	cioè è sono belli i templi è la città dei templi
 PKP036	ah okay okay okay
@@ -723,7 +689,6 @@ PKP037	e il sushi
 PKP036	mh
 PKP036	mh
 PKP037	ehm il sushi non esiste
-PKP036	
 PKP037	cioè non è tanto
 PKP036	lo mangiano più raramente del previsto
 PKP033	sì abbiamo fatto fatica a trovarlo
@@ -794,13 +759,11 @@ PKP037	ti danno dei baghe~ spaghetti fatti
 PKP037	in un brodo
 PKP037	poi li scolano
 PKP033	ti danno gli spaghetti scolati da una parte
-PKP037	
 PKP037	poi il brodo da un'altra
 PKP033	e poi da una parte an~
 PKP036	lo stesso brodo
 PKP037	sì
 PKP036	sì
-PKP037	
 PKP036	da un'altra parte ancora
 PKP037	poi che te lo dimentichi
 PKP033	xa delle proteine sì xx
@@ -811,7 +774,6 @@ PKP036	e le proteine a parte in teoria con lo s~ ~tesso boccone dovresti metterl
 PKP037	io prendo un po' di riso e prendo un'altra cosa però non li metto tutto insieme
 PKP037	io non ce la faccio
 PKP033	cioè ho scoperto dei limiti
-PKP033	
 PKP037	comunque effettivamente ora che ci penso c'era un ristorante giapponese a trieste
 PKP036	xxx le bacchette
 PKP033	xxxxx
@@ -838,7 +800,6 @@ PKP037	per salire sul monte fuji
 PKP037	sull'ultima sul punto più alto raggiungibile in macchina
 PKP037	però è stato un po' inutile
 PKP036	dal monte su~ fuji non vedi il monte fuji chiaramente
-PKP037	
 PKP033	xxx
 PKP036	cioè in che senso il monte fuji
 PKP037	giustamente
@@ -888,17 +849,13 @@ PKP033	son cervi
 PKP036	cioè tipo tipo i piccioni sì sì
 PKP037	un po' da
 PKP036	se mi sentono
-PKP033	
-PKP037	
 PKP033	beh il numero era quello
-PKP033	
 PKP037	stupendo
 PKP037	l'acquario
 PKP036	e niente
 PKP037	xxxxxxxx
 PKP037	poi hiroshima è stata molto bella
 PKP036	la città cioè la città è brutta
-PKP037	
 PKP036	no
 PKP033	non ricordo xxxx
 PKP036	ma cosa si visita
@@ -974,17 +931,14 @@ PKP033	sì
 PKP036	questi sì
 PKP033	poi ha pubblicato un po' di racconti
 PKP037	sì sì
-PKP033	
 PKP033	cioè negl~ i m gli altri sono un po' più spinti forse
 PKP036	un po' più murakami spinto
 PKP033	xxxx
-PKP036	
 PKP033	non mi ricordo nemmeno quale avevo letto
 PKP036	cioè io ho letto iq come si chiama
 PKP033	no no no quello l'ho letto
 PKP036	eh ma è in tre volumi
 PKP037	eh per quello
-PKP036	
 PKP036	ero un po' spaventata
 PKP033	però
 PKP033	mh poi c'è uno breve che
@@ -992,7 +946,6 @@ PKP033	è non è molto impegnativo
 PKP037	è tipo si chiama tipo il giorno della pecora xxx
 PKP033	xxxxxx
 PKP036	una roba del genere
-PKP033	
 PKP036	e secondo me quello si può leggere per esempio
 PKP037	vai
 PKP036	no invece leggeva xxx
@@ -1013,32 +966,20 @@ PKP037	nulla non avevano scrittura
 PKP037	poi hanno iniziato il feudalesimo
 PKP037	e è finito nel milleottocentosettanta il feudalesimo
 PKP033	poi hanno detto vabbé dai fascismo
-PKP036	
-PKP037	
-PKP037	
-PKP037	
 PKP033	hanno scelto le tre cose migliori eh
 PKP036	migliori del~ esatto forse nel mondo
-PKP037	
 PKP033	l'età del~ l'età della pietra feudalesimo e fascismo
 PKP036	esatto
-PKP033	
 PKP037	forse il momento migliore era il pre-scrittura
-PKP033	
 PKP036	tutto sommato
-PKP036	
 PKP033	davvero
 PKP036	comunque io ho un amico di di università che faceva giapponese a forlì alla sslmit di forlì
 PKP033	sì
 PKP036	ed è stato là in erasmus tipo
 PKP033	ah okay
 PKP036	e mi ha detto che aveva visto un posto bellissimo ma non aveva mai visto un popolo così rincoglionito
-PKP033	
-PKP037	
 PKP033	davvero
 PKP036	siete da~ vi ritrovate
-PKP033	
-PKP037	
 PKP036	eh sì
 PKP036	sì sono un po' rincoglioniti
 PKP033	non lo so poi cioè non c'abbiamo nemmeno interagito troppo perché sono
@@ -1081,23 +1022,14 @@ PKP037	però xxx
 PKP036	sì sì sì ci ha visto avere un colpo
 PKP037	vah vah vah
 PKP036	poi ha fatto oh
-PKP033	
-PKP037	
 PKP033	xxxxxxx
-PKP036	
-PKP037	
-PKP037	
 PKP036	i versi da anime
 PKP037	poi fanno tutti sti ver~ ma è vero infatti gli anime pensavo che erano esagerati ma sono così
 PKP033	oh
-PKP036	
 PKP036	oh
 PKP033	fanno un sacco di versi
 PKP037	stupendo
-PKP036	
-PKP033	
 PKP036	altre cose divertenti tipo questa
-PKP036	
 PKP036	mah mh
 PKP037	divertenti non so
 PKP033	no ce ne sono state di divertenti io voglio dirne un sacco però
@@ -1148,23 +1080,16 @@ PKP033	eh sì
 PKP036	sì come in moschea
 PKP033	c'era una puzza in giro
 PKP037	cioè come
-PKP033	
 PKP036	a istambul sì
 PKP037	sì
 PKP033	cioè oddio ah vado a mangiare okay
-PKP036	
-PKP033	
-PKP037	
 PKP036	io non ho più fame
-PKP036	
 PKP033	sì se non ti lavi i piedi
 PKP036	ma il clima com'era
 PKP037	xxx
 PKP036	tropicale
 PKP033	terribile
 PKP037	ah
-PKP036	
-PKP033	
 PKP036	cioè era caldo e umido
 PKP037	caldissimo e umidissimo cioè
 PKP036	in effetti portano
@@ -1185,7 +1110,6 @@ PKP033	i maschi in giacca e cravatta non so come facevano cioè
 PKP036	cioè mi sembra che una volta c'era una notizia in cui il presidente del giappone non so come si chiama
 PKP033	mh
 PKP036	aveva fatto una comparsa pubblica con solo la camicia per tipo incoraggiare i
-PKP033	
 PKP037	dipendenti perché se no tengono l'aria condizionata negli uffici tipo a quindici tutto l'anno e e
 PKP036	infatti
 PKP033	sì mh
@@ -1196,14 +1120,12 @@ PKP037	quindi confermate bene
 PKP036	sì sì
 PKP033	sì sì
 PKP033	okay
-PKP037	
 PKP036	beh se non siete
 PKP036	invece noi eravamo i più
 PKP037	svestiti
 PKP036	beh i colpi d'aria condizionata ci son stati
 PKP033	ma sì perché fuori si moriva poi entravi
 PKP037	immagino
-PKP033	
 PKP036	okay okay
 PKP036	xxx abbastanza
 PKP036	sì il clima è stato la cosa peggiore forse
@@ -1233,8 +1155,6 @@ PKP036	più tipo canarie
 PKP033	invece è terribile
 PKP033	mh
 PKP036	stupendo
-PKP033	
-PKP036	
 PKP037	beh no le canarie mica è così
 PKP033	no
 PKP036	è più secco
@@ -1307,9 +1227,6 @@ PKP036	e invece d'estate lavori di più sì ci s~ giusto nel senso
 PKP036	xxxx
 PKP036	no d'inverno non
 PKP033	non ci caga nessuno
-PKP036	
-PKP037	
-PKP036	
 PKP033	perché le scuole so' chiuse quindi
 PKP036	giusto
 PKP033	nessuno ci scrive
@@ -1329,7 +1246,6 @@ PKP036	non è una brutta sensazione
 PKP033	non è male
 PKP037	sì
 PKP033	che borghese
-PKP036	
 PKP033	un po' borghese
 PKP036	ma ripetimi dov'è l'ufficio
 PKP036	mh
@@ -1370,8 +1286,6 @@ PKP036	ma lei sapeva lo spagnolo o no
 PKP033	no
 PKP036	ah quindi
 PKP033	no no ha ha improvvisato
-PKP037	
-PKP033	
 PKP037	sì sì
 PKP036	ma non ha imparato nessuno dei due cioé ha imparato~ ha provato il catalano
 PKP036	no lo spagnolo
@@ -1411,7 +1325,6 @@ PKP036	eh vabbè comunque
 PKP033	boh ora è in fase che vuole fare ricerca
 PKP036	ah che bello
 PKP037	però è molto variabile quindi non lo so
-PKP033	
 PKP036	però se uno vuol fare ricerca può fare cosa può fare
 PKP036	vediamo
 PKP036	non ne ho idea
@@ -1521,7 +1434,6 @@ PKP037	pulizie di primavera abbiamo fatto
 PKP037	mh pulizie di primavera
 PKP036	deve'essere lo standard xxxx
 PKP033	d'inverno
-PKP037	
 PKP036	con chi è pieno di roba vecchia
 PKP033	mah
 PKP037	mh
@@ -1534,23 +1446,15 @@ PKP033	cioé c'era xxxxxxxxx
 PKP036	mh
 PKP037	sì e ancora c'è xxxx
 PKP036	sta carta smeraldo e si è consumata
-PKP033	
 PKP033	mh io la devo andare a ritirare sapete che non ce l'ho
 PKP036	non ce l'ho
 PKP036	ma xx vivevano senza
 PKP033	cioé la lasciavano per terra vicino al secchione
 PKP036	eh
 PKP037	per anni
-PKP033	
 PKP036	ma un sì è così complicato andare a prenderla che devo dire che
-PKP033	
-PKP037	
-PKP037	
 PKP036	eh raccontagliela come se l'è presa a noi
-PKP037	
 PKP036	mh sti borghesi però eh
-PKP037	
-PKP033	
 PKP036	cosa avete fatto
 PKP036	è che la casa era di
 PKP033	un collega di lavoro
@@ -1561,9 +1465,6 @@ PKP036	e quindi l'ha fatta ritirare da un altro collega di lavoro che
 PKP033	un po' il tuttofare dell'ufficio tipo
 PKP036	ma
 PKP033	che m'ha detto ah no le ho chieste a marco e io ma come hai chiesto a marco però
-PKP037	
-PKP037	
-PKP036	
 PKP033	xxxxxx
 PKP037	ma non deve'essere intestata a quello che ha il ehm
 PKP036	era il suo collega
@@ -1621,13 +1522,8 @@ PKP036	fatiche proprio
 PKP037	non so nemmeno che hai buttato oggi ho visto che lanciavi cose
 PKP036	massì praticamente da una mensola che si regge su un'asse di legno che si regge su delle scatole che si regge sopra un mobiletto
 PKP036	in un secchio
-PKP037	
-PKP037	
 PKP036	tutto sospeso sopra il water xxxxxxx
-PKP033	
-PKP037	
 PKP033	chiaramente non si poteva sposta' questa cosa perché era tutta in bilico
-PKP037	
 PKP037	e dietro la
 PKP037	la polvere non è che
 PKP037	non si accomodava
@@ -1655,10 +1551,7 @@ PKP036	ma nella mia vita ne ho puliti degli altri quindi
 PKP033	c'era proprio uno strato sì di polvere
 PKP037	sì sì
 PKP033	brutto beh se stai sotto xxx aspetti che ti sca~ casca cada un
-PKP037	
 PKP036	una scatola di polvere
-PKP033	
-PKP036	
 PKP037	terribile
 PKP033	mh
 PKP036	mi dispiace perché so bene cos~ mh cos'è
@@ -1672,8 +1565,6 @@ PKP036	ma vabbè
 PKP037	mh
 PKP033	peggio del balcone
 PKP036	eh stav~ stavo per dirlo
-PKP037	
-PKP036	
 PKP036	eh mh
 PKP037	ma vabbé non
 PKP036	abbiamo dovuto comprare il cesto per i panni sporchi
@@ -1683,7 +1574,6 @@ PKP036	ah
 PKP036	un cesto dei panni
 PKP037	e m
 PKP037	e quindi abbiamo comprato
-PKP037	
 PKP036	sì una specie la spatola
 PKP037	una spatola
 PKP036	quella la volevamo la cercavamo
@@ -1734,8 +1624,6 @@ PKP037	no certo sì sì
 PKP033	nel frattempo ancora non ho scritto la tesi
 PKP037	quindi
 PKP036	che quindi la sto scrivendo
-PKP037	
-PKP036	
 PKP037	sì infatti oggi doveva scrivere la tesi e ha pulito casa
 PKP036	cioè ho scritto no l'ho scritta la settimana scorsa l'ho scritta poi la prima divisione a quanto pare l'avevo scritta in maniera sbagliata
 PKP037	mh
@@ -1756,19 +1644,11 @@ PKP037	e quando scadono questi sei mesi
 PKP037	eh mo le d~ e mo devo pagare tre e il semestre fino a settembre
 PKP036	penso entro marzo volevo pagare
 PKP036	allora potevi fini' prima
-PKP037	
 PKP033	e grazie al cazzo
-PKP037	
 PKP033	questa mettila a verbale
-PKP036	
-PKP037	
-PKP036	
-PKP033	
 PKP037	sì sì
-PKP036	
 PKP033	xxx
 PKP037	tra un po' spengo perché se no diventa ingestibile
-PKP033	
 PKP037	se è troppo lunga
 PKP036	e vabbè ma ci spieghi
 PKP033	ma poi devi risentire
@@ -1810,7 +1690,6 @@ PKP036	s'era aperta la xxxxx
 PKP033	ah
 PKP036	ah cioè ma ma perché ma perché ha trovato una cosa che le piace di più o non si trova~
 PKP036	ma che ne so che è in maternità
-PKP037	
 PKP036	magari
 PKP036	sì ma in realtà è stato molto a casa xxx
 PKP036	cioè un suo amico le aveva mandato quest'offerta di lavoro
@@ -1864,12 +1743,9 @@ PKP033	okay
 PKP033	okay okay
 PKP036	ho capito
 PKP036	e rimarrà uguale
-PKP033	
 PKP037	cioè p~
-PKP036	
 PKP033	non vogliamo nessun altro
 PKP037	il progetto è questo
-PKP036	
 PKP033	sì questo è il senso
 PKP036	okay
 PKP033	poi poi non lo so
@@ -1891,7 +1767,6 @@ PKP037	no è dove andate oh
 PKP037	no
 PKP036	no infa~
 PKP033	infat~
-PKP036	
 PKP033	prendo e vado tanto
 PKP036	mhmh
 PKP037	no però
@@ -1899,4 +1774,3 @@ PKP033	e a te come va il lavoro
 PKP033	eh allora
 PKP037	no questo non si può registrare
 PKP036	no
-PKP036	

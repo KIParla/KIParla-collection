@@ -30,7 +30,6 @@ TOR001	son dipendente
 TOI001	okay
 TOR001	per adesso
 TOI001	hai mire future
-TOI001	
 TOR001	beh son lavori che da far da dipendente a lungo non si possono
 TOI001	è pesante
 TOR001	no è che come i mestieri
@@ -41,12 +40,9 @@ TOI001	va bene hai sempre fatto lo stesso lavoro
 TOR001	sì
 TOR001	sì
 TOI001	vorresti andare avanti a far la stessa cosa o vorresti cambiare
-TOR001	
 TOR002	da dan
-TOI001	
 TOI001	grazie per la domanda
 TOR001	eh
-TOI001	
 TOR001	diciamo che dopo dieci anni eh eh mi sono aperto abbastanza strade e sarebbe abbastanza stupido cambiare
 TOI001	mhmh
 TOR001	però non per forza mi vedo legato tutta la vita a quel lavoro lì
@@ -114,8 +110,6 @@ TOI001	hai mai vissuto fuori torino
 TOR001	eh no
 TOR001	no
 TOI001	ti trasferiresti all'estero per lavorare
-TOR001	
-TOI001	
 TOI001	eh allora
 TOI001	eh il mio mestiere
 TOI001	eh mi permetterebbe di andare ovunque
@@ -174,26 +168,21 @@ TOR001	chiaro
 TOR001	chiaro
 TOI001	e se dovessi scegliere un posto in cui andare a vivere anche solo per un periodo
 TOR001	urca
-TOI001	
 TOR001	eh beh arrivando da un pae~ un posto freddo cercherei un posto più caldo sicuramen~
 TOI001	brasile tipo
 TOR001	tipo brasile anche se poi
-TOI001	
 TOI001	non lo vedo molto c~
 TOR001	cercherei un posto simile all'italia comunque quindi
 TOI001	okay
 TOR001	eh se la spagna non forse non fosse in recessione continua molto probabilmente andrei in spagna ma
-TOI001	
 TOI001	a oggi quello che erano i
 TOI001	conviene sicuramente germania
 TOI001	e se riesci a infilarti in svizzera forse va ancora meglio insomma
 TOR001	eh
 TOI001	in effetti
 TOR001	mhmh
-TOR001	
 TOI001	allora in che zona di torino vivi
 TOR001	ehm vivo nella s~ seconda cintura di torino cioè villarbasse
-TOI001	
 TOR001	che è dietro di voi
 TOR001	mhmh
 TOI001	hai sempre vissuto lì
@@ -254,7 +243,6 @@ TOR001	cioè tipo spesa o
 TOI001	boh
 TOI001	è un comune di quattromila abitanti
 TOR001	cioè
-TOI001	
 TOI001	sì trovi bene o male di tutto
 TOR001	non c'è una lavanderia per dire
 TOI001	mh
@@ -278,7 +266,6 @@ TOR001	okay
 TOI001	quindi comunque ti serve la macchina sostanzialmente
 TOR001	vabbè villarbasse per girar villarbasse sono ottocento metri
 TOR001	oka~
-TOI001	
 TOI001	quindi penso che uno li possa fare anche a piedi
 TOR001	se vuoi andare a rivoli sicuramente ti serve una macchina
 TOR001	okay
@@ -301,18 +288,12 @@ TOR001	mhmh
 TOI001	mhmh
 TOI001	è
 TOR001	grattacieli non esisteranno e come vedi nulla può essere più alto della mole
-TOI001	
 TOI001	eh e quello rimarrà così in eterno
 TOR002	eh mentre per dire a milano adesso fanno la zona dei grattacieli da noi non ci sarà mai insomma li sparpagliano quei due che ci sono in modo che non ci si confonda
-TOR002	
-TOR001	
-TOI001	
 TOI001	eh la metropolitana
 TOI001	e c'hanno messo seimila anni per fare una linea finché gli agnelli non han deciso si potesse fare
 TOR001	e adesso aspetteremo altri seimila anni in qualche altra linea
-TOI001	
 TOR001	mh quindi in verità le cose non son cambiate tanto
-TOR002	
 TOI001	ma è in costruzione però la due vero
 TOI001	no
 TOR001	adesso fa~ hanno hanno appena approvato i fondi dopo undic'anni
@@ -324,7 +305,6 @@ TOI001	fa la tangenziale
 TOR001	da cascine vica a rivoli se la pagherà il comune di rivoli
 TOR002	ah sì
 TOR002	ah eh
-TOR001	
 TOI001	quindi capolinea tangenziale
 TOR001	capolinea tangenziale
 TOI001	molto ben~
@@ -352,13 +332,11 @@ TOI001	mhmh
 TOI001	ehm
 TOR001	quindi sì in generale mi piace come città
 TOR001	sei legato anche tu a torino come marco e come tutti i torinesi che ho conosciuto
-TOR001	
 TOR002	no lui se interviene non importa
 TOR001	ma io posso parlare
 TOR002	sì
 TOI001	xxxx no perché stavo zitto perché non sapevo
 TOR002	xxx le~ legato in che in che sen~ cioè legato nel voglio vivere qua amo queste
-TOR001	
 TOI001	no molto attaccato sì
 TOR001	beh eh io ho avuto la fortuna che da giovane i miei mi hanno portato tanto in giro per il mondo
 TOI001	mhmh
@@ -406,26 +384,20 @@ TOI001	se non si inventano loro un festival ogni tanto non viene nessuno
 TOI001	eh
 TOR001	ma così anche barolo
 TOR002	eh per quello fanno il festival
-TOI001	
 TOR001	e certo se no non c'era nessuno
 TOR002	va bene cosa fai durante il tempo libero
-TOI001	
 TOR001	uh eh avercelo il tempo libero
-TOI001	
 TOI001	avercelo il tempo libero
 TOR002	eh x
 TOI001	va a comprare le crocchette di romeo
 TOI001	sì vado a comprare il cibo per il cane
 TOI001	generalmente mi prendo cura
 TOR001	cerco di tenere a posto casa mia ma é mh impensabile anche far quello quindi
-TOI001	
 TOR001	xx sogno sogno ad occhi aperti xx
-TOI001	
 TOR001	siccome non riesco a sognare mentre dormo sogno durante il giorno
 TOR001	cosa devi fare per tenere curata casa
 TOI001	dicevi dalla parte esterna no
 TOR001	sì beh essendo una casa grossa ha anche la parte interna
-TOI001	
 TOI001	solo che penso che
 TOI001	se eh trecento metri quadri da solo da pulire sono difficili comunque
 TOI001	ehm
@@ -433,12 +405,8 @@ TOR001	m mi è sempre piaciuta l'attività sportiva quindi faccio attività spor
 TOI001	mhmh cosa fai
 TOI001	e
 TOR001	adesso in questo mome~
-TOI001	
 TOI001	e nie~
 TOR001	comunque eh gioco a calcio sono ancora tesserato
-TOR002	
-TOR001	
-TOI001	
 TOR001	in una squadra di calcio quindi gioco a calcio xxx
 TOR001	okay
 TOI001	giochi e basta alleni anche
@@ -449,7 +417,6 @@ TOR001	okay
 TOR001	ehm guardi anche il calcio o solo
 TOI001	cioè segui il calcio
 TOR001	seguo il calcio sì
-TOI001	
 TOI001	per carità
 TOI001	e ehm
 TOI001	siccome mi sono un po' stufato in verità seguo tanti sport
@@ -461,23 +428,16 @@ TOR001	okay
 TOI001	che squadra tifi
 TOR001	del toro sono xxxx sono un grana~ sono un granata
 TOR001	del toro
-TOI001	
 TOI001	vabbè
 TOR002	cioè oh
 TOI001	xxx
 TOR001	vivi a torino e sei della juve
-TOR002	
-TOI001	
 TOR001	ma sei pazza
 TOI001	ti ricordi come hai scelto la tua squadra
 TOR001	eh beh tutto è nato da bambino quando mia madre mi disse un giorno che se tifavo juve mio padre non sarebbe più tornato a casa
-TOI001	
-TOI001	
 TOI001	poi da lì eh è un po' e loro sono gli sfigati di turno gli altri vincono sempre quindi fan tenerezza e allora
 TOR001	e
-TOI001	
 TOR001	diciamo che
-TOI001	
 TOI001	xxx
 TOI001	sei condannato a non veder mai una coppa alza~ ar~ alzata però
 TOI001	per carità
@@ -489,10 +449,7 @@ TOI001	cioè
 TOR001	alla fine se vinci o perdi va bene uguale
 TOI001	sei abituato dici va bene
 TOR001	sì sì non ti fai il sangue amaro
-TOI001	
 TOR001	e se non giochi la finale di champions non rischi di vincerla
-TOR002	
-TOI001	
 TOR001	quindi va bene anche così x
 TOI001	ascolti musica
 TOI001	sì sì sì
@@ -502,12 +459,9 @@ TOI001	eh eh beh il lavoro a~ allora al lavoro purtroppo eh son costretto a asco
 TOI001	se no qualsiasi genere
 TOI001	da rino gaetano che ho comprato il cd l'altro ieri
 TOR002	anche lou reed ho comprato il cd l'altro ie~
-TOR001	
-TOI001	
 TOI001	però
 TOI001	mina eh
 TOR001	patty pravo xx
-TOI001	
 TOR001	can~ tanto cantautorato italiano comunque
 TOR001	okay
 TOI001	e ti capita di andare a concerti
@@ -527,15 +481,12 @@ TOR002	come mai non vai
 TOR001	xxx
 TOR002	ah sei a bologna
 TOR001	eh sì eh
-TOR001	
 TOR002	quindi niente
 TOR001	eh no xxxx
 TOR002	andate a vedere i foo fighters tu volevi andare
 TOR001	ma non so se a giulio piacciono
 TOI001	ti piacciono i foo fighters
 TOR001	sarei andato ai guns'n'roses sinceramente
-TOR002	
-TOR002	
 TOR001	poi comunque come è un bordello andare ai guns è un bordello anche la sera dopo
 TOR002	eh però i guns una volta
 TOR001	in che senso
@@ -568,28 +519,17 @@ TOI001	è il nome di un personaggio de de delle mie parti
 TOI001	ehm
 TOR002	ed è diventato anche un nome di un cocktail di un locale di torino
 TOR002	xxx
-TOI001	
 TOR001	perché questo personaggio frequentava quel locale fondamentalmente
-TOR002	
-TOI001	
 TOI001	e siccome è un cocktail che è fresco
 TOI001	eh
 TOR002	il primo neanche lo senti comunque va giù abbastanza velocemente
-TOI001	
 TOR001	finché a un certo punto non ti alzi più dalla sedia o non ti metti a ridere
-TOR002	
-TOI001	
 TOR001	papocc più o meno era la stessa cosa insomma non te ne accorgevi però non si alzava più dalla sedia a un certo punto
-TOR002	
-TOR001	
 TOI001	ma non sapevo che era una persona io
 TOR002	xx
 TOI001	mh
 TOR001	papocc
-TOR002	
-TOI001	
 TOR001	abita vicino a casa mia
-TOR001	
 TOR001	tu mi avevi portato vero
 TOR002	cioè io l'ho assaggiato
 TOR001	certo è stata una delle nostre prime uscite
@@ -602,7 +542,6 @@ TOI001	sopratutto se non conoscevo bene
 TOR001	è come casa tua insomma
 TOI001	beh poi abitavo vicina io
 TOR001	sì ma pino fa sempre trattamenti di favore
-TOI001	
 TOR002	xx
 TOI001	sì sì sì
 TOR002	non solo a te
@@ -613,7 +552,6 @@ TOR001	mh
 TOR001	la domanda successiva riguardava appunto le uscite
 TOI001	quindi quante volte a settimana riesci ad uscire più o meno
 TOR001	eh beh
-TOI001	
 TOI001	so~ sono un uomo under trenta single
 TOI001	e
 TOI001	a casa se ci sto troppo mi taglio le vene quindi tendenzialmente esco spesso
@@ -623,9 +561,7 @@ TOR001	ma spesso
 TOR001	okay
 TOI001	e che posti frequenti
 TOR001	e
-TOR001	
 TOI001	xxx
-TOI001	
 TOI001	beh o vado a casa di amici
 TOR001	eh oppure n~ non c'è una grossa offerta in quella zona di provincia
 TOI001	mhmh
@@ -633,9 +569,7 @@ TOR001	e quindi spesso ti sposti verso torino
 TOI001	mhmh
 TOR001	mh
 TOR001	quindi poi da pino
-TOI001	
 TOR001	sì o vado a giocare a biliardo insomma però comunque xxx bowling che sempre in via monginevro è non è che
-TOI001	
 TOI001	dici
 TOI001	mh anche dove dobbiamo andare al cinema bene o male
 TOR001	è così
@@ -652,12 +586,9 @@ TOR001	dunque
 TOI001	che tipo di film ti piacciono
 TOI001	oh oh oh ehi eh
 TOR002	qui proprio
-TOR001	
-TOI001	
 TOI001	cioè spaziamo su qualsiasi cosa
 TOI001	eh
 TOR001	sicuramente ti posso dire che non mi piacciono le vacanze di natale boldi e de sica
-TOI001	
 TOI001	no
 TOI001	ehm
 TOI001	che film mi piacciono oh mh
@@ -666,15 +597,12 @@ TOI001	hanno uno humor tutto loro
 TOR001	e quindi
 TOI001	tipo
 TOR001	mah sono andato l'ultimo film beh no adesso negli ultimi due anni non ci vado più da solo perché se no veramente xx
-TOI001	
 TOI001	eh come si chiamava eh adesso ti devo andare a cercare il titolo due anni fa ci sono andato all'ultimo film francese
 TOI001	se no
 TOI001	qualsiasi roba
 TOR001	spesso non scelgo io faccio scegliere
-TOR002	
 TOI001	allora l'ultimo che ho visto con te mi sa che è dragon trainer
 TOR001	è possibile
-TOI001	
 TOI001	che hai visto anche l'altra sera in tv
 TOI001	eh l'ultimo
 TOR002	tipo adesso andrò a vedere sicuramente guerre stellari
@@ -684,9 +612,7 @@ TOR002	sì
 TOI001	xxx sarà una cacata
 TOI001	sì probabile
 TOR002	ultimamente molto supereroi della minchia però mi portano a vedere quello e io alla fine accetto vado insomma
-TOR001	
 TOR001	oka~
-TOR001	
 TOR002	piacciono dico
 TOR001	mh ps~ sì nea~ a me neanche esageratamente in realtà
 TOI001	ecco quindi perché mi porti è una trappola
@@ -697,9 +623,6 @@ TOR002	thor
 TOI001	ma thor ne è uscito uno quest'anno
 TOR002	sì
 TOR002	cazzo
-TOR001	
-TOI001	
-TOR002	
 TOI001	eh a thor perché li ho visti tu~ ma come i batman l'ultimo faceva schifo
 TOR002	eh certo
 TOR001	ah quello dici te forse
@@ -716,21 +639,17 @@ TOR001	sezione tempo libero
 TOR002	tan tan tan tan
 TOI001	oddio
 TOR002	non lo so
-TOI001	
 TOR002	puoi chiedermi
 TOI001	qual è la parte che ti ha divertito di più nel tuo lavoro
 TOR001	la parte che
 TOR001	eh
 TOR002	con qual è la parte che ti ha divertito di più del tuo lavoro
-TOI001	
 TOR002	beh imparare quel mestiere insomma cioè ogni mestiere c'ha un pro e un contro
-TOI001	
 TOR001	qual è il pro del tuo lavoro qual è il contro del tuo lavoro
 TOI001	eh
 TOR001	mi faccio io la domanda da solo
 TOR001	vai
 TOI001	e datti una risposta
-TOI001	
 TOI001	eh il contro è che sei destinato a
 TOI001	non avere orari
 TOI001	okay
@@ -777,14 +696,8 @@ TOR002	mhmh
 TOR002	finché al mattino lei si sveglia xxx
 TOR002	poi faccio guarda cosa abbiamo fatto io e giulio
 TOR001	oh minchia avete lasciato il frigo staccato
-TOI001	
-TOR001	
-TOR002	
 TOI001	oh adesso è tutto da buttare
-TOR001	
 TOR002	parlo così io non ho capito
-TOI001	
-TOR002	
 TOI001	e questa è stata la reazione comunque
 TOR001	ah ecco
 TOR002	eh non mi ricordo
@@ -837,7 +750,6 @@ TOR001	ah
 TOI001	eh allora è la presa
 TOR002	mhmhmh
 TOR001	quindi vabbè ma cioè non è che xx non ti stavo chiedendo di farlo poi do~
-TOI001	
 TOI001	no però hai provato a escludere la presa
 TOI001	togli le quattro viti che ci sono
 TOI001	tiri fuori
@@ -847,8 +759,6 @@ TOI001	e tu invece che infilare quel coso lì
 TOR002	glielo attacchi sui fili sopra
 TOI001	cioè non ho capito
 TOR001	dopo te lo faccio vedere
-TOR002	
-TOR001	
 TOR002	eh però mi sa che è quello
 TOR001	mhmh
 TOR002	no
@@ -865,10 +775,8 @@ TOI001	eh e se non ha i fili
 TOR002	ciao
 TOI001	eh e se non ha i fili mi ha preso per il culo
 TOR002	eh sì
-TOR001	
 TOI001	come fa a non avere i fili
 TOR001	mh bah se non nessuno ti abbia mai fatto un allaccio
-TOI001	
 TOR001	ai fili che c'erano già
 TOR001	cioè come se io lo attaccassi qua
 TOR002	a caso
@@ -892,28 +800,19 @@ TOI001	queste sono perché in realtà le parti sono
 TOR001	suoni uno strumento
 TOI001	eh ma era nella sezion~ suoni uno strumento no
 TOI001	buongio~
-TOI001	
 TOI001	ho fatto due anni di corsi di chitarra per per non saper neanche prendere il plettro
 TOR001	però
 TOI001	come me tempo ben speso comunque
 TOI001	sì sì
 TOI001	eh oh
 TOR001	lo facevo la domenica mattina alle otto
-TOR002	
-TOI001	
-TOI001	
 TOR001	a sedic'anni tu hai presente un sedicienne che entra a casa di uno a far suonare la chitarra la domenica mattina alle otto
-TOR002	
 TOI001	direi di no
 TOR002	mamma mia gli ho fatto delle cose in quella casa che
-TOR001	
-TOI001	
 TOR002	però comunque mi sarebbe sempre piaciu~
 TOI001	è già tanto se ci abita ancora
 TOI001	so fare so suonare il flauto
 TOR002	per forza me l'hanno insegnato alle medie
-TOR001	
-TOI001	
 TOR001	alle medie ti insegnano quello
 TOI001	fra martino
 TOI001	però vedi mia sorella
@@ -935,8 +834,6 @@ TOI001	quindi
 TOI001	chi lo sa
 TOI001	magari a trentatré anni anch'io
 TOR002	prenderò di nuovo il flauto in mano
-TOR001	
-TOR001	
 TOI001	e calcio che ruolo hai
 TOR001	eh a oggi sono un centrocampista centrale
 TOI001	mhmh
@@ -946,7 +843,6 @@ TOI001	eh ero
 TOR001	un interno di centro campo
 TOI001	mh
 TOR001	ho fatto anche la fascia una volta ma
-TOI001	
 TOI001	poi
 TOI001	lasciam stare
 TOR001	quando ero più piccolo facevo il difensore
@@ -957,7 +853,6 @@ TOI001	ah no~ no~ no~ non sapevo questa cosa
 TOI001	e quelli come mi fe~
 TOR001	e quelli coi ferri da stiro stanno sulle fasce
 TOR002	ah sì
-TOI001	
 TOR001	eh i piedi buoni la palla deve viaggiare veloce in centro e quindi que~
 TOI001	quindi i terzini non hanno i piedi buoni
 TOR001	ma figurati
@@ -968,7 +863,6 @@ TOR001	ma figurati
 TOI001	mah scusa
 TOI001	sparano
 TOR001	sparano dietro la porta xx e fanno solo quello
-TOI001	
 TOR002	sono allucina~
 TOI001	xx da cui il termine terzinaccio cioè
 TOR001	sì sei un terzinaccio vuol dire che tanta corsa
@@ -979,7 +873,6 @@ TOI001	oh io sono
 TOR001	cioè son quattro al mondo che
 TOI001	mah ma io sono cresciuta amando maldini non mi puoi dir queste robe
 TOR001	beh eh
-TOI001	
 TOI001	però
 TOI001	mi dispiace
 TOI001	dispiace ma maldini grandi piedi non
@@ -988,23 +881,18 @@ TOI001	verrà ricordato per la storia per i grandi piedi
 TOI001	cioè se mi dici un terzino con grandi piedi ti dico cafù
 TOR001	okay
 TOR002	cafù
-TOI001	
 TOR001	eh cafù ragazzi
 TOI001	grandi piedi
 TOR001	eh eh
 TOI001	però in effetti crossava un sacco hai ragione hai ragione
 TOR001	eh ma faceva anche i sombrero della gente
 TOR002	sombrero
-TOI001	
 TOI001	vedi nedved
 TOI001	eh che s'è che un pallone d'oro che se n'è presi un paio di fila in un derby roma lazio
 TOI001	eh maicon
 TOR001	aveva un gran piede però comunque insomma
-TOR002	
-TOI001	
 TOI001	eh
 TOR001	se no tendenzialmente hanno sempre le ciabatte
-TOI001	
 TOR001	eh i terzini sono abbastanza buoni sugli stop
 TOI001	okay
 TOR001	mh
@@ -1025,9 +913,6 @@ TOI001	non può succedere ho capito
 TOI001	xxx
 TOI001	semplicemente che hanno
 TOR001	a oggi c'è una crisi di difesa di centrali mostruosa e quindi dicono vabbè vai lì
-TOR001	
-TOR002	
-TOI001	
 TOI001	però comunque anche lì
 TOI001	cioè
 TOI001	quale ti ricordi di terzino che finisce a fare la difesa centrale che arriva
@@ -1036,7 +921,6 @@ TOI001	vabbè tipo chiellini non aveva iniziato esterno
 TOI001	ho capito ma lui difatti giocava prima
 TOI001	ha fatto
 TOR001	prima di finire adesso che adesso giocano a quattro e difatti adesso xx quante cappelle che non fa chiellini
-TOI001	
 TOI001	okay
 TOR001	però fino all'anno scorso che son stati anni vincenti loro giocavano in difesa a tre
 TOR002	mh mh
@@ -1051,16 +935,11 @@ TOR002	alla taddei quella gente lì insomma
 TOR002	mh
 TOR001	cioè taddei
 TOR002	niente
-TOR002	
 TOR001	chiedigli qual è la sua mossa preferita a calcio e~ ecco
-TOI001	
 TOR002	la mia mossa è la rovesciata chiaramente io vivo per le rovescia~
-TOR001	
 TOI001	chiaramente
 TOR002	chiaramen~
-TOI001	
 TOR002	un anno mi ricordo sono arrivato ubriachissimo alla festa di marika
-TOI001	
 TOR002	al campo dovevo essere tipo la partita era alle due forse xx
 TOI001	ma io c'ero
 TOI001	non mi ricordo se c'eri quell'anno
@@ -1069,35 +948,24 @@ TOI001	prendo la borsa all'una vado al campo alle due vado a giocare
 TOI001	sul rinvio del portiere
 TOI001	io ero al centrocampo
 TOR001	rovesciau in dire~ proprio dire~
-TOR002	
-TOI001	
 TOR001	mai vista una cosa del ge~
-TOI001	
 TOR002	ero veramente tanto lungo
 TOI001	comunque io c'ero
 TOR002	che ne so se quell'anno lì c'eri
 TOI001	sì sì sì ero andato a dormire presto diciamo ma c'ero
 TOI001	ah
 TOR001	ah okay
-TOR002	
-TOR001	
 TOR001	eh ma la rovesciata quante te ne capitano scusa
 TOI001	non è una roba da far sempre
 TOR001	no però è la tua mossa preferita chiaramente appunto perché non la fai sempre
-TOR002	
 TOI001	no ma la domanda era il tuo dribling preferito
 TOR002	ah il mio dribling preferito
-TOI001	
 TOI001	beh io sono uno che va a rallentatore
 TOI001	cioè quando mi vedi vado in slow motion
 TOR001	xxx
-TOI001	
 TOI001	non faccio nulla in velocità okay
 TOI001	e
 TOR002	quindi tendo a fare la mossa kansas city
-TOR002	
-TOR002	
-TOI001	
 TOI001	finta a destra e poi vado a sinistra
 TOI001	anche perché spesso mi mettono in galera con dei palloni imbarazzanti quindi
 TOI001	tempo che stoppi la palla lui muove da dietro e tu hop e vai da una parte
@@ -1106,8 +974,6 @@ TOI001	e vai da una parte
 TOR001	oppure glielo fai a rientrare con il tunnel
 TOR002	eh
 TOI001	no in realtà è giulio che c'ha i piedi buoni io l'ho visto aspettare il tunnel tornando indietro
-TOR001	
-TOR002	
 TOI001	e poi ritornare indietro dove doveva andare
 TOI001	vabbè lì però giocavo con i tuoi amici
 TOI001	e se lo provo a fare in un campo da calcio di seconda o prima categoria
@@ -1116,10 +982,7 @@ TOR002	no
 TOR002	vabbè
 TOI001	ma io dico ai campetti
 TOR002	mi recuperano la gamba
-TOR001	
-TOI001	
 TOR001	in un altro stadio
-TOI001	
 TOI001	mh eh
 TOI001	diciamo che se sali di livello col gioco è più facile per tu~ cioè per gente come me è più facile
 TOR001	cioè finche giochi in campi come questi con gentaglia che da i palloni male
@@ -1263,7 +1126,6 @@ TOI001	mh
 TOR001	però quelle cose lì anche lì poi appena cambi squadra però ti fan fuori eh anche da dipendente non credere
 TOR001	ciao
 TOR002	certo
-TOR001	
 TOI001	eh e rimani a piedi del tutto a quel punto
 TOI001	mh mh
 TOI001	sì sì
@@ -1311,7 +1173,6 @@ TOR001	qua a torino poco in verità
 TOI001	eh certo quindi di conseguenza poi chiudono perché una volta che lo sponsor ti taglia i fondi
 TOI001	sì o comunque e sei costretto ad avere più sponsor
 TOR001	cioè vedi noi abbiamo rino che ci fa le magliette
-TOI001	
 TOI001	eh poi abbiamo quell'altro che
 TOR001	che cacchio ne so che ha l'autoscuola che mette qualcosa
 TOI001	mhmh
@@ -1420,7 +1281,6 @@ TOR002	davvero
 TOR001	certo
 TOR002	c'era anche a milano
 TOR001	sì
-TOI001	
 TOR002	beh sì
 TOI001	era il vecchio palastampa il mazdapalace
 TOI001	palastamp~
@@ -1442,7 +1302,6 @@ TOR002	sì
 TOI001	dov'è
 TOI001	c'era
 TOR001	l'hanno chiuso quello perché hanno aperto l'altro
-TOR002	
 TOI001	ah appun~
 TOI001	prima che aprissero l'altro
 TOR002	c'era quello lì aperto
@@ -1513,7 +1372,6 @@ TOR001	eh machiavelli
 TOR002	ma hai mischiato
 TOR001	sì
 TOR001	mh
-TOR002	
 TOR002	ma mh
 TOR002	ma più che atro mettetevi d'accordo sulle regole perché
 TOR001	secondo me le sapete diverse voi
@@ -1590,13 +1448,10 @@ TOI001	vai
 TOR002	vai
 TOI001	tocca a me
 TOR001	sì
-TOR002	
 TOR002	a no aspetta cazzo
 TOR002	eh ah
 TOI001	vai
 TOR002	eh in culo xx
-TOR001	
-TOI001	
 TOR001	mh sicuramente è andata un po' avanti ma non credo in maniera così folle
 TOI001	vai
 TOR001	la città di torino
@@ -1623,7 +1478,6 @@ TOR002	vai
 TOR002	eh mh
 TOR002	vai
 TOR001	in realtà non ero sicuro di passarlo ma ormai l'avevo preso
-TOR001	
 TOR001	ah io devo pescare è vero scusate
 TOI001	vai
 TOR001	vai
@@ -1659,13 +1513,11 @@ TOR001	eh
 TOI001	lui ha detto milano eh
 TOR002	anche
 TOR001	mh milano
-TOI001	
 TOR001	perché la gente ci va a milano
 TOI001	e perché invece dicevi che milano ti sembra sempre in evoluzione
 TOI001	perché hanno un'altra mentalità
 TOI001	ehm
 TOR002	eh un eh
-TOI001	
 TOI001	sta diventando una città un po' atipica per l'italia
 TOI001	cioè una città come può essere una barcellona una
 TOI001	eh londra
@@ -1686,7 +1538,6 @@ TOI001	mhmh
 TOI001	e quindi è una città in continua evoluzione
 TOI001	spendono anche molto di più soldi per quelle infrastrutture
 TOR002	appunto per dare quella notorietà che a torino non interessa
-TOI001	
 TOR001	insomma
 TOI001	mhmh
 TOR002	a chi tocca
@@ -1694,7 +1545,6 @@ TOR001	eh secondo me a te
 TOI001	mhmh
 TOI001	ah
 TOR001	prenditeli questi x così impari x
-TOR001	
 TOR001	non lo so è che io a milano conosco di fatto solo persone di lì
 TOR001	cioè
 TOI001	no anche persone che vengono da fuori però molte meno
@@ -1712,7 +1562,6 @@ TOR001	mh
 TOR001	e per cui non ho questa immagine
 TOR001	statica no
 TOR002	che invece ho più su milano ma per
-TOI001	
 TOR001	sì
 TOI001	cioè
 TOR001	certo
@@ -1775,7 +1624,6 @@ TOR002	eh
 TOR001	sì tanto hai detto vai
 TOR001	eh quindi te la tieni
 TOR002	vai
-TOR001	
 TOI001	beh è molto più vivibile in compenso secondo me torino
 TOI001	sì
 TOI001	cioè
@@ -1804,7 +1652,6 @@ TOI001	ma sai poi torino comunque anche solo il fatto che la vita costi molto di
 TOI001	sì sì sì
 TOR001	mh sta di fatto che tutto è proporzianato a un guadagno eh cioè insomma
 TOR002	sì sì certo certo
-TOR001	
 TOI001	certo
 TOR001	quando tu guadagni mille e cinque a milano guadagni due e cinque
 TOI001	eh hai ragione
@@ -1815,11 +1662,9 @@ TOI001	però appunto io che avrei lo stesso stipendio se vivessi a milano sarebb
 TOR001	ah sì sicuro sì sì non xx
 TOI001	cioè è impensabile
 TOR001	io ho pescato quindi
-TOI001	
 TOR002	xxxx
 TOR002	vai
 TOR001	eh non l'ho ancora capita questa storia
-TOR002	
 TOR001	eh non c'ero quando l'hanno spiegata
 TOR002	mh
 TOR001	che abbiocco
@@ -1830,16 +1675,13 @@ TOR002	sei stanco
 TOR001	seh
 TOR002	seh
 TOR001	so~ stato pure dal giudice oggi
-TOI001	
 TOR001	per adesso facciamo così
-TOI001	
 TOR001	vai
 TOR001	eh poi una cosa che ho notato che dicevo prima appunto che ci sia m~
 TOR001	mol~
 TOR002	~to meno rispetto che ad altri posti cosa stai face~
 TOR001	eh eh
 TOR002	va tutto bene
-TOI001	
 TOR002	marcione
 TOR002	è vero
 TOR001	eh xxxx
@@ -1848,8 +1690,6 @@ TOI001	sì
 TOR002	è perché
 TOI001	vedi me
 TOR002	è stra~
-TOR001	
-TOI001	
 TOR002	è strano
 TOI001	xx
 TOI001	è strano
@@ -1872,7 +1712,6 @@ TOI001	allora potremmo fare
 TOI001	tavatà tarà
 TOI001	tararà ta ta
 TOR001	ta ta ta tarà ta tatà
-TOR001	
 TOR001	ma mi ha morso una zanzara
 TOR002	a dicembre
 TOR001	ma son quei moscerini di merda delle piante non son le zanzare
@@ -1882,19 +1721,15 @@ TOR001	sì
 TOR002	eh
 TOI001	eh ma perché c'è gli alberi
 TOR001	che stronzo x
-TOI001	
 TOI001	vai
 TOI001	vai
 TOI001	non me ne faccio niente ma vai
 TOI001	bravo
 TOR001	bravo bravo
-TOI001	
 TOI001	bravo molto molto bravo
 TOR002	bravissimo
 TOI001	vai
 TOR001	che segna~ eh
-TOR002	
-TOI001	
 TOI001	eh uh ahuh eh
 TOI001	però
 TOI001	eh ah okay ce l'ho
@@ -1910,7 +1745,6 @@ TOR002	e
 TOR002	è anche vero che è tardi che hai una
 TOI001	tranquillità propria
 TOR001	ma questa però è un'idea sbaglia~ una volta si facevano i figli nelle grotte vabbè
-TOR002	
 TOI001	xxx
 TOR001	questa è una puttanata
 TOR002	però questo vale per tutto non è che vale per solo per torino
@@ -1963,16 +1797,13 @@ TOR001	no anche perché non hai l'urgenza di farlo
 TOI001	vai scusami
 TOI001	tu sai che
 TOR001	ippi ippi ya yeu
-TOI001	
 TOI001	lì
 TOR001	ma quella manca questa cippa xxxx della cippa e questo ques~ cicì papà
-TOI001	
 TOR002	vai
 TOI001	chi c'è
 TOR002	c'ho un doppione in mano che non metterò cioè
 TOI001	uh
 TOR001	me lo porto ancora a casa eh quando vado via
-TOI001	
 TOR002	porca vacca
 TOR002	hai voglia a me lo dici
 TOR002	quello lo siste~ no lo sistemo no quello lo sistemo
@@ -1982,7 +1813,6 @@ TOR002	aspetta eh
 TOI001	boh proviamoci
 TOR001	xxx ricordati un po' come hai fatto le cose
 TOR001	siamo a posto
-TOR002	
 TOI001	no vabbè ma vado per gradi
 TOR002	eh non esagerare
 TOI001	xx così
@@ -1999,22 +1829,17 @@ TOR002	che mossone
 TOR001	ah no però cazzo quello dello stesso seme puttana la merda
 TOI001	eh è una scala scusa
 TOR001	eh eh eh sì xx
-TOR002	
 TOR001	sì ma non dello stesso seme di quello non sai cosa avevo in mente
-TOR002	
 TOI001	eh
 TOR002	una porcata difatti non la puoi fare
 TOR001	seh
-TOR002	
 TOR001	passo
 TOR002	pa pa pa pam
 TOI001	potevo anche tenermelo in mano il tris di jack
 TOI001	sì
 TOR002	potevi farti una porzione di cazzi tuoi una volta
-TOR001	
 TOI001	vai
 TOR002	grande scandalo
-TOR002	
 TOI001	vai
 TOR002	mh xx così
 TOI001	non l'ho neanche guardata e avevo già detto vai
@@ -2025,20 +1850,16 @@ TOI001	che
 TOR002	ches che xx uh
 TOR001	tre quattro cinque di picche
 TOR002	vai
-TOR001	
 TOI001	oh
 TOR001	no eh vai
-TOI001	
 TOR002	ulan
 TOI001	vai
 TOR001	ulan bator qua
 TOI001	vai
 TOR001	caldissimo con questa carta
-TOI001	
 TOR002	vattela a pesca
 TOR002	vai
 TOR002	vattela a pesca
-TOI001	
 TOR001	obladì obladà disse
 TOI001	fermi
 TOR001	no no io non mi son~ mosso
@@ -2059,19 +1880,15 @@ TOR001	manco per niente
 TOR001	a meno che
 TOR001	ah a meno che invece sì ho finito yeh
 TOR002	allora
-TOR001	
 TOR001	tre
 TOR001	e due
 TOR001	poi
 TOR001	questa mi serve questa la metto qua questo me lo prendo
 TOR002	questo così e questo così
-TOI001	
 TOR001	san marzano ma i kappa
-TOR002	
 TOI001	eh i kappa spiegami come li vuoi xxx
 TOR002	ti vuoi svegliare e mettere giù qualche cacchio di kappa aoh
 TOR001	io avevo questo dall'inizio
-TOI001	
 TOI001	dai
 TOR002	pescavo pure la donna di picche per il jolletto
 TOR002	oh
@@ -2083,7 +1900,6 @@ TOR002	sì uno
 TOR001	no
 TOI001	eh
 TOR002	la mia doppia di kappa
-TOI001	
 TOR002	dai dove li metto
 TOI001	eh
 TOI001	gli altri riuscivo a sistemarli ma
@@ -2111,15 +1927,12 @@ TOR002	andate a fare la spesa quindi
 TOI001	mhmh
 TOR002	sì
 TOR001	beh oddio se giulio ha voglia
-TOR002	
-TOR001	
 TOR002	ma a quest'ora c'è gente
 TOI001	no
 TOR002	la mer~ eh no
 TOI001	xx
 TOI001	eh la merda di quest'ora
 TOR001	dobbiamo farne ancora una
-TOR002	
 TOI001	eh
 TOR001	perché in generale tra le undici e mezza
 TOR002	xx che sta fumando
@@ -2134,7 +1947,6 @@ TOI001	che palle
 TOI001	dopo le undici e mezza non puoi più prendere alcolici ma dalle undici e mezza a mezzanotte non non accettano i bancomat
 TOR002	perché hanno problemi con il pos
 TOR002	non la sapevo questa storia
-TOR001	
 TOI001	ma perché non per la contabilizzazione un giorno l'altro ah
 TOI001	mh
 TOI001	mhmh
@@ -2145,12 +1957,9 @@ TOI001	eh sì
 TOI001	eh sì sì
 TOR002	cioè dalle undici e mezza a mezzanotte devi pagare in contanti
 TOR001	tanto voglio dire non chiudono al massimo ti metti lì e aspetti
-TOI001	
 TOI001	cioè una volta ho beccato uno che ha rubato un coso di formaggio
 TOI001	minchia lo volevano arrestare
 TOR002	minchia
-TOR001	
-TOI001	
 TOI001	te lo pago io piuttosto dai
 TOI001	cazzo è un pezzo di forma~
 TOI001	poi secondo me se rubi il cibo ragazzi
@@ -2279,10 +2088,8 @@ TOI001	no aspetta
 TOR002	eh
 TOI001	no aspe~
 TOR002	bravo
-TOR001	
 TOI001	è confuso
 TOR002	bella roba
-TOR002	
 TOR001	vai
 TOI001	vai
 TOR002	vai
@@ -2293,7 +2100,6 @@ TOR001	ehi ehi ehi
 TOR002	ma hai pescato
 TOI001	no
 TOR001	xxx e è ancora li che pensa
-TOR002	
 TOI001	mh ma tocca a me
 TOR001	mh
 TOR002	eh
@@ -2303,7 +2109,6 @@ TOR002	xx
 TOR001	il vai non ho sentito vai
 TOR002	vai
 TOR001	tocca a te hai giocato
-TOR001	
 TOI001	vai
 TOR002	va~
 TOI001	oh eh io qua c'ho x un po' di robaccia
@@ -2318,15 +2123,11 @@ TOI001	vai
 TOR002	vai
 TOI001	vai
 TOR001	bravo bravo bravo
-TOR002	
 TOI001	eh
 TOI001	bravo bravo
 TOI001	adesso metterò
 TOI001	incomincio con le tecniche
 TOR002	guarda qua
-TOR001	
-TOR002	
-TOR001	
 TOI001	vai
 TOI001	guarda qua adesso io ti marmellazzo proprio
 TOR002	uff vai
@@ -2334,19 +2135,15 @@ TOI001	vai
 TOI001	vai
 TOI001	sì sì
 TOR001	ti dico già solo che questa è una tecnica
-TOI001	
 TOR002	te la me~
-TOI001	
 TOI001	te la metto già lì
 TOR002	te la metto già lì
 TOI001	che cazzo
 TOI001	sogià cosa fare
 TOR002	vai vai vai
-TOI001	
 TOI001	vai vai vai vai vai
 TOR002	vai tranquillo vai vai vai vai vai vai vai vai
 TOR001	non te lo faccio
-TOI001	
 TOR002	vai vai vai
 TOI001	faccio questo
 TOR002	bravo bravo bravo
@@ -2362,25 +2159,18 @@ TOR001	eh non puoi smontarmi il mio gioco
 TOR002	ti ho rotto il gioco
 TOI001	mh
 TOR001	hai rotto qualsiasi cosa qua
-TOR001	
 TOI001	vai
 TOR002	te l'ho detto che era una tecnica
 TOI001	minchia
 TOR001	eh avevo tutte quelle carte di merda che non riuscivo a mettere xxxx qualcosa
-TOI001	
 TOI001	adesso mi serve un'altra tecnica
 TOI001	come la faccio
-TOI001	
 TOR001	vai vai vai
-TOR002	
-TOI001	
 TOI001	vai vai
 TOI001	son buonissi~
 TOI001	sono proprio a posto sono a cavallo
 TOI001	aspetta lì che cazzo
 TOR002	ahi potevo fare un'altra cosa che minchia proprio ti incartonavo
-TOR001	
-TOI001	
 TOI001	sì sì sì sì sì
 TOI001	vai fai tranquillo vai
 TOI001	non c'è più niente
@@ -2394,27 +2184,20 @@ TOR001	mh mh mh
 TOI001	vai
 TOI001	undertaker
 TOI001	eh eh
-TOR001	
-TOI001	
 TOI001	non so se fidarmi del cuore delle carte
 TOI001	o incominciare a demolire un po' di roba però
-TOI001	
 TOR002	tu poi l'hai fat~ hai fatto solo quello hai fatto
 TOI001	eh sì sì sì sì
 TOI001	eh no
 TOI001	eh no
 TOR001	eh no
-TOI001	
 TOI001	eh perché questo barbone qua cosa fa
 TOI001	spacca gli assi mette l'asso piglia l'asso fa quello e ci mette tutto per un tre
 TOI001	perché l'asso di qua e di là
 TOI001	lui avrà
 TOI001	sì
 TOR002	sì sì
-TOR001	
-TOI001	
 TOR002	tutto per un tre lo fa
-TOR002	
 TOR002	tutto
 TOI001	no non mi serve il tre giulio te lo dico
 TOI001	cioè
@@ -2426,9 +2209,7 @@ TOI001	t'ho beccato vai
 TOI001	ciao
 TOI001	vai
 TOR002	uf
-TOI001	
 TOR001	quel cuore delle carte ragazzi
-TOI001	
 TOI001	mister fantastic è arrivato qua
 TOR002	adesso devi fare solo più un paio di combo
 TOI001	vai
@@ -2437,19 +2218,15 @@ TOI001	vai
 TOR002	hai pescato
 TOI001	mh sì
 TOR001	sì sì sì sì bravissima sì sì sì sì
-TOI001	
 TOI001	ti prendi questo
 TOI001	dammi
 TOR002	ma guarda lì xx cioè
-TOR001	
-TOI001	
 TOI001	tu tu
 TOI001	tu tu malefico tu
 TOI001	prendiamola di cuori e non di picche
 TOI001	mh sì
 TOR002	tieni questi son per te
 TOR001	non lo volevo il tre comunque
-TOR002	
 TOI001	non mi serviva
 TOR002	tieni
 TOI001	non te lo volevo dire
@@ -2459,16 +2236,11 @@ TOR001	vai
 TOI001	cazzo sei a una carta
 TOR002	eh t'ho detto che incominciavo a fare un po' di magheggi
 TOR001	eh
-TOR002	
 TOI001	xxx
 TOR002	vedi che lui quello lì lo sapeva che lo puntavo
-TOI001	
 TOR001	e lo stava puntando non capivo se voleva l'asso per quello comunque gli serviva qualcosa
-TOR002	
 TOI001	eh
 TOR002	tutto ciò per prendere una donna che poteva prendere da qua
-TOR001	
-TOI001	
 TOR002	prenderai questa adesso immagino
 TOI001	eh
 TOR002	eh
@@ -2479,7 +2251,6 @@ TOR002	mh
 TOR002	eh
 TOI001	vedi che ce l'avevo
 TOR002	te l'ho detto che c'ha il jack di fiori
-TOI001	
 TOR002	ma guarda che
 TOI001	eh
 TOI001	tutto
@@ -2496,7 +2267,6 @@ TOR002	allora x
 TOR002	eh
 TOR001	mh gesù è
 TOR002	fai il bravo
-TOI001	
 TOI001	porco
 TOI001	l'orco
 TOI001	eh sì
@@ -2505,7 +2275,6 @@ TOR002	cazzo vabbè
 TOR001	porco rosso
 TOR001	mh vabbè
 TOR002	tac
-TOI001	
 TOR002	no di cuori eh
 TOR001	xxx
 TOR001	beh tanto
@@ -2517,7 +2286,6 @@ TOR001	eh quindi è cuori
 TOI001	aspetta è cuore se lo metti qua
 TOR001	sì
 TOR002	ma se avessi l~ quello di picche te lo prendi lo stesso e lo giochi
-TOI001	
 TOI001	ah
 TOR001	okay non distingui te il concetto il concetto è un altro nove
 TOR001	no nel senso che se lo
@@ -2528,22 +2296,17 @@ TOI001	tieniti su le carte che le vedo
 TOR002	mamma mia
 TOI001	mh mh mh
 TOR001	che lupo alberto vai
-TOR002	
-TOR002	
 TOI001	mh che mode~
 TOR001	mamma mia che roba che ho pescato
 TOI001	addirittura
 TOR001	sì sì sì sì
-TOI001	
 TOR001	credi nel cuore delle carte dissero un giorno
-TOR002	
 TOI001	mh
 TOI001	sì sì sì sì
 TOI001	adesso mi serve solo un altro
 TOR002	wow
 TOI001	mh mh
 TOR001	posso pescare due carte che mi mi sa
-TOI001	
 TOI001	tre
 TOI001	quattro sono
 TOI001	cinque sei sette otto in verità
@@ -2559,8 +2322,6 @@ TOI001	vai
 TOI001	puttana eva
 TOI001	vacca logia
 TOI001	xxxx
-TOR001	
-TOI001	
 TOR002	che palo che ho preso vai
 TOR001	vai
 TOR002	arrivo
@@ -2568,12 +2329,8 @@ TOI001	no è strano eh
 TOR001	mister fantastico ho pescato una carta di merda mister fantastic
 TOI001	vai
 TOR001	che tigna polacca
-TOR002	
-TOI001	
 TOI001	minchia ho pescato un palo d~ clamoroso che adesso è un casino se no avrei chiuso
-TOI001	
 TOR001	tu tutu tu tutu tu tututu tutututu tu tu tu
-TOI001	
 TOR001	per la domenica sportiva
 TOR001	fallo ancora
 TOR001	la ds
@@ -2584,13 +2341,7 @@ TOR001	eh quella con l'occhio azzurro che non mi ricordo mai il nome sì sì c'�
 TOR001	sì
 TOI001	minchia
 TOR001	eh allora
-TOR001	
-TOR001	
-TOI001	
 TOR001	tutu tu tututu tutututu tu tu tum
-TOI001	
-TOR002	
-TOR001	
 TOI001	mh
 TOI001	aspetta aspetta aspetta
 TOI001	rabiot
@@ -2602,45 +2353,33 @@ TOI001	ehm
 TOI001	quello oppure
 TOI001	quello anche
 TOR001	no
-TOI001	
 TOR001	mh eh c'ho un punto morto
-TOR002	
 TOI001	okay
 TOR001	no no tocca a me tocca a me
 TOR002	no no sì lo so
 TOI001	ah
 TOR001	vacca al tram vacca
-TOI001	
 TOI001	neanche sta carta
 TOI001	una carta neanche oh
 TOI001	non esiste
 TOR001	se spacco ventiquattromila cose non ci arrivo lo stesso
-TOI001	
 TOI001	porco
 TOI001	mi manca sempre quella carta
-TOI001	
 TOI001	no
 TOI001	non credo più nel cuore delle carte
 TOI001	mi conviene
 TOR002	sì sì sì sì
-TOI001	
 TOR002	guarda un attimo le carte
 TOI001	le mie
 TOR001	mhmh
-TOR001	
-TOI001	
 TOR001	eh quella carta lì ho capito qual è è difficile per te da mettere ti aiuto io adesso eh
-TOI001	
 TOI001	però però tu mi devi fare un favore eh poi dopo
 TOR002	allora
-TOR001	
-TOI001	
 TOI001	te lo dico
 TOR002	io ti ho aiutato eh
 TOI001	guarda questo
 TOI001	te lo dico eh te lo metto già qua
 TOR002	passo
-TOR002	
 TOR002	mh mh mh
 TOI001	guarda
 TOI001	te l'ho detto io che volevi questo
@@ -2650,15 +2389,12 @@ TOR002	s s s~ s~ s~ s
 TOR002	e adesso vado a fare un
 TOI001	paciocco
 TOR001	eh ma te ne avanza una poi te lo dico
-TOI001	
 TOI001	eh lo so lo so
 TOR002	lo so lo so
-TOI001	
 TOR002	te ne avanza una
 TOR002	eh
 TOI001	eh sì che ne avanza una xxx
 TOR001	eh
-TOR001	
 TOR002	ma a te quante ne avanzano adesso
 TOR001	una
 TOI001	mh
@@ -2676,23 +2412,18 @@ TOI001	eh ma hai fini~
 TOR002	eh sì ma hai fini~ passi il turno
 TOI001	ah sì vai
 TOR001	che testa di testicolo porca miseria
-TOR002	
 TOR002	qual era l'altra tua
 TOI001	era la mia questa
 TOR001	era più facile da sistemare quella
 TOR002	dai comunque due su due eh
 TOI001	eh
 TOR001	sì
-TOI001	
 TOI001	da qua t'ho smontato tutto
 TOR002	tutti i quattro tutti eh
-TOR002	
 TOI001	ma come cazzo hai fatto a capire che avevo l'otto di picche in mano
 TOI001	mi serviva un tre
 TOR002	perché era una carta impossibile da mettere
-TOI001	
 TOR001	e quando tu mi dici eh xxx la carta è impossibile
-TOI001	
 TOR002	i nove li sistemavi i dieci bene o male
 TOI001	questo volevo togliere io
 TOR002	eh ho capito
@@ -2706,7 +2437,6 @@ TOI001	ah il jolly volevi non il ah scusa
 TOR002	eh sì
 TOR002	eh io dovevo fare sette otto nove così
 TOR001	togliere questo
-TOI001	
 TOR002	eh non ce la facevi
 TOI001	mh anche il tre guarda dov'era il tris di tre
 TOI001	eh
@@ -2714,7 +2444,6 @@ TOI001	io questo riuscivo a mettertelo qua questo qua
 TOI001	questo qua ti doveva andare a smontare un tris di due e prenderti un tre là
 TOR001	e va bene poi il tris di due però erano cazzi e mazzi
 TOR002	mhmhmh
-TOI001	
 TOI001	eh perché io poi questo due qua lo potevo aggiustare qua
 TOR001	però mi mancava il due di fiori
 TOI001	mhmh
@@ -2730,11 +2459,9 @@ TOR001	eh
 TOI001	perché era il tris per attaccare il quattro
 TOI001	eh ma fosse stato più sveglio questo te lo metteva
 TOR001	solo che dorme come un boccalone
-TOI001	
 TOI001	dai su
 TOI001	facevi quel tris di otto alternativo
 TOR002	prendevi l'otto di picche l'otto di quadri e l'otto di fiori
-TOI001	
 TOI001	che t'avevo messo anche il cinque quindi tu avevi sette cinqu~ e te~ sette sei cinque
 TOI001	prendevi l'otto di fiori l'otto di quadri che era qua che potevi prendere e l'otto di picche
 TOI001	sistemavi il tuo cazzo di sette con il sette di quadri che riuscivo ancora a prendere il sette di picche
@@ -2746,10 +2473,7 @@ TOI001	cioè hai perso
 TOI001	te lo sistemavo io quel sette
 TOI001	dreamer
 TOR002	invece ti sei fatto prendere un po' da
-TOI001	
 TOR002	ti sei fatto prendere da questa cosa che non sei riuscito ad attaccare una carta
-TOR001	
-TOI001	
 TOI001	sei andato in crisi
 TOR002	eh
 TOR002	che abbiocco

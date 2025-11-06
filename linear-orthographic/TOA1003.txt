@@ -18,7 +18,6 @@ TO061	sì può chiuderla
 TO065	ehm
 TO071	tanto qualunque cosa accada viene registrata
 TO061	va bene grazie
-TO061	
 TO065	e dicevo
 TO061	allora ecco nei corsi di neri cosa ha trovato
 TO061	xxx fatto un confronto
@@ -153,7 +152,6 @@ TO065	sì sì
 TO065	allora qui vedo che ce n'è una ristampa
 TO065	del sessantasei
 TO061	che è presente ovviamente solo a napoli neanche a dirlo
-TO065	
 TO065	e invece
 TO065	questo
 TO065	niente
@@ -180,7 +178,6 @@ TO065	mhmh
 TO065	nel senso che se
 TO065	io le direi di fare questo
 ???	appunto visto se lei mi manda qualche link
-TO065	
 TO065	ehm
 TO061	scusi zittisco questo coso
 TO065	mh di nulla
@@ -811,7 +808,6 @@ TO065	purtroppo
 TO065	nella transcodifica poi accadono i pasticci
 TO061	e se lei
 TO061	mamma mia
-TO065	
 TO061	il giorno prima della consegna si trova in guai del genere
 TO065	mhmh
 TO065	poi dopo è un problema
@@ -1027,7 +1023,6 @@ TO065	sì
 TO065	allora
 TO065	ehm diciamo che la risposta è
 TO061	sì e no e adesso le spiego anche perché
-TO065	
 TO065	allora quel volume
 TO065	è se non ricordo male del millenovecentottanta
 TO061	o ottantuno non ricordo esattamente
@@ -1151,7 +1146,6 @@ TO061	un titolo che io trovo bruttissimo
 TO065	mi ricordo sì avevamo letto
 TO061	che però deve attirare l'attenzione e quindi
 TO061	certo
-TO065	
 TO061	alessandro barbero
 TO065	sì sì
 TO061	c'è c'è sicuramente a storia
@@ -1169,12 +1163,9 @@ TO061	di di girolamo e lee
 TO061	di di girolamo
 TO065	ho capito
 TO061	per fare anche una piccola gossip di filologia roman~
-TO065	
 TO061	all'epoca erano marito e moglie adesso non lo sono più
 TO065	ah è la proprio la ho capito
-TO065	
 TO061	eh sì
-TO065	
 TO065	ehm
 TO065	e poi c'è appunto
 TO065	ehm se dovesse imbattersi in un riferimento ai fabliaux di rutebeuf
@@ -1222,7 +1213,6 @@ TO065	a leggere queste cinque pagine che mi ha mandato per vedere se ci sono que
 TO061	ma ritorno subito
 TO065	va bene d'accordo
 TO061	lei tenga la posizione così non chiudo la porta
-TO061	
 TO065	va bene
 TO071	troverà qualche minuto di silenzio perché abbiamo interrotto ma adesso ricominciamo
 TO065	professore
@@ -1373,8 +1363,6 @@ TO065	ciao
 TO065	buon giorno
 TO065	ehm attento a quello che dici perché siamo registrati
 TO061	e quindi
-TO065	
-???	
 ???	mamma mia
 TO065	e allora non dico parolacce
 ???	non dire parolacce non dire cose stranhe
@@ -1535,7 +1523,6 @@ TO061	non si tratta di concordare di più interventi che su su un certo tema
 TO065	certo
 TO065	xxx di un testo
 TO065	a un racconto particolare
-TO065	
 TO065	a un genere preesistente
 TO065	cerca di xxx
 TO065	sì
@@ -1615,7 +1602,6 @@ TO065	perfetto
 TO065	ecco
 TO065	visto che lei appunto sa scrivere
 TO061	allora le faccio proprio notare tutto ma proprio tutto
-TO065	
 TO061	leggo con lei questa frase
 TO065	va bene
 TO065	infine lo studioso esalta la capacità della novella di innalzare l'arte della parola mediante l'atto diegetico

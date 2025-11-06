@@ -1,6 +1,5 @@
 PKP051	buon appetito
 PKP050	buon appetito
-PKP051	
 PKP050	secondo me
 PKP049	secondo me quiddru è proprio un 'esplosione è popo bueno
 PKP051	non ti stare a lamentare poi alla sera quando te faccio un solo hamburger
@@ -296,12 +295,10 @@ PKP049	questa guarda
 PKP050	è xxxx begetto
 PKP051	si lo so
 PKP050	sì la mamma la nuora sassai
-PKP051	
 PKP049	oh il tramoccolo che cos'era lasciamola stare perché si annoia
 PKP050	hai sempre xxxxxx
 PKP049	mh mamma mia quanto è buona quella cotoletta
 PKP050	è una torta fatta col pesce
-PKP051	
 PKP050	ma cos'e'
 PKP050	xxando
 PKP051	a muni' che passa scherzo
@@ -323,7 +320,6 @@ PKP049	dal tuo mandarinaio di fiducia devo dire oggi tan~
 PKP049	è quello era quello là molto
 PKP051	xxxx è sereno
 PKP049	è seren~
-PKP051	
 PKP050	elegante una persona proprio raffinata
 PKP049	ma chi è
 PKP051	è il tipo che vende arance e clementine
@@ -435,7 +431,6 @@ PKP051	basta che non siano molto xxxx casomai schizza
 PKP051	devi rischiare
 PKP051	cioè devi
 PKP051	impassare
-PKP049	
 PKP051	xxxxxxxxx andare oggi
 PKP051	sono andata ieri ho ehm dolori alle gambe non posso andare di nuovo oggi
 PKP050	e ieri ho fatto un bordello
@@ -465,8 +460,6 @@ PKP049	devo dire che oggi sei proprio colorita
 PKP051	che cosa vuol dire
 PKP049	nei linguaggi poi dici a me o che l'avessi
 PKP050	stai zitta che ti sta venendo il ciclo
-PKP051	
-PKP049	
 PKP051	xxxxx il ciclo
 PKP049	la prossima volta che dici a me
 PKP051	non xxxx espressamente
@@ -506,7 +499,6 @@ PKP050	no mi sento sempre che io mangio riso
 PKP051	vabbè tu sei un caso a parte
 PKP051	o ceci
 PKP051	e quindi ieri poi hai indovinato xxxxx i ceci
-PKP050	
 PKP049	ma perché tu sei proprio monotona cioè tu mangi veramente sempre le stesse cose
 PKP050	ma lui si riferisce a noi o a te
 PKP049	a te

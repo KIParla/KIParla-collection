@@ -192,7 +192,6 @@ TO006	non me lo ricordo
 TO008	vada per ordine l'assemblea degli obbligazionisti anzitutto si riunisce per decidere argomenti
 TO006	relativi alle obbligazioni
 TO008	relativi al prestito obbligazionario e nominano
-TO006	
 TO006	un loro come si vuole chiamare
 TO008	è facilissim~
 TO006	amministratore
@@ -265,7 +264,6 @@ TO006	sì
 TO008	e quelle irredimibili sono un tipo ancora più
 TO006	ancora più infimo
 TO008	più più insomma mh i nsomma più più rischioso diciamo perché non è previsto
-TO008	
 TO008	non è non è detto che mh che vengano mh
 TO006	cioè dopo essere state messe in coda non è detto neanche che vengano mh pagati gli obbligazionisti
 TO008	perché non è previsto

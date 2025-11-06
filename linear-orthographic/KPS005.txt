@@ -14,7 +14,6 @@ PKP004	gira
 PKP003	altrimenti ti cade tutto nel piatto
 PKP003	come mai di più
 PKP004	fai come la nonna che prendeva
-PKP001	
 PKP004	okay grazie
 PKP001	infatti un giorno ha fatto cadere ha fatto svuotare l'intera formaggera nel piatto
 PKP004	chi la nonna
@@ -119,7 +118,6 @@ PKP001	là so' cinquemila
 PKP003	veramente
 PKP001	mh a partita
 PKP004	allora non andare all'università
-PKP004	
 PKP001	ha trovato il lavoro adatto
 PKP005	altro che promoter
 PKP003	com'è serie d cinquemila
@@ -410,7 +408,6 @@ PKP001	mh è andata bene
 PKP004	come sempre di mo~ se figuria~
 PKP003	tanto non dice niente dice solo no tutto bene com'era il buffet buono
 PKP004	sì perché lei mi deve dire ogni volta che cosa fai se io vi dico che siamo là a chiacchierare poi fa eh non è possibile
-PKP004	
 PKP001	era buonissimo dice che era buonissimo il catering alla festa di ale
 PKP003	e dove l'ha fatto
 PKP004	no alla festa di ale alla festa di g~ di gianmarco
@@ -444,7 +441,6 @@ PKP001	ha preso la fetta di salame così se l'è scaffata in bocca
 PKP004	oh ma che vuoi
 PKP003	allora vedi che c'è in frigo c'è il minestrone di ieri se te lo vuoi mangiare stasera lo puoi riscaldare nello stesso contenitore senza coperchio
 PKP001	no pane e pomodoro
-PKP004	
 PKP001	però sopra ci sono i pezzettini crostini io l'ho fatto io erano buonissimi c'è una busta aperta con dei crostini piccoli piccoli così dei quadratini mettili dentro al minestrone è ottimo
 PKP004	tu hai fatto i cros~ i crostini
 PKP001	no veramente li avevo comprati ma non ricordavo neanche di averli e poi li ho li ho mescolati al minestrone ieri che ero s~ sola non c'era nessuno mi sono fatta questo pranzo buono proprio buono

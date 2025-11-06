@@ -34,7 +34,6 @@ PKP125	proprio
 PKP125	dura
 PKP128	al limite dell'indecente proprio
 PKP128	gina appresso a me la mangia sempre più molla
-PKP125	
 PKP125	ma va
 PKP125	sei illegale
 PKP125	i miei sono molto buoni sono perfetti
@@ -43,7 +42,6 @@ PKP128	sì
 PKP129	sì
 PKP125	una melanzana del nostro giardino
 PKP125	vabbè
-PKP129	
 PKP128	x
 PKP125	una soddisfazione immensa
 PKP128	è una sola ve n'è uscita
@@ -102,7 +100,6 @@ PKP129	mh
 PKP125	e le devi taglia' un poco più doppie però poi in mezzo so' crude e a me nun m' piac
 PKP128	ci sta
 PKP125	la prossima volta se vuoi te le facciamo trova'
-PKP128	
 PKP125	ottima idea
 PKP125	ecco com'è
 PKP129	gina si libe~ si ribellerà a questa
@@ -113,7 +110,6 @@ PKP125	mi stizz'utta quanta
 PKP128	x
 PKP129	vabbè amo' quand'è che non ti stizzi
 PKP125	eh vabbè va non mi fare iniziare che sta pur' a' registrazione
-PKP125	
 PKP128	novità dal bar celeste quindi
 PKP129	mh
 PKP125	a parte il bar mh vabbè il bar mi stressa in tutti i modi ma
@@ -130,7 +126,6 @@ PKP125	gina ha sbattuto la testa
 PKP128	te lo volevo chiedere però ho detto forse sono fuori luogo se
 PKP128	no ma quale fuori luogo quella sembra come si chiama quel cartone animato
 PKP125	che prende sempre le botte in testa non me lo ricordo
-PKP128	
 PKP125	e wi~ wi~
 PKP128	non lo so
 PKP128	quello con beep beep beep
@@ -183,7 +178,6 @@ PKP129	sei ancora debole gi
 PKP128	un po' de meno
 PKP128	tu hai preso una bella botta nell'incidente t'e scurdat
 PKP129	ha rotto il parabrezza
-PKP125	
 PKP129	con la testa
 PKP128	ma tu mi dovevi vedere stavo tutta nera fino a qua
 PKP129	con la testa
@@ -228,10 +222,8 @@ PKP129	e io per non farla spaventare lei faceva vicino a me dimmi la verità e i
 PKP128	io non ci vedevo
 PKP129	mi sento che l'occhio si sta chiudendo e io facevo ma quando mai non hai niente x
 PKP125	ma io non ci vedevo eh eh
-PKP128	
 PKP129	non hai nien~
 PKP129	x non ci vedevo xx non è niente marina non ci vedo
-PKP129	
 PKP128	diceva non hai niente e io non ci vedo
 PKP129	a~ aspetta però spiega questa cosa perché tu quando inizi ad avere paura poi che cosa succede
 PKP128	mh
@@ -362,7 +354,6 @@ PKP128	eh eh quindi era
 PKP128	effettivamente sì da buttare
 PKP125	e ho preso quest'altra carretta
 PKP128	ma
-PKP128	
 PKP129	praticamente
 PKP125	lavora almeno
 PKP128	ho visto che c'è scuola guida sopra affianco no
@@ -397,7 +388,6 @@ PKP128	xxxx
 PKP128	ah eh regalata
 PKP128	e che so'
 PKP128	so' bell'
-PKP128	
 PKP125	l'ho comprata
 PKP128	vabbè t'ha fatto uno sconto no
 PKP128	ah vabbè questo sì
@@ -423,8 +413,6 @@ PKP128	l'x tre non lo sacc
 PKP128	ce lo vedo a tuo fratello nella polo
 PKP125	o forse te
 PKP128	a me piace camminare a piedi
-PKP129	
-PKP128	
 PKP128	vabbè dico
 PKP125	a parte questo piccolo dettaglio
 PKP125	mh
@@ -458,7 +446,6 @@ PKP129	cioè è una cosa pericolosissima non si può fare
 PKP125	e mo ne' mo arrivaci a centocinquanta euro
 PKP128	mh no
 PKP128	sto covid
-PKP128	
 PKP125	c'ha stroncate
 PKP125	però te l'ha potuta intestare passaggio di proprietà tutto a posto no
 PKP125	è intestata a lui
@@ -530,9 +517,7 @@ PKP125	cioè io
 PKP128	io no
 PKP125	ti ti ricordi la palio
 PKP128	bella
-PKP125	
 PKP128	con l'acqua ogni tanto
-PKP129	
 PKP128	l'acqua
 PKP128	vedi se lo ricorda
 PKP125	madonna cambiavo posizione ogni trenta secondi in quella macchina
@@ -560,7 +545,6 @@ PKP129	mh
 PKP125	eh
 PKP129	no avevo capito la
 PKP128	mentre paur du lu camper è è un problema
-PKP128	
 PKP125	quindi quest'anno non l'ha proprio utilizzato
 PKP128	mh
 PKP128	almeno gli altri anni d'estate va in vacanza
@@ -650,12 +634,10 @@ PKP128	xx
 PKP125	x eh
 PKP128	perché no
 PKP128	ho imparato money
-PKP128	
 PKP128	sto scherzando però
 PKP125	più meno me la cavicchio
 PKP128	ho imparato
 PKP125	imparato bro
-PKP125	
 PKP128	penso che già lo sapevi money
 PKP125	già lo sapevo però sai a volte ti vergogni anche almeno questo è il mio caso mi vergogno un po' anche perché non è che ne sono poi così sicura io non lo so parlare l'inglese
 PKP128	certo
@@ -679,9 +661,7 @@ PKP129	xxxxx
 PKP125	pezzo~
 PKP129	pezzotta
 PKP129	pezzotta
-PKP128	
 PKP129	questa poi me la spiegherai
-PKP128	
 PKP129	di' a gi dove sono le sigarette
 PKP125	amò nello zaino ja pigliamelle nu poco p' piacere
 PKP125	mh
@@ -1022,7 +1002,6 @@ PKP129	xx
 PKP129	mh
 PKP125	mh mbè si potrebbe stacca questa xxxx
 PKP128	ma tu le puoi fare tranquillamente una
-PKP125	
 PKP128	buono
 PKP128	è una cosa che mi fa innervosire
 PKP128	che io presi alberta e le dissi alberta

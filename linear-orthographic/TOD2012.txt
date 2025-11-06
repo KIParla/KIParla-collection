@@ -16,11 +16,7 @@ TO056	e okay
 TO056	poi c'è il bagno
 TO056	che è minuscolo
 TO056	senza bidet
-TO071	
-TO056	
-TO056	
 TO056	eh senza finestra
-TO071	
 TO056	eh
 TO056	peggio della caxx~
 TO056	peggio della casa in via dei matti numero zero
@@ -41,7 +37,6 @@ TO071	okay
 TO071	eh mh
 TO071	invece dimmi qualcosa delle case in cui vivevi prima di vivere in questa
 TO056	pure pure qua a torino va bene senza andare troppo indietro
-TO056	
 TO056	allora
 TO056	la casa in cui vive~ vivevamo prima era comunque un buco locale
 TO056	però ancora peggio perché non c'era la mh porta che divideva il soggiorno
@@ -137,7 +132,6 @@ TO056	quasi da campagna con le panche in legno bellissimo mi piaceva molto
 TO056	e il divano rosso
 TO071	che per quanto c'è stato seduto il mio fidanzato praticamente un cuscino aveva preso la forma del popò
 TO071	eh
-TO056	
 TO056	eh e poi d~ da una porta si andava al piano
 TO056	seminterrato
 TO056	che era una tavernetta con con i mattoni a vista che mi piaceva molto
@@ -228,7 +222,6 @@ TO056	insomma traffico gente per strada li senti meno
 TO056	eh forse c'erano ogni tanto
 TO056	le le ragazze del centro d'accoglienza che che litigavano tra di loro per eh
 TO071	per un maschio e si tiravano peri capelli però però era anche insomma
-TO056	
 TO056	uno spettacolo sì un po' di gossip che che non mi dispiaceva
 TO056	eh e poi lì c'erano le mh
 TO056	eh le guerriglie urbane tra piccioni
@@ -359,7 +352,6 @@ TO056	i tetti insomma i famosi tetti
 TO056	sì sì eh eh mh
 TO056	sì mi piaceva molto invece appunto quando stavo all'ospedale maggiore
 TO056	insomma quartiere molto meno storico
-TO056	
 TO056	però si vedeva
 TO071	tutto san luca
 TO056	mh mh
@@ -367,7 +359,6 @@ TO071	si vedeva tutto tutta la chiesa di san luca e tutto un bel pezzo di portic
 TO056	che è la chiesa quella che sta lì in collina
 TO071	è la chiesa quella che sta in collina che si vede anche entrando dalla tangenziale un po'
 TO056	mhmh
-TO056	
 TO071	da tutte le direzioni
 TO056	ma lì ci vanno a piedi ci vanno cioè quando te vai alla processione
 TO056	lì ci si va
@@ -401,8 +392,6 @@ TO056	eh stavo erano i primi tempi che stavo a bologna
 TO056	eh mh
 TO071	beh però poi s~ dopo son stata meglio
 TO071	mh beh
-TO056	
-TO071	
 TO056	ci sono
 TO071	poi son tornata atea dopo la guarigione sono tornata assolutamente laica più che atea xx
 TO071	ci sono
@@ -617,7 +606,6 @@ TO056	mhmh
 TO071	eh io sono etrusco cioè
 TO056	mh eh okay
 TO071	ce l'aveva ce l'aveva xxx con 'sto mito delle origini
-TO056	
 TO071	etrusche contro la barbarie di roma
 TO056	eh eh
 TO056	e peggio la barbarie ancora più a nord
@@ -634,14 +622,12 @@ TO056	tu però prima di bologna hai vissuto a palermo perché xxx e vai pure là
 TO056	eh xx università
 TO056	pure a palermo di case ne ho cambiate i~ i~ infatti io h~ ho il terrore di
 TO071	fare un mutuo e acquistare casa un giorno perché non sono abituata a pensarmi in una casa per più di tot anni
-TO071	
 TO056	eh
 TO071	sì eh
 TO056	lì poi fra case d~ insomma di di nonni di genitori tue insomma hai vi~ hai vissuto in un bel po'
 TO056	sì
 TO071	di amiche di eh s~ x
 TO056	di amiche esatto ah sì di amiche
-TO071	
 TO071	chiaro
 TO056	quindi lì allora
 TO071	praticamente sono mia madre mi ha concepito in un quartiere
@@ -652,7 +638,6 @@ TO071	dalle ori~
 TO056	dalle origini finché non te ne sei andata
 TO071	allora sono stata concepita
 TO056	eh
-TO056	
 TO056	in una via dall'orribile nome
 TO071	@nomeluogo
 TO071	eh
@@ -746,7 +731,6 @@ TO056	oddio
 TO071	ci dava un occhio ogni tanto poteva essere pericoloso perché lui era munito di fionda da caccia
 TO056	minchia lì
 TO071	per i piccioni
-TO056	
 TO056	per i piccioni perché la moglie
 TO056	cioè lor~ loro li mangiavano i piccioni
 TO071	non so che cavolo
@@ -762,7 +746,6 @@ TO056	eh eh
 TO071	e poi li portava dentro e la moglie
 TO056	la moglie li coglieva con la fionda cioè li ammazzava veramente
 TO071	oh ma sai che sì sì sì sì
-TO056	
 TO056	li ammazzava e li portava dentro e la moglie
 TO071	più di una volta cercava di dare delle ricette a mia madre per fare i piccioni e mia madre
 TO056	disgustata eh eh eh
@@ -1273,4 +1256,3 @@ TO071	eh mh
 TO071	io direi che va bene così
 TO056	grazie
 TO071	prego
-TO071	

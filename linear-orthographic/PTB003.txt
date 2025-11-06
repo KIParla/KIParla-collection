@@ -6,11 +6,7 @@ TOI018	quando
 TOI017	un paes~ il trent il dodici cinque trentacinque
 TOR004	dodici cinque trentacinque
 TOI018	okay
-TOI017	
-TOR004	
-TOR004	
 TOI018	e che lingue parli
-TOI018	
 TOR004	parlo come mi capita parlo un po' italiano un po' dialetto un po' a casa parliamo sempre dialetto si eh
 TOI018	però non vi capite tanto
 TOR004	oh uf
@@ -32,8 +28,6 @@ TOI018	lei non capisce me io non capisco lei
 TOR004	è inutile che perdiamo tempo tutti e due e non l'ho fatto entrare
 TOI018	eh sì
 TOI018	il giorno dopo è venuto con suo cugino
-TOR004	
-TOI018	
 TOI018	è venuto io l'ho fatto il caffè insomma c'era il suo cugino
 TOR004	ha detto che strana questa signora ieri non m'ha fatto neanche entrare
 TOI018	oggi invece mi fa entrare mi fa pure il caffè
@@ -61,8 +55,6 @@ TOR004	del marito della cugina perché la cugi~ la moglie era sua cugina
 TOR004	ah ecco
 TOI018	mh
 TOI018	ha detto quelle là sbagliate sono andate a finire tutte dalla sua parente
-TOR004	
-TOR004	
 TOI018	tutte da concettina
 TOI018	eh
 TOR004	comunque poi l'ho accompagnato
@@ -143,7 +135,6 @@ TOI017	siamo arrivati a casa mia sorella
 TOI018	voleva provarci le scarpe a gigi
 TOI017	erano piccole
 TOI018	ho detto
-TOI017	
 TOI017	ha detto ma sono piccole me lo ha detto subito mia sorella m'aveva detto guarda che per gigi sono piccole e io c'ha solo un mese
 TOI017	difatti non andavano bene e siamo andati a cambiarli
 TOR004	e c'ho detto a quella signora guarda che sono piccole le scarpe per eh ma se c'ha solo un mese e vabbè è nato grande sto bambino
@@ -153,9 +144,6 @@ TOI017	allora m'aveva dato due o tre numeri di più
 TOI017	siamo arrivati a casa
 TOI017	erano ancora piccole ho detto senti
 TOI018	gli avevo detto a mia sorella prendi le scarpe di tuo marito e ce li metti al bambino
-TOI017	
-TOR004	
-TOI017	
 TOR004	e ce l'ha ancora adesso il quarantacinque di scarpe porta il quarantacinque o il quarantasei ancora adesso
 TOR004	che roba
 TOI018	e d~ e comunque da gallipoli siete venuti a torino
@@ -164,7 +152,6 @@ TOI018	pensa che poi quando è venuto grande l'hanno messo
 TOI018	l'hanno messo alla a fare il corazziere
 TOI017	aveva anche la fotografia da corazziere
 TOI018	e non è voluto stare più là ha detto perché io faccio il bambolotto lì non voglio stare
-TOI017	
 TOI017	parla parla parla così con sto vocione che c'ha
 TOI017	ha detto no no io non ci vo~ io non ci sto e difatti poi l'hanno messo su una motovedetta
 TOI017	per punzione l'hanno mandato in sardegna
@@ -172,7 +159,6 @@ TOI017	poi dalla sardegna non so come ha fatto è venuto
 TOI018	di nuovo verso gallipoli
 TOI017	no a genova a genova è rimasto a genova
 TOI017	poi è rimasto poi s'è rimasto sempre a genova
-TOR004	
 TOI017	raccontami un po'
 TOR004	ma l'hai staccato prima questo l'hai stacca~ mica
 TOR004	no l ho registrato ma
@@ -203,7 +189,6 @@ TOI018	però eri piccola
 TOR004	e fino da dodici anni già ho portato l'a~ eh
 TOI017	eh quindi
 TOI018	eh e mo c'ha la schiena a pezzi
-TOR004	
 TOR004	poverina
 TOI018	ma quindi
 TOI018	eh ma si lavorava eh c'è stata la guerra eh io sono andata a scuola quando è incominciata la scuola io son del trentacinque que al il trentanove già c'era la guerra c'era prima c'è stata la guerra dell'africa poi c'è stata la guerra de eh c'era la guerra è inutile che si dice
@@ -277,7 +262,6 @@ TOI018	bruciata il piede
 TOI018	e non poteva andare con gli altri bambini in mezzo a
 TOI018	e là che prendevano
 TOI018	eh
-TOR004	
 TOI018	che prendevano i biscotti quindi non ti sei presa il biscotto
 TOI018	che prendevano e non potevano
 TOI018	e mi ricordo c'era un omone alto io era piccola piccola e st'omone era grosso grosso io era lì così
@@ -286,7 +270,6 @@ TOI018	e me l'ha messe là e m'ha detto che dovevo pregare per lui eh m'ha fatto
 TOR004	e fa mamma mamma m'aveva detto che la corona ce l'aveva data la mamma e che doveva pregare per lui m ha fatto
 TOR004	tu puoi
 TOI018	sì ma tu dovevi pregare per il tuo piede in quel momento non per lui
-TOI018	
 TOI018	doveva pregare
 TOR004	tutte le altre bambine sono andate a prendere i biscotti e a me m'ha dato la corona per dire il rosario
 TOI018	e invece di darti un biscotto t'ha dato da fare il rosario
@@ -346,7 +329,6 @@ TOI018	e certo
 TOI018	guarda certe volte mi viene una rabbia quando dicono c'è quelle là che fanno per la pubblicità questo bambino vuole andare a scuola e non può
 TOR004	pure io voleva andare a scuola e non ho potuto
 TOI018	povera
-TOI018	
 TOI018	mi sarebbe piaciuto ma non non si poteva eh non si poteva perché non solo io
 TOR004	o che andavi in collegio e chi poteva pagarlo
 TOR004	no
@@ -489,7 +471,6 @@ TOI017	che non poteva fare tanti conti perché lei era venuta a torino e là che
 TOI017	la persona di servizio
 TOI017	a casa ci sono altri fratelli e sorelle
 TOR004	si usava così avere tanti figli
-TOI017	
 TOI017	basta che avevano figli e poi non potevano mantenerli no eh
 TOI017	eh come siamo capitati noi
 TOI017	diciotto figli ha fatto mia mamma eh non uno
@@ -580,11 +561,8 @@ TOI017	non m'hanno voluto far sapere di mio papà
 TOI017	eh
 TOI017	comunque ho detto devo andare
 TOR004	e sono anda~ sono arrivato a lucera quando sono arrivato a lucera
-TOI018	
-TOI017	
 TOR004	m'hanno presenta~ no m'hanno presenta~ la sua fotografia
 TOR004	cosa è successo
-TOI018	
 TOI017	la fotografia ce l'aveva mia nonna e sua mamma a forza di fare
 TOI018	xxxxx
 TOI018	s'ha fatto dare sta fotografia
@@ -616,10 +594,7 @@ TOR004	comunque ci siamo scritti un anno e poi ci siamo sposati tutto lì
 TOI018	e ma si vedeva quindi che era un po' forestiero
 TOI018	e a volturino dicevano e ha scartato tutti i
 TOI018	i ragazzi di volturino per sposarsi con uno forestiero
-TOR004	
-TOR004	
 TOI018	ma è vero che tu li avevi scartati
-TOI018	
 TOI018	dice che avevo sca~ eh sì e tanti perché non avevo ancora intenzione di
 TOR004	non avevo neanche messi
 TOI018	tu non ci pensavi
@@ -640,7 +615,6 @@ TOI018	e me l'ha mandata
 TOI017	a tutti i costi madonna
 TOI017	me l'ha mandata a me poi
 TOR004	poi questo mio zio
-TOI017	
 TOI017	lui eh
 TOI017	figli non n'hanno avuti
 TOI018	voleva tenermi lui per eh
@@ -649,9 +623,6 @@ TOI017	e mi voleva tenere lì a tutti i costi
 TOI017	dice che piangevo sempre e allora ti vi
 TOI017	piange poi vie~ viene malato allora per stare lì poi dice che non mangiavo
 TOI018	faceva i capricci son sempre stato così
-TOI017	
-TOR004	
-TOI017	
 TOR004	e alla fine
 TOI017	sempre stato ribelle
 TOI018	alla fine
@@ -659,9 +630,7 @@ TOI017	sempre ribelle è stato
 TOR004	eh un ribelle e comunque niente adesso c'è francesca che è una ribelle
 TOI017	ecco
 TOI018	infatti io la chiamo la r~ la ribelle
-TOR004	
 TOI018	e
-TOR004	
 TOI018	e quindi non ho capito avevi tante amiche cosa combinavate insieme
 TOR004	con le amiche
 TOI018	eh
@@ -698,7 +667,6 @@ TOI017	e c'era il suo cugino che la sera magari mi venivano a prendere
 TOR004	anna
 TOI018	scusa un attimo
 TOR004	portava a casa sua stava con loro alla sera che erano i cugini suoi
-TOI018	
 TOI018	e poi io e lui quando usciva da lavora~
 TOI018	poi ho avuto e le bambine e so stata anche male perché quando è nata angelina
 TOI018	ho avuto eh son stata operata della coliciste calcolosa
@@ -790,7 +758,6 @@ TOR004	se viene il medico di controllo non parli perché lei si deve ci lasci di
 TOI018	come
 TOI018	mh eh
 TOR004	il dottore alla suora
-TOI018	
 TOR004	ha detto
 TOI018	pensa te
 TOR004	perché eh non secondo lui non ero da ricoverata non avevo niente
@@ -882,11 +849,8 @@ TOI017	la casa come sta
 TOR004	eh un po' periferia magari mi posso tenere una gallinella o posso ecc~ perché c'erano gli altri che ce l'avevano già
 TOI017	sì
 TOR004	lui aveva fatto i conti ma senza della moglie
-TOI017	
 TOI017	quando la moglie ha saputo che doveva fare que~ l'ha detto senti se vuoi andare lì
 TOR004	te ne vai da solo
-TOI018	
-TOI017	
 TOI017	io me ne sto a torino perché son venuta da un paesino
 TOI017	che non c'era niente e son venuto qua che c'è tante di quelle robe che io posso avere
 TOI017	la mutua l~ l'ospedale il dottore il do~
@@ -913,7 +877,6 @@ TOI017	è così eh
 TOI017	mauro
 TOI018	e quando
 TOR004	è morto
-TOI018	
 TOI018	e niente siamo arrivati fino a adesso e tutto
 TOR004	mh questa è stata la vita nostra
 TOI018	ma senti ma poi la vita a torino è migliorata o sempre stata
@@ -928,7 +891,6 @@ TOI018	non ti piace
 TOI018	capire capisco tutto perché
 TOI018	c'era una signora che abitava sopra di noi lì in via crissolo
 TOR004	e parlava no~ angelina la chiamava nonna sciopra
-TOI018	
 TOI018	e parlava il dialetto e la capivamo poi siamo venuti ad abitare qua e c'era quella signora
 TOI018	nella casa a fianco che era pure piemontese e parlava sempre dialetto comunque
 TOR004	e lo capisco tutto ma non ho mai detto una parola no~ non non
@@ -944,16 +906,12 @@ TOI018	eh lui dice tante
 TOR004	lui dice tante tante
 TOI018	e invece non è così diverso
 TOI018	cose dice
-TOR004	
-TOR004	
 TOI018	ma non è così diverso il dialetto
 TOR004	no no
 TOI018	lui dice che chiamate la pasta in modo diverso
 TOR004	ma no lui dice per esempio noi diciamo il piede lui dice u pide noi diciamo u pede noi dicia~ qualche parola no
 TOI018	ah ma non cambia tanto
 TOR004	qualche vo~ e ogni tanto fa e già perché tu sei de n'aute paiese
-TOI018	
-TOI018	
 TOI018	e abbiamo sempre scherzato sempre non
 TOI018	mi son trovata bene per con marito sono stata
 TOR004	e il primo anno che mi vedeva sola
@@ -1003,7 +961,6 @@ TOI018	e invece fuori dall'italia
 TOR004	eh nie~ fuori dall'italia siamo andati in america a trovare sua sorella e poi abbiamo fatto la crociera con mario quando è nata martina
 TOR004	ah
 TOR004	che
-TOR004	
 TOI018	e dove siete andati in crociera
 TOR004	abbiam fatto tutta la costa azzurra siamo andati a
 TOI018	e forse anche in sardegna
@@ -1041,7 +998,6 @@ TOR004	e poi siamo andati con rossana e mario nell'ottantadue che siamo e poi c'
 TOI018	e ma vi capivate quando siete andati lì parlavate chi~ parlavate
 TOR004	eh ma lei mia cognata parlava in italiano
 TOI018	ah ecco era facile allora scusa
-TOR004	
 TOI018	ah no
 TOR004	anche le figlie parlano i figli o il più giovane un po' meno quello vecchio parla di più quello che è nato a foggia
 TOR004	parla meglio
@@ -1071,7 +1027,6 @@ TOI018	ci sono tutte e quindi voi continuate ad andare lì
 TOR004	sì n eh anche quest'anno siamo stati due mesi
 TOI018	e che cosa fate quando siete lì
 TOR004	eh niente che fa
-TOI018	
 TOR004	più che andare in chiesa e stare un pochino con queste amiche che adesso
 TOI018	però le hai ritrovate
 TOI018	c'è
@@ -1096,7 +1051,6 @@ TOR004	no si sta proprio bene
 TOR004	va bene grazie
 TOR004	per esserti fatta intervistare
 TOI018	e per avermi raccontato queste cose
-TOR004	
 TOI018	grazie
 TOR004	tutto quello che abbiamo fatto nella vita
 TOR004	eh

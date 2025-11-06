@@ -60,7 +60,6 @@ PKP017	mhmh
 PKP017	xx dovete andare a xxx da sua mamma
 PKP013	vicino a vergato
 PKP017	sì
-PKP013	
 PKP013	a vignola dov'è
 PKP017	sì no vergato boh
 PKP013	vergato
@@ -68,7 +67,6 @@ PKP016	eh
 PKP013	con che macchina
 PKP016	nella cinquecento
 PKP017	prenditi anche una giacca un po' più pesantina eh
-PKP013	
 PKP016	certo prendo il piumino
 PKP016	cambia parecchio la temperatura eh anche se cambia poco l'altezza
 PKP013	l'altitudine
@@ -87,7 +85,6 @@ PKP013	vestiti da
 PKP016	pigiama
 PKP016	da pigiama
 PKP013	è venuta benissimo oggi la felpa eh
-PKP016	
 PKP017	hai visto com'è bella
 PKP016	no non ci ho ancora guardato
 PKP013	la felpa che mia mamma~
@@ -158,7 +155,6 @@ PKP013	qui
 PKP017	mh
 PKP013	ah ci vai a piedi da qua dal ca~ dai campi
 PKP017	macchè
-PKP013	
 PKP016	prendiamo la macchina poi alla mattina andiamo mi sa a comprare dei palloncini qualcosa
 PKP017	chi ne vuole ancora un po'
 PKP016	io la prendo volentieri se c'è
@@ -173,7 +169,6 @@ PKP013	ma forse perché
 PKP017	cioè no ha detto caterina che c'è ingegneria gestionale lì
 PKP013	c'è forse c'è anche meno gente meno calca per cui fanno in un posto dove c'è
 PKP017	perché forse ho pensato se le fanno in centro poi magari la gente esce si ferma da qualche parte a fare festa
-PKP017	
 PKP013	sì esatto
 PKP017	invece in una zona
 PKP016	xx
@@ -185,7 +180,6 @@ PKP016	comunque oggi è stata una giornata impegnativa eh
 PKP016	perché
 PKP016	alla fine c'è parecchio da fare eh quando chiami
 PKP017	anche se lavora l'imbianchino
-PKP013	
 PKP016	cos'hai fatto
 PKP013	allora prima ho preparato tu~ ieri sera ho preparato ieri sera la sera prima
 PKP016	ma ha finito ora
@@ -217,7 +211,6 @@ PKP017	per me siete come la mia famiglia
 PKP017	non lo chiama mai la mamma
 PKP016	dovresti chiamarlo tuo figlio
 PKP013	adesso non avevam più bisogno non so se mi riuscirà a riparare la lavatrice que~ quel pulsante là
-PKP013	
 PKP016	perché è sfondato
 PKP017	mh
 PKP013	avrà trent'anni più o meno lui
@@ -248,7 +241,6 @@ PKP013	non l'abbiamo
 PKP016	da campeggio
 PKP017	mh
 PKP017	ch'abbiamo la griglia fuori possiamo fare la gri~
-PKP013	
 PKP016	si la grigli~ quanto ci vorrà a montare
 PKP016	non è solo smontare e montare è che dobbiamo
 PKP016	è che dobbiamo
@@ -265,7 +257,6 @@ PKP016	sì smontiamo già quel mobiletto e a posto
 PKP016	è vero
 PKP013	sai che cosa sarebbe emh~
 PKP017	e quindi dopo due giorni ci vogliono
-PKP016	
 PKP016	per me ce la smontano in mezza g~ in in
 PKP016	in un attimo il giorno dop~
 PKP016	il problema è
@@ -321,9 +312,7 @@ PKP013	ah
 PKP017	vuoi i fagiolini anche
 PKP016	preferivo quella là
 PKP017	posso usare il microonde
-PKP013	
 PKP017	e sì perché
-PKP016	
 PKP017	questa settimana il corso l'ho già fatto poi ce l'ho tutte le settimane fino al due di dicembre
 PKP017	è per~ è per quello che
 PKP017	non ci dispiaceva se ci accompagnavi sabato perché
@@ -372,7 +361,6 @@ PKP016	di io che voglio andarmene
 PKP013	da qua
 PKP017	con le mie amiche
 PKP013	apparte che nel condominio ti direbbero qualcosa eh
-PKP013	
 PKP017	perché
 PKP017	perché non si può
 PKP013	cioè è
@@ -445,7 +433,6 @@ PKP016	mi hai detto
 PKP017	sì
 PKP017	mh
 PKP017	xx un'altra fettina
-PKP013	
 PKP016	e quindi
 PKP013	anche i corsi si chiamano così
 PKP013	non ho capito
@@ -461,7 +448,6 @@ PKP013	perché probabilmente ti chiamo per un
 PKP017	una riunione
 PKP017	una riunione in video
 PKP017	con tutti gli altri uffici
-PKP013	
 PKP017	ma lui dov'è a casa
 PKP017	però
 PKP017	il mio il mio capo abita con la famiglia abita a lanciano
@@ -641,7 +627,6 @@ PKP016	nel in google meet
 PKP013	io sentivo benissimo
 PKP017	ma da casa
 PKP017	no dall'ufficio da casa non ci ho provato
-PKP013	
 PKP017	alla fine sei riuscito a collegarlo da da casa
 PKP013	no c'ho il micr~ no c'ho il
 PKP013	no
@@ -787,7 +772,6 @@ PKP016	perché diceva che in un contratto è sempre meglio scrivere alla fine de
 PKP016	intanto a quale legge bisogna fare riferimento
 PKP017	cioè un contratto internazionale tra due paesi differenti
 PKP017	ah si
-PKP016	
 PKP017	fa fede la legge italiana o la fe~ o il
 PKP016	risponde il foro di
 PKP016	e il foro due cose

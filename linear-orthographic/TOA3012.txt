@@ -28,10 +28,6 @@ TO090	stava parlando al telefono xx
 TO090	scusami hai una penna
 TO090	sono proprio stupida
 TO091	registralo
-TO090	
-TO089	
-TO085	
-TO090	
 TO089	i posteri lo sanno
 TO091	però devo far la pipì prima di andare
 TO085	eh ma adesso tanto dobbiamo sali'
@@ -171,10 +167,6 @@ TO090	dove
 TO090	@nomeluogo
 TO090	eh dati sensibili
 TO091	cancellare
-TO090	
-TO089	
-TO085	
-TO085	
 TO090	i dati sensibili vengono bippati e cancellati l'hai letto brava
 TO089	l'ho letto
 TO090	fammi copiare aspetta xxx
@@ -196,7 +188,6 @@ TO089	chi
 TO089	io
 TO085	ti sembro fusa
 TO089	sì
-TO085	
 ???	eheh vedi
 TO085	come aldo proprio
 TO089	in maniera molto molto simpatica
@@ -214,7 +205,6 @@ TO089	cioè tantissime
 TO091	che bella firma ma
 TO090	bella vero mh madò un sacco
 TO091	sì mh
-TO090	
 TO089	sharpay evans
 TO090	devi scrivere data di nascita luogo di nascita aggiungilo anche qua
 TO090	chi riporta la penna ai poveri cristi
@@ -230,17 +220,12 @@ TO090	io non lo scrivo perché è uguale al suo
 TO089	tu scrivi vedi roby
 TO090	vedi asterisco vedi roby
 TO089	hashtag
-TO091	
 TO089	hashtag così come fai tu
 TO089	eh torino
 TO091	cioè quindi descrivo torino
 TO090	brava
 TO085	no scusa mi sono persa
 TO091	sì sì
-TO090	
-TO089	
-TO085	
-TO091	
 ???	xxxx sfasata mamma mia ripigliati
 TO085	così
 TO085	è giustissimo
@@ -303,7 +288,6 @@ TO090	ce risponde francesco che è in tram quando torna ve fa l'audio
 TO089	grazie francesco
 TO090	ringrazialo digli che xx xxx xx xx
 TO085	ma sì bip bip
-TO090	
 TO090	giusto
 TO091	mi sento willy il coyote
 TO090	comunque bea cocco ce teneva a far sapere che era lei che te stava a mandà sti audio
@@ -325,9 +309,6 @@ TO085	non fà la figa che xxx corpus
 TO085	con dentro tutte queste conversazioni
 TO085	corpus
 TO091	si chiama così
-TO090	
-TO089	
-TO085	
 TO089	e il plurale è corpora
 TO090	ah
 TO089	ah è come un pluralia tantum
@@ -366,9 +347,6 @@ TO089	cioè una sera c'hanno aggredito
 TO090	via rossini
 TO085	raccontiamo questa storia tragica che magari andrà al tigì
 TO091	ma davvero
-TO090	
-TO089	
-TO091	
 TO090	sì denunciamo xxx xxx
 TO091	denunciamo davanti a tutti ragazzi diciamo no alla violenza
 TO090	sì diciamo che in realtà non volevano noi
@@ -385,7 +363,6 @@ TO091	mh stavamo bevendo ballando molto scialla
 TO091	abbiamo conosciuto dei ragazzi sicialiani stavamo tutti là a fa' baldoria
 TO089	insomma tutti insie~ ma ci stavamo dentro abbastanza
 TO091	con abu che ballava con noi
-TO091	
 TO090	esatto ci sono anche foto imbarazzanti
 TO085	una scena epica che mi tatuerò
 TO089	ma cos'è abu
@@ -469,9 +446,6 @@ TO090	sì ma capito non gli poi dà i contatti scusami eh per farli ammazzare
 TO089	vabbè ma
 TO090	no infatti
 TO091	trascrivete bene instangram
-TO089	
-TO085	
-TO090	
 TO090	se no xxx s'offende
 TO090	perch'erano umbriachi
 TO091	scrivi
@@ -542,9 +516,6 @@ TO085	ma come stanno le tue oche
 TO089	no
 TO089	forse era riferito a noi due
 TO091	forse xxx
-TO090	
-TO085	
-TO090	
 TO090	io gli ho detto bene
 TO090	però non ho capito il perché
 TO091	ma vabbè cioè mi sono adattata a lei
@@ -657,10 +628,7 @@ TO091	ma questi me sa che li fanno solo xxx così
 TO089	a me non me fanno impazzi'
 TO091	non mi importa
 TO089	ma manco a me te la devi porta' tu
-TO090	
 TO091	ma poi cosa scrivi tipo pernacchia
-TO089	
-TO085	
 TO090	sì
 TO085	pernacchia figata
 TO091	sì

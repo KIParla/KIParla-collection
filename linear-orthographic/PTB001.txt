@@ -18,7 +18,6 @@ TOI022	va bene
 TOR005	queste due
 TOR005	okay grazie mille
 TOI022	e grazie mille
-TOI022	
 TOR005	stacchiamo il telefono
 TOI023	allora
 TOI023	gianni
@@ -34,14 +33,12 @@ TOI022	no è gianni
 TOI023	sì lo so l'ho capito
 TOI022	no è una cosa poi ti dico ma non era non va bene per te
 TOR005	ah okay
-TOI022	
 TOI023	no no
 TOI022	sei un miserabile xx xx
 TOI022	sì appunto
 TOI023	eh
 TOI022	devi avere almeno cinquecento mila euro xx sì
 TOI023	non siam mica inde~ industriali come te te io eh
-TOR005	
 TOI022	allora le faccio prima qualche domanda anagrafica prima di fare l'intervista vera e propria abbiamo il signor mario verdi abbiamo che eh quanti anni ha signor xx
 TOI022	sì
 TOI022	sono io
@@ -67,7 +64,6 @@ TOR005	settantanove
 TOI023	è nato in provincia di
 TOR005	venezia
 TOI023	venezia
-TOR005	
 TOI023	e e risiede in provincia di torino
 TOR005	sì
 TOI022	eh okay
@@ -79,13 +75,11 @@ TOI023	ah
 TOI023	momentaneamente sono qui
 TOI022	per motive
 TOI023	vive qua ma però xx xxx
-TOI022	
 TOI023	la residendenza anagrafica
 TOI022	vabbè è lì
 TOR005	per convenienza ce l'ha ad alessandria
 TOR005	okay
 TOI022	benissimo
-TOR005	
 TOI022	convenienza
 TOI023	convenie~ sì sì
 TOR005	sì
@@ -114,7 +108,6 @@ TOI022	cominciamo con il signor mario
 TOI022	allora a casa mia eh erano particolarmente fino all'età di otto anni sette anni
 TOR005	si parlava dialetto pugliese
 TOI022	mh mh
-TOI022	
 TOI022	fra di noi si si parlava così
 TOI022	da sette otto anni in poi io personalmente
 TOI022	parlavo sempre e solo l'italiano perché eravamo qua e
@@ -153,7 +146,6 @@ TOR005	proprio ero da zero eh
 TOI023	è arrivato in un secondo momento xxx
 TOI023	che poi anche piuttosto che di andare a scuola scappavo e andavo in collina
 TOI023	a prender le ciliegie
-TOR005	
 TOI023	quindi praticamente eh
 TOR005	sì
 TOR005	tutti e due vi siete trasferiti
@@ -197,7 +189,6 @@ TOI022	come bagaglio oltre che eravamo io mia madre e
 TOI022	basta eravamo solo io e mia madre
 TOI022	eh
 TOR005	quello che mi ero portato dal mio paese era un'anguria enorme
-TOI022	
 TOI022	ricordo che quest'anguria eh xx caricata sul treno e avevamo viaggiato insieme
 TOI022	a della gente che scendeva
 TOI022	prima di bologna da quelle parti lì
@@ -206,10 +197,8 @@ TOI022	e mia madre per togliersi questa anguria l'ha fatta portar via eh
 TOR005	perché dice portatela via perché se no qui me la porta fino a xx
 TOI022	certo
 TOI023	cioè per me era una co~ quando sono arriva~ mi sono svegliato non ho più visto quell'anguria
-TOI022	
 TOR005	de certo l'ha presa quel signore xx
 TOI023	eh
-TOI022	
 TOI022	xx xx
 TOI022	una cosa
 TOI022	mi ricorderò sempre che x
@@ -257,9 +246,7 @@ TOI022	ah
 TOR005	e e andavamo dentro quest~ c'era una buca che un un un bagno comunq~
 TOI022	chiaro
 TOR005	collegato con qualcosa dove c'erano i topi che giravano grossi così
-TOI023	
 TOI022	il topo
-TOI022	
 TOI022	e tu di notte devi andare in bagno e ed era una cosa
 TOR005	abominevole però
 TOI022	e stare attento ai topi
@@ -406,7 +393,6 @@ TOI022	preso dieci dieci mila lire cinque mila lire dato che
 TOI022	tu più l'adoperavi
 TOR005	più la pagavi prima
 TOI022	meraviglioso
-TOR005	
 TOR005	e parliamo un po' passiamo un po' invece alla alla prima adolescenza no ah come dire all'epoca si lavorava anche prima
 TOI022	quindi immagino che
 TOR005	certo
@@ -470,7 +456,6 @@ TOI023	metteva le mani sotto
 TOR005	quando arrivava l'anguria te la prendevi sulle mani eri leggermente aperto e tic e si t~ t~ e si rompeva leggermente
 TOI023	ah ah
 TOI022	si vedeva crack si vedeva allora tu questa cosa te la portavi a casa xx x x xxx xxx
-TOR005	
 TOI023	chiaro chiaro
 TOR005	quelli si incazzavano perché comunque tu avevi rotto un'anguria però tu alla fine riuscivi a portarne due
 TOR005	io avevo un ehm
@@ -504,7 +489,6 @@ TOI023	dodici anni tredici anni perché ho fatto due volte la prima
 TOI022	la prima v~ il primo anno sono stato bocciato il secondo anno ero il migliore della classe della prima perché comunque sapevo già le cose senza studiare
 TOI022	xxx
 TOI022	poi
-TOI023	
 TOI023	poi ho fatto la seconda
 TOI023	ho fatto metà anno
 TOI023	e poi sono andato a fare la la serale
@@ -579,7 +563,6 @@ TOI023	no
 TOI023	t'è andata bene
 TOI022	una persona proprio
 TOI023	e io appunto dall'età di otto anni e mezzo
-TOR005	
 TOI022	mh
 TOI022	lavoravo in una tintoria
 TOI022	lavoravo in una tintoria che avevano le prime macchine che lavavano ah mh
@@ -640,12 +623,9 @@ TOI022	mh mh
 TOI022	c'erano c'era un cancello lì e noi io lasciavo la roba per terra questo sacco nero grosso
 TOI022	che
 TOI023	da solo poi non ce la facevano cioè mi dovevano aiutare gli altri compagni
-TOI022	
 TOI022	e stavo lì dieci minuti un quarto d'ora a giocare
 TOI022	perché il mio principale quando vedeva che tardavo mi veniva lì xx
 TOR005	xx
-TOI023	
-TOI022	
 TOI022	allora prendi e parti x eh
 TOI022	queste sono le cose da bambino che comunque
 TOI022	non eri tanto xx x nel senso che tiravano anche il sotto pelle
@@ -759,7 +739,6 @@ TOI023	eri c'era comunque una forma di sfruttamento spaventoso
 TOI023	bada
 TOI022	sì
 TOI022	ripeto se la storia secondo me si ripete
-TOI022	
 TOI022	i
 TOI022	gli sfruttatori maggiori erano gli amici e i parenti
 TOI022	okay
@@ -802,7 +781,6 @@ TOR005	sì eh dopo eh
 TOI022	il rinfaccio
 TOI023	cioè cazzo mi ha rubato
 TOI023	mi hai sfruttato eh
-TOI022	
 TOI022	mi hai sfruttato sei mesi un anno due quello che so eh cioè non
 TOR005	comunque venivano su non venivan~ era pochi quelli che partivano con la famiglia ch~ x al seguito
 TOI022	certo
@@ -826,7 +804,6 @@ TOI022	vabbè ovv~
 TOI022	poi lui quando ha trovato lavoro ha trovato lavoro per mio padre
 TOI022	allora tutti e due allora mentre mio padre stava per venire su lui aveva trovato una stanza lì che
 TOI023	c'erano i topi
-TOI022	
 TOI022	però comunque era non eri eh succube di nessuno eh
 TOR005	e da lì poi si è cominciata la vita nostra di emigrati
 TOR005	chiaro
@@ -849,7 +826,6 @@ TOI022	e lui aveva garantito per me non ti preoccupare non
 TOI022	metti il massimo della garanzia il mio principale eh eh l'ha garantito
 TOI022	e siamo andati lì e siamo andati mia moglie è piemontese
 TOI022	e il momento in cui ci siamo messi lì a seduti x abbiamo parlato di questo quello quell'altro tutto in piemontese
-TOI022	
 TOI022	lui eh
 TOI022	chi ci chiede poi ci dà l'okay va bene vi do la chiave vi do tutto il negozio vi do l'affitto vi do tutto xx xxx
 TOI022	ci dà le chiavi
@@ -863,7 +839,6 @@ TOI022	nato ax xx brindisi caspita
 TOI023	questo c'è rimasto
 TOI022	oh
 TOI023	perché aveva sparlato così male dei meridionali
-TOI022	
 TOI022	sì ha ragione sì ha ragione
 TOI023	perché mi ricorderò sempre questo che lui xx no io meridionali no assolutamente non affitterò mai e robe del
 TOI023	eh
@@ -872,7 +847,6 @@ TOI022	bravo
 TOR005	io non sapevo più cosa fare e poi alla fine
 TOI022	eh x
 TOI023	alla fine me l'ha dato perché poi ha capito che era x ha detto delle bestialità nel senso poi aveva anche una persona che c'era
-TOI022	
 TOR005	tutte le garanzie di questo mondo questo a te ti dà no l'oggetto di camere tinello in affitto no
 TOR005	ho capito ho capito
 TOR005	bello bello
@@ -962,7 +936,6 @@ TOR005	ho passato due titolari lì no
 TOI023	mh mh
 TOI023	poi dal settanta al settantadue
 TOR005	eh l'ultimo titolare m'ha detto io chiudo l'attività
-TOI023	
 TOR005	e ho detto io dove vado
 TOI023	eh
 TOI023	mi cerco un posto a quarant'anni
@@ -1032,14 +1005,12 @@ TOI023	okay
 TOI023	una casa bellissima
 TOI023	ho speso tanti di quei soldi lì che con quello che ho speso lì
 TOR005	potevo comperare due alloggi al mare o tre anche eh
-TOI023	
 TOR005	però c'era il
 TOI022	vabbè lo può fare adesso no
 TOR005	no adesso anche se la vende non prende neanche un pollaio
 TOI023	xx
 TOI023	no eh
 TOI022	eh adesso non lo so
-TOI023	
 TOI023	non prendi più niente perché purtroppo
 TOI023	l'abbiam fatta con mio fratello no
 TOR005	è lunga trentasei metri questa casa xxx
@@ -1129,10 +1100,8 @@ TOR005	okay a proposito di città e quartieri parliamo un po' di torino città
 TOI022	allora
 TOR005	mh
 TOR005	okay
-TOR005	
 TOR005	eh a me mh interesserebbe tanto sapere
 TOR005	ehm
-TOR005	
 TOI023	com'era la città mo indipendentemente magari dalla criminalità dalle persone che si potevano incontrare proprio
 TOR005	vabbè certo
 TOR005	ehm
@@ -1169,7 +1138,6 @@ TOI022	eh eh nelle sale da ballo x vestiti in una certa maniera però
 TOI022	eh
 TOI022	tu nelle discoteche
 TOR005	eh entravi era l'unico giorno praticamente era la domenica che nessuno ti controllava
-TOI022	
 TOI022	ma in qualsiasi altra sala da ballo se non avevi la cravatta e la camicia
 TOI023	che dentro non entravi
 TOR005	non entravi
@@ -1196,7 +1164,6 @@ TOI022	fidanzarsi era xx
 TOR005	non era vis~ non era no menato no non erav visto bene cioè né uno né l'altro
 TOI023	lo menavano
 TOI023	xx eh
-TOI022	
 TOI022	però
 TOI022	xxx
 TOI022	nel passatempo nella settimana
@@ -1330,9 +1297,7 @@ TOI023	sì esatto
 TOI022	adesso x x
 TOI022	no non è che ci mancasse qualcosa ah non avevamo i luoghi non avevamo i soldi per andare
 TOI023	in albergo logicamente andavamo su alle montagnole in centro a piazza cavour
-TOI022	
 TOR005	andavamo e i giardini eh però x xx le le ragazze ce le avevamo anche noi non è che eravamo
-TOI022	
 TOR005	tutti senza
 TOR005	e sempre per quanto riguarda il lavoro
 TOR005	vi è capitato magari di avere esperienze brevi soggiorni
@@ -1380,13 +1345,11 @@ TOI023	sì eh
 TOI023	e
 TOI023	e i miei genitori mi chiedevano
 TOR005	eh
-TOI023	
 TOI022	invece a me piaceva stare fuori
 TOI023	che poi gli artigiani erano poco pagati
 TOI023	eh
 TOI022	eh
 TOI023	cioé i~ il lavoro
-TOR005	
 TOI022	ma chi in fiat
 TOI023	ma no x non in fiat eh fuori il lavoro è artigiani
 TOI022	no no eh fuori
@@ -1521,7 +1484,6 @@ TOI022	sì
 TOI022	eh
 TOI022	non via rosazza via via dove c'è il de~ mh mh
 TOI022	mh
-TOI022	
 TOI022	l'elettrauto
 TOI023	via x via ricci
 TOI023	ah ve~
@@ -1602,8 +1564,6 @@ TOR005	questa qui è la festa che ho inventato io
 TOI022	mh mh mh
 TOI023	questo trentacinque anni fa la prima festa l'ho fatta io
 TOI023	vero
-TOI022	
-TOI022	
 TOI022	eh
 TOI022	comunque abbiamo cercato per riavvivare il quartiere e tutto una cosa e l'altra
 TOR005	ti faccio una cronostoria di questo
@@ -1613,7 +1573,6 @@ TOI022	abbiamo ci siamo inventati questa festa eh abbiamo cominciato con la f~ l
 TOI022	mi sembra che sono arrivati
 TOI022	io ho lasciato otto anni fa nove anni fa
 TOI022	sono arrivato a trentacinque feste trentasei eh
-TOI022	
 TOI022	eh ehm
 TOI022	ab~
 TOI022	tutto per movimentare il commercio e tutto siamo arrivati poi
@@ -1671,10 +1630,8 @@ TOR005	scusa eh noi
 TOI022	chiaro
 TOI022	non potevamo andare in giro a dire quartiere cinque stelle voglio dire il quartiere chi non lo conosceva ancora
 TOR005	avrebbe dovuto dire eh beh ci sono quartiere dei cinque stelle cioè no
-TOI023	
 TOI023	è un partito
 TOI022	invece no
-TOI022	
 TOI022	cioè questo eh noi abbiamo dovuto cancellare poi da lì sono nati
 TOI022	altri gruppi come le nostre associazioni perché c'era quello del commercio poi gli stessi del commercio per non eh
 TOR005	abbiamo creato eh residenti e cittadini
@@ -1688,13 +1645,10 @@ TOI022	dei due fiumi
 TOI023	e noi abbiam l'abbiamo chiamato eh quartiere dei due fiumi
 TOI023	il po e la dora
 TOI023	eh
-TOR005	
 TOI023	eh ma magari ora nasce il partito dei due fiumi
-TOI022	
 TOI022	e ci frega di nuovo
 TOI023	speriamo di no
 TOR005	no
-TOR005	
 TOR005	eh invece qua~ questa è una domanda che generalmente non faccio però come dire co~ con voi mh mi mi ispirate fiducia
 TOI022	eh in in quegli anni un po' turbolenti che sono stati comunque i sessanta i settanta pure per le proteste studentesche insomma quello che stato
 TOR005	sì
@@ -1717,7 +1671,6 @@ TOI022	l'abbiamo vissuta
 TOI022	eh
 TOI022	non ti dico assolutamente non condivisa perché
 TOI022	come non condividiamo ancora oggi
-TOI022	
 TOI022	le proteste
 TOI022	contro
 TOR005	eh con la violenza
@@ -1811,12 +1764,9 @@ TOI022	eh
 TOR005	cioè ab~ abbiamo fatto abbiamo battuto il grande corso belgio
 TOI022	chiaro
 TOI023	con quei macchinoni enormi
-TOI022	
 TOI022	dove abbiamo avuto
 TOI023	gente che ci telefonava da tutte le parti che era tutto impolverato dappertutto
 TOR005	sì
-TOI022	
-TOR005	
 TOI022	ma mancano un po' ste cose eh nel senso io
 TOI022	eh
 TOI022	mancano però capisci che
@@ -1850,8 +1800,6 @@ TOI023	eh
 TOI023	è quello che a noi spiace
 TOI023	se dovesse morire domani
 TOR005	perché qui dentro tiè
-TOI022	
-TOI023	
 TOI023	qui dentro è quello che ci tiene uniti
 TOI023	com~ eh abbiamo
 TOI023	quattrocentocinquanta soci qui
@@ -1875,7 +1823,6 @@ TOI022	mh
 TOR005	lo hanno bruciato xx proprio la sagoma si vede sì
 TOI022	mi mi informerò sicuramente per quanto é mh
 TOR005	eh
-TOR005	
 TOR005	eh
 TOI023	vabbè xx è pesante
 TOR005	eh cos'è
@@ -1884,7 +1831,6 @@ TOR005	eh la storia va studiata
 TOR005	ehm
 TOI022	parliamo un po' di sport parliamo alle signore non gliel'ho chiesto se tifano per qualche squadra né però a voi ve lo chiedo s~
 TOI022	eh
-TOI023	
 TOR005	no
 TOI023	se se siete tifosi appassionati
 TOR005	tifosi e pazzi no tifosi sì sportivi
@@ -1958,7 +1904,6 @@ TOI022	cioè xxx xx
 TOR005	vabbè ma
 TOI023	eh
 TOI023	ah ma son tutti juventini eh
-TOR005	
 TOR005	io qui questa cosa volevo un po' capire cioè il
 TOR005	torinese è
 TOR005	più juventino o t~
@@ -1981,18 +1926,12 @@ TOI022	mh
 TOR005	ci siamo ci accontentiamo di quello che siamo eh
 TOI022	era xx a volte
 TOI023	per noi un un buon tifoso del toro il vero tifoso del toro
-TOI022	
 TOR005	è contento quando perde la juve
-TOI023	
 TOI022	è è è quello i l fa~
-TOR005	
-TOI022	
-TOR005	
 TOR005	allora faccio un paio di domandine ad entrambi anche perché insomma mi avete concesso quasi un'ora di intervista che è bellissimo e
 TOI022	dopo vi saluto altrimenti è vi vi sto sequestrando
 TOI023	sì
 TOI022	se no andiamo a giocare le bocce eh
-TOR005	
 TOR005	eh eh eh x x x
 TOR005	infatti vi volevo chiedere
 TOR005	cosa fate nel tempo libero
@@ -2006,7 +1945,6 @@ TOI023	chiedo chiedo a entrambi cominciamo con il signor lucio cominciamo
 TOI023	ah allora
 TOR005	la mia vita è qui dentro
 TOI022	okay
-TOI023	
 TOI023	da tenere in ordine tutto
 TOI023	l'esterno giardinaggio pulire fare
 TOI023	io tutte le mattine sono qui
@@ -2040,7 +1978,6 @@ TOI023	mh
 TOI022	uh per carità
 TOI023	diventa poi
 TOI022	no abbiamo il praticello praticello taglio l'erba
-TOI023	
 TOI022	le aiuole
 TOI023	teniamo curato così d'abbellimento fare proprio così non
 TOI023	eh
@@ -2056,7 +1993,6 @@ TOI023	xxx
 TOI023	un anno ho detto ma
 TOI023	posso assaggiarla
 TOR005	sono arrivato era vuoto
-TOI023	
 TOI023	l'è già portat~
 TOI023	son andati con la borsa
 TOR005	a so porta~
@@ -2071,7 +2007,6 @@ TOR005	ma
 TOI022	quanta roba gli si fregano mamma mai
 TOI023	ah xx xx x
 TOI023	sì
-TOI022	
 TOI022	è tutto affetto raccolto xx
 TOR005	prendi e porti via
 TOI022	è una cosa
@@ -2084,7 +2019,6 @@ TOI022	mh mh
 TOI023	a vedere la città a vedere un po' delle cose così
 TOI022	girano i supermercati eh
 TOI023	mi pia~ mi piace ancora girare i mercati mi piace girare
-TOR005	
 TOR005	okay
 TOR005	ehm
 TOR005	allora chiedo un'ultima cosa a entrambi
@@ -2120,13 +2054,10 @@ TOR005	quindi l'aneddoto e il consiglio
 TOR005	vi chiedo
 TOI022	a entrambi
 TOI022	l'aneddoto devo pensarci un pochettino perché una cosa un po' così non
-TOI022	
 TOR005	l'aneddoto è questa mia zia che mi chiama che ha novantasei anni perciò
 TOR005	xx x
 TOI022	novantasei anni
 TOI022	novantasei anni
-TOI022	
-TOI022	
 TOR005	riguardo a quello che posso dire a un turista o a qualche d'uno che mi chiede di torino
 TOI022	mh mh
 TOI022	posso solo dirle che
@@ -2142,7 +2073,6 @@ TOI022	e non è questo
 TOI022	le direi solo vieni pure perché torino è una città splendida è una città bellissima basta che tu che vieni
 TOI022	cominci a varcare la soglia del centro e no anche
 TOI022	ti vedi alzi gli occhi e vedi
-TOI022	
 TOI023	e vedi la città vedi veramente delle cose meravigliose
 TOI022	eh
 TOI022	senza star lì a dire vai a xx a vedere questo a vedere quello a vedere l'altro
@@ -2254,7 +2184,6 @@ TOI022	vuol dire che nel duemila e trenta se questo bambino ammazza sarà nel du
 TOI023	ammazza una persona non avrà più condanna perché è psicotico
 TOR005	eh
 TOI022	chiaro
-TOR005	
 TOR005	lei signor lucio invece cosa gli direbbe a
 TOR005	ah ah a un ipotetico xx
 TOI023	futuro cittadino ecco ve~
@@ -2281,10 +2210,8 @@ TOI023	quello che m~
 TOI023	un anettodo proprio che
 TOI023	ho av~ ho avuto che non lo sapevo buscetta
 TOR005	ha fatto il vetraio per per un mese da me
-TOI023	
 TOI023	eh
 TOI022	non lo sento
-TOI023	
 TOR005	non lo sapevo
 TOI023	l'ha scoperto dopo
 TOI023	eh sì
@@ -2352,7 +2279,6 @@ TOI022	certo
 TOI022	dalle un'occasione diversa
 TOI022	dalle un'occasione diversa ti procura il lavoro cerca di fare il lavoro
 TOR005	liberalizzale queste cose questi lavori queste grosse opere falli assumere
-TOR005	
 TOI022	chiaro
 TOR005	dai questa possi~ ma io non è che sto fa~ non è una questione perché io è una cosa che proprio a parte che se tu fai le cose è sempre politica
 TOI022	chiaro
@@ -2382,7 +2308,6 @@ TOR005	andavano a raccogliere il ferro
 TOI023	ma te pensa
 TOI022	c'era c'era un magazino in in corso san maurizio
 TOI023	vuol dire che l~ se tu le dai la possibilità di lavorare di fare le cose non c'è bisogno di andare nel bidone
-TOR005	
 TOI023	accettarlo sì
 TOI022	sì
 TOI022	e ti tiene pulito tutto
@@ -2419,7 +2344,6 @@ TOI022	che siamo arrivati eh e abbiamo participato tutti
 TOI022	i più fessi quelli che non sapevano neanche cosa erano le olimpiadi
 TOI023	eravamo tutti in giro a cercare perché comunque era una cosa che ci aveva appassionato
 TOI023	eravam lì
-TOI023	
 TOI022	eh
 TOI022	questi sono i sogni
 TOI022	ma non per bravura le sor~ le sarà venuto le sarà quello
@@ -2585,7 +2509,6 @@ TOR005	~totto settantasei
 TOR005	già all'epoca
 TOI023	le vedeva le differenze con l'italia pure nell'appoccio con i clienti insomma mh
 TOI023	ma vabbè
-TOI023	
 TOI023	se molta diversità anche de di di
 TOI023	di cultura
 TOI023	eh
@@ -2593,9 +2516,7 @@ TOI023	tutt'altra mentalità
 TOI023	noi per carità qui a me piace
 TOI023	preferisco qui
 TOR005	pane e cipolla come si dice
-TOI023	
 TOI023	a no andare fuori eh
-TOI023	
 TOI023	vado fuori quando son
 TOI023	diversi anni che poi ho potuto
 TOI023	eh
@@ -2634,12 +2555,8 @@ TOR005	sì beh mah
 TOI023	s~ in pace con sé stessi no x x l'importante è que~
 TOI023	sì sì sì ma xx
 TOR005	anzi mia moglie dice te non sei mai a casa sei sempre lì
-TOI023	
-TOR005	
-TOR005	
 TOI023	va bene
 TOI023	mah sì dai
-TOR005	
 TOI023	allora signor lucio grazie mille no grazie a lei veramente ehm
 TOI023	ti ringrazio eh
 TOR005	prego

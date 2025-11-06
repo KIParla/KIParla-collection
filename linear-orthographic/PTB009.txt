@@ -1,10 +1,8 @@
 TOR001	proprio una turineisa
-TOR001	
 TOR003	u~ una delle pochissime
 TOI035	mhmh
 TOR001	mh è vero
 TOR001	eh
-TOR003	
 TOR001	eh infatti
 TOR001	in quale città vive
 TOI035	vivi
@@ -56,7 +54,6 @@ TOI035	mi piace sentire quelli che parlano il vecchio torinese
 TOR003	cerea madamin
 TOI035	ci sono
 TOR003	ma io li sto a sentire perché proprio mi piace
-TOI035	
 TOR001	sentire il vecchio torinese
 TOI035	eh eh eh eh
 TOR001	che assomigliava un po' al francese
@@ -69,8 +66,6 @@ TOI035	tutte le persone vecchie
 TOR001	parlano piemontese
 TOI035	bello
 TOR003	salvo quelli meridionali non li ho sentiti anco~
-TOR001	
-TOR001	
 TOI035	eh parli a~ altre lingue oltre all'italiano
 TOR001	beh adesso tento di parlare ebraico
 TOR003	wow
@@ -178,7 +173,6 @@ TOI035	e poi dopo
 TOI035	non è stato il venticinque aprile non mi ricordo
 TOR001	perché allora poi ero una ragazzina non è che mi interessassi tanto
 TOR001	certo
-TOI035	
 TOI035	dico la verità
 TOI035	e
 TOI035	e c'è stata
@@ -197,7 +191,6 @@ TOI035	come che ricordi ha
 TOI035	eh beh bei ricordi perché ho vissuto in campagna
 TOI035	che non avevo mai vissuto
 TOR001	andavo al pascolo con la mia amica
-TOI035	
 TOI035	andavamo a scuola come clandestini
 TOI035	tutti sapevano che ero ebrea
 TOR001	andavamo a scuola al castello di barolo
@@ -205,7 +198,6 @@ TOI035	mhmh
 TOI035	facevamo tutte le mattine
 TOI035	quegli otto dieci chilometri in bicicletta
 TOR001	e ci divertivamo da matti
-TOI035	
 TOI035	perché eravamo una banda di ragazzini
 TOI035	rubavamo le ciliegie per la strada
 TOI035	andavamo a bere ai pozzi
@@ -219,13 +211,8 @@ TOI035	eh infatti è vero che un giorno
 TOI035	arriva il prete per far la lezione di religione
 TOI035	mi dice tu dimmi de prufundis
 TOR001	io son diventata rossa come un peperone
-TOR003	
-TOI035	
 TOR001	perché non lo sapevo
-TOI035	
 TOR003	e tutti che ridevano i miei compagni
-TOR001	
-TOI035	
 TOR003	e insomma però il rettore lo sapeva
 TOI035	e alla fine
 TOI035	che ero ebrea ce n'era anche un altra ebrea lì
@@ -243,7 +230,6 @@ TOI035	mh mh
 TOI035	e ci facevano dormire in queste camerate
 TOI035	con la suora che stava dietro la sua tendina
 TOR001	e noi ne facevamo di tutti i colori
-TOI035	
 TOR001	ci divertivamo tantissimo
 TOI035	per esempio cosa facevate
 TOI035	eh non so lei stava dietro la tenda noi raccontavamo
@@ -252,7 +238,6 @@ TOR001	ricordo neanche più
 TOI035	salve
 TOR003	buongiorno
 TOR001	giorno
-TOI035	
 TOI035	e insomma è stato così un periodo anche piacevole
 TOR001	perché avevamo
 TOI035	mh mh mh mh
@@ -266,7 +251,6 @@ TOI035	mh mh
 TOI035	insomma
 TOR001	era una b~ era una bella vita
 TOR001	quindi è un ricordo positivo
-TOI035	
 TOR001	perché i grandi problemi non mi toccavano ancora
 TOI035	certo
 TOR003	ecco
@@ -379,7 +363,6 @@ TOR001	era cascata una bomba nella tromba delle scale
 TOI035	caspita
 TOI035	e aveva demolito la stanza da bagno
 TOR001	tant'è vero che era rimasto un boiler attaccato che si vedeva
-TOI035	
 TOI035	xx
 TOI035	e allora mia nonna che abitava in via carlo alberto
 TOI035	aveva una casa grande ci ha ospitati
@@ -392,7 +375,6 @@ TOI035	e allora utilizzavamo quel gabinetto lì e poi si entrava
 TOI035	in casa dei vicini si scendeva dall'altra scala
 TOR001	perché la scala era stata distrutta
 TOR001	certo
-TOI035	
 TOI035	e siamo stati lì un bel po'
 TOI035	e intanto il mio papà ha un po' ripreso
 TOI035	le fila del lavoro si è associato con delle persone
@@ -430,7 +412,6 @@ TOI035	mh mh mh mh mh
 TOI035	eh insomma la ricostruzione
 TOI035	gli italiani si son dimostrati per una volta
 TOR001	attivi veloci hanno preso in mano la situazione
-TOI035	
 TOR001	e hanno ricostruito
 TOI035	mh
 TOI035	veramente son stati anni di grande lavoro
@@ -447,7 +428,6 @@ TOI035	ma io mi ero abituata al mio nome
 TOR003	al mio nome nuovo arancioni ci chiamavamo
 TOI035	ti presentavi come
 TOR001	arancioni
-TOI035	
 TOI035	e poi ci avevano detto ma per
 TOI035	mascherarvi meglio andate qualche volta a messa
 TOI035	così per non far vedere che siete diversi
@@ -466,7 +446,6 @@ TOI035	avevano requisito tante farina
 TOI035	da dai ricchi
 TOI035	e l'han distribuita un po' per cui avevamo un sacco di farina nell'ingresso
 TOR001	venivano i topi di sotto a cercar di mangiarla
-TOI035	
 TOI035	e con quella facevamo fare il pane
 TOI035	ma lì era un po' un paese da operetta diciamo
 TOI035	perché a un certo punto
@@ -475,7 +454,6 @@ TOI035	mh mh
 TOI035	e c'era una collinetta hanno messo una sentinella in cima alla collinetta
 TOI035	si vedevan le strade di sotto
 TOR001	e se si vedeva arrivare si suonava la tromba non mi ricordo più
-TOI035	
 TOR001	che cosa
 TOI035	quindi avvisava
 TOR001	però venivano poco i fascisti avevan paura dei partigiani
@@ -517,7 +495,6 @@ TOI035	stavamo appunto in via pastrengo
 TOI035	finché abbiamo comprato
 TOR003	eh non mi ricordo più
 TOR001	vabbè poi a un certo punto stavi in corso alvari
-TOR003	
 TOI035	quello me lo ricordo io
 TOR003	dopo
 TOI035	xxx
@@ -544,7 +521,6 @@ TOR003	in corso novara
 TOI035	ah corso novara
 TOR003	corso novara
 TOR001	lì ci siete stati un po' eh
-TOI035	
 TOI035	mh
 TOR001	son stata
 TOR001	eh eh com'era barriera di milano
@@ -584,7 +560,6 @@ TOR003	dal xx subito dopo
 TOR003	hai detto scusa barriera di milano all'inizio eri
 TOI035	dove che non lo so sapevo neanch~ via cherubini
 TOR001	via cherubini
-TOR003	
 TOI035	e dopo via cherubini corso novara
 TOR003	sì
 TOR003	okay quindi dal cinquantacinque fino a quand'è che ti sei trasferita
@@ -603,7 +578,6 @@ TOI035	io
 TOR001	li ho seguiti perché
 TOI035	okay
 TOR001	marco ha detto andiamo in solo viene se viene anche la mamma
-TOI035	
 TOI035	che stavamo tutti vicini
 TOR001	allora mi son data da fare ho trovato un alloggio in
 TOI035	okay
@@ -661,7 +635,6 @@ TOI035	eh eh eh insomma c'era ancora adesso questa signora che mangia pranzo con
 TOI035	odia i meridionali
 TOI035	che ormai diciamo che
 TOR003	a torino non si parla più piemontese
-TOI035	
 TOI035	eh eh la maggioranza son meridionali
 TOI035	credo
 TOR001	eh eh xx
@@ -683,7 +656,6 @@ TOI035	perché io non avevo antipatia per gli s~ i meridionali
 TOR001	ma tanti come dico c'erano i cartelli non si affitta ai meridionali
 TOI035	mh mh mh
 TOI035	adesso ancura grassie
-TOR003	
 TOI035	eh sì adesso al~ sono altri che
 TOR003	eh
 TOI035	adesso si è spostata su altri la
@@ -712,7 +684,6 @@ TOI035	soffocato dall'ondata di
 TOR001	di meridionali
 TOI035	mh eh sì
 TOI035	eh
-TOI035	
 TOR001	non so quanti ne siano arrivati non ho idea
 TOR003	eh parecchi
 TOI035	il numero non lo so neanch'io
@@ -777,7 +748,6 @@ TOR001	a ventidue anni dicevi hai preso in mano la
 TOI035	questa fabbrica
 TOI035	sì nel cinquantadue è morto il mio papà
 TOR001	io avevo ventidue anni ero una giovane inesperta e timida
-TOI035	
 TOI035	e avevo uno zio fratello di mia mamma
 TOI035	perché mio papà andava a vendere in tutta italia aveva una clientela
 TOI035	soc~ partiva con la borsa il il copia commissioni
@@ -795,7 +765,6 @@ TOI035	non mi ricordo più
 TOR003	alle volte son andata anche in macchina
 TOI035	che mi dicevi che ti vedevano in macchina eh xxx
 TOR001	avevo una cinquecento giardinetta
-TOR003	
 TOI035	che mi dicevi che ti vedevano in macchina
 TOI035	e si faceva tutta l'aurelia non c'era ancora la
 TOR003	l'autostrada del sole
@@ -805,7 +774,6 @@ TOI035	con la sta ragazza giovane che vedevano arrivare che ti guardavano come
 TOI035	non so nell'interno delle marche erano ancora dei paesi
 TOI035	e vedevano una donna al volante
 TOR001	si stupivano una cosa che non usava
-TOR001	
 TOR001	cioè certo
 TOI035	e quindi andavi in giro a vendere vernici
 TOR001	a vendere i nostri prodotti poi tornavamo a casa li fabbricavamo li spedivamo
@@ -816,7 +784,6 @@ TOI035	non eravamo più in grado di
 TOI035	cambiare il nostro sistema
 TOI035	poi eravamo insomma mia mamma era vecchia e
 TOR001	io avevo avuto tre figli
-TOI035	
 TOI035	e così
 TOR001	abbiamo cambiato
 TOR001	e
@@ -862,7 +829,6 @@ TOI035	il computer non esis~ non se n'era neanche ancora nel cervello di nessuno
 TOR001	credo
 TOI035	certo
 TOR001	forse olivetti sì
-TOI035	
 TOI035	e avevamo la macchina da scrivere
 TOI035	per f~ copiare i documenti
 TOR001	avevamo la copiatrice che era una pressa
@@ -873,7 +839,6 @@ TOI035	mh mh
 TOI035	poi fogli bianchi poi si schiacchiava si schi~ era inchiostro copiativo
 TOI035	si schiacciava finché x
 TOI035	rimaneva l'impronta sui fogli bianchi e quelle eran le copie
-TOR001	
 TOI035	e quanto era grande questo macchinario
 TOR001	penso così
 TOR003	eh beh
@@ -903,13 +868,10 @@ TOI035	e poi alla fine abbiamo chiuso perché capivamo che non guadavamo più no
 TOI035	abbiamo affittato il nostro capannone
 TOI035	e io mi sono messa a fare la casalinga
 TOR001	la madre casalinga
-TOR003	
-TOI035	
 TOI035	che non mi piaceva molto
 TOI035	per cui a un certo punto ma molto più avanti degli amici mi hanno offerto un posto
 TOI035	in un negozio che aveva vernici ma anche tan~ era una specie di bazar
 TOI035	in barriera come si chiama quella barriera là dopo piazza
-TOI035	
 TOR003	madonna di campagna sì oltre madonna di campagna
 TOR001	ah
 TOI035	mh
@@ -955,7 +917,6 @@ TOR001	sì a barriera sì
 TOR003	in barriera
 TOR003	sì sì
 TOR001	in zona lì
-TOR003	
 ???	eh sì perché si son cosciuti al liceo andavano al liceo insieme xxx
 TOR001	buongiorno
 TOR003	in barriera
@@ -1056,7 +1017,6 @@ TOI035	forse le periferie non è così
 TOR001	però il centro è bello
 TOI035	mh mh mh mh
 TOR001	siamo stati ai giardini reali bellissimi
-TOR003	
 TOI035	ha f~ fatto un po' la turista adesso
 TOR001	eh sì eh sì siamo andati al parco san vito che è bellissimo
 TOI035	vabbè
@@ -1097,7 +1057,6 @@ TOI035	mh mh
 TOI035	e facevamo tutti i giorni quella mezz'oretta
 TOI035	trovavamo insomma
 TOR001	allora si camminava
-TOR003	
 TOI035	eh sì
 TOR001	non ci dava fastidio
 TOR001	e quando stava lì com~ hai ricordi di
@@ -1182,7 +1141,6 @@ TOI035	e tutto un belare
 TOI035	c'era il mercato delle pecore degli agnelli dice
 TOI035	papà compraci un agnello
 TOR001	dice ma poi cresce diventa una pecora come facciamo
-TOR003	
 TOI035	la vita di campagna
 TOI035	e lì anche se eravamo in questa osteria lì era un bell'osservatorio del
 TOI035	della gente del popolo
@@ -1201,16 +1159,12 @@ TOI035	e a me piaceva servire perché son sempre stata un tipo che mi piace far 
 TOI035	han detto a mio papà
 TOI035	ma c'a i cumpra n ostu a sta fia
 TOR003	le compri un'osteria a questa ragazza
-TOI035	
-TOR001	
-TOR001	
 TOI035	e ti sarebbe piaciuto
 TOR001	eh beh insomma era fuori dai nostri dai nostri abitudini
 TOI035	eh certo
 TOI035	non mi piaceva
 TOI035	lì c'era tutta questa mi ricordo versavo il vino
 TOR001	ma pila nen per el col la buta
-TOI035	
 TOR003	la prendevo non la prendevo nel modo giusto
 TOI035	ah ti dicev~
 TOR003	non dovevo prender dal collo ma dal dietro
@@ -1232,7 +1186,6 @@ TOI035	diversi
 TOR001	addirittura nello stesso territorio
 TOR003	eh sì
 TOR001	eh sì
-TOR001	
 TOI035	allora
 TOR001	una volta abbiamo comprato un coniglio per mangiarlo no
 TOI035	un coniglio
@@ -1240,8 +1193,6 @@ TOI035	e ce l'han portato vivo
 TOR001	ho detto povero coniglio si è messo sotto al divano
 TOI035	aiuto
 TOR003	abbiamo richiamato la contadina vientelo a prendere che noi non l'uccidiamo di sicuro
-TOR001	
-TOR001	
 TOI035	eh il coniglio è un po' difficile in effetti
 TOR001	e prima di partire l'anno prima abbiamo comprato mezzo maiale
 TOI035	mh
@@ -1270,7 +1221,6 @@ TOR001	avevo paura che mi fermassero
 TOI035	certo
 TOR001	invece i nostri salami sono arrivati x
 TOR001	sono arrivati a casa
-TOI035	
 TOI035	che in quei tempi q~ c'era proprio niente da mangiare
 TOI035	il pane era razionato c'era quel pane
 TOI035	lo facevano con la segatura col riso
@@ -1279,7 +1229,6 @@ TOI035	mi ricordo mia mamma faceva la frittata eravamo tanti
 TOI035	eravamo quattro mia nonna e mia zia eravamo sei
 TOI035	magari con due uova metteva dentro tutto quello che trovava
 TOR001	faceva una frittata
-TOI035	
 TOR001	per sei con due uova
 TOI035	eh ce~ beh con tutto quello che c'era
 TOI035	e c'era proprio la fame allora sì
@@ -1319,7 +1268,6 @@ TOR003	ah no adesso mi confondo le varie
 TOI035	la nonna lidia e sì tropp~ troppo avanti la nonna lidia
 TOI035	tuo papà e l'elsa
 TOR001	che la nonna lidia gli insegnava la matematica e loro non volevano andarci piangevano
-TOI035	
 TOI035	e lei era impaziente si arrabbiava
 TOI035	e diceva
 TOI035	mia mamma che era un tipo
@@ -1327,18 +1275,14 @@ TOI035	non so perché da me non vogliono venire fanno
 TOI035	quando invece da carla che era l'altra nonna che aveva un gran pazienza gli spi~
 TOI035	gli faceva fare il latino
 TOR001	e la nonna ca~ da carla vanno volentieri da me no
-TOR003	
 TOR001	chissà perché
 TOR003	chissà come mai
 TOR003	la nonna lidia mi ricordo x stava vicino a
 TOI035	xx di quando andavo mi dava sempre l'acqua con lo zucchero
-TOR001	
 TOR003	l'acqua con lo zucchero
 TOI035	l'acqua con lo zucchero
 TOR001	non aveva niente di meglio
-TOR003	
 TOI035	sì
-TOI035	
 TOI035	no ma lei è stata un'innovatrice dei gelati la nonna lidia
 TOI035	una delle prime che comrpassero i gelati s~
 TOI035	confezionati che se li portava a casa
@@ -1386,8 +1330,6 @@ TOR001	il portare le pizze eh
 TOR003	abbiamo un futuro xx
 TOI035	speriamo
 TOR003	no per carità
-TOR001	
-TOI035	
 TOR003	no non dico non dico certo
 TOI035	sì sì
 TOR001	per un giovane non è facile vedere il futuro
@@ -1407,14 +1349,11 @@ TOI035	mh mh mh mh
 TOR001	varie erano tutte di ricchi ma questo forse nell'ottocento
 TOI035	mh si no beh certo
 TOR001	la vigna madama reale
-TOI035	
 TOR001	ci siam passati l'altro giorno
 TOR001	va bene io ti ringrazio tantissimo per il tempo
 TOI035	grazie mille davvero
 TOR001	a me è piaciuto raccontare sai ai vecchi piace raccontare la propria vita
 TOI035	ah perfetto a me anche quindi siamo a posto
-TOR001	
-TOR001	
 TOI035	grazie ancora
 TOR001	ed è difficile trovare qualcuno che ti stia a sentire
 TOI035	ah no io mi diverto un sacco quindi io posso fare a puntate non
@@ -1422,7 +1361,6 @@ TOR001	hai intervistato tante persone
 TOR001	eh pochi anziani pochi in realtà
 TOI035	perché
 TOR003	qui ce ne sono tantissimi
-TOR001	
 TOR001	andiamo a registrarli tutti
 TOR001	no eh di anziani pochi perché io ho un po' di parenti anziani aspe~
 TOR001	stoppo qui che

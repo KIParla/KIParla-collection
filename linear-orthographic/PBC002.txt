@@ -17,7 +17,6 @@ BOI008	molto verde
 BOI007	e io non parlo scusa
 BOI007	mo c'è anche quella
 BOR003	eh uno alla volta
-BOI007	
 BOI007	molto verde
 BOR003	molto tranquilla non ci sono insediamenti industriali per fortuna per cui l'aria è migliore rispetto ad altre zone della città
 BOI007	mhmh
@@ -68,7 +67,6 @@ BOI008	sono quaran~
 BOI007	no
 BOI008	quasi cinquanta
 BOI007	quasi cinquant'anni
-BOR003	
 BOI007	mamma mia
 BOR003	quando ci siamo sposati il palazzo era in costruzione ancora
 BOI007	quindi
@@ -114,7 +112,6 @@ BOI007	negli anni
 BOI007	cinquanta sessanta
 BOI007	la genta arrivava lì o a piedi in bicicletta
 BOR003	andava a bere quest'acqua che dicevano fosse
-BOI007	
 BOI007	sana
 BOR003	e c'era un omino che vendeva un bicchiere d'acqua e faceva le crescentine
 BOI007	ah
@@ -138,11 +135,9 @@ BOI007	non si sa
 BOR003	se c'era qualcun altro a quei xx
 BOI007	ah sì sì è vero
 BOR003	comunque dei malati non ce ne son stati
-BOI007	
 BOR003	pare
 BOR003	mhmh
 BOI007	ma che bello grazie non lo sapevo
-BOR003	
 BOI008	e invece in generale di bologna
 BOR003	di
 BOR003	di i~ la città di bologna
@@ -546,7 +541,6 @@ BOI008	abbiam perso nelle
 BOI008	xxxx
 BOI007	eh
 BOI007	sei tremendo
-BOR003	
 BOI008	no no vabbè però anche quello dai fa parte delle tradizioni
 BOI007	xxx che tradizioni
 BOI007	comunque il centro storico è sicuramente dove portiamo gli amici quando vengono a bologna e non conoscono la città sai
@@ -629,14 +623,12 @@ BOI007	cinema teatro
 BOI007	nessuno dei due appassionati di ballo
 BOI007	però in centro c'erano dei locali
 BOI007	fa domenica pomeriggio i ragazzi andavano a ballare
-BOI007	
 BOI007	eh c'era tutta
 BOI007	xxxxx
 BOI007	ma
 BOI007	nei locali dove si ballava
 BOI007	boh
 BOR003	non li frequentavo
-BOI008	
 BOI008	quei locali
 BOI008	ehm
 BOI008	il com'era
@@ -702,7 +694,6 @@ BOR003	e invece voi essendo di bologna
 BOR003	quando vi siete incontrati per la prima volta
 BOI008	ve lo ricordate
 BOI007	noi
-BOI008	
 BOR003	via beniamino gigli
 BOI007	ah
 BOI008	qui vicino
@@ -728,15 +719,11 @@ BOR003	otto mesi ingessato e lei ha incominciato a fare l'infermiera
 BOR003	ah
 BOI007	e dopo lì è nato l'amore
 BOR003	e non vole xxx farel'infermiera
-BOI007	
-BOR003	
 BOI008	e dopo vi siete sposati molto tempo dopo
 BOR003	quattro anni
 BOR003	ah
 BOI007	quindi quattro anni di fidanzamento avete fatto
 BOR003	e uno di gesso
-BOI007	
-BOI007	
 BOR003	sì quattro anni
 BOR003	e all'inizio
 BOR003	frequentavate dei posti
@@ -882,8 +869,6 @@ BOI007	qualc~ qualche battuta
 BOI008	son proprio due di noi
 BOI008	io xx
 BOR003	se voi xx a ma so brisa
-BOR003	
-BOR003	
 BOR003	e pensate che
 BOI007	cioè sia una cosa che è andata un po' persa vi dispiace che per esempio i giovani non non lo parlino
 BOI007	eh guarda io ho un nipote abbiamo un nipote che ha quarantadue anni
@@ -891,7 +876,6 @@ BOI007	nato a bologna eccetera lui è
 BOI007	appassionatissmo e lo parla
 BOI008	il dialetto bolognese gli piace molto per cui
 BOR003	xxxx
-BOI007	
 BOI007	per cui è
 BOI007	si parla ancora magar~ magari non con frequenza diciamo nel quotidiano però
 BOI008	mh è come nel veneto

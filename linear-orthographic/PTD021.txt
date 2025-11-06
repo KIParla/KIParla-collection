@@ -14,7 +14,6 @@ TOR001	mh
 ???	e c'era
 TOR001	casino
 TOR001	sì cioè c'erano i backstreet boys di sotto fondo in realtà però xxx
-TOR001	
 TOI012	però riascoltandola si sentiva abbastanza bene
 TOR001	x
 TOI013	okay che lavoro fate
@@ -223,10 +222,6 @@ TOR001	okay
 TOI012	m eh vi piacerebbe andare avanti a fare il lavoro che state facendo adesso
 TOI013	sì
 TOR002	a me sì
-TOI013	
-TOR001	
-TOI012	
-TOI013	
 TOR001	a me sì tanto però vorrei ma~ cambiare mansione nello specifico
 TOI013	okay cosa vorresti fare
 TOI013	eh il mio lavoro raggruppa tantissime mansione dall'attivare il cliente dal lavorare in centrale dal lavorare solo in strada
@@ -541,11 +536,6 @@ TOR001	a un eh a una camera grossa come sto tavolo a quattocento euro te la trov
 TOR001	eh no sì
 TOR001	sì
 ???	se non sei troppo alto perché se no
-TOR002	
-TOI013	
-TOR001	
-TOI012	
-TOR001	
 TOI012	è un casino
 TOI012	però cioè senza andare lontano io mi ricordo lei che cercava un un posto dove dormire quando si è trasferita qua a torino
 ???	stanze a quattrocento euro
@@ -801,7 +791,6 @@ TOI012	xxxxxx
 TOI013	un extra regionale esatto
 TOR001	esatto
 TOR001	un extra regionale mado~
-TOR001	
 TOI013	avete mai vissuto fuori torino
 TOI012	m eh m eh no
 TOR001	m eh non veramente
@@ -834,8 +823,6 @@ TOI012	ah oka~
 TOI013	ma facevo su e giù di fatti
 TOR001	menton
 TOR001	ah okay okay okay
-TOI012	
-TOI012	
 TOR001	scusate
 TOI012	e a barcellona quanto sei stato
 TOR001	due mesi e mezzo
@@ -940,8 +927,6 @@ TOI013	il cibo anche
 TOR001	non è come il cinese che c'è qua ma que~ ma quello è scontato
 TOI012	non c'entra niente
 TOR001	trasporti pubblici come funzionano
-TOI012	
-TOI013	
 TOI013	trasporti pubblici
 ???	eh
 TOI012	non hanno xxx i pullman
@@ -1110,7 +1095,6 @@ TOI012	ehm
 TOR001	adorano l'italia
 TOI012	mh mh
 TOR001	sono amanti dell'italia xxx perché ogni in ogni dove vedi ristoranti italiani gestiti da giapponesi ovviamente
-TOI012	
 TOI012	e come i nostri giapponesi g~ gestiti da cinesi
 TOI012	più o me~
 TOI012	e
@@ -1153,8 +1137,6 @@ TOI012	ti chiedevano di fare di farsi le foto con noi
 TOI013	sì sì a a noi toccavano sempre la barba
 TOI013	la prima
 TOR001	la prima volta è s~ è capitato in piazza tienanmen eh si è avvicinata una bam~ cioè si è avvicinata una signora cioè a messo in mano una bambina a marta
-TOI012	
-TOI013	
 TOI012	sì che io xxx ma che cazzo vuole ques~
 TOI013	perché è bionda
 TOI012	sì sì perché comunque le faceva effetto
@@ -1170,9 +1152,6 @@ TOI012	sì
 TOI013	più o meno
 TOI013	gli ha messo in mano sta bambina
 TOR002	gli fa
-TOR001	
-TOI012	
-TOI013	
 TOI013	xx
 TOI013	e vabbè
 TOI012	eh fallo
@@ -1238,10 +1217,6 @@ TOI012	eh sì
 TOI012	penso tanti non lo so tanti
 ???	l'unica volta che ho preso il taxi a tokyo è quan~
 TOR002	quando te l'han pagato
-TOI013	
-TOR001	
-TOI012	
-TOI012	
 TOI012	a parte quello no eh la il primo giorno abbiamo condiviso il taxi in quattro
 TOI012	per andare non mi ricordo dove a la all'albergo di marta
 TOI012	ehm
@@ -1425,8 +1400,6 @@ TOI013	andiamo a farci degli amici a lingot~ visto che il biscotto del fortuna d
 TOR001	domani te lo trovo se vuoi
 TOI013	xxx
 TOI013	lo vuole un amico
-TOR001	
-TOR001	
 ???	quindi comunque
 TOI013	con la foto
 TOR001	con la foto
@@ -1437,18 +1410,12 @@ TOR001	sì
 TOR001	okay
 TOI013	em eh vi piace la zona in cui abitate
 TOR002	eh nì
-TOI013	
-TOR001	
-TOI012	
-TOI013	
 TOR001	ci sono molte cose che cambierei della mia zona
 TOR001	okay dimmi
 TOI013	sì dimmi
 TOR001	ehm eh cosa cambierei o cosa non mi piace
 TOI012	sì cosa ti
 TOI013	razzista
-TOI012	
-TOR001	
 TOI013	cosa non ti piace cosa cambieresti
 TOI013	beh non mi piace m eh
 TOI013	sembra che sembra che sia abbandonata
@@ -1563,8 +1530,6 @@ TOI012	mh mh mh mh mh mh
 TOR001	fico
 TOI012	per te invece
 TOI013	eh beh in piazza ri~ non mi ricordo la domanda
-TOR001	
-TOR001	
 TOI012	se ti piace la zona in cui vivi
 TOI012	giusto
 TOI012	ah piazza rivoli sì è una bellissima zona poi è centrale
@@ -1573,7 +1538,6 @@ TOR001	piazza rivoli piazza massaua quindi ce ne sono un parecchie cose da fare 
 TOI012	in piazza massaua cosa c'è da fare
 ???	cinema
 TOI013	c'è il cinema
-TOI012	
 TOI013	e poi c'è uno dei kebabbari più
 TOI012	è vero io l'ho capita
 TOR001	e poi c'è uno dei kebabbari più buoni di torino eh eh scusa
@@ -1583,9 +1547,6 @@ TOR001	più buoni di torino
 TOI012	ah
 TOR001	sì
 TOI013	vedi segna segna
-TOR001	
-TOI012	
-TOI012	
 TOI012	em eh
 TOR001	e m eh
 TOI012	io apro l'altra qua sto bevendo solo io vabbè non importa
@@ -1637,8 +1598,6 @@ TOI012	e che la pellerina è tanto bella
 TOR001	ma è anche piena di zingari
 TOI012	mh mh
 TOI013	eh non per essere razzista ma gli zingari li odio
-TOI012	
-TOI012	
 TOI012	esatto
 TOR001	e e loro son l'unica microcriminalità che c'è in quel quartiere
 TOI012	okay ma rubano in casa
@@ -1687,8 +1646,6 @@ TOI012	ma quindi lì è già tipo zona vallette dove c'è l'auchan eh
 TOR002	eh è in piazza stampaia
 TOI012	piazza stampaia qual è già
 TOI013	eh capolinea del no~ eh
-TOR001	
-TOI012	
 TOR002	scusa
 TOI012	capolinea del eh nove
 TOI012	eh
@@ -1836,15 +1793,11 @@ TOR001	okay
 TOR001	adesso vabbè come vi muovete abitualmente
 TOI013	come vi spostate
 TOI012	io con eh
-TOR001	
 TOR001	eh lo so eh
-TOI013	
 TOI012	o a piedi o con il car sharing appunto
 TOR001	xxx
 TOI012	okay
 TOI013	in macchina
-TOR001	
-TOI012	
 TOI012	sempre e solo in macchina
 TOR001	allora s~ se prendo i mezzi devo venire in centro
 ???	okay
@@ -1967,7 +1920,6 @@ TOI012	aspetta non è contento del turismo
 TOI012	sì
 TOI012	okay
 TOR001	perché troppa gente
-TOR002	
 TOI012	xxx
 TOI012	no scherzo
 TOI012	però voglio dire
@@ -1984,9 +1936,6 @@ TOI012	cazzo vuoi
 TOI013	e
 TOI012	e non ci volevo proprio venire qua
 TOI013	eh
-TOR001	
-TOI012	
-TOI012	
 TOR001	che poi non erano un problema perché comunque vnivano su per lavorare e quindi si facevano il mazzo quadruplo
 TOI012	certo
 TOI012	e e
@@ -2065,8 +2014,6 @@ TOR001	sì è la cit~
 TOI012	mh
 TOI013	soprattutto rispetto a milano
 TOR001	mh
-TOI012	
-TOI013	
 TOR001	no comunque l'idea che ho io è anche quella cioè è quella
 TOI013	mh mh
 TOI013	che prima eraio eh torino era milano
@@ -2162,8 +2109,6 @@ TOR001	è quello che pensavo io infatti
 TOR001	n~ non sento questa presenza ingombrante
 TOI012	cioè l~ li noto sì però non eh
 TOI013	eh la differenza sostanziale è che quando prima andavi in centro sentivi parlare stranero parlavano barese adesso parlano le lingue xxx
-TOR001	
-TOI013	
 TOI012	cioè insiste insiste
 TOR001	e beh xxx
 ???	e non erano turisti tra l'altro
@@ -2234,7 +2179,6 @@ TOI013	certo
 TOR001	però
 TOI013	è un giapponese in realtà
 TOI013	te lo
-TOR001	
 TOI013	soprattutto si tiene
 TOI013	te lo dico
 TOI013	te lo dico adesso che sto lavorando e me ne accorgo meno quindi non passeggio di meno prendo meno pullman anzi non ne prendo quasi più
@@ -2383,8 +2327,6 @@ TOI012	sì ma è sono i nuovi punti di aggregazione
 ???	così siamo contenti tutti abbiamo nuovi centri aggreganti della città
 TOI013	però una xxx non c'è
 TOI013	eh
-TOI012	
-TOI012	
 TOI012	potrei aprire no
 TOI013	schi~ mai mai nella vita porta palazzo no
 TOR001	si affittano un locale sotto casa mia quello all'angolo
@@ -2401,7 +2343,6 @@ TOI013	okay
 ???	eh ho un eh faccio un allenamento settimanale più la partita
 TOR001	xxx
 TOI012	okay
-TOR001	
 TOI013	bene
 TOI012	domanda successiva
 TOR001	prossima doma~
@@ -2412,9 +2353,7 @@ TOI013	sì tifo
 TOR001	non guardo le partite non ho nessun abbonamento non guardarmi così
 TOI013	che squadra tifi
 TOI012	milan
-TOR001	
 TOI012	oh
-TOI012	
 TOR001	la suqadra di berlusca
 TOI013	e vabbè ormai magari
 TOI013	tu la macchina la vuoi ritrovare o te la faccio ritrovare a
@@ -2424,10 +2363,8 @@ TOI012	ovviamen~
 ???	lasciamela trovare ti prego l'ho appena compra~
 TOR001	l'abbiamo appena pre~ sì sì
 TOI013	come mai tifi milan
-TOR001	
 TOI013	no non voglio aprire un eh
 TOR001	tifo milan dalla finale di champion's league contro la juve nel duemila e tre
-TOI012	
 TOI012	fa male
 TOI013	mh
 TOI012	stan bene grazie
@@ -2528,9 +2465,6 @@ TOR001	esatto
 TOI012	osti
 TOR001	e~ sei la nostra uscita serale
 TOI013	meravigl~ pr~ apro un'altra birra
-TOR001	
-TOI012	
-TOR001	
 TOI013	em eh okay frequentate sempre gli stessi posti o vi piace cambiare spostarvi
 TOI012	m eh no ci piace cambiare
 TOI013	poi accendi sta sigaretta
@@ -2571,7 +2505,6 @@ TOI012	va bene vado via
 TOI013	ciao
 TOR001	è stato bello ciao
 TOI013	no è che non so come interagire cioè non
-TOR001	
 TOI013	io okay non ho altre domande da poterti fare
 TOR001	vabbè a torino c'è il kappa future festival
 TOI013	mh mh
@@ -2767,7 +2700,6 @@ TOI012	qui a torino
 TOR001	sì sì
 TOI013	okay
 TOR001	io ci andavo alle manifestazioni a pogare
-TOR001	
 TOI012	ho quasi finito cinema
 TOR001	ye
 TOI013	vi piace il cinema
@@ -2950,4 +2882,3 @@ TOI012	finito grazie mille
 TOI012	figo
 TOR001	grazie a te
 TOR001	adesso mi sento in colpa che l'uscita settimanale ve l'ho fatta
-TOR001	

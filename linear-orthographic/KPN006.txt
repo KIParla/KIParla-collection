@@ -311,7 +311,6 @@ PKP014	ma sara dov'è il mio bicchiere
 PKP014	ma
 PKP019	l'ho messo via
 PKP021	no tiralo fuori
-PKP019	
 PKP014	non va mica bene che tu mi porti
 PKP020	l'ho messo lì
 PKP019	guarda che si arrabbia dopo eh
@@ -394,7 +393,6 @@ PKP014	eh
 PKP021	dell'occhio della palpebra
 PKP014	mhmh
 PKP021	perché esportano e fanno la plastica quindi xxxxx
-PKP014	
 PKP014	però fa tutto una esterna
 PKP014	che è una docente all'università veterinaria
 PKP014	e loro collaborano
@@ -424,7 +422,6 @@ PKP014	e accedo con le loro credenziali e
 PKP019	mi fai veder cosa devi fare
 PKP014	posso dire una cosa
 PKP020	perché loro alcune sono ancora iscritte all'università
-PKP014	
 PKP014	e magari hanno la cosa di excel
 PKP019	quindi cioè non è un problema
 PKP021	posso dire una cosa
@@ -550,7 +547,6 @@ PKP019	sai
 PKP014	chico vai a mangiare l'osso
 PKP019	no basta adesso vai a letto
 PKP020	no m~ a
-PKP019	
 PKP019	vuol stare in compagnia vuole stare
 PKP014	eh tesoro
 PKP014	basta
@@ -581,14 +577,12 @@ PKP020	ecco
 PKP021	guarda che si prende i meriti
 PKP019	tu non sai mai niente ma con i meriti xx
 PKP020	guardate ben
-PKP019	
 PKP021	guardate ben bene
 PKP019	s~ s~ son stato io
 PKP021	che io son partito anzi
 PKP019	io non c'entro ma con i meriti eh
 PKP019	se io sto a aspettare come certi che aspettano che arrivo
 PKP014	mangiate alle tre
-PKP019	
 PKP019	mangiate le tre invece io parto prima
 PKP014	e quando arrivano c'è già la pasta
 PKP019	parti in carrozza
@@ -600,7 +594,6 @@ PKP019	viene lui
 PKP020	è buono caro
 PKP014	eh il gianduiotto scherzi
 PKP020	c'è vuoi il limoncello
-PKP014	
 PKP020	poi l'altra sera fa
 PKP014	finché c'è il limoncello pieno perché hai comprato un limonce~
 PKP014	dammi un po'
@@ -615,7 +608,6 @@ PKP014	hai comprato il limoncello
 PKP020	sì sì ha riempito il bicchiere e fa io festeggio
 PKP019	ha comprato una bottiglia da un litro e mezzo di limon~
 PKP014	ma non è vero
-PKP020	
 PKP019	ah l'altro giorno ha preso il vino c'era il limoncello lì sopra
 PKP014	non ascoltateli
 PKP021	già finito
@@ -642,7 +634,6 @@ PKP020	allora il limoncello
 PKP021	già pronte
 PKP019	perdo il filo
 PKP020	ne ho preso un pochino perché ero pieno molto
-PKP021	
 PKP020	xx xxxx
 PKP014	metti il registratore qua
 PKP019	sh
@@ -651,7 +642,6 @@ PKP019	metti in loop
 PKP014	stefano
 PKP019	macché macché macché
 PKP020	ne ho preso un goccio
-PKP019	
 PKP014	e lei lo fa grande
 PKP020	no eh mezzo bicchiere
 PKP019	~occia mezzo bicchiere di limoncello è tanto eh
@@ -701,7 +691,6 @@ PKP019	eh
 PKP020	è venticinque
 PKP014	è venti~ cioè è la metà
 PKP021	oh guarda che prendi la ciucca eh
-PKP020	
 PKP019	dai fammene sentire un goccio
 PKP014	stefano
 PKP019	vuoi
@@ -712,7 +701,6 @@ PKP019	dai ne sento un goccio
 PKP020	stefano
 PKP019	eh
 PKP021	stefano
-PKP019	
 PKP019	adesso cinquanta gradi
 PKP020	è venticinque
 PKP019	è la metà capito
@@ -735,12 +723,10 @@ PKP020	tra il vino e la cosa non va bene
 PKP020	no questo è davvero buono
 PKP019	ma che cos'è prosecco
 PKP021	ma lì non c'è più niente
-PKP019	
 PKP020	ah vedi che ti piace
 PKP019	è dolcissimo
 PKP020	ecco
 PKP021	ah finito
-PKP020	
 PKP021	peccato
 PKP019	comunque xx voglio xx fi~ finche
 PKP021	ho già capito tutto
@@ -749,13 +735,9 @@ PKP021	va bene
 PKP020	qui in casa
 PKP019	esa~ ah faremo così
 PKP020	va bene alberto va bene
-PKP019	
 PKP020	sarà quello che sarà
-PKP021	
 PKP020	ah beh di si~ di si~ di sicuro
-PKP019	
 PKP020	no ma voglio dire stefano
-PKP019	
 PKP019	di cinquanta gradi non è così
 PKP019	non è così
 PKP020	parlo della sara non di te
@@ -782,8 +764,6 @@ PKP019	eh beh quello sì
 PKP014	sto parlando de~
 PKP019	per tutti tranne per il nonno
 PKP014	ma io non voglio mica niente
-PKP021	
-PKP020	
 PKP020	beh dai mezzo bicchierino di limonce~
 PKP019	piccolino
 PKP020	no
@@ -884,7 +864,6 @@ PKP021	sarà alla nostra
 PKP019	però io xxx
 PKP019	è buono eh
 PKP019	se ci vede la nonna che facciam così
-PKP020	
 PKP020	soccia se è buono
 PKP014	questo va giù come acqua eh
 PKP019	ma ma insomma
@@ -911,13 +890,11 @@ PKP020	dopo ricominci dal primo
 PKP019	siam tutti buoni
 PKP019	cosa vuol dire natale
 PKP020	è sempre natale
-PKP020	
 PKP019	questo è vero è sempre natale
 PKP021	no stefano
 PKP020	dopo ricomincia a əh raccontare da~ dalla posta
 PKP014	fa il giro
 PKP020	ocio
-PKP014	
 PKP019	no comunque
 PKP014	no comunque l'avete vista la raffaella
 PKP019	no comunque pensavo
@@ -997,7 +974,6 @@ PKP020	no ma ascoltatemi
 PKP019	dio bo'
 PKP021	che è un'arte saper ascoltare
 PKP020	eh appunto
-PKP019	
 PKP019	io
 PKP019	al padre gli ho detto
 PKP020	perché non smetti di fumare
@@ -1012,7 +988,6 @@ PKP019	acsè
 PKP020	eh no
 PKP020	soccia
 PKP014	ah ma ha ragione
-PKP020	
 PKP019	ha ragione
 PKP020	queste son le parole
 PKP019	sì sì è testo
@@ -1029,7 +1004,6 @@ PKP021	soccia
 PKP020	ma p~ pe~ pe~ per sbaglio
 PKP019	mi dissocio dagli altri
 PKP020	sì ma quello xxxxxxx
-PKP020	
 PKP019	presunt~
 PKP021	come si chiama lui lì
 PKP019	mh ugo
@@ -1085,7 +1059,6 @@ PKP020	senza senza testa
 PKP019	mh
 PKP019	e paolo disse così suo padre
 PKP020	che m'ha detto suo pa~ mio fratello
-PKP019	
 PKP019	mi ha detto paolo riguardo quello che mi ha detto tu
 PKP020	se mi ripeti ancora questo non vengo più qua
 PKP019	eh
@@ -1093,7 +1066,6 @@ PKP020	e allora
 PKP019	vabbè lì proprio è stato
 PKP019	e allora
 PKP020	perché quando era il punto di morire sai cosa diceva non voglio morire
-PKP020	
 PKP019	vabbè nonno parliamo di cose un po' più
 PKP014	no ho già finito dai
 PKP019	eh vai mò a letto
@@ -1168,7 +1140,6 @@ PKP014	ha una percentuale di alcol alto
 PKP019	è buono però eh
 PKP014	sì
 PKP020	ecco
-PKP019	
 PKP014	ma io ne avrò bevuto
 PKP014	c'ha xxx
 PKP019	meglio quello o l'amaro del capo
@@ -1176,7 +1147,6 @@ PKP014	no tutti gli amari guarda
 PKP014	amaro montenegro
 PKP019	piacere vero
 PKP020	nella vita
-PKP019	
 PKP014	ascolta
 PKP019	spettacolare ghiacciato
 PKP014	io non ascoltami
@@ -1225,7 +1195,6 @@ PKP019	ma
 PKP014	i che quante
 PKP019	eh
 PKP020	la quantità
-PKP014	
 PKP019	sì sì sì sì
 PKP019	e
 PKP020	capisci
@@ -1322,7 +1291,6 @@ PKP019	sì
 PKP019	c~ allora
 PKP019	alberto
 PKP020	ma che alberto
-PKP019	
 PKP019	stefano
 PKP019	si può
 PKP019	stefano
@@ -1343,7 +1311,6 @@ PKP019	andate mò a dormire ciao
 PKP020	non è l'ultimo dell'anno
 PKP019	l'ultimo dell'anno mica dormi
 PKP020	puoi sentire tutto stefano
-PKP019	
 PKP021	ma non
 PKP019	de~ de~ de~ dell'anno già un poco lontano
 PKP020	stefano
@@ -1531,7 +1498,6 @@ PKP014	ma perché sopra c'è
 PKP014	no
 PKP014	allora
 PKP014	non è che accendiamo gas cose
-PKP019	
 PKP020	per scaldarsi
 PKP019	la cucina è su
 PKP020	uno alla vo~ oh uno alla volta

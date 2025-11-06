@@ -348,7 +348,6 @@ TO073	è arrivato qualcun altro nel frattempo sì
 TO074	xxxx
 ???	lasciamo acceso
 TO072	lascio la la xxxxxx
-TO074	
 ???	scusi ha spiegato anche a
 TO074	sì ho spiegato xxxx
 TO072	è d~ è d'accordo
@@ -362,7 +361,6 @@ TO072	xxxxxxxx
 ???	no no
 TO074	xxx
 TO072	siamo delle cavie
-TO074	
 TO074	eh
 TO072	buongiorno
 TO074	buongiorno
@@ -493,7 +491,6 @@ TO074	il tema più usurato del mondo
 TO074	più vecchio eh p~
 TO074	può decidere di studiare la parentela addirittura
 TO072	i sistema di parentela la terminologia di parentela
-TO074	
 TO074	può decidere anche di studiare
 TO074	eh le credenze magiche
 TO074	quindi un tema veramente ormai vecchissimo su cui ci sono migliaia
@@ -545,7 +542,6 @@ TO074	con molte virgolette perché poi si tratterebbe di fare una ricerca
 TO072	breve eh non una ricerca
 TO074	certo ovviamente
 TO072	malinowskiana immersiva di un anno e mezzo
-TO074	
 TO072	eh
 TO074	ovviamente
 TO074	lei ci rifletta
@@ -678,11 +674,9 @@ TO074	è un discorso che
 TO072	ha una sua logica eh eh ha un suo filo
 TO074	ha un suo filo certo
 TO072	invece
-TO074	
 TO074	no quella persona fa schifo perché è nero
 TO072	eh è un non ha proprio nessun senso no si vede veramente che c'è qualcosa
 TO072	non ha senso
-TO074	
 TO074	però questo sarebbe da indagare
 TO074	il problema è questo
 TO074	che per me qua verrebbe fuori un bel lavoro no
@@ -756,7 +750,6 @@ TO074	i soldi devono essere dati a noi e non agli immigrati
 TO074	gli immigrati ci rubano il lavoro
 TO074	gli immigrati invece non lavorano e vengono mantenuti
 TO072	con tutti questi paradossi eh per cui sosterremo entrambe le cose contemporaneamente
-TO074	
 TO074	e quando gli si chiedeva
 TO074	ma perché sono persone come noi t~ eh dicevano
 TO072	sì però sono diversi
@@ -804,7 +797,6 @@ TO074	mh impossibile che non ci sia
 TO074	strano che non ci sia
 TO074	eh infatti è su jay s~ jay stor
 TO072	ah l'ha p~ l'ha visto che cercavo qua
-TO074	
 TO074	talking culture
 TO074	xx
 TO074	non capisco
@@ -816,7 +808,6 @@ TO074	ma dai ma non si può
 TO074	ah
 TO074	xx
 TO072	queste cose qua
-TO074	
 TO072	cioè era semplicemente scritto male stolcke
 TO074	sì x
 TO072	però dovr~ però non c'è neanche qua

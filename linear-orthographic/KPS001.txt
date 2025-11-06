@@ -11,7 +11,6 @@ PKP100	pa se vuoi
 PKP101	fazzu eu
 PKP103	piano piano ah
 PKP101	c'è marcello che ogni volta lo rompe quando deve fare il vino
-PKP103	
 PKP100	non lo sa fare
 PKP100	mh
 PKP100	mh
@@ -21,8 +20,6 @@ PKP100	ecco fatto
 PKP101	no
 PKP103	ah
 PKP102	auguri
-PKP100	
-PKP102	
 PKP101	auguri
 PKP102	auguri
 PKP101	allora
@@ -69,7 +66,6 @@ PKP101	dai
 PKP101	allora
 PKP100	fà così
 PKP100	aspe' c'è un pezzo di sughero
-PKP103	
 PKP101	vabbè sa di tappo
 PKP102	okay
 PKP103	okay buon natale a tutti e auguri
@@ -256,7 +252,6 @@ PKP100	a x factor
 PKP100	ah
 PKP103	mhmh mh
 PKP101	tutti pazzi per quetsa t'appartengo
-PKP100	
 PKP100	ma c'era una ministra
 PKP103	che quando è stata nominata non so cosa aveva messo la storia
 PKP100	è vero avev~ avev~ adesso giura
@@ -270,13 +265,10 @@ PKP101	eh
 PKP100	mh
 PKP101	ha messo l~ le hanno fatto il video e lei l'ha messo sulle sue storie con t'appartengo io ci tengo se prometto poi mantengo
 PKP101	mhmh
-PKP103	
 PKP100	e poi vedi che alla fine dice giura
 PKP100	giura
 PKP103	adesso giura
 PKP100	me~ mentre stava facendo il giuramenro capito
-PKP101	
-PKP100	
 PKP103	e hanno detto boh non è tanto professionale è una cosa stupida però dai
 PKP101	questo amore sarà già un ince~
 PKP100	com'è
@@ -286,7 +278,6 @@ PKP103	ma disperata come una preghiera
 PKP103	ma disperata come una preghiera
 PKP100	non volio più restare sola sola
 PKP101	non volio più restare sola sola
-PKP103	
 PKP100	se non ci sara~
 PKP103	ma che è sta roba
 PKP100	prometti
@@ -299,7 +290,6 @@ PKP102	che poi ma
 PKP103	mh
 PKP100	mh
 PKP103	annarella rei era una cagata colossale
-PKP100	
 PKP101	ah sì
 PKP101	ma poi
 PKP100	son successoni però eh
@@ -322,7 +312,6 @@ PKP102	non sapevo costantemente
 PKP101	buone le xx
 PKP103	eh sì
 PKP100	no ma era una cagata
-PKP103	
 PKP100	non faceva niente ma
 PKP101	facevan le belle
 PKP101	ma sì
@@ -364,9 +353,6 @@ PKP100	mh
 PKP103	queste so' un po' anestiose però vabbé
 PKP100	mh
 PKP101	eh sì non x x x
-PKP101	
-PKP103	
-PKP100	
 PKP100	mh
 PKP100	x
 PKP101	mi ha detto francesca
@@ -398,8 +384,6 @@ PKP100	no sì penso stia ancora con con lei
 PKP103	mh so se si sp~
 PKP103	vabbé
 PKP101	un vero amore
-PKP101	
-PKP100	
 PKP102	vabbé dai
 PKP102	guarada eh gua'
 PKP103	e noi li x x x x x
@@ -452,14 +436,12 @@ PKP101	ma no no qua è stato poi questo locale che era
 PKP101	ma
 PKP102	ma era prorpio da tirchi ma non vi vergognate e anch~ ci portate pure il conto ci presentate
 PKP100	mh
-PKP101	
 PKP100	però vi ho detto ve ne dovete x x
 PKP100	mamma il caldo quel giorno
 PKP101	io non so come non mi sono sentita male contando che mh mi sento spesso male col caldo
 PKP103	eh
 PKP100	c'è striscia la notizia pure
 PKP101	zia carlotta con quel coso che si sventolava io glielo volevo rubare dalle mani
-PKP100	
 PKP100	furba idda
 PKP103	è natalie portman
 PKP102	non penso
@@ -469,7 +451,6 @@ PKP102	lo grido cento mila volte a sera ma disperata come una pre~
 PKP101	simona l'antipasto x x x
 PKP102	l'antipasto è andato bene eh e non l'ho fatto io eh
 PKP100	tu
-PKP101	
 PKP100	è andato bene così
 PKP103	devo solo
 PKP102	che poi
@@ -510,7 +491,6 @@ PKP100	okay
 PKP101	scusa
 PKP103	pronte
 PKP100	veramente brutto come la morte ma
-PKP103	
 PKP100	che c'è
 PKP100	niente
 PKP103	ma quindi avete scelto dove andare a capodanno
@@ -556,7 +536,6 @@ PKP102	siamo otto al massimo nove
 PKP103	x x x x x
 PKP102	sinagoga
 PKP103	sinagoga
-PKP103	
 PKP100	ma come si fa uno a chiamarsi santo chiesa dai
 PKP100	fa troppo ridere
 PKP100	e
@@ -601,14 +580,11 @@ PKP100	cos'è
 PKP103	raga abbiamo la casa
 PKP102	ah
 PKP101	lo vedi
-PKP102	
 PKP103	mai dire mai
 PKP100	ve l'h portata il bambino gesù
 PKP103	ma veramente
 PKP102	ve l'ha portato il bambino gesù
-PKP102	
 PKP100	x x anche una capanna
-PKP103	
 PKP102	infatti
 PKP100	qui è una mangiatoia
 PKP100	vabbé dai non pachiamo le spese di riscaldamento eh cioé
@@ -696,7 +672,6 @@ PKP101	daje sto risottooh mamma
 PKP100	sì sì sì
 PKP103	daje roma
 PKP100	daje
-PKP101	
 PKP101	a x vedi che non lo voglio crudo eh
 PKP100	no
 PKP103	meno ma~
@@ -749,7 +724,6 @@ PKP103	eh eh
 PKP102	x dico dico che già i suoi parenti gli zii chiedono di me
 PKP102	x x x
 PKP100	dai che va bene così
-PKP103	
 PKP103	non lo so
 PKP101	per il momento sì grazie
 PKP103	eh
@@ -765,7 +739,6 @@ PKP100	tieni banco come chill' a x x
 PKP103	ma una tombola~ vabbé non la facciamo
 PKP100	ma con chi
 PKP100	noi quattro
-PKP103	
 PKP100	no perché
 PKP100	una briscoletto
 PKP102	da quanto non giochiamo a tombola pa'
@@ -817,7 +790,6 @@ PKP103	no
 PKP103	mh
 PKP103	mh
 PKP100	si mettono mamma dei vestiti lunghi rossi per andare al feuer ma dove cazzo vai
-PKP102	
 PKP100	x x
 PKP103	che è il feuer
 PKP100	il feuer è quel bar davanti al politeama
@@ -925,7 +897,6 @@ PKP101	era in calsse con mariella bianchi
 PKP103	ah
 PKP102	al liceo
 PKP102	mh
-PKP103	
 PKP101	forse sono amiche
 PKP100	infatti sono amiche sì sì x x x
 PKP101	che liceo ha fatto
@@ -946,13 +917,11 @@ PKP101	più gran~ sì era duemilauno
 PKP100	sì sì
 PKP102	stavo con i grandi io
 PKP102	è figlia di una amica tua
-PKP103	
 PKP100	amica
 PKP101	mh
 PKP101	la figlia di marisa bianchi
 PKP103	x x x x
 PKP100	amica tua mamma
-PKP101	
 PKP100	e in effetti che d~ starà studierà là ch~ non so se è andata fuori mh fuo~
 PKP100	non ne ho idea però
 PKP100	cioè non lo so ci penso mi ricordo che
@@ -969,7 +938,6 @@ PKP103	bianchi
 PKP100	no marisa fa bianchi di cognome eh la ba~ la bimba la bambina
 PKP101	bianchi
 PKP100	non lo so no
-PKP102	
 PKP100	allo~ era
 PKP102	anna marisa bianchi
 PKP101	il padre era sposato già o no
@@ -1118,7 +1086,6 @@ PKP101	x x x x x ciecate mh
 PKP102	eh
 PKP101	x x x ti può fare segno poi com'è
 PKP101	fatto
-PKP102	
 PKP100	x x x magari insomma
 PKP102	cosa
 PKP100	mh
@@ -1170,8 +1137,6 @@ PKP101	vuoi i x x
 PKP100	non lo so
 PKP100	no no so~ xx piatto
 PKP101	stavo dicendo ah non lo voglio questo e invece era questo che mi x x
-PKP103	
-PKP103	
 PKP101	cafona
 PKP102	okay
 PKP100	mh
@@ -1216,7 +1181,6 @@ PKP100	no dicevo quando viene nonno perché
 PKP100	visto che oggi alla fine non ho fatto niente
 PKP101	mh magari riesco a studiare un poco
 PKP102	eh va bene
-PKP101	
 PKP103	x x x
 PKP102	che stai stai studiando ah
 PKP103	allora al messaggio che ho messo l'hanno visto federico marianna e xx
@@ -1236,13 +1200,11 @@ PKP103	niente nie~
 PKP101	wow
 PKP100	vabbé eheh eh
 PKP101	hanno detto che brutti non rispondiamo
-PKP100	
 PKP103	mi brucia la faccia
 PKP100	invece a me succede mamma che quando mangio
 PKP103	mh
 PKP101	inizialmente non mi arriva subito la pienezza
 PKP100	ah
-PKP103	
 PKP103	è vero a me mi arriva dopo un po' poi magari
 PKP103	il bello è che magari a volte mi capita che
 PKP101	non mi sento piena quindi magari continuo a mangiare
@@ -1257,7 +1219,6 @@ PKP103	hai preso proprio il peggio
 PKP102	ma tu la pienezza la raggiungi pa' domanda
 PKP103	mh
 PKP101	no perché io magari dopo un po' a scoppio ritardato la raggiungo eh
-PKP103	
 PKP100	no però è vera sta cosa
 PKP100	io sai in sti giorni non ho per niente fame mangio perché
 PKP101	so che è ora di mangiare ma non ho mai fame mi sento sempre un po' piena
@@ -1292,7 +1253,6 @@ PKP102	no per il momento no gra~
 PKP100	mh
 PKP102	io sì
 PKP101	ma tu x x già mh
-PKP100	
 PKP102	e beh è festa
 PKP101	sei rossa rossa come me
 PKP102	okay
@@ -1439,7 +1399,6 @@ PKP103	beh vabbè
 PKP101	barbara vediamo sì sì sì vediamo se se si org~ eh se alla fine si riesce a com~ perché siamo ancora in alto mare eh nelle cose eh
 PKP103	eh
 PKP101	devo sentire x giulia barbara flavio eh
-PKP103	
 PKP101	poi x x nostre amiche
 PKP103	stavate qua che andavamo al al ma loro escono però no oppure no
 PKP100	x x
@@ -1455,7 +1414,6 @@ PKP101	come giulia coso e i genitori di eh
 PKP100	be~ be~ bello dispendioso chissà che
 PKP100	vabbé non p~ qa per forza insomma
 PKP101	vabbé sì
-PKP101	
 PKP101	eh guarda loro dicevano bello sarebbe no l'ha detto marcello che devi fare di andare a fare il natale con loro
 PKP101	tra un po' però
 PKP103	è pure
@@ -1537,14 +1495,12 @@ PKP101	non sa quanto quanti giorni sta
 PKP100	se no ti rimani al x riman eh autostop
 PKP100	poi quello va
 PKP103	mamma mia ma non c'è niente
-PKP100	
 PKP101	cioè il paesino
 PKP100	è piccolo
 PKP101	no ma mh normale nel sen~ però
 PKP100	mh
 PKP101	e cosa fiorella mi manda i post su su instagram del comune di alvito
 PKP101	eh
-PKP100	
 PKP101	e ci sono delle belle luminarie guarda devo dire
 PKP102	so' carine
 PKP100	mhmh x x x x x
@@ -1561,7 +1517,6 @@ PKP100	sì sì
 PKP101	e non capivo dove stavano andando da quando finiva questa cosa perché a un certo punto dovranno arrivare le montagne
 PKP101	eh
 PKP101	x x x
-PKP100	
 PKP100	invece no
 PKP100	pure i nonni stanno
 PKP101	mhmh
@@ -1596,7 +1551,6 @@ PKP101	ah okay
 PKP103	ah
 PKP101	non mi so ma a volte ritrovo dei capelli qua dietro e quindi me li tolgo
 PKP100	sì sì
-PKP101	
 PKP101	okay
 PKP101	vabbé x x x
 PKP100	lui dici vuole stare a gaeta ha deciso che poi eh vuole x x
@@ -1616,7 +1570,6 @@ PKP102	vedi sì sì sì sì
 PKP101	mh
 PKP102	mh mh
 PKP103	ma sta come si chama era ehmh sta fiorella è bona e cioè bo~ è x x com'è è carina com'è
-PKP100	
 PKP103	ma che se x
 PKP100	secodo me no
 PKP103	no è una bella donna
@@ -1649,10 +1602,8 @@ PKP100	x x x
 PKP101	sì sì
 PKP101	eh
 PKP102	no no
-PKP100	
 PKP101	cosa
 PKP100	e c'ha comunque i suoi cinquataquattr'anni ce l'ha
-PKP101	
 PKP100	cinquantatré cinquantaqattro
 PKP101	sì
 PKP100	eh
@@ -1669,14 +1620,10 @@ PKP100	vabbé x x
 PKP102	no ha un po' l'atteggiamento bambinesco no no infatti a me mi spiace perché è un tesoro però
 PKP100	x x x lo dicisempre lo dici sempre che x xmh
 PKP101	e parla tutto così
-PKP100	
 PKP101	dove andiamo
-PKP103	
-PKP102	
 PKP100	mi fa
 PKP103	eh no praticamente ti ho detto mh
 PKP101	ahi
-PKP100	
 PKP102	c'hai cinquant'anni
 PKP100	x x x qual è questo
 PKP101	eh no perché no vi giuro
@@ -1684,9 +1631,6 @@ PKP100	dopo un po non si soppor~
 PKP100	x x
 PKP103	una settimana là che magari ci sono anche stata dopo un po'
 PKP102	no vabbé
-PKP101	
-PKP103	
-PKP103	
 PKP100	no no ma eh mh che ha questi toni infantili eh sono fastidiosi eh
 PKP101	cioè
 PKP100	eh eh
@@ -1704,7 +1648,6 @@ PKP100	però magari l'accentua insomma sta cosa sì un po'
 PKP101	eh
 PKP103	non ti toccare i cacchio di capelli va
 PKP100	mhmh mhmh
-PKP103	
 PKP101	un po' come come valentina
 PKP103	mh eh mh
 PKP101	c'hanno cioè diciamo
@@ -1724,14 +1667,11 @@ PKP102	a me fa impressione pesare che un ragazzo
 PKP100	perché purtroppo
 PKP100	adul~ no vabbé adult~ semiadulto
 PKP101	stia con una che si atteggia da bambina
-PKP103	
 PKP100	sì no ma sai qual è il guaio che lei n~ non è che si atte~ lei fa la voce da bambina
 PKP103	ho detto
 PKP101	poi in realtà cioè lei si crede adulta e non si rende conto che invece di cervello c'ha dodici anni capito
-PKP103	
 PKP102	cioè e ti giuro che questa qua è la cosa più fastidiosa della serie
 PKP101	mh mh
-PKP100	
 PKP100	no dico io ragazzo
 PKP101	di venticinque anni con una ragazza che fa la vocina si comporta un po' da bambina ma
 PKP100	sì
@@ -1768,7 +1708,6 @@ PKP103	poi però cioè capito tu ch~ dato che la conosci
 PKP103	e sai com'è
 PKP101	vedere che che è una posa alla fine dei conti ti dà pure fastidio cioè dici ma vedi che devi ancora crescere è inutile che ti fai
 PKP101	sì
-PKP103	
 PKP102	la donna qua mentre cu~ sei ancora di latte insomma
 PKP102	mh
 PKP100	mah
@@ -1788,7 +1727,6 @@ PKP100	e pure giulia però si mantiene bene eh giulia x eh
 PKP102	sì sì sì sì
 PKP101	ma lei mo perché x x x
 PKP102	no vabbè si mantiene beni~
-PKP102	
 PKP103	x x x x
 PKP102	no no ma allora posso dirti allora ma
 PKP101	do mari~ e dei muri e x a suo marito
@@ -1815,10 +1753,8 @@ PKP100	non ce l'abbia~ non ce l'hanno io c'ho qui
 PKP100	aspe~ la metto su instagram
 PKP100	tu foto con gli occhiali dove mostri le tette vabbè
 PKP103	è le x x
-PKP100	
 PKP103	il problema le tette
 PKP100	i tuoi gioielli
-PKP101	
 PKP100	i tuoi gioielli
 PKP102	ma il grande problema non è fiorella ma eh santo
 PKP100	ma è perché
@@ -1862,7 +1798,6 @@ PKP100	si mantiene bene però dai si mantiene bene
 PKP102	sì sì
 PKP103	è vero
 PKP102	è tipo di qule che scrive su facebook nei gruppi comunque cioè cioè lei proprio
-PKP100	
 PKP103	guarda che foto mette
 PKP100	mhmh
 PKP101	otto dicembre duemilaventidue
@@ -1920,8 +1855,6 @@ PKP101	mh
 PKP103	vabbé però uno deve fare un po' mente locale ora che cioè uno sta con questo questo quell'al~
 PKP102	sì sembrano un po' la famiglia dei cesaroni fermarsi un attimo ragionare sulle varie
 PKP100	sì beh
-PKP102	
-PKP101	
 PKP100	uno si deve ricordare poi che cosa di~ x x x x x x x
 PKP100	no
 PKP103	il fatello la prima volta che l'ho conosciuto
@@ -2051,7 +1984,6 @@ PKP100	e cherì mattia
 PKP102	no è è marco il fratello di matteo
 PKP101	ah ah ah ah
 PKP100	ah è marco e si assomiglia a matteo allo~ così è brutto però
-PKP101	
 PKP100	eh
 PKP102	vabbé che si assomigliano sì
 PKP101	ma è d'accordo con matteo
@@ -2255,7 +2187,6 @@ PKP103	eh
 PKP101	no perché maurizio mamma una volta che siete venuti voi non mi chiedere
 PKP103	eh
 PKP101	mi aveva definito una ragazza di casa ma che cazzo di significato c'ha ragazza di casa
-PKP103	
 PKP101	cioè non ho capi~
 PKP100	ma anche adesso brava ragazza che si impegna molto
 PKP103	e quindi
@@ -2264,11 +2195,9 @@ PKP101	sai che ho fre~ ho freddo eh
 PKP101	eh
 PKP103	eh copriti
 PKP102	fa freddo comunque eh voi non volete accendere i riscaldamenti eh eh
-PKP101	
 PKP102	no be~ ni~ accendili sì i riscaldamenti vogliamo accendere un pochino giovanni gua~ dai
 PKP101	i selvaggi vogliono accendere i riscaldamenti i selvaggi e boicotto e non li accendo
 PKP100	eh no no dai forse è meglio che li accendiamo un po' dai
-PKP103	
 PKP102	ah sempre proprio
 PKP101	e io so selva~ selvaggio x selva
 PKP100	accendiamoli un po' va
@@ -2507,7 +2436,6 @@ PKP101	che vuol dire anche forza
 PKP101	capito
 PKP103	okay
 PKP100	oh parliamo di cose serie vedete che quelli del volo hanno cagato in una stanza d'albergo in in svizzera
-PKP101	
 PKP102	io lo dico
 PKP103	che hanno fatto
 PKP101	hanno cagato in una stanza di di un albergo in svizzera sui muri hanno imbrattato hanno fatto uno schi~ hann pisciato per terra
@@ -2559,10 +2487,8 @@ PKP100	hanno cagato sui muri
 PKP103	e hanno imbrattato in giro vabbé
 PKP100	sì hanno fatto la pipì proprio s~ nel bagno non nel nel water per la stanza
 PKP103	nel bagno
-PKP103	
 PKP101	sembrano tanto i bravi ragazzi eh poi sono degli e
 PKP100	no ma
-PKP103	
 PKP103	cagano sui muri
 PKP100	che non c'è da fidarsi mamma mia
 PKP103	c'era quello che ha conosciuto ada che diceva che era stronzo
@@ -2598,8 +2524,6 @@ PKP100	no perché mi ricordo stavo pensando avevo fatto una storia con loro tre 
 PKP103	che quello occhialuto e il twinko occhialuto ti~
 PKP103	mh no era
 PKP100	quello che trombo quello che vorrebbe trombare e quello che non tromberò mai
-PKP100	
-PKP103	
 PKP100	non quello che mi fa troppo
 PKP103	mh
 PKP100	x x x an~ anni fa vediamo se la ritrovo
@@ -2611,17 +2535,12 @@ PKP100	era vivo
 PKP101	mh mh mh mh
 PKP103	lui è bello l'as~ l'azione
 PKP100	eh infatti mamma è u u
-PKP101	
 PKP100	eh
 PKP103	quello he tromba forse non è normale
-PKP100	
 PKP103	mado lui non so come si fa a prendere sul serio
 PKP103	ecco
 PKP100	ecco va allora x
-PKP103	
-PKP103	
 PKP100	dimmi se non è vero comunque
-PKP103	
 PKP102	eh ih
 PKP101	buone pure le cozze eh
 PKP102	eh
@@ -2631,7 +2550,6 @@ PKP103	mh
 PKP100	anzi lui è migliorato comunque prima era veramente brutticello
 PKP103	ma chi quello in mezzo
 PKP100	no quello che non scoperà mai
-PKP101	
 PKP100	quello è quello che ha più voce però eh
 PKP103	eh
 PKP103	chi
@@ -2694,14 +2612,12 @@ PKP100	ma lui mamma un tempo era più bello comunque mo s'è proprio x
 PKP103	eh s'è tolto la barba
 PKP101	tolto la barba c'ha gli occhiali in giù c'ha sto cappello x x x
 PKP100	no non è brutto io me lo ricordavo è carino
-PKP103	
 PKP101	c'ha la e c'ha la leccata di vacca
 PKP103	scusa vedi vedi il volo ventiquattro dicembre eh
 PKP100	digli il volo
 PKP100	digli il volo
 PKP103	vedo
 PKP100	ah questi qua fa mamma cagare
-PKP101	
 PKP103	buone sono eh
 PKP103	è che da quando
 PKP101	è che ci sono quelle persone mamma dopo che sai una cosa non riesci più a prenderle sul serio come marco carta quando ormai
@@ -2744,7 +2660,6 @@ PKP100	il bolo
 PKP103	quando mastichi e ti fa tutta la pappetta in bocca
 PKP103	vero
 PKP100	ehm x
-PKP100	
 PKP103	hai visto
 PKP100	hai visto ila hai studiato x x
 PKP100	ho visto
@@ -2780,7 +2695,6 @@ PKP103	x
 PKP101	no le avevi già iniziate
 PKP100	tredici giusto duemiladue
 PKP103	sì okay
-PKP100	
 PKP102	non è questo il punto comunque
 PKP100	chi vuole
 PKP101	ho detto tipo
@@ -2793,21 +2707,14 @@ PKP100	avevo scritto qualcosa spero che la scuola vada bene
 PKP102	e lei mi fa alla fine ci stavamo salutando
 PKP100	ah
 PKP101	eh in bocca la lupo per la scuola sta stronza mi ha letto il bigliettino
-PKP100	
 PKP101	manomale che aveva detto non fatelo leggere a nessuno e infatti verame~
-PKP100	
 PKP101	non fatelo leggere a nessuno mi raccomando
-PKP100	
 PKP100	mah
 PKP103	saverio che dormiva alla fine dell'autobus
 PKP101	sì me lo ricordo
-PKP100	
-PKP101	
 PKP100	quella non finiva più di parlare non ce la facevo più a stare lì gua~ x x x
-PKP103	
 PKP100	tu stavi male ma quella quando diavolo parlava
 PKP101	pure tu
-PKP101	
 PKP103	x x x x x
 PKP101	mamma mi~
 PKP100	e io ero proprio così che stavo male mi ricordo
@@ -2817,12 +2724,10 @@ PKP102	no ho x x x x x x x x
 PKP100	chi ne vuole un altro po'
 PKP102	io no
 PKP101	no
-PKP103	
 PKP102	no no grazie
 PKP101	ila
 PKP102	ho fatto eah
 PKP100	non ne vuoi
-PKP102	
 PKP101	vabbé okay tutto e ah
 PKP102	basta basta che se no
 PKP101	eddai e te li mangi o no
@@ -2831,17 +2736,11 @@ PKP102	invece mamma mi ricordo pure quella cazzo di crocera avevo messo da sfiga
 PKP103	ah pure ne so' rimasti
 PKP101	ho avuto
 PKP100	avevi sentito bene x x x
-PKP101	
-PKP103	
-PKP100	
 PKP100	quando al cielo io stavo vomitando seduta stavo vomitando così e mamm~
-PKP103	
 PKP103	sì no io ero ero io sì
 PKP100	ero io ila
 PKP101	mi ha messo una mano sulla bocca e ti ho vomitato nella mano
-PKP103	
 PKP100	no io mi ricordo mamma quando ci siamo seduti alla serata di gala che no io mi sono iniziata a sentire male appena ci siamo seduti ti ricordi ho detto mamma devo vomitare e tu hai detto eh
-PKP101	
 PKP101	detto
 PKP100	io così
 PKP100	no
@@ -2853,61 +2752,41 @@ PKP100	io facevo
 PKP101	due colazioni comunque una volta mi hai messo il tovagliolo davanti la bocca
 PKP100	eh sì
 PKP101	una non hai fatto in tempo a mettere il tovagliolo e mi hai messo la mano
-PKP101	
-PKP100	
 PKP101	e ti ho vomitato nella mano e tu che tra poco mi affogavi ho cominciato x x x
-PKP103	
 PKP103	ma a parte tutto cioè
 PKP100	io mamma non s~ non sono mai diventata una bambina grande su alcune cosse nel senso che
-PKP100	
-PKP103	
 PKP100	no non so trattenere il vomito nel senso che se mi viene da vomitare
 PKP101	ma giustamente
 PKP103	x x x eh eh eh eh
 PKP100	eh
-PKP103	
 PKP103	no guarda che ci sono persone che rie~ cioè nel senso che
 PKP101	trattenerlo almeno da arrivare in bagno mamma
 PKP100	ah
-PKP101	
 PKP103	sì
 PKP100	e invece io non ci riesco
 PKP103	io sì
 PKP101	eh perché sei una bambina grande io a quanto pare no
-PKP100	
-PKP103	
 PKP100	oh mamma devo vomitare ble no è così
-PKP103	
 PKP100	ma ti ricordi quando ho vomitato x x il primo anno che tu sei venuta a trovarmi
 PKP103	no
 PKP100	il primo anno che lei è venuta a trovarmi che ero a bologna
 PKP103	ti ricordi che era anche l'ultima volta
 PKP100	e vabbé no no
-PKP103	
 PKP101	il pri~ il primo anno mamma che lei è venuta a trovarmi eh abbiamo mangiato dal cinese praticamente
 PKP101	eh
 PKP103	eh
 PKP100	oh che poi ho vomitato e eh
-PKP103	
 PKP101	poi abbiamo fatto pure un giro siamo andat~ m mi sentivo già inviavo già a sentirmi male poi ho vomitato proprio in via mascarella gua~
-PKP100	
 PKP101	in una delle piantine davanti il negozio di erboristeria
-PKP103	
-PKP103	
-PKP103	
 PKP101	sto male
 PKP100	vabbé mo io a a a gerusalemme xxx
-PKP100	
 PKP100	no ma io allora se ti ricordi
 PKP103	dopo c'ho pensato che sono stata una merda perché
 PKP100	ma io pure mamma mi ricordo che per esempio una volta ho vomitato di là
 PKP103	aspetta
 PKP100	e io al mio compagno ho detto cerchi di arrivare in bagno ma
-PKP101	
-PKP100	
 PKP103	pure si arrabbiava cerca di arrivare in bagno
 PKP100	no ma perché comunque sporcavo
-PKP100	
 PKP103	eh vabbé ma tu sei spontanea ti viene e lo fai
 PKP103	oppure
 PKP103	sì
@@ -2916,39 +2795,26 @@ PKP100	pure
 PKP100	ah
 PKP103	e hai vomitato in macchina
 PKP100	sì che poi tu ti sei messa a ridere perché hai detto proprio che ho fatto ble senza dire proprio
-PKP100	
 PKP103	no poi ehm
 PKP100	perché no perché quell'altro è stato proprio pa sto male xxx
-PKP100	
-PKP101	
 PKP100	magari se la faceva addosso come minomi
-PKP100	
 PKP100	aspe non s non parliamo di questo
 PKP100	quando eravamo in crocera
 PKP100	e e io stavo male la notte
 PKP100	dormivamo io e te
 PKP100	nel letto di sotto e papà si era messo nel letto di sopra
 PKP101	magari io quella notte ho vomitato un casino di volte e ogni volta ti svegliavo x x
-PKP100	
-PKP101	
-PKP100	
 PKP101	in realtà ti potevo lasciare dormire invece
-PKP100	
 PKP101	mamma mamma
-PKP100	
 PKP100	che poi vomitavo e mi rimettevo a dormire magari tu
 PKP100	magari prendevi sonn~
 PKP101	mamma devo vo~
-PKP100	
-PKP100	
 PKP101	c'ho pensato dopo che magari ti ho rotto il cazzo però io avvisavo
 PKP100	però oh
-PKP101	
 PKP100	mamma serve a qui~
 PKP101	mi ricordo proprio mamma mia
 PKP100	no ma il bello è che x x
 PKP100	mamma vomito
-PKP101	
 PKP100	prima guarda prima tu hai cominciato ad andare in bagno però lui andava in bagno in continuazione proprio diarrea tu
 PKP100	lui diarrea
 PKP101	ogni anno
@@ -2970,7 +2836,6 @@ PKP103	no no è brutto quello mamma mia
 PKP101	x x
 PKP103	no tomba no dai
 PKP101	o quasi mamma scusami immagina a sta' uno a sta' era piccolissimo te lo ricordi
-PKP101	
 PKP100	era piccolo sì sì
 PKP103	sì sì
 PKP101	senza finestre così ehm
@@ -2994,7 +2859,6 @@ PKP100	sai che non mi ricordo
 PKP100	i will lo
 PKP101	boh io me la ricordo da glee non lo so di chi è
 PKP100	eh
-PKP101	
 PKP100	allora c'era anche ah bridget johns se non mi sbaglio c'era pure però mh
 PKP103	mh
 PKP101	eh
@@ -3031,7 +2895,6 @@ PKP100	no non penso
 PKP101	il film su freddy mercury
 PKP100	è morta a ventisette a
 PKP100	ha già l'acca i vu
-PKP101	
 PKP100	è morta a ventisette anni era proprio persa questa però
 PKP100	x
 PKP101	eh lo so ma lo so però x s~ m~
@@ -3042,7 +2905,6 @@ PKP103	eh
 PKP101	elena bianchi
 PKP103	mamma mia
 PKP100	mamma io rimango la verdi
-PKP100	
 PKP103	e va bene
 PKP101	elena bianc~
 PKP100	ma poi c'è v~ pure la e c'è pure la la altra che si è rovinata con tutta la droga e no x white e coso come si chiama
@@ -3170,21 +3032,17 @@ PKP100	no eh
 PKP103	ma anche elvis dicono che è ancora vivo che si nasconde da qual~ no però allora
 PKP103	x
 PKP102	forseelvis guarda che tra tutti è il più probabile perché dicono che non si è mai visto il cadavere di elvis
-PKP101	
 PKP100	non si è visto il cada~
 PKP100	no ma questi video che magari sono fotomontaggi
 PKP101	ma così credibili michael jackson che
 PKP100	no ti fanno credere ti fan
 PKP101	no io ho detto è è vivo per for~ ma c'erano così tante prove i~ immagini
-PKP103	
 PKP101	ma come è xx qua michael jackson è vivo così
 PKP100	è vivo è vivo e veg~ eh eh eh
-PKP102	
 PKP102	emh
 PKP100	eh
 PKP103	michae jackson
 PKP100	no beh non è lui ora
-PKP101	
 PKP102	x x
 PKP100	è coso è come si chiama
 PKP103	sembra malgioglio
@@ -3194,15 +3052,12 @@ PKP103	e f~ faceva crozza che imitava quel politico
 PKP103	mi fai ride'
 PKP101	mi mica io sox x x x
 PKP103	ah quello lì sì sì come si chiama
-PKP103	
 PKP101	luna di miele
 PKP102	era razzi razzi razzi
 PKP103	ra~ razzi razzi
-PKP102	
 PKP103	non è razzi
 PKP102	x x x x x tutto della x x
 PKP100	oh non è ra
-PKP103	
 PKP100	not gonna x x x
 PKP102	is a galatina
 PKP101	eh ma fa~ fammi le~
@@ -3235,7 +3090,6 @@ PKP102	tutte le modifiche
 PKP103	eh
 PKP101	eh
 PKP103	se no le faccio e le congelo
-PKP101	
 PKP100	x x x x x
 PKP102	foggiano dei bareskin tipo
 PKP102	x x x
@@ -3290,7 +3144,6 @@ PKP103	eh
 PKP103	no
 PKP102	che c'è un film che era papa ratzi~ mi sa che è una cagata di film insomma
 PKP100	mh
-PKP100	
 PKP103	eh
 PKP101	ce l'hai presente quello là papa ratzi~
 PKP103	sì no un pochino sì ma poi
@@ -3315,9 +3168,6 @@ PKP103	mh
 PKP103	eh no perché questo qua diceva ah oh se non vedo i froci non ce sto eh
 PKP103	e x tu dove sei
 PKP103	so' de latina
-PKP101	
-PKP100	
-PKP101	
 PKP102	mamma mia oh
 PKP101	dopo cena alle otto tutti messa
 PKP102	x
@@ -3343,10 +3193,7 @@ PKP100	ignazio
 PKP103	ignazio
 PKP101	ignazio bos~ ignazio boschetto
 PKP101	ah ignazio
-PKP103	
 PKP100	quello che vorrebbe sco~
-PKP103	
-PKP100	
 PKP102	éi rai christmas
 PKP100	no no a sape' l'altra volta invece te lo ricordi che non che non era saporito
 PKP102	and a happy new year
@@ -3374,33 +3221,25 @@ PKP101	carino
 PKP103	fa ride~
 PKP100	ma no non è che fa ridere ma innanzitutto ha detto delle stronzate sul covid che sente
 PKP102	vabbé non ci vedo niente di male comunque
-PKP100	
 PKP103	battuutone
 PKP100	novebbé ma questa qua la dicono tutti sicuramente che bocelli ci vede niente di male
 PKP102	e sì vabbé è vecchi sta battu
 PKP103	ah
 PKP101	vabbé lui non ci vede niente di male nel coito
-PKP103	
-PKP100	
-PKP100	
 PKP103	ah sì è vero i~
 PKP100	no però dice evvai
 PKP103	lui se non vede non crede inso
 PKP103	no
-PKP103	
 PKP100	no ma veramente lui ha detto io non ho mai conosciuto nessuno
 PKP101	x x x
 PKP103	eh
 PKP101	ma perché lui veramente no ora non sto scherzando lui l'ha detto io non ho mai conosciuto nessuno che ha si è preso il covid ha detto a una cert
 PKP103	eh eh
 PKP101	bocelli dicevano eh certo non l'ha visto non ha visto
-PKP100	
 PKP100	lui non ha
 PKP101	non ho mai visto nessuo ad avere il covid quindi
-PKP103	
 PKP100	no ma veramente l'ha detta sta stonzata eh
 PKP100	eh occhio non vede cuore non duole
-PKP100	
 PKP101	dai bas~
 PKP101	x cretino eh
 PKP103	vabbé ma ma
@@ -3412,13 +3251,10 @@ PKP102	eh sì sì ti fanno ridere le altre
 PKP101	vedi vedi
 PKP102	((ride))
 PKP101	vedi di andare a prendere
-PKP102	
 PKP102	che fa
 PKP101	fa parte delle battute di ilaria
-PKP100	
 PKP102	cosa
 PKP101	vedi di andare a prenderlo in
-PKP102	
 PKP100	vedi
 PKP102	sì
 PKP103	vedi che x x
@@ -3435,7 +3271,6 @@ PKP100	non siete d'accordo
 PKP100	ah no no non avevo capito
 PKP103	ma poi fa ridere che ha fatto una canzone con ariana grande
 PKP103	veramente bocelli
-PKP100	
 PKP103	sì sì
 PKP100	ah é vero sì pure io avevo sentito una cosa del ge~
 PKP103	no per qualche film e no non è male mi fa ridere l'associazione
@@ -3446,7 +3281,6 @@ PKP100	ma quanto siete uguali gua
 PKP101	cioèè una cosa assurda
 PKP103	ecco x x x x x x x x
 PKP100	x x x x un po' di somiglianza c'è però non puoi pa' tu la conosci pina quella della chiesa
-PKP100	
 PKP102	eddai
 PKP103	eh
 PKP102	pina pina com'è che si chiama
@@ -3458,7 +3292,6 @@ PKP102	quella che a volte prende il e i soldi e
 PKP102	mh
 PKP101	no è non
 PKP100	è metà scema lei la poverina ah
-PKP103	
 PKP102	ma pina com'é che si chiama pina pina
 PKP100	no non lo so
 PKP103	boh ma
@@ -3474,11 +3307,8 @@ PKP100	comunque
 PKP100	ci v~ mi facevate mettere accato a lei
 PKP100	e lei mi diceva così x
 PKP100	x x x x x
-PKP103	
-PKP101	
 PKP100	lei era proprio scema x x x x
 PKP100	aspe
-PKP100	
 PKP101	e io dicevo eh cosa
 PKP100	tra me e me dicevo poverina sta ca
 PKP100	x x x x
@@ -3487,7 +3317,6 @@ PKP100	ma lo x x x x
 PKP100	glielo chiedevo tre volte e ho de~ e ho detto
 PKP101	sì e mi ha portato in giro a prendere i soldi e ho detto no cazzo non lo volevo fare
 PKP101	x
-PKP100	
 PKP103	come un cane là e io non avevo capito che mi aveva detto di fare però ho detto sì
 PKP103	no invece oggi mamma mi sento
 PKP103	no i~
@@ -3501,11 +3330,7 @@ PKP102	ma voi vi ricordate quando c'è stata una volta a e dopo lì che ero anda
 PKP101	sì sì
 PKP103	allora è andato a farsi la comunio~
 PKP100	no ha detto anche lui te lo dico sì
-PKP101	
-PKP103	
 PKP101	e la madre ha detto no no lui no però
-PKP103	
-PKP103	
 PKP100	c'è mancato poco
 PKP102	no io non l'ho visto questo qua
 PKP101	è proprio piccolo non x x x no no no x non lo so
@@ -3525,11 +3350,9 @@ PKP103	ah dai quello che ha la faccia tonda tonda
 PKP102	e chi è ma come lo conosci
 PKP100	x x x x
 PKP102	ah con le guanciotte belle
-PKP103	
 PKP100	e cu ma chi è
 PKP101	era lui che faceva più casino che muoveva le gambe
 PKP101	ah era lui
-PKP100	
 PKP103	e poi tipo
 PKP101	ma quindi lo conosci mamma
 PKP100	e perché lui ogni tanto viene al doposcuola che poi è bravo viene per compagnia
@@ -3564,12 +3387,10 @@ PKP102	ma io
 PKP100	se se
 PKP100	no
 PKP100	che io stavo piangendo ero lì con le lacrime
-PKP100	
 PKP101	ero lì tu~
 PKP100	eh ste scemenze eh
 PKP101	ma erano carini
 PKP100	no carini erano carini però se cantavano tu scendi dalle stelle era più bello
-PKP102	
 PKP103	beh
 PKP101	perché mamma cos'hai contro la canzone
 PKP101	eh
@@ -3582,7 +3403,6 @@ PKP101	no c'erano le due bambine quella che b e quella che ballava quella che no
 PKP101	poverelle
 PKP100	no erano carine però vabbeé cioè
 PKP101	e poi sti bambini con le stelle tutti felici
-PKP101	
 PKP101	sì
 PKP103	no erano tutti belli sti bambi~
 PKP102	ma quanto cazzo erano alti sti bambini mamma che ca~
@@ -3595,18 +3415,14 @@ PKP101	ma perché cantavano tu scendi dalle stelle un bel coro dei bambini era p
 PKP100	a parte che
 PKP101	se l'avessi fatto io non ti sarebe piaciuto
 PKP100	vabbé ma una cosa che la fai sono contenta però secondo me x
-PKP102	
-PKP102	
 PKP101	infatti infatti stavo dicendo x x x x
 PKP101	eh
 PKP102	eh sì infatti infatti
-PKP102	
 PKP102	x x x x x
 PKP100	la pri~ la prima x x
 PKP101	ma bellini
 PKP100	eh sì
 PKP100	così carini così scordinati
-PKP102	
 PKP101	vediamo se se qualcuno mi ha fatto qualche messaggio
 PKP102	eh eh
 PKP102	sezione aia
@@ -3614,7 +3430,6 @@ PKP101	buona vigilia a tutti ah c'è anche la donna del castello vediamo se ries
 PKP101	ah
 PKP102	ah ah
 PKP102	ah ci hano mandato la stessa fotografia loro
-PKP101	
 PKP102	ah vedi ecco
 PKP100	buon natale
 PKP102	si stavano solo preparando
@@ -3626,10 +3441,8 @@ PKP102	carmelo x in piedi
 PKP103	e chisso que è
 PKP102	sarà aldo
 PKP100	ah aldo sì e m'a~ e m'apparia prorpio nu lenso
-PKP101	
 PKP101	ehe
 PKP100	eh sta tutto bianco
-PKP100	
 PKP102	fai vedere
 PKP100	x x x
 PKP101	enon mi va di pre~ andare sul gruppo
@@ -3637,7 +3450,6 @@ PKP100	mhmh
 PKP102	ailà che capelli bianchi che ha
 PKP101	e infa
 PKP100	è tutto bianco ormai aldo
-PKP101	
 PKP102	e somiglia proprio a papà eh è più alto ma
 PKP102	mh
 PKP102	mh
@@ -3676,7 +3488,6 @@ PKP102	no
 PKP101	no no gli ha telefonato saverio loro erano con noi gli zii
 PKP100	dalla x x x x
 PKP100	ah
-PKP100	
 PKP101	e come
 PKP100	x x x
 PKP101	ma
@@ -3702,7 +3513,6 @@ PKP101	mh
 PKP102	ci son tutti va~ i vari pastorelli
 PKP101	ce volim nu sacc e sordi però x x
 PKP102	eh almeno adesso è più bellino eh
-PKP100	
 PKP100	ma infatti cioè l'anno prossimo po~ potete anche non prendere niente
 PKP101	vabbé così
 PKP100	no no no compr cioè le lo arricchiamo sempre eh

@@ -117,7 +117,6 @@ PKP093	mhmh
 PKP093	vieni vieni
 PKP093	prendi quelli un po' più conditi
 PKP023	che quegli altri se no è come mangiare nulla
-PKP093	
 PKP055	ma piglia
 PKP093	ma ce l'hai messa la salsa di soia
 PKP023	sì ce l'ho messa è collata tutta de fori però in teoria ci sarebbe
@@ -129,7 +128,6 @@ PKP054	la consistenza non è male
 PKP093	di cosa sanno di un caz~
 PKP055	dove cazzo è
 PKP054	no
-PKP054	
 PKP023	almeno c'è il xx
 PKP023	comunque sia xx è proprio taccagno
 PKP055	non ci hanno dato i biscotti della fortuna
@@ -168,7 +166,6 @@ PKP055	un pollo allo spiedo
 PKP055	avevamo ordinato un pollo con le patate
 PKP055	ci arriva all'inizio mezzo pollo freddo
 PKP093	lo chiamiamo di nuovo e ci mandano l'altro mezzo pollo congelato
-PKP055	
 PKP093	ma prop~ congelato
 PKP055	mh
 PKP054	tutto questo tipo nel giro di
@@ -212,7 +209,6 @@ PKP093	bono
 PKP093	non questi spaghetti
 PKP023	qualcuno ce l'ha fuori pomarola cioè
 PKP055	pumarola
-PKP093	
 PKP093	ce l'ho io se vuoi
 PKP093	cioè
 PKP023	boh
@@ -373,7 +369,6 @@ PKP093	xx
 PKP093	non proprio mh s ni ni s sì le assomigliano però mh quelle fave sono più acide
 PKP023	cioè più
 PKP093	fava
-PKP023	
 PKP055	comunque il pokè con il riso venere è il più buono vero
 PKP055	sì
 PKP055	ma in realtà io sono per il riso sushi
@@ -467,7 +462,6 @@ PKP055	non guardare me tommi
 PKP093	buonissimi i samosa
 PKP093	poi lui ha mangiato il kebab
 PKP055	poi ho mangiato tipo il vitello con salsa di yogurt riso tutto quel quell'intruglio che fanno loro
-PKP093	
 PKP055	e da bere mi ha dato una be~ quelle bevande una cosa al mango
 PKP093	mh
 PKP093	tipo latte mango delle specie una specie di frullato ma
@@ -491,7 +485,6 @@ PKP055	c'è anche quello sardo
 PKP093	sì sardo cine~ allora il sardo cinese fa ridere io ci voglio andare perché ha il menu scritto tutto sbagliato
 PKP055	in che senso
 PKP093	non so è tipo il menu che fa ridere
-PKP055	
 PKP093	però costa tantissimo comunque il sardo cinese
 PKP055	sì
 PKP093	il siculo cinese non lo so ma il sardo cinese costa veramente tanto
@@ -515,11 +508,9 @@ PKP055	che vende anche tipo il pollo oppure i xx della carne
 PKP054	a un euro
 PKP054	a un euro sì lui è proprio di catania ed è bello perché quando cioè entrare lì è come là tipo
 PKP093	non lo so andare che ne so alla fiera a catania perché proprio belli sono personaggi che non non sono bolognesi no
-PKP054	
 PKP054	proprio ti fa sentire a casa capisci che
 PKP055	come si come si veste come parla è proprio
 PKP093	col cappello
-PKP054	
 PKP093	insomma siciliano con il cappellino un po' in qua appoggiato in testa
 PKP093	chi è
 PKP023	basta con questo troiaio ma chi è berlusconi
@@ -527,7 +518,6 @@ PKP093	x
 PKP093	berlusconi fa rima
 PKP023	muore domani l'altro
 PKP093	si mette il cavallo di gianni come regalo di compleanno
-PKP023	
 PKP023	proprio al superx
 PKP023	xxx di una sera si droga con un mhmh un cartonato a grandezza naturale di berlusconi che lo guarda da lì alla porta xx lì
 PKP023	che dovremmo metterci anche il sensore tipo di quando
@@ -544,7 +534,6 @@ PKP023	c'è
 PKP023	c'era il quasar che è c'era il cinema
 PKP023	e c'erano questi due negozietti strani
 PKP093	arriva alto prendiamo un po' di roba di quei di quei musi gialli
-PKP023	
 PKP023	siamo tornati ci avevamo una borsa di sta robaccia
 PKP023	in autobus
 PKP023	una cosa stopposa porca puttana poi c'era il pacco grosso misto
@@ -556,7 +545,6 @@ PKP055	vai
 PKP023	più occidentale
 PKP023	io io avrò ho le unghie ma non mi riesce aprire sono un disabile
 PKP093	sono proprio un cazzo di disa~ sono un disabile
-PKP054	
 PKP093	wow
 PKP093	vai matte'
 PKP093	come si presenta
@@ -624,14 +612,11 @@ PKP023	che cazzo fai
 PKP093	ti ho visto lì a
 PKP054	e sputalo
 PKP093	ma non ho mangiato un ca~
-PKP023	
-PKP093	
 PKP054	ci sei elena
 PKP093	ma non sono malissimi
 PKP055	uno
 PKP093	hanno un odore
 PKP055	due tre
-PKP023	
 PKP054	quando li xx così
 PKP054	esatto
 PKP023	di shampoo
@@ -644,8 +629,6 @@ PKP023	no
 PKP093	fai bene elena
 PKP054	no
 PKP055	mi sembra di di baciare la testa di una persona che si è appena lavata i capelli
-PKP093	
-PKP023	
 PKP055	mh
 PKP054	no no infimo infimo
 PKP093	mh
@@ -669,11 +652,9 @@ PKP023	sanno proprio del sapore quello verde della palma
 PKP023	lo so per certo perché che ce li x malissimo quelli e mi si sparge per tutta la cassa sempre quando passiamo
 PKP054	e quindi al al lo stesso sapore
 PKP055	no sono buonissime più di questi qua
-PKP054	
 PKP093	forse il secondo è più buono
 PKP054	no
 PKP055	x
-PKP093	
 PKP023	questo è vero
 PKP093	apri xx
 PKP023	da uno a dieci
@@ -684,7 +665,6 @@ PKP093	quella all'arachide un bel l'otto dai
 PKP023	quelli dopo l'arachide buoni ma non so se mi convince
 PKP054	secondo me quelli col sesamo sono più buoni
 PKP093	mi piace perché è stato come ma tipo ratatouille quando mangia il boccone e pen~ e ripensa a quando era piccolo
-PKP054	
 PKP055	mangiare
 PKP054	cosa ti è venuto in mente
 PKP023	mangiare questo mi mh ti fa venire una cosa una sensazione che è appunto lo shampoo però è una testa appena lavata di shampoo
@@ -720,11 +700,9 @@ PKP054	no guarda che al market cinese non costan niente costeranno un euro e cin
 PKP093	boh io intanto lo mangio
 PKP093	vai anch'io dai
 PKP055	bravo matteo
-PKP093	
 PKP054	ci ha anche un che anche di miele
 PKP093	non lo so
 PKP055	li hai mangiati sempre
-PKP023	
 PKP055	vabbè vaffanculo se lo fate voi lo faccio anch'io
 PKP023	io mi sono mangiata tre di questi
 PKP023	fatto xx
@@ -761,14 +739,12 @@ PKP023	xx la mattina quando sono andato a lavorare mi sono guardato allo specchi
 PKP093	ci avevo gli occhi così sembravo una panda
 PKP023	ci avevi le borse
 PKP093	ci avevo eh sembravo wall street dissi
-PKP023	
 PKP055	no sembravo un cazzo di panda
 PKP054	però se piove dobbiamo muoverci ad andare
 PKP093	questo è più buono
 PKP023	sì
 PKP023	xx è sempre più buono secondo me è forse perché sono io che non che nel sens~ non ti
 PKP055	per me è il quarto
-PKP023	
 PKP023	no sa sempre di sapone
 PKP093	più che altro
 PKP055	cioè sì sa di sapone però
@@ -777,16 +753,12 @@ PKP023	no con quelle è xx assaggio
 PKP023	quello al tè verde che prendo sempre per lavarmi le mani
 PKP023	gatto di merda
 PKP093	te la lascio dagliene un po' che xx xx xxx
-PKP023	
 PKP093	io non dico cosa xx in bocca porco dio
-PKP093	
 PKP055	sembravi lo giotto
-PKP023	
 PKP093	mhmh hai presente quando siamo andati a reggio
 PKP023	mh
 PKP023	che vai a mangiare alla macelleria
 PKP023	sembrava la stessa cosa che avevi tu
-PKP093	
 PKP093	ma hai vomitato
 PKP093	così cioè era così denso
 PKP055	hai vomitato così dei salsicci interi
@@ -801,7 +773,6 @@ PKP054	è proprio il fatto che ne il primo morso non c'è il co~ non c'è l'inte
 PKP023	quindi uno se lo dovrebbe mangiare tutto intero
 PKP054	eh ma vanno giù x insieme i mochi
 PKP093	eh eh io lo sto mangiando dopo morsi no no no
-PKP055	
 PKP054	tienilo mangia questi è questo quello che c'è
 PKP023	mangiare a morsi tipo mi fa schifo mangiando tipo tutto intero è buono
 PKP093	sì ma cosa caz~ guardiamo cos'è scusa~
@@ -821,19 +792,14 @@ PKP093	mhmh
 PKP055	anch'io
 PKP093	mi ritrovo tutti sulla tavoletta del xx
 PKP055	uno due tre
-PKP023	
 PKP054	finché potete te si mangia tutto da soli
 PKP023	ma sì tipo cinque
 PKP054	non c'è cinque senza sei
 PKP055	basta vomito
-PKP023	
 PKP054	matteo lo vedo proprio impegnato in
 PKP023	xx xx x per una settimana
 PKP055	vedo xx se te li mangia
-PKP054	
 PKP055	cava
-PKP093	
-PKP093	
 PKP093	oh mio dio
 PKP055	madonna come li impastano però
 PKP023	mi vien da vomitare a ripensare alla sensazione che schifo
@@ -849,7 +815,6 @@ PKP093	manco per il cazzo
 PKP023	dai
 PKP093	io l'ho mangiato tutto intero
 PKP055	dai si fa qualcosa
-PKP023	
 PKP023	xx
 PKP023	mh
 PKP055	poi fanno vedere così
@@ -861,7 +826,6 @@ PKP055	forse de~ de~ del detersivo per i piatti ha la consis~
 PKP093	pi che fai
 PKP055	ha visto il coltello si è
 PKP093	si è alzato su due zampe
-PKP093	
 PKP054	dai matteo su
 PKP093	no no no no
 PKP054	dai fa' l'uomo matteo
@@ -869,7 +833,6 @@ PKP054	no no no
 PKP055	io ho finito ho dato
 PKP093	ma pensa xx xxx
 PKP023	questo eh
-PKP093	
 PKP023	dai dani
 PKP093	dai porco dio il tablet
 PKP093	no
@@ -898,7 +861,6 @@ PKP055	il gatto si sta arrampicando nella tenda
 PKP093	pippi
 PKP023	madonna ragazzi
 PKP093	dai che stasera te lo scanagli gettimmo in in casa quello lì
-PKP023	
 PKP093	xx
 PKP023	poi tutto solido
 PKP093	metti un mochi così
@@ -934,7 +896,6 @@ PKP023	in freezer mi dispiace
 PKP055	abbiamo solo la vita
 PKP093	scaletta
 PKP093	un raviolo
-PKP055	
 PKP023	che freddo che fa ma fuori ci sono cinque gradi
 PKP023	eh fa f~ te non sei scesa prima
 PKP093	fa freddino

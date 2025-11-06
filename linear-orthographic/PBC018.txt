@@ -4,7 +4,6 @@ BOI043	xx ragazzi
 BOI043	basta ragazzi ragazzi è qui la festa
 ???	è qui la festa
 BOI043	oh meno male cercavo una festa io
-BOR010	
 BOI043	ah allora benvenuto
 BOR010	ah oh
 BOI043	ah beh allora xxx
@@ -55,7 +54,6 @@ BOR010	xxx la città il quartiere un po' di quello che
 BOI043	xxxx
 BOI043	ma posso dire che rispetto a anni fa adesso c'è gente che è un po' più come si dice
 BOR010	xx un po più arteriosclerotiche
-BOI043	
 BOI043	una volta era più era più calma diciamo la gente
 BOR010	era più calma la gente
 BOI043	ah beh immagino perché adesso poi ci sono anche un sacco di ragazzi giovani tutti
@@ -153,7 +151,6 @@ BOR010	eh si immagino però
 BOI043	xxxxx
 BOI043	altre zone no
 BOR010	che ricordo ha
-BOI043	
 BOI043	io ho un bel ricordo del quartiere dove vivevo
 BOI043	perché oltretutto poi c'era
 BOI043	di fianco la lunetta gamberini e così dopo si andava anche lì a giocare col figlio
@@ -162,13 +159,10 @@ BOR010	nell'insieme ho un bel ricordo dai
 BOR010	ah in effetti anche a me piace bologna
 BOR010	vedo come come anche se non ci non ci son nata è
 BOI043	è veramente molto bella come città
-BOR010	
 BOI043	ah no purtroppo mi son sbagliata e l'ho copiato due volte però
-BOR010	
 BOI043	stavo pens~
 BOI043	le piace bologna si mi piace
 BOR010	che cosa le piace il mangiare
-BOR010	
 BOI043	beh xx
 BOI043	che bologna siamo
 BOR010	che non va bene per noi eh per noi meno giovani
@@ -199,7 +193,6 @@ BOR010	no non non posso dir molto di qua
 BOR010	ah beh si ci sta se
 BOR010	cioè se non abita più ne~ nella città
 BOR010	cioè non più continuamente diciamo ci sta
-BOR010	
 BOI043	ah si e
 BOI043	bologna per i suoi figli e nipoti
 BOI043	penso che ci sia troppa troppo casino a bologna
@@ -276,7 +269,6 @@ BOI043	xxxxx
 BOR010	mi avvalgo della facoltà di non rispondere
 BOI043	oh se vuole cioè non non mandiamo la registrazione a @nomeazienda quindi se vuole dire
 BOR010	non rispondo a questa se no dopo
-BOI043	
 BOR010	te lo dico poi in separata sede quando hai spento quello lì
 BOI043	ah okay capito
 BOI043	che opinione ha a riguardo la mobilità a bologna pensa che il trasporto pubblico sia efficente o ci sono cose che si potrebbero migliorare
@@ -339,7 +331,6 @@ BOR010	il martedì pomeriggio e il giovedì sera perché come responsabile della
 BOI043	ah eh
 BOI043	che tipo xx ha
 BOR010	sono responsabile della sezione cicismo dei ciclisti che han voglia di pedalare se qualcuno vuol venire lo prendiamo
-BOI043	
 BOI043	organizzaimo eventi sportivi sì noi
 BOI043	aiutiamo il circolo @nomeluogo
 BOI043	nella nello svolgimento della die~
@@ -359,7 +350,6 @@ BOR010	a chi devi darlo dai
 BOR010	eh giustamente in effetti
 BOI043	bella come iniziativa secondo me
 ???	no ma ci voglion queste atti~ questi circoli qua poi s~ se vedi attaccati i tabelloni vedi tutte le attivitàche facciamo praticamente è per
-BOI043	
 BOR010	rispetto a anni fa forse c'era più com'è che possiamo dire ci stai
 BOI043	se~ okay
 BOI043	o si è fermato rispetto al passato
@@ -387,7 +377,6 @@ BOI043	xxx ma pensavo
 BOR010	portici come sono cambiati i portici negli anni
 BOI043	questo se lo sa ovviamente se
 BOR010	ah i portici sono belli bisognerebbe bastonare chi gli chi gli scrive
-BOR010	
 BOI043	eh si anche secondo me
 BOR010	io sarei uno che li x
 BOR010	eh eh anch'io vedo vedendo andando in giro per bologna ho notato questa cosa
@@ -420,7 +409,6 @@ BOI043	ah beh spero che non sia mai successo a nessuno perché
 BOI043	ah oh po~ poi se uno come come io che facevo l'allenamento
 BOI043	andando su e giù di corsa e eh bisogna star più attento attenti perché s~ se no si cade
 BOR010	qual è stata la prima volta che sei stato a san luca hai dei ricor~
-BOI043	
 BOR010	oh proprio non me lo ricordo proprio
 BOI043	troppe volte immagino
 BOR010	no cioè a san luca ci sono andato tanto x un posto in cui non sono andato adesso aspettiamo a vedere se c'è

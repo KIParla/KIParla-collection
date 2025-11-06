@@ -5,7 +5,6 @@ TOI065	ve lo metto qui vicino
 TOR001	per l'opportunità
 TOR001	sì mh questa
 TOI065	imperdibile
-TOR001	
 TOI065	occasione
 TOR001	di ammorbarvi
 TOI065	allo~ ah ma non non vabbè beviamo intanto
@@ -14,23 +13,18 @@ TOR001	infatti
 TOI065	salute
 TOI064	ai quartieri di torino e alla loro evoluzione
 TOR001	ai quartieri di torino
-TOI065	
 TOI065	anche bere spritz a torino è un'evoluzione dei tempi
 TOI065	un portato dei tempi
 TOR001	probabilmente
 TOR001	come cos'era
 TOI065	vino coca e
-TOR001	
-TOI064	
 TOR001	e quello è un'involuzione dei tempi
-TOI065	
 TOI065	anche poter bere
 TOI065	nelle piazze torinesi
 TOI065	vino rosso e coca cola e succo di frutta
 TOI065	grazie erasmus
 TOR001	grazie spagna
 TOI065	per le innovazioni dici ricche di contenuto
-TOR001	
 TOR001	giusto
 TOR001	va bene
 TOI064	ah in che zona di torino vivete
@@ -61,19 +55,15 @@ TOI064	sempre stato in quell'area anche
 TOI065	anche in precedenza tu
 TOI064	no io no assolutamente
 TOR001	tu hai vagato molto di più
-TOI065	
 TOI065	io sono nata
 TOI065	eh
 TOI064	allora eh
 TOI065	mh
 TOR001	pozzo strada me genuit
-TOI065	
 TOI065	quindi io
 TOI065	vengo dalla periferia
 TOI064	eh perché diciamolo subito
 TOI065	l'ho detto tu hai più cose da raccontare
-TOR001	
-TOI065	
 TOI065	io ho origini meridionali
 TOI065	eh mh
 TOI065	mi sono gradualmente col passare degli anni avvicinata al centro con la famiglia
@@ -86,11 +76,9 @@ TOI065	compagni di di classe
 TOI065	due erano piemontesi
 TOI065	quindi per me il vero piemontese era ancora qualcosa di
 TOR001	sì c'era il bottegaio
-TOI065	
 TOI065	e poi invece eh
 TOI064	con le superiori ci siamo spostati dalle parti
 TOR001	erano come lo yeti
-TOI065	
 TOI065	ma sì ne conoscevi qualcuno ma erano timidi
 TOI065	anche perché erano in minoranza quindi era davvero una
 TOI065	e e poi ci siamo spostati eh
@@ -110,13 +98,9 @@ TOR001	e poi quando sono andata a vivere per conto mio
 TOI065	quindi proprio davvero gradualmente
 TOI065	sì sì gradualmente la mia è stata
 TOI064	la mia è una conquista
-TOR001	
-TOI065	
-TOI065	
 TOI065	dalla perife~ qua~ qua~
 TOI065	guarda quasi aeronautica
 TOR001	quasi borgata lesna
-TOI065	
 TOI065	dalla periferia io io de~ io non so più dove arrampicarmi
 TOI065	la
 TOR001	la cima della mole
@@ -126,7 +110,6 @@ TOI065	il mio obietti~
 TOR001	comunque sono in pieno quartiere ebraico in effetti quello che era il ghetto ebraico quindi
 TOR001	mhmh
 TOR001	okay
-TOI065	
 TOI065	questa è una cosa
 TOI064	in questo pieno centro boh
 TOI064	no io molto
@@ -135,7 +118,6 @@ TOI064	cioè o meglio da quando son nato ho sempre vissuto in quella zona
 TOR001	spostandomi un po' ma m~ ma di poco
 TOI064	mhmh
 TOR001	eh diciamo non proprio fare il trasloco in ciabatte ma
-TOI064	
 TOI064	ma comunque
 TOI064	non c'era da p~
 TOI064	le distanze eran limitate e
@@ -144,10 +126,8 @@ TOI064	no nel senso che i miei eh la mia famiglia è
 TOI064	tut~ eh
 TOI064	anche loro sono
 TOI064	sono del sud ma del sud del piemonte
-TOI065	
 TOI064	quegli immigrati qua
 TOR001	esatto
-TOI064	
 TOI065	sono comunque a sud del po quindi
 TOI064	immigrati interni
 TOI064	un tempo
@@ -170,7 +150,6 @@ TOI064	eh mh
 TOI064	abbastanza residenziale e devo dire che comunque come
 TOI064	come composizione mh
 TOI064	mah
-TOI064	
 TOI064	come composizione comunque non era
 TOI064	perf~ non era proprio omogeneo io
 TOI064	comunque già alle elementari avevo
@@ -229,17 +208,14 @@ TOI065	eh quando uscivamo in settimana
 TOI065	e
 TOI065	era una
 TOR001	desolazione incredibile
-TOI065	
 TOI065	nel senso che
 TOI065	pochissimi erano i locali
 TOI065	infatti noi
 TOI065	andavamo a cercarli
 TOR001	con tanto di fan~ fanzine dei dei locali
-TOI065	
 TOI065	eh
 TOI065	le strade erano vuote
 TOR001	intorno all'una di notte le strade erano vuote
-TOI065	
 TOI064	è incredibile pensarci ora
 TOI065	no no infatti cioè
 TOI065	in~ infrasettimanalmente
@@ -285,7 +261,6 @@ TOI065	io
 TOI064	mh
 TOI065	lavorando al politecnico me ne accorgo
 TOR001	mh
-TOI064	
 TOI065	nel senso noi abbiamo una
 TOI065	certo
 TOI064	no anche tanti amici che vengono
@@ -322,14 +297,12 @@ TOR001	ma
 TOI065	evidentemente sì
 TOI065	per me è che
 TOR001	bazzico l'università da vent'anni
-TOI065	
 TOI065	prima o poi anche questa è una cosa che smtterò di fare
 TOI065	e
 TOI065	ho proprio visto un cambiamento molto forte
 TOI065	molto forte all'inizio eravamo tutti di torino
 TOI065	al massimo c'era quello che arrivava
 TOR001	ma veramente da asti eh
-TOI065	
 TOI065	perché poi non c'era il piemonte orientale quindi
 TOR001	chi voleva venire ven~ veniva a studiare dalle altre città importanti del piemonte ovviamente
 TOR001	certo
@@ -411,14 +384,11 @@ TOI065	anche da un punto di vista abitativo da un punto di vista delle iniziativ
 TOI065	perché poi in effetti tutta questa
 TOI065	tutte queste intelligenze tutte queste risorse
 TOR001	eh
-TOR001	
 TOI065	comunicazione non verbale
 TOI065	tutte queste risorse
 TOR001	alimentari e no
-TOI065	
 TOI064	no vabbè e hanno mh
 TOR001	sorvoliamo
-TOI065	
 TOI065	mh
 TOI065	hanno creato
 TOR001	ma anche la stessa barriera
@@ -454,7 +424,6 @@ TOI065	mh mh
 TOR001	arte per la città sia però invece iniziative dal basso un po' più
 TOI065	mh mh mh
 TOR001	abborracciate se vogliamo dire così però
-TOI065	
 TOI065	di sicuro che si rivolgono
 TOI065	eh
 TOI065	al quartiere in tutta la sua
@@ -463,17 +432,13 @@ TOI065	mh mh
 TOI065	quindi dal
 TOI065	dal migrante all'anziano a
 TOR001	quei pochi bambini che sono
-TOI065	
 TOI065	più rari che
 TOR001	io penso che diventeranno il prossimo capro espiatorio chi li conosce
-TOI065	
 TOR001	chi sa co~
-TOI065	
 TOI065	cosa vogliono i bambini
 TOI065	chi sono
 TOI065	quando avremo superato
 TOR001	il migrante come
-TOI065	
 TOI064	xxx
 TOI064	eh
 TOI065	mi ricordo into~ eh infatti non mi ricordo intorno a
@@ -506,17 +471,13 @@ TOI064	eh
 TOI064	ricordo una
 TOI064	una ragazza peruviana che era colpita dal fatto che diceva
 TOI065	da voi sui pullman non ci sono bambini
-TOR001	
-TOI064	
 TOI064	e io dico eh
 TOI065	difficile darti torto nel senso
 TOI065	ma come no
 TOI064	così tanti che rumoreggiano quei due guardali
 TOR001	ora
-TOI064	
 TOI064	infatti esatto
 TOR001	è difficile darti torto
-TOI065	
 TOI065	sì effettivamente
 TOI065	penso che
 TOI065	questa sia
@@ -530,7 +491,6 @@ TOR001	se ne va
 TOI065	mh mh
 TOI065	restano vecchi
 TOR001	irrisolti
-TOI065	
 TOI065	eh
 TOI065	qualche nuovo cittadino
 TOI065	però
@@ -565,21 +525,17 @@ TOI065	oh madonna
 TOI065	donna molto pudica e siciliana
 TOI065	non pensate ad altro ma basta basta basta guardate quante siete xxx
 TOR001	il settantanove
-TOI065	
 TOI065	nell'ottantacinque
 TOR001	nasceva mio fratello e in realtà
-TOI065	
 TOI065	sempre lo stesso ospedale stesso identico reparto
 TOR001	sei bambini
 TOR001	oh
-TOI065	
 TOI065	sei
 TOI065	di cui lui era l'unico maschio
 TOR001	quindi aveva intorno mia madre cinque infermiere che la pettinavano la coccolavano perché non avevano niente da fa
 TOI065	certo
 TOI065	e e mio fratello idem
 TOR001	anche perché era l'unico maschio quindi lo festeggiavano tutti ah xxx
-TOI065	
 TOI065	e effettivamente la cosa
 TOI065	non è stata
 TOI065	poi
@@ -589,14 +545,12 @@ TOR001	incredibile
 TOI065	mh mh mh mh
 TOI065	un trend
 TOR001	e quindi
-TOI065	
 TOI065	ma non si è ancora invertito
 TOR001	dubito che
 TOI064	no non credo
 TOI065	eh no non mi sembra che siamo su quella strada
 TOR001	e dubito che
 TOI065	la vedo difficile sì
-TOR001	
 TOR001	e tornando agli studenti di cui parlavate
 TOR001	ah secondo voi quali sono i quartieri
 TOR001	che sono cambiati di più
@@ -618,7 +572,6 @@ TOI064	intorno al politecnico
 TOI064	no
 TOI065	bah
 TOR001	beh dio mio scusa la zona di via monginevro
-TOI064	
 TOI065	sì
 TOI064	dai
 TOI065	però
@@ -691,11 +644,9 @@ TOI065	punto
 TOI064	ma perché crocetta è impossibile
 TOI065	cioè
 TOR001	nel senso
-TOI065	
 TOI064	ehm
 TOI065	eh
 TOR001	non c'è lo spazio per i locali
-TOI065	
 TOI065	non può diventarlo
 TOI065	ma io conosco diverse persone che
 TOI065	han vissuto in crocetta mh come studenti
@@ -717,7 +668,6 @@ TOI065	cioè ti
 TOI065	percorri io adesso che s~ mh
 TOI065	che devo percorrermela relativamente spesso per arrivare
 TOR001	lì al capolinea di sto benedetto quindici
-TOI065	
 TOI065	stare sui pullman
 TOI065	ti ga~
 TOI064	perché comunque l~ vedi
@@ -725,15 +675,12 @@ TOI065	ah sì certo
 TOI065	a seconda delle fermate
 TOI065	ovviamente
 TOR001	cioè proprio analisi sociologica di primo sul campo
-TOI065	
 TOI065	vedi chi sale chi scende
 TOI065	a seconda dei posti da dove arriva dove va
 TOI065	ed è interessantissimo
 TOI065	secondo me quindi
 TOI064	gli studenti del poli
 TOI065	infatti parliamo di come sono cambiati i pullman anche cioè
-TOR001	
-TOI064	
 TOI064	tu pensa ehm
 TOI065	adesso prendere un pullman la sera
 TOI064	però comunque
@@ -769,7 +716,6 @@ TOI065	diciamolo brutal~
 TOI065	anziani che muoiono case sfitte restan vuote no
 TOI065	nel senso
 TOR001	perché po~ possa esserci una sostituzione
-TOR001	
 TOI065	cambio certo
 TOI065	non è che
 TOI065	eh mh
@@ -784,7 +730,6 @@ TOI065	figli figli piccoli
 TOR001	e di conseguenza quelli saranno lì com'è giusto che sia per altri vent'anni
 TOR001	ciao
 TOR001	certo
-TOR001	
 TOI064	certo
 TOI064	e questo anche a san salvario comunque eh eh
 TOI065	san salvario
@@ -792,7 +737,6 @@ TOI064	san salvario
 TOI065	era così vent'anni fa
 TOI065	era talmente fatiscente
 TOR001	e ed era il luogo dello spaccio era il luogo dove dove dopo le nove di sera non usciva nessuno di casa
-TOI065	
 TOI064	nessuno di casa
 TOI065	vero
 TOI065	che è diventato un xxx
@@ -819,21 +763,16 @@ TOR001	vabbè ovviamente a basso costo
 TOI065	mh
 TOI064	interessate
 TOR001	eh
-TOI065	
 TOI065	necessitate
-TOI065	
 TOI064	ad andare a lottare con le blatte
-TOI065	
 TOI065	e scusami diciamocelo
 TOR001	perché lì comunque ci sono delle case guarda io ho degli amici che ci abitano
-TOI065	
 TOI065	ci sono delle case molto belle
 TOI065	ma comunque
 TOR001	anche eh
 TOI065	però anche no
 TOR001	anche sfidanti
 TOR001	diciamo
-TOI065	
 TOI064	anche sfidanti
 TOI064	eh eh
 TOI065	vabbè certo
@@ -857,8 +796,6 @@ TOI065	quattrocento euro al mese
 TOI065	quattrocento più spese xxx arrivava a spendere quattrocentocinquanta euro al mese
 TOI065	no ma na ra~ na casa per me invivibile
 TOR001	con ogni volta che cucinava scattava l'allarme perché ovviamente c'era il
-TOI065	
-TOR001	
 TOI065	e certo
 TOI065	il sensore di
 TOI065	gas bah eh per forza di co~
@@ -870,7 +807,6 @@ TOI065	che
 TOI065	sul ballatoio oltretutto
 TOI065	dopo di che hai sta stanza
 TOR001	e la sa~ e il il tavolo era sotto il letto
-TOI065	
 TOI065	nel senso
 TOI065	ovviamente un letto a soppalco
 TOI065	e la cucina era incassata in un
@@ -878,21 +814,16 @@ TOI065	angolo
 TOI065	sulla sinistra
 TOI065	ogni volta che cucinava io magari da so~ m'invitava
 TOR001	e sentivo l'allarme xxx ah vabbè starà facendo
-TOI065	
 TOI065	i crostini
 TOR001	perché
-TOI065	
 TOR001	era così
 TOI065	certo
 TOI064	ma voglio di ho capito
 TOI065	niente tramezzini stasera
-TOR001	
-TOI065	
 TOI065	ma quello è
 TOI065	quattrocento euro al me~ io non spenderei mai una cifra del genere per stare in un quartiere dove sotto c'è
 TOI065	okay che hai lo spaccio
 TOR001	e lui è amico di tutti quelli che perché controllano il territorio
-TOI065	
 TOI065	all'angolo hai la prostituta
 TOI065	che che saluti ogni giorno xxx
 TOI065	e
@@ -937,11 +868,9 @@ TOI065	io penso che la vera isteria per gli abitanti
 TOI065	eh
 TOI065	è che sono ancora molto piemontesi
 TOR001	cioè ci sono tanti piemontesi in
-TOI065	
 TOI065	in san salvario
 TOI065	quindi
 TOR001	oltre allo shock
-TOI065	
 TOI065	di trovarsi immersi nella più totale movida
 TOI065	eh
 TOI065	oltre al trauma magari
@@ -950,15 +879,10 @@ TOI065	scendi hai lasciato l'auto parcheggiata ci trovi fior fiore di ehm
 TOI065	maschioni seduti sopra
 TOI065	chi ti piscia sulle ruote
 TOR001	chi è d~ lì ebbro proprio sulla tua automobile
-TOI064	
 TOI065	noi siamo quelli che dobbiamo
-TOI064	
 TOI064	rappresentare la nostra fascia d'età nelle interviste
 TOR001	solo perché forse è meglio allargar la base
-TOI065	
 TOI064	no perché
-TOI065	
-TOI065	
 TOI065	ho degli amici che giustamente
 TOI065	avendo abitato
 TOI065	a san salvario anche marco
@@ -966,13 +890,10 @@ TOI065	ad esempio avevo questo problema
 TOR001	vabbè lui diceva per me non è tanto problema chiedere per favore
 TOI065	scusa
 TOR001	vi spostate che prendo la
-TOI065	
 TOR001	certo che gli urinassero sulle ruote era già una una roba meno
-TOI065	
 TOR001	dici vabbè poi
 TOI065	già meno gradevole tutto sommato
 TOR001	piscia lontano da dove ti siedi
-TOI065	
 TOI065	che sarebbe bellissimo
 TOR001	eh però poi più che altro il trovar posto no
 TOI065	certo
@@ -1012,10 +933,8 @@ TOI065	allora probabilmente
 TOI064	è stato un cambiamento molto forte
 TOI065	non puoi neanche scendere in pantofole per buttar l'immondizia eh
 TOR001	la perdita dei
-TOI065	
 TOI065	la perdita dei dei piccoli artigiani
 TOR001	questo la gente lamenta
-TOI065	
 TOI065	non c'ho un panettiere non c'ho un calzolaio questo la gente
 TOI064	infatti adesso
 TOI065	no no non
@@ -1050,11 +969,9 @@ TOI065	non è una zona a basso prezzo
 TOR001	anche lì ti puoi trovare un monolocale mansardato a quattrocento euro
 TOI065	xxx
 TOR001	ma ti giuro una roba oscena che io non ci vivrei neanche dopo esserci cresciu~
-TOI065	
 TOR001	né se mi s~
 TOI065	no io vivo vicino per quello chiedo
 TOR001	minaccassero
-TOI065	
 TOI065	sì costa carissimo
 TOI065	no costa carissimo costa carissimo
 TOI065	io ho un cugino che
@@ -1069,11 +986,9 @@ TOI064	comunque ci sono case di tutti i tipi
 TOI065	quindi non
 TOI065	col letto incassato nel pavimento cioè ma na roba che dici ma come scusami ma com'è possibile
 TOR001	con una cifra del genere veramente ti trovo in crocetta
-TOI065	
 TOI065	no no ma io son comodo
 TOI065	sì sì ho capito ma
 TOR001	ci vuole una lotta dal basso finché sei disposto a pagare ste cifre gli ho de~
-TOI065	
 TOI065	ehm
 TOI065	quindi secondo me un po'
 TOI065	è un po'
@@ -1089,8 +1004,6 @@ TOI065	e com'era lì come zona
 TOI065	quella effettivamente era un zona
 TOI065	più aulica
 TOR001	rispetto a quella a cui io ero
-TOI065	
-TOI065	
 TOI065	da cui arrivavo a cui ero abituata
 TOI065	eh
 TOI065	però lì a ridosso
@@ -1119,7 +1032,6 @@ TOR001	per il venir meno dei
 TOI065	certo
 TOI064	dei suoi
 TOR001	beh certo
-TOI065	
 TOI065	mhmh abitanti quelli storici però eh
 TOI065	si si vedeva proprio nelle case
 TOI065	si vedeva nel tipo di botteghe eh era molto forte
@@ -1169,17 +1081,14 @@ TOR001	d~ da queste strutture primo novecentesche quindi estremamente
 TOI065	mh mh
 TOI065	mh eleganti
 TOR001	a queste casupole
-TOI065	
 TOI065	ma molto poetiche
 TOR001	e ti sembrava di essere in un piccolo centro di un piccolo paesino
-TOI065	
 TOI065	non ben definito
 TOI065	e lì eh
 TOI065	anche lì eh invece
 TOI065	le persone che ci abitavano erano ancora lì tan~ tanti del sud effettivamente
 TOI065	tantissimi del sud
 TOR001	era una specie di di boh
-TOI065	
 TOI065	di strana mh
 TOI065	adesso se mi viene in mente come si chiama mh
 TOI065	e quindi in somma io in realtà
@@ -1197,15 +1106,10 @@ TOR001	quindi insomma una un'atmosfera un po' ovattata
 TOI065	scusa quindi c'è una scuola media che ha l'ambizione
 TOI065	di sfornare
 TOR001	poi in realtà
-TOI065	
 TOR001	sì perché è attaccata
-TOI065	
 TOR001	alla al liceo
 TOI065	è che non sono di qua queste le scopro pian piano
-TOI065	
 TOI065	sì
-TOR001	
-TOI065	
 TOI065	sì sì e quindi no insomma
 TOI065	c'era questa atmosfera un po'
 TOI065	tanti della
@@ -1225,12 +1129,10 @@ TOR001	vedi esattamente
 TOI065	però
 TOI065	esattamente
 TOR001	però è vero che lì
-TOI065	
 TOI065	ori~ è vero era mhmhmh
 TOR001	poi dipendeva anche un po' dalla sezione eh
 TOI065	mh mh
 TOR001	va detto
-TOI065	
 TOI065	perché c'era ad esempio eh la e
 TOI065	che era quella
 TOI065	a prevalenza
@@ -1244,14 +1146,10 @@ TOI065	mh
 TOI065	e quelli arrivavano da background
 TOI065	mh
 TOR001	misti mh
-TOI065	
 TOI065	nel senso che c'era sia il figlio di papà
 TOI065	che voleva riscattare
-TOR001	
 TOR001	okay
-TOI065	
 TOR001	la sua fedina penale sporca
-TOI065	
 TOI065	no dai
 TOI065	sia invece quello che arrivava dal basso figlio di operai
 TOI065	e quindi aveva però una
@@ -1285,7 +1183,6 @@ TOI065	quindi quando se~
 TOI065	noi
 TOI065	l'onda lunga la sentivamo dei nostri
 TOR001	fratelli maggiori cugini ecco
-TOI065	
 TOI065	eh mh
 TOI065	e quindi effettivamente
 TOI065	c'era molta sensibilità politica
@@ -1311,15 +1208,11 @@ TOI065	l'einstein era
 TOI064	mhm
 TOI064	per esempio era famoso perché
 TOI065	ogni a~ faceva occupa~ c'era un'occupazione tutti gli anni erano i primi
-TOI064	
 TOI065	a iniziare a torino gli ultimi a finire
-TOR001	
-TOI064	
 TOI065	puntualmente
 TOI064	tipo il gioberti
 TOI065	però ecco all'inizio
 TOR001	tra i nostri
-TOI064	
 TOI065	all'inizio effettivamente c'erano moltissime attività organizzate
 TOI064	mh mh mh mh mh
 TOI064	cioè
@@ -1349,7 +1242,6 @@ TOI065	diciamo che c'è la fase un po' più anarchica in cui invece eran
 TOI065	mh
 TOI064	il nichilismo
 TOR001	sì c'era ma~ sì
-TOI064	
 TOI065	c'era sì esatto cioè c~ ma è proprio quello
 TOI064	eh sì no pr~ totalmente eh
 TOI064	è la generazione precedente che era politicizzata
@@ -1364,24 +1256,17 @@ TOI065	e adess~ se eh
 TOI064	più che guardare i ragazzi dello zoo di berlino voglio dire ricordiamocele queste cose
 TOI064	gli anni dopo
 TOR001	gli anni dopo
-TOR001	
-TOI064	
 TOI065	quelli che sono a~
 TOI064	occupazione voleva dire
 TOI065	quelli che hanno frequentato
-TOI064	
 TOI065	gli anni dopo di noi vedi wi~ vedi giulia vedi andrea
 TOR001	eh
-TOI065	
 TOI064	eh
 TOI065	cosa
 TOI065	eh
-TOI064	
 TOR001	cosa dicevano infatti tutto questo era sparito
-TOI065	
 TOI064	perché allora
 TOR001	tutto questo era sparito
-TOI065	
 TOI065	io penso purtroppo
 TOI065	allora al netto
 TOI065	del
@@ -1389,19 +1274,13 @@ TOI065	rimpianto per non esserci stati
 TOI065	i~ in nella fase di grande movimentazione di fine anni sessanta
 TOI065	e per altro chi c'era tipo chiedi a tua madre
 TOR001	non se n'è neanche accorta vabbè
-TOI065	
 TOR001	ah sì io votavo verdi va bene
 TOI065	x
 TOR001	lascia perdere
 TOI065	poteva andare peggio tutto sommato
-TOI065	
 TOR001	esattamente
-TOI065	
 TOI064	porca misera
-TOI064	
 TOI065	minchia mia madre è meglio se non chiedo guarda xxx lasciam perdere
-TOR001	
-TOI065	
 TOI065	esattame~
 TOI065	però effettivamente poverina avevi venticinque anni ma era come averne cinquanta quindi
 TOI065	eh lasciam pe~
@@ -1471,7 +1350,6 @@ TOR001	di destra e di sinistra con pochissimi
 TOI065	mh mh mh mh
 TOI065	eh diciamo così
 TOR001	accidiosi inermi e inerti
-TOI065	
 TOI065	pochi
 TOI065	no
 TOI065	negli anni ottanta la la suddivisione era fra
@@ -1544,13 +1422,11 @@ TOI065	cosa non non sono state
 TOI065	le ramificazioni fra
 TOI065	mafia siciliana
 TOR001	estrema destra
-TOI065	
 TOI065	di ci
 TOI065	e e tutto quello che hanno comportato a livello di controllo sociale
 TOI065	con la cassa del mezzogiorno che è andata a dar soldi per
 TOI065	per diffondere l'eroina in italia
 TOR001	vab~
-TOI065	
 TOI065	e poi questo che ha creato una sorta di cappa
 TOI065	perché poi alla fine se vai a veder~
 TOI065	cioè i
@@ -1577,7 +1453,6 @@ TOI065	contorno storico no
 TOR001	mhmh
 TOI065	tutto sommato
 TOR001	personalmente
-TOI064	
 TOI064	personalmente mh
 TOI064	personalmente bene
 TOI064	anche perché io arrivavo da
@@ -1599,17 +1474,12 @@ TOI064	variegato la mia
 TOI064	la scuola media non s~ certo non puntava a sfornare gente esclusivamente per i licei
 TOI064	penso che eh puntasse a sfornare gente non esclusivamente per i riformatori
 TOR001	e forse ce l'ha fatta
-TOI064	
 TOI064	eh insomma vabbè
-TOI064	
 TOI065	insomma non
-TOI065	
 TOI064	la mia media recuperava gente che usciva da riformatori
 TOI064	era era molto
-TOI065	
 TOI064	xx hanno xxx
 TOI065	no
-TOI064	
 TOI065	li produceva for~
 TOI064	grazie palazzeschi
 TOI064	no ehm
@@ -1645,10 +1515,7 @@ TOR001	le persone si polarizzavano in gruppi
 TOI064	certo
 TOI064	eh mh
 TOI065	lì puoi chiedere a stefano appunto abbiamo frequentato tutti le stesse scuole ma
-TOR001	
-TOR001	
 TOI065	xxx
-TOI064	
 TOI065	ecco infatti
 TOI065	mh
 TOI065	no per me eh
@@ -1658,10 +1525,8 @@ TOI065	mh di frequentare
 TOI065	il più difficile liceo classico di tutta torino
 TOI065	e benché non fossi di zona eh
 TOR001	il caso poi ha voluto che ci spostassimo effettivamente ci trasferissimo
-TOI065	
 TOI065	quindi io stavo chiedendo il nulla osta poi
 TOR001	di fatti ci siam trasferiti davanti
-TOI065	
 TOI065	e e quindi effettivamente son stati anni
 TOI065	mh duri esaltanti
 TOI065	io vabbè ovviamente
@@ -1673,9 +1538,7 @@ TOI065	persone poco empatiche
 TOI065	era
 TOR001	quello che cercavo
 TOR001	quello che cercavi
-TOI065	
 TOR001	laddove ho trovato delle persone invece empatiche esaltanti ed esaltate che amavano la materia lì mi sono nutrita e abbeverata come doveva essere
-TOI065	
 TOI065	però eh anche appunto nella sfida con i
 TOI065	i docenti più mh
 TOI065	colti e ottusi
@@ -1711,11 +1574,9 @@ TOI065	ehm
 TOI065	al quale a volte io stessa mi opponevo
 TOI065	cioè passando
 TOR001	interi pomeriggi a non far niente poi studiando pazzamente di notte
-TOI065	
 TOI065	quindi quella
 TOI065	sorta di non
 TOR001	sì lo voglio no non lo voglio cosa voglio diventare
-TOI065	
 TOI065	lo faccio per il piacere di farlo
 TOI065	lo faccio perché poi ho un obiettivo
 TOI065	lì era insomma è stato
@@ -1739,21 +1600,15 @@ TOI065	e ho trovato delle
 TOI065	delle persone che sono ancora adesso de
 TOR001	cari amici quindi
 TOR001	okay
-TOI065	
 TOR001	bello bello
 TOI065	e invece poi l'università
 TOI064	da cui nessuno dei due è ancora uscito
-TOR001	
-TOI065	
 TOI064	attenzione
 TOI065	è vero
 TOI064	per un motivo
-TOI065	
 TOR001	o per un altro
 TOR001	xx bene
-TOI064	
 TOI065	per motivi diversi ma
-TOI064	
 TOI064	l'università era beh allora
 TOI064	dipende da
 TOI064	da da che punto di vista la consideriamo
@@ -1777,31 +1632,23 @@ TOI064	visto a posteriori nel senso che noi eravamo quelli
 TOI064	eravamo quelli con il piano di studi dove
 TOI064	lo ve~ lo vedo ancora adesso rispetto ad altri corsi dove potevi pendere cambiare mettere quello che volevi
 TOR001	il che vuol dire che
-TOI064	
 TOI065	eh
 TOI064	autarchici
 TOR001	uscivi co~
-TOI064	
 TOI064	uscivi con un piano di studi dove
 TOI064	che era un un un un gran mix
 TOI065	una grande insalata dove avevi messo un po' di tutto
 TOR001	ehi ma
-TOI065	
 TOI064	lei ha messo un corso per fare pigotte
 TOI065	però
 TOR001	mi spieghi
-TOI064	
-TOI065	
 TOI064	ho sentito dire che per costruire pozzi in africa bisogna levare quel
 TOI064	no io quello non l'ho messo
 TOI065	quello non l'ho messo
-TOR001	
 TOI064	xxx
 TOI064	però
 TOI065	però però però
-TOI064	
 TOI065	era mh
-TOI064	
 TOI064	però aveva il pregio che potevi
 TOI064	potevi veramente spaziare qui~ no
 TOI064	per quello è
@@ -1848,13 +1695,8 @@ TOI064	mh
 TOI064	t'ho detto
 TOI064	è stato comunque un bel periodo
 TOI065	e vabbè poi ancora adesso la frequento ancora l'università per ovvi motivi e
-TOR001	
-TOI065	
-TOI064	
-TOI064	
 TOI064	e
 TOR001	e ci trovi molte persone interessanti
-TOI065	
 TOI065	per me
 TOI065	eh
 TOI065	vabbè
@@ -1873,30 +1715,23 @@ TOR001	c'avevi già
 TOR001	wow
 TOI065	okay
 TOR001	quello era il mio movente forse è stato l'errore
-TOR001	
-TOI064	
 TOI065	io no
 TOI064	infatti
 TOI064	vedi non devi
 TOI065	non devi programmare qual è il trucco
 TOI065	perché
-TOI065	
 TOR001	ma io non programmo
-TOI064	
 TOI065	io ho detto l'università qualche s~ s~ settimana prima del
 TOI065	no i~
-TOI064	
 TOI065	d'iscrivermi e basta
 TOI065	no allora
 TOR001	fra me e la programmazione
-TOI065	
 TOI065	c'è un mare che non si apre mai
 TOI065	non è come il mar rosso
 TOI065	io non ho
 TOI065	capacità di programmazione
 TOI065	no io avevo questo sogno
 TOR001	che era ancora ben non ben definito come attualmente continua a non esserlo non so bene che cosa voglio fare da grande
-TOI065	
 TOI065	ma
 TOI065	mh all'epoca
 TOI065	eh sognavo ehm
@@ -1925,12 +1760,10 @@ TOI065	eh mi trovo ad avere l'occasione di
 TOI065	eh che so lavorare in altri ambiti
 TOI065	il giornalismo era un altro mio sogno
 TOR001	almeno quello
-TOI065	
 TOI065	ma
 TOI065	diciamo che abbiamo un tesserino non so se lo useremo
 TOI064	va lo lo uso ma in un modo un po' vabbè in ogni caso
 TOR001	ma sì
-TOI065	
 TOI065	però era quello il sogno
 TOI065	e l~ lo scotto è stato forte quando arrivata in dipartimento mi sono resa conto
 TOI065	che le dinamiche non erano mh
@@ -1940,17 +1773,11 @@ TOI065	eh né premianti
 TOI065	né meritocratiche né nulla
 TOR001	eh quando mi sono resa conto che non c'erano docenti donne se non due che erano mogli di
 TOR001	xxx
-TOI064	
-TOI064	
 TOI065	xxx
-TOR001	
 TOI065	xxx
 TOI064	eh
-TOI065	
 TOI065	quando mi sono resa conto di tutta una serie di cose
 TOI065	purtroppo lì
-TOR001	
-TOI065	
 TOI065	già la mia
 TOI065	come sempre
 TOI065	io purtro~ eh soggiaccio molto al principio del piacere
@@ -1959,8 +1786,6 @@ TOR001	attenzione
 TOI065	mh mh
 TOI065	cioè abbiam prima detto che io passavo i pomeriggi
 TOR001	a a ra~ a ravanare xxx i miei pensieri e studiavo di notte quindi evidentemente a li~ arrivo in università
-TOI065	
-TOI065	
 TOI065	dove non ti segue nessuno
 TOI065	va bene eh
 TOI065	però lì insomma eh capendo che non
@@ -1995,10 +1820,8 @@ TOI065	invece per noi era meno facile
 TOI065	ho comunque legato con dei gruppi di persone
 TOI065	avevo comunque altre amicizie che si son formate in quel periodo
 TOR001	quindi in realtà è stato un periodo esaltante ovviamente di autodeterminazione
-TOI065	
 TOI065	poi abbiamo iniziato a lavorare tutti abbiamo iniziato
 TOR001	a uscire selvaggiamente la sera
-TOI065	
 TOI065	e poi c'era lo studio era un periodo
 TOI065	mh bellissimo
 TOI065	perché mi ricordo ci trovavamo la notte nei locali a
@@ -2012,12 +1835,10 @@ TOI065	moltissime
 TOI065	eh ti riuscivi
 TOI065	forse perché appunto facevo filosofia
 TOR001	ti ti potevi trovare intorno a un falò a discutere del perché mi sento gesù cristo
-TOI065	
 TOI065	e a spiegare come
 TOI065	no cioè
 TOI065	non io
 TOR001	ovviamente no i compa~ di co~
-TOI065	
 TOI065	e e tutti coerentemente rispondevano sul senso di responsabilità che ciascheduno sentiva di provare verso la collettivi~
 TOI065	quindi un periodo estremamente esaltante
 TOR001	bello
@@ -2044,11 +1865,9 @@ TOI065	che non è ancora finita ma all'epoca mi s~
 TOI065	mi indusse a smettere di frequentare
 TOI065	perché
 TOR001	eh e questo lo dico
-TOI065	
 TOI065	cioè c'erano
 TOI065	operai che senza nessun tipo di protezione
 TOR001	prendevano i pannelli e li lanciavano
-TOI065	
 TOR001	dal tetto
 TOI065	meraviglia
 TOI065	in cortile
@@ -2056,11 +1875,8 @@ TOI065	era estate eran tutte le porte aperte ho detto ma vabbè
 TOR001	ma allora
 TOI065	forse xxx
 TOR001	ma cosa vengo a fare non po~ tanto sti questi questi
-TOI065	
 TOI065	corsi che sto seguendo non li potrò sostenere
 TOR001	qui c'è amianto ovunque ma andiamocene a ca~
-TOI065	
-TOI065	
 TOI065	poi ho ripreso paradossalmente con la triennale per
 TOI065	perché c'è stato una sorta di inganno
 TOI065	da parte delle segreterie
@@ -2087,7 +1903,6 @@ TOI064	quindi loro se la son vista recapitare nel duemilaotto
 TOI065	dicendo sappiamo dove abiti
 TOI065	mh
 TOR001	venite
-TOI065	
 TOI065	no no no è stato esilarante
 TOI065	perché eh
 TOI065	tutte
@@ -2099,7 +1914,6 @@ TOI065	invita eh
 TOI065	il giorno tal dei tali all'ora tal dei tali a palazzo
 TOI065	oddio anch'io
 TOR001	ragazze vi fucileranno tutte siete le ultime rimaste che non avete voluto fare il passaggio
-TOI065	
 TOI065	vi elimine~
 TOI065	no
 TOI065	han proposto a noi di fare il passaggio
@@ -2107,7 +1921,6 @@ TOI065	cioè geniali hanno raccolti tutti
 TOR001	vabbè comunque
 TOI065	okay
 TOR001	quello mi fece riprendere a seguire
-TOI065	
 TOI065	fu di nuovo molto esaltante quel periodo veramente bellissimo
 TOI065	e
 TOI065	intenso no io
@@ -2121,43 +1934,31 @@ TOR001	eh di rimanere a ragionare
 TOI065	mh mh
 TOI065	di mhmh
 TOR001	mi è piaciuto molto al punto che continuo continuo
-TOI065	
-TOI065	
 TOI065	non ho ancora smesso
 TOI065	eh no beh
 TOI065	quindi per me è stato esaltante
 TOR001	nella mia inconcludenza
-TOI065	
 TOI065	totale
-TOR001	
 TOR001	okay vi faccio l'ultima domanda poi vi vi libero
 TOI064	come vi sembra torino oggi
 TOR001	mh
 TOR001	beh
-TOI064	
 TOI064	beh
 TOI065	questo mi sembra
 TOI064	una vena artistica
 TOR001	mi sembra significativo mi sembra significati~ no ma è vero
 TOR001	sembra la risposta
-TOI065	
-TOI064	
 TOI064	cioè ancora
 TOI064	allora
 TOR001	eh al netto di
-TOI065	
-TOI065	
 TOI065	mentre un
 TOI064	è un tenore un sop~ cos'è
-TOR001	
 TOI064	xxx
 TOI065	eh non lo so bisogna
-TOI064	
 TOR001	chiediamolo il il micronofono è sensibile lo prende perché altrimenti
 TOI064	chiediamo
 TOI064	non si interpreterà come mai ridiamo in questo modo
 TOR001	beh gli han fatto l'applauso quindi
-TOI064	
 TOI064	la performance è piaciuta non solo a noi
 TOI064	eh mh
 TOI064	no com'è secondo me è un
@@ -2181,7 +1982,6 @@ TOI064	l'italia in generale
 TOI064	ovviamente
 TOI064	e
 TOI064	o o o torino in particolare
-TOI064	
 TOI064	vedi
 TOI065	vedi che c'è un'aria irrespirabile
 TOI065	no
@@ -2208,7 +2008,6 @@ TOI064	mh
 TOI064	eh internazionali e
 TOR001	la fiat eh tutti i passaggi e tutti gli spostamenti interni
 TOR001	certo
-TOI064	
 TOI064	eh
 TOI064	nel senso che altrimenti sp~
 TOI064	probabilmente sarebbe
@@ -2217,7 +2016,6 @@ TOI064	mh mh
 TOI064	con tutti che parlano e pensano allo stesso modo
 TOI064	invece
 TOR001	così non è infatti ci f~ infatti fai le interviste per
-TOI064	
 TOI064	controllare que~
 TOI064	per verificare appunto il parlato di
 TOI064	di persone di di origine diversa
@@ -2251,7 +2049,6 @@ TOI064	eh
 TOI064	ce n'è un altro posto dove
 TOI064	dove mi interesserebbe vivere di più bah
 TOR001	forse no
-TOI064	
 TOI065	probabilmente no
 TOI065	mh
 TOI065	mah ehmhmh
@@ -2293,7 +2090,6 @@ TOI065	eh no
 TOI065	perché ad esempio non è comune a milano
 TOI064	non è comune a roma a
 TOI064	basta
-TOI065	
 TOI065	eh ho capito
 TOI064	appunto però è un difetto che le ci~
 TOI065	eh ho capito non è che tutta l'italia può vivere a milano o a roma eh
@@ -2337,8 +2133,6 @@ TOI065	un po' al lumicino
 TOI065	non
 TOI065	si tira un po' a campà mh
 TOR001	e non
-TOI064	
-TOI065	
 TOI065	non è
 TOI064	questa è l'unica cosa triste perché secondo me perché è un posto fantastico dove stare
 TOI064	no quello è
@@ -2410,7 +2204,6 @@ TOI065	c'è ancora palazzo ducale che
 TOI065	che attrae con mostre bellissime vabbè ci son solo più due gallerie
 TOI065	son quelle storiche tutte le altre han dovuto chiudere
 TOR001	dico accidenti vieni ad aprire a torino
-TOI065	
 TOI065	perché
 TOI065	e tra l'altro in una zona piena
 TOI065	perché cioè il
@@ -2464,8 +2257,6 @@ TOR001	medio alta io direi sinceramente non c'è un altro posto in cui credo pot
 TOI065	no esatto cioè vi vedreste mai a vivere in un altro posto
 TOI064	no
 TOR001	io ho già risposto
-TOI065	
-TOI065	
 TOI064	anche come clima eh devo dire
 TOI065	poi poi mai xxx però
 TOI064	perché appunto ragionavamo
@@ -2473,7 +2264,6 @@ TOI064	no
 TOI065	no
 TOI065	magari un tempo era più nebbioso
 TOI064	ma sicuramente
-TOI065	
 TOI064	io la trovo molto godibile l'altro giorno mi son~ me la son fatta a piedi da
 TOI065	no no
 TOI065	eh a traverso che ne so tutto
@@ -2490,7 +2280,6 @@ TOI065	portoghese diceva
 TOI064	mh mh
 TOI064	qui avete
 TOR001	qui avete ta~ tutti i viali alberati
-TOI064	
 TOI064	ma noi non ne abbiamo
 TOI065	ho detto bah
 TOI064	comunque abbiamo tante iniziative ad esempio a torino è iniziata la
@@ -2508,11 +2297,8 @@ TOI065	non lo so
 TOI065	non è che non ci siano idee è che boh
 TOI065	è come se fosse ancora un po' addormentata la città
 TOR001	in attesa
-TOI065	
 TOI065	come di qualcuno che la svegliasse
 TOR001	sicuramente deve svegliarsi le~
-TOI064	
-TOI065	
 TOI065	de~
 TOI065	cioè le chi la vive dovrebbe investire di più sul territorio voglio dire questo
 TOI065	per questo secondo me
@@ -2526,7 +2312,6 @@ TOI065	prendere parte
 TOR001	alla vita de~ e secondo me sono quelle più da valorizzare
 TOI065	certo
 TOR001	il fatto di dare voce ai quartieri
-TOI065	
 TOR001	grazie
 TOR001	grazie mille
 TOR001	vi vi li~

@@ -35,10 +35,8 @@ BOR020	eh
 BOI078	che liceo classico
 BOI079	no mi~ minghetti no malpighi xx no non menzionare il malpighi xx
 BOR020	minghetti minghetti no
-BOI078	
 BOI078	eh capisco che hai il calendario coi preti però non è che
 BOR022	cioè c'è un limite a tutto
-BOI078	
 BOI079	emh
 BOI078	niente
 BOI078	cos'altro per eh
@@ -50,12 +48,8 @@ BOI078	eh xx effettiva~
 BOI079	perché mh
 BOI079	noi facciamo
 BOI078	xxx xxx
-BOI078	
 BOI078	emh
 BOI079	e niente no bologna eh cosa c'è da sapere su bologna
-BOR022	
-BOR020	
-BOI078	
 BOI078	innanzitutto che è il capoluogo dell'emilia romagna
 BOR020	è il capoluogo
 BOI078	e fin qua oggi eh spari la tua conoscenza della geografia
@@ -64,9 +58,7 @@ BOI078	e ha una densità abitativa di
 BOI079	un metro
 BOI078	dai smettila
 BOR022	un abitante per metro quadro
-BOI079	
 BOI078	no allora
-BOI079	
 BOR020	eh mh
 BOR022	vabbè quindi vi siete conosciuti al liceo
 BOI078	ma
@@ -130,8 +122,6 @@ BOI078	davvero
 BOR020	ci vai
 BOI078	no
 BOI079	okay
-BOR022	
-BOI079	
 BOI078	beh son belli
 BOR020	son molto belli credo siano cioè
 BOI079	sì è bello
@@ -182,7 +172,6 @@ BOR020	eh
 BOR022	basta quello
 BOI079	basta
 BOR020	questo
-BOI079	
 BOR020	sì dai il centro è bellissimo il centro medievale è bellissimo
 BOI078	ma eh dove abitate tipo
 BOI079	eh
@@ -202,8 +191,6 @@ BOI078	eh
 BOI079	beh
 BOI078	ma s~ cioè allora io a me piace molto essere di rast~ di di san ruffillo anche xx
 BOR020	a me piace molto essere di rastignano
-BOI079	
-BOI078	
 BOI079	non sai chi è xxxxxxx
 BOI079	no di san ruffillo
 BOI078	anche suo padre tra l'altro
@@ -241,8 +228,6 @@ BOI079	sì xxxxxxxx
 BOI078	ho un antico ante~ ho un antenato che era un condottiero
 BOI079	era un condottiero però lanzichenecco cioè era cattivo
 BOR020	ma che vuoi ma che vuoi
-BOI078	
-BOI079	
 BOI078	beh invece dai tu
 BOI078	io abito in un eh in un non luogo
 BOI079	eh
@@ -263,12 +248,10 @@ BOI078	c'è la serie tivù su @nomeluogo?
 BOR022	si chiama @nomeluogo?
 BOI079	ma quella che ha
 BOI078	ma non è su matteo rossi magari
-BOI078	
 BOR020	cioè via @nomeluogo? c'è una serie tivù
 BOR022	te lo giuro
 BOR020	ma quella trash
 BOR022	è trash è degli anni novanta
-BOI078	
 BOR020	ma stai scherzando
 BOI078	cioè tu non la conosci
 BOI079	io non ho la più pallida idea di xxx
@@ -324,7 +307,6 @@ BOI078	mh
 BOI078	però è
 BOI078	come dire ha proprio quel toc~ cioè
 BOR020	ti ti innamori
-BOI078	
 BOI078	perché se ci vivi ti t'innamori per forza di @nomeluogo
 BOR020	poi anche il nome @nomeluogo bellissimo
 BOR022	no è vero è durissimo
@@ -336,7 +318,6 @@ BOI078	mhmh
 BOI078	eh mh qualcosa in bolognina ma poco
 BOI078	eh invece qu~ lì è è pieno di villini bolognesi vecchio stile anch'io vivo in un villino bolognese
 BOR022	eh tanto che vengono i turisti giapponesi a fare le foto
-BOI078	
 BOR020	si mettono sul mio terra~ no si mettono sul mio terrazzo
 BOR020	davvero
 BOI079	beh
@@ -362,8 +343,6 @@ BOI078	è una via anche mol~ è una via importante anche dal punto di vista stor
 BOI078	era diventata un eh mh
 BOI078	vedi si collega anche a lui per la storia
 BOI079	tra italia i xxx i rapporti tra italia e
-BOR020	
-BOI078	
 BOI078	e comunque vabbè e germania insomma perché la mh la la mia scuola elementare fu presa come tipo ufficio dai nazisti
 BOR020	cioè non come ufficio per fare
 BOI078	eh x
@@ -375,13 +354,11 @@ BOI078	quindi è una via importante anche dal punto di vista storico
 BOI078	e poi comunque è una bella via ci sono i campi ancora campi coltivati
 BOI079	poi c'è vabbè beh un camp~ due campi coltivati
 BOR020	eh sì campi coltivati
-BOI079	
 BOR022	sì no vabbè dai ci coltivano
 BOI078	è ancora tutta campagna
 BOI078	no non ci coltivano niente però è bella poi cioè dietro ci sono i
 BOI078	c'è tutta @nomeluogo, che è una via storica che ancora è rimasta praticamente intatta dai dal eh da~ dall'ottocen~ dal novecento
 BOR020	anche le stesse persone non non muoiono mai son sempre le stesse
-BOI078	
 BOI078	emh
 BOI078	e basta
 BOR020	più che altro sì c'è una fabbrica di crack eh di fianco a casa mia quella purtroppo non si può togliere
@@ -401,7 +378,6 @@ BOR020	sì sì c'è tipo il fumo bian~ cioè no ma non sto scher~ non è una str
 BOR022	xxxx
 BOI078	no eh
 BOR020	giuro che c'è
-BOI078	
 BOI078	eh mh
 BOI078	però sì insomma
 BOR020	via no @nomeluogo è bella poi anche @nomeluogo di fianco è bell~ vabbè se avete
@@ -464,7 +440,6 @@ BOR020	ogni tanto vuol dire
 BOI079	non è buono lo spritz
 BOR022	ma ancora n~
 BOR020	io non abito qui quindi
-BOR022	
 BOI078	io non frequento ques~
 BOR022	xx abiti xx dove che zona abiti esatto
 BOI078	io abito in eh @nomeluogo
@@ -486,8 +461,6 @@ BOR020	il @nomeluogo per me è la part~ cioè proprio quell'angolo lì penso sia
 BOI079	l'angolo non i sedili
 BOR020	che c'è
 BOR022	mh no i sedili dai
-BOI079	
-BOR020	
 BOI079	dove ti siedi tipo
 BOR020	sì cioè a me piace proprio il @nomeluogo con la piazza e poi i muretti dove ti puoi sedere lì cioè secondo me proprio
 BOI079	eh bello
@@ -522,7 +495,6 @@ BOI078	com'è fatta la pizza
 BOI078	com'è fatta la pizza
 BOI079	allora è eh ha ha una ha una
 BOR020	tonda
-BOI078	
 BOI079	mh
 BOR020	forma circolare
 BOI078	qual è la sua altezza
@@ -572,15 +544,12 @@ BOR020	perché io quando sono venuta qua io mangio sempre la pizza qui
 BOI078	mh boh mh
 BOR020	a trento
 BOI078	no dai scemo
-BOR022	
-BOR020	
 BOI079	eh prima
 BOI079	eh tra l'altro
 BOR020	buffo perché vivi di fianco a @nomeluogo tu che sei di trento cioè non ti allontani x mai da casa alla fine
 BOI078	lo so
 BOR020	no senti xxxxx cani
 BOI078	no è stato subito da subito una gag
-BOI079	
 BOR020	e
 BOI079	eh perché noi a~ prendiamo la pizza tipo qua vicino alla porta praticamente c'è il portico
 BOR020	mh
@@ -642,10 +611,8 @@ BOI079	che a ravenna è più grossa a rimini è più sottile tipo in un gradient
 BOR020	io la preferisco più sottile
 BOI078	no no x tu sei un bidone
 BOR022	io non xxx
-BOR022	
 BOI078	no
 BOR020	xxxx parli de~ della differenza cioè no mh
-BOI078	
 BOI078	diciamo che mh
 BOI078	io non so neanche valutare l'altezz~ cioè
 BOI079	generalemente la piadina le mangio e non me ne frega
@@ -673,7 +640,6 @@ BOR020	solo erbette
 BOI079	sì
 BOI078	anche quella tipo
 BOR020	xxx
-BOR020	
 BOI079	xxx
 BOI079	radicchio e bruciatini
 BOR020	molto e tipo aceto balsamico
@@ -710,7 +676,6 @@ BOI078	no
 BOI078	ma cosa dici
 BOI079	ah no è vero non ti ho mai invitato
 BOR020	voi dove andavate al m~ al mare da piccole
-BOR020	
 BOI079	io a cervia da un botto di anni in realtà cioè da sempre
 BOR022	ah okay
 BOI079	ehm
@@ -796,7 +761,6 @@ BOI078	ma poi il mare è dive~ bello quando poi diventi vecchio
 BOR020	che fai un po' sempre le stesse cose
 BOI078	vecchio in culo
 BOR022	ti godi
-BOI078	
 BOR020	vecchio eh
 BOI078	cioè vecchissimo
 BOI079	ma no tipo settant'anni
@@ -818,14 +782,11 @@ BOI079	ecco
 BOR022	una volta proverei magari
 BOI078	xx
 BOR020	anch'io una volta proverei a spararmi nel culo però non è che mh insomma cioè
-BOI078	
 BOR020	va detto comunque ti spari il culo cioè sappilo
 BOI078	quindi alla villa delle rose non ci sei andato
 BOI079	no ma n~ non noi non siamo mai andati in discoteca
 BOI078	no
 BOR020	l'ultima l'ultima discoteca che ho ho avuto modo di
-BOR022	
-BOI078	
 BOI078	visitare
 BOI078	è stata il vabbè voi non la conoscete
 BOI078	una un eh discoteca a pianoro
@@ -901,7 +862,6 @@ BOR020	mh via santo stefan~ no mh dai
 BOR022	vicino alla vecchia stalla comunque
 BOR020	eh non mi ricordo
 BOI079	attaccato
-BOR020	
 BOR020	cioè è pienissimo centro
 BOI078	e tipo lui si faceva un botto di serate là al suo anno primo anno di università
 BOR020	non aveva
@@ -989,8 +949,6 @@ BOI079	però non dovrei pagarvelo io
 BOI078	mhmh mh
 BOR022	tu invece
 BOI079	io in realtà cioè casa mia mi piace chiamarla il centro sociale più bello di bologna per com'è
-BOR022	
-BOR022	
 BOR022	però in realtà il mio pr~ proprietario è tipo un vecchietto bolognese di ottant'anni che non ha neanche più interesse di far soldi quindi molto carino
 BOI079	x son stata fortunata
 BOI079	dai bene
@@ -1005,7 +963,6 @@ BOI078	no
 BOR022	quattro persone
 BOI078	due stanze due persone per ogni stanza
 BOR020	ehm nessuno cioè è vero è vera la regola che non bisogna mai fare sesso col coinquilino
-BOR022	
 BOI078	sì
 BOI079	hai fat~ hai fatto sesso col coinquilino
 BOR022	l~ l'hai fat~ ti è capitato
@@ -1023,8 +980,6 @@ BOI078	x
 BOR020	te l'ha de~ perché la devi rispettare
 BOR020	no
 BOI078	la rispetto volentieri
-BOR020	
-BOI078	
 BOR020	e invece l'altra vostra coinq~
 BOR020	questa è una domanda che vorresti
 BOI078	fare esperienza cioè
@@ -1054,15 +1009,12 @@ BOI078	cioè
 BOI079	ha un'altra persona in un'altra casa
 BOI079	ah
 BOR020	cosa penserà il professore di questa parte
-BOR022	
 BOI079	non l'ascolterà neanche
 BOR020	della conversazio~
 BOR020	no
 BOI079	no no letteralmente non l'ascolta nessuno
 BOR020	ah dai
 BOI078	eh mh
-BOI079	
-BOR020	
 BOI078	vabbè s~ quindi boh avete fratelli m~ tu hai un
 BOR020	un fratello
 BOI078	un frat~ grande
@@ -1113,7 +1065,6 @@ BOI079	cioè si laurea in giurisprudenza però poi ha deciso di fare il pianista
 BOR020	eh cominciare il conservatorio sì sì sì
 BOR022	beh figo
 BOR020	comprensibile
-BOI079	
 BOI078	sì sì sì
 BOI079	si è si è lasciato
 BOI078	no
@@ -1131,9 +1082,7 @@ BOR020	perché lui è innamorato della fidanzata del fratello
 BOI079	cazzo è vero
 BOI079	non è ve~
 BOI079	non è vero
-BOI079	
 BOR020	io ho un fidanza~
-BOR020	
 BOR022	eh c'è un gossip eh su il fidanzato del fratello
 BOI078	drama
 BOI079	sulla fidanzata di
@@ -1160,18 +1109,14 @@ BOR022	quindi sì la vuole lui
 BOI078	quindi
 BOR022	ma no è una bella ragazza dai diciamo le cose come stanno
 BOR020	t'è dispiaciuto proprio
-BOR020	
-BOR022	
 BOI078	basta che è una ragazza quindi cioè
 BOI078	no ma no eh no
-BOI078	
 BOI078	no no però va detto insomma
 BOI078	però sì è un po'
 BOI078	da quello che ho sentito è un po' una
 BOR020	piva
 BOI078	cosa significa
 BOR022	ah ecco vedi linguistica
-BOI078	
 BOI078	piva è una mh persona che fa molte insomma molte storie eh il tuo è il tuo tipo il tuo coinquilino al femminile
 BOR020	o la t~ o la fidanzata del tuo coinquilino
 BOI078	non non ti spieghi
@@ -1186,10 +1131,8 @@ BOR020	ah
 BOI078	piva
 BOI078	una di quelle persone che tipo non so tipo al ristorante ordina
 BOR020	l'insalata
-BOI078	
 BOI079	e l'acqua capito
 BOR020	no beh adesso esageri poveretta
-BOI078	
 BOR020	non lei non lei non lei non lei non la conosco io non so neanche chi cazzo sia questa
 BOI079	distrutta
 BOI079	vabbè sì stava~
@@ -1205,7 +1148,6 @@ BOI078	mai usata
 BOR020	mai usa~ xxxx
 BOR020	una volta
 BOI079	comprati surgelati i ravioli cinesi
-BOI079	
 BOR020	beh son buoni però surgelati
 BOI079	oh son stra buoni
 BOI078	un sacco di rosticcerie secondo me usano quelli
@@ -1218,7 +1160,6 @@ BOI078	però sai
 BOI079	xxx svegliati un po' eh
 BOI079	cioè
 BOR020	per dire che se son buoni
-BOI078	
 BOR020	ragazzi
 BOR022	va bene
 BOI078	va bene

@@ -27,7 +27,6 @@ PKP121	in quattro perti
 PKP120	vengo io aspetta
 PKP122	perti
 PKP122	perti
-PKP121	
 PKP120	allora io ho visto che i pizzaioli fanno con questo
 PKP122	io marco per me e per te ho solo un coltello eh
 PKP122	no no è veramente bella
@@ -38,12 +37,9 @@ PKP120	sì sì sì
 PKP122	hai lavata
 PKP122	le forbici le hai lavate
 PKP120	le hai le hai lavate
-PKP120	
-PKP121	
 PKP121	allora
 PKP120	intanto è già un buon segno che non s'è attaccata
 PKP122	un ripasso di grammatica
-PKP120	
 PKP122	okay
 PKP121	vabbè ma f~ si faceva così
 PKP120	no fidati
@@ -108,7 +104,6 @@ PKP122	no no no
 PKP121	lo devo mettere adesso
 PKP122	e quando lo vuoi mettere dopo che hai finito
 PKP120	mh
-PKP120	
 PKP121	lui vuole mangiare direttamente dalla scatoletta
 PKP123	allora questa è una pizza a ottanta per cento d'idratazione quindi dovrebbe essere buono
 PKP122	buono
@@ -140,7 +135,6 @@ PKP120	buona dai
 PKP120	ca troia
 PKP123	non riesco
 PKP120	senti con le mani no
-PKP123	
 PKP120	eh
 PKP120	okay
 PKP120	guar~
@@ -350,9 +344,7 @@ PKP120	mhmh
 PKP122	non san più dove mettere la gente
 PKP120	mh
 PKP120	mh
-PKP122	
 PKP120	già adesso eh
-PKP120	
 PKP122	è
 PKP120	e siamo all'inizio
 PKP123	mozza
@@ -543,7 +535,6 @@ PKP122	amen dai
 PKP123	facciamo che me la mangio io
 PKP121	cosa dici dovremmo coprirla
 PKP122	mangiala te cosa ti devo dire
-PKP122	
 PKP122	perché
 PKP123	veramente diventa fredda
 PKP123	puoi fare eh
@@ -616,7 +607,6 @@ PKP120	certo
 PKP120	eh
 PKP123	xx come mangia il tonno
 PKP122	piano eh
-PKP123	
 PKP120	eh sì sì
 PKP122	x bon eh
 PKP122	adesso
@@ -640,7 +630,6 @@ PKP123	se tagliamo piano
 PKP120	sì ma x
 PKP123	e perché non si non riesco a staccarla da qui
 PKP123	attaccato
-PKP120	
 PKP120	non ho pro~ non ho neanche provato perché non voglio rovinarla capito
 PKP123	aspetto un attimo che finiamo poi dopo ci guardo
 PKP120	mh
@@ -717,7 +706,6 @@ PKP120	sì no vogliamo che tu mangi le cose fredde
 PKP120	ma perché non mangi
 PKP122	anche questa
 PKP122	piano piano
-PKP120	
 PKP122	ma così si raffredda ancora di più
 PKP120	sì vabbè eh devo finire questa no
 PKP123	vabbè insomma comunuqe lei fa le indagini sugli omicidi
@@ -743,7 +731,6 @@ PKP123	no ma infatti quand'è che ha incominciato scusa
 PKP123	no non non mi ricordo più
 PKP122	ho duvuto scrivere
 PKP123	da quando è venuto a riccione
-PKP120	
 PKP123	beh è molto probabile
 PKP120	sì eh
 PKP122	io ho cominciato a dire parolacce a dodici anni
@@ -751,7 +738,6 @@ PKP123	sì
 PKP120	sì non lo so come
 PKP123	ho conosciuto una persona che era più grande di me e diceva le parolacce e e io le ho raccolte
 PKP122	sì sì alla fine una dice perché
-PKP120	
 PKP123	che era una ragazzina che veniva in vacanza e siccome comunque era un po' più grande e voleva fare quella un po' così
 PKP120	sì
 PKP123	un po' emancipata
@@ -770,7 +756,6 @@ PKP123	andavano a scuola casa chiesa
 PKP122	ah e sì eh
 PKP120	andavamo sempre in chiesa
 PKP122	te andavi in chiesa prendevi fuoco forse
-PKP123	
 PKP120	marco andava in chiesa eh
 PKP123	sì
 PKP120	con la nonna
@@ -784,7 +769,6 @@ PKP122	sì sì lui andava sempre con la nonnina i~ in chiesa eh
 PKP122	col cazzo
 PKP120	ti piacerebbe eh
 PKP122	no no
-PKP120	
 PKP121	io ti giuro sono quasi apposto
 PKP123	guarda mi dispiace così tanto ma dobbiamo comprare due teglie mi dispia~
 PKP122	sì sì basta
@@ -795,7 +779,6 @@ PKP121	sei t~ tutto il tempo là
 PKP122	eh se avessimo due teglie mangerei pure io no
 PKP122	eh
 PKP120	ma
-PKP123	
 PKP123	io avevo il dubbio te xxx
 PKP123	non entra dentro è più piccolo del nostro forno
 PKP120	e un xx teglia verde quella che abbiamo in più
@@ -842,11 +825,8 @@ PKP123	xx un'altra
 PKP121	xxx e basta dai xxx di di di cavolo che
 PKP121	non fare le scene
 PKP120	non mangio non mangio perché
-PKP123	
 PKP120	è così dai xx
-PKP122	
 PKP120	perché sa xx
-PKP123	
 PKP120	madonna santa
 PKP123	improvvisamente sei diventato a dieta
 PKP122	davvero eh
@@ -875,7 +855,6 @@ PKP122	a casa a casa a casa
 PKP122	a casa
 PKP123	i i soldi son x
 PKP122	il suo collega
-PKP122	
 PKP123	okay
 PKP122	ma anche lui alle sette e mezzo stamattina è possibile
 PKP122	okay
@@ -904,7 +883,6 @@ PKP120	è vero eh
 PKP123	no
 PKP123	alle sette e mezza
 PKP122	io sentivo parlare ma con chi sta parlando
-PKP123	
 PKP121	xx
 PKP123	posso prendere una fetta di torta
 PKP121	no marco dai
@@ -921,13 +899,11 @@ PKP122	e beh con le forbici lì
 PKP123	la mamma ha tagliato le unghie di di di
 PKP122	di rudy
 PKP123	di rudy
-PKP123	
 PKP122	di rudy proprio sì
 PKP122	eh
 PKP123	federica e tu hai mangiato quella pizza x
 PKP123	xx
 PKP122	ma scherzi vabbè
-PKP120	
 PKP123	eh
 PKP123	dai no
 PKP120	no no
@@ -935,7 +911,6 @@ PKP123	sav~ ci stavo rimanendo male eh
 PKP122	è successo x in cucina e nessuno tocca neanche per togliere
 PKP122	mh
 PKP123	ci stavo rimasto male
-PKP120	
 PKP122	cos'è che ho detto ma ragazzi
 PKP120	ci stavo rimasto male
 PKP120	sono confusa è una serie
@@ -944,9 +919,7 @@ PKP122	xxx
 PKP120	ci sono rimasta male e
 PKP123	è u~ quasi un neologismo
 PKP122	xx non parlo più l'italiano
-PKP120	
 PKP122	no no io non so più parlare italiano
-PKP123	
 PKP120	no infatti
 PKP123	onesta~ e posso dire anche da quando
 PKP120	ah lo so da quando è x
@@ -954,7 +927,6 @@ PKP123	eh da quando ho cominciato a frequentare questa casa sì sì
 PKP123	eh frequentare qui
 PKP122	sì sì
 PKP120	da qua~
-PKP123	
 PKP120	certo
 PKP122	ma non eri a dieta
 PKP123	chi
@@ -968,8 +940,6 @@ PKP120	tieni
 PKP122	tieni dentro con~ il tonno
 PKP120	tranquilla che non cade
 PKP120	il conno
-PKP122	
-PKP123	
 PKP120	tonno dai
 PKP123	oddio rido adesso s'ammazza
 PKP120	sì sì
@@ -986,7 +956,6 @@ PKP120	ma come sei preciso
 PKP122	questa registrazione è cominciata
 PKP120	sei te che hai ro~ hai rovinato il nostro italiano
 PKP122	dicendo
-PKP120	
 PKP122	io mi sono rovinata il mio e ho rovinato il vostro incredibile
 PKP120	mh
 PKP120	ah deh
@@ -1138,7 +1107,6 @@ PKP122	è buona
 PKP120	sì sì
 PKP123	uh
 PKP120	dobbiamo chiudere
-PKP122	
 PKP122	ve~
 PKP120	veramente buonissima
 PKP122	xx pensavo di averla amalgamata male
@@ -1164,8 +1132,6 @@ PKP122	non ne vuoi uno più grande
 PKP120	no
 PKP120	no no
 PKP122	no no eh l'odore è buono
-PKP120	
-PKP120	
 PKP122	l'odore è buono speriamo
 PKP122	thank you
 PKP123	no no guarda veramente buono
@@ -1223,7 +1189,6 @@ PKP120	mhmh
 PKP120	e dentro
 PKP121	tenerina
 PKP120	adesso
-PKP122	
 PKP120	non esageriamo
 PKP120	no marco
 PKP121	quando si parla di matrimonio come sempre scappa infatti
@@ -1232,22 +1197,18 @@ PKP120	scappa veloce eh
 PKP123	sì sì scappa vabbè eh scapperemo tutti
 PKP120	no infatti eh
 PKP122	io gli ho detto che il giorno in cui mi voglio sposare prendo la controfigura
-PKP123	
-PKP120	
 PKP120	a di
 PKP123	eh cosa fai io la fes~
 PKP123	tu
 PKP120	prendi in contro fig~
 PKP123	prendo la controfigura cioò che prendo un altro uomo che si finge marco
 PKP122	ah okay
-PKP120	
 PKP123	per fare la festa
 PKP120	sì sì
 PKP121	capito
 PKP120	che cazzo vuol dire
 PKP120	che lui non vuole
 PKP123	io te l'ho sempre detto
-PKP121	
 PKP120	ma che cazzo vuol dire sta cosa fi~ che cazzo
 PKP121	se te non ti vuoi sposare con me e io un giorno decido che mi voglio sposare
 PKP122	vabbè ma allora ti sposi con quel tipo
@@ -1269,8 +1230,6 @@ PKP120	no ancora
 PKP122	ma se tu per andare in siria ci hai messo
 PKP120	una per me una per te
 PKP122	venti anni
-PKP120	
-PKP121	
 PKP120	xxx
 PKP122	sei andato esattamente quando bombardavano tra l'altro pazzesco
 PKP123	è vero
@@ -1278,7 +1237,6 @@ PKP120	adesso a~ adesso di nuovo vogliono andare lui
 PKP123	da~
 PKP120	e suo fratello ha detto adesso sotto il covid
 PKP122	no ragazzi no adesso il covid eh beh
-PKP123	
 PKP122	sotto sotto questo problema di nuovo a~ vanno là
 PKP123	c'è il covid più qua che là
 PKP120	ma sì perché xxx stati
@@ -1295,7 +1253,6 @@ PKP120	grazie è tutta vostra
 PKP122	cioè a parte la fe~
 PKP120	chiediamo a sua mamma se l'ha fatta veramente lei
 PKP122	eh infatti io sapevo che saremmo arrivati a questa fase
-PKP122	
 PKP120	e beh
 PKP122	potete chiamarla
 PKP120	dobbiamo chiamarla

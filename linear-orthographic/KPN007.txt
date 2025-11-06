@@ -628,7 +628,6 @@ PKP022	no
 PKP017	e allora come fa a farti male
 PKP017	poi il whiskey credo che lo facciano
 PKP017	ci sono altri paesi dove lo fanno
-PKP013	
 PKP022	irlanda
 PKP017	grazie
 PKP013	mh
@@ -927,7 +926,6 @@ PKP016	sì sì
 PKP022	sì
 PKP022	ecco quelle erano piccole piccole
 PKP022	e lui la faceva così
-PKP022	
 PKP016	se no
 PKP022	le dà un buon sapore però tipo di legno
 PKP017	se no la faceva a con la con la ruta
@@ -994,7 +992,6 @@ PKP017	che si muove in un certo modo
 PKP017	che consente di
 PKP013	mh migliorare la qualità del prodotto
 PKP017	mhmh
-PKP016	
 PKP016	comunque
 PKP022	è un peccato non sapere certe cose quando quel ragazzo lì da carusi ti spiega le
 PKP013	ti può dire anche delle panzane che tu sì sì sì sì sì sì
@@ -1090,7 +1087,6 @@ PKP022	in ehm
 PKP013	la vale beve troppo alcol
 PKP022	macchè
 PKP013	che tiri dritto
-PKP017	
 PKP022	quello americano si chiama am~ american
 PKP013	e che impari un po' di buone maniere perché è un po' rozzetta
 PKP017	ma no
@@ -1164,7 +1160,6 @@ PKP016	eh il nome il no~ xxx il nome sto
 PKP016	mamma xxx
 PKP017	black and white no
 PKP013	macchè black and white è italiano vecchia romagna vecchia romagna etichetta nera
-PKP013	
 PKP022	beh adesso lo cerco
 PKP017	sì
 PKP022	il brandy che crea l'atmosfera era la pubblicità
@@ -1173,7 +1168,6 @@ PKP022	diceva tutto vedi vecchia romagna era il nome etichetta nera per riconosc
 PKP017	perché sì c'è la c'ha la xx è è l~ è la
 PKP022	che la nonna diceva che c'aveva la testa nera
 PKP017	ah è quella bottiglia a tre
-PKP013	
 PKP022	guarda che ah l'acquavite acquavite
 PKP022	a tre
 PKP013	l'acquavite è la è la grappa
@@ -1288,8 +1282,6 @@ PKP022	sì
 PKP022	e c'è anche una bottiglia da collezione ma se l'han già bevuta quasi tutta
 PKP022	ho detto io all'anima all'anima del del bicchierino
 PKP017	andava centellinata loro se la son bevuta
-PKP013	
-PKP017	
 PKP022	volevo vedere
 PKP013	eh che carina
 PKP022	grazie
@@ -1300,7 +1292,6 @@ PKP022	xxxxx
 PKP016	ma dai vacci sotto con la forche~ col coltello
 PKP013	xxx
 PKP017	dai vado a prender la paletta
-PKP016	
 PKP017	tagliamo a fette o facciamo i quadretti
 PKP017	questo qui s~
 PKP022	questo su amazon costa quarant'euro
@@ -1533,7 +1524,6 @@ PKP016	quella dello strudel
 PKP022	sì
 PKP016	perché non ce l'hai fatta
 PKP013	che non è la crema pasticcera
-PKP016	
 PKP013	crema come si chiama ilaria crema
 PKP016	mor~ mh liscia
 PKP022	non chantilly
@@ -1571,7 +1561,6 @@ PKP017	è una parte beh
 PKP016	non lo so
 PKP013	così ci sta xx
 PKP016	quando non lo sai non sai è una parte
-PKP017	
 PKP022	no il malto
 PKP022	no il malto è l'orzo
 PKP013	scusa eh toni
@@ -1619,8 +1608,6 @@ PKP013	e dopo ha la nuova piantina
 PKP013	mh mh
 PKP022	oh
 PKP013	lisa fammene sentire un po' visto che lo apprezzi tanto
-PKP013	
-PKP016	
 PKP013	tu
 PKP022	tu eri astemia
 PKP022	due
@@ -1641,7 +1628,6 @@ PKP013	no
 PKP022	mh poi d~ mangi subito la torta dopo
 PKP013	mh
 PKP016	dai
-PKP013	
 PKP013	dai mangia
 PKP013	tanto va anche nei dolci è come mangiare un po' di
 PKP016	pesca all'alchermes
@@ -1649,8 +1635,6 @@ PKP013	e invece quando si fa il roast beef ehm scusa
 PKP016	il roast beef
 PKP016	che liquore ci va
 PKP022	sì
-PKP013	
-PKP013	
 PKP016	dai mangia la torta
 PKP013	non la xxxxxxx piatto
 PKP013	beh non l'hai neanche assaggiato era cos~ era uguale
@@ -1661,7 +1645,6 @@ PKP022	xxx guarda non c'ho
 PKP016	lo vuoi bere
 PKP016	no no
 PKP013	è nel tuo bicchiere però non importava che tu lo mettessi sulla torta che adesso
-PKP016	
 PKP013	sei costretta a mangia~
 PKP016	eh adesso torta al rum
 PKP016	mh è vero
@@ -1694,9 +1677,7 @@ PKP022	ecco già
 PKP016	almeno uno non lo butta
 PKP017	come sono venute
 PKP013	ehm stavo leggendo una cosa interessante
-PKP022	
 PKP017	di~ di~ diccela anche a noi
-PKP017	
 PKP017	praticamente dice che
 PKP022	il il whiskey
 PKP017	mh whiskey
@@ -1744,7 +1725,6 @@ PKP013	il famosco whisk~ il famoso whiskey jack daniel
 PKP022	famosco
 PKP016	che se passano di lì
 PKP017	la grappa mamma in vetrina avevano diverse cose
-PKP022	
 PKP017	però mi piace come negozio è ben rifornito
 PKP016	e e il bourbon dev'esser fatto al cinquantun percento di mais
 PKP022	mh
@@ -1765,7 +1745,6 @@ PKP022	anche i pomodori che erano gialli
 PKP013	anticamente
 PKP022	mhmh
 PKP017	e le usavano come piante di a~ da ornamento i pia~ ehm i pomodori è vero ila
-PKP017	
 PKP013	dice
 PKP017	boh
 PKP013	whiskey è il nome generico con cui si chiamano i distillati che si ottengono dalla fermentazione e distillazione dei cereali
@@ -1814,7 +1793,6 @@ PKP017	no
 PKP017	come non so il brunello di montalcino
 PKP013	anche lì trovi solo
 PKP017	comunque quella è fatta in botti di quercia
-PKP013	
 PKP016	del rum
 PKP013	ma è la sua botte mh cioè la botte che consigliata o si può scegliere da botte a botte
 PKP022	mi sa
@@ -1864,8 +1842,6 @@ PKP013	no sta parlando di altre cose sì
 PKP016	mh
 PKP017	infatti anche quel ragazzo l'ha detto per per la grappa mi sembra
 PKP017	però sì ehm
-PKP017	
-PKP016	
 PKP016	ha detto se la grappa poi è invecchiata in una botte dove è invecchiato del buon whiskey
 PKP013	allora cambia
 PKP016	eh perché prende anche un po' quello

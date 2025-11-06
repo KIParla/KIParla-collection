@@ -69,7 +69,6 @@ BOR001	esatto esatto esatto infatti infatti infatti
 BOR001	no no lo so parcheggia~
 BOR001	sì
 BOI015	anch'io per anda~ io sono andata alla partita
-BOR001	
 BOI016	e son scesa dall'autobus in via saragozza e l'ho fatta a piedi
 BOI015	sei andata a piedi eh insomma
 BOR001	sì
@@ -165,10 +164,7 @@ BOR001	la reputate comunque una zona tranq~
 BOR001	ehm
 BOI015	sicura della città o
 BOI016	meno
-BOI016	
 BOI015	io quando ho comprato la macchina dopo una settimana me la son trovata sui mattoni che m'han rubato quattro ruote
-BOR001	
-BOI016	
 BOI016	quindi
 BOI015	quindi insomma dipende
 BOI016	diciamo che c'era una situazione
@@ -227,7 +223,6 @@ BOI015	che è un aspetto di pettegolezzo di paese però
 BOR001	ti torna quando hai dei ra~ dei bambini che sono in giro ti torna molto utile insomma
 BOI015	è utile
 BOR001	eh sai anche casi di es~ estranei che possono
-BOI015	
 BOR001	avvicinarli eccetera c'era sempre il vicino o il genitore così che interveniva in qualsiasi situazione
 BOI015	mhmh
 BOI015	questo secondo me
@@ -288,7 +283,6 @@ BOI016	sì però via andrea costa è così se mai
 BOI015	io avevo proposto infatti di fare una una rotonda a fine via della barca che secondo me ci starebbe benissimo
 BOI016	te l'hanno fatta accettare così non è che
 BOR001	quello che era all'epoca l'assessore non facciam nomi
-BOI016	
 BOI016	del quartiere m'ha detto che non ci stava
 BOR001	per me ci sta benissimo di fare una rotonda in fin~ eh a fine via della barca secondo me risol~ ~verebbe tantissimo
 BOI016	mh
@@ -316,7 +310,6 @@ BOI016	a qualsiasi ora
 BOI015	io non la faccio mai la tangenziale
 BOR001	esatto
 BOR001	eh e
-BOI015	
 BOI015	quello un po' tutta la città che anche le macchine sono aumentate
 BOR001	anche se la città non si è ingrandita più di tanto però tutti hanno in famiglia ognuno c'ha la macchina ecco
 BOI015	sì
@@ -354,7 +347,6 @@ BOI015	prendon la multa
 BOI015	e
 BOI016	eh
 BOR001	prendendo la multa
-BOI015	
 BOI015	esa~
 BOI016	prendendo anche la multa
 BOI015	ho appena pagato una multa vabbè
@@ -380,9 +372,7 @@ BOI015	che noi non stavamo tanto fuori all'aperto
 BOR001	cioè si andava più nei locali quindi c'erano diverse discoteche
 BOI015	mhmh
 BOI016	e pub molto grandi con della musica insomma
-BOI015	
 BOI016	eh
-BOI015	
 BOI015	chiudi chiudi chiudi
 BOI015	e c'erano insomma era
 BOR001	molto molto diverso e invece edoardo da quel che mi dice loro stanno molto all'aperto
@@ -548,7 +538,6 @@ BOI015	di quando sì
 BOI016	è rimasto l'amadeus
 BOI016	x
 BOI015	siam dello scorso millennio
-BOR001	
 BOR001	no vabbè
 BOI015	no l'amadeus mi piace
 BOR001	si esatto è rimasto l'amadeus e poi dopo cosa è rimasto
@@ -589,7 +578,6 @@ BOR001	poi il centro di bologna è bello accipicchia
 BOI015	mhmh
 BOI016	sì
 BOI015	almeno a me piace di più
-BOR001	
 BOI016	e e il centro è cambiato secondo voi in questi anni
 BOI015	per me è migliorato per me era peggiorato qualche anno fa e invece p~ per me negli ultimi anni è molto più carino
 BOI016	anche secondo me
@@ -653,7 +641,6 @@ BOI015	che di notte lì cioè trovavi siringhe cose di questo tipo
 BOR001	ah dai
 BOI016	quindi forse è ma però non è prop~ cioè nel senso è un po' più spostato non è questa zona lì forse è un po'
 BOI015	e noi abbiam la fortuna anche di aver due maschi che vuol dire tanto eh e eh oh ragazzi è è così va bene tanto c'è poco da dire
-BOI015	
 BOI016	sì sì è vero è vero
 BOI015	può succedere un guaio anche a un maschio però
 BOI015	mhmh
@@ -672,7 +659,6 @@ BOI016	ti dico la verità eh
 BOI015	se c'era edoardoo assolutamente no
 BOI015	sì
 BOR001	no però a me e capita a me è capitato una volta che era tipo un vicino a sera
-BOI015	
 BOI015	che io sono passsata di lì e c'era edoardo con tutto sto gruppo di ragazzini che poi fanno un po' di casino eccetera una mamma diceva
 BOI015	ah passiamo con una figlia passiamo un po' lontani
 BOI016	però sai non ti davano una bella impressione insomma hai capito poi in realtà sono xx cioè e
@@ -712,7 +698,6 @@ BOI016	sì sì sì sì xxxxxxxx a piedi mhmh
 BOR001	anche con la si il xx
 BOR001	mh
 BOI015	sì
-BOR001	
 BOR001	sì sì
 BOR001	e vi ricordate per esempio
 BOR001	non so la prima volta che siete andati a san luca
@@ -720,13 +705,11 @@ BOI015	xx
 BOI016	allora la prima io xxx
 BOI015	mh no no
 BOR001	vagamente xx di essere proprio una ragazzina e mi ricordo che m~ mia mamma una volta si usava qua che era la penitenza cioè se facevi una cosa esatto così
-BOI016	
 BOI015	in ginocchio a san luca
 BOI015	e
 BOI015	esatto in ginocchio a san luca o a piedi a san luca esatto quindi sembrava qiuesta cosa qua mi ricordo
 BOI015	e alle medie di esserci andata
 BOR001	e a piedi e cioè che poi è una cosa xx che son tornata a casa e poi ho detto con mia mamma ma e cioè è una cosa che si fa tranquillamente insomma
-BOI015	
 BOR001	però era sempre un po' la penitenza andare a san luca a piedi esatto
 BOI015	ah non lo sapevo questo
 BOI016	sì sì sì era un~ una volta questa cosa
@@ -741,10 +724,8 @@ BOI015	assolutamente io sono legata al portico di san luca quello è il mio pref
 BOI016	poi mi piaccion poi tutti anche quelli del centro
 BOR001	una volta se davi tre pere alla juve andavi su a san luca a piedi per ringraziar~
 BOI015	mh
-BOR001	
 BOR001	bhe
 BOI015	speriamo fra dieci giorni di poterlo fare di nuovo
-BOR001	
 BOR001	e
 BOI015	sì no anche secondo me è il più bello quello di saragozza san luca
 BOR001	sì saragozza san luca secondo me è bellissimo poi son tutti molto belli anche in centro
@@ -778,7 +759,6 @@ BOR001	eh quello un pochino no~ non siamo mai stati considerati fra le città e 
 BOI016	no
 BOI015	e adesso siamo molto
 BOR001	è stata un po' di serie b sì sì adesso anche troppo perché poi ci dovremo abituare a un grande turismo di massa
-BOI015	
 BOI015	adesso sì se vai in centro
 BOI016	eh quanta gente senti parlare lingue straniere insomma
 BOR001	ormai la grossa mancanza di bologna è la mancanza di una metropolitana quello lì lo trovo scandaloso che nel duemila ormai e ventidue non ci sia una metropolitana perché ci vuole una metropolitana a bologna
@@ -813,7 +793,6 @@ BOI015	non voglio essere re~ razzista ma bologna ultimamente
 BOI016	no
 BOI016	è piena di persone che vengono da dal meridione puglia calabria sicilia per l'amor di dio benvenuti
 BOI015	però
-BOI016	
 BOI015	eh è aumentato tanta la la la popolazione secondo me e quindi
 BOI016	sì sì
 BOI015	anche qua tutti quei palazzoni nuovi che han costruito lì alla banca x li hai riempiti però le strade son rimaste quelle lì
@@ -897,7 +876,6 @@ BOI015	però da qua devi arrivare in stazione
 BOI015	devi arrivare in stazione dopo devi prendere il eh
 BOR001	treno che là e poi dopo la stazione è lontana dal centro proprio del paese e quindi anche lì devi farti un pezzo a piedi un quarto d'ora venti minuti quindi dopo un po' ti passa anche la voglia
 BOI015	sì
-BOR001	
 BOI016	sì sì
 BOI015	sapete in germania città più piccole di bologna han tutte la metropolitana eh
 BOI015	sì
@@ -1073,14 +1051,12 @@ BOI015	te le devi cercare te perché loro
 BOR001	x
 BOR001	sì
 BOI015	perciò lo stadio però voi lo vorreste spos~ cioè
-BOR001	
 BOI016	dal punto di vista traffico per la partita cioè
 BOI015	quando vado alla partita xxx son contento xxxx
 BOR001	no no xx esatto esatto esatto esatto esatto esatto
 BOI016	xx
 BOR001	quando non sono allo stadio xxxxx
 BOI015	bisognerebbe tenere piscina tutte le altre cose e spostare solo
-BOI015	
 BOI016	no allora
 BOI015	ah è bello avere un xxx è un pezzo di storia di bologna
 BOI015	allora a me xx cioè non è che poi mi dà particolarmente fastidio perché alla fine cosa fanno delle partite durante la settimana cosa ne fanno tre in un anno
@@ -1093,7 +1069,6 @@ BOI015	sì
 BOI016	eh m~ hai un piccolo disagio però non è che sia
 BOR001	quando il bologna vince va bene quando il bologna perde
 BOI015	xx
-BOI015	
 BOI016	sì quando devi andare allo stadio di notte non è comodo xxxxx di lì cioè
 BOR001	accipicchia ragazzi
 BOI015	sì
@@ -1122,10 +1097,7 @@ BOI015	x aspetta no no che rispondo
 BOI016	non posso ti chiamo fra un po'
 BOI015	madonna
 BOR001	mah
-BOI016	
 BOI015	brutalità
-BOR001	
-BOR001	
 BOR001	no no vabbè
 BOR001	mh
 BOR001	va bene e per il solo
@@ -1187,7 +1159,6 @@ BOR001	del lavoro
 BOI015	mhmh
 BOI015	nel mio settore poi sai per i ragazzi eh
 BOI016	non è più speriamo che poi dopo sia così ma sembra che
-BOI015	
 BOI015	in questo settore molto tecnico
 BOI016	a bologna c'è richiesta di molta manodopera o x
 BOI015	io vendo macchine utensili nella metalmeccanica e quello che mi dicono tutti i miei clienti che non trovano più
@@ -1306,7 +1277,6 @@ BOI015	sì
 BOR001	fondamentale ecco è proprio cambiato
 BOR001	mhmh
 BOI015	sì
-BOR001	
 BOR001	forse perché un po' anche tu speri che
 BOI015	cioè tuo figlio possa aspirare a
 BOI016	sì sì sì sì sì sì sì sì

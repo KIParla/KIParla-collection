@@ -14,28 +14,21 @@ BO152	molto antisgamo
 BO150	xxx
 ???	datti uno slego frank
 BO151	vai
-BO149	
-BO149	
 BO151	vez
 BO152	eh
 BO151	per favore
 BO151	sviz
-BO151	
 BO149	io intanto
 BO151	dai per favore datti sto slego
-BO151	
 BO151	io intanto aspetto la mia fetta di
 BO149	di torta e poi incomincio a parlare della torta di quanto è bella la torta mh
 BO150	eh anch'io
-BO150	
 BO149	gustosa cremosa al punto giusto
-BO151	
 BO151	oh guarda che
 BO150	per riuscire a descrivere correttamente la torta ci volgiono capacità
 BO152	devi averna man~
 BO150	la torta è una bugia
 BO149	devi averne mangiate molte
-BO151	
 BO151	crostata
 BO152	crostata
 BO150	vegana
@@ -45,7 +38,6 @@ BO149	gua~ quant'è bello questo manichino
 BO151	ah
 BO150	ah mi sa che non ti piacerà la mangerò io
 BO149	grazie x
-BO149	
 BO152	come minimo sarà dura come un sasso perché
 BO152	oddio sembra buonissimo
 BO149	perché è vegana
@@ -66,7 +58,6 @@ BO149	e aumentano di anno per
 BO149	eh in realtà non così tanto perché mia madre lo usa poco io
 BO149	beh
 BO151	a parte quando devo fingere che il salame sia salsiccia non lo uso
-BO150	
 BO149	in che senso
 BO150	se il salame è ancora abbastanza fresco
 BO149	sì
@@ -76,7 +67,6 @@ BO149	ah fai finta di
 BO149	fai che
 BO149	tagli il salame a pezzettini che tanto si
 BO150	sembra tipo pasta di salsiccia ci metti un po'di strutto per insaporirlo
-BO149	
 BO150	e viene abbastanza simile
 BO151	ah
 BO152	ma è necessario lo strutto
@@ -127,7 +117,6 @@ BO151	si mescola
 BO150	ah okay
 BO152	è quella di frank mi sa o no
 BO149	cosa
-BO152	
 BO151	ah q~ la vostra
 BO151	si c'èro anch'io
 BO149	l'ho mangiata anch'io
@@ -138,7 +127,6 @@ BO149	mi ricordo bellissimo al supermer~
 BO150	alle cinque di pomeriggio
 BO150	al supermercato
 BO149	questo serve sì
-BO150	
 BO149	gor~ due due panetti di gorgonzola sì serviran sicuro
 BO152	no okay
 BO149	beh li abbiamo usati
@@ -172,19 +160,13 @@ BO151	prendi pure frank io ho già il cappuccino
 BO152	ah quando
 BO150	grazie
 BO150	ah scusami ho fatto
-???	
 BO151	ah okay n acco
-???	
 BO149	qui
 BO150	non posso parlare se sta in mezzo
 BO149	scusi io
-BO152	
 BO149	la confondiamo
 BO149	mh oh poverino vuoi un po' di
 BO150	pasta frolla
-BO152	
-BO149	
-BO149	
 BO149	allora frank com'è questa torta
 BO151	descrivicela
 BO152	buona
@@ -200,7 +182,6 @@ BO151	adesso xxxxx
 BO151	secondo me
 ???	manca un po' di strutto
 BO150	lo vuoi
-BO149	
 ???	sicuramente però
 BO152	vai arrivo io allora
 BO149	come si fa a mangiarlo
@@ -208,8 +189,6 @@ BO149	beh oggi ho mangiato delle tagliatelle al ragù
 BO152	non sono abbastanza salutari
 BO149	no mh
 BO151	come no
-BO149	
-BO150	
 BO149	eh
 BO152	cos'è salutare allora
 BO152	è più salurtare quella crostata vegana delle tagliatelle
@@ -220,7 +199,6 @@ BO151	purtroppo salutare non vuol dire genuino
 BO150	uou
 ???	se fosse così anch'io mangerei benissimo
 BO149	grazie xxxx
-???	
 BO151	grazie
 BO149	un saluto al giorno
 BO152	ieri ho mangiato una pizza
@@ -233,7 +211,6 @@ BO152	e di' che è salutare
 BO149	quindi sì è la cosa più salutare che mangi nell'ultimo mese
 BO149	una
 BO151	ah
-BO150	
 BO152	però x secondo me le melanzane potrebbero svoltartela
 BO150	mh
 BO149	le melanzane potrebbero svolta~ il pesto di melanzane è
@@ -244,9 +221,7 @@ BO152	mh mh
 BO151	mh
 BO150	ma stai parlando del lardo
 BO149	nella pasta
-BO149	
 BO149	mh feta
-BO150	
 BO150	melanzane un botto di pepe
 BO152	frulli tutto metti nella pasta
 BO149	mh buono
@@ -259,7 +234,6 @@ BO149	ma quand'è che si mangia il pesto modenese e basta
 BO149	no vez eh
 BO152	farlo è verame~
 BO149	eh
-BO149	
 ???	mh
 BO151	ciao
 BO152	mh
@@ -304,7 +278,6 @@ BO152	eh è un forno
 BO151	è buonissimo
 BO152	è molto buono
 BO149	cioè io non ci ho mai preso niente ho solo visto gli altri mangiare le cose da lì e sembravano buonissime
-BO151	
 BO152	però costano un botto
 BO151	ah
 BO151	beh se ci passiamo io ci sto
@@ -312,7 +285,6 @@ BO152	una pizzetta la prendo
 BO151	adesso
 BO152	sì
 BO149	mh
-BO149	
 ???	diamine
 BO152	ciao
 BO151	eh eh
@@ -370,23 +342,17 @@ BO152	pastina
 BO151	ah no io non posso camminare cavolo
 BO151	ma
 BO149	qualcuno ha una cariola
-BO152	
-BO150	
 BO151	chiude alle otto e mezza il forno brisa
 BO152	mh
 BO149	dovremo passare adesso
 BO151	effe
 BO151	ci prepariamo il cibo per
 BO152	per dopo
-BO149	
 BO149	vedi che non era salutare la torta
 BO152	perché ci ha fatto venire in mente che dobbiamo andare a mangiare la pizza con lo strutto
 BO152	perché
-BO149	
 BO149	cioè col
 BO150	col pesto modenese
-BO149	
-BO152	
 BO150	cos'era la mia vita prima del pesto modenese
 BO150	eh signori miei
 BO152	dobbiamo fare un'altra serata tigelle allo stop
@@ -394,15 +360,12 @@ BO151	ma si compra
 BO150	mh mh
 BO150	sì da me ovunque
 BO149	qualsiasi posto anche in anche in tabaccheria trovi
-BO152	
-BO149	
 BO151	mh
 BO150	il tabaccaio che ti dà il pesto al posto del tabacco
 ???	oh vuoi fumarti un po' di
 BO149	sì
 BO150	più che altro la sagra di zocca
 BO152	xxx
-BO150	
 ???	eh c'è stata
 BO150	perché
 BO152	a ottobre
@@ -445,7 +408,6 @@ BO150	sfan
 BO152	cugini sardi o mh marchi~
 BO150	sardi
 BO149	perfetto
-BO150	
 BO151	allora possiamo barattare
 BO150	andiamo in sardegna noi loro vengono a zocca
 BO152	esatto
@@ -480,7 +442,6 @@ BO152	mh è più giocoso non so
 BO152	comunque vi giuro a fine settembre ottobre non c'era nessuno
 BO149	a parte sabato e domenica che è arrivata gente
 BO151	e sei andata a giocare a paintball
-BO152	
 BO151	no però si potrebbe fare davvero tutto perché non c'è nessuno ma proprio
 BO152	sparo contro le case
 BO149	era inquietante perché eravamo
@@ -499,12 +460,10 @@ BO150	io sì
 BO149	io ho tirato della terra su quel tetto
 BO152	beh sul sul tetto di casa tua sì
 BO150	è vero
-BO152	
 BO149	mh
 BO150	che era anche abbastanza comodo
 BO151	parkour
 BO149	cioè c'era della roba lì non c'erano i chiodi
-???	
 BO151	eh sì mi pare di sì
 BO150	no
 BO149	no no
@@ -521,11 +480,8 @@ BO151	non ci stavamo sparando dell'acqua addosso
 BO150	anche
 BO149	sì di tutto abbiamo fatto da quel
 BO149	okay
-BO150	
 BO149	cioè era il tetto dei trappoloni
-BO150	
 BO152	eh
-BO151	
 ???	beh avevamo i secchi avevamo il
 ???	prego
 BO149	le volevamo chiedere se ci fosse posto fuori
@@ -535,16 +491,11 @@ BO151	a frank
 BO149	no a me
 BO150	ah okay
 BO149	a franci l'abbiamo fatto il trappolone è quasi andato in coma
-BO152	
 BO151	no io volevo
-BO150	
-BO150	
 BO150	easy
-BO151	
 ???	in coma
 BO152	eh mh
 BO151	buttarvi l'acqua addosso dal nulla ma
-BO150	
 BO152	xxxx
 ???	non mi ricordo se l'ho fatto
 BO149	va bene grazie
@@ -563,7 +514,6 @@ BO151	ah grazie
 BO152	cavolo
 BO151	è più difficile
 BO151	ci dovrei provare
-BO150	
 BO150	comunque
 BO152	mi sa che vado a fare i corsi di formazione per fare il supplente
 BO150	sì
@@ -572,11 +522,9 @@ BO150	what
 BO151	devo
 BO149	per insegnare cosa
 BO149	cosa ti è successo
-BO150	
 BO151	ma perché ho scoperto che è una
 BO150	pagano
 BO151	no è una bazza che lo faccio gratis e ho già la prima metà dei ci effe u
-BO149	
 BO149	ah
 BO152	eh allora sì
 BO150	cos'hai
@@ -615,15 +563,12 @@ BO152	ah
 BO152	anche matteo
 BO151	solo che
 BO150	ma
-BO151	
 BO150	vi hanno mai chiamato
 BO152	cazzo matteo il bidello vorrei tanto vederlo
 BO149	no no
-BO150	
 BO152	che ti passa i cannoni ora
 BO152	no macché
 BO149	però lui può fare il tecnico di laboratorio e io no
-BO151	
 BO149	lui può fare il tecnico di laboratorio mado'
 BO152	giusto
 BO152	perché puoi fare il tecnico di laboratorio solo se sei uscito dallo scientifico
@@ -632,7 +577,6 @@ BO150	quindi io
 BO152	per dare un lavoro a quelli dello scientifico
 BO152	credo di no
 BO150	e non importa che laurea hai
-BO152	
 BO151	importa solo da che liceo sei uscito
 BO151	ma
 BO150	a me sembra una gran
@@ -640,32 +584,25 @@ BO152	eh serve a dare lavoro a quelli dei licei frank
 BO151	lo è
 BO149	però
 BO150	beh cioè
-BO149	
 BO149	il bidello storicamente serve a dare del lavoro a qualcuno
 BO151	non a fare il bidello
 BO150	ma infatti è imbarazzante anche da me in accademia
 BO151	av~ avete capito
-BO151	
 BO151	da me in accademia ci sono quattro persone in portineria ma non servono a niente
 BO151	tu chiedi una cosa non ti sanno rispondere
 BO151	ti rispondono
 BO150	devi chiedere
 BO152	da noi ci sono solamente addetti alla sicurezza
-BO151	
 BO151	ma
 BO150	potrebbe essercene uno
 BO150	che girano con le pistole
 BO151	no da noi è pieno
 BO150	ah
 BO151	e fumano dove non dovrebbero fumare e ti dicono di andare a fumare da un'altra parte
-BO151	
 BO150	non fumate qua
 BO151	però c'han la pistola che gli dici no
-BO150	
 BO150	subito
 BO151	mi scusi
-BO152	
-BO149	
 BO151	xxxzi in facoltà da ale c'erano i pulotti
 BO151	si vede che
 BO152	incominciano ad aprire
@@ -675,18 +612,11 @@ BO149	alla
 BO149	il eh e lui c~
 BO149	ci siamo passati di fianco
 BO150	e lui mi faceva tutto ah ma no ma guarda lì ma stanno anche in ascensore ma ti pare
-BO150	
-BO149	
 BO150	un sacco di polizia ma cos'è
-BO151	
 BO149	mado'
-BO150	
 BO149	cioè io mi sentirei sicuro devo dire eh
 BO149	io dicevo boh hanno fatto bene cioè
 BO150	nel senso siete lì a distruggere robe ogni due per tre
-BO151	
-BO149	
-BO150	
 BO149	io mi sen~
 BO150	però non glie lo potevo dire
 BO149	ah io mi setirei un sacco al sicuro a avere i polizio~ nel senso
@@ -702,14 +632,10 @@ BO149	sì in effetti è veramente
 BO149	no no eh
 BO150	erano veramente tanti in effe~ cioè
 BO151	ah okay okay
-BO149	
 BO149	passando così dall'autobus vedendo l'edificio ne ho visti f~
 BO150	una decina
 BO151	no allora migliore aspettare
-BO151	
 BO150	erano a lezione oh
-BO149	
-BO151	
 BO150	imparano anche loro
 BO151	allora no okay ovviamente sì
 BO151	no vabbè
@@ -743,18 +669,13 @@ BO150	cioè fare un cazzo potenzialmente
 BO150	eh
 BO152	sì c'hanno avevano dei mi~ cioè poi io non sono esperto di armi dei mitra cre~ cioè
 BO151	mh
-BO150	
 BO151	delle pistole lunghe
 BO151	un mitra
-BO152	
 BO150	sì esato
 BO151	pistole lunghe
-BO151	
 BO150	con tanti colpi
 BO151	che sparano veloci esatto
-BO151	
 BO150	son rapide
-BO151	
 BO150	no però cavolo stare sempre in una camionetta lì fermi
 BO151	no infatti si impezzavano quelle dell'università
 BO150	ehi bella
@@ -763,13 +684,9 @@ BO151	sì
 BO152	sì sì sì
 BO152	guarda questa forchetta è fatta solo per destri
 BO150	io non
-BO151	
 BO150	perché
-BO152	
 BO149	perché devo tenerla così
-BO151	
 BO152	come son fatte le forchette per sinistri
-BO152	
 BO151	non sono fatte perché a nessuno importa
 BO149	per fare del male per fare i sinistri
 BO150	eh
@@ -813,12 +730,8 @@ BO149	ah vabbè ma io la uso a caso
 BO149	e allora solo la mia è diversa
 BO152	oh tieni questa è per mancini
 BO152	no
-BO151	
-BO149	
-BO151	
 BO152	questa è per neutri
 BO149	ormai ho già tagliato
-BO149	
 BO150	è per gender neutri
 BO152	infatti ha un sacco di ergonomia cavolo
 BO150	ha senso che potrebbe finire cinquanta e cinquanta cioè in effetti non ha senso che sia così
@@ -830,14 +743,11 @@ BO150	dal demonio
 BO150	probabilmente sì
 BO151	c'è il gene del demonio però
 BO152	eh sì
-BO152	
 BO152	una volta ho provato a parlarne con lorenzo e lui continuava a dire eh no
 BO150	perché è una cosa che scegli tu
-BO152	
 BO150	e io no ti ti giuro
 BO150	sì come se
 BO149	come se fosse suo
-BO152	
 BO149	sì perché
 BO151	mh
 BO149	ma in che senso
@@ -846,45 +756,27 @@ BO152	us~ usi la destra
 BO152	quando
 BO150	sei abituato a usare la destra e la sinistra quando sei abituato a usare la sinistra quindi ero tipo eh no
 BO149	vero liberale
-BO152	
 BO149	nessuno mi ha mai abituato a fare niente
 BO150	se sei negro te lo sei scelto
-BO151	
-BO151	
 BO149	beh sì dai quando incominci il gioco
-BO149	
 BO151	esatto
 BO151	pelle
-BO150	
 BO152	quando nasci tu non
-BO150	
 BO151	non non sei capitato nel menu di creazione dei personaggi io sì mi ricordo una figata
-BO151	
-BO151	
 BO149	sì sì sì
-BO151	
 BO152	è stato molto divertente
-BO150	
 BO151	dovevo scegliere tutte le classi quelle robe lì
 BO150	io mi ricordo che però non son mai stato mh bravo quindi
 BO150	ma
 BO151	tu sei un paladino frank
 BO150	sì io sono un paladino
-BO150	
 BO151	xx
 BO149	non si direbbe
-BO150	
-BO150	
 BO149	non si direbbe
 BO150	ah io ho fatto il tasto random in alto
-BO151	
-BO149	
-BO152	
-BO151	
 BO150	pigrizia
 BO151	due dadi
 BO150	infatti c'ho una coda
-BO151	
 BO150	davanti è il risultato
 BO151	io sì otto mani avevo all'inizio eh
 BO150	beh eh sì eh perché non è detto che arrivi nel posto giusto xx
@@ -904,9 +796,7 @@ BO151	sì sì sì
 BO150	solo che quando nasci dopo cioè
 BO151	xxx
 BO150	per definizione è se il tautaggio è piccolo è bello definito poi si espande perché cresci e quindi ti diventan quelle macchie di
-BO150	
 BO150	esa~
-BO150	
 BO151	esatto
 BO150	com'è che si chiama vitiligine no
 BO151	eh
@@ -918,7 +808,6 @@ BO151	ah quella bianca
 BO151	xx
 BO150	eh quella bianca e nera cioè bianca e nera può essere anche bianca e bianca
 BO152	ah
-BO151	
 BO152	si vede un po' di meno
 BO152	sei più sei più scuro sembra più bianco
 BO151	xxx
@@ -956,7 +845,6 @@ BO151	ma dai
 BO150	che strano
 BO151	dei forni
 BO150	lucia che mi condivide mh
-BO152	
 BO151	perché
 BO149	non lo so
 BO151	ma non è un po' grassa
@@ -964,20 +852,15 @@ BO151	ma non è un po' grassa
 BO152	ah sì
 BO151	ma è un video
 BO150	cosa sta succedendo sì è un video ma che ca
-BO149	
 BO151	sta ingrassando
-BO150	
-BO150	
 BO151	ma non è ricardo oh sì è ricardo
 BO150	sì
 BO149	allora è quella giusta frank
-BO150	
 BO151	se è ricardo è quella giusta
 BO152	ma me ne aveva condiviso una
 BO150	chi è ricahrdo
 BO150	chi è richa~ come chi è richar~
 BO149	è tipo il meme immortale
-BO150	
 BO151	quello che non morirà mai
 BO151	cioè ma
 BO150	in~ ma infatti ma perché va bene per tutto
@@ -1010,11 +893,9 @@ BO150	sono quasi le sette cioè mancano venticinque minuti ventitré minuti
 BO152	non dire quasi
 BO151	io invece
 BO149	ventitré minuti alle sette
-BO152	
 BO152	vado da mio fratello
 BO152	e gli dico mi spieghi questo meme
 BO150	e lui
-BO150	
 BO152	chiedigli di ricardo
 BO149	io non capisco il meme
 BO152	di ray charles
@@ -1041,7 +922,6 @@ BO150	mh
 BO150	nobody alle tre di notte
 BO150	e poi l~ la televisione sai quelle vecchie a tubo catodico che fanno crak
 BO152	intanto
-BO152	
 BO150	okay
 BO151	eh
 BO150	okay ho trovato
@@ -1054,56 +934,30 @@ BO150	non capisco
 BO149	l~ lo lo fanno senza un motivo cioè eh
 BO150	sì è quello il senso
 BO150	è già trasceso il meme non è più la
-BO151	
-BO149	
-BO150	
-BO149	
-BO150	
-BO150	
-BO150	
 BO150	sempre lucia
 BO151	devi comprarti quelle mutande frank
-BO151	
 BO150	è è orribile
-BO151	
 BO150	è orrib~
 BO151	è bellissimo frank
-BO150	
 BO150	è la nuova
 BO151	il nuovo fisico aureo
-BO151	
 BO150	il problema è che l'ho fatto vedere a mio fratello
-BO151	
 BO150	e e vabbè mio fratello è rimasto tipo così
 BO151	xx
 BO150	eh ha detto ah fallo vedere a pa' che era a fianco
-BO151	
 BO151	faccio vedere a mio padre
-BO149	
-BO150	
 BO151	comunque che bello che in questa registrazione ci sarà il nome riccardo ricardo
 BO151	co~
 BO152	ma è fatto benissimo
-BO150	
-BO150	
-BO151	
 BO150	okay adesso che abbiamo avuto la dose di di ricardo
-BO150	
 BO149	più che altro frank visto su quel telefono è proprio
-BO152	
 BO150	è vero
 BO152	cioè è è è trash allo stato puro
-BO151	
 BO152	è fantastico
 BO150	no
 BO151	sembra di essere nel passato e vedere le cose del futuro
-BO151	
-BO150	
 BO150	un'altra cosa che potremmo provare a fare è fare una canzone
 BO152	e sperare che tra qualche anno finisca in una meme e diventa~ capitalizzare su spotify perché raggiungiamo il boom di
-BO152	
-BO149	
-BO151	
 BO150	beh basta far fare una canzone
 BO151	una una che sai che può fittare bene con i
 BO152	tropicana
@@ -1122,7 +976,6 @@ BO149	maracaibo
 BO151	ah e cioè cioè
 BO149	mare forza
 BO149	ogni due linee cambia
-BO151	
 BO150	nove
 BO151	è una storia assurda
 BO149	ogni due righe
@@ -1149,15 +1002,11 @@ BO149	lu colombo
 BO151	lou
 BO150	ah lou
 BO151	lou tipo legge
-BO149	
 BO149	no
-BO150	
-BO152	
 BO152	io secondo me non l'ho mai sentita ho solo sentito gente che
 BO152	diceva maracaibo
 BO151	come la maggior parte delle canzoni
 BO150	ah
-BO152	
 BO151	del mondo
 BO149	beh oddio
 BO151	beh cioè
@@ -1168,11 +1017,8 @@ BO152	ma cos'è invece
 BO151	no io tutta
 BO150	è una pubblicità
 BO149	xx il cobra
-BO151	
 BO149	sì
 BO151	eh se vuoi comprare un cobra
-BO150	
-BO152	
 BO152	no è una canzone di
 BO150	di una tipo degli anni settanta ottanta
 BO151	no però dice nel testo il cobra non è un serpente ma
@@ -1181,38 +1027,22 @@ BO151	non mi ricordo più
 BO152	eh
 BO150	non mi ricordo
 BO152	eh nessuno lo sa cos'è
-BO149	
 BO150	beh oddio
 BO151	solo cosa non è
-BO151	
-BO150	
 BO152	non è un serpente
-BO151	
 BO150	balto
-BO149	
-BO150	
 BO149	cosa
-BO150	
 BO151	balto
 BO150	balto eh
 BO149	non era né alto né basso era balto
-BO151	
-BO149	
 BO150	esatto
-BO151	
 BO149	dai il cane lupo
 BO150	per quello sapeva solo cosa non era
-BO151	
-BO149	
-BO152	
 BO150	oddio
-BO151	
 BO150	no
 BO150	tra l'altro avevo letto una meme bellissima
 BO150	con scritto balto non s'è rotto il culo nel millenovecentoventicinque per per portare i medicinali eh
 BO149	per lasciare che i vostri figli non si vaccinassero tipo
-BO151	
-BO151	
 BO150	triste
 BO149	mi faccio un drummino poi
 BO149	eh non voglio
@@ -1230,7 +1060,6 @@ BO151	wow
 BO150	ah è una festa da cinque
 BO150	c'è marina il suo moroso anna io
 BO151	e un cugino random
-BO150	
 BO151	xxx
 BO151	ah
 BO149	beh ottima scelta

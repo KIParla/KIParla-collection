@@ -29,18 +29,14 @@ BOR005	no
 BOI013	e vi piace questa zona
 BOI012	no
 BOI013	a me no a me no
-BOR005	
 BOI012	e perché non vi piace
 BOI013	perché viviamo su una strada troppo trafficata per quello che mi riguarda
 BOR005	non ci sono negozi non ci sono non c'è niente nessun servizio
 BOR005	e
 BOI013	come migliorereste la vostra zona
-BOI012	
 BOR005	ah beh se avessi la possibilità di far venire dei negozi e i negozianti
-BOI012	
 BOI013	e quant'altro così
 BOR005	chiuderei questa strada e la farei solamente per noi
-BOI013	
 BOI013	troppo trafficata di camion macchine troppo
 BOR005	non se~ si sta più
 BOI012	e oltre al traffico ci sono anche altri problemi
@@ -126,7 +122,6 @@ BOI012	che prima cioè e io abitavo e enri~ io abitavo in stazione centrale
 BOI013	mh
 BOI012	io tornavo a casa senza problemi
 BOR005	sì poi hanno fatto esplodere una bomba gina è cambiato tutto
-BOI013	
 BOI012	che cavolo dici
 BOI013	ah che cavolo dici
 BOI013	non è la bomba enrico
@@ -263,7 +258,6 @@ BOI013	ci noi ci siamo andati
 BOI012	tis~ ti ricordi ve
 BOI012	ah gina cioè io non c~
 BOR005	non son mai andato all'ultimo dell'anno in piazza maggiore cioè ho cominciato a andarci da quando
-BOI012	
 BOI013	stiamo as~ stiamo assieme perché prima non si andava l'ultimo dell'anno in piazza maggiore
 BOI013	eh eh eh
 BOI012	e com'era l'ultimo che ci siamo andati
@@ -320,11 +314,7 @@ BOR005	mh a me è capitato di suonarci sì qua~ qualche volta ma
 BOR005	ah beh allora
 BOI012	magari hai anche raccimolato qualche soldo
 BOR005	poca roba
-BOI012	
-BOR005	
-BOR005	
 BOR005	vabbè
-BOR005	
 BOR005	beh insomma
 BOR005	almeno
 BOI012	hai suonato sotto i portici poco non è
@@ -332,7 +322,6 @@ BOI012	eh sì eh
 BOR005	in piazza maggiore anche avoglia
 BOI013	ah
 BOI013	beppe maniglia
-BOI012	
 BOR005	eh
 BOI013	che poi adesso i portici sono diventati patrimonio esatto patrimonio dell'umanità
 BOR005	dell'unesco
@@ -382,7 +371,6 @@ BOR005	no no no no
 BOI013	però sapevi dell'esistenza della funivia
 BOI013	sì sì sì sì
 BOR005	vabbè sempre a piedi sono andata
-BOI012	
 BOI012	ma sì ma è s~
 BOR005	è un sacco di tempo che non c'è più
 BOI012	ah
@@ -411,7 +399,6 @@ BOI012	non lo sapevo
 BOI013	sì
 BOI012	vedi
 BOR005	un po' come i laureandi non devono andare sulla torre degli asinelli se no non si laureano
-BOI012	
 BOR005	sono quelle vecchie
 BOI012	o di attraversare piazza maggiore per diagonale
 BOI013	sì ma sono come dire
@@ -419,12 +406,8 @@ BOI013	ah sì
 BOI012	non lo sapevo mi~
 BOI013	sai quante volte l'ho attraversata per diagonale piazza maggiore io
 BOI012	ma mica ti dovevi laureare tu
-BOI012	
 BOI013	sì ma vabbè ma infatti non mi son laureato ma non credo che sia per quello
-BOI012	
-BOI013	
 BOI012	perché sei ciuccio
-BOI013	
 BOI013	oh
 BOI012	eh beh che bo'
 BOR005	tu hai visto
@@ -579,12 +562,10 @@ BOI012	fuori appunto dall'emilia romagna che non ha i portici non fa un po' stra
 BOI013	sì beh quando piove
 BOI012	sì perché è talmente io non compro
 BOR005	a torre melissa non ci sono i portici
-BOI013	
 BOI012	però c'è il mare
 BOI013	e non piove
 BOI012	no piove più a torre melissa che a bologna
 BOI013	quando piove oh ci son gli uragani
-BOR005	
 BOI013	e le valanghe
 BOR005	e valanghe che vengono giù
 BOR005	mhmh
@@ -610,9 +591,7 @@ BOR005	ah da quando han fatto bologna li han fatti i portici
 BOI012	quindi più o meno
 BOI012	ah millequattrocento mh
 BOR005	milletrecento
-BOI013	
 BOR005	penso di sì
-BOI013	
 BOI013	ma questo mo c'ho me~ sì i portici sono i più
 BOI013	è come l'università che sono
 BOI013	è l'unis~ ~versità più
@@ -627,7 +606,6 @@ BOR005	mh
 BOR005	invece parlando un attimo tralasciando bologna
 BOR005	parliamo un attimo di voi
 BOR005	così per conoscerci
-BOR005	
 BOI012	che lavoro fate
 BOR005	io faccio l'operaio metalmeccanico
 BOI013	mhmh
@@ -669,7 +647,6 @@ BOR005	no io no
 BOI013	cambiereste lavoro
 BOI012	io voglio andare in pensio~
 BOR005	io voglio andare in pensione
-BOI012	
 BOI013	voglio andare in pensione basta io
 BOI013	trenta
 BOI012	largo ai giovani lasciamo largo ai giovani
@@ -706,7 +683,6 @@ BOR005	psichiatrici
 BOI012	mhmh
 BOI013	ma sì via
 BOI012	perché son chiusi o son chiusi i manicomi
-BOI013	
 BOR005	e noi siamo
 BOR005	ah
 BOI013	e quindi
@@ -722,7 +698,6 @@ BOI013	eh eh
 BOI012	no ci sono i privati che fanno le scelte
 BOI013	beh ma i privati non sono lì per quello
 BOI012	eh
-BOR005	
 BOR005	ma poi in base
 BOR005	essendoci quindi molte patologie in più
 BOR005	mh
@@ -735,9 +710,6 @@ BOI013	che si rico~ io già faccio fatica
 BOR005	a ricordarmi i nomi degli anziani
 BOI013	mh
 BOR005	li chiamo come mi passa in ma~
-BOI013	
-BOI013	
-BOI013	
 BOI013	non me li ricordo più
 BOI013	no no basta dopo i cinquantanni bisogna stare a casa
 BOI013	e farsi la pensione
@@ -796,7 +768,6 @@ BOI013	se vuoi lavorare
 BOI012	se vuoi lavorare
 BOI013	vabbè che si lavora male là
 BOI012	sono ques~ eh appunto
-BOI013	
 BOI013	se vuoi lavorare ti prendi i tuoi cinquecento euro
 BOI013	e fai
 BOI013	e fai dodici ore
@@ -812,7 +783,6 @@ BOR005	ah ah eh
 BOI012	quindi secondo te sarebbe meglio andare all'estero
 BOI012	ma ma secondo te perché i ragazzi vanno all'estero
 BOI012	perché i giovani vanno all'estero perché gli piace andare all'estero
-BOI012	
 BOI012	ci vanno perché guadagnan di più
 BOI012	se trovi dei lavori che sono più
 BOI012	vicini a alla tua idea di
@@ -868,14 +838,9 @@ BOR005	e dormo
 BOI012	mh
 BOI013	fondamentalmente
 BOI012	io guardo io quando posso guardo la tv
-BOR005	
 BOI013	e che programmi guardi
-BOI013	
 BOR005	devo proprio dirlo
-BOI013	
-BOI013	
 BOR005	no no no oh eh mica sono ignorantona
-BOI013	
 BOR005	mi piace la mattina mi guardo agorà
 BOI013	mhmh
 BOI012	perché
@@ -890,7 +855,6 @@ BOI013	dopo mi ascolto il telegiornale dell'emilia romagna
 BOI013	perché è la mia città è la nostra regione
 BOI013	guardo molto queste queste cose qui poi le teleno le telenovelas
 BOR005	e poi alle otto son già a letto che dormo
-BOR005	
 BOI013	e nel pomeriggio quando sei a casa che quindi non lavori ti capita di guardare la tv
 BOI012	sì
 BOI013	sei sempre dalla tata a xx
@@ -912,7 +876,6 @@ BOI012	poi chiu chiusi dentro
 BOI013	all'antonella
 BOI012	chiusi dentro nei reparti
 BOI012	che ha l'alzheimer
-BOR005	
 BOI012	e tu la tv la guardi
 BOI012	sì
 BOR005	sì
@@ -923,7 +886,6 @@ BOR005	mh che
 BOI012	di solito hai un genere preferito per i film o
 BOI012	ma ehm no cioè ci son dei film che mi piacciono e dei film un po' meno ma come genere no cioè
 BOR005	mi piacciono i film di fantascienza ma li ho già visti tutti mi sa
-BOR005	
 BOI013	tu gina guardi film
 BOI013	no
 BOI013	a me piace
@@ -939,14 +901,9 @@ BOI013	guardandolo gina mi tocca guardarlo anche a me
 BOR005	te mi mi
 BOI013	mh
 BOI012	mercoledì mi devo guardare chi l'ha visto
-BOI013	
 BOI012	martedì carta bianca io c'ho i miei
 BOR005	martedì ci sei te in tv ti dobbiamo vedere
-BOI013	
-BOI012	
-BOR005	
 BOI012	che scherzi
-BOI013	
 BOI013	eh mica mo è da tutti avere il cugino in tv
 BOR005	posso dirlo
 BOI013	eh
@@ -964,8 +921,6 @@ BOI012	no è una cosa che non eh la sento lontana da me
 BOR005	come
 BOI013	tu gina mai andata allo stadio
 BOR005	sì io c'andavo seguivo il catanzaro
-BOI013	
-BOI013	
 BOR005	eh sì sì che c'andavo
 BOI013	abbonamento
 BOI013	no anda~ no no però andavamo anche fu~
@@ -979,28 +934,20 @@ BOI012	mhmh
 BOR005	poca roba
 BOI013	tu gina hai fatto sport
 BOR005	no no la poltrona
-BOI012	
 BOI012	figurati che ho vinto anche una gara non son passato neanche dal podio perché
 BOI012	dovevo andare
 BOR005	mi ha telefonato lei a dirmi che c'era il compleanno di michela mi sembra
-BOI013	
 BOI012	veronica
 BOI012	o veronica
 BOI012	e in fretta e furia son scappato via non ho fatto non ho visto neanche
 BOR005	sul podio
-BOI012	
 BOI012	pure ho vinto ha vinto eh
 BOR005	l'unica volta che sono arrivato primo non mi sono ne~
-BOI012	
 BOR005	gustato neanche la vittoria io
-BOI013	
-BOI012	
 BOR005	grazie a
-BOI013	
 BOI012	era beh oh c'era la torta
 BOI013	a ro~ a rompi a rompiscatole qua
 BOR005	eh c'era la torta
-BOR005	
 BOR005	invece parlando di musica
 BOR005	a bologna ci sono tanti artisti ce ne sono anche stati
 BOI012	e a voi è mai capitato di incontrare qualche artista bolognese in giro per strada
@@ -1018,7 +965,6 @@ BOI012	questi sì
 BOI013	io io li frequento i grandi artisti
 BOR005	beppe beppe maniglia
 BOI013	mh
-BOI012	
 BOR005	no sì mi vedo con domenico che era il bassista di lucio di
 BOI012	mhmh
 BOR005	eh li lo conosco è un mio amico
@@ -1074,25 +1020,19 @@ BOI013	la musica classica dove non c'è nessuno che che canta
 BOR005	orrore
 BOI012	mh
 BOI013	cioè ma non esi~
-BOI012	
-BOI013	
-BOR005	
 BOI013	che poi
 BOR005	bel
 BOI013	parlando di musica quando eravate giovani vi capitava di andare a ballare in discoteca
-BOI013	
 BOI012	living
 BOI013	mi capitava prima che conoscessi lei mi capitava dopo
 BOI012	poi sei diventato vecchio
 BOI013	finiti di giochi perché lei no in discoteca non ci vengo non mi piace non c'andiamo
 BOI012	no invece c'andavo
 BOI013	al cinema non c'andiamo perché m'addormento
-BOI013	
 BOI012	risparmi
 BOI012	e
 BOI012	e là non c'andiamo xx cioè
 BOR005	centro commerciale
-BOI013	
 BOI012	centro commerciale
 BOI013	lo sport di gina è il centro commerciale
 BOR005	un po'
@@ -1105,7 +1045,6 @@ BOI013	e qua e qua a bologna andavi a ballare qualche volta
 BOR005	al living sì
 BOI013	ah avevo capito a v~ piacenza
 BOR005	di xxri~ anche a piacenza
-BOI013	
 BOR005	poi basta
 BOI012	e ci sono ancora questi posti
 BOI013	no
@@ -1118,7 +1057,6 @@ BOI013	sì
 BOI012	basta
 BOI013	c'è più niente
 BOR005	è aperto ci siamo andati prima a prendere i soldi
-BOI013	
 BOI012	è lì vicino
 BOI012	ah discoteche mh io che
 BOI013	cioè anche lì che non ci vado sono quarant'anni che non vado in discoteca cioè
@@ -1141,7 +1079,6 @@ BOI013	evitiamo
 BOI013	evitare è meglio che
 BOI012	curare
 BOR005	prevenire era poi
-BOI013	
 BOR005	però è meglio curare
 BOR005	bene siamo
 BOR005	alla fine vi ringrazio per

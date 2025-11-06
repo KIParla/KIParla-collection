@@ -1,8 +1,6 @@
 TOI048	xxx questo coso
 TOR001	oddio poi sarebbe terribile
 TOI048	esatto
-TOR001	
-TOR001	
 TOI048	okay in che quartiere di torino vivi
 TOR001	quartiere aurora
 TOR001	okay e come ti trovi
@@ -13,7 +11,6 @@ TOI048	sì mi piace molto per la posizione
 TOR001	un po' meno per i servizi
 TOI048	okay cioè
 TOR001	nel senso che non non ci sono servizi cioè ci sono gli autobus che passano
-TOI048	
 TOI048	passano gli autobus passa il diciotto ma non ci sono panettieri
 TOI048	non ci sono negozietti
 TOR001	macellerie nulla
@@ -40,7 +37,6 @@ TOI048	piccoli locali non c'è nulla
 TOI048	vabbe c'è una pizzeria terrificante
 TOI048	che dà su un parchetto altrettanto terrificante a questa pizzeria veremente eh è un luogo
 TOR001	bo che mi lascia
-TOI048	
 TOI048	un po' sospetta meglio non
 TOR001	non andare a fondo okay
 TOI048	okay
@@ -58,26 +54,21 @@ TOI048	mi piace perché il corso ha gli alberi
 TOI048	e sono belli
 TOI048	poi comunque io abito in una casa eh che ha un piccolo giardino
 TOR001	quindi probabilmente mi faccio influenzare anche da dal contorno
-TOI048	
 TOR001	poi mi piace quel quel punto di torino sì
 TOR001	mhmh
 TOR001	e che caratteristiche ha che te lo fanno piacere
 TOI048	cioè perché dici che ti piace
 TOR001	appunto perché il corso ha questi alberi grandissimi che non hanno ancora tagliato
 TOR001	okay
-TOI048	
 TOI048	eh
 TOI048	e poi perché in realtà sei a metà tra appunto barriera e centro sei proprio
 TOR001	nel nel punto di mezzo e quindi vedi passare di tutto è molto interessante
-TOI048	
 TOR001	dal punto di vista antropologico
-TOI048	
 TOI048	no poi è carino è carino perché veramente
 TOI048	fai due passi e sei sul lungo dora
 TOI048	c'è mh tutto il parchetto che vabbè però di fronte al cimitero monumentale che comunque è carino è una zona verde
 TOR001	per questo mi piace mh
 TOI048	okay e che persone abitano nel quartiere
-TOI048	
 TOR001	ma devo dirti il
 TOI048	no non il signor rossi però
 TOR001	no no nel senso se devo dirti l'estrazione sociale
@@ -105,7 +96,6 @@ TOI048	sì sì assolutamente
 TOR001	non non passo una serata lì cioè o sto a casa o se no mi sposto
 TOI048	okay
 TOR001	sì mi sposto a piedi normalmente arrivo appunto in largo rossini che poi è il mio primo punto
-TOI048	
 TOR001	di civiltà
 TOR001	okay
 TOR001	eh appunto quali sono le zone che frequenti di più
@@ -127,10 +117,8 @@ TOR001	totale
 TOI048	davvero
 TOI048	non
 TOR001	una zona che frequentavo moltissimo un tempo e non frequento proprio più è san salvario
-TOI048	
 TOR001	san salvario per me è l'inferno
 TOR001	okay
-TOI048	
 TOR001	ma qua sta diventando anche un xxx
 TOI048	siamo in prossimità si mi sento di dire
 TOR001	negativity
@@ -139,10 +127,7 @@ TOI048	però appunto e invece mi pare che la zona di porta palazzo sia ancora sp
 TOR001	e poi si vede un po' di tutto insomma
 TOI048	si
 TOI048	puoi startene tranquilla a bere un vino e poi dopo per girare
-TOI048	
 TOI048	giri l'angolo e vedi il delirio
-TOR001	
-TOR001	
 TOI048	però non soi creano ancora le resse la sera
 TOR001	sì
 TOI048	no vero
@@ -194,13 +179,9 @@ TOI048	mhmh
 TOR001	é impossibile stare fuori dai locali non so mi sembra un delirio
 TOI048	mhmh
 TOR001	e poi sarà la vecchiaia
-TOI048	
 TOI048	ma mi prende malissimo l'idea di quei poveracci che dormono lì sopra
 TOR001	cioè veramente non ce la posso fare a star fuori a
-TOI048	
 TOR001	sarà la vecchiaia quando avevo vent'anni ci andavo
-TOI048	
-TOI048	
 TOI048	ma
 TOR001	eh
 TOR001	eh io non sono mai andata tipo
@@ -210,10 +191,8 @@ TOI048	e quindi non mi veniva neanche la fantasia di andare era un bordello
 TOI048	eh sì
 TOI048	ma io ricordo
 TOR001	xxx sono
-TOR001	
 TOI048	perché eri qua da prima non xx sembra che parli matusalemme
 TOR001	ricordo i primissimi tempi in cui venivo all'università
-TOI048	
 TOI048	quindi nel lontano duemila e due
 TOI048	eh i primi anni di università era una zona terrificante
 TOR001	da un altro punto di vista nel senso che era abbandonata a sè stessa
@@ -230,7 +209,6 @@ TOI048	sì
 TOI048	ma se esci con la macchina vabbé torino in generale non puoi uscire con la macchina
 TOI048	io che abito lontana a volte magari vado al baretti
 TOR001	che è un peccato che quel gioiellino sia lì in mezzo al delirio in cui a volte ci rinuncio
-TOI048	
 TOI048	non puoi non puoi proprio
 TOR001	ah
 TOR001	mh mh mh
@@ -287,13 +265,11 @@ TOI048	esatto
 TOR001	sì ma però questa conversazione spero
 TOI048	quanti anni avete novanta
 TOR001	ma infatti volevo dirti che io di tutta questa zona l'unico posto in cui vado è il cinema massimo
-TOR001	
 TOI048	perfetto
 TOR001	tutto il resto
 TOR001	perfetto anche io
 TOI048	uno dei posti preferiti
 TOR001	esatto
-TOI048	
 TOR001	e magari mi mangio una piadina prima di andare al cinema
 TOI048	se proprio proprio
 TOI048	o dopo dipende da che film ho visto
@@ -335,7 +311,6 @@ TOI048	da raggiungere qualcuno nel~ nella civiltà
 TOR001	uso la macchina
 TOI048	okay
 TOR001	tranne oggi che ho preso il diciotto
-TOR001	
 TOI048	ti sei divertita con il diciotto
 TOI048	no però non ho guidato per un giorno
 TOR001	che già è qualcosa
@@ -357,7 +332,6 @@ TOR001	insegno italiano agli stranieri
 TOR001	okay
 TOR001	e mi racconti qualcosa del tuo lavoro
 TOI048	ti piace che con che tipo di persone di trovi a ad avere a che fare
-TOI048	
 TOI048	sì insegno italiano in uno sprar
 TOR001	quindi hai richiedenti asilo
 TOI048	mh mh
@@ -367,7 +341,6 @@ TOI048	che devono fare il percorso di inserimento
 TOI048	eh mh
 TOI048	il lavoro di per sè mi piace molto
 TOR001	mi piace molto l'utenza con cui lavoro
-TOI048	
 TOI048	è stata scelta appositamente
 TOI048	e ho anche
 TOI048	un bel rapporto con con l'equipe di colleghi
@@ -375,15 +348,11 @@ TOI048	è un lavoro che emotivamente smuove molto
 TOI048	e che è difficile da
 TOI048	da arginare è è un'emotività difficile da arginare quella che ti provocano
 TOR001	eh
-TOI048	
 TOI048	i nostri utenti
 TOR001	che non sono utenti i miei studenti
-TOI048	
 TOI048	i loro utenti perché i miei colleghi li chiamano utenti
 TOR001	io li chiamo studenti
 TOR001	aiuto
-TOI048	
-TOI048	
 TOR001	o anche persone eh va bene ogni tanto
 TOI048	ah anche quello
 TOI048	sì dicevo però eh
@@ -401,7 +370,6 @@ TOR001	si creano dei legami comunque
 TOI048	mh mh
 TOI048	per quanto poi si possa avere dei battibecchi
 TOR001	sì quindi il mio lavoro funziona
-TOR001	
 TOR001	okay eh mh
 TOR001	appunto ah potendo scegliere andresti avanti a lavorare a torino
 TOR001	a vivere a torino
@@ -409,7 +377,6 @@ TOI048	o preferiresti invece spostarti
 TOR001	se potessi scegliere
 TOI048	sì
 TOR001	no bè mi vorrei spostare almeno per un po'
-TOI048	
 TOR001	poi penso che torino rimane sempre eh la casa
 TOI048	xxx
 TOR001	eh però sì mi sposterei assolutamente
@@ -457,7 +424,6 @@ TOR001	mh mh mh
 TOI048	tu hai sempre vissuto in aurora o hai vissuto in altre parti
 TOI048	no io in dieci anni ho cambiato dieci case quindi dieci zone
 TOR001	no non è vero
-TOI048	
 TOI048	questo è l'undicesimo anno è in questa casa ci sto da due
 TOR001	quindi aspetta non esageriamo
 TOI048	hai rallentato quindi
@@ -487,18 +453,15 @@ TOI048	vabbè
 TOI048	e succedeva di tutto
 TOI048	ogni notte sì c'erano mh
 TOR001	tante risse
-TOI048	
 TOR001	eh
 TOI048	okay
 TOR001	tantissime risse sì era proprio era un disagio
-TOI048	
 TOR001	era proprio un disagio
 TOI048	ci credo
 TOI048	eh spesso la mattina c'era gente sbronza svenuta a terra
 TOR001	cioè era proprio un disagio
 TOI048	okay era un po' hard core
 TOR001	mh però la casa era carina poi si vedeva benissimo la dora
-TOI048	
 TOI048	e poi ho abitato a porta palazzo
 TOR001	tanti tanto tempo cambiando case però
 TOI048	mh mh
@@ -506,8 +469,6 @@ TOI048	infatti la mia in realtà porta palazzo è la mia zona prediletta
 TOR001	eh poi ho abitato anche in piazza castello
 TOI048	wow
 TOR001	per pochissimo tempo
-TOI048	
-TOI048	
 TOI048	giusto il tempo in cui la
 TOI048	la tizia che mi affitava la stanza si finiva il suo dottorato a parigi
 TOR001	poi lei è tornata e io me ne sono dovuta ovviamente andare
@@ -535,8 +496,6 @@ TOI048	molti odiano quest~ questa cosa di della città
 TOI048	perché dicono è qua che si vede la contraddizione di torino
 TOI048	però eh le città è ovvio che sono così
 TOI048	e a me piace un sacco perché lì pare che si possa star tutti insieme
-TOR001	
-TOI048	
 TOR001	non ho mai avuto paura a porta palazzo per dire
 TOI048	mh
 TOR001	mentre quando abitavo in corso vercelli ne avevo parecchia
@@ -569,7 +528,6 @@ TOR001	quell'entrata quell'ingresso mi piace tantitissimo
 TOI048	okay
 TOI048	sì e mi piace
 TOR001	una cosa così che non ti so spiegare
-TOI048	
 TOI048	mi piace molto l'attraversamento della torre dell'orologio
 TOR001	al all'altro
 TOI048	mh mh
@@ -583,14 +541,11 @@ TOI048	però ci andavo molto
 TOR001	sì
 TOI048	okay
 TOR001	sì sì ci andavo spessissimo
-TOI048	
 TOI048	ma andavo dai contadini piemontesi però eh
 TOR001	mi dispiace
 TOI048	anch~ io
 TOR001	eh sì
-TOI048	
 TOR001	ma perché mi fregano gli altri
-TOI048	
 TOI048	anche nonostante il mio colore
 TOR001	potrebbe
 TOI048	trarli in inganno
@@ -608,7 +563,6 @@ TOR001	a parte xxx locali
 TOI048	è proprio bellissima
 TOR001	mh mh
 TOR001	e poi hanno questi banchi che sono praticamente mono prodotto
-TOI048	
 TOR001	sì ma son~ belli proprio
 TOI048	oggi solo carciofi
 TOI048	ho notato che c'è una signora
@@ -627,10 +581,8 @@ TOI048	no
 TOI048	con delle verdure che non so sono geneticamente modificate
 TOI048	ha delle storie enormi cavolfiori giganteschi
 TOR001	e non c'è mai nessuno lì davanti
-TOI048	
 TOI048	ma lei si ostina
 TOR001	vuole prender la piazza
-TOR001	
 TOI048	vuole trasformarsi anche lei in piemontese
 TOI048	sì
 TOR001	oh dai poi il tipo delle uova
@@ -663,7 +615,6 @@ TOI048	tantissimo
 TOI048	sì quindi mi piace molto passeggiare in queste zone
 TOI048	eh e poi appena posso entro in un cinema
 TOR001	non qualunque ma selezionato
-TOR001	
 TOI048	per esempio che cinema frequenti
 TOI048	beh appunto frequento innan~ più di tutti il cinema massimo
 TOI048	ma anche i ci~ i fratelli marx che sono vicino a casa mia
@@ -699,7 +650,6 @@ TOI048	okay
 TOR001	sempre
 TOR001	e cos'altro sempre
 TOI048	giorno e notte
-TOR001	
 TOI048	e cos'altro vorresti insegnare se non italiano per stranieri
 TOR001	ah mi piacerebbe insegnare italiano storia e geografia alle medie sicuro
 TOI048	ah sì
@@ -713,7 +663,6 @@ TOI048	quindi potendo scegliere faresti questo lavoro
 TOR001	sì
 TOI048	okay e ne hai fatti altri in passato
 TOR001	mh sì sì ne ho fatti tanti altri
-TOI048	
 TOR001	eh li devo li devo elencare
 TOR001	no se vuoi raccontare qualco~ cioè se ne vuoi citare qualcuno che
 TOR001	non lo so ric~ non so che ti ricorda qualche episodio
@@ -733,7 +682,6 @@ TOI048	anch'io l'ho fatto un po'
 TOI048	mi frustrava da morire perché poi pensavo
 TOI048	ma porca miseria ma io domani ho una verifica di filosofia
 TOR001	e son qua a servire la pizza capricciosa a sto scemo
-TOI048	
 TOR001	ma mia decisione nessuno mi ha mai obbligata
 TOI048	sì sì
 TOI048	però comunque volevo farlo e poi però mi mi mi arrabbiavo
@@ -759,7 +707,6 @@ TOI048	quindi mh
 TOI048	ho inziato a pensare vabbé potrei insegnare la mia lingua a qualcun altro
 TOR001	così imparo anche io un'altra lingua avevo questo trip che
 TOR001	mh mh
-TOI048	
 TOI048	non verificabile
 TOI048	e poi il caso vuole che eh
 TOI048	ho fatto l'affidataria diurna con i servizi sociali
@@ -770,7 +717,6 @@ TOR001	appena arrivati in italia
 TOR001	mh mh
 TOI048	wow
 TOR001	che dovevano imparare l'italiano
-TOI048	
 TOI048	ma è stato proprio così
 TOI048	e quindi io mh poi mi sono buttata in questo lavoro
 TOI048	non avevo le competenze perché avevo la laurea in lettere
@@ -784,7 +730,6 @@ TOR001	poi più che altro quindi
 TOI048	mh mh mh mh
 TOI048	mh poi è stata anche una motivazione in più anche per mh per laurearmi in specialistica
 TOR001	perché comunque prevedevo che senza quella avrei avuto molte porte chiuse
-TOR001	
 TOI048	certo
 TOI048	e poi durante un corso qua all'università
 TOI048	del professor telmon
@@ -795,12 +740,10 @@ TOI048	e mi aveva detto ma vieni a provare a insegnare italiano agli stranieri l
 TOI048	visto che lo stai studiando visto che
 TOI048	e quindi io mi sono innamorata
 TOR001	proprio di questa vita
-TOI048	
 TOR001	ed era il duemila e undici quindi molto tempo fa
 TOI048	passato un po'
 TOI048	per cui sì sono stata una fedelissima
 TOR001	volontaria asai come una soldatina
-TOI048	
 TOI048	fino a che non ho preso una supplenza alle medie
 TOI048	per cui era impensabile
 TOR001	e però anche durante la mia supplenza non ho mai lasciato il l'insegnamento agli stranieri
@@ -817,7 +760,6 @@ TOI048	certo ho insegnato eh
 TOI048	chiaramente ho
 TOI048	poi sono in spagna
 TOR001	quel pezzo che lasciato a metà lì
-TOI048	
 TOI048	insegnavo italiano all'università agli spagnoli
 TOR001	quindi un livello completamente diverso
 TOI048	diverso certo
@@ -833,7 +775,6 @@ TOR001	mh
 TOI048	avrei il terrore non saprei dove mettere le mani
 TOI048	sì
 TOR001	no per me eh
-TOI048	
 TOI048	ecco
 TOI048	no io inizio ad avere il terrore poi per i livelli troppo alti
 TOR001	perché forse perché ormai son così abituata a insegnare a livelli bassi
@@ -855,7 +796,6 @@ TOI048	okay
 TOI048	e quindi mi perdo
 TOI048	per cui inzio a pensare vabbè porto quel testo
 TOR001	troviamo ma sì il periodo ipotetico lo facciamo da quel testo
-TOI048	
 TOI048	non ce la posso fare perché so che mi capiscono
 TOR001	e quindi
 TOR001	punti in alto quindi
@@ -864,7 +804,6 @@ TOR001	no cioè sono più tranquilla con quelli di livello alto
 TOI048	perché so che alla peggio mi capiscono
 TOR001	ah okay
 TOI048	comunque c'è un terreno comune
-TOR001	
 TOR001	eh e invece quelli di livello più basso
 TOR001	a volte non so proprio
 TOI048	cioè ho il terrore che non capiscano una parola
@@ -872,13 +811,11 @@ TOI048	è so~ ed è vero
 TOR001	non lo capiscono
 TOR001	capito
 TOI048	e questo però mi terrorizza
-TOR001	
 TOI048	okay
 TOI048	ma mette a dura prova
 TOI048	la l
 TOI048	la pazienza io ho scoperto di avere una pazienza infinita
 TOR001	che probabilmente non ho con eh la mia famiglia e il mio fidanzato
-TOI048	
 TOI048	e i miei amici non ce l'ho
 TOI048	ma eh
 TOI048	mi piace quando qualche qualche ca~ mio caro
@@ -886,7 +823,6 @@ TOI048	viene a vedermi eh viene a vedere delle mie lezioni
 TOI048	perché scoprono una me che non conoscono
 TOI048	quindi ho avuto una cara amica che ha partecipato ad una lezione mia e mi ha detto
 TOR001	ma tu sta pazienza esattamente da dove la prendi
-TOI048	
 TOR001	perché é vero viene fuori una roba boh
 TOI048	certo
 TOR001	sì
@@ -906,7 +842,6 @@ TOR001	e invece adesso sì
 TOR001	okay e come bambini e adolescenti come ti trovi
 TOI048	a insegnare
 TOR001	lì perdo la pazienza
-TOI048	
 TOI048	beh con i bambini e gli adolescenti é belliss~ gli adolescenti mi piacciono da matti
 TOR001	secondo me sono sì
 TOR001	ah sì
@@ -922,7 +857,6 @@ TOR001	non lo so é strano
 TOI048	mh mh mh
 TOI048	una una una mezcla no é spagnolo
 TOR001	una
-TOI048	
 TOR001	un mélange
 TOI048	ecco un mélange
 TOI048	sì
@@ -960,7 +894,6 @@ TOR001	sono di livello alto
 TOI048	mh
 TOR001	sì
 TOI048	eh sì
-TOI048	
 TOI048	devo dire perché
 TOR001	nonostante la mia richiesta di essere inserita nel livello basso
 TOI048	ah okay
@@ -1023,7 +956,6 @@ TOI048	io andavo in via gené quindi
 TOI048	addirittura io con un progetto lavoravo al mattino con dei bambini
 TOR001	alle elementari che poi andavano al doposcuola e li rincotravo perché io andavo a far lezione ad altri
 TOR001	okay
-TOI048	
 TOI048	eh sì ad esempio ha ques~ ha questo tipo di servizi
 TOI048	tra l'altro con persone però che lavorano veramente bene
 TOI048	ci sono molti volontari ma ci sono
@@ -1057,7 +989,6 @@ TOR001	questo é da dire
 TOI048	mh mh mh mh mh beh
 TOI048	sì
 TOR001	io sono molto contenta di
-TOI048	
 TOI048	di aver di essere rimasta lì qualche anno sì
 TOR001	sì sì
 TOR001	okay
