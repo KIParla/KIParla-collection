@@ -1,0 +1,77 @@
+name: Build Collection
+
+on:
+  repository_dispatch:
+    types: [module-released]
+  workflow_dispatch:
+    inputs:
+      module:
+        description: 'Module that triggered the build (optional, informational)'
+        required: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout KIParla-collection
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pandas
+
+      - name: Clone module repos
+        run: |
+          git clone --depth 1 https://github.com/KIParla/KIP.git      /tmp/KIP
+          git clone --depth 1 https://github.com/KIParla/KIPasti.git  /tmp/KIPasti
+          git clone --depth 1 https://github.com/KIParla/ParlaBO.git  /tmp/ParlaBO
+          git clone --depth 1 https://github.com/KIParla/ParlaTO.git  /tmp/ParlaTO
+
+      - name: Sync TSV files
+        run: |
+          for module in KIP KIPasti ParlaBO ParlaTO; do
+            if [ -d "/tmp/$module/tsv" ]; then
+              cp /tmp/$module/tsv/*.tsv tsv/ 2>/dev/null || true
+            fi
+          done
+
+      - name: Sync EAF files
+        run: |
+          for module in KIP KIPasti ParlaBO ParlaTO; do
+            if [ -d "/tmp/$module/eaf" ]; then
+              cp /tmp/$module/eaf/*.eaf eaf/ 2>/dev/null || true
+            fi
+          done
+
+      - name: Regenerate linear formats
+        run: |
+          for f in tsv/*.tsv; do
+            python tsv2formats.py "$f"
+          done
+
+      - name: Clone tools repo
+        run: git clone --depth 1 https://github.com/KIParla/tools.git /tmp/tools
+
+      - name: Merge metadata
+        run: |
+          python /tmp/tools/merge_metadata.py \
+            --modules /tmp/KIP /tmp/KIPasti /tmp/ParlaBO /tmp/ParlaTO \
+            --output-dir metadata/
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tsv/ eaf/ linear-jefferson/ linear-orthographic/ metadata/
+          if ! git diff --cached --quiet; then
+            TRIGGER="${{ github.event.client_payload.module || github.event.inputs.module || 'manual' }}"
+            git commit -m "chore: rebuild collection (trigger: $TRIGGER)"
+            git push
+          else
+            echo "No changes to commit."
+          fi
