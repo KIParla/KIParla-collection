@@ -48,14 +48,15 @@ jobs:
             fi
           done
 
-      - name: Regenerate linear formats
-        run: |
-          for f in tsv/*.tsv; do
-            python tsv2formats.py "$f"
-          done
-
       - name: Clone tools repo
         run: git clone --depth 1 https://github.com/KIParla/tools.git /tmp/tools
+
+      - name: Regenerate linear formats
+        run: |
+          python /tmp/tools/tsv2formats.py \
+            -i tsv/ \
+            --out_jefferson linear-jefferson \
+            --out_orthographic linear-orthographic
 
       - name: Merge metadata
         run: |
