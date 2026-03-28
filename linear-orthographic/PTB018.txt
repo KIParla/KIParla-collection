@@ -1,41 +1,37 @@
-TOI056	è sempre stata in barriera
+TOR001	è sempre stata in barriera
 TOI056	sì
-TOR001	x
-TOI056	
-TOR001	la lingua materna è l'italiano perché son figlia di italiani
+TOI056	x
+TOI056	la lingua materna è l'italiano perché son figlia di italiani
 TOR001	okay
 TOR001	c'è il gatto qua
-TOI056	
 TOI056	si può distinguere
 TOI056	tra torinese e piemontese quale le piace di più
-TOR001	io direi torinese
-TOI056	se sì se è sempre stata qui direi anch'io torinese
-TOR001	ne ho studiate diverse ma non ne parlo nessuna
-TOI056	ah okay
-TOR001	xx
+TOI056	io direi torinese
+TOR001	se sì se è sempre stata qui direi anch'io torinese
+TOI056	ne ho studiate diverse ma non ne parlo nessuna
+TOR001	ah okay
+TOI056	xx
 TOR001	perfetto
 TOR001	c'è tutto
 TOR001	okay
-TOI056	grazie mille
-TOR001	questa è sua
+TOR001	grazie mille
+TOI056	questa è sua
 TOR001	okay perfetto
 TOR001	allora
 TOR001	aspetti che
 TOR001	okay
-TOI056	dunque in quale quartiere vive
-TOR001	barriera di milano
-TOI056	perfetto
-TOR001	
-TOR001	
-TOI056	e come si trova nel quartiere
-TOR001	ci sono nata e mi trovo benissimo
+TOR001	dunque in quale quartiere vive
+TOI056	barriera di milano
+TOR001	perfetto
+TOR001	e come si trova nel quartiere
+TOI056	ci sono nata e mi trovo benissimo
 TOR001	okay
-TOI056	quali sono le cose che a lei piacciono di più del suo quartiere
+TOR001	quali sono le cose che a lei piacciono di più del suo quartiere
 TOI056	la vivacità culturale e la provenienza diciamo
 TOI056	anche multietnica
 TOI056	non soltanto per quelli ultimi arrivati
-TOR001	ma anche per le varie fasi di emigrazione
-TOI056	mh mh
+TOI056	ma anche per le varie fasi di emigrazione
+TOR001	mh mh
 TOI056	che ci sono state nel tempo
 TOI056	sia quelle prima dei contatidini verso la città
 TOI056	successivamente da quelli
@@ -43,28 +39,28 @@ TOI056	delle altre regioni d'italia particolarmente
 TOI056	tra il cinquanta e il sessanta dal meridione in su
 TOI056	attualmente abbiamo le
 TOI056	la volta degli immigrati che arrivano da più lontano
-TOR001	e questo è quanto
+TOI056	e questo è quanto
 TOR001	okay
 TOR001	e come eh le sembra che ehm
-TOI056	che che differenza le sembra che abbiano questi tre tipi di immigrazione che adesso ha citato
+TOR001	che che differenza le sembra che abbiano questi tre tipi di immigrazione che adesso ha citato
 TOI056	beh
-TOR001	hanno tutte quante un inizio di rigetto da parte dei dei nativi
-TOI056	mh mh
+TOI056	hanno tutte quante un inizio di rigetto da parte dei dei nativi
+TOR001	mh mh
 TOI056	perché è sempre un qualchecuno che arriva da fuori
 TOI056	che ritieni di non conoscere
 TOI056	ad un certo punto avviene l'amalgama e tutto si risolve
 TOI056	per l'ultima è ancora in fase di rodaggio
-TOR001	per cui staremo a vedere ma io mi auguro che la cosa succederà com'è successa in precedenza
+TOI056	per cui staremo a vedere ma io mi auguro che la cosa succederà com'è successa in precedenza
 TOR001	mh mh mh mh
 TOR001	e ehm ha dei ricordi relativi alle prime due migrazioni cioè sia dalla
 TOR001	diciamo dalle campagne alla città
-TOI056	sia poi dai meridionali diciamo
+TOR001	sia poi dai meridionali diciamo
 TOI056	dalla campagna alla città posso dire
-TOR001	già il padre di mio padre
-TOI056	mh mh
+TOI056	già il padre di mio padre
+TOR001	mh mh
 TOI056	diciamo così
-TOR001	viveva nelle cascine fuori di torino
-TOI056	mh mh
+TOI056	viveva nelle cascine fuori di torino
+TOR001	mh mh
 TOI056	perché questo era il suo lavoro
 TOI056	e poi
 TOI056	e poi comun~ con gli anni
@@ -77,38 +73,36 @@ TOI056	cioè prima la scolarizzazione poi i diplomi poi la lauree e si sono inte
 TOI056	e questo suppongo oltre a essere il ciclo che ha fatto la mia famiglia
 TOI056	deve essere dovrebbe per lo meno essere
 TOI056	lo stesso ciclo che fanno
-TOR001	qualsiasi immigrato che arrivi sia di d~ di dall'italia che che dall'estero
+TOI056	qualsiasi immigrato che arrivi sia di d~ di dall'italia che che dall'estero
 TOR001	certo
-TOI056	e in effetti
+TOR001	e in effetti
 TOI056	purtroppo però
-TOR001	l'ascensore sociale si è fermato di molto
+TOI056	l'ascensore sociale si è fermato di molto
 TOR001	mh
 TOR001	parecchio
 TOR001	e in effetti però
-TOI056	eh ehm questo percorso dicia~ diciamo si è già realizzato con appunto le migrazioni da altre regioni d'italia no
-TOR001	eh sì
+TOR001	eh ehm questo percorso dicia~ diciamo si è già realizzato con appunto le migrazioni da altre regioni d'italia no
+TOI056	eh sì
 TOR001	è gia è già concluso cioè già concluso si è già compiuto
-TOI056	e si ricorda però come le persone del posto ricevevano la migrazione migrazione meridionale
+TOR001	e si ricorda però come le persone del posto ricevevano la migrazione migrazione meridionale
 TOI056	ricevevano male
-TOR001	è una banalità continuarlo a dire
-TOI056	no no certo
-TOR001	pe~ perché
-TOI056	
-TOI056	
-TOR001	è stata detta da tutti e da chiunque
-TOI056	sì sì
+TOI056	è una banalità continuarlo a dire
+TOR001	no no certo
+TOI056	pe~ perché
+TOI056	è stata detta da tutti e da chiunque
+TOR001	sì sì
 TOI056	e nel millenovecentocinquanta
-TOR001	io mi son sposata nel cinquantaquattro
-TOI056	mh mh
+TOI056	io mi son sposata nel cinquantaquattro
+TOR001	mh mh
 TOI056	per affittare un alloggio dovevi dire che non eri meridionale
 TOI056	perché non affittavano
-TOR001	a a
-TOI056	mh
+TOI056	a a
+TOR001	mh
 TOI056	a meridionale e il che era completamente un assurdo
 TOI056	poi gradatamente la cosa si è cambiata
 TOI056	la cosa che mi spiace però
-TOR001	se posso aggiungere un'opinione
-TOI056	certo
+TOI056	se posso aggiungere un'opinione
+TOR001	certo
 TOI056	personale
 TOI056	è che
 TOI056	parecchi degli immigrati di quel tempo
@@ -116,13 +110,12 @@ TOI056	sono attualmente
 TOI056	i più accesi difensori
 TOI056	di diciamo
 TOI056	quelli che loro ritengono il loro diritto
-TOR001	di priorità su quelli che arrivano dopo
+TOI056	di priorità su quelli che arrivano dopo
 TOR001	mh mh
 TOR001	mh sì
-TOR001	
 TOR001	e si ricorda appunto degli episodi concreti relativi alla a questa immigrazione meridionale
 TOR001	cioè nel senso è è noto a tutti no che l'accoglienza non fosse stata troppo positiva
-TOI056	però appunto le chiedo se ha dei ricordi specifici
+TOR001	però appunto le chiedo se ha dei ricordi specifici
 TOI056	mah io
 TOI056	personalmente ho avuto delle compagne di scuola
 TOI056	che x arrivavano dal sud ma con cui
@@ -167,18 +160,15 @@ TOI056	che avevano già di per sé stesso
 TOI056	meno chance per x familiari
 TOI056	e si trovavano ancora in più difficoltà
 TOI056	per cui
-TOR001	feci fare a mia figlia tedesco
-TOI056	
+TOI056	feci fare a mia figlia tedesco
 TOI056	perché doveva
 TOI056	doveva essere
 TOI056	e niente al contatto con gli altri tant'è
 TOI056	che forse di torinese nelle classi delle medie
-TOR001	c'era solo lei
-TOI056	
-TOR001	
+TOI056	c'era solo lei
 TOR001	okay
 TOR001	e ehm
-TOI056	quindi assegnavano la lingua più difficile ai più svantaggiati sostanzialmente
+TOR001	quindi assegnavano la lingua più difficile ai più svantaggiati sostanzialmente
 TOI056	in questa scuola sì adesso si chiama bombio prima si chiamava baretti
 TOI056	ma eh quando poi f~ furono
 TOI056	approvati allora i degre~ i decreti delegati
@@ -192,27 +182,26 @@ TOI056	in modo vario
 TOI056	e tenendo anche conto di avere
 TOI056	alcuni di un tipo alcuni di un altro alcuni di altro
 TOI056	non solo per la lingua
-TOR001	ma proprio per eh la
-TOI056	certo
-TOR001	cu~ comunità per vi risiede
+TOI056	ma proprio per eh la
+TOR001	certo
+TOI056	cu~ comunità per vi risiede
 TOR001	certo
 TOR001	e eh mh s~ curiosità a margine
-TOI056	e s~ sua figlia in queste scuole come si è trovata secondo lei
+TOR001	e s~ sua figlia in queste scuole come si è trovata secondo lei
 TOI056	benissimo
 TOI056	x mia figlia non ha avuto nessun problema
 TOI056	non veniva sì perché succedeva
-TOR001	eh questo è un pettegolezzo se vuole
-TOI056	
+TOI056	eh questo è un pettegolezzo se vuole
 TOI056	che i figli de~ degli impiegati dei commercianti
 TOI056	tendevano ad inviare alle medie
 TOI056	i ragazzi in altre scuole
 TOI056	perché avevano un maggior tono
 TOI056	io questo non naturalmente non l'ho fatto
-TOR001	e mia figlia si è trovata benissimo
+TOI056	e mia figlia si è trovata benissimo
 TOR001	okay
 TOR001	d'accordo
 TOR001	e invece
-TOI056	di questa migrazione più recente cioè di persone che vengono dall'estero secondo lei adesso qual è la situazione
+TOR001	di questa migrazione più recente cioè di persone che vengono dall'estero secondo lei adesso qual è la situazione
 TOI056	adesso siamo su tutti i periodici
 TOI056	e su tutti i giornali
 TOI056	e specialmente la barriera di milano
@@ -235,9 +224,7 @@ TOI056	adesso abbiamo quella del senegal o quella dei nigeriani
 TOI056	è vero che spacciano moltissimo
 TOI056	questa è particolarmente
 TOI056	una delle zone più
-TOR001	più rinomate e su cui hanno più scritto la via qui di fianco
-TOI056	
-TOI056	
+TOI056	più rinomate e su cui hanno più scritto la via qui di fianco
 TOI056	è ritenuta il posto dello spaccio
 TOI056	ed è vero che spacciano
 TOI056	però purtroppo è vero
@@ -251,8 +238,8 @@ TOI056	eh eh eh e purtroppo questo
 TOI056	ad x abbiamo avuto le elezioni
 TOI056	e il risultato
 TOI056	è stato quello che è stato
-TOR001	che
-TOI056	mh
+TOI056	che
+TOR001	mh
 TOI056	dimostra le persone non hanno capito
 TOI056	che
 TOI056	che non si
@@ -265,36 +252,33 @@ TOI056	assolutamente io e poi gli altri vadano
 TOI056	di essere qualcosa che cambia
 TOI056	purtroppo non è così
 TOI056	e oggigiorno dopo le elezioni
-TOR001	è stato dimostrato
-TOI056	sì
-TOR001	
-TOR001	
-TOI056	c'è anche
+TOI056	è stato dimostrato
+TOR001	sì
+TOR001	c'è anche
 TOI056	che le barriere che hanno votato di più
 TOI056	l~
 TOI056	gli integralisti
 TOI056	diciamo così
 TOI056	sono proprio barriera di milano
-TOR001	e borgata b~ zona cinque e zona sei
+TOI056	e borgata b~ zona cinque e zona sei
 TOR001	mh mh mh mh
-TOI056	sì
-TOR001	con terrore mi son guardata eh
-TOI056	e le percentuali dei risultati
-TOR001	le percentuali
-TOI056	io non le ho ancora per quartiere
-TOR001	x
+TOR001	sì
+TOI056	con terrore mi son guardata eh
+TOR001	e le percentuali dei risultati
+TOI056	le percentuali
+TOR001	io non le ho ancora per quartiere
+TOI056	x
 TOR001	ho un po' paura del
-TOI056	
-TOR001	sì la cinque e la sei ha vinto la lega
+TOI056	sì la cinque e la sei ha vinto la lega
 TOR001	caspita
 TOR001	mamma mia
-TOI056	beh eh eh e in generale no comunque mh
+TOR001	beh eh eh e in generale no comunque mh
 TOI056	eh eh in generale sì ma con una maggiore
 TOI056	una maggiora cosa e questa
-TOR001	mi dispiace molto
+TOI056	mi dispiace molto
 TOR001	certo
 TOR001	ehm ci sono però secondo lei
-TOI056	eh dei segnali positivi in questa situazione
+TOR001	eh dei segnali positivi in questa situazione
 TOI056	mah eh sì i segnali positivi
 TOI056	c'è nel terreno stesso della barriera
 TOI056	perché io adesso non conosco le altre
@@ -305,14 +289,12 @@ TOI056	tutto quanto si fa nel limite del possibile
 TOI056	certamente con l'aumento della disoccupazione
 TOI056	con la maggiore povertà
 TOI056	tutte le cose
-TOR001	diventano più difficili
-TOI056	certo
+TOI056	diventano più difficili
+TOR001	certo
 TOI056	e e questo crea una situazione di disagio
 TOI056	e che ognuno cerca di difendere
 TOI056	il proprio territorio
-TOI056	
-TOR001	diciamo così
-TOI056	
+TOI056	diciamo così
 TOI056	in un modo alquanto esagerato a volte
 TOI056	perché
 TOI056	un occhio di convivenza bisogna averlo per forza
@@ -320,19 +302,19 @@ TOI056	sicuramente
 TOI056	se la situazione economica fosse migliore
 TOI056	se non m~ ma~ mancassero tanti posit di lavoro
 TOI056	tutto sarebbe più facile
-TOR001	diciamo
-TOI056	mh mh
+TOI056	diciamo
+TOR001	mh mh
 TOI056	nelle scuole
 TOI056	x io faccio parte
 TOI056	frequento
 TOI056	da eh mh più di vent'anni
-TOR001	il centro donna di questa zona
-TOI056	mh mh
+TOI056	il centro donna di questa zona
+TOR001	mh mh
 TOI056	il centro donna è una
 TOI056	non è un'associazione
 TOI056	è un uno sportello
-TOR001	che è nato nel millenovecentonovanta
-TOI056	mh mh
+TOI056	che è nato nel millenovecentonovanta
+TOR001	mh mh
 TOI056	perché allora c'erano alcune donne
 TOI056	che si interessavano di problemi della pace
 TOI056	e dopo di questa
@@ -355,19 +337,19 @@ TOI056	invece eh han~
 TOI056	sono delle persone
 TOI056	retribuite della circoscrizione
 TOI056	che seguono le donne del percorso
-TOR001	dopo il primo incontro con la legale a volte han bisogno di
-TOI056	mh mh
+TOI056	dopo il primo incontro con la legale a volte han bisogno di
+TOR001	mh mh
 TOI056	di un rinforzo in più
 TOI056	questo centro
 TOI056	oltre questo
 TOI056	si è sempre occupato dei problemi femminili
-TOR001	adesso le dico di questo perché io questo conosco bene
-TOI056	certo
+TOI056	adesso le dico di questo perché io questo conosco bene
+TOR001	certo
 TOI056	ma come questo m~ mille altre
 TOI056	e e si occupa un po' di socializzazione e di altre cose
 TOI056	comunque
-TOR001	eh vuol dire che c'è una certa vivacità in quartiere
-TOI056	certo
+TOI056	eh vuol dire che c'è una certa vivacità in quartiere
+TOR001	certo
 TOI056	abbiamo qui proprio qui vicino sul corso vercelli
 TOI056	la cascina marchesa che è un centro
 TOI056	in cui
@@ -375,8 +357,7 @@ TOI056	di fianco ci sono le scuole che han fatto
 TOI056	da questa vecchia cascina
 TOI056	che io mi ricordo quando era ancora cascina
 TOI056	datosi la mia
-TOR001	non verde età
-TOI056	
+TOI056	non verde età
 TOI056	e perché poi io
 TOI056	abitavo in corso vercelli che è vicino
 TOI056	a questa cascina
@@ -387,103 +368,95 @@ TOI056	comunque adesso c'è un un un teatro
 TOI056	una biblioteca una scuola
 TOI056	parecchi uffici
 TOI056	e uno di questi è occupato da questo centro donna
-TOR001	che adesso le do anche il documento
+TOI056	che adesso le do anche il documento
 TOR001	mh mh
-TOI056	sì
-TOR001	quando abbiamo fatto il ventennale
-TOI056	grazie
-TOR001	questo glielo lascio se se lo vuole
-TOI056	ah che bello sì volentieri
+TOR001	sì
+TOI056	quando abbiamo fatto il ventennale
+TOR001	grazie
+TOI056	questo glielo lascio se se lo vuole
+TOR001	ah che bello sì volentieri
 TOI056	e c'è la storia di tutto il centro
-TOR001	un po' fotografica e e così
-TOI056	mh mh
+TOI056	un po' fotografica e e così
+TOR001	mh mh
 TOI056	e questo è uno delle co~ delle attività che fa questo centro donna
-TOR001	da anni bandisce un concorso di scrittura
-TOI056	mh mh
+TOI056	da anni bandisce un concorso di scrittura
+TOR001	mh mh
 TOI056	in cui
 TOI056	le donne possono partecipare con quello che desiderano
-TOR001	e poi il per premio lì i migliori l~ l~
-TOI056	vengono pubblicati
+TOI056	e poi il per premio lì i migliori l~ l~
+TOR001	vengono pubblicati
 TOI056	lavori vengono pubblicati
 TOI056	oltre a questo c'è un gruppo di lettura c'è un gruppo di pittura
-TOR001	c'è
-TOI056	
+TOI056	c'è
 TOI056	ora
-TOR001	questo è un esempio particolareggiato di una cosa che conosco personalmente
-TOI056	sì sì
-TOI056	ma come queste
-TOR001	mille altre iniziative
-TOI056	mh mh mh mh
-TOI056	comunque se lei è di torino
-TOR001	sa che esistono la casa del quartiere i bagni via agliè
-TOI056	mh mh
-TOI056	sa che esiste tutto il resto
-TOR001	di cui so che ci sono ma in fondo
+TOI056	questo è un esempio particolareggiato di una cosa che conosco personalmente
 TOR001	sì sì
-TOI056	eh infatti la mia impressione è che a~ rispetto ad altri quartieri che hanno
-TOR001	è vivissima questa zo~
+TOI056	ma come queste
+TOI056	mille altre iniziative
+TOR001	mh mh mh mh
+TOI056	comunque se lei è di torino
+TOI056	sa che esistono la casa del quartiere i bagni via agliè
+TOR001	mh mh
+TOI056	sa che esiste tutto il resto
+TOI056	di cui so che ci sono ma in fondo
+TOR001	sì sì
+TOR001	eh infatti la mia impressione è che a~ rispetto ad altri quartieri che hanno
+TOI056	è vivissima questa zo~
 TOR001	un sacco
-TOI056	ci sono un sacco di attività di associazioni
+TOR001	ci sono un sacco di attività di associazioni
 TOI056	eh
 TOI056	appunto
-TOR001	e poi sportive non sportive ci son state nel passato
-TOI056	sì
-TOR001	e continuano ad esserci sì sì
+TOI056	e poi sportive non sportive ci son state nel passato
+TOR001	sì
+TOI056	e continuano ad esserci sì sì
 TOR001	sì sì sì sì
-TOI056	anche dedicate specificamente ai migranti no cioè corsi di lingua o attivitià per i bambini
+TOR001	anche dedicate specificamente ai migranti no cioè corsi di lingua o attivitià per i bambini
 TOI056	ah
 TOI056	un po'
 TOI056	eh beh certo
-TOR001	sì sì è è c~ è così
+TOI056	sì sì è è c~ è così
 TOR001	tantissimi
-TOI056	
-TOR001	
 TOR001	e infatti appunto anche raccogliendo le interviste
-TOI056	eh la cosa bella secondo me di barriera io ho vissuto in via per anni quindi
-TOR001	mh
+TOR001	eh la cosa bella secondo me di barriera io ho vissuto in via per anni quindi
+TOI056	mh
 TOR001	mh più o meno conosco
-TOR001	
 TOR001	eh è proprio la differenza
-TOI056	ehm dei commenti riguarda al quartiere tra chi ci vive
-TOR001	eh x
+TOR001	ehm dei commenti riguarda al quartiere tra chi ci vive
+TOI056	eh x
 TOR001	e quindi lo conosce molto bene
-TOI056	e chi no
-TOR001	e che dice io in barriera non ci vado
+TOR001	e chi no
+TOI056	e che dice io in barriera non ci vado
 TOR001	mai
-TOI056	
-TOI056	
-TOR001	e invece chi in barriera c'è nata
-TOI056	sì sì
+TOI056	e invece chi in barriera c'è nata
+TOR001	sì sì
 TOI056	eh
 TOI056	d'altronde anche mia figlia
 TOI056	c'è nata anche lei ovviamente
 TOI056	comunque
 TOI056	continua a stare in barriera
 TOI056	non sta più con me perché ormai n~
-TOR001	non ha l'età di star con me
-TOI056	certo
+TOI056	non ha l'età di star con me
+TOR001	certo
 TOI056	comunque abita in barriera
-TOR001	cioè x
-TOI056	mh mh mh mh
+TOI056	cioè x
+TOR001	mh mh mh mh
 TOI056	x
-TOR001	alla cinque un u~
-TOI056	ah beh
-TOR001	
-TOI056	
-TOR001	un corso in più
+TOI056	alla cinque un u~
+TOR001	ah beh
+TOI056	un corso in più
 TOR001	okay
 TOR001	però sì
 TOR001	eh la mia impressione appunto anche raccogliendo interviste a tante persone italiane e straniere che vivono in barriera e proprio questa caratteristica no
-TOI056	cioè che
-TOR001	sì
+TOR001	cioè che
+TOI056	sì
 TOR001	sia proprio molto attiva
-TOI056	e che tutti questi sportelli queste associazioni queste organizzazioni siano
-TOR001	ma c'è di tutto e di più
+TOR001	e che tutti questi sportelli queste associazioni queste organizzazioni siano
+TOI056	ma c'è di tutto e di più
 TOR001	sì sì tantissimo
-TOI056	e sono tutte molto frequentate
-TOR001	sì
+TOR001	e sono tutte molto frequentate
+TOI056	sì
 TOR001	c'è un'utenza molto attiva no
-TOI056	che in altri quartieri
+TOR001	che in altri quartieri
 TOI056	mah eh questa cosa è incominciata presto
 TOI056	poi mh
 TOI056	posso dire anche delle cose che si sono
@@ -492,8 +465,8 @@ TOI056	io son stata di sinistra d~ da sempre
 TOI056	e e e uno delle prime
 TOI056	cose che è stato fatto
 TOI056	dall'allora partito comunista
-TOR001	era stato un circolo che esiste tutt'ora
-TOI056	mh mh
+TOI056	era stato un circolo che esiste tutt'ora
+TOR001	mh mh
 TOI056	che si chiama il circolo del risorgimento in via poggio
 TOI056	eh e quel posto lì
 TOI056	è nato nel quarantasei nel quarantasette
@@ -509,88 +482,79 @@ TOI056	con i denari
 TOI056	dei dei creatori cioè tutti quanti si
 TOI056	si era iniziato a pagare una cosa
 TOI056	per poter r~ raggiungere questo
-TOR001	eh e questo c'è tutt'ora
+TOI056	eh e questo c'è tutt'ora
 TOR001	wow
-TOI056	e adesso che cos'è
-TOR001	e sempre il circolo
-TOI056	io non lo conosco
+TOR001	e adesso che cos'è
+TOI056	e sempre il circolo
+TOR001	io non lo conosco
 TOI056	un circolo ricreativo risorgimento
-TOR001	lì c'è una sede dell'anpi
-TOI056	mh mh
+TOI056	lì c'è una sede dell'anpi
+TOR001	mh mh
 TOI056	e e c'è un
 TOI056	un bar diciamo così
 TOI056	e c'è tutto un dehor fuori
-TOR001	tra l'altro r~ ristrutturato da poco è molto bello
+TOI056	tra l'altro r~ ristrutturato da poco è molto bello
 TOR001	okay
-TOI056	okay
+TOR001	okay
 TOI056	quando lo stavano facendo
 TOI056	nel cinquantaquattro c~
-TOR001	che stavano costruendo l'edificio
-TOI056	mh mh
-TOR001	mi son sposata
-TOI056	mh mh
+TOI056	che stavano costruendo l'edificio
+TOR001	mh mh
+TOI056	mi son sposata
+TOR001	mh mh
 TOI056	e lì era ancora mezzo da fare
 TOI056	e s~ c'era un
 TOI056	una s~ un prefabbricato in legno
 TOI056	perché manteneva viva la cosa
-TOR001	e ho fatto il rinfresco
-TOI056	
-TOI056	
-TOR001	del matrimonio in quel posto lì
-TOI056	ah che bello
-TOR001	
-TOI056	
-TOR001	più di barriera di così
+TOI056	e ho fatto il rinfresco
+TOI056	del matrimonio in quel posto lì
+TOR001	ah che bello
+TOI056	più di barriera di così
 TOR001	più barriera di così si muore sì in effetti
-TOR001	
 TOR001	ehm
 TOR001	appunto quali
 TOR001	eh adesso stiamo tornando indietro no perché mi parlava quindi metà anni cinquanta giusto
-TOI056	adesso
-TOR001	adesso questo questo che le ho detto sì
+TOR001	adesso
+TOI056	adesso questo questo che le ho detto sì
 TOR001	okay
 TOR001	e quali erano allora i luoghi
-TOI056	eh di ritrovo più frequentati
-TOR001	eh proprio
-TOI056	molto
-TOR001	negli anni cinquanta quindi quando io ero ragaz~ ragazza
-TOI056	mh mh
-TOR001	c'erano due o tre sale da ballo qui nella zona che io non frequentavo perché non amo ballare
-TOI056	
+TOR001	eh di ritrovo più frequentati
+TOI056	eh proprio
+TOR001	molto
+TOI056	negli anni cinquanta quindi quando io ero ragaz~ ragazza
+TOR001	mh mh
+TOI056	c'erano due o tre sale da ballo qui nella zona che io non frequentavo perché non amo ballare
 TOI056	però frequentavo questo circolo risorgimento
 TOI056	un po' perché mi interessava un po' perché accanto c'era la sede politica
 TOI056	un po' perché mio papà e mia mamma
-TOR001	collaboravano al funzionamento di questa cosa
-TOI056	mh mh
+TOI056	collaboravano al funzionamento di questa cosa
+TOR001	mh mh
 TOI056	e quindi lì eh c'era un ritrovo appunto di giovani di meno giovani
-TOR001	e l'attrattiva per i giovani allora era il ballo
-TOI056	okay
-TOR001	eh ballavano
-TOI056	
+TOI056	e l'attrattiva per i giovani allora era il ballo
+TOR001	okay
+TOI056	eh ballavano
 TOI056	e in più quelli che invece si interessavano di sport
-TOR001	sia del del calcio diciamo così
-TOI056	mh mh
-TOR001	e poi quegli altri che si interessavano di politica avevano la politica
-TOI056	quindi c'era la sede del pci
-TOR001	si era si era
+TOI056	sia del del calcio diciamo così
+TOR001	mh mh
+TOI056	e poi quegli altri che si interessavano di politica avevano la politica
+TOR001	quindi c'era la sede del pci
+TOI056	si era si era
 TOR001	era accanto
-TOI056	attività più ricreative diciamo
-TOR001	esatto
+TOR001	attività più ricreative diciamo
+TOI056	esatto
 TOR001	meraviglia
 TOR001	va bene e
 TOR001	le viene in mente appunto un ricordo legato a questo posto
-TOI056	un ricordo specifico un episodio se ha conosciuto qualche persona
-TOR001	mah ho conosciuto tutti perché era la mia vita
-TOI056	
+TOR001	un ricordo specifico un episodio se ha conosciuto qualche persona
+TOI056	mah ho conosciuto tutti perché era la mia vita
 TOI056	non è n~
-TOR001	non ho conosciuto mio marito lì perché l'ho conosciuto in ufficio
-TOI056	
-TOR001	però
-TOI056	okay
+TOI056	non ho conosciuto mio marito lì perché l'ho conosciuto in ufficio
+TOI056	però
+TOR001	okay
 TOI056	ho portato mio marito a frequentare gli stessi ambienti
 TOI056	e un ricordo che le ho detto mi ci son sposata in quel posto
-TOR001	no non so
-TOI056	okay
+TOI056	no non so
+TOR001	okay
 TOI056	ricordo
 TOI056	ve~
 TOI056	mio padre e mia madre hanno
@@ -599,16 +563,16 @@ TOI056	e quindi
 TOI056	di conseguenza
 TOI056	tutte le persone che giravano intorno ci siamo conosciuti siamo
 TOI056	e
-TOR001	fo~ qualcuna ci frequentiamo tutt'ora quelle che ci sono
-TOI056	mh mh mh
-TOR001	ancora
+TOI056	fo~ qualcuna ci frequentiamo tutt'ora quelle che ci sono
+TOR001	mh mh mh
+TOI056	ancora
 TOR001	l~ la cosa bella dei
 TOR001	eh circoli di partiti era era un po' questa adesso non so perché non ne frequento più
-TOI056	però per esempio i miei genitori si sono conosciuti entrambi ad una sede del pci
-TOR001	eh
-TOI056	e la cosa positiva era che si creava una rete
-TOR001	eh certo è così
-TOI056	di di di sostegno molto forte no
+TOR001	però per esempio i miei genitori si sono conosciuti entrambi ad una sede del pci
+TOI056	eh
+TOR001	e la cosa positiva era che si creava una rete
+TOI056	eh certo è così
+TOR001	di di di sostegno molto forte no
 TOI056	è così
 TOI056	eh cioè io
 TOI056	mio marito come le dico l'ho conosciuto in ufficio perché lavoravamo là nel mio ruolo
@@ -617,20 +581,18 @@ TOI056	lui abitava
 TOI056	in via baretti
 TOI056	quando ci siam sposati siamo venuti ad abitare qui
 TOI056	ed ha incominciato a frequentare anche lui
-TOR001	gli stessi nostri ambienti le stesse x
-TOI056	mh mh mh mh
-TOR001	la stessa xx
+TOI056	gli stessi nostri ambienti le stesse x
+TOR001	mh mh mh mh
+TOI056	la stessa xx
 TOR001	okay
 TOR001	ehm
-TOI056	e ci sono dei luoghi a cui è molto legata del quartiere
+TOR001	e ci sono dei luoghi a cui è molto legata del quartiere
 TOI056	ma eh
 TOI056	sì eh so~
-TOR001	sono legata proprio a queste zona come le dico
-TOI056	
+TOI056	sono legata proprio a queste zona come le dico
 TOI056	sono nata in via
 TOI056	abitavo in corso vercelli
-TOR001	mi sono spostata sono andata in via
-TOI056	
+TOI056	mi sono spostata sono andata in via
 TOI056	ho acquistato un alloggio in via
 TOI056	per cui il giro della mia vita è un giro dell'isolato
 TOI056	quindi questo ho ho avuto
@@ -638,40 +600,35 @@ TOI056	sono stata in ufficio per diciassette anni
 TOI056	e poi quando è nata mia figlia
 TOI056	per difficoltà di gestione della bambina
 TOI056	ho rilevato un negozio in corso vercelli
-TOR001	
-TOI056	okay
-TOR001	e quindi ho tenuto per venticinque anni un'attività commerciale sul corso
-TOI056	okay okay
+TOR001	okay
+TOI056	e quindi ho tenuto per venticinque anni un'attività commerciale sul corso
+TOR001	okay okay
 TOI056	per cui eh di barriera
-TOR001	conosco tutto e mi piace tutto
+TOI056	conosco tutto e mi piace tutto
 TOR001	tutto
-TOR001	
-TOI056	okay e che negozio aveva
-TOR001	di tessuti
-TOI056	okay
+TOR001	okay e che negozio aveva
+TOI056	di tessuti
+TOR001	okay
 TOI056	esiste ancora questo negozio che l'ha rilevato qualcuno
 TOI056	però eh adesso vende biancheria cose di questo genere
 TOI056	e ci sono ancora i miei mobili
-TOR001	
-TOI056	dentro
 TOR001	dentro
-TOI056	
+TOI056	dentro
 TOI056	ci sono ancora gli scaffali
-TOR001	che avevo messo io
-TOI056	e eh le piaceva appunto lavorare nel negozio
-TOR001	no a dir la verità no
-TOI056	mh
+TOI056	che avevo messo io
+TOR001	e eh le piaceva appunto lavorare nel negozio
+TOI056	no a dir la verità no
+TOR001	mh
 TOI056	io ho fatto la commerciante per venticinqua anni
 TOI056	perché la v~ la vita ha portato così
-TOR001	ma preferivo il lavoro d'ufficio
-TOI056	d'ufficio
+TOI056	ma preferivo il lavoro d'ufficio
+TOR001	d'ufficio
 TOI056	eh preferivo
 TOI056	quel tipo di lavoro
-TOR001	comunque tutto ci sia degua nella vita
-TOI056	certo
-TOR001	mi ci sono adeguata
-TOR001	
-TOI056	e lavorare forse in un appunto in un'attività commerciale offre anche un punto di vista privilegiato no sul quartiere
+TOI056	comunque tutto ci sia degua nella vita
+TOR001	certo
+TOI056	mi ci sono adeguata
+TOR001	e lavorare forse in un appunto in un'attività commerciale offre anche un punto di vista privilegiato no sul quartiere
 TOI056	eh certamente sì perché
 TOI056	frequenti un certo numero di persone
 TOI056	e ha~ hai un'attività
@@ -681,11 +638,11 @@ TOI056	anche lì nel millenovecento
 TOI056	ot~ tan ta~ mah non mi ricordo neanche più
 TOI056	perché sto perdendo un po' la memoria
 TOI056	comunque abbiamo formato
-TOR001	x la prima associazione di commercianti
-TOI056	mh mh
+TOI056	x la prima associazione di commercianti
+TOR001	mh mh
 TOI056	eh d~ di barriera
-TOR001	e si chiamava l'associazione barriera x
-TOI056	mh mh
+TOI056	e si chiamava l'associazione barriera x
+TOR001	mh mh
 TOI056	e questa associazione
 TOI056	ha gestito per anni le attività di coordinamento
 TOI056	del~ della zona
@@ -696,8 +653,8 @@ TOI056	una festività di settembre perché
 TOI056	in barriera
 TOI056	da quel che ho letto da quel che ho sentito ma anche dai miei
 TOI056	eh si usava a settembre
-TOR001	fare mettere le giostre in piazza crispi
-TOI056	mh mh
+TOI056	fare mettere le giostre in piazza crispi
+TOR001	mh mh
 TOI056	e c'era una specie di festa così
 TOI056	e per settembre abbiamo ricreato un qualcosa del genere
 TOI056	e da quell'anno lì si continua a fare
@@ -710,144 +667,138 @@ TOI056	e in più si invitano delle cose
 TOI056	decisamente quando abbiamo incominciato a farlo noi
 TOI056	era un po' meno commerciale
 TOI056	avevamo delle ambizioni
-TOR001	culturali no s~ con questa associazione barriera x
-TOI056	mh mh
+TOI056	culturali no s~ con questa associazione barriera x
+TOR001	mh mh
 TOI056	nel senso che
 TOI056	ogni settembre è stato dedicato
 TOI056	a una
-TOR001	a un tema diciamo a un qualche cosa
+TOI056	a un tema diciamo a un qualche cosa
 TOR001	mh mh
-TOI056	mh mh
+TOR001	mh mh
 TOI056	e quindi si svolgevano oltre alle attività commerciali
 TOI056	o alle mostre nelle vetrine
 TOI056	o le come dire
 TOI056	delle serate dedicate con quacuno che parlava
 TOI056	o che diceva di questo tema
-TOR001	aspetti che se ho a portata di mano
-TOI056	sì
-TOR001	dovrei avere anche i documenti di questa cosa
-TOI056	
-TOR001	io non sapevo che era questo che le interessava
+TOI056	aspetti che se ho a portata di mano
 TOR001	sì
-TOI056	
+TOI056	dovrei avere anche i documenti di questa cosa
+TOI056	io non sapevo che era questo che le interessava
+TOR001	sì
 TOI056	dunque queste sono i centro donna
-TOR001	i documenti
+TOI056	i documenti
 TOR001	okay
-TOI056	wow
-TOR001	e questa la barriera x
+TOR001	wow
+TOI056	e questa la barriera x
 TOR001	mh mh
 TOR001	ah con tutti i programmi che meraviglia
-TOI056	
 TOI056	questa
-TOR001	questo è la prima festa
-TOI056	mh mh
+TOI056	questo è la prima festa
+TOR001	mh mh
 TOI056	era dell'idea
-TOR001	per cui è nata
-TOI056	mh mh
-TOR001	quest'associazione
-TOI056	mh mh
+TOI056	per cui è nata
+TOR001	mh mh
+TOI056	quest'associazione
+TOR001	mh mh
 TOI056	e poi quello che abbiamo incominciato a fare
 TOI056	la prima festa
 TOI056	il primo
 TOI056	il primo programma
 TOI056	con caratteristiche più antiche
-TOR001	vede così
+TOI056	vede così
 TOR001	mh mh
-TOI056	mh mh mh mh mh
-TOR001	poi ci siamo modernizzati un pochino
-TOI056	
+TOR001	mh mh mh mh mh
+TOI056	poi ci siamo modernizzati un pochino
 TOI056	e le le attività
 TOI056	sempre
-TOR001	e quindi se le interessa sfogliare
+TOI056	e quindi se le interessa sfogliare
 TOR001	ah sì volentieri
-TOI056	volentieri
-TOR001	vede lei quello che le interessa
-TOI056	
+TOR001	volentieri
+TOI056	vede lei quello che le interessa
 TOI056	e questo
-TOR001	e invece è quello del centro donna
-TOI056	mh mh
-TOR001	come una serie di attività
-TOI056	di attività fatta dalla
+TOI056	e invece è quello del centro donna
+TOR001	mh mh
+TOI056	come una serie di attività
+TOR001	di attività fatta dalla
 TOI056	d~ de~ dei documenti di
-TOR001	che abbiamo fatto xxxxx
-TOI056	ma e adesso va avanti questa festa di settembre
-TOR001	questa associazione qui no si è chiusa
-TOI056	mh mh
+TOI056	che abbiamo fatto xxxxx
+TOR001	ma e adesso va avanti questa festa di settembre
+TOI056	questa associazione qui no si è chiusa
+TOR001	mh mh
 TOI056	come questa associazione
 TOI056	e ma esiste sempre
-TOR001	l'associazione dei commercianti
-TOI056	mh mh
-TOR001	che non ha più questo stile
-TOI056	okay
+TOI056	l'associazione dei commercianti
+TOR001	mh mh
+TOI056	che non ha più questo stile
+TOR001	okay
 TOI056	perché questo stile
-TOR001	era uno stile collegato con la circoscrizione
-TOI056	okay
+TOI056	era uno stile collegato con la circoscrizione
+TOR001	okay
 TOI056	in cui le cose che si facevano
 TOI056	erano anche un po' legate
 TOI056	con
 TOI056	quelle cose lì
-TOR001	adesso è più commerciale
-TOI056	okay
+TOI056	adesso è più commerciale
+TOR001	okay
 TOI056	però
 TOI056	una tiene ancora un minimo di
 TOI056	tant'è vero
 TOI056	che noi del centro donna
-TOR001	fra le diverse attività che facciamo c'è anche un'attività manuale
-TOI056	mh mh
+TOI056	fra le diverse attività che facciamo c'è anche un'attività manuale
+TOR001	mh mh
 TOI056	di a~ quelle solite attività che si fanno
-TOR001	quelle stupidaggini quelle cose che non servono a niente
-TOI056	
-TOR001	ma che danno soddisfazione a chi a chi li fa
+TOI056	quelle stupidaggini quelle cose che non servono a niente
+TOI056	ma che danno soddisfazione a chi a chi li fa
 TOR001	certo
-TOI056	certo
+TOR001	certo
 TOI056	e poi le vendiamo facciamo un banchetto le vendiamo in quel periodo
 TOI056	e l~ ri~ il
 TOI056	il ricavato
 TOI056	viene sempre devoluto
-TOR001	a qualcuno secondo gli anni
-TOI056	okay
-TOR001	ad uno piuttosto che a un altro
+TOI056	a qualcuno secondo gli anni
+TOR001	okay
+TOI056	ad uno piuttosto che a un altro
 TOR001	okay
 TOR001	okay
 TOR001	che meraviglia
-TOI056	c'è proprio il passaggio negli anni no
-TOR001	sì
-TOI056	cioè si vede propio la storia quan~
-TOR001	è è cambiata la grafica
-TOI056	tantissimo
-TOR001	eh a~
-TOI056	tantissimo ma non solo no anche i temi
-TOR001	i temi le cose sì
+TOR001	c'è proprio il passaggio negli anni no
+TOI056	sì
+TOR001	cioè si vede propio la storia quan~
+TOI056	è è cambiata la grafica
+TOR001	tantissimo
+TOI056	eh a~
+TOR001	tantissimo ma non solo no anche i temi
+TOI056	i temi le cose sì
 TOR001	e lo sportello mh questo mh
 TOR001	eh centro delle donne che diceva
-TOI056	eh oggi è frequentato anche da da donne straniere
+TOR001	eh oggi è frequentato anche da da donne straniere
 TOI056	no eh neanche in particolarmente no perché qui in barriera
 TOI056	in barriera sì sempre barriera
-TOR001	il regio parco è sempre barriera
-TOI056	mh mh
-TOR001	c'è l'alma mater che forse lei conoscerà
-TOI056	okay
+TOI056	il regio parco è sempre barriera
+TOR001	mh mh
+TOI056	c'è l'alma mater che forse lei conoscerà
+TOR001	okay
 TOI056	e quindi l~ l'alma mater
-TOR001	raccoglie di più tutte quante sono straniere
-TOI056	mh mh
+TOI056	raccoglie di più tutte quante sono straniere
+TOR001	mh mh
 TOI056	come sportello
-TOR001	eh ricreativo diciamo così
-TOI056	mh mh
+TOI056	eh ricreativo diciamo così
+TOR001	mh mh
 TOI056	come anche lì
-TOR001	d~ di donne straniere non ce n'è
-TOI056	mh mh
+TOI056	d~ di donne straniere non ce n'è
+TOR001	mh mh
 TOI056	però dall'avvocato
-TOR001	e dalla psicologa a volte sì
-TOI056	certo
+TOI056	e dalla psicologa a volte sì
+TOR001	certo
 TOI056	ma
 TOI056	attualme~
 TOI056	c'è stato un periodo che erano tantissime
 TOI056	i partecipanti perché è stato il primo sportello
 TOI056	di avvocato per la consulenza legale
-TOR001	sul diritto di famiglia
-TOI056	mh mh
-TOR001	e il primo in torino
-TOI056	mh mh
+TOI056	sul diritto di famiglia
+TOR001	mh mh
+TOI056	e il primo in torino
+TOR001	mh mh
 TOI056	per cui abbiamo avuto
 TOI056	un sacco di di gente perché aveva
 TOI056	facciamo come tutt'ora un'accoglienza
@@ -856,18 +807,18 @@ TOI056	si compila delle schede
 TOI056	poi adesso si è collegati
 TOI056	al coordinamento cittadino contro la violenza
 TOI056	che agli inizi manco c'era
-TOR001	è nato tut~ eh tutto dopo
-TOI056	certo
+TOI056	è nato tut~ eh tutto dopo
+TOR001	certo
 TOI056	e quindi allora c'era una partecipazione vastissima ora
-TOR001	un po' meno perché son nati tanti sportelli
-TOI056	mh mh
-TOR001	attualmente portelli legali di questo genere
-TOI056	mh mh
+TOI056	un po' meno perché son nati tanti sportelli
+TOR001	mh mh
+TOI056	attualmente portelli legali di questo genere
+TOR001	mh mh
 TOI056	credo che siamo nati noi prima del telefono rosa
-TOR001	o se non pri~ o se non prima
-TOI056	addirittura
-TOR001	siamo nati
-TOI056	insieme
+TOI056	o se non pri~ o se non prima
+TOR001	addirittura
+TOI056	siamo nati
+TOR001	insieme
 TOI056	in c~ in concomitanza
 TOI056	e quindi
 TOI056	e come dico anche se noi
@@ -879,39 +830,39 @@ TOI056	l'accompagnamento legale successivo
 TOI056	ce l'aveva di più
 TOI056	il l~ il telefono rosa
 TOI056	e poi le diverse associazioni
-TOR001	che han creato case di accoglienza e altre cose
-TOI056	certo
-TOR001	che noi non eravamo in grado di gestire
-TOI056	x certo
+TOI056	che han creato case di accoglienza e altre cose
+TOR001	certo
+TOI056	che noi non eravamo in grado di gestire
+TOR001	x certo
 TOI056	perché non siamo un'associazione noi
-TOR001	noi pe~ è uno sportello
-TOI056	mh mh x
+TOI056	noi pe~ è uno sportello
+TOR001	mh mh x
 TOI056	della circoscrizione
-TOR001	a cui collaborano delle donne volontarie
-TOI056	okay
+TOI056	a cui collaborano delle donne volontarie
+TOR001	okay
 TOI056	a titolo libero così
-TOR001	senza
+TOI056	senza
 TOR001	okay okay
-TOI056	le chiedevo delle donne straniere perché spesso sono quelle più difficili da da intercettare no
+TOR001	le chiedevo delle donne straniere perché spesso sono quelle più difficili da da intercettare no
 TOI056	sì
 TOI056	effettivamente sì però di qui c'è l'alma mater
-TOR001	che è una
+TOI056	che è una
 TOR001	certo
-TOI056	mh mh
+TOR001	mh mh
 TOI056	e poi in parte c'è un altro gruppo
-TOR001	che è in via cervino numero uno
+TOI056	che è in via cervino numero uno
 TOR001	mh mh
-TOI056	mh mh
+TOR001	mh mh
 TOI056	del che seguono se~ una serie di colf straniere
-TOR001	questo so che c'è
+TOI056	questo so che c'è
 TOR001	mh mh
-TOI056	mh mh
+TOR001	mh mh
 TOI056	e quindi
 TOI056	eh
 TOI056	stra~
 TOI056	stra~ e poi
 TOI056	ai bagni di via agliè
-TOR001	ci sono anche più straniere
+TOI056	ci sono anche più straniere
 TOR001	mh mh
 TOR001	sì sì certo
 TOR001	che bello
@@ -923,37 +874,37 @@ TOR001	ehm
 TOR001	tra le varie immigrazioni
 TOR001	eh mh mi sembra che appunto
 TOR001	forse la differenza principale tra quella degli anni diciamo cinquanta sessanta e quella più contemporanea sia proprio
-TOI056	la situazione economica generale no
-TOR001	certo
+TOR001	la situazione economica generale no
+TOI056	certo
 TOR001	cioè
-TOI056	mh mentre prima comunque era
+TOR001	mh mentre prima comunque era
 TOI056	c'era uno sviluppo in avvio
-TOR001	adesso c'è una recessione
-TOI056	mh mh mh mh mh mh
+TOI056	adesso c'è una recessione
+TOR001	mh mh mh mh mh mh
 TOI056	uno delle secondo me
 TOI056	una delle cose fondamentali è proprio questa
 TOI056	perché allora bene o male
 TOI056	tutti quelli che arrivavano il lavoro lo trovavano
 TOI056	perché son venuti su perché qui c'era lavoro
 TOI056	attualmente invece n~ no
-TOR001	non è più così
-TOI056	mh mh mh mh mh
+TOI056	non è più così
+TOR001	mh mh mh mh mh
 TOI056	e quindi questo crea
 TOI056	crea eh la gelosia
 TOI056	tu prendi qualcosa a me
 TOI056	e questo è quanto
-TOR001	rende le persone così
-TOI056	mh
+TOI056	rende le persone così
+TOR001	mh
 TOI056	così ab~ arrabiate ecco
 TOI056	e che hanno dimostrato in un voto
-TOR001	e che che non concepisco
+TOI056	e che che non concepisco
 TOR001	mh mh mh
 TOR001	sì e sono proprio le persone
-TOI056	sp~ spesso sono proprio le persone più in difficola no a
+TOR001	sp~ spesso sono proprio le persone più in difficola no a
 TOI056	p~ f~ spesso sì
 TOI056	perché è come una lotta fra poveri
-TOR001	poi c'è anche quella che eh insomma
-TOI056	x
+TOI056	poi c'è anche quella che eh insomma
+TOR001	x
 TOI056	che ritiene
 TOI056	che eh la signora su non può avere un vicino
 TOI056	e che che sia di un altro colore vabbé
@@ -969,14 +920,14 @@ TOI056	e di conseguenza in una zona come la nostra
 TOI056	nella sala d'aspetto c'è
 TOI056	un certo numero di anziani
 TOI056	e un un grosso numero di stranieri
-TOR001	evidentemente
-TOI056	certo
+TOI056	evidentemente
+TOR001	certo
 TOI056	e quindi vedi questo
 TOI056	un que~
 TOI056	questo livore
 TOI056	per dire questo mi sta prendendo il posto
-TOR001	non è che tutti lo dicono così
-TOI056	mh mh mh
+TOI056	non è che tutti lo dicono così
+TOR001	mh mh mh
 TOI056	ma spesso trovi qualcuno
 TOI056	che
 TOI056	che d~ o piano o sottovoce o più forte
@@ -986,47 +937,38 @@ TOI056	d'altronde
 TOI056	s~ se tu pui
 TOI056	avere la stessa cura la stessa agevolazione non ti han preso niente
 TOI056	tutt'al più aspetterai dieci minuti in più
-TOR001	
-TOR001	
-TOI056	la cosa più grave può succedere
-TOR001	
-TOR001	
-TOI056	ehm l~
-TOR001	no mh
-TOI056	sì
+TOR001	la cosa più grave può succedere
+TOR001	ehm l~
+TOI056	no mh
+TOR001	sì
 TOI056	no le cose più gravi ce ne sono ancora
 TOI056	ma queste non dipendono dall'immigrazione
 TOI056	è che per ehm prenotare
 TOI056	un banalissimo coso qui che mi è venuto
-TOR001	l'ho prenotato però fra un anno
-TOI056	davvero
+TOI056	l'ho prenotato però fra un anno
+TOR001	davvero
 TOI056	davvero sì
 TOI056	l'altra settimana
-TOR001	certo è una stupidaggine
-TOI056	mh mh mh
+TOI056	certo è una stupidaggine
+TOR001	mh mh mh
 TOI056	che sta lì e quindi può stare anche lì un anno
-TOR001	però un anno è è troppo
-TOI056	mh
-TOR001	
-TOI056	mamma mia sì questo dipende dal sistema sanitario nazionale proprio più che dal migrante che va no
-TOR001	
-TOR001	
+TOI056	però un anno è è troppo
+TOR001	mh
+TOR001	mamma mia sì questo dipende dal sistema sanitario nazionale proprio più che dal migrante che va no
 TOR001	ehm mh
 TOR001	e secondo lei però appunto vista la situazione economica attuale
 TOR001	cioè vista la l~ il quadro complessivo di cui abbiamo parlato
 TOR001	eh questo diciamo
 TOR001	superamento della fase conflittuale con i nuovi migranti
 TOR001	quando s~ quando avverrà
-TOI056	quando si risolleverà l'economia quando
-TOR001	eh questa è una domanda
-TOI056	è un'opinione eh non le sto chiedendo
-TOR001	
-TOI056	
-TOR001	è una domanda un po' difficile
-TOI056	certo
+TOR001	quando si risolleverà l'economia quando
+TOI056	eh questa è una domanda
+TOR001	è un'opinione eh non le sto chiedendo
+TOI056	è una domanda un po' difficile
+TOR001	certo
 TOI056	quello che uno si augurà è una cosa quello che succederà
-TOR001	è propio un'altra
-TOI056	certo
+TOI056	è propio un'altra
+TOR001	certo
 TOI056	io mi auguro
 TOI056	che questa cosa ci sia però
 TOI056	attualmente con questo chiaro di luna
@@ -1039,8 +981,8 @@ TOI056	pe~ eh
 TOI056	giocando su questa cosa
 TOI056	eh
 TOI056	non è risolvibile dall'italia soltanto
-TOR001	perché purtroppo sia con problemi ambientali
-TOI056	certo
+TOI056	perché purtroppo sia con problemi ambientali
+TOR001	certo
 TOI056	sia con il riscaldamento del pianeta
 TOI056	l'africa è più disertificata e va
 TOI056	disertificandosi sempre più
@@ -1054,32 +996,29 @@ TOI056	e quindi eh
 TOI056	se se non ci sarà
 TOI056	un ripensamento
 TOI056	europeo completo
-TOR001	eh mah io la vedo dura
-TOI056	mh mh mh mh mh
+TOI056	eh mah io la vedo dura
+TOR001	mh mh mh mh mh
 TOI056	anche se io vorrei che si risolvesse nel modo più
-TOR001	più umano e più più ragionevole possibile
-TOI056	mh mh mh
-TOR001	eh d'altronde io son nessuno
-TOI056	no no ci man~ okay è vero c'è una situazione complessa x no certo
-TOR001	
-TOI056	ehm ha vissuto altri periodi nella sua vita di appunto di recessione o di crisi economica profonda
-TOR001	scusi sono un po' sorda non ho capito
+TOI056	più umano e più più ragionevole possibile
+TOR001	mh mh mh
+TOI056	eh d'altronde io son nessuno
+TOR001	no no ci man~ okay è vero c'è una situazione complessa x no certo
+TOR001	ehm ha vissuto altri periodi nella sua vita di appunto di recessione o di crisi economica profonda
+TOI056	scusi sono un po' sorda non ho capito
 TOR001	sì
 TOR001	se ha vis~ se ha vissuto oltre a questa crisi diciamo economica finanziaria contemporanea
-TOI056	se ha vissuto altri periodi di crisi nella sua vita
+TOR001	se ha vissuto altri periodi di crisi nella sua vita
 TOI056	eh beh sì eh
 TOI056	ne ho vissuti sì perché
 TOI056	è mh r~
-TOR001	difficile per via della politica
-TOI056	mh mh
+TOI056	difficile per via della politica
+TOR001	mh mh
 TOI056	dunque sì
-TOR001	lei vuole dal dopoguerra o anche prima
-TOR001	
+TOI056	lei vuole dal dopoguerra o anche prima
 TOR001	anche prima
-TOI056	
 TOI056	anche prima
-TOR001	anche prima io son figlia di un operaio
-TOI056	mh mh
+TOI056	anche prima io son figlia di un operaio
+TOR001	mh mh
 TOI056	per cui eh la vita non posso dire che ai tempi
 TOI056	diciamo da che io mi ricordo che andavo a scuola
 TOI056	trentotto trentanove quaranta quando è iniziato la guerra
@@ -1093,8 +1032,8 @@ TOI056	ed è una cosa che dico e ve~
 TOI056	diciamo una cosa brutta anche
 TOI056	a un certo punto mio papà andava
 TOI056	a lavoro in bicicletta
-TOR001	gli si era bucata una gomma rotto un copertone
-TOI056	mh mh
+TOI056	gli si era bucata una gomma rotto un copertone
+TOR001	mh mh
 TOI056	che so io mi ri~ una cosa di questo genere
 TOI056	prima di poter comprarsi l~ questo copertone nuovo
 TOI056	è passato un a~ n~ diciamo quindici giorni un mese
@@ -1104,11 +1043,11 @@ TOI056	che mi è rimasta lì perché allora
 TOI056	eh perché coincideva
 TOI056	con un periodo che mio papà era stato si era rotto un braccio
 TOI056	ed era in mutua
-TOR001	la mutua non veniva pagata allora
-TOI056	mh mh mh
+TOI056	la mutua non veniva pagata allora
+TOR001	mh mh mh
 TOI056	di conseguenza le entrate
-TOR001	eh
-TOI056	certo
+TOI056	eh
+TOR001	certo
 TOI056	eh
 TOI056	e ha dovuto e quindi io n~ non mi vergogno di dire
 TOI056	no~ abbiamo sempre mangiato diciamo
@@ -1129,8 +1068,8 @@ TOI056	eh comunque abbiamo partecipato
 TOI056	come famiglia attivamente a tutto quello
 TOI056	tutto quello che è su~ che è successo in sé
 TOI056	nel dopoguerra
-TOR001	ritornando alle crisi
-TOI056	mh mh
+TOI056	ritornando alle crisi
+TOR001	mh mh
 TOI056	eventuali
 TOI056	nel dopoguerra eh
 TOI056	il fatto di essere sindacalisti
@@ -1140,8 +1079,8 @@ TOI056	per cui a un certo punto
 TOI056	mio papà è stato licenziato dalla fabbrica in cui lavorava
 TOI056	eh quindi ha dovuto a un'età già avanzata cercarsi un altro posto e cercare di a~ di arrangiarsi
 TOI056	e quindi questo è
-TOR001	si eh era nel cinquanta eh son successi
-TOI056	mh mh
+TOI056	si eh era nel cinquanta eh son successi
+TOR001	mh mh
 TOI056	i g~ le grosse purghe verso i sindacalisti
 TOI056	perché
 TOI056	l~ le
@@ -1152,8 +1091,8 @@ TOI056	da una parte ti faceva dell'aziona~ nella
 TOI056	faceva dell'azione sì chi faceva attività in fabbrica
 TOI056	dall'altra parte quando ci sono stati i processi
 TOI056	ti pagava l'avvocato
-TOR001	perché doveva crearsi delle credenziali
-TOI056	mh certo
+TOI056	perché doveva crearsi delle credenziali
+TOR001	mh certo
 TOI056	per quando la cosa finiva
 TOI056	e questo è successo
 TOI056	quando poi s~ dal quarantacinque al cinquanta
@@ -1164,38 +1103,36 @@ TOI056	hanno creato queste
 TOI056	eh
 TOI056	isole di di isolamento
 TOI056	e tutti gli operai che avevano fatto attività politica e sindacale
-TOR001	non tutti ma quelli più in vista
-TOI056	mh mh
+TOI056	non tutti ma quelli più in vista
+TOR001	mh mh
 TOI056	venivano prima emarginati dai loro posti lavoro
 TOI056	e poi m~ gran parte son stati licenziati
 TOI056	e questo è stato un periodo
-TOR001	senz'altro di di crisi
-TOI056	certo
+TOI056	senz'altro di di crisi
+TOR001	certo
 TOI056	che è stata m~ anche lunga
 TOI056	poi a~
 TOI056	una crisi successiva
 TOI056	per lo stesso tipo
 TOI056	ce l'ho avuto nel
 TOI056	cin~ cinque eh non mi ricordo più asc~
-TOR001	che brutto sapesse invecchiare
-TOI056	
+TOI056	che brutto sapesse invecchiare
 TOI056	a un certo punto ricordo tutto a un certo punto una cosa non ricordo più
 TOI056	comunque xx
 TOI056	un po' prima del
 TOI056	del cinquantanove sessanta
 TOI056	anche mio marito è stato licenziato
-TOR001	dalla dalla sempre per attività sindacali
-TOI056	caspita
-TOI056	
+TOI056	dalla dalla sempre per attività sindacali
+TOR001	caspita
 TOI056	e poi eh nie~ è andato a lavorare da un'altra parte
 TOI056	è stato licenziato anche lì
 TOI056	sempre in seguito ad uno sciopero
 TOI056	quindi son stati tutti periodi di crisi
-TOR001	e che che abbiamo subito
+TOI056	e che che abbiamo subito
 TOR001	certo
-TOI056	e ha dei ricordi della di torino della città durante la guerra
-TOR001	ricordi di che tipo eh ricordi di di modo di vivere o ricordo di città come bellezza
-TOI056	entrambe le cose soprattutto come modo di vivere
+TOR001	e ha dei ricordi della di torino della città durante la guerra
+TOI056	ricordi di che tipo eh ricordi di di modo di vivere o ricordo di città come bellezza
+TOR001	entrambe le cose soprattutto come modo di vivere
 TOI056	mah eh il modo di vivere qui in barriera
 TOI056	era semplice com'è adesso
 TOI056	e abbia~
@@ -1211,23 +1148,22 @@ TOI056	più fare o almeno è più difficle ecco
 TOI056	diciamo così
 TOI056	eh e come bellezza
 TOI056	mah
-TOR001	non è poi cambiata così tanto come bellezza
-TOI056	
+TOI056	non è poi cambiata così tanto come bellezza
 TOI056	sono sta~ eh almeno
 TOI056	le linee il corso giulio cesare e il corso vercelli
 TOI056	quelli c'erano
 TOI056	avevano delle case più piccole dei punti vuoti
-TOR001	che son stati riempiti e quindi qui non è poi cambiata così tanto
-TOI056	mh mh
+TOI056	che son stati riempiti e quindi qui non è poi cambiata così tanto
+TOR001	mh mh
 TOI056	il cambio è avvenuto
-TOR001	più in fuori
-TOI056	mh mh
+TOI056	più in fuori
+TOR001	mh mh
 TOI056	perché son stati creati
 TOI056	i quartieri operai per la fiat
-TOR001	dal sessanta n~ in avanti
-TOI056	x mh mh mh mh
-TOR001	ci son stati sia l~ la falchera
-TOI056	mh mh
+TOI056	dal sessanta n~ in avanti
+TOR001	x mh mh mh mh
+TOI056	ci son stati sia l~ la falchera
+TOR001	mh mh
 TOI056	e sia quella nuova
 TOI056	e quella vecchia già prima
 TOI056	e sia questi di corso taranto e di corso lì
@@ -1236,80 +1172,73 @@ TOI056	eh non so neanche io se in meglio o in peggio
 TOI056	quei quartieri in fondo non sono poi così brutti
 TOI056	a volte sono
 TOI056	trascurati e questo non so se dipende dalla gestione
-TOR001	delle delle case
-TOI056	
+TOI056	delle delle case
 TOI056	altrimenti eh
 TOI056	forse eh
 TOI056	come in tutte le cose
 TOI056	accumulare nello stesso posto lo stesso tipo di persone
 TOI056	non è mai una bella cosa
-TOR001	perché non c'è
-TOI056	certo
+TOI056	perché non c'è
+TOR001	certo
 TOI056	si crea un una forma di ghettizzazione
 TOI056	no una
-TOR001	attualmente forse si sente un po' meno
-TOI056	mh mh
+TOI056	attualmente forse si sente un po' meno
+TOR001	mh mh
 TOI056	perché adesso non c'è più questa cosa
 TOI056	an~ sotto quell'aspetto
 TOI056	dalle case popolari qui
 TOI056	attualmente credo io
 TOI056	è più considerato ghetto questa parte vecchia
 TOI056	della
-TOR001	della barriera di milano
-TOI056	mh mh mh
+TOI056	della barriera di milano
+TOR001	mh mh mh
 TOI056	la nostra via
 TOI056	perché qui se ci guardiamo intorno
 TOI056	di immigrati cioè che abitano qui che vivono qui
-TOR001	ce ne ce ne sono tanti
-TOI056	mh
-TOR001	eh e quindi
-TOI056	
-TOR001	la parte più ghettizzata è la parte ve~ la parte vecchia
+TOI056	ce ne ce ne sono tanti
+TOR001	mh
+TOI056	eh e quindi
+TOI056	la parte più ghettizzata è la parte ve~ la parte vecchia
 TOR001	mh mh mh mh mh sì
 TOR001	le faccio okay le ultime due domande poi la lascio in pace
-TOR001	
-TOI056	lei eh conosce il dialetto piemontese
+TOR001	lei eh conosce il dialetto piemontese
 TOI056	mah sì io son nata piemontese e parlo anche piemunteis
 TOI056	però
 TOI056	ultimamente diciamo che
 TOI056	lu dovru pi poc
 TOI056	volevo dirlo in piemontese ma
-TOR001	parlando con
-TOI056	parla come vuole come vuole non è
-TOR001	par~ no parlando con una che parla italiano
-TOI056	
-TOR001	mi sento a disagio
-TOI056	certo
-TOI056	
+TOI056	parlando con
+TOR001	parla come vuole come vuole non è
+TOI056	par~ no parlando con una che parla italiano
+TOI056	mi sento a disagio
+TOR001	certo
 TOI056	ma comunque
 TOI056	eh n~ lu parlu d menu perché non c'è
 TOI056	j'è nen l'interlocutur sufficiente
 TOI056	a capire
 TOI056	difatti e questo abbiamo sbagliato
 TOI056	a mia figlia conosce il piemontese
-TOR001	ma allora abbiamo incominciato a parlare italiano
-TOI056	mh mh
+TOI056	ma allora abbiamo incominciato a parlare italiano
+TOR001	mh mh
 TOI056	l'uma ncumincià a parlè n italian
 TOI056	perché
 TOI056	ma poi quando va a scuola a s trova n dificultà e poi invece
 TOI056	x saria nen stai vera
 TOI056	perché mi sun andaita a scola che parlava piemunteis
 TOI056	però l'ai amparà poi l'italian
-TOR001	quindi
+TOI056	quindi
 TOR001	certo
-TOI056	e come mai avete deciso di parlare in italiano
-TOR001	mah beh beh per un pregiudizio che mi mi vergogno persin di dire che di solito ritengo
-TOI056	
-TOR001	di non avere pregiudizi
-TOI056	
+TOR001	e come mai avete deciso di parlare in italiano
+TOI056	mah beh beh per un pregiudizio che mi mi vergogno persin di dire che di solito ritengo
+TOI056	di non avere pregiudizi
 TOI056	perché m asmiava
 TOI056	che i faciliteisa
-TOR001	l~ eh la l~ eh la l'apprendimento
-TOI056	scuola
+TOI056	l~ eh la l~ eh la l'apprendimento
+TOR001	scuola
 TOI056	e invece
 TOI056	forse
-TOR001	sicuramente non è così mh
-TOI056	e quindi adesso sua figlia lo capisce ma non lo parla
+TOI056	sicuramente non è così mh
+TOR001	e quindi adesso sua figlia lo capisce ma non lo parla
 TOI056	non lo parla ma lo capisce
 TOI056	eh sì conosce anche tutti i detti e cunos tut quant
 TOI056	anche perché
@@ -1317,16 +1246,15 @@ TOI056	per un certo numer d'anni
 TOI056	mi x travaiava
 TOI056	per cui mia mama e papà
 TOI056	e gua~
-TOR001	guardavu la cita disuma parei a s dis parei an piemunteis
+TOI056	guardavu la cita disuma parei a s dis parei an piemunteis
 TOR001	mh mh
-TOI056	
 TOI056	a guardavu la cita
 TOI056	e alura lur la xxx ad parlé an piemunteis
 TOI056	e invece a s asfursavu anche lur ad parlé an italian
 TOI056	anche se
 TOI056	sia me papà che mia mama
-TOR001	parlavu an italian benissimo neh
-TOI056	mh mh mh mh mh mh mh mh
+TOI056	parlavu an italian benissimo neh
+TOR001	mh mh mh mh mh mh mh mh
 TOI056	cioè no l'è nen che a savei~
 TOI056	senza avere un
 TOI056	sensa avei na scolarità
@@ -1337,17 +1265,14 @@ TOI056	che la mia bisnonna
 TOI056	scriveva lettere anche
 TOI056	perché am ricordu che al temp ad guera l'era sfulà
 TOI056	e a l'a mandà na cartulina
-TOR001	al al fiol
-TOI056	
-TOR001	scrivandie ndua ch'a l'era andaita ndua ch'a l'era scrita an italian
-TOI056	
+TOI056	al al fiol
+TOI056	scrivandie ndua ch'a l'era andaita ndua ch'a l'era scrita an italian
 TOI056	e poi mentre a disia
 TOI056	mentre sì
-TOR001	volevo dirle tutto in piemontese
-TOI056	ma non non si preoccupi parli come come preferisce non
+TOI056	volevo dirle tutto in piemontese
+TOR001	ma non non si preoccupi parli come come preferisce non
 TOI056	ah eh a~ attualmente preferisco in italiano
-TOR001	
-TOI056	va benissimo ita~ come come preferisce davvero
+TOR001	va benissimo ita~ come come preferisce davvero
 TOI056	eh appunto
 TOI056	e l'avreb~ l'han portata su in questo paese di sfollamento con una cariola un carrettino
 TOI056	e a un certo punto questo carrettino
@@ -1356,13 +1281,9 @@ TOI056	con lei sopra
 TOI056	e allora lei a scriveva con una figlia
 TOI056	ha scritto all'altro figlio che era mio nonno
 TOI056	dicendogli
-TOR001	e sun andaita mentre andasiu a vulpian xxx
-TOI056	
-TOI056	
-TOR001	xxx sun andaita ant al fusà
-TOI056	
-TOR001	
-TOI056	e eh l~ le dispiace che si sia un po' perso il dialetto
+TOI056	e sun andaita mentre andasiu a vulpian xxx
+TOI056	xxx sun andaita ant al fusà
+TOR001	e eh l~ le dispiace che si sia un po' perso il dialetto
 TOI056	mah in un
 TOI056	in un certo senso sì
 TOI056	anche
@@ -1371,14 +1292,13 @@ TOI056	n~ non sono particolarmente
 TOI056	è giusto che venga mantenuto
 TOI056	e
 TOI056	sono fornita di dizionari
-TOR001	dove il piemontese e italiano
-TOI056	
+TOI056	dove il piemontese e italiano
 TOI056	ho letto ho diversi libri
 TOI056	in piemontese che ho letto e capisco
 TOI056	però siccome si vive con altri che parlano in un altro modo
 TOI056	non ne faccio non sono un un piem~
-TOR001	una piemontese attaccatissima alla lingua
-TOI056	mh mh mh mh
+TOI056	una piemontese attaccatissima alla lingua
+TOR001	mh mh mh mh
 TOI056	è giusto che però sia mantenuta in parte
 TOI056	il fatto di insegnarla nelle scuole non lo so neanche qui
 TOI056	in un paese
@@ -1392,44 +1312,41 @@ TOI056	mh cioè
 TOI056	puoi
 TOI056	mantenerlo
 TOI056	nel tuo nel tuo giro
-TOR001	ma farlo nelle scuole mi sembra forse no~ non lo so
-TOI056	mh mh
-TOR001	non ho un'opinione precisa in merito
+TOI056	ma farlo nelle scuole mi sembra forse no~ non lo so
 TOR001	mh mh
-TOI056	mh mh mh
+TOI056	non ho un'opinione precisa in merito
+TOR001	mh mh
+TOR001	mh mh mh
 TOI056	strano
-TOR001	di solito ce l'ho s~
-TOR001	
+TOI056	di solito ce l'ho s~
 TOR001	no però
 TOR001	a m~ cioè eh neanche io n~ non so
-TOI056	non so se sarebbe la soluzione ideale insegnarlo
-TOR001	
+TOR001	non so se sarebbe la soluzione ideale insegnarlo
 TOR001	però
 TOR001	pur non essendo una diciamo una diciamo particolarmente attaccata alla mia regione non io
 TOR001	per altro io son lombarda quindi forse è anche peggio
-TOR001	
 TOR001	non ehm
-TOI056	eh mi mi dispiace comunque che nel contesto casalingo
-TOR001	non si parli
-TOI056	sì perché è una cosa in più no
+TOR001	eh mi mi dispiace comunque che nel contesto casalingo
+TOI056	non si parli
+TOR001	sì perché è una cosa in più no
 TOI056	è in più certo sì sì
 TOI056	questo questo è giusto
-TOR001	mh
+TOI056	mh
 TOR001	è come c~ come per le lingue dei migranti no
-TOI056	sarebbe un peccato se parlassero solo italiano
+TOR001	sarebbe un peccato se parlassero solo italiano
 TOI056	eh e sì
 TOI056	certo
-TOR001	eh certo questo è vero
-TOI056	mh mh mh mh
-TOR001	sì
-TOI056	però appunto i giovani di fatto non
-TOR001	no
-TOI056	quasi più niente
-TOR001	quasi più nessuno
-TOI056	va bene la ringrazio tantissimo
-TOR001	ma eh si figuri
+TOI056	eh certo questo è vero
+TOR001	mh mh mh mh
+TOI056	sì
+TOR001	però appunto i giovani di fatto non
+TOI056	no
+TOR001	quasi più niente
+TOI056	quasi più nessuno
+TOR001	va bene la ringrazio tantissimo
+TOI056	ma eh si figuri
 TOR001	grazie mille
-TOI056	anzi chiudiamo qui tutto
+TOR001	anzi chiudiamo qui tutto
 TOI056	non credo di essere stata
-TOR001	forse in tema ma
+TOI056	forse in tema ma
 TOR001	no no invece era sono proprio aspetti che fermo qua

@@ -1,225 +1,212 @@
-PKP107	buon appetito
-PKP109	mangiamo
+PKP108	buon appetito
+PKP107	mangiamo
 PKP109	grazie
 PKP109	mi passi l'acqua
-PKP108	grazie
+PKP109	grazie
 PKP108	mh
-PKP110	scotta
-PKP107	mh
-PKP108	è buono però
+PKP108	scotta
 PKP110	mh
-PKP108	insomma
-PKP109	non ti piace marghi
-PKP110	non ti piace mariarita
-PKP108	non è che io sia molto amante delle minestre però
-PKP107	ma assa~
+PKP107	è buono però
+PKP108	mh
+PKP110	insomma
+PKP108	non ti piace marghi
+PKP109	non ti piace mariarita
+PKP110	non è che io sia molto amante delle minestre però
+PKP108	ma assa~
 PKP107	perché
-PKP110	perché ci sono le verdure
-PKP109	si non mi piacciono le verdure
+PKP107	perché ci sono le verdure
+PKP110	si non mi piacciono le verdure
 PKP109	ho capito però
 PKP109	ieri
 PKP109	hai mangiato le tagliatelle al ragù
 PKP109	l'altro ieri
-PKP110	i cappelletti con la panna
+PKP109	i cappelletti con la panna
 PKP110	ho capito
+PKP110	eh
 PKP109	eh
-PKP107	eh
-PKP109	abbiamo schifato
-PKP108	non è che puoi
-PKP110	eh sì
-PKP109	sì abbiamo schifato parecchio
-PKP108	mangiare tutti i giorni pesante
-PKP107	poi stas~
-PKP108	ma
+PKP107	abbiamo schifato
+PKP109	non è che puoi
+PKP108	eh sì
+PKP110	sì abbiamo schifato parecchio
+PKP109	mangiare tutti i giorni pesante
+PKP108	poi stas~
+PKP107	ma
 PKP108	stasera magari se andiamo dall'elena
+PKP108	anche lì
 PKP109	anche lì
-PKP110	anche lì
-PKP107	bono
-PKP108	ma se non andiamo stasera andiamo domani quindi
-PKP110	eh se piove
-PKP109	quello è cibo con la c maiuscola
+PKP110	bono
+PKP107	ma se non andiamo stasera andiamo domani quindi
+PKP108	eh se piove
+PKP110	quello è cibo con la c maiuscola
 PKP109	eh
 PKP109	lo so è buono
-PKP107	però non è che lo puoi mangiare tutti i giorni
+PKP109	però non è che lo puoi mangiare tutti i giorni
 PKP107	secondo me non ha senso andare stasera perché se piove
-PKP108	c'è lì è anche al all'aperto
+PKP107	c'è lì è anche al all'aperto
 PKP108	ma sai
 PKP108	questo tempo
 PKP108	ormai ultimamente è molto
 PKP108	balzano
 PKP108	eh
 PKP108	e quindi
-PKP110	da un momento all'altro può smettere può venire fuori il sole
-PKP108	dopo controllo il meteo
+PKP108	da un momento all'altro può smettere può venire fuori il sole
+PKP110	dopo controllo il meteo
 PKP108	ecco
-PKP110	brava
-PKP109	perché ho visto ieri sera con giovanni
-PKP110	ma
-PKP109	e pioveva la sera
-PKP110	ma se
-PKP109	xxx
+PKP108	brava
+PKP110	perché ho visto ieri sera con giovanni
+PKP109	ma
+PKP110	e pioveva la sera
+PKP109	ma se
+PKP110	xxx
 PKP109	e se no se ci andiamo domani sera
-PKP110	e stasera mangiamo la carne quì in casa
-PKP107	buona
+PKP109	e stasera mangiamo la carne quì in casa
+PKP110	buona
 PKP107	infatti
 PKP107	mh
 PKP107	io
 PKP107	tra l'altro giovedì devo andarci con eh
 PKP107	la
-PKP109	la giulia la valentina e l'amico tedesco
-PKP107	ah
+PKP107	la giulia la valentina e l'amico tedesco
+PKP109	ah
 PKP107	che viene
-PKP109	giovedì
-PKP107	ah viene giovedì
+PKP107	giovedì
+PKP109	ah viene giovedì
 PKP107	sì
-PKP110	lo sai perchè ieri non è venuto
-PKP107	eh infatti
-PKP110	eh ve lo volevo raccontare
-PKP107	eh spiega
+PKP107	lo sai perchè ieri non è venuto
+PKP110	eh infatti
+PKP107	eh ve lo volevo raccontare
+PKP110	eh spiega
 PKP107	perché praticamente lei
-PKP108	lui è a bologna no
-PKP107	eh
+PKP107	lui è a bologna no
+PKP108	eh
 PKP107	e lei gli ha inviato la
 PKP107	la valentina gli ha inviato la posizione
 PKP107	su messenger
-PKP110	di facebook
+PKP107	di facebook
 PKP110	mh
-PKP107	sì
+PKP110	sì
 PKP107	non sapendo
 PKP107	che
 PKP107	im~ le posizioni su messenger
-PKP110	scompaiono dopo un'ora
-PKP107	
-PKP110	quindi lui gli ha riscritto
-PKP107	no
+PKP107	scompaiono dopo un'ora
+PKP107	quindi lui gli ha riscritto
+PKP110	no
 PKP107	eh esatto
 PKP107	e non eh
-PKP110	e quindi non sapeva dove venire e non è venuto
+PKP107	e quindi non sapeva dove venire e non è venuto
 PKP110	ma
 PKP110	ah era già partito
 PKP110	cioè da dove è partito lui
-PKP107	non ho capito
+PKP110	non ho capito
 PKP107	no
-PKP110	da bologna
-PKP107	ma l~ do~ come c'è arrivato a bologna se è tedesco
+PKP107	da bologna
+PKP110	ma l~ do~ come c'è arrivato a bologna se è tedesco
 PKP107	perché lui sta facendo un anno a bologna
-PKP110	penso sta stu~ facendo un tirocinio a bologna
-PKP107	ah
-PKP110	non l'ho capito
-PKP107	ma non ce l'ha whatsapp
-PKP110	no perché loro non lo usano
-PKP107	cioè i~ lui in germania non usano whatsapp
+PKP107	penso sta stu~ facendo un tirocinio a bologna
+PKP110	ah
+PKP107	non l'ho capito
+PKP110	ma non ce l'ha whatsapp
+PKP107	no perché loro non lo usano
+PKP110	cioè i~ lui in germania non usano whatsapp
 PKP107	no
-PKP110	mh cioè
-PKP107	ma
+PKP107	mh cioè
+PKP110	ma
 PKP107	io quando sono andata in erasmus in realtà
 PKP107	lo usavano tutti whatsapp
 PKP107	quindi non
-PKP110	non lo so
-PKP109	è bollente sta roba
-PKP108	mh
+PKP107	non lo so
+PKP110	è bollente sta roba
+PKP109	mh
 PKP108	beh non
 PKP108	non poteva richiamarla
-PKP107	e farsi dire dove
+PKP108	e farsi dire dove
 PKP107	eh
 PKP107	ma infatti non so perché non l'abbia chiamata
 PKP107	le aveva scritto
 PKP107	dopo lei gli ha risposto tipo alle otto e mezza
-PKP108	e lui le ha detto
+PKP107	e lui le ha detto
 PKP108	ah
 PKP108	eh
-PKP107	che non sapeva
+PKP108	che non sapeva
 PKP107	dai è troppo tardi anche perché loro iniziano
 PKP107	per dire escono
-PKP108	alle sei
-PKP107	ah ecco
-PKP110	ma mi ricordo anche in erasmus
-PKP107	ah
+PKP107	alle sei
+PKP108	ah ecco
+PKP107	ma mi ricordo anche in erasmus
+PKP110	ah
 PKP107	cenavamo alle cinque e mezza
-PKP108	e alle sei iniziavamo già
-PKP107	ah
-PKP108	a fare festa
-PKP109	ah
-PKP107	
-PKP110	quindi
-PKP109	ui
-PKP110	allora fa una merenda cena praticamente
+PKP107	e alle sei iniziavamo già
+PKP108	ah
+PKP107	a fare festa
+PKP108	ah
+PKP107	quindi
+PKP110	ui
+PKP109	allora fa una merenda cena praticamente
 PKP110	mh
 PKP110	va~ a parte che voi avevate un'ora di lezione al giorno
-PKP107	quindi
+PKP110	quindi
 PKP107	esatto
-PKP109	non avevamo niente da fare
-PKP109	
+PKP107	non avevamo niente da fare
 PKP109	fa solo
 PKP109	solo festa
-PKP108	
-PKP110	
 PKP110	magari io
 PKP110	eh che figata
-PKP108	io ci voglio andare a fare l'erasmus
+PKP110	io ci voglio andare a fare l'erasmus
 PKP108	infatti è tornata a casa che
-PKP107	era un po'
-PKP108	disorientata
-PKP107	demotivata
-PKP108	eh sì
-PKP110	diciamo
-PKP108	
-PKP108	
+PKP108	era un po'
+PKP107	disorientata
+PKP108	demotivata
+PKP107	eh sì
+PKP108	diciamo
 PKP108	c'è voluto un po' pe~
 PKP108	poi
 PKP108	i~ in periodo di
 PKP108	lockdowns
-PKP107	ancora peggio
-PKP108	ah guarda
+PKP108	ancora peggio
+PKP107	ah guarda
 PKP108	eh
 PKP108	sei t~ sei arri~ ritornata proprio nel
-PKP110	periodo peggiore
-PKP107	infatti
-PKP109	mh
+PKP108	periodo peggiore
+PKP110	infatti
+PKP107	mh
 PKP109	beh
 PKP109	menomale
 PKP109	che così è stata in casa ha studiato
-PKP108	e almeno
-PKP107	sì beh
+PKP109	e almeno
+PKP108	sì beh
 PKP107	no ma non ho studiato
-PKP108	è quello il problema
-PKP110	è quello
-PKP109	
-PKP108	cos'hai fatto xx
-PKP107	eh niente
-PKP108	niente
-PKP109	eh s'è trovata
+PKP107	è quello il problema
+PKP108	è quello
+PKP109	cos'hai fatto xx
+PKP108	eh niente
+PKP107	niente
+PKP108	eh s'è trovata
 PKP109	ti vedevo là in camera che facevi qualcosa
-PKP107	gingillavi
-PKP110	mhmh
-PKP109	netflix
-PKP107	
-PKP109	gingillare è proprio un termine che verrà studiato
-PKP108	
+PKP109	gingillavi
+PKP107	mhmh
+PKP110	netflix
+PKP107	gingillare è proprio un termine che verrà studiato
 PKP108	gingillo
-PKP109	gingillina
-PKP108	
+PKP108	gingillina
 PKP108	diceva nonna chiara
 PKP108	ti ricordi
-PKP109	gingillina
-PKP110	sì
-PKP107	
+PKP108	gingillina
+PKP109	sì
 PKP107	te quindi nonna vai da
-PKP110	da zia
-PKP108	sì
+PKP107	da zia
+PKP110	sì
 PKP108	allora ho ho
 PKP108	mh
 PKP108	ho
 PKP108	messaggiato
 PKP108	maria~ eh
 PKP108	veronica stamattina
-PKP110	allora gli ho detto
-PKP107	eh stavamo cercando di convincerla
-PKP108	x
-PKP110	
-PKP108	perché non vuole vedere la zia roberta
-PKP107	allora gli ho detto
-PKP108	eh
+PKP108	allora gli ho detto
+PKP110	eh stavamo cercando di convincerla
+PKP107	x
+PKP110	perché non vuole vedere la zia roberta
+PKP108	allora gli ho detto
+PKP107	eh
 PKP108	vero
 PKP108	mh
 PKP108	se
@@ -234,176 +221,162 @@ PKP108	zia ci porta giù a porto recanati
 PKP108	mangiamo insieme
 PKP108	che ne dici
 PKP108	ho mandato la la faccia triste
-PKP109	pia~
-PKP108	
-PKP110	dico per favore
-PKP107	
-PKP109	eh
-PKP108	
+PKP108	pia~
+PKP108	dico per favore
+PKP107	eh
 PKP108	e lei ha detto
 PKP108	boh
-PKP109	vedremo
+PKP108	vedremo
+PKP109	però
+PKP108	beh
+PKP109	pe~ non ha detto no
 PKP108	però
-PKP109	beh
-PKP108	pe~ non ha detto no
-PKP108	però
-PKP110	non ha detto no infatti
+PKP108	non ha detto no infatti
 PKP110	no ma po l'ho chiamata io
-PKP108	e gliel'ho chiesto ha detto eh ma se c'è papà
-PKP110	dopo
+PKP110	e gliel'ho chiesto ha detto eh ma se c'è papà
+PKP108	dopo
 PKP110	se qu~ se c'è papà no
 PKP110	perché la zia alberta non lo vuole vedere
 PKP110	come se fosse papà il problema
-PKP107	cioè a papà non gliene può fregar di meno
-PKP110	ma perché verrebbe anche tuo padre
+PKP110	cioè a papà non gliene può fregar di meno
+PKP107	ma perché verrebbe anche tuo padre
 PKP110	papà viene
-PKP108	giù dall'umbria
-PKP110	mercoledì
-PKP107	mercoledì sera
+PKP110	giù dall'umbria
+PKP108	mercoledì
+PKP110	mercoledì sera
 PKP107	ma verrebbe a
-PKP110	a cena dalla zia alberta
-PKP108	eh
-PKP110	no
-PKP107	cosa lo fai lo lasci a casa da solo
-PKP108	ah
+PKP107	a cena dalla zia alberta
+PKP110	eh
+PKP108	no
+PKP110	cosa lo fai lo lasci a casa da solo
+PKP107	ah
 PKP108	allora abbiamo detto
 PKP108	va bene non si può
 PKP108	mangiare insieme
 PKP108	non si può mangiare senza marco
 PKP108	perché se andiamo a porto recanati
 PKP108	e c'è marco è chiaro che
-PKP107	non potemo sta' uno eh
-PKP109	ah è vero perdonami
+PKP108	non potemo sta' uno eh
+PKP107	ah è vero perdonami
 PKP109	ma scusami
-PKP108	allora di' a veronica che venga a prendere mariarita ad ancona
+PKP109	allora di' a veronica che venga a prendere mariarita ad ancona
 PKP108	eh o così
-PKP109	oppure
-PKP110	che venga lei a prenderla
+PKP108	oppure
+PKP109	che venga lei a prenderla
 PKP110	ma infatti
 PKP110	volevamo stare lì
 PKP110	a pranzo dalla zia alberta
-PKP109	e poi la mamma mi veniva a prendere ad ancona
+PKP110	e poi la mamma mi veniva a prendere ad ancona
 PKP109	eh
-PKP108	esatto
-PKP109	eh infatti
-PKP110	scusami
-PKP109	pensavamo di fare
-PKP110	meglio ancora
-PKP109	faccio fare le carte
+PKP109	esatto
+PKP108	eh infatti
+PKP109	scusami
+PKP110	pensavamo di fare
+PKP109	meglio ancora
+PKP110	faccio fare le carte
 PKP109	mhmh
 PKP109	dalla
-PKP110	zia
+PKP109	zia
+PKP110	cartomante
 PKP109	cartomante
 PKP107	cartomante
-PKP109	cartomante
-PKP107	
 PKP107	beh
-PKP109	è raro avere una zia cartomante
-PKP110	e cosa ti vuoi
+PKP107	è raro avere una zia cartomante
+PKP109	e cosa ti vuoi
 PKP110	no io per gioco provo a farle ai miei amici
 PKP110	dicendo che sono la cartomante
 PKP110	di turno e loro mi credono anche
-PKP107	quando faccio le previsioni
-PKP110	beh però lei ci prende un po'
-PKP109	mh
-PKP110	ma tu che cosa ti vuoi fare predire
+PKP110	quando faccio le previsioni
+PKP107	beh però lei ci prende un po'
+PKP110	mh
+PKP109	ma tu che cosa ti vuoi fare predire
 PKP110	ma boh
 PKP110	lo faccio per gioco tanto mh
 PKP110	ma ultimamente ha un po' perso
-PKP107	ha perso
-PKP110	perché non va più nel piccolo tra
+PKP110	ha perso
+PKP107	perché non va più nel piccolo tra
 PKP110	poi giovedì non è
-PKP109	giovedì non è nemmeno il giorno con la erre
+PKP110	giovedì non è nemmeno il giorno con la erre
+PKP109	ah
 PKP107	ah
-PKP108	ah
-PKP109	eh giusto è vero
-PKP108	non è un giorno buono
-PKP109	eh non
-PKP108	per le carte
-PKP109	non dice il vero
-PKP107	mh
-PKP109	potrei avere il bis
-PKP110	te lo sei spolverato eh
-PKP107	allora andiamo giù mercoledì sera solo per le carte
-PKP110	avevo fame
-PKP109	
-PKP109	
+PKP108	eh giusto è vero
+PKP109	non è un giorno buono
+PKP108	eh non
+PKP109	per le carte
+PKP108	non dice il vero
+PKP109	mh
+PKP107	potrei avere il bis
+PKP109	te lo sei spolverato eh
+PKP110	allora andiamo giù mercoledì sera solo per le carte
+PKP107	avevo fame
 PKP109	ah di
 PKP109	vuoi andar giù mercoledì
-PKP108	dormi con la nonna
+PKP109	dormi con la nonna
 PKP108	oh
-PKP110	basta che
+PKP108	basta che
 PKP110	no che c'ho
 PKP110	queste due vecchie russano
-PKP109	mamma mia
-PKP110	
+PKP110	mamma mia
 PKP110	no
-PKP108	perché mi ritrovo lì
+PKP110	perché mi ritrovo lì
 PKP108	ma no c'è
-PKP110	c'hai la
-PKP108	pia e pure la zia che russano come delle
+PKP108	c'hai la
+PKP110	pia e pure la zia che russano come delle
+PKP108	pia
 PKP109	pia
-PKP110	pia
-PKP108	no non ce la posso fare
+PKP110	no non ce la posso fare
 PKP108	sta' senti' mari
-PKP110	c'hai la tua camerina
+PKP108	c'hai la tua camerina
 PKP110	ma lo sai nonna che ti si sente che russi
-PKP109	d~ d~ dalla camera all'altra
-PKP110	
+PKP110	d~ d~ dalla camera all'altra
 PKP110	si sente che russi
-PKP108	da due camere di distanza
-PKP107	xxx
-PKP110	sì ma tu sei un po' sensibile
-PKP107	sì io tantissimo
-PKP110	ai al russo
-PKP107	cioè io devo
-PKP110	eh
+PKP110	da due camere di distanza
+PKP108	xxx
+PKP107	sì ma tu sei un po' sensibile
+PKP110	sì io tantissimo
+PKP107	ai al russo
+PKP110	cioè io devo
+PKP107	eh
 PKP110	ma io devo dormire con zero rumori
-PKP108	perché se no mi da fastidio
-PKP110	sta notte ho russato
-PKP109	me so' addormentata prima io me sa
-PKP108	eh allora
-PKP107	
+PKP110	perché se no mi da fastidio
+PKP108	sta notte ho russato
+PKP110	me so' addormentata prima io me sa
+PKP109	eh allora
 PKP107	però io è vero ti sento
 PKP107	quando dormo qua
 PKP107	quando ti addormenti
-PKP108	dopo smetti
-PKP109	ah
+PKP107	dopo smetti
+PKP108	ah
 PKP109	eh vabbè
-PKP107	eh oh
+PKP109	eh oh
 PKP107	che dopo dico
 PKP107	boh
-PKP109	è viva
-PKP107	
-PKP110	perché all'inizio russa poi smette
-PKP108	
-PKP110	
+PKP107	è viva
+PKP107	perché all'inizio russa poi smette
 PKP110	no ma
 PKP110	l'anno scorso o era due anni fa
 PKP110	che lei era venuta lì a dormire a porto recanati
-PKP108	in quell'alberghino
-PKP107	xx
-PKP108	sì
-PKP110	xxx
+PKP110	in quell'alberghino
+PKP108	xx
+PKP107	sì
+PKP108	xxx
 PKP110	eh
 PKP110	mi ricordo che ero rimasta una notte a dormire da lei
 PKP110	non ho do~
 PKP110	non ho chiuso occhio
 PKP110	tutta la notte
-PKP107	le ho fatto pure un video mentre russava l'ho fatto vedere alla mamma
-PKP110	
+PKP110	le ho fatto pure un video mentre russava l'ho fatto vedere alla mamma
 PKP110	si è scon~
 PKP110	ah era rimasta sconvolta
-PKP108	mi ha chiesto di eliminarlo
-PKP108	
+PKP110	mi ha chiesto di eliminarlo
 PKP108	oddio
-PKP110	dai
-PKP108	sì ti giuro
-PKP110	beh me lo potevi far vedere
+PKP108	dai
+PKP110	sì ti giuro
+PKP108	beh me lo potevi far vedere
 PKP110	io c'ho p~
 PKP110	hai russato
-PKP109	io c'ho provato ogni tanto ti tappavo il naso
-PKP110	ma come
+PKP110	io c'ho provato ogni tanto ti tappavo il naso
+PKP109	ma come
 PKP110	per vedere
 PKP110	smettevi per due secondi poi ripartivi
 PKP110	a un certo punto perché poi non è che
@@ -413,158 +386,151 @@ PKP110	no mi dava proprio urto
 PKP110	questo russo nelle orecchie così
 PKP110	mi dava proprio fastidio allora a un certo punto
 PKP110	ho preso mi sono alzata sono andata in bagno
-PKP108	e mi sono messa a dormire in bagno
-PKP110	e dai
+PKP110	e mi sono messa a dormire in bagno
+PKP108	e dai
 PKP110	però non riuscivo a dormire
-PKP109	ho chiuso la porta si sentiva ancora il russo
-PKP110	
+PKP110	ho chiuso la porta si sentiva ancora il russo
 PKP110	mi sono messa a leggere
 PKP110	e poi e sono le otto di mattina
 PKP110	la nonna si è svegliata
-PKP109	e io mi sono messa a dormire dalle otto alle nove
-PKP108	
-PKP108	
+PKP110	e io mi sono messa a dormire dalle otto alle nove
 PKP108	è per quello che la volta dopo
 PKP108	non sei volut~
-PKP110	papà t'è venuto a prendere era anche tardi ma t'è venuto prendere
-PKP109	assolutamente no
-PKP108	
-PKP110	per portarti a casa
-PKP108	mh
-PKP109	eh ragazze
-PKP110	eh
-PKP108	no no io
-PKP110	che ci vuoi fa'
-PKP109	n~ n~ non ce la faccio
-PKP107	ti xx gioventù
+PKP108	papà t'è venuto a prendere era anche tardi ma t'è venuto prendere
+PKP110	assolutamente no
+PKP108	per portarti a casa
+PKP110	mh
+PKP108	eh ragazze
+PKP109	eh
+PKP110	no no io
+PKP108	che ci vuoi fa'
+PKP110	n~ n~ non ce la faccio
+PKP109	ti xx gioventù
 PKP107	mh
-PKP108	anche al mare
-PKP107	di carta
-PKP110	sentiva lo zio pino che russava
-PKP107	eh
-PKP110	è vero che l'hai sentito che russava
-PKP107	sì si sentiva
-PKP110	non riuscivi a dormire
-PKP109	no non era per quello che non riuscivo a dormire
+PKP107	anche al mare
+PKP108	di carta
+PKP107	sentiva lo zio pino che russava
+PKP110	eh
+PKP107	è vero che l'hai sentito che russava
+PKP110	sì si sentiva
+PKP107	non riuscivi a dormire
+PKP110	no non era per quello che non riuscivo a dormire
 PKP109	dai non è che russasse tan~
-PKP110	sì un po' sì
-PKP109	no ma io sono proprio sensibilissima ai rumori
-PKP110	xxxx
+PKP109	sì un po' sì
+PKP110	no ma io sono proprio sensibilissima ai rumori
+PKP109	xxxx
 PKP110	cioè proprio di notte
 PKP110	devo avere il mio buio totale
 PKP110	il mio silenzio totale
-PKP108	e sto da dio
+PKP110	e sto da dio
 PKP108	xx
-PKP109	eh
+PKP108	eh
 PKP109	ma scusami
-PKP108	ma se alla mattina non ti svegliano neanche le cannonate
-PKP110	eh beh
-PKP109	
-PKP107	scusa eh
-PKP109	ma infatti
+PKP109	ma se alla mattina non ti svegliano neanche le cannonate
+PKP108	eh beh
+PKP109	scusa eh
+PKP107	ma infatti
 PKP109	perché sto fatto
 PKP109	di notte sei sensibile
-PKP110	però di giorno
+PKP109	però di giorno
 PKP110	no
-PKP109	per addormentarmi
-PKP110	allora
+PKP110	per addormentarmi
+PKP109	allora
 PKP110	poi dopo alla mattina
-PKP109	eh ormai sono addormentata
-PKP108	mamma mia
+PKP110	eh ormai sono addormentata
+PKP109	mamma mia
 PKP108	ma lei
 PKP108	dorme profondamente
-PKP109	dalle sei della mattina
-PKP108	ah esatto
-PKP109	fino alle dieci
-PKP110	ah per forza
-PKP109	bellissimo
-PKP108	ormai è sfasata
-PKP110	eh
-PKP108	alla mattina è bellissimo dormire al mattino
-PKP109	a chi lo dici
+PKP108	dalle sei della mattina
+PKP109	ah esatto
+PKP108	fino alle dieci
+PKP109	ah per forza
+PKP110	bellissimo
+PKP109	ormai è sfasata
+PKP108	eh
+PKP110	alla mattina è bellissimo dormire al mattino
+PKP108	a chi lo dici
 PKP109	e quando devi andare a scuola
-PKP110	scusa
-PKP109	dormo a scuola
+PKP109	scusa
+PKP110	dormo a scuola
 PKP109	eh sì
-PKP108	certo
-PKP108	
-PKP110	e dai mari
-PKP109	
+PKP109	certo
+PKP108	e dai mari
 PKP109	te lo danno i professori
-PKP108	dormire
+PKP109	dormire
 PKP108	xxx
-PKP110	eh
-PKP108	allora io mi sveglio alle sei di mattina che sono uno zombie
-PKP110	eh beh
+PKP108	eh
+PKP110	allora io mi sveglio alle sei di mattina che sono uno zombie
+PKP108	eh beh
 PKP110	poi
 PKP110	prendo la corriera
 PKP110	che mo la perdo
 PKP110	e poi
 PKP110	le prime due ore proprio dormi
 PKP110	cioè
-PKP108	ma tutti dormono a scuola le prime due ore
-PKP110	xxx
+PKP110	ma tutti dormono a scuola le prime due ore
+PKP108	xxx
 PKP110	soprattutto se la prima ora c'è il prof di religione dormi
 PKP110	cioè che fai x
-PKP109	lo ascolti
+PKP110	lo ascolti
 PKP109	okay
 PKP109	sara f~
 PKP109	quando andavano a scuola facevano i dibattiti
 PKP109	guardavano i film
-PKP107	no
+PKP109	no
 PKP107	sì
-PKP110	tranne la prima ora che dormivo anch'io
-PKP109	sì appunto dormi
-PKP107	ah allora
+PKP107	tranne la prima ora che dormivo anch'io
+PKP110	sì appunto dormi
+PKP109	ah allora
 PKP107	eh beh alle sette
-PKP110	hai sonno
-PKP107	eh
-PKP110	xxx
-PKP107	in spagna la scuola inizia un'ora dopo
-PKP108	alle nove
-PKP107	quest'anno
-PKP110	in spagna
+PKP107	hai sonno
+PKP110	eh
+PKP107	xxx
+PKP110	in spagna la scuola inizia un'ora dopo
+PKP107	alle nove
+PKP108	quest'anno
+PKP107	in spagna
 PKP110	no in spagna sempre
-PKP108	perché loro vanno a dormire più tardi di noi
-PKP109	ah
-PKP110	okay
-PKP108	potrebbero xxx
-PKP110	xxx
+PKP110	perché loro vanno a dormire più tardi di noi
+PKP108	ah
+PKP109	okay
+PKP110	potrebbero xxx
+PKP108	xxx
 PKP110	ma alle otto è presto per fare iniziare la scuola
-PKP109	perché non la fa~
+PKP110	perché non la fa~
 PKP109	ma a che ora finisci dopo
-PKP110	però
-PKP109	mo ma alle du~ dalle nove alle due
+PKP109	però
+PKP110	mo ma alle du~ dalle nove alle due
 PKP109	alle due
-PKP107	oh mamma mia
-PKP109	è brutto così però
-PKP108	ma dai
-PKP107	ma no
-PKP109	dopo non hai tempo per xxxx
+PKP109	oh mamma mia
+PKP107	è brutto così però
+PKP109	ma dai
+PKP108	ma no
+PKP107	dopo non hai tempo per xxxx
 PKP109	cioè arrivi alle tre
-PKP110	poi cosa fai mangi
+PKP109	poi cosa fai mangi
 PKP110	no invece si dovrebbe fare
 PKP110	si dovrebbe fare come in america
 PKP110	che va~ vai a scuola dalle nove
 PKP110	alle
-PKP108	a me~ a mezzogiorno
-PKP110	all'una
+PKP110	a me~ a mezzogiorno
+PKP108	all'una
 PKP110	pa~
-PKP109	pranzi a scuola
+PKP110	pranzi a scuola
 PKP109	eh
-PKP110	esatto
-PKP109	e stai il pomeriggio
-PKP110	va bene
+PKP109	esatto
+PKP110	e stai il pomeriggio
+PKP109	va bene
 PKP110	tipo pomeiriggio
 PKP110	ti ti danno un'ora per studiare
 PKP110	cioè nelle lezioni un po' più
-PKP109	tranquille le fai il pomeriggio
-PKP110	eh
+PKP110	tranquille le fai il pomeriggio
+PKP109	eh
 PKP110	a parte che al classico lezioni tranquille non ci sono
-PKP107	però
-PKP109	appunto
+PKP110	però
+PKP107	appunto
 PKP109	però
-PKP110	sì sì
+PKP109	sì sì
 PKP110	cioè sarebbe
 PKP110	molto
 PKP110	più
@@ -573,34 +539,34 @@ PKP110	però in america è organizzata meglio
 PKP110	proprio come struttura
 PKP110	cioè
 PKP110	tu senti
-PKP108	dei ragazzi c'hanno voglia di andare a scuola
-PKP109	eh perché
+PKP110	dei ragazzi c'hanno voglia di andare a scuola
+PKP108	eh perché
 PKP109	ah anche perché lì materie
-PKP108	le scelgono
+PKP109	le scelgono
 PKP108	lì sono
-PKP109	articolate molto meglio
-PKP108	sì
-PKP109	c'hanno la mensa
-PKP108	no
-PKP109	c'hanno i locali per
-PKP108	no che siano molto meglio
-PKP109	xx
-PKP108	ho dei dubbi
-PKP109	beh
-PKP108	perché
+PKP108	articolate molto meglio
+PKP109	sì
+PKP108	c'hanno la mensa
+PKP109	no
+PKP108	c'hanno i locali per
+PKP109	no che siano molto meglio
+PKP108	xx
+PKP109	ho dei dubbi
 PKP108	beh
-PKP109	eh
-PKP110	cioè il sistema scolastico
-PKP108	ma fanno
+PKP109	perché
+PKP108	beh
+PKP108	eh
+PKP109	cioè il sistema scolastico
+PKP110	ma fanno
 PKP108	no come strutture
-PKP107	come strutture dico
+PKP108	come strutture dico
 PKP107	c'è più libertà di scelta lì
-PKP109	è come
-PKP107	esatto
-PKP110	un po' come in inghilterra che
+PKP107	è come
+PKP109	esatto
+PKP107	un po' come in inghilterra che
 PKP110	ma guarda che in america
 PKP110	le materie te le scegli tu
-PKP109	quali vuoi fare
+PKP110	quali vuoi fare
 PKP109	appunto
 PKP109	però
 PKP109	non sembra
@@ -609,387 +575,374 @@ PKP109	x secondo me a una certa età
 PKP109	bisogna studiare un po' tutto
 PKP109	soprattutto una preparazione umanistica
 PKP109	con eh
-PKP110	anche soprattutto il latino xx
-PKP108	ne farei a meno volentieri
+PKP109	anche soprattutto il latino xx
+PKP110	ne farei a meno volentieri
 PKP108	sì
 PKP108	ma parliamo di strutture
-PKP109	beh vale
+PKP108	beh vale
 PKP109	no già lì
 PKP109	si orientano molto
 PKP109	scelgono loro le materie
 PKP109	cioè in una scuola superiore
-PKP110	guarda se andassi
-PKP109	ma ci vorrebbe
+PKP109	guarda se andassi
+PKP110	ma ci vorrebbe
 PKP109	gli amici di chiara
 PKP109	eh
 PKP109	hanno fatto
 PKP109	sceglievano delle materie ma
-PKP107	insulse dai
+PKP109	insulse dai
 PKP107	basta basta
-PKP110	vorrei solo
-PKP108	ma ci vorrebbe l'istruzione italiana
+PKP107	vorrei solo
+PKP110	ma ci vorrebbe l'istruzione italiana
 PKP108	c'è una mezza di xx
-PKP107	la vuoi
-PKP110	un pochino
-PKP107	con
-PKP110	ecco la nonna lo sa
-PKP110	
-PKP107	sì
-PKP108	il bordino della pentola
-PKP107	ma non è molto
-PKP110	vabbè basta basta
+PKP108	la vuoi
+PKP107	un pochino
+PKP110	con
+PKP107	ecco la nonna lo sa
+PKP110	sì
+PKP107	il bordino della pentola
+PKP108	ma non è molto
+PKP107	vabbè basta basta
 PKP110	ci vorrebbe l'organizzazione della scuola
 PKP110	americana
 PKP110	con l'istruzione italiana
 PKP110	mix
-PKP108	e viene una figata
+PKP110	e viene una figata
 PKP108	oh
 PKP108	quello che volevo dire
 PKP108	quì in italia non ci sono le
 PKP108	le strutture
 PKP108	perché le le scuole non hanno la mensa
 PKP108	non hanno
-PKP109	i locali dove poter fare
-PKP108	mamma ne vuoi un altro po'
+PKP108	i locali dove poter fare
+PKP109	mamma ne vuoi un altro po'
 PKP108	no basta
 PKP108	hai capito
 PKP108	quindi eh
 PKP108	se f~ se fanno le infrastrutture
-PKP110	poi dopo si può fare anche una
+PKP108	poi dopo si può fare anche una
 PKP110	ma sì
-PKP108	perché anche tipo in america lo sport è dentro la scuola
-PKP110	eh
-PKP108	ci sono un sacco di corsi carini da fare
-PKP110	eh certo
+PKP110	perché anche tipo in america lo sport è dentro la scuola
+PKP108	eh
+PKP110	ci sono un sacco di corsi carini da fare
+PKP108	eh certo
 PKP110	tutte lì le mascotte
 PKP110	tutta fighissima
 PKP110	tutte le partite di baseball
 PKP110	cioè
 PKP110	la scuola
-PKP108	diventa più unita
-PKP110	sì
-PKP108	anche come persone
+PKP110	diventa più unita
+PKP108	sì
+PKP110	anche come persone
 PKP108	certo certo
-PKP109	cambia
-PKP110	infatti quello è bello
-PKP108	quando organizzano esatto
-PKP110	quello xx
-PKP108	organizzano molte più cose
+PKP108	cambia
+PKP109	infatti quello è bello
+PKP110	quando organizzano esatto
+PKP108	quello xx
+PKP110	organizzano molte più cose
 PKP108	eh
 PKP108	eh lo so
 PKP108	poi capirai hanno
 PKP108	hanno le aule fatiscenti
 PKP108	eh eh
-PKP110	vedi certi istituti proprio
+PKP108	vedi certi istituti proprio
 PKP110	eh
 PKP110	poi è anche bello il fatto che le aule siano dei professori
-PKP108	e che gli alunni cambiano aula e abbiano gli armadietti in corridoio
-PKP110	mh
+PKP110	e che gli alunni cambiano aula e abbiano gli armadietti in corridoio
+PKP108	mh
 PKP110	che poi ti fai una
 PKP110	passeggiatina
-PKP107	parli xxx
-PKP110	cambiando discorso
-PKP107	sì
-PKP110	il termine stoppaccioso è italiano
-PKP107	sì
+PKP110	parli xxx
+PKP107	cambiando discorso
+PKP110	sì
+PKP107	il termine stoppaccioso è italiano
+PKP110	sì
 PKP107	perché ieri l'ho detto
 PKP107	che ave~ ah
-PKP109	stavamo mangiando una roba stoppacciosa ho detto
-PKP108	io penserei di sì
-PKP107	beh
+PKP107	stavamo mangiando una roba stoppacciosa ho detto
+PKP109	io penserei di sì
+PKP108	beh
 PKP107	mi hanno riso tutti in faccia
 PKP107	e hanno detto ah un'altra delle parole che ti inventi
-PKP109	poi allora l'ho cercato
+PKP107	poi allora l'ho cercato
 PKP109	ma c'è
-PKP107	forse non è in quel senso
-PKP109	vuol dire filaccioso
-PKP108	eh
-PKP109	filaccioso
-PKP108	xx
-PKP110	sì
+PKP109	forse non è in quel senso
+PKP107	vuol dire filaccioso
+PKP109	eh
+PKP108	filaccioso
+PKP109	xx
+PKP108	sì
 PKP110	anche la ciga
 PKP110	qua non si dice
-PKP107	tipo
-PKP110	la che
+PKP110	tipo
+PKP107	la che
 PKP110	la ciga
-PKP109	tipo mi ha dato una ciga della madonna xx
-PKP110	sgridata
+PKP110	tipo mi ha dato una ciga della madonna xx
+PKP109	sgridata
 PKP110	eh una sgridata
 PKP110	però a me tipo ieri l'ho detto con giovanni
-PKP107	non aveva capito
+PKP110	non aveva capito
 PKP107	no
 PKP107	ma come voi che dite
-PKP108	fare seghino a scuola
-PKP110	sì
-PKP108	fare sega ma si dice fare sega
-PKP110	si dice
-PKP107	fare seghì
-PKP110	xx
-PKP108	ha fatto seghì
-PKP110	ha fatto seghi'
-PKP108	vabbè ma si dice
-PKP107	perché
-PKP108	noi non lo diciamo
+PKP107	fare seghino a scuola
+PKP108	sì
+PKP110	fare sega ma si dice fare sega
+PKP108	si dice
+PKP110	fare seghì
+PKP107	xx
+PKP110	ha fatto seghì
+PKP108	ha fatto seghi'
+PKP110	vabbè ma si dice
+PKP108	perché
+PKP107	noi non lo diciamo
 PKP108	voi
-PKP110	eh
-PKP107	dite ha fatto buco
+PKP108	eh
+PKP110	dite ha fatto buco
 PKP107	noi
 PKP107	diciamo abbiamo f~
 PKP107	sì
-PKP108	fare buco
+PKP107	fare buco
 PKP108	mh beh
-PKP110	bu~ buco
-PKP108	eh diciamo che nell'italia centro sud
+PKP108	bu~ buco
+PKP110	eh diciamo che nell'italia centro sud
 PKP108	eh è un po' generale diciamo
-PKP109	ehm
-PKP108	così lo dice
+PKP108	ehm
+PKP109	così lo dice
 PKP108	anche noi
 PKP108	anche nelle marche dici buco
 PKP108	fa ridere
-PKP110	certo
-PKP108	ma anche nella serie lì baby che guardavamo
+PKP108	certo
+PKP110	ma anche nella serie lì baby che guardavamo
 PKP108	però
 PKP108	quello proprio più particolare delle marche
-PKP107	è seghi'
-PKP108	eh
+PKP108	è seghi'
 PKP107	eh
-PKP108	seghi'
+PKP108	eh
+PKP107	seghi'
 PKP108	seghi'
 PKP108	perché la le
 PKP108	noi tronchiamo le parole
-PKP110	come i romani
-PKP108	sì sì
+PKP108	come i romani
+PKP110	sì sì
 PKP108	come
 PKP108	i laziali
-PKP110	a roma
-PKP107	no a roma dicono proprio ho fatto sega
-PKP109	ma anche da noi diciamo ho fatto sega
+PKP108	a roma
+PKP110	no a roma dicono proprio ho fatto sega
+PKP107	ma anche da noi diciamo ho fatto sega
 PKP109	a chiara gli è partito
 PKP109	un pezzo di riso sul
-PKP108	pantaloncino
-PKP109	xx
-PKP110	eh
-PKP108	xxx
+PKP109	pantaloncino
+PKP108	xx
+PKP109	eh
+PKP110	xxx
 PKP108	non si butta via niente
-PKP108	
-PKP108	
-PKP109	
-PKP110	ce n'è un altro po' per te mariarita
-PKP108	mh
-PKP109	si dai
-PKP110	come sei felice
-PKP108	che gioia immensa
-PKP107	xx
-PKP109	ma c'è anche il secondo
-PKP108	salta
-PKP108	perché era ca~
-PKP109	c'é il prosciutto col melone
-PKP108	se lo volete
-PKP109	va bene va bene
-PKP108	perché se poi siete piene
-PKP107	no beh una fettina
-PKP108	ma io vorrei solo il melone
-PKP110	una fettina ne vo~
-PKP108	eh
-PKP110	ne vuoi un altro ramaiolino mari
-PKP108	mh
-PKP108	no
-PKP109	mangi un po' di prosciutto però
+PKP109	ce n'è un altro po' per te mariarita
 PKP110	mh
-PKP109	melone
-PKP110	okay
-PKP109	non mi va il prosciutto
+PKP108	si dai
+PKP109	come sei felice
+PKP110	che gioia immensa
+PKP108	xx
+PKP107	ma c'è anche il secondo
+PKP109	salta
+PKP108	perché era ca~
+PKP108	c'é il prosciutto col melone
+PKP109	se lo volete
+PKP108	va bene va bene
+PKP109	perché se poi siete piene
+PKP108	no beh una fettina
+PKP107	ma io vorrei solo il melone
+PKP108	una fettina ne vo~
+PKP110	eh
+PKP108	ne vuoi un altro ramaiolino mari
+PKP110	mh
+PKP108	no
+PKP108	mangi un po' di prosciutto però
+PKP109	mh
+PKP110	melone
+PKP109	okay
+PKP110	non mi va il prosciutto
 PKP109	dai dopo questa quì
-PKP108	finiamolo dai dai su
+PKP109	finiamolo dai dai su
 PKP108	finiamola dai
-PKP109	su
-PKP108	eh
-PKP107	xxx
-PKP110	io non lo so più xx
-PKP107	finitela
+PKP108	su
+PKP109	eh
+PKP108	xxx
+PKP107	io non lo so più xx
+PKP110	finitela
 PKP107	ma quindi andate giù
-PKP110	giovedì mattina
-PKP108	sì
-PKP109	è molta
-PKP108	eh eh lo so che
+PKP107	giovedì mattina
+PKP110	sì
+PKP108	è molta
+PKP109	eh eh lo so che
 PKP108	ah insomma
 PKP108	allo~ de~
 PKP108	o finitela
 PKP108	poi
-PKP109	
-PKP107	poi la finisci tu
-PKP108	la finisci tu
+PKP109	poi la finisci tu
+PKP107	la finisci tu
 PKP108	infatti
-PKP107	me la
-PKP108	io se vuoi
-PKP107	me la date tutta a me
-PKP109	pulisco la pentola
-PKP108	va bene pulisci la pentola
-PKP107	dai pulisci la pentola to
-PKP108	mh
-PKP110	tieni chiari
-PKP108	ma ho freddo
-PKP107	hai freddo beh
-PKP108	i io stavo sudando
-PKP107	chiudo
-PKP110	lasciamo
-PKP109	ma come
-PKP108	aspetta che lascio uno spiffero dai
+PKP108	me la
+PKP107	io se vuoi
+PKP108	me la date tutta a me
+PKP107	pulisco la pentola
+PKP109	va bene pulisci la pentola
+PKP108	dai pulisci la pentola to
+PKP107	mh
+PKP108	tieni chiari
+PKP110	ma ho freddo
+PKP108	hai freddo beh
+PKP107	i io stavo sudando
+PKP108	chiudo
+PKP107	lasciamo
+PKP110	ma come
+PKP109	aspetta che lascio uno spiffero dai
 PKP108	magari apri il
-PKP109	vasistas
-PKP107	ah okay sì x
+PKP108	vasistas
+PKP109	ah okay sì x
+PKP107	los vasistas
 PKP110	los vasistas
-PKP109	los vasistas
-PKP110	tu fai l'attività di spagnolo
+PKP109	tu fai l'attività di spagnolo
 PKP110	xx
-PKP107	espagnoles
-PKP110	los vasistas
+PKP110	espagnoles
+PKP107	los vasistas
 PKP110	hola
-PKP109	chicos
+PKP110	chicos
 PKP109	allora
-PKP110	intanto pulisco il melone
-PKP108	non mi ricordo niente di spagnolo
+PKP109	intanto pulisco il melone
+PKP110	non mi ricordo niente di spagnolo
 PKP108	avete visto ieri
-PKP107	l l l'inaugurazione del ponte morandi
-PKP110	no
+PKP108	l l l'inaugurazione del ponte morandi
+PKP107	no
 PKP110	io sì con la nonna
-PKP108	abbiamo visto l'inaugurazione sul tg
+PKP110	abbiamo visto l'inaugurazione sul tg
 PKP108	abbiamo visto
-PKP107	c'erano anche
-PKP108	davvero
+PKP108	c'erano anche
+PKP107	davvero
 PKP108	mh
 PKP108	hanno fatto una diretta alle sei
-PKP109	di ieri pomeriggio
-PKP108	sì l'ha visto l'ha intravista xxx
-PKP110	c'erano le frecce tricolori
-PKP108	xx
+PKP108	di ieri pomeriggio
+PKP109	sì l'ha visto l'ha intravista xxx
+PKP108	c'erano le frecce tricolori
+PKP110	xx
 PKP108	eh
 PKP108	poi c'era il capo dello stato
 PKP108	tutte tutte le nostre autorità
 PKP108	naturalmente
 PKP108	eh
-PKP108	
-PKP107	si è visto
-PKP109	wow
-PKP108	hanno fatto in fretta a farlo eh
-PKP109	mado'
+PKP108	si è visto
+PKP107	wow
+PKP109	hanno fatto in fretta a farlo eh
+PKP108	mado'
 PKP109	è dura
-PKP108	sarà che se vogliono
-PKP107	qui~ qui~ quindici mesi
-PKP108	eh infatti
-PKP107	
+PKP109	sarà che se vogliono
+PKP108	qui~ qui~ quindici mesi
+PKP107	eh infatti
 PKP107	puoi
-PKP110	ci sei nonna
-PKP108	xx
-PKP108	eh è la
-PKP109	è un chicco che m'è andato per traverso
-PKP107	strano
-PKP110	
-PKP108	eh infatti
-PKP110	strano sì
-PKP109	xx
-PKP108	ti ingozzi tutte le volte mamma
+PKP107	ci sei nonna
 PKP110	xx
-PKP108	ci sei
-PKP109	
+PKP108	eh è la
+PKP108	è un chicco che m'è andato per traverso
+PKP109	strano
+PKP110	eh infatti
+PKP108	strano sì
+PKP110	xx
+PKP109	ti ingozzi tutte le volte mamma
+PKP108	xx
+PKP110	ci sei
 PKP109	eh ma
 PKP109	perché vuoi parlare
-PKP108	e intanto mangiare
-PKP110	xx eh allora sto zitta e via
-PKP109	
+PKP109	e intanto mangiare
+PKP108	xx eh allora sto zitta e via
 PKP109	lo dici dopo
-PKP108	eh
-PKP107	eh x
-PKP109	okay ho finito
-PKP108	parla adesso
+PKP109	eh
+PKP108	eh x
+PKP107	okay ho finito
+PKP109	parla adesso
 PKP108	eh eh
-PKP109	e il prosciutto
+PKP108	e il prosciutto
 PKP109	aspetta
-PKP108	prima taglio il melone
-PKP109	xx
-PKP108	poi
-PKP109	cambiamo il piatto
-PKP107	non c'è bisogno mamma di cambiare xxx
-PKP109	no ma che piatto lascia quello
-PKP110	stai seduta
+PKP109	prima taglio il melone
+PKP108	xx
+PKP109	poi
+PKP108	cambiamo il piatto
+PKP109	non c'è bisogno mamma di cambiare xxx
+PKP107	no ma che piatto lascia quello
+PKP109	stai seduta
 PKP110	nonna ma chi è ho chi minh
-PKP108	perché noi siamo in via ho chi minh
-PKP107	ho chi minh è
-PKP110	era il capo dei vietcong
-PKP107	davvero
-PKP110	sì
-PKP107	ah non lo sapevo
-PKP108	non era il capo dei vietcong
-PKP110	sì
-PKP107	però io vedi di storia alle medie non abbiamo fatto niente
+PKP110	perché noi siamo in via ho chi minh
+PKP108	ho chi minh è
+PKP107	era il capo dei vietcong
+PKP110	davvero
+PKP107	sì
+PKP110	ah non lo sapevo
+PKP107	non era il capo dei vietcong
+PKP108	sì
+PKP110	però io vedi di storia alle medie non abbiamo fatto niente
 PKP107	cioè il capo xx
 PKP107	e invece patrice lumumba
 PKP107	era
 PKP107	il eh
 PKP107	ministro del
 PKP107	la minist~
-PKP109	no è una fem~
-PKP108	un maschio
-PKP107	xx
-PKP108	ministro del congo
-PKP109	sì
-PKP110	mh
+PKP107	no è una fem~
+PKP109	un maschio
+PKP108	xx
+PKP107	ministro del congo
+PKP108	sì
+PKP109	mh
 PKP110	ma com'era tu che avevi tira~
 PKP110	l'ayatolla
-PKP109	al posto della ayatollah
-PKP107	
-PKP108	
+PKP110	al posto della ayatollah
 PKP108	l'ayatolla
-PKP107	chi è che l'aveva detto
-PKP109	io dio
-PKP110	lo sai già
-PKP108	lei
+PKP108	chi è che l'aveva detto
+PKP107	io dio
+PKP109	lo sai già
+PKP110	lei
 PKP108	ah
-PKP110	xxx
-PKP108	boh non mi ricordo nemmeno chi è sinceramente però
-PKP107	l'ayatollah è
+PKP108	xxx
+PKP110	boh non mi ricordo nemmeno chi è sinceramente però
+PKP108	l'ayatollah è
 PKP107	il capo
 PKP107	religioso eh
 PKP107	islam~
-PKP109	no chi è che è
+PKP107	no chi è che è
+PKP109	iraniano
 PKP107	iraniano
-PKP108	iraniano
-PKP110	dell'iran
+PKP108	dell'iran
 PKP110	wow
 PKP110	l'avete visto voi
 PKP110	i sette anni in tibet
-PKP107	sì che l'avete visto
+PKP110	sì che l'avete visto
 PKP107	no io non l'ho visto
-PKP110	però adesso lo voglio guardare xxx
+PKP107	però adesso lo voglio guardare xxx
 PKP110	xx
-PKP108	bello io l'ho dovuto rivedere due volte
-PKP110	quello con brad pitt
-PKP107	cioè di fila
+PKP110	bello io l'ho dovuto rivedere due volte
+PKP108	quello con brad pitt
+PKP110	cioè di fila
+PKP107	sì
 PKP109	sì
-PKP110	sì
 PKP110	mamma mia
-PKP108	quant'è bono brad pitt
+PKP110	quant'è bono brad pitt
 PKP108	sì l'ho visto
 PKP108	eh
-PKP110	è bello sì
+PKP108	è bello sì
 PKP110	no è bello bello quel film
-PKP109	però per capirlo bene l'ho dovuto riguardare due volte
-PKP110	e cos'hai capito
+PKP110	però per capirlo bene l'ho dovuto riguardare due volte
+PKP109	e cos'hai capito
 PKP110	eh
 PKP110	ho capito che lui all'inizio mi stava un po' sulle palle
 PKP110	perché boh
 PKP110	faceva un po' lo strafottente
 PKP110	così con la moglie
 PKP110	poi dopo parte e riscopre
-PKP109	i veri valori della vita
-PKP110	e quali sarebbero
+PKP110	i veri valori della vita
+PKP109	e quali sarebbero
 PKP110	eh
-PKP109	eh
-PKP110	
+PKP110	eh
 PKP110	no praticamente
 PKP110	no dopo mi ricordo che quando inizia a viaggiare
-PKP109	in tibet
-PKP110	mh
+PKP110	in tibet
+PKP109	mh
 PKP110	eh
 PKP110	inizia
 PKP110	a scrivere diciamo questo diario e le lettere per la moglie
@@ -1012,315 +965,301 @@ PKP110	perché
 PKP110	noi qua in occidente
 PKP110	met~ cioè
 PKP110	l~ l'uomo che si mette in mostra è quello diciamo più
-PKP109	ben visto
-PKP110	sì
+PKP110	ben visto
+PKP109	sì
 PKP110	mentre in oriente
 PKP110	l'uomo che mette da parte il proprio individualismo
 PKP110	e si
 PKP110	diciamo
 PKP110	come si dice
 PKP110	cioè mette da parte proprio tutto il proprio ego
-PKP108	eh
-PKP110	si dedica agli altri
-PKP108	si dedica all'altruismo esatto
-PKP110	mh
-PKP108	cioè proprio c'è questa differenza di cultura
+PKP110	eh
+PKP108	si dedica agli altri
+PKP110	si dedica all'altruismo esatto
+PKP108	mh
+PKP110	cioè proprio c'è questa differenza di cultura
 PKP108	xx
 PKP108	questo tipo di
 PKP108	di altruismo
-PKP107	che viene più apprezzato
-PKP110	discorsi di qualità
-PKP109	x
-PKP108	ecco il melone
+PKP108	che viene più apprezzato
+PKP107	discorsi di qualità
+PKP110	x
+PKP109	ecco il melone
 PKP108	senti come tuona
-PKP107	tanto tuonò che piovve
-PKP109	
-PKP110	
-PKP109	e dal culo chi strombetta
-PKP107	chi x
-PKP108	
-PKP108	
-PKP109	questo
-PKP108	c'è xxx
-PKP109	questo è dante
+PKP108	tanto tuonò che piovve
+PKP110	e dal culo chi strombetta
+PKP109	chi x
+PKP108	questo
+PKP109	c'è xxx
+PKP108	questo è dante
 PKP109	quello che
-PKP107	vi ricordate di dante
-PKP108	esatto io mi ricordo
-PKP107	
-PKP109	amor che nulla amato amar perdona
-PKP110	te ancora mariarita lo devi studiare
-PKP108	ma c'è il ragazzo di fede
-PKP110	xx quando la fate
-PKP108	la mia amica
-PKP109	la la la mh
-PKP108	te
-PKP109	la divina
+PKP109	vi ricordate di dante
+PKP107	esatto io mi ricordo
+PKP107	amor che nulla amato amar perdona
+PKP109	te ancora mariarita lo devi studiare
+PKP110	ma c'è il ragazzo di fede
+PKP108	xx quando la fate
+PKP110	la mia amica
+PKP108	la la la mh
+PKP109	te
 PKP108	la divina
+PKP109	la divina
 PKP108	comme~
 PKP108	no eh
-PKP109	che divina commedia
-PKP108	l'inferno lo fanno in terza
-PKP110	l'inferno
-PKP108	sì
-PKP110	ah
+PKP108	che divina commedia
+PKP109	l'inferno lo fanno in terza
+PKP108	l'inferno
+PKP110	sì
+PKP108	ah
 PKP110	ma c'è il ragazzo di una mia amica che si vuole tatuare
-PKP107	fatti non foste per viver come bruti ma per perseguire virtute e conoscenza
-PKP110	xxxx
-PKP107	cioè
-PKP110	ma pensa te
+PKP110	fatti non foste per viver come bruti ma per perseguire virtute e conoscenza
+PKP107	xxxx
+PKP110	cioè
+PKP107	ma pensa te
 PKP110	te pare che te lo tatui
 PKP110	okay bello quanto ti pare però
-PKP109	insomma tatuarselo proprio
+PKP110	insomma tatuarselo proprio
+PKP109	mh
 PKP107	mh
-PKP110	mh
-PKP107	anche no
-PKP108	xx
-PKP107	volete un po' di pane
-PKP110	no
-PKP108	no nonna
+PKP110	anche no
+PKP107	xx
+PKP108	volete un po' di pane
+PKP107	no
+PKP110	no nonna
 PKP108	allora xxx
-PKP110	io sì
-PKP107	
-PKP110	
+PKP108	io sì
 PKP110	ovviamente
-PKP107	mi pare gusto
-PKP107	
-PKP110	si sentiranno tutti i masticamenti
-PKP107	tipo un video asmr
-PKP109	mhmh
-PKP107	c'è anche quello fresco
-PKP108	ah quello di ieri
+PKP110	mi pare gusto
+PKP107	si sentiranno tutti i masticamenti
+PKP110	tipo un video asmr
+PKP107	mhmh
+PKP109	c'è anche quello fresco
+PKP107	ah quello di ieri
 PKP108	c'ho
-PKP107	c'ho quello di ieri sera
-PKP108	ah
+PKP108	c'ho quello di ieri sera
+PKP107	ah
 PKP108	che ho portato a c~
-PKP107	a casa
-PKP110	a te piacciono i video asmr
-PKP108	no
-PKP110	eh
-PKP107	mi fanno senso
-PKP109	xx
-PKP107	chi
-PKP110	è tipo questa
-PKP110	
+PKP108	a casa
+PKP107	a te piacciono i video asmr
+PKP110	no
+PKP108	eh
+PKP110	mi fanno senso
+PKP107	xx
+PKP109	chi
+PKP107	è tipo questa
 PKP110	voi siete della
-PKP107	vecchia generazione
+PKP110	vecchia generazione
 PKP107	questi video
 PKP107	per
-PKP110	per
-PKP107	ma fanno stra senso
+PKP107	per
+PKP110	ma fanno stra senso
 PKP107	no però dipende quali
 PKP107	sono dei video
 PKP107	in cui ci sono delle persone
 PKP107	o che
 PKP107	parlano sottovoce o che mangiano
 PKP107	o che
-PKP110	fanno dei suoni così per riassarti
-PKP109	ma a me
-PKP107	ah sì
+PKP107	fanno dei suoni così per riassarti
+PKP110	ma a me
+PKP109	ah sì
 PKP107	eh perché ci sono persone a me piace mi
-PKP110	non in in quelli dove mangiano mi fanno schifo
+PKP107	non in in quelli dove mangiano mi fanno schifo
 PKP110	no
-PKP107	no ma tanto solo quelli che mangiano
+PKP110	no ma tanto solo quelli che mangiano
 PKP107	però
 PKP107	quelli dove
-PKP110	no
+PKP107	no
 PKP110	ma ci sono tutti questi video
-PKP107	delle cinesi che si mangiano del pesce crudo
-PKP110	si quelli fan vomitare
-PKP107	c'è anche chi xx degli insetti
-PKP110	sì
-PKP107	mamma mia
+PKP110	delle cinesi che si mangiano del pesce crudo
+PKP107	si quelli fan vomitare
+PKP110	c'è anche chi xx degli insetti
+PKP107	sì
+PKP110	mamma mia
 PKP107	fan vomitare
 PKP107	però ce ne sono alcuni tipo dove sussurrano
 PKP107	così
 PKP107	fanno dei suoni
-PKP110	tipo eh così
-PKP107	no a me da fastidio
+PKP107	tipo eh così
+PKP110	no a me da fastidio
 PKP107	dormi
 PKP107	sì
 PKP107	a me no
-PKP110	no quelli del cibo mi fanno proprio schifo
-PKP109	ma poi perché a esse emme erre
+PKP107	no quelli del cibo mi fanno proprio schifo
+PKP110	ma poi perché a esse emme erre
 PKP109	e come si chiamano
-PKP107	sms
+PKP109	sms
+PKP107	a esse emme erre
 PKP110	a esse emme erre
-PKP110	a esse emme erre
-PKP107	che vuol dire
-PKP109	è una sigla
-PKP110	eh
-PKP109	sta per
-PKP107	acronimo per
-PKP110	mh
-PKP107	peccato
+PKP110	che vuol dire
+PKP107	è una sigla
+PKP109	eh
+PKP110	sta per
+PKP109	acronimo per
+PKP107	mh
+PKP110	peccato
 PKP107	ora
 PKP107	te lo dico
-PKP108	mh
-PKP107	
+PKP107	mh
 PKP107	mh
 PKP107	beh
 PKP107	in
-PKP108	italiano
-PKP107	xx
+PKP107	italiano
+PKP108	xx
 PKP107	vuol dire risposta sensoriale apicale autonoma
-PKP110	non è questo
-PKP108	eh
-PKP107	grazie
+PKP107	non è questo
+PKP110	eh
+PKP108	grazie
 PKP107	è più sotto
-PKP109	basta guardare
-PKP110	chi vuole un'altra fetta di melone
+PKP107	basta guardare
+PKP109	chi vuole un'altra fetta di melone
 PKP110	no a me danno molto quei video
 PKP110	no io no
-PKP107	il melone no
+PKP110	il melone no
 PKP107	mh
-PKP109	autonomous sensory meridian response
-PKP107	ah
-PKP109	perché sono per i suoni
-PKP107	ah okay
-PKP109	ti piacciono i suoni
-PKP110	ho capito
-PKP107	c'è quel tipo che fa un sacco di video asmr
-PKP110	boh non è che li conosco
+PKP107	autonomous sensory meridian response
+PKP109	ah
+PKP107	perché sono per i suoni
+PKP109	ah okay
+PKP107	ti piacciono i suoni
+PKP109	ho capito
+PKP110	c'è quel tipo che fa un sacco di video asmr
+PKP107	boh non è che li conosco
 PKP110	no ue
 PKP110	cioè era fissato un mio amico delle medie
 PKP110	quello lì che xx in giappone
 PKP110	è tutto strano
 PKP110	non mi ricordo
-PKP108	però mi ricordo che aveva speso tipo ottanta euro per un mango
-PKP110	xx
-PKP108	perché è un tipo pregiato
-PKP109	un mango
+PKP110	però mi ricordo che aveva speso tipo ottanta euro per un mango
+PKP108	xx
+PKP110	perché è un tipo pregiato
+PKP108	un mango
 PKP109	frutto
-PKP110	ottanta euro
-PKP107	sì
-PKP110	per fare il video asmr
+PKP109	ottanta euro
+PKP110	sì
 PKP107	per fare il video asmr
-PKP110	oh signore
-PKP109	
-PKP110	come ottanta euro per un mango
-PKP109	ma questo è xxx
+PKP110	per fare il video asmr
+PKP107	oh signore
+PKP109	come ottanta euro per un mango
+PKP110	ma questo è xxx
 PKP109	ma dai
-PKP110	ma non è vero dai
+PKP109	ma non è vero dai
 PKP110	ti giuro
 PKP110	ma questo è
 PKP110	du~ è mezzo matto
-PKP107	fidati
-PKP110	no io avevo visto un video di questa qua
-PKP107	ma lui ci guadagna i soldi
+PKP110	fidati
+PKP107	no io avevo visto un video di questa qua
+PKP110	ma lui ci guadagna i soldi
 PKP107	cinese
 PKP107	boh
 PKP107	non so di dove fosse
 PKP107	orientale che si mangiava un
 PKP107	un pesce credo fosse
-PKP110	non lo so
-PKP107	sì l'ho visto anch'io
+PKP107	non lo so
+PKP110	sì l'ho visto anch'io
 PKP107	in cui
-PKP110	gli mordeva la testa usciva tutto questo liquido
-PKP109	eh
-PKP107	che schifo
+PKP107	gli mordeva la testa usciva tutto questo liquido
+PKP110	eh
+PKP109	che schifo
 PKP107	fa fa schifo
-PKP110	ma cos'è
+PKP107	ma cos'è
 PKP110	ma in cina mangiano cose strane
-PKP108	mangiano anche i cani
-PKP107	infatti tutti i virus vengono da là poi
+PKP110	mangiano anche i cani
+PKP108	infatti tutti i virus vengono da là poi
 PKP107	mah
-PKP108	eh
+PKP107	eh
 PKP108	perché c'hanno
 PKP108	veramente un
 PKP108	un contatto con
 PKP108	eh gli animali
-PKP109	
 PKP109	ma scusami
 PKP109	questa mangia
 PKP109	questo pesce
 PKP109	ti e ti dovrebbe rilassare
-PKP107	questa cosa
+PKP109	questa cosa
 PKP107	ah c'è gente a cui piace
-PKP110	ascoltare il rumore del mastichio
+PKP107	ascoltare il rumore del mastichio
 PKP110	ecco infatti
-PKP108	io sbiascico e le mie amiche quando sbiascico
-PKP110	anche tu
-PKP107	mi tirano delle occhiate
+PKP110	io sbiascico e le mie amiche quando sbiascico
+PKP108	anche tu
+PKP110	mi tirano delle occhiate
 PKP107	come si chiama
-PKP110	masticamento
-PKP107	perché gli dà fastidio
-PKP108	masticazione
-PKP110	poi che cosa fai
-PKP108	perché mi dicono che sbiascico
-PKP110	come fai
-PKP108	eh che
-PKP110	sì
-PKP108	tipo ruminante
-PKP110	ah
+PKP107	masticamento
+PKP110	perché gli dà fastidio
+PKP107	masticazione
+PKP108	poi che cosa fai
+PKP110	perché mi dicono che sbiascico
+PKP108	come fai
+PKP110	eh che
+PKP108	sì
+PKP110	tipo ruminante
+PKP108	ah
 PKP110	ma ma me lo
-PKP108	cioè pure mamma sbiascica
-PKP110	mh
+PKP110	cioè pure mamma sbiascica
+PKP108	mh
 PKP110	perché dicono che
 PKP110	boh
-PKP107	non lo so
-PKP110	che fai rumore mentre mangi
-PKP108	ma voi sentite qualcosa
+PKP110	non lo so
+PKP107	che fai rumore mentre mangi
+PKP110	ma voi sentite qualcosa
+PKP108	no
 PKP109	no
-PKP110	no
-PKP107	perché le mie amiche ogni volta che
+PKP110	perché le mie amiche ogni volta che
 PKP107	no
-PKP110	però c'era anche una m~
+PKP107	però c'era anche una m~
 PKP110	appena mordo
 PKP110	vi giuro che mi tirano delle occhiate
 PKP110	e mi fanno
-PKP109	mari smettila di sbiascicare
-PKP107	dai
+PKP110	mari smettila di sbiascicare
+PKP109	dai
 PKP107	c'era anche una mia amica dell'erasmus
 PKP107	che
 PKP107	alla colazione
 PKP107	ci vedevamo a mangiare
 PKP107	tipo il toast con la marmellata così
-PKP108	che è un po'
-PKP107	tamugno
+PKP107	che è un po'
+PKP108	tamugno
 PKP107	duro no
 PKP107	esatto
 PKP107	masticavo
 PKP107	con la bocca chiusa e lei
 PKP107	e
-PKP109	e nel silenzio non sopportava che io masticassi
-PKP107	
-PKP109	che aveva fastidio il rumore che
-PKP107	xx avresti dovuto fare xxxx
+PKP107	e nel silenzio non sopportava che io masticassi
+PKP107	che aveva fastidio il rumore che
+PKP109	xx avresti dovuto fare xxxx
 PKP107	di me che mastico
 PKP107	ah non lo so dovevo m~
 PKP107	masticare proprio
 PKP107	mh ingoiando intero
-PKP110	perché cioè
+PKP107	perché cioè
 PKP110	ma boh
-PKP107	ma forse sono fissate un po' le mie amiche
+PKP110	ma forse sono fissate un po' le mie amiche
 PKP107	no c'è gente a cui da fastidio
 PKP107	anche a una
-PKP110	mia compagna delle superiori dava fastidio
-PKP108	sì ma loro tutte
+PKP107	mia compagna delle superiori dava fastidio
+PKP110	sì ma loro tutte
 PKP108	xxxx
 PKP108	eh se è una cosa
-PKP107	molto evidente
-PKP108	ah
-PKP107	può darsi che
-PKP110	ho capito ma dovresti masticare a bocca aperta
-PKP108	xxxx
-PKP109	esatto
-PKP108	come può dar fastidio se uno mastica a bocca aperta
+PKP108	molto evidente
+PKP107	ah
+PKP108	può darsi che
+PKP107	ho capito ma dovresti masticare a bocca aperta
+PKP110	xxxx
+PKP108	esatto
+PKP109	come può dar fastidio se uno mastica a bocca aperta
 PKP108	dopo il problema non è più
-PKP107	eh è il problema di chi x
-PKP109	ma c'è gente a cui da fastidio il rumore
+PKP108	eh è il problema di chi x
+PKP107	ma c'è gente a cui da fastidio il rumore
 PKP109	ho capito
-PKP108	però xxxx
-PKP107	xxx loro
-PKP108	certo
-PKP110	non è più un problema di xx
+PKP109	però xxxx
+PKP108	xxx loro
+PKP107	certo
+PKP108	non è più un problema di xx
 PKP110	no a me lo dicono
 PKP110	dicono mari smettila
 PKP110	noi te lo diciamo per il tuo bene
 PKP110	okay
-PKP108	
 PKP108	eh allora
-PKP110	facci caso xxx
+PKP108	facci caso xxx
 PKP110	eh ma infatti ogni volta ci provo
 PKP110	ma ci sto attenta
 PKP110	e loro
@@ -1332,246 +1271,236 @@ PKP110	non sbiascicare
 PKP110	x
 PKP110	mh oh calmati
 PKP110	ancora non ho manco iniziato a mangiare
-PKP108	cioè
+PKP110	cioè
 PKP108	non lo so
-PKP110	adesso ci farò caso
-PKP108	tranqui
+PKP108	adesso ci farò caso
+PKP110	tranqui
 PKP108	xx
 PKP108	facciamoci caso
 PKP108	per sentire
 PKP108	boh
-PKP109	xx
-PKP109	francamente non ho
-PKP108	mai notato sta cosa
-PKP109	la
-PKP108	xxx
-PKP108	nemmeno io
-PKP110	ma sai
-PKP110	nemmeno io
-PKP108	cioè non me l'aveva mai detto nessuno
-PKP108	magari è una che gli da fastidio eh
-PKP110	è più sensibile
-PKP108	mh
-PKP109	come xx
-PKP107	può darsi
 PKP108	xx
+PKP109	francamente non ho
+PKP109	mai notato sta cosa
+PKP108	la
+PKP109	xxx
+PKP108	nemmeno io
+PKP108	ma sai
+PKP110	nemmeno io
+PKP110	cioè non me l'aveva mai detto nessuno
+PKP108	magari è una che gli da fastidio eh
+PKP108	è più sensibile
+PKP110	mh
+PKP108	come xx
+PKP109	può darsi
+PKP107	xx
 PKP108	no per
 PKP108	per vedere com'è
 PKP108	sto sto sbiascicamento
 PKP108	non ho capito
-PKP109	mh
+PKP108	mh
 PKP109	dopo chiara
 PKP109	vuoi andare a vedere in biblioteca
-PKP107	oggi pomeriggio se trovi quel libro
+PKP109	oggi pomeriggio se trovi quel libro
 PKP107	sì
 PKP107	bisogna controllare se è aperto
-PKP109	dovrebbe
-PKP108	oggi cos'è
-PKP109	martedì
+PKP107	dovrebbe
+PKP109	oggi cos'è
+PKP108	martedì
 PKP109	il problema è
-PKP108	che non rispondono al telefono
+PKP109	che non rispondono al telefono
 PKP108	no
-PKP109	mh no
+PKP108	mh no
 PKP109	no non a forlimpopoli
-PKP108	forlì
+PKP109	forlì
 PKP108	ah beh beh
 PKP108	perché se era a forlimpopoli
-PKP109	erano lunedì pomeriggio e martedì mattina
+PKP108	erano lunedì pomeriggio e martedì mattina
 PKP109	mh
-PKP108	eh ma forlimpopoli
+PKP109	eh ma forlimpopoli
 PKP108	xxxx
-PKP109	xxx
-PKP107	oggi è martedì
-PKP108	no
+PKP108	xxx
+PKP109	oggi è martedì
+PKP107	no
 PKP108	ah eh
 PKP108	eh
-PKP108	
 PKP108	mangialo
-PKP110	xxxx dai
+PKP108	xxxx dai
 PKP110	mh
-PKP108	non mi va
-PKP110	che ti va
-PKP108	niente
-PKP110	vuoi un'altra fetta
+PKP110	non mi va
+PKP108	che ti va
+PKP110	niente
+PKP108	vuoi un'altra fetta
 PKP110	no
-PKP108	xx
-PKP109	un'altra
-PKP108	melone
-PKP110	bene così
-PKP109	i'm done
-PKP108	anche perché
-PKP109	mh
-PKP108	ha fatto colazione tardi
-PKP107	eh sì
-PKP109	
-PKP107	infatti
-PKP110	a che ora
+PKP110	xx
+PKP108	un'altra
+PKP109	melone
+PKP108	bene così
+PKP110	i'm done
+PKP109	anche perché
+PKP108	mh
+PKP109	ha fatto colazione tardi
+PKP108	eh sì
+PKP109	infatti
+PKP107	a che ora
 PKP110	però il latte ma è bellissimo
 PKP110	perché è minuscolo è da
-PKP108	due~ quant'è duecentocinquanta
-PKP109	duecento quei quei
-PKP108	xx
-PKP109	xxx
-PKP110	s~ brichettino
+PKP110	due~ quant'è duecentocinquanta
+PKP108	duecento quei quei
+PKP109	xx
+PKP108	xxx
+PKP109	s~ brichettino
 PKP110	è piccolino
-PKP109	amore bellissimo
-PKP110	
-PKP108	ma le cose minuscole sono un sacco carine
+PKP110	amore bellissimo
+PKP110	ma le cose minuscole sono un sacco carine
 PKP108	lo vuoi andare a prendere
-PKP109	te lo porti a casa
-PKP110	
-PKP110	
-PKP108	sì così in treno diventa ricotta
-PKP108	
-PKP107	no è sta~ è stato
-PKP108	è lunga conservazione
+PKP108	te lo porti a casa
+PKP110	sì così in treno diventa ricotta
+PKP108	no è sta~ è stato
+PKP107	è lunga conservazione
 PKP108	xx no
 PKP108	non de~
 PKP108	d~ non
 PKP108	deve stare in frigo
-PKP110	io l'ho messo in frigori~
-PKP108	ah no
+PKP108	io l'ho messo in frigori~
+PKP110	ah no
 PKP108	l'ho messo in frigorifero ieri sera
 PKP108	perché poi lo bevessi un po' fresco
-PKP110	perché è più buono no fresco
-PKP108	sì
+PKP108	perché è più buono no fresco
+PKP110	sì
 PKP108	se no non va in frigorifero
-PKP110	no
-PKP107	ah
-PKP108	mh no ma
+PKP108	no
+PKP110	ah
+PKP107	mh no ma
 PKP108	quello a lunga conservazione è fuori
 PKP108	e poi
-PKP110	gli altri ce l'ho fuori
-PKP107	ci sta
+PKP108	gli altri ce l'ho fuori
+PKP110	ci sta
 PKP107	la prossima registrazione la farò con la nonna gina
-PKP108	mh
+PKP107	mh
 PKP108	abbiamo
-PKP110	superato il
-PKP108	e le altre due
-PKP107	il termine
+PKP108	superato il
+PKP110	e le altre due
+PKP108	il termine
 PKP107	boh
 PKP107	no
 PKP107	eh
 PKP107	perché
-PKP109	così parla in eh
+PKP107	così parla in eh
+PKP109	in siciliano
 PKP107	in siciliano
-PKP110	in siciliano
-PKP107	e le altre due con chi le fai
+PKP110	e le altre due con chi le fai
 PKP107	boh magari con gli amici
-PKP108	adesso vedo
-PKP109	
+PKP107	adesso vedo
 PKP109	fallo con la zia betta
-PKP108	una
-PKP109	
+PKP109	una
 PKP109	eh
-PKP110	e lo zio martino e
-PKP108	eh se era con giorgia facevamo
-PKP109	con giorgia
-PKP107	o con giorgia
-PKP110	mh
+PKP109	e lo zio martino e
+PKP110	eh se era con giorgia facevamo
+PKP108	con giorgia
+PKP109	o con giorgia
+PKP107	mh
 PKP110	se venivi giù la facevamo con
-PKP109	con gio e l'ila
+PKP110	con gio e l'ila
 PKP109	beh ma non v~
-PKP107	non vengono loro più che altro
+PKP109	non vengono loro più che altro
 PKP107	ma
-PKP108	hai capito poi
+PKP107	hai capito poi
 PKP108	o lo mangi o o
-PKP107	xxxx
+PKP108	xxxx
 PKP107	che
-PKP109	no ti ha detto
-PKP107	ma mariarita
-PKP108	c'è stata una
-PKP109	xxxx
-PKP108	fai fai schifo dai
-PKP110	xx la fetta
-PKP108	
-PKP109	oh
-PKP107	adesso te la mangi eh
-PKP110	spiegagli
-PKP109	certo che me la mangio
-PKP110	ma lo so ma
-PKP109	ma c'è un pezzetto di pane
-PKP108	allora
+PKP107	no ti ha detto
+PKP109	ma mariarita
+PKP107	c'è stata una
+PKP108	xxxx
+PKP109	fai fai schifo dai
+PKP108	xx la fetta
+PKP108	oh
+PKP109	adesso te la mangi eh
+PKP107	spiegagli
+PKP110	certo che me la mangio
+PKP109	ma lo so ma
+PKP110	ma c'è un pezzetto di pane
+PKP109	allora
 PKP108	ah allora
-PKP107	eh certo che ce l'ho il pane
-PKP110	no spiegagli cos'è successo poi
-PKP109	è successo che l'anna mo li manda giù
+PKP108	eh certo che ce l'ho il pane
+PKP107	no spiegagli cos'è successo poi
+PKP110	è successo che l'anna mo li manda giù
 PKP109	mah
 PKP109	ma lo so
-PKP110	ed ero lì quando giovanni l'ha detto
-PKP109	ah xxxx
+PKP109	ed ero lì quando giovanni l'ha detto
+PKP110	ah xxxx
 PKP109	ma a me l'anna non l'ha detto
-PKP110	per telefono questa cosa
-PKP109	ma infatti dopo abbiamo richiamato l'anna
-PKP110	capito
+PKP109	per telefono questa cosa
+PKP110	ma infatti dopo abbiamo richiamato l'anna
+PKP109	capito
 PKP110	dicendole ma
 PKP110	se
 PKP110	preparassimo stasera e domani andassimo giù
-PKP109	ci viene a prendere la mamma di
-PKP110	eh
-PKP107	veronica lì
-PKP110	nonna
-PKP109	e lei ha trovato un'altra scusa
+PKP110	ci viene a prendere la mamma di
+PKP109	eh
+PKP110	veronica lì
+PKP107	nonna
+PKP110	e lei ha trovato un'altra scusa
 PKP109	eh esatto
-PKP110	non è quello dai
+PKP109	non è quello dai
 PKP110	non era quello
 PKP110	ma gli ha trovato la scusa lì
 PKP110	perché non sapeva che dirgli
-PKP109	ma non era quello in realtà
+PKP110	ma non era quello in realtà
 PKP109	e che
 PKP109	che scusa
 PKP109	aspetta che te lo sciacquo
-PKP110	che scusa ha trovato
+PKP109	che scusa ha trovato
 PKP110	e ha detto eh perché poi il nonno
-PKP109	quì e là e tutto quanto
-PKP110	eh
-PKP107	ma scusami
-PKP110	ma perché
+PKP110	quì e là e tutto quanto
+PKP109	eh
+PKP110	ma scusami
+PKP107	ma perché
 PKP110	ma se l'ilaria va dall'amica
 PKP110	comunque
-PKP109	non ci andrà in treno dall'amica scusami
+PKP110	non ci andrà in treno dall'amica scusami
 PKP109	non
-PKP110	da che amica va
+PKP109	da che amica va
 PKP110	eh
 PKP110	prima di andare su dal no~
-PKP109	giù dal nonno
-PKP110	ah è vero vanno va a ischia
-PKP109	fa eh beh va trovare l'amica scusami
-PKP107	eh
+PKP110	giù dal nonno
+PKP109	ah è vero vanno va a ischia
+PKP110	fa eh beh va trovare l'amica scusami
+PKP109	eh
 PKP107	ma infatti
-PKP109	per me lei non vuole
-PKP107	xxx
+PKP107	per me lei non vuole
+PKP109	xxx
 PKP107	per un qualche motivo che no
-PKP110	a noi ignoto
+PKP107	a noi ignoto
 PKP110	no ha detto eh perché non vale
 PKP110	la pena prendersi
 PKP110	il covid
 PKP110	se tanto poi piove e dovete stare a casa
 PKP110	ma che ca~
-PKP109	cioè
+PKP110	cioè
 PKP109	xx da per scontato già che prende il covid
-PKP107	andando in treno
+PKP109	andando in treno
 PKP107	ma poi in un intercity
-PKP108	cioè ci sono i posti anche liberi
+PKP107	cioè ci sono i posti anche liberi
 PKP108	ma lei ha detto che si è alzata
-PKP107	la domenica mattina
-PKP110	eh
-PKP108	e gli ha iniziato
-PKP110	e ha detto
-PKP109	che poteva chiamarli al telefono
-PKP108	chi l'ha detto
-PKP110	ieri sera xxxx
-PKP109	poi ci xxx
-PKP110	ah infatti
-PKP109	pensava
-PKP110	mi ha chiamato domenica a me
-PKP108	
-PKP110	eh
+PKP108	la domenica mattina
+PKP107	eh
+PKP110	e gli ha iniziato
+PKP108	e ha detto
+PKP110	che poteva chiamarli al telefono
+PKP109	chi l'ha detto
+PKP108	ieri sera xxxx
+PKP110	poi ci xxx
+PKP109	ah infatti
+PKP110	pensava
+PKP109	mi ha chiamato domenica a me
+PKP108	eh
 PKP110	ha detto che si è alzata la mattina
 PKP110	eh ha chiamato l'ilaria che oltretutto
 PKP110	stava lì in montagna
-PKP108	non ho capito dove in culonia
-PKP110	eh sì
+PKP110	non ho capito dove in culonia
+PKP108	eh sì
 PKP110	eh l'ha chiamata
 PKP110	ha chiamato giovanni l'ha svegliato e fa
 PKP110	l'ilaria ha chiamato giovanni
@@ -1579,67 +1508,66 @@ PKP110	e fa la mamma vuole discutere riguardo al treno
 PKP110	così
 PKP110	quindi hanno avuto questa discussione che
 PKP110	quanto immagino abbia parlato solo l'anna
-PKP109	e gli ha detto che non potevano andare giù
+PKP110	e gli ha detto che non potevano andare giù
 PKP109	eh
 PKP109	dai
-PKP108	ci avrà riflettuto di notte
+PKP109	ci avrà riflettuto di notte
 PKP108	sì
-PKP110	ci avrà xxx
-PKP109	eh sì
+PKP108	ci avrà xxx
+PKP110	eh sì
 PKP109	mh
 PKP109	la notte porta co~
-PKP107	sconsiglio in questo caso
+PKP109	sconsiglio in questo caso
 PKP107	ma lei
 PKP107	comunque è fuori di testa
-PKP109	io riimango di quest'idea
-PKP108	ah no non lo so
-PKP107	chi l'anna
-PKP108	l'anna
-PKP107	perché
+PKP107	io riimango di quest'idea
+PKP109	ah no non lo so
+PKP108	chi l'anna
+PKP107	l'anna
+PKP108	perché
 PKP107	perché sì
 PKP107	anche
 PKP107	ha fatto delle altre scenate così
-PKP108	anche quando giovanni andava agli scout
+PKP107	anche quando giovanni andava agli scout
 PKP108	ah
 PKP108	ah sì
 PKP108	era
-PKP107	era solita a fare queste
+PKP108	era solita a fare queste
 PKP107	sì lei ha ste~
 PKP107	ste
-PKP110	cioè si fissa su d~ è parano~
-PKP108	è paranoica
-PKP107	eh
+PKP107	cioè si fissa su d~ è parano~
+PKP110	è paranoica
+PKP108	eh
 PKP107	ma
 PKP107	magari li lascia
-PKP108	fare mille cose
-PKP107	eh
+PKP107	fare mille cose
+PKP108	eh
 PKP107	e altre
 PKP107	cavolate
-PKP110	non gliele lascia fare
+PKP107	non gliele lascia fare
 PKP110	guarda
-PKP107	a me giovanni e l'ilaria mi hanno detto che le fanno di nascosto
-PKP109	ah uei
+PKP110	a me giovanni e l'ilaria mi hanno detto che le fanno di nascosto
+PKP107	ah uei
 PKP109	ah
-PKP107	xxx
+PKP109	xxx
 PKP107	ma allora
 PKP107	ma l'ila ha ven
-PKP110	ventunanni eh
-PKP107	sì ma
-PKP110	non è che ne ha cinque
+PKP107	ventunanni eh
+PKP110	sì ma
+PKP107	non è che ne ha cinque
 PKP110	che
 PKP110	pure sta cosa che dobbiamo ancora chiedere alla madre
-PKP109	per questa roba
+PKP110	per questa roba
 PKP109	beh vabbè
-PKP108	anche chiara mi chiede il permesso
+PKP109	anche chiara mi chiede il permesso
 PKP108	beh
-PKP109	non è che chiede il permesso
-PKP108	
+PKP108	non è che chiede il permesso
 PKP108	però
-PKP110	insomma
-PKP108	se gli dici di no mi sa che lo fa comunque
+PKP108	insomma
+PKP110	se gli dici di no mi sa che lo fa comunque
 PKP108	xxx
-PKP109	sì
-PKP107	diciamo che
+PKP108	sì
+PKP109	diciamo che
 PKP107	no ma poi
 PKP107	anche ieri
 PKP107	che magari hai chiesto a gio
@@ -1648,160 +1576,152 @@ PKP107	se veniva dopo
 PKP107	a trovarti alla festa artusiana
 PKP107	lui non ha chiesto chiedo
 PKP107	no
-PKP108	chiedo permesso
-PKP107	x
-PKP110	cos'è che ti ha scritto
-PKP107	ah sì
+PKP107	chiedo permesso
+PKP108	x
+PKP107	cos'è che ti ha scritto
+PKP110	ah sì
 PKP107	che chiedeva permesso ai genitori
 PKP107	ma boh
 PKP107	cioè
 PKP107	ha dici~
-PKP109	diciottanni
-PKP108	vabbè
-PKP107	beh eh
-PKP108	vabbè
+PKP107	diciottanni
+PKP109	vabbè
+PKP108	beh eh
+PKP107	vabbè
 PKP108	beh
 PKP108	magari perché
-PKP109	i genitori potevano avere
-PKP108	ma perchè
-PKP109	altre idee altre
-PKP108	perché
-PKP109	xxx
+PKP108	i genitori potevano avere
+PKP109	ma perchè
+PKP108	altre idee altre
+PKP109	perché
+PKP108	xxx
 PKP109	perché sono preoccupati
 PKP109	per il
-PKP110	covid
-PKP109	sì però secondo me
-PKP110	x
+PKP109	covid
+PKP110	sì però secondo me
+PKP109	x
 PKP110	pure tutto sto allarmi~
 PKP110	cioè
 PKP110	okay un minimo sì
 PKP110	però
-PKP109	quando si passa dall'altra parte è troppo
-PKP108	eh
+PKP110	quando si passa dall'altra parte è troppo
+PKP109	eh
 PKP108	eh xx
 PKP108	sai
 PKP108	lei ha perso la madre
-PKP110	che non è tanto
-PKP109	mhmh
-PKP108	infatti anche quello
-PKP110	allora xx
-PKP109	sì ma non l'ha persa mica per il corona
+PKP108	che non è tanto
+PKP110	mhmh
+PKP109	infatti anche quello
+PKP108	allora xx
+PKP110	sì ma non l'ha persa mica per il corona
 PKP109	no
-PKP108	peròsai adesso c'ha il babbo eh
-PKP109	no
-PKP108	anche lei anziano eh
-PKP109	eh
-PKP108	si preoccupa dai
+PKP109	peròsai adesso c'ha il babbo eh
+PKP108	no
+PKP109	anche lei anziano eh
+PKP108	eh
+PKP109	si preoccupa dai
 PKP108	eh
 PKP108	certo
-PKP107	
-PKP108	boh
-PKP107	oh
-PKP108	
-PKP109	menomale
+PKP107	boh
+PKP108	oh
+PKP108	menomale
 PKP109	se stiamo un altro po' qua
-PKP108	lo finiamo questo prosciutto
+PKP109	lo finiamo questo prosciutto
 PKP108	ah eh vabbè
-PKP107	xxx
-PKP108	io
-PKP107	eh
+PKP108	xxx
+PKP107	io
+PKP108	eh
 PKP107	boh in questi giorni sto mangiando
-PKP108	senza fondo
-PKP109	xxx
+PKP107	senza fondo
+PKP108	xxx
 PKP109	ti devono venire le mestruazioni
-PKP107	eh
-PKP109	xx
-PKP110	te ti sono venute mari
-PKP109	no
-PKP107	co~
+PKP109	eh
+PKP107	xx
+PKP109	te ti sono venute mari
 PKP110	no
+PKP109	co~
+PKP107	no
 PKP110	mi sono
 PKP110	autofecondata
-PKP109	mi sono messa incinta da sola
-PKP108	
+PKP110	mi sono messa incinta da sola
 PKP108	è
 PKP108	è diventata la la la
-PKP110	la pecorella dolly
-PKP107	produco
-PKP110	
-PKP108	esatto
-PKP110	
-PKP108	produco un clone
-PKP107	
-PKP108	
-PKP110	partorirà un clone
-PKP108	mhmh
-PKP110	eh
-PKP107	non capisco sono in ritardissimo
+PKP108	la pecorella dolly
+PKP110	produco
+PKP110	esatto
+PKP110	produco un clone
+PKP108	partorirà un clone
+PKP110	mhmh
+PKP108	eh
+PKP110	non capisco sono in ritardissimo
 PKP107	anche a me sono arrivate
 PKP107	tipo due settimane in ritardo
-PKP109	l'altra volta
-PKP108	eh il caldo
+PKP107	l'altra volta
+PKP109	eh il caldo
 PKP108	eh
 PKP108	è la stagione
-PKP107	magari il clima
-PKP108	dopo se vuoi ti aiuto a finire la versione
-PKP110	xxx
+PKP108	magari il clima
+PKP107	dopo se vuoi ti aiuto a finire la versione
+PKP108	xxx
 PKP110	mh
-PKP109	che bella prospettiva
-PKP110	ma con giovanni come sei rimasta mari
-PKP109	eh
+PKP110	che bella prospettiva
+PKP109	ma con giovanni come sei rimasta mari
+PKP110	eh
 PKP109	con giovanni come sei rimasta
-PKP110	vi vedete oggi
-PKP109	xx
-PKP110	no non sie~ non vi siete
-PKP109	boh
-PKP110	messi d'accordo
+PKP109	vi vedete oggi
+PKP110	xx
+PKP109	no non sie~ non vi siete
+PKP110	boh
+PKP109	messi d'accordo
 PKP110	no
 PKP110	ci dovevamo vedere stasera
-PKP108	però se piove
+PKP110	però se piove
 PKP108	ah adesso vediamo
-PKP110	
 PKP110	già lui ha detto
 PKP110	che per farsi perdonare
 PKP110	lui e l'ila vogliono offrirci una cena
-PKP109	a me e chiara
-PKP107	xxxx
-PKP108	macchè
-PKP107	ma no
-PKP108	ma cosa centrano loro
+PKP110	a me e chiara
+PKP109	xxxx
+PKP107	macchè
+PKP108	ma no
+PKP107	ma cosa centrano loro
 PKP108	anzi io volevo
-PKP107	volevo offrire a loro xx sera
-PKP108	ma va dai
+PKP108	volevo offrire a loro xx sera
+PKP107	ma va dai
 PKP108	eh
-PKP110	ah sì li posso anche invitare tanto
-PKP108	eh infatti
-PKP110	ah sì volentieri guarda
-PKP108	dopo gli scrivo
-PKP109	se vogliono venire
+PKP108	ah sì li posso anche invitare tanto
+PKP110	eh infatti
+PKP108	ah sì volentieri guarda
+PKP110	dopo gli scrivo
+PKP108	se vogliono venire
 PKP109	aspetta
-PKP108	perché piove
-PKP109	si adesso aspetta
-PKP108	mariarta
+PKP109	perché piove
+PKP108	si adesso aspetta
+PKP109	mariarta
 PKP108	xx no aspetta per vedere
-PKP110	se ci andiamo o meno
-PKP108	xx
-PKP110	per il xxx
-PKP109	eh sì
-PKP107	io rimanderei a domani
-PKP108	ma piuttosto lo inviti quì
+PKP108	se ci andiamo o meno
+PKP110	xx
+PKP108	per il xxx
+PKP110	eh sì
+PKP109	io rimanderei a domani
+PKP107	ma piuttosto lo inviti quì
 PKP108	eh
-PKP107	eh forse è meglio
-PKP110	a cena
-PKP109	beh ma appunto quello che dicevo io
-PKP108	eh
-PKP110	ah quì a casa dici
-PKP108	no xxx
-PKP110	beh a casa è un po' più impegnativo
-PKP108	ah vabbè allora
+PKP108	eh forse è meglio
+PKP107	a cena
+PKP110	beh ma appunto quello che dicevo io
+PKP109	eh
+PKP108	ah quì a casa dici
+PKP110	no xxx
+PKP108	beh a casa è un po' più impegnativo
+PKP110	ah vabbè allora
 PKP108	x
-PKP109	magari xx
+PKP108	magari xx
 PKP109	ah o oppure andiamo a prendere
-PKP108	una pizza
-PKP110	ah
-PKP109	come è xx
+PKP109	una pizza
+PKP108	ah
+PKP110	come è xx
 PKP109	da spranghin
-PKP107	a prendere la pizza
+PKP109	a prendere la pizza
 PKP107	xx
-PKP108	quì
+PKP107	quì
 PKP108	sì

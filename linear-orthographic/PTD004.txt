@@ -1,83 +1,80 @@
-TOI042	porta benefica via principi d'acaja insomma da quella parte lì di corso francia
-TOI044	mhmh
+TOI043	porta benefica via principi d'acaja insomma da quella parte lì di corso francia
+TOI042	mhmh
 TOI044	io no io sono proprio negata per le lingue
-TOI042	qualcosa di latino
+TOI044	qualcosa di latino
 TOI042	sì infatti grazie adesso l'hanno rinnovato perché hanno messo inglese cinque anni
-TOI044	perché una volta brillava per avere
-TOI043	ah sì
-TOI042	certo c'era solo i primi tre anni
-TOI043	inglese solo due mh
-TOR001	eh sì
+TOI042	perché una volta brillava per avere
+TOI044	ah sì
+TOI043	certo c'era solo i primi tre anni
+TOI042	inglese solo due mh
+TOI043	eh sì
 TOR001	okay perfetto
 TOR001	grazie
 TOR001	allora
 TOR001	perfetto
-TOI044	allora intanto grazie
-TOI043	niente
-TOR001	figurati
-TOI043	allora in in che quartiere di torino vivete
-TOI044	allora io pozzo strada
-TOR001	e io campidoglio
+TOR001	allora intanto grazie
+TOI044	niente
+TOI043	figurati
+TOR001	allora in in che quartiere di torino vivete
+TOI043	allora io pozzo strada
+TOI044	e io campidoglio
 TOR001	okay
-TOI043	e che tipo di quartieri sono
+TOR001	e che tipo di quartieri sono
 TOI043	nel senso che se ehm
 TOI043	diciamo
-TOR001	sem~ sem~ semiperiferico
-TOI043	mh mh
+TOI043	sem~ sem~ semiperiferico
+TOR001	mh mh
 TOI043	perché non è né né
 TOI043	quartiere abbastanza residenziale
-TOR001	abbastanza
-TOI043	okay
-TOI044	sì tranquillo mh
-TOI043	campidoglio sicuramente è residenziale rispetto
-TOI043	mh
-TOI044	sì
-TOI043	ad altre zone
-TOI044	mh
-TOR001	abbastanza centrale anche tutto sommato
+TOI043	abbastanza
 TOR001	okay
-TOI043	mh mh
-TOR001	mh
+TOI043	sì tranquillo mh
+TOI044	campidoglio sicuramente è residenziale rispetto
+TOI043	mh
+TOI043	sì
+TOI044	ad altre zone
+TOI043	mh
+TOI044	abbastanza centrale anche tutto sommato
+TOR001	okay
+TOR001	mh mh
+TOI043	mh
 TOR001	okay
 TOR001	e che tipo di attività ci sono
 TOR001	cioè se doveste descriverlo a una persona che non conosce il quartiere
-TOI043	
-TOI043	
 TOI043	bah allora pozzo strada diciamo che
 TOI043	è un quartiere abbastanza verde e
-TOR001	pieno di supermercati
-TOI043	
-TOR001	per il resto non è che
-TOI043	okay
+TOI043	pieno di supermercati
+TOI043	per il resto non è che
+TOR001	okay
 TOI043	che ci stia molto nel senso che sì
-TOR001	negozi supermercati queste cose qui è abbastanza
-TOI043	mh mh
+TOI043	negozi supermercati queste cose qui è abbastanza
+TOR001	mh mh
 TOI043	comodo diciamo
 TOI043	buoni servizi anche perché c'è la metro la metro
-TOR001	quindi comunque è ben servito è comodo
-TOI043	okay
-TOR001	per spostarsi
-TOI044	okay
+TOI043	quindi comunque è ben servito è comodo
+TOR001	okay
+TOI043	per spostarsi
+TOR001	okay
 TOI044	abbastanza e
 TOI044	campidoglio ehm
-TOR001	è abbastanza particolare perché c'è il borgo vecchio
-TOI044	mh mh
+TOI044	è abbastanza particolare perché c'è il borgo vecchio
+TOR001	mh mh
 TOI044	che è ricco di
 TOI044	di botteghe
 TOI044	c'è stata una ristrutturazione delle botteghe antiche e
 TOI044	soprattutto c'è questa passeggiata
 TOI044	con i
-TOR001	il i murales cioé no quindi
-TOI044	mh mh
+TOI044	il i murales cioé no quindi
+TOR001	mh mh
 TOI044	da quel lato lì è diverso dagli altri quartieri
 TOI044	poi c'è anche una zona
 TOI044	piazza risorgimento dove hanno fatto dei tentativi di
-TOR001	orti diciamo così urbani
-TOI044	mh mh
-TOR001	e con un anche un centro per anziani
-TOI044	mh mh
-TOR001	che coltivano questi orti urbani quindi c'è
-TOI044	funziona
+TOI044	orti diciamo così urbani
+TOR001	mh mh
+TOI044	e con un anche un centro per anziani
+TOR001	mh mh
+TOI044	che coltivano questi orti urbani quindi c'è
+TOR001	funziona
 TOI044	mah è sempre pieno di di di persone
 TOI044	e di bambini
 TOI044	m~ molti mh anche molti
@@ -86,246 +83,241 @@ TOI044	quello di piazza risorgimento
 TOI044	mentre diverso mh
 TOI044	molto frequentato è l'altro che l'altro giardino
 TOI044	però c'è meno immigrazione
-TOR001	quindi c'è un po' due giardini con due
-TOI044	okay
+TOI044	quindi c'è un po' due giardini con due
+TOR001	okay
 TOI044	tipologie di utenza
 TOI044	diversa
 TOI044	tra i bambini lo si vede
 TOI044	ehm
 TOI044	ricco di di
 TOI044	c'è il mercato
-TOR001	quindi luogo di aggregazione anche al mattino
-TOI044	mh mh
-TOR001	molti supermercati molti xxx c'è la metro
-TOI044	mh mh mh
+TOI044	quindi luogo di aggregazione anche al mattino
+TOR001	mh mh
+TOI044	molti supermercati molti xxx c'è la metro
+TOR001	mh mh mh
 TOI044	in corso racconigi quindi
 TOI044	è sicuramente
-TOR001	molto vivo eh come
-TOI044	okay
+TOI044	molto vivo eh come
+TOR001	okay
 TOI044	rispetto ad altri
-TOI043	la pellerina non è lontano quindi
-TOI044	sì
-TOR001	lo sbocco verde basta camminare dieci minuti
-TOI044	mh mh mh
+TOI044	la pellerina non è lontano quindi
+TOI043	sì
+TOI044	lo sbocco verde basta camminare dieci minuti
+TOR001	mh mh mh
 TOI044	e si arriva alla pellerina in corso lecce
 TOI044	girando giù
-TOI043	avevo il cane xxx
+TOI044	avevo il cane xxx
 TOI043	sì ecco anche pozzo strada diciamo che
-TOR001	comunque ci sono diversi giardini non molto grandi ma comunque belli
-TOI043	mh mh
+TOI043	comunque ci sono diversi giardini non molto grandi ma comunque belli
+TOR001	mh mh
 TOI043	la tesoriera è qua
 TOI043	anche per noi siamo diciamo che siamo a metà tra il parco ruffini
 TOI043	da una parte
 TOI043	e la pellerina dall'altra
-TOI044	quindi comunque
-TOI043	volendo
+TOI043	quindi comunque
+TOI044	volendo
 TOI043	sono
-TOR001	e e in effetti c'è anche il mercato in corso brunelleschi
-TOI043	mh mh
-TOR001	comunque quello è sicuramente
-TOI043	okay
-TOR001	un po' più caro come mercato per esempio rispetto a quello di corso racconigi
-TOI043	
-TOI044	eh lì
-TOI043	corso svizzera è in decadenza
-TOI044	eh sì sì eh eh sì
-TOI043	una volta era un po' più d'élite adesso
+TOI043	e e in effetti c'è anche il mercato in corso brunelleschi
+TOR001	mh mh
+TOI043	comunque quello è sicuramente
+TOR001	okay
+TOI043	un po' più caro come mercato per esempio rispetto a quello di corso racconigi
+TOI043	eh lì
+TOI044	corso svizzera è in decadenza
+TOI043	eh sì sì eh eh sì
+TOI044	una volta era un po' più d'élite adesso
 TOI043	eh
 TOI043	eh
-TOI044	eh
-TOI043	sento molto i commercianti che si lamentano che
-TOI044	eh sì sì sì sì sì sì sì sì
-TOR001	dicono quello che è diventato
-TOI043	ah sì
-TOI044	eh
-TOI043	molto difficile come mercato infatti
-TOI044	sì sì sì sì sì sì
+TOI043	eh
+TOI044	sento molto i commercianti che si lamentano che
+TOI043	eh sì sì sì sì sì sì sì sì
+TOI044	dicono quello che è diventato
+TOR001	ah sì
+TOI043	eh
+TOI044	molto difficile come mercato infatti
+TOI043	sì sì sì sì sì sì
 TOI044	vorrebbero non venire più
-TOR001	questo l'ho sentito
-TOI044	perché vendono poco
+TOI044	questo l'ho sentito
+TOR001	perché vendono poco
 TOI044	sì perché ehm
 TOI044	prima c'erano
-TOI043	c'era più com~ compravendita adesso
-TOI044	sì sì
-TOR001	c'è sicuramente un momento di crisi
-TOI044	mh mh
-TOI043	che è avvertito
+TOI044	c'era più com~ compravendita adesso
+TOI043	sì sì
+TOI044	c'è sicuramente un momento di crisi
 TOR001	mh mh
+TOI044	che è avvertito
+TOI043	mh mh
 TOR001	okay
 TOR001	d'accordo
-TOI043	e che tipo di persone vivono nel quart~ in nei questi due quartieri
+TOR001	e che tipo di persone vivono nel quart~ in nei questi due quartieri
 TOI043	bah allora
-TOR001	pozzo strada devo dire che ci sono tanti anziani
-TOI043	mh mh
+TOI043	pozzo strada devo dire che ci sono tanti anziani
+TOR001	mh mh
 TOI043	però vabbè vedi anche comunque famiglie
-TOR001	con bambini direi che è abbastanza misto
-TOI043	okay
+TOI043	con bambini direi che è abbastanza misto
+TOR001	okay
 TOI043	come immigrati pf mh
-TOR001	forse più immigrazione dall'est
-TOI043	mh mh
+TOI043	forse più immigrazione dall'est
+TOR001	mh mh
 TOI043	quindi
 TOI043	appunto non so
 TOI043	rumeni o
 TOI043	altre
-TOR001	altri paesi
-TOI043	grazie
+TOI043	altri paesi
+TOR001	grazie
 TOI043	eh
-TOR001	non so paesi dell'ex jugo~ serbia dell'ex jugoslavia eccetera
-TOI043	mhmhmhmh
+TOI043	non so paesi dell'ex jugo~ serbia dell'ex jugoslavia eccetera
+TOR001	mhmhmhmh
 TOI043	più che non
-TOR001	di di di altro tipo
-TOI043	okay
-TOR001	mh
-TOI044	d'accordo
+TOI043	di di di altro tipo
+TOR001	okay
+TOI043	mh
+TOR001	d'accordo
 TOI044	invece qui eh ho visto
-TOI043	negli ultimi anni una crescita esponenziale d'immigrazione
-TOI044	mh
-TOI043	dal mondo arabo
-TOI044	mh mh
-TOI043	lo vedo nelle dalle donne al mercato
-TOI044	mh mh
+TOI044	negli ultimi anni una crescita esponenziale d'immigrazione
+TOI043	mh
+TOI044	dal mondo arabo
+TOI043	mh mh
+TOI044	lo vedo nelle dalle donne al mercato
+TOI043	mh mh
 TOI044	e
 TOI044	e poi dall'anche
-TOI043	negli asili
-TOI044	sì
-TOI043	moltissimo
-TOI044	mh mh mh
+TOI044	negli asili
+TOI043	sì
+TOI044	moltissimo
+TOI043	mh mh mh
 TOI044	che prima non era
 TOI044	percepibile adesso invece in maniera
-TOI043	anche perché hanno molti figli quindi te ne accorgi dal numero
-TOR001	eh certo quindi te ne accorgi subito
-TOI044	
-TOI043	tre quattro
-TOI044	eh certo eh sì
-TOI043	mentre l'immigrazione rume~ ~na
+TOI044	anche perché hanno molti figli quindi te ne accorgi dal numero
+TOI043	eh certo quindi te ne accorgi subito
+TOI044	tre quattro
+TOI043	eh certo eh sì
+TOI044	mentre l'immigrazione rume~ ~na
 TOI043	eh
-TOI044	sì
+TOI043	sì
 TOI044	ehm
-TOI043	prima c'erano tanti ragazzini rumeni
-TOI044	sì
+TOI044	prima c'erano tanti ragazzini rumeni
+TOI043	sì
 TOI044	negli altri anni
 TOI044	ehm
-TOI043	però appunto non
-TOI044	sì è meno evidente mh
-TOI043	mio figlio ha avuto tanti compagni di scuola rumeni
-TOI044	eh certo sì infatti
+TOI044	però appunto non
+TOI043	sì è meno evidente mh
+TOI044	mio figlio ha avuto tanti compagni di scuola rumeni
+TOI043	eh certo sì infatti
 TOI044	aveva solo una ragazzina
-TOI043	adesso
+TOI044	adesso
 TOI043	mh mh
-TOI044	sì sì è molto molto aumentato
-TOR001	si vede che quella araba è cresciuta moltissimo
+TOI043	sì sì è molto molto aumentato
+TOI044	si vede che quella araba è cresciuta moltissimo
 TOR001	mhmhmh
 TOR001	okay
 TOR001	ehm
-TOI044	dunque avete sempre vissuto nei in questi quartieri
-TOR001	io no
-TOI043	okay
-TOR001	io nemmeno
+TOR001	dunque avete sempre vissuto nei in questi quartieri
+TOI044	io no
+TOR001	okay
+TOI043	io nemmeno
 TOR001	va bene quindi
-TOI043	dove stavate prima
-TOI044	vai vai vai vai pure prima tu
+TOR001	dove stavate prima
+TOI043	vai vai vai vai pure prima tu
 TOI044	io aurora cioè vicino non lontano da
-TOR001	da porta palazzo che frequentavo parecchio
-TOI044	mhmh
+TOI044	da porta palazzo che frequentavo parecchio
+TOR001	mhmh
 TOI044	perché andavo a scuola dietro a porta palazzo
-TOR001	quindi quartiere aurora ha avuto un declino fortissimo adesso
-TOI044	mhmh
+TOI044	quindi quartiere aurora ha avuto un declino fortissimo adesso
+TOR001	mhmh
 TOI044	anche perché c'è
 TOI044	corso vigevano che
 TOI044	una zona di spaccio ad alto
 TOI044	non è proprio dove
-TOR001	vivevo io ma poco lontano quindi
-TOI044	mhmh
+TOI044	vivevo io ma poco lontano quindi
+TOR001	mhmh
 TOI044	questo è l'aspetto più vistoso
 TOI044	un'immigrazione
-TOR001	e massiccia
-TOI044	mhmh
+TOI044	e massiccia
+TOR001	mhmh
 TOI044	mh
 TOI044	araba soprattutto ma anche
 TOI044	ma credo che ci siano anche molte mh
 TOI044	mh appartenenti alle chiese di di gente di colore
-TOI043	perché la domenica cioè è molto colorata la zona
-TOI044	mh mh mh mh mh
+TOI044	perché la domenica cioè è molto colorata la zona
+TOI043	mh mh mh mh mh
 TOI044	quando vado a trovare mio padre
 TOI044	è sicuramente
 TOI044	frequenta una chiesa
-TOR001	o cantano perché quando passo vedo
-TOI044	
+TOI044	o cantano perché quando passo vedo
 TOI044	queste migrazioni di colore che frequenta
 TOI044	non so dei centri particolari vanno tutti
 TOI044	vestiti x in maniera molto sgargiante quindi
 TOI044	è cambiata molt~ moltissimo
-TOR001	e
-TOI044	e e come era prima invece
+TOI044	e
+TOR001	e e come era prima invece
 TOI044	ma prima era una
 TOI044	c'era la fiat grandi motore
-TOR001	che adesso è stata smantellata
-TOI044	
+TOI044	che adesso è stata smantellata
 TOI044	quindi era una zona operaia
 TOI044	tranquilla
 TOI044	mh diciamo
-TOI043	sicuramente
-TOI044	grazie
-TOR001	di gente quartiere operaio innanzitutto cioè
-TOI044	mhmh
+TOI044	sicuramente
+TOI043	grazie
+TOI044	di gente quartiere operaio innanzitutto cioè
+TOR001	mhmh
 TOI044	quindi
-TOR001	era completamente diversa
-TOI044	okay
-TOR001	xxx
-TOI044	e quanti anni ha vissuto lì
-TOR001	mh ventisette
-TOI044	ah quindi era xxx è per il suo bene diciamo okay
-TOR001	sì sì
-TOI044	e e prima diceva che andava a scuola a piedi
+TOI044	era completamente diversa
+TOR001	okay
+TOI044	xxx
+TOR001	e quanti anni ha vissuto lì
+TOI044	mh ventisette
+TOR001	ah quindi era xxx è per il suo bene diciamo okay
+TOI044	sì sì
+TOR001	e e prima diceva che andava a scuola a piedi
 TOI044	sì
-TOR001	io frequentavo una scuola di fuori che era proprio dietro porta palazzo
-TOI044	mhmh
+TOI044	io frequentavo una scuola di fuori che era proprio dietro porta palazzo
+TOR001	mhmh
 TOI044	via della sala
 TOI044	c'erano
 TOI044	era frequentata
 TOI044	diciamo così che era una scuola un po' v~
 TOI044	poi ho fatto anche xxxtrice
-TOR001	quindi scuole religiose
-TOI044	mhmh
+TOI044	quindi scuole religiose
+TOR001	mhmh
 TOI044	e
 TOI044	ed erano un po'
-TOR001	un po' d'elite queste scuole perché rispetto alle scuole statali
+TOI044	un po' d'elite queste scuole perché rispetto alle scuole statali
 TOR001	okay
-TOI044	mhmh
+TOR001	mhmh
 TOI044	erano un po' più controllate si andava al pomeriggio anche a scuola io stavo a scuola tutto il giorno
-TOR001	quindi
-TOI044	okay
+TOI044	quindi
+TOR001	okay
 TOI044	erano un po'
-TOR001	così cioè abbastanza isolate rispetto al contesto
-TOI044	mh mh
-TOR001	e poi c'era il mercato di porta palazzo
-TOI044	
-TOR001	che era un classico
-TOI044	mhmhmhmh
-TOI043	abbastanza tranquillo all'epoca adesso è diciamo così
-TOI044	sì
-TOI043	molto diverso a ca~ anche se hanno fatto delle cose nuove adesso nella
-TOI044	mh
-TOI043	perché hanno
-TOI044	sì eh so che hanno river~ ri~ fatto il parcheggio coperto eh
+TOI044	così cioè abbastanza isolate rispetto al contesto
+TOR001	mh mh
+TOI044	e poi c'era il mercato di porta palazzo
+TOI044	che era un classico
+TOR001	mhmhmhmh
+TOI044	abbastanza tranquillo all'epoca adesso è diciamo così
+TOI043	sì
+TOI044	molto diverso a ca~ anche se hanno fatto delle cose nuove adesso nella
+TOI043	mh
+TOI044	perché hanno
+TOI043	sì eh so che hanno river~ ri~ fatto il parcheggio coperto eh
 TOI044	anche hanno aperto di recente un una nuova
-TOR001	non so come si chiama xxx
-TOI044	mh
-TOI044	cioè hanno
-TOI043	non sono ancora andato a visitarlo
-TOI044	no neanch'io sono ancora andata
-TOI043	l'hanno aperto da un mese
+TOI044	non so come si chiama xxx
 TOR001	mh
-TOI043	quello al coperto giusto
-TOI044	eh s~ sì so che hanno fatto delle cose anche belle però non sono più andata
+TOI044	cioè hanno
+TOI044	non sono ancora andato a visitarlo
+TOI043	no neanch'io sono ancora andata
+TOI044	l'hanno aperto da un mese
+TOI043	mh
+TOR001	quello al coperto giusto
+TOI043	eh s~ sì so che hanno fatto delle cose anche belle però non sono più andata
 TOI044	quello al coperto
 TOI044	quindi
 TOI044	però diciamo così che
 TOI044	era
 TOI044	era abbastanza
-TOR001	più tranquillo più
-TOI044	mh mh
-TOI043	xxx più multietnico sicuramente
+TOI044	più tranquillo più
+TOR001	mh mh
+TOI044	xxx più multietnico sicuramente
 TOI043	ah certo
 TOI043	sì io per esempio ricordo
 TOI043	anche se non abitavo in quella zona
@@ -344,497 +336,469 @@ TOI043	no comunque di torino anche
 TOI043	sicuramente no~ non zone bene diciamo no
 TOI043	però
 TOI043	se diciamo quando ero bambina io
-TOI044	quella era stata la zona dove c'era stata anche una forte immigrazione dal sud no
-TOI042	sì
-TOI043	mh
-TOR001	per cui per esempio mi ricordo che già mio papà
-TOI043	mh mh mh
+TOI043	quella era stata la zona dove c'era stata anche una forte immigrazione dal sud no
+TOI044	sì
+TOI042	mh
+TOI043	per cui per esempio mi ricordo che già mio papà
+TOR001	mh mh mh
 TOI043	andando al balon diceva che appunto no
 TOI043	era ovviamente c'erano molti che venivano dal sud
 TOI043	adesso ovviamente vedi l'immigrazione
-TOI044	che invece viene eh eh da da da da tutte le altre parti no
-TOI043	ah ci sono ancora molti negozietti tradizionali di tempo fa
-TOI044	però ci sono ancora sì
-TOI043	a cui gli si affiancano questi xxx all'aperto
+TOI043	che invece viene eh eh da da da da tutte le altre parti no
+TOI044	ah ci sono ancora molti negozietti tradizionali di tempo fa
+TOI043	però ci sono ancora sì
+TOI044	a cui gli si affiancano questi xxx all'aperto
 TOI043	eh
-TOR001	si affiancano a questi esatto esatto sì
-TOI044	
-TOI043	che c'è questo contrasto forte tra chi ha le attività
+TOI043	si affiancano a questi esatto esatto sì
+TOI044	che c'è questo contrasto forte tra chi ha le attività
 TOI043	mh
 TOI043	sì
-TOI044	mh
-TOI043	io ho un'amica che ha il negozio lì quindi la conosco bene
-TOI044	sì
+TOI043	mh
+TOI044	io ho un'amica che ha il negozio lì quindi la conosco bene
+TOI043	sì
 TOI044	che era una ditta antichissima prima era
 TOI044	vendevano scope
 TOI044	poi dopo adesso il negozietto è stato preso dalla
 TOI044	mia amica
 TOI044	vendono
-TOI043	cioè strutturazioni di mob~ mobili antichi
-TOI044	sì mobili antichi anche perché quella è una zona anche di quello eh
+TOI044	cioè strutturazioni di mob~ mobili antichi
+TOI043	sì mobili antichi anche perché quella è una zona anche di quello eh
 TOI044	mobili antichi quindi
-TOI043	e c'è questo contrasto con
-TOI044	eh sì
+TOI044	e c'è questo contrasto con
+TOI043	eh sì
 TOI044	con questi mh
-TOI043	con l'immigrazione che occupa il suolo pubblico senza in maniera un po'
+TOI044	con l'immigrazione che occupa il suolo pubblico senza in maniera un po'
 TOI043	eh sì
 TOI043	mh
-TOI044	sì sì un po' selvaggia diciamo
-TOI042	senza eh senza regole quindi
-TOI044	mh mh mh mh mh mh
+TOI043	sì sì un po' selvaggia diciamo
+TOI044	senza eh senza regole quindi
+TOI042	mh mh mh mh mh mh
 TOI044	c'è un po' di con~
-TOI043	c'è molto attrito eh
-TOI044	conflitto
-TOI043	anche perché lì è una zona di spaccio alla
-TOI044	eh sì
-TOI044	lungo la dora
-TOI043	è diventata veramente una zona di
-TOI044	mh
-TOI043	mh di di spaccio
+TOI044	c'è molto attrito eh
+TOI043	conflitto
+TOI044	anche perché lì è una zona di spaccio alla
 TOI043	eh sì
-TOI044	mh m~ mio figlio è andato è andato a scuola allo steiner che è proprio lì
-TOI043	lo steiner che è là a fianco
-TOI044	eheh quindi
-TOI043	eh lì
+TOI044	lungo la dora
+TOI044	è diventata veramente una zona di
+TOI043	mh
+TOI044	mh di di spaccio
+TOI043	eh sì
+TOI043	mh m~ mio figlio è andato è andato a scuola allo steiner che è proprio lì
+TOI044	lo steiner che è là a fianco
+TOI043	eheh quindi
+TOI044	eh lì
 TOI043	eh
 TOI043	c'era praticamente sempre
 TOI043	la polizia che
-TOI044	che faceva
-TOI043	no è abbastanza contro~
+TOI043	che faceva
+TOI044	no è abbastanza contro~
 TOI043	che controllava
-TOI044	e poi appunto lì soprattutto sul lungo dora dice che vedevano sempre
-TOI043	anche se
-TOI044	di tutto di più
+TOI043	e poi appunto lì soprattutto sul lungo dora dice che vedevano sempre
+TOI044	anche se
+TOI043	di tutto di più
 TOI044	insomma al mattino
 TOI044	diciamo così che al mattino presto
 TOI044	a me è capitato di stare a casa di mio padre per qualche settimana
 TOI044	pensavo peggio
-TOI043	perché al mattino presto io andavo con il cane
+TOI044	perché al mattino presto io andavo con il cane
 TOI043	no infatti infatti
-TOR001	devo dire che al mattino anche lui non ha mai avuto problemi
-TOI044	
+TOI043	devo dire che al mattino anche lui non ha mai avuto problemi
 TOI044	e io non
-TOI043	xxx poi seco~
+TOI044	xxx poi seco~
 TOI043	anche perché poi era molto controllata tutto sommato no
-TOI044	cioè c'era molto controllo
-TOI043	no ma poi magari boh di non
-TOI044	mh
-TOI043	bisogna evitarla in certe ore magari di sera
+TOI043	cioè c'era molto controllo
+TOI044	no ma poi magari boh di non
 TOI043	mh
-TOI044	mh
-TOI042	ma
-TOI044	mh mh
+TOI044	bisogna evitarla in certe ore magari di sera
+TOI043	mh
+TOI043	mh
+TOI044	ma
+TOI042	mh mh
 TOI044	magari stando nel quartiere
-TOI043	diventa poi se ti conoscono
-TOI044	sì diventa abituale certo diventa poi abituale
-TOI043	diventa meno pericoloso però così
-TOI044	assolutamente
-TOR001	è un po' un'impressione adesso rispetto ai tempi però
+TOI044	diventa poi se ti conoscono
+TOI043	sì diventa abituale certo diventa poi abituale
+TOI044	diventa meno pericoloso però così
+TOI043	assolutamente
+TOI044	è un po' un'impressione adesso rispetto ai tempi però
 TOR001	però è sempre stata una zona
-TOI044	cioè prima c'erano
-TOR001	sì
-TOI043	immigrati diciamo interni cioè dal meridione ma no
+TOR001	cioè prima c'erano
+TOI044	sì
+TOR001	immigrati diciamo interni cioè dal meridione ma no
 TOI043	sì
-TOR001	sì sì sì
-TOI043	immagino che
-TOI044	eh sì sì
-TOI043	sì un po' zone di malavita un tempo eh
-TOI044	un po' zone sì esatto un po' così
-TOI043	al di là dell'immigrazione eravamo zone di malavitose ehm
-TOI044	infatti erano sempre zone un po' così un po'
-TOI043	al di là di tutto adesso
+TOI043	sì sì sì
+TOR001	immagino che
+TOI043	eh sì sì
+TOI044	sì un po' zone di malavita un tempo eh
+TOI043	un po' zone sì esatto un po' così
+TOI044	al di là dell'immigrazione eravamo zone di malavitose ehm
+TOI043	infatti erano sempre zone un po' così un po'
+TOI044	al di là di tutto adesso
 TOI043	eh
-TOI044	infatti ripeto mi ricordo che che che mio nonno
-TOI043	c'è spaccio
+TOI043	infatti ripeto mi ricordo che che che mio nonno
+TOI044	c'è spaccio
 TOI043	che abitava
 TOI043	da quelle xxx
 TOI043	in via san domenico
 TOI043	anzi no anzi neanche in via
-TOI042	comunque dove c'è adesso l'ufficio d'igiene sì
-TOI043	via giolitti
+TOI043	comunque dove c'è adesso l'ufficio d'igiene sì
+TOI042	via giolitti
 TOI043	e frequentavano frequentavano appunto dice quelle zone lì
-TOI042	già allora comunque erano zone un po' così no
-TOI044	la
-TOI042	dovevi fare attenzione
-TOI043	la la torino di gipo farassino
-TOI042	vanchiglia l'era il burg di lader xxx
-TOI043	prima dei meridionali erano già m~ ma~ malavitusa sì sì sì
-TOR001	esatto xxx no eh
+TOI043	già allora comunque erano zone un po' così no
+TOI042	la
+TOI044	dovevi fare attenzione
+TOI042	la la torino di gipo farassino
+TOI043	vanchiglia l'era il burg di lader xxx
+TOI042	prima dei meridionali erano già m~ ma~ malavitusa sì sì sì
+TOI043	esatto xxx no eh
 TOR001	cioè
-TOI043	io non so nulla
+TOR001	io non so nulla
 TOI043	eh nel senso che in qualche modo erano
-TOR001	cioè va~ vanchiglia che è lì attaccato lo chiamavano il burg di ladri il borgo dei ladri
-TOI042	ah okay
-TOI044	
-TOI043	
+TOI043	cioè va~ vanchiglia che è lì attaccato lo chiamavano il burg di ladri il borgo dei ladri
+TOR001	ah okay
 TOI043	nel senso che comunque
 TOI043	erano zone molto
 TOI043	popolari dove comunque
-TOI044	ci viveva gente abbastanza
-TOI043	ogni tanto
+TOI043	ci viveva gente abbastanza
+TOI044	ogni tanto
 TOI043	povera
 TOI043	e
-TOI044	dove spesso magari era più facile che ci potessero essere situazioni di un certo tipo
-TOI043	lo scippo xxx
-TOI044	che non in altre zone no
-TOI043	potevano rubarti delle cose
-TOI042	quindi
-TOI043	xxx
-TOI042	c'era c'era un po' quel quell'aspetto lì contrabbando magari
-TOI044	contrabbando non c'era pace
-TOI042	contrabbando contrabbando xxx
-TOI043	contrabbando di sigarette roba rubata
+TOI043	dove spesso magari era più facile che ci potessero essere situazioni di un certo tipo
+TOI044	lo scippo xxx
+TOI043	che non in altre zone no
+TOI044	potevano rubarti delle cose
+TOI043	quindi
+TOI042	xxx
+TOI043	c'era c'era un po' quel quell'aspetto lì contrabbando magari
+TOI042	contrabbando non c'era pace
+TOI044	contrabbando contrabbando xxx
+TOI042	contrabbando di sigarette roba rubata
 TOI043	cose di quel tipo lì
-TOI044	esatto
+TOI043	esatto
 TOI044	mia madre parlava dei magliari che non mi ricordo più
-TOI042	il termine magliaro
+TOI044	il termine magliaro
 TOI042	viene da roma però
-TOI043	sono gli imbroglioni i magliari
-TOI044	sì ecco magari c'erano quelli
-TOI043	ma c'erano
+TOI042	sono gli imbroglioni i magliari
+TOI043	sì ecco magari c'erano quelli
+TOI044	ma c'erano
 TOI043	appunto anche il il fatto del balon
-TOI042	in fondo il balon c'è sempre stato cioè queste
-TOI044	sì sì sì
-TOI043	le sigarette c'era tanto contrabbando di sigarette
+TOI043	in fondo il balon c'è sempre stato cioè queste
+TOI042	sì sì sì
+TOI044	le sigarette c'era tanto contrabbando di sigarette
 TOI043	eh
-TOI042	contrabbando di sigarette oppure magari questi
-TOI044	sì sì
-TOI043	sono d'accordo
-TOI044	vendita appunto di di di oggetti comunque usati oppure
-TOI042	
-TOI043	roba ed la luna
+TOI043	contrabbando di sigarette oppure magari questi
+TOI042	sì sì
+TOI044	sono d'accordo
+TOI043	vendita appunto di di di oggetti comunque usati oppure
+TOI042	roba ed la luna
 TOI043	oppure quel appunto vendita di roba
 TOI043	magari rubata cose di quel genere
 TOI043	c'è sempre stato
-TOI044	solo che chiaramente è cambiato
-TOI043	c'è sempre stato
+TOI043	solo che chiaramente è cambiato
+TOI044	c'è sempre stato
 TOI043	chi la gestisce
-TOR001	e anche un po' il livello no però un pochino
-TOI042	mh mh mh
-TOI043	c'era il torinese di porta pila
-TOI042	un pochino è sempre stato così esatto eh
+TOI043	e anche un po' il livello no però un pochino
+TOR001	mh mh mh
+TOI042	c'era il torinese di porta pila
+TOI043	un pochino è sempre stato così esatto eh
 TOI042	quello guardato
-TOI043	dall'alto in basso negli alti quartieri
+TOI042	dall'alto in basso negli alti quartieri
 TOI043	mh
-TOI042	eh sì
-TOI044	chila chiel lì a parla ed porta pila
-TOI043	mio padre conosceva la madre di
-TOI044	eh sì
-TOI043	di gipo frassino che abitava proprio lì vicino
-TOI044	eh sì
-TOI042	lo accompagnava
-TOI043	via cuneo
-TOI044	sì sì sì
-TOI042	al bar per mh fare la strada insieme me lo ricordo che mi raccontava
-TOI043	mh mh
-TOI043	eh sì eh sì
-TOI044	eh infatti
-TOI044	e gipo para~ farassino abitava in via cu~ cuneo
-TOI043	xxx
-TOI044	eh sì la zona eh più o meno era quella infatti
-TOI044	e nelle canzoni
-TOI043	canta quella zona lì
-TOI044	eh sì la zona canta quella zona lì
-TOI043	di quando mio padre
 TOI043	eh sì
-TOI044	eh
-TOI043	eh abitava non lontano
+TOI042	chila chiel lì a parla ed porta pila
+TOI044	mio padre conosceva la madre di
+TOI043	eh sì
+TOI044	di gipo frassino che abitava proprio lì vicino
+TOI043	eh sì
+TOI044	lo accompagnava
+TOI042	via cuneo
+TOI043	sì sì sì
+TOI044	al bar per mh fare la strada insieme me lo ricordo che mi raccontava
+TOI042	mh mh
+TOI043	eh sì eh sì
+TOI043	eh infatti
+TOI044	e gipo para~ farassino abitava in via cu~ cuneo
+TOI044	xxx
+TOI043	eh sì la zona eh più o meno era quella infatti
+TOI044	e nelle canzoni
+TOI044	canta quella zona lì
+TOI043	eh sì la zona canta quella zona lì
+TOI044	di quando mio padre
+TOI043	eh sì
 TOI043	eh
-TOI044	eh sì infatti quindi
-TOI043	vicino
-TOI044	diciamo che c'è stato questo
-TOI043	eh le canzoni di gipo farassino
-TOI044	eh
-TOI043	illustrano abbastanza bene quel
-TOI042	eh sì eh sì
-TOI043	sì
-TOI044	com'era com'era quella zona
+TOI044	eh abitava non lontano
+TOI043	eh
+TOI043	eh sì infatti quindi
+TOI044	vicino
+TOI043	diciamo che c'è stato questo
+TOI044	eh le canzoni di gipo farassino
+TOI043	eh
+TOI044	illustrano abbastanza bene quel
+TOI043	eh sì eh sì
+TOI042	sì
+TOI043	com'era com'era quella zona
 TOI044	com'era quella zona lì
-TOI043	il porta pila il porta pila eheh
-TOI042	negli anni esatto proprio
-TOI043	sì
-TOI042	quegli anni lì diciamo lì quelli di gipo cosa saranno anni cinquanta
-TOI043	eh sì perché lui era era un un
+TOI044	il porta pila il porta pila eheh
+TOI043	negli anni esatto proprio
+TOI042	sì
+TOI043	quegli anni lì diciamo lì quelli di gipo cosa saranno anni cinquanta
+TOI042	eh sì perché lui era era un un
 TOI043	anni sessanta
-TOI042	eh
-TOI043	un ragazzone negli anni fine anni quaranta metà anni cinquanta
+TOI043	eh
+TOI042	un ragazzone negli anni fine anni quaranta metà anni cinquanta
 TOI043	eh infatti esatto
 TOI043	invece
-TOR001	quando parlo del periodo di mio nonno è ancora prima della guerra cioè
-TOI042	
-TOI043	beh sì sì sì xxx
-TOI042	no infatti
-TOI043	ma era la
-TOI042	andiamo ancora più indietro nel tempo eh
-TOI043	ma la tor~ porta pila di prima della guerra arriva agli anni cinquanta più o meno
+TOI043	quando parlo del periodo di mio nonno è ancora prima della guerra cioè
+TOI042	beh sì sì sì xxx
+TOI043	no infatti
+TOI042	ma era la
+TOI043	andiamo ancora più indietro nel tempo eh
+TOI042	ma la tor~ porta pila di prima della guerra arriva agli anni cinquanta più o meno
 TOI043	eh sì
-TOI042	eh sì sì sì sì
-TOI043	c'erano le piole c'erano
-TOI044	esatto c'erano le piole
-TOI043	c'erano le piole xxx
-TOI042	mio mio nonno era figuratevi del forse lei non sa neanche chi è
-TOI043	musicanti da osteria
+TOI043	eh sì sì sì sì
+TOI042	c'erano le piole c'erano
+TOI043	esatto c'erano le piole
+TOI044	c'erano le piole xxx
+TOI043	mio mio nonno era figuratevi del forse lei non sa neanche chi è
+TOI042	musicanti da osteria
 TOI043	era in compagnia con macario
-TOI044	con erminio macario che era
+TOI043	con erminio macario che era
 TOI044	eh
-TOI043	macario era sempre del giro eh
-TOI042	un comico torinese no per cui dice che andavano in giro
-TOI044	mh mh
-TOI043	tutto quella zona lì era
+TOI044	macario era sempre del giro eh
+TOI043	un comico torinese no per cui dice che andavano in giro
+TOI042	mh mh
+TOI044	tutto quella zona lì era
 TOI043	facevano
-TOI044	f~ faceva~ eh eh esatto
-TOI043	macario mh farà sì ma dopo
+TOI043	f~ faceva~ eh eh esatto
+TOI044	macario mh farà sì ma dopo
 TOI043	erano quelli che praticamente facevano tipo le le le riviste
 TOI043	il teatro nel nel nelle piole
-TOI042	e si esibivano nelle piole
-TOI043	da giovane sì mh mh
+TOI043	e si esibivano nelle piole
+TOI042	da giovane sì mh mh
 TOI043	da giovani no
 TOI043	facevano magari la nottata in giro
 TOI043	bevevano
 TOI043	facevano casino
-TOR001	cioè insomma queste cose
-TOI043	okay
-TOI042	che comunque c'erano
+TOI043	cioè insomma queste cose
+TOR001	okay
+TOI043	che comunque c'erano
 TOI042	poi macario è restato un'icona nei
-TOI043	chiedi a un torinese d'ottantanni
-TOI042	eh sì
+TOI042	chiedi a un torinese d'ottantanni
+TOI043	eh sì
 TOI042	è restato un'icona perché poi ha portato
-TOI044	secondo me molto negativamente l'immagine del piemontese in televisione e al cinema
-TOI043	poi mi ricordo in quella zona lì c'era la prostituzione nelle vie delle orfane
-TOI042	eh sì
-TOI044	però è una riv~
-TOI042	io mi ricordo che ero piccola
-TOI043	sì ma proprio quel
-TOI044	quando ti avevo raccontato
-TOI043	
-TOI044	beh se vuoi che se vuoi che andiamo così indietro
-TOI042	da piccola
-TOI044	l'ultimo livello proprio
-TOI043	via che via era via delle tre galline
+TOI042	secondo me molto negativamente l'immagine del piemontese in televisione e al cinema
+TOI044	poi mi ricordo in quella zona lì c'era la prostituzione nelle vie delle orfane
+TOI043	eh sì
+TOI042	però è una riv~
+TOI044	io mi ricordo che ero piccola
+TOI042	sì ma proprio quel
+TOI043	quando ti avevo raccontato
+TOI043	beh se vuoi che se vuoi che andiamo così indietro
+TOI044	da piccola
+TOI042	l'ultimo livello proprio
+TOI044	via che via era via delle tre galline
 TOI043	esatto perché quello
-TOI042	via delle orfane
-TOI043	sì sì sì
-TOI044	via delle tre galline
+TOI043	via delle orfane
+TOI042	sì sì sì
 TOI043	via delle tre galline
-TOI042	via franco bonelli
-TOI043	sì
-TOI044	tutte quelle vie lì
-TOI042	c'era la prostitu~ una prostituzione proprio
-TOI043	sì ma quella proprio
+TOI044	via delle tre galline
+TOI043	via franco bonelli
+TOI042	sì
+TOI043	tutte quelle vie lì
+TOI044	c'era la prostitu~ una prostituzione proprio
+TOI042	sì ma quella proprio
 TOI043	eh
-TOI044	praticamente erano quelle che erano arrivate all'ultimo stadio no
-TOI042	eh appunto cioè quindi
-TOI043	settant'anni
-TOI044	proprio
+TOI043	praticamente erano quelle che erano arrivate all'ultimo stadio no
+TOI044	eh appunto cioè quindi
+TOI042	settant'anni
+TOI043	proprio
 TOI044	io me ne ricordo una bionda no
-TOI043	che era ancora appariscente ma la vedevi che era
-TOI042	le più malandate
-TOR001	
-TOI043	
-TOI044	sì
-TOI043	aveva un xxx erano d'epoca
+TOI044	che era ancora appariscente ma la vedevi che era
+TOI043	le più malandate
+TOI043	sì
+TOI044	aveva un xxx erano d'epoca
 TOI043	sì sì
-TOI042	sì perché quello que~ quello me l'aveva raccontato
-TOI044	qualcuna batteva da seduta addirittura
-TOI043	
-TOI042	esatto me l'aveva raccontato mio papà che
-TOI043	
-TOI042	praticamente c'erano proprio le zone no allora per esempio
-TOI043	mh
+TOI043	sì perché quello que~ quello me l'aveva raccontato
+TOI042	qualcuna batteva da seduta addirittura
+TOI043	esatto me l'aveva raccontato mio papà che
+TOI043	praticamente c'erano proprio le zone no allora per esempio
+TOI042	mh
 TOI043	famoso corso massimo
-TOI044	corso massimo d'azeglio
-TOI043	era lontano
-TOR001	era zona abbastanza bene
-TOI043	mh mh
+TOI043	corso massimo d'azeglio
+TOI044	era lontano
+TOI043	era zona abbastanza bene
+TOR001	mh mh
 TOI043	cioè dove
-TOI044	battevano quelle di un certo livello
-TOI042	
-TOI043	
-TOI044	e poi man mano scendevi no
-TOI043	a~ abbordato a lato c'era la zona delle prostitute quelle proprio
-TOI042	e lì c'era
-TOI043	
+TOI043	battevano quelle di un certo livello
+TOI043	e poi man mano scendevi no
+TOI044	a~ abbordato a lato c'era la zona delle prostitute quelle proprio
+TOI043	e lì c'era
 TOI043	il peggio del peggio
-TOI044	e ce n'era una che mi raccontava sempre che era senza una gamba
-TOR001	
-TOI043	
-TOI044	xxx che batteva che era senza una gamba
-TOI042	
+TOI043	e ce n'era una che mi raccontava sempre che era senza una gamba
+TOI043	xxx che batteva che era senza una gamba
 TOI042	questa mi sfug~
-TOI044	no me la sono persa questa storia xxx no no
-TOI043	no quella
-TOI042	eh sì esatto per cui insomma
-TOI043	c'era una che batteva con il cagnolino quella l'ho vista anch'io
-TOI042	eh sì sì
-TOI044	ma era una settuagenaria eh
-TOI043	sì sì te ne accorgevi dall'età che era proprio xxx
-TOI042	sì sì xxx
-TOI043	xxx
-TOI044	che poi appunto di il famoso episodio che ti avevo raccontato
-TOI042	e poi c'era maciste anche in mezzo al
+TOI042	no me la sono persa questa storia xxx no no
+TOI044	no quella
+TOI043	eh sì esatto per cui insomma
+TOI042	c'era una che batteva con il cagnolino quella l'ho vista anch'io
+TOI043	eh sì sì
+TOI042	ma era una settuagenaria eh
+TOI044	sì sì te ne accorgevi dall'età che era proprio xxx
+TOI043	sì sì xxx
+TOI042	xxx
+TOI043	che poi appunto di il famoso episodio che ti avevo raccontato
+TOI044	e poi c'era maciste anche in mezzo al
 TOI042	quel
-TOI043	aspetta quello l'ho visto quel che f~ f~ fammici ricordare perché non mi ricordo
-TOI042	c'era maciste giusto ve~
-TOI043	l'episodio qual era mi ricordo che era un x
-TOI042	eh no che questo me l'aveva raccontato sempre mio papà
-TOI043	mh
-TOI042	dice che quando loro erano ragazzi quindi stiamo parlando appunto degli anni cinquanta
-TOI043	mh
+TOI042	aspetta quello l'ho visto quel che f~ f~ fammici ricordare perché non mi ricordo
+TOI043	c'era maciste giusto ve~
+TOI042	l'episodio qual era mi ricordo che era un x
+TOI043	eh no che questo me l'aveva raccontato sempre mio papà
+TOI042	mh
+TOI043	dice che quando loro erano ragazzi quindi stiamo parlando appunto degli anni cinquanta
+TOI042	mh
 TOI043	c'erano ancora i casini
-TOR001	no i bordelli
-TOI042	mh mh
-TOI043	mh via cavalli
-TOI042	e allora i giovani cosa gli studenti cosa facevano
-TOI043	andasiu a piese el xxx xxx
+TOI043	no i bordelli
+TOR001	mh mh
+TOI042	mh via cavalli
+TOI043	e allora i giovani cosa gli studenti cosa facevano
+TOI042	andasiu a piese el xxx xxx
 TOI043	andavano soprattutto d'inverno
 TOI043	entravano dentro al casino
-TOI042	un po' per scaldarsi d'inverno e un po' per far~ rifarsi la vista
-TOI043	
-TOI042	però ovviamente non avevano soldi per cui non è che potessero
-TOR001	
-TOI043	mh mh
+TOI043	un po' per scaldarsi d'inverno e un po' per far~ rifarsi la vista
+TOI043	però ovviamente non avevano soldi per cui non è che potessero
+TOR001	mh mh
 TOI043	fare più di tanto
 TOI043	e allora dice che arrivava appunto la madama
 TOI043	che era quella che gestiva tutto
 TOI043	con una specie di
-TOI042	profumo dolciastro schifosissimo
-TOI043	deje el flit
-TOI042	che voleva appunto deje el flit e cominciava a fare lo dico in dialetto
+TOI043	profumo dolciastro schifosissimo
+TOI042	deje el flit
+TOI043	che voleva appunto deje el flit e cominciava a fare lo dico in dialetto
 TOI042	sì sì
-TOI043	eh
-TOI042	alura fjoi o la figa o la fuga o la figa o la fuga
-TOI042	
-TOI043	adesso
+TOI042	eh
+TOI043	alura fjoi o la figa o la fuga o la figa o la fuga
+TOI042	adesso
 TOI043	e spruzzava il flit
 TOI043	e allora loro telavano
 TOI043	perché se arrivavi a casa con questa puzza addosso
-TOR001	tutti capivano che eri stato al casino per cui
-TOI042	
-TOI043	questa è vera perché d~ d~ de el flit è restata a torino
-TOI042	e quindi
+TOI043	tutti capivano che eri stato al casino per cui
+TOI042	questa è vera perché d~ d~ de el flit è restata a torino
+TOI043	e quindi
 TOI042	per dire mandare via in qualche area adesso non lo so
-TOI043	c'è uno che ti pesa d~ deje el flit fare in modo che se ne vada
+TOI042	c'è uno che ti pesa d~ deje el flit fare in modo che se ne vada
 TOI043	eh esatto
-TOI042	quindi era così xxx
-TOI043	perché queste madame oramai in disarmo del del casino
-TOI042	eh sì
-TOI043	per mandare via quelli che erano lì solo a guardare
-TOI042	appunto solo a guardare che dicevi proprio erano studenti no
-TOR001	arrivava
-TOI042	mhmhmh
+TOI043	quindi era così xxx
+TOI042	perché queste madame oramai in disarmo del del casino
+TOI043	eh sì
+TOI042	per mandare via quelli che erano lì solo a guardare
+TOI043	appunto solo a guardare che dicevi proprio erano studenti no
+TOI042	arrivava
+TOR001	mhmhmh
 TOI042	arrivavano lì con il ddt che allora chiamavano flit
-TOI043	
 TOI043	el flit e vai e così tutti via
-TOI042	e e dice che si diceva appunto andare così a gurdare eh a fe planela
+TOI043	e e dice che si diceva appunto andare così a gurdare eh a fe planela
 TOI042	sì sì sì sì
-TOI043	sì sì sì sì sì sì
+TOI042	sì sì sì sì sì sì
 TOI043	perché era appunto come
-TOR001	come dire vai lì però non fai niente perché tanto non avevano soldi eran studenti
-TOI044	certo
-TOI043	ma poi c'erano questi eh c'erano lì a porta palazzo lo spettacolo di maciste
-TOI042	di maciste
-TOI044	maciste
-TOI043	o il sabato o la domenica mi ricordo
-TOI042	sì
-TOI043	sì sì io l'ho visto
-TOI044	sì sì è vero sì
-TOR001	era un
-TOI043	cioè
-TOI044	eh
-TOI043	ma era un
-TOI044	tipo un omaccione sai quelle cose
-TOI042	omaccione che faceva delle cose di corpo cioè
+TOI043	come dire vai lì però non fai niente perché tanto non avevano soldi eran studenti
+TOR001	certo
+TOI044	ma poi c'erano questi eh c'erano lì a porta palazzo lo spettacolo di maciste
+TOI043	di maciste
+TOI042	maciste
+TOI044	o il sabato o la domenica mi ricordo
 TOI043	sì
-TOI042	un po' come fosse quello da circo
-TOI043	spezzava le catene
-TOI044	eh
-TOI043	quindi erano spettacolini così
-TOI044	eh sì sì sì sì sì sì
-TOI043	di strada no
-TOI044	così di strada c'erano
-TOI043	e c'era
-TOI044	spettacolini di strada eh
-TOI042	questo personaggio che era famoso
-TOI043	comunque nota a margine sui casini non lontano di lì
-TOI042	infatti
+TOI042	sì sì io l'ho visto
+TOI043	sì sì è vero sì
+TOI044	era un
+TOR001	cioè
+TOI043	eh
+TOI044	ma era un
+TOI043	tipo un omaccione sai quelle cose
+TOI044	omaccione che faceva delle cose di corpo cioè
+TOI042	sì
+TOI043	un po' come fosse quello da circo
+TOI042	spezzava le catene
+TOI043	eh
+TOI044	quindi erano spettacolini così
+TOI043	eh sì sì sì sì sì sì
+TOI044	di strada no
+TOI043	così di strada c'erano
+TOI044	e c'era
+TOI043	spettacolini di strada eh
+TOI044	questo personaggio che era famoso
+TOI042	comunque nota a margine sui casini non lontano di lì
+TOI043	infatti
 TOI042	ce n'era perché adesso è uscito
 TOI042	cioè adesso sarà quattro o cinque anni
 TOI042	che è uscito
 TOI042	un libro di memorie e foto sui casini di torino
 TOI042	ed ha avuto anche poi ha portato qualche guaio pure all'editore
-TOI043	perché certi proprietari di appartamenti
-TOI042	eh esa~ xxx
+TOI042	perché certi proprietari di appartamenti
+TOI043	eh esa~ xxx
 TOI042	e gli a~ e si sono un po'
 TOI042	risentiti dicendo
 TOI042	ormai comunque cioè
 TOI042	fantasia perché non interessa più a nessuno
 TOI042	in via calandra c'era un casino di un certo
-TOI043	e l'altro era in via duchessa
-TOI042	eh già
-TOR001	che mi risulta in via duchessa c'era un casino
-TOI042	mh mh
-TOI043	sentivo dire di un certo livella mentre invece quelli più
-TOI042	sì infatti infatti mio papà dice che loro di solito andavano in via conte verde
+TOI042	e l'altro era in via duchessa
+TOI043	eh già
+TOI042	che mi risulta in via duchessa c'era un casino
+TOR001	mh mh
+TOI042	sentivo dire di un certo livella mentre invece quelli più
+TOI043	sì infatti infatti mio papà dice che loro di solito andavano in via conte verde
 TOI042	cioè
-TOI043	quelli più sgalfi
-TOI042	perché era uno di quelli sgalfi
-TOI044	ah ecco via conte verde giusto
-TOI043	ecco via conte verde c'era quella là
-TOI044	era uno di quelli sgalfi
-TOI043	quella bionda che dico io
+TOI042	quelli più sgalfi
+TOI043	perché era uno di quelli sgalfi
+TOI042	ah ecco via conte verde giusto
+TOI044	ecco via conte verde c'era quella là
+TOI043	era uno di quelli sgalfi
+TOI044	quella bionda che dico io
 TOI043	dove riuscivano a entrare
-TOI042	perché appunto invece in quelli bene
-TOI043	via conte verde giusto
-TOI042	già non li facevano proprio neanche entrare cioè non
-TOI043	intanto bisognava avere diciott'anni o essere volontari
+TOI043	perché appunto invece in quelli bene
+TOI042	via conte verde giusto
+TOI043	già non li facevano proprio neanche entrare cioè non
+TOI042	intanto bisognava avere diciott'anni o essere volontari
 TOI043	quelli neanche
 TOI043	eh
-TOI042	eh sì
-TOI043	a sedici si entrava se eri volontario di di leva
+TOI043	eh sì
+TOI042	a sedici si entrava se eri volontario di di leva
 TOI043	eh eh eh
-TOI042	sì sì
-TOI043	cioè non di leva volontario uno l'ho conosciuto
+TOI043	sì sì
+TOI042	cioè non di leva volontario uno l'ho conosciuto
 TOI043	sì sì sì
-TOI042	sì sì sì
-TOI043	che è andato volontario in guerra solo per entrare a casino
-TOI042	pf
-TOI044	diceva ma se avessi saputo in che casino mi sono messo
-TOR001	
-TOI043	
-TOI042	altro che casino infatti
-TOI044	diceva in tempo di guerra io pensavo
-TOI043	
-TOI042	altro che casino
+TOI043	sì sì sì
+TOI042	che è andato volontario in guerra solo per entrare a casino
+TOI043	pf
+TOI042	diceva ma se avessi saputo in che casino mi sono messo
+TOI043	altro che casino infatti
+TOI042	diceva in tempo di guerra io pensavo
+TOI043	altro che casino
 TOI042	ad andare a casino e sono andato volontario
-TOI043	e poi sì sì sì l'ho spurgata
-TOR001	eh credo
-TOI042	
-TOR001	l'ho spurgata quella di andare a casino a sedic'anni perché
-TOI043	
-TOR001	siamo andati un po' fuori rotta
+TOI042	e poi sì sì sì l'ho spurgata
+TOI043	eh credo
+TOI042	l'ho spurgata quella di andare a casino a sedic'anni perché
+TOI043	siamo andati un po' fuori rotta
 TOR001	no no va bene proprio
-TOI043	sono proprio le cose di cui ho bisogno va benissimo
-TOI042	
+TOR001	sono proprio le cose di cui ho bisogno va benissimo
 TOI042	comunque lì nel centro storico
-TOR001	in via barbaroux
-TOI042	mh
+TOI042	in via barbaroux
+TOR001	mh
 TOI042	adesso è una vineria
-TOI044	chic dove si fa degustazione xxx
+TOI042	chic dove si fa degustazione xxx
 TOI044	xxx
-TOI043	il quadrilatero è diventato xxx
-TOI042	eh tutto il quadrilatero
-TOI044	dove c'era
-TOI042	questa ha cambiato proprio tanto
-TOI043	la tavola rotonda
-TOI042	mh
-TOR001	la tavola rotonda non in onore dei cavalieri di re artù
-TOI042	bensì
-TOI043	ma perché unici tavoli erano i butai
-TOI042	eh già
+TOI044	il quadrilatero è diventato xxx
+TOI043	eh tutto il quadrilatero
+TOI042	dove c'era
+TOI044	questa ha cambiato proprio tanto
+TOI042	la tavola rotonda
+TOI043	mh
+TOI042	la tavola rotonda non in onore dei cavalieri di re artù
+TOR001	bensì
+TOI042	ma perché unici tavoli erano i butai
+TOI043	eh già
 TOI042	e i barili
-TOI043	e lì bazzicava omar sal~ salgari
-TOR001	eh sì
-TOI042	mh mh
+TOI042	e lì bazzicava omar sal~ salgari
+TOI043	eh sì
+TOR001	mh mh
 TOI042	ehm mio padre appunto incontrava spesso quando andava a bersi il caffè
 TOI042	eh quest'uomo pf
 TOI042	vissuto male come
@@ -844,13 +808,13 @@ TOI042	convinto di doversi rifare dei torti subiti da suo padre
 TOI042	quindi facendo truffe editoriali
 TOI042	perché spacciava
 TOI042	romanzi ritrovati del padre ma erano scritti da lui
-TOR001	insomma così
-TOI042	okay
-TOI043	e viveva proprio a livelli di di eh pf
-TOI042	sì di di espedienti diciamo
+TOI042	insomma così
+TOR001	okay
+TOI042	e viveva proprio a livelli di di eh pf
+TOI043	sì di di espedienti diciamo
 TOI042	sì truff~ mh
-TOI043	trafficava nell'editoria arriva al suo livello
-TOI042	sì sì sì sì sì
+TOI042	trafficava nell'editoria arriva al suo livello
+TOI043	sì sì sì sì sì
 TOI042	pieno di livore per tutti
 TOI042	che hanno costretto suo padre alla miseria cioè
 TOI042	è come se lui poi dovesse recuperare i soldi
@@ -858,200 +822,191 @@ TOI042	fregati al padre eccetera no e
 TOI042	e così ehm
 TOI042	e sì
 TOI042	quando il centro storico era
-TOI043	brutto puzzolente schifoso e niente chic
-TOI044	in effetti l'hanno rimesso a posto quando sarà stato
-TOI042	l'hanno xxx
-TOI043	sì
-TOI042	negli anni ott~ novanta più o meno
-TOI044	sì sì
-TOI042	mh
-TOI043	prima mio padre mh che era in comune
-TOI043	eh
-TOR001	eh sì
-TOI043	quadrilatero questo
-TOI042	quadrilatero sì
-TOI044	sì sì quadrilatero
-TOI042	sì quadrilatero
-TOI043	e poi c'era e
+TOI042	brutto puzzolente schifoso e niente chic
+TOI043	in effetti l'hanno rimesso a posto quando sarà stato
+TOI044	l'hanno xxx
+TOI042	sì
+TOI043	negli anni ott~ novanta più o meno
 TOI042	sì sì
+TOI044	mh
+TOI042	prima mio padre mh che era in comune
+TOI043	eh
+TOI043	eh sì
+TOR001	quadrilatero questo
+TOI043	quadrilatero sì
+TOI042	sì sì quadrilatero
+TOI044	sì quadrilatero
+TOI042	e poi c'era e
+TOI043	sì sì
 TOI042	se dovevano per caso
-TOI044	fare dei lavori
-TOI042	quadrilatero
+TOI042	fare dei lavori
+TOI044	quadrilatero
 TOI042	di qualche insomma che doveva intervenire qualcuno del comune
 TOI042	era una tragedia andare nelle cantine
 TOI042	perché lì bisognava andare armati
 TOI042	e c~ c'era chi andava perché i topi grossi come come gatti
 TOI042	dice lì x qualcuno ehm ehm che doveva andare giù del comune si portava il flobert
-TOI044	perché
+TOI042	perché
 TOI044	io mi ricordo che andavo
-TOI042	vicino lì a conte verde da piccola
-TOI044	ma non era uno scherzo
+TOI044	vicino lì a conte verde da piccola
+TOI042	ma non era uno scherzo
 TOI044	perché c'era
 TOI044	una
-TOI044	
 TOI044	me la ricordo ancora adesso una parru~ mh
-TOI042	una pettinatrice che pettinava in casa
-TOI044	mh
+TOI044	una pettinatrice che pettinava in casa
+TOI042	mh
 TOI044	era una ragazza
 TOI044	del sud
-TOI044	
 TOI044	e ehm
 TOI044	aveva
-TOI043	una parte una stanza della della casa
-TOI044	sì dedicata
-TOI043	adibita a negozio no
+TOI044	una parte una stanza della della casa
+TOI043	sì dedicata
+TOI044	adibita a negozio no
 TOI043	già
-TOI044	certo
+TOI043	certo
 TOI044	e allora c'era la mamma del sud che arrivava con i nipotini mezzi nudi
-TOI043	e passava in mezzo mentre metteva mentre la
-TOI042	
-TOI044	
-TOI042	che voleva darsi un tono mettere i bigodini e
-TOI044	eh già
+TOI044	e passava in mezzo mentre metteva mentre la
+TOI044	che voleva darsi un tono mettere i bigodini e
+TOI042	eh già
 TOI044	ehm
 TOI044	e quindi c'era in questo
 TOI044	parte di di torino
-TOI043	anche questa realtà no di lavoro in casa
+TOI044	anche questa realtà no di lavoro in casa
 TOI043	sì sì sì sì
-TOI044	eh già
+TOI043	eh già
 TOI044	fatto da mh
-TOI043	da ragazze del sud che magari avevano imparato il mestiere in un negozio
-TOI044	certo
-TOI043	e poi si mettevano in proprio ma non avendo la possibilità
-TOI044	non av~
+TOI044	da ragazze del sud che magari avevano imparato il mestiere in un negozio
+TOI043	certo
+TOI044	e poi si mettevano in proprio ma non avendo la possibilità
+TOI043	non av~
 TOI044	avevano
 TOI044	adibivano una stanza
-TOI043	della propria casa
-TOI044	certo
+TOI044	della propria casa
+TOI043	certo
 TOI044	e c'erano queste scenette del
-TOI043	della madre ancora proprio sud profondo
-TOI044	sì sì sì di sì sì
+TOI044	della madre ancora proprio sud profondo
+TOI043	sì sì sì di sì sì
 TOI044	che con i nipotini
-TOI043	nudi in braccio passava e
-TOI044	sì sì sì passava e andava
-TOI044	
-TOI043	e questa si vedeva che la ragazza
-TOI044	era imbarazzata
+TOI044	nudi in braccio passava e
+TOI043	sì sì sì passava e andava
+TOI044	e questa si vedeva che la ragazza
+TOI043	era imbarazzata
 TOI044	sì era imbarazzata in una maniera incredibile perché
 TOI044	questa mamma parlava un dialetto pazzesco si rivolge~
 TOI044	e allora c'erano questi
-TOI043	noi tutti ad ascoltare che non capivamo niente perché era
-TOI044	certo sì sì
+TOI044	noi tutti ad ascoltare che non capivamo niente perché era
+TOI043	certo sì sì
 TOI044	proprio dialetto profondo sud
 TOI044	era questa era divertente
-TOR001	
-TOI043	e questo sempre in che zona
+TOR001	e questo sempre in che zona
 TOI043	comunque
-TOI044	sempre lì
-TOR001	sempre via conte verde dove sotto
-TOI043	sempre okay
-TOI044	sempre lì
+TOI043	sempre lì
+TOI044	sempre via conte verde dove sotto
+TOR001	sempre okay
+TOI043	sempre lì
 TOI044	perché io da bambina accompagnavo mia mamma
 TOI044	e vedevo queste prostitute
-TOR001	e non riuscivo a capire cosa
-TOI042	
-TOI043	cosa
-TOI044	eh già eh certo
-TOI042	poi me l'hanno spiegato chi erano
-TOI043	cosa ci facessero sempre lì
-TOI044	certo
-TOI043	xxx perché era proprio lì con
-TOI044	eh sì sì xxx zona lì eh
-TOI043	via sant'agostino era questa pettinatrice quindi
+TOI044	e non riuscivo a capire cosa
+TOI042	cosa
+TOI043	eh già eh certo
+TOI044	poi me l'hanno spiegato chi erano
+TOI042	cosa ci facessero sempre lì
+TOI043	certo
+TOI044	xxx perché era proprio lì con
+TOI043	eh sì sì xxx zona lì eh
+TOI044	via sant'agostino era questa pettinatrice quindi
 TOI043	eh sì
-TOI044	tutta la zona del quadrilatero
-TOR001	era proprio all'angolo
-TOI044	mh mh
-TOI043	e io quando passavo vedevo queste qua e non riuscivo
+TOI043	tutta la zona del quadrilatero
+TOI044	era proprio all'angolo
+TOR001	mh mh
+TOI044	e io quando passavo vedevo queste qua e non riuscivo
 TOI043	eh
-TOR001	sì
-TOI044	
-TOI043	vieni via vieni via mi diceva mia madre
+TOI043	sì
+TOI044	vieni via vieni via mi diceva mia madre
 TOI043	eh sì
-TOI044	sì infatti mi ricordo che anch'io
-TOI043	io ero piccola guardavo
-TOI044	quando ero bambina cioè andare
-TOI043	mh
+TOI043	sì infatti mi ricordo che anch'io
+TOI044	io ero piccola guardavo
+TOI043	quando ero bambina cioè andare
+TOI044	mh
 TOI043	in giro in quelle zone lì via barbaroux eccetera era considerato
-TOI044	quasi pericoloso no per una
-TOI043	sì sì sì infatti
+TOI043	quasi pericoloso no per una
+TOI044	sì sì sì infatti
 TOI043	per una ragazzina
 TOI043	io facevo tipo le inizio superiori quindic'anni
-TOI044	quattordici quindic'anni
-TOI043	no no io io ero più piccola di sicuro
+TOI043	quattordici quindic'anni
+TOI044	no no io io ero più piccola di sicuro
 TOI043	mi ricordo
 TOI043	no facevo ancora le medie
-TOI044	mi ricordo che una volta avevamo fatto
-TOI043	io ero no no io avevo
-TOI044	tipo un progetto che caspita ne so con la parrocchia una roba del genere
-TOI043	sette o otto anni
+TOI043	mi ricordo che una volta avevamo fatto
+TOI044	io ero no no io avevo
+TOI043	tipo un progetto che caspita ne so con la parrocchia una roba del genere
+TOI044	sette o otto anni
 TOI043	e che so che quando avevo detto che dovevamo andare eh
-TOR001	ma no ma andare lì una ragazzina tredic'anni da sola bah bah
-TOI043	
-TOI044	cioè era considerata
-TOI043	era proprio sinonimo di
-TOI044	una cosa di di luogo di malaffare no quindi
-TOR001	luogo di malaffare quella zona lì eh
-TOI043	mhmhmh
-TOI044	stiamo parlando di anni settanta
-TOI043	quindi
-TOI044	perché più o meno era
-TOI043	eh sì io sono del sessantatre avevo sette o otto anni
+TOI043	ma no ma andare lì una ragazzina tredic'anni da sola bah bah
+TOI043	cioè era considerata
+TOI044	era proprio sinonimo di
+TOI043	una cosa di di luogo di malaffare no quindi
+TOI044	luogo di malaffare quella zona lì eh
+TOR001	mhmhmh
+TOI043	stiamo parlando di anni settanta
+TOI044	quindi
+TOI043	perché più o meno era
+TOI044	eh sì io sono del sessantatre avevo sette o otto anni
 TOI043	settantacinque sett~
 TOI043	eh eh abbiamo la stessa età
 TOI043	quindi io invece ero
-TOR001	lì ero già più grande ero già tredici quattordici anni quindi
-TOI044	mhmhmhmhmh
-TOI043	ma se io mi ricordo xxx
-TOR001	sarà già stato settantacinque più o meno
-TOI043	mhmhmhmh
+TOI043	lì ero già più grande ero già tredici quattordici anni quindi
+TOR001	mhmhmhmhmh
+TOI044	ma se io mi ricordo xxx
+TOI043	sarà già stato settantacinque più o meno
+TOR001	mhmhmhmh
 TOI043	settantasei quindi
-TOI042	la fama era ancora quella poi forse mh
-TOI043	mh mh mh
-TOI044	verso metà degli anni ottanta allora hanno cominciato a rimetterlo a posto credo
-TOI043	sì a rimettere a posto bene hanno fatto bene
+TOI043	la fama era ancora quella poi forse mh
+TOI042	mh mh mh
+TOI043	verso metà degli anni ottanta allora hanno cominciato a rimetterlo a posto credo
+TOI044	sì a rimettere a posto bene hanno fatto bene
 TOI043	eh
-TOR001	poi nel negli anni novanta hanno fatto un lavoro bellissimo però
+TOI043	poi nel negli anni novanta hanno fatto un lavoro bellissimo però
 TOR001	cioè
-TOI043	come è avvenuto il cambiamento cos'hanno come sono intervenuti
+TOR001	come è avvenuto il cambiamento cos'hanno come sono intervenuti
 TOI043	eh hanno ristrutturato tutto
 TOI043	rimesso tutto a posto hanno creato i locali
-TOI042	tutte le botteghe infatti adesso
-TOI043	se se
-TOI044	cioè da tan~ già da tanti anni è la zona più come dire
-TOI042	bello
-TOI043	ristrutturato
-TOI042	più in della movida di torino no
-TOR001	gli stabili
-TOI043	mh mh
+TOI043	tutte le botteghe infatti adesso
+TOI042	se se
+TOI043	cioè da tan~ già da tanti anni è la zona più come dire
+TOI044	bello
+TOI042	ristrutturato
+TOI043	più in della movida di torino no
+TOI042	gli stabili
+TOR001	mh mh
 TOI043	perché prima l'hanno fatto lì nel quadrilatero
-TOI042	poi l'avevano fatto a san salvario
-TOI043	mh mh
-TOI044	e poi adesso stanno
-TOI043	hanno ristru~ hanno messo a posto il balon anche parecchio
-TOI042	eh e e appunto e poi hanno cer~ e poi hanno messo a posto il
-TOI043	se
-TOR001	il balon e la zona di porta palazzo
-TOI043	mhmhmh
+TOI043	poi l'avevano fatto a san salvario
+TOI042	mh mh
+TOI043	e poi adesso stanno
+TOI044	hanno ristru~ hanno messo a posto il balon anche parecchio
+TOI043	eh e e appunto e poi hanno cer~ e poi hanno messo a posto il
+TOI042	se
+TOI043	il balon e la zona di porta palazzo
+TOR001	mhmhmh
 TOI043	proprio perché erano le zone più
 TOI043	anche perché san salvario è anche lì vicino a porta nuova no
-TOR001	quindi il livello era quello
-TOI043	certo
+TOI043	quindi il livello era quello
+TOR001	certo
 TOI043	per cui l'hanno fatto adesso io gli anni prec~
 TOI043	eh il quadrilatero è quello che hanno fatto per primo
-TOI042	quindi penso fosse intorno agli anni novanta
+TOI043	quindi penso fosse intorno agli anni novanta
 TOI042	eh ma
-TOI043	ottanta novanta xxx
+TOI042	ottanta novanta xxx
 TOI043	eh
-TOI042	intorno agli anni novanta
-TOI043	perché ancora negli anni settanta mi ricordo mh
-TOI044	eh sì sì sì no ancora agli anni settanta era ancora così
-TOI042	anni settanta no
-TOI043	c'era ancora un ambiente molto
+TOI043	intorno agli anni novanta
+TOI042	perché ancora negli anni settanta mi ricordo mh
+TOI043	eh sì sì sì no ancora agli anni settanta era ancora così
+TOI044	anni settanta no
+TOI042	c'era ancora un ambiente molto
 TOI043	eh
-TOI042	era ancora così
-TOI043	ruspante mh dunque
-TOI042	eh
+TOI043	era ancora così
+TOI042	ruspante mh dunque
+TOI043	eh
 TOI042	mio padre che era lì sempre per
 TOI042	perché il comune era era lì no
 TOI042	e combinazione ehm all'epoca fumava
@@ -1064,96 +1019,93 @@ TOI042	stufa di mettere in conto a un pappone
 TOI042	di quarta categoria le sigarette che non pagava
 TOI042	ha chiesto
 TOI042	a uno ritenuto
-TOI043	un mh
-TOI042	un piccolo boss
-TOI043	an an cit boss ed la mala
-TOI042	eh
+TOI042	un mh
+TOI043	un piccolo boss
+TOI042	an an cit boss ed la mala
+TOI043	eh
 TOI042	chiamato gengis khan per i denti i i baffi alla carta
-TOR001	no che aveva questo grosso xxx
-TOI044	
-TOI042	
+TOI042	no che aveva questo grosso xxx
 TOI042	pappone di un certo livello
 TOI042	dice
-TOI043	per favore singor gengis khan
-TOI042	
+TOI042	per favore singor gengis khan
 TOI042	ma glielo può dire a quello lì che io
 TOI042	ci vivo su ste quattro sigarette
 TOI042	e lì proprio un po' la
-TOI043	eh la la vecchia delinquenza che però la paro~
-TOI042	eh sì
+TOI042	eh la la vecchia delinquenza che però la paro~
+TOI043	eh sì
 TOI042	oh
 TOI042	nel giro di pochissimo quello lì è andato a portare i soldi
 TOI042	perché quel
-TOI043	quel
-TOI042	sì sì quel
+TOI042	quel
+TOI043	sì sì quel
 TOI042	capetto lì eccetera
 TOI042	quel bossino eh
 TOI042	aveva detto ci penso io glieli faccio por~ cioè
-TOR001	cose d'altri tempi no
-TOI043	mhmhmh
-TOI042	eh sì
-TOI043	questo negli anni settanta
-TOR001	eh sì eh sì
-TOI042	e appunto com'era la la mala torinese
-TOI043	mh
-TOR001	eh cioè ne sappiamo da quello che sono stati i racconti
-TOI042	sì sì ma dai racconti certo
-TOI043	sì
+TOI042	cose d'altri tempi no
+TOR001	mhmhmh
+TOI043	eh sì
+TOI042	questo negli anni settanta
+TOI043	eh sì eh sì
+TOR001	e appunto com'era la la mala torinese
+TOI042	mh
+TOI043	eh cioè ne sappiamo da quello che sono stati i racconti
+TOR001	sì sì ma dai racconti certo
+TOI042	sì
 TOI043	nel senso che
-TOR001	esperienze dirette non saprei eh eh
+TOI043	esperienze dirette non saprei eh eh
 TOR001	ma io io non sono di qua quindi
-TOI043	qualunque cosa è nuova per me
-TOI042	sì sì
-TOI043	beh la droga era quella dei eh
-TOI042	esperie~
-TOR001	ceti alti perché i ceti ba~
-TOI042	mhmh
-TOR001	l~ e e la droga era essenzialmente la cocaina
-TOI042	mhmh
-TOR001	che di sicuro quelli di porta pila non potevano pagarsi
-TOI042	mh mh
+TOR001	qualunque cosa è nuova per me
+TOI043	sì sì
+TOI042	beh la droga era quella dei eh
+TOI043	esperie~
+TOI042	ceti alti perché i ceti ba~
+TOR001	mhmh
+TOI042	l~ e e la droga era essenzialmente la cocaina
+TOR001	mhmh
+TOI042	che di sicuro quelli di porta pila non potevano pagarsi
+TOR001	mh mh
 TOI042	e er~ e sono mh
 TOI042	cioè alcuni termini del del l~ l~ d~ del
 TOI042	di una volta sono passati x
 TOI042	quelli sono passati al linguaggio moderno della droga
 TOI042	eh tipo la la scimmia
-TOR001	che mi risulta c'è anche a milano
-TOI042	mh mh
+TOI042	che mi risulta c'è anche a milano
+TOR001	mh mh
 TOI042	eh la la scimmia
 TOI042	era la piomba di vino grappa da non tenersi in piedi
 TOI042	ed è restata la scimmia di di droga
-TOR001	poi c'era anche avei la summia
+TOI042	poi c'era anche avei la summia
+TOR001	mh
 TOI043	mh
-TOI042	mh
 TOI042	che xx e che era invece avere il vizio della cocaina
-TOR001	cioè avere la scimmia sulla spalla
-TOI042	mh mh
+TOI042	cioè avere la scimmia sulla spalla
+TOR001	mh mh
 TOI042	per dire qualcosa che hai sempre no
 TOI042	e quello di quest'anno
 TOI042	eh
 TOI042	termini che si usavano
-TOI043	la bianca la fioca il bicarbonato sono restati
-TOI042	sì
-TOI042	sono restati però era una roba che guardava
-TOR001	un ceto che non era quello di porta pila
-TOR001	mh mh
-TOI044	mhmhmh
-TOI043	era un collinari
-TOR001	per il resto penso fosse soprattutto contrabbando
-TOI043	mhmhmhmh
-TOI042	appunto di sigarette o
-TOI043	e prostituzione
-TOR001	prostituzione o vendita di merce rubata
-TOI042	mhmhmh
-TOI042	ve eh sì ricettazione
-TOI044	la vecchia mala
-TOI042	la la donna più che altro era colli~ collinare
+TOI042	la bianca la fioca il bicarbonato sono restati
 TOI043	sì
-TOI044	eh esatto
-TOI043	cioè almeno io quando
-TOR001	eh sì perché era
-TOI043	che era una roba per ricchi no
-TOI042	la zona bene sì
+TOI042	sono restati però era una roba che guardava
+TOI042	un ceto che non era quello di porta pila
+TOR001	mh mh
+TOR001	mhmhmh
+TOI044	era un collinari
+TOI043	per il resto penso fosse soprattutto contrabbando
+TOR001	mhmhmhmh
+TOI043	appunto di sigarette o
+TOI042	e prostituzione
+TOI043	prostituzione o vendita di merce rubata
+TOR001	mhmhmh
+TOI042	ve eh sì ricettazione
+TOI042	la vecchia mala
+TOI044	la la donna più che altro era colli~ collinare
+TOI042	sì
+TOI043	eh esatto
+TOI044	cioè almeno io quando
+TOI043	eh sì perché era
+TOR001	che era una roba per ricchi no
+TOI043	la zona bene sì
 TOI042	la vecchia mala torinese
 TOI042	io che ho lavorato da
 TOI042	più giovane in carcere
@@ -1162,11 +1114,10 @@ TOI042	con un di enne a criminale più
 TOI042	più profondo non stimavano molto dicevano
 TOI042	uh se ti metti con un piemontese prima o poi quello
 TOI042	canta
-TOR001	avevano fama di di non avere
-TOI042	okay
+TOI042	avevano fama di di non avere
+TOR001	okay
 TOI042	una vera vocazione criminale i piemontesi
-TOR001	non ti mettere xxx guarda
-TOI042	
+TOI042	non ti mettere xxx guarda
 TOI042	se ti metti con un piemontese sei finito perché quelli
 TOI042	non sanno
 TOI042	tace~ cioè xxx
@@ -1177,138 +1128,135 @@ TOI042	linguaggio malavitoso lombroso era ancora
 TOI042	molto legato a una torino
 TOI042	ancora mezza p~
 TOI042	mezza provinciale
-TOR001	molto lessico ortofrutticolo
-TOI042	mh mh
+TOI042	molto lessico ortofrutticolo
+TOR001	mh mh
 TOI042	dopo lombroso
-TOR001	comincia il lessico della mala che diventa industriale
-TOI043	mhmh
-TOI042	mh
+TOI042	comincia il lessico della mala che diventa industriale
+TOR001	mhmh
+TOI043	mh
 TOI042	surtì da la cromodora
 TOI042	vestito bene
 TOI042	eh al cagadur
-TOR001	la la spider perché è bassissima
-TOI042	mhmhmh
-TOI043	eh poi cos'era che aveva il motore al contrario
-TOI042	eh non lo so eheh
-TOR001	la sincsent no sessent el cupio a l' è na sessent cioè all'incontra~
-TOI042	mhmhmh
+TOI042	la la spider perché è bassissima
+TOR001	mhmhmh
+TOI042	eh poi cos'era che aveva il motore al contrario
+TOI043	eh non lo so eheh
+TOI042	la sincsent no sessent el cupio a l' è na sessent cioè all'incontra~
+TOR001	mhmhmh
 TOI042	e e ah in effetti i socialisti dicevano
-TOR001	è il lessico della torino industriale che
-TOI042	mhmhmh
+TOI042	è il lessico della torino industriale che
+TOR001	mhmhmh
 TOI042	la mala rispecchia ecco questo è interessante però
-TOR001	di grosso non c'erano sequestri
-TOI042	okay
-TOR001	ques~ non c'erano mai stati sequestri in piemonte
-TOI042	rapine
-TOI043	sì ma xxx
-TOI042	eh beh presumo ma
-TOR001	sì c'era mh c'era nella c'era
-TOI042	ho in mente quella milanese chiedo perché
-TOI043	sì c'era nella nella vecchia mala
-TOI042	mh mh mh
+TOI042	di grosso non c'erano sequestri
+TOR001	okay
+TOI042	ques~ non c'erano mai stati sequestri in piemonte
+TOR001	rapine
+TOI042	sì ma xxx
+TOI043	eh beh presumo ma
+TOI042	sì c'era mh c'era nella c'era
+TOR001	ho in mente quella milanese chiedo perché
+TOI042	sì c'era nella nella vecchia mala
+TOI043	mh mh mh
 TOI042	basta vedere anche delle cose ehm
-TOI044	che è documentata nella letteratura di
-TOR001	vabbè gli anni di pio~ cioè io mi ricordo gli anni
-TOI044	ah beh sì
-TOI043	cioè gli anni di piombo quelli lì cioè io avevo
-TOI044	ah beh quelli sì ma quella è già un'altra cosa lì era
-TOI043	io andavo a una scuola privata in centro in via confienza
+TOI042	che è documentata nella letteratura di
+TOI044	vabbè gli anni di pio~ cioè io mi ricordo gli anni
+TOR001	ah beh sì
+TOI044	cioè gli anni di piombo quelli lì cioè io avevo
+TOI043	ah beh quelli sì ma quella è già un'altra cosa lì era
+TOI044	io andavo a una scuola privata in centro in via confienza
 TOI043	era terrorismo infatti
-TOI044	periodo lì x sì
-TOI043	avevo la ehm il figlio di caselle qualcosa del genere
-TOI042	eh eh
+TOI043	periodo lì x sì
+TOI044	avevo la ehm il figlio di caselle qualcosa del genere
+TOI043	eh eh
 TOI042	eh
-TOI044	regolamenti di conti tra papponi sì c'erano
+TOI042	regolamenti di conti tra papponi sì c'erano
 TOI044	e lì
-TOI043	e lì era il periodo
-TOI044	sì periodo degli anni di piombo quello sì
-TOI042	quello senz'altro lì sem~ era mh
-TOI044	sì sì sì
-TOI043	molta tensione eh
-TOR001	l'atmosfera la sentivi però lì non era più malavita era terrorismo
-TOI044	no no certo
-TOI043	lì era proprio
-TOI044	eh sì infatti
-TOI042	sì sì c'era poi il xxx
+TOI044	e lì era il periodo
+TOI043	sì periodo degli anni di piombo quello sì
+TOI044	quello senz'altro lì sem~ era mh
+TOI042	sì sì sì
+TOI044	molta tensione eh
+TOI043	l'atmosfera la sentivi però lì non era più malavita era terrorismo
+TOR001	no no certo
+TOI044	lì era proprio
+TOI043	eh sì infatti
+TOI044	sì sì c'era poi il xxx
 TOI042	fatti di sangue erano i regolamenti tra
 TOI042	gargagnan
 TOI042	e questo sì
 TOI042	e fatti di sangue
-TOR001	qualche prostituta uccisa qualche gargagnan ucciso
-TOI043	mhmhmhmh
+TOI042	qualche prostituta uccisa qualche gargagnan ucciso
+TOR001	mhmhmhmh
 TOI043	ecco una cosa che mi ricordo che
-TOR001	mi aveva raccontato l'altro mio nonno
-TOI043	
+TOI043	mi aveva raccontato l'altro mio nonno
 TOI043	che invece abitava
 TOI043	nella zona san paolo
-TOR001	quindi più o meno la zona di piazza sabotino grosso modo quella zona lì
-TOI042	mhmh
-TOI043	mh
+TOI043	quindi più o meno la zona di piazza sabotino grosso modo quella zona lì
+TOR001	mhmh
+TOI042	mh
 TOI043	che erano anche quelli quartieri popolari però più periferici
 TOI043	che c'era abbastanza la cosa che era tipica anche nei paesi
 TOI043	che ci fossero i giovani di un quartiere che andavano che che
 TOI043	cioè che praticamente i i i luoghi di ritrovo erano soprattutto le balere no
 TOI043	dove andavano a ballare il liscio
 TOI043	e allora che se i giovani di una zona sconfinavano nella zona degli altri
-TOR001	finiva a cazzotti perché in qualche modo
-TOI042	
-TOI043	
-TOI044	c'erano le risse per le ragazze per il controllo del territorio
-TOI043	e poi
+TOI043	finiva a cazzotti perché in qualche modo
+TOI043	c'erano le risse per le ragazze per il controllo del territorio
+TOI044	e poi
 TOI043	quindi in fondo come di~
 TOI043	l'unica cosa è che appunto dicevano
 TOI043	eh non non non si usavano armi
-TOI042	non si usava coltello non si usava niente si usava solo le mani ecco no
+TOI043	non si usava coltello non si usava niente si usava solo le mani ecco no
 TOI042	sì sì
-TOI043	sì sì sì sì sì
+TOI042	sì sì sì sì sì
 TOI043	però
-TOR001	quello c'era eh
-TOI044	mhmhmh
+TOI043	quello c'era eh
+TOR001	mhmhmh
 TOI044	io eh avevo una zia che abitava in un'altra zona
 TOI044	periferica che era il
-TOI043	il borgo del fumo
-TOI044	mh
-TOI043	burg dal fum
-TOI042	sì
-TOI043	burg dal fum eh
-TOI044	sì
-TOI043	che era vicino al cimitero
-TOI044	sì
-TOI043	perché io
-TOI044	mh
+TOI044	il borgo del fumo
+TOI043	mh
+TOI044	burg dal fum
+TOI043	sì
+TOI042	burg dal fum eh
+TOI043	sì
+TOI044	che era vicino al cimitero
+TOI043	sì
+TOI044	perché io
+TOI043	mh
 TOI044	andavo a trovarla
 TOI044	non a caso quando c'era ehm
-TOI043	il giorno dei morti andavamo tutti da questa zia
-TOI044	sì sì sì sì sì sì
-TOI043	e quello è anche il borgo del lavandai mi ricordo che
-TOI042	mh sì dei lavandai sì
-TOI044	mh mh mh mh
+TOI044	il giorno dei morti andavamo tutti da questa zia
+TOI043	sì sì sì sì sì sì
+TOI044	e quello è anche il borgo del lavandai mi ricordo che
+TOI043	mh sì dei lavandai sì
+TOI042	mh mh mh mh
 TOI044	perché lì eh ehm
 TOI044	e quello era un un posto abbastanza desolato ecco come
 TOI044	zona di torino
-TOI043	molto periferica vicino a un cimitero
+TOI044	molto periferica vicino a un cimitero
 TOI043	eh sì
-TOI044	eh sì
-TOI043	non era allegro sicuramente molto
-TOI042	sì sì sì sì
-TOI044	e si diceva ci fosse una prostituzione
-TOI042	popolare
-TOI043	ancora peggio di quella del cioè cioè proprio del cimitero
+TOI043	eh sì
+TOI044	non era allegro sicuramente molto
+TOI043	sì sì sì sì
+TOI042	e si diceva ci fosse una prostituzione
+TOI044	popolare
+TOI042	ancora peggio di quella del cioè cioè proprio del cimitero
 TOI043	di quella eh sì sì sì
-TOI044	eh
-TOR001	questa zona lì che era
-TOI042	okay
-TOI043	sì sì
-TOI044	eh
-TOI043	confinante poi con aurora
+TOI043	eh
+TOI044	questa zona lì che era
+TOR001	okay
+TOI042	sì sì
+TOI043	eh
+TOI044	confinante poi con aurora
 TOI043	sì
-TOI044	sì sì sì eh no no non è tanto lontano no infatti eh
+TOI043	sì sì sì eh no no non è tanto lontano no infatti eh
 TOI044	perché non è tanto lontano no cioè quindi
-TOI043	era
-TOI044	eh sì
+TOI044	era
+TOI043	eh sì
 TOI044	e poi c'era proprio l'altro mondo
-TOI043	che io ho ho sentito
-TOI044	che era al di là del po eh certo eh sì
+TOI044	che io ho ho sentito
+TOI043	che era al di là del po eh certo eh sì
 TOI044	eh io ho sentito raccontare tanto perché mio padre
 TOI044	era
 TOI044	cioè mio nonno aveva lavorato alla clinica sanatex
@@ -1316,15 +1264,15 @@ TOI044	che è una clinica in fol~ in
 TOI044	aveva lavorato come portinaio quindi cioè
 TOI044	e quindi lui mio nonno
 TOI044	è stato parecchio in collina
-TOI043	mio padre ancora adesso ha il mito della collina perché
-TOI044	sì sì
-TOI043	quella zona lì corso giovanni lanza
+TOI044	mio padre ancora adesso ha il mito della collina perché
+TOI043	sì sì
+TOI044	quella zona lì corso giovanni lanza
 TOI043	eh certo eh
-TOI044	era
-TOI043	era il top del top
-TOI044	eh certo
-TOI043	era un altro mondo no
-TOI044	un altro mondo eh era il mondo dei ricchi
+TOI043	era
+TOI044	era il top del top
+TOI043	eh certo
+TOI044	era un altro mondo no
+TOI043	un altro mondo eh era il mondo dei ricchi
 TOI044	e mio padre ehm
 TOI044	appunto ha ricevuto la famosa moto sidecar
 TOI044	dalla regina che era stata operata lì dalla non mi ricordo più
@@ -1333,444 +1281,429 @@ TOI044	giocattolo per i
 TOI044	figli del portinaio
 TOI044	ha portato dei giocattoli mio padre lo racconta ancora
 TOI044	di
-TOI043	e questo mondo era un mondo diverso
-TOI044	eh sì
-TOI043	era il mondo
-TOI044	eh sì
-TOI043	chiaramente gli alti borghi eh
+TOI044	e questo mondo era un mondo diverso
+TOI043	eh sì
+TOI044	era il mondo
+TOI043	eh sì
+TOI044	chiaramente gli alti borghi eh
 TOI043	infatti di alto
-TOI044	infatti di alto rango
-TOI043	di alto xxx mhmh
-TOI044	eh sì
+TOI043	infatti di alto rango
+TOI044	di alto xxx mhmh
+TOI043	eh sì
 TOI044	e infatti mio nonno che abitava poi
-TOI043	eh in centro scappava sempre in collina
-TOI044	eh già
-TOR001	xxx prendeva il pullman andava in corriera è rimasto
-TOI043	
-TOI044	sì sì sì sì sì sì questa
-TOI043	quindi la collina la collina era il mito
+TOI044	eh in centro scappava sempre in collina
+TOI043	eh già
+TOI044	xxx prendeva il pullman andava in corriera è rimasto
+TOI043	sì sì sì sì sì sì questa
+TOI044	quindi la collina la collina era il mito
 TOI043	eh
-TOI044	eh sì
-TOI042	eh cioè il mito
-TOI043	corso vazzi è quello immortalato da dario argento anche
-TOI044	eh sì
-TOR001	eh da lì è proprio la parte lì è proprio la
-TOI043	mh mh
-TOI044	eh sì
-TOI043	questa clinica sanatrix è pare forse una clinica xxx che poi non
+TOI043	eh sì
+TOI044	eh cioè il mito
+TOI042	corso vazzi è quello immortalato da dario argento anche
+TOI043	eh sì
+TOI044	eh da lì è proprio la parte lì è proprio la
+TOR001	mh mh
+TOI043	eh sì
+TOI044	questa clinica sanatrix è pare forse una clinica xxx che poi non
 TOI043	ma infatti tra l'altro
-TOI044	è è tutta una zona liberty bellissima
+TOI043	è è tutta una zona liberty bellissima
 TOI044	sono andata a cercarlo ehm
-TOI043	era
-TOI044	c'è un liberty stupendo in tutta
-TOI043	sì ma poi lì era proprio verde
-TOI042	eh
-TOI043	mhmh
-TOI044	eh eh sì
-TOI043	vicino a val salice cioè proprio
-TOR001	eh sì
-TOI044	mhmhmhmh
-TOI042	una clinica che poi è sparita e
-TOI044	mh mh
+TOI044	era
+TOI043	c'è un liberty stupendo in tutta
+TOI044	sì ma poi lì era proprio verde
+TOI043	eh
+TOI042	mhmh
+TOI043	eh eh sì
+TOI044	vicino a val salice cioè proprio
+TOI043	eh sì
+TOR001	mhmhmhmh
+TOI044	una clinica che poi è sparita e
+TOI042	mh mh
 TOI044	che era
 TOI044	appunto è stata fondata da qualcuno di importante
 TOI044	e quindi tempo di della guerra c'era quella come
 TOI044	e poi ancora adesso no dopo
-TOI043	eh eh
-TOR001	eh sì eh certo
-TOI043	mhmhmh
-TOI044	infatti
-TOI043	è un'altra realtà di torino no cioè non
-TOI044	infatti eh sì
+TOI044	eh eh
+TOI043	eh sì eh certo
+TOR001	mhmhmh
+TOI043	infatti
+TOI044	è un'altra realtà di torino no cioè non
+TOI043	infatti eh sì
 TOI044	che poi anche lì adesso magari c'è gen~ lì
-TOI043	magari c'era la droga d'alto livello da quelle parti lì
+TOI044	magari c'era la droga d'alto livello da quelle parti lì
 TOI043	certo
-TOR001	esatto esatto però
-TOI043	può essere
-TOI044	comunque era un altro tipo di
-TOI043	un'altra un'altra
-TOI044	infatti di di di di di situazione
-TOR001	situazione cioè quindi
-TOI042	mhmhmh
-TOI044	ma ancora
-TOI043	più che altro quella era la zona mitica nella famiglia no
+TOI043	esatto esatto però
+TOR001	può essere
+TOI043	comunque era un altro tipo di
+TOI044	un'altra un'altra
+TOI043	infatti di di di di di situazione
+TOI044	situazione cioè quindi
+TOR001	mhmhmh
+TOI042	ma ancora
+TOI044	più che altro quella era la zona mitica nella famiglia no
 TOI043	eh
-TOR001	sì sì sì sì sì sì sì sì sì
-TOI044	
-TOI043	cioè il mito il mito del verde del della zona bella e
+TOI043	sì sì sì sì sì sì sì sì sì
+TOI044	cioè il mito il mito del verde del della zona bella e
 TOI043	certo
-TOI042	certo
+TOI043	certo
 TOI042	ma era quello che si sa per esempio
 TOI042	nietzsche a torino l'oppio lo comprava in farmacia
 TOI042	cioè considerato che erano quattro gatti che lo usavano
 TOI042	e non erano un pericolo sociale
-TOR001	non gliene fregava niente a nessuno che xxx
-TOI042	mhmhmhmh
-TOR001	eh com~ eh quella farmacia vicino al carignano
-TOI042	mhmh
-TOI043	che adesso non è una pasticceria cremeria eh xxx
-TOR001	mh mh
-TOI043	mhmh
-TOI042	mh mh
+TOI042	non gliene fregava niente a nessuno che xxx
+TOR001	mhmhmhmh
+TOI042	eh com~ eh quella farmacia vicino al carignano
+TOR001	mhmh
+TOI042	che adesso non è una pasticceria cremeria eh xxx
+TOI043	mh mh
+TOR001	mhmh
+TOI043	mh mh
 TOI042	perché appunto una cosa di alto livello
 TOI042	xxx in farmacia xxx
-TOR001	cioè la comprava in farmacia con la ricetta
-TOR001	
+TOI042	cioè la comprava in farmacia con la ricetta
 TOR001	e tornando su aurora no negli ultimi anni hanno fatto un sacco di lavori
 TOR001	n~ non dalla parte diciamo di porta palazzo ma dall'altra parte della dora
 TOR001	ci hanno aperto un sacco di locali
-TOI044	mi sembra che sia uno dei quartieri più in cambiamento ultimamente no
+TOR001	mi sembra che sia uno dei quartieri più in cambiamento ultimamente no
 TOI044	ma eh dipende dove cioè nel senso che
 TOI044	vicino al fortino che era una zona
 TOI044	m~ mitica di di di aurora
-TOR001	perché è dove giocavano a bocce
-TOI044	mh mh
+TOI044	perché è dove giocavano a bocce
+TOR001	mh mh
 TOI044	e c'era un cinema
-TOI042	non a caso vicino a fortino
-TOI044	un fortino no
+TOI044	non a caso vicino a fortino
+TOI042	un fortino no
 TOI044	hanno cercato di riqualificare
 TOI044	dove c'è la biblioteca mh
-TOI043	calvino
-TOR001	mh sì
-TOI044	mhmh
+TOI044	calvino
+TOI043	mh sì
+TOR001	mhmh
 TOI044	infatti lì hanno fatto un mega albergo
-TOR001	e delle case che sembrano diciamo così
-TOI044	mhmh
+TOI044	e delle case che sembrano diciamo così
+TOR001	mhmh
 TOI044	però sono degli interventi un po' così sporadici
-TOR001	perché il grosso
-TOI044	non strutturali quindi
-TOR001	eh e
-TOI044	non so
+TOI044	perché il grosso
+TOR001	non strutturali quindi
+TOI044	eh e
+TOR001	non so
 TOI044	il grosso è pesante cioè via cigna
-TOI043	via antonio cecchi dove viveva mio padre ancora adesso
-TOR001	mh
-TOI043	mhmhmh
-TOI044	eh sì
+TOI044	via antonio cecchi dove viveva mio padre ancora adesso
+TOI043	mh
+TOR001	mhmhmh
+TOI043	eh sì
 TOI044	cioè io
-TOI042	sono ritornata proprio quest'inverno perché ha avuto l'influenza ma io
-TOI044	mh mh
-TOR001	ho sofferto a stare quindici giorni a casa di mio padre
-TOI044	
+TOI044	sono ritornata proprio quest'inverno perché ha avuto l'influenza ma io
+TOI042	mh mh
+TOI044	ho sofferto a stare quindici giorni a casa di mio padre
 TOI044	perché me la ricordavo in maniera diversa
 TOI044	cioè c'è proprio
 TOI044	poi c'è quel
-TOR001	pezzettino lì che è dove vedi delle case belle
-TOI044	mh mh
+TOI044	pezzettino lì che è dove vedi delle case belle
+TOR001	mh mh
 TOI044	questo albergo che attira
-TOI043	c'è un diciamo così un pubblico d'élite
-TOI044	sì sì
+TOI044	c'è un diciamo così un pubblico d'élite
+TOI043	sì sì
 TOI044	però è un tentativo
 TOI044	che fatica a estendersi
 TOI044	perché questa cor~ questo corso vigevano
-TOR001	e questa parte di via cecchi al fondo sono una
-TOI044	più avanti mhmh mh
+TOI044	e questa parte di via cecchi al fondo sono una
+TOR001	più avanti mhmh mh
 TOI044	cioè lì è il xx eh cioè
-TOR001	quindi c'è questa doppia faccia nel nel
-TOI044	mhmhmh
-TOI043	nel giro di pochi metri cioè c'è
+TOI044	quindi c'è questa doppia faccia nel nel
+TOR001	mhmhmh
+TOI044	nel giro di pochi metri cioè c'è
 TOI043	sì sì in pochi metri certo
-TOI044	è poco isolato eh già
-TOR001	volere e non potere ecco con una
-TOI044	mhmhmh
+TOI043	è poco isolato eh già
+TOI044	volere e non potere ecco con una
+TOR001	mhmhmh
 TOI044	e poi adesso dovranno riqualificare credo questa
 TOI044	zona del dove lavorava mio padre
-TOR001	che era era grandi motori
-TOI044	mh mh
+TOI044	che era era grandi motori
+TOR001	mh mh
 TOI044	questa zona qui ho già visto perché sono
 TOI044	cioè hanno
 TOI044	buttato giù quasi tutto
 TOI044	e lì non so dicevano
 TOI044	ah poi in via antonio cecchi cosa è che
-TOI043	cecchi point che ehm
-TOI044	mh eh sì
-TOR001	fanno delle attività le scuole anche c'è un teatro
-TOI044	mhmhmh
+TOI044	cecchi point che ehm
+TOI043	mh eh sì
+TOI044	fanno delle attività le scuole anche c'è un teatro
+TOR001	mhmhmh
 TOI044	è un tentativo di relazione
 TOI044	in una mh una parte
-TOR001	difficile eh
-TOI044	mhmh
+TOI044	difficile eh
+TOR001	mhmh
 TOI044	cioè
-TOR001	perché lì anche le scuole che ci sono
-TOI044	mh mh
+TOI044	perché lì anche le scuole che ci sono
+TOR001	mh mh
 TOI044	eh la la scuola di fronte a
 TOI044	a casa di mio padre che è una media
 TOI044	eh la e
 TOI044	insomma sono considerate
-TOI043	scuole
+TOI044	scuole
 TOI043	sì sì
-TOR001	a rischio insomma
-TOI044	mhmhmh
+TOI043	a rischio insomma
+TOR001	mhmhmh
 TOI044	molto a rischio
 TOI044	frequentate ormai
-TOR001	l'ottanta per cento c'e un'immigrazione in quelle scuole lì
-TOI044	mh mh
-TOI043	chi non vuole andare lì va a xxxxx
-TOI044	eh già
-TOI043	che è un po' più in là
-TOI044	eh certo
-TOI043	
-TOR001	eh sì
-TOI044	mhmhmh
-TOI043	cioè quelli che conosco della zona che
-TOI044	mh mh
+TOI044	l'ottanta per cento c'e un'immigrazione in quelle scuole lì
+TOR001	mh mh
+TOI044	chi non vuole andare lì va a xxxxx
+TOI043	eh già
+TOI044	che è un po' più in là
+TOI043	eh certo
+TOI043	eh sì
+TOR001	mhmhmh
+TOI044	cioè quelli che conosco della zona che
+TOI043	mh mh
 TOI044	hanno questa
 TOI044	o vanno lì
 TOI044	dove c'è veramente ancora un'immigrazione pesante
-TOI043	nel senso non integrata cioè ancora proprio
-TOR001	certo
-TOI043	mhmhmh
-TOI044	sì sì
-TOI043	di un certo tipo
-TOI044	oppure
+TOI044	nel senso non integrata cioè ancora proprio
+TOI043	certo
+TOR001	mhmhmh
+TOI043	sì sì
+TOI044	di un certo tipo
+TOI043	oppure
 TOI044	e poi
 TOI044	oppure quello che c'è sempre stato
-TOR001	queste scuole religiose di grande don bosco
-TOI044	mhmhmh
-TOI043	xx
-TOI044	eh sì perché valdocco è lì comunque vicino eh
+TOI044	queste scuole religiose di grande don bosco
+TOR001	mhmhmh
+TOI044	xx
+TOI043	eh sì perché valdocco è lì comunque vicino eh
 TOI044	valdocco è lì eh cioè
 TOI044	è sempre stato u~ un luogo di
 TOI044	anche a livello di di s~ mh
-TOI043	buono ecco cioè buoni studi cioè non
-TOR001	sì sì sì sì infatti
+TOI044	buono ecco cioè buoni studi cioè non
+TOI043	sì sì sì sì infatti
 TOR001	mhmhmh
-TOI044	però anche verso
-TOR001	quindi
+TOR001	però anche verso
+TOI044	quindi
 TOR001	verso barriera quindi magari un po' più su
 TOR001	eh anche facendo interviste quindi sentendo racconti delle persone
 TOR001	mi sembra che ci siano un sacco di associazioni
 TOR001	che lavorino no per l'integrazione
 TOR001	soprattutto con bambini e ragazzi
 TOR001	cioè mi sembra che più che in altre zone
-TOI044	nonostante sia un quartiere difficile insomma
-TOI043	ma forse rebaudengo più una
-TOI042	sicuramente poi c'è il sermig eh
-TOI044	mh mh
-TOI043	ah beh lì è porta palazzo
-TOR001	nel nel porta palazzo
-TOI043	mhmhmh
-TOI044	anche a valdocco sicuramente faranno un sacco di attività
-TOI043	no no mh
+TOR001	nonostante sia un quartiere difficile insomma
+TOI044	ma forse rebaudengo più una
+TOI043	sicuramente poi c'è il sermig eh
+TOI042	mh mh
+TOI044	ah beh lì è porta palazzo
+TOI043	nel nel porta palazzo
+TOR001	mhmhmh
+TOI043	anche a valdocco sicuramente faranno un sacco di attività
+TOI044	no no mh
 TOI043	quello sì
-TOI044	dopo scuola
-TOI042	cioè il tentativo c'è il tentativo c'è
+TOI043	dopo scuola
+TOI044	cioè il tentativo c'è il tentativo c'è
 TOI042	dalla gli~
-TOI043	dalla x xxx fiochetto no mi pare
-TOI042	terra xx sì in via fiochetto sì
-TOR001	in via fiochetto
-TOI042	mhmhmh
+TOI042	dalla x xxx fiochetto no mi pare
+TOI043	terra xx sì in via fiochetto sì
+TOI042	in via fiochetto
+TOR001	mhmhmh
+TOI042	eh sì
+TOI043	mh
+TOI044	c'è il tentativo però
+TOI042	è un centro culturale tra l'altro
 TOI043	eh sì
-TOI044	mh
-TOI042	c'è il tentativo però
-TOI043	è un centro culturale tra l'altro
-TOI044	eh sì
-TOI042	c'è molto c'è quella mh
-TOI044	mh
+TOI044	c'è molto c'è quella mh
+TOI042	mh
 TOI044	c'è una parte di di
 TOI044	immigrazione che
 TOI044	dedita chiaramente
 TOI044	allo spaccio comunque lì
-TOR001	quindi
-TOI044	mh mh mh
-TOI043	tentativo di togliere queste ragazzine da questo xxx perché
-TOR001	certo dalla strada
-TOI044	mhmhmh
+TOI044	quindi
+TOR001	mh mh mh
+TOI044	tentativo di togliere queste ragazzine da questo xxx perché
+TOI043	certo dalla strada
+TOR001	mhmhmh
 TOI044	basta soltanto andare un po' in corso vigevano
-TOI043	giri con la macchina ne hai già xxx cioè lì
-TOI044	sì sì sì
+TOI044	giri con la macchina ne hai già xxx cioè lì
+TOI043	sì sì sì
 TOI044	quindi siuramente
 TOI044	boh proprio dovrebbe esserci
 TOI044	una polizia stabile lì perché
 TOI044	ormai è conclamato che quella parte lì di torino
-TOI042	è sem~ è da anni che è così eh
-TOI044	ma perché c'è un ritorno dell'ero
-TOI042	quindi
+TOI044	è sem~ è da anni che è così eh
+TOI042	ma perché c'è un ritorno dell'ero
+TOI044	quindi
 TOI042	e è strano perché
-TOI044	eh era ormai conclamato e noto a tutti che
-TOI042	in corso principe oddone hanno cercato di riqualificare ma
-TOI043	eppure è tornata
-TOI044	anche
+TOI042	eh era ormai conclamato e noto a tutti che
+TOI044	in corso principe oddone hanno cercato di riqualificare ma
+TOI042	eppure è tornata
+TOI043	anche
 TOI044	alla fermata del dei pullman lì
-TOI043	c'è tutta quella eh xxx
-TOI042	io ho un'amica
-TOI043	mh mh
-TOI042	la maria rossi l'hai mai conosciuta
-TOI043	sì rossi
+TOI044	c'è tutta quella eh xxx
+TOI043	io ho un'amica
+TOI042	mh mh
+TOI043	la maria rossi l'hai mai conosciuta
+TOI042	sì rossi
 TOI043	lei abita in via ravenna
-TOI044	che è proprio in c~
-TOI043	eh è proprio xxx
+TOI043	che è proprio in c~
+TOI044	eh è proprio xxx
 TOI043	mi fac~ mi fa sempre ridere perché lei è una un po' così un po'
-TOR001	una vecchia hippie
-TOI043	
+TOI043	una vecchia hippie
 TOI043	e allora mi fa ridere perché dice no
 TOI043	dice invece del del tuo affezionato supereroe
 TOI043	sai spiderman di quartiere
-TOR001	dice noi abbiamo i nostri af~ affezionati pusher di quartiere
-TOI043	
+TOI043	dice noi abbiamo i nostri af~ affezionati pusher di quartiere
 TOI043	e allora dice hai solo l'imbarazzo della scelta
 TOI043	oggi vado dal marocchino
-TOR001	oppure vado dal nigeriano oppure vado
-TOI044	
-TOI043	no lì è così cioè non
-TOR001	perché nella stessa via e oltretutto il problema è che spesso si fa la guerra tra loro
-TOI043	mhmhmh
-TOI042	infatti quello che dicevi tu no diceva
-TOI043	mh mh
-TOI044	chi abita nel quartiere ormai
-TOI043	dopo un po'
-TOI044	dopo un po' anzi poi lei mi fa morire perché
-TOI044	
-TOI043	xxx del giro
+TOI043	oppure vado dal nigeriano oppure vado
+TOI044	no lì è così cioè non
+TOI043	perché nella stessa via e oltretutto il problema è che spesso si fa la guerra tra loro
+TOR001	mhmhmh
+TOI043	infatti quello che dicevi tu no diceva
+TOI042	mh mh
+TOI043	chi abita nel quartiere ormai
+TOI044	dopo un po'
+TOI043	dopo un po' anzi poi lei mi fa morire perché
+TOI044	xxx del giro
 TOI043	questa mia amica
-TOI044	è una gattara
-TOI043	
-TOI042	no per cui lei ha tutte
 TOI043	è una gattara
+TOI043	no per cui lei ha tutte
+TOI042	è una gattara
 TOI043	e allora si fa aiutare da dai dai dai vari pusher
-TOR001	a dar da mangiare ai gatti a prendere i gatti sui tetti
-TOI044	
-TOI043	
+TOI043	a dar da mangiare ai gatti a prendere i gatti sui tetti
 TOI043	quando scappano perché
-TOR001	fa ah ma sono servizievolissimi mi aiutano sempre con i gatti
-TOI044	è inserita quindi nel quartiere
-TOI043	
+TOI043	fa ah ma sono servizievolissimi mi aiutano sempre con i gatti
+TOR001	è inserita quindi nel quartiere
 TOI043	per cui a lei nessuno fa niente però
-TOR001	è chiaro che dice che spesso ci sono le risse tra loro
-TOI043	mhmh
+TOI043	è chiaro che dice che spesso ci sono le risse tra loro
+TOR001	mhmh
 TOI043	e allora dice allora il problema è se capiti
-TOI044	per sbaglio in mezzo a una rissa tra loro perché spesso
-TOI042	cioè è una cosa lampante
-TOI043	sì sì
-TOI044	c'è proprio un forte conflitto no tra eh
-TOR001	di differenza
-TOI044	mhmhmh
-TOI043	la notte di capodanno io porto via il cane da
-TOI044	eh eh eh
+TOI043	per sbaglio in mezzo a una rissa tra loro perché spesso
+TOI044	cioè è una cosa lampante
+TOI042	sì sì
+TOI043	c'è proprio un forte conflitto no tra eh
+TOI044	di differenza
+TOR001	mhmhmh
+TOI044	la notte di capodanno io porto via il cane da
+TOI043	eh eh eh
 TOI044	perché ero andata da mio padre a dormire che aveva avuto l'influenza
 TOI044	e
 TOI044	sapevo già che capodanno in questa zona qui
 TOI044	a botti cioè il mio cane sarebbe morto quindi
-TOI043	vengo nel campidoglio per evi~
-TOI044	sì sì sì sì sì sì
-TOI043	perché lì
-TOI042	eh
-TOI044	alé
-TOI043	ci sono quelli che tirano ancora giù cioè
-TOI044	sì
-TOI043	già da queste manifestazione no vedi
-TOI042	certo certo noti
-TOI044	e che è pur vietato
-TOI043	il differenza di quartiere
-TOI044	eh eh sì
+TOI044	vengo nel campidoglio per evi~
+TOI043	sì sì sì sì sì sì
+TOI044	perché lì
+TOI043	eh
+TOI042	alé
+TOI044	ci sono quelli che tirano ancora giù cioè
+TOI043	sì
+TOI044	già da queste manifestazione no vedi
+TOI043	certo certo noti
+TOI042	e che è pur vietato
+TOI044	il differenza di quartiere
+TOI043	eh eh sì
 TOI044	capodanno lì
 TOI044	bombe carta a go go
-TOI043	delle cose spaventose
-TOI044	certo
-TOI043	cioè magari poco perché non hanno tanto sol~
-TOI044	sì sì sì
-TOI042	però quelle che ci sono
-TOI044	alla faccia del divieto
-TOI043	da da far tremare i muri no quindi
+TOI044	delle cose spaventose
+TOI043	certo
+TOI044	cioè magari poco perché non hanno tanto sol~
+TOI043	sì sì sì
+TOI044	però quelle che ci sono
+TOI042	alla faccia del divieto
+TOI044	da da far tremare i muri no quindi
 TOI043	certo certo
-TOI044	eh già
-TOI043	ho detto no la notte di capodanno vado a dormire a casa
+TOI043	eh già
+TOI044	ho detto no la notte di capodanno vado a dormire a casa
 TOI043	eh sì
 TOI043	sì xxx
-TOI044	poi hai un cane poveretto
-TOI043	perché se no il cane mi mi si infarta già
-TOI042	ci resta lì
-TOI044	ah ah ah ah ah
+TOI043	poi hai un cane poveretto
+TOI044	perché se no il cane mi mi si infarta già
+TOI043	ci resta lì
+TOI042	ah ah ah ah ah
 TOI044	xxx questa è
-TOI043	comunque è un indizio forte
-TOI044	eh sì sì sì
+TOI044	comunque è un indizio forte
+TOI043	eh sì sì sì
 TOI044	di quello che è la
 TOI044	la gente che vive no cioè
-TOR001	e
-TOI043	e lei invece in che altri quartieri ha vissuto
+TOI044	e
+TOR001	e lei invece in che altri quartieri ha vissuto
 TOI043	allora io invece
 TOI043	prima di sp~ anzi in realtà
 TOI043	prima di sposarmi e anche i primi anni dopo il matrimonio
 TOI043	abitavo nella zona
-TOR001	diciamo cenisia come quartiere quindi
-TOI043	mhmh
-TOR001	io abitavo prima di sposarmi vicino a piazza adriano
-TOI042	mhmh
-TOI043	mh mh mh
+TOI043	diciamo cenisia come quartiere quindi
+TOR001	mhmh
+TOI043	io abitavo prima di sposarmi vicino a piazza adriano
+TOR001	mhmh
+TOI042	mh mh mh
 TOI043	quindi all'inizio di via frejus via lombriasco
 TOI043	e poi mi ero trasferita
-TOR001	diciamo in via frejus subito dopo corso racconigi
-TOI043	mhmh
+TOI043	diciamo in via frejus subito dopo corso racconigi
+TOR001	mhmh
 TOI043	quando mi sono sposata
 TOI043	e allora quando ero
 TOI043	bambina anche quella era una zona resindenziale
 TOI043	molto carina molto bellina
 TOI043	eh la parte diciamo via
-TOR001	perché via frejus piazza adriano più verso corso vittorio
-TOI043	mhmh
+TOI043	perché via frejus piazza adriano più verso corso vittorio
+TOR001	mhmh
 TOI043	mentre invece da via di nanni
 TOI043	appunto più verso piazza sabotino anche quella era una zona
-TOI042	eh
-TOI044	operaia
-TOI043	operaia
-TOI044	popolare operaia d'immigrazione dal sud
-TOI043	operaia
 TOI043	eh
-TOR001	quindi come dire anche quella era vista un po' così
-TOI043	
+TOI042	operaia
+TOI044	operaia
+TOI043	popolare operaia d'immigrazione dal sud
+TOI044	operaia
+TOI043	eh
+TOI043	quindi come dire anche quella era vista un po' così
 TOI043	io per esempio mi rico~ questo me lo ricordo che
 TOI043	eh c'erano due bar
 TOI043	adesso magari si dice tanto appunto no de~ de~ degli immigrati
-TOI042	dei marocchini eccetera
-TOI043	
+TOI043	dei marocchini eccetera
 TOI043	c'erano due bar su via di nanni
 TOI043	che in effetti una don~ una ragazza da sola passarci davanti
-TOI042	c'avevi sai
-TOI043	ma non erano malavitosi era più xxx
-TOI042	era
-TOI043	sul terroncello quella che magari ti fanno le battute
-TOI042	eh era sul terroncello che faceva le battute magari
-TOI043	abbona eh sì eh
+TOI043	c'avevi sai
+TOI042	ma non erano malavitosi era più xxx
+TOI043	era
+TOI042	sul terroncello quella che magari ti fanno le battute
+TOI043	eh era sul terroncello che faceva le battute magari
+TOI042	abbona eh sì eh
 TOI043	le le no no le le gli
-TOI042	però come dire
-TOI043	non era una zona di malavita ma
-TOI042	era eh eh però ovviamente ti sentivi
-TOI043	di cafoni magari sì
-TOI042	è un po' imba~ un po' imbarazzato no ecco eh così
-TOI043	xxx sì
-TOI042	per cui c'era quella cosa lì
-TOI043	l'immigrazione c'era già prima della guerra
+TOI043	però come dire
+TOI042	non era una zona di malavita ma
+TOI043	era eh eh però ovviamente ti sentivi
+TOI042	di cafoni magari sì
+TOI043	è un po' imba~ un po' imbarazzato no ecco eh così
+TOI042	xxx sì
+TOI043	per cui c'era quella cosa lì
+TOI042	l'immigrazione c'era già prima della guerra
 TOI043	mentre invece
-TOI042	eh eh eh
-TOR001	infatti dante di nanni
-TOI043	sì sì lo so
-TOI042	eh sì
-TOR001	che eh mio nonno diceva eh ecco era
-TOI043	era figlio di immigrati
-TOI042	era già
-TOI043	era lì prima della guerra
-TOI042	sì sì sì sì sì sì sì certo
+TOI043	eh eh eh
+TOI042	infatti dante di nanni
+TOR001	sì sì lo so
+TOI043	eh sì
+TOI042	che eh mio nonno diceva eh ecco era
+TOR001	era figlio di immigrati
+TOI043	era già
+TOI042	era lì prima della guerra
+TOI043	sì sì sì sì sì sì sì certo
 TOI042	e c'era tutto un nucleo
-TOI043	era già una zona
+TOI042	era già una zona
 TOI043	anche perché c'era anche lì
-TOI042	c'era un nucleo di case più vecchie che dove abitava
-TOI043	sì
+TOI043	c'era un nucleo di case più vecchie che dove abitava
+TOI042	sì
 TOI043	mia mamma da bambina
-TOI042	nella zona via luserna via verzuolo
-TOI043	mh sì sì sì
+TOI043	nella zona via luserna via verzuolo
+TOI042	mh sì sì sì
 TOI043	tutte quelle vie lì
-TOR001	no dove c'erano anche i bagni pubblici
-TOI043	mhmhmh
+TOI043	no dove c'erano anche i bagni pubblici
+TOR001	mhmhmh
 TOI043	che poi adesso sono un centro culturale anche quello un centro del comune
 TOI043	lì c'erano i bagni pubblici no
 TOI043	noi però invece abitavamo più nella parte appunto
 TOI043	piazza adriano via frejus che era già
-TOR001	più più bel~ più più residenziale
-TOI043	mhmh
-TOI042	poi mercato di corso racconigi
-TOI043	mh
+TOI043	più più bel~ più più residenziale
+TOR001	mhmh
+TOI043	poi mercato di corso racconigi
+TOI042	mh
 TOI043	è sempre stato una zona molto popolare anche perché
-TOI044	è il secondo mercato di torino dopo porta palazzo per cui
-TOI043	mh
+TOI043	è il secondo mercato di torino dopo porta palazzo per cui
+TOI044	mh
 TOI043	e comunque una zona
 TOI043	allora era molto vitale
 TOI043	poi ho notato negli ultimi anni che
@@ -1779,282 +1712,273 @@ TOI043	per la concorrenza dei supermercati
 TOI043	il mercato
 TOI043	è è anche lì adesso oramai
 TOI043	soprattutto cioè
-TOI042	per per esempio per la frutta e la verdura si continua a comprare decisamente bene
+TOI043	per per esempio per la frutta e la verdura si continua a comprare decisamente bene
 TOI042	sì
-TOI043	mhmh
-TOI042	molto meglio che non qua che costa meno e la roba è bella
-TOI043	sì
+TOI042	mhmh
+TOI043	molto meglio che non qua che costa meno e la roba è bella
+TOI042	sì
 TOI043	però per esempio sull'abbigliamento
-TOI042	invece oramai è quasi tutto in mano ai cinesi o ad altri cioè
-TOI044	sì
-TOI043	qual era già il burg dei cineis
-TOI044	c'è poco c'è poca
-TOI043	mio padre parlava del burg qual era il burg dei cineis
-TOI042	come dire
-TOI043	da porta pila c'erano i cinesi
-TOI044	cose un pochino più belline non le trovi più
-TOI042	ah
-TOI044	quindi erano
-TOI043	ah
-TOI042	e invece quella è diventata soprattutto il pezzo appunto dico
-TOI043	quelle lì le famose clavatte del
-TOR001	di via frejus verso corso racconigi
-TOI043	mhmh
-TOI042	è diventata una zona d'immigrazione invece latinoamericana
-TOR001	mh
-TOI043	mh mh
+TOI043	invece oramai è quasi tutto in mano ai cinesi o ad altri cioè
+TOI042	sì
+TOI044	qual era già il burg dei cineis
+TOI043	c'è poco c'è poca
+TOI044	mio padre parlava del burg qual era il burg dei cineis
+TOI043	come dire
+TOI042	da porta pila c'erano i cinesi
+TOI043	cose un pochino più belline non le trovi più
+TOI044	ah
+TOI042	quindi erano
+TOI044	ah
+TOI043	e invece quella è diventata soprattutto il pezzo appunto dico
+TOI042	quelle lì le famose clavatte del
+TOI043	di via frejus verso corso racconigi
+TOR001	mhmh
+TOI043	è diventata una zona d'immigrazione invece latinoamericana
+TOI042	mh
+TOR001	mh mh
 TOI043	ci sono infatti praticamente io
 TOI043	ah quando mi sono sposata
 TOI043	sono andata a abitare in un complesso che erano
-TOR001	vecchie case popolari dei ferrovieri
-TOI043	mhmh
-TOI042	quindi erano case di inizio secolo però erano
-TOI043	ah sì sì
+TOI043	vecchie case popolari dei ferrovieri
+TOR001	mhmh
+TOI043	quindi erano case di inizio secolo però erano
+TOI042	ah sì sì
 TOI043	belle ben tenute anzi avevamo un bel
-TOI042	bel giardino in mezzo così
-TOI043	mhmh
+TOI043	bel giardino in mezzo così
+TOI042	mhmh
 TOI043	e adesso praticamente so che c'ero passata eh
-TOR001	non c'è più un cognome italiano però
-TOI042	
-TOI043	
+TOI043	non c'è più un cognome italiano però
 TOI043	sono quasi tutti latinoamericani
-TOI042	infatti hanno messo anche negozi loro
-TOI043	mh mh mh mh
+TOI043	infatti hanno messo anche negozi loro
+TOI042	mh mh mh mh
 TOI043	so che per esempio c'è la libreria belgravia
 TOI043	sai quella con cui facciamo anche progetti con la scuola
-TOI042	che è una libreria
-TOI043	mhmh
+TOI043	che è una libreria
+TOI042	mhmh
 TOI043	che si trova in una traversa via vicoforte
-TOI042	che fanno anche proprio progetti con la comunità
-TOI043	mh mh
-TOR001	non so cor~ mh corsi di spagnolo
-TOI043	mhmh
-TOI042	progetti
-TOI043	mh mh mh
-TOR001	eh con il il la comunità latinoamericana
-TOI043	mhmhmh
+TOI043	che fanno anche proprio progetti con la comunità
+TOI042	mh mh
+TOI043	non so cor~ mh corsi di spagnolo
+TOR001	mhmh
+TOI043	progetti
+TOI042	mh mh mh
+TOI043	eh con il il la comunità latinoamericana
+TOR001	mhmhmh
 TOI043	a c~ alla chiesa di gesù adolescente hanno xxx che
-TOI042	che mh lì vicino
-TOI043	mh
+TOI043	che mh lì vicino
+TOI042	mh
 TOI043	fanno anche proprio una messa loro
-TOR001	in in appunto in ehm
-TOI043	mhmhmh
-TOR001	in spagnolo quindi c'è un'immigrazione forte di quel tipo lì
-TOI043	mhmhmhmh
-TOR001	e
+TOI043	in in appunto in ehm
+TOR001	mhmhmh
+TOI043	in spagnolo quindi c'è un'immigrazione forte di quel tipo lì
+TOR001	mhmhmhmh
+TOI043	e
 TOR001	okay
-TOI043	e quindi invece prima era più una zona popolare
+TOR001	e quindi invece prima era più una zona popolare
 TOI043	sì
 TOI043	allora corso
-TOR001	diciamo corso racconigi via frejus di là era popolare
-TOI043	mhmh
-TOR001	via di nanni dall'altra parte anche invece
-TOI043	okay
+TOI043	diciamo corso racconigi via frejus di là era popolare
+TOR001	mhmh
+TOI043	via di nanni dall'altra parte anche invece
+TOR001	okay
 TOI043	quella zona lì dove abitavo io cioè via
-TOR001	frejus via lombriasco via
-TOI043	mhmhmhmh
+TOI043	frejus via lombriasco via
+TOR001	mhmhmhmh
 TOI043	verso piazza adriano
-TOI042	era un po' più residenziale perché era molto vicino a corso vittorio
-TOR001	mh mh
-TOI042	mhmh mhmhmh
-TOI043	mh mh
-TOI042	e quindi era già un pochino più come dire
-TOI043	bisogna tenere presente xxx mh
+TOI043	era un po' più residenziale perché era molto vicino a corso vittorio
+TOI042	mh mh
+TOR001	mhmh mhmhmh
+TOI042	mh mh
+TOI043	e quindi era già un pochino più come dire
+TOI042	bisogna tenere presente xxx mh
 TOI043	eh con un non s~ cioè non non saprei dire
-TOI042	però era già un pochino più
+TOI043	però era già un pochino più
 TOI042	sì
-TOI043	tenere presente che c'erano c'erano all'epoca
-TOI042	tenuta bene ecco diciamo così
+TOI042	tenere presente che c'erano c'erano all'epoca
+TOI043	tenuta bene ecco diciamo così
 TOI042	tante boite
 TOI042	e c'era
-TOR001	lo stabilimento lancia produttivo
-TOI042	mh mh
+TOI042	lo stabilimento lancia produttivo
+TOR001	mh mh
 TOI042	in corso racconigi angolo corso peschiera peschiera
-TOI043	dove adesso c'è tutt'altro
-TOI042	mh
+TOI042	dove adesso c'è tutt'altro
+TOI043	mh
 TOI042	ci c'è un ehm c'era proprio
 TOI042	lo stabili~ si vede che è archeologia industriale
-TOI043	c'era la fabbrica lancia
-TOI042	e non solo nel senso che
-TOI043	ma poi un mucchio di boite
+TOI042	c'era la fabbrica lancia
+TOI043	e non solo nel senso che
+TOI042	ma poi un mucchio di boite
 TOI043	cioè i miei
 TOI043	i miei genitori si sono conosciuti perché
 TOI043	i miei nonni erano colleghi di lavoro
 TOI043	perché c'era molto il fatto di abitare
-TOI042	vicino alla fabbrica
-TOI043	sì sì sì sì
+TOI043	vicino alla fabbrica
+TOI042	sì sì sì sì
 TOI043	e c'era loro abitavano appunto
 TOI043	ehm in questa in quelle zone lì
-TOR001	perché c'era la snia
-TOI042	mhmh
-TOI043	mh mh
-TOI042	la snia viscolo la snia viscosa che era
-TOI044	sì sì sì sì
-TOI043	ah anche a v~ a venaria che puzzava in una
-TOI044	venaria aveva diciamo la sede invece
-TOR001	madonna
-TOI043	
-TOI044	praticamente
-TOI043	io quando passavo da piccola con la macchina
+TOI043	perché c'era la snia
+TOR001	mhmh
+TOI042	mh mh
+TOI043	la snia viscolo la snia viscosa che era
+TOI042	sì sì sì sì
+TOI044	ah anche a v~ a venaria che puzzava in una
+TOI043	venaria aveva diciamo la sede invece
+TOI044	madonna
+TOI043	praticamente
+TOI044	io quando passavo da piccola con la macchina
 TOI043	lì
-TOI044	lì in eh
-TOR001	tappiamoci il naso perché era
-TOI043	
+TOI043	lì in eh
+TOI044	tappiamoci il naso perché era
 TOI043	perché là facevano più che altro
-TOI044	proprio le le le le fibre no
+TOI043	proprio le le le le fibre no
 TOI044	mamma mia
-TOI043	era tremenda quella zona xxx
+TOI044	era tremenda quella zona xxx
 TOI043	invece
 TOI043	nella zona l~ la fabbrica che c'era in via frejus
-TOR001	era dove facevano tutte le parti meccaniche
-TOI044	mhmh
-TOI043	ma ecco
+TOI043	era dove facevano tutte le parti meccaniche
+TOR001	mhmh
+TOI044	ma ecco
 TOI043	no
-TOI042	e quindi facevano tutti i macchinari per
-TOI043	sì
-TOI044	poi lavorare
-TOI042	là a venaria
-TOI043	c'era la fabbrica del ghiaccio anche lì
-TOI044	a v~ a venaria no
-TOI043	a venaria
+TOI043	e quindi facevano tutti i macchinari per
+TOI042	sì
+TOI043	poi lavorare
+TOI044	là a venaria
+TOI042	c'era la fabbrica del ghiaccio anche lì
+TOI043	a v~ a venaria no
+TOI044	a venaria
 TOI043	quindi praticamente i miei nonni
 TOI043	erano abit~ ab~
-TOI042	erano venuti ad abitare a vivere
-TOI043	sì sì sì
-TOI044	lì con le famiglie
-TOI043	sì
+TOI043	erano venuti ad abitare a vivere
+TOI042	sì sì sì
+TOI043	lì con le famiglie
+TOI044	sì
 TOI043	perché il lavoro era lì eh infatti
 TOI043	e quella è un edificio in cui poi c'era c'erano poi
 TOI043	gli uffici credo
-TOI044	non so se della circoscrizione o qualcosa legato alle scuole
-TOI043	eh borgo
-TOI044	quella lì che fa angolo via revello
-TOI042	lì a aurora
-TOI043	ah sì sì
-TOI044	e via xxx via revello
-TOI042	c'era la
-TOI043	sì sì sì c'era xxx dove andavo io ogni tanto per gli archivi
+TOI043	non so se della circoscrizione o qualcosa legato alle scuole
+TOI044	eh borgo
+TOI043	quella lì che fa angolo via revello
+TOI044	lì a aurora
+TOI042	ah sì sì
+TOI043	e via xxx via revello
+TOI044	c'era la
+TOI042	sì sì sì c'era xxx dove andavo io ogni tanto per gli archivi
 TOI043	eh
 TOI043	eh
-TOI042	lì
-TOI043	sì sì sì adesso è roba del comune
-TOI042	quella lì lì c'era la snia viscosa che era
-TOI043	sì
-TOR001	un'industria meccanica
-TOI044	mhmh
-TOI043	per esempio in auro~ nella zona
+TOI043	lì
+TOI042	sì sì sì adesso è roba del comune
+TOI043	quella lì lì c'era la snia viscosa che era
+TOI042	sì
+TOI043	un'industria meccanica
+TOR001	mhmh
+TOI044	per esempio in auro~ nella zona
 TOI043	per cui
-TOI042	vivevano in quella zona lì per quello
-TOI043	sì sì
-TOR001	quindi era un quartiere operaio
-TOI044	mhmh mhmh
-TOI042	mia madre aveva lavorato per un certo periodo
-TOI044	sì
-TOI043	alla wamar
-TOI044	mh
-TOI042	che è la fabbrica di fette
-TOI044	ah sì xxx biscotti
-TOR001	biscottate famose
-TOI044	
+TOI043	vivevano in quella zona lì per quello
+TOI042	sì sì
+TOI043	quindi era un quartiere operaio
+TOR001	mhmh mhmh
+TOI044	mia madre aveva lavorato per un certo periodo
+TOI042	sì
+TOI044	alla wamar
+TOI043	mh
+TOI044	che è la fabbrica di fette
+TOI042	ah sì xxx biscotti
+TOI044	biscottate famose
 TOI044	ed era
-TOI042	non so dov'era l'avamar non era lontana da aurora
-TOI043	sì era in zona eheheheh
+TOI044	non so dov'era l'avamar non era lontana da aurora
+TOI042	sì era in zona eheheheh
 TOI043	non era tanto lontana eh eh infatti
-TOI044	per cui spesso
-TOI043	da aurora
-TOI044	lavoravano vicino al posto di lavoro
-TOI043	lì e poi c'era la grandi motori lì
-TOI044	eh sì
-TOI043	aurora cioè eh quella
+TOI043	per cui spesso
+TOI044	da aurora
+TOI043	lavoravano vicino al posto di lavoro
+TOI044	lì e poi c'era la grandi motori lì
+TOI043	eh sì
+TOI044	aurora cioè eh quella
 TOI043	eh
-TOI044	mh
-TOI042	infatti
-TOI044	e poi non
+TOI043	mh
+TOI044	infatti
+TOI042	e poi non
 TOI044	i miei avevano comprato poi
 TOI044	si erano spostati da porta palazzo perché mia madre aveva
 TOI044	una casa in via della sal~ cioè mia madre
 TOI044	la zia aveva uno stabile poi
 TOI044	quando si è sposata mia madre
 TOI044	si è spostata in via antonio cecchi
-TOI043	perché c'era la grandi mito~ motori lì
-TOI044	eh già
-TOI043	e mio padre lavorava lì
+TOI044	perché c'era la grandi mito~ motori lì
+TOI043	eh già
+TOI044	e mio padre lavorava lì
 TOI043	eh sì sì perché lavoravano
-TOI044	cioè abitavano proprio vicino alla
-TOI043	mio padre attraversava la strada per andare a lavorare
-TOI042	alla allo stabilimento eh
-TOR001	qua c'era la velosolex
-TOI042	mhmh
+TOI043	cioè abitavano proprio vicino alla
+TOI044	mio padre attraversava la strada per andare a lavorare
+TOI043	alla allo stabilimento eh
+TOI042	qua c'era la velosolex
+TOR001	mhmh
 TOI042	dove adesso c'è la pizzeria
 TOI042	ehm
 TOI042	peperina come si chiama peperina
 TOI042	e prima c'è
-TOR001	in via lera
-TOI042	mhmh
-TOR001	prima di arrivare eh
-TOI042	ah okay okay okay
+TOI042	in via lera
+TOR001	mhmh
+TOI042	prima di arrivare eh
+TOR001	ah okay okay okay
 TOI042	è tutta un'altra co~
-TOR001	prima c'è il garage del comune
-TOI042	mhmh
-TOR001	dell'atm voglio dire poi c'è
-TOI042	mhmh
+TOI042	prima c'è il garage del comune
+TOR001	mhmh
+TOI042	dell'atm voglio dire poi c'è
+TOR001	mhmh
 TOI042	mh la pizzeria
 TOI042	e poi c'è quel
-TOR001	quel mini grattacielo xxx
-TOI042	
-TOR001	lì c'era la velosolex
-TOI042	mhmh
+TOI042	quel mini grattacielo xxx
+TOI042	lì c'era la velosolex
+TOR001	mhmh
 TOI042	quella in nella canzone di gipo
-TOR001	l'hai catate el velosolex per culé
-TOI042	
-TOI044	che era una bici a motore
-TOR001	sì
-TOI044	okay
-TOI042	le prime bici che cicla~ lì quelle
-TOI044	era una fabbrichetta
-TOI042	come si chiamano
+TOI042	l'hai catate el velosolex per culé
+TOI042	che era una bici a motore
+TOI044	sì
+TOR001	okay
+TOI044	le prime bici che cicla~ lì quelle
+TOI042	era una fabbrichetta
+TOI044	come si chiamano
 TOI042	proprio
-TOI044	ciclomotore bici a motore
-TOI042	bici
-TOI044	ma era proprio una bici con un motorino così
+TOI042	ciclomotore bici a motore
+TOI044	bici
+TOI042	ma era proprio una bici con un motorino così
 TOI044	sì sì
+TOI044	mhmh
 TOI043	mhmh
-TOI042	mhmh
-TOI044	era mh
-TOI042	una bici elettrica xxx
-TOI043	era pieno di fabbrichette
-TOI042	eh sì
-TOI043	nel centro delle
-TOR001	eh sì
-TOI042	mhmhmh
+TOI042	era mh
+TOI044	una bici elettrica xxx
+TOI042	era pieno di fabbrichette
+TOI043	eh sì
+TOI042	nel centro delle
+TOI043	eh sì
+TOR001	mhmhmh
 TOI042	ma anche più vicino al centro ce n'era di di
-TOR001	incredibile davvero
-TOI042	
-TOI043	la leone era in corso regina
+TOI042	incredibile davvero
+TOI042	la leone era in corso regina
+TOI043	mh
 TOR001	mh
 TOI044	mh
-TOI044	mh
-TOI042	la fabbrica di caramelle
-TOI043	xxx di caramelle
-TOI042	eh sì di caramelle
+TOI044	la fabbrica di caramelle
+TOI042	xxx di caramelle
+TOI043	eh sì di caramelle
 TOI042	eh
 TOI042	mh
-TOR001	non parliamo delle della della cioccolateria artigianale
-TOI043	mhmh
-TOI042	mh
+TOI042	non parliamo delle della della cioccolateria artigianale
+TOR001	mhmh
+TOI043	mh
 TOI042	che era
 TOI042	d~ da xxx a peyrani a
 TOI042	tutto
-TOR001	sì comunque qua in zona
+TOI042	sì comunque qua in zona
 TOR001	ehm avete ricordi magari appunto
 TOR001	d'infanzia associati alla migrazione meridionale
-TOI044	a torino
-TOR001	sì io sì abbastanza
-TOI043	
+TOR001	a torino
+TOI044	sì io sì abbastanza
 TOI043	sì anch'io
-TOI044	sì
-TOI043	perché appunto mia madre
-TOI044	eh
+TOI043	sì
+TOI044	perché appunto mia madre
+TOI043	eh
 TOI044	cioè gli zii i miei mh
 TOI044	mia madre e mia madrina sono rimaste
 TOI044	senza genitori molto presto
@@ -2064,31 +1988,30 @@ TOI044	in via della sal~ e lì affittavano
 TOI044	molte famiglie del
 TOI044	che vivevano lì erano di origine meridionale
 TOI044	e
-TOI043	mh e poi essendoci il mercato
-TOI044	eh sì
-TOI043	di porta palazzo i venditori molti io me li ricordo
-TOI044	eh sì
-TOI042	da piccola erano di origine meridionale
-TOI043	mhmh
-TOI044	sì io anche mi mi ricordo più o meno anche io quella cosa del mercato
-TOI043	ehm
-TOI042	quella me la ricordo anche io poi
-TOI043	mhmh
+TOI044	mh e poi essendoci il mercato
+TOI043	eh sì
+TOI044	di porta palazzo i venditori molti io me li ricordo
+TOI043	eh sì
+TOI044	da piccola erano di origine meridionale
+TOI042	mhmh
+TOI043	sì io anche mi mi ricordo più o meno anche io quella cosa del mercato
+TOI044	ehm
+TOI043	quella me la ricordo anche io poi
+TOI042	mhmh
 TOI043	siccome io eh di di
 TOI043	io sono andata a scuola ele~ alle elementari alla casati
-TOI042	che è quella che c'è lì in via
-TOI043	ah
-TOI042	in eh proprio in corso racconigi
-TOI043	corso racconigi eh
+TOI043	che è quella che c'è lì in via
+TOI042	ah
+TOI043	in eh proprio in corso racconigi
+TOI042	corso racconigi eh
 TOI043	e poi frequentavo la
-TOR001	la parrocchia di san pellegrino che è proprio lì
-TOI043	mhmh
+TOI043	la parrocchia di san pellegrino che è proprio lì
+TOR001	mhmh
 TOI043	e mi ricordo che c'erano tanti
 TOI043	bambini ragazzini
-TOI044	che erano appunto
-TOI043	
+TOI043	che erano appunto
 TOI043	che che che che
-TOI044	magari xxx
+TOI043	magari xxx
 TOI044	n~ nella casa io mi ricordo
 TOI044	un una cosa che ho in testa
 TOI044	che
@@ -2096,78 +2019,64 @@ TOI044	quando io sono arrivata in questa casa che andavo a vedere così
 TOI044	perché mia madre e mia madrina avevano ancora degli inquilini che gestiva~ eh
 TOI044	c'era
 TOI044	una scena tremenda di questi bambini molto probabilmente insomma
-TOI042	e c'è la figlia della padrona che ero io
-TOI044	
-TOI043	
-TOR001	
-TOI044	
-TOI042	io ho provato una vergogna che me la porto ancora adesso no
-TOI043	
-TOI044	eh già
-TOI043	come se io fossi stata non so
-TOR001	sì sì chissà chi la la
-TOI044	
-TOI043	tutti questi bambini vestiti un po' male no
-TOI042	la
-TOI043	l'aguzzina
-TOI044	la piccola lady
-TOI042	la
-TOI044	
+TOI044	e c'è la figlia della padrona che ero io
+TOI044	io ho provato una vergogna che me la porto ancora adesso no
+TOI043	eh già
+TOI044	come se io fossi stata non so
+TOI043	sì sì chissà chi la la
+TOI044	tutti questi bambini vestiti un po' male no
+TOI043	la
+TOI042	l'aguzzina
+TOI043	la piccola lady
+TOI044	la
 TOI044	io ero rimasta veramente scioccata da questa cosa
-TOI043	e poi mi ricordavo di questa por~ la portin~ c'era una portineria con questa signora
-TOI044	eh eh
-TOI043	che era di origine xxx
-TOI042	sì sì sì
-TOI044	portinaia
+TOI044	e poi mi ricordavo di questa por~ la portin~ c'era una portineria con questa signora
+TOI043	eh eh
+TOI044	che era di origine xxx
+TOI043	sì sì sì
+TOI042	portinaia
 TOI044	si chiamava benita
-TOI042	che mi faceva ridere
-TOI043	
-TOI044	xxx del nome eh già
+TOI044	che mi faceva ridere
+TOI043	xxx del nome eh già
 TOI044	beni~ era già
-TOI042	benita era già
-TOI043	
-TOI044	eh già eh già
+TOI044	benita era già
+TOI043	eh già eh già
 TOI044	e ridevamo sempre con questa benita xxx
 TOI044	era una signora xxx con il cuore enorme no
 TOI044	che ci metteva
 TOI044	a
 TOI044	a mh conoscenza di tutte le magagne degli alloggi
-TOR001	perché ne succedeva sempre qualcuna poi
-TOI044	
-TOI042	i miei ehm mh mia madre e mia madrina
-TOI044	benita
-TOI043	avevano poi venduto questa casa perché c'erano tante di quelle grane
-TOI044	sì sì perché era solo grane eh già
-TOI042	perché era una cosa ereditata da da dai parenti che
-TOI044	
-TOR001	per fortuna ci mancherebbe che avessi ancora la casa
-TOI044	
+TOI044	perché ne succedeva sempre qualcuna poi
+TOI044	i miei ehm mh mia madre e mia madrina
+TOI042	benita
+TOI044	avevano poi venduto questa casa perché c'erano tante di quelle grane
+TOI043	sì sì perché era solo grane eh già
+TOI044	perché era una cosa ereditata da da dai parenti che
+TOI044	per fortuna ci mancherebbe che avessi ancora la casa
 TOI044	adesso lì
 TOI044	in quella zona lì
 TOI044	e
-TOI043	e questa cosa no cioè la figlia della padrona
-TOI044	eh già
-TOI043	xxx mi è rimasta nel cervello questa cosa
-TOR001	sì sì sì sì sì
-TOI044	
+TOI044	e questa cosa no cioè la figlia della padrona
+TOI043	eh già
+TOI044	xxx mi è rimasta nel cervello questa cosa
+TOI043	sì sì sì sì sì
 TOI044	non l'ho mai dimenticata come dire
 TOI044	ecco quella è
-TOI043	
-TOI044	e io i ricordo che ho
-TOI043	e quindi
+TOI043	e io i ricordo che ho
+TOI044	e quindi
 TOI043	perché appunto vabbè ovviamente in classe magari però
 TOI043	diciamo mh
 TOI043	magari avevo dei compagni e delle compagne che avevano dei genitori che venivano dal sud
-TOR001	però non era una roba come dire evidente
-TOI043	mh mh
+TOI043	però non era una roba come dire evidente
+TOR001	mh mh
 TOI043	invece mi ricordo che era arrivato
 TOI043	non so se in quarta o in quinta
 TOI043	un bam mh
 TOI043	un bambino un compagno
-TOI042	che invece si vede che erano appena arrivati proprio da sud
-TOI043	mh mh
-TOI044	per cui aveva un accento fortissimo
-TOI043	mh
+TOI043	che invece si vede che erano appena arrivati proprio da sud
+TOI042	mh mh
+TOI043	per cui aveva un accento fortissimo
+TOI044	mh
 TOI043	e allora mi ricor~ oltretutto poverino l'era non l'era nen tant bel
 TOI043	non era tanto bello
 TOI043	ed era il classico bambino
@@ -2176,29 +2085,28 @@ TOI043	che rompe le scatole che
 TOI043	cioè che non che rompeva proprio in maniera esponenziale
 TOI043	e mi ricordo che
 TOI043	ce l'avevamo tutti un po' con lui cioè
-TOI042	lui effettivamente come dire non faceva proprio niente per farsi
-TOI043	xxx
-TOI042	per per per per farsi fare integrare star bene
-TOI043	mh mh
+TOI043	lui effettivamente come dire non faceva proprio niente per farsi
+TOI042	xxx
+TOI043	per per per per farsi fare integrare star bene
+TOI042	mh mh
 TOI043	però soprattutto noi femmine lo guardavamo molto sai
 TOI043	come dire un po'
 TOI043	con la puzza sotto il naso dall'alto in basso
-TOR001	perché questo faceva casino
-TOI043	mhmh
-TOR001	si comportava male aveva quest'accento così per cui eravamo tutte un po'
-TOI042	
-TOI043	problema delle classi
-TOI042	un po' schizzinose no
+TOI043	perché questo faceva casino
+TOR001	mhmh
+TOI043	si comportava male aveva quest'accento così per cui eravamo tutte un po'
+TOI042	problema delle classi
+TOI043	un po' schizzinose no
 TOI042	differenziali
-TOI043	è stato il ehm
+TOI042	è stato il ehm
 TOI043	eh
-TOI042	no ma questo era un ragazzino normale solo che evidentemente
+TOI043	no ma questo era un ragazzino normale solo che evidentemente
 TOI042	sì sì
-TOI043	no ma ce n'erano ancora
+TOI042	no ma ce n'erano ancora
 TOI043	erano era appena arrivato
-TOI042	parlava più dialetto che italiano
-TOI043	sì sì
-TOI042	e poi era casinista di suo cioè
+TOI043	parlava più dialetto che italiano
+TOI042	sì sì
+TOI043	e poi era casinista di suo cioè
 TOI042	no no c'erano ancora io mh
 TOI042	che andavo ogni tanto a questi incontri che facevano all'avogadro altrove no
 TOI042	sempre per cercare le cose
@@ -2208,8 +2116,8 @@ TOI042	sulle classi differenziarie
 TOI042	e le classi differenziali
 TOI042	mettevano quelli che erano
 TOI042	non so~ eh eh svantaggiati o ritardati o
-TOI043	impossibilitati a stare al passo con gli altri no
-TOI042	mh
+TOI042	impossibilitati a stare al passo con gli altri no
+TOI043	mh
 TOI042	e spesso
 TOI042	ehm io mh mai fatto studi
 TOI042	in ge~ su su su sul sull'argomento né
@@ -2218,128 +2126,128 @@ TOI042	ho conosciuto gente più anziana xxx i colleghi più anziani xxx
 TOI042	spesso finivano con
 TOI042	veri ritardati o veri portatori di handicap
 TOI042	persone
-TOI043	eh quelli che oggi diremmo
-TOI042	eh sì quelli che poi una volta si chiamavano i caratteriali
+TOI042	eh quelli che oggi diremmo
+TOI043	eh sì quelli che poi una volta si chiamavano i caratteriali
 TOI042	bes
-TOI043	ah ecco fi~ i c~ i caratteriali quelli che oggi diremmo bes
+TOI042	ah ecco fi~ i c~ i caratteriali quelli che oggi diremmo bes
 TOI043	eh
 TOI043	sì sì
-TOI042	bes sì sì
+TOI043	bes sì sì
 TOI042	ecco
-TOI043	che era una xxx di persone che non sapevano l'italiano
+TOI042	che era una xxx di persone che non sapevano l'italiano
 TOI043	quelli educativi speciali
-TOI042	eh già
-TOI043	perché arrivati magari
-TOI042	svantaggio socioculturale sì
-TOI043	mh
-TOI042	eh
-TOI043	senza avere il minimo contatto con l'italiano fino a sei sette anni
-TOI042	eh
-TOI043	fare a s~ a sette a sei otto anni la prima
+TOI043	eh già
+TOI042	perché arrivati magari
+TOI043	svantaggio socioculturale sì
 TOI042	mh
+TOI043	eh
+TOI042	senza avere il minimo contatto con l'italiano fino a sei sette anni
+TOI043	eh
+TOI042	fare a s~ a sette a sei otto anni la prima
+TOI043	mh
 TOI042	ed essere incapaci di seguire una qualunque attività
-TOR001	e quindi spesso ci finivano queste
-TOI042	mhmhmh
+TOI042	e quindi spesso ci finivano queste
+TOR001	mhmhmh
 TOI042	queste persone
 TOI042	eh che ehm
 TOI042	a parte che all'epoca si bocciava
-TOR001	nelle elementari
+TOI042	nelle elementari
 TOR001	mhmh
-TOI042	mhmh
-TOI043	ma mh
-TOI042	sì tu hai anche qualche anno più di noi per cui
-TOI043	eh sì dieci
-TOI042	eh già quando io mi ricordo che
+TOR001	mhmh
+TOI042	ma mh
+TOI043	sì tu hai anche qualche anno più di noi per cui
+TOI042	eh sì dieci
+TOI043	eh già quando io mi ricordo che
 TOI042	si bocciava eccome nelle
-TOI043	ah sì si bocciava nelle
+TOI042	ah sì si bocciava nelle
 TOI043	in prima però mi ricordo
-TOI042	che quando facevo la prima elementare
-TOI043	mh
+TOI043	che quando facevo la prima elementare
+TOI042	mh
 TOI043	c'era stato un bambino
 TOI043	che era stato bocciato e che poi
-TOI042	che dicevano ah lo metteranno nella classe differenziale
-TOI043	eh già
-TOI042	però poi penso che sia stato l'ultimo anno che le abbiano eliminate
-TOI043	sì sì sì
-TOI042	quasi subito perché
-TOI044	e le hanno eliminate negli anni settanta credo eh sì
-TOI043	me lo ricordo
+TOI043	che dicevano ah lo metteranno nella classe differenziale
+TOI042	eh già
+TOI043	però poi penso che sia stato l'ultimo anno che le abbiano eliminate
+TOI042	sì sì sì
+TOI043	quasi subito perché
+TOI042	e le hanno eliminate negli anni settanta credo eh sì
+TOI044	me lo ricordo
 TOI043	eh
-TOI042	eh io ho fatto prima nel sessantanove quindi
-TOI043	eh vedi vedi
+TOI043	eh io ho fatto prima nel sessantanove quindi
+TOI042	eh vedi vedi
 TOI043	penso che le abbiano eliminate poi
-TOR001	l'anno dopo o due anni dopo insomma
-TOI042	sì
-TOI043	perché se erano veri portatori di handicap ormai la pedagogia
+TOI043	l'anno dopo o due anni dopo insomma
+TOR001	sì
+TOI042	perché se erano veri portatori di handicap ormai la pedagogia
 TOI043	eh
 TOI043	eh
-TOI042	mh
-TOI043	vedeva il miglioramento nell'inserimento
+TOI043	mh
+TOI042	vedeva il miglioramento nell'inserimento
 TOI043	mh mh
-TOI042	esatto mh
+TOI043	esatto mh
 TOI042	e negli altri casi erano persone che
 TOI042	non potevano inserirsi perché non avevano strumenti erano proprio quelli che
 TOI042	eh non non sapevano l'italiano oppure
 TOI042	che venivano magari dai paesini dove
 TOI042	a scuola se mai c'erano andati
-TOR001	ci si comportava in un modo completamente diverso
-TOI043	mhmhmh
-TOI042	mh
+TOI042	ci si comportava in un modo completamente diverso
+TOR001	mhmhmh
+TOI043	mh
 TOI042	dove anche il maestro parlava dialetto
 TOI042	io ho sentito ancora delle alunne che dicevano che
 TOI042	i parenti dicono che ancora oggi i professori del sud
-TOI043	parlano a volte in dialetto non lo so quindi figuriamoci una volta
-TOR001	sì sì sì sì
-TOI042	mhmhmh
+TOI042	parlano a volte in dialetto non lo so quindi figuriamoci una volta
+TOI043	sì sì sì sì
+TOR001	mhmhmh
 TOI042	e questi qui finivano
-TOI043	e e e e ne e poi uscivano ritardati da queste classi differenziali
+TOI042	e e e e ne e poi uscivano ritardati da queste classi differenziali
 TOI043	eh beh per forza
-TOR001	perché a forza di stare solo in quell'ambito lì e fare solo magari
-TOI042	mhmhmh
-TOI043	zitti
-TOR001	cose che non andavano bene per loro
-TOI042	certo
-TOI043	sì intrattenuti praticamente
-TOI042	eh sì
-TOI043	e se imparavano a fa~ a leggere e scrivere era tanto già
-TOR001	eh sì
-TOI042	mh mhmh
-TOR001	sì
-TOR001	beh ma anche perché
-TOI043	molto spesso capitava che salissero non sapendo l'italiano no
-TOR001	mh
-TOI042	quindi di conseguenza
-TOI043	sì
-TOI043	sì
+TOI043	perché a forza di stare solo in quell'ambito lì e fare solo magari
+TOR001	mhmhmh
+TOI042	zitti
+TOI043	cose che non andavano bene per loro
+TOR001	certo
+TOI042	sì intrattenuti praticamente
+TOI043	eh sì
+TOI042	e se imparavano a fa~ a leggere e scrivere era tanto già
+TOI043	eh sì
+TOR001	mh mhmh
 TOI042	sì
-TOR001	il più dei il problema era più che altro quello eh
+TOR001	beh ma anche perché
+TOR001	molto spesso capitava che salissero non sapendo l'italiano no
+TOI043	mh
+TOR001	quindi di conseguenza
+TOI042	sì
+TOI043	sì
+TOI043	sì
+TOI042	il più dei il problema era più che altro quello eh
 TOR001	va bene
-TOI042	eh certo
-TOR001	o abitudini da paesino che erano completamente
-TOI042	mhmh
+TOR001	eh certo
+TOI042	o abitudini da paesino che erano completamente
+TOR001	mhmh
 TOI042	abissalmente diverse da quelle di torino quindi l'incapacità di
-TOI043	assumere un atteggiamento
+TOI042	assumere un atteggiamento
 TOI043	io comunque
 TOI043	posso dire una cosa
 TOI043	che
 TOI043	purtro~ questa è una cosa che mi aveva veramente sconvolto cioè
-TOR001	quando io facevo io prima di andare venire al ho fatto la maestra per diversi anni
-TOI043	mhmh
+TOI043	quando io facevo io prima di andare venire al ho fatto la maestra per diversi anni
+TOR001	mhmh
 TOI043	l'anno prima di arrivare al
-TOI042	quindi stiamo parlando anno scolastico novantotto novantanove
-TOI043	sì di di poco fa insomma
+TOI043	quindi stiamo parlando anno scolastico novantotto novantanove
+TOI042	sì di di poco fa insomma
 TOI043	mh
 TOI043	che era arrivata una famiglia
 TOI043	dalla sicilia
 TOI043	la madre analfabeta
-TOI042	novantotto novantanove cioè firmava facendo la croce
-TOI043	eh sì
+TOI043	novantotto novantanove cioè firmava facendo la croce
+TOI042	eh sì
 TOI043	e il bambino
 TOI043	poi era stato segnalato ai servizi sociali
 TOI043	che noi stesse noi insegnanti avevamo detto ma secondo noi
-TOI042	non non non gli fanno niente no
+TOI043	non non non gli fanno niente no
 TOI042	xxx
-TOI043	no
+TOI042	no
 TOI043	perché dicevano che appunto che che che
 TOI043	perché probabilmente questa mamma che era una mamma molto giovane
 TOI043	il padre faceva il muratore era sempre fuori
@@ -2348,502 +2256,484 @@ TOI043	probabi~ da quello che avevamo capito era abituata giù
 TOI043	che aveva tutta la famiglia nonne zie
 TOI043	e parentame varia
 TOI043	che la aiutava a gestire il bambino
-TOR001	quando si è trovata qui da sola con questo bambino è andata un po' fuori
-TOI043	mhmhmh
-TOI042	per cui d~ l'avevano den~ mh denunciata ai servizi sociali perché
-TOI043	mh mh mh
+TOI043	quando si è trovata qui da sola con questo bambino è andata un po' fuori
+TOR001	mhmhmh
+TOI043	per cui d~ l'avevano den~ mh denunciata ai servizi sociali perché
+TOI042	mh mh mh
 TOI043	dice che praticamente lei tirava giù tutte le persiane e probabilmente
-TOR001	dava scapaccioni a questo bambino per farlo stare bravo no
-TOI042	mh
-TOI043	mh mh mh
+TOI043	dava scapaccioni a questo bambino per farlo stare bravo no
+TOR001	mh
+TOI042	mh mh mh
 TOI043	e mi ricordo che questo bambino
 TOI043	noi appunto avevamo il dubbio che avesse qualche
 TOI043	problema
 TOI043	perché parlava l'italiano però non non riconosceva i colori
-TOI042	e allora avevamo detto ma sarà
-TOI043	ah
+TOI043	e allora avevamo detto ma sarà
+TOI042	ah
 TOI043	come dire daltonico
 TOI043	in realtà no lui co~ ricono~ eh gli avevamo fatto vedere le matite
 TOI043	lui le distingueva non conosceva le parole
-TOI042	per indicare i colori
-TOI043	mh mh mh mh
-TOR001	sto parlando
-TOI043	wow
-TOR001	millenovecentonovantotto novantanove
-TOI043	mhmhmh
-TOR001	non sto parlando degli anni sessanta
-TOI043	mhmhmh
+TOI043	per indicare i colori
+TOI042	mh mh mh mh
+TOI043	sto parlando
+TOR001	wow
+TOI043	millenovecentonovantotto novantanove
+TOR001	mhmhmh
+TOI043	non sto parlando degli anni sessanta
+TOR001	mhmhmh
 TOI043	infatti mi ricordo che noi eravamo tutte
 TOI043	eh eppure evidentemente c'erano ancora
-TOI044	rarissimi ma casi di questo tipo
-TOR001	mh mh
-TOI043	mhmhmh
-TOR001	mh
+TOI043	rarissimi ma casi di questo tipo
+TOI044	mh mh
+TOR001	mhmhmh
+TOI043	mh
 TOR001	va bene
 TOR001	e negli ultimi anni vi sembra che sia cambiata torino
 TOR001	cioè nella nell'ultimo periodo
-TOI043	
 TOI043	ma sicuramente dopo le olimpiadi hanno fa~
-TOI044	cioè dalle olimpiadi hanno fatto un bel lavoro appunto di ristrutturazione come dicevamo
-TOI043	mh
+TOI043	cioè dalle olimpiadi hanno fatto un bel lavoro appunto di ristrutturazione come dicevamo
+TOI044	mh
 TOI043	per cui è più
-TOR001	sicuram~ sicuramente il centro è molto più bello molto più ben tenuto
-TOI043	mh mh mh
+TOI043	sicuram~ sicuramente il centro è molto più bello molto più ben tenuto
+TOR001	mh mh mh
 TOI043	molto più
-TOI042	vitale da quel lato lì sì
-TOI043	mh mh
-TOI044	e poi vabbè è chiaro che è aumentata l'immigrazione e quindi quello
+TOI043	vitale da quel lato lì sì
+TOI042	mh mh
+TOI043	e poi vabbè è chiaro che è aumentata l'immigrazione e quindi quello
 TOI044	la zona
 TOI044	la zona
-TOI043	quello è
-TOI044	con tutti i pro e contro
+TOI044	quello è
+TOI043	con tutti i pro e contro
 TOI044	un problema
-TOI043	del valentino per esempio
-TOI044	eh sì
-TOI043	zone che una volta erano frequentate da
-TOI044	eh
-TOI043	valentino in certe zone
-TOI044	eh sì
+TOI044	del valentino per esempio
+TOI043	eh sì
+TOI044	zone che una volta erano frequentate da
+TOI043	eh
+TOI044	valentino in certe zone
+TOI043	eh sì
 TOI044	adesso hanno cercato di fare questa notte bianca per
-TOI043	perché quello era veramente
-TOI044	infatti per qualificarlo eh
-TOI043	un ehm un luogo di tutti
-TOI044	eh sì
-TOI043	adesso
-TOI044	eh sì esatto
+TOI044	perché quello era veramente
+TOI043	infatti per qualificarlo eh
+TOI044	un ehm un luogo di tutti
+TOI043	eh sì
+TOI044	adesso
+TOI043	eh sì esatto
 TOI044	si son calm~ cioè quel
-TOI043	ci sono delle zone
+TOI044	ci sono delle zone
 TOI043	che si sono molto degrada~
 TOI043	al~ cioè alcune che si sono molto valorizzate
 TOI043	come dicevo prima per il quadrilatero
 TOI043	e altre che si sono molto degradate
-TOI044	come come appunto valentino mh
+TOI043	come come appunto valentino mh
 TOI044	cioè xxx questa
-TOI043	specialmente una zona di quel tipo lì
+TOI044	specialmente una zona di quel tipo lì
 TOI043	mh
-TOI044	eh
-TOI043	che non è al di là del
-TOI044	eh sì
-TOI043	xxx to
-TOR001	eh infatti
-TOI043	
+TOI043	eh
+TOI044	che non è al di là del
 TOI043	eh sì
-TOI044	mh
-TOI043	e quindi
-TOI044	mh
-TOI043	quello è veramente un una mh
-TOI044	mh
+TOI044	xxx to
+TOI043	eh infatti
+TOI043	eh sì
+TOI043	mh
+TOI044	e quindi
+TOI043	mh
+TOI044	quello è veramente un una mh
+TOI043	mh
 TOI044	una lotta nel senso che
-TOI043	hanno preso possesso e non
+TOI044	hanno preso possesso e non
 TOI043	eh sì
 TOI043	sì e poi sicuramente il fatto che torino non sia più città industriale
 TOI043	ha cambiato tantissimo tutto
 TOI043	perché comunque
 TOI043	da un lato
-TOR001	era sicuramente una città più grigia torino prima perché
-TOI043	mh
+TOI043	era sicuramente una città più grigia torino prima perché
+TOR001	mh
 TOI043	era appunto
-TOI042	c'era molto meno luoghi di divertimento
+TOI043	c'era molto meno luoghi di divertimento
 TOI042	c'era più lavoro
-TOI043	ah ah
+TOI042	ah ah
 TOI043	però c'era il lavoro
 TOI043	adesso eh
 TOI043	sì hanno tentato di riqualificarla come città turistica
-TOI044	in parte pare che funzioni perché comunque i flussi sono cresciuti
+TOI043	in parte pare che funzioni perché comunque i flussi sono cresciuti
 TOI044	sì sì sì
-TOI042	il centro sicuramente cioè
-TOI043	eh però pf
+TOI044	il centro sicuramente cioè
+TOI042	eh però pf
 TOI043	però non è sufficiente per
-TOI042	per per colmare
-TOR001	ah sì
-TOI043	mhmhmhmh
+TOI043	per per colmare
+TOI042	ah sì
+TOR001	mhmhmhmh
 TOI043	il divario
 TOI043	da da quando
-TOI042	c'erano tutte le le attività industriali che c'erano prima
-TOI043	che creava una sicurezza perché
-TOI042	eh
-TOI043	pensa a tutto il movimento di operai per strada tutta la notte
-TOI042	sì
-TOI043	non che però era
+TOI043	c'erano tutte le le attività industriali che c'erano prima
+TOI042	che creava una sicurezza perché
 TOI043	eh
-TOI042	mh
-TOI043	tutta brava gente che comunque incrociava
+TOI042	pensa a tutto il movimento di operai per strada tutta la notte
+TOI043	sì
+TOI042	non che però era
+TOI043	eh
 TOI043	mh
-TOI042	mh
+TOI042	tutta brava gente che comunque incrociava
+TOI043	mh
+TOI043	mh
 TOI042	zone di torino e quindi
-TOI043	minimamente al sicuro lo eri
-TOI042	eh sì
-TOI043	perché c'era sempre un po' a tutte le ore c'era gente in strada
-TOI042	sì e poi è proprio una questione psicologica no
-TOI043	sì
-TOI042	cioè se se una città che comunque si sente produttiva
+TOI042	minimamente al sicuro lo eri
+TOI043	eh sì
+TOI042	perché c'era sempre un po' a tutte le ore c'era gente in strada
+TOI043	sì e poi è proprio una questione psicologica no
+TOI042	sì
+TOI043	cioè se se una città che comunque si sente produttiva
 TOI042	mh
-TOI043	sì
+TOI042	sì
 TOI043	vitale che ha una una certa sicurezza di base
-TOR001	si reagisce anche diversamente mentre
-TOI043	certo
+TOI043	si reagisce anche diversamente mentre
+TOR001	certo
 TOI043	invece è chiaro che se c'è tutta questa
-TOI044	eh in~ diciamo incertezza precarietà
-TOI043	c'è molta aggressività repressa
+TOI043	eh in~ diciamo incertezza precarietà
+TOI044	c'è molta aggressività repressa
 TOI043	c'è
-TOI044	sì sì appunto si scatena molta agressività repressa
+TOI043	sì sì appunto si scatena molta agressività repressa
 TOI044	la percepisci
-TOI042	eh molta
-TOI043	maleducazione gratuita
-TOI044	tantissima
-TOI043	gente molto nervosa anche sui
+TOI044	eh molta
+TOI042	maleducazione gratuita
+TOI043	tantissima
+TOI044	gente molto nervosa anche sui
 TOI043	esatto
 TOI043	infatti
-TOI044	cioè anche il discorso appunto del dell'immigrazione
-TOI043	cioè non il discorso
+TOI043	cioè anche il discorso appunto del dell'immigrazione
+TOI044	cioè non il discorso
 TOI043	io non sono assolutamente convinta che siano tutti delinquenti
 TOI043	però il problema è chiaro che
 TOI043	in una situazione
 TOI043	così di di di di tensione di precarietà
-TOI044	tutto diventa
-TOI043	e poi ci sono le cose a xxx tipo
-TOI044	una bomba pronta a scoppiare no
-TOI043	nei giardini questi immigrati
-TOI044	eh
+TOI043	tutto diventa
+TOI044	e poi ci sono le cose a xxx tipo
+TOI043	una bomba pronta a scoppiare no
+TOI044	nei giardini questi immigrati
+TOI043	eh
 TOI044	di colore che per esempio io che porto il cane
 TOI044	che stanno cercando di
-TOI043	sai che quelli
-TOI044	di pulire
+TOI044	sai che quelli
 TOI043	di pulire
-TOI044	sì sì sì sì sì eh
-TOI042	e questo è un nuovo fenomeno che sta venendo nella mia zona
-TOI043	sì
+TOI044	di pulire
+TOI043	sì sì sì sì sì eh
+TOI044	e questo è un nuovo fenomeno che sta venendo nella mia zona
+TOI042	sì
 TOI043	eh
 TOI043	eh sì
-TOI044	eh sì sì sì sì sì sì
+TOI043	eh sì sì sì sì sì sì
 TOI044	ragazzi che
-TOI043	eh si mettono lì mettono raccolgono
+TOI044	eh si mettono lì mettono raccolgono
 TOI043	sì
-TOI042	e magari ti mettono la ciotola dicendo io cerco di integrarmi
-TOI044	sì sì sì sì
-TOR001	~armi eccetera con questi
-TOI043	mhmhmh
+TOI043	e magari ti mettono la ciotola dicendo io cerco di integrarmi
+TOI042	sì sì sì sì
+TOI044	~armi eccetera con questi
+TOR001	mhmhmh
 TOI043	datemi qualcosa eh
-TOI044	eh sì
-TOI043	cartelli che non so chi è
-TOI044	eh sì esatto eh
-TOI043	che li ha confezionato non loro di sicuro perché
+TOI043	eh sì
+TOI044	cartelli che non so chi è
+TOI043	eh sì esatto eh
+TOI044	che li ha confezionato non loro di sicuro perché
 TOI043	eh
 TOI043	eh non loro eh
-TOI044	e loro eh cercano sì
+TOI043	e loro eh cercano sì
 TOI044	e
-TOI043	e c'è questa
-TOI044	anche piazza bernini ce n'era uno poi non l'ho più visto
-TOI043	sì ma cioè lo stanno facendo a tutti i giardini che ci sono nella mia zona da
-TOI042	eh sì sì sì sì
-TOI044	sì perché hanno capito che ai torinesi dà fastidio quello con il cappello con il piattino
-TOI043	che fa anche un po' tenerezza questa cosa
+TOI044	e c'è questa
+TOI043	anche piazza bernini ce n'era uno poi non l'ho più visto
+TOI044	sì ma cioè lo stanno facendo a tutti i giardini che ci sono nella mia zona da
+TOI043	eh sì sì sì sì
+TOI042	sì perché hanno capito che ai torinesi dà fastidio quello con il cappello con il piattino
+TOI044	che fa anche un po' tenerezza questa cosa
 TOI043	eh sì
-TOI042	che non fa niente
+TOI043	che non fa niente
 TOI042	allora
-TOI044	fanno scena
-TOI043	davanti ai supermercati
-TOI042	eh sì
+TOI042	fanno scena
+TOI044	davanti ai supermercati
+TOI043	eh sì
 TOI042	si fanno trovare con una scopa a far finta di xxx
-TOI044	sì
-TOI043	no lo fanno eh lo fanno anche
-TOI042	no lo fanno anche
-TOI044	sì sì lo fa~
-TOI043	dovremmo anche mettergli come si dice
-TOI042	eh
-TOI044	ma io qualche volta ho messo qualcosa xxx quello
+TOI042	sì
+TOI044	no lo fanno eh lo fanno anche
+TOI043	no lo fanno anche
+TOI042	sì sì lo fa~
+TOI044	dovremmo anche mettergli come si dice
+TOI043	eh
+TOI042	ma io qualche volta ho messo qualcosa xxx quello
 TOI044	i sacchi no ma quello sì ma i sacchi
-TOI043	perché xxx solo non serve
-TOI042	certo
-TOI043	sì
-TOI042	eh sì
-TOI043	sì non è un pericolo
-TOI044	eh
+TOI044	perché xxx solo non serve
+TOI043	certo
+TOI042	sì
+TOI043	eh sì
+TOI042	sì non è un pericolo
+TOI043	eh
 TOI044	dovremmo
 TOI044	eh
 TOI044	per esempio eh
-TOR001	una sorta di controllo sociale noi caninari che abbiamo il cane
-TOI043	
-TOI044	sì sì certo lo esercitate
-TOI043	perché controlliamo la situazione io
-TOI044	eh sì
-TOI043	ho mh degli amici al xxx
-TOI044	mh
-TOI043	cioè tu riesci a vedere anche com'è la
+TOI044	una sorta di controllo sociale noi caninari che abbiamo il cane
+TOI043	sì sì certo lo esercitate
+TOI044	perché controlliamo la situazione io
+TOI043	eh sì
+TOI044	ho mh degli amici al xxx
+TOI043	mh
+TOI044	cioè tu riesci a vedere anche com'è la
 TOI043	sì sì sì sì sì sì sì
-TOI044	eh sì
+TOI043	eh sì
 TOI044	perché mh giardini abban~ che non sono frequentati da nessuno
-TOI043	diventano terra di nessuno
-TOR001	eh sì sì luoghi di di di di infatti
-TOI044	certo
-TOI043	invece se c'è un tessuto che controlla
-TOI042	sì
-TOI043	sì quelli con il cane stanno anche sì
-TOI044	infatti
-TOI043	anche a reprimere un po' determinati atteggiamenti
-TOI044	eh sì
-TOI043	che non sono degli extracomunitari
-TOI044	no no no ma sono anche dei nostri certo certo
+TOI044	diventano terra di nessuno
+TOI043	eh sì sì luoghi di di di di infatti
+TOR001	certo
+TOI044	invece se c'è un tessuto che controlla
+TOI043	sì
+TOI042	sì quelli con il cane stanno anche sì
+TOI043	infatti
+TOI044	anche a reprimere un po' determinati atteggiamenti
+TOI043	eh sì
+TOI044	che non sono degli extracomunitari
+TOI043	no no no ma sono anche dei nostri certo certo
 TOI044	ma sono dei nostri ragazzi
-TOI043	che devi riprendere perché d'estate diventa xxx cioè
+TOI044	che devi riprendere perché d'estate diventa xxx cioè
 TOI043	eh sì
-TOI044	eh ma sì perché d'estate le bottiglie di tutto di più
-TOI042	lasciano bottiglie e tutto e quelli
-TOI043	sì la maleducazione è molto cresciuta
+TOI043	eh ma sì perché d'estate le bottiglie di tutto di più
+TOI044	lasciano bottiglie e tutto e quelli
+TOI042	sì la maleducazione è molto cresciuta
 TOI043	eh sì
-TOI044	sì
-TOI042	cioè anche quello un controllo sociale di questo tipo è importante
-TOI043	questo tra gli italiani xxx
-TOI042	sì sì
-TOI043	sono più maleducati gli italiani che
-TOI042	per esempio mi diceva quella mia amica sempre la gattara
+TOI043	sì
+TOI044	cioè anche quello un controllo sociale di questo tipo è importante
+TOI042	questo tra gli italiani xxx
+TOI043	sì sì
+TOI042	sono più maleducati gli italiani che
+TOI043	per esempio mi diceva quella mia amica sempre la gattara
+TOI042	mhmh
 TOR001	mhmh
-TOI043	mhmh
 TOI043	che appunto proprio perché
 TOI043	a un certo punto era diventato invivibile
 TOI043	proprio per il fatto che c'erano le le risse tra bande rivali
 TOI043	avevano proprio adottato quell'accusa lì
 TOI043	siccome c'erano parecchi che avevano dei cani di quelli grossi eh
-TOI044	allora si erano messi d'accordo
-TOI043	io la mia è una cagnona però ha paura
-TOI044	e facevano una specie di ronda con i cani
-TOI042	
-TOI044	
-TOI042	ma è vero è vero ma serve eh
-TOI043	sì sì
-TOI044	no
-TOI043	perché non sembra ma ci troviamo un coso
-TOI042	e dice che comunque
-TOI043	funziona
+TOI043	allora si erano messi d'accordo
+TOI044	io la mia è una cagnona però ha paura
+TOI043	e facevano una specie di ronda con i cani
+TOI044	ma è vero è vero ma serve eh
+TOI042	sì sì
+TOI043	no
+TOI044	perché non sembra ma ci troviamo un coso
+TOI043	e dice che comunque
+TOI042	funziona
 TOI043	si erano spostati eh era servito
-TOI044	perché sai cominci a vederti
-TOR001	era s~
-TOI043	certo
-TOI044	tutto una bestioni così che va su e giù
-TOI043	poi il peggio io non lo sapevo i cani
+TOI043	perché sai cominci a vederti
+TOI044	era s~
+TOR001	certo
+TOI043	tutto una bestioni così che va su e giù
+TOI044	poi il peggio io non lo sapevo i cani
 TOI043	eh
-TOI044	mh
+TOI043	mh
 TOI044	non ama cioè perché cioè mh
-TOI043	hanno un po' di ostilità nei quelli di di colore
+TOI044	hanno un po' di ostilità nei quelli di di colore
 TOI043	mh
 TOI043	mh
 TOI043	mhmh
-TOI044	mh ah non lo sapevo
-TOI043	non so per~ sì
-TOI044	mhmh
-TOI043	io non lo sapevo neanche in effetti
-TOI044	eheh
-TOI042	ma non perché cioè da mh
-TOI043	mah
-TOI044	sì sì sì
+TOI043	mh ah non lo sapevo
+TOI044	non so per~ sì
+TOI043	mhmh
+TOI044	io non lo sapevo neanche in effetti
+TOI043	eheh
+TOI044	ma non perché cioè da mh
+TOI042	mah
+TOI043	sì sì sì
 TOI044	hanno così xxx
-TOI043	poi dopo che un ragazzo di colore che fa il dogsitter
-TOI044	sì sì sì sì
-TOI043	ci ha spiegato questa cosa no
-TOI042	c'ha eh eh
-TOI043	deve essere l'odore del sudore
-TOI044	probabilmente l'odore della pelle che è diverso
-TOI042	non lo so ci spiegava che lui si spaventa quando
-TOI043	sì
-TOI042	magari non sono abituati
-TOI043	dell'odore probabilmente è l'odore della tras~ sì
-TOI044	eh già
-TOI042	perché è naturale che i cani questo ragazzo
-TOI043	perché
-TOI044	sì sì sì sì sì che
-TOI043	ed è anche una forma di aggre~ io conosco un mucchio di gente che ha eh di varie
+TOI044	poi dopo che un ragazzo di colore che fa il dogsitter
+TOI043	sì sì sì sì
+TOI044	ci ha spiegato questa cosa no
+TOI043	c'ha eh eh
+TOI042	deve essere l'odore del sudore
+TOI043	probabilmente l'odore della pelle che è diverso
+TOI044	non lo so ci spiegava che lui si spaventa quando
+TOI042	sì
+TOI043	magari non sono abituati
+TOI042	dell'odore probabilmente è l'odore della tras~ sì
 TOI043	eh già
-TOI044	sì sì
-TOI043	nazionalità che hanno i cani
-TOI044	eh sì eh sì eh sì sìsì è vero
-TOR001	ci siamo conosciuti
-TOI044	
-TOI043	una forma di atte~ di integrazione di controllo diverso questo no
+TOI044	perché è naturale che i cani questo ragazzo
+TOI042	perché
+TOI043	sì sì sì sì sì che
+TOI044	ed è anche una forma di aggre~ io conosco un mucchio di gente che ha eh di varie
+TOI043	eh già
+TOI043	sì sì
+TOI044	nazionalità che hanno i cani
+TOI043	eh sì eh sì eh sì sìsì è vero
+TOI044	ci siamo conosciuti
+TOI044	una forma di atte~ di integrazione di controllo diverso questo no
 TOI043	di eh certo
-TOI044	eh sì eh sì sì mh
-TOI043	e questa è una cosa che da quando
-TOI044	è una cosa bella infatti
-TOI043	sì perché io c'ho il cane da due anni non
-TOI044	eh sì
-TOI042	non l'ave~ cioè
-TOI044	è l'odore della pelle probabilmente
-TOI043	prima era diverso
-TOI044	infatti anche perché appunto sono ronde come dire assolutamente non violente
-TOI043	
-TOR001	non vai a fare il
-TOI044	
-TOI043	no io ho delle amiche cioè conosco un mucchio di gente
+TOI043	eh sì eh sì sì mh
+TOI044	e questa è una cosa che da quando
+TOI043	è una cosa bella infatti
+TOI044	sì perché io c'ho il cane da due anni non
+TOI043	eh sì
+TOI044	non l'ave~ cioè
+TOI042	è l'odore della pelle probabilmente
+TOI044	prima era diverso
+TOI043	infatti anche perché appunto sono ronde come dire assolutamente non violente
+TOI043	non vai a fare il
+TOI044	no io ho delle amiche cioè conosco un mucchio di gente
 TOI043	il il vigilante
-TOI044	porti a spasso il cane però intanto
-TOI043	conosci un mucchio di gente io ho conosciuto un mucchio di gente del quartiere che manco xxx con il cane
+TOI043	porti a spasso il cane però intanto
+TOI044	conosci un mucchio di gente io ho conosciuto un mucchio di gente del quartiere che manco xxx con il cane
 TOI043	eh
 TOI043	fai sì sì sì sì
 TOI043	eh già
-TOI044	certo
+TOI043	certo
 TOI044	cioè una è pazzesco cioè
-TOI043	anche persone anziane isolate sono diventate del gruppo
-TOI044	sì sì sì
-TOI043	noi ci troviamo la sera
-TOI044	eh già
-TOI043	al mattino presto prima di andare a lavo~ xxx
-TOR001	eh già
-TOI043	
-TOI044	eh certo eh certo
-TOI043	ma è vero eh è una cosa xxx
-TOI042	eh sì
-TOI044	sì la mattina ci sono le mamme che parlano dei bambini la sera
-TOI043	curiosa
-TOI042	eh
-TOI044	i canettieri che parlano del cane
-TOI043	
-TOI044	
-TOI042	van tutti alla pellerina
-TOI044	il mio cane è diventato stitico sai queste cose no
-TOI043	
-TOI044	
-TOI042	però è un modo perché ci sono di tutte le classi sociali e di tutti xxx cioè
-TOI043	
+TOI044	anche persone anziane isolate sono diventate del gruppo
+TOI043	sì sì sì
+TOI044	noi ci troviamo la sera
+TOI043	eh già
+TOI044	al mattino presto prima di andare a lavo~ xxx
+TOI043	eh già
+TOI043	eh certo eh certo
+TOI044	ma è vero eh è una cosa xxx
+TOI043	eh sì
+TOI042	sì la mattina ci sono le mamme che parlano dei bambini la sera
+TOI044	curiosa
+TOI043	eh
+TOI042	i canettieri che parlano del cane
+TOI044	van tutti alla pellerina
+TOI042	il mio cane è diventato stitico sai queste cose no
+TOI044	però è un modo perché ci sono di tutte le classi sociali e di tutti xxx cioè
 TOI043	eh certo
-TOI044	eh sì
-TOI043	però dai xxx
-TOI044	eh sì
+TOI043	eh sì
+TOI044	però dai xxx
+TOI043	eh sì
 TOI044	ci sono dei sudamericani che hanno una passione pazzesca per i cani
 TOI044	che vengono lì con noi xxx che
-TOI042	discutiamo parliamo da dove vieni tu che
-TOI044	
+TOI044	discutiamo parliamo da dove vieni tu che
 TOI044	eh
-TOI043	è interessante lì al al santus lì
+TOI044	è interessante lì al al santus lì
 TOI043	eh sì
-TOI044	sì sì sì sì sì
-TOI043	quello è un bel giardino
-TOI044	eh sì
-TOR001	
-TOI043	vi chiedo l'ultima cosa
-TOR001	sì
+TOI043	sì sì sì sì sì
+TOI044	quello è un bel giardino
+TOI043	eh sì
+TOR001	vi chiedo l'ultima cosa
+TOI043	sì
 TOR001	cioè
 TOR001	lavorando lavorando a scuola quindi vedendo
 TOR001	tutto sommato generazioni che si passano
-TOI043	che idea vi siete fatti del cambiamento della città
+TOR001	che idea vi siete fatti del cambiamento della città
 TOI043	uh uh allora
 TOI043	cambiamento della città devo dire che noi essendo un liceo
 TOI043	per esempio di
-TOI042	tanta immigrazione non ne abbiamo molta
-TOI043	mh mh mh
-TOI044	abbiamo soprattutto
-TOI043	limitata
+TOI043	tanta immigrazione non ne abbiamo molta
+TOI042	mh mh mh
+TOI043	abbiamo soprattutto
+TOI044	limitata
 TOI043	magari ragazze del che vengono dell'est eccetera ma
-TOR001	ma assolutamente
-TOI042	mhmh mhmh
-TOI043	le migliori
-TOI042	totalmente integrate le migliori
-TOI043	sì quelle più no
-TOI044	anche appunto qualche
-TOI043	hanno fatto le elementari le medie la maggior parte
-TOI042	qualcuna che viene magari dal dal maghreb
-TOI043	sì
-TOI044	ma anche lì sono assolutamente integrate cioè non
-TOI043	poche
+TOI043	ma assolutamente
+TOR001	mhmh mhmh
+TOI042	le migliori
+TOI043	totalmente integrate le migliori
+TOI042	sì quelle più no
+TOI043	anche appunto qualche
+TOI044	hanno fatto le elementari le medie la maggior parte
+TOI043	qualcuna che viene magari dal dal maghreb
+TOI042	sì
+TOI043	ma anche lì sono assolutamente integrate cioè non
+TOI044	poche
 TOI043	praticamente
-TOI044	problemi da quel tipo lì non di di quel tipo non ne abbiamo praticamente
-TOR001	no noi abbiamo ancora limita~ pochi ce ne sono
-TOI043	mhmhmh
+TOI043	problemi da quel tipo lì non di di quel tipo non ne abbiamo praticamente
+TOI044	no noi abbiamo ancora limita~ pochi ce ne sono
+TOR001	mhmhmh
 TOI043	esatto proprio limitato
 TOI043	se poi dovessimo andare ad analizzare
 TOI043	ma questo è meglio che non lo facciamo perché non c'entra con la città
-TOI042	il livello calato ma quello è un altro paio di maniche
-TOI044	sì sì
+TOI043	il livello calato ma quello è un altro paio di maniche
+TOI042	sì sì
 TOI044	no no no
-TOI043	sì sì cioè al liceo c'è solo poi il nome eh
-TOI044	esatto però non non c'entra con torino
+TOI044	sì sì cioè al liceo c'è solo poi il nome eh
+TOI043	esatto però non non c'entra con torino
 TOI044	facciamo finta
-TOI043	facciamo finta ormai
-TOI044	facciamo finta di essere un liceo esatto ma
+TOI044	facciamo finta ormai
+TOI043	facciamo finta di essere un liceo esatto ma
 TOI044	facciamo finta
-TOI043	io certe volte mi vergogno ma
-TOI044	ma questo è un altro discorso
-TOI043	lasciamo perdere cioè
-TOI044	esatto non c'entra né l'immigrazione
-TOI043	spero che finisca il più presto possibile xxx
+TOI044	io certe volte mi vergogno ma
+TOI043	ma questo è un altro discorso
+TOI044	lasciamo perdere cioè
+TOI043	esatto non c'entra né l'immigrazione
+TOI044	spero che finisca il più presto possibile xxx
 TOI043	né torino
-TOI044	né né nient'altro c'entra proprio
-TOI043	ho l'angoscia ancora
+TOI043	né né nient'altro c'entra proprio
+TOI044	ho l'angoscia ancora
 TOI043	il il livello di ignoranza progressiva
 TOI043	nel quale ci troviamo a vivere ma
-TOI044	non non non c'entra con l'argomento
-TOR001	no no no no
-TOI043	nì nel senso sono sempre persone che vivono
-TOR001	eh
-TOI043	cioè contesto senza
-TOR001	sì
-TOI043	non non voglio farvi parlare di casi specifici ma in generale che mh che percezione avete
+TOI043	non non non c'entra con l'argomento
+TOI044	no no no no
+TOR001	nì nel senso sono sempre persone che vivono
+TOI043	eh
+TOR001	cioè contesto senza
+TOI043	sì
+TOR001	non non voglio farvi parlare di casi specifici ma in generale che mh che percezione avete
 TOI043	eh
 TOI043	ma allora da noi devo dire
-TOI044	soprattutto nello scienze umane perché già nel linguistico è già un po' diverso forse
-TOI043	no è caduto è caduto anche lì eh
-TOI044	però è caduto anche il linguistico mh
+TOI043	soprattutto nello scienze umane perché già nel linguistico è già un po' diverso forse
+TOI044	no è caduto è caduto anche lì eh
+TOI043	però è caduto anche il linguistico mh
 TOI044	è crollato perché più che altro quelli che vengono dal linguistico
 TOI044	la lingua che conoscono cioè il
-TOI042	peggio del peggio è l'italiano io trovo una
-TOR001	
-TOI044	
-TOI043	vabbè che parlino solo il resto perché basta che non dicano niente in italiano
-TOI044	sì sì sì sì
+TOI044	peggio del peggio è l'italiano io trovo una
+TOI044	vabbè che parlino solo il resto perché basta che non dicano niente in italiano
+TOI043	sì sì sì sì
 TOI044	perché più che le crocette i compiti che riesci ad avere sufficiente
 TOI044	qu~ qualche volta sono con le crocette
 TOI044	perché
 TOI044	quindi
-TOI043	io trovo un proprio un xxx con l'italiano
+TOI044	io trovo un proprio un xxx con l'italiano
 TOI043	però appunto non c'entra né con l'immigrazione né con nie~
-TOI042	cioè questi sono italiani di madrelingua italiana con i genitori italiani ma
-TOR001	no
-TOI044	mhmhmh
+TOI043	cioè questi sono italiani di madrelingua italiana con i genitori italiani ma
+TOI042	no
+TOR001	mhmhmh
 TOI044	no sono mezzo e mezzo perché insomma
-TOI043	cioè sono anche perché mol~ c'è molto misto adesso
+TOI044	cioè sono anche perché mol~ c'è molto misto adesso
 TOI043	eh
-TOR001	sì c'è molto misto quello sì
-TOI042	mhmhmh
-TOI044	sì ma no
+TOI043	sì c'è molto misto quello sì
+TOR001	mhmhmh
+TOI042	sì ma no
 TOI044	quindi te ne accorgi
 TOI044	che
 TOI044	eh
-TOI043	ormai le coppie miste che hanno figli che vengono xxx
-TOI042	sì quello è vero
-TOI044	comunque io ho visto
-TOI042	e anche lì perché crolla l'italiano xxx
-TOI043	io comunque ho visto delle ragazze xxx
-TOI044	quello xxx
-TOR001	specialmente per la madre straniera
-TOI043	mh mh
-TOI044	mh
-TOI043	io trovo ho ho percepito quello
+TOI044	ormai le coppie miste che hanno figli che vengono xxx
+TOI043	sì quello è vero
+TOI042	comunque io ho visto
+TOI044	e anche lì perché crolla l'italiano xxx
+TOI042	io comunque ho visto delle ragazze xxx
+TOI043	quello xxx
+TOI044	specialmente per la madre straniera
+TOR001	mh mh
+TOI043	mh
+TOI044	io trovo ho ho percepito quello
 TOI043	sì
-TOI044	sì
+TOI043	sì
 TOI044	se la madre è straniera
-TOI043	eh sì xxx
+TOI044	eh sì xxx
 TOI043	si nota di più perché la madrelingua probabilmente con la madre
-TOI042	parla entrambe e quindi per cui si crea un po' di confusione
+TOI043	parla entrambe e quindi per cui si crea un po' di confusione
 TOI042	ma è in calo eh però l'uso della lingua non italiana
 TOI042	eh io vabbè adesso sono in pensione ma da pochissimo
 TOI042	uno
 TOI042	mi è capitato
 TOI042	qualche volta di vedere delle ragazze eh
 TOI042	native della romania che prendevano
-TOI044	in italiano voti più alti di ragazze italiane
-TOI043	sì questo sì
-TOI044	sì quello sì
-TOI042	er~ la i rumeni sì
-TOI044	questo mi è capitato
-TOI043	i rumeni tantissimo
-TOI042	sì sì
-TOI044	e
-TOI043	perché hanno una voglia di di primeggiare molto forte
-TOI042	eh
-TOI043	sì
-TOI042	infatti molto forte
-TOI044	e poi
-TOI042	molto competitivi
-TOI043	comunque a livello di famiglie
+TOI042	in italiano voti più alti di ragazze italiane
+TOI044	sì questo sì
+TOI043	sì quello sì
+TOI044	er~ la i rumeni sì
+TOI042	questo mi è capitato
+TOI044	i rumeni tantissimo
+TOI043	sì sì
+TOI042	e
+TOI044	perché hanno una voglia di di primeggiare molto forte
+TOI043	eh
 TOI042	sì
+TOI043	infatti molto forte
+TOI042	e poi
+TOI044	molto competitivi
+TOI042	comunque a livello di famiglie
+TOI043	sì
 TOI042	e di mh
 TOI042	come dire
 TOI042	di integrazione avanzata
@@ -2851,112 +2741,108 @@ TOI042	non è forse il caso prevalente però
 TOI042	è una casistica più che sensibile
 TOI042	quelle in cui
 TOI042	eh l'adolescente
-TOR001	parla in italiano con la sorella con il fratello e a volte anche con i genitori
-TOI042	mhmhmh
+TOI042	parla in italiano con la sorella con il fratello e a volte anche con i genitori
+TOR001	mhmhmh
 TOI042	per cui mi è capitato
 TOI042	di s~ trovare delle ragazze che dicono di avere difficoltà
-TOR001	a parlare in rumeno
-TOI042	mhmh
-TOI043	più quello che lo capiscono che quello che lo parlano
+TOI042	a parlare in rumeno
+TOR001	mhmh
+TOI042	più quello che lo capiscono che quello che lo parlano
 TOI043	sì sì perché la perdono
-TOI042	lo perdono non andando più
+TOI043	lo perdono non andando più
 TOI042	quelle
-TOI043	non tante ma c'è chi
-TOI042	mh
-TOI043	mi ha detto di parlare italiano con la sorella
-TOI042	sì sì
-TOR001	a volte anche addirittura con con con la madre
-TOI043	mhmhmh
-TOI042	mh
-TOI043	qualcuna
-TOI042	sì sì
+TOI042	non tante ma c'è chi
+TOI043	mh
+TOI042	mi ha detto di parlare italiano con la sorella
+TOI043	sì sì
+TOI042	a volte anche addirittura con con con la madre
+TOR001	mhmhmh
+TOI043	mh
+TOI042	qualcuna
+TOI043	sì sì
 TOI042	addirittura dice di esse~ dice
 TOI042	mi ricordo una
 TOI042	molto bene che che eh
 TOI042	diceva io sono di lecce che a me
-TOR001	quella quella era una al~ una greco albanese
-TOI042	
+TOI042	quella quella era una al~ una greco albanese
 TOI042	però lei eh
-TOR001	di~ diceva di essere italiana
-TOI042	mh mh
+TOI042	di~ diceva di essere italiana
+TOR001	mh mh
 TOI042	anche perché aveva la fortuna di avere un cognome un po' mimetico
 TOI042	di parlare
 TOI042	benissimo italiano quindi
-TOR001	poteva mentire spudoratamente
-TOI042	
-TOI043	è una casistica che c'è eh questa
+TOI042	poteva mentire spudoratamente
+TOI042	è una casistica che c'è eh questa
 TOI043	sì ma poi mh molte in effetti l'hanno persa
 TOI043	perché magari non andando più
-TOI042	appunto in famiglia parlano ormai italiano
-TOI043	mh mh
+TOI043	appunto in famiglia parlano ormai italiano
+TOI042	mh mh
 TOI043	magari i parenti che sono rimasti
 TOI043	eh li vedono una volta ogni chissà quanto per cui
-TOI042	un po' come si perde il dialetto l'hanno perso
-TOI043	questa parlava l'italiano con i suoi tanto per dire
+TOI043	un po' come si perde il dialetto l'hanno perso
+TOI042	questa parlava l'italiano con i suoi tanto per dire
 TOI043	eh
-TOR001	sì sì infatti
-TOI042	mhmhmh
-TOI043	parla italiano con i suoi questa
+TOI043	sì sì infatti
+TOR001	mhmhmh
+TOI042	parla italiano con i suoi questa
 TOI043	parlando invece appunto di
 TOI043	italiani italiani diciamo che
 TOI043	da noi il livello
 TOI043	socioculturale è
 TOI043	medio basso
 TOI043	no
-TOI042	cioè come come utenza rispetto a quella di un classico o di uno scientifico
-TOI043	mh mh mh mh
+TOI043	cioè come come utenza rispetto a quella di un classico o di uno scientifico
+TOI042	mh mh mh mh
 TOI043	per cui il problema è che spesso
 TOI043	per carità pur essendo ass~ italianissimi
 TOI043	avendo fatto tutte le scuole italiane
 TOI043	avendo i genitori italiani
-TOI044	hanno una povertà lessicale impressionante
+TOI043	hanno una povertà lessicale impressionante
 TOI044	eh
-TOI043	quello
-TOI044	cioè sempre peggio
-TOI043	terrificante terrificante
+TOI044	quello
+TOI043	cioè sempre peggio
+TOI044	terrificante terrificante
 TOI043	poi vabbè ovviamente ci aggiungi
-TOI042	i social e compagnia e quindi
-TOI044	sì
-TOI043	cioè
-TOI044	il problema fondamentale è quello
-TOI042	non riescono
-TOI044	e scrivono come su whatsapp
-TOI043	a scrivere tre righe senza errori di di
+TOI043	i social e compagnia e quindi
+TOI042	sì
+TOI044	cioè
+TOI043	il problema fondamentale è quello
+TOI044	non riescono
+TOI042	e scrivono come su whatsapp
+TOI044	a scrivere tre righe senza errori di di
 TOI043	è sempre peggio è sempre peggio
-TOI044	esatto
-TOI043	di c~ come si dice di punteggia~ qualsiasi co~ cioè non
+TOI043	esatto
+TOI044	di c~ come si dice di punteggia~ qualsiasi co~ cioè non
 TOI043	però ripeto lì non c'entra
-TOR001	né con il territorio è proprio un problema
-TOI042	mhmhmh
-TOI043	no proprio non c'entra
+TOI043	né con il territorio è proprio un problema
+TOR001	mhmhmh
+TOI042	no proprio non c'entra
+TOI043	generale
 TOR001	generale
-TOI044	generale
-TOI043	non generale
-TOI044	eh sì
-TOR001	dovremmo essere sottotitolati cioè non
-TOI042	
-TOI044	
-TOI042	qualsiasi cosa che tu d~
-TOI044	xxx
+TOI044	non generale
+TOI043	eh sì
+TOI044	dovremmo essere sottotitolati cioè non
+TOI044	qualsiasi cosa che tu d~
+TOI042	xxx
 TOI044	insomma non lo capiscono
-TOI043	cioè io lo devo sempre dire in due modi diversi
-TOI042	sì sì sì sì lo devi devi devi es~ esplicitare tutto
-TOI044	ah sì sì sì
-TOI043	cioè qualsiasi parola xxx
-TOI042	non dare nulla per scontato
+TOI044	cioè io lo devo sempre dire in due modi diversi
+TOI043	sì sì sì sì lo devi devi devi es~ esplicitare tutto
+TOI042	ah sì sì sì
+TOI044	cioè qualsiasi parola xxx
+TOI043	non dare nulla per scontato
 TOI042	le metafore
-TOI043	le met~
+TOI042	le met~
 TOI043	devi dire devi dire è una metafora
-TOI042	guardate che non ha detto questo
-TOI043	i proverbi non parliamone
-TOI042	esatto
-TOI043	i proverbi poi
+TOI043	guardate che non ha detto questo
+TOI042	i proverbi non parliamone
+TOI043	esatto
+TOI042	i proverbi poi
 TOI043	così perché
-TOR001	però ripeto non c'entra con il territorio
-TOI042	no no certo certo
+TOI043	però ripeto non c'entra con il territorio
+TOR001	no no certo certo
 TOI042	no no non c'entra
-TOI044	non c'entra non c'entra
-TOR001	no quello in generale
+TOI042	non c'entra non c'entra
+TOI044	no quello in generale
 TOR001	va bene
 TOR001	vi ringrazio
 TOR001	grazie mille

@@ -1,281 +1,255 @@
-BO149	~so
-BO150	quindi nessuno sa xxare
-BO151	adoro lo zucchero di canna
-BO150	ah ma alla fine mi son dimenticato
-BO149	è sicuramente meglio che lo zucchero normale
-BO150	ah okay
-???	x
-BO152	eh posso se c'è un tavolo
-???	sta andando
-BO151	e terrazza
+BO151	~so
+BO149	quindi nessuno sa xxare
+BO150	adoro lo zucchero di canna
+BO151	ah ma alla fine mi son dimenticato
+BO150	è sicuramente meglio che lo zucchero normale
+BO149	ah okay
+BO150	x
+???	eh posso se c'è un tavolo
+BO152	sta andando
+???	e terrazza
 BO151	sì
-BO152	molto antisgamo
-???	okay
-BO150	xxx
-???	datti uno slego frank
-BO151	vai
-BO149	
-BO149	
-BO151	vez
-BO152	eh
-BO151	per favore
+BO151	molto antisgamo
+BO152	okay
+???	xxx
+BO150	datti uno slego frank
+???	vai
+BO149	vez
+BO151	eh
+BO152	per favore
 BO151	sviz
-BO151	
-BO149	io intanto
-BO151	dai per favore datti sto slego
-BO151	
+BO151	io intanto
+BO149	dai per favore datti sto slego
 BO151	io intanto aspetto la mia fetta di
-BO149	di torta e poi incomincio a parlare della torta di quanto è bella la torta mh
-BO150	eh anch'io
-BO150	
-BO149	gustosa cremosa al punto giusto
-BO151	
+BO151	di torta e poi incomincio a parlare della torta di quanto è bella la torta mh
+BO149	eh anch'io
+BO150	gustosa cremosa al punto giusto
 BO151	oh guarda che
-BO150	per riuscire a descrivere correttamente la torta ci volgiono capacità
-BO152	devi averna man~
-BO150	la torta è una bugia
-BO149	devi averne mangiate molte
-BO151	
+BO151	per riuscire a descrivere correttamente la torta ci volgiono capacità
+BO150	devi averna man~
+BO152	la torta è una bugia
+BO150	devi averne mangiate molte
 BO151	crostata
-BO152	crostata
-BO150	vegana
-BO151	gua~
-BO150	giusto
-BO149	gua~ quant'è bello questo manichino
-BO151	ah
-BO150	ah mi sa che non ti piacerà la mangerò io
-BO149	grazie x
-BO149	
-BO152	come minimo sarà dura come un sasso perché
+BO151	crostata
+BO152	vegana
+BO150	gua~
+BO151	giusto
+BO150	gua~ quant'è bello questo manichino
+BO149	ah
+BO151	ah mi sa che non ti piacerà la mangerò io
+BO150	grazie x
+BO149	come minimo sarà dura come un sasso perché
 BO152	oddio sembra buonissimo
-BO149	perché è vegana
-???	non ci puoi mettere tutte le robe
-BO149	salve
+BO152	perché è vegana
+BO149	non ci puoi mettere tutte le robe
+???	salve
 BO149	tipo strutto
-BO150	burro
-???	nella crostata
-BO149	salve
-BO150	eh se è senza
-BO149	con lo strutto
-BO151	senza burro
+BO149	burro
+BO150	nella crostata
+???	salve
+BO149	eh se è senza
+BO150	con lo strutto
+BO149	senza burro
 BO151	cavolo in casa mia c'è una bottiglia così di di
-BO149	strutto
-BO151	eh in casa mia due
-BO149	e da te però vengono usate spero
+BO151	strutto
+BO149	eh in casa mia due
+BO151	e da te però vengono usate spero
 BO149	e aumentano di anno per
 BO149	eh in realtà non così tanto perché mia madre lo usa poco io
 BO149	beh
-BO151	a parte quando devo fingere che il salame sia salsiccia non lo uso
-BO150	
-BO149	in che senso
-BO150	se il salame è ancora abbastanza fresco
-BO149	sì
+BO149	a parte quando devo fingere che il salame sia salsiccia non lo uso
+BO150	in che senso
+BO149	se il salame è ancora abbastanza fresco
+BO150	sì
 BO149	che è morbido tutto
-BO150	ma non hai la salsiccia
-BO149	ah fai finta di
+BO149	ma non hai la salsiccia
+BO150	ah fai finta di
 BO149	fai che
 BO149	tagli il salame a pezzettini che tanto si
-BO150	sembra tipo pasta di salsiccia ci metti un po'di strutto per insaporirlo
-BO149	
-BO150	e viene abbastanza simile
-BO151	ah
-BO152	ma è necessario lo strutto
-BO151	mh
-BO149	senza
-BO151	eh sì perché se no dopo sa di salame e non di salsiccia
+BO149	sembra tipo pasta di salsiccia ci metti un po'di strutto per insaporirlo
+BO149	e viene abbastanza simile
+BO150	ah
+BO151	ma è necessario lo strutto
+BO152	mh
+BO151	senza
+BO149	eh sì perché se no dopo sa di salame e non di salsiccia
 BO151	ma scusa non hai de~
-BO149	n~ lo devi cuocere
-BO151	sì
-BO150	ah okay
+BO151	n~ lo devi cuocere
+BO149	sì
+BO151	ah okay
 BO150	andresti un sacco d'accordo con la mia coinquilina che quando non ha nul~ nulla in frigo fa
 BO150	penne
 BO150	poi fa una carbonara al posto che l'uovo mette il burro
-BO152	quindi boh pancetta burro
-BO149	al posto di cosa
-BO150	ah buono
+BO150	quindi boh pancetta burro
+BO152	al posto di cosa
+BO149	ah buono
 BO150	del'
-BO152	dell'uovo mette un pezzo di b~
+BO150	dell'uovo mette un pezzo di b~
+BO152	dell'uovo
 BO151	dell'uovo
-BO150	dell'uovo
-BO149	mette il burro
-BO152	buono
-BO149	cosa
-BO152	cioè burro e parmigiano io la faccio se~ spessissimo
-BO150	cioè ci credo però
-BO151	burro e pancetta eh sarebbe xx ma tantissi~
+BO150	mette il burro
+BO149	buono
+BO152	cosa
+BO149	cioè burro e parmigiano io la faccio se~ spessissimo
+BO152	cioè ci credo però
+BO150	burro e pancetta eh sarebbe xx ma tantissi~
 BO151	beh scusate allora c'è la pasta
-BO152	eh pistacchi burro
-BO151	mh
+BO151	eh pistacchi burro
+BO152	mh
 BO151	zenzero
-BO150	e mi pare anche parmigiano
-BO152	non è
-BO150	zenzero
+BO151	e mi pare anche parmigiano
+BO150	non è
 BO152	zenzero
-BO151	tu l'hai mai fatta
+BO150	zenzero
+BO152	tu l'hai mai fatta
 BO151	zenzero
-BO152	l'ha fatta mio padre diverse volte
-BO151	uh
+BO151	l'ha fatta mio padre diverse volte
+BO152	uh
 BO151	viene buona
-BO149	cioè è strano perché tu non lo diresti mai vedi sta roba e fai
-BO152	beh insomma
-BO151	boh è che lo zenzero
-BO149	però
-BO151	sempre meglio della pasta fatta da ale su
-BO149	aspetta quale quella con l'aceto balsamico
-BO152	sì
-BO151	si mescola
-BO150	ah okay
-BO152	è quella di frank mi sa o no
-BO149	cosa
-BO152	
-BO151	ah q~ la vostra
-BO151	si c'èro anch'io
-BO149	l'ho mangiata anch'io
-BO151	no no allora non è quella l'abbiam rifatta
-BO152	ma porco mondo
-BO150	oddio
-BO149	mi ricordo bellissimo al supermer~
-BO150	alle cinque di pomeriggio
-BO150	al supermercato
-BO149	questo serve sì
-BO150	
-BO149	gor~ due due panetti di gorgonzola sì serviran sicuro
-BO152	no okay
-BO149	beh li abbiamo usati
-BO150	qui non c'era il gorgonzola
-BO151	sì li abbiamo usati
+BO151	cioè è strano perché tu non lo diresti mai vedi sta roba e fai
+BO149	beh insomma
+BO152	boh è che lo zenzero
+BO151	però
+BO149	sempre meglio della pasta fatta da ale su
+BO151	aspetta quale quella con l'aceto balsamico
 BO149	sì
+BO152	si mescola
+BO151	ah okay
+BO150	è quella di frank mi sa o no
+BO152	cosa
+BO152	ah q~ la vostra
+BO151	si c'èro anch'io
+BO151	l'ho mangiata anch'io
+BO149	no no allora non è quella l'abbiam rifatta
+BO151	ma porco mondo
+BO152	oddio
+BO150	mi ricordo bellissimo al supermer~
+BO149	alle cinque di pomeriggio
+BO150	al supermercato
+BO150	questo serve sì
+BO150	gor~ due due panetti di gorgonzola sì serviran sicuro
+BO149	no okay
+BO152	beh li abbiamo usati
+BO149	qui non c'era il gorgonzola
+BO150	sì li abbiamo usati
+BO151	sì
 BO149	aveva fatto tipo
 BO149	aglio
 BO149	cipolla
-BO151	prosciutto cotto
-BO149	aglio e cipolla
+BO149	prosciutto cotto
+BO151	aglio e cipolla
 BO149	sì
 BO149	prosciutto cotto
 BO149	e
-???	aceto balsamico
-BO149	l'altra sala è dietro la tenda gialla
-???	e qualcos'altro che non mi ricordo
-BO151	no di di qua
-???	ha fatto uno strano mix
+BO149	aceto balsamico
+???	l'altra sala è dietro la tenda gialla
+BO149	e qualcos'altro che non mi ricordo
+???	no di di qua
+BO151	ha fatto uno strano mix
 ???	tenda
 ???	grazie
-BO149	xxxx
-???	mai più
-BO150	xxx
-???	grazie
-BO149	prego
-???	grazie
-BO151	a voi
+???	xxxx
+BO149	mai più
+???	xxx
 BO150	grazie
-BO151	prendi pure frank io ho già il cappuccino
-BO152	ah quando
-BO150	grazie
-BO150	ah scusami ho fatto
-???	
-BO151	ah okay n acco
-???	
-BO149	qui
-BO150	non posso parlare se sta in mezzo
-BO149	scusi io
-BO152	
-BO149	la confondiamo
-BO149	mh oh poverino vuoi un po' di
-BO150	pasta frolla
-BO152	
-BO149	
-BO149	
-BO149	allora frank com'è questa torta
-BO151	descrivicela
-BO152	buona
-BO152	potrebbe essere la cosa più salutare che mangi
-BO151	nell'ultimo mese
-???	quella
-BO152	però mi dispiace
-BO151	no quella
-BO152	ah
-???	per xxx
-???	grazie
-BO151	adesso xxxxx
-BO151	secondo me
-???	manca un po' di strutto
-BO150	lo vuoi
-BO149	
-???	sicuramente però
-BO152	vai arrivo io allora
-BO149	come si fa a mangiarlo
-BO149	beh oggi ho mangiato delle tagliatelle al ragù
-BO152	non sono abbastanza salutari
-BO149	no mh
-BO151	come no
-BO149	
-BO150	
-BO149	eh
-BO152	cos'è salutare allora
-BO152	è più salurtare quella crostata vegana delle tagliatelle
-BO151	al ragù
-BO152	eh ma qua ci son gli zuccheri
-BO150	anche nelle tagliatelle
-BO151	purtroppo salutare non vuol dire genuino
-BO150	uou
-???	se fosse così anch'io mangerei benissimo
-BO149	grazie xxxx
-???	
+???	prego
+BO149	grazie
+???	a voi
 BO151	grazie
-BO149	un saluto al giorno
-BO152	ieri ho mangiato una pizza
-BO149	mh
-BO152	ho mangiato la pizza ieri
-BO152	mh mh
-BO149	poi
-BO149	basta
-BO152	e di' che è salutare
-BO149	quindi sì è la cosa più salutare che mangi nell'ultimo mese
-BO149	una
+BO150	prendi pure frank io ho già il cappuccino
+BO151	ah quando
+BO152	grazie
+BO150	ah scusami ho fatto
+???	ah okay n acco
+???	qui
+BO149	non posso parlare se sta in mezzo
+BO150	scusi io
+BO152	la confondiamo
+BO149	mh oh poverino vuoi un po' di
+BO149	pasta frolla
+BO149	allora frank com'è questa torta
+BO149	descrivicela
+BO151	buona
+BO152	potrebbe essere la cosa più salutare che mangi
+BO152	nell'ultimo mese
+BO151	quella
+???	però mi dispiace
+BO152	no quella
 BO151	ah
-BO150	
-BO152	però x secondo me le melanzane potrebbero svoltartela
-BO150	mh
-BO149	le melanzane potrebbero svolta~ il pesto di melanzane è
-BO152	perché
+BO152	per xxx
+???	grazie
+???	adesso xxxxx
+BO151	secondo me
+BO151	manca un po' di strutto
+???	lo vuoi
+BO149	sicuramente però
+???	vai arrivo io allora
+BO152	come si fa a mangiarlo
+BO149	beh oggi ho mangiato delle tagliatelle al ragù
+BO149	non sono abbastanza salutari
+BO152	no mh
+BO149	come no
+BO150	eh
+BO149	cos'è salutare allora
+BO152	è più salurtare quella crostata vegana delle tagliatelle
+BO152	al ragù
+BO151	eh ma qua ci son gli zuccheri
+BO152	anche nelle tagliatelle
+BO150	purtroppo salutare non vuol dire genuino
+BO151	uou
+BO150	se fosse così anch'io mangerei benissimo
+???	grazie xxxx
+???	grazie
+BO151	un saluto al giorno
+BO149	ieri ho mangiato una pizza
 BO152	mh
-BO150	pesto
+BO149	ho mangiato la pizza ieri
 BO152	mh mh
-BO151	mh
-BO150	ma stai parlando del lardo
-BO149	nella pasta
-BO149	
-BO149	mh feta
-BO150	
-BO150	melanzane un botto di pepe
-BO152	frulli tutto metti nella pasta
-BO149	mh buono
-BO151	pistacchi
-BO150	ah
-BO152	anche i pistacchi sì
-BO149	quand'è che rifacciamo il pesto di pistacchi
-BO151	pistacchi son buoni
-BO149	ma quand'è che si mangia il pesto modenese e basta
-BO149	no vez eh
-BO152	farlo è verame~
-BO149	eh
-BO149	
-???	mh
-BO151	ciao
+BO152	poi
+BO149	basta
+BO149	e di' che è salutare
+BO152	quindi sì è la cosa più salutare che mangi nell'ultimo mese
+BO149	una
+BO149	ah
+BO150	però x secondo me le melanzane potrebbero svoltartela
 BO152	mh
-BO151	andiamo a zocca
-BO149	ho trovato un posto
-BO151	è vero quando
-BO152	dove fanno la pizza con il pesto
-BO151	con il pesto
-BO152	sì tipo le pizze di altero ma con il pesto suo
+BO150	le melanzane potrebbero svolta~ il pesto di melanzane è
+BO149	perché
+BO152	mh
+BO152	pesto
+BO150	mh mh
+BO152	mh
+BO151	ma stai parlando del lardo
+BO150	nella pasta
+BO149	mh feta
+BO150	melanzane un botto di pepe
+BO150	frulli tutto metti nella pasta
+BO152	mh buono
+BO149	pistacchi
+BO151	ah
+BO150	anche i pistacchi sì
+BO152	quand'è che rifacciamo il pesto di pistacchi
+BO149	pistacchi son buoni
+BO151	ma quand'è che si mangia il pesto modenese e basta
+BO149	no vez eh
+BO149	farlo è verame~
+BO152	eh
+BO149	mh
+???	ciao
+BO151	mh
+BO152	andiamo a zocca
+BO151	ho trovato un posto
+BO149	è vero quando
+BO151	dove fanno la pizza con il pesto
+BO152	con il pesto
+BO151	sì tipo le pizze di altero ma con il pesto suo
 BO152	ah il pesto
-BO150	suo
-BO149	mh
-BO152	uh
-BO149	mh
-BO152	dove
-BO151	dentro o sopra
+BO152	suo
+BO150	mh
+BO149	uh
+BO152	mh
+BO149	dove
+BO152	dentro o sopra
 BO151	è tipo
 BO151	sopra
 BO151	sopra sopra
@@ -284,955 +258,810 @@ BO151	è dietro l'arena del sole
 BO151	dove c'è la gelateria
 BO151	di fronte alla gelateria
 BO151	è un posto
-BO149	un po'
-BO152	arena del s~
-BO149	non sai cos'è l'arena del
-BO152	questo nome non mi è nuovo
-BO149	è il teatro gigante
-BO151	quello di fianco a otto agosto
+BO151	un po'
+BO149	arena del s~
+BO152	non sai cos'è l'arena del
+BO149	questo nome non mi è nuovo
+BO152	è il teatro gigante
+BO149	quello di fianco a otto agosto
 BO151	mh mh
-BO149	sì
-BO151	ah okay
-BO149	lì dietro
+BO151	sì
+BO149	ah okay
+BO151	lì dietro
 BO149	ah
-BO151	beh possiamo andarci
+BO149	beh possiamo andarci
 BO151	cioè costa un po'
 BO151	e le pizzette sono come da altero son piccole
-BO152	però ci sono quelle con il pesto
-BO151	ah lo so che forno è
-BO152	eh è un forno
-BO151	è buonissimo
-BO152	è molto buono
-BO149	cioè io non ci ho mai preso niente ho solo visto gli altri mangiare le cose da lì e sembravano buonissime
-BO151	
-BO152	però costano un botto
-BO151	ah
+BO151	però ci sono quelle con il pesto
+BO152	ah lo so che forno è
+BO151	eh è un forno
+BO152	è buonissimo
+BO151	è molto buono
+BO152	cioè io non ci ho mai preso niente ho solo visto gli altri mangiare le cose da lì e sembravano buonissime
+BO151	però costano un botto
+BO152	ah
 BO151	beh se ci passiamo io ci sto
-BO152	una pizzetta la prendo
-BO151	adesso
-BO152	sì
+BO151	una pizzetta la prendo
+BO152	adesso
+BO151	sì
+BO152	mh
+BO149	diamine
+???	ciao
+BO152	eh eh
+BO151	o anche non adesso
 BO149	mh
-BO149	
-???	diamine
-BO152	ciao
-BO151	eh eh
-BO149	o anche non adesso
-BO150	mh
-BO149	domani
-BO151	stasera che fate
+BO150	domani
+BO149	stasera che fate
 BO151	mh
-BO149	io credo di esser libero
+BO151	io credo di esser libero
 BO149	io dalle
-BO152	nove e mezza dieci son libero
-BO151	rossi mi porta alla laurea di lavinia
-BO152	mh
-BO149	ma il
-BO152	ah è vero che voi dovete andarci
-BO151	il
-BO152	va'
+BO149	nove e mezza dieci son libero
+BO152	rossi mi porta alla laurea di lavinia
+BO151	mh
+BO152	ma il
+BO149	ah è vero che voi dovete andarci
+BO152	il
+BO151	va'
 BO152	piano è di andarsene via
-BO149	dopo un'ora
+BO152	dopo un'ora
 BO149	eh allora
-BO151	andiamo a mangiare la pizzetta là
-BO152	mh
-BO151	ma non sarà aperto
+BO149	andiamo a mangiare la pizzetta là
+BO151	mh
+BO152	ma non sarà aperto
 BO151	guar~
-BO149	ci andiamo però già un po' mangiati
+BO151	ci andiamo però già un po' mangiati
 BO149	ah è vero che è un forno
-BO152	sì io sono mangiato per for~
-BO149	dici che è aperto
-BO151	eh no se è un forno in effetti non è aperto hai ragione
-BO150	no però è è un forno particolare è tipo
-BO151	ditemi il nome
-BO149	altero ma c'è anche il forno
-BO152	boh se no
-BO150	non è il forno brisa
-BO151	no rega ma
-BO150	ah
-BO151	di~
-BO150	ah
-BO152	ditemi il nome che lo cerchiamo
-BO150	forno brisa
+BO149	sì io sono mangiato per for~
+BO152	dici che è aperto
+BO149	eh no se è un forno in effetti non è aperto hai ragione
+BO151	no però è è un forno particolare è tipo
+BO150	ditemi il nome
+BO151	altero ma c'è anche il forno
+BO149	boh se no
+BO152	non è il forno brisa
+BO150	no rega ma
+BO151	ah
+BO150	di~
+BO151	ah
+BO150	ditemi il nome che lo cerchiamo
+BO152	forno brisa
 BO150	cioè
-BO149	ve lo cerco
+BO150	ve lo cerco
 BO149	ah okay ho capito
-BO150	non ci son mai stato neanch'io però
-BO149	forno brisa
+BO149	non ci son mai stato neanch'io però
+BO150	forno brisa
 BO149	se no diciam~
-BO151	se no diciamo ci troviamo per una birretta al sacrosanto bevitore
-BO152	ah okay
-BO149	mh
-BO151	che è lì vicino
-BO149	e vediamo
-BO152	e vediamo esatto
+BO149	se no diciamo ci troviamo per una birretta al sacrosanto bevitore
+BO151	ah okay
+BO152	mh
+BO149	che è lì vicino
+BO151	e vediamo
+BO149	e vediamo esatto
 BO152	e poi al ritorno
 BO152	pastina
-BO151	ah no io non posso camminare cavolo
+BO152	ah no io non posso camminare cavolo
 BO151	ma
-BO149	qualcuno ha una cariola
-BO152	
-BO150	
-BO151	chiude alle otto e mezza il forno brisa
-BO152	mh
-BO149	dovremo passare adesso
-BO151	effe
-BO151	ci prepariamo il cibo per
-BO152	per dopo
-BO149	
-BO149	vedi che non era salutare la torta
-BO152	perché ci ha fatto venire in mente che dobbiamo andare a mangiare la pizza con lo strutto
-BO152	perché
-BO149	
-BO149	cioè col
-BO150	col pesto modenese
-BO149	
-BO152	
-BO150	cos'era la mia vita prima del pesto modenese
-BO150	eh signori miei
-BO152	dobbiamo fare un'altra serata tigelle allo stop
-BO151	ma si compra
-BO150	mh mh
-BO150	sì da me ovunque
-BO149	qualsiasi posto anche in anche in tabaccheria trovi
-BO152	
-BO149	
+BO151	qualcuno ha una cariola
+BO150	chiude alle otto e mezza il forno brisa
 BO151	mh
-BO150	il tabaccaio che ti dà il pesto al posto del tabacco
-???	oh vuoi fumarti un po' di
-BO149	sì
-BO150	più che altro la sagra di zocca
-BO152	xxx
-BO150	
-???	eh c'è stata
-BO150	perché
-BO152	a ottobre
-BO149	non siamo andati quest'anno
-BO150	eh sì ma l'ottobre prossimo
-BO149	ah sì
-BO150	dobbiamo prenotare
-BO152	festa della castagna
-BO151	siamo andati quest'anno
+BO152	dovremo passare adesso
+BO149	effe
+BO151	ci prepariamo il cibo per
+BO151	per dopo
+BO149	vedi che non era salutare la torta
+BO149	perché ci ha fatto venire in mente che dobbiamo andare a mangiare la pizza con lo strutto
+BO152	perché
+BO149	cioè col
+BO149	col pesto modenese
+BO152	cos'era la mia vita prima del pesto modenese
+BO150	eh signori miei
+BO150	dobbiamo fare un'altra serata tigelle allo stop
+BO152	ma si compra
+BO151	mh mh
+BO150	sì da me ovunque
+BO150	qualsiasi posto anche in anche in tabaccheria trovi
+BO149	mh
+BO151	il tabaccaio che ti dà il pesto al posto del tabacco
+BO150	oh vuoi fumarti un po' di
+???	sì
+BO149	più che altro la sagra di zocca
+BO150	xxx
+BO150	eh c'è stata
+???	perché
+BO150	a ottobre
+BO152	non siamo andati quest'anno
+BO149	eh sì ma l'ottobre prossimo
+BO150	ah sì
+BO149	dobbiamo prenotare
+BO150	festa della castagna
+BO152	siamo andati quest'anno
+BO151	no
 BO149	no
-BO152	no
-BO151	eh
-BO150	infatti non so perché
+BO152	eh
+BO151	infatti non so perché
 BO150	no perché io ero su
-BO151	io ero su a pi di
+BO150	io ero su a pi di
+BO151	ah
 BO149	ah
-BO152	ah
-BO150	mh
+BO152	mh
 BO150	ed ero abbastanza incriccato
 BO150	tra l'altro ho conosciuto una ragazza su che è stata a zocca nell'ultimo mese non so per quale c~ strano motivo
-BO149	fatto stranissimo
-BO150	pellegrinaggio da vasco
+BO150	fatto stranissimo
+BO149	pellegrinaggio da vasco
 BO150	sì
 BO150	però non c'è nu~ cioè nel senso
-BO151	non c'è un cazzo
-BO152	in che senso
-BO150	dove
-BO152	mh cioè a zocca di vasco c'è davvero poco
-BO151	a zocca
+BO150	non c'è un cazzo
+BO151	in che senso
+BO152	dove
+BO150	mh cioè a zocca di vasco c'è davvero poco
+BO152	a zocca
 BO151	beh dai di vasco
-BO150	di zocca
-BO149	sì ma se sei un fan sfegatato boh ci può stare
+BO151	di zocca
+BO150	sì ma se sei un fan sfegatato boh ci può stare
 BO149	eh
-BO152	devi andarci
+BO149	devi andarci
 BO152	i miei cugini sono sfan
 BO152	sfan
-BO151	sfegatati
+BO152	sfegatati
+BO151	sfan
 BO152	sfan
-BO150	sfan
-BO152	cugini sardi o mh marchi~
-BO150	sardi
-BO149	perfetto
-BO150	
-BO151	allora possiamo barattare
-BO150	andiamo in sardegna noi loro vengono a zocca
-BO152	esatto
-BO151	mh
-BO150	ma tu non affitti la casa di zocca
+BO150	cugini sardi o mh marchi~
+BO152	sardi
+BO150	perfetto
+BO150	allora possiamo barattare
+BO151	andiamo in sardegna noi loro vengono a zocca
+BO150	esatto
+BO152	mh
+BO151	ma tu non affitti la casa di zocca
 BO150	mia zi~ mia nonna sì
-BO151	ai villeggianti
-BO150	ah
-BO149	si chiamano così
-BO152	ah allora
-BO149	affittate zocca in cambio di geremeas
-BO150	è fatta
+BO150	ai villeggianti
+BO151	ah
+BO150	si chiamano così
+BO149	ah allora
+BO152	affittate zocca in cambio di geremeas
+BO149	è fatta
 BO150	affittiamo esatto
-BO149	eh oddio
-BO150	oddio
+BO150	eh oddio
+BO149	oddio
 BO150	sai un eh come si chiama quel gioco con
-BO149	softair
-BO150	mh
-BO152	tutta geremeas nostra
+BO150	softair
+BO149	mh
+BO150	tutta geremeas nostra
+BO152	soffi teir
 BO150	soffi teir
-BO149	soffi teir
-BO151	bellissimo softair a geremeas
-BO150	soffi teir
-BO151	tutta nostra
+BO149	bellissimo softair a geremeas
+BO151	soffi teir
+BO150	tutta nostra
 BO151	però a me ispira di pu più paintball
 BO151	cioè anche se è più bello soffi teir
-BO150	paitball è più
-BO151	più giocoso
+BO151	paitball è più
+BO150	più giocoso
 BO151	ti sporchi
-BO150	eh
-BO152	mh è più giocoso non so
+BO151	eh
+BO150	mh è più giocoso non so
 BO152	comunque vi giuro a fine settembre ottobre non c'era nessuno
-BO149	a parte sabato e domenica che è arrivata gente
-BO151	e sei andata a giocare a paintball
-BO152	
-BO151	no però si potrebbe fare davvero tutto perché non c'è nessuno ma proprio
-BO152	sparo contro le case
-BO149	era inquietante perché eravamo
+BO152	a parte sabato e domenica che è arrivata gente
+BO149	e sei andata a giocare a paintball
+BO152	no però si potrebbe fare davvero tutto perché non c'è nessuno ma proprio
+BO151	sparo contro le case
+BO152	era inquietante perché eravamo
+BO149	mh
+BO152	le uniche tre persone
+BO149	ma anche solo nella spiaggia lì
+???	ve le porto subito sai
 BO152	mh
-BO149	le uniche tre persone
-???	ma anche solo nella spiaggia lì
-BO152	ve le porto subito sai
-BO151	mh
-BO149	o a me manca il vento
-BO151	anche se ci fosse gente in giro
-BO152	della spieggia che c'era
+BO151	o a me manca il vento
+BO149	anche se ci fosse gente in giro
+BO151	della spieggia che c'era
 BO152	ma voi siete saliti sul tetto lì
-BO151	perché si potrebbe fare per i tetti
-BO150	oi
+BO152	perché si potrebbe fare per i tetti
+BO151	oi
 BO150	io sì
-BO149	io ho tirato della terra su quel tetto
-BO152	beh sul sul tetto di casa tua sì
-BO150	è vero
-BO152	
-BO149	mh
-BO150	che era anche abbastanza comodo
-BO151	parkour
-BO149	cioè c'era della roba lì non c'erano i chiodi
-???	
-BO151	eh sì mi pare di sì
-BO150	no
-BO149	no no
-BO151	ah no è vero vero adesso mi ricordo che sembrava di essere
-BO152	c'era xxx
-BO149	mh
-???	sì
-BO150	cinque e il sei
-BO151	c'erano dei chiodi
-BO150	boh mi pareva ci fosse qualcosa che feriva i piedi
-BO152	io non l'ho vista
-BO149	sì io non
-BO151	non ci stavamo sparando dell'acqua addosso
-BO150	anche
-BO149	sì di tutto abbiamo fatto da quel
+BO150	io ho tirato della terra su quel tetto
+BO149	beh sul sul tetto di casa tua sì
+BO152	è vero
+BO152	mh
+BO149	che era anche abbastanza comodo
+BO150	parkour
+BO151	cioè c'era della roba lì non c'erano i chiodi
+???	eh sì mi pare di sì
+BO151	no
+BO150	no no
+BO149	ah no è vero vero adesso mi ricordo che sembrava di essere
+BO151	c'era xxx
+BO152	mh
+BO149	sì
+???	cinque e il sei
+BO150	c'erano dei chiodi
+BO151	boh mi pareva ci fosse qualcosa che feriva i piedi
+BO150	io non l'ho vista
+BO152	sì io non
+BO149	non ci stavamo sparando dell'acqua addosso
+BO151	anche
+BO150	sì di tutto abbiamo fatto da quel
 BO149	okay
-BO150	
-BO149	cioè era il tetto dei trappoloni
-BO150	
-BO152	eh
-BO151	
-???	beh avevamo i secchi avevamo il
+BO150	cioè era il tetto dei trappoloni
+BO150	eh
+BO151	beh avevamo i secchi avevamo il
 ???	prego
-BO149	le volevamo chiedere se ci fosse posto fuori
-BO152	e dovevamo fare il trappolone a franci
-BO149	no a frank
-BO151	a frank
-BO149	no a me
-BO150	ah okay
-BO149	a franci l'abbiamo fatto il trappolone è quasi andato in coma
-BO152	
-BO151	no io volevo
-BO150	
-BO150	
+???	le volevamo chiedere se ci fosse posto fuori
+BO149	e dovevamo fare il trappolone a franci
+BO152	no a frank
+BO149	a frank
+BO151	no a me
+BO149	ah okay
+BO150	a franci l'abbiamo fatto il trappolone è quasi andato in coma
+BO152	no io volevo
 BO150	easy
-BO151	
-???	in coma
-BO152	eh mh
-BO151	buttarvi l'acqua addosso dal nulla ma
-BO150	
-BO152	xxxx
-???	non mi ricordo se l'ho fatto
-BO149	va bene grazie
-BO151	mi pare di no
-BO152	ah io non mi ricordo
-BO149	forse c'ho provato ma non ci sono riuscita
-BO152	classic
-BO149	mh
-BO151	un classico
-BO150	eh provare senza riuscire è classico
-BO151	perché xx
-BO149	è più difficile non riuscire senza provare
-???	esatto
+BO151	in coma
+???	eh mh
+BO152	buttarvi l'acqua addosso dal nulla ma
+BO150	xxxx
+BO152	non mi ricordo se l'ho fatto
+???	va bene grazie
+BO149	mi pare di no
+BO151	ah io non mi ricordo
+BO152	forse c'ho provato ma non ci sono riuscita
+BO149	classic
+BO152	mh
+BO149	un classico
+BO151	eh provare senza riuscire è classico
+BO150	perché xx
+BO151	è più difficile non riuscire senza provare
+BO149	esatto
 ???	ciao
-BO151	ah grazie
-BO152	cavolo
-BO151	è più difficile
+???	ah grazie
+BO151	cavolo
+BO152	è più difficile
 BO151	ci dovrei provare
-BO150	
 BO150	comunque
-BO152	mi sa che vado a fare i corsi di formazione per fare il supplente
-BO150	sì
-BO151	mi sa che
-BO150	what
-BO151	devo
-BO149	per insegnare cosa
+BO150	mi sa che vado a fare i corsi di formazione per fare il supplente
+BO152	sì
+BO150	mi sa che
+BO151	what
+BO150	devo
+BO151	per insegnare cosa
 BO149	cosa ti è successo
-BO150	
-BO151	ma perché ho scoperto che è una
-BO150	pagano
-BO151	no è una bazza che lo faccio gratis e ho già la prima metà dei ci effe u
-BO149	
+BO150	ma perché ho scoperto che è una
+BO151	pagano
+BO150	no è una bazza che lo faccio gratis e ho già la prima metà dei ci effe u
 BO149	ah
-BO152	eh allora sì
-BO150	cos'hai
+BO149	eh allora sì
+BO152	cos'hai
 BO150	xx
 BO150	praticamente per fare il supplente devi date ventiquattro ci effe u
 BO150	in o~ in i interenti all'insegnamento
 BO150	e noi di psicologia
 BO150	lo possiamo fare gratis
-BO152	se iscritto a un corso di psicologia
-BO150	mh mh
-BO152	e io ho già dato d~ dodici ci effe u
-BO150	ah
-BO151	nei in triennale
-BO150	però scusa supplente di che materie
+BO150	se iscritto a un corso di psicologia
+BO152	mh mh
+BO150	e io ho già dato d~ dodici ci effe u
+BO152	ah
+BO150	nei in triennale
+BO151	però scusa supplente di che materie
 BO150	qualsiasi alle elementari qualsiasi cosa
-BO152	e funziona tu entri in
-BO150	alle elementari
+BO150	e funziona tu entri in
+BO152	alle elementari
 BO150	eh
 BO150	tu vai in graduatoria
 BO150	poi in realtà
 BO150	per il lavoro che voglio fare non c'entra nulla però
-BO152	se devo fare un esame da da dodici mi sbatto un attimo e lo faccio solo per
-BO150	puoi entrare in graduatoria magari ogni tanto
+BO150	se devo fare un esame da da dodici mi sbatto un attimo e lo faccio solo per
+BO152	puoi entrare in graduatoria magari ogni tanto
 BO150	per goliardia
 BO150	sì
-BO152	e poi ti arrivano le richieste dicendo ah c'è bisogno di un buco qua
-BO150	mh mh
+BO150	e poi ti arrivano le richieste dicendo ah c'è bisogno di un buco qua
+BO152	mh mh
 BO150	sei disponibile sì no
-BO152	se dici di no scala a quello dopo
-BO151	mh
-BO152	bello
+BO150	se dici di no scala a quello dopo
+BO152	mh
+BO151	bello
 BO152	io sono iscritta alla lista del personale ata
-BO150	lì alle scuole
-BO151	uh
-BO152	ah
+BO152	lì alle scuole
+BO150	uh
+BO151	ah
 BO152	anche matteo
-BO151	solo che
-BO150	ma
-BO151	
-BO150	vi hanno mai chiamato
-BO152	cazzo matteo il bidello vorrei tanto vederlo
-BO149	no no
-BO150	
-BO152	che ti passa i cannoni ora
-BO152	no macché
-BO149	però lui può fare il tecnico di laboratorio e io no
-BO151	
-BO149	lui può fare il tecnico di laboratorio mado'
-BO152	giusto
-BO152	perché puoi fare il tecnico di laboratorio solo se sei uscito dallo scientifico
-BO151	o dall'istituto tecnico forse
-BO150	quindi io
-BO152	per dare un lavoro a quelli dello scientifico
-BO152	credo di no
-BO150	e non importa che laurea hai
-BO152	
-BO151	importa solo da che liceo sei uscito
+BO152	solo che
 BO151	ma
-BO150	a me sembra una gran
-BO152	eh serve a dare lavoro a quelli dei licei frank
-BO151	lo è
-BO149	però
-BO150	beh cioè
-BO149	
+BO151	vi hanno mai chiamato
+BO150	cazzo matteo il bidello vorrei tanto vederlo
+BO152	no no
+BO150	che ti passa i cannoni ora
+BO152	no macché
+BO152	però lui può fare il tecnico di laboratorio e io no
+BO151	lui può fare il tecnico di laboratorio mado'
+BO149	giusto
+BO152	perché puoi fare il tecnico di laboratorio solo se sei uscito dallo scientifico
+BO152	o dall'istituto tecnico forse
+BO151	quindi io
+BO150	per dare un lavoro a quelli dello scientifico
+BO152	credo di no
+BO152	e non importa che laurea hai
+BO152	importa solo da che liceo sei uscito
+BO151	ma
+BO151	a me sembra una gran
+BO150	eh serve a dare lavoro a quelli dei licei frank
+BO152	lo è
+BO151	però
+BO149	beh cioè
 BO149	il bidello storicamente serve a dare del lavoro a qualcuno
-BO151	non a fare il bidello
-BO150	ma infatti è imbarazzante anche da me in accademia
-BO151	av~ avete capito
-BO151	
+BO149	non a fare il bidello
+BO151	ma infatti è imbarazzante anche da me in accademia
+BO150	av~ avete capito
 BO151	da me in accademia ci sono quattro persone in portineria ma non servono a niente
 BO151	tu chiedi una cosa non ti sanno rispondere
 BO151	ti rispondono
-BO150	devi chiedere
-BO152	da noi ci sono solamente addetti alla sicurezza
-BO151	
+BO151	devi chiedere
+BO150	da noi ci sono solamente addetti alla sicurezza
 BO151	ma
-BO150	potrebbe essercene uno
+BO151	potrebbe essercene uno
 BO150	che girano con le pistole
-BO151	no da noi è pieno
-BO150	ah
-BO151	e fumano dove non dovrebbero fumare e ti dicono di andare a fumare da un'altra parte
-BO151	
-BO150	non fumate qua
-BO151	però c'han la pistola che gli dici no
-BO150	
+BO150	no da noi è pieno
+BO151	ah
+BO150	e fumano dove non dovrebbero fumare e ti dicono di andare a fumare da un'altra parte
+BO151	non fumate qua
+BO150	però c'han la pistola che gli dici no
 BO150	subito
-BO151	mi scusi
-BO152	
-BO149	
-BO151	xxxzi in facoltà da ale c'erano i pulotti
+BO150	mi scusi
+BO149	xxxzi in facoltà da ale c'erano i pulotti
 BO151	si vede che
-BO152	incominciano ad aprire
-BO150	i
-BO151	i pulo~ ah beh cavolo a parigi è
-BO149	alla
+BO151	incominciano ad aprire
+BO152	i
+BO150	i pulo~ ah beh cavolo a parigi è
+BO151	alla
 BO149	il eh e lui c~
 BO149	ci siamo passati di fianco
-BO150	e lui mi faceva tutto ah ma no ma guarda lì ma stanno anche in ascensore ma ti pare
-BO150	
-BO149	
-BO150	un sacco di polizia ma cos'è
-BO151	
-BO149	mado'
-BO150	
-BO149	cioè io mi sentirei sicuro devo dire eh
+BO149	e lui mi faceva tutto ah ma no ma guarda lì ma stanno anche in ascensore ma ti pare
+BO149	un sacco di polizia ma cos'è
+BO151	mado'
+BO150	cioè io mi sentirei sicuro devo dire eh
 BO149	io dicevo boh hanno fatto bene cioè
-BO150	nel senso siete lì a distruggere robe ogni due per tre
-BO151	
-BO149	
-BO150	
-BO149	io mi sen~
-BO150	però non glie lo potevo dire
-BO149	ah io mi setirei un sacco al sicuro a avere i polizio~ nel senso
-BO151	boh a me
-BO149	ma
-BO150	delle due vederne tanti dà senso di meno sicurezza perché
-BO151	no okay ma
-BO149	sì ma perché sai che è
-BO151	se ci sono vuol dire che c'è qualcosa
-BO150	xxx
-BO152	non so quanti erano effettivamente
-BO149	sì in effetti è veramente
+BO149	nel senso siete lì a distruggere robe ogni due per tre
+BO150	io mi sen~
+BO149	però non glie lo potevo dire
+BO150	ah io mi setirei un sacco al sicuro a avere i polizio~ nel senso
+BO149	boh a me
+BO151	ma
+BO149	delle due vederne tanti dà senso di meno sicurezza perché
+BO150	no okay ma
+BO151	sì ma perché sai che è
+BO149	se ci sono vuol dire che c'è qualcosa
+BO151	xxx
+BO150	non so quanti erano effettivamente
+BO152	sì in effetti è veramente
 BO149	no no eh
-BO150	erano veramente tanti in effe~ cioè
-BO151	ah okay okay
-BO149	
+BO149	erano veramente tanti in effe~ cioè
+BO150	ah okay okay
 BO149	passando così dall'autobus vedendo l'edificio ne ho visti f~
-BO150	una decina
-BO151	no allora migliore aspettare
-BO151	
-BO150	erano a lezione oh
-BO149	
-BO151	
-BO150	imparano anche loro
-BO151	allora no okay ovviamente sì
+BO149	una decina
+BO150	no allora migliore aspettare
+BO151	erano a lezione oh
+BO151	imparano anche loro
+BO150	allora no okay ovviamente sì
 BO151	no vabbè
-BO149	senso di insicurezza sì però al tempo stesso
-BO151	cioè sì nel senso s~
-BO149	cioè
+BO151	senso di insicurezza sì però al tempo stesso
+BO149	cioè sì nel senso s~
+BO151	cioè
 BO149	se sei in una favela
 BO149	e vedi dei poliziotti ti senti sicuro
-BO151	se sei in centro a bologna e vedi dei poliziotti dici
-BO149	come mai
-BO152	eh
+BO149	se sei in centro a bologna e vedi dei poliziotti dici
+BO151	come mai
+BO149	eh
 BO152	boh ma in centro ci stanno
 BO152	oddio sono aumentati un sacco forse mi sono abituata
-BO150	però all'inizio in effetti era strano
-BO151	mh
-BO150	io non ne vedo così tanti
+BO152	però all'inizio in effetti era strano
+BO150	mh
+BO151	io non ne vedo così tanti
 BO150	sì
-BO149	sono
-BO150	sono sempre a san petronio
-BO151	c'è una jeep parcheggiata dei militari in una via laterale dove abitava una nostra amica
-BO152	ah beh
-BO150	ah sì
+BO150	sono
+BO149	sono sempre a san petronio
+BO150	c'è una jeep parcheggiata dei militari in una via laterale dove abitava una nostra amica
+BO151	ah beh
+BO152	ah sì
 BO150	che era qua in eh
 BO150	fuori sede
-BO151	e aveva fatto amicizia con questi due militari che stavano tutto il giorno dentro questa jeep in questa viuzza qua e casa e loro
-BO150	sì ma che voglia
-BO152	però ti pagano per non fare un cazzo
-BO151	ma fanno paura però la cosa che mette ansia è che sono armati
-BO150	sì ma pof~
+BO150	e aveva fatto amicizia con questi due militari che stavano tutto il giorno dentro questa jeep in questa viuzza qua e casa e loro
+BO151	sì ma che voglia
+BO150	però ti pagano per non fare un cazzo
+BO152	ma fanno paura però la cosa che mette ansia è che sono armati
+BO151	sì ma pof~
 BO150	cioè fare un cazzo potenzialmente
 BO150	eh
-BO152	sì c'hanno avevano dei mi~ cioè poi io non sono esperto di armi dei mitra cre~ cioè
-BO151	mh
-BO150	
-BO151	delle pistole lunghe
+BO150	sì c'hanno avevano dei mi~ cioè poi io non sono esperto di armi dei mitra cre~ cioè
+BO152	mh
+BO150	delle pistole lunghe
 BO151	un mitra
-BO152	
-BO150	sì esato
-BO151	pistole lunghe
-BO151	
-BO150	con tanti colpi
-BO151	che sparano veloci esatto
-BO151	
-BO150	son rapide
-BO151	
-BO150	no però cavolo stare sempre in una camionetta lì fermi
-BO151	no infatti si impezzavano quelle dell'università
-BO150	ehi bella
-BO151	mica scemi
+BO152	sì esato
+BO150	pistole lunghe
+BO151	con tanti colpi
+BO150	che sparano veloci esatto
+BO151	son rapide
+BO151	no però cavolo stare sempre in una camionetta lì fermi
+BO150	no infatti si impezzavano quelle dell'università
+BO151	ehi bella
+BO150	mica scemi
 BO151	sì
-BO152	sì sì sì
+BO151	sì sì sì
 BO152	guarda questa forchetta è fatta solo per destri
-BO150	io non
-BO151	
-BO150	perché
-BO152	
-BO149	perché devo tenerla così
-BO151	
-BO152	come son fatte le forchette per sinistri
-BO152	
-BO151	non sono fatte perché a nessuno importa
-BO149	per fare del male per fare i sinistri
-BO150	eh
+BO152	io non
+BO151	perché
+BO152	perché devo tenerla così
+BO151	come son fatte le forchette per sinistri
+BO152	non sono fatte perché a nessuno importa
+BO151	per fare del male per fare i sinistri
+BO149	eh
 BO150	si
 BO150	sai che comunque ci sono sempre più più mancini
-BO152	statisticamente
-BO149	cosa come mai
-BO151	il gender
-BO150	controcorrente
-BO151	int~ intanto perché
+BO150	statisticamente
+BO152	cosa come mai
+BO149	il gender
+BO151	controcorrente
+BO150	int~ intanto perché
 BO151	no
-BO149	cosa il bender
-BO152	il gender
-BO150	non vengono più mh
+BO151	cosa il bender
+BO149	il gender
+BO152	non vengono più mh
 BO150	non
-BO152	non si eh esatto e quindi credo
-BO150	costretti
-BO152	cioè mh non so de~ gli studi cosa dicono però credo sia una roba che finirà cinquanta e cinquanta
-BO151	mh
-BO152	non capisco per~
-BO150	mh
-BO151	potrebbe finire cinquanta e cinquanta
-BO152	e cosa significa che si è cioè
-BO151	wow
-BO150	che è
-BO152	eh perché frank prova a usarla con la prova a usare la parte che taglia con la sinistra
-BO151	xx
-BO150	c'è una parte che taglia
-BO152	eh sì
-BO150	sì quella più grossa è fatta per tagliare i dolci
-BO151	eh sì
-BO150	ma io no la vedo
-BO152	ma che cazzo è
-BO149	la tua è diversa
-BO150	ah sì è vero sono diverse
-BO151	c'è un denti~ è come se mh
-BO152	ah è questa il dente grande
-BO150	sì
-BO151	esatto
-BO149	ah vabbè ma io la uso a caso
+BO150	non si eh esatto e quindi credo
+BO152	costretti
+BO150	cioè mh non so de~ gli studi cosa dicono però credo sia una roba che finirà cinquanta e cinquanta
+BO152	mh
+BO151	non capisco per~
+BO152	mh
+BO150	potrebbe finire cinquanta e cinquanta
+BO151	e cosa significa che si è cioè
+BO152	wow
+BO151	che è
+BO150	eh perché frank prova a usarla con la prova a usare la parte che taglia con la sinistra
+BO152	xx
+BO151	c'è una parte che taglia
+BO150	eh sì
+BO152	sì quella più grossa è fatta per tagliare i dolci
+BO150	eh sì
+BO151	ma io no la vedo
+BO150	ma che cazzo è
+BO152	la tua è diversa
+BO149	ah sì è vero sono diverse
+BO150	c'è un denti~ è come se mh
+BO151	ah è questa il dente grande
+BO152	sì
+BO150	esatto
+BO151	ah vabbè ma io la uso a caso
 BO149	e allora solo la mia è diversa
-BO152	oh tieni questa è per mancini
+BO149	oh tieni questa è per mancini
 BO152	no
-BO151	
-BO149	
-BO151	
-BO152	questa è per neutri
-BO149	ormai ho già tagliato
-BO149	
-BO150	è per gender neutri
-BO152	infatti ha un sacco di ergonomia cavolo
-BO150	ha senso che potrebbe finire cinquanta e cinquanta cioè in effetti non ha senso che sia così
-???	non so che gene cioè non credo di
-BO150	grazie
+BO151	questa è per neutri
+BO152	ormai ho già tagliato
+BO149	è per gender neutri
+BO150	infatti ha un sacco di ergonomia cavolo
+BO152	ha senso che potrebbe finire cinquanta e cinquanta cioè in effetti non ha senso che sia così
+BO150	non so che gene cioè non credo di
+???	grazie
 BO150	da cosa venga c~
-BO151	da che cosa sia causata questa questa roba
-BO150	dal demonio
+BO150	da che cosa sia causata questa questa roba
+BO151	dal demonio
 BO150	probabilmente sì
-BO151	c'è il gene del demonio però
-BO152	eh sì
-BO152	
+BO150	c'è il gene del demonio però
+BO151	eh sì
 BO152	una volta ho provato a parlarne con lorenzo e lui continuava a dire eh no
-BO150	perché è una cosa che scegli tu
-BO152	
-BO150	e io no ti ti giuro
+BO152	perché è una cosa che scegli tu
+BO152	e io no ti ti giuro
 BO150	sì come se
-BO149	come se fosse suo
-BO152	
-BO149	sì perché
-BO151	mh
-BO149	ma in che senso
-BO152	più o meno come ogni cosa dal suo punto di vista
+BO150	come se fosse suo
+BO152	sì perché
+BO149	mh
+BO151	ma in che senso
+BO149	più o meno come ogni cosa dal suo punto di vista
 BO152	us~ usi la destra
 BO152	quando
-BO150	sei abituato a usare la destra e la sinistra quando sei abituato a usare la sinistra quindi ero tipo eh no
-BO149	vero liberale
-BO152	
-BO149	nessuno mi ha mai abituato a fare niente
-BO150	se sei negro te lo sei scelto
-BO151	
-BO151	
-BO149	beh sì dai quando incominci il gioco
-BO149	
-BO151	esatto
+BO152	sei abituato a usare la destra e la sinistra quando sei abituato a usare la sinistra quindi ero tipo eh no
+BO150	vero liberale
+BO152	nessuno mi ha mai abituato a fare niente
+BO149	se sei negro te lo sei scelto
+BO151	beh sì dai quando incominci il gioco
+BO149	esatto
 BO151	pelle
-BO150	
-BO152	quando nasci tu non
-BO150	
-BO151	non non sei capitato nel menu di creazione dei personaggi io sì mi ricordo una figata
-BO151	
-BO151	
-BO149	sì sì sì
-BO151	
-BO152	è stato molto divertente
-BO150	
-BO151	dovevo scegliere tutte le classi quelle robe lì
-BO150	io mi ricordo che però non son mai stato mh bravo quindi
+BO150	quando nasci tu non
+BO150	non non sei capitato nel menu di creazione dei personaggi io sì mi ricordo una figata
+BO151	sì sì sì
+BO151	è stato molto divertente
+BO150	dovevo scegliere tutte le classi quelle robe lì
+BO151	io mi ricordo che però non son mai stato mh bravo quindi
 BO150	ma
-BO151	tu sei un paladino frank
-BO150	sì io sono un paladino
-BO150	
-BO151	xx
-BO149	non si direbbe
-BO150	
-BO150	
-BO149	non si direbbe
-BO150	ah io ho fatto il tasto random in alto
-BO151	
-BO149	
-BO152	
-BO151	
-BO150	pigrizia
-BO151	due dadi
-BO150	infatti c'ho una coda
-BO151	
-BO150	davanti è il risultato
-BO151	io sì otto mani avevo all'inizio eh
-BO150	beh eh sì eh perché non è detto che arrivi nel posto giusto xx
-BO151	è che c'erano c'era il ramo special con tutte le due nasi due bocche insomma tutte le malformazioni tra cui scegliere
+BO150	tu sei un paladino frank
+BO151	sì io sono un paladino
+BO150	xx
+BO151	non si direbbe
+BO150	non si direbbe
+BO149	ah io ho fatto il tasto random in alto
+BO151	pigrizia
+BO150	due dadi
+BO151	infatti c'ho una coda
+BO151	davanti è il risultato
+BO150	io sì otto mani avevo all'inizio eh
+BO151	beh eh sì eh perché non è detto che arrivi nel posto giusto xx
+BO150	è che c'erano c'era il ramo special con tutte le due nasi due bocche insomma tutte le malformazioni tra cui scegliere
 BO151	ah tipo che è una com'è che si chiama
-BO150	una mod
+BO151	una mod
 BO150	i ta~
 BO150	i
-BO151	i tatuaggi
-BO150	eh che scarichi
-BO151	puoi già nascere col tatuaggio eh sì
+BO150	i tatuaggi
+BO151	eh che scarichi
+BO150	puoi già nascere col tatuaggio eh sì
 BO151	ah che figo
 BO151	beh ci sta
-???	bello
-BO151	qua ragazzi
+BO151	bello
+???	qua ragazzi
 BO151	sì sì sì
-BO150	solo che quando nasci dopo cioè
-BO151	xxx
-BO150	per definizione è se il tautaggio è piccolo è bello definito poi si espande perché cresci e quindi ti diventan quelle macchie di
-BO150	
+BO151	solo che quando nasci dopo cioè
+BO150	xxx
+BO151	per definizione è se il tautaggio è piccolo è bello definito poi si espande perché cresci e quindi ti diventan quelle macchie di
 BO150	esa~
-BO150	
-BO151	esatto
-BO150	com'è che si chiama vitiligine no
-BO151	eh
-BO151	eh sì
-BO150	la vitiligine
-BO152	no non so cosa siano
-BO152	cos'è
-BO151	ah quella bianca
-BO151	xx
-BO150	eh quella bianca e nera cioè bianca e nera può essere anche bianca e bianca
-BO152	ah
-BO151	
-BO152	si vede un po' di meno
-BO152	sei più sei più scuro sembra più bianco
-BO151	xxx
-BO150	eh se tu prendi il sole sei sei di carnagione
-BO151	mh
-BO150	sei caucasico
-BO151	no caucasico siamo noi
-BO150	noi siamo caucasici
-BO151	sì
+BO150	esatto
+BO151	com'è che si chiama vitiligine no
 BO150	eh
-BO151	caucasian
-BO149	è la defini~
 BO151	eh sì
-BO149	licine
-BO150	mh mh
-BO152	v~ vai su youtube scrivi caucasian e vedi tutti i cosi di critica contro i caucasian
-BO151	n~ tipo quella modella famosa
+BO151	la vitiligine
+BO150	no non so cosa siano
+BO152	cos'è
+BO152	ah quella bianca
+BO151	xx
+BO151	eh quella bianca e nera cioè bianca e nera può essere anche bianca e bianca
+BO150	ah
+BO151	si vede un po' di meno
+BO152	sei più sei più scuro sembra più bianco
+BO152	xxx
+BO151	eh se tu prendi il sole sei sei di carnagione
+BO150	mh
+BO151	sei caucasico
+BO150	no caucasico siamo noi
+BO151	noi siamo caucasici
+BO150	sì
+BO151	eh
+BO150	caucasian
+BO151	è la defini~
+BO149	eh sì
+BO151	licine
+BO149	mh mh
+BO150	v~ vai su youtube scrivi caucasian e vedi tutti i cosi di critica contro i caucasian
+BO152	n~ tipo quella modella famosa
 BO151	what perché
-BO152	ah sì quella
-BO149	che ha delle macchie bianche in faccia
-BO150	vabbè sì cioè in america dicono caucasico perché non gli piace dire bianco a quanto pare
-BO151	sì
-BO152	che schifo
-BO149	tipo andrea quello che era venuto allo stop
+BO151	ah sì quella
+BO152	che ha delle macchie bianche in faccia
+BO149	vabbè sì cioè in america dicono caucasico perché non gli piace dire bianco a quanto pare
+BO150	sì
+BO151	che schifo
+BO152	tipo andrea quello che era venuto allo stop
 BO149	vera~
 BO149	sì
-BO151	tipo mio padre sulle mani
-BO152	è vitiligineo
-BO151	ah
+BO149	tipo mio padre sulle mani
+BO151	è vitiligineo
+BO152	ah
 BO151	ha la vitiligine
-BO149	sulle mani
-BO151	so~ solo sulle mani in montagna deve sempre mettere i guanti che se no se le brucia
+BO151	sulle mani
+BO149	so~ solo sulle mani in montagna deve sempre mettere i guanti che se no se le brucia
 BO151	ah che strano
 BO151	ma dai
-BO150	che strano
-BO151	dei forni
-BO150	lucia che mi condivide mh
-BO152	
-BO151	perché
-BO149	non lo so
-BO151	ma non è un po' grassa
-???	beh un pochino
-BO152	ah sì
-BO151	ma è un video
-BO150	cosa sta succedendo sì è un video ma che ca
-BO149	
-BO151	sta ingrassando
-BO150	
-BO150	
-BO151	ma non è ricardo oh sì è ricardo
-BO150	sì
-BO149	allora è quella giusta frank
-BO150	
-BO151	se è ricardo è quella giusta
-BO152	ma me ne aveva condiviso una
-BO150	chi è ricahrdo
+BO151	che strano
+BO150	dei forni
+BO151	lucia che mi condivide mh
+BO152	perché
+BO151	non lo so
+BO149	ma non è un po' grassa
+BO151	beh un pochino
+???	ah sì
+BO152	ma è un video
+BO151	cosa sta succedendo sì è un video ma che ca
+BO149	sta ingrassando
+BO150	ma non è ricardo oh sì è ricardo
+BO151	sì
+BO150	allora è quella giusta frank
+BO150	se è ricardo è quella giusta
+BO151	ma me ne aveva condiviso una
+BO152	chi è ricahrdo
 BO150	chi è richa~ come chi è richar~
-BO149	è tipo il meme immortale
-BO150	
-BO151	quello che non morirà mai
+BO150	è tipo il meme immortale
+BO150	quello che non morirà mai
 BO151	cioè ma
-BO150	in~ ma infatti ma perché va bene per tutto
-BO152	boh davvero ha un eh una una timeline eh assurda
-BO151	io non so i meme
+BO151	in~ ma infatti ma perché va bene per tutto
+BO150	boh davvero ha un eh una una timeline eh assurda
+BO152	io non so i meme
 BO151	io non riesco a trovare però il video vecchio di di
 BO151	tizio
-BO150	che era bellissimo
+BO151	che era bellissimo
 BO150	e io ormai eh eh sono
 BO150	anche all'università la gente arriva ai meme che io ho visto tipo un
-BO152	sette mesi fa e quindi non mi fan più ridere
-BO150	mh
-BO149	e tipo adesso loro cominciano a condividere quelli di mussolini girato
-BO150	eh è il triste
-BO149	tipo io sono rega ma come fa a farvi ridere sta roba c'era un anno fa
-BO150	è il triste destino
-BO149	è tristissimo
+BO150	sette mesi fa e quindi non mi fan più ridere
+BO152	mh
+BO150	e tipo adesso loro cominciano a condividere quelli di mussolini girato
+BO149	eh è il triste
+BO150	tipo io sono rega ma come fa a farvi ridere sta roba c'era un anno fa
+BO149	è il triste destino
+BO150	è tristissimo
 BO149	ma poi si inizi a seguire telegram
-BO150	vai ancora più in anticipo
-BO149	no però four chan era già
-BO150	sì vabbè four~
-BO149	four chan è proprio do~ do~ do~ è è la fabbrica de
-BO150	sì sì
-BO151	è il calderone dove escono fumanti ancora
-BO149	eh ca~
-BO152	comunque io mi sa che fra pochissimo devo andare
-BO149	mh
-BO151	purtroppo
-BO150	sono quasi le sette cioè mancano venticinque minuti ventitré minuti
-BO152	non dire quasi
-BO151	io invece
-BO149	ventitré minuti alle sette
-BO152	
+BO149	vai ancora più in anticipo
+BO150	no però four chan era già
+BO149	sì vabbè four~
+BO150	four chan è proprio do~ do~ do~ è è la fabbrica de
+BO149	sì sì
+BO150	è il calderone dove escono fumanti ancora
+BO151	eh ca~
+BO149	comunque io mi sa che fra pochissimo devo andare
+BO152	mh
+BO149	purtroppo
+BO151	sono quasi le sette cioè mancano venticinque minuti ventitré minuti
+BO150	non dire quasi
+BO152	io invece
+BO151	ventitré minuti alle sette
 BO152	vado da mio fratello
 BO152	e gli dico mi spieghi questo meme
-BO150	e lui
-BO150	
-BO152	chiedigli di ricardo
-BO149	io non capisco il meme
-BO152	di ray charles
-BO150	nessuno due punti
-BO149	eh
-BO152	ma come
-BO150	cosa vuol dire
+BO152	e lui
+BO150	chiedigli di ricardo
+BO152	io non capisco il meme
+BO149	di ray charles
+BO152	nessuno due punti
+BO150	eh
+BO149	ma come
+BO152	cosa vuol dire
 BO150	è fare critica sulle
-BO149	cose immotivate in sostanza
+BO150	cose immotivate in sostanza
 BO149	cioè
 BO149	è tipo quando tu vuoi
 BO149	far vedere così tanto una cosa
 BO149	che anche se nessuno ti caga tu inizi a farla
-BO150	quella era l'idea originale
-BO149	eh poi dopo poi ogni volta
-BO152	poi è diventato un meme di
-BO149	ma
-BO150	nessuno e cosa a caso
-BO151	tipo que~ quello che mi ha fatto più ridere è
-BO150	non capisco
+BO149	quella era l'idea originale
+BO150	eh poi dopo poi ogni volta
+BO149	poi è diventato un meme di
+BO152	ma
+BO149	nessuno e cosa a caso
+BO150	tipo que~ quello che mi ha fatto più ridere è
+BO151	non capisco
 BO150	nob~ nobody
-BO152	no c'era eh alle tre di no~
-BO150	mh
+BO150	no c'era eh alle tre di no~
+BO152	mh
 BO150	nobody alle tre di notte
 BO150	e poi l~ la televisione sai quelle vecchie a tubo catodico che fanno crak
-BO152	intanto
-BO152	
-BO150	okay
-BO151	eh
-BO150	okay ho trovato
-BO151	chi glie l'ha chiesto nessuno però
-BO152	la cosa più bella che
-BO151	ah chi te l'ha chiesto co~ cosa
-BO150	che m'ha condiviso lucia
-BO152	cioè nel senso
-BO150	non capisco
-BO149	l~ lo lo fanno senza un motivo cioè eh
-BO150	sì è quello il senso
+BO150	intanto
+BO152	okay
+BO150	eh
+BO151	okay ho trovato
+BO150	chi glie l'ha chiesto nessuno però
+BO151	la cosa più bella che
+BO152	ah chi te l'ha chiesto co~ cosa
+BO151	che m'ha condiviso lucia
+BO150	cioè nel senso
+BO152	non capisco
+BO150	l~ lo lo fanno senza un motivo cioè eh
+BO149	sì è quello il senso
 BO150	è già trasceso il meme non è più la
-BO151	
-BO149	
-BO150	
-BO149	
-BO150	
-BO150	
-BO150	
 BO150	sempre lucia
-BO151	devi comprarti quelle mutande frank
-BO151	
-BO150	è è orribile
-BO151	
-BO150	è orrib~
-BO151	è bellissimo frank
-BO150	
+BO150	devi comprarti quelle mutande frank
+BO151	è è orribile
+BO151	è orrib~
+BO150	è bellissimo frank
 BO150	è la nuova
-BO151	il nuovo fisico aureo
-BO151	
-BO150	il problema è che l'ho fatto vedere a mio fratello
-BO151	
-BO150	e e vabbè mio fratello è rimasto tipo così
-BO151	xx
-BO150	eh ha detto ah fallo vedere a pa' che era a fianco
-BO151	
+BO150	il nuovo fisico aureo
+BO151	il problema è che l'ho fatto vedere a mio fratello
+BO151	e e vabbè mio fratello è rimasto tipo così
+BO150	xx
+BO151	eh ha detto ah fallo vedere a pa' che era a fianco
 BO151	faccio vedere a mio padre
-BO149	
-BO150	
-BO151	comunque che bello che in questa registrazione ci sarà il nome riccardo ricardo
+BO150	comunque che bello che in questa registrazione ci sarà il nome riccardo ricardo
 BO151	co~
-BO152	ma è fatto benissimo
-BO150	
-BO150	
-BO151	
-BO150	okay adesso che abbiamo avuto la dose di di ricardo
-BO150	
-BO149	più che altro frank visto su quel telefono è proprio
-BO152	
-BO150	è vero
-BO152	cioè è è è trash allo stato puro
-BO151	
-BO152	è fantastico
-BO150	no
-BO151	sembra di essere nel passato e vedere le cose del futuro
-BO151	
-BO150	
+BO151	ma è fatto benissimo
+BO151	okay adesso che abbiamo avuto la dose di di ricardo
+BO150	più che altro frank visto su quel telefono è proprio
+BO152	è vero
+BO150	cioè è è è trash allo stato puro
+BO151	è fantastico
+BO152	no
+BO150	sembra di essere nel passato e vedere le cose del futuro
 BO150	un'altra cosa che potremmo provare a fare è fare una canzone
-BO152	e sperare che tra qualche anno finisca in una meme e diventa~ capitalizzare su spotify perché raggiungiamo il boom di
-BO152	
-BO149	
-BO151	
-BO150	beh basta far fare una canzone
-BO151	una una che sai che può fittare bene con i
-BO152	tropicana
+BO150	e sperare che tra qualche anno finisca in una meme e diventa~ capitalizzare su spotify perché raggiungiamo il boom di
+BO151	beh basta far fare una canzone
+BO150	una una che sai che può fittare bene con i
 BO151	tropicana
-BO149	eh
-BO150	maracaibo
-BO152	ma nuova
-BO150	la riregistriamo
-BO149	nuova vo fatta frank
-BO150	io non ho ancora capito perché maracaibo non è il top del top
-BO151	il mio coinquino il mio coinquilino me l'ha spiegata xx è un ha un testo assurdo
-BO149	perché c'è tropicana
-BO150	sì esatto
-BO151	di lei che è tipo una prostituta e
+BO152	tropicana
+BO151	eh
 BO149	maracaibo
-BO151	ah e cioè cioè
-BO149	mare forza
+BO150	ma nuova
+BO152	la riregistriamo
+BO150	nuova vo fatta frank
+BO149	io non ho ancora capito perché maracaibo non è il top del top
+BO150	il mio coinquino il mio coinquilino me l'ha spiegata xx è un ha un testo assurdo
+BO151	perché c'è tropicana
+BO149	sì esatto
+BO150	di lei che è tipo una prostituta e
+BO151	maracaibo
+BO149	ah e cioè cioè
+BO151	mare forza
 BO149	ogni due linee cambia
-BO151	
-BO150	nove
-BO151	è una storia assurda
-BO149	ogni due righe
-BO151	cam~ cioè n non capisci un cazzo cioè è come se fossero storie di due righe
-BO150	ah
+BO151	nove
+BO150	è una storia assurda
+BO151	ogni due righe
+BO149	cam~ cioè n non capisci un cazzo cioè è come se fossero storie di due righe
+BO151	ah
 BO150	ti eh se
-BO151	e invece è la storia di un'unica tipa che apparentemente fa un sacco di roba e
-BO150	ah
-BO149	da un punto a finisce a un punto bi però non mi ricordo qual è l'inizio né la fine
-BO150	esatto
-BO151	non so se è una prostituta o finisce a far la prosti~ eh
+BO150	e invece è la storia di un'unica tipa che apparentemente fa un sacco di roba e
+BO151	ah
+BO150	da un punto a finisce a un punto bi però non mi ricordo qual è l'inizio né la fine
+BO149	esatto
+BO150	non so se è una prostituta o finisce a far la prosti~ eh
 BO151	sì ma chi è che l'ha fatta
-BO149	chi è che ha fatto sta canzone
-BO151	lu colombo
-BO149	ed è una donna
-BO151	sì
-BO152	ah
-BO149	ah sì
-BO150	è quella che canta maracaibo
-BO152	cioè oddio eh la voce
-BO151	pensavo fosse un uomo
-BO150	io pensavo fosse un uomo il nome
+BO151	chi è che ha fatto sta canzone
 BO149	lu colombo
-BO151	lou
-BO150	ah lou
-BO151	lou tipo legge
-BO149	
+BO151	ed è una donna
+BO149	sì
+BO151	ah
+BO152	ah sì
+BO149	è quella che canta maracaibo
+BO150	cioè oddio eh la voce
+BO152	pensavo fosse un uomo
+BO151	io pensavo fosse un uomo il nome
+BO150	lu colombo
+BO149	lou
+BO151	ah lou
+BO150	lou tipo legge
 BO149	no
-BO150	
-BO152	
 BO152	io secondo me non l'ho mai sentita ho solo sentito gente che
 BO152	diceva maracaibo
-BO151	come la maggior parte delle canzoni
-BO150	ah
-BO152	
-BO151	del mondo
-BO149	beh oddio
-BO151	beh cioè
-BO152	il cobra non è un serpente
-BO151	quella l'ho sentitia
-BO150	io ho sentito soltanto quel pezzo
-BO152	ma cos'è invece
-BO151	no io tutta
-BO150	è una pubblicità
-BO149	xx il cobra
-BO151	
-BO149	sì
-BO151	eh se vuoi comprare un cobra
-BO150	
-BO152	
+BO152	come la maggior parte delle canzoni
+BO151	ah
+BO152	del mondo
+BO151	beh oddio
+BO149	beh cioè
+BO151	il cobra non è un serpente
+BO152	quella l'ho sentitia
+BO151	io ho sentito soltanto quel pezzo
+BO150	ma cos'è invece
+BO152	no io tutta
+BO151	è una pubblicità
+BO150	xx il cobra
+BO151	sì
+BO149	eh se vuoi comprare un cobra
 BO152	no è una canzone di
-BO150	di una tipo degli anni settanta ottanta
-BO151	no però dice nel testo il cobra non è un serpente ma
-BO150	sì si chiama compilation
-BO151	non mi ricordo più
-BO152	eh
-BO150	non mi ricordo
-BO152	eh nessuno lo sa cos'è
-BO149	
-BO150	beh oddio
-BO151	solo cosa non è
-BO151	
-BO150	
-BO152	non è un serpente
-BO151	
-BO150	balto
-BO149	
-BO150	
-BO149	cosa
-BO150	
+BO152	di una tipo degli anni settanta ottanta
+BO150	no però dice nel testo il cobra non è un serpente ma
+BO151	sì si chiama compilation
+BO150	non mi ricordo più
+BO151	eh
+BO152	non mi ricordo
+BO150	eh nessuno lo sa cos'è
+BO149	beh oddio
+BO150	solo cosa non è
+BO150	non è un serpente
 BO151	balto
-BO150	balto eh
-BO149	non era né alto né basso era balto
-BO151	
-BO149	
-BO150	esatto
-BO151	
-BO149	dai il cane lupo
-BO150	per quello sapeva solo cosa non era
-BO151	
-BO149	
-BO152	
-BO150	oddio
-BO151	
-BO150	no
+BO150	cosa
+BO150	balto
+BO151	balto eh
+BO150	non era né alto né basso era balto
+BO149	esatto
+BO151	dai il cane lupo
+BO149	per quello sapeva solo cosa non era
+BO152	oddio
+BO151	no
 BO150	tra l'altro avevo letto una meme bellissima
 BO150	con scritto balto non s'è rotto il culo nel millenovecentoventicinque per per portare i medicinali eh
-BO149	per lasciare che i vostri figli non si vaccinassero tipo
-BO151	
-BO151	
-BO150	triste
-BO149	mi faccio un drummino poi
+BO150	per lasciare che i vostri figli non si vaccinassero tipo
+BO151	triste
+BO150	mi faccio un drummino poi
 BO149	eh non voglio
-BO150	rompervi le uova nel paniere
-BO151	ah ma comunque anch'io devo
-BO150	non ce le abbiamo tanto
-BO149	devo andare alla mega festa io
+BO149	rompervi le uova nel paniere
+BO150	ah ma comunque anch'io devo
+BO151	non ce le abbiamo tanto
+BO150	devo andare alla mega festa io
 BO149	ah okay
-BO152	uh
-BO150	ah
-BO151	siamo in quattro
-BO150	ah già
-BO152	siamo in cinque
-BO151	wow
-BO150	ah è una festa da cinque
+BO149	uh
+BO152	ah
+BO150	siamo in quattro
+BO151	ah già
+BO150	siamo in cinque
+BO152	wow
+BO151	ah è una festa da cinque
 BO150	c'è marina il suo moroso anna io
-BO151	e un cugino random
-BO150	
-BO151	xxx
+BO150	e un cugino random
+BO150	xxx
 BO151	ah
-BO149	beh ottima scelta
+BO151	beh ottima scelta
 BO149	proposito marina m'ha scritto ieri
 BO149	una

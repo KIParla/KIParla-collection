@@ -1,132 +1,132 @@
 BOR007	okay
 BOR007	allora intanto ti chiedo che ehm che lavoro fai tu
-BOI031	di cosa ti occupi
+BOR007	di cosa ti occupi
 BOI031	allora io
 BOI031	lavoro in una pizzeria
-BOR007	però ho delle diverse mansioni dipende dal servizio tipo a pranzo
-BOI031	mhmh
-BOR007	sto al banco delle insalate
-BOI031	mhmh
-BOI031	e a cena sto al pc come cassiera perché
-BOR007	abbiam tre linee telefoniche e in sala
+BOI031	però ho delle diverse mansioni dipende dal servizio tipo a pranzo
 BOR007	mhmh
-BOI031	e da quanto tempo fai questo lavoro
-BOR007	nella ristorazione sono quasi dodici anni
+BOI031	sto al banco delle insalate
+BOR007	mhmh
+BOI031	e a cena sto al pc come cassiera perché
+BOI031	abbiam tre linee telefoniche e in sala
+BOR007	mhmh
+BOR007	e da quanto tempo fai questo lavoro
+BOI031	nella ristorazione sono quasi dodici anni
 BOR007	ah ok e quindi hai cambiato però
-BOI031	cioè o fai se~
-BOR007	ho fatto la barista però per la maggior parte ho lavorato nei ristoranti
-BOI031	mhmh
+BOR007	cioè o fai se~
+BOI031	ho fatto la barista però per la maggior parte ho lavorato nei ristoranti
+BOR007	mhmh
 BOI031	ma i primi anni che ero qui a bologna ho lavorato un anno e mezzo perché io prima facevo la parrucchiera
-BOR007	prima di trasferirmi qui a bologna
+BOI031	prima di trasferirmi qui a bologna
 BOR007	ah
 BOR007	mhmh
 BOR007	e
 BOR007	ehm
 BOR007	è quello
-BOI031	il lavoro nella ristorazione è quello che hai sempre voluto fare o insomma ti aspettavi qualcos'altro hai degli altri obiettivi
+BOR007	il lavoro nella ristorazione è quello che hai sempre voluto fare o insomma ti aspettavi qualcos'altro hai degli altri obiettivi
 BOI031	allora in realtà sono sempre stata
 BOI031	affascinata dal mondo
 BOI031	del turismo
-BOR007	però diciamo che la ristorazione non era nei miei progetti l'ho scoperta così per caso sono andata a lavorare
-BOI031	mhmh
-BOR007	durante dei weekend in un ristorante zona fiera dove ho scoperto che poi alla fine mi piaceva e ci sono rimasta lì per nove anni
+BOI031	però diciamo che la ristorazione non era nei miei progetti l'ho scoperta così per caso sono andata a lavorare
 BOR007	mhmh
-BOI031	e eh quindi prima avevi detto che lavoravi anche come parrucchiera
+BOI031	durante dei weekend in un ristorante zona fiera dove ho scoperto che poi alla fine mi piaceva e ci sono rimasta lì per nove anni
+BOR007	mhmh
+BOR007	e eh quindi prima avevi detto che lavoravi anche come parrucchiera
 BOI031	sì lavoravo
-BOR007	si chiamava parrucchiera estro che adesso ha chiuso ed è
-BOI031	mhmh
-BOR007	in via zamboni il posto che adesso è diventato un'enoteca
+BOI031	si chiamava parrucchiera estro che adesso ha chiuso ed è
+BOR007	mhmh
+BOI031	in via zamboni il posto che adesso è diventato un'enoteca
 BOR007	mhmh
 BOR007	ah
 BOR007	okay
-BOI031	di cosa ti occupavi a mh in questo in questo salone
-BOR007	colori colpi di luce
-BOI031	mhmh
+BOR007	di cosa ti occupavi a mh in questo in questo salone
+BOI031	colori colpi di luce
+BOR007	mhmh
 BOI031	e facevo anche i manicure
-BOR007	vabbè shampi queste cose qua
-BOI031	sì
-BOR007	ecco quasi tutto
+BOI031	vabbè shampi queste cose qua
+BOR007	sì
+BOI031	ecco quasi tutto
 BOR007	mhmh
 BOR007	e
 BOR007	ehm
 BOR007	a a confronto con il lavoro nella ristorazione quale preferiresti anche tipo magari
-BOI031	come orari come flessibilità
+BOR007	come orari come flessibilità
 BOI031	allora
 BOI031	come orari
 BOI031	e come clientela preferirei
-BOR007	un salone di parrucchieri ma
-BOI031	mhmh
-BOR007	ho cambiato perché il pagamento è molto basso rispetto alla ristorazione
-BOI031	mhmh
-BOR007	ecco
+BOI031	un salone di parrucchieri ma
+BOR007	mhmh
+BOI031	ho cambiato perché il pagamento è molto basso rispetto alla ristorazione
+BOR007	mhmh
+BOI031	ecco
 BOR007	e poi
 BOR007	mh
-BOI031	ad esempio io so anche che le parrucchiere comunque f~ lavorano veramente tanto cioè stanno aperte
+BOR007	ad esempio io so anche che le parrucchiere comunque f~ lavorano veramente tanto cioè stanno aperte
 BOI031	e okay però rispetto al lavoro che svolgo adesso
-BOR007	ti dà più spazio per te stessa invece la ristorazione diciamo che ti dà meno libertà
+BOI031	ti dà più spazio per te stessa invece la ristorazione diciamo che ti dà meno libertà
 BOR007	mh
 BOR007	sì
 BOR007	sì sì sì
 BOR007	e
-BOI031	e quindi per quanto riguarda la ristorazione no
-BOR007	mhmh
-BOI031	te mi hai detto che facevi anche la barista
-BOR007	sì
-BOI031	che dove l~ dove lo facevi
-BOR007	l'ho fatto con lei mh
-BOI031	sempre qua a bolo~
+BOR007	e quindi per quanto riguarda la ristorazione no
+BOI031	mhmh
+BOR007	te mi hai detto che facevi anche la barista
+BOI031	sì
+BOR007	che dove l~ dove lo facevi
+BOI031	l'ho fatto con lei mh
+BOR007	sempre qua a bolo~
 BOI031	da
 BOI031	l'ho fatto al @nomeluogo
 BOI031	e poi ho lavorato in un bar in via massarenti
-BOR007	il primo anche che mi son trasferita qui
-BOI031	mhmh
+BOI031	il primo anche che mi son trasferita qui
+BOR007	mhmh
 BOI031	e
-BOR007	poi ho lavorato vabbè nella @nomeluogo nove anni in zona fiera
-BOI031	sì
-BOR007	poi ho lavorato dalla trattoria @nomeluogo
-BOI031	sì
+BOI031	poi ho lavorato vabbè nella @nomeluogo nove anni in zona fiera
+BOR007	sì
+BOI031	poi ho lavorato dalla trattoria @nomeluogo
+BOR007	sì
 BOI031	poi ho ra~ ho lavorato in un
-BOR007	bar e pompa di benzina a borgo panigale della esso
-BOI031	mhmh
+BOI031	bar e pompa di benzina a borgo panigale della esso
+BOR007	mhmh
 BOI031	eh
-BOR007	e poi adesso mi son fermata in questo posto dove ci son da tre anni
+BOI031	e poi adesso mi son fermata in questo posto dove ci son da tre anni
 BOR007	mhmh
 BOR007	ehm
 BOR007	i pro e i contro di questo lavoro
-BOI031	cioè qualcosa che ti piace
-BOR007	allora il pro è la parte economica
-BOI031	mhmh
+BOR007	cioè qualcosa che ti piace
+BOI031	allora il pro è la parte economica
+BOR007	mhmh
 BOI031	diciamo che rispetto agli altri lavori ancora oggi
-BOR007	è quello un po' più pagato
-BOI031	sì
+BOI031	è quello un po' più pagato
+BOR007	sì
 BOI031	i contro è che devi essere molto flessibile
-BOR007	ma molto
-BOI031	mhmh
-BOR007	che devi rinunciare a molte cose nella tua vita
-BOI031	sì
+BOI031	ma molto
+BOR007	mhmh
+BOI031	che devi rinunciare a molte cose nella tua vita
+BOR007	sì
 BOI031	e
 BOI031	che trovi molto poco spazio per i tuoi interessi per i tuoi hobby e
-BOR007	per le persone che ti stanno a fianco
+BOI031	per le persone che ti stanno a fianco
 BOR007	sì
 BOR007	sì sì
 BOR007	ehm
 BOR007	quindi
 BOR007	cioè tutto sommato ti piacerebbe andare avanti con questo lavoro o
-BOI031	magari cerchi qualcos'altro
-BOR007	no
-BOI031	cioè andresti avanti con il
+BOR007	magari cerchi qualcos'altro
 BOI031	no
-BOR007	no no vorrei cambiare
-BOI031	ah e cosa vorresti fare
-BOR007	la oss
-BOI031	la
-BOR007	oss
-BOI031	che sarebbe
-BOR007	l'operatrice sociosanitaria
-BOI031	ah okay e cosa ti~ cioè nel concreto cosa co~ cioè cos'è che ti attira di questo lavoro
-BOR007	beh stare a contatto con della gente
-BOI031	xx
-BOR007	che ha davvero bisongo
+BOR007	cioè andresti avanti con il
+BOI031	no
+BOI031	no no vorrei cambiare
+BOR007	ah e cosa vorresti fare
+BOI031	la oss
+BOR007	la
+BOI031	oss
+BOR007	che sarebbe
+BOI031	l'operatrice sociosanitaria
+BOR007	ah okay e cosa ti~ cioè nel concreto cosa co~ cioè cos'è che ti attira di questo lavoro
+BOI031	beh stare a contatto con della gente
+BOR007	xx
+BOI031	che ha davvero bisongo
 BOR007	sì
 BOR007	mhmh
 BOR007	ehm
@@ -135,175 +135,175 @@ BOR007	per
 BOR007	per quel che riguarda comunque sempre il lavoro a bologna
 BOR007	ehm
 BOR007	credi che sia un buon posto per lavorare o t~ comunque anche ti vorresti anche trasferire perché
-BOI031	magari dici non so qua a bologna non trovo più di tanto
+BOR007	magari dici non so qua a bologna non trovo più di tanto
 BOI031	no bologna eh
-BOR007	con questo tipo di lavoro si trova molto bene anche un posto fisso
-BOI031	mhmh
-BOR007	il problema è che da quando io avevo dieci anni ho conosciuto roma perché ci vado quasi tutti gli anni me ne sono perdutamente innamorata
+BOI031	con questo tipo di lavoro si trova molto bene anche un posto fisso
+BOR007	mhmh
+BOI031	il problema è che da quando io avevo dieci anni ho conosciuto roma perché ci vado quasi tutti gli anni me ne sono perdutamente innamorata
 BOR007	sì
 BOR007	sì
 BOR007	ehm
 BOR007	tu
-BOI031	mi hai detto che ti sei trasferita qua quindi non vivevi qua a bologna
-BOR007	no io sono nata a potenza in basilicata e sono venuta qui per amore
+BOR007	mi hai detto che ti sei trasferita qua quindi non vivevi qua a bologna
+BOI031	no io sono nata a potenza in basilicata e sono venuta qui per amore
 BOR007	mhmh
 BOR007	ah okay
 BOR007	e quindi hai lavorato anche là
-BOI031	o hai lavorato solo
-BOR007	sì facevo la parrucchiera
-BOI031	ah sì ah beh sì sì sì giusto
+BOR007	o hai lavorato solo
+BOI031	sì facevo la parrucchiera
+BOR007	ah sì ah beh sì sì sì giusto
 BOI031	xx
 BOI031	mhmh mh
-BOR007	sì sì sì
+BOI031	sì sì sì
 BOR007	e tipo le differenze rispetto a mh
-BOI031	a potenza giusto xxx
-BOR007	mhmh
+BOR007	a potenza giusto xxx
+BOI031	mhmh
 BOR007	rispetto potenza e bologna
-BOI031	dal punto di vista lavorativo secondo te
+BOR007	dal punto di vista lavorativo secondo te
 BOI031	allora
 BOI031	eh
 BOI031	diciamo che giù da noi
 BOI031	sei molto sottopagata
-BOR007	ecco
-BOI031	mh
-BOR007	okay se poi arriva lo stipendio alla fine del mese
-BOI031	sì
-BOR007	e poi quasi nessuno ti fa un contratto regolare o addirittura ti tengono in nero
-BOI031	mhmh
-BOI031	e diciamo che
-BOR007	i diritti non sono gli stessi ecco
+BOI031	ecco
 BOR007	mh
-BOI031	in che senso
-BOR007	permessi ferie
-BOI031	mh
-BOR007	pause ecco
-BOI031	okay
-BOR007	diciamo che è un po' tutto alla buona
-BOI031	sì
-BOR007	così
+BOI031	okay se poi arriva lo stipendio alla fine del mese
+BOR007	sì
+BOI031	e poi quasi nessuno ti fa un contratto regolare o addirittura ti tengono in nero
+BOR007	mhmh
+BOI031	e diciamo che
+BOI031	i diritti non sono gli stessi ecco
+BOR007	mh
+BOR007	in che senso
+BOI031	permessi ferie
+BOR007	mh
+BOI031	pause ecco
 BOR007	okay
-BOI031	e quindi da quanto tempo da quanto tempo sei qua a bologna tu
-BOR007	quattordici anni
-BOI031	mh e hai sempre vissuto qua in questa zona o
+BOI031	diciamo che è un po' tutto alla buona
+BOR007	sì
+BOI031	così
+BOR007	okay
+BOR007	e quindi da quanto tempo da quanto tempo sei qua a bologna tu
+BOI031	quattordici anni
+BOR007	mh e hai sempre vissuto qua in questa zona o
 BOI031	no
-BOR007	allora io il mio primo anno ho vissuto a ozzano nell'emilia
-BOI031	mhmh
+BOI031	allora io il mio primo anno ho vissuto a ozzano nell'emilia
+BOR007	mhmh
 BOI031	perché ero da poco arrivata a bologna e quindi sono andata a vivere
 BOI031	con il mio compagno
 BOI031	che poi è diventato mio marito e abitavo anche con i suoi perché ero piccolina
-BOR007	quindi
-BOI031	okay
-BOR007	il tempo di adattarmi a questa città che per me era nuovissima ed era grandissima rispetto al posto dove abitavo
+BOI031	quindi
+BOR007	okay
+BOI031	il tempo di adattarmi a questa città che per me era nuovissima ed era grandissima rispetto al posto dove abitavo
 BOR007	eh
-BOI031	sì esatto
-BOR007	dopo un annetto abbiamo deciso di prendere un monolocale qui a bologna
-BOI031	mhmh
-BOI031	e
-BOR007	provare la convivenza da soli
-BOI031	mhmh
-BOR007	e siam venuti ad abitare in massarenti per un annetto
+BOR007	sì esatto
+BOI031	dopo un annetto abbiamo deciso di prendere un monolocale qui a bologna
 BOR007	mhmh
-BOI031	scusa ma quanti anni avevi quando sei arriva~
-BOR007	diciannove
+BOI031	e
+BOI031	provare la convivenza da soli
+BOR007	mhmh
+BOI031	e siam venuti ad abitare in massarenti per un annetto
+BOR007	mhmh
+BOR007	scusa ma quanti anni avevi quando sei arriva~
+BOI031	diciannove
 BOR007	okay
 BOR007	ehm
 BOR007	tipo la prima cosa che
 BOR007	che ti ha colpito di bologna quando sei arrivata
-BOI031	cioè che è una cosa xx
-BOR007	la prima cosa che mi ha colpito di bologna
-BOI031	mhmh
-BOR007	beh non è stata una cosa molto piacevole
-BOI031	davvero
-BOI031	nel senso che
-BOR007	io sono abituata a la gente che incontri per strada e anche se non ti conosce ti saluta okay quindi
-BOI031	sì
-BOR007	mi faceva sentire tranquilla invece quando sono arrivata qua
-BOI031	mh
-BOR007	ho trovato un attimino di freddezza e questo il primo anno mi è pesato
-BOI031	mhmh
-BOR007	molto
-BOI031	ma questa cosa la vedo anche io in realtà perché io vengo da un paesino
+BOR007	cioè che è una cosa xx
+BOI031	la prima cosa che mi ha colpito di bologna
 BOR007	mhmh
-BOI031	molto piccolo quindi insomma quando vieni a bologna sicuramente è una realtà molto più grande no
+BOI031	beh non è stata una cosa molto piacevole
+BOR007	davvero
+BOI031	nel senso che
+BOI031	io sono abituata a la gente che incontri per strada e anche se non ti conosce ti saluta okay quindi
 BOR007	sì
+BOI031	mi faceva sentire tranquilla invece quando sono arrivata qua
+BOR007	mh
+BOI031	ho trovato un attimino di freddezza e questo il primo anno mi è pesato
+BOR007	mhmh
+BOI031	molto
+BOR007	ma questa cosa la vedo anche io in realtà perché io vengo da un paesino
+BOI031	mhmh
+BOR007	molto piccolo quindi insomma quando vieni a bologna sicuramente è una realtà molto più grande no
+BOI031	sì
 BOR007	mh
 BOR007	e
 BOR007	quindi hai
 BOR007	hai frequentato le scuole
-BOI031	ehm nel
+BOR007	ehm nel
 BOI031	giù da me
-BOR007	sì sì sì sì
+BOI031	sì sì sì sì
 BOR007	esatto
 BOR007	okay
 BOR007	e i tuoi amici sono ancora
-BOI031	ehm in a potenza oppure hai trovato anche degli amici anche qua a bologna
+BOR007	ehm in a potenza oppure hai trovato anche degli amici anche qua a bologna
 BOI031	allora
 BOI031	mh
-BOR007	diciamo
-BOI031	o comunque hai hai dei hai mantenuto i rapporti con i tuoi amici
+BOI031	diciamo
+BOR007	o comunque hai hai dei hai mantenuto i rapporti con i tuoi amici
 BOI031	ho mantenuto dei rapporti con pochissime persone perché
-BOR007	in realtà io poi la mentalità che c'è giù non la condivido
-BOI031	mhmh
+BOI031	in realtà io poi la mentalità che c'è giù non la condivido
+BOR007	mhmh
 BOI031	eh
 BOI031	diciamo che
-BOR007	a volte sono molto chiusi e quindi questo è stato uno dei motivi che mi ha fatto scappare via
-BOI031	sì
-BOR007	e invece ho molte più persone di fiducia qui
-BOI031	mhmh
+BOI031	a volte sono molto chiusi e quindi questo è stato uno dei motivi che mi ha fatto scappare via
 BOR007	sì
+BOI031	e invece ho molte più persone di fiducia qui
+BOR007	mhmh
+BOI031	sì
 BOR007	okay
 BOR007	ehm
 BOR007	c'è qualche magari ricordo legato alla tua infanzia
 BOR007	quindi legato anche al tuo paese natale
-BOI031	che
-BOR007	sì
+BOR007	che
+BOI031	sì
 BOR007	tipo uno
-BOI031	lo sc~ me lo diresti
+BOR007	lo sc~ me lo diresti
 BOI031	eh
 BOI031	beh uno è
-BOR007	no è è unico che è mio zio che l'ho perso e
-BOI031	mhmh
-BOR007	ogni sabato mi veniva a prendere e mi portava sul lungo mare a salerno a far colazione
+BOI031	no è è unico che è mio zio che l'ho perso e
+BOR007	mhmh
+BOI031	ogni sabato mi veniva a prendere e mi portava sul lungo mare a salerno a far colazione
 BOR007	wow
-BOI031	aspetta perché a salerno
-BOR007	perché noi siamo ad un'ora di distanza io abito in montagna
-BOI031	ah okay
-BOR007	invece a salerno c'è il mare allora lui
-BOI031	ah okay
-BOR007	il sabato mi mi veniva a prendere mi portava a far colazione sul lungomare a salerno
+BOR007	aspetta perché a salerno
+BOI031	perché noi siamo ad un'ora di distanza io abito in montagna
+BOR007	ah okay
+BOI031	invece a salerno c'è il mare allora lui
+BOR007	ah okay
+BOI031	il sabato mi mi veniva a prendere mi portava a far colazione sul lungomare a salerno
 BOR007	okay
 BOR007	ehm
 BOR007	e invece tornando a bologna
-BOI031	come la zona in cui vivi qual è
-BOR007	massarenti
+BOR007	come la zona in cui vivi qual è
+BOI031	massarenti
 BOR007	okay
 BOR007	e come zona ti piace
 BOR007	o c'è qualcosa che magari
-BOI031	non so miglioreresti
+BOR007	non so miglioreresti
 BOI031	eh
-BOR007	è una delle zone più tranquille che ho trovato son qui da un annetto ho abitato sette anni in bolognina e ho trovato un'enorme differenza a parte
-BOI031	mhmh
-BOR007	il fatto che la zona è più pulita e poi a livello di tranquillità perché con il mio lavoro uscendo tardi tornare a casa da sola non mi faceva sentire tranquilla
-BOI031	a bolognina dici
-BOR007	sì
-BOI031	perché c'ha non so
-BOR007	perché io abitavo in un posto molto interno e c'era un parchetto e quindi
-BOI031	mhmh
-BOR007	diciamo che lì di sera non era
-BOI031	mh
-BOI031	un posto
-BOR007	così tranquillo ecco
-BOI031	invece qua come zona comunque è abbastanza tranquilla cioè magari insomma ti senti anche un pochino più sicura
+BOI031	è una delle zone più tranquille che ho trovato son qui da un annetto ho abitato sette anni in bolognina e ho trovato un'enorme differenza a parte
+BOR007	mhmh
+BOI031	il fatto che la zona è più pulita e poi a livello di tranquillità perché con il mio lavoro uscendo tardi tornare a casa da sola non mi faceva sentire tranquilla
+BOR007	a bolognina dici
 BOI031	sì
-BOR007	sì
+BOR007	perché c'ha non so
+BOI031	perché io abitavo in un posto molto interno e c'era un parchetto e quindi
+BOR007	mhmh
+BOI031	diciamo che lì di sera non era
+BOR007	mh
+BOI031	un posto
+BOI031	così tranquillo ecco
+BOR007	invece qua come zona comunque è abbastanza tranquilla cioè magari insomma ti senti anche un pochino più sicura
+BOI031	sì
+BOI031	sì
 BOR007	okay
-BOI031	e per quanto riguarda i trasporti comunque riesci sempre a ad andare cioè ci sono gli autobus
-BOR007	sì
-BOI031	invece a bolognina ad esempio
-BOR007	sì sì sì
-BOI031	riesci a raggiungere bene il centro con
+BOR007	e per quanto riguarda i trasporti comunque riesci sempre a ad andare cioè ci sono gli autobus
+BOI031	sì
+BOR007	invece a bolognina ad esempio
+BOI031	sì sì sì
+BOR007	riesci a raggiungere bene il centro con
 BOI031	ma in bolognina
-BOR007	la bolognina è motlo comoda per i trasporti e poi ai tempi io abitavo lì e lavoravo in zona fiera quindi per me era comodissimo
+BOI031	la bolognina è motlo comoda per i trasporti e poi ai tempi io abitavo lì e lavoravo in zona fiera quindi per me era comodissimo
 BOR007	mhmh
 BOR007	mhmh
 BOR007	sì
@@ -311,111 +311,108 @@ BOR007	ehm
 BOR007	nel in questo quartiere no
 BOR007	riesci a
 BOR007	a trovare tutto o comunque devi as~ devi s~ spostarti in centro non so per prendere anche per far la spesa oppure
-BOI031	ci sono abbastanza negozi qua
+BOR007	ci sono abbastanza negozi qua
 BOI031	no diciamo che questa è una delle zone
-BOR007	più servite secondo me a bologna
+BOI031	più servite secondo me a bologna
 BOR007	mhmh
 BOR007	okay
 BOR007	ehm
 BOR007	invece per quanto riguarda la la città in generale secondo te è
 BOR007	è cambiato molto negli ultimi anni o
 BOR007	diciamo è rimasta sempre la stessa non so visto che vivi qua comunque da quattordici anni non so magari
-BOI031	hai visto proprio la città cambiare
+BOR007	hai visto proprio la città cambiare
 BOI031	sì
 BOI031	allora
-BOR007	eh diciamo che i primi anni che sono arrivata qua eh ah ero una ragazzina quindi
-BOI031	sì
+BOI031	eh diciamo che i primi anni che sono arrivata qua eh ah ero una ragazzina quindi
+BOR007	sì
 BOI031	avevo anche una testa diversa e quindi socializzare uscire
 BOI031	mi ha fatto vedere bologna in modo diverso
 BOI031	e invece oggi
 BOI031	la trovo una città un po' più
 BOI031	chiusa nel senso che
 BOI031	se ti accade qualcosa
-BOR007	non si ferma nessuno per darti una mano ecco
+BOI031	non si ferma nessuno per darti una mano ecco
 BOR007	sì
-BOI031	mhmh
-BOR007	ti ritrovi da sola
-BOR007	ma questo
-BOI031	mh magari dopo la pandemia o è sempre stato così secondo te
-BOR007	secondo me è cambiato molto negli ultimi quattro cinque anni a par~ con la pandemia è peggiorato ma negli ultimi
-BOI031	mhmh
-BOI031	quattro cinque anni magari col fatto anche che
-BOR007	succedono delle cose poco piacevoli
 BOR007	mhmh
-BOI031	sì
-BOR007	negli ultimi anni
-BOI031	sì sì
-BOR007	c'è stato un cambiamento
+BOI031	ti ritrovi da sola
+BOR007	ma questo
+BOR007	mh magari dopo la pandemia o è sempre stato così secondo te
+BOI031	secondo me è cambiato molto negli ultimi quattro cinque anni a par~ con la pandemia è peggiorato ma negli ultimi
+BOR007	mhmh
+BOI031	quattro cinque anni magari col fatto anche che
+BOI031	succedono delle cose poco piacevoli
+BOR007	mhmh
+BOR007	sì
+BOI031	negli ultimi anni
+BOR007	sì sì
+BOI031	c'è stato un cambiamento
 BOR007	mhmh
 BOR007	ehm
 BOR007	ve~ e per quanto riguarda invece proprio le pers~ cioè le mh per quanto riguarda le persone
 BOR007	cioè anche
 BOR007	anche a l~ proprio a livello di persone sono cambiate o
 BOR007	cioè comunque anche non so magari persone della tua età
-BOI031	mh come come le trovi qua a bologna
-BOR007	beh relazionarsi secondo me è diventato un po' difficile ecco
+BOR007	mh come come le trovi qua a bologna
+BOI031	beh relazionarsi secondo me è diventato un po' difficile ecco
 BOR007	xxx
-BOI031	mhmh
+BOR007	mhmh
 BOI031	però
-BOR007	se trovi le persone giuste se intorno a te hai delle persone giuste riesci a trovare un equilibrio che io in questo momento diciamo che è difficile da trovare ecco
+BOI031	se trovi le persone giuste se intorno a te hai delle persone giuste riesci a trovare un equilibrio che io in questo momento diciamo che è difficile da trovare ecco
 BOR007	mh
 BOR007	sì
 BOR007	sì sì
 BOR007	ehm
 BOR007	invece per quanto per quanto riguarda i portici
 BOR007	eh ti viene in mente qualchequalche storia insomma qualcosa che vuoi dire riguardo ai portici
-BOR007	
-BOI031	dai xx te
+BOR007	dai xx te
 BOI031	i portici li ho vi~ i portici li ho vissuti di più nei primi anni
-BOR007	che ero qui a bologna perché ero una ragazzina
-BOI031	sì
+BOI031	che ero qui a bologna perché ero una ragazzina
+BOR007	sì
 BOI031	ma poi
 BOI031	qui c'era anche il mio fidanzato poi si è aggiunto a noi suo cugino che è venuto a far qui l'università e quindi
-BOR007	sì passavamo la maggior parte delle nostre nottate sotto i portici
-BOI031	e x no aspetta
-BOR007	soprattutto d'esta~
-BOI031	aspetta e com'erano queste nottate sotto i portici
-BOR007	con la chitarra a cantare sì spensierate ecco
+BOI031	sì passavamo la maggior parte delle nostre nottate sotto i portici
+BOR007	e x no aspetta
+BOI031	soprattutto d'esta~
+BOR007	aspetta e com'erano queste nottate sotto i portici
+BOI031	con la chitarra a cantare sì spensierate ecco
 BOR007	ah ah
-BOI031	mhmh
-BOR007	belle
-BOI031	okay
-BOR007	bellissimo
-BOI031	i~ in centro sempre
-BOR007	sì
-BOI031	cioè tipo via petroni
-BOR007	allora
-BOI031	
-BOR007	eh uno dei posti che
-BOI031	via verdi
-BOR007	sì piazza verdi ci stavamo ma non molto
-BOI031	cioè xxxx sì piazza verdi
-BOR007	frequentavamo molto vabbè strada maggiore vicolo bolognetti
-BOI031	mhmh
-BOR007	sì tutti questi posticini dove c'erano tutti gli universitari e c'eran le feste
-BOI031	eh sì
-BOR007	per tutti gli studenti sì ecco
+BOR007	mhmh
+BOI031	belle
+BOR007	okay
+BOI031	bellissimo
+BOR007	i~ in centro sempre
+BOI031	sì
+BOR007	cioè tipo via petroni
+BOI031	allora
+BOI031	eh uno dei posti che
+BOR007	via verdi
+BOI031	sì piazza verdi ci stavamo ma non molto
+BOR007	cioè xxxx sì piazza verdi
+BOI031	frequentavamo molto vabbè strada maggiore vicolo bolognetti
+BOR007	mhmh
+BOI031	sì tutti questi posticini dove c'erano tutti gli universitari e c'eran le feste
+BOR007	eh sì
+BOI031	per tutti gli studenti sì ecco
 BOR007	mhmh
 BOR007	ehm
-BOI031	sono cambiati anche i portici negli anni insieme alla città magari non lo so
-BOR007	son più sporchi
+BOR007	sono cambiati anche i portici negli anni insieme alla città magari non lo so
 BOI031	son più sporchi
-BOR007	sì fan più puzza
-BOI031	
+BOR007	son più sporchi
+BOI031	sì fan più puzza
 BOI031	molto
-BOR007	sì un po' indecenti
+BOI031	sì un po' indecenti
 BOR007	mhmh e secondo te dovrebbe essere il comune oppure anche le persone magari
-BOI031	a tenerci dietro
+BOR007	a tenerci dietro
 BOI031	secondo me tipo i ragazzi~
-BOR007	no~ non li giudico eh però tipo i ragazzi di oggi non hanno molto rispetto di quello che hanno intorno
+BOI031	no~ non li giudico eh però tipo i ragazzi di oggi non hanno molto rispetto di quello che hanno intorno
 BOR007	mhmh
-BOI031	e questa cosa lo ve~ la vedi anche nella magari nella tua generazione o proprio nei ragazzi giovani
+BOR007	e questa cosa lo ve~ la vedi anche nella magari nella tua generazione o proprio nei ragazzi giovani
 BOI031	mhmh
 BOI031	diciamo che i ragazzi giovani sotto questo aspetto
 BOI031	non riescono più ad avere
-BOR007	senso civico ecco
-BOI031	mhmh
-BOR007	sì
+BOI031	senso civico ecco
+BOR007	mhmh
+BOI031	sì
 BOR007	sì
 BOR007	ehm
 BOR007	essendo
@@ -425,254 +422,247 @@ BOR007	cioè magari quando vai ne~ in un'altra città oppure nella tua città na
 BOR007	cioè che effetto f~ ti fa
 BOR007	non vederli
 BOR007	perché
-BOI031	mh non so magari ci sei talmente abituata che eh
+BOR007	mh non so magari ci sei talmente abituata che eh
 BOI031	sì
-BOR007	partendo dal fatto che se vado giù dopo tre giorni non ce la faccio devo ritornare qua
-BOI031	
+BOI031	partendo dal fatto che se vado giù dopo tre giorni non ce la faccio devo ritornare qua
 BOI031	partiamo già da questo mi viene la depressione
 BOI031	infatti
 BOI031	non vado giù da
-BOR007	un anno
-BOI031	ma perché non vai giù scusa
-BOR007	perché dopo tre giorni mi vien l'angoscia non son non sono più abituata ecco
-BOI031	ma in che senso cioè perché
-BOR007	l'aria
-BOI031	tipo
-BOR007	e
-BOI031	mh
+BOI031	un anno
+BOR007	ma perché non vai giù scusa
+BOI031	perché dopo tre giorni mi vien l'angoscia non son non sono più abituata ecco
+BOR007	ma in che senso cioè perché
+BOI031	l'aria
+BOR007	tipo
+BOI031	e
+BOR007	mh
 BOI031	le mie abitudini la mentalità
-BOR007	il fatto che qui ho tutti ah i miei hobby e i miei amici
-BOI031	mhmh
-BOR007	il mio gatto la mia casa
-BOI031	
-BOR007	ho tutto ecco
+BOI031	il fatto che qui ho tutti ah i miei hobby e i miei amici
+BOR007	mhmh
+BOI031	il mio gatto la mia casa
+BOI031	ho tutto ecco
 BOR007	sì
-BOI031	ecco ah invece per quanto riguarda i portici comunque anche questa cosa la senti cioè che mh
+BOR007	ecco ah invece per quanto riguarda i portici comunque anche questa cosa la senti cioè che mh
 BOI031	i portici li adoro soprattutto
-BOR007	da aprile fino ad ottobre perché io adoro prendere la bicicletta quando finisco il turno pomeridiano alle quindici
-BOI031	sì
-BOI031	prendere la bici e fare un giro
-BOR007	in centro è la cosa che adoro di più quando c'è caldo
+BOI031	da aprile fino ad ottobre perché io adoro prendere la bicicletta quando finisco il turno pomeridiano alle quindici
 BOR007	sì
-BOI031	e x quindi passi sotto i portici
-BOR007	sempre
+BOI031	prendere la bici e fare un giro
+BOI031	in centro è la cosa che adoro di più quando c'è caldo
+BOR007	sì
+BOR007	e x quindi passi sotto i portici
+BOI031	sempre
 BOR007	mhmh
 BOR007	ehm
 BOR007	mh sei d'accordo sul fatto che comunque adesso i portici sono entrano a far parte della
-BOI031	del patrimonio dell~ dell'unesco
+BOR007	del patrimonio dell~ dell'unesco
 BOI031	molto
-BOR007	molto
+BOI031	molto
 BOR007	e secondo te questa magari è una cosa ehm positiva perché magari attrae un po' di turisti non so porta un po' di
-BOI031	di turismo a bologna oppure non lo so
-BOR007	secondo me bologna era sempre stata una città turistica
-BOI031	mhmh
-BOR007	però negli ultimi anni col fatto che c'è stata la pon~ la pandemia è calato il turismo
-BOI031	sì
+BOR007	di turismo a bologna oppure non lo so
+BOI031	secondo me bologna era sempre stata una città turistica
+BOR007	mhmh
+BOI031	però negli ultimi anni col fatto che c'è stata la pon~ la pandemia è calato il turismo
+BOR007	sì
 BOI031	ma secondo me è una
-BOR007	delle città più turistiche anche perché ospita delle fiere
-BOI031	ah beh sì
+BOI031	delle città più turistiche anche perché ospita delle fiere
+BOR007	ah beh sì
 BOI031	ha diciamo
 BOI031	è invidiata moltissimo per i servizi per le università e sicuramente
 BOI031	perché è una città dove puoi visitare
 BOI031	a parte i portici san luca
-BOR007	poi non so se hai mai visto il giro che ti portano a fare con il canotto per i torrenti che ci sono sotterranei
+BOI031	poi non so se hai mai visto il giro che ti portano a fare con il canotto per i torrenti che ci sono sotterranei
 BOR007	mhmh
-BOR007	
-BOI031	tu ci sei stata
-BOR007	io sì
-BOI031	davvero e com'è
-BOR007	sì eh
-BOI031	ah dici per i per i sotto sotto i
+BOR007	tu ci sei stata
+BOI031	io sì
+BOR007	davvero e com'è
+BOI031	sì eh
+BOR007	ah dici per i per i sotto sotto i
 BOI031	c'è un po' di puzza
 BOI031	sì
-BOR007	sì sì
-BOI031	ma sotto la città quindi
+BOI031	sì sì
+BOR007	ma sotto la città quindi
 BOI031	sì
-BOR007	sì sì sì sì
-BOI031	non avevo mai s~ mai sentita di questa cosa
-BOR007	e diciamo che io in quattordici anni ho avuto ho avuto la possibilità di girarla e conoscerla e mi è piaciuta molto
+BOI031	sì sì sì sì
+BOR007	non avevo mai s~ mai sentita di questa cosa
+BOI031	e diciamo che io in quattordici anni ho avuto ho avuto la possibilità di girarla e conoscerla e mi è piaciuta molto
 BOR007	mhmh
-BOI031	sì
 BOR007	sì
+BOI031	sì
 BOR007	sì sì
 BOR007	ehm
 BOR007	quindi
 BOR007	mh non so pass~ mh
 BOR007	per quanto riguarda invece il t~ il tuo tempo libero no
 BOR007	mh fai sempre la mh la cameriera no quindi hai degli orari ben precisi tu cosa fai di solito
-BOI031	in generale insomma ti trovi
-BOR007	nel mio tempo libero
-BOI031	sì
+BOR007	in generale insomma ti trovi
+BOI031	nel mio tempo libero
+BOR007	sì
 BOI031	beh amo molto andare in bici amo molto camminare amo molto dedicare quel poco di tempo alle persone che
-BOR007	mi vogliono bene e
+BOI031	mi vogliono bene e
 BOR007	mhmh
-BOI031	e poi prima mi parlavi degli hobby
-BOR007	mhmh
-BOI031	hai qualche hobby
+BOR007	e poi prima mi parlavi degli hobby
+BOI031	mhmh
+BOR007	hai qualche hobby
 BOI031	allora sì diciamo che
-BOR007	amo la palestra ma l'ho lasciata da un annetto l'ho ripresa adesso
-BOI031	sì
-BOR007	eh amo leggere
-BOI031	davvero
+BOI031	amo la palestra ma l'ho lasciata da un annetto l'ho ripresa adesso
 BOR007	sì
-BOI031	cosa cosa leggi di solito
-BOR007	dipende adesso son fissata con massimo bisotti quindi
-BOI031	mhmh
-BOI031	così
-BOR007	però sì adoro prendere un libro e andare o ai giardini margherita piuttosto che al parco dei cedri
-BOR007	a san luca
+BOI031	eh amo leggere
+BOR007	davvero
 BOI031	sì
-BOI031	sì
-BOR007	mi piace passare il tempo libero in tranquillità ecco
+BOR007	cosa cosa leggi di solito
+BOI031	dipende adesso son fissata con massimo bisotti quindi
 BOR007	mhmh
-BOI031	invece per quanto riguarda le passeggiate sei mai andata a san luca
+BOI031	così
+BOI031	però sì adoro prendere un libro e andare o ai giardini margherita piuttosto che al parco dei cedri
+BOR007	a san luca
 BOR007	sì
-BOI031	mhmh
-BOR007	san luca è stato il posto dove ho fatto il corso prematrimoniale prima di sposarmi
-BOI031	davvero
-BOR007	sì
+BOI031	sì
+BOI031	mi piace passare il tempo libero in tranquillità ecco
+BOR007	mhmh
+BOR007	invece per quanto riguarda le passeggiate sei mai andata a san luca
+BOI031	sì
+BOR007	mhmh
+BOI031	san luca è stato il posto dove ho fatto il corso prematrimoniale prima di sposarmi
+BOR007	davvero
+BOI031	sì
 BOR007	e cosa cosa hai fatto lì
-BOI031	nello specifico
-BOR007	beh il corso prematrimoniale è un po' noioso però ti preparano al matrimonio e
-BOI031	
-BOR007	conosci delle coppie che sono tutte lì a fare il corso con te quindi ti confronti sul pensiero
-BOI031	mh
-BOR007	della vita insieme per sempre bla bla bla tutte queste storie qua
+BOR007	nello specifico
+BOI031	beh il corso prematrimoniale è un po' noioso però ti preparano al matrimonio e
+BOI031	conosci delle coppie che sono tutte lì a fare il corso con te quindi ti confronti sul pensiero
+BOR007	mh
+BOI031	della vita insieme per sempre bla bla bla tutte queste storie qua
 BOR007	ma è una cosa l~ legata legata alla chiesa
-BOI031	quindi cioè è una cosa che devi fare per
-BOR007	sì perché io ho fatto il rito in chiesa e in comune sì tutti e due
+BOR007	quindi cioè è una cosa che devi fare per
+BOI031	sì perché io ho fatto il rito in chiesa e in comune sì tutti e due
 BOR007	ah okay
 BOR007	mhmh
 BOR007	e come è stato farlo a san luca magari che è un posto un po'
-BOI031	roma~ cioè dicono che è romantico
-BOR007	magico molto perché il corso poi era di sera dalle ventuno
+BOR007	roma~ cioè dicono che è romantico
+BOI031	magico molto perché il corso poi era di sera dalle ventuno
 BOR007	sì
-BOI031	eh
-BOR007	e finiva alle ventitré quindi poi quando esci di lì e vedi
-BOI031	mhmh
-BOR007	cioè questa bologna che ha tutte queste lucine in mini~ eh tutte queste lucine in miniatura è bello
-BOI031	sì
-BOR007	bello bello
-BOI031	e prima mi hai raccontato comunque che facevi un po' festa no quando eri giovane
+BOR007	eh
+BOI031	e finiva alle ventitré quindi poi quando esci di lì e vedi
+BOR007	mhmh
+BOI031	cioè questa bologna che ha tutte queste lucine in mini~ eh tutte queste lucine in miniatura è bello
+BOR007	sì
+BOI031	bello bello
+BOR007	e prima mi hai raccontato comunque che facevi un po' festa no quando eri giovane
 BOI031	molta
-BOR007	fino ai miei ventisei anni poi mi son data una calmata
+BOI031	fino ai miei ventisei anni poi mi son data una calmata
 BOR007	cosa eh
 BOR007	ecco
-BOI031	dimmi dimmi un po' cosa facevi
+BOR007	dimmi dimmi un po' cosa facevi
 BOI031	lavoravo facevo sempre questo lavoro finivo di lavorare e
 BOI031	mh boh andavo con il mio fidanzato la mia migliore amica e il cugino del mio fidanzato
-BOR007	boh in giro per bologna con i motorini tutta la notte
-BOI031	sì
+BOI031	boh in giro per bologna con i motorini tutta la notte
 BOR007	sì
-BOI031	vi me~ vi mettavate a s~ a suonare la chitarra
 BOI031	sì
-BOR007	sì
+BOR007	vi me~ vi mettavate a s~ a suonare la chitarra
+BOI031	sì
+BOI031	sì
 BOR007	e hai conosciuto altre altre persone magari in queste
-BOI031	cioè durante nelle serate che facevi
+BOR007	cioè durante nelle serate che facevi
 BOI031	molte
-BOR007	sì
-BOI031	mhmh
-BOR007	però diciamo che la maggior parte che non ho più contatti perché erano persone che studiavano e quindi
-BOI031	mh
-BOR007	ognuno poi è ritornato a casa propria e cioè non avevano voglia di stabilirsi qui erano venuti qui per studio e
 BOI031	sì
-BOR007	ognuno poi ha preso la propria strada ecco
 BOR007	mhmh
-BOI031	e invece per quanto riguarda non so andavi a ballare a quell'età magari o
+BOI031	però diciamo che la maggior parte che non ho più contatti perché erano persone che studiavano e quindi
+BOR007	mh
+BOI031	ognuno poi è ritornato a casa propria e cioè non avevano voglia di stabilirsi qui erano venuti qui per studio e
+BOR007	sì
+BOI031	ognuno poi ha preso la propria strada ecco
+BOR007	mhmh
+BOR007	e invece per quanto riguarda non so andavi a ballare a quell'età magari o
 BOI031	sì
 BOI031	diciamo che col fatto che
 BOI031	io ho cominciato una convivenza ed ero molto giovane
-BOR007	davo più importanza ad altro e quindi ci andavo ma non molto spesso ecco
+BOI031	davo più importanza ad altro e quindi ci andavo ma non molto spesso ecco
 BOR007	mhmh
 BOR007	mhmh
-BOI031	ehm dove andavi di s~ cioè quelle volte in cui andavi dove andavi di solito
+BOR007	ehm dove andavi di s~ cioè quelle volte in cui andavi dove andavi di solito
 BOI031	eh
-BOR007	o al numa xx
+BOI031	o al numa xx
 BOR007	mhmh
-BOI031	mhmh
-BOR007	al matis
-BOI031	e ci andavi con non so il tuo gruppo di amici che ti ti eri fatta qua o
+BOR007	mhmh
+BOI031	al matis
+BOR007	e ci andavi con non so il tuo gruppo di amici che ti ti eri fatta qua o
 BOI031	allora sì
-BOR007	sì
-BOI031	anche col tuo ragazzo magari
-BOR007	eh a lui piaceva poco
-BOI031	ah
-BOR007	molto poco ha sempre odiato
+BOI031	sì
+BOR007	anche col tuo ragazzo magari
+BOI031	eh a lui piaceva poco
+BOR007	ah
+BOI031	molto poco ha sempre odiato
 BOR007	okay
 BOR007	mh
-BOI031	quindi ci andavi da sola con le tue amiche magari con i tuoi amici
+BOR007	quindi ci andavi da sola con le tue amiche magari con i tuoi amici
 BOI031	sì
-BOR007	sì
+BOI031	sì
 BOR007	mhmh
-BOI031	e invece adesso di solito cosa fai cioè nel tuo tempo libero anche qua non lo so
-BOR007	nel mio tempo libero faccio shopping
-BOI031	
-BOR007	vado in palestra vado a camminare
-BOI031	fai gli a~ gli aperitivi
-BOR007	sì
+BOR007	e invece adesso di solito cosa fai cioè nel tuo tempo libero anche qua non lo so
+BOI031	nel mio tempo libero faccio shopping
+BOI031	vado in palestra vado a camminare
+BOR007	fai gli a~ gli aperitivi
+BOI031	sì
 BOR007	okay
-BOI031	il tuo posto eh dimmi dimmi
+BOR007	il tuo posto eh dimmi dimmi
 BOI031	ecco
 BOI031	la settimana scorsa abbiam visitato delle terme
 BOI031	nuove
-BOR007	che non avevo mai visitato che sono in via del tipografo che le consiglio
-BOI031	qua a bologna
-BOR007	sì
-BOI031	ma a bologna c'è un sacco di roba che io non conosco cioè
+BOI031	che non avevo mai visitato che sono in via del tipografo che le consiglio
+BOR007	qua a bologna
+BOI031	sì
+BOR007	ma a bologna c'è un sacco di roba che io non conosco cioè
 BOI031	sì son lunghissime hanno questa piscina all'aperto
 BOI031	all'aperto che è riscaldata bello eh
-BOR007	son da visitare
+BOI031	son da visitare
 BOR007	sì
 BOR007	e qualche altro posto che mi consigli perché
-BOI031	
-BOR007	ci devo pensare
-BOI031	mhmh
-BOI031	qualche altro posto che ti consiglio
-BOR007	eh no non me ne vengono in mente in realtà
+BOI031	ci devo pensare
 BOR007	mhmh
-BOI031	vabbè dai
-BOR007	no
-BOI031	eh no perché eh cioè
+BOI031	qualche altro posto che ti consiglio
+BOI031	eh no non me ne vengono in mente in realtà
+BOR007	mhmh
+BOR007	vabbè dai
+BOI031	no
+BOR007	eh no perché eh cioè
 BOI031	no
 BOI031	perché ne ho visti così tanti che adesso non mi viene
 BOI031	ah ecco il giardino dei tulipani
-BOR007	però appena escono
+BOI031	però appena escono
 BOR007	ah s~ ah
-BOI031	s~ n~ ne ho sentito parlare perché perché è appena
+BOR007	s~ n~ ne ho sentito parlare perché perché è appena
 BOI031	arcoveggio
-BOR007	il giardino dei tulipani
-BOI031	eh sì sì sì sì
-BOR007	quello
-BOI031	e tu ci sei stata
-BOR007	io sì quest'estate
-BOI031	com'è
+BOI031	il giardino dei tulipani
+BOR007	eh sì sì sì sì
+BOI031	quello
+BOR007	e tu ci sei stata
+BOI031	io sì quest'estate
+BOR007	com'è
 BOI031	eh
-BOR007	colorato è romantico
-BOI031	con chi ci sei stata scusa
-BOR007	da sola in bicicle~
+BOI031	colorato è romantico
+BOR007	con chi ci sei stata scusa
+BOI031	da sola in bicicle~
 BOR007	ah oka~
-BOI031	beh come gli olandesi in mezzo ai tulipani
+BOR007	beh come gli olandesi in mezzo ai tulipani
 BOI031	sì
-BOR007	sì
+BOI031	sì
 BOR007	no molto bello
 BOR007	ehm
 BOR007	se~ invece
 BOR007	mh
 BOR007	magari mh facendo un confronto su i posti che frequentavi da
 BOR007	da giovane comunque appena sei arrivata qua e i posti che frequenti adesso come son cambiati anche magari
-BOI031	mh quando giri per strada e vedi un posto in cui ci andavi di solito da giovane e dici ah
-BOR007	beh ogni tanto mi schifo
-BOI031	perché
+BOR007	mh quando giri per strada e vedi un posto in cui ci andavi di solito da giovane e dici ah
+BOI031	beh ogni tanto mi schifo
+BOR007	perché
 BOI031	perché sembra una barbona
-BOR007	
-BOI031	ehm
-BOR007	adesso cerco case molto più tranquille molto più rilassanti rispetto a prima
+BOR007	ehm
+BOI031	adesso cerco case molto più tranquille molto più rilassanti rispetto a prima
 BOR007	mhmh
 BOR007	mhmh
-BOI031	magari anche mh appunto andando avanti un pochino con l'età insomma andando verso
-BOR007	cambiano gli interessi sicuramente
+BOR007	magari anche mh appunto andando avanti un pochino con l'età insomma andando verso
+BOI031	cambiano gli interessi sicuramente
 BOR007	eh sì
-BOI031	mhmh
-BOR007	molto
+BOR007	mhmh
+BOI031	molto
 BOR007	mhmh
 BOR007	okay

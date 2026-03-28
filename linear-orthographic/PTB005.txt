@@ -1,16 +1,16 @@
-TOI019	vai puoi cominciare
-TOR004	da dove comincio dall'inizio
-TOI019	sì
+TOR004	vai puoi cominciare
+TOI019	da dove comincio dall'inizio
+TOR004	sì
 TOI019	ecco
-TOR004	mio cugino che m'accompagna perché non ci sono taxi
-TOI019	mh e questo era un viaggio che facevi
+TOI019	mio cugino che m'accompagna perché non ci sono taxi
+TOR004	mh e questo era un viaggio che facevi
 TOI019	di ritorno da da avigliano a torino
-TOR004	adesso che ho viaggiato comoda gli ultimi anni
-TOI019	ecco
+TOI019	adesso che ho viaggiato comoda gli ultimi anni
+TOR004	ecco
 TOI019	prendendo l'euto~ l'eurostar
 TOI019	a foggia però
-TOR004	a parte che si viaggia di giorno e non di notte
-TOI019	eh certo
+TOI019	a parte che si viaggia di giorno e non di notte
+TOR004	eh certo
 TOI019	allora
 TOI019	mio cugino mi mette in macchina
 TOI019	e mi dice che mi lascia
@@ -24,8 +24,6 @@ TOI019	io non sto l~
 TOI019	guardo lì ma
 TOI019	ma edoardo ma siamo già arriv~ seme già arruate a rionero
 TOI019	ma sì ma tu non te ne ncarcà
-TOR004	
-TOI019	
 TOI019	e allora mi porta fino a foggia
 TOI019	ci porta fino a foggia
 TOI019	xxx belle
@@ -39,24 +37,23 @@ TOI019	p~ c~ paura che il treno se parte
 TOI019	non si non se ferma chiù
 TOI019	e allora
 TOI019	s'andava fino a termoli
-TOR004	termoli c'è la prima fermata
-TOI019	mh
+TOI019	termoli c'è la prima fermata
+TOR004	mh
 TOI019	ecco
 TOI019	e così ci aiutano a salire a foggia sul treno
-TOR004	e poi loro tornano indietro
-TOI019	
-TOR004	e noi arriviamo a torino
-TOI019	e questo viaggio però è andato meglio degli altri
+TOI019	e poi loro tornano indietro
+TOI019	e noi arriviamo a torino
+TOR004	e questo viaggio però è andato meglio degli altri
 TOI019	no questi sì questi gli ultimi anni abbiamo viaggiato comodissimo
-TOR004	di qua facendo le prenotazioni ma di qua si potevano fare anche prima
-TOI019	mh
-TOR004	era da giù che è più difficile prenotare
+TOI019	di qua facendo le prenotazioni ma di qua si potevano fare anche prima
+TOR004	mh
+TOI019	era da giù che è più difficile prenotare
 TOR004	eh beh certo
+TOR004	va bene
 TOI019	va bene
-TOI019	va bene
-TOR004	ci fermiamo qui
-TOI019	sì
-TOR004	vuoi sapere ancora qualcos'altro
-TOI019	no grazie
-TOR004	basta così
+TOI019	ci fermiamo qui
+TOR004	sì
+TOI019	vuoi sapere ancora qualcos'altro
+TOR004	no grazie
+TOI019	basta così
 TOR004	grazie per l'intervista

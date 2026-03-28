@@ -4,437 +4,437 @@ BOR003	allora
 BOR003	innanzitutto
 BOR003	vi chiedo
 BOR003	in quale
-BOI007	zona di bologna vivete
-BOR003	quartiere
-BOI008	in quale quar[tiere]
-BOI007	[xx]
+BOR003	zona di bologna vivete
+BOI007	quartiere
+BOR003	in quale quar[tiere]
+BOI008	[xx]
 BOI007	[qua]rtiere
-BOR003	s:avena
+BOI007	s:avena
 BOR003	oka:y
 BOR003	com'è come zona?
-BOI007	come la trova[te]?
-BOI008	[molto] ve:rde
-BOI007	[e io non parlo scusa]
+BOR003	come la trova[te]?
+BOI007	[molto] ve:rde
+BOI008	[e io non parlo scusa]
 BOI007	[mo c'è anche quella]
-BOR003	eh uno alla volta
-BOI007	((ride))
+BOI007	eh uno alla volta
+BOR003	((ride))
 BOI007	molto verde
-BOR003	molto tranqui:lla non ci sono insediamenti industriali per fortuna per cui l'a:ria è migliore rispetto ad altre zone della città
-BOI007	mhmh
+BOI007	molto tranqui:lla non ci sono insediamenti industriali per fortuna per cui l'a:ria è migliore rispetto ad altre zone della città
+BOR003	mhmh
 BOI007	siamo verso:
 BOI007	diciamo:
 BOI007	imola
-BOR003	verso il mare
+BOI007	verso il mare
 BOR003	mh
-BOI008	e: negli anni com'è cambiato
+BOR003	e: negli anni com'è cambiato
 BOI008	beh è cambiata molto in be:ne perché si è sviluppa:ta
 BOI008	ci son molte: molti insediamenti di di cittadini
-BOR003	>direi<
-BOI008	migliorato
-BOI007	è una zona: molto a pos[to]
-BOR003	[un quar]tiere nuovo
-BOI007	mhmh
+BOI008	>direi<
+BOR003	migliorato
+BOI008	è una zona: molto a pos[to]
+BOI007	[un quar]tiere nuovo
+BOR003	mhmh
 BOI007	nuovo
-BOR003	nuovo degli anni settanta
-BOI007	ah beh
+BOI007	nuovo degli anni settanta
+BOR003	ah beh
 BOI007	e per questo abbiamo un casone:
-BOR003	m:h di campi praticame:[nte]
-BOI007	[okay]
+BOI007	m:h di campi praticame:[nte]
+BOR003	[okay]
 BOI007	xx da qui dove siamo adesso verso l'autostada
 BOI007	è una zona che s~ è è nata:
-BOR003	negli anni settanta in sostanza più o meno
+BOI007	negli anni settanta in sostanza più o meno
 BOR003	mhmh
-BOI008	e: le persone sono sempre le ste:sse oppure:
+BOR003	e: le persone sono sempre le ste:sse oppure:
 BOI008	sono sono cambia:te perché:
-BOR003	me~ nel nostro palazzo detta come va detta [su]
-BOI008	mh[mh]
+BOI008	me~ nel nostro palazzo detta come va detta [su]
+BOR003	mh[mh]
 BOI008	trenta famiglie come sono trenta famiglie:
 BOI008	non sono:
 BOI008	due o tre
-BOI007	tuttora fa che quando c'è un un'atti[vità]
-BOR003	[di cinqu]ant'anni fa
-BOI007	tut~ quindi tutti nuovi:
-BOR003	[le persone] che han cambiato ca:sa persone che non ci sono più:
-BOI007	[quelli lì]
-BOR003	son rimasti magari i figli o i nipo:ti
-BOI007	[a:h okay]
+BOI008	tuttora fa che quando c'è un un'atti[vità]
+BOI007	[di cinqu]ant'anni fa
+BOR003	tut~ quindi tutti nuovi:
+BOI007	[le persone] che han cambiato ca:sa persone che non ci sono più:
+BOR003	[quelli lì]
+BOI007	son rimasti magari i figli o i nipo:ti
+BOR003	[a:h okay]
 BOI007	[oppure] nuove famiglie giovani con anche figli piccoli
-BOR003	vanno a scuo:la o: all'università:
-BOI008	e voi [a]vete sempre vissuto lì?
+BOI007	vanno a scuo:la o: all'università:
+BOR003	e voi [a]vete sempre vissuto lì?
 BOI008	[x]
-BOR003	sì
-BOI008	ah okay quandi da sempre
+BOI008	sì
+BOR003	ah okay quandi da sempre
 BOI008	[sono] quaran~
-BOI007	n[o:]
-BOI008	[qu]asi cinquanta
-BOI007	quasi cinquan[t'anni]
-BOR003	((ride))
-BOI007	mamma mi[a:]
-BOR003	[qu]ando ci siamo sposati il palazzo era in costruzione anco:ra
-BOI007	qu[indi:]
-BOR003	[siamo ancora] lì
+BOI008	n[o:]
+BOI007	[qu]asi cinquanta
+BOI008	quasi cinquan[t'anni]
+BOI007	((ride))
+BOR003	mamma mi[a:]
+BOI007	[qu]ando ci siamo sposati il palazzo era in costruzione anco:ra
+BOR003	qu[indi:]
+BOI007	[siamo ancora] lì
 BOR003	da sempre
-BOI008	e av[ete dei]
-BOR003	[non c'era] neanche uno straniero [eh eh]
-BOI007	[ah okay] quindi tutti: bologne:si:
-BOI008	s[ì beh comunque italia]ni
-BOR003	[sì bolognesi]
+BOR003	e av[ete dei]
+BOI008	[non c'era] neanche uno straniero [eh eh]
+BOR003	[ah okay] quindi tutti: bologne:si:
+BOI007	s[ì beh comunque italia]ni
+BOI008	[sì bolognesi]
 BOR003	okay
-BOI008	anche studenti per [esempio] come zona no:
+BOR003	anche studenti per [esempio] come zona no:
 BOI008	[no]
-BOR003	adesso no
-BOI008	mh okay
+BOI008	adesso no
+BOR003	mh okay
 BOI008	no ci sono degli studenti perché
-BOI007	ci sono fami[glie]
-BOR003	[per] le fami[glie]
-BOI008	[ah] ah okay quindi sempre di qua no [fuorisede]
-BOI007	[sempre di qua]
-BOR003	[e:h direi che] quasi: in totale a parte u:n appartamento sono tutti proprieta[ri]
+BOI008	ci sono fami[glie]
+BOI007	[per] le fami[glie]
+BOR003	[ah] ah okay quindi sempre di qua no [fuorisede]
+BOI008	[sempre di qua]
+BOI007	[e:h direi che] quasi: in totale a parte u:n appartamento sono tutti proprieta[ri]
 BOR003	[ah okay okay]
-BOI007	[a]:h okay
+BOR003	[a]:h okay
 BOI007	noi siamo noi poi nella zona ci sono anche
 BOI007	appartamenti affitta:ti: o:
-BOR003	stude:nti o altre famiglie che vengono da f~ da fuori italia
-BOI007	mhmh e come zona è molto traffica:ta: oppure si vive bene:
-BOR003	m:h in macchina gira be:ne
+BOI007	stude:nti o altre famiglie che vengono da f~ da fuori italia
+BOR003	mhmh e come zona è molto traffica:ta: oppure si vive bene:
+BOI007	m:h in macchina gira be:ne
 BOR003	e avete qualche per esempio storia che vi viene in mente legata alla vostra ca:sa: o legata alla vostra zo:na:
-BOI008	qualche aneddoto:
+BOR003	qualche aneddoto:
 BOI008	beh qualche aneddoto può essere questo può essere questo
-BOR003	mh la la vicino la nostra casa passa un fiume savena
-BOI008	mhmh
+BOI008	mh la la vicino la nostra casa passa un fiume savena
+BOR003	mhmh
 BOI008	fiume
 BOI008	xxxxxxxxx
 BOI008	c'e:ra una (.) tradizione
 BOI008	ed erano i:
-BOI007	quelli che mangiavano e:
-BOR003	si vendeva e la chiamavano sor~ c'era una sorgente di acqua: solforosa che là a bologna la chiamavano (macapuzzua)
-BOI007	ah e >non lo sapevo<
+BOI008	quelli che mangiavano e:
+BOI007	si vendeva e la chiamavano sor~ c'era una sorgente di acqua: solforosa che là a bologna la chiamavano (macapuzzua)
+BOR003	ah e >non lo sapevo<
 BOI007	e
 BOI007	negli anni:
 BOI007	cinquanta sessanta
 BOI007	la genta arrivava lì o a piedi in bicicletta:
-BOR003	andava a bere quest'acqua che diceva[no fosse:]
-BOI007	((ride))
-BOI007	sa:na:
-BOR003	e c'era un omino che vendeva un bicchiere d'acqua e faceva le crescenti:ne
-BOI007	a:h
-BOI008	adesso questa cosa [è s[pari:]ta]
-BOR003	[non c'[è più]]
-BOR003	[[non c]'è] più
-BOI008	che [be:lla]
-BOI007	([il mago] ioddari)
-BOI008	però [adesso com'[è]]
-BOR003	[da bambino ra]gazzo con mio padre
-BOI008	a:h
-BOI008	poi è è sparito però
-BOR003	è bella lunga tradizione questa
-BOI007	che b[ello]
-BOR003	[ques]to però fa un po' pensare perché so:pra nella prima collina c'è l'ospedale bellaria
-BOI007	mhmh
-BOI007	che a quei tempi era un sanatorio
-BOR003	e forse là proprio il primo xxx
-BOI007	a:h
-BOI007	((ride)) non si sa
-BOR003	se c'era qualcun altro [a quei xx]
-BOI007	[ah sì sì è ve:ro]
-BOR003	comunque dei malati non ce ne son sta:ti
-BOI007	((ride))
-BOR003	pa:re
-BOR003	mhmh
-BOI007	ma che bello grazie non lo sapevo
+BOI007	andava a bere quest'acqua che diceva[no fosse:]
 BOR003	((ride))
-BOI008	e: invece in generale di bologna
-BOR003	di?
+BOI007	sa:na:
+BOI007	e c'era un omino che vendeva un bicchiere d'acqua e faceva le crescenti:ne
+BOR003	a:h
+BOI007	adesso questa cosa [è s[pari:]ta]
+BOI008	[non c'[è più]]
+BOR003	[[non c]'è] più
+BOR003	che [be:lla]
+BOI008	([il mago] ioddari)
+BOI007	però [adesso com'[è]]
+BOI008	[da bambino ra]gazzo con mio padre
+BOR003	a:h
+BOI008	poi è è sparito però
+BOI008	è bella lunga tradizione questa
+BOR003	che b[ello]
+BOI007	[ques]to però fa un po' pensare perché so:pra nella prima collina c'è l'ospedale bellaria
+BOR003	mhmh
+BOI007	che a quei tempi era un sanatorio
+BOI007	e forse là proprio il primo xxx
+BOR003	a:h
+BOI007	((ride)) non si sa
+BOI007	se c'era qualcun altro [a quei xx]
+BOR003	[ah sì sì è ve:ro]
+BOI007	comunque dei malati non ce ne son sta:ti
+BOR003	((ride))
+BOI007	pa:re
+BOR003	mhmh
+BOR003	ma che bello grazie non lo sapevo
+BOI007	((ride))
+BOR003	e: invece in generale di bologna
+BOI008	di?
 BOR003	di i~ la città di bologna
-BOI008	cos'è che vi piace di più
-BOR003	pia[ce tutto]
+BOR003	cos'è che vi piace di più
+BOI008	pia[ce tutto]
 BOR003	[tutto]
-BOI008	tutto
+BOR003	tutto
 BOI008	il centro: xxxxxx su tutte le stra:de: i
 BOI008	danno da mangiare
-BOI007	xxxx danno da mangiare in tutte le stradi:ne fanno mh cai~
-BOI008	famosi taglie:ri [no e: soprattutto la sto:ria di bologna]
-BOR003	[famosi taglie:ri]
-BOI008	[sì:]
+BOI008	xxxx danno da mangiare in tutte le stradi:ne fanno mh cai~
+BOI007	famosi taglie:ri [no e: soprattutto la sto:ria di bologna]
+BOI008	[famosi taglie:ri]
+BOR003	[sì:]
 BOI008	[non so se] l'hai visto ma è xx
 BOI008	e poi ci sono degli enormi: merca:ti lì
 BOI008	nel centro storico
 BOI008	poi ci sono dei muse:i
 BOI008	che sono molti sto:ria
-BOI007	non so come bene [dirlo]
-BOR003	[poi è una ci]ttà medieva:le [per cui] le mu:ra antiche sono:
-BOI007	sì
-BOR003	l'esagono [xxxx dal medioe]vo
+BOI008	non so come bene [dirlo]
+BOI007	[poi è una ci]ttà medieva:le [per cui] le mu:ra antiche sono:
+BOR003	sì
+BOI007	l'esagono [xxxx dal medioe]vo
 BOR003	[le torri:]
-BOI007	è vero
+BOR003	è vero
 BOI007	la più antica università: per cui
 BOI007	nel senso a noi piace bolo:gna:
-BOI008	[ci stiamo]
-BOR003	[ci andiamo] po:co
-BOI007	mhmh
-BOI008	[in centro]
+BOI007	[ci stiamo]
+BOI008	[ci andiamo] po:co
+BOR003	mhmh
+BOI007	[in centro]
 BOI008	[ultimamente] sì
 BOI008	quando lavoravo lì in centro
-BOR003	ultim~ ultimamente ci andiamo poco in [centro]
-BOI008	[mhmh]
-BOR003	al centro è sempre molt[o:]
-BOI008	[se]mpre [pie:no]
-BOI007	[eh si per]ché è sempre pieno
+BOI008	ultim~ ultimamente ci andiamo poco in [centro]
+BOR003	[mhmh]
+BOI008	al centro è sempre molt[o:]
+BOR003	[se]mpre [pie:no]
+BOI008	[eh si per]ché è sempre pieno
 BOI007	no noi quando eravamo in periodo lavorati:vo abbiamo tutti e due avuto gli uffici:
-BOR003	in cen~ in pieno cen[tro]
-BOI007	[mh] mh
+BOI007	in cen~ in pieno cen[tro]
+BOR003	[mh] mh
 BOI007	per cui ehm tutta la nostra vita è stata anche in centro e adesso che non lavoriamo più
-BOR003	frequentiamo di più il nostro [quartie:re]
+BOI007	frequentiamo di più il nostro [quartie:re]
 BOR003	[mhmh]
 BOR003	e com'è cambiato negli anni
 BOR003	anche a livello:
-BOI007	di città proprio in sè: di persone che la vivono:
-BOI008	sai adesso [tutte le cit]tà
+BOR003	di città proprio in sè: di persone che la vivono:
+BOI007	sai adesso [tutte le cit]tà
 BOI008	[beh ci sono]
-BOR003	ci sono tanti stranie:ri a dir la veri[tà eh] stranieri
-BOI008	[mhmh]
+BOI008	ci sono tanti stranie:ri a dir la veri[tà eh] stranieri
+BOR003	[mhmh]
 BOI008	in visita due tre giorni o un gio:rno
 BOI008	ma
-BOR003	dobbiamo di:re anche un po' purtroppo ci sono nella città di bologna tanti stranie:ri
-BOI008	mhmh
-BOR003	#tanti: son nati e si sono inseri:ti però poc poc mel
-BOI008	[mhmh]
+BOI008	dobbiamo di:re anche un po' purtroppo ci sono nella città di bologna tanti stranie:ri
+BOR003	mhmh
+BOI008	#tanti: son nati e si sono inseri:ti però poc poc mel
+BOR003	[mhmh]
 BOI008	[>cioè<]
-BOR003	ma:le
-BOI007	sì sì
-BOI008	c[ome in tutte] le città:
-BOR003	[e insomma]
-BOI007	è vero
+BOI008	ma:le
+BOR003	sì sì
+BOI007	c[ome in tutte] le città:
+BOI008	[e insomma]
+BOR003	è vero
 BOI007	e poi essendo una città universita:ria:
-BOR003	risente molto della presente degli studenti [>cioè<]
-BOI008	[sì]
+BOI007	risente molto della presente degli studenti [>cioè<]
+BOR003	[sì]
 BOI008	ecco c'è una città universitaria che ha circa
 BOI008	centomila
 BOI008	#>(beh so)< centomila studenti universita:ri
 BOI008	capisci che
-BOR003	genera un po' di proble:mi
-BOI008	è ve[ro]
+BOI008	genera un po' di proble:mi
+BOR003	è ve[ro]
 BOI008	[e] dove stanno a dormire: eh
 BOI008	qualcuno è è contento qualcuno di (in)somma
-BOR003	solo che poi ci sono università: xxxxx a saragozz[a:]
-BOI008	[mh]mh
-BOR003	pa:rte
-BOI008	sì
-BOI007	[e:]
-BOR003	[tu] dove sei
+BOI008	solo che poi ci sono università: xxxxx a saragozz[a:]
+BOR003	[mh]mh
+BOI008	pa:rte
+BOR003	sì
+BOI008	[e:]
+BOI007	[tu] dove sei
 BOR003	io: in ca~ via cartoleria
 BOR003	e anche in via filippo re: (.) e in via santa cristina
-BOI008	quindi io dovevo girare per: per tre sedi
-BOR003	a:h
-BOI007	[e a:]
+BOR003	quindi io dovevo girare per: per tre sedi
+BOI008	a:h
+BOR003	[e a:]
 BOI007	[perché pri]ma della pandemia adesso bologna ha circa quattrocentomila abita:nti
 BOI007	però prima della pandemia: con l~ lo la l'università diciamo al suo massimo si arrivava a:
 BOI007	a un:
-BOR003	a un milione [qua:si]
-BOI007	[sì sì sì] è vero
+BOI007	a un milione [qua:si]
+BOR003	[sì sì sì] è vero
 BOI007	per cui tu capisci che la città
 BOI007	è veramente frequenta:ta da persone che non sono reside:nti
 BOI007	c'è molto movime:nto
 BOI007	è anche sempre piaciuta per quello poi
-BOR003	#adesso il clima è cambia:[to dappper] tutto: i bolognesi: son sempre stati chiamati biassanot cioè quelli che vivono anche di notte tranquillo potevi uscire:
-BOI007	[mhmh]
-BOI008	[senza proble:mi]
-BOR003	#[tu sai come sono] gl~ gli umare:l
+BOI007	#adesso il clima è cambia:[to dappper] tutto: i bolognesi: son sempre stati chiamati biassanot cioè quelli che vivono anche di notte tranquillo potevi uscire:
+BOR003	[mhmh]
+BOI007	[senza proble:mi]
+BOI008	#[tu sai come sono] gl~ gli umare:l
 BOR003	sì e: quelli dei: no
-BOI008	quelli dei cantie:ri
-BOR003	e:[satto]
-BOI008	[okay]
+BOR003	quelli dei cantie:ri
+BOI008	e:[satto]
+BOR003	[okay]
 BOI008	#gli umarel sono quelli che si mettono
-BOR003	[al bo]rdo con le mani dietro la schie:na
-BOI008	[sì] ((ride))
-BOR003	a guarda:re cosa fanno cosa non fanno
-BOI008	sì
-BOR003	#gli umarel
-BOI008	((ride)) [è vero] è vero
-BOR003	[xxxxxxx]
+BOI008	[al bo]rdo con le mani dietro la schie:na
+BOR003	[sì] ((ride))
+BOI008	a guarda:re cosa fanno cosa non fanno
+BOR003	sì
+BOI008	#gli umarel
+BOR003	((ride)) [è vero] è vero
+BOI008	[xxxxxxx]
 BOR003	e quindi tra gli aspetti più negativi della città potremmo dire un po' questo:
-BOI007	troppo:
+BOR003	troppo:
 BOI007	la città è cambiata
-BOR003	le città son tutte cambi[a:te]
-BOI007	[mhmh]
-BOR003	perché: c'è molto più movim[ento:] rispetto: ai pe~
-BOI007	[sì è vero]
+BOI007	le città son tutte cambi[a:te]
+BOR003	[mhmh]
+BOI007	perché: c'è molto più movim[ento:] rispetto: ai pe~
+BOR003	[sì è vero]
 BOI007	partiamo dagli anni settanta ma forse anche già da prima
-BOR003	anche xxxx però non è detto che non sono vivibili comu:n[que]
-BOI007	[mh]mh
+BOI007	anche xxxx però non è detto che non sono vivibili comu:n[que]
+BOR003	[mh]mh
 BOI007	per noi ci vuole un po' più di attenzio:ne un po' di prunde:nza
 BOI007	valuta:re certe situazio:ni
-BOR003	le cose sono mh cambia:te poi pir~ poi [ripe]:to per eh per dire: sabato: si andava tutti in centro: a far la passeggia:ta
-BOI007	[mhmh]
+BOI007	le cose sono mh cambia:te poi pir~ poi [ripe]:to per eh per dire: sabato: si andava tutti in centro: a far la passeggia:ta
+BOR003	[mhmh]
 BOI007	adesso: m:h
-BOI008	certe pers[o:ne] ([sono un] po' xxx
+BOI007	certe pers[o:ne] ([sono un] po' xxx
 BOI008	[non sai chi:]
 BOI008	quaran~ quaranta cinquanta:
-BOR003	cinquant'anni fa in piazza maggio~ perché era piana facevano il merca:to
-BOI008	mhmh
-BOR003	al mercato era v~ era venuta solo la pres[e:nza]
-BOI008	[mhmh]
+BOI008	cinquant'anni fa in piazza maggio~ perché era piana facevano il merca:to
+BOR003	mhmh
+BOI008	al mercato era v~ era venuta solo la pres[e:nza]
+BOR003	[mhmh]
 BOI008	dei contadi:ni che venivano in città:
 BOI008	con la loro:
 BOI008	e facevano
-BOR003	la vendita la mucca:
-BOI008	ah
-BOR003	il [grano]
-BOI007	[okay]
-BOI008	in piazza maggio:r[e]
-BOI007	[in] piazza maggio:[re]
-BOI008	[al] venerdì vener[dì]
+BOI008	la vendita la mucca:
+BOR003	ah
+BOI008	il [grano]
+BOR003	[okay]
+BOI007	in piazza maggio:r[e]
+BOI008	[in] piazza maggio:[re]
+BOI007	[al] venerdì vener[dì]
 BOI008	[e] c'era
 BOI008	il contadino che vendeva
 BOI008	il tizio che compra:va
-BOR003	e chi faceva da mediato:r[e]
-BOI007	[mh]mh
-BOR003	il contratto consisteva in una stretta di ma:no
-BOI007	[a::h]
-BOR003	[c'era poca] carta (in [genere])
-BOI007	[che be]llo ((ride))
-BOR003	forse anche da voi
-BOI008	adesso proprio: totalmente cambi[a:to]
-BOI007	[ed era di più] sì (facevano) sessanta settant'anni fa
-BOR003	sì: pa:rli del prima della g[ue:rra] insomma con il dopogue:rra adesso poi le cose si (.) chiarame:nte
-BOI007	[mhmh]
+BOI008	e chi faceva da mediato:r[e]
+BOR003	[mh]mh
+BOI007	il contratto consisteva in una stretta di ma:no
+BOR003	[a::h]
+BOI007	[c'era poca] carta (in [genere])
+BOR003	[che be]llo ((ride))
+BOI007	forse anche da voi
+BOR003	adesso proprio: totalmente cambi[a:to]
+BOI008	[ed era di più] sì (facevano) sessanta settant'anni fa
+BOI007	sì: pa:rli del prima della g[ue:rra] insomma con il dopogue:rra adesso poi le cose si (.) chiarame:nte
+BOR003	[mhmh]
 BOI007	e:h poi c'era nella sala bo:rsa in piazza maggio:re che c'era il merca:to perché
 BOI007	bologna è sempre stata una una città dove c'era il:
-BOR003	il commercio e lo scambio dei cereali
-BOI007	mhmh
-BOR003	in sala bo:rsa c'erano (.) adesso è diventata una biblio[te:ca:]
-BOI007	[sì bellissi]ma
-BOR003	questa la [cono:sci]
-BOI007	[mhmh]
+BOI007	il commercio e lo scambio dei cereali
+BOR003	mhmh
+BOI007	in sala bo:rsa c'erano (.) adesso è diventata una biblio[te:ca:]
+BOR003	[sì bellissi]ma
+BOI007	questa la [cono:sci]
+BOR003	[mhmh]
 BOI007	dove ci sono tutte quelle:
-BOR003	quegli ufficetti quei posticini là sono uffi:ci di quel banco dei cerea:li
-BOI007	ah ve[di]
-BOR003	e c'era veramente xx (i contraxx) li facevano lì
-BOI007	mhmh
-BOR003	ma io me lo rico:rdo anco:ra negli anni: (.) sessanta settanta
-BOI007	m[hmh]
-BOR003	[per cui no]n e:ra [molto tempo fa]
-BOI007	[ah è molto tempo] fa sì sì sì
+BOI007	quegli ufficetti quei posticini là sono uffi:ci di quel banco dei cerea:li
+BOR003	ah ve[di]
+BOI007	e c'era veramente xx (i contraxx) li facevano lì
+BOR003	mhmh
+BOI007	ma io me lo rico:rdo anco:ra negli anni: (.) sessanta settanta
+BOR003	m[hmh]
+BOI007	[per cui no]n e:ra [molto tempo fa]
+BOR003	[ah è molto tempo] fa sì sì sì
 BOI007	po:i è cambia:to tu:tto anche lì eh
-BOR003	e:ra un'altra co:[sa]
-BOI008	[mh]mh dal punto di vista della sicure:zza voi vi sentite sicuri
-BOI007	insomma
-BOR003	sì e no
-BOI008	mhmh
+BOI007	e:ra un'altra co:[sa]
+BOR003	[mh]mh dal punto di vista della sicure:zza voi vi sentite sicuri
+BOI008	insomma
+BOI007	sì e no
+BOR003	mhmh
 BOI008	è la la la l: il telegiornale locale
 BOI008	eh
-BOI007	salvo:
-BOI008	eh sa[i:]
+BOI008	salvo:
+BOI007	eh sa[i:]
 BOI008	[c'è se]mpre una na na tentazio:ne eh è ve:ro
-BOI007	di:
-BOR003	io mi sento meno sicu:ra
-BOI008	mhmh
-BOI007	sì: sì sì degli: degli:
-BOI008	io non lo so [magari la sera]
-BOI008	[eh gli immigra]:ti che vanno fanno dei xxxx con con xxx anzia:ne
-BOI007	ehm
-BOI008	tu da sola la sera non uscirai più
-BOI008	da sola devi mh
-BOR003	un po' più (.) meno sicurezza (in)somma
+BOI008	di:
+BOI007	io mi sento meno sicu:ra
 BOR003	mhmh
-BOI008	una volta era dive:r[so]
+BOI008	sì: sì sì degli: degli:
+BOI007	io non lo so [magari la sera]
+BOI008	[eh gli immigra]:ti che vanno fanno dei xxxx con con xxx anzia:ne
+BOI008	ehm
+BOI007	tu da sola la sera non uscirai più
+BOI008	da sola devi mh
+BOI008	un po' più (.) meno sicurezza (in)somma
+BOR003	mhmh
+BOR003	una volta era dive:r[so]
 BOI008	[una] volta era dive:rso
-BOI007	(si son trasferiti) in tutte in tutte le città
+BOI008	(si son trasferiti) in tutte in tutte le città
 BOI007	sai: la gente continua ad andare a teatro continua ad andare al cine:ma
 BOI007	però: m:h non più con quella tranquillità: che
-BOR003	qui ormai credo che sia a livello mondia:le questi questi discor[so non so]lo loca:le
+BOI007	qui ormai credo che sia a livello mondia:le questi questi discor[so non so]lo loca:le
 BOR003	[sì sì]
-BOI007	no no è vero
+BOR003	no no è vero
 BOI007	però
-BOR003	siamo qui parliamo
-BOI007	bi[sogna fare qualco~] esatto
+BOI007	siamo qui parliamo
+BOR003	bi[sogna fare qualco~] esatto
 BOI007	[siamo ancora]
-BOR003	se si vuole affronta:re la realtà
+BOI007	se si vuole affronta:re la realtà
 BOR003	è vero è vero
 BOR003	e invece: sempre di bologna
-BOI008	i portici sono molto [caratte~] i portici
-BOR003	[i come]
-BOI008	sono molto caratteristi[ci]
-BOR003	[all]ora
-BOI008	che adesso sono anche entrati a far parte: del
-BOI007	bra:va
-BOR003	patrimo[nio dell'une]sco
+BOR003	i portici sono molto [caratte~] i portici
+BOI008	[i come]
+BOR003	sono molto caratteristi[ci]
+BOI008	[all]ora
+BOR003	che adesso sono anche entrati a far parte: del
+BOI008	bra:va
+BOI007	patrimo[nio dell'une]sco
 BOR003	[esatto]
-BOI008	e co[n]
-BOR003	[dic]iassette diciotto chilo:m[etri sono]
-BOI008	[eh sono]:
-BOR003	xxx[x]
-BOI008	[ah è ve]ro che vanno poi fino a: [san lu]ca
-BOR003	a [san luca]
-BOI008	ci siete mai stati:
-BOI007	°non lo so [xxxxx]°
-BOR003	[carat]teristica sicurame:nte
+BOR003	e co[n]
+BOI008	[dic]iassette diciotto chilo:m[etri sono]
+BOR003	[eh sono]:
+BOI008	xxx[x]
+BOR003	[ah è ve]ro che vanno poi fino a: [san lu]ca
+BOI008	a [san luca]
+BOR003	ci siete mai stati:
+BOI008	°non lo so [xxxxx]°
+BOI007	[carat]teristica sicurame:nte
 BOR003	c'è tipo qualche: ricordo che avete in particolare:
-BOI008	magari di quella camminata: o di san luc[a:]
-BOR003	[andava]mo col xx
-BOI008	a:[h]
-BOI007	xxx sì andavamo con: compagni di scuo:la
-BOI008	e [poi]
+BOR003	magari di quella camminata: o di san luc[a:]
+BOI008	[andava]mo col xx
+BOR003	a:[h]
+BOI008	xxx sì andavamo con: compagni di scuo:la
+BOI007	e [poi]
 BOI008	[lo fa]cevamo lì
 BOI008	e anche:
-BOR003	vicino la le torri
-BOI008	sì
+BOI008	vicino la le torri
+BOR003	sì
 BOI008	sulla torre
 BOI008	no mh
-BOI007	eh eh
-BOI008	ma è stato anche occasioni sporti:ve i portici no
-BOI007	b[eh sai]
+BOI008	eh eh
+BOI007	ma è stato anche occasioni sporti:ve i portici no
+BOI008	b[eh sai]
 BOI007	[per fare alle]name:nto andare a san luca:
-BOI008	(perch[é non) tu] tu che facevi: at[letica: e]
+BOI007	(perch[é non) tu] tu che facevi: at[letica: e]
 BOI008	[xxx]
-BOR003	[beh si anch]'[io]
-BOI008	[a]:h
+BOI008	[beh si anch]'[io]
+BOR003	[a]:h
 BOI008	ma voglio dire:
 BOI008	su per san luca ci andava (tanta gente) andava
-BOR003	con tranquillità: insomma [c'erano]
-BOI008	[mhmh]
+BOI008	con tranquillità: insomma [c'erano]
+BOR003	[mhmh]
 BOI008	pericoli: vari:
 BOI008	(terzolo:)
-BOR003	salendo per (.) due chilometr[i:]
-BOI008	[mh]mh sì sì
+BOI008	salendo per (.) due chilometr[i:]
+BOR003	[mh]mh sì sì
 BOI008	è vero
 BOI008	sì mh si dice il il:
-BOR003	della moro:sa o del moroso
-BOI008	sì
-BOI007	xxxx
-BOI008	((ride)) adesso non più
-BOI007	beh adesso può darsi che ci vadano
-BOR003	comunque i portici son sempre stati piacevo:li perché sai siete in centro:
-BOI007	vero
+BOI008	della moro:sa o del moroso
+BOR003	sì
+BOI008	xxxx
+BOI007	((ride)) adesso non più
+BOI008	beh adesso può darsi che ci vadano
+BOI007	comunque i portici son sempre stati piacevo:li perché sai siete in centro:
+BOR003	vero
 BOI007	son belli da vede:re sono anche co:modi e: a:
-BOI008	[riparano dal] sole: se piove: non devi aprire l'ombrello
-BOI007	[una volta]
+BOI007	[riparano dal] sole: se piove: non devi aprire l'ombrello
+BOI008	[una volta]
 BOI007	po:i vedo che anche nei quartie:ri
-BOR003	dove è stato possibile eh non so passando di qua forse avete visto alcuni pala:zzi continuano ad avere i po:rti[ci]
-BOI007	[mh]mh
+BOI007	dove è stato possibile eh non so passando di qua forse avete visto alcuni pala:zzi continuano ad avere i po:rti[ci]
+BOR003	[mh]mh
 BOI007	per cui è e rima:ne questa:
 BOI007	piacevolezza anche nelle costruzio:ni
 BOI007	m:h in periferia non sempre è possibile:
 BOI007	però: quando è possibile:
-BOR003	come [tra:tti]
-BOI007	[mhmh]
-BOI008	infatti quando: hanno fatto la valutazio:ne per: l'unesco hanno conta:to anche tutti i tratti (.) periferici
-BOR003	lo~ una volta c'era anche: la: funivi:a
-BOI008	a:h davvero
+BOI007	come [tra:tti]
+BOR003	[mhmh]
+BOI007	infatti quando: hanno fatto la valutazio:ne per: l'unesco hanno conta:to anche tutti i tratti (.) periferici
+BOI008	lo~ una volta c'era anche: la: funivi:a
+BOR003	a:h davvero
 BOI008	quella (ancora)
-BOR003	l'ho vista
-BOI008	ah ah
+BOI008	l'ho vista
+BOR003	ah ah
 BOI008	poi a un certo punto (.) dalla xx l'hanno to:lta
-BOI007	dicono che la la [mh]
-BOI008	[do]vrebbero [riprestina:re] ma:
-BOI007	[la ripristinano]
-BOI008	è un po' cost[o:sa]
+BOI008	dicono che la la [mh]
+BOI007	[do]vrebbero [riprestina:re] ma:
+BOI008	[la ripristinano]
+BOI007	è un po' cost[o:sa]
 BOI008	[ci s]ono i pa:li
-BOR003	c'è [la la]
-BOI008	[mhmh]
-BOR003	la
-BOI008	e: come li trovate: come stato attuale secondo voi sono tenuti bene: o[ppure:] i portiici
-BOI007	[che cosa]
+BOI008	c'è [la la]
+BOR003	[mhmh]
+BOI008	la
+BOR003	e: come li trovate: come stato attuale secondo voi sono tenuti bene: o[ppure:] i portiici
+BOI008	[che cosa]
 BOI007	sarebbero tenuti be:ne: se non fossero:
 BOI007	mitraglia:ti da quelle maledette scritte
 BOI007	sarebbero tenuti be:ne perché
@@ -443,189 +443,189 @@ BOI007	ci tie:ne
 BOI007	puli:to eccetera adesso vogliono anche soprattutto in ce:ntro abbellirli con m:h delle pia:nte de m:h
 BOI007	m:h delle vaschette de~ insomma dei cespugli però
 BOI007	putroppo bologna sta vive questa situazio:ne
-BOR003	bruttissima
-BOI007	mhmh
-BOI008	e: le [scritte]
-BOR003	[le scritte] sui muri
-BOI007	[eh sì]
-BOI008	[sui mu:ri] sulle co:se i [bido:ni]
-BOR003	[le scritte al] contrario [xxx]
-BOI007	[sì è:]
-BOI008	[poi] non: [puliscono]
-BOR003	[le hai viste tu]
-BOI008	mhmh
-BOR003	che vivi lì studi a bolo[gna]?
+BOI007	bruttissima
+BOR003	mhmh
+BOI007	e: le [scritte]
+BOI008	[le scritte] sui muri
+BOR003	[eh sì]
+BOI007	[sui mu:ri] sulle co:se i [bido:ni]
+BOI008	[le scritte al] contrario [xxx]
+BOR003	[sì è:]
+BOI007	[poi] non: [puliscono]
+BOI008	[le hai viste tu]
+BOR003	mhmh
+BOI008	che vivi lì studi a bolo[gna]?
 BOR003	[io]: sì studio adesso a bologna però non sono proprio qua fisicamente però sono stata al primo anno che: facevo tutta la settimana qua quindi:
 BOR003	sì sì ho presente
-BOI007	poi [anche:]
-BOR003	[dove vivi]
-BOI007	io: a san donato
-BOR003	ah san donato
+BOR003	poi [anche:]
+BOI007	[dove vivi]
+BOR003	io: a san donato
+BOI007	ah san donato
 BOR003	quindi abbastanza anche vicino
-BOI007	però dai mi ricordo che anche l'odo:re spesso: erano un po' spo:rchi: e quindi:
+BOR003	però dai mi ricordo che anche l'odo:re spesso: erano un po' spo:rchi: e quindi:
 BOI007	purtroppo vedi:
 BOI007	tu vedi che: di notte di notte succedono queste co:se
 BOI007	purtroppo: è quello che impedisce adesso di vivere sereni
-BOR003	ed è una cosa che a me dispia:ce
-BOI007	mh immagino (.) da bologne:si [è:]
+BOI007	ed è una cosa che a me dispia:ce
+BOR003	mh immagino (.) da bologne:si [è:]
 BOI007	[sì no:] ma: poi: ci si impegna: le associazioni: commercianti: singoli:
-BOR003	se si si impe:gnano a pulire il giorno dopo è di nuovo come prima è una cosa che disturba [moltissimo]
-BOI007	[mhmh (.) no] [immagino]
+BOI007	se si si impe:gnano a pulire il giorno dopo è di nuovo come prima è una cosa che disturba [moltissimo]
+BOR003	[mhmh (.) no] [immagino]
 BOI007	[un bologne:se] non è abituato a questa cosa
 BOI007	purtroppo:
-BOR003	non puo:i mettere: l'ese:rcit[o: nelle stra:de]: insomma
+BOI007	non puo:i mettere: l'ese:rcit[o: nelle stra:de]: insomma
 BOR003	[no no è vero]
 BOR003	e: invece qualche storia che vi viene in mente sui portici:
 BOR003	ne avete?
-BOI008	o: aneddoto oppure anche vostra [storia:]
-BOR003	[sui porti]ci?
+BOR003	o: aneddoto oppure anche vostra [storia:]
+BOI008	[sui porti]ci?
 BOR003	sì o vostra storia anche persona:le qualche inco:ntro: non so
-BOI007	qualche posto: che è sotto portici: che:
+BOR003	qualche posto: che è sotto portici: che:
 BOI007	beh un portico famo:so è quello della:
 BOI007	della chiesa:
 BOI007	m:h di san:
 BOI007	il portico dei se:rvi
 BOI007	do:ve nel periodo natalizio c'è un famoso mercati:no
-BOI008	natali[zio:]
-BOI007	[le pa]lle per la la la:
-BOI008	il [prese:[pe]:]
-BOR003	[gli albe[ri]]
-BOI007	[mhmh]
-BOI008	le statu[i:ne di nata:]le: tutti gli addobbi natalizi quello è un portico (.) famo:so
-BOR003	[le statui:ne]
-BOI007	mhmh
+BOI007	natali[zio:]
+BOI008	[le pa]lle per la la la:
+BOI007	il [prese:[pe]:]
+BOI008	[gli albe[ri]]
+BOR003	[mhmh]
+BOI007	le statu[i:ne di nata:]le: tutti gli addobbi natalizi quello è un portico (.) famo:so
+BOI008	[le statui:ne]
+BOR003	mhmh
 BOI007	anche quello è un po' cambia:to perché:
 BOI007	una volta c'erano: le statuine in gesso:
-BOR003	e adesso è tutto in plastica [per cui] vabbè
-BOI007	[mhmh]
+BOI007	e adesso è tutto in plastica [per cui] vabbè
+BOR003	[mhmh]
 BOI007	comunque rima:ne anche questa'anno l'anno scorso non l'han potuto fa:re quest'anno invece ha già riape:rto l'hanno già innaugura:to
 BOI007	per cui quello è un po:rtico che: per i bologne:si: è: sempre stato:
-BOR003	fam[o:so no] c'andavai a comprare il torro:ne prendevi:
-BOI007	[mhmh]
+BOI007	fam[o:so no] c'andavai a comprare il torro:ne prendevi:
+BOR003	[mhmh]
 BOI007	le palline per l'albero di nata:le: una xsina nuo:va
-BOR003	tutti gli anni erano dive:rsi i bambini andavano là per mangiare lo zucchero fila:to
+BOI007	tutti gli anni erano dive:rsi i bambini andavano là per mangiare lo zucchero fila:to
 BOR003	sì
-BOI007	tradizioni
-BOI008	poi: gli altri portici:
+BOR003	tradizioni
+BOI007	poi: gli altri portici:
 BOI008	i portici sono molto:
-BOI007	molto tenuti dai bolognesi perché ci tengono ai portici
+BOI008	molto tenuti dai bolognesi perché ci tengono ai portici
 BOI007	oramai sono anche occasione di inco:ntro
-BOI008	e:hm
+BOI007	e:hm
 BOI008	ci si inco:ntrano
 BOI008	buongiorno signora come sta ah ah eh
-BOI007	chiacchiere purament[e:]
+BOI008	chiacchiere purament[e:]
 BOI007	[lungo] la strada sul marciapiede magari: hai più fretta
 BOI007	questo ti po:rta ad essere anche po' più tranquilla a vivere la città
-BOR003	con più ca:lma
-BOI007	ci sta:
-BOR003	perché se tu porti ti viene da chiacchiera:re un [po' di più]
-BOI007	[sì sì] è vero è ve[ro]
-BOR003	[il ma]rciapiede no però
-BOI007	è v[ero]
+BOI007	con più ca:lma
+BOR003	ci sta:
+BOI007	perché se tu porti ti viene da chiacchiera:re un [po' di più]
+BOR003	[sì sì] è vero è ve[ro]
+BOI007	[il ma]rciapiede no però
+BOR003	è v[ero]
 BOI007	[pe]rché le va:i e e se non hai un (proprio un luogo) dove ferma:rti
-BOR003	anche questa è proprio una caratteristica dei [po:rtici]
+BOI007	anche questa è proprio una caratteristica dei [po:rtici]
 BOR003	[mhmh]
 BOR003	e: invece il vostro posto preferito di bologna
 BOR003	che:
-BOI007	in cui portereste un vostro ami:co: il vostro posto del cuore a cui siete più legati in assoluto
-BOI008	io direi il centro storico (sicuramente) piazza maggio:re
-BOR003	e anche lo sta:dio
-BOI008	anche lo stadio
+BOR003	in cui portereste un vostro ami:co: il vostro posto del cuore a cui siete più legati in assoluto
+BOI007	io direi il centro storico (sicuramente) piazza maggio:re
+BOI008	e anche lo sta:dio
+BOR003	anche lo stadio
 BOI008	ci sono andato
 BOI008	cinquant'anni
 BOI008	allo stadio sempre sempre sempre
-BOR003	quest'anno non lo faccio più: le guardo alla televisio:ne
-BOI008	mhmh quindi proprio tifo:so
-BOR003	come
-BOI007	tifoso proprio
-BOR003	tutti e due
-BOI007	ah sì:
-BOI008	abbona:ti
+BOI008	quest'anno non lo faccio più: le guardo alla televisio:ne
+BOR003	mhmh quindi proprio tifo:so
+BOI008	come
+BOR003	tifoso proprio
+BOI007	tutti e due
+BOR003	ah sì:
+BOI007	abbona:ti
 BOI008	siamo dei:
 BOI008	abbiam pe:rso nelle:
 BOI008	xxxx
-BOI007	eh
+BOI008	eh
 BOI007	sei tremendo
-BOR003	((ride))
-BOI008	no no vabbè però anche quello dai fa parte delle tradizio:ni
-BOI007	[xxx] che [tradizioni]
+BOI007	((ride))
+BOR003	no no vabbè però anche quello dai fa parte delle tradizio:ni
+BOI008	[xxx] che [tradizioni]
 BOI007	[comunque il ce]ntro sto:rico è sicurame:nte dove portiamo gli ami:ci quando vengono a bolo:gna e non conoscono la città sai:
-BOR003	parti da lì: poi ti muovi lì into:r[no]
-BOI007	[sì]
-BOI008	e c'è m:h
+BOI007	parti da lì: poi ti muovi lì into:r[no]
+BOR003	[sì]
+BOI007	e c'è m:h
 BOI008	(è tutto pieno)
-BOR003	perché tutti i nego:zi comunque
-BOI008	[mh]mh
+BOI008	perché tutti i nego:zi comunque
+BOR003	[mh]mh
 BOI008	diciamo
-BOR003	dei posti dove ci sono i xx belli [e:]
-BOI008	[sì]
-BOR003	e [vai a vedere] non sempre comperi
+BOI008	dei posti dove ci sono i xx belli [e:]
+BOR003	[sì]
+BOI008	e [vai a vedere] non sempre comperi
 BOR003	[sì sì è vero]
 BOR003	per esempio i~ un vostro ristorante: a cui siete legati:
-BOI007	un posto che vi piace:
+BOR003	un posto che vi piace:
 BOI007	in centro sì c'è:
-BOI008	leonida no
-BOI007	come
-BOI008	leonida è dove [andiamo] sì
-BOI007	[leonida]
-BOR003	ed è la cucina bolognese classica
-BOI007	che è sempre b[uona]
+BOI007	leonida no
+BOI008	come
+BOI007	leonida è dove [andiamo] sì
+BOI008	[leonida]
+BOI007	ed è la cucina bolognese classica
+BOR003	che è sempre b[uona]
 BOI007	[ristora]nte:
 BOI007	antico cioè diciamo è lì da:
 BOI007	da tantissimi anni ed c'è la:
-BOI008	per cui quando: [siamo in] centro con: amici o conoscenti che vengono a vedere la città:
-BOI007	[xx]
+BOI007	per cui quando: [siamo in] centro con: amici o conoscenti che vengono a vedere la città:
+BOI008	[xx]
 BOI007	un attimo so:lo
-BOR003	ce ne andiamo a ma[ngiare]
-BOI007	[mhmh]
-BOR003	i tortellini
-BOI008	[eh beh però]
+BOI007	ce ne andiamo a ma[ngiare]
+BOR003	[mhmh]
+BOI007	i tortellini
+BOR003	[eh beh però]
 BOI008	[diciamo che:]
-BOI007	non mi ricordo bene do~ in via indipendenza c'è il diana
+BOI008	non mi ricordo bene do~ in via indipendenza c'è il diana
 BOI007	sì
 BOI007	c'è il dia:na che è uno dei più famo:si
 BOI007	che anche quello adesso è stato (ceduto) da un po' di tempo: e:hm vicino ai tea:tri vicino ai cinema
-BOR003	su indipendenza è la: strada principale [che va alla st]azione lo sai
-BOI008	[sì]
-BOR003	(è sempre poi piena di [ge:nte])
-BOI008	[è vero] è vero
+BOI007	su indipendenza è la: strada principale [che va alla st]azione lo sai
+BOR003	[sì]
+BOI008	(è sempre poi piena di [ge:nte])
+BOR003	[è vero] è vero
 BOI008	perché non passano neanche le
-BOI007	le macchine
-BOI008	mh
-BOI007	di~ di: le m~ le macchine non passa[no]
+BOI008	le macchine
+BOI007	mh
+BOI008	di~ di: le m~ le macchine non passa[no]
 BOI007	[no]
-BOI008	xxxx
-BOI007	la via e: da lì si arriva (a via irnerio) con la piazza
+BOI007	xxxx
+BOI008	la via e: da lì si arriva (a via irnerio) con la piazza
 BOI007	eh no le macchine non posson se non quelle autorizza:te: mezzi pubblici: i taxi: le auto blu:
 BOI007	solo i residenti che hanno dei permessi specia:li
-BOR003	poi adesso ho letto che: dopo xxx dovranno xx
-BOI007	ah può essere
-BOR003	permessi anche per i residen[ti]
+BOI007	poi adesso ho letto che: dopo xxx dovranno xx
+BOR003	ah può essere
+BOI007	permessi anche per i residen[ti]
 BOR003	[mh]mh
-BOI007	e invece santo stefano quella zona lì anche è molto bella
-BOR003	sì noi ci abbiam lavora:to
+BOR003	e invece santo stefano quella zona lì anche è molto bella
+BOI007	sì noi ci abbiam lavora:to
 BOR003	s:ì?
-BOI007	dove
+BOR003	dove
 BOI007	lui alle cassa di rispa:rmio
 BOI007	(un palazzo) bianco bellissimo
 BOI007	per quarant'anni
 BOI007	io invece avevo uno stu:dio di commerciali:sti e ho: ho vagato fra
 BOI007	corte galluzzi
-BOR003	via d'aze:glio via santo ste:fano
-BOI007	ah lì è proprio [bello]
-BOR003	[sono sta]ta la nostra zona se:mpre che è bellissima vicina alle sette chie:se
-BOI007	[bellissimo]
-BOR003	[bei nego:zi] bei loca:li e: abbiamo passato la nostra vita lavorativa praticamente in quella zona lì
+BOI007	via d'aze:glio via santo ste:fano
+BOR003	ah lì è proprio [bello]
+BOI007	[sono sta]ta la nostra zona se:mpre che è bellissima vicina alle sette chie:se
+BOR003	[bellissimo]
+BOI007	[bei nego:zi] bei loca:li e: abbiamo passato la nostra vita lavorativa praticamente in quella zona lì
 BOR003	e: invece:
 BOR003	quando eravate proprio giovani quali erano i posti in cui andavate:
-BOI008	più frequentemente
+BOR003	più frequentemente
 BOI008	per i ba:r che no~ noi eh
 BOI008	diciassette diciotto
-BOR003	xx anni andavamo nei bar a giocare a biliardo
-BOI008	a:h
-BOI007	frequentemente però il problema è xxx
-BOR003	ma e:h noi non siamo:
-BOI007	ci[nema: teatro:]
+BOI008	xx anni andavamo nei bar a giocare a biliardo
+BOR003	a:h
+BOI008	frequentemente però il problema è xxx
+BOI007	ma e:h noi non siamo:
+BOR003	ci[nema: teatro:]
 BOI007	[nessuno dei due]: appassionati di ballo
 BOI007	però: in centro (c'erano) dei loca:li
 BOI007	(fa domenica) pomeriggio (i ragazzi) andavano a balla:re
@@ -635,81 +635,81 @@ BOI007	xxxxx
 BOI007	ma:
 BOI007	nei locali dove si balla:va
 BOI007	boh
-BOR003	non li frequen[ta:vo]
-BOI008	((ride))
+BOI007	non li frequen[ta:vo]
+BOR003	((ride))
 BOI008	(quei locali)
 BOI008	ehm
 BOI008	il: com'era
 BOI008	quello famo:so
 BOI008	(di medico)
-BOI007	[e:]
-BOI008	[quello] in via ugo bassi
+BOI008	[e:]
+BOI007	[quello] in via ugo bassi
 BOI008	eh
 BOI008	eh
-BOR003	non c'è più non c'è non [ci sono più] quei locali: lì eh
+BOI008	non c'è più non c'è non [ci sono più] quei locali: lì eh
 BOR003	[mhmh]
-BOI007	per esempio cinema o teatro: si andava
+BOR003	per esempio cinema o teatro: si andava
 BOI007	sì sì andia~ siamo andati diverse vo:lte
-BOI008	al comuna:le per dei conc[e:rti]
-BOR003	[adesso sono] stati chiusi per un anno ehm ancora un po'
-BOI008	mhmh sì
-BOI007	adesso riaprono
-BOR003	xxxx
-BOI008	e adesso andate ancora
-BOI007	(co[s'è che hai detto])
-BOR003	[rara~] rara[mente]
-BOI007	[andate] ancora adesso a cinema teatro: o di meno
-BOI008	po:i questo blocco della [pandemia] veramente c'ha tolto [xxx]
+BOI007	al comuna:le per dei conc[e:rti]
+BOI008	[adesso sono] stati chiusi per un anno ehm ancora un po'
+BOR003	mhmh sì
+BOI008	adesso riaprono
+BOI007	xxxx
+BOR003	e adesso andate ancora
+BOI008	(co[s'è che hai detto])
+BOI007	[rara~] rara[mente]
+BOR003	[andate] ancora adesso a cinema teatro: o di meno
+BOI007	po:i questo blocco della [pandemia] veramente c'ha tolto [xxx]
 BOI008	[xxx]
-BOR003	[xx xx] alduse all'arena del sole [siamo andati]
+BOI008	[xx xx] alduse all'arena del sole [siamo andati]
 BOR003	[mhmh]
-BOI008	sì
-BOI007	diverse volte
+BOR003	sì
+BOI008	diverse volte
 BOI007	sì al duse al teatro comunale: e:
-BOI008	gli altri [li conosciamo]
-BOI007	[il teatro comuna]le perché poi con con la [cassa (noi potevamo)] fa:re
+BOI007	gli altri [li conosciamo]
+BOI008	[il teatro comuna]le perché poi con con la [cassa (noi potevamo)] fa:re
 BOI007	[xxxxx]
-BOI008	be[llissimo l'hai vi]sto il teatro comunale
-BOR003	[xxxxx]
+BOI007	be[llissimo l'hai vi]sto il teatro comunale
+BOI008	[xxxxx]
 BOR003	sì:
 BOR003	sì sì sì
-BOI008	e che spettacoli vi ricordate uno spettacolo che vi è rimasto:
+BOR003	e che spettacoli vi ricordate uno spettacolo che vi è rimasto:
 BOI008	[xxx per me]
-BOI007	è: solo solo l'opera lirica
-BOI008	visto anche dei conce:rti
+BOI008	è: solo solo l'opera lirica
+BOI007	visto anche dei conce:rti
 BOI008	sì concerti
-BOI007	conc[erti]
-BOI008	[abb]iam[o:]
-BOI007	[di mu]sica
+BOI008	conc[erti]
+BOI007	[abb]iam[o:]
+BOI008	[di mu]sica
 BOI007	abbiamo:
-BOR003	siamo andati a un concerto che ha cantato luciano pavaro:tti
+BOI007	siamo andati a un concerto che ha cantato luciano pavaro:tti
 BOR003	MH
-BOI007	bello
+BOR003	bello
 BOI007	un'altra: un'altra serata al teatro comuna:le quando il bologna football che~ club club ha:
 BOI007	ha festeggiato gli ottant'anni
-BOR003	ha fatto una festa (al teatro comunale)
-BOI007	mhmh
+BOI007	ha fatto una festa (al teatro comunale)
+BOR003	mhmh
 BOI007	lui e lui ha vinto xxxx
-BOR003	ma anche adesso
-BOI007	mh
+BOI007	ma anche adesso
+BOR003	mh
 BOI007	poi tanto
 BOI007	davanti all'arena del so:le
-BOR003	ricordo giorgio ga:ber all'arena del [so:le]
-BOI007	[bello]
-BOR003	questo però ((ride))
+BOI007	ricordo giorgio ga:ber all'arena del [so:le]
+BOR003	[bello]
+BOI007	questo però ((ride))
 BOR003	>[allo]ra<
 BOR003	e: invece voi essendo di bologna:
 BOR003	quando vi siete incontrati per la prima volta
-BOI008	ve lo ricorda:[te:]
-BOI007	[no]i
-BOI008	((ride))
-BOR003	[via] beniamino gigli
-BOI007	[a:h]
-BOI008	[qui vi]ci:no
-BOI007	via beniamino gigli
-BOI008	sotto casa
-BOR003	xxx
-BOI008	i[n comu:n]e
+BOR003	ve lo ricorda:[te:]
+BOI008	[no]i
+BOI007	((ride))
+BOI008	[via] beniamino gigli
+BOR003	[a:h]
+BOI007	[qui vi]ci:no
+BOI008	via beniamino gigli
+BOI007	sotto casa
+BOI008	xxx
+BOR003	i[n comu:n]e
 BOI008	[io]
 BOI008	dopo (ero andato in america)
 BOI008	ah mh eh (un'amica mia)
@@ -719,89 +719,89 @@ BOI008	per cui dopo:
 BOI008	dopo una settima:na
 BOI008	niente
 BOI008	mi son (fraccato) una gamba
-BOR003	xxx
-BOI008	sì sì certo certo
+BOI008	xxx
+BOR003	sì sì certo certo
 BOI008	xxando fo:rte
-BOR003	o:tto mesi (non passavano più)
-BOI008	porca mise:ria
-BOR003	otto mesi ingessato e: lei ha incominciato a fare l'infermie:ra
+BOI008	o:tto mesi (non passavano più)
+BOR003	porca mise:ria
+BOI008	otto mesi ingessato e: lei ha incominciato a fare l'infermie:ra
 BOR003	a:h
-BOI007	e dopo lì è nato l'am[o:re]
-BOR003	[e non vole] xx[x fare]l'infermie:ra
-BOI007	((ride))
+BOR003	e dopo lì è nato l'am[o:re]
+BOI007	[e non vole] xx[x fare]l'infermie:ra
 BOR003	((ride))
-BOI008	e dopo vi siete sposati molto tempo dopo:
-BOR003	°quattro anni°
+BOI007	((ride))
+BOR003	e dopo vi siete sposati molto tempo dopo:
+BOI008	°quattro anni°
 BOR003	ah
-BOI007	quindi: quattro anni di fidanzame:nto avete fatto
-BOR003	e uno di gesso
+BOR003	quindi: quattro anni di fidanzame:nto avete fatto
+BOI007	e uno di gesso
+BOR003	((ride))
 BOI007	((ride))
-BOI007	((ride))
-BOR003	[sì qua]ttro a:nni
+BOI007	[sì qua]ttro a:nni
 BOR003	e: all'inizio:
 BOR003	frequentavate dei po:sti:
-BOI008	avevate dei posti particolari in cui magari la porta:vi:
-BOR003	andavamo al ma:re
-BOI008	al mare
-BOI007	al mare andavamo a:
-BOI008	a marina di ravenna
-BOI007	marina [marina di ravenna]
+BOR003	avevate dei posti particolari in cui magari la porta:vi:
+BOI008	andavamo al ma:re
+BOR003	al mare
+BOI008	al mare andavamo a:
+BOI007	a marina di ravenna
+BOI008	marina [marina di ravenna]
 BOI007	[qualche weeken]d
 BOI007	poi lui ha inizia:to veramente la sua attività sportiva amatoriale
 BOI007	è entrato siamo entrati nella nostra polisporti:va
-BOR003	come: giudici da ga:ra
-BOI007	a:h
+BOI007	come: giudici da ga:ra
+BOR003	a:h
 BOI007	l'atletica legge:ra
 BOI007	e: diciamo la sua specialità era quella di speaker
 BOI007	alle ma~ varie manifestazio:ni per cui praticamente tutte le domeniche eravamo chiamati
-BOR003	o: in città o fuori o a forlì o a ravenna:
-BOI007	mhmh
+BOI007	o: in città o fuori o a forlì o a ravenna:
+BOR003	mhmh
 BOI007	o a fae:nza: o
 BOI007	insomma: eravam sempre in movimento per cui
 BOI007	diciamo la nostra: vita in gioventù prima di sposa:rci poi da sposati
 BOI007	praticamente
-BOR003	nello sport
+BOI007	nello sport
 BOR003	okay
-BOI008	quindi è una cosa che vi accomuna
+BOR003	quindi è una cosa che vi accomuna
 BOI008	lei pure ha fatto molto era
 BOI008	prese:nte è stata tre volte
-BOR003	a new york a correre le maratone
-BOI008	ah?
-BOR003	la maratona di new yo[rk]
+BOI008	a new york a correre le maratone
+BOR003	ah?
+BOI008	la maratona di new yo[rk]
 BOR003	[a]:h
-BOI008	che b[ello wo:w]
-BOR003	[tre volte] sono andato
-BOI008	mamma mia:
-BOR003	le le [le ga:re le] facciamo in zo:na non a new yo:rk
-BOI008	[sì sì:]
-BOR003	appunto perché lei è xx
-BOI008	sì: b[ello]
-BOR003	[non a far la mar]ato:na [xx]
-BOI007	[a suppor]tarti s[ì sì]
+BOR003	che b[ello wo:w]
+BOI008	[tre volte] sono andato
+BOR003	mamma mia:
+BOI008	le le [le ga:re le] facciamo in zo:na non a new yo:rk
+BOR003	[sì sì:]
+BOI008	appunto perché lei è xx
+BOR003	sì: b[ello]
+BOI008	[non a far la mar]ato:na [xx]
+BOR003	[a suppor]tarti s[ì sì]
 BOI007	[belli]ssimo un'esperienza straordinaria a parte che: siamo innamorati di new yo:rk però:
-BOR003	in quell'occasio:ne: è una città speciale
-BOI007	m[hmh]
+BOI007	in quell'occasio:ne: è una città speciale
+BOR003	m[hmh]
 BOI007	[anche] se (dedica) sono
-BOR003	xxxx
-BOI007	sì
+BOI007	xxxx
+BOR003	sì
 BOI007	si ve:dono stando un giorno lì
 BOI007	tutti i quartie:ri
 BOI007	e tu ve:di
 BOI007	nella: a manhattan le signore con la pelliccia che
-BOI008	xxxx[xx]
-BOR003	[è vero]
-BOI007	[sì sì]
+BOI007	xxxx[xx]
+BOI008	[è vero]
+BOR003	[sì sì]
 BOI007	nel bro:nx
 BOI007	nel quartie:re: e:hm: ebre:o
 BOI007	nel quartiere ebreo tutti fuori che suono che (lanciano) dai dai dai
-BOR003	è una cosa meravigliosa meravigliosa
-BOI008	e invece [qui in città]
+BOI007	è una cosa meravigliosa meravigliosa
+BOR003	e invece [qui in città]
 BOI008	[e poi ho fa]tto
-BOR003	posso [dire (parlo io)]
-BOI008	[c~ certo cer]to certo
+BOI008	posso [dire (parlo io)]
+BOR003	[c~ certo cer]to certo
 BOI008	ho fatto
-BOR003	fino in fondo
-BOI008	ah ah
+BOI008	fino in fondo
+BOR003	ah ah
 BOI008	non (di cento)
 BOI008	fondo
 BOI008	ho fatto tutte le gare che c'erano in italia
@@ -810,150 +810,150 @@ BOI008	e sono andato anche a fare la
 BOI008	la la xxx xxx
 BOI008	che è una gara
 BOI008	in svezia
-BOR003	di novanta chilometri
+BOI008	di novanta chilometri
 BOR003	madonna
-BOI007	quindi un vero sportivo proprio
+BOR003	quindi un vero sportivo proprio
 BOI007	a livello amatoria:le
-BOI008	si è impe[gnato: molto]
-BOR003	[scusi scusi] se non centra [niente]
+BOI007	si è impe[gnato: molto]
+BOI008	[scusi scusi] se non centra [niente]
 BOR003	[no no] perfetto invece
-BOI008	e invece tipo a bologna ci sono delle manifestazioni sportive: [a cui]
+BOR003	e invece tipo a bologna ci sono delle manifestazioni sportive: [a cui]
 BOI008	[beh c'è] c'è una corsa che han fatto a bologna
 BOI008	solo che
-BOI007	[(quindici) (.) tre settimane fa
+BOI008	[(quindici) (.) tre settimane fa
 BOI007	[tre settimane fa]
 BOI007	la marato:na
-BOI008	l'hanno ripresa dopo venticinq[ue a:nni]
+BOI007	l'hanno ripresa dopo venticinq[ue a:nni]
 BOI008	[beh ce]:rto è abbastanza sensibile
-BOI007	tutti gli spo:rt
+BOI008	tutti gli spo:rt
 BOI007	poi c'è: una famosa: gara ciclistica
-BOR003	che è l[a:]
-BOI007	[ah è ve]ro
-BOI008	la: m:h quella che arriva a san l[uca]
-BOI007	([più fa]mosa allora)
-BOR003	quella che arriva là: arriva a san l[uca]
-BOI008	[eh] che [arriva a san luca è vero]
-BOR003	[ah sì sì sì sì sì]
-BOI007	mhmh
+BOI007	che è l[a:]
+BOR003	[ah è ve]ro
+BOI007	la: m:h quella che arriva a san l[uca]
+BOI008	([più fa]mosa allora)
+BOI007	quella che arriva là: arriva a san l[uca]
+BOR003	[eh] che [arriva a san luca è vero]
+BOI008	[ah sì sì sì sì sì]
+BOR003	mhmh
 BOI007	come si chiama
 BOI007	e:hm
-BOI008	xxxx
-BOR003	xxxxx
-BOI008	sì sì
-BOR003	e:h
+BOI007	xxxx
+BOI008	xxxxx
+BOR003	sì sì
+BOI008	e:h
 BOR003	e: inv~ avete mai preso parte a:
 BOR003	queste:
-BOI007	cose sportive a bolo:gna in passato:
-BOR003	beh lui sì quello che riguarda maratore atletica è tutto lui
-BOI007	[sempre]
+BOR003	cose sportive a bolo:gna in passato:
+BOI007	beh lui sì quello che riguarda maratore atletica è tutto lui
+BOR003	[sempre]
 BOI007	[è sempre] stato
-BOR003	ciclismo no
-BOI008	mhmh
+BOI007	ciclismo no
+BOR003	mhmh
 BOI008	mhmh
 BOI008	mh
 BOI008	ciclismo ho fatto la la co:rsa che partiva
-BOR003	da piazza saffi x x x
-BOI008	sì sì
-BOI007	e arrivava su
-BOI008	a cento chilometri
-BOI007	ma no:
-BOI008	ah n[o:]
+BOI008	da piazza saffi x x x
+BOR003	sì sì
+BOI008	e arrivava su
+BOI007	a cento chilometri
+BOI008	ma no:
+BOI007	ah n[o:]
 BOI008	[no no] beh
 BOI008	(poi ho seguito anche la cento) arrivavo
-BOI007	insomma venti chilometri su in sali:ta xxx
-BOI008	predappio
+BOI008	insomma venti chilometri su in sali:ta xxx
+BOI007	predappio
 BOI008	no no
-BOI007	eh
-BOR003	predappio
-BOI008	può [essere]
+BOI008	eh
+BOI007	predappio
+BOR003	può [essere]
 BOI008	[no non lo so]
-BOR003	ma c'era tanta ge:nte
+BOI008	ma c'era tanta ge:nte
 BOR003	e: invece il dialetto bolognese
-BOI008	[an~]
-BOR003	[sì]
-BOI008	ancora lo parlate: frequentemente o:
+BOR003	[an~]
+BOI008	[sì]
+BOR003	ancora lo parlate: frequentemente o:
 BOI008	no lei lo capisce
 BOI008	il dialetto bolognese
-BOR003	io lo s~ capisco be:ne
-BOI008	mhmh
-BOR003	guardi
-BOI008	parlano mai
-BOI007	qualc~ qu[alche battu:ta:]
-BOI008	[son proprio due di no]:i
+BOI008	io lo s~ capisco be:ne
+BOR003	mhmh
+BOI008	guardi
+BOR003	parlano mai
+BOI008	qualc~ qu[alche battu:ta:]
+BOI007	[son proprio due di no]:i
 BOI008	io xx
-BOR003	#[(se voi xx a ma so bri:sa)]
+BOI008	#[(se voi xx a ma so bri:sa)]
 BOR003	((ride))
 BOR003	((ride))
 BOR003	e pensate che
-BOI007	>cioè< sia una cosa che: è andata un po' pe:rsa: vi dispiace che per esempio i giovani non non lo parl[ino]
+BOR003	>cioè< sia una cosa che: è andata un po' pe:rsa: vi dispiace che per esempio i giovani non non lo parl[ino]
 BOI007	[eh] guarda io ho un nipo:te abbiamo un nipo:te che ha quarantadue anni
 BOI007	nato a bolo:gna eccetera lui è:
 BOI007	appassionatissmo e (lo pa:rla)
-BOI008	il dialetto bologne:se gli piace m[o:lto per cui]
-BOR003	xxxx
-BOI007	((ride))
+BOI007	il dialetto bologne:se gli piace m[o:lto per cui]
+BOI008	xxxx
+BOR003	((ride))
 BOI007	per cui è:
 BOI007	si parla anco:ra magar~ magari non con frequenza diciamo nel quotidiano però:
-BOI008	m:h è come nel [veneto]
-BOI007	xxxx
+BOI007	m:h è come nel [veneto]
+BOI008	xxxx
 BOI007	sì no vabbè
-BOR003	e [il v[ene]to lo parla che lui]
-BOI008	[no]
+BOI007	e [il v[ene]to lo parla che lui]
+BOR003	[no]
 BOI008	[hai visto hai visto che]
 BOI008	in certi ba:r un po' più di periferia: gli anzia:ni
-BOR003	che giocano a [briscola]
-BOI008	[mhmh]
-BOR003	dicono la battu:ta [poi] e:h
-BOI008	[sì]
+BOI008	che giocano a [briscola]
+BOR003	[mhmh]
+BOI008	dicono la battu:ta [poi] e:h
+BOR003	[sì]
 BOI008	dicono anche qualco:sa
 BOI008	insomma
-BOR003	non è frequente diciamo
-BOI008	una volta si parlava di più:
-BOR003	sì mo:lto di più
-BOI008	in ogni posto:
-BOI007	°in ogni posto°
+BOI008	non è frequente diciamo
+BOR003	una volta si parlava di più:
+BOI008	sì mo:lto di più
+BOR003	in ogni posto:
+BOI008	°in ogni posto°
 BOI007	io guarda il papà mio è bolognese
 BOI007	doc
-BOR003	nato in via zamboni
-BOI007	a:h
+BOI007	nato in via zamboni
+BOR003	a:h
 BOI007	però mia mamma è veneta
 BOI007	erano tutti e due ovviamente
 BOI007	di trevi:so
 BOI007	si sono conosciuti (.) in africa
-BOR003	dove io [sono] na:ta
+BOI007	dove io [sono] na:ta
 BOR003	[ah sì]
-BOI007	a:h
+BOR003	a:h
 BOI007	mio papà era per lavo:ro mia mamma era con i suoi: e:h la sua famiglia da coloni
 BOI007	io sono nata là
-BOR003	e: mio papà mi ha portata a bologna che avevo sedici me:si
-BOI007	mhmh
+BOI007	e: mio papà mi ha portata a bologna che avevo sedici me:si
+BOR003	mhmh
 BOI007	lui però ha sempre detto che ha una sorella che ha quattro anni meno di me
 BOI007	lui ha sempre detto
 BOI007	in ca:sa
-BOR003	si parla italiano
-BOI007	[mhmh]
+BOI007	si parla italiano
+BOR003	[mhmh]
 BOI007	[perché le] bambine devono crescere parlando italiano
 BOI007	po:i quando siamo fra i pare:nti e noi così
-BOR003	se mia mamma gli scappava una parola in veneto
-BOI007	sì (.) sì [sì sì]
+BOI007	se mia mamma gli scappava una parola in veneto
+BOR003	sì (.) sì [sì sì]
 BOI007	[(c'è:)]
 BOI007	e mio papà uguale
-BOR003	per cui già fin da allora hai capit[o:]
-BOI007	[mhmh]
-BOR003	c'era questa necessità del [parlare] bene l'italiano
+BOI007	per cui già fin da allora hai capit[o:]
+BOR003	[mhmh]
+BOI007	c'era questa necessità del [parlare] bene l'italiano
 BOR003	[di parla~]
-BOI007	mhmh
-BOR003	questo me lo ricordo [perché xxx]
+BOR003	mhmh
+BOI007	questo me lo ricordo [perché xxx]
 BOR003	[mhmh sì sì sì]
 BOR003	no no è vero una vo~ adesso il dialetto io me ne accorgo che:
-BOI008	[non si se~] non si sente pi[ù]
-BOI007	[poca roba]
-BOR003	[no] è bello è bello [perché:]
-BOI007	[è pecca:to]
-BOR003	rispecchia la: le tue radi:[ci]
-BOI007	[v]ero
+BOR003	[non si se~] non si sente pi[ù]
+BOI008	[poca roba]
+BOI007	[no] è bello è bello [perché:]
+BOR003	[è pecca:to]
+BOI007	rispecchia la: le tue radi:[ci]
+BOR003	[v]ero
 BOI007	però è chiaro che sono
-BOR003	cose di secondo piano [secondo me]
+BOI007	cose di secondo piano [secondo me]
 BOR003	[sì sì sì sì sì] è vero
 BOR003	perfetto
 BOR003	io:

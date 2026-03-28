@@ -1,5 +1,5 @@
 TO071	vedi già stavo sbagliando perché non sta registrando
-TO056	di' una cosa parliamo di te descrivi questa casa
+TO071	di' una cosa parliamo di te descrivi questa casa
 TO056	allora la nostra casa è un buco locale
 TO056	con l'acesso da ballatoio
 TO056	purtroppo
@@ -7,41 +7,36 @@ TO056	il che significa avere i vicini di casa troppo vicini
 TO056	si entra e si è subito in cucina
 TO056	che è anche la stanza dove
 TO056	studiamo guardiamo i film abbiamo il computer teniamo i libri
-TO071	eh c'è una mansardina con il letto per gli ospiti
+TO056	eh c'è una mansardina con il letto per gli ospiti
 TO071	mhmh
 TO071	ci dorme mai qualcuno
-TO056	lì sopra
-TO071	sì ci dormiamo noi quando abbiamo gli ospiti appunto a cui cediamo la stanza da letto
-TO056	e okay
+TO071	lì sopra
+TO056	sì ci dormiamo noi quando abbiamo gli ospiti appunto a cui cediamo la stanza da letto
+TO071	e okay
 TO056	poi c'è il bagno
 TO056	che è minuscolo
 TO056	senza bidet
-TO071	
-TO056	
-TO056	
 TO056	eh senza finestra
-TO071	
-TO056	eh
+TO071	eh
 TO056	peggio della caxx~
 TO056	peggio della casa in via dei matti numero zero
 TO056	e poi c'è la stanza da letto che è molto grande
-TO071	ma con l'armadio molto piccolo
-TO056	okay
+TO056	ma con l'armadio molto piccolo
+TO071	okay
 TO056	e ben due letti
 TO056	di cui uno a soppalco c'è di cui uno
 TO056	diciamo a castello
-TO071	più o meno
-TO056	a castello
+TO056	più o meno
+TO071	a castello
 TO056	asc~ castello a soppalco
 TO056	e in camera da letto c'abbiamo la vergine delle rocce di leonardo
 TO056	su sn~
 TO056	come dire stampata su una tavola di legno
-TO071	in entrambe le versioni
+TO056	in entrambe le versioni
 TO071	okay
 TO071	eh mh
 TO071	invece dimmi qualcosa delle case in cui vivevi prima di vivere in questa
-TO056	pure pure qua a torino va bene senza andare troppo indietro
-TO056	
+TO071	pure pure qua a torino va bene senza andare troppo indietro
 TO056	allora
 TO056	la casa in cui vive~ vivevamo prima era comunque un buco locale
 TO056	però ancora peggio perché non c'era la mh porta che divideva il soggiorno
@@ -53,19 +48,19 @@ TO056	paradossalmente si riusciva a tenere tutto più ordinato
 TO056	c'era un balcone
 TO056	che mi piaceva molto perché la casa era
 TO056	come dire
-TO071	più fresca entrava più luce mh eccetera eccetera eccetera
-TO056	mhmh mh
+TO056	più fresca entrava più luce mh eccetera eccetera eccetera
+TO071	mhmh mh
 TO056	e soprattutto c'era la vasca da bagno oltre ad esserci il bidet
-TO071	c'era una mini vasca da bagno in cui non si potevano allungare le gambe però
-TO056	perché in questa casa non c'è in questa in cui vivi adesso xx
-TO071	no qua c'è il piatto doccia
-TO056	eh
+TO056	c'era una mini vasca da bagno in cui non si potevano allungare le gambe però
+TO071	perché in questa casa non c'è in questa in cui vivi adesso xx
+TO056	no qua c'è il piatto doccia
+TO071	eh
 TO056	eh c~ che è piccolo
 TO056	eh quindi niente bagnetto
-TO071	invece lì si poteva fare il bagnetto con le paperelle comprate da tiger a un euro e novantanove
-TO056	mhmh
-TO071	eh poi soprattutto c'era il bidet
-TO056	eh
+TO056	invece lì si poteva fare il bagnetto con le paperelle comprate da tiger a un euro e novantanove
+TO071	mhmh
+TO056	eh poi soprattutto c'era il bidet
+TO071	eh
 TO056	xxx
 TO056	c'era pure la finestra ecco sì
 TO056	quel bagno era perfetto
@@ -79,33 +74,33 @@ TO056	che praticamente essendo sottotetto
 TO056	in camera da letto il tetto appunto era spiovente
 TO056	e c'era la
 TO056	il pozzo luce come lo chiamiamo noi
-TO071	non so in italiano come si
-TO056	solarium
-TO071	il solarium ecco
+TO056	non so in italiano come si
+TO071	solarium
+TO056	il solarium ecco
 TO071	lo~ lo chiamano gli snob
-TO056	però faceva un ca~
-TO071	per noi è il pozzo luce
-TO056	faceva un caldo schifoso d'estate però
-TO071	eh sì faceva caldo però col ventilatore più o meno dormo sempre
-TO056	più o meno dormi sempre
-TO071	sì
-TO056	e questa era la casa xxxx
+TO071	però faceva un ca~
+TO056	per noi è il pozzo luce
+TO071	faceva un caldo schifoso d'estate però
+TO056	eh sì faceva caldo però col ventilatore più o meno dormo sempre
+TO071	più o meno dormi sempre
+TO056	sì
+TO071	e questa era la casa xxxx
 TO056	x
-TO071	sì ed era il quinto piano senza ascensore in un palazzo mh
-TO056	okay
+TO056	sì ed era il quinto piano senza ascensore in un palazzo mh
+TO071	okay
 TO056	decadente però
-TO071	antico bello tutto sommato nella sua decadenza
-TO056	pittoresco diciamo
+TO056	antico bello tutto sommato nella sua decadenza
+TO071	pittoresco diciamo
 TO056	sì sì pittoresco
 TO056	eh mh il palazzo più silenzioso in cui
-TO071	ho vissuto infatti ero ero l'unica italiana
+TO056	ho vissuto infatti ero ero l'unica italiana
 TO071	e okay
-TO056	e invece quella ancora prima di casa
+TO071	e invece quella ancora prima di casa
 TO056	oddio quella ancora prima a san salvario ma forse nell'unica traversina silenziosa
 TO056	eh
 TO056	di san salvario in via foscolo
-TO071	e mi piaceva dire abito in via foscolo perché
-TO056	xx
+TO056	e mi piaceva dire abito in via foscolo perché
+TO071	xx
 TO056	cioè è diverso dire abixx cioè abito in via sant'anna dire abito cazzo in via foscolo
 TO056	eh mi dava un senso di
 TO056	intellettualismo pronunciato
@@ -135,9 +130,8 @@ TO056	eh mh un tavolo enorme enorme tipo da
 TO056	mh
 TO056	quasi da campagna con le panche in legno bellissimo mi piaceva molto
 TO056	e il divano rosso
-TO071	che per quanto c'è stato seduto il mio fidanzato praticamente un cuscino aveva preso la forma del popò
+TO056	che per quanto c'è stato seduto il mio fidanzato praticamente un cuscino aveva preso la forma del popò
 TO071	eh
-TO056	
 TO056	eh e poi d~ da una porta si andava al piano
 TO056	seminterrato
 TO056	che era una tavernetta con con i mattoni a vista che mi piaceva molto
@@ -160,41 +154,41 @@ TO056	dieci secondi a piedi stavo
 TO056	in via nizza
 TO056	vicino tantissimi negozi e quindi la mia voglia di shopping eh
 TO056	a chilometro zero
-TO071	era appagata poi era molt
+TO056	era appagata poi era molt
 TO071	okay dunque
 TO071	riprendiamo
 TO071	dopo il problema tecnico
 TO071	stavamo a san salvario stavamo
-TO056	alla~ alla ca~ alla casa originaria di san salvario
+TO071	alla~ alla ca~ alla casa originaria di san salvario
 TO056	sì in via foscolo
-TO071	sì che mi piaceva
-TO056	eh
-TO071	cioè nonostante non fosse una casa ma un negozio
-TO056	mh
+TO056	sì che mi piaceva
+TO071	eh
+TO056	cioè nonostante non fosse una casa ma un negozio
+TO071	mh
 TO056	mi mi piaceva tanto perché avevo mh
 TO056	tanto spazio per eh le mie
-TO071	centinaia di migliaia di cose inutili di cui riempio casa
-TO056	eh eh
+TO056	centinaia di migliaia di cose inutili di cui riempio casa
+TO071	eh eh
 TO056	quindi smalti rossette p~ rossetti penne quaderni adesivi agende libri xxx tutto
 TO056	e invece qui siamo mh
 TO056	siamo stretti persino la mia collezione di bustine d~ da te
+TO056	mh
 TO071	mh
-TO071	mh
-TO056	non cxx
+TO071	non cxx
 TO056	non sta
 TO056	no no mi devo contenere pure per quello però
 TO056	vabbè un giorno potrò permettermi una casa più
-TO071	più casa
-TO056	e quindi fondamentalmente a torino hai vissuto in tre quartieri diversi
+TO056	più casa
+TO071	e quindi fondamentalmente a torino hai vissuto in tre quartieri diversi
 TO056	ecco
-TO071	sì ho vissuto in tre quartie~ sa~ sì san salverio san donato e qui vanchiglietta
+TO056	sì ho vissuto in tre quartie~ sa~ sì san salverio san donato e qui vanchiglietta
 TO071	per far la bella
-TO056	mh
-TO071	eh mh
-TO056	un po' le differenze avrà
+TO071	mh
+TO056	eh mh
+TO071	un po' le differenze avrà
 TO056	e sicura~
-TO071	beh sì x b~ beh son tre quartieri molto
-TO056	x
+TO056	beh sì x b~ beh son tre quartieri molto
+TO071	x
 TO056	molto differenti
 TO056	eh
 TO056	sicuramente a livello di vicini di casa paradossalmente
@@ -209,13 +203,13 @@ TO056	che ha fatto ha fatto ha fatto e poi non ha fatto assolutamente niente
 TO056	eh
 TO056	però eravamo abbastanza lontani
 TO056	proprio dalle vie della movida de~ mh
-TO071	dei locali pieni di diciottenni che si fanno l'ape
-TO056	che non è necessariamente un male
-TO071	con gli alternativi ma le vans ai piedi
-TO056	starci
+TO056	dei locali pieni di diciottenni che si fanno l'ape
+TO071	che non è necessariamente un male
+TO056	con gli alternativi ma le vans ai piedi
+TO071	starci
 TO056	no anzi era
-TO071	era ottimo vedere i diciotteni alternativi
-TO056	eh
+TO056	era ottimo vedere i diciotteni alternativi
+TO071	eh
 TO056	con le vans ai piedi
 TO056	eh mh
 TO056	però sì cioè c'erano un po' di rumori appunto per lavori del comune quindi
@@ -227,15 +221,14 @@ TO056	gli unici disturbi che avevamo stavamo pure al quinto piano quindi al pian
 TO056	insomma traffico gente per strada li senti meno
 TO056	eh forse c'erano ogni tanto
 TO056	le le ragazze del centro d'accoglienza che che litigavano tra di loro per eh
-TO071	per un maschio e si tiravano peri capelli però però era anche insomma
-TO056	
+TO056	per un maschio e si tiravano peri capelli però però era anche insomma
 TO056	uno spettacolo sì un po' di gossip che che non mi dispiaceva
 TO056	eh e poi lì c'erano le mh
 TO056	eh le guerriglie urbane tra piccioni
 TO056	corvi
-TO071	eh gabbiani aironi non lo so che che animali fossero che
+TO056	eh gabbiani aironi non lo so che che animali fossero che
 TO071	gabbiani
-TO056	mh
+TO071	mh
 TO056	erano bellissimi da vedere col cielo di torino perennemente grigio
 TO056	sembrava sembrava un film di scorsese ogni tanto
 TO056	quindi mi piaceva molto era pittoresco a parte appunto il quinto piano senza ascensore se no
@@ -245,15 +238,15 @@ TO056	non lo so m~ mi piacciono i quartieri multiculturali sono sono più colora
 TO056	eh
 TO056	più profumi mh
 TO056	non lo so seco~ secondo me danno danno un qualcosa in più
-TO071	poi alla fine non è che c'è successo mai mai niente voglio dire non è che xx
+TO056	poi alla fine non è che c'è successo mai mai niente voglio dire non è che xx
 TO071	ma infatti cioè in in linea teorica sono anche i i più pericolosi
-TO056	però non è il ca non è il caso di san donato almeno non di quella zona diciamo xxx
+TO071	però non è il ca non è il caso di san donato almeno non di quella zona diciamo xxx
 TO056	ma no non
 TO056	no
 TO056	no no noi stavamo
 TO056	forse nella via più
-TO071	più multiculturale di tutte appunto come dicevo prima
-TO056	mh
+TO056	più multiculturale di tutte appunto come dicevo prima
+TO071	mh
 TO056	eravamo gli unici italiani
 TO056	eh in tutto in tutto il condominio probabilmente tra i pochi in tutta la strada però
 TO056	non è mai successo niente siamo andati anche al cinema
@@ -261,8 +254,8 @@ TO056	eh lì al parco dora anche con spettacoli che finivano a mezzanotte siamo 
 TO056	sani e salvi senza nessuna
 TO056	senza nessuna paura ecco
 TO056	cioè fa più paura tornare qua e beccare a mezzanotte la vecchia che urla e che non ci farà dormire
-TO071	eh rispetto mh
-TO056	all'extracomunitario xxxxx
+TO056	eh rispetto mh
+TO071	all'extracomunitario xxxxx
 TO056	eh mh sì s~ ma s~ sì sì no anche perché tanto cioè è un centro
 TO056	eh se non sbaglio quello
 TO056	è
@@ -277,19 +270,19 @@ TO056	cioè s~ semmai uno dovesse avere paura
 TO056	del nero che t'aggredisce di notte
 TO056	come molte persone purtroppo hanno però
 TO056	eh non era quello il caso perché comunque la struttura anch~ era anche abbastanza
-TO071	vigiliata ecco
+TO056	vigiliata ecco
 TO071	okay
-TO056	e tu prima di di vivere a torino comunque hai vissuto a bologna hai vissuto e poi lì hai cambiato
+TO071	e tu prima di di vivere a torino comunque hai vissuto a bologna hai vissuto e poi lì hai cambiato
 TO056	vivevo a bologna
 TO056	sì
-TO071	tre case anche a bologna in quattro a~ in quattro anni
+TO056	tre case anche a bologna in quattro a~ in quattro anni
 TO071	tre case xxxx
-TO056	in quattro anni tre case
+TO071	in quattro anni tre case
 TO056	ho ho cambiato ho cambiato tre case anzi quattro se conto
 TO056	i primi due mesi che non trovavo casa perché il mercato immobiliare di bologna è assolutamente folle
 TO056	eh che son stata mh
-TO071	a marzabotto
-TO056	mh
+TO056	a marzabotto
+TO071	mh
 TO056	ospite
 TO056	alla casa che era di daniele
 TO056	eh quindi adesso insomma dei genitori
@@ -297,30 +290,30 @@ TO056	eh
 TO056	eh e infatti penso chi me l'ha fatto fare a spostarmi in città col casino il rumore e appunto il mercato immobiliare costosissimo di
 TO056	e saturo per altro di bologna quando potevo stare comodamente a marzabotto
 TO056	e con mezz'ora di treno che passava davanti casa stava la stazione centrale
-TO071	poi da lì in centro sono dieci minuti
+TO056	poi da lì in centro sono dieci minuti
 TO071	eh okay ma mh
 TO071	è pur sempre mezz'ora di treno nel senso
-TO056	mh puoi viverci per eh
-TO071	eh ma ne facevo quaranta di autobus urbano
-TO056	per andare all'università da da bologna xxx
+TO071	mh puoi viverci per eh
+TO056	eh ma ne facevo quaranta di autobus urbano
+TO071	per andare all'università da da bologna xxx
 TO056	eh sì però ad esempio
 TO056	poi quando mi son trasferita che stavo di fronte all'ospedale maggiore
 TO056	se in bicicletta è un quarto d'ora comunque
 TO056	sono pigra non mi va di sudare
 TO056	eh mh
 TO056	comunque l~ eh cioè
-TO071	lì la pista ciclabile c'era solo fino a un certo punto quindi poi mi spaventavo anche
-TO056	mhmh
+TO056	lì la pista ciclabile c'era solo fino a un certo punto quindi poi mi spaventavo anche
+TO071	mhmh
 TO056	eh
 TO056	comunque con tutto il traffico di via saffi via san felice dopo
 TO056	eh mh
-TO071	cioè quei quaranta minuti li perdevo
+TO056	cioè quei quaranta minuti li perdevo
 TO071	quindi marzabotto ospedale maggiore
-TO056	che è stata
-TO071	vince sicuramente marzabotto in mezzo a xxx
-TO056	che è stat~ che è stata l'ultima ospedale maggiore
-TO071	ospedale maggiore è stata l'ultima poi prima vivevo
-TO056	eh
+TO071	che è stata
+TO056	vince sicuramente marzabotto in mezzo a xxx
+TO071	che è stat~ che è stata l'ultima ospedale maggiore
+TO056	ospedale maggiore è stata l'ultima poi prima vivevo
+TO071	eh
 TO056	proprio in via san vitale che eh mh
 TO056	la via quasi parallela di via zamboni che è quella appunto famosa dove ci sono
 TO056	eh
@@ -329,89 +322,85 @@ TO056	perché dislocate c'è ci sono ad esempio
 TO056	eh ingegneria
 TO056	e poi veterinaria che addirittura è a ozzano
 TO056	eh poi beh tutti i tirocini di medicina e
-TO071	le varie professioni sanitarie sono un po' all'ospedale maggiore un po' al sant'orsola che comunque è più vicino perché è subito dopo
-TO056	mhmh
+TO056	le varie professioni sanitarie sono un po' all'ospedale maggiore un po' al sant'orsola che comunque è più vicino perché è subito dopo
+TO071	mhmh
 TO056	eh via zamboni
 TO056	quindi un periodo ho abitato lì proprio a
 TO056	dieci secondi a piedi
 TO056	dall'università
 TO056	e mh anche lì zona
-TO071	rumorosa perché ci sono
-TO056	xxx
+TO056	rumorosa perché ci sono
+TO071	xxx
 TO056	cioè tutti gli studenti lì perché a bologna nessuno va per studiare ma
 TO056	ma
 TO056	ma per fare altro quindi
 TO056	tanti studenti ma soprattutto i maledetti erasmus spagnoli che
 TO056	'ndo vanno vanno
-TO071	creano casino
-TO056	~no casino
+TO056	creano casino
+TO071	~no casino
 TO056	casino e rumore però per fortuna la mia stanza da letto dava sul cortile interno
 TO056	e soprattutto il palazzo era pieno di di
 TO056	professionisti famiglie anziani quindi
-TO071	era silenzioso non sx
-TO056	mhmh
+TO056	era silenzioso non sx
+TO071	mhmh
 TO056	sono sempre stata bene però
 TO056	cioè
 TO056	è è è bello vivere in mezzo in mezzo a tutte quelle case del centro storico bolognese
 TO056	eh mh
-TO071	insomma esci dal portone sei sotto i portici coi tetti
-TO056	i tetti insomma i famosi tetti
+TO056	insomma esci dal portone sei sotto i portici coi tetti
+TO071	i tetti insomma i famosi tetti
 TO056	sì sì eh eh mh
 TO056	sì mi piaceva molto invece appunto quando stavo all'ospedale maggiore
 TO056	insomma quartiere molto meno storico
-TO056	
 TO056	però si vedeva
-TO071	tutto san luca
-TO056	mh mh
-TO071	si vedeva tutto tutta la chiesa di san luca e tutto un bel pezzo di portici
-TO056	che è la chiesa quella che sta lì in collina
-TO071	è la chiesa quella che sta in collina che si vede anche entrando dalla tangenziale un po'
-TO056	mhmh
-TO056	
-TO071	da tutte le direzioni
-TO056	ma lì ci vanno a piedi ci vanno cioè quando te vai alla processione
+TO056	tutto san luca
+TO071	mh mh
+TO056	si vedeva tutto tutta la chiesa di san luca e tutto un bel pezzo di portici
+TO071	che è la chiesa quella che sta lì in collina
+TO056	è la chiesa quella che sta in collina che si vede anche entrando dalla tangenziale un po'
+TO071	mhmh
+TO056	da tutte le direzioni
+TO071	ma lì ci vanno a piedi ci vanno cioè quando te vai alla processione
 TO056	lì ci si va
-TO071	allo~ x allo~ x c'è un autobus ovviamente però
-TO056	mhmh
+TO056	allo~ x allo~ x c'è un autobus ovviamente però
+TO071	mhmh
 TO056	eh ci si va mh
-TO071	ci si va anche a piedi in pellegrinaggio e quello è il portico più lungo d'europa
-TO056	mh
-TO071	eh tra tra le varie cose tra l'altro san luca è il protettore della vista
-TO056	mh
+TO056	ci si va anche a piedi in pellegrinaggio e quello è il portico più lungo d'europa
+TO071	mh
+TO056	eh tra tra le varie cose tra l'altro san luca è il protettore della vista
+TO071	mh
 TO056	eh tra l~ i~ io me la son fatta a piedi
-TO071	poi son scesa in autobus perché non ce la facevo più
+TO056	poi son scesa in autobus perché non ce la facevo più
 TO071	xxxxx
-TO056	xxxxxxx
-TO071	sì sì ma ci sono un sacco tra l'altro
-TO056	ma senza tocchi della grazia per la vista o no mh
-TO071	sì perché mi so' spa~
-TO056	ma come sì
+TO071	xxxxxxx
+TO056	sì sì ma ci sono un sacco tra l'altro
+TO071	ma senza tocchi della grazia per la vista o no mh
+TO056	sì perché mi so' spa~
+TO071	ma come sì
 TO056	sì
-TO071	sì mi passa l'ateismo quando sto male perché ero stata
-TO056	ah
+TO056	sì mi passa l'ateismo quando sto male perché ero stata
+TO071	ah
 TO056	ero stata molto male con eh con l'occhio mettevo antibiotici
 TO056	eh mh
-TO071	medicine ma continuava a bruciarmi non riuscivo ad aprirlo e
-TO056	mh
+TO056	medicine ma continuava a bruciarmi non riuscivo ad aprirlo e
+TO071	mh
 TO056	disperata co' n'occhio chiuso so' andata a farmi
-TO071	il pellegrinaggio però prima
-TO056	xxxxxx eh x
+TO056	il pellegrinaggio però prima
+TO071	xxxxxx eh x
 TO056	prima di abitare in quella zona
 TO056	eh stavo erano i primi tempi che stavo a bologna
 TO056	eh mh
-TO071	beh però poi s~ dopo son stata meglio
+TO056	beh però poi s~ dopo son stata meglio
 TO071	mh beh
-TO056	
-TO071	
-TO056	ci sono
-TO071	poi son tornata atea dopo la guarigione sono tornata assolutamente laica più che atea xx
+TO071	ci sono
+TO056	poi son tornata atea dopo la guarigione sono tornata assolutamente laica più che atea xx
 TO071	ci sono
 TO071	eh cose che non possiamo prevedere
 TO071	comunque
 TO071	eh mh
 TO071	manca una casa manca
 TO071	no
-TO056	perché m'hai detto marzabotto m'hai detto bologna
+TO071	perché m'hai detto marzabotto m'hai detto bologna
 TO056	sì manca una casa dove malauguratamente dove mi son lasciata convincere dal mio fidanzato dell'epoca a vivere con lui
 TO056	o meglio
 TO056	eh lui aveva una stanza in condivisione con altri inquilini
@@ -423,22 +412,22 @@ TO056	è stato un disastro e questa casa invece era
 TO056	eh mh
 TO056	praticamente di fronte la
 TO056	la stazione centrale
-TO071	sopra un night club
+TO056	sopra un night club
 TO071	apperò
 TO071	oggi o~ oggi abbiamo problemi tecnici insomma però tu sei la cavia sei
 TO071	e quindi ti presterai
-TO056	casa intermedia col tuo ragazzo mi dicevi che che che era più che altro un eh mh una un un porto aperto
+TO071	casa intermedia col tuo ragazzo mi dicevi che che che era più che altro un eh mh una un un porto aperto
 TO056	sì
 TO056	un mh un mh
-TO071	eh un campo profughi praticamente
-TO056	ecco
+TO056	eh un campo profughi praticamente
+TO071	ecco
 TO056	un campo profughi eh mh
 TO056	sì difficile io mh son sempre stata male con coinquilini anche se
 TO056	insomma con tutti i racconti che sento dagli altri sono stata
 TO056	tutto sommato anche fortunata
 TO056	eh cioè c'è gente che ruba che entra nelle stanze ruba ma
-TO071	non so dalla sciarpa ai soldi
-TO056	mhmh
+TO056	non so dalla sciarpa ai soldi
+TO071	mhmh
 TO056	e mh
 TO056	quindi da quel punto di vista
 TO056	mh son sempre stata in casa con eh brave persone quindi
@@ -447,26 +436,26 @@ TO056	eh però non sono non sono fatta per la convivenza per eh
 TO056	per tanti per tanti motivi
 TO056	mh tra l'altro in quel periodo appunto spesso finivo lavora~ lavoravo da casa e finivo di lavorare anche alle due tre di notte
 TO056	eh eh eh ed era un problema perché
-TO071	magari chi stava nella camera accanto mi mi ascoltava sì disturbava e insomma l~ eh lo posso pure capire
+TO056	magari chi stava nella camera accanto mi mi ascoltava sì disturbava e insomma l~ eh lo posso pure capire
 TO071	ti sentiva
-TO056	mhmh
+TO071	mhmh
 TO056	quindi mh
 TO056	poi poi non lo so boh la libertà di mettere la musica ad alto ad alto volume quando ti pare o stare sveglio la notte e dormire di giorno
 TO056	o se non ti va di fare i piatti
-TO071	quando vivi da solo o vivi col partner da soli insomma senza altri conq~ inquilini estranei
-TO056	non li fai
-TO071	non li fai sti cazzi e se ne parla il giorno dopo o anche dopo due tre giorni vabbè
-TO056	eh
+TO056	quando vivi da solo o vivi col partner da soli insomma senza altri conq~ inquilini estranei
+TO071	non li fai
+TO056	non li fai sti cazzi e se ne parla il giorno dopo o anche dopo due tre giorni vabbè
+TO071	eh
 TO056	eh mh
 TO056	poi se arriva una bolletta ecco no io forse tutti i problemi più grossi che ho avuto
-TO071	in quella casa lì dove stavo erano per le bollette perché questi erano
-TO056	mh
-TO071	quando il gioco di parole erano tutti in bolletta sempre
-TO056	eh eh
+TO056	in quella casa lì dove stavo erano per le bollette perché questi erano
+TO071	mh
+TO056	quando il gioco di parole erano tutti in bolletta sempre
+TO071	eh eh
 TO056	e quindi alla fine
 TO056	eh sia io che il mio ex ragazzo anticipavamo anticipavam~
-TO071	insomma alla fine pagavamo in due le bollette di ol~ di di otto persone
-TO056	avevano i i i buffi insomma con voi
+TO056	insomma alla fine pagavamo in due le bollette di ol~ di di otto persone
+TO071	avevano i i i buffi insomma con voi
 TO056	sì sì
 TO056	eh però se compravano la carta igienica come li chiedevano quei quegli ottanta centesimi subito
 TO056	quindi insomma in quest'esp~
@@ -476,20 +465,20 @@ TO056	eh mh
 TO056	cioè sei costretto ad esempio
 TO056	mh una gro~ mh cioè c'è una grossa differenza del~ tra il mercato immobiliare torinese
 TO056	e quello bolognese a livello di costi mentre
-TO071	qua a torino
-TO056	mhmh
+TO056	qua a torino
+TO071	mhmh
 TO056	leggo spesso anche monolocali magari molto piccoli eh però
 TO056	a xxxxx
 TO056	trecento tre~ massimo trecentocinquanta euro
 TO056	quindi tutto sommato costa un pelino in più di una singola
-TO071	o o comunque costa quanto una singola vista palazzo nuovo
-TO056	mhmh mhmh
+TO056	o o comunque costa quanto una singola vista palazzo nuovo
+TO071	mhmh mhmh
 TO056	quindi uno studente può anche scegliere con quel budget di di stare da solo e di star tranquillo
 TO056	a bologna
 TO056	con trecentocinquanta euro sei fortunato se c'hai una
 TO056	che di solito sono
-TO071	catapecchie che stanno crollando
-TO056	okay
+TO056	catapecchie che stanno crollando
+TO071	okay
 TO056	quindi anche un lavoratore
 TO056	deve prendere una stanza in eh in condivisione cioè è una cosa molto più
 TO056	eh mh
@@ -498,20 +487,20 @@ TO056	c'è anche da dire che visti i costi bologna non è più la città
 TO056	rossa degli studenti dis~ dissidenti alternativi ribelli che fanno la
 TO056	la rivoluzione di buon mattino
 TO056	è la città dello studente
-TO071	finto rosso che fa la rivoluzione alle diciannove dopo
-TO056	l'aperitivo durante l'aperitivo eh eh
-TO071	l'aperitivo all you can eat a diciotto euro con eh il tavolo di patatine
-TO056	s'(è imborghesizzata insomma
+TO056	finto rosso che fa la rivoluzione alle diciannove dopo
+TO071	l'aperitivo durante l'aperitivo eh eh
+TO056	l'aperitivo all you can eat a diciotto euro con eh il tavolo di patatine
+TO071	s'(è imborghesizzata insomma
 TO056	si è imborghesizzata però
-TO071	come dire gli studenti lo
-TO056	non non la percepiscono come cosa c'hanno sempre ancora come
+TO056	come dire gli studenti lo
+TO071	non non la percepiscono come cosa c'hanno sempre ancora come
 TO056	no la l~ mh l~ la la percepiscono
 TO056	però
-TO071	la negano
-TO056	mh mhmh
+TO056	la negano
+TO071	mh mhmh
 TO056	cioè c'è una consapevolezza
-TO071	eh ma c'è anche una negazione perché
-TO056	fa comodo cioè dire che
+TO056	eh ma c'è anche una negazione perché
+TO071	fa comodo cioè dire che
 TO056	per~
 TO056	sì sì perché perché fa comodo
 TO056	ma si è si è imborghesita anche proprio l'organizzazione strutturale della
@@ -520,28 +509,28 @@ TO056	aperte
 TO056	eh mh
 TO056	infatti la prima volta che sono entrata a palazzo nuovo e e ho visto il sistema di accesso alla tabacco
 TO056	mi è sembrato una cosa
-TO071	brutta
-TO056	mhmh
-TO071	eh brutta e fascista
-TO056	della monetina del eh del metal detector
+TO056	brutta
+TO071	mhmh
+TO056	eh brutta e fascista
+TO071	della monetina del eh del metal detector
 TO056	sì mi è sembrata una cosa brutta e fascista e e e quando ho visto quella macchinetta per scambiare i soldi e fa e e e darti le monetine così da mettere la tua borsetta lì
 TO056	nel eh nell'armadietto
 TO056	l~ l'ho trovato repellente bene
-TO071	lo stesso anno a bologna hanno messo i tornelli
-TO056	mhmh
-TO071	alla alla biblioteca di mh di filologia
+TO056	lo stesso anno a bologna hanno messo i tornelli
+TO071	mhmh
+TO056	alla alla biblioteca di mh di filologia
 TO071	che è peggio ancora se vogliamo
-TO056	mh mh
+TO071	mh mh
 TO056	eh al eh al numero trentadue
 TO056	che che è ancora peggio
 TO056	che che è ancora peggio e li ci son state
 TO056	insomma mh occupazioni
-TO071	eh proteste eccetera eccetera però il tornello il tornello è rimasto e
-TO056	è rimasto
-TO071	e e credo che un'iniziativa del genere l'abbiano fatta anche quest'anno lo o lo scorso anno a pavia
-TO056	mhmh
-TO071	s~ sempre facoltà
-TO056	umanistiche
+TO056	eh proteste eccetera eccetera però il tornello il tornello è rimasto e
+TO071	è rimasto
+TO056	e e credo che un'iniziativa del genere l'abbiano fatta anche quest'anno lo o lo scorso anno a pavia
+TO071	mhmh
+TO056	s~ sempre facoltà
+TO071	umanistiche
 TO056	sempre le facoltà umanistiche
 TO056	eh
 TO056	e e e non va bene
@@ -549,77 +538,76 @@ TO056	cioè i~ il punto è che
 TO056	in via zamboni a parte gli studenti ci sono tantissimi
 TO056	eh barboni
 TO056	eh mh
-TO071	mah tossici no quello più no ormai è una leggenda metropolitana no
-TO056	eh eh
+TO056	mah tossici no quello più no ormai è una leggenda metropolitana no
+TO071	eh eh
 TO056	però ci sono dei barboni ma il barbone se ti entra all'università è perché deve andare al bagno
 TO056	e anche lì hanno chiuso il bagno ci si acc~ cioè la porta del bagno si apre solo col badge
 TO056	però boh non lo so sarà che io son per l~
 TO056	per l'accoglienza però
 TO056	se uno poraccio anziché far pipì per strada
-TO071	eh che poi è una strada storica no quindi
-TO056	mhmh
+TO056	eh che poi è una strada storica no quindi
+TO071	mhmh
 TO056	come dire
-TO071	s~ se vogliamo tenerla pulita pure se se entra un attimo al bagno dell'università non è che fa male a nessuno eh
-TO056	ma va~ v~ volendo come dire
-TO071	insomma io sono un po' più open
-TO056	p~ pure pure se metti un cesso pubblico non è che deturpi la città in maniera
+TO056	s~ se vogliamo tenerla pulita pure se se entra un attimo al bagno dell'università non è che fa male a nessuno eh
+TO071	ma va~ v~ volendo come dire
+TO056	insomma io sono un po' più open
+TO071	p~ pure pure se metti un cesso pubblico non è che deturpi la città in maniera
 TO056	eh sì tra l'a~ s~ n~ n~ no no
-TO071	poi lì a piazza verdi insomma di spazio di spazio ce ne sarebbe
-TO056	eh
+TO056	poi lì a piazza verdi insomma di spazio di spazio ce ne sarebbe
+TO071	eh
 TO056	eh
 TO056	però insomma con 'sta storia dei tornelli x x
 TO056	ma insomma le biblioteche a bologna funzionano un po' così
-TO071	a quelle di lettere ci trovi tutti tranne quelli di lettere
+TO056	a quelle di lettere ci trovi tutti tranne quelli di lettere
 TO071	mhmh
-TO056	gli ingegneri a rimorchiare ci vanno
+TO071	gli ingegneri a rimorchiare ci vanno
 TO056	ci v~ eh s~ s~ beh certo
 TO056	anche perché
 TO056	cioè poraccio cioè già un ingegnere è sfigato perché decide di fare ingegneria
-TO071	e e quindi e e quando cominci a studiare ingegneria diventi ancora più sfigato
-TO056	eh
-TO071	pensa le ingegneresse
-TO056	ecco
-TO071	poracce quindi x va lì tanto insomma la tipa un po' alternativa del dams un po' più spigliata che che te la fila 'n'attimo te la trovi
+TO056	e e quindi e e quando cominci a studiare ingegneria diventi ancora più sfigato
+TO071	eh
+TO056	pensa le ingegneresse
+TO071	ecco
+TO056	poracce quindi x va lì tanto insomma la tipa un po' alternativa del dams un po' più spigliata che che te la fila 'n'attimo te la trovi
 TO071	mh
-TO056	e le ingegneresse addo' vanno invece
+TO071	e le ingegneresse addo' vanno invece
 TO056	mah no le ingegneresse
-TO071	stanno stanno a ingegneria tra di loro co~ c~
-TO056	stanno dove sta~
+TO056	stanno stanno a ingegneria tra di loro co~ c~
+TO071	stanno dove sta~
 TO056	con la loro collanina swarovski punto luce sistemata i loro capelli in piega le loro scarpine pulite i loro jeans senza manco uno strappo e eccetera eccetera i loro occhialini
-TO071	da nerd
 TO056	da nerd
-TO071	esatto stanno a farsi battute su dragonball e a decidere se è meglio dragonball zeta o dragonball giti
+TO071	da nerd
+TO056	esatto stanno a farsi battute su dragonball e a decidere se è meglio dragonball zeta o dragonball giti
 TO071	o giti
 TO071	eh mh
 TO071	okay quindi torino tre case tre quartieri bologna quattro case
-TO056	e quattro quartieri
+TO071	e quattro quartieri
 TO056	quattro quartieri
-TO071	e una frazione di della gloriosa marzabotto
-TO056	della grandissima marzabotto per le ragioni che dovremmo sapere tutti ma a quanto pare no
-TO071	le ragioni storiche
-TO056	ad esempio
+TO056	e una frazione di della gloriosa marzabotto
+TO071	della grandissima marzabotto per le ragioni che dovremmo sapere tutti ma a quanto pare no
+TO056	le ragioni storiche
+TO071	ad esempio
 TO056	esatto dove c'è anche un ~n ~n mh un bellissimo mh
 TO056	parco archeologico
-TO071	con tutti i i profili delle case etrusche
-TO056	mhmh mhmh
-TO071	eh molto bello poi lì c'è il parco del sole
-TO056	ah xxxx gli etruschi a ma~ a marzabotto già arrivavano
-TO071	beh sì sì sì
+TO056	con tutti i i profili delle case etrusche
+TO071	mhmh mhmh
+TO056	eh molto bello poi lì c'è il parco del sole
+TO071	ah xxxx gli etruschi a ma~ a marzabotto già arrivavano
+TO056	beh sì sì sì
 TO071	x è è bello è bello a est non la sapevo che
-TO056	stavano fino a là gli etruschi no
+TO071	stavano fino a là gli etruschi no
 TO056	eh
-TO071	sì sì ma quella per i bambini che frequentano insomma le elementari
-TO056	eh eh
+TO056	sì sì ma quella per i bambini che frequentano insomma le elementari
+TO071	eh eh
 TO056	eh lì a marzabotto è proprio una gita tipica cioè
 TO056	ci sono proprio tutte le fondamenta
-TO071	eh delle case infatti c'era michele il mio ex fidanzato che diceva sempre
-TO056	mhmh
-TO071	eh io sono etrusco cioè
-TO056	mh eh okay
-TO071	ce l'aveva ce l'aveva xxx con 'sto mito delle origini
-TO056	
-TO071	etrusche contro la barbarie di roma
-TO056	eh eh
+TO056	eh delle case infatti c'era michele il mio ex fidanzato che diceva sempre
+TO071	mhmh
+TO056	eh io sono etrusco cioè
+TO071	mh eh okay
+TO056	ce l'aveva ce l'aveva xxx con 'sto mito delle origini
+TO056	etrusche contro la barbarie di roma
+TO071	eh eh
 TO056	e peggio la barbarie ancora più a nord
 TO056	eh mh
 TO056	ed è ed è molto interessante poi appunto c'è
@@ -628,75 +616,72 @@ TO056	questa collina
 TO056	e si respira
 TO056	come dire secoli e secoli di di stratificazione storica
 TO056	eh mh
-TO071	insomma lì si sta bene
+TO056	insomma lì si sta bene
 TO071	okay
-TO056	tu però prima di bologna hai vissuto a palermo perché xxx e vai pure là hai cambiato qualche casa hai cambiato
+TO071	tu però prima di bologna hai vissuto a palermo perché xxx e vai pure là hai cambiato qualche casa hai cambiato
 TO056	eh xx università
 TO056	pure a palermo di case ne ho cambiate i~ i~ infatti io h~ ho il terrore di
-TO071	fare un mutuo e acquistare casa un giorno perché non sono abituata a pensarmi in una casa per più di tot anni
-TO071	
-TO056	eh
-TO071	sì eh
-TO056	lì poi fra case d~ insomma di di nonni di genitori tue insomma hai vi~ hai vissuto in un bel po'
+TO056	fare un mutuo e acquistare casa un giorno perché non sono abituata a pensarmi in una casa per più di tot anni
+TO071	eh
+TO056	sì eh
+TO071	lì poi fra case d~ insomma di di nonni di genitori tue insomma hai vi~ hai vissuto in un bel po'
 TO056	sì
-TO071	di amiche di eh s~ x
-TO056	di amiche esatto ah sì di amiche
-TO071	
+TO056	di amiche di eh s~ x
+TO071	di amiche esatto ah sì di amiche
 TO071	chiaro
-TO056	quindi lì allora
-TO071	praticamente sono mia madre mi ha concepito in un quartiere
+TO071	quindi lì allora
+TO056	praticamente sono mia madre mi ha concepito in un quartiere
 TO071	aspe' a pale~ brava sì infatti a palermo facciamo così
 TO071	fa~ facciam~ m~ mo fino a mo abbiamo fatto il contrario no cioè da da oggi all'indietro
-TO056	palermo facciamo al contrario
-TO071	dalle ori~
-TO056	dalle origini finché non te ne sei andata
-TO071	allora sono stata concepita
-TO056	eh
-TO056	
+TO071	palermo facciamo al contrario
+TO056	dalle ori~
+TO071	dalle origini finché non te ne sei andata
+TO056	allora sono stata concepita
+TO071	eh
 TO056	in una via dall'orribile nome
-TO071	@nomeluogo
+TO056	@nomeluogo
 TO071	eh
 TO071	@nomeluogo
 TO071	che era la un'agenzia del lavoro in abruzzo
-TO056	a palermo evidentemente è qu~ eh è qualcosa di
-TO071	ma no @nomeluogo
+TO071	a palermo evidentemente è qu~ eh è qualcosa di
+TO056	ma no @nomeluogo
 TO071	che è @nomeluogo
-TO056	addis abeba quelle cose fasciste lì xx ah okay
+TO071	addis abeba quelle cose fasciste lì xx ah okay
 TO056	esatto
 TO056	quelle cose fasciste
-TO071	di fronte il comando centrale dei vigili urbani
-TO056	ah beh a beh dài ah vigili urbani ah okay
+TO056	di fronte il comando centrale dei vigili urbani
+TO071	ah beh a beh dài ah vigili urbani ah okay
 TO056	son stata concepita lì
-TO071	eh mh e finch~ eh eh son~ eh
-TO056	che poi do~ dove sta siamo mai andati l'abbiamo mai vista
+TO056	eh mh e finch~ eh eh son~ eh
+TO071	che poi do~ dove sta siamo mai andati l'abbiamo mai vista
 TO056	eh sì perché io adesso casualmente abito nella via di fronte a quel palazzo lì
-TO071	cioè sono ritornata in questo quartiere dopo altre case esatto
-TO056	dopo tanti giri ah
-TO071	ma ora c'arriveremo
-TO056	mh
+TO056	cioè sono ritornata in questo quartiere dopo altre case esatto
+TO071	dopo tanti giri ah
+TO056	ma ora c'arriveremo
+TO071	mh
 TO056	quindi via @nomeluogo,
 TO056	eh traversa di via con tutti i vari nomi di tutte
-TO071	di tutta la gloriosa storia coloniale italiana
+TO056	di tutta la gloriosa storia coloniale italiana
 TO071	delle co~ ex ex colonie
-TO056	eh
+TO071	eh
 TO056	questo perché ci dobbiamo sempre so~ sopravvalutare
 TO056	e h mh
 TO056	son nata lì
 TO056	e i primi mesi della mia vita
 TO056	eh appunto siamo continuati a star lì
 TO056	poi mia madre ha deciso che dovevamo cambiare casa
-TO071	perché quella casa era piccolina
-TO056	mhmh
+TO056	perché quella casa era piccolina
+TO071	mhmh
 TO056	e mia madre
 TO056	ha sempre vissuto in case molto grandi perché per i miei nonni materni
 TO056	che
 TO056	insomma hanno avuto dieci figli
-TO071	naturalmente lo spazio
-TO056	eh
+TO056	naturalmente lo spazio
+TO071	eh
 TO056	ora non dico avere tutti la l~ la propria stanzetta però lo spazio era
 TO056	era fondamentale quindi mia madre è abituata alle case grandi
-TO071	infatti questa dove abito ora lei stessa la chiama buco perché
-TO056	eh boh
+TO056	infatti questa dove abito ora lei stessa la chiama buco perché
+TO071	eh boh
 TO056	per lei è
 TO056	non so p~ cioè è è uno stanzino
 TO056	eh mh
@@ -704,14 +689,14 @@ TO056	e abbiamo trovato questa questa casa
 TO056	nello stesso condominio dove vivevano i miei nonni paterni
 TO056	e io ero contentissima perché
 TO056	eh cioè
-TO071	un po' più crescendo ovviamente non ho ricordi di quando avevo pochi mesi di vita
-TO056	mhmh
+TO056	un po' più crescendo ovviamente non ho ricordi di quando avevo pochi mesi di vita
+TO071	mhmh
 TO056	perché adoravo stare dai con mia nonna con mio nonno soprattutto con mio zio
 TO056	eh mh
 TO056	e poi lì mi piaceva molto perché
 TO056	praticamente c'erano questi tre condomini
-TO071	cioè era un condominio unico però diviso in tre portoni
-TO056	mh mh
+TO056	cioè era un condominio unico però diviso in tre portoni
+TO071	mh mh
 TO056	eh sotto c'era un piazzale mh
 TO056	eh pedonale diciamo ecco le macchine non potevano
 TO056	eh entrare
@@ -724,8 +709,8 @@ TO056	insomma stavamo giù
 TO056	e mh
 TO056	eh potev~ insomma giocavamo non so con mh
 TO056	facevamo tutti i giochi del mondo
-TO071	co~ co~ coi pattini con la bicicletta
-TO056	mhmh
+TO056	co~ co~ coi pattini con la bicicletta
+TO071	mhmh
 TO056	eh mh
 TO056	giocavo a nascondino
 TO056	e e c'era sufficiente spazio anche per giocare a pallavolo a tennis eh
@@ -733,92 +718,90 @@ TO056	eh con la comodità che non passavano le macchine
 TO056	che i genitori ci potevano comodamente guardare un po' controllare
 TO056	dal eh dal balcone poi c'era anche
 TO056	eh mh
-TO071	il portiere
-TO056	mhmh
-TO071	che credo in italiano sia il portinaio ma per noi comunque è il portiere
-TO056	portinaio
+TO056	il portiere
+TO071	mhmh
+TO056	che credo in italiano sia il portinaio ma per noi comunque è il portiere
+TO071	portinaio
 TO056	eh
 TO056	ch~ che comunque ci dava sempreun occhio
-TO071	personaggio il portiere il signor toni
-TO056	mhmh
+TO056	personaggio il portiere il signor toni
+TO071	mhmh
 TO056	che
 TO056	oddio
-TO071	ci dava un occhio ogni tanto poteva essere pericoloso perché lui era munito di fionda da caccia
-TO056	minchia lì
-TO071	per i piccioni
-TO056	
+TO056	ci dava un occhio ogni tanto poteva essere pericoloso perché lui era munito di fionda da caccia
+TO071	minchia lì
+TO056	per i piccioni
 TO056	per i piccioni perché la moglie
 TO056	cioè lor~ loro li mangiavano i piccioni
-TO071	non so che cavolo
-TO056	ma veramente
+TO056	non so che cavolo
+TO071	ma veramente
 TO056	sì tra l'altro poveraccio c'ha avuto un ictus qualche anno fa
-TO071	x non so x se dipenda dalla dall'alimentazione però
-TO056	dai piccioni
-TO071	cacciava i piccioni
-TO056	con la xxx
+TO056	x non so x se dipenda dalla dall'alimentazione però
+TO071	dai piccioni
+TO056	cacciava i piccioni
+TO071	con la xxx
 TO056	con la sua fionda da ca~
-TO071	~cc no aveva la fionda professionale coi pallini e
-TO056	eh eh
-TO071	e poi li portava dentro e la moglie
-TO056	la moglie li coglieva con la fionda cioè li ammazzava veramente
-TO071	oh ma sai che sì sì sì sì
-TO056	
+TO056	~cc no aveva la fionda professionale coi pallini e
+TO071	eh eh
+TO056	e poi li portava dentro e la moglie
+TO071	la moglie li coglieva con la fionda cioè li ammazzava veramente
+TO056	oh ma sai che sì sì sì sì
 TO056	li ammazzava e li portava dentro e la moglie
-TO071	più di una volta cercava di dare delle ricette a mia madre per fare i piccioni e mia madre
-TO056	disgustata eh eh eh
+TO056	più di una volta cercava di dare delle ricette a mia madre per fare i piccioni e mia madre
+TO071	disgustata eh eh eh
 TO056	ascoltava ma
-TO071	ascol~ no poi le riciclava per il pollo
-TO056	ah okay xxx
-TO071	o per il coniglio insomma
+TO056	ascol~ no poi le riciclava per il pollo
+TO071	ah okay xxx
+TO056	o per il coniglio insomma
 TO071	sempre boh
 TO071	saranno della stessa famiglia
-TO056	piccioni e polli
-TO071	eh beh non lo so però quando
-TO056	permutabile comunque
+TO071	piccioni e polli
+TO056	eh beh non lo so però quando
+TO071	permutabile comunque
 TO056	non so dirti però questa cosa della fionda mi inquietava molto
 TO056	eh e quindi
 TO056	beh
 TO056	poi all'epoca i genitori
 TO056	erano un po' diversi da
 TO056	da quelli di oggi e quidni
-TO071	nessuno aveva paura se ci sbucciavamo il ginocchio se tornavamo a casa zozzi
-TO056	chiaro
+TO056	nessuno aveva paura se ci sbucciavamo il ginocchio se tornavamo a casa zozzi
+TO071	chiaro
 TO056	se c'era freddo se c'era caldo
 TO056	cioè eh mh
 TO056	e e e e questo è importante perché ci con~ n~
 TO056	come dire c~ c~ ci consentiva di fare delle amicizie
 TO056	eh mh
-TO071	di quartiere
-TO056	mh mh
+TO056	di quartiere
+TO071	mh mh
 TO056	oltre alle amicizie che avevamo a scuola perché
 TO056	eh mh
 TO056	palermo è disseminata
 TO056	di asili e scuole elementare
 TO056	eh ce n'è veramente due tre per ogni quartiere
 TO056	eh e qu~ e non è detto che
-TO071	noi dello stesso palazzo nella stessa scuola
-TO056	esatto
+TO056	noi dello stesso palazzo nella stessa scuola
+TO071	esatto
 TO056	cioè
 TO056	o o comunque nella stessa classe quindi
 TO056	eh mh
 TO056	come dire a me piaceva molto perché poi quando c'erano le feste di compleanno av~
-TO071	avevamo tanti bambini da invitare avevamo quelli della scuola magari quelli del eh
-TO056	del quartiere mhmh mh
+TO056	avevamo tanti bambini da invitare avevamo quelli della scuola magari quelli del eh
+TO071	del quartiere mhmh mh
 TO056	eh della palestra quelli del quartiere
 TO056	eh mh
 TO056	e quindi c'era questa rete
-TO071	di mh mh d~ di amici~
-TO056	sì esatto non ti precludeva alla alla sola rete scolastica diciamo
+TO056	di mh mh d~ di amici~
+TO071	sì esatto non ti precludeva alla alla sola rete scolastica diciamo
 TO056	esatto esatto
 TO056	eh e questo era molto importante mi ricordo allora soprattutto per eh
 TO056	per quei bambini che facevano non so il compleanno in estate
-TO071	quindi non c'era la scuola e si rischiava di avere la festa flop
+TO056	quindi non c'era la scuola e si rischiava di avere la festa flop
 TO071	mhmh
-TO056	eh eh
+TO071	eh eh
 TO056	eh invece no
 TO056	c'erano comunque bambini del d~ del palazzo
-TO071	che magari a loro volta portavano qualcuno dal eh dal ca~ dal eh mh dall'oratorio
-TO056	mhmh
+TO056	che magari a loro volta portavano qualcuno dal eh dal ca~ dal eh mh dall'oratorio
+TO071	mhmh
 TO056	estivo che stava abbastanza vicino anche se sta più vicino a dove
 TO056	adesso abitano i miei
 TO056	eh e quindi mh
@@ -829,11 +812,11 @@ TO056	c'era c'era compattezza
 TO056	mh adesso
 TO056	adesso no
 TO056	beh che ormai siamo tutti cresciuti quindi
-TO071	eh come dire in quel palazzo son rimaste
-TO056	mh le persone anziane
+TO056	eh come dire in quel palazzo son rimaste
+TO071	mh le persone anziane
 TO056	persone anziane
-TO071	quelli che sono ancora vivi
-TO056	mh eh
+TO056	quelli che sono ancora vivi
+TO071	mh eh
 TO056	perché insomma anche loro
 TO056	o quelli che son rimasti a vivere lì perché per esempio appunto io
 TO056	come ho detto lì
@@ -841,185 +824,185 @@ TO056	i miei nonni stavano accanto ma poi i miei nonni hanon
 TO056	hanno dovuto traslocare
 TO056	eh perché
 TO056	il proprieta~
-TO071	la proprietaria di casa dopo tanti anni
-TO056	eh eh
+TO056	la proprietaria di casa dopo tanti anni
+TO071	eh eh
 TO056	ha ereditato insomma il proprietario era un signore che è morto
-TO071	diversi anni fa ha ereditato questa qua col vizio del gioco
-TO056	see cioè x
+TO056	diversi anni fa ha ereditato questa qua col vizio del gioco
+TO071	see cioè x
 TO056	ha ereditato quasi quaranta immobili
 TO056	a palermo
 TO056	insomma se li è giocati tutti e mh
 TO056	l'ha messa in vendita e se l'è comprata un
 TO056	insomma una coppia che si stava per sposare quindi poi a casa cioè
 TO056	serviva casa
-TO071	e hanno traslocato a dieci passi cioè nel palazzo dietro
-TO056	mh eh okay
-TO071	perché
-TO056	gli piaceva la zona
+TO056	e hanno traslocato a dieci passi cioè nel palazzo dietro
+TO071	mh eh okay
+TO056	perché
+TO071	gli piaceva la zona
 TO056	anche s~ s~ s~
 TO056	ma sì ma mh
 TO056	sono abitudinari e comunque
 TO056	come ti dico
 TO056	in quel quartiere ci si conosce tutti
-TO071	eh mh
-TO056	conosce i negozi il fruttarolo diciamo
+TO056	eh mh
+TO071	conosce i negozi il fruttarolo diciamo
 TO056	quindi per una persona anziana
 TO056	sì sì conosci il fruttarolo non so lo paghi una volta al mese quando
-TO071	a mio nonno arriva la pensione
-TO056	mh
+TO056	a mio nonno arriva la pensione
+TO071	mh
 TO056	e eh nel frattempo però mia nonna fa la spesa
-TO071	o o comunque c'è sempre quello che ti aiuta a portare perché i miei nonni sono soli
-TO056	mhmh
-TO071	eh ti aiuta magari a portare le buste pesanti fino
-TO056	a sopra fino all'ascensore mhmh
+TO056	o o comunque c'è sempre quello che ti aiuta a portare perché i miei nonni sono soli
+TO071	mhmh
+TO056	eh ti aiuta magari a portare le buste pesanti fino
+TO071	a sopra fino all'ascensore mhmh
 TO056	sì fino comunque fino all'ascensore
 TO056	e quindi mh stanno lì
 TO056	eh io son s~ ho vissuto comunque in quella casa fino a che
 TO056	avevo quindic'anni
-TO071	poi anche lì mia madre ha deciso che la casa era troppo piccola
-TO056	e avete cambiato e siete tornati nel quartiere originario
+TO056	poi anche lì mia madre ha deciso che la casa era troppo piccola
+TO071	e avete cambiato e siete tornati nel quartiere originario
 TO056	e siamo tornati nel quartiere
-TO071	iniziale dove sono stata concepita e sono nata
-TO056	mhmh
+TO056	iniziale dove sono stata concepita e sono nata
+TO071	mhmh
 TO056	e la casa insomma è abbastanza grande
 TO056	terzo piano senza ascensore quindi non so come faranno i miei quando saranno anziani
-TO071	ma vabbè
-TO056	magari cambiano di nuovo eh
+TO056	ma vabbè
+TO071	magari cambiano di nuovo eh
 TO056	la rivenderanno e cambieranno di nuovo casa
 TO056	eh mh
 TO056	però la cosa che mi piace di quella casa
 TO056	eh mh
 TO056	è che appunto c'è spazio
 TO056	cioè io lo distribuirei diversamente però comunque
-TO071	comunque c'è spazio è abbastanza silenziosa da un lato
-TO056	mhmh
+TO056	comunque c'è spazio è abbastanza silenziosa da un lato
+TO071	mhmh
 TO056	eh quindi
 TO056	poi appunto non ci vivo quindi
-TO071	i difetti mi danno relativamente fastidio ho vissuto lui lì appunto
-TO056	fastidio
+TO056	i difetti mi danno relativamente fastidio ho vissuto lui lì appunto
+TO071	fastidio
 TO056	dai quindic'anni fino ai venticinque
 TO056	poi sono andata
-TO071	sono andata via
+TO056	sono andata via
 TO071	a palermo hai vissuto pure da sola
-TO056	tu
-TO071	a palermo ho vissuto sia da sola che in condivisione con altre inquiline
+TO071	tu
+TO056	a palermo ho vissuto sia da sola che in condivisione con altre inquiline
 TO071	x
 TO071	eh eh
-TO056	eh eh
+TO071	eh eh
 TO056	eh dove ho vissuto da sola avevo un eh monolocale
 TO056	però diviso diviso bene
 TO056	mi piaceva molto in quartiere molto popolare ma mh
-TO071	tranquillo
 TO056	tranquillo
+TO071	tranquillo
 TO056	sì
 TO056	stavo bene soltanto che sono dovuta scappare perché
 TO056	nel monolocale di sotto
 TO056	ci stava una signora
 TO056	con eh
 TO056	n~ non sto scherzando come numero non è un iperbole
-TO071	con più di trenta gatti
-TO056	eh
+TO056	con più di trenta gatti
+TO071	eh
 TO056	quindi avevo queste esalazio~
-TO071	cioè per quanto io ami gli animali
-TO056	ah per la puzza non per i rumori diciamo
+TO056	cioè per quanto io ami gli animali
+TO071	ah per la puzza non per i rumori diciamo
 TO056	no no no no
-TO071	ogni tanto sentivo un miagolio però
-TO056	okay
+TO056	ogni tanto sentivo un miagolio però
+TO071	okay
 TO056	eh mh
 TO056	mh
 TO056	cioè
 TO056	saliva troppa troppa puzza
 TO056	non si poteva non si poteva stare quindi qualche mese dopo sono andata
-TO071	ho cambiato completamente zona mi sono trasferita in centro storico
-TO056	mhmh
+TO056	ho cambiato completamente zona mi sono trasferita in centro storico
+TO071	mhmh
 TO056	eh lì mi piaceva tanto stare
 TO056	tranne anche in questo caso le coinquiline che erano tre
 TO056	studentesse di psicologia
 TO056	e che quindi psizanalizzano
 TO056	tutto po~ sì poi tra l'altro
 TO056	purtroppo c'è ancora
-TO071	cioè ci sono ancora degli psicologi che credono nella psicologia dinamica
-TO056	eh eh
+TO056	cioè ci sono ancora degli psicologi che credono nella psicologia dinamica
+TO071	eh eh
 TO056	e nella psicoterapia
 TO056	sono
-TO071	v~ v~ veramente rimasti se non a freud a poco dopo
-TO056	mhmh
+TO056	v~ v~ veramente rimasti se non a freud a poco dopo
+TO071	mhmh
 TO056	quindi
 TO056	qualunque tuo comportamento
 TO056	è dovuto a come dire cause
-TO071	ca~ cause interne traumi infantili problemi eccetera eccetera
-TO056	a problemi sì esatto
+TO056	ca~ cause interne traumi infantili problemi eccetera eccetera
+TO071	a problemi sì esatto
 TO056	problemi eccetera eccetera
 TO056	eh mh
 TO056	purtroppo appunto esiste ancora la psicologia dinamica
 TO056	eh quindi
 TO056	tutto era
-TO071	materia di psicanalisi per~ persino come xxx piegavo la carne la per metterla nel eh
+TO056	materia di psicanalisi per~ persino come xxx piegavo la carne la per metterla nel eh
 TO071	okay xx
 TO071	cucinavi
-TO056	eh eh
+TO071	eh eh
 TO056	nel freezer
 TO056	eh mh
 TO056	ma lì in realtà con le ragazze si stava abbastanza bene perché erano pulite e ordinate insomma eravamo
 TO056	eh
 TO056	poi però erano delle
-TO071	paesane pettegole
-TO056	mhmh
-TO071	ed entravano in camera mia mentre io ero al lavoro
-TO056	mhmh
+TO056	paesane pettegole
+TO071	mhmh
+TO056	ed entravano in camera mia mentre io ero al lavoro
+TO071	mhmh
 TO056	e hanno
-TO071	eh si sono allarmate perché hanno trovato un paio di libri uno sulla storia delle mh della stregoneria in sicilia
-TO056	eh eh
+TO056	eh si sono allarmate perché hanno trovato un paio di libri uno sulla storia delle mh della stregoneria in sicilia
+TO071	eh eh
 TO056	e un altro
 TO056	eh sui mh sui riti
 TO056	eh mh
-TO071	s~ sui riti di di iniziazione alla vita insomma quelli che s si si fanno si facevano quando nasce un bambino
-TO056	eh eh
+TO056	s~ sui riti di di iniziazione alla vita insomma quelli che s si si fanno si facevano quando nasce un bambino
+TO071	eh eh
 TO056	che ora può essere il battesimo che è un rito di iniziazione religiosa l~
-TO071	eh e poi insomma era questo libro e faceva questo esc~ excursus storico
-TO056	su tutti i risv~
-TO071	molto interessante perché avevo questi libri perché stavo preparando un esame di antropologia culturale
-TO056	mh
+TO056	eh e poi insomma era questo libro e faceva questo esc~ excursus storico
+TO071	su tutti i risv~
+TO056	molto interessante perché avevo questi libri perché stavo preparando un esame di antropologia culturale
+TO071	mh
 TO056	eh mh però
-TO071	poverine si sono allarmate da brave cattoliche praticanti
-TO056	eh eh
-TO071	e in più mazzata finale c'era un mazzo di tarrocchi di rider white
-TO056	levati proprio quindi
+TO056	poverine si sono allarmate da brave cattoliche praticanti
+TO071	eh eh
+TO056	e in più mazzata finale c'era un mazzo di tarrocchi di rider white
+TO071	levati proprio quindi
 TO056	si sono si sono allarmate
 TO056	eh mh
-TO071	hanno chiamato mia madre
-TO056	che te xxxxxxxxx
+TO056	hanno chiamato mia madre
+TO071	che te xxxxxxxxx
 TO056	al telefono che mi vo~
 TO056	eh
 TO056	preoccupatissima perché loro
 TO056	e mh
 TO056	mh
-TO071	appunto psicanalizzando gli elementi
-TO056	pensavano che c'avevi
-TO071	pens~ no no hanno proprio detto a mia madre che io mi ero infilata in una setta e che avevano paura facessi riti satanici
-TO056	finissime psicologhe quindi
-TO071	finissime finips~ ~sime psicologhe eh mh
-TO056	eh
-TO071	i danni del eh i danni di freud
-TO056	eh eh
+TO056	appunto psicanalizzando gli elementi
+TO071	pensavano che c'avevi
+TO056	pens~ no no hanno proprio detto a mia madre che io mi ero infilata in una setta e che avevano paura facessi riti satanici
+TO071	finissime psicologhe quindi
+TO056	finissime finips~ ~sime psicologhe eh mh
+TO071	eh
+TO056	i danni del eh i danni di freud
+TO071	eh eh
 TO056	eh e quindi mia madre preoccupatissima m'è venuta a prendere
 TO056	penso che abbia perso diec'anni di vita anche perché
 TO056	eh
 TO056	come dire lei non ha messo in dubbio la parola
-TO071	cioè ha messo in dubbio la parola della figlia è vero però c'erano quattro persone
-TO056	che dicevano il contrario cioè x
+TO056	cioè ha messo in dubbio la parola della figlia è vero però c'erano quattro persone
+TO071	che dicevano il contrario cioè x
 TO056	tutte la stessa cosa
 TO056	eh e quindi lì sono finita dallo
-TO071	psicologo paradossalmente che però per fortuna ho trovato due persone
-TO056	eh eh
-TO071	due cognitiviste coi controcazzi e
-TO056	mhmh
-TO071	vabbè inso~ è stato è st~ è andata meglio
+TO056	psicologo paradossalmente che però per fortuna ho trovato due persone
+TO071	eh eh
+TO056	due cognitiviste coi controcazzi e
+TO071	mhmh
+TO056	vabbè inso~ è stato è st~ è andata meglio
 TO071	e va bene
 TO071	eh mh va bene
 TO071	quindi un un sacco di case
-TO056	praticamente
-TO071	tante case
+TO071	praticamente
+TO056	tante case
 TO071	quindi pure insomma tante storie
 TO071	se mh
 TO071	boh scegl~ sceglitele tu
@@ -1029,19 +1012,19 @@ TO071	di di di case fra tutte quelle che m'hai
 TO071	che m'hai descritto no
 TO071	alle quali magari c'è legato un ricordo un aneddoto
 TO071	non non necessariamente come dire tuo personale privato ma pure magari divertente
-TO056	o che
-TO071	ma no allora
+TO071	o che
+TO056	ma no allora
 TO071	io so che in una c'era un fantasma
-TO056	ma è in una di bologna
+TO071	ma è in una di bologna
 TO056	s~
-TO071	sì la casa in centro dietro via zamboni c'era
-TO056	eh
+TO056	sì la casa in centro dietro via zamboni c'era
+TO071	eh
 TO056	un fantasma
-TO071	allora io in quella casa son stata sempre da sola
-TO056	mhmh
+TO056	allora io in quella casa son stata sempre da sola
+TO071	mhmh
 TO056	perché il proprietario
-TO071	prima affittava casa agli studenti che gliel'hanno distrutta
-TO056	eh eh
+TO056	prima affittava casa agli studenti che gliel'hanno distrutta
+TO071	eh eh
 TO056	e quindi aveva molte remore ad affittarla io
 TO056	ero amica
 TO056	del figlio e della fidanzata del figlio quindi con molta
@@ -1049,23 +1032,23 @@ TO056	eh mh
 TO056	cioè
 TO056	come dire s~ e e poi io sono una
 TO056	ecco x x
-TO071	tendo a non rovinare mai le cose degli altri sto molto attenta
-TO056	eh eh
-TO071	quindi in quella casa io pagavo l'affitto di una stanza ma in realtà avevo la casa con la vasca da bagno
-TO056	esatto
-TO071	e il bidet
-TO056	esatto
-TO071	maledetto
-TO056	c'era pure la finestra magari x eh xx
+TO056	tendo a non rovinare mai le cose degli altri sto molto attenta
+TO071	eh eh
+TO056	quindi in quella casa io pagavo l'affitto di una stanza ma in realtà avevo la casa con la vasca da bagno
+TO071	esatto
+TO056	e il bidet
+TO071	esatto
+TO056	maledetto
+TO071	c'era pure la finestra magari x eh xx
 TO056	c'era c'era pure la finestra sì esatto
-TO071	tutte le stanze avevano la finestra coi doppi vetri infissi nuovi vabbè comunque
-TO056	eh eh
+TO056	tutte le stanze avevano la finestra coi doppi vetri infissi nuovi vabbè comunque
+TO071	eh eh
 TO056	eh mh
 TO056	un periodo però
 TO056	eh praticamente una un'amica
 TO056	eh sempre di questo ragazzo che io non conoscevo ha chies~
-TO071	cioè aveva una sua all'università
-TO056	mh
+TO056	cioè aveva una sua all'università
+TO071	mh
 TO056	eh mh
 TO056	che voleva entrar~ che
 TO056	che cercava casa e quindi a me
@@ -1076,10 +1059,10 @@ TO056	eh siriana
 TO056	che studiava
 TO056	infermieristica scienze infermieristiche non mi ricordo il nome preciso del corso
 TO056	eh che era tanto simpatica mi ci trovavo bene
-TO071	lei era zoroastriana
-TO056	eh eh
-TO071	eh
-TO056	e adorava il fuoco la la luce l'acqua
+TO056	lei era zoroastriana
+TO071	eh eh
+TO056	eh
+TO071	e adorava il fuoco la la luce l'acqua
 TO056	eh però ma e facevamo queste discussioni meravigliose proprio sulla religione su
 TO056	eh mh sull'alimentazione perché lei proprio per relig~
 TO056	per eh p~ per credo per religione era anche vegetariana
@@ -1088,8 +1071,8 @@ TO056	x x io mh non sono vegetariana però mangio molto volentieri le verdure
 TO056	quindi faceva anche questi piatti tipici
 TO056	eh mh m~ mi piaceva molto mh
 TO056	m~ mi ci trovavo bene soltanto che appunto
-TO071	al fantasma di casa lei non piaceva
-TO056	eh
+TO056	al fantasma di casa lei non piaceva
+TO071	eh
 TO056	e
 TO056	quando io non ero in casa le succedevano sempre cose strane
 TO056	e a volte anche quando c'ero io
@@ -1097,48 +1080,48 @@ TO056	ad esempio una volta io ero all'università
 TO056	e eh
 TO056	dopo la lezione quindi dopo un paio d'ore vedo
 TO056	tipo diciotto chiamate
-TO071	di lei che era rimasta chiusa in bagno
-TO056	eh
-TO071	d~ dall'esterno
+TO056	di lei che era rimasta chiusa in bagno
+TO071	eh
+TO056	d~ dall'esterno
 TO071	mi
+TO071	da fuori
 TO056	da fuori
-TO056	da fuori
-TO071	e quindi sono sono entrata
-TO056	e l'hai fatta uscire
+TO056	e quindi sono sono entrata
+TO071	e l'hai fatta uscire
 TO056	e l'ho dovuta l'ho dovuta fare uscire io perché lei è entrata in panico
 TO056	cioè c'era la chiave dentro
 TO056	e misteriosamente questa chiave invece si trovava fuori
-TO071	e la chiave
-TO056	risultava girata
+TO056	e la chiave
+TO071	risultava girata
 TO056	risultava c~ sì risultava chiusa quindi io dall'esterno dovevo
-TO071	girar la chiave le~ lei non potreva
+TO056	girar la chiave le~ lei non potreva
 TO071	xa
 TO071	e n~
-TO056	e non c'aveva cioè non non non avete trovato una spiegazione invece no~ non paranormale all~ all'accaduto
+TO071	e non c'aveva cioè non non non avete trovato una spiegazione invece no~ non paranormale all~ all'accaduto
+TO056	no
 TO071	no
 TO056	no
-TO056	no
-TO071	non c'era una spiegazione lei agitatissima e lì se ne voleva andare
-TO056	mhmh
-TO071	siccome mi trovavo bene e il proprietario guadagnava insomma due lire in più
-TO056	eh eh
+TO056	non c'era una spiegazione lei agitatissima e lì se ne voleva andare
+TO071	mhmh
+TO056	siccome mi trovavo bene e il proprietario guadagnava insomma due lire in più
+TO071	eh eh
 TO056	eh e non xxxx il proprietario perché loro stavano
 TO056	insomma in provincia in collina allergici ai rumori di bologna
 TO056	eh
 TO056	poi un paio di volte è successo che se n~ se ne andava via la luce
 TO056	ma solo in camera sua
 TO056	e la lampadina non era buciata
-TO071	perché poi provandola altrove mh
-TO056	funzionava
+TO056	perché poi provandola altrove mh
+TO071	funzionava
 TO056	così
 TO056	mh sì
 TO056	eh mh
 TO056	e poi è successo un paio di volte
 TO056	che mh
-TO071	eh praticamente mh c'era una porta blindata nuova che però faceva un po' di difetto
-TO056	mhmh
-TO071	e spesso pensavamo di averla chiusa e invece non era mh
-TO056	chiusa
+TO056	eh praticamente mh c'era una porta blindata nuova che però faceva un po' di difetto
+TO071	mhmh
+TO056	e spesso pensavamo di averla chiusa e invece non era mh
+TO071	chiusa
 TO056	non era chiusa
 TO056	eh io
 TO056	cioè giuro non mi ero fatta de canne e non avevo bevuto
@@ -1146,20 +1129,20 @@ TO056	però
 TO056	eh un paio di volte mentre dormicchiavo ho sentito una voce metallica
 TO056	eh che
 TO056	cioè sentivo il rumore della porta che si chiudeva
-TO071	e poi una voce metallica che mi diceva vabbè per stavolta ho chiuso però stai attenta
-TO056	mh
+TO056	e poi una voce metallica che mi diceva vabbè per stavolta ho chiuso però stai attenta
+TO071	mh
 TO056	quando c'era lei invece questa porta anziché chiudersi normalmente si sbatteva
 TO056	e mh
 TO056	e poi si riapriva
 TO056	cioè faceva
-TO071	avanti e indietro come se ci fosse corrente
-TO056	okay
+TO056	avanti e indietro come se ci fosse corrente
+TO071	okay
 TO056	insomma questa spaventata dopo due
 TO056	due tre mesi di ste storie
 TO056	eh se n'è se n'è andata
 TO056	dicendo che se~ sentiva queste presenze eccetere
-TO071	poi una volta
-TO056	quindi se n'è andata veramente per il fantasma non è andata
+TO056	poi una volta
+TO071	quindi se n'è andata veramente per il fantasma non è andata
 TO056	s~ sì sì sì sì assoluta~ spaventatissima avrà
 TO056	perso anche lei vent'anni di vita
 TO056	dopo qualche giorno
@@ -1175,102 +1158,101 @@ TO056	appena entrato a casa ha fatto una faccia strana
 TO056	eh mh
 TO056	e mi ha detto
 TO056	eh sì però ci mettiamo in questa stanza in quest'altra no
-TO071	perché qua c'è un vecchietto
-TO056	mh
+TO056	perché qua c'è un vecchietto
+TO071	mh
 TO056	eh che si è suicidato qui in questa stanza
 TO056	e non vuole essere disturbato
 TO056	e dopo qualche altro minuto mentre guardava da fuori sempre questa stanza mi ha detto in questa stanza
 TO056	eh prima mh
 TO056	cioè eh cioè diciamo la usavano come mh
 TO056	eh mh
-TO071	sai che nelle case antiche c'era quella stanza dove tenevi non so le bottiglie d'olio di sugo insomma
-TO056	cantina una cantina diciamo mh
-TO071	sì tipo cantina però essendo appartamento era una stanza dedicata
-TO056	mhmh
+TO056	sai che nelle case antiche c'era quella stanza dove tenevi non so le bottiglie d'olio di sugo insomma
+TO071	cantina una cantina diciamo mh
+TO056	sì tipo cantina però essendo appartamento era una stanza dedicata
+TO071	mhmh
 TO056	io non sapevo che dirgli
 TO056	poi d~ quando è venuto il proprietario a prendersi l'affitto
 TO056	eh appunto il mio amico
 TO056	gli ha raccontato questa cosa e mi ha detto che mi avrebbe fatto sapere
 TO056	l'ha raccontato a suo padre che in quella casa c'era nato e cresciuto
 TO056	e il padre è rimasto a bocca aperta e mi ha detto che è vero
-TO071	perché quando i suoi genitori a sua volta hanno comprato la casa
-TO056	mhmh
+TO056	perché quando i suoi genitori a sua volta hanno comprato la casa
+TO071	mhmh
 TO056	l'hanno comprata
 TO056	a un prezzo
 TO056	eh
 TO056	molto basso perché appunto c'era stato questo
-TO071	questo suicidio
-TO056	suicidio
-TO071	eh e quando lui era piccolo in quella stanza tenevano le scorte le scorte alimentari
-TO056	quindi c~ c'è del paranormale c'è
+TO056	questo suicidio
+TO071	suicidio
+TO056	eh e quando lui era piccolo in quella stanza tenevano le scorte le scorte alimentari
+TO071	quindi c~ c'è del paranormale c'è
 TO056	e quindi c'è questa storia paranormale però
-TO071	cioè quando c'ero io xxx
-TO056	a te non t'aveva infastidito il fantasma
+TO056	cioè quando c'ero io xxx
+TO071	a te non t'aveva infastidito il fantasma
 TO056	no no no no no
 TO056	infatti questo mio amico mi ha detto no no tu puoi tu puoi stare non eh
 TO056	ma infatti non ho avuto nessun problema comunque uno ci crede non ci crede ma eh tant'è
 TO056	eh poi invece mh
 TO056	e mh
-TO071	no questa è un po' volgare non la posso raccontare
-TO056	no no è me~ meglio meglio meglio s'è volgare
-TO071	allora la casa con le psicologhe pazze quando me ne sono andata
-TO056	eh eh
+TO056	no questa è un po' volgare non la posso raccontare
+TO071	no no è me~ meglio meglio meglio s'è volgare
+TO056	allora la casa con le psicologhe pazze quando me ne sono andata
+TO071	eh eh
 TO056	mia madre ha raccolto tutto
 TO056	eh io
 TO056	mh insomma l'ho aiutata anche se stavo un po'
-TO071	frastornata
-TO056	eh eh
+TO056	frastornata
+TO071	eh eh
 TO056	eh anche perché quando è successo il tutto io avevo il turno di notte al lavoro
-TO071	quindi dopo otto ore sveglia a lavorare mi ritrovo tutto 'sto casino in casa e quindi ero abbastanza stordita
-TO056	xxxxxxx
+TO056	quindi dopo otto ore sveglia a lavorare mi ritrovo tutto 'sto casino in casa e quindi ero abbastanza stordita
+TO071	xxxxxxx
 TO056	ho apero il cassetto
 TO056	e mi mancavano
-TO071	dei soldi
-TO056	eh eh
+TO056	dei soldi
+TO071	eh eh
 TO056	le fini psicologhe
 TO056	mancavano quasi duecento euro
-TO071	se non mi ricordo male erano centottanta euro
-TO056	mhmh
+TO056	se non mi ricordo male erano centottanta euro
+TO071	mhmh
 TO056	che avevo tenuto lì
 TO056	eh per le bollette comunque per le spese così
-TO071	eh e un vibratore
-TO056	anche
+TO056	eh e un vibratore
+TO071	anche
 TO056	mai usato tra l'altro
 TO056	perché tutto 'sto casino è succeso ad aprile
 TO056	io faccio il compleanno a marzo
 TO056	e i miei amici in maniera mo~
-TO071	molto delicata mi avevano regalato questo
-TO056	'sto vibratore
+TO056	molto delicata mi avevano regalato questo
+TO071	'sto vibratore
 TO056	questo vibratore quindi niente spero cioè
-TO071	xxnte mi veniva da ridere non tanto per i soldi ma per il vibratore
-TO056	però non potevi ridere
+TO056	xxnte mi veniva da ridere non tanto per i soldi ma per il vibratore
+TO071	però non potevi ridere
 TO056	non potevo ridere non potevo dirlo a mia madre soprattutto
 TO056	però dentro di me in questi anni ho sempre pensato
 TO056	ma speriamo che l'hanno usato loro 'sto vibratore che secondo me un po' più di
-TO071	un po' più di relax c'avevano veramente bisogno
-TO056	xxxxxx
+TO056	un po' più di relax c'avevano veramente bisogno
+TO071	xxxxxx
 TO056	eh quindi mi hanno m~ mi mancava mh
 TO056	di vestiti ne ho talmente tanti che sicuramente qualcuno
 TO056	qualche accessorio
 TO056	perché loro erano un po'
-TO071	io ero molto magra all'epoca loro erano più normali
-TO056	mhmh
+TO056	io ero molto magra all'epoca loro erano più normali
+TO071	mhmh
 TO056	e mh
 TO056	quindi vestiti non credo però qualche accessorio sicuramente pure
 TO056	che se rubi un vibratore rubi pure una borsa
-TO071	però appunto ne ho talmente tanti che
-TO056	magari non te ne sei neanche accorta diciamo
+TO056	però appunto ne ho talmente tanti che
+TO071	magari non te ne sei neanche accorta diciamo
 TO056	no no non me ne sono non me ne sono accorta
 TO056	eh però quella casa mi piaceva molto perché mh
 TO056	cioè era uno di quei palazzi
 TO056	vecchi però
-TO071	solidi coi tetti alti le finestre enormi
-TO056	mh mh
+TO056	solidi coi tetti alti le finestre enormi
+TO071	mh mh
 TO056	e il corridoio con tutte lestanze in fila quindi dava un senso proprio di di ordine
-TO071	c'era spazio ecco forse ho preso da mia madre anch'io che voglio le case spaziose
+TO056	c'era spazio ecco forse ho preso da mia madre anch'io che voglio le case spaziose
 TO071	spaziose enormi
 TO071	eh mh
 TO071	io direi che va bene così
-TO056	grazie
-TO071	prego
-TO071	
+TO071	grazie
+TO056	prego

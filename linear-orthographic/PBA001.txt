@@ -1,17 +1,16 @@
-BOR003	okay
+BOI006	okay
 BOR003	perfetto
 BOR003	allora
 BOR003	eh
-BOI006	innanzitutto volevo sapere pio o peno in che zona vivi
+BOR003	innanzitutto volevo sapere pio o peno in che zona vivi
+BOI006	mhmh
+BOR003	di bologna
+BOI006	okay allora io sono
+BOI006	in @nomeluogo eh vicino a @nomeluogo
 BOR003	mhmh
-BOI006	di bologna
-BOR003	okay allora io sono
-BOI006	
-BOR003	in @nomeluogo eh vicino a @nomeluogo
-BOI006	mhmh
-BOR003	non so se hai presente sì perché sei eh
+BOI006	non so se hai presente sì perché sei eh
 BOR003	sì
-BOI006	mhmh
+BOR003	mhmh
 BOI006	dove c'è anche la facoltà
 BOI006	è una parallela
 BOI006	e che si chiama @nomeluogo
@@ -19,50 +18,50 @@ BOI006	eh praticamente vediamo
 BOI006	se hai presente
 BOI006	eh
 BOI006	@nomeluogo
-BOR003	la pasticceria
-BOI006	okay
-BOR003	non so se hai presente
+BOI006	la pasticceria
+BOR003	okay
+BOI006	non so se hai presente
 BOR003	sì
-BOI006	no qualcosa mi ricordo
+BOR003	no qualcosa mi ricordo
 BOI006	okay
 BOI006	eh vai dritto
 BOI006	da quella che è @nomeluogo
 BOI006	quella via lì
 BOI006	è subito lì a destra
-BOR003	venen~ dalla parte
-BOI006	mhmh
+BOI006	venen~ dalla parte
+BOR003	mhmh
 BOI006	eh verso la le mura
 BOI006	eh quella è @nomeluogo
 BOI006	quindi proprio
-BOR003	nel centro storico
+BOI006	nel centro storico
 BOR003	ah lì sei proprio centro
 BOR003	ah
-BOI006	e
-BOR003	sì sì
+BOR003	e
+BOI006	sì sì
 BOR003	come zona
-BOI006	come la trovi
+BOR003	come la trovi
 BOI006	ma eh
 BOI006	comoda
 BOI006	perché comunque dai
 BOI006	sono vicina io lavoro poi
-BOR003	in @nomeluogo
-BOI006	ah ah okay
-BOR003	eh quindi perché
-BOI006	sì sì sì
+BOI006	in @nomeluogo
+BOR003	ah ah okay
+BOI006	eh quindi perché
+BOR003	sì sì sì
 BOI006	lavoro nell'ufficio
 BOI006	mh @nomeluogo
-BOR003	non so se te l'avrà detto forse
+BOI006	non so se te l'avrà detto forse
 BOR003	mhmh
-BOI006	sì
+BOR003	sì
 BOI006	eh
 BOI006	e quindi
 BOI006	presente que~ quando entri in @nomeluogo
-BOR003	a sinistra c'è quel eh
-BOI006	sì ah
-BOR003	q~ quell'edificio
-BOI006	bellissimo con eh
-BOR003	davanti al prato esatto
-BOI006	sì sì
+BOI006	a sinistra c'è quel eh
+BOR003	sì ah
+BOI006	q~ quell'edificio
+BOR003	bellissimo con eh
+BOI006	davanti al prato esatto
+BOR003	sì sì
 BOI006	quello è @nomeluogo
 BOI006	in realtà sono nella
 BOI006	capannella di fianco
@@ -71,9 +70,9 @@ BOI006	un edif~
 BOI006	un piccolo edificio lì di fianco
 BOI006	ehm
 BOI006	e quindi è comodissimo
-BOR003	come zona per andare a lavoro perché
+BOI006	come zona per andare a lavoro perché
 BOR003	eh beh si
-BOI006	è super vicino
+BOR003	è super vicino
 BOI006	ci metto dieci minuti a piedi
 BOI006	quindi
 BOI006	è molto comodo
@@ -82,17 +81,17 @@ BOI006	del ehm
 BOI006	della
 BOI006	della gente che gira
 BOI006	per quelle zone lì e
-BOR003	non è il massimo
-BOI006	mhmh
+BOI006	non è il massimo
+BOR003	mhmh
 BOI006	perché
 BOI006	eh
 BOI006	s~ lì sempre su via capo di lucca spesso
 BOI006	mh vediamo
-BOR003	drogati o
-BOI006	mhmh
-BOR003	o gente insomma
+BOI006	drogati o
+BOR003	mhmh
+BOI006	o gente insomma
 BOR003	ah okay
-BOI006	sì sì
+BOR003	sì sì
 BOI006	un po'
 BOI006	che seduta per terra a bere
 BOI006	a a qualsiasi ora
@@ -100,15 +99,15 @@ BOI006	però
 BOI006	vabbè a parte quello
 BOI006	no ci viviamo bene
 BOI006	abbiamo anche insomma
-BOR003	tutte le cose vicine il supermercato
-BOI006	mhmh
+BOI006	tutte le cose vicine il supermercato
+BOR003	mhmh
 BOI006	eccetera sì
 BOI006	quindi no
 BOI006	nie~
 BOI006	cioè
 BOI006	come zona alla fine
-BOR003	ci vivrei eh con eh
-BOI006	anche con una famiglia
+BOI006	ci vivrei eh con eh
+BOR003	anche con una famiglia
 BOI006	x
 BOI006	eh
 BOI006	oddio
@@ -119,26 +118,25 @@ BOI006	infatti noi in realtà
 BOI006	ehm
 BOI006	vabbè
 BOI006	abbiamo pensato
-BOR003	comunque in futuro di tornare verso forlì
-BOI006	mhmh
+BOI006	comunque in futuro di tornare verso forlì
+BOR003	mhmh
 BOI006	non tanto per
 BOI006	questa questione insomma della
 BOI006	eh della
-BOR003	fauna
-BOI006	
+BOI006	fauna
 BOI006	xx
 BOI006	ma
 BOI006	anche per una questione di
 BOI006	costi
-BOR003	delle case
-BOI006	ah beh
+BOI006	delle case
+BOR003	ah beh
 BOI006	poi vabbè non so se sai adesso c'è proprio
 BOI006	momento critico
 BOI006	oh leggevo ieri un articolo
 BOI006	eh
 BOI006	gli studenti che hanno fatto un sit in
-BOR003	per protesta
-BOI006	sì
+BOI006	per protesta
+BOR003	sì
 BOI006	per i costi degli affitti
 BOI006	eh
 BOI006	davanti in pratica hanno fatto un nuovo
@@ -146,664 +144,658 @@ BOI006	hotel
 BOI006	hotel
 BOI006	mh
 BOI006	studentato di lusso
-BOR003	fondamentalmente che si chiama student
+BOI006	fondamentalmente che si chiama student
 BOR003	mhmh
 BOR003	ah si ho sentito
-BOI006	esatto
-BOR003	student hotel si chiama
-BOI006	mhmh
+BOR003	esatto
+BOI006	student hotel si chiama
+BOR003	mhmh
 BOI006	eh
 BOI006	che costa effettivamente molto
 BOI006	perché secondo me tipo
 BOI006	la camera singola
 BOI006	costa
 BOI006	ottocento euro
-BOR003	una cosa del genere
+BOI006	una cosa del genere
 BOR003	mamma mia
-BOI006	no
+BOR003	no
 BOI006	e quindi loro si sono messi a protestare davanti a quest'hotel
 BOI006	come segno per dire
-BOR003	mh ciò
-BOI006	mhmh
-BOR003	vogliamo degli affitti accessibili
-BOI006	sì
+BOI006	mh ciò
+BOR003	mhmh
+BOI006	vogliamo degli affitti accessibili
+BOR003	sì
 BOI006	e f~ mh
-BOR003	mh non gli do torto insomma anche perché
+BOI006	mh non gli do torto insomma anche perché
 BOR003	no no beh ovvio
-BOI006	e è stato di~
-BOR003	te non hai
-BOI006	xxx
-BOR003	non hai mai vissuto a bologna te
+BOR003	e è stato di~
+BOI006	te non hai
+BOR003	xxx
+BOI006	non hai mai vissuto a bologna te
 BOR003	io sì
-BOI006	una piccola parte e
-BOR003	mh
+BOR003	una piccola parte e
+BOI006	mh
 BOR003	sarà stato
-BOI006	da settembre circa a febbraio
-BOR003	okay
-BOI006	però io ho trovato grazie a un' amica che lasciava quindi
-BOR003	eh
-BOI006	non ho avuto quel problema per fortuna però
+BOR003	da settembre circa a febbraio
+BOI006	okay
+BOR003	però io ho trovato grazie a un' amica che lasciava quindi
+BOI006	eh
+BOR003	non ho avuto quel problema per fortuna però
 BOI006	infatti
-BOR003	se hai un amico che ti consiglia cioè eh
-BOI006	esatto
-BOR003	s~ è purtroppo una delle poche m~ pochi modi in cui riesci a trovare casa
-BOI006	mhmh
-BOR003	perché appena un annuncio va online
-BOI006	dopo pochissimo
-BOR003	a chi~ cioè dopo trenta secondi xx uno perché c'hanno troppa richiesta infatti anch'io
-BOI006	eh eh
+BOI006	se hai un amico che ti consiglia cioè eh
+BOR003	esatto
+BOI006	s~ è purtroppo una delle poche m~ pochi modi in cui riesci a trovare casa
+BOR003	mhmh
+BOI006	perché appena un annuncio va online
+BOR003	dopo pochissimo
+BOI006	a chi~ cioè dopo trenta secondi xx uno perché c'hanno troppa richiesta infatti anch'io
+BOR003	eh eh
 BOI006	il mio che ho trovato
 BOI006	ho visto su facebook
 BOI006	ho mandato la richiesta
-BOR003	e dopo tipo un'ora era sparito perché avevano già ricevuto troppe troppe richieste
+BOI006	e dopo tipo un'ora era sparito perché avevano già ricevuto troppe troppe richieste
 BOR003	ah okay
-BOI006	ma hai sempre vissuto lì oppure
-BOR003	eh sì da quando siamo a bologna sì
-BOI006	okay
+BOR003	ma hai sempre vissuto lì oppure
+BOI006	eh sì da quando siamo a bologna sì
+BOR003	okay
 BOI006	io poi ho fatto pendolare
 BOI006	da forlì per cinque anni
 BOI006	quindi tutta la triennale ho fatto anch'io lingue e letterature straniere
 BOI006	poi ho fatto la magistrale
 BOI006	che ho fatto a suo tempo si chiamava
-BOR003	eh lingue società e comunicazione adesso è quello in inglese language society
+BOI006	eh lingue società e comunicazione adesso è quello in inglese language society
 BOR003	mhmh
 BOR003	ah okay sì sì
-BOI006	society
+BOR003	society
 BOI006	eh e quindi ho fatto cinque an~ anni di pendolare
 BOI006	poi dopo quando ho iniziato a lavorare lì ho fatto
-BOR003	ho preso un affitto perché se no
-BOI006	xx no esatto
+BOI006	ho preso un affitto perché se no
+BOR003	xx no esatto
 BOI006	dopo un mese di pendolare lavorando
-BOR003	ho detto basta
+BOI006	ho detto basta
 BOR003	però com~ comunque la consigli come
-BOI006	come zona anche
-BOR003	sì sì no quella zona comunque è molto ci~ vivere nel centro secondo me a bologna è molto bello perché
-BOI006	e ti sposti a piedi xxx
+BOR003	come zona anche
+BOI006	sì sì no quella zona comunque è molto ci~ vivere nel centro secondo me a bologna è molto bello perché
+BOR003	e ti sposti a piedi xxx
 BOI006	sì mi sposto sempre a piedi o in bicicletta
 BOI006	infatti non abbiamo la macchina
 BOI006	siamo a volte raramente l'autobus lo prendo sì
-BOR003	però cioè in un quarto d'ora a piedi sono in piazza maggiore quindi
-BOI006	xx mh eh comodissimo
+BOI006	però cioè in un quarto d'ora a piedi sono in piazza maggiore quindi
+BOR003	xx mh eh comodissimo
 BOI006	cioè infatti molto comodo
-BOR003	vedo le file di solito di macchine che stanno lì
-BOI006	ah
-BOR003	per entrare nel parcheggio cioè
-BOI006	anche quando sono andata io su una volta in macchina è stato
+BOI006	vedo le file di solito di macchine che stanno lì
+BOR003	ah
+BOI006	per entrare nel parcheggio cioè
+BOR003	anche quando sono andata io su una volta in macchina è stato
 BOI006	eh
-BOR003	è difficile infatti no
-BOI006	terribile
-BOR003	aver la macchina a bologna la puoi avere solo se sei abbastanza fuori dalle mura
-BOI006	mhmh
-BOR003	perché se sei dentro non è proprio fattibile a meno che non hai una casa super
-BOI006	è vero
-BOR003	con con un garage con
-BOI006	sì
-BOR003	però poi c'è ztl ovunque quindi
-BOI006	è quello è anche un problema
+BOI006	è difficile infatti no
+BOR003	terribile
+BOI006	aver la macchina a bologna la puoi avere solo se sei abbastanza fuori dalle mura
+BOR003	mhmh
+BOI006	perché se sei dentro non è proprio fattibile a meno che non hai una casa super
+BOR003	è vero
+BOI006	con con un garage con
+BOR003	sì
+BOI006	però poi c'è ztl ovunque quindi
+BOR003	è quello è anche un problema
 BOI006	infatti la nostra strada è in ztl
 BOI006	poi quindi
 BOI006	non c'è neanche tanto traffico perché
 BOI006	non ci passan tante macchine
-BOR003	eh però
-BOI006	mhmh
-BOR003	si insomma qualcuno che ti viene lì a trovare
-BOI006	eh
-BOR003	allora qua non puoi passare qua non puoi passare
-BOI006	dove parcheggiare
+BOI006	eh però
+BOR003	mhmh
+BOI006	si insomma qualcuno che ti viene lì a trovare
+BOR003	eh
+BOI006	allora qua non puoi passare qua non puoi passare
+BOR003	dove parcheggiare
 BOI006	sì infatti infatti
-BOR003	però dai
+BOI006	però dai
 BOR003	ehm
-BOI006	e invece rispetto comunque a quando studiavi come la vedi cambiata un po' la città
+BOR003	e invece rispetto comunque a quando studiavi come la vedi cambiata un po' la città
 BOI006	ah quando studiavo non non la non la vedevo non la vivevo la città
 BOI006	perché
-BOR003	stazione facoltà stazione facoltà
-BOI006	ah esatto
-BOR003	via cartolerie facevo questo
-BOI006	esatto quelle tre
+BOI006	stazione facoltà stazione facoltà
+BOR003	ah esatto
+BOI006	via cartolerie facevo questo
+BOR003	esatto quelle tre
 BOI006	triangolo delle bermuda
 BOI006	e però sì non mh
 BOI006	non m~ non mi piaceva quando facevo pendolare perché
-BOR003	comunque non vedevo
-BOI006	la vera
+BOI006	comunque non vedevo
+BOR003	la vera
 BOI006	esatto mh sì adesso
 BOI006	cioè vivendoci mi è piaciuta molto di più come città come
 BOI006	cioè
-BOR003	prendere su la mattina eh sabato mattina ti vai a fare una passeggiata in centro vai a fare colazione
-BOI006	sì
+BOI006	prendere su la mattina eh sabato mattina ti vai a fare una passeggiata in centro vai a fare colazione
+BOR003	sì
 BOI006	cioè è diverso rispetto a essere sempre di corsa prendere il treno
 BOI006	vedi la stazione che non è il posto mh
-BOR003	più bello di bologna diciamo
+BOI006	più bello di bologna diciamo
 BOR003	eh esatto no
-BOI006	infatti
+BOR003	infatti
 BOI006	e quindi sicuramente più bello secondo me viverci che
-BOR003	fare il pendolare
+BOI006	fare il pendolare
 BOR003	e invece parlando sempre della città
-BOI006	per esempio i portici che sono adesso entrati anche come
-BOR003	mhmh
-BOI006	patrimonio
+BOR003	per esempio i portici che sono adesso entrati anche come
+BOI006	mhmh
+BOR003	patrimonio
 BOI006	eh sì sì no infatti il portico
-BOR003	è veramente la cosa che identifica bologna
-BOI006	esatto
+BOI006	è veramente la cosa che identifica bologna
+BOR003	esatto
 BOI006	secondo me più di tutte cioè
 BOI006	giran~ mh io penso che
 BOI006	cioè camminare per bologna
-BOR003	cioè solo il fatto di avere il portico dici ah sono a bologna
-BOI006	esatto infatti eh dicono che sembra un po' strano quando magari vai in un'altra città e dici ma non li trovo non
+BOI006	cioè solo il fatto di avere il portico dici ah sono a bologna
+BOR003	esatto infatti eh dicono che sembra un po' strano quando magari vai in un'altra città e dici ma non li trovo non
 BOI006	eh
 BOI006	sì sì infatti e poi
-BOR003	vabbè per la pioggia comodissimi ovviamente
-BOI006	eh esatto
+BOI006	vabbè per la pioggia comodissimi ovviamente
+BOR003	eh esatto
 BOI006	è la la grande comodità
 BOI006	eh però sì son molto belli poi recentemente sono andata mh
 BOI006	a fare mh
 BOI006	il la camminata
-BOR003	per andare a san luca
-BOI006	ah sì sì
-BOR003	sai che lì c'è proprio tutto un porticato bellissimo
-BOI006	sì sì sì sì
+BOI006	per andare a san luca
+BOR003	ah sì sì
+BOI006	sai che lì c'è proprio tutto un porticato bellissimo
+BOR003	sì sì sì sì
 BOI006	che arriva fino a san luca
 BOI006	eh quelli sono molto belli eh cioè i portici più belli secondo me di bologna
 BOI006	perché
 BOI006	sono mh
 BOI006	a parte che sono in salita
-BOR003	quindi già son strani come non sono i classici portici che vedi per bologna
-BOI006	mhmh
+BOI006	quindi già son strani come non sono i classici portici che vedi per bologna
+BOR003	mhmh
 BOI006	eh quindi sì
 BOI006	molto molto belli poi secondo me si potrebbero anche
-BOR003	tenere un pochino meglio perché
-BOI006	eh infatti come li trovi come stato
+BOI006	tenere un pochino meglio perché
+BOR003	eh infatti come li trovi come stato
 BOI006	dipende alcuni bene
 BOI006	altri
 BOI006	meno
-BOR003	quindi tra graffiti cose varie
-BOI006	un po' puzza
-BOR003	un po' di puzza sappiamo di cosa
-BOI006	
+BOI006	quindi tra graffiti cose varie
+BOR003	un po' puzza
+BOI006	un po' di puzza sappiamo di cosa
 BOI006	si potrebbe migliorare il mantenimento secondo me
 BOI006	quello sicuramente sì sì
 BOI006	però
-BOR003	è un segno distintivo sicuramente
+BOI006	è un segno distintivo sicuramente
 BOR003	mhmh è vero
-BOI006	comunque dai tutte i graffiti quelle cose lì secondo me
+BOR003	comunque dai tutte i graffiti quelle cose lì secondo me
 BOI006	sì ehm
-BOR003	visto che adesso è patrimonio dell'unesco si potrebbe fare secondo me qualcosa per
-BOI006	mhmh
-BOR003	tenerli pulirli sì
+BOI006	visto che adesso è patrimonio dell'unesco si potrebbe fare secondo me qualcosa per
+BOR003	mhmh
+BOI006	tenerli pulirli sì
 BOR003	migliorarli
 BOR003	eh ti viene in mente qualche aneddoto
-BOI006	se sai qualche storia sui portici o su san luca
+BOR003	se sai qualche storia sui portici o su san luca
 BOI006	mh aneddoti
 BOI006	oddio
 BOI006	cioè tipo sto~
-BOR003	cioè storici o
+BOI006	cioè storici o
 BOR003	sì
 BOR003	oppure anche se c'è qualche episodio che ti ricordi
-BOI006	della tua vita che è avvenuto sotto i portici
-BOR003	ehm
-BOI006	incontri
-BOR003	vediamo sì okay
-BOI006	persone strane che magari hai visto
+BOR003	della tua vita che è avvenuto sotto i portici
+BOI006	ehm
+BOR003	incontri
+BOI006	vediamo sì okay
+BOR003	persone strane che magari hai visto
 BOI006	allora fammi pensare
-BOR003	persone strane
+BOI006	persone strane
 BOR003	qualche luogo che magari
-BOI006	eh lo trovi sotto i portici legato insomma
+BOR003	eh lo trovi sotto i portici legato insomma
 BOI006	mh
-BOR003	cioè legato a
+BOI006	cioè legato a
 BOR003	tipo in quelle zone
-BOI006	non do magari c'è un posto
+BOR003	non do magari c'è un posto
 BOI006	mh adesso mi viene in mente non è prettamente
-BOR003	un portico però eh non so se sai
-BOI006	mhmh
-BOR003	eh in centro proprio dove c'è piazza maggiore
-BOI006	mhmh
+BOI006	un portico però eh non so se sai
+BOR003	mhmh
+BOI006	eh in centro proprio dove c'è piazza maggiore
+BOR003	mhmh
 BOI006	c'è ehm
 BOI006	una specie di piazzetta
 BOI006	a eh
 BOI006	che è proprio
-BOR003	mh si chiama palazzo podestà fors~ non mi ricordo
-BOI006	mhmh
+BOI006	mh si chiama palazzo podestà fors~ non mi ricordo
+BOR003	mhmh
 BOI006	al centro
 BOI006	ehm
 BOI006	guard~ guardando piazza miaggiore
-BOR003	guardando la mh il la basilica
-BOI006	mhmh
+BOI006	guardando la mh il la basilica
+BOR003	mhmh
 BOI006	c'è un passaggio
 BOI006	eh in cui c'è una specie di piazzetta
-BOR003	coperta
-BOI006	okay
+BOI006	coperta
+BOR003	okay
 BOI006	eh
 BOI006	in pratica se tu vai lì
-BOR003	ehm ci sono quattro angoli
-BOI006	ah sì sì sì mhmh
+BOI006	ehm ci sono quattro angoli
+BOR003	ah sì sì sì mhmh
 BOI006	che che è poi esatto
 BOI006	e dove
 BOI006	eh in pratica la dimens~ la mh
-BOR003	la forma delle delle mh arcate
-BOI006	mhmh
+BOI006	la forma delle delle mh arcate
+BOR003	mhmh
 BOI006	crea questo effetto acustico per cui se tu sei a uno degli a~ a uno degli angoli
-BOR003	eh senti perfettamente quello che dice quello dall'altro lato dell'angolo
-BOI006	è vero sì sì sì
-BOR003	e questo tutte le volte che viene qualcuno da bologna io lo porto a fare questa cosa molto
-BOI006	
-BOR003	folkloristica
-BOI006	è vero è vero
+BOI006	eh senti perfettamente quello che dice quello dall'altro lato dell'angolo
+BOR003	è vero sì sì sì
+BOI006	e questo tutte le volte che viene qualcuno da bologna io lo porto a fare questa cosa molto
+BOI006	folkloristica
+BOR003	è vero è vero
 BOI006	ehm
 BOI006	però di episodi
 BOI006	successi sotto i portici
-BOR003	boh adesso
-BOI006	persone che magari puoi avere incontrato un po'
+BOI006	boh adesso
+BOR003	persone che magari puoi avere incontrato un po'
 BOI006	ah
 BOI006	bah ehm
-BOR003	c~ è sempre pieno di persone che fanno l'elemosina sotto i portici
-BOI006	mhmh
-BOR003	soprattutto su via indipendenza ce ne sono diversi
-BOI006	sì è vero
+BOI006	c~ è sempre pieno di persone che fanno l'elemosina sotto i portici
+BOR003	mhmh
+BOI006	soprattutto su via indipendenza ce ne sono diversi
+BOR003	sì è vero
 BOI006	anche sotto i portici di via
 BOI006	il viale
 BOI006	mh masini
 BOI006	perché io passo s~ spesso di lì
 BOI006	ehm
-BOR003	però a parte insomma persone
-BOI006	mhmh
+BOI006	però a parte insomma persone
+BOR003	mhmh
 BOI006	che fanno l'elemosina sì
-BOR003	mh ah incontri anche molte persone che ti fermano per
-BOI006	sì esatto
+BOI006	mh ah incontri anche molte persone che ti fermano per
+BOR003	sì esatto
 BOI006	ti chiedono di fare beneficenza
 BOI006	le classiche persone che sono sotto i portici
 BOI006	ehm a volte
-BOR003	persone famose ogni tanto una volta ho incontrato pif ad esempio
-BOI006	ah ah sì sì sì
-BOR003	eh che ha un hotel che è lì su via indipendenza
-BOI006	anche cremonini dicono che si aspetta
-BOR003	cremoni~ è non l'ho ancora incontrato cremonini
-BOI006	xx neanche io ohi
+BOI006	persone famose ogni tanto una volta ho incontrato pif ad esempio
+BOR003	ah ah sì sì sì
+BOI006	eh che ha un hotel che è lì su via indipendenza
+BOR003	anche cremonini dicono che si aspetta
+BOI006	cremoni~ è non l'ho ancora incontrato cremonini
+BOR003	xx neanche io ohi
 BOI006	però veramente sì tre anni perché io sono dal
-BOR003	duemiladiciotto diciannove ve~ sì tre anni che sono lì e non ho ancora incrociato cremoni~
-BOI006	beh magari dai quest'anno sarà l'anno buono
-BOR003	ma sì chissà infatti infatti
+BOI006	duemiladiciotto diciannove ve~ sì tre anni che sono lì e non ho ancora incrociato cremoni~
+BOR003	beh magari dai quest'anno sarà l'anno buono
+BOI006	ma sì chissà infatti infatti
 BOR003	e anche mh
-BOI006	per il fatto che hanno messo le luci con le scritte delle canzoni cosa ne pensi
+BOR003	per il fatto che hanno messo le luci con le scritte delle canzoni cosa ne pensi
 BOI006	ah bello quello mi è piaciuto molto sì sì quello
-BOR003	ci stava secondo me
-BOI006	bello
-BOR003	perché dai cremonini comunque è il cantante di bolo~ cioè a parte lucio dalla ovviamente
-BOI006	sì
-BOR003	però
-BOI006	che poi hanno messo anche le sue vero
-BOR003	infatti poi hanno messo anche le sue
-BOI006	sì sì
+BOI006	ci stava secondo me
+BOR003	bello
+BOI006	perché dai cremonini comunque è il cantante di bolo~ cioè a parte lucio dalla ovviamente
+BOR003	sì
+BOI006	però
+BOR003	che poi hanno messo anche le sue vero
+BOI006	infatti poi hanno messo anche le sue
+BOR003	sì sì
 BOI006	eh
-BOR003	però ci sta è cantante moderno c'ha un più
-BOI006	mhmh anche secondo me
-BOR003	più bolognese
-BOI006	invece il tuo posto del cuore di bologna
-BOR003	carino
-BOI006	non so anche solo un bar
-BOR003	mh
-BOI006	a cui sei particolarmente affezionata
+BOI006	però ci sta è cantante moderno c'ha un più
+BOR003	mhmh anche secondo me
+BOI006	più bolognese
+BOR003	invece il tuo posto del cuore di bologna
+BOI006	carino
+BOR003	non so anche solo un bar
+BOI006	mh
+BOR003	a cui sei particolarmente affezionata
 BOI006	mh
 BOI006	eh forse mhh
-BOR003	mangiare un gelato seduti sul gradino di piazza santo stefano
+BOI006	mangiare un gelato seduti sul gradino di piazza santo stefano
 BOR003	ah
-BOI006	lì è bellissimo
+BOR003	lì è bellissimo
 BOI006	perché lì piazza santo stefano mi piace molto
 BOI006	poi c'ha di fianco la mia gelateria preferita
 BOI006	e quindi spesso d'estate col mio ragazzo andiamo
-BOR003	andiamo lì prendiamo il gelato e ci sediamo in piazza santo stefano quindi forse quello sì
+BOI006	andiamo lì prendiamo il gelato e ci sediamo in piazza santo stefano quindi forse quello sì
 BOR003	bello
 BOR003	bellissimo
 BOR003	e in generale bologna
-BOI006	ritieni che sia una bella città in cui vivere
+BOR003	ritieni che sia una bella città in cui vivere
 BOI006	sì sì sì secondo me è una bella città in cui vivere
 BOI006	eh mh
 BOI006	non so
 BOI006	se
-BOR003	effettivamente ci vivrei forse con una famiglia la
-BOI006	okay quindi più per giovani magari
+BOI006	effettivamente ci vivrei forse con una famiglia la
+BOR003	okay quindi più per giovani magari
 BOI006	sì secondo me è una città più per giovani per studenti
 BOI006	perché mh
 BOI006	sì ci sono molte attività
 BOI006	che puoi fare poi sicuramente ci sono cose anche per
 BOI006	per le famiglie chiaramente
-BOR003	però mi sembra un po' più a misura di di giovane
-BOI006	mhmh
-BOR003	che che famiglia
-BOI006	e per esempio i suoi punti forti secondo te quali sono
+BOI006	però mi sembra un po' più a misura di di giovane
+BOR003	mhmh
+BOI006	che che famiglia
+BOR003	e per esempio i suoi punti forti secondo te quali sono
 BOI006	ah i punti forti
 BOI006	sicuramente
 BOI006	mh
-BOR003	la storia cioè l'architettura il il centro storico è proprio pieno di
+BOI006	la storia cioè l'architettura il il centro storico è proprio pieno di
 BOR003	mhmh
-BOI006	
 BOI006	dalle torri
 BOI006	a san petronio
 BOI006	insomma è proprio bella a livello secondo me architettonico
 BOI006	storico
 BOI006	e poi la vita
 BOI006	c'è sempre
-BOR003	un sacco di cose da fare se nel weekend esci è pieno di gente in centro tutti i locali
-BOI006	è vero
+BOI006	un sacco di cose da fare se nel weekend esci è pieno di gente in centro tutti i locali
+BOR003	è vero
 BOI006	e lo senti che arriva è molto vissuta come città
 BOI006	e poi vabbè ci sono concerti stadio cioè ci son tante cose da fare
 BOI006	se se vuoi
-BOR003	se vuoi viverla quindi secondo me queste sono un po'
-BOI006	i mezzi di trasporto anche
+BOI006	se vuoi viverla quindi secondo me queste sono un po'
+BOR003	i mezzi di trasporto anche
 BOI006	e i mezzi di trasporto come dicevo se sei in centro dentro le mura
 BOI006	mh vai in bicicletta vai a piedi o comunque
 BOI006	bene o male
 BOI006	anche l'autobus secondo me funzionano abbastanza bene non mi sembrano
 BOI006	cioè
-BOR003	particolarmente inefficienti
-BOI006	mhmh
+BOI006	particolarmente inefficienti
+BOR003	mhmh
 BOI006	però mh
-BOR003	sì l~ la macchina a bologna non è vivibile
-BOI006	non è vivibile
+BOI006	sì l~ la macchina a bologna non è vivibile
+BOR003	non è vivibile
 BOI006	non è vivibile perché se
-BOR003	ripeto de~ s~ se sei fuori dal centro magari la usi per andare
-BOI006	mhmh
+BOI006	ripeto de~ s~ se sei fuori dal centro magari la usi per andare
+BOR003	mhmh
 BOI006	non so all'ikea
-BOR003	o fuori no
-BOI006	sì
+BOI006	o fuori no
+BOR003	sì
 BOI006	se devi venire in centro
 BOI006	è proprio scomodo perché rip~ ripeto
 BOI006	vedo delle file
 BOI006	per entrare nel parcheggio
-BOR003	cioè quello lì in piazza otto agosto
-BOI006	mhmh
+BOI006	cioè quello lì in piazza otto agosto
+BOR003	mhmh
 BOI006	che tutte le settimane abbastanza
 BOI006	abbastanza lunga quella fila quindi mh
-BOR003	io ho delle amiche che hanno la macchina
-BOI006	mhmh
+BOI006	io ho delle amiche che hanno la macchina
+BOR003	mhmh
 BOI006	perché vivono fuori
 BOI006	però anche loro ad esempio quando devono venire a casa mia
-BOR003	eh
-BOI006	fan più fatica
+BOI006	eh
+BOR003	fan più fatica
 BOI006	fanno più fatica a parcheggiare
 BOI006	poi eh dentro le mura comunque ehm
 BOI006	anche
-BOR003	xx fuori dalle mura è tutto a pagamento il parcheggio
-BOI006	sì e costa anche abbastanza
+BOI006	xx fuori dalle mura è tutto a pagamento il parcheggio
+BOR003	sì e costa anche abbastanza
 BOI006	costa abbastanza quindi
 BOI006	o vedo per le otto di andare dopo dopo le otto puoi entrare in ztl eccetera
-BOR003	però vivere con la macchina a bologna è difficile
-BOI006	mhmh
+BOI006	però vivere con la macchina a bologna è difficile
+BOR003	mhmh
 BOI006	sì
 BOI006	sì infatti
 BOI006	insomma
-BOR003	sì se si vive a bologna secondo me
-BOI006	è magari anche con una famiglia poi diventa un po' più
+BOI006	sì se si vive a bologna secondo me
+BOR003	è magari anche con una famiglia poi diventa un po' più
 BOI006	eh esatto infatti mh
-BOR003	quello che penso anch'io con una famiglia dopo ti devi muovere sempre a piedi sempre
-BOI006	esatto
+BOI006	quello che penso anch'io con una famiglia dopo ti devi muovere sempre a piedi sempre
+BOR003	esatto
 BOI006	cioè metti che devi portare all'asilo devi andare eh
 BOI006	a forlì ad esempio
-BOR003	con la macchina vai ovunque
-BOI006	eh esatto infatti
+BOI006	con la macchina vai ovunque
+BOR003	eh esatto infatti
 BOI006	in piazza c'hai il parcheggio dietro alla piazza cioè
 BOI006	è è totalmente diverso
 BOI006	poi dal lato eh secondo me eh in mh
 BOI006	ambientale sicuramente
-BOR003	è meglio non prendere la macchina
+BOI006	è meglio non prendere la macchina
 BOR003	ah beh
-BOI006	eh sì
+BOR003	eh sì
 BOI006	quindi
-BOR003	però anch'io sono cresciuta a forlì quindi sono stata abituata a prendrere la macchina praticamente sempre
-BOI006	anche io per ogni cosa esatto
+BOI006	però anch'io sono cresciuta a forlì quindi sono stata abituata a prendrere la macchina praticamente sempre
+BOR003	anche io per ogni cosa esatto
 BOI006	infatti quando quando torno a forlì
 BOI006	è strano perché sono talmente abituata a prendere la macchina
 BOI006	che
 BOI006	las~ la distanza che a bologna farei tranquillamente a piedi
-BOR003	a forlì mi vien da fare con la macchina
-BOI006	mhmh
-BOR003	perché dico vabbè devo andare là cioè cosa vado a piedi
-BOI006	no no è vero è vero
+BOI006	a forlì mi vien da fare con la macchina
+BOR003	mhmh
+BOI006	perché dico vabbè devo andare là cioè cosa vado a piedi
+BOR003	no no è vero è vero
 BOI006	ho sempre preso la macchina
-BOR003	e invece a bologna direi vabbè ma son solo dieci quindici minuti a piedi
+BOI006	e invece a bologna direi vabbè ma son solo dieci quindici minuti a piedi
 BOR003	sì sì sì sì
-BOI006	che se ci pensi da un fattore ambientale è proprio
-BOR003	sì
-BOI006	una
+BOR003	che se ci pensi da un fattore ambientale è proprio
+BOI006	sì
+BOR003	una
 BOI006	infatti un po' vorrei poi dopo
 BOI006	non lo faccio però
-BOR003	quando torno a forlì vorrei un po' portarmi dietro questo queste cose
-BOI006	queste co~
-BOR003	questa camminata che mi è
-BOI006	beh dai una bella cosa anche che ti ha lasciato comunque
+BOI006	quando torno a forlì vorrei un po' portarmi dietro questo queste cose
+BOR003	queste co~
+BOI006	questa camminata che mi è
+BOR003	beh dai una bella cosa anche che ti ha lasciato comunque
 BOI006	sì no quello quello sì sicuramente
 BOI006	perché mh
 BOI006	cioè ti rendi conto che alla fine
-BOR003	se ci pensi ora che vai prendi la macchina pe~ trovi il parcheggio
-BOI006	eh
-BOR003	alla fine non è che guadagni chissà quanto tempo
-BOI006	anche secondo me
+BOI006	se ci pensi ora che vai prendi la macchina pe~ trovi il parcheggio
+BOR003	eh
+BOI006	alla fine non è che guadagni chissà quanto tempo
+BOR003	anche secondo me
 BOI006	è proprio la sfatica di
 BOI006	dire vado a piedi però
 BOI006	sì no secondo me
 BOI006	quello è anche il bello di bologna che
-BOR003	cioè cammini cammini tutto il te~
+BOI006	cioè cammini cammini tutto il te~
 BOR003	eh
 BOR003	sembra tutto vicino
-BOI006	sì sì sì
+BOR003	sì sì sì
 BOI006	sembra tutto vicino e ti abitui a camminare
-BOR003	un po' la f~ la cultura della camminata bolognese
+BOI006	un po' la f~ la cultura della camminata bolognese
 BOR003	mhmh è vero
-BOI006	infatti poi c'è anche tutto il percorso di andare su
-BOR003	infatti sì sì sì
+BOR003	infatti poi c'è anche tutto il percorso di andare su
+BOI006	infatti sì sì sì
 BOR003	e invece
-BOI006	gli aspetti più negativi che proprio vorresti cambiare della città
+BOR003	gli aspetti più negativi che proprio vorresti cambiare della città
 BOI006	allora eh
 BOI006	un po' ne abbiam parlato già
 BOI006	eh la la questione
-BOR003	immobiliare a bologna è molto difficile
-BOI006	mhmh sì
+BOI006	immobiliare a bologna è molto difficile
+BOR003	mhmh sì
 BOI006	sia per gli affitti che per le vendite è proprio
 BOI006	infatti devo~
 BOI006	devono fare qualcosa perché non è possibile
 BOI006	continuare così io vedo anche
-BOR003	miei studenti perché io seguo gli studenti internazionali
-BOI006	mhmh
+BOI006	miei studenti perché io seguo gli studenti internazionali
+BOR003	mhmh
 BOI006	vengono a bologna a studiare tutto il corso non solo
 BOI006	per l'erasmus
 BOI006	eh
-BOR003	e loro fanno davvero fatica cioè
-BOI006	a trovare
+BOI006	e loro fanno davvero fatica cioè
+BOR003	a trovare
 BOI006	noi
 BOI006	alcuni
 BOI006	arrivano poi tornano a casa perché non trovano casa
 BOI006	cioè per far capire il livello di
 BOI006	di difficoltà e questo secondo me
 BOI006	sicuramente il comune deve lavorare per
-BOR003	per rendere più accessibile
-BOI006	sì anche secondo me
+BOI006	per rendere più accessibile
+BOR003	sì anche secondo me
 BOI006	l'abitabilità sì non è possibile
 BOI006	ehm
 BOI006	poi è un po'
 BOI006	un po' di lavoro lo farei anche su
-BOR003	sul degrado che ogni tanto c'è in alcune strade
-BOI006	mhmh
+BOI006	sul degrado che ogni tanto c'è in alcune strade
+BOR003	mhmh
 BOI006	sia dal punto di vista del
-BOR003	appunto come dicevo dei graffiti del del
-BOI006	sì
-BOR003	com'è mantenuto
-BOI006	mhmh
+BOI006	appunto come dicevo dei graffiti del del
+BOR003	sì
+BOI006	com'è mantenuto
+BOR003	mhmh
 BOI006	eh come son mantenuti i palazzi i portici si può si può migliorare sicuramente
 BOI006	da quel punto di vista
 BOI006	cioè a~ ripeto molta gente
-BOR003	per strada anche
-BOI006	mhmh
+BOI006	per strada anche
+BOR003	mhmh
 BOI006	mh barboni banalmente
-BOR003	forse neanche chiedono l'elemosina
-BOI006	esatto che
+BOI006	forse neanche chiedono l'elemosina
+BOR003	esatto che
 BOI006	eh sì ho capito che è difficile trovare
-BOR003	un modo per ridurli però
-BOI006	xxx
+BOI006	un modo per ridurli però
+BOR003	xxx
 BOI006	quello sicuramente
-BOR003	secondo me è una delle cose su cui si può lavorare a bologna
+BOI006	secondo me è una delle cose su cui si può lavorare a bologna
 BOR003	e a livello di sicurezza
-BOI006	ti senti sicura per esempio in città o
+BOR003	ti senti sicura per esempio in città o
 BOI006	mh sì non mi sono mai sentita proprio
-BOR003	mh in pericolo diciamo
-BOI006	mhmh
+BOI006	mh in pericolo diciamo
+BOR003	mhmh
 BOI006	chiaro che se sei da solo è una cert'ora
 BOI006	eviti magari qualche strada
 BOI006	fai fai delle strade in cui c'è più
 BOI006	più gente o
 BOI006	perché ripeto
-BOR003	capita magari che incontri quello ubriaco capita che incontri quello che mh
+BOI006	capita magari che incontri quello ubriaco capita che incontri quello che mh
 BOR003	esatto
 BOR003	e ci sono delle zone secondo te in cui proprio
 BOR003	eh mh uno si sente
-BOI006	meno sicuro che dice ah meglio non passare
+BOR003	meno sicuro che dice ah meglio non passare
 BOI006	mh
 BOI006	eh
 BOI006	diciamo che
 BOI006	eh ad esempio su via zamboni a volte la sera tardi
 BOI006	o mh
 BOI006	alcune vie vie traverse di via zamboni
-BOR003	potre~ potresti incontrare
-BOI006	mhmh
+BOI006	potre~ potresti incontrare
+BOR003	mhmh
 BOI006	gente ubriaca o di questo genere
 BOI006	poi io ti dico la verità non è che frequento particolarmente
-BOR003	faccio se~ serate
-BOI006	mhmh
-BOR003	particolarmente pazze fino a ore pazze
-BOI006	
+BOI006	faccio se~ serate
+BOR003	mhmh
+BOI006	particolarmente pazze fino a ore pazze
 BOI006	e quindi non non sono neanche troppo
-BOR003	informata su quali siano esattamente le zone pericolose
-BOI006	sì di
+BOI006	informata su quali siano esattamente le zone pericolose
+BOR003	sì di
 BOI006	però io tene~
-BOR003	tenderei a prendere strade più grandi
-BOI006	mhmh
-BOR003	via via irnerio o
-BOI006	dove c'è più gente
+BOI006	tenderei a prendere strade più grandi
+BOR003	mhmh
+BOI006	via via irnerio o
+BOR003	dove c'è più gente
 BOI006	dove c'è più gente esatto sì anche via indipendenza piuttosto che magari tagliare la strada più veloce
-BOR003	faccio quelle un po' più grandi ecco
+BOI006	faccio quelle un po' più grandi ecco
 BOR003	mhmh
-BOI006	sì per essere
+BOR003	sì per essere
 BOI006	se son da sola
-BOR003	se sono in compagnia faccio qualsiasi strada insomma
+BOI006	se sono in compagnia faccio qualsiasi strada insomma
 BOR003	mhmh
-BOI006	e qui~ di solito è più la sera di giorno mi sembra più
+BOR003	e qui~ di solito è più la sera di giorno mi sembra più
 BOI006	però
-BOR003	sì no di giorno mh non ho nessun problema ecco andare in qualsiasi strada
-BOI006	poi ci sono anche molti turisti quindi
+BOI006	sì no di giorno mh non ho nessun problema ecco andare in qualsiasi strada
+BOR003	poi ci sono anche molti turisti quindi
 BOI006	sì adesso stanno tornando
 BOI006	mh dopo in co~ eh durante il covid ovviamente
-BOR003	erano spariti però adesso ce ne sono parecchi in centro
-BOI006	comunque dai bologna è abbastanza cioè attrae secondo me molto
+BOI006	erano spariti però adesso ce ne sono parecchi in centro
+BOR003	comunque dai bologna è abbastanza cioè attrae secondo me molto
 BOI006	sì sì no
-BOR003	mh devo dire che secondo me negli ultimi anni è aumentato molto il turismo secondo me
-BOI006	mhmh
+BOI006	mh devo dire che secondo me negli ultimi anni è aumentato molto il turismo secondo me
+BOR003	mhmh
 BOI006	perché mh da quando ci siam trasferiti ho notato proprio
 BOI006	molte persone per strada che parlavano
-BOR003	inglese insomma altre lingue
-BOI006	sì sì
+BOI006	inglese insomma altre lingue
+BOR003	sì sì
 BOI006	xx infatti il fatto che è aumentato il turismo
-BOR003	ha impattato molto anche xx gli affitti
+BOI006	ha impattato molto anche xx gli affitti
 BOR003	eh può essere
-BOI006	è vero è vero
+BOR003	è vero è vero
 BOI006	perché dicevano che molte persone molti
 BOI006	proprietari hanno messo le case su airbb
-BOR003	per per il turismo
-BOI006	mhmh
+BOI006	per per il turismo
+BOR003	mhmh
 BOI006	e tutte queste case sono state tolte dal mercato
-BOR003	della gente che ci deve vivere insomma
-BOI006	mhmh è vero
+BOI006	della gente che ci deve vivere insomma
+BOR003	mhmh è vero
 BOI006	quindi sicuramente il turismo ha influito anche su questo
 BOI006	questa cosa qua
 BOI006	però
-BOR003	capisco anche che vogliano
-BOI006	eh sì xxxx sì sì sì
-BOR003	cercare in primo
-BOI006	e
-BOR003	però
+BOI006	capisco anche che vogliano
+BOR003	eh sì xxxx sì sì sì
+BOI006	cercare in primo
+BOR003	e
+BOI006	però
 BOR003	e invece per quanto riguarda il lavoro
 BOR003	pensi che si un buon posto in cui lavorare
-BOI006	cioè sì secondo te si trova lavoro o
+BOR003	cioè sì secondo te si trova lavoro o
 BOI006	ehm
-BOR003	ah okay come sì no a bologna sicuramente
-BOI006	mhmh
+BOI006	ah okay come sì no a bologna sicuramente
+BOR003	mhmh
 BOI006	secondo me
 BOI006	ha molte opportunità lavorative
 BOI006	mh
 BOI006	rispetto a mh ad esempio forlì
-BOR003	adesso prendiamo forlì come riferimento però
-BOI006	mhmh
+BOI006	adesso prendiamo forlì come riferimento però
+BOR003	mhmh
 BOI006	c'è sicuramente molta più offerta lavorativa su bologna perché
 BOI006	un po' ehm ci sono molte industrie poi dipende uno che cosa fa
 BOI006	però
 BOI006	c'è
 BOI006	c'è sia l'industria è la regione poi della motor valley
-BOR003	si ci sono tutte le aziende dei motori
-BOI006	mh sì sì sì sì
+BOI006	si ci sono tutte le aziende dei motori
+BOR003	mh sì sì sì sì
 BOI006	in quella zona lì poi anche più verso modena in realtà
 BOI006	però
 BOI006	ehm
-BOR003	secondo me c'è un po' di tutto comunque anche a livello umanistico qualcosa si si trova a bologna
-BOI006	mhmh
-BOR003	eh io poi ho trovato lavoro tramite un concorso quindi
-BOI006	ah okay mhmh
+BOI006	secondo me c'è un po' di tutto comunque anche a livello umanistico qualcosa si si trova a bologna
+BOR003	mhmh
+BOI006	eh io poi ho trovato lavoro tramite un concorso quindi
+BOR003	ah okay mhmh
 BOI006	mh quello magari
 BOI006	è diverso però anche nel pubblico
-BOR003	probabilmente a bologna c'è molto di più rispetto
-BOI006	magari più posti
+BOI006	probabilmente a bologna c'è molto di più rispetto
+BOR003	magari più posti
 BOI006	sì esatto poi l'università di bologna
 BOI006	mh ha cioè diciamo che
-BOR003	porta tanto lavoro in tanti modi
-BOI006	mhmh
+BOI006	porta tanto lavoro in tanti modi
+BOR003	mhmh
 BOI006	secondo me
 BOI006	e quindi sì sicuramente
 BOI006	ci sono buone opportunità secondo me a bologna
-BOR003	in tutta la regione penso che sia la città in cui
-BOI006	mhmh
-BOR003	in cui si trova più lavoro
-BOI006	meglio
-BOR003	sì
-BOI006	e quindi tu di cosa ti occupi a
+BOI006	in tutta la regione penso che sia la città in cui
+BOR003	mhmh
+BOI006	in cui si trova più lavoro
+BOR003	meglio
+BOI006	sì
+BOR003	e quindi tu di cosa ti occupi a
 BOI006	allora io eh lavoro nell'ufficio
 BOI006	eh @nomeluogo dell'università di bologna
 BOI006	in particolare
 BOI006	in uf~ in un ufficio che si chiama @nomeluogo,
 BOI006	che si occupa di dare supporto
-BOR003	e orientamento agli studenti internazionali che vengono a iscriversi all'università di bologna
-BOI006	mhmh
+BOI006	e orientamento agli studenti internazionali che vengono a iscriversi all'università di bologna
+BOR003	mhmh
 BOI006	quindi che fanno l'intero percorso triennale magistrale
 BOI006	e principalmente diamo supporto per
 BOI006	ehm
 BOI006	o~ o~ mh orientamento sul processo proprio d'iscrizione
 BOI006	cosa fare
 BOI006	da dove partire ma
-BOR003	poi nel dettaglio in particolare sulle questioni che riguardano l'immigrazione
-BOI006	ah mhmh
-BOR003	quindi su come ottenere un visto
-BOI006	che bello
+BOI006	poi nel dettaglio in particolare sulle questioni che riguardano l'immigrazione
+BOR003	ah mhmh
+BOI006	quindi su come ottenere un visto
+BOR003	che bello
 BOI006	come fare il permesso di soggiorno
 BOI006	eh diamo informazioni sui titoli esteri
 BOI006	cosa
 BOI006	che documenti devono presentare per iscriversi con un titolo di studio estero
 BOI006	e insomma queste cose queste cose qui principalmente
-BOR003	ehm
-BOI006	hai sempre fatto questo lavoro oppure
+BOI006	ehm
+BOR003	hai sempre fatto questo lavoro oppure
 BOI006	allora dopo la laurea
 BOI006	io mi son laureata nel duemiladiciassette
 BOI006	ho fatto eh sei mesi in un azienda
 BOI006	ehm che faceva mh
-BOR003	tende frangisole
-BOI006	mhmh
+BOI006	tende frangisole
+BOR003	mhmh
 BOI006	eh come commerciale estero
 BOI006	tipo
 BOI006	però mh non mi è pia~ non mi piaceva
 BOI006	mh in particolare l'ambiente anche il lavoro in sè
-BOR003	mh non mi faceva impazzire ma poi l'ambiente mh non era
-BOI006	mhmh
-BOR003	particolarmente salutare
-BOI006	
-BOR003	e quindi quando è finito questo tirocinio di sei mesi poi dopo non ho
-BOI006	hai abbandonato
+BOI006	mh non mi faceva impazzire ma poi l'ambiente mh non era
+BOR003	mhmh
+BOI006	particolarmente salutare
+BOI006	e quindi quando è finito questo tirocinio di sei mesi poi dopo non ho
+BOR003	hai abbandonato
 BOI006	non ho abbandonato
 BOI006	eh
-BOR003	poi ho avuto un momento in cui dicevo cosa faccio della mia vita
-BOI006	
+BOI006	poi ho avuto un momento in cui dicevo cosa faccio della mia vita
 BOI006	questo classico momento che prima o poi arriva
 BOI006	ehm
 BOI006	ho fatto ho iniziato facendo un tutorato
@@ -814,133 +806,128 @@ BOI006	perché premessa
 BOI006	durante la magistrale
 BOI006	ho fatto
 BOI006	eh un tutorato
-BOR003	nell'ufficio relazioni internazionali dove adesso lavoro
-BOI006	mhmh
+BOI006	nell'ufficio relazioni internazionali dove adesso lavoro
+BOR003	mhmh
 BOI006	son dei dei lavori che posson fare gli studenti tot ore
 BOI006	e e quindi
 BOI006	siccome mi era piaciuta quell'esperienza che avevo fatto lì avevo detto eh proviamo
 BOI006	a tornare a fare qualcosa all'università
 BOI006	quindi ho fatto questo mh
-BOR003	tutorato da laureata a quel punto
-BOI006	mhmh
+BOI006	tutorato da laureata a quel punto
+BOR003	mhmh
 BOI006	mentre stavo facendo questo è uscito un concorso
 BOI006	specifico per le relazioni internazionali
 BOI006	eh
-BOR003	e quindi l'ho fatto e son stata presa e dopo ho lasciato il tutorato e ho iniziato a fare
-BOI006	mhmh ah che bello
+BOI006	e quindi l'ho fatto e son stata presa e dopo ho lasciato il tutorato e ho iniziato a fare
+BOR003	mhmh ah che bello
 BOI006	per fare quello poi
 BOI006	ho fatto vari concorsi perché
 BOI006	il primo che ho vinto era un concorso determinato
 BOI006	poi l'anno dopo ne ho fatto uno indeterminato
-BOR003	di una categoria un po' inferiore però indeterminato
+BOI006	di una categoria un po' inferiore però indeterminato
 BOR003	mhmh
-BOI006	è che
-BOR003	non si butta via
-BOI006	
+BOR003	è che
+BOI006	non si butta via
 BOI006	e quindi ho fatto quello
 BOI006	poi l'anno dopo ancora ne ho fatto un altro
-BOR003	sempre indeterminato però del livello superiore
-BOI006	mhmh
+BOI006	sempre indeterminato però del livello superiore
+BOR003	mhmh
 BOI006	e questo è stato
 BOI006	l'anno scorso
 BOI006	sì l'anno scorso
-BOR003	quindi adesso basta non voglio più fare concorsi per tutta la mia vita
+BOI006	quindi adesso basta non voglio più fare concorsi per tutta la mia vita
 BOR003	e quindi
-BOI006	pensi che questo sia il lavoro
-BOR003	ah sì
-BOI006	della vita
+BOR003	pensi che questo sia il lavoro
+BOI006	ah sì
+BOR003	della vita
 BOI006	sì
 BOI006	cioè
 BOI006	oddio
-BOR003	non si sa mai nella vita eh
-BOI006	no no ovvio sì sì
+BOI006	non si sa mai nella vita eh
+BOR003	no no ovvio sì sì
 BOI006	però io penso che non
 BOI006	non lascerò unibo
 BOI006	quello che può succedere secondo me è che magari cambio
-BOR003	eh posizione all'interno di unibo
-BOI006	mhmh
+BOI006	eh posizione all'interno di unibo
+BOR003	mhmh
 BOI006	cambio o ufficio o
 BOI006	area perché spesso mh
 BOI006	magari uno dopo un tot di anni dice voglio cambiare un po' lavoro
 BOI006	e fare qualcosa di un po' diverso
 BOI006	chiede un trasferimento
-BOR003	a un altro ufficio a un altro campus anche a forlì potenzialmente
-BOI006	mhmh
+BOI006	a un altro ufficio a un altro campus anche a forlì potenzialmente
+BOR003	mhmh
 BOI006	e quindi questo sicuramente
 BOI006	secondo me succederà
-BOR003	però mi trovo bene
-BOI006	come ambiente comunque
+BOI006	però mi trovo bene
+BOR003	come ambiente comunque
 BOI006	per me
 BOI006	sì sì sicurame~
-BOR003	allora i miei colleghi mi trovo benissimo questo
-BOI006	mhmh
-BOR003	è una grande parte secondo me del lavoro
-BOI006	sì anche secondo me
+BOI006	allora i miei colleghi mi trovo benissimo questo
+BOR003	mhmh
+BOI006	è una grande parte secondo me del lavoro
+BOR003	sì anche secondo me
 BOI006	perché a volte dici ah ti piace il lavoro non ti piace il lavoro
-BOI006	
 BOI006	il il lavoro in sè secondo me
 BOI006	conta ma
-BOR003	non tanto quanto conta
-BOI006	l'ambiente
-BOR003	l'ambiente e le persone con cui lavori ho ho capito questa cosa qui
+BOI006	non tanto quanto conta
+BOR003	l'ambiente
+BOI006	l'ambiente e le persone con cui lavori ho ho capito questa cosa qui
 BOR003	anche secondo me
-BOI006	è vero è vero
+BOR003	è vero è vero
 BOI006	perché a volte
 BOI006	dici il lavoro della vita che hai sempre voluto fare infatti non avevo un lavoro che vole~
-BOR003	ho sempre voluto fare
-BOI006	mhmh
+BOI006	ho sempre voluto fare
+BOR003	mhmh
 BOI006	però
 BOI006	eh dici il lavoro è perfetto
-BOR003	però poi stai male perché hai delle persone
-BOI006	sì mhmh
-BOR003	cioè
-BOI006	con cui non ti trovi
+BOI006	però poi stai male perché hai delle persone
+BOR003	sì mhmh
+BOI006	cioè
+BOR003	con cui non ti trovi
 BOI006	con cui non ti trovi oche
-BOR003	sono proprio
-BOI006	che alla fine devi vedere tutti i giorni quindi
+BOI006	sono proprio
+BOR003	che alla fine devi vedere tutti i giorni quindi
 BOI006	esatto esatto
 BOI006	quindi io mi trovo bene con i miei colleghi il lavoro comunque mi piace
-BOR003	quindi per ora io finché non mi mandano via
-BOI006	rimango
+BOI006	quindi per ora io finché non mi mandano via
+BOR003	rimango
 BOI006	sempre cioè poi eh
 BOI006	chiaro che
-BOR003	le cose cambiano negli anni però
-BOI006	sì sì sì sì
-BOR003	per ora sono felice così
+BOI006	le cose cambiano negli anni però
+BOR003	sì sì sì sì
+BOI006	per ora sono felice così
 BOR003	e per quanto riguarda la tua laurea
-BOI006	comunque quindi ti è servita
+BOR003	comunque quindi ti è servita
 BOI006	sì sì no io
 BOI006	volevo fare qualcosa il mio unico
 BOI006	mh obiettivo era fare qualcosa in cui potessi usare le lingue
-BOR003	perché se no dico
-BOI006	quali hai studiato tu
-BOR003	io ho fatto inglese e spagnolo
-BOI006	mhmh
+BOI006	perché se no dico
+BOR003	quali hai studiato tu
+BOI006	io ho fatto inglese e spagnolo
+BOR003	mhmh
 BOI006	eh lo spagnolo ti dico la verità non lo uso tanto
-BOR003	o raramente quando viene qualche studente a sportello che
-BOI006	okay
-BOI006	
+BOI006	o raramente quando viene qualche studente a sportello che
+BOR003	okay
 BOI006	provi a parlare in inglese
 BOI006	e non capisce provi a parlare italiano e non capisce
-BOR003	senti che parla spagnolo allora tu dici parliamo spagnolo
-BOI006	eh proviamo
+BOI006	senti che parla spagnolo allora tu dici parliamo spagnolo
+BOR003	eh proviamo
 BOI006	però sì
-BOR003	tendenzialmente comunque uso tutti i giorni l'inglese
-BOI006	mhmh
+BOI006	tendenzialmente comunque uso tutti i giorni l'inglese
+BOR003	mhmh
 BOI006	perché scri~ scrivo tutti i giorni in inglese
 BOI006	parlo tutti i giorni in inglese con loro
 BOI006	eh quindi questo sono molto contenta poi
-BOR003	non so il mi~ il mio inglese probabilmente sta regredendo perché
-BOI006	
-BOR003	a forza di parlare con studenti stranieri che comunque non sono madrelingua
+BOI006	non so il mi~ il mio inglese probabilmente sta regredendo perché
+BOI006	a forza di parlare con studenti stranieri che comunque non sono madrelingua
 BOR003	sì
 BOR003	sì sì
-BOI006	non usi l'accento
+BOR003	non usi l'accento
 BOI006	eh
 BOI006	hanno degli accenti tutti strani tra gli indiani
-BOR003	iafmam iafmam e
-BOR003	
-BOI006	è vero
+BOI006	iafmam iafmam e
+BOR003	è vero
 BOI006	quindi un po' ehm
 BOI006	ce~ cerchi di farti capire quindi scandisci bene e però
 BOI006	mh il mio accento probabilmente
@@ -948,147 +935,143 @@ BOI006	è un attimo
 BOI006	è un attimo andato per se~
 BOI006	però sì no son contenta perché riesco a usare dai quello che
 BOI006	poi tutti gli esami di letteratura che ho fatto
-BOR003	mh non son serviti a niente chiaramente
-BOI006	non sono no
-BOR003	però fa lo stesso nel senso
-BOI006	è comunque una cosa che ti piace quindi
+BOI006	mh non son serviti a niente chiaramente
+BOR003	non sono no
+BOI006	però fa lo stesso nel senso
+BOR003	è comunque una cosa che ti piace quindi
 BOI006	sì sì esatto a me piace
 BOI006	parlare in inglese
 BOI006	cioè il mio obiettivo era quello
-BOR003	cioè usare l'inglese tutti i giorni
-BOI006	mhmh
+BOI006	cioè usare l'inglese tutti i giorni
+BOR003	mhmh
 BOI006	t~ tenerlo
-BOR003	chiaramente fresco perché sì se l'inglese non lo parli
-BOI006	vivo mhmh
-BOR003	dopo un po' lo sai anche te
-BOI006	sì sì sì sì
-BOR003	stai molto tempo senza parlarlo sì lo sai però
-BOI006	si arrugginisce
-BOR003	ti senti sempre arrugginita ti senti sempre oddio ma non so più parlare
-BOI006	è vero è vero
-BOR003	e quindi
-BOI006	non è più così automatico
+BOI006	chiaramente fresco perché sì se l'inglese non lo parli
+BOR003	vivo mhmh
+BOI006	dopo un po' lo sai anche te
+BOR003	sì sì sì sì
+BOI006	stai molto tempo senza parlarlo sì lo sai però
+BOR003	si arrugginisce
+BOI006	ti senti sempre arrugginita ti senti sempre oddio ma non so più parlare
+BOR003	è vero è vero
+BOI006	e quindi
+BOR003	non è più così automatico
 BOI006	questo
 BOI006	esatto questo mi permette di avere sempre quella mh
-BOR003	sicurezza di parlare in inglese in qualsiasi momento
+BOI006	sicurezza di parlare in inglese in qualsiasi momento
 BOR003	e quindi poi trasferendoti se ti trasferirai
-BOI006	dovrai fare da pendolare
+BOR003	dovrai fare da pendolare
 BOI006	sì se tornerò a forlì ehm
 BOI006	quando tornerò a forlì perché
 BOI006	abbiamo deciso insomma di tornare a forlì prima o poi
 BOI006	farò da pendolare mh su bologna ma
 BOI006	ho recentemente firmato un contratto di telelavoro
 BOI006	perché adesso con eh
-BOR003	dopo il covid hanno dato la posssibilità di fare
-BOI006	mhmh
+BOI006	dopo il covid hanno dato la posssibilità di fare
+BOR003	mhmh
 BOI006	i contratti di telelavoro
 BOI006	e mh
 BOI006	sto contatto contratto prevede
-BOR003	che due giorni a settimana io posso lavorare da casa
-BOI006	ah okay okay
-BOR003	quindi almeno
-BOI006	sì
+BOI006	che due giorni a settimana io posso lavorare da casa
+BOR003	ah okay okay
+BOI006	quindi almeno
+BOR003	sì
 BOI006	se devo andare su tre volte invece che due
 BOI006	è più fattibile
 BOI006	secondo me poi nel futuro magari posso anche
 BOI006	ricontrattare
-BOR003	eh chiedere almeno tre giorni a casa due in presenza
-BOI006	mhmh sì sì
+BOI006	eh chiedere almeno tre giorni a casa due in presenza
+BOR003	mhmh sì sì
 BOI006	quindi penso sia fattibile ecco poi il mio ragazzo
 BOI006	lavora a forlì
 BOI006	e lavora a scuola quindi
-BOR003	tutte le mattine dalle otto
-BOI006	ah quindi
-BOR003	è un po' più difficile
-BOI006	quindi lui fa il pendolare a attualmente
-BOR003	adesso fa il pendolare sì
-BOI006	mhmh
+BOI006	tutte le mattine dalle otto
+BOR003	ah quindi
+BOI006	è un po' più difficile
+BOR003	quindi lui fa il pendolare a attualmente
+BOI006	adesso fa il pendolare sì
+BOR003	mhmh
 BOI006	prende il treno a bologna alle sei e mezza
-BOR003	poveretto
-BOI006	tutti i giorni
+BOI006	poveretto
+BOR003	tutti i giorni
 BOI006	sì
 BOI006	sì sì infatti
-BOR003	non so quanto reggerà ancora speriamo
-BOR003	
-BOI006	no dai però almeno
-BOR003	xxx
-BOI006	sì sì no se riesci a fare anche modalità
+BOI006	non so quanto reggerà ancora speriamo
+BOR003	no dai però almeno
+BOI006	xxx
+BOR003	sì sì no se riesci a fare anche modalità
 BOI006	sì adesso secondo me molti
-BOR003	non solo il pubblico ma anche molte aziende hanno aperto un sacco allo smart working al telelavoro
-BOI006	sì
+BOI006	non solo il pubblico ma anche molte aziende hanno aperto un sacco allo smart working al telelavoro
+BOR003	sì
 BOI006	dopo il covid
-BOR003	è un gran plas~
-BOI006	anche solo in vista di possibili chiusure tanto
+BOI006	è un gran plas~
+BOR003	anche solo in vista di possibili chiusure tanto
 BOI006	sì esatto esatto
 BOI006	adesso quando ci son prorpio chiusure
 BOI006	ad esempio l'università
 BOI006	eh permette a tutti di fare mh
 BOI006	si chiama lavoro mh
-BOR003	eh agile emergenziale
-BOI006	mhmh
+BOI006	eh agile emergenziale
+BOR003	mhmh
 BOI006	e lo fanno fare a tutti adesso da
 BOI006	due settimane a questa parte
 BOI006	tutti quelli che
-BOR003	non avevano un contratto di telelavoro non avevano chiesto di fare il telelavoro
-BOI006	mhmh
-BOR003	son tornati al cento per cento in presenza
-BOI006	ah okay
+BOI006	non avevano un contratto di telelavoro non avevano chiesto di fare il telelavoro
+BOR003	mhmh
+BOI006	son tornati al cento per cento in presenza
+BOR003	ah okay
 BOI006	adesso
 BOI006	quindi noi sai io e i miei colleghi siamo stati lungimiranti
-BOR003	avevamo chiesto questo
-BOI006	no no infatti avete fatto bene
+BOI006	avevamo chiesto questo
+BOR003	no no infatti avete fatto bene
 BOI006	questo contratto
-BOR003	e quindi possiamo stare due giorni a casa
-BOI006	invece col covid era proprio tutto
-BOR003	tutti potevano stare a casa quanto volevano fondamentalmente
+BOI006	e quindi possiamo stare due giorni a casa
+BOR003	invece col covid era proprio tutto
+BOI006	tutti potevano stare a casa quanto volevano fondamentalmente
 BOR003	e meglio
-BOI006	ritornare in presenza o
+BOR003	ritornare in presenza o
 BOI006	ehm secondo me
 BOI006	quest~ questa modalità che stiamo facendo adesso cioè a metà
 BOI006	metà a casa diciamo metà al lavoro
 BOI006	è l'ideale
 BOI006	perché
 BOI006	ti dà quella flessibilità
-BOR003	se lunedì mattina vuoi lavorar da casa
+BOI006	se lunedì mattina vuoi lavorar da casa
 BOR003	sì
-BOI006	perché comunque puoi scegliere te quali giorni o
+BOR003	perché comunque puoi scegliere te quali giorni o
 BOI006	eh dipende dal tuo contratto però sì insomma noi abbiamo deciso che
 BOI006	un giorno tra
 BOI006	due giorni tra lunedì mercoledì e venerdì possiamo stare a casa
 BOI006	quindi anche in base a come
-BOR003	sia dopo la settimana puoi scegliere di stare a casa lunedì o venerdì eccetera
-BOI006	sì sì sì esatto
-BOR003	e è molto comodo comunque sai lunedì fai due lavatrici intanto che
+BOI006	sia dopo la settimana puoi scegliere di stare a casa lunedì o venerdì eccetera
+BOR003	sì sì sì esatto
+BOI006	e è molto comodo comunque sai lunedì fai due lavatrici intanto che
 BOR003	mhmh
-BOI006	esatto
-BOR003	
-BOI006	esatto
-BOR003	banalmente
-BOI006	no no è vero
+BOR003	esatto
+BOR003	esatto
+BOI006	banalmente
+BOR003	no no è vero
 BOI006	però sì sì no
 BOI006	è è una buona opportunità secondo me
 BOI006	far fare almeno due giorni
-BOR003	non non tutto a casa perché tutto a casa dopo diventa un po' alienante
-BOI006	sì ti estranei anche dal mondo
+BOI006	non non tutto a casa perché tutto a casa dopo diventa un po' alienante
+BOR003	sì ti estranei anche dal mondo
 BOI006	sì poi non
 BOI006	non sei più mh
-BOR003	in contatto con i tuoi colleghi com'eri prima
-BOI006	è vero
+BOI006	in contatto con i tuoi colleghi com'eri prima
+BOR003	è vero
 BOI006	perché sì va bene li vedi online videochiamate eccetera
 BOI006	però la presenza è diverso
 BOI006	cioè quando devi fare delle chiacchere banalmente
-BOR003	non fanno a colpo far delle chiacchere
+BOI006	non fanno a colpo far delle chiacchere
 BOR003	sì
-BOI006	che hanno molto
-BOR003	
-BOI006	perdi anche il rapporto
+BOR003	che hanno molto
+BOR003	perdi anche il rapporto
 BOI006	esatto perdi un po' di quella
-BOR003	complicità con i colleghi secondo me che
+BOI006	complicità con i colleghi secondo me che
 BOR003	mhmh
-BOI006	no è vero
-BOR003	è importante per fare fare gruppo mh
-BOI006	perfetto allora ti ringrazio tantissimo
-BOR003	
-BOI006	posso
-BOR003	abbiam finito
+BOR003	no è vero
+BOI006	è importante per fare fare gruppo mh
+BOR003	perfetto allora ti ringrazio tantissimo
+BOR003	posso
+BOI006	abbiam finito
 BOR003	sì

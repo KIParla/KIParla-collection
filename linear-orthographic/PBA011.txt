@@ -1,40 +1,37 @@
-BOI070	in che zona di bologna vivete
-BOI071	allora io san vitale
-BOR021	anch'io zona vicino a porta san vitale
-BOI070	avete sempre vissuto lì
-BOI071	sì
-BOR021	xxx
-BOI070	da quanto più o meno
-BOI070	eh allora io
-BOR021	sono nato a imola
-BOI070	mhmh
-BOI070	quindi di base mi sono trasferito che ero ancora piccolo
-BOR021	però sì sono sempre stato in zona san vitale quindi mh li ho fatti là i ventun anni
-BOI070	ah okay quindi è la zona che conosci meglio
+BOR021	in che zona di bologna vivete
+BOI070	allora io san vitale
+BOI071	anch'io zona vicino a porta san vitale
+BOR021	avete sempre vissuto lì
 BOI070	sì
-BOR021	esatto
-BOI071	tu invece
-BOI071	
+BOI071	xxx
+BOR021	da quanto più o meno
+BOI070	eh allora io
+BOI070	sono nato a imola
+BOR021	mhmh
+BOI070	quindi di base mi sono trasferito che ero ancora piccolo
+BOI070	però sì sono sempre stato in zona san vitale quindi mh li ho fatti là i ventun anni
+BOR021	ah okay quindi è la zona che conosci meglio
+BOI070	sì
+BOI070	esatto
+BOR021	tu invece
 BOI071	eh io
-BOR021	abito qui xxxxx dieci anni prima abitavo a cento
-BOI071	mhmh
+BOI071	abito qui xxxxx dieci anni prima abitavo a cento
+BOR021	mhmh
 BOI071	una piccola cittadina
 BOI071	fuori bologna non troppo
 BOI071	e
-BOR021	e niente
-BOI071	che è vicino ferrara
-BOR021	sì esatto è vicino a ferrara
+BOI071	e niente
+BOR021	che è vicino ferrara
+BOI071	sì esatto è vicino a ferrara
 BOR021	mh
-BOI070	vi piace la vostra zona
-BOR021	sì
-BOI071	a te
-BOR021	abbastanza dai
-BOI070	perché
+BOR021	vi piace la vostra zona
+BOI070	sì
+BOR021	a te
+BOI071	abbastanza dai
+BOR021	perché
 BOI070	eh è una zona in cui comunque sei cresciuto e quindi
-BOI070	
-BOR021	diciamo che mi ha dato xxxxxx però
-BOI071	
-BOI070	perché ridi
+BOI070	diciamo che mi ha dato xxxxxx però
+BOI071	perché ridi
 BOI070	vedo perché
 BOI070	che dire cioè nel senso quando cresci in una zona dove
 BOI070	appunto mh
@@ -42,10 +39,10 @@ BOI070	ti vedi sì scusate il gioco di parole ma magari ti vedi crescere
 BOI070	come persona
 BOI070	comunque ti piace lo stesso perché è una zona in cui
 BOI070	hai magari fondato
-BOR021	hai creato delle basi
-BOI070	certo
-BOR021	di personalità
-BOI070	poi ti rispecchia anche magari
+BOI070	hai creato delle basi
+BOR021	certo
+BOI070	di personalità
+BOR021	poi ti rispecchia anche magari
 BOI070	adulta
 BOI070	sì
 BOI070	in un certo senso si può anche dire perché
@@ -60,33 +57,33 @@ BOI070	però non ci farei tutta la mia vita intera ecco
 BOI070	chiaramente
 BOI070	arriva un
 BOI070	a un'età nella vita dove comunque cerchi qualcosa di nuovo cerchi una zona nuova un posto nuovo
-BOR021	noi parliamo molto in questo modo qua a zona
-BOI070	è vero
-BOR021	così perché
-BOI070	quartiere
+BOI070	noi parliamo molto in questo modo qua a zona
+BOR021	è vero
+BOI070	così perché
+BOR021	quartiere
 BOI070	appunto
 BOI070	esatto quartiere che
 BOI070	noi di bologna essendo di bologna appunto usiamo molto zona
 BOI070	e
 BOI070	anche perché comunque
-BOR021	bologna non è piccolissima la città
-BOI070	xxxx
+BOI070	bologna non è piccolissima la città
+BOR021	xxxx
 BOI070	media in un certo senso non è come neanche milano
 BOI070	però comunque è piccolina
 BOI070	e noi tra tra noi bolognesi tra persone che magari vengono da altre zone perché c'è zona san vitale
 BOI070	zona san donato mh
 BOI070	zona mazzini
 BOI070	eh zona san lazzaro che comunque non è molto
-BOR021	eh diffusa zona san lazzaro in un certo senso cioè
-BOI070	mhmh
+BOI070	eh diffusa zona san lazzaro in un certo senso cioè
+BOR021	mhmh
 BOI070	più si dice più san lazzo o sanna
 BOI070	sanna che sarebbe san la sanla sarebbe
 BOI070	quindi
-BOR021	è un po' diffusa la parola zona che mh la parola xxx del quartiere no
-BOI070	quindi vorresti fare più esperienza poi fuori
+BOI070	è un po' diffusa la parola zona che mh la parola xxx del quartiere no
+BOR021	quindi vorresti fare più esperienza poi fuori
 BOI070	beh si quando cresci in un quartiere di una zona appunto
-BOR021	la parola in se' ti comunica poi questa cosa perché nessuno la xxx
-BOI070	certo è vero
+BOI070	la parola in se' ti comunica poi questa cosa perché nessuno la xxx
+BOR021	certo è vero
 BOI070	cioè zona ehm
 BOI070	è come dire zona ics zona quella
 BOI070	no
@@ -103,7 +100,6 @@ BOI070	all'inizio magari quando cresci
 BOI070	eh
 BOI070	inizi a cercare le altre zone inizi a vedere le altre zone come sono
 BOI070	ad esempio io quando stavo in zona san vitale
-BOI070	
 BOI070	e ancora adesso ci vivo
 BOI070	comunque
 BOI070	so~ mh le prime
@@ -113,21 +109,21 @@ BOI070	ho iniziato a visitare zona mazzini
 BOI070	eh zona
 BOI070	san donato poi col tempo inizia andare verso il centro storico
 BOI070	inizia comunque a vedere sempre di più di bologna
-BOR021	però i primi anni di quando avevo quattordici anni così quindici anni
-BOI070	beh certo
+BOI070	però i primi anni di quando avevo quattordici anni così quindici anni
+BOR021	beh certo
 BOI070	giravo le zone perché ero curioso
 BOI070	poi sai eh arrivavano nuove persone da altr~ da altri quartieri
 BOI070	eh e quindi magari
 BOI070	mh vai a fare un giretto con loro nei nel loro quartiere vai a casa con loro non lo so a giocare
-BOR021	ai videogiochi
-BOI070	certo
-BOR021	e tutte queste cose ecco
+BOI070	ai videogiochi
+BOR021	certo
+BOI070	e tutte queste cose ecco
 BOR021	vabbè quindi appuntativi molto x
-BOI070	cose del quartiere del eh
+BOR021	cose del quartiere del eh
 BOI070	eh si diciamo che
 BOI070	ti vivi molto da dove vieni ecco
-BOR021	per forza cioè se tu cresci in un posto così
-BOI070	esatto
+BOI070	per forza cioè se tu cresci in un posto così
+BOR021	esatto
 BOI070	eh sicuramente te lo vivi
 BOI070	te lo vivi al massimo o
 BOI070	ti spingi
@@ -138,14 +134,12 @@ BOI070	che lo conosci come le tue tasche
 BOI070	ma immagino come ogni persona che magari quando si trasferisce in una nuova casa
 BOI070	se la gira tutta se la gira xx
 BOI070	a una certa la inizi a chiamare appunto casa
-BOR021	ecco è un po' così
+BOI070	ecco è un po' così
 BOR021	xxx
-BOI071	tu invece
-BOR021	non mi ricordo più la domanda
-BOR021	
+BOR021	tu invece
+BOI071	non mi ricordo più la domanda
 BOR021	no come come vivi un po' la tua zona alla fine
-BOI071	se ti piace
-BOI071	
+BOR021	se ti piace
 BOI071	ma si la mia zona come ho detto boh prima è molto tranquilla
 BOI071	poi vabbè va in base an~ cioè come stava dicendo il mio amico
 BOI071	va molto in base alle zone ci sono quelle zone un po'
@@ -154,54 +148,51 @@ BOI071	o anche
 BOI071	come le zone belle come san lazzaro così
 BOI071	sì e come ogni città è suddivisa ahm
 BOI071	come ogni città grande
-BOR021	è suddivisa
-BOI071	a zone
+BOI071	è suddivisa
 BOR021	a zone
-BOI071	
+BOI071	a zone
 BOI071	esatto
-BOR021	però sì io
-BOI071	ci sta
+BOI071	però sì io
+BOR021	ci sta
 BOI071	mi sento a casa quando
-BOR021	perché sono cresciuto lì quindi
-BOI071	ma tu non ti vorresti spostare
+BOI071	perché sono cresciuto lì quindi
+BOR021	ma tu non ti vorresti spostare
 BOI071	no ovviamente sì io vi ho sempre invidiati voi fuori sede
-BOR021	perché sì è un è una cosa che farei io
-BOI071	davvero
+BOI071	perché sì è un è una cosa che farei io
+BOR021	davvero
 BOI071	però
 BOI071	arrivarci all'università prima po~
-BOR021	poi
-BOI071	poi si vede della serie
-BOR021	e poi si vede esatto
+BOI071	poi
+BOR021	poi si vede della serie
+BOI071	e poi si vede esatto
 BOR021	no è vero
 BOR021	ma secondo voi la città in generale è cambiata molto nel corso del tempo degli anni
-BOI070	voi che l'a~ l'avete vissuta insomma da un bel po'
+BOR021	voi che l'a~ l'avete vissuta insomma da un bel po'
 BOI070	beh e
-BOI070	
 BOI070	sicuramente mh ma a dirla schietta così
 BOI070	son cambiate tantissime
 BOI070	cose in realtà
 BOI070	ma cose poi piccole che non si vedono moltissimo okay magari
-BOI070	
 BOI070	c'è meno degrado forse in giro
 BOI070	ma c'è anche mh mena
 BOI070	meno
 BOI070	meno ecco mh
 BOI070	in un certo senso
-BOR021	collettività
-BOI070	in che senso
+BOI070	collettività
+BOR021	in che senso
 BOI070	nel senso
 BOI070	tempo fa
 BOI070	era un'altra cioè
-BOR021	c'è una collettività ma una collettività diversa
-BOI070	mh
+BOI070	c'è una collettività ma una collettività diversa
+BOR021	mh
 BOI070	non quella collettività vera no nel mh io mi ricordo
 BOI070	quando ero più piccolo bologna
 BOI070	mi è sempre sembrata un posto veramente molto
 BOI070	infiammato nel senso
 BOI070	un po' più
 BOI070	pieno di calore e in un certo senso umano
-BOR021	okay si può dire
-BOI070	sì sìsì
+BOI070	okay si può dire
+BOR021	sì sìsì
 BOI070	più sociale
 BOI070	più
 BOI070	più mh
@@ -218,8 +209,8 @@ BOI070	cioè bologna la la consiglierei
 BOI070	eh tantissimo alle persone che
 BOI070	ci verrebbero a vivere da capo
 BOI070	ma non a quelle che c'han già vissuto e che debbano poi
-BOR021	andarsene perché ti crea questo effetto come ogni città no magari
-BOI070	certo
+BOI070	andarsene perché ti crea questo effetto come ogni città no magari
+BOR021	certo
 BOI070	ti sposti sempre da una città all'altra nella vita una volta nella vita deve succedere che devi provare un'altra città
 BOI070	poi chiaramente c'è chi sta bene una città e basta no
 BOI070	però bologna ti dà quest'effetto
@@ -227,12 +218,11 @@ BOI070	cioè ti dà quell'effetto non lo so
 BOI070	a me mi ha sempre dato un po' l'effetto di protezione si può dire nel senso
 BOI070	ehm
 BOI070	quando te la giri tutta e giri nei suoi portici no
-BOR021	prendiamo esempio i portici perché poi sono famosissimi no i portici di bologna
-BOI070	certo xxx
-BOR021	cioè se tu dici portici ti viene molto in mente bologn~ se conosci poi bologna come città perché magari alcuni ti dicono cos'è bologna no
-BOI070	dov'è
-BOR021	dipende dove fai la domanda ec~ se la fai in sud'africa magari ti dicono
-BOI070	
+BOI070	prendiamo esempio i portici perché poi sono famosissimi no i portici di bologna
+BOR021	certo xxx
+BOI070	cioè se tu dici portici ti viene molto in mente bologn~ se conosci poi bologna come città perché magari alcuni ti dicono cos'è bologna no
+BOR021	dov'è
+BOI070	dipende dove fai la domanda ec~ se la fai in sud'africa magari ti dicono
 BOI070	ecco
 BOI070	e
 BOI070	se tu la conosci la conosci tramite i portici
@@ -249,15 +239,15 @@ BOI070	e sicuramente anche loro hanno lasciato una bella impronta
 BOI070	e hanno
 BOI070	anche loro
 BOI070	aiutato e collaborato alla crescita di bologna in un certo senso
-BOR021	però è bologna è questo non è solamente quello stile universitario
-BOI070	no hai voglia
-BOR021	cè tantiss~ x
-BOI070	c'è tanto altro
-BOR021	esatto
-BOI070	sicuramente
+BOI070	però è bologna è questo non è solamente quello stile universitario
+BOR021	no hai voglia
+BOI070	cè tantiss~ x
+BOR021	c'è tanto altro
+BOI070	esatto
+BOR021	sicuramente
 BOI070	perché tante persone io ho notato che quando parlano di bologna
-BOR021	è è come se parlassero solo di università
-BOI070	è vero
+BOI070	è è come se parlassero solo di università
+BOR021	è vero
 BOI070	però
 BOI070	vista da una persona che non fa l'università perché io non la faccio l'università
 BOI070	e che ci vive
@@ -271,16 +261,16 @@ BOI070	poi è chiaro è bello vederla anche insieme
 BOI070	non c'è dubbio
 BOI070	però è bello anche vederla appunto separate perché non
 BOI070	mh non puoi creare un impasto troppo
-BOR021	che cioè non
+BOI070	che cioè non
 BOR021	certo poi alla fine sono
 BOR021	sono cose diverse
-BOI070	un conto è la bologna universitaria e tutto quel mondo lì un conto è il resto
-BOR021	esatto
+BOR021	un conto è la bologna universitaria e tutto quel mondo lì un conto è il resto
+BOI070	esatto
 BOR021	della città
-BOI070	cioè la città non è solo l'università
+BOR021	cioè la città non è solo l'università
 BOI070	cioè se ti vuoi vivere bologna te la devi vivere nello stesso modo
-BOR021	okay
-BOI070	certo
+BOI070	okay
+BOR021	certo
 BOI070	io negli ultimi anni in realtà sto conoscendo persone universitarie
 BOI070	quindi
 BOI070	cioè nel senso all'inizio non non davo neanche molto peso neanche calcolo a questa cosa
@@ -290,10 +280,10 @@ BOI070	a dire vabbè vorrei uscire un po' fuori dagli schemi vorrei conoscere un
 BOI070	questo stile che ne parlano tutti no stile universitario che gente che arriva a studiare da
 BOI070	da ogni dove
 BOI070	e lì poi inizia
-BOR021	a vedere un po' bologna a trecentosessanta gradi
-BOI070	sì
-BOR021	xx io me la son vissuta
-BOI070	sicuramente
+BOI070	a vedere un po' bologna a trecentosessanta gradi
+BOR021	sì
+BOI070	xx io me la son vissuta
+BOR021	sicuramente
 BOI070	io le ma son vissuta tra i quartieri tra
 BOI070	tra quartieri poveri in un certo senso xxx mh il più
 BOI070	un po' messi
@@ -305,19 +295,18 @@ BOI070	come in ogni città ragazzi no
 BOI070	e mh
 BOI070	e poi ho visto anche appunto sti universitari
 BOI070	quindi
-BOR021	vari stili c'ha secondo me è viva in vari modi
+BOI070	vari stili c'ha secondo me è viva in vari modi
 BOR021	sì sì sono sono d'accordo
-BOI070	e mi dicevi prima dei portici
-BOR021	mhmh
-BOI070	ti piacciono i portici di bologna come come li tengono secondo te
-BOR021	beh eh i portici di bologna son proprio belli perché son tenuti proprio di merda
-BOI070	
+BOR021	e mi dicevi prima dei portici
+BOI070	mhmh
+BOR021	ti piacciono i portici di bologna come come li tengono secondo te
+BOI070	beh eh i portici di bologna son proprio belli perché son tenuti proprio di merda
 BOI070	quindi
 BOI070	e questo secondo me già una già ha una skill in più mh nel senso
 BOI070	e ti dà l'idea di vecchio
 BOI070	e bologna è proprio vecchia nel senso non è una
-BOR021	tutta costruita ieri no
-BOI070	no
+BOI070	tutta costruita ieri no
+BOR021	no
 BOI070	cioè
 BOI070	eh e quindi mi sa che
 BOI070	comun~ cioè
@@ -331,59 +320,58 @@ BOI070	magari mi sveglio con la luna storta comunque
 BOI070	durante fine giornata
 BOI070	io vado a fare una passeggiata
 BOI070	e io
-BOR021	cioè è obbligatorio proprio è da prassi che io debba passare sotto i portici
-BOI070	tipo un rito
+BOI070	cioè è obbligatorio proprio è da prassi che io debba passare sotto i portici
+BOR021	tipo un rito
 BOI070	xxxx
 BOI070	eh wei così è un po' xxx perché
 BOI070	magari ti dà quel senso di protezione magari ti dà quel senso di
 BOI070	ehm
 BOI070	di sentirti parte di qualcosa perché comunque
 BOI070	appunto come dicevo prima bologna viene conosciuta molto
-BOR021	tramite i portici perché son famosini no
-BOI070	eh direi
+BOI070	tramite i portici perché son famosini no
+BOR021	eh direi
 BOI070	anche se tu vai a vedere se tu scrivi bologna su internet ti escono le foto di san luca
 BOI070	san luca è composto da
-BOR021	maggior parte dalle scalinate ma da portici
-BOI070	fighissimo
+BOI070	maggior parte dalle scalinate ma da portici
+BOR021	fighissimo
 BOI070	capito
 BOI070	quindi tu
 BOI070	ti viene molto in mente sta cosa capito
 BOI070	e anche saragozza la parte di saragozza che è tutta portici cioè
 BOI070	ogni
-BOR021	posto ha i portici
-BOI070	si è piena bologna
-BOR021	esatto
-BOI070	tipico perché
-BOI071	io
-BOI070	xxxxx è chiamata anche la città dei portici xxx
-BOR021	appunto a volt~
-BOI070	sì
-BOI071	ecco immagino di sì
-BOR021	poi c'erano tipo anche il portico più lungo d'italia forse xx
-BOI071	forse sì
-BOR021	xx
-BOI070	forse sì
-BOI071	che è s~ eh che è quello di san luca
+BOI070	posto ha i portici
+BOR021	si è piena bologna
+BOI070	esatto
+BOR021	tipico perché
+BOI070	io
+BOI071	xxxxx è chiamata anche la città dei portici xxx
+BOI070	appunto a volt~
+BOR021	sì
+BOI070	ecco immagino di sì
+BOI071	poi c'erano tipo anche il portico più lungo d'italia forse xx
+BOR021	forse sì
+BOI071	xx
+BOR021	forse sì
+BOI070	che è s~ eh che è quello di san luca
 BOI071	esat~
-BOR021	esatto che è quello di san luca xx
-BOI071	a san luca c'andate spesso tu ci vai spesso
-BOR021	ma prima ci andavo ogni domenica
-BOI071	sì
+BOI071	esatto che è quello di san luca xx
+BOR021	a san luca c'andate spesso tu ci vai spesso
+BOI071	ma prima ci andavo ogni domenica
+BOR021	sì
 BOI071	così
 BOI071	sì l'ho fat~ no ho visto che lo facevano molti italiani
 BOI071	per andare lì a
 BOI071	pellegrinaggio così non lo so
-BOR021	però io giusto anche per farmi una camminata per vedere anche i colli bolognesi che sono
-BOI070	sono belli
-BOI071	sono tutto il pezzo grosso
-BOR021	no cioè
-BOI070	è vero
+BOI071	però io giusto anche per farmi una camminata per vedere anche i colli bolognesi che sono
+BOR021	sono belli
+BOI070	sono tutto il pezzo grosso
+BOI071	no cioè
+BOR021	è vero
 BOI070	sono il pezzo grosso pe~
-BOR021	puoi portarci x tipe puoi portarci di tutto
-BOI070	
+BOI070	puoi portarci x tipe puoi portarci di tutto
 BOI070	cioè
-BOR021	vabbè adesso scherziamo e ridiamo
-BOI070	funziona sempre dici
+BOI070	vabbè adesso scherziamo e ridiamo
+BOR021	funziona sempre dici
 BOI070	no adesso e scherziamo però
 BOI070	è proprio
 BOI070	la parte
@@ -395,23 +383,21 @@ BOI070	è vero ci sono anche quelli bolognesi
 BOI070	e c'è anche una canzone
 BOI070	che non mi ricordo chi era il cantante
 BOI070	che si chiamava
-BOR021	vespa special che una cosa così
-BOI070	xx certo
+BOI070	vespa special che una cosa così
+BOR021	xx certo
 BOI070	ecco
-BOR021	ed è qua anche
-BOR021	
-BOI070	
+BOI070	ed è qua anche
 BOI070	era la x ha fatto ha fatto ha fatto
 BOI070	lo scoppio quest'estate o la scorsa estate non mi ricordo
-BOR021	però mi ricordo che c'era sta parte dove diceva dammi la vespa che ti porto sui colli bolognesi
-BOI070	sì è vecchia questa qui e poi adesso la eh la riascoltano un sacco
-BOR021	la riascoltano tutti immagino
-BOI070	sì sì sì
+BOI070	però mi ricordo che c'era sta parte dove diceva dammi la vespa che ti porto sui colli bolognesi
+BOR021	sì è vecchia questa qui e poi adesso la eh la riascoltano un sacco
+BOI070	la riascoltano tutti immagino
+BOR021	sì sì sì
 BOI070	no ecco appunto bologna è è quella no
-BOR021	è quello stile che proprio mh anche questo cantante ne ha parlato no
-BOI070	sì
-BOR021	è lo stesso stile
-BOI070	erano xxxx
+BOI070	è quello stile che proprio mh anche questo cantante ne ha parlato no
+BOR021	sì
+BOI070	è lo stesso stile
+BOR021	erano xxxx
 BOI070	è fatto di
 BOI070	cioè te la godi veramente bene
 BOI070	i colli te li guardi veramente bene d'estate primavera
@@ -421,70 +407,64 @@ BOI070	nel se~ in estate chiaramente quando è un po' più caldo no
 BOI070	primavera perché perché appunto è la parte più
 BOI070	più appetitosa in un certo senso di bologna d'estate no
 BOI070	poi chiaramente se devono parlare di bologna d'estate non finiamo più
-BOR021	perché nel senso bologna d'estate è una favola no
-BOI070	ti piace
+BOI070	perché nel senso bologna d'estate è una favola no
+BOR021	ti piace
 BOI070	eh
-BOR021	sì
-BOI070	a un sacco di gente non piace
+BOI070	sì
+BOR021	a un sacco di gente non piace
 BOI070	piena
 BOI070	piena di eventi
 BOI070	perché non la capiscono non tutti la capiscono no è come quel detto no
-BOR021	quella è stronza ma non è vero no
-BOI070	
+BOI070	quella è stronza ma non è vero no
 BOI070	eh in realtà magari non l'hai capita
 BOI070	okay
 BOI070	nel senso è molto da capire bologna
-BOR021	però in estate è un'altra cosa è un'altra cosa magari che anche nelle università non sono abituati ma quelli che ci vivono
-BOI070	certo
+BOI070	però in estate è un'altra cosa è un'altra cosa magari che anche nelle università non sono abituati ma quelli che ci vivono
+BOR021	certo
 BOI070	ne sono abituati a quel~ quel lato lì
 BOI070	devi saperla
 BOI070	prendere
 BOI070	cioè in mh piazza maggiore magari no
 BOI070	in estate da godersela magari con un gelato
-BOR021	e guardarsi un film che di solito in estate fanno vedere sempre i film all'aria aperta
+BOI070	e guardarsi un film che di solito in estate fanno vedere sempre i film all'aria aperta
 BOR021	bellissimi
-BOI070	bellissimi
-BOR021	cinema all'aria aperta si chiama
-BOI071	sì
-BOR021	xxx
-BOI071	sotto le stelle
-BOI070	x cinema sotto le stelle esatto
-BOR021	esatto
-BOI071	tu l'hai visto qualche film lì
+BOR021	bellissimi
+BOI070	cinema all'aria aperta si chiama
+BOR021	sì
+BOI071	xxx
+BOR021	sotto le stelle
+BOI071	x cinema sotto le stelle esatto
+BOI070	esatto
+BOR021	tu l'hai visto qualche film lì
 BOI071	ma mi ricordo da piccolo avevo visto
 BOI071	scream dove c'era sto tipo che pisciava addosso a un altro però
-BOR021	vabbè me~ m~ mi hai esatto mi è rimasto sta scena impressa
+BOI071	vabbè me~ m~ mi hai esatto mi è rimasto sta scena impressa
 BOR021	ti è rimasto
-BOI070	
-BOI071	e ognuno ha i suoi pensieri
+BOI070	e ognuno ha i suoi pensieri
 BOI071	sì sì proprio in generale quel mood lì mi è rimasto impresso
 BOI071	tutta la gente lì zitta in piazza che guarda sotto le stelle ma meh
-BOR021	magnifico
-BOI071	è bello
-BOI070	sì sì sì
-BOR021	è bello è bello sì
-BOI071	quest'anno non sei andato
+BOI071	magnifico
+BOR021	è bello
+BOI071	sì sì sì
+BOI070	è bello è bello sì
+BOR021	quest'anno non sei andato
 BOI071	no beh quest'anno vabbè diciamo che
 BOI071	più avan~ io ero piccolo capito
-BOI070	però più avanti come xx come avevi fatto te la domanda hanno xxx
+BOI071	però più avanti come xx come avevi fatto te la domanda hanno xxx
 BOI070	collega
-BOR021	
-BOI071	
-BOR021	hanno collega vabbè
-BOR021	
-BOI071	
+BOI071	hanno collega vabbè
 BOI071	e
 BOI071	la domanda era
-BOR021	com~ come la vivi cioè se la vedi migliorata bologna
-BOI071	sì
-BOR021	mh
-BOI071	tu come la vedi
+BOI071	com~ come la vivi cioè se la vedi migliorata bologna
+BOR021	sì
+BOI071	mh
+BOR021	tu come la vedi
 BOI071	eh io
 BOI071	sinceramente non saprei come risponderti perché
-BOR021	prima sei piccolo e la e la vedi anche da occhi da ragazzino capito
-BOI071	certo
-BOI070	poi piano piano che cro~ eh che cresci cominci a vedere
-BOI071	crolli
+BOI071	prima sei piccolo e la e la vedi anche da occhi da ragazzino capito
+BOR021	certo
+BOI071	poi piano piano che cro~ eh che cresci cominci a vedere
+BOI070	crolli
 BOI071	altri aspetti altre
 BOI071	con altri occhi in poche parole cominci a vederlo
 BOI071	però sì cioè quello che ti potrei dire non
@@ -494,209 +474,197 @@ BOI071	io vivo a bologna ti posso dire la generazione un po' questa qua
 BOI071	la vedi che è un po più immatura
 BOI071	ha
 BOI071	ha un altro
-BOR021	slang un altro un altro modo di parlare molto
-BOI070	sì un altro modo proprio
-BOI071	xxxxx
+BOI071	slang un altro un altro modo di parlare molto
+BOR021	sì un altro modo proprio
+BOI070	xxxxx
 BOI071	sì diciamo che
-BOR021	i ragazzi vecchi quelli che stanno qua dovranno un po' abituarsi a questo slang eh nuovo bolognese ma non
-BOI071	ma tipo che cosa eh
+BOI071	i ragazzi vecchi quelli che stanno qua dovranno un po' abituarsi a questo slang eh nuovo bolognese ma non
+BOR021	ma tipo che cosa eh
 BOI071	non so ci sono tipo que~
-BOR021	ma per s~ per dirti tipo i trapperini così capito
-BOI071	
-BOR021	quelli vestiti tutti di adidas quelli che parlano fra bro così
-BOI071	sì è molto questo mood eh
-BOR021	eh esatto bisogna un po' abi~ ma no~ non non penso sarà soltanto a bologna un po' ovunque
-BOI071	no ovun~
-BOR021	è proprio la generazione penso sia così
-BOI071	ovunque
+BOI071	ma per s~ per dirti tipo i trapperini così capito
+BOI071	quelli vestiti tutti di adidas quelli che parlano fra bro così
+BOR021	sì è molto questo mood eh
+BOI071	eh esatto bisogna un po' abi~ ma no~ non non penso sarà soltanto a bologna un po' ovunque
+BOR021	no ovun~
+BOI071	è proprio la generazione penso sia così
+BOR021	ovunque
 BOI071	quindi
-BOR021	xxxx
-BOI071	non ti convince questa cosa
-BOR021	uhm c'è da abituarsi
-BOI071	
-BOR021	c'è da abituarsi a questa generazione diciamo
-BOI071	x
-BOR021	anch'io anch'io ne faccio parte
-BOI071	eh infatti
+BOI071	xxxx
+BOR021	non ti convince questa cosa
+BOI071	uhm c'è da abituarsi
+BOI071	c'è da abituarsi a questa generazione diciamo
+BOR021	x
+BOI071	anch'io anch'io ne faccio parte
+BOR021	eh infatti
 BOI071	anch'io ne faccio parte però
-BOR021	secondo me poi la generazione ha un po'
-BOI071	un po' troppo
-BOR021	esatto un po' too much
-BOI071	dici
-BOR021	xx s~
+BOI071	secondo me poi la generazione ha un po'
+BOR021	un po' troppo
+BOI071	esatto un po' too much
+BOR021	dici
+BOI071	xx s~
 BOR021	bene ragazzi
-BOI070	mah parlamo parliamo un po' del vostro
-BOR021	mh
+BOR021	mah parlamo parliamo un po' del vostro
+BOI070	mh
 BOR021	lavoro
-BOI070	ti piace quello che fai
+BOR021	ti piace quello che fai
 BOI070	sì mh
 BOI070	nel senso per adesso sì cioè
 BOI070	chiaramente che
 BOI070	faccio mh vabbè già
-BOR021	xxxxx
-BOI070	dimmi cosa fai
-BOR021	sì per adesso sto facendo il commesso
-BOI070	mh
+BOI070	xxxxx
+BOR021	dimmi cosa fai
+BOI070	sì per adesso sto facendo il commesso
+BOR021	mh
 BOI070	quindi sto lavorando al primark appunto
 BOI070	come commesso e sto vedendo un attimo
 BOI070	chiaro che
 BOI070	mh sicuramente non è il lavoro della vita
-BOR021	ma comunque è già un buon punto
-BOI070	certo
-BOR021	per iniziare
-BOI071	tu
+BOI070	ma comunque è già un buon punto
+BOR021	certo
+BOI070	per iniziare
+BOR021	tu
 BOI071	eh io faccio il cameriere
 BOI071	secondo me il cameriere è
 BOI071	perfetto per chi vuole cominciare a lavorare
-BOR021	e di sicuramente a bologna di camerieri ne servono ne servono
-BOI071	ne servono
+BOI071	e di sicuramente a bologna di camerieri ne servono ne servono
+BOR021	ne servono
 BOI071	e
 BOI071	diciamo che e
-BOR021	ci sono posti e posti dove lavorare capito
-BOI071	certo
+BOI071	ci sono posti e posti dove lavorare capito
+BOR021	certo
 BOI071	per dirti tipo in centro
-BOR021	per il lavoro come cameriere ti pagano di meno che fuori
-BOI071	davvero
-BOR021	sì te lo giuro l'ho scoperto anche io
-BOI071	assurda questa cosa
+BOI071	per il lavoro come cameriere ti pagano di meno che fuori
+BOR021	davvero
+BOI071	sì te lo giuro l'ho scoperto anche io
+BOR021	assurda questa cosa
 BOI071	eh infatti anche io dicevo vai in centro s eh
-BOR021	sono più ricchi tutti ci vanno i ricconi invece sei più sfruttato
-BOI071	perché c'è più gente
-BOR021	e c'è più gente esatto sei più sfruttato e ti pagano anche di meno
-BOI071	ma perché secondo te
+BOI071	sono più ricchi tutti ci vanno i ricconi invece sei più sfruttato
+BOR021	perché c'è più gente
+BOI071	e c'è più gente esatto sei più sfruttato e ti pagano anche di meno
+BOR021	ma perché secondo te
 BOI071	mh non lo so
 BOI071	non non saprei dirtelo
-BOI070	mh non ho non ho ancora tutta questa esperienza lavorativa però non
-BOI071	
+BOI071	mh non ho non ho ancora tutta questa esperienza lavorativa però non
 BOI071	io ho notato questa cosa
 BOI071	poi
-BOR021	vabbè il cameriere per iniziare
-BOI071	ma ti piace il contatto col pubblico no il fatto che magari conosci tante persone che puoi anche osservare la gente no
-BOR021	ma lascia stare
-BOI071	xxxx
-BOR021	ci sono certe scene che ti lascio
-BOI071	perché tipo
+BOI071	vabbè il cameriere per iniziare
+BOR021	ma ti piace il contatto col pubblico no il fatto che magari conosci tante persone che puoi anche osservare la gente no
+BOI071	ma lascia stare
+BOR021	xxxx
+BOI071	ci sono certe scene che ti lascio
+BOR021	perché tipo
 BOI071	ma ora non non me ne ne vengono in mente però sì
 BOI071	ci sono
 BOI071	gente che tipo
-BOR021	mh viene che è scazzata di suo
-BOI071	
+BOI071	mh viene che è scazzata di suo
 BOI071	così magari tu gli fai anche un servizio perfetto ma loro si fermano su una minuscola cosa
-BOR021	cosa ci fa quella pezza lì eh scusami ma non non l'ho lasciata io me l'ha lasciata il mio collega
-BOI071	e lì
+BOI071	cosa ci fa quella pezza lì eh scusami ma non non l'ho lasciata io me l'ha lasciata il mio collega
+BOR021	e lì
 BOI071	e lì ti dop~ dopo un po' vai
-BOR021	su internet ti ritrovi la brutta recensione di questo qua
-BOI071	per questa cosa
+BOI071	su internet ti ritrovi la brutta recensione di questo qua
+BOR021	per questa cosa
 BOI071	te lo giuro è capitato
-BOR021	quindi
-BOI071	sono tremendi
+BOI071	quindi
+BOR021	sono tremendi
 BOI071	sì sì sì poi nei ristoranti in centro ne vedi di tutti
 BOI071	soprattutto nei pub magari
-BOR021	vedi gente sui tavoli che balla la sera notte
-BOI070	no non sei convinto
-BOR021	mh io non ho mai lavorato n eh nei bar nei pub quindi
-BOI070	ma non ti piacerebbe
+BOI071	vedi gente sui tavoli che balla la sera notte
+BOR021	no non sei convinto
+BOI070	mh io non ho mai lavorato n eh nei bar nei pub quindi
+BOR021	ma non ti piacerebbe
 BOI070	no non
 BOI070	per adesso non ne vedo motivo
-BOR021	magari più avanti
-BOI070	ma perché non così non ti va o proprio
-BOR021	non non ne vedo il bisogno adesso x nel senso non eh
-BOI070	ci hai mai pensato
+BOI070	magari più avanti
+BOR021	ma perché non così non ti va o proprio
+BOI070	non non ne vedo il bisogno adesso x nel senso non eh
+BOR021	ci hai mai pensato
 BOI070	appunto non mi va non ne vedo il bisogno
 BOI070	cioè magari più avanti mi sveglio una mattina dico voglio fare il cameriere
 BOI070	voglio fare un' esperienza come cameriere
 BOI070	cioè sono molto più
-BOR021	così ecco diciamo cioè a me basta avere un lavoro
-BOI070	alla giornata
-BOR021	sì anche anche appunto
-BOR021	
+BOI070	così ecco diciamo cioè a me basta avere un lavoro
+BOR021	alla giornata
+BOI070	sì anche anche appunto
 BOR021	beh ci sta
 BOR021	vabbè se mi doveste descrivere tipo un'uscita
 BOR021	bolognese di sera
-BOI070	voi che la girate comunque la sera bologna
-BOR021	è dura ah la stiamo cercando anche noi da ventun anni
-BOR021	
-BOI070	perché
+BOR021	voi che la girate comunque la sera bologna
+BOI070	è dura ah la stiamo cercando anche noi da ventun anni
+BOR021	perché
 BOI070	una serata
 BOI070	nel senso mh dipende dipende
-BOR021	dipende come esci di casa con quale idea come ti senti con quale stato d'animo
-BOI070	ma di solito dove andate
+BOI070	dipende come esci di casa con quale idea come ti senti con quale stato d'animo
+BOR021	ma di solito dove andate
 BOI070	nel senso
 BOI070	se te esci di casa che sei incazzato duro e cosa
 BOI070	cosa ti aspetteresti magari non vuoi fare la tipica serata vai a fare una corsetta sui a san luca no
-BOR021	che per dirti questo magari
-BOI070	vabbè certo
-BOR021	una serata no
-BOI070	
-BOR021	dopo magari sei incazzato
-BOI070	una serata al top eh
-BOI071	esatto questa è la serata top ti vai a fare una corsa a san luca
-BOI070	
-BOR021	xxxx
-BOR021	sì vai a fare una corsa a san luca
-BOI071	quando stai incazzato
-BOI071	no xx
-BOI070	mi è capitato ma non a san luca però sì in un quartiere quando ero incazzato mi prendevo così e andavo
-BOI070	no da noi è successo
-BOR021	da me sì
-BOI070	
-BOI071	eh anche io magari anche a me magari sai che ne so un sabato
+BOI070	che per dirti questo magari
+BOR021	vabbè certo
+BOI070	una serata no
+BOI070	dopo magari sei incazzato
+BOR021	una serata al top eh
+BOI070	esatto questa è la serata top ti vai a fare una corsa a san luca
 BOI070	xxxx
+BOR021	sì vai a fare una corsa a san luca
+BOR021	quando stai incazzato
+BOI071	no xx
+BOI071	mi è capitato ma non a san luca però sì in un quartiere quando ero incazzato mi prendevo così e andavo
+BOI070	no da noi è successo
+BOI070	da me sì
+BOI070	eh anche io magari anche a me magari sai che ne so un sabato
+BOI071	xxxx
 BOI070	te lo passi di merda e dici ma sai cosa io non vado a uscire a bere con i miei amici sai cosa cosa faccio mh vado a correre a san luca perché sono incazzato duro
-BOR021	xx eh è un tipo di serata
-BOI070	beh ci può stare
-BOR021	però eh serata bolognese poi non so se magari in altre città è così
-BOI070	non credo
-BOR021	okay bolognese incazzato sappiatelo
-BOR021	
-BOI070	bolognese incazzato se ne va
-BOR021	sap~ esatto adesso sappiatelo sta cosa il bolognese incazzato prende e si va a fare una corsa a san luca
-BOI070	
-BOR021	okay
-BOI071	xxx certificato
-BOR021	torna nelle sue origini esatto
-BOR021	
-BOI070	ci sta
-BOR021	mah le serate mh a bologna ce ne sono
-BOI070	vabbè
-BOR021	ci sono varie discoteche chiaramente
+BOI070	xx eh è un tipo di serata
+BOR021	beh ci può stare
+BOI070	però eh serata bolognese poi non so se magari in altre città è così
+BOR021	non credo
+BOI070	okay bolognese incazzato sappiatelo
+BOR021	bolognese incazzato se ne va
+BOI070	sap~ esatto adesso sappiatelo sta cosa il bolognese incazzato prende e si va a fare una corsa a san luca
+BOI070	okay
+BOR021	xxx certificato
+BOI071	torna nelle sue origini esatto
+BOR021	ci sta
+BOI070	mah le serate mh a bologna ce ne sono
+BOR021	vabbè
+BOI070	ci sono varie discoteche chiaramente
 BOR021	eh ma tipo a te cosa piace fare
 BOR021	cioè tu dove mh
-BOI070	dove ti piace andare se vuoi uscire così a divertirti la sera a bologna in che zona
+BOR021	dove ti piace andare se vuoi uscire così a divertirti la sera a bologna in che zona
 BOI070	allora io intanto
-BOR021	verrei verso il centro storico
+BOI070	verrei verso il centro storico
 BOR021	beh
-BOI070	ci sta
+BOR021	ci sta
 BOI070	okay
-BOR021	poi magari andrei anche in zona universitaria
-BOI070	zamboni
+BOI070	poi magari andrei anche in zona universitaria
+BOR021	zamboni
 BOI070	mh zamboni è molto degradata ogni tanto sì
 BOI070	ci sono dei momenti dove ci sono dei periodi più che altro dove vai più in un posto più in un altro
-BOR021	anche per cambiare un po' aria no
-BOI070	mhmh
+BOI070	anche per cambiare un po' aria no
+BOR021	mhmh
 BOI070	e
-BOR021	ci sono anche dei periodi dove vai più in discoteca e te ne sbatti il cazzo di andare zamboni o in piazza verdi no
-BOI070	vero
+BOI070	ci sono anche dei periodi dove vai più in discoteca e te ne sbatti il cazzo di andare zamboni o in piazza verdi no
+BOR021	vero
 BOI070	diciamo che è è varia
 BOI070	a volte invece vai a fare una passeggiata in piazza maggiore ti siedi nella scalinata e stai lì eh
 BOI070	cioè
 BOI070	ogni serata è serata
 BOI070	però quando già conosci la città
 BOI070	appunto non è che hai un posto prestabilito un posto
-BOI071	mh che è quello e basta cioè lo cambi
-BOI070	eh esci un po' e vedi un po' come con chi ti va
+BOI070	mh che è quello e basta cioè lo cambi
+BOI071	eh esci un po' e vedi un po' come con chi ti va
 BOI070	xxx
-BOR021	xxxxx
+BOI070	xxxxx
 BOR021	vabbè certo se
 BOR021	se la conosci ecco non eh
-BOI071	magari poi cambiate zona voi che la conoscete sapete
+BOR021	magari poi cambiate zona voi che la conoscete sapete
 BOI071	eh
-BOR021	mh
+BOI071	mh
 BOR021	cioè
-BOI070	mh di solito gli universitari magari inizialmente conoscono solo la zona del centro classico
-BOI071	piazza verdi così
-BOR021	xxxx
-BOI070	esatto e vanno sempre lì
+BOR021	mh di solito gli universitari magari inizialmente conoscono solo la zona del centro classico
+BOI070	piazza verdi così
+BOI071	xxxx
+BOR021	esatto e vanno sempre lì
 BOI070	diciamo che va~ andiamo di solito
 BOI070	dipende in alcune situazioni si va dove c'è più fluenza
 BOI070	di persone perché così sai socializzi conosci
@@ -706,33 +674,30 @@ BOI070	dove magari c'è meno affluenza perché vuoi stare tranquillo e sei rilas
 BOI070	non sei magari in uno stato d'animo dove festaiolo dove eh
 BOI070	però magari sei uno stato d'animo dove stai tranquillo vuoi fare due chiacchere due con un amico o due te
 BOI070	a posto così
-BOR021	okay cioè vai in qualche pub magari più tranquillo fuori bologna
+BOI070	okay cioè vai in qualche pub magari più tranquillo fuori bologna
 BOR021	certo
 BOR021	ma vi è capitato tipo non lo so di uscire qualche sera e mettervi a chiaccherare perché
-BOI071	che ne so avete conosciuto persone e avete continuato la serata con questi
-BOR021	oddio è capitata xxxx
-BOI070	sì
-BOI071	xxx
-BOR021	soprattutto con eh le universitarie questo è capitato
-BOI070	con le universitarie
+BOR021	che ne so avete conosciuto persone e avete continuato la serata con questi
+BOI071	oddio è capitata xxxx
+BOR021	sì
+BOI070	xxx
+BOI071	soprattutto con eh le universitarie questo è capitato
+BOR021	con le universitarie
 BOI070	xx
-BOI071	no xx universitarie xx
-BOR021	cioè con con gli universitari volevo dire xxx
+BOI070	no xx universitarie xx
+BOI071	cioè con con gli universitari volevo dire xxx
 BOR021	ah
-BOI070	
-BOI071	xxx perché sì anche
-BOR021	xxx
-BOI071	
-BOI070	no eh
-BOR021	in generale maschi e femmina proprio tutti
-BOI070	
+BOI070	xxx perché sì anche
+BOI071	xxx
+BOI071	no eh
+BOI070	in generale maschi e femmina proprio tutti
 BOI070	perché comunque sei con~
 BOI070	son composti da gruppi di maschi e femmine ma come ogni gruppo no cioè a bologna è connotata molto sta cosa
 BOI070	che col tempo magari
 BOI070	tempo fa c'era anche di meno in realtà
 BOI070	però adesso c'è molto di più
-BOR021	e negli ultimi anni è proprio appunto i gruppi
-BOI070	proprio grandi gruppi di persone intendi
+BOI070	e negli ultimi anni è proprio appunto i gruppi
+BOR021	proprio grandi gruppi di persone intendi
 BOI070	xxx
 BOI070	sì sì sì sì molto
 BOI070	molto
@@ -743,33 +708,32 @@ BOI070	son sempre gruppi da due
 BOI070	in realtà
 BOI070	ci sono anche in altre città gruppi enormi
 BOI070	però bologna è molto centrata invece sui gruppi da da cinque sei
-BOI071	persone o anche di più
-BOI070	eh alle balotte
-BOR021	le balotte
-BOI070	eh le balotte
-BOR021	proprio
-BOI070	ma perché magari si riuniscono poi si ritrovano negli stessi posti quindi poi alla fine anche così nascono mh
-BOR021	sì mh sì ma anche magari
-BOI070	rapporti
+BOI070	persone o anche di più
+BOI071	eh alle balotte
+BOI070	le balotte
+BOR021	eh le balotte
+BOI070	proprio
+BOR021	ma perché magari si riuniscono poi si ritrovano negli stessi posti quindi poi alla fine anche così nascono mh
+BOI070	sì mh sì ma anche magari
+BOR021	rapporti
 BOI070	posso anche immaginare che magari sia la combriccola
 BOI070	no
-BOR021	ehm universitaria x io ti dico magari xxx
-BOI070	esatto
+BOI070	ehm universitaria x io ti dico magari xxx
+BOR021	esatto
 BOI070	parlato e conosciuto persone universitarie
 BOI070	e
-BOR021	vi garantisco che a volte quando dico sono bolognese sono imolese ci rimangono di merda no
-BOI070	perché
-BOR021	mi dicono cazzo ma sei l'unico bolognese che ho visto fino adesso che sono qui da tre anni
-BOI070	questa cosa è vera
-BOI070	
-BOR021	hai capito cioè ormai sto facendo la magistrale e
-BOI071	è come è come
-BOR021	eh ma perché
-BOI071	è come un mito una leggenda
-BOI070	perché è conosciuto
-BOI071	sì
+BOI070	vi garantisco che a volte quando dico sono bolognese sono imolese ci rimangono di merda no
+BOR021	perché
+BOI070	mi dicono cazzo ma sei l'unico bolognese che ho visto fino adesso che sono qui da tre anni
+BOR021	questa cosa è vera
+BOI070	hai capito cioè ormai sto facendo la magistrale e
+BOR021	è come è come
+BOI071	eh ma perché
+BOR021	è come un mito una leggenda
+BOI071	perché è conosciuto
+BOI070	sì
 BOI071	da gente universitaria perché loro sono abituate a stare
-BOI070	molto nella ge~ nella zona universitaria capito
+BOI071	molto nella ge~ nella zona universitaria capito
 BOI070	no ma alcuni ap~
 BOI070	è vero anche quello però
 BOI070	ecco questo ti fa capire come sta dicendo lui
@@ -777,68 +741,67 @@ BOI070	che appunto magari
 BOI070	essendo molto abituati a stare in zona universitaria
 BOI070	xxx va a finire che anche la la pa~ eh
 BOI070	i ragazzi bolognesi che sono bolognesi non vanno troppo anche loro nella zona universitaria
-BOR021	e quindi è bologna è come se di~ fosse divisa in due a questo punto
-BOI070	certo
+BOI070	e quindi è bologna è come se di~ fosse divisa in due a questo punto
+BOR021	certo
 BOI070	capito
-BOR021	quindi le serate sono divise in due
-BOI070	vero
-BOR021	quindi se ci pensi
-BOI070	ho in più
-BOR021	eh
-BOI070	cioè
-BOR021	perc~
-BOI070	cose da fare
+BOI070	quindi le serate sono divise in due
+BOR021	vero
+BOI070	quindi se ci pensi
+BOR021	ho in più
+BOI070	eh
+BOR021	cioè
+BOI070	perc~
+BOR021	cose da fare
 BOI070	perché nel senso o si mischiano le cose quindi o che magari un po' di gente bolognese va in giro
 BOI070	e sicuro perché a tutti
 BOI070	piace andare verso quella zona universitaria ma
-BOR021	non è perché eh andiamo dagli universitari non è una cosa così ma perché diciamo andiamo dove c'è fluenza dove c'è una ragazza della nostra età
-BOI070	eh e sono gli unversitari spesso
+BOI070	non è perché eh andiamo dagli universitari non è una cosa così ma perché diciamo andiamo dove c'è fluenza dove c'è una ragazza della nostra età
+BOR021	eh e sono gli unversitari spesso
 BOI070	xxx esatto sono la maggior parte di quella zona lì
 BOI070	e altre pa~ mh invece in estate cambia un po' tutto magari in estate c'è
-BOI071	mh zona xx
+BOI070	mh zona xx
+BOI071	non ci sta nessuno a bologna
 BOI070	non ci sta nessuno a bologna
-BOR021	non ci sta nessuno a bologna
-BOI070	vero si svuota
-BOI071	è vuota
-BOR021	è molto triste
+BOR021	vero si svuota
+BOI070	è vuota
+BOI071	è molto triste
 BOR021	cosa fai d'estate tu
 BOR021	quando dici vabbè voglio uscire
-BOI071	andare dove c'è gente dove la trovi la gente se si svuota bologna
-BOR021	esatto me la bevo da solo la birra
-BOI071	esatto
-BOI070	cioè è triste però si vai a giadini margheri~
-BOI071	no dai
-BOI070	no vai ai giardini margherita con la luna dai
-BOI071	xxx
-BOI070	anche lì
-BOI071	eh è un altro mood eh
-BOI070	dipende
+BOR021	andare dove c'è gente dove la trovi la gente se si svuota bologna
+BOI071	esatto me la bevo da solo la birra
+BOR021	esatto
+BOI071	cioè è triste però si vai a giadini margheri~
+BOI070	no dai
+BOI071	no vai ai giardini margherita con la luna dai
+BOI070	xxx
+BOI071	anche lì
+BOI070	eh è un altro mood eh
+BOI071	dipende
 BOI070	opti per altri mood eh x mood ecco
 BOI070	mh nel senso
-BOR021	altri stato d'animo ok in un certo senso mh nel senso
-BOI070	certo sì sìsì
+BOI070	altri stato d'animo ok in un certo senso mh nel senso
+BOR021	certo sì sìsì
 BOI070	opti per altre scelte
 BOI070	però ti garantisco che è positivo
 BOI070	sembra una cosa strana ma è positivo perché se tu durante l'anno vedi il fottio di unversitari
 BOI070	poi in estate
 BOI070	ti vai a invece a berti una birra in solitudine
 BOI070	eh fa un effetto particolare
-BOR021	perché ti vivi bologna ancora una volta in due modi diversi
-BOI070	anche perché magari non ci si xx normalmente
-BOR021	io ti dico
-BOI070	a viverla così
+BOI070	perché ti vivi bologna ancora una volta in due modi diversi
+BOR021	anche perché magari non ci si xx normalmente
+BOI070	io ti dico
+BOR021	a viverla così
 BOI070	esa~ io ti di~ brava esatto io ti dirò
 BOI070	in questa situazione qua
-BOR021	che mi stai facendo appunto l'intervista non me ne sto accorgendo ma sto tirando fuori
-BOI070	
-BOR021	dettagli di bologna che manco io sapevo okay
-BOI070	è vero perché poi magari ci pensi
-BOR021	ci sto pensando adesso infatti
-BOI070	xxxxx
+BOI070	che mi stai facendo appunto l'intervista non me ne sto accorgendo ma sto tirando fuori
+BOI070	dettagli di bologna che manco io sapevo okay
+BOR021	è vero perché poi magari ci pensi
+BOI070	ci sto pensando adesso infatti
+BOR021	xxxxx
 BOI070	quindi cioè
 BOI070	chiaro ti sto dicendo adesso le cose
-BOR021	e alcune cose ci sto pensando mentre te lo sto dicendo
-BOI070	certo
+BOI070	e alcune cose ci sto pensando mentre te lo sto dicendo
+BOR021	certo
 BOI070	e mi fa mi stupisce anche a me perché comunque chiaramente non è una cosa
 BOI070	che tu noti perché ap~ sei di bologna okay sei cresciuto tu ci vivi appunto
 BOI070	però adesso parlando no come anche lui che ha detto eh ti fai la birra con la luna piena no
@@ -848,13 +811,13 @@ BOI070	ti fai tutta l'inverno che vedi molta gente che va a studiare
 BOI070	e magari tu torni dal lavoro no
 BOI070	eh vedi sta cosa poi magari in estate invece il contrario no tanta gente che va via
 BOI070	tu che hai bologna intera i suoi portici in un modo
-BOR021	intero no è tutta tua
-BOI070	eh come se fosse un po' tua esatto perché
+BOI070	intero no è tutta tua
+BOR021	eh come se fosse un po' tua esatto perché
 BOI070	okay
-BOR021	esatto
+BOI070	esatto
 BOR021	a volte magari ti ritrovi tu da solo in un posto
 BOR021	xxxx spazio
-BOI070	vedi un po'
+BOR021	vedi un po'
 BOI070	esatto
 BOI070	in alcune situazioni ti dico
 BOI070	cuffie
@@ -862,185 +825,167 @@ BOI070	ti metti la musica
 BOI070	e passeggi
 BOI070	ed è bellissimo
 BOI070	in altre comunque senti
-BOR021	che è un'altra bologna è un'altra faccia
-BOI070	certo
+BOI070	che è un'altra bologna è un'altra faccia
+BOR021	certo
 BOI070	non è che ti sale tristezza tene~ eh però comunque
-BOR021	mh senti nostalgia dell'inverno piuttosto senti
-BOI070	è un'altra versione
-BOR021	la nostalgia delle persone che xxx addosso ti s~
-BOI070	
-BOR021	ti dan le spallate
-BOI070	che poi magari quando lo vivi in realtà dici che palle xx
+BOI070	mh senti nostalgia dell'inverno piuttosto senti
+BOR021	è un'altra versione
+BOI070	la nostalgia delle persone che xxx addosso ti s~
+BOI070	ti dan le spallate
+BOR021	che poi magari quando lo vivi in realtà dici che palle xx
 BOI070	esatto
 BOI070	e invece quando sei in estate dici che
 BOI070	eh
 BOI070	wow bello poi dopo un po' però dici che palle perché non sto vedendo nessuna spallata nessuno che mi
 BOI070	che
-BOR021	è lì a no suonare il clacson eh
-BOI070	è vero
-BOR021	rottura di coglioni perché son tutti al mare appunto
-BOI070	xxx
+BOI070	è lì a no suonare il clacson eh
+BOR021	è vero
+BOI070	rottura di coglioni perché son tutti al mare appunto
+BOR021	xxx
 BOI070	però penso che da una parte
 BOI070	a bologna devi seguire molto il flusso molto il flusso di
-BOR021	di persone
+BOI070	di persone
 BOR021	certo
 BOR021	ma tipo a te quando vabbè a parte le pestate quello che ti pare
 BOR021	quando
-BOI071	ti devi fare un giro no
-BOR021	eh
+BOR021	ti devi fare un giro no
+BOI071	eh
 BOR021	cioè cosa ti piace fare
 BOR021	a parte la bevuta magari esci tranquillo così
 BOR021	se non lavori e ti devi svagare
-BOI071	cioè che fai vai a qualche evento
+BOR021	cioè che fai vai a qualche evento
 BOI071	diciamo che
-BOR021	
-BOI071	
-BOR021	allora diciamo che anch'io sono un po' solitario così e xxx
-BOI071	momenti introspettivi
-BOI070	esatto cioè ma mh vedi un po' te come
-BOI071	
-BOR021	diciamo che
-BOI071	
+BOI071	allora diciamo che anch'io sono un po' solitario così e xxx
+BOR021	momenti introspettivi
+BOI071	esatto cioè ma mh vedi un po' te come
+BOI071	diciamo che
 BOI071	diciamo che
 BOI071	in piazza verdi
 BOI071	ti puoi sempre divertire con gli unversitari an~
-BOI070	anche perché vedi
-BOR021	
-BOI071	quindi vai sempre là scusami
+BOI071	anche perché vedi
+BOR021	quindi vai sempre là scusami
 BOI071	no non è che vado sempre lì
 BOI071	però vedi sempre nuovi accenti nuove ve~ nuove persone
 BOI071	e quindi
 BOI071	uno sì puoi andare in piazza verdi però io com~
 BOI071	preferisco molto andare sui colli bolognesi
-BOR021	a volte ci vado anche a piedi così
+BOI071	a volte ci vado anche a piedi così
 BOR021	che poi sui colli ci stanno un sacco di cose anche in estate forse di più
 BOR021	tipo
 BOR021	come si chiama quel posto
-BOI071	collywood una cosa xx
-BOR021	collywood sì è un bar sui colli così
-BOI070	ci siete stati
-BOI071	sì un
-BOR021	puoi fare aperiti vedi un bel tramonto sì
-BOI070	c'è un sacco di hype
-BOR021	un'area da una una collinetta con un tavolino
-BOI071	quindi niente di che
+BOR021	collywood una cosa xx
+BOI071	collywood sì è un bar sui colli così
+BOR021	ci siete stati
+BOI070	sì un
+BOI071	puoi fare aperiti vedi un bel tramonto sì
+BOR021	c'è un sacco di hype
+BOI070	un'area da una una collinetta con un tavolino
+BOR021	quindi niente di che
 BOI071	no è carino è carino xx l'idea c'è
-BOI070	però magari è da migliorare
-BOI071	xxxxxx
-BOR021	poi vabbè ci sono
-BOI070	perché è da migliorare
-BOI071	eh da aggiungere xx sai
+BOI071	però magari è da migliorare
+BOI070	xxxxxx
+BOI071	poi vabbè ci sono
+BOR021	perché è da migliorare
+BOI070	eh da aggiungere xx sai
 BOI071	è un po' vuoto secondo me
-BOI070	sì eh
-BOI071	beh un tavolino e una sedia piano piano è un po' vuoto
+BOI071	sì eh
+BOI070	beh un tavolino e una sedia piano piano è un po' vuoto
 BOI071	esatto
-BOI070	vabbè ho anche dei bei ricordi lì
-BOR021	
-BOI070	che ricordi hai
-BOI071	di una laurea
-BOR021	
-BOI071	di una laurea raccontacela
-BOR021	
-BOR021	
-BOI070	raccontaci un po'
-BOR021	non facciamo nomi però xxxx
-BOI071	no no
+BOI071	vabbè ho anche dei bei ricordi lì
+BOR021	che ricordi hai
+BOI070	di una laurea
+BOR021	di una laurea raccontacela
+BOR021	raccontaci un po'
+BOI070	non facciamo nomi però xxxx
+BOR021	no no
 BOI071	eh ero ad una laurea di una mia amica e
-BOI070	diciamo che
-BOI071	tra una sbronza e l'altra
-BOR021	doveva essere lei ad ad essere ubriaca ma mi sono ubriacato io un po'
-BOR021	
-BOI071	che hai combinato
+BOI071	diciamo che
+BOI070	tra una sbronza e l'altra
+BOI071	doveva essere lei ad ad essere ubriaca ma mi sono ubriacato io un po'
+BOR021	che hai combinato
 BOI071	tra autobus cioè avevo già cominciato a bere alle
-BOI070	cinque di pomeriggio così
-BOR021	sai sapete co~ vabbè tu lo sai come sono le lauree sono delle lauree
+BOI071	cinque di pomeriggio così
+BOI070	sai sapete co~ vabbè tu lo sai come sono le lauree sono delle lauree
 BOR021	xxxx
-BOI070	sì a voglia
-BOR021	dove ti distruggi no alle lauree
-BOI070	cioè è quello l'obiettivo spesso
-BOI071	è distruzione no totale
+BOR021	sì a voglia
+BOI070	dove ti distruggi no alle lauree
+BOR021	cioè è quello l'obiettivo spesso
+BOI070	è distruzione no totale
 BOI071	eh mi ricordo sta scena
-BOI070	che praticamente c'era la ragazza che aveva perso il telefono
-BOI071	mh
+BOI071	che praticamente c'era la ragazza che aveva perso il telefono
+BOI070	mh
 BOI071	lo cerca a tutti chiede a tutti dov'è il telefono dov'è il telefono
-BOR021	e ce l'avevo io in tasca ma io non me lo ricordo come
-BOI071	ma tu la conoscevi lei
-BOR021	no l'avevo conosciuta alla sua laurea ma non la conoscevo xx
-BOI071	te perché avevi il suo telefono in tasca
-BOI071	
-BOI070	non lo so non lo so
-BOI071	xx esperti di zona
-BOI070	esatto questo
-BOI071	cambiamo
-BOI070	
-BOI070	
+BOI071	e ce l'avevo io in tasca ma io non me lo ricordo come
+BOR021	ma tu la conoscevi lei
+BOI071	no l'avevo conosciuta alla sua laurea ma non la conoscevo xx
+BOR021	te perché avevi il suo telefono in tasca
+BOI071	non lo so non lo so
+BOI070	xx esperti di zona
+BOI071	esatto questo
+BOI070	cambiamo
 BOI070	cambiamo
 BOI070	xxxx
 BOI070	no dai nel senso era una situazione molto più
-BOR021	più drammatica nel senso erava~
-BOI070	perché
+BOI070	più drammatica nel senso erava~
+BOR021	perché
 BOI070	erava~ erano tutti ubriachi okay
 BOI070	letteralmente eravamo mezzi tutti ubriachi
 BOI070	tra una cosa all'altra si son scambiati i telefoni
-BOR021	volevano scambiarsi il numero ma si sono scambiati il telefono quindi di~
-BOI070	ah cioè proprio direttamente
-BOR021	direttamente esatto si sono presi a xx
-BOI071	
-BOI070	xxx
-BOR021	un po' una roba così okay
+BOI070	volevano scambiarsi il numero ma si sono scambiati il telefono quindi di~
+BOR021	ah cioè proprio direttamente
+BOI070	direttamente esatto si sono presi a xx
+BOI071	xxx
+BOI070	un po' una roba così okay
 BOR021	scusami tu il tuo come come facevi ad averlo
-BOI071	tipo non l'hai lasciato a lei
-BOI070	eh no ma perché ci tengo xx al mio telefono lo dico quindi
-BOR021	xxxx
-BOI071	sei stato attento a recuperarlo
-BOI070	esatto
+BOR021	tipo non l'hai lasciato a lei
+BOI071	eh no ma perché ci tengo xx al mio telefono lo dico quindi
+BOI070	xxxx
+BOR021	sei stato attento a recuperarlo
+BOI071	esatto
 BOI070	ecco poi chiaramente è successo che poi si s~ si sono ridati sto telefono e basta è finita lì
 BOI070	semplicemente che
 BOI070	ehm le lauree li su
 BOI070	secondo me son belle
 BOI070	ma anche distruttive in sé una laurea in sé è è distruttiva ecco
 BOI070	quando ti fai la serata
-BOR021	di laurea appunto non mh la laurea in sé cioè nel se~ ovvio se è
-BOI070	certo
-BOR021	immagino l'immagine eh xx l'agitazione che tu provi per fare ques~ esatto
-BOI071	anche la laurea in sé è distruttiva sicuramente
-BOI070	
+BOI070	di laurea appunto non mh la laurea in sé cioè nel se~ ovvio se è
+BOR021	certo
+BOI070	immagino l'immagine eh xx l'agitazione che tu provi per fare ques~ esatto
+BOR021	anche la laurea in sé è distruttiva sicuramente
 BOI070	che tu provi per fare l'esame
 BOI070	però dopo hai un'agitazione più euforica più fiera più
-BOR021	più più sciolto più rilassante xxx comunque l'hai già passato sei già laureato sei a posto no
-BOI070	certo
+BOI070	più più sciolto più rilassante xxx comunque l'hai già passato sei già laureato sei a posto no
+BOR021	certo
 BOI070	devi iniziare un nuovo percorso in un certo senso
 BOI070	quella sera è stata un po' così
-BOI071	okay s~ si ha bevuti si è andato verso la distruzione
-BOR021	vabbè ma non ero io quello laureato
-BOI070	
-BOR021	non era lui quello laureato e ha bevuto come il laureato
-BOI071	lui ha seguito il flusso
-BOR021	esatto
-BOI070	si è liberato
+BOI070	okay s~ si ha bevuti si è andato verso la distruzione
+BOI071	vabbè ma non ero io quello laureato
+BOI070	non era lui quello laureato e ha bevuto come il laureato
+BOR021	lui ha seguito il flusso
+BOI071	esatto
+BOR021	si è liberato
 BOI070	esatto no vabbè sai
 BOI070	è bello comunque poter festeggiare nel senso tutti insieme a una laurea
 BOI070	anche se lui al momento non fa l'università manco io però comunque vi
-BOR021	fare parte di
-BOI070	certo di quel mondo eh
-BOR021	del successo di una persona
-BOI070	certo
+BOI070	fare parte di
+BOR021	certo di quel mondo eh
+BOI070	del successo di una persona
+BOR021	certo
 BOI070	è bello no
-BOR021	quindi
-BOI070	eh ovvio
+BOI070	quindi
+BOR021	eh ovvio
 BOI070	diciamo che abbiam bevuto tutti no
 BOI070	tipico da universitari no
-BOR021	e infatti noi noi i bolognesi li prendiamo proprio per il culo ogni tanto
-BOR021	
-BOI070	perché
+BOI070	e infatti noi noi i bolognesi li prendiamo proprio per il culo ogni tanto
+BOR021	perché
 BOI070	con lo stile universitario che fate no stile molto libertino molto
 BOI070	tipo vabbè da fuori sede
-BOR021	è una cosa molto diffusa fra bolognesi non non ve lo ammetteranno mai però è proprio così
-BOI070	cioè
-BOR021	sì
-BOI070	xxx perché facciamo viviamo uno stile di vita particolare
-BOR021	eh si dai
-BOI070	da fuori sede
+BOI070	è una cosa molto diffusa fra bolognesi non non ve lo ammetteranno mai però è proprio così
+BOR021	cioè
+BOI070	sì
+BOR021	xxx perché facciamo viviamo uno stile di vita particolare
+BOI070	eh si dai
+BOR021	da fuori sede
 BOI070	mh sì nel senso è tu~ molto più magari no
 BOI070	libertini cioè
 BOI070	abbiamo s~ noi bolognesi abbiamo sempre invidiato il vostro stile perché magari sai vi vi godete bologna come vi pare
@@ -1049,74 +994,70 @@ BOI070	per voi è tutta nuova tutta no xx stesse storie che dicevo prima no tutt
 BOI070	cazzo è da scoprire sta città no
 BOI070	poi chiaramente quando la scopri dice che palle è sempre la stessa
 BOI070	perché xxx abbiamo sentiti conversazioni del genere anche passeggiando magari da
-BOR021	da un gruppetto di universitari cazzo ragazzi questa città è tutta uguale
-BOI070	
+BOI070	da un gruppetto di universitari cazzo ragazzi questa città è tutta uguale
 BOI070	no tutti i portici che palle
 BOI070	no
 BOI070	ecco ed è anche difficile non eh non non rispondere
 BOI070	però
-BOR021	eh dai le serate le fate bene in un certo senso a volte
-BOI070	dici prendiamo il meglio forse della città
-BOI070	
+BOI070	eh dai le serate le fate bene in un certo senso a volte
+BOR021	dici prendiamo il meglio forse della città
 BOI070	vi spingete oltre perché appunto magari sai non essendo una città dove in cui siete nati cresciuti
-BOR021	magari anche la soglia magari di essere giudicati è minore di una persona che magari ci vive no
-BOI070	certo non la senti come il tuo ambiente quindi magari ti senti più libero
+BOI070	magari anche la soglia magari di essere giudicati è minore di una persona che magari ci vive no
+BOR021	certo non la senti come il tuo ambiente quindi magari ti senti più libero
 BOI070	esatto esatto quindi esatto quindi fa più follie ed è bello
 BOI070	proprio quella quella parte anche lì della serata dove
 BOI070	mh vi travestite no dove
-BOR021	fate tutte tutte queste serate piene di alcool e divertimento
-BOR021	
-BOI070	come i giovani in generale di oggi
-BOR021	esatto
+BOI070	fate tutte tutte queste serate piene di alcool e divertimento
+BOR021	come i giovani in generale di oggi
+BOI070	esatto
 BOR021	a parte sbronze ne fate sport
-BOI070	per riprendervi
-BOR021	beh eh eh nel senso
-BOI070	
-BOR021	io sì
-BOI070	che fai
+BOR021	per riprendervi
+BOI070	beh eh eh nel senso
+BOI070	io sì
+BOR021	che fai
 BOI070	eh eh io faccio
-BOR021	fitness normale
-BOI070	ma ti alleni per i fatti tuoi
+BOI070	fitness normale
+BOR021	ma ti alleni per i fatti tuoi
 BOI070	sìsì mh c'ho sì
-BOR021	xx allenamento per fatti miei esa~ sì
+BOI070	xx allenamento per fatti miei esa~ sì
 BOR021	xxx
-BOI070	non vai in palestra
+BOR021	non vai in palestra
 BOI070	no ho sempre odiato la palestra mh
-BOR021	cioè mi piaccion più gli sport individuali
-BOI070	perché
-BOR021	perché la palestra vai lì e poi tra una chiacchiera e l'altra non fai un cazzo quindi
-BOI070	beh però anche la palestra è parecchio individuale cioè ti metti lì a fare il tuo esercizio
+BOI070	cioè mi piaccion più gli sport individuali
+BOR021	perché
+BOI070	perché la palestra vai lì e poi tra una chiacchiera e l'altra non fai un cazzo quindi
+BOR021	beh però anche la palestra è parecchio individuale cioè ti metti lì a fare il tuo esercizio
 BOI070	non è tanto individuale perché magari corri nel tapis roulant c'è vicino il tipello amico che ti sei fatto
 BOI070	che gli hai magari detto ciao una volta e lui ti racconta tutta la sua vita
 BOI070	tu sei magari lì solo x per fare una cazzo di corsa
 BOI070	e stai al caldo e lui invece ti deve ehm
-BOR021	cioè capisci x
-BOI070	mi chiedo con quale fiato te la racconta mentre è sul tapis roulant
-BOR021	eh infatti xxx tu ti chiedi allora che cazzo ha fatto fino adesso
-BOI070	certo
+BOI070	cioè capisci x
+BOR021	mi chiedo con quale fiato te la racconta mentre è sul tapis roulant
+BOI070	eh infatti xxx tu ti chiedi allora che cazzo ha fatto fino adesso
+BOR021	certo
 BOI070	capito
 BOI070	è quello no
-BOR021	magari corre lì solo per raccontarti la storia
+BOI070	magari corre lì solo per raccontarti la storia
 BOR021	aspetta solo quello
-BOI071	tu ne fai sport
+BOR021	tu ne fai sport
 BOI071	mh no io
 BOI071	anche io facevo un po' individuale così per i fatti miei
-BOR021	poi io mi sono iscritto anche in palestra
-BOI071	per quanto
-BOR021	ah penso due tre mesi
-BOI071	beh un po'
+BOI071	poi io mi sono iscritto anche in palestra
+BOR021	per quanto
+BOI071	ah penso due tre mesi
+BOR021	beh un po'
 BOI071	sì sì però
 BOI071	poi col lavoro così non cioè non avevi più tempo di dedi~ x del tempo a te stesso
 BOI071	quindi è un po' eh infatti ora non faccio cioé solt~ solo lavoro e a casa
-BOR021	ehm
-BOI071	ma dici che il lavoro ti toglie tanto tempo
-BOR021	molto tempo
+BOI071	ehm
+BOR021	ma dici che il lavoro ti toglie tanto tempo
+BOI071	molto tempo
 BOR021	quanto lavori
-BOI071	al giorno
-BOR021	eh al giorno facendo cameriere devi ben~ devi tenere conto che è spezzato capito tipo si apre a pranzo poi si torna a casa poi di nuovo a cena
-BOI071	è vero
-BOR021	questa è un po' una una palla dei camerieri diciamo un po' una rottura
-BOI071	certo
+BOR021	al giorno
+BOI071	eh al giorno facendo cameriere devi ben~ devi tenere conto che è spezzato capito tipo si apre a pranzo poi si torna a casa poi di nuovo a cena
+BOR021	è vero
+BOI071	questa è un po' una una palla dei camerieri diciamo un po' una rottura
+BOR021	certo
 BOI071	però
 BOI071	sì mh
 BOI071	cioè quando
@@ -1125,27 +1066,27 @@ BOI071	quando ho cominciato facevo soltanto mattina così avevo del tempo da ded
 BOI071	per la sera anche xxx
 BOI071	per la mia passione cioè la fotografia
 BOI071	il cioè una cosa che facevo io
-BOR021	con la fotografia era andare proprio in piazza maggiore fermare gente a caso e esatto sì
-BOI071	bellissimo
-BOR021	a volte ti dicevano di no però mh
-BOI071	però ci provi
-BOR021	esatto l'importante è provarci
-BOI071	quindi ancora la coltivi sta passione
+BOI071	con la fotografia era andare proprio in piazza maggiore fermare gente a caso e esatto sì
+BOR021	bellissimo
+BOI071	a volte ti dicevano di no però mh
+BOR021	però ci provi
+BOI071	esatto l'importante è provarci
+BOR021	quindi ancora la coltivi sta passione
 BOI071	col lavoro un po' di meno
 BOI071	però sì cioè ora sto cercando di diminuire le ore
-BOR021	ehm
-BOI071	adesso
-BOR021	esatto però sì
-BOI071	tu invece
-BOR021	xx
-BOI070	le foto
+BOI071	ehm
+BOR021	adesso
+BOI071	esatto però sì
+BOR021	tu invece
+BOI071	xx
+BOR021	le foto
 BOI070	io
 BOI070	eh io adesso non eh le foto non sto facendo niente metà delle passioni
 BOI070	per adesso sono un po' stand by
-BOR021	cioè nel senso
+BOI070	cioè nel senso
+BOR021	perché
 BOI070	perché
-BOI071	perché
-BOI070	si sta rilassando
+BOI071	si sta rilassando
 BOI070	sì si può anche dire così
 BOI070	nel senso s~
 BOI070	sai c'è stato un periodo dove dato veramente il massimo su alcune cose progetti
@@ -1153,22 +1094,22 @@ BOI070	ho dovuto sistemare molte cose
 BOI070	e quando arrivi a un punto così
 BOI070	ehm
 BOI070	vai a fare la parte opposta
-BOR021	quando hai xx sovraccaricare molto una mente
-BOI070	troppo
+BOI070	quando hai xx sovraccaricare molto una mente
+BOR021	troppo
 BOI070	su alcuni aspetti su alcuni progetti su alcuni
 BOI070	cose che devi risolvere poi è chiaro che
 BOI070	ti prendi un periodo appunto dove dici okay per adesso basta così
 BOI070	basta perché sai
 BOI070	mh quan~ mh
 BOI070	ci sono persone che magari vivono solo di una passione
-BOR021	altri invece x devono vivere di due tre passioni
-BOI070	tu sei una di queste
-BOR021	sì
-BOI070	bene
-BOR021	sì
-BOI070	perché magari ne scopri altre
-BOR021	eh beh anche sicuramente per scoprirne altre devi dargli il tempo di scoprirne altre
-BOI070	certo
+BOI070	altri invece x devono vivere di due tre passioni
+BOR021	tu sei una di queste
+BOI070	sì
+BOR021	bene
+BOI070	sì
+BOR021	perché magari ne scopri altre
+BOI070	eh beh anche sicuramente per scoprirne altre devi dargli il tempo di scoprirne altre
+BOR021	certo
 BOI070	è chiaro che
 BOI070	è sempre buono e positivo da standard sì le solite cagate che diciamo
 BOI070	sempre per eh quelle lì invece di averne una
@@ -1182,76 +1123,75 @@ BOI070	e mh crearti del~ mh magari nuove cerchie di amici
 BOI070	curiosare
 BOI070	essere curioso
 BOI070	verso il mondo verso le opportunità che ti offre
-BOR021	verso le opportunità che anche tu ti vai a creare e che ti offri tu a stesso no
-BOI070	certo
+BOI070	verso le opportunità che anche tu ti vai a creare e che ti offri tu a stesso no
+BOR021	certo
 BOI070	quindi è più quella parte lì
 BOI070	più una parte che devi sapere coltivare con il tempo
 BOI070	e
-BOR021	con la mente perché la mente se~ dopo un po' di tempo si brucia
-BOI070	
-BOR021	se se se tiri al massimo okay
-BOI070	certo
+BOI070	con la mente perché la mente se~ dopo un po' di tempo si brucia
+BOI070	se se se tiri al massimo okay
+BOR021	certo
 BOI070	quindi le passioni sono un po' questo le passioni ti tengono vivo
 BOI070	certo
 BOI070	però ti possono anche in un certo senso è brutto da dire ma distruggere no
-BOR021	perché
-BOI070	magari ti concentri troppo su quello
+BOI070	perché
+BOR021	magari ti concentri troppo su quello
 BOI070	ti vengono
 BOI070	eh diventi molto ossessionato per le passioni
 BOI070	possono arrivare anche così da una cosa che ti piace molto
-BOR021	può può fare anche questo
-BOI070	tu
-BOR021	ecco
+BOI070	può può fare anche questo
+BOR021	tu
+BOI070	ecco
 BOR021	ne hai scoperte altre oltre alla fotografia
-BOI071	o quella è rimasta
+BOR021	o quella è rimasta
 BOI071	ma di passione ce ne sono
 BOI071	però è sempre questo il punto infatti una volta mi pento molto di fare tutte queste ore al lavoro
 BOI071	e non riuscire
 BOI071	magari per lui è
-BOR021	che se le segui troppo le bruci okay ma io non ho neanche il tempo di segurile perché esatto
+BOI071	che se le segui troppo le bruci okay ma io non ho neanche il tempo di segurile perché esatto
 BOR021	mh
-BOI071	certo quindi dici non non ci arrivo al troppo
+BOR021	certo quindi dici non non ci arrivo al troppo
 BOI071	eh esatto capito quindi è un po'
 BOI071	mi dispiace
 BOI071	però sì a vent'anni la cosa che dovresti fare è un po' quello di scoprire te stesso e seguire le tue passioni
-BOI070	però non avendo tempo
-BOI071	no più che altro non non è x io penso che proprio sia
-BOI070	me ne pento
-BOI071	avendo molte priorità
-BOI070	esatto sì è che
+BOI071	però non avendo tempo
+BOI070	no più che altro non non è x io penso che proprio sia
+BOI071	me ne pento
+BOI070	avendo molte priorità
+BOI071	esatto sì è che
 BOI070	è che purtroppo
-BOI071	quando magari
-BOI070	vabbè in base alle famiglie che capito magari c'è quello
-BOI071	xxx
-BOI070	mh che ha che che gli dà tutto il padre la ma~ cioè
-BOR021	eh
-BOI071	certo anche questo fa
-BOI070	invece magari
+BOI070	quando magari
+BOI071	vabbè in base alle famiglie che capito magari c'è quello
+BOI070	xxx
+BOI071	mh che ha che che gli dà tutto il padre la ma~ cioè
+BOI070	eh
+BOR021	certo anche questo fa
+BOI071	invece magari
 BOI070	per noi noi no purtro~ noi purtroppo siamo ragazzi dove cioè
-BOR021	ti devi costruire tu
-BOI070	certo
+BOI070	ti devi costruire tu
+BOR021	certo
 BOI070	metti che
 BOI070	sì c'è magari un aiuto da dai genitori ma non è quell'aiuto
 BOI070	eh
 BOI070	che ti va poi a coprire magari le spalle
-BOR021	in un certo senso per riuscire a correre dietro una passione
-BOI070	certo
+BOI070	in un certo senso per riuscire a correre dietro una passione
+BOR021	certo
 BOI070	noi facciamo contemporaneamente
 BOI070	lavoriamo
 BOI070	ci facciamo il culo
 BOI070	e in più
 BOI070	ci facciamo anche il culo per le passioni
-BOI071	è un po' questa cosa qua
-BOI070	però sta un po' a te a cosa dare più
-BOI071	sì
+BOI070	è un po' questa cosa qua
+BOI071	però sta un po' a te a cosa dare più
+BOI070	sì
 BOI071	precedenza cioè nel senso magari
-BOR021	vuoi mangiare sta sera oppure vuoi andare a inseguire la tua passione capito vuoi far la spesa oppure xxx
+BOI071	vuoi mangiare sta sera oppure vuoi andare a inseguire la tua passione capito vuoi far la spesa oppure xxx
 BOR021	certo
-BOI071	poi eh per quello poi magari a un certo punto è questione di capire anche lì le priorità
-BOR021	esatto
-BOI071	quello che insomma viene un attimo prima nella lista
-BOR021	mhmh
+BOR021	poi eh per quello poi magari a un certo punto è questione di capire anche lì le priorità
+BOI071	esatto
+BOR021	quello che insomma viene un attimo prima nella lista
+BOI071	mhmh
 BOR021	bene ragazzi grazie mille
-BOI070	è stato un piacere
-BOI071	prego
+BOR021	è stato un piacere
+BOI070	prego
 BOI071	prego

@@ -1,18 +1,18 @@
 TO002	okay mi piacerebbe
-TO003	non mi ricordo mica come è il suo nome
-TO002	è mario rossi
+TO002	non mi ricordo mica come è il suo nome
+TO003	è mario rossi
 TO002	mario
-TO003	mario noi ci siamo conosciuti a lungo
-TO002	eh s~
+TO002	mario noi ci siamo conosciuti a lungo
+TO003	eh s~
 TO002	è stata una esperienza non so quanto drammatica per lei
 TO002	eh mh
 TO002	appunto volevo sapere anche da lei questo
-TO003	la sua opinione su questo libro come ho chiesto a tutti prima di cominciare
-TO002	sì
+TO002	la sua opinione su questo libro come ho chiesto a tutti prima di cominciare
+TO003	sì
 TO002	ehm
 TO002	non è una curiosità ma semplicemente proprio per capire
 TO002	come migliorare il servizio per eh
-TO003	i suoi i suoi colleghi l'anno prossimo insomma
+TO002	i suoi i suoi colleghi l'anno prossimo insomma
 TO003	sì sì certo
 TO003	ma allora io di questo libro ho trovato tanti aspetti positivi
 TO003	quanti negativi si può dire
@@ -22,132 +22,131 @@ TO003	integra molte cose con le schede eh di dati che quindi
 TO003	è una cosa molto eh positiva perché nel caso in cui si volesse approfondire
 TO003	loro ci offrono la possibilità anche attraverso la sitografia o la bibliografia
 TO003	di andare più a fondo nella nella ricerca
-TO002	quella così
-TO003	certo
+TO003	quella così
+TO002	certo
 TO003	poi soprattutto secondo me
 TO003	vabbè questo riguarda sia il libro ma anche la materia in generale
 TO003	cioè io ho scoperto moltissime cose leggendo questo libro che mi hanno veramente
 TO003	aperto mh un mondo nuovo
-TO002	perché ad esempio sapere che mh ci sia ancora parte della popolazione mondiale che soffra per la schiavitù
-TO003	eh
+TO003	perché ad esempio sapere che mh ci sia ancora parte della popolazione mondiale che soffra per la schiavitù
+TO002	eh
 TO003	eh che ci sia appunto ancora la schiavitù del mondo dopo
 TO003	cinquecento anni che mh addirittura venivano trasportati i neri dall'africa all'americhe
 TO003	fa molto pensare perché noi lo vediamo molto secondo me come un processo storico ormai morto e sepolto nel senso
 TO003	quello è avvenuto nel millecinquecento ci sono state ancora mh ovviamente ehm delle ondate nel milleseicento millesettecento avanti però
-TO002	cioè per quanto mi riguarda io lo davo come un fenomeno morto e sepolto lì finità lì e invece
-TO003	a un certo punto dipende da cosa si intende per per schiavitù esattamente insomma ecco non x
+TO003	cioè per quanto mi riguarda io lo davo come un fenomeno morto e sepolto lì finità lì e invece
+TO002	a un certo punto dipende da cosa si intende per per schiavitù esattamente insomma ecco non x
 TO003	sì
 TO003	beh certo
 TO003	prendo ad esempio il libro che fa l'esempio del bonded labor che mh nient'altro che praticamente quello che già avveniva tempo fa cioè e una famiglia si indebita con uno strozzino
 TO003	questo strozzino porta a al massimo i livelli di tasso d'interesse sul mh sul mh l'indebitamento
-TO002	e quindi praticamente l'unica soluzione che la famiglia ha per sdebitarsi è di eh schiavizzarsi di di rendersi schiava per sopperire a questa eh a questa impossiblità di venire incontro al debito che è stato
+TO003	e quindi praticamente l'unica soluzione che la famiglia ha per sdebitarsi è di eh schiavizzarsi di di rendersi schiava per sopperire a questa eh a questa impossiblità di venire incontro al debito che è stato
 TO002	sì
 TO002	lo schiavizzarsi vorrebbe dire in questo caso di
-TO003	fare cosa in realtà
+TO002	fare cosa in realtà
 TO003	di mettersi al servizio di questa persona ad esempio
 TO003	eh
 TO003	beh schiavizzarsi nel senso di sia mettersi al servizio della persona ma più propriamente finire ad esempio a eh
 TO003	costruire mh ad esempio fa l'esempio di una bambina che
 TO003	costruisce dei mattoni utilizzando della terra
-TO002	della terra dell'argilla per dire
+TO003	della terra dell'argilla per dire
 TO002	ma è appunto invece
 TO002	visto che con la sua collega si parlava di immigrazione
 TO002	questa forma di indebitamento eh
-TO003	uh può può essere una delle delle tante cause dell'immigrazione
+TO002	uh può può essere una delle delle tante cause dell'immigrazione
 TO003	sì certo assolutamente
-TO002	eh mh
-TO003	che un modo può questa l'immigrazione può essere considerata che cosa da questo punto di vista una
+TO003	eh mh
+TO002	che un modo può questa l'immigrazione può essere considerata che cosa da questo punto di vista una
 TO003	beh da questo punto di vista mh c'è un aspetto molto importante cioè quello che un tempo l'immigrazione avveniva soprattutto dai paesi cosiddetti del sud del mondo al nord del mondo
 TO003	invece adesso eh spesso e volentieri capita che eh i profughi eh siano anche profughi di cosiddetti interni cioè all'interno dello stesso stato di appartenenza
 TO003	che magari sfuggono da una zona in cui appunto c'è questa pratica della dello sfruttamento minarile dello dello schiavismo
-TO002	del bonded labor eh
+TO003	del bonded labor eh
 TO002	sì ma allora a cosa a cosa a cosa serve il a cosa
 TO002	in che modo l'indebitamento mh apre la strada per l'imm~ eh all'immigrazione
-TO003	perché
-TO002	beh
-TO003	perché
-TO002	perché ad esempio se noi andiamo
-TO003	per sfuggire allo strozzino
+TO002	perché
+TO003	beh
+TO002	perché
+TO003	perché ad esempio se noi andiamo
+TO002	per sfuggire allo strozzino
 TO003	non solo perché se ad esempio se noi consideriamo la teoria di everett lee
 TO003	che ha elaborato mettendo insieme una serie di fattori che eh portano il profugo a lasciare il proprio territorio di eh di origine eh
 TO003	eh possiamo dire che influiscano anche non solo le le aspettative di un miglioramento cioè ad esempio sfuggire da uno strozzino o dal lavoro forzato o
 TO003	o qualsiasi altro lavoro illegale
-TO002	ma ad esempio anche le aspettative personali perché no
-TO003	mh
+TO003	ma ad esempio anche le aspettative personali perché no
+TO002	mh
 TO003	il fatto di poter dire che mh nel caso in cui si voglia mettere su famiglia in un altro stato si è più sicuri si è più protetti dallo stato
-TO002	da questo punto di vista
-TO003	ah eh eh sì ha finito
-TO002	ah no sì prego dica
+TO003	da questo punto di vista
+TO002	ah eh eh sì ha finito
+TO003	ah no sì prego dica
 TO002	no no no mh però mh non ha ancora proprio risposto alla domanda che le sto facendo cioè
-TO003	o meglio non è la risposta che m'aspettavo io forse è questa cosa
-TO002	ah okay
+TO002	o meglio non è la risposta che m'aspettavo io forse è questa cosa
+TO003	ah okay
 TO002	no ma comunque ci si arriva
-TO003	nel senso con ragionamenti progressivi
-TO002	sì
-TO003	eh perché in fin de conto la situazione che m'ha descritto lei è quello della fuga da qualcuno che ti eh
-TO002	ah sì ah no no ho capito ho capito sì sì
+TO002	nel senso con ragionamenti progressivi
+TO003	sì
+TO002	eh perché in fin de conto la situazione che m'ha descritto lei è quello della fuga da qualcuno che ti eh
+TO003	ah sì ah no no ho capito ho capito sì sì
 TO002	allora in che modo l'emmi~ l'immi~ l'emigrazione può servire
-TO003	come risposta all'end~ all'endibitamento dal punto di vista di chi
+TO002	come risposta all'end~ all'endibitamento dal punto di vista di chi
 TO003	ah ho capito
-TO002	beh ad esempio
-TO003	o della famiglia
-TO002	sì ad esempio l'
-TO003	indebitata
+TO003	beh ad esempio
+TO002	o della famiglia
+TO003	sì ad esempio l'
+TO002	indebitata
 TO003	s~ mh se parliamo di migrazione per fuggire da
 TO003	potremmo anche dire che la fuga di cervelli è sempre una fuga da però non per quanto riguarda la famiglia ma per l'individuo in sè
 TO003	cioè non si sfugge da una mh ah appunto da uno sfruttamento o altre cose del genere ma si va
 TO003	mh cioè l'aspettativa non è di lasciare un paese
 TO003	eh perché questo paese non offre possiblità di miglioramento personale
 TO003	ma di eh proprio di andare in un altro stato
-TO002	dove invece si eh si pensa che ciò possa avvenire secondo me
+TO003	dove invece si eh si pensa che ciò possa avvenire secondo me
 TO002	mh
-TO003	no ma ragioni sul quello la voglio portare alla mia al rispondere a quello che
-TO002	
-TO003	ragioni sull'indebitamento
-TO002	ah okay sull'indebitamento
+TO002	no ma ragioni sul quello la voglio portare alla mia al rispondere a quello che
+TO002	ragioni sull'indebitamento
+TO003	ah okay sull'indebitamento
 TO002	sull'indebitamento vuol dire che
-TO003	se io m'indebito per ics ragioni come il contadino per avere le sementi per coltivare il grano o per comprarmi una macchina agricola che mi permette di xxrare meno fatica o di implemenetare la mia produzione
+TO002	se io m'indebito per ics ragioni come il contadino per avere le sementi per coltivare il grano o per comprarmi una macchina agricola che mi permette di xxrare meno fatica o di implemenetare la mia produzione
 TO003	sì
-TO002	ah ah
+TO003	ah ah
 TO002	eh eccetera io mi indebito come posso
 TO002	eh
 TO002	mh a~ arrivare a creare le condizioni per rimborsare questo debito
-TO003	uno è quello del eh bonded labour di cui diceva lei è il fatto che io resto sullo stesso posto e presto la mia manodopera gratuitamente finché questo debito non è rimborsato
+TO002	uno è quello del eh bonded labour di cui diceva lei è il fatto che io resto sullo stesso posto e presto la mia manodopera gratuitamente finché questo debito non è rimborsato
 TO003	mh mh
 TO003	mh
-TO002	sì
+TO003	sì
 TO002	o secondo delle convenzioni che possono essere più o meno
 TO002	un'altra parte un altro modo è essere quello dell'immigrazione
-TO003	ma non per fuggire
-TO002	ah ne senso di
-TO003	che cosa ci faccio fare cosa mi serve l'immigrazione
+TO002	ma non per fuggire
+TO003	ah ne senso di
+TO002	che cosa ci faccio fare cosa mi serve l'immigrazione
 TO003	nel senso di spostarsi un'altra città per trovare lavoro e pagare il debitomh che si è contratti che si è contratto nei confronti di uno strozzino ad esempio
 TO003	sì mh
-TO002	per esempio
-TO003	allora ah le cosi~ le cosidette rimesse
-TO002	ah sì giusto sì sì sì
+TO003	per esempio
+TO002	allora ah le cosi~ le cosidette rimesse
+TO003	ah sì giusto sì sì sì
 TO002	le cosidette rimesse
-TO003	hanno diverse funzioni certo non ce n'hanno solo una eh a seconda eh ma possono essere usate
-TO002	sì xxx
+TO002	hanno diverse funzioni certo non ce n'hanno solo una eh a seconda eh ma possono essere usate
+TO003	sì xxx
 TO002	una famiglia di cinque persone può decidere di inviare i più giovani
 TO002	a a
 TO002	in un all'estero diciamo do~ dove dove ci sono maggiori opportunità di lavoro dove si può soprattutto procacciarsi magari anche una una moneta che ha un alto valore di scambio
-TO003	rispetto a quella locale
-TO002	sì
+TO002	rispetto a quella locale
+TO003	sì
 TO002	e con cui
-TO003	posso mh soddisfare o posso
-TO002	sì sì è vero
+TO002	posso mh soddisfare o posso
+TO003	sì sì è vero
 TO002	eh mh
 TO002	rimborsare il debito che altrimenti mi terrebbe diciamo assoggettato a al
-TO003	alla persona
-TO002	sì infatti eh
-TO003	allo strozzino quello che abbiamo deciso di chiamare strozzino xx che potrebbe non esserlo ecco
+TO002	alla persona
+TO003	sì infatti eh
+TO002	allo strozzino quello che abbiamo deciso di chiamare strozzino xx che potrebbe non esserlo ecco
 TO003	sì sì ma io sono andato subito sul sul tragico e così
 TO003	mh però c'è anche questa realtà comunque che va considerata perché
 TO003	e comunque a questo proposito sì mi viene in mente che eh nel caso delle rimesse infatti si parla propriamente di transnazionalismo
-TO002	cioè dei legami che si creano tra lo stato di origine del profugo e lo stato in cui il profugo si trasferisce per chiedere per trovare lavoro mh chiedere l'asilo politico o per mille altri motivi
-TO003	eh quando si parla di legami inter-transnazionale si parla sì di legami tra tra tra stati situati molto lontani li uno rispetto all'altro ma anche di legam~ si parla di legami transnazionali anche tra le famiglie o di famiglie transnazionali
-TO002	sì
+TO003	cioè dei legami che si creano tra lo stato di origine del profugo e lo stato in cui il profugo si trasferisce per chiedere per trovare lavoro mh chiedere l'asilo politico o per mille altri motivi
+TO002	eh quando si parla di legami inter-transnazionale si parla sì di legami tra tra tra stati situati molto lontani li uno rispetto all'altro ma anche di legam~ si parla di legami transnazionali anche tra le famiglie o di famiglie transnazionali
+TO003	sì
 TO002	all'in~ tra le~
 TO002	tra le quali diciamo la relazione è sostanziata dal eh
 TO002	dallo scambio
@@ -158,21 +157,21 @@ TO002	dell'immigrazione attiva
 TO002	anche in delle condizioni
 TO002	che ai nostri l'immigrato qui ora
 TO002	ah vive delle condizioni cioè di estrema povertà rispetto ai nostri standard
-TO003	però è un modo lo stesso di procacciarsi quei soldi
-TO002	sì
+TO002	però è un modo lo stesso di procacciarsi quei soldi
+TO003	sì
 TO002	quelle diciamo quella lì che permette poi alla famiglia
 TO002	che è rimasta
-TO003	di mh una certa mobil~ di mantenere una certa mobilità sociale
-TO002	sì di poter
+TO002	di mh una certa mobil~ di mantenere una certa mobilità sociale
+TO003	sì di poter
 TO002	perché il debito viene contratto non solo nella situazione di enorme difficoltà no di penuria eh
-TO003	il debito è contratto xx semplicemente anche per in un'ottica di mobilità sociale
+TO002	il debito è contratto xx semplicemente anche per in un'ottica di mobilità sociale
 TO003	ah sì sì certo
 TO003	sì sì per esempio ci sono i cosidetti si parla ad esempio di povertà moderata di povertà assoluta perché almeno nel caso della povertà assoluta proprio non si può fare a meno
-TO002	ad esempio nean~ anche nel caso della
-TO003	che è calcolata a quanto quindi come
-TO002	ah uno virgola venticinque dollari al giorno
+TO003	ad esempio nean~ anche nel caso della
+TO002	che è calcolata a quanto quindi come
+TO003	ah uno virgola venticinque dollari al giorno
 TO002	pro capite
-TO003	ah
+TO002	ah
 TO003	sì sì pro capite
 TO003	e invece appunto di povertà moderata si parla nel caso dei due dollari
 TO003	al giorno pro capite
@@ -180,36 +179,27 @@ TO003	eh ad esempio appunto anche nel un caso di indebitamento può avvenire nel
 TO003	perché anche in quel caso eh pur non essendo proprio in una situazione eh
 TO003	assolutamente degradata la persona non riesce a mantenere gli standard di vita minimi che la società impone
 TO003	non a caso purtroppo ancora oggi molte persone vivono in un sottoscala
-TO002	il che è indice del fatto che che non c'è appunto
-TO003	posso interromperla
-TO002	sì sì prego
-???	
-TO002	okay quest~ è preparato sto ragazzo
+TO003	il che è indice del fatto che che non c'è appunto
+TO002	posso interromperla
+TO003	sì sì prego
+???	okay quest~ è preparato sto ragazzo
 TO002	ah
-TO003	mh
-TO003	
+TO002	mh
 TO003	eh sì
-TO002	
-???	xxx avrei potuto farle una domanda per
-TO003	cose brutte m'ha detto professore
-TO003	
+TO002	xxx avrei potuto farle una domanda per
+???	cose brutte m'ha detto professore
 TO003	sono ancora in tempo per ritirare
-TO002	
 TO002	no
-TO003	uh xx tra il diciassette e il diciotto non so se
-TO002	ah sì per fare un azzardo un rischio
-TO002	
+TO002	uh xx tra il diciassette e il diciotto non so se
+TO003	ah sì per fare un azzardo un rischio
 TO002	eh
-TO003	mh sì ora non so perché siamo andati finiti nell'immigrazione
-TO002	
+TO002	mh sì ora non so perché siamo andati finiti nell'immigrazione
 TO002	eh
 TO002	un'altra parte del libro suxx io non so più capa~ son più incapace di far domande non so più che
-TO003	che domande fare
+TO002	che domande fare
 TO003	eh mh
-TO003	
-TO002	no dicevo un'altra parte che non che non mi è piaciuta o
-TO003	sì che non è piaciuta così faccio una domanda
-TO003	
+TO003	no dicevo un'altra parte che non che non mi è piaciuta o
+TO002	sì che non è piaciuta così faccio una domanda
 TO003	beh eh
 TO003	no cioè un ce un certi mh
 TO003	cioè a un certo punto secondo me è difficile da da comprendere
@@ -217,21 +207,20 @@ TO003	infatti ad esempio nel caso del rescaling o delle smart city
 TO003	ho dovuto rileggere tre o quattro volte lo stesso paragrafo perché non capivo bene dove volesse andare a parare
 TO003	e questo appunto fa parte dei difetti perché
 TO003	mh il fatto di dover mh doverci stare più del dovuto su un paragrafo o cosa è
-TO002	o anche ad esempio anche la differenza potrà sembrare una banalità ma la differenza tra anche tra scala geografica e cartografica
-TO003	a unxxx
-TO002	ho dovuto rileggerla cinque o sei volte perché non perché non era subito così immediata
-TO003	sì
+TO003	o anche ad esempio anche la differenza potrà sembrare una banalità ma la differenza tra anche tra scala geografica e cartografica
+TO002	a unxxx
+TO003	ho dovuto rileggerla cinque o sei volte perché non perché non era subito così immediata
+TO002	sì
 TO003	poi dopo sono a vedere un po' gli appunti allora ho capito meglio le eh
-TO002	però le dico basandoci solo sul libro
+TO003	però le dico basandoci solo sul libro
 TO002	sì
 TO002	quindi ci dice anche da quanto tempo stiamo parlando
 TO002	eh
-TO003	abbiamo ancora altri venti minuti di soxxxx xxxx
-TO002	
+TO002	abbiamo ancora altri venti minuti di soxxxx xxxx
 TO002	ma a cosa serve la scala alla fine
 TO002	cioè indipendentemente da quello
-TO003	o come l'ha capita lei
-TO002	mh
+TO002	o come l'ha capita lei
+TO003	mh
 TO002	o come se ne è parlato là non lo so o
 TO002	eh
 TO002	l'utilità di questa
@@ -246,15 +235,15 @@ TO002	intende appunto di essere una una riduzione simbolica
 TO002	eh
 TO002	per reale
 TO002	della della
-TO003	della terra
-TO002	sì
+TO002	della terra
+TO003	sì
 TO002	allora uh
-TO003	lei come a cosa può a cosa può servire a cosa serve come è utilizzata
+TO002	lei come a cosa può a cosa può servire a cosa serve come è utilizzata
 TO003	ma ad esempio a me viene in mente una definizione molto carina che invece diceva il libro e
 TO003	che il lavoro del geografo si basa soprattutto su
-TO002	un motto molto particolare che è eh pensa globalmente e agisci localmente
+TO003	un motto molto particolare che è eh pensa globalmente e agisci localmente
 TO002	uh
-TO003	mh
+TO002	mh
 TO003	e ad esempio a me ha fatto ha colpito molto
 TO003	questo motto particolare perché
 TO003	con la scala ad esempio noi
@@ -266,29 +255,29 @@ TO003	eh anche per quanto riguarda una coscienza civica che
 TO003	si impone di dire che cosa posso fare io adesso per migliorare il luogo dove vivo o che cosa dovrebbero fare le istituzioni per migliorarlo
 TO003	ehm
 TO003	ad esempio anche utilizzando uno strumento molto utile come il gis questo
-TO002	può essere messo in pratica in maniera
-TO003	eh eh ma concretamente noi
-TO002	molto
+TO003	può essere messo in pratica in maniera
+TO002	eh eh ma concretamente noi
+TO003	molto
 TO002	cioè quando ragioniamo a scala
-TO003	un ragionamento a scala globale e un ragionamento a scala locale
-TO002	mh
+TO002	un ragionamento a scala globale e un ragionamento a scala locale
+TO003	mh
 TO002	che cosa vuol di~ le istituzioni di cui parla
 TO002	a diverse riprese insomma questxx
 TO002	diversamente
 TO002	il libro a che scala agiscono
-TO003	per esempio
-TO002	le istitu~ beh soprattutto a scala globale
+TO002	per esempio
+TO003	le istitu~ beh soprattutto a scala globale
 TO002	mh
-TO003	quali
+TO002	quali
 TO003	beh ad esempio la world trade organization è a scala globale
 TO003	eh la banca mondiale e il fondo monetario internazionale sono tutte istituzioni che agiscono
-TO002	in scala globale l'onu o
+TO003	in scala globale l'onu o
 TO002	i~ in
-TO003	in quest~ i i
+TO002	in quest~ i i
 TO003	molte altre organizzazioni
-TO002	eh si concentrano soprattutto eh mh sulla scala globale appunto non tanto su quella locale particolare
+TO003	eh si concentrano soprattutto eh mh sulla scala globale appunto non tanto su quella locale particolare
 TO002	eppure con interventi
-TO003	far bene locale no
+TO002	far bene locale no
 TO003	sì è vero questo è anche vero
 TO003	eh
 TO003	beh potrebbe essere che appunto
@@ -300,23 +289,22 @@ TO003	eh
 TO003	per verificare appunto un andamento di un determinato fenomeno
 TO003	ma poi cer~ cercano di agire a scala locale
 TO003	mh sperando che questo influenzi appunto la scala globale
-TO002	è un ragionamento un po' contorto lo capisco
-TO003	no no è perché è contorto il ragionamento su cui si basa il modo in cui
-TO002	
+TO003	è un ragionamento un po' contorto lo capisco
+TO002	no no è perché è contorto il ragionamento su cui si basa il modo in cui
 TO002	le istuzioni globali agiscono nella realtà effettivamente però
-TO003	senz'altro eh eh ha colto uno degli aspetti del eh
-TO002	oppure
+TO002	senz'altro eh eh ha colto uno degli aspetti del eh
+TO003	oppure
 TO002	del modo di agire
 TO002	eh dell'istituzione globale
-TO003	ah quello di in effetti non a caso tutti questi indici
-TO002	mh
+TO002	ah quello di in effetti non a caso tutti questi indici
+TO003	mh
 TO002	ora a parte che si è parlato di indice a proposito dello sviluppo eh
 TO002	ah siano
 TO002	eh siano degli indici elaborati
 TO002	eh e pensatixx
 TO002	inizialmente all'interno di istituzioni globali
-TO003	eh a partire dall'onu o
-TO002	mh
+TO002	eh a partire dall'onu o
+TO003	mh
 TO002	che questi indici effettivamente o indicatori vengano effettivamente usati per monitorare
 TO002	eh ma anche per dare degli indirizzi
 TO002	quindi
@@ -332,76 +320,76 @@ TO002	eh
 TO002	e cerco di nello stesso tempo xxx
 TO002	metto in atto delle delle politiche
 TO002	e dei dispositivi istituzionali per intervenire locamente su quel fenomeno in quel in quel dato in quel dato str~
-TO003	quindi
+TO002	quindi
 TO003	oppure mi è anche venuta ad esempio in mente un'altra cosa
 TO003	eh se si parla di europa che non è una istituzione globale ma comunque continentale sì
 TO003	ad esempio certe eh
 TO003	certe direttive della banca della bi ci e
 TO003	eh mh poi hanno proprio delle ripercussioni sulla vita quotidiana della gente
 TO003	ad esempio possiamo vedere anche il libro ne faceva ne riportava una foto
-TO002	l'immagina della la protesta degl~ degli agricoltori italiani che
-TO003	eh
+TO003	l'immagina della la protesta degl~ degli agricoltori italiani che
+TO002	eh
 TO003	degli allevatori che hanno avuto delle mh delle
 TO003	una imposizione per quanto riguarda la produzione eh del latte
-TO002	ecco ad esempio in quel caso decide è un vertice a decidere
-TO003	certo
+TO003	ecco ad esempio in quel caso decide è un vertice a decidere
+TO002	certo
 TO003	ma poi le ripercussioni
 TO003	sono invece dirette proprio nella scala locale della
 TO003	della vita di tutti i giorni de~ in questo caso degli allevatori della
 TO003	ah
-TO002	di animali da da latte
+TO003	di animali da da latte
 TO002	sì in questo caso alla fine il libro
 TO002	un passaggio insomma
-TO003	appunto dove parla di glocali~ di glocale o di glocalismo di risposte dello sviluppo locale
-TO002	sì
-TO003	cerca di tenere insieme questi due piani no
-TO002	sì è vero s~ è vero
-TO003	come lo vedo
+TO002	appunto dove parla di glocali~ di glocale o di glocalismo di risposte dello sviluppo locale
+TO003	sì
+TO002	cerca di tenere insieme questi due piani no
+TO003	sì è vero s~ è vero
+TO002	come lo vedo
 TO003	eh beh ad esempio il mh caso del neolocalismo o localismo
 TO003	eh si parla di eh mh
 TO003	un sistema territoriale locale
 TO003	che cerca di come dice proprio il libro com~ competere quasi con gli altri sistemi territoriali
-TO002	per imporre la propria tradizione per eh mh
-TO003	più che di imporre sì più eh
+TO003	per imporre la propria tradizione per eh mh
+TO002	più che di imporre sì più eh
 TO003	mettere in risalto
-TO002	eh sì volevo dire appunto
-TO003	sì
+TO003	eh sì volevo dire appunto
+TO002	sì
 TO003	mettere in risalto far mh
-TO002	far vedere che proprio che la sua tradizione esiste è concreta
-TO003	elaborare sì
+TO003	far vedere che proprio che la sua tradizione esiste è concreta
+TO002	elaborare sì
 TO003	ci sono molte isituzioni che
 TO003	ci tengono a promuoverla
 TO003	e quindi in questo caso sì c'è una interazione diretta tra le multinazionali che
 TO003	che puntano al guadagno al mh
 TO003	alla mh attraverso appunto questo sito geografico
 TO003	e invece le istituzioni locali
-TO002	che tendono invece alla valor~ alla valorazzazione di questo sito
-TO003	e perché è composto un sistema territoriale allora
+TO003	che tendono invece alla valor~ alla valorazzazione di questo sito
+TO002	e perché è composto un sistema territoriale allora
 TO003	è composto da numerosi contesti
 TO003	e c'è il contesto naturale in sé
 TO003	che è qualcosa che eh appunto mh
 TO003	è un unico nel suo genere
 TO003	per esempio nel caso dell'unesco
 TO003	eh l'ultimo territorio che è entrato è quello fortunatamente dove vivo io che sono le colline del monferrato
-TO002	è entrato a far parte dell'unesco e quindi
-TO003	mh
+TO003	è entrato a far parte dell'unesco e quindi
+TO002	mh
 TO003	e quello è il capitale eh naturale
 TO003	poi c'è ad esempio c~ si parla anche di capitale istituzionale che sono ad esempio potrebbe essere l'università di torino che
 TO003	si prende carico di
 TO003	fare delle ricerche su un
 TO003	paesaggio del monferrato
-TO002	eh poi ci sono anche le altre istituzioni eh a livello commerciale che sono quelle che ad esempio agenzie pubblicitarie agenzie di turismo che cercano appunto di
-TO003	mh
+TO003	eh poi ci sono anche le altre istituzioni eh a livello commerciale che sono quelle che ad esempio agenzie pubblicitarie agenzie di turismo che cercano appunto di
+TO002	mh
 TO003	valorizzare il luogo soprattutto per il turismo culturale
 TO003	eh mh
 TO003	appunto tutti questi capitali eh uniti insieme
-TO002	eh compongono quello che poi viene definito un sistema territoriale locale
-TO003	sì sì
-TO002	e anche se uh mh c'è mh secondo me c'è un mh lato negativo di questa faccenda
+TO003	eh compongono quello che poi viene definito un sistema territoriale locale
+TO002	sì sì
+TO003	e anche se uh mh c'è mh secondo me c'è un mh lato negativo di questa faccenda
 TO002	certo certo
-TO003	un lato oscuro
-TO002	sì un lato un po' oscuro
-TO003	the dark side of the
+TO002	un lato oscuro
+TO003	sì un lato un po' oscuro
+TO002	the dark side of the
 TO003	sistema territoriale
 TO003	perché mh o mh
 TO003	ho letto che alcuni paesi pur di poter rientrare in questo ingranaggio
@@ -414,12 +402,12 @@ TO003	e quindi di per sè secondo me è una cosa
 TO003	parecchio negativa eh
 TO003	controproducente inventare una tradizione che
 TO003	non c'è nella realtà non c'è mai stata non ha mai avuto attestazioni storiche
-TO002	quando d'altra parte invece ci sono molte di queste tradizioni
-TO003	s~ sì
+TO003	quando d'altra parte invece ci sono molte di queste tradizioni
+TO002	s~ sì
 TO003	culturali che invece non vengono
-TO002	eh valorizzate come dovrebbe essere invece
-TO003	infatti il ma~ nelle xxxx dei sistemi territoriali infatti
-TO002	xx secondo me
+TO003	eh valorizzate come dovrebbe essere invece
+TO002	infatti il ma~ nelle xxxx dei sistemi territoriali infatti
+TO003	xx secondo me
 TO002	eh
 TO002	eh punta punta enfatizza il fatto che
 TO002	sia l'introdotto
@@ -436,22 +424,21 @@ TO002	la ma~ il marketing di quello stesso prodotto insomma
 TO002	eh
 TO002	dimensioni diverse
 TO002	certo il s~ un sistema territoriale come diceva lei è com~ proprio perché è composto da tanti attori
-TO003	eh più attori ci sono e più sono le dimensioni che possono essere messe in eh in valore piuttosto che eh l~ la semplice dimensione vinicola che ne so
-TO002	mh
+TO002	eh più attori ci sono e più sono le dimensioni che possono essere messe in eh in valore piuttosto che eh l~ la semplice dimensione vinicola che ne so
+TO003	mh
 TO002	eh o
-TO003	tutto il discorso dei saperi locali
-TO002	sì
+TO002	tutto il discorso dei saperi locali
+TO003	sì
 TO002	può entrare in un
-TO003	all'interno di un eh di un sistema territoriale
-TO002	sì sì sì
-TO003	eh facendolo oggetto di valorizzazioni all'uopo insomma
+TO002	all'interno di un eh di un sistema territoriale
+TO003	sì sì sì
+TO002	eh facendolo oggetto di valorizzazioni all'uopo insomma
 TO003	anche se secondo me
 TO003	questa è una mia opinione personale
-TO002	certe volte si tende a far piacere quella cosa nel sen~ e per farla piacere la si modifica
-TO003	certo certo
+TO003	certe volte si tende a far piacere quella cosa nel sen~ e per farla piacere la si modifica
+TO002	certo certo
 TO003	in modo che sia di gradimento del
-TO002	per il gusto della della gente
-TO003	va bene va bene basta no non parli più di queste cose non ne posso più
-TO002	
-TO003	chiami il tecnico che qui si è finito
+TO003	per il gusto della della gente
+TO002	va bene va bene basta no non parli più di queste cose non ne posso più
+TO002	chiami il tecnico che qui si è finito
 TO003	ah sì

@@ -58,8 +58,8 @@ BO094	questa freccia è la freccia della completezza.
 BO094	e forse
 BO094	non ce la facciamo a dimostrare
 BO094	trasformare i seguenti in xx
-???	si può fare.
-BO094	((forte_brusio))
+BO094	si può fare.
+???	((forte_brusio))
 BO094	guarda xxx
 BO094	va bene.
 BO094	però ricordatevi che questo, (poi vediamo) ora
@@ -98,12 +98,12 @@ BO094	dove avete le dispense sicuramente il dottor rossi vi ha fatto esercitazio
 BO094	e:::h
 BO094	voi dovreste avere il foglietto proprio nel materiale didattico,
 BO094	co:::n,
-???	formalizzazione rispetto ai quantificatori numerici.
-BO094	al massimo almeno esattamen[te]
+BO094	formalizzazione rispetto ai quantificatori numerici.
+???	al massimo almeno esattamen[te]
 BO094	[al] massimo almeno esattamente.
 BO094	sono quelli. va bene?
-???	eh vi sentite tutti molto famigliari con
-BO094	no:.
+BO094	eh vi sentite tutti molto famigliari con
+???	no:.
 BO094	no ecco e:h sempre così. mai fare questa domanda.
 BO094	va bene allora vediamo intanto di::
 BO094	e:::h
@@ -124,9 +124,9 @@ BO094	e lo scriva esiste un ics e esiste un ipsilon
 BO094	ics è studente e manda messaggini
 BO094	e ipsilon è studente e manda messaggini
 BO094	vi sembra vi sembra che re:nda
-???	esiste almeno due?
+BO094	esiste almeno due?
 ???	no
-BO094	esistono, due
+???	esistono, due
 BO094	o:::h no perché potrebbero coincidere
 BO094	quando io xx il fatto di usare due variabili distinte,
 BO094	ics e ipsilon
@@ -158,8 +158,8 @@ BO094	non può essere reso con un quantificatore esistenziale
 BO094	tutte le volte che io uso il quantificatore esistenziale vuol dire che almeno uno c'è.
 BO094	eh invece quando io dico esistono al massimo devo considerare il caso che nessuno esista.
 BO094	allora cosa faccio?
-???	uso che cosa?
-BO094	per ogni
+BO094	uso che cosa?
+???	per ogni
 BO094	(il per ogni) eh uso una parafrasi mo::lto noiosa
 BO094	va bene
 BO094	perché io dico
@@ -381,8 +381,8 @@ BO094	allora dopo aver discusso la cosa anche col dottor rossi vediamo di
 BO094	trovare una soluzione equa per tutti.
 BO094	dunque la distanza fra il dicio~ diciannove dicembre e il diciotto gennaio,
 BO094	è praticamente di due settimane lavorative.
-???	visto che c'è pasqua nel m~
-BO094	((studenti_ridono))
+BO094	visto che c'è pasqua nel m~
+???	((studenti_ridono))
 BO094	natale nel mezzo.
 BO094	va bene
 BO094	e::h allora noi correggermo tutti i test
@@ -678,16 +678,16 @@ BO094	si cerca di rispondere.
 BO094	d'accordo allora io oggi quello che volevo fare,
 BO094	e::h
 BO094	xx
-???	scusate c'è una domanda
-BO094	((domanda_incomprensibile))
+BO094	scusate c'è una domanda
+???	((domanda_incomprensibile))
 BO094	al test?
 BO094	allora in genere guardate
 BO094	al test e::h voi avrete
 BO094	e::h non so
 BO094	dei foglietti va bene con tutte le domande,
 BO094	e poi in genere mettiamo due fogli bianchi >comunque<
-???	qua potete usare il retro dei fogli >insomma< ecco fogli vostri è bene che non ne circolino d'accordo?
-BO094	((interviene_qualcuno_ma_è_incomprensibile))
+BO094	qua potete usare il retro dei fogli >insomma< ecco fogli vostri è bene che non ne circolino d'accordo?
+???	((interviene_qualcuno_ma_è_incomprensibile))
 BO094	quindi e::h noi aggiungeremo un foglio o due bianco >spillato< insieme al foglio con le domande e fate lì
 BO094	poi quello che voi non volete che io legga,
 BO094	xx sopra e basta
@@ -945,10 +945,10 @@ BO094	la parentesi quadra
 BO094	con un enunciato equivalente a questo,
 BO094	che non contiene la freccia e qual è?
 BO094	a voce alta.
-???	avanti
-BO094	((incomprensibile))
-???	o che cosa?
-BO094	((incomprensibile))
+BO094	avanti
+???	((incomprensibile))
+BO094	o che cosa?
+???	((incomprensibile))
 BO094	bene
 BO094	ora però io mi trovo con
 BO094	questo o: e all'interno della parentesi c'è un altro o,
@@ -986,17 +986,17 @@ BO094	e dopo la mettete anche in forma xx con xxx xx xx xxxx
 BO094	qualcuno ha già finito?
 BO094	allo studente spagnolo dell'erasmus?
 BO094	non c'è.
-???	bene.
-BO094	((domanda_incomprensibile))
+BO094	bene.
+???	((domanda_incomprensibile))
 BO094	lei può applicare quello che vuole l'importante è che il risultato finale contenga solo i connettivi bureani.
-???	not end or.
-BO094	((domanda_incomprensibile))
+BO094	not end or.
+???	((domanda_incomprensibile))
 BO094	eh dev'essere logicamente equivalente certo.
 BO094	cioè come dire quando lei anche qui
 BO094	cioè
 BO094	questa formula qui dentro la parentesi quadra,
-???	è logicamente equivalente a questa cioè no è chiaro le trasformazioni si fatto tutte per equivalenza logica.
-BO094	((domanda_incomprensibile))
+BO094	è logicamente equivalente a questa cioè no è chiaro le trasformazioni si fatto tutte per equivalenza logica.
+???	((domanda_incomprensibile))
 BO094	sì dipende dai casi.
 BO094	ora vediamo non so vediamo in formule non so ma qui le indicazioni non ci sono xx
 BO094	allora
@@ -1080,5 +1080,5 @@ BO094	d'accordo?
 BO094	e:::h diciamo per una lettura umana questo non non non acqu~ aggiunge significato non aggiunge leggibilità
 BO094	però per una macchina
 BO094	è molto importante poter lavorare con delle strutture ben codificate va bene?
-???	facciamo cinque minuti di intervallopoi riprendiamo.
+BO094	facciamo cinque minuti di intervallopoi riprendiamo.
 ???	io comunque ora le chiedo punto uno quello che ha spiegato ieri se ci sono le slides o cose tipo sai di base così so come recuperarlo punto due xxx

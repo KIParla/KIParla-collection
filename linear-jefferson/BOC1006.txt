@@ -1,60 +1,60 @@
-BO092	e:h (.) pos[so entrare? xx (.) grazie].
-BO143	[prego, prego, si accomodi].
-BO092	buongiorno.
+BO143	e:h (.) pos[so entrare? xx (.) grazie].
+BO092	[prego, prego, si accomodi].
+BO143	buongiorno.
 BO092	buongiorno.
 BO092	allora:=m:h,
-BO143	marta, (.) ban[chi].
-BO092	[sì].
+BO092	marta, (.) ban[chi].
+BO143	[sì].
 BO092	sì.
-BO143	dunque marta tu porti il programma dell'anno accademico duemilasedici duemiladiciassette,
-BO092	sì.
+BO092	dunque marta tu porti il programma dell'anno accademico duemilasedici duemiladiciassette,
+BO143	sì.
 BO092	°dell'°anno sco:rso,
 BO092	quindi fai la prima parte con me,
-BO143	hai un documento?
-BO092	sì.
+BO092	hai un documento?
+BO143	sì.
 BO092	grazie.
 BO092	°okay perfetto,°
 BO092	allo::ra,
-BO143	°sì° (.) dunque la tua tesina l'ho corretta io, però te la commento: (.) dopo,
-BO092	[okay].
+BO092	°sì° (.) dunque la tua tesina l'ho corretta io, però te la commento: (.) dopo,
+BO143	[okay].
 BO092	[alla fi]ne dell'esa:me.
-BO143	e::h=m::h (.) dunque della par~, (.) tu dai l'esame da frequentante?
-BO092	e:h sì.
+BO092	e::h=m::h (.) dunque della par~, (.) tu dai l'esame da frequentante?
+BO143	e:h sì.
 BO092	devi darlo da frequentante hai portato:, (.) per la mia parte, sia le slide che gli articoli teorici giusto?
-BO143	gli articoli (.) hai fatto anche le sli[de]?
-BO092	[sì:] (.) sì [sì sì (.) certo].
+BO092	gli articoli (.) hai fatto anche le sli[de]?
+BO143	[sì:] (.) sì [sì sì (.) certo].
 BO092	[okay okay],
 BO092	bene,
-BO143	qual è: l'argomento che ti ha interessato maggiormente, della seconda: parte: dell'esame?
+BO092	qual è: l'argomento che ti ha interessato maggiormente, della seconda: parte: dell'esame?
 BO143	e::h (.) beh, (.) allora, e::h beh, (.) mi è:: mi è interessato molto, la parte relativa (.) agli errori infatti non a caso dopo,
 BO143	e::h (.) ho voluto concentrarmi appunto su quella parte per=e::h la: (.) stesura appunto della mia tesina,
-BO092	e anche: mi è:: (.) mi è interessato molto:, (.) il=e:h (.) diciamo l'analisi che abbiamo fatto dell'intercomprensione fra lingue e affini.
-BO143	mh mh,
+BO143	e anche: mi è:: (.) mi è interessato molto:, (.) il=e:h (.) diciamo l'analisi che abbiamo fatto dell'intercomprensione fra lingue e affini.
+BO092	mh mh,
 BO143	quegli approcci appunto plura:li,
 BO143	e in particolare appunto l'intercomprensio:ne,
-BO092	e l'analisi di:: appunto di galanet, e di euron ci[nque].
-BO143	[mh], (.) bene, (.) parliamo di questo allora.
+BO143	e l'analisi di:: appunto di galanet, e di euron ci[nque].
+BO092	[mh], (.) bene, (.) parliamo di questo allora.
 BO143	sì,
 BO143	allora,
 BO143	per quanto riguarda gli approcci appunto plurali,
 BO143	possiamo appunto: abbiamo appunto la::,
 BO143	e:::h l'approccio interculturale,
 BO143	la:: didattica: (.) e::h (.) integrata,
-BO092	e:::h il=e::h appunto (.) le xxx au langue, (.) che è una serie appunto d[i::],
-BO143	[le vel] (.) le vel [langue].
-BO092	[e (.) e ve]l lel~ (.) xx [perdoni, non so il franc]ese.
-BO143	[xx xx]
+BO143	e:::h il=e::h appunto (.) le xxx au langue, (.) che è una serie appunto d[i::],
+BO092	[le vel] (.) le vel [langue].
+BO143	[e (.) e ve]l lel~ (.) xx [perdoni, non so il franc]ese.
+BO092	[xx xx]
 BO143	e il clicl appunto, (.) eh content and language integrated learning,
 BO143	e (.) appunto all'intercomprensione fra lingue e affini (.) per intercomprensione, o, comprensione multilingue, si intende l'apprendimento ricettivo,
 BO143	eh (.) di più lingue mediante lo sviluppo di strategie,
 BO143	e::h (.) che consentono di traferire, (.) processi cognitivi,
-BO092	eh (.) conoscenze, esprerienze, abilità già acquisite, da una lingua all'altra.
-BO143	mh mh,
-BO092	e [in mo~],
+BO143	eh (.) conoscenze, esprerienze, abilità già acquisite, da una lingua all'altra.
+BO092	mh mh,
+BO143	e [in mo~],
 BO092	[perché] xx facciamo un passo indietro, perché si parla di approcci plura:li?
 BO092	perché si utilizza questa:::,
 BO092	questo termine:::,
-BO143	e (.) qual è diciamo l:a filosofia, in parte che accomuna tutte queste metodologie che hai: menzionato?
+BO092	e (.) qual è diciamo l:a filosofia, in parte che accomuna tutte queste metodologie che hai: menzionato?
 BO143	beh diciamo che (.) e::h=m (.) gli approcci plurali nascono comunque da nuove tendenze all'interno della didattica.
 BO143	e::h linguistica,
 BO143	in particolar modo abbiamo appunto il=e::h carap, che è appunto il (.) quadro di riferimento per gli approcci plura~ (.) plurali, e il=eh=m:h,
@@ -71,13 +71,13 @@ BO143	e::h (.) e quin=diciamo che, (.) m::h lo scopo fondamentale è quello comu
 BO143	una:: cultura:: (.) del (.) plurilinguismo appunto nel cittadino europeo, quindi valorizzare (.) la::: la dimensione interculturale della dell'apprendimento,
 BO143	e:::h=m::h,
 BO143	e::::=mh,
-BO092	qui[ndi sì ecco],
+BO143	qui[ndi sì ecco],
 BO092	[sì (.) sì sì] sì bene molto bene.
-BO143	e=m::h quindi >dicevi< dal punto di vista invece proprio del=linguistico delle stratregie meta[lin]guistiche,
-BO092	[sì].
-BO143	il=e:h (.) il caso specifico dell'inter<comprens[ione>],
-BO092	[sì].
-BO143	su che cosa si basa?
+BO092	e=m::h quindi >dicevi< dal punto di vista invece proprio del=linguistico delle stratregie meta[lin]guistiche,
+BO143	[sì].
+BO092	il=e:h (.) il caso specifico dell'inter<comprens[ione>],
+BO143	[sì].
+BO092	su che cosa si basa?
 BO143	e:: (.) allora, (.) eh per quanto riguarda appunto l'intercomprensione,
 BO143	e:::=m:::h,
 BO143	allora abbiamo appunto:, abbiamo visto noi abbiamo appunto in particolare analizzato appunto galanet, ed euron quattro e cinque, in particolare e::h,
@@ -86,12 +86,12 @@ BO143	che appunto lo s~ (.) è=mh diciamo=mh il metodo appunto eurom, (.) è que
 BO143	per chi ne sa già una, in particolar modo appunto italiano, (.) spagnolo francese catalano e (.) portoghese,
 BO143	in maniera (.) eh ricettiva.
 BO143	e e:::h il=e::h=m::h,
-BO092	appun[to il],
+BO143	appun[to il],
 BO092	[xxx] in maniera ricettiva::::,
-BO143	focalizzandosi in particolare sulle abilità ricettive.
+BO092	focalizzandosi in particolare sulle abilità ricettive.
 BO143	sì.
-BO092	[e:h focali~] sì in maniera appunto sì (.) esatto focalizzandosi sulle abilità:::=mh (.) ricettive,
-BO143	[okay].
+BO143	[e:h focali~] sì in maniera appunto sì (.) esatto focalizzandosi sulle abilità:::=mh (.) ricettive,
+BO092	[okay].
 BO143	e e:h quindi (.) elaborando strategie di comprensione generali,
 BO143	e e::::h in particolar modo i presupposti teorici sono appunto, la comprensione del testo e quieta teoria dei sette setacci, che sono appunto questi filtri o domini,
 BO143	e:h attraverso cui è possibile trasferire le (.) e:h le conoscenze da una lingua all'altra, che sono appunto il lessico internazionale, il lessico panromanzo quindi diciamo il lessico affine tra le varie,
@@ -103,19 +103,19 @@ BO143	quin=diciamo che,
 BO143	ci si basa un po' su un'analisi comunque di quelle che sono (.) le e::h (.) le analogie, fra le lngue romanze.
 BO143	naturalmente anche con molte generalizzazioni.
 BO143	infatti (.) diciamo che (.) è un metodo che mi lascia un po': come dire,
-BO092	m:::h non s[o sono un (.) un po' p]erples[sa s]ì non so effetttivamente quanto possa: (.) funzionare, però l'ho trovato molto inter[essante perché è un approccio che non] avevo mai:,
+BO143	m:::h non s[o sono un (.) un po' p]erples[sa s]ì non so effetttivamente quanto possa: (.) funzionare, però l'ho trovato molto inter[essante perché è un approccio che non] avevo mai:,
 BO092	[perplessa]?
 BO092	[ah ah],
-BO143	[ma (.) quando abbiamo::],
-BO092	[considerato diciamo].
+BO092	[ma (.) quando abbiamo::],
+BO143	[considerato diciamo].
 BO092	[conosxx (.) ma quando abbia]mo fatto la sperimentazione in: classe c'eri?
-BO143	eri pres[ente]?
+BO092	eri pres[ente]?
 BO143	[e::]::h,
-BO092	o[ddio],
-BO143	[>quando<] abbamo lavorato su::i testi di:: eurom=e::h (.) [cinque],
-BO092	[sì sì sì sì sì sì sì (.) sì sì sì sì sì].
+BO143	o[ddio],
+BO092	[>quando<] abbamo lavorato su::i testi di:: eurom=e::h (.) [cinque],
+BO143	[sì sì sì sì sì sì sì (.) sì sì sì sì sì].
 BO092	[abbiamo provato a fare la traduzione xxnta],
-BO143	okay.
+BO092	okay.
 BO143	sì infatti il metodo appunto eurom,
 BO143	diciamo che sono ab~ appunto nel metodo eurom si hanno appunto venti articoli, per venti appunto lezioni di circa un'ora e mezza,
 BO143	e::h ciascuna,
@@ -137,25 +137,25 @@ BO143	quindi appunto si adottano tutta una serie di strategie di comprensione, q
 BO143	a:::m::h (.) >diciamo< che corrisponde (.) a (.) quelli che sono i propri obbiettivi,
 BO143	si: (.) costruisce appunto un percorso di lettura,
 BO143	e:::h=m:h,
-BO092	e quindi insomm[a:::],
-BO143	[°sì,°]
+BO143	e quindi insomm[a:::],
+BO092	[°sì,°]
 BO143	e poi::: (.) sì.
 BO143	quindi ad esempio ci si:, (.) focalizza a esempio sul, (.) si cerca appunto di capire il genere,
-BO092	e::h il forma:to, (.) magari il periodo appunto di pubblicazione del: (.) dell'articolo, appunto in genere sono articoli tratti da settimanali o quotidiani,
-BO143	mh mh,
+BO143	e::h il forma:to, (.) magari il periodo appunto di pubblicazione del: (.) dell'articolo, appunto in genere sono articoli tratti da settimanali o quotidiani,
+BO092	mh mh,
 BO143	e:::h=m::h,
 BO143	si: (.) individuano ad esempio le seguenze appunto discorsive, o comunque (.) i generi testuali,
 BO143	e:::h=m:h,
 BO143	e poi appunto ci si focalizza sugli aspetti appunto::,
 BO143	più legati, maggiormente legati insomma alla lingua, appunto (.) come dicevo prima trovando appunto analogi:e,
-BO092	e magari a volte anche insomma differenze.
+BO143	e magari a volte anche insomma differenze.
 BO092	ce:rto,
 BO092	°sì sì,°
 BO092	va bene, senti che cos'è il, (.) quadro comune europero di riferimento per le lingue?
-BO143	qual è il suo valore:::,
-BO092	allora, (.) il [quadro],
+BO092	qual è il suo valore:::,
+BO143	allora, (.) il [quadro],
 BO092	[linguis]tico::,
-BO143	politico educati:vo::,
+BO092	politico educati:vo::,
 BO143	allora, il quadro comune europeo di riferimento (.) per la conoscenza delle lingue,
 BO143	è un documento importantissimo,
 BO143	eh (.) stilato appunto nel (.) eh duemilaeuno,
@@ -169,12 +169,12 @@ BO143	relative alle vare competenze, ad esempio ci sono scale,
 BO143	un una scala potrebbe essere ad esempio la, (.) comprensione di un'interazione fra parlanti nativi, ad esempio.
 BO143	e:: appunto è un documento importantissimo, proprio perché per la prima volta, si cerca di individuare, (.) una linea comune,
 BO143	che possa andare bene per tutta europa, per quanto riguarda,
-BO092	a[ppunto la:],
+BO143	a[ppunto la:],
 BO092	[proprio per la prim]a vo:lta?
 BO092	c'erano già stati dei tentativi precede:nti, che erano però:,
 BO092	e:::h (.) diciamo forse più:::,
 BO092	eterogenei, fra loro.
-BO143	però, (.) ti ricordi quando, (.) [tutta la: (.) le pubblica]zione sui livelli soglia,
+BO092	però, (.) ti ricordi quando, (.) [tutta la: (.) le pubblica]zione sui livelli soglia,
 BO143	[e::::h],
 BO143	ah (.) beh (.) sì, appunto nel millenovecento (.) e settantuno, c'era stato il progetto lingue mode:rne,
 BO143	che: (.) appunto, si basava appunto sulle: (.) unità capitalizzabili, e tui (.) sui (.) threshold level che appunto livello soglia che sarebbe appunto livello,
@@ -182,42 +182,42 @@ BO143	di (.) mh minimo:, (.) diciamo a livello linguistico, (.) eh grazie a cui 
 BO143	e instaurare e mantenere rapporti, con i parlanti nativi.
 BO143	e:: però sì,
 BO143	diciamo che:, (.) >probabilmente< questa è la prima volta in cui si ha un documento un po' più sistematico.
-BO092	e::::,
-BO143	uni[ta:ri]o,
+BO143	e::::,
+BO092	uni[ta:ri]o,
 BO143	[che f~],
-BO092	sì, unita:rio.
-BO143	mh,
+BO143	sì, unita:rio.
+BO092	mh,
 BO143	che infatti viene tutt'ora insomma utilizzato naturalmente in riferimento appunto al quadro comune europeo:,
-BO092	m:h (.) [>cioè<, c'è sempre],
-BO143	[è stata pubblicata una] versione aggiornata adesso [nel duemiladicia]sse[tte].
+BO143	m:h (.) [>cioè<, c'è sempre],
+BO092	[è stata pubblicata una] versione aggiornata adesso [nel duemiladicia]sse[tte].
 BO143	[sì:],
 BO143	[sì] sì sì.
 BO143	infatti anche noi abbiamo visto appunto: mi ricordo quando abbiamo appunto:: (.) durante appunto il suo modulo, analizzato la:: (.) l'interazione,
 BO143	fra: due (.) studentesse di italiano, come lingua straniera, di madrelingua francese, julie e amelie mi pareva,
 BO143	e:: avevamo usato appunto anche noi i descrittori naturalmente del quadro comune::: europeo, proprio per attribuire,
-BO092	il livello lin~ (.) di padronanza linguis[tica].
-BO143	[mh mh],
-BO092	quindi appunto avevamo visto l'esposizio:ne, appunto la correttezza quindi l'assenza,
-BO143	mh,
+BO143	il livello lin~ (.) di padronanza linguis[tica].
+BO092	[mh mh],
+BO143	quindi appunto avevamo visto l'esposizio:ne, appunto la correttezza quindi l'assenza,
+BO092	mh,
 BO143	o no di erro:ri,
-BO092	la:: la fluenza, quindi comunque il ritmo dell'el[oquio, la] velocità,
-BO143	[mh],
-BO092	le: f[alse partenze],
+BO143	la:: la fluenza, quindi comunque il ritmo dell'el[oquio, la] velocità,
+BO092	[mh],
+BO143	le: f[alse partenze],
 BO092	[qual è, (.) qual è il ra]pporto tra::,
 BO092	e::h il quadro, (.) diciamo i descrittori, del quadro europeo di riferimento,
-BO143	e gli studi nella linguistica acquisiziona:le?
-BO092	e::::,
-BO143	è una domanda di riflessio:ne, cioè [una domanda] dove ti chiedo [di rifle]ttere.
+BO092	e gli studi nella linguistica acquisiziona:le?
+BO143	e::::,
+BO092	è una domanda di riflessio:ne, cioè [una domanda] dove ti chiedo [di rifle]ttere.
 BO143	[sì],
 BO143	[e::::h],
 BO143	beh, (.) e:::h=mh,
 BO143	oddio, ((ride))
 BO143	e:::h=m:h,
-BO092	non:=non so se ho capito bene la domand[a].
-BO143	[a]llora, (.) nei, (.) n:=diciamo è anche una (.) critica, forse che possiamo por[tare] nei confronti del=e:h (.) del qua:dro,
+BO143	non:=non so se ho capito bene la domand[a].
+BO092	[a]llora, (.) nei, (.) n:=diciamo è anche una (.) critica, forse che possiamo por[tare] nei confronti del=e:h (.) del qua:dro,
 BO143	[sì],
-BO092	s[ì],
-BO143	m::::h, (.) quali sono le critiche che si avanzano, nei confronti dei contenuti del=e:h, (.) del quadro comune [eropeo di] riferimento?
+BO143	s[ì],
+BO092	m::::h, (.) quali sono le critiche che si avanzano, nei confronti dei contenuti del=e:h, (.) del quadro comune [eropeo di] riferimento?
 BO143	[beh, (.) e::h],
 BO143	beh, che probabilmente (.) comunque,
 BO143	è un modello forse troppo rigido,
@@ -233,50 +233,50 @@ BO143	quindi:,
 BO143	diciamo che probabilmente non=e::h, (.) non ci può essere un metodo che va bene per tutti,
 BO143	perché appunto:,
 BO143	diverse:, (.) s=diversissime possono essere le situazioni che si incontrano nella prassi dell'insegnamento, (.) diversi sono gli attori che vi prendono parte,
-BO092	le esigenze, i bisogni, (.) e:::: insomma tutta [una se]rie insomma di fattori da tenere:: in conto,
+BO143	le esigenze, i bisogni, (.) e:::: insomma tutta [una se]rie insomma di fattori da tenere:: in conto,
 BO092	[mh],
-BO143	quindi diciamo che questi descrittori tendono comunque a dare un'idea gen[erale un] [qua:dro, sulla:], (.) progressi[one:],
+BO092	quindi diciamo che questi descrittori tendono comunque a dare un'idea gen[erale un] [qua:dro, sulla:], (.) progressi[one:],
 BO143	[sì],
 BO143	[probabilmente è un po' una:],
 BO143	[sì proba]bilmente è un po' una generalizzazio:ne che, (.) sicuramente è necessaria, perché altrimenti:,
 BO143	non ci si potrebbe basare insomma su nulla:,
-BO092	ma però comunque (.) rim[ane ta]:le, probabilment[e],
+BO143	ma però comunque (.) rim[ane ta]:le, probabilment[e],
 BO092	[mh],
-BO143	[qui]ndi fisssano, (.) come, (.) un po' la parola chiave, (.) fissano degli stan[dard],
-BO092	[sì, degl]i standard, esatt[o (.) a cui, appunto bisogna] (.) a cui appunto l'apprendente deve tentare di adattarsi,
-BO143	[genera:le],
+BO092	[qui]ndi fisssano, (.) come, (.) un po' la parola chiave, (.) fissano degli stan[dard],
+BO143	[sì, degl]i standard, esatt[o (.) a cui, appunto bisogna] (.) a cui appunto l'apprendente deve tentare di adattarsi,
+BO092	[genera:le],
 BO143	ma naturalmente appunto::, diciamo che si sta andando nella direzione contro al metodo, si parla::: addirittura di morte del metodo appunto:,
 BO143	e:::h,
-BO092	proprio perché:, (.) non può esistere un metodo che vada bene per tutti fondamentalmente:,
-BO143	[mh],
+BO143	proprio perché:, (.) non può esistere un metodo che vada bene per tutti fondamentalmente:,
+BO092	[mh],
 BO143	[e ques]to pro~, (.) >diciamo< è un po', (.) come dire,
 BO143	il=e:::h,
 BO143	le: (.) la direzione che si sta prendendo ultimamente.
 BO143	e quindi mentre prima avevamo proprio questa:, (.) diciamo rigità assoluta del metodo, soprattutto anche nei primi appunto:: (.) approcci, nei primi comunque:: metodi,
-BO092	adesso invece sta andando a[ppunto nella] direzione proprio inve:rsa.
-BO143	[mh],
-BO092	[diciamo] che la glottodidattica è (.) comunque appunto una disciplina molto permeabile, anche a::: appunto cambiamenti sociali, appunto [poli]tici culturali,
+BO143	adesso invece sta andando a[ppunto nella] direzione proprio inve:rsa.
+BO092	[mh],
+BO143	[diciamo] che la glottodidattica è (.) comunque appunto una disciplina molto permeabile, anche a::: appunto cambiamenti sociali, appunto [poli]tici culturali,
 BO092	[sì],
-BO143	[mh],
+BO092	[mh],
 BO143	e anche,
-BO092	m::h, (.) per quanto riguarda, (.) le le idee comunque [sulla ri]cerca linguistica in [generale].
+BO143	m::h, (.) per quanto riguarda, (.) le le idee comunque [sulla ri]cerca linguistica in [generale].
 BO092	[mh].
 BO092	[un altro dicia]mo dei meriti del (.) del qua:dro::,
 BO092	appunto come documento (.) diciamo così divulgati:vo, e ad ampia diffusione, quindi, (.) un documento che arriva nelle mani anche degli insenganti,
 BO092	nelle scuole medie inferiori, nelle scuole medie:: superiori, quindi che ha,
 BO092	aiuta:, (.) anche:, (.) a redigere poi,
 BO092	e:::h=mh, (.) i manua:li,
-BO143	[i te:s]ti, eccetera,
-BO092	[sì].
+BO092	[i te:s]ti, eccetera,
+BO143	[sì].
 BO092	che è stato quello di, (.) mettere in evidenza,
 BO092	la complessità:,
 BO092	e:::h (.) delle abilità::, (.) diciamo:::,
 BO092	linguistico comunicative, e di andare (.) oltre,
 BO092	all'abilità (.) linguistico comunicativa.
 BO092	quindi, (.) di parlare in generale di,
-BO143	abilità, (.) dell'apprend[ente].
-BO092	[sì],
-BO143	ecco in che mo:do, (.) in che sen[so]?
+BO092	abilità, (.) dell'apprend[ente].
+BO143	[sì],
+BO092	ecco in che mo:do, (.) in che sen[so]?
 BO143	[beh], (.) diciamo quelle che possiamo:::, (.) diciamo quelle che,
 BO143	possono essere considerate le competenze generali dell'apprendente, sono appunto (.) sape:re, saper fare, saper essere, saper comprendere quindi non abbiamo più appunto solo,
 BO143	quelle:: linguistico comunicative, che erano appunto lessicale, grammaticale:, semantica, fonologica, ortografica, ortoepica,
@@ -289,7 +289,7 @@ BO143	diciamo:,
 BO143	viene appunto valorizzato molto anche::, negli ultimi tempi, anche l'autonomia, comunque, (.) e l'autoapprendimento, quindi appunto self learning, che appunto è la modalità di studio.
 BO143	quindi appunto, (.) il=l'apprende anche grazie appunto all'intoduzione: (.) e::h del=e::h (.) delle tecnologie multimediali.
 BO143	e::h (.) a supporto, appunto, della didattica:,
-BO092	e::h riesce appunto a gestire in maniera più autonoma comunque il proprio processo di apprendimen[to].
+BO143	e::h riesce appunto a gestire in maniera più autonoma comunque il proprio processo di apprendimen[to].
 BO092	[sì].
 BO092	sì sì sì.
 BO092	°senti°, ti faccio un'ultima domanda:,
@@ -299,7 +299,7 @@ BO092	e:h=m:::h,
 BO092	ade~, (.) prima di farti una domanda più puntua:le, intanto che (.) eh apro le slide,
 BO092	e::h=mh (.) parlami:,
 BO092	della valutazione:,
-BO143	nel=e:h (.) processo glottodidattico.
+BO092	nel=e:h (.) processo glottodidattico.
 BO143	sì,
 BO143	allora:,
 BO143	e::h la:: appunto la::=m::::h,
@@ -327,14 +327,14 @@ BO143	e quindi avevamo appunto visto la differenza fra materiale autentico appun
 BO143	e::::h,
 BO143	e poi appunto i::: coefficienti (.) mh con valore appunto come ad esempio quelli della validità:,
 BO143	e: (.) e:h l'affidabilità o fedeltà.
-BO092	e:::h=m:::h,
+BO143	e:::h=m:::h,
 BO092	sì (.) e::h=m:::h,
 BO092	quando::: si parla diciamo di questo concetto più (.) globale, più olistico:, più: (.) anche recente,
-BO143	di (.) utilità (.) [de]l (.) del test, emerge anche una dimensione etica e sociale.
+BO092	di (.) utilità (.) [de]l (.) del test, emerge anche una dimensione etica e sociale.
 BO143	[sì],
 BO143	sì,
-BO092	[sì sì],
-BO143	[ecco:],
+BO143	[sì sì],
+BO092	[ecco:],
 BO143	nel senso che appunto sì (.) m:::h il=e:::h (.) il il testing deve essere appunto,
 BO143	valido, appunto deve essere:, appunto pertinente,
 BO143	affidabile, (.) e utile, quindi nel senso il testing comunque deve,
@@ -344,10 +344,10 @@ BO143	di: di acquisizione, deve essere comunque, un modo con cui l'apprendente,
 BO143	si autovaluta anche possiamo dire.
 BO143	>nel senso che comunque<,
 BO143	m::h, (.) diciamo che il testing (.) nel (.) per quanto riguarda: le (.) conoscenze linguistiche, (.) è inevitabile proprio perché:,
-BO092	io devo avere, (.) una:: (.) cioè, devo testare le mie abilità, devo avere un riscontro pratico e concreto di quello che effettivamente so fare.
-BO143	m::h,
-BO092	però naturalmen[te],
-BO143	[però] gli aspe~ gli aspetti etico-sociali del testing vanno un po' o:ltre cioè si riferiscono per esempio anche all'impatto,
+BO143	io devo avere, (.) una:: (.) cioè, devo testare le mie abilità, devo avere un riscontro pratico e concreto di quello che effettivamente so fare.
+BO092	m::h,
+BO143	però naturalmen[te],
+BO092	[però] gli aspe~ gli aspetti etico-sociali del testing vanno un po' o:ltre cioè si riferiscono per esempio anche all'impatto,
 BO143	sì, (.) diciamo che la=il >appunto< il principio olistico dell'utilità, è collegato: (.) ad altri (.) fattori che sono appunto,
 BO143	l'autenticità:,
 BO143	l'interattività:,
@@ -356,17 +356,17 @@ BO143	si collega alle caratteristiche: (.) eh socio-biografiche del candidato,
 BO143	l'impatto appunto sulla società, sui=l ca~ (.) sui candidati, apppunto sui decisori,
 BO143	e per questo si parla appunto di (.) test appunto high stake test come ad esempio il test il proficency test, il test di padronanza, o di certificazione,
 BO143	che dipende dal contesto,
-BO092	e quello invece low stake:, (.) [a esempio], il test diagnostico, che invece è dipende dal contesto,
+BO143	e quello invece low stake:, (.) [a esempio], il test diagnostico, che invece è dipende dal contesto,
 BO092	[mh],
-BO143	mh [mh],
+BO092	mh [mh],
 BO143	[e: (.) e:]::h la fattibilità, ossia appunto le concrete opportunità di finanziamento, di gestione, di amministrazione, perché poi naturalmente ci sono tutta una serie di,
-BO092	comunque componenti burocratiche e (.) pre~ (.) più molto più pratiche da tenere in considerazione natu[ralme]nte.
-BO143	[m:h],
-BO092	anche [per quan]to riguarda appunto il numero [dei candi],
+BO143	comunque componenti burocratiche e (.) pre~ (.) più molto più pratiche da tenere in considerazione natu[ralme]nte.
+BO092	[m:h],
+BO143	anche [per quan]to riguarda appunto il numero [dei candi],
 BO092	[ma],
-BO143	[prima hai menz]ionato:: gli aspetti::: diciamo le caratteristiche socio-iografiche dei [candida]ti nel test.
-BO092	[sì],
-BO143	ecco, perché le hai menzionate?
+BO092	[prima hai menz]ionato:: gli aspetti::: diciamo le caratteristiche socio-iografiche dei [candida]ti nel test.
+BO143	[sì],
+BO092	ecco, perché le hai menzionate?
 BO143	beh, (.) perché comnque:,
 BO143	sono fattori da tenere (.) assolutamente in considerazione.
 BO143	le: (.) caratteristiche socio-biografiche dei candidati.
@@ -377,10 +377,10 @@ BO143	documenti come il (.) portfo~ (.) il=e::h portfolio appunto europeo per le
 BO143	che appunto:, comprende,
 BO143	e:h la biografia,
 BO143	il dossier appunto e il passaporto, quindi,
-BO092	che (.) era xxxxxx diciamo di carta d'identità linguistica dell'apprend[ente],
-BO143	[mh] mh, mh mh.
+BO143	che (.) era xxxxxx diciamo di carta d'identità linguistica dell'apprend[ente],
+BO092	[mh] mh, mh mh.
 BO143	e poi ci sono appunto altri fattori, appunto a esempio appunto anche l'età:,
-BO092	perché (.) che è una [variabile a]ppunto imprescindibile, non [solo <per l]o> sviluppo neurologico, ma anche per altre: ipotesi,
+BO143	perché (.) che è una [variabile a]ppunto imprescindibile, non [solo <per l]o> sviluppo neurologico, ma anche per altre: ipotesi,
 BO092	[sì],
 BO092	[sì sì],
 BO092	va bene,
@@ -393,10 +393,10 @@ BO092	la tesina è scritta abbstanza bene, abbastanza approfondita,
 BO092	però, (.) è piena di:, (.) e:::h,
 BO092	m:::h diciamo (.) errori, di punteggiatura:,
 BO092	di::: (.) di forma:, (.) di,
-BO143	e:::h=m::h non so se, (.) per~ (.) forse è una delle prime tesine che scrivi, quindi non [ti sono: (.) non ti sono mai state corre]tte?
+BO092	e:::h=m::h non so se, (.) per~ (.) forse è una delle prime tesine che scrivi, quindi non [ti sono: (.) non ti sono mai state corre]tte?
 BO143	[e::h (.) s::::::],
 BO143	sì=mh,
-BO092	sì non non ho:: non ho scritto molte tesine in effetti no[n:: non mi è mai] capitato, devo dire prima.
+BO143	sì non non ho:: non ho scritto molte tesine in effetti no[n:: non mi è mai] capitato, devo dire prima.
 BO092	[perché,
 BO092	eh,
 BO092	perché per esempio, >lasci spesso, (.) uno o due spazi, tra la parola e i due punti,
@@ -406,54 +406,54 @@ BO092	uno spazio o due, dopo (.) la:: (.) l'articolo con l'apostrofo,
 BO092	prima della parola successiva,
 BO092	e:::h=m:::h,
 BO092	le virgolette, (.) metti la virgoletta (.) in apertura:,
-BO143	e: lasci lo spazio, e poi metti la virgole~ (.) >aspetta< te li ho segnati xxxxx.
-BO092	ah, okay, sì.
-BO143	m[etti la virgoletta], (.) vedi così (.) in chius[ura],
+BO092	e: lasci lo spazio, e poi metti la virgole~ (.) >aspetta< te li ho segnati xxxxx.
+BO143	ah, okay, sì.
+BO092	m[etti la virgoletta], (.) vedi così (.) in chius[ura],
 BO143	[sì sì sì sì],
-BO092	[sì],
+BO143	[sì],
 BO092	poi lasci lo spazio prima dei due punti, (.) lasci <più spazi> tra le parentesi,
 BO092	e:::h (.) quilasci lo spazio e qui no,
-BO143	lo sp[azio pri]ma della virgola, (.) non so come ma:i,
+BO092	lo sp[azio pri]ma della virgola, (.) non so come ma:i,
 BO143	[sì],
-BO092	sì no mi dispiace non:: (.) non sono molto pratica [neanche del (.) mie (.) eh l]o so mi dispiace.
-BO143	[eh no ma sono cose molto importa::nti].
-BO092	n[o starò insomma più attenta si]curamente [per le (.) prossime occasioni].
+BO143	sì no mi dispiace non:: (.) non sono molto pratica [neanche del (.) mie (.) eh l]o so mi dispiace.
+BO092	[eh no ma sono cose molto importa::nti].
+BO143	n[o starò insomma più attenta si]curamente [per le (.) prossime occasioni].
 BO092	[e:::::h],
 BO092	[poi (.) vabbè, (.) diciamo, (.) legge]vo ieri: su:::=mh,
 BO092	diciamo ma (.) ma bensì::, (.) o (.) ma però:, (.) è tollerato.
 BO092	e:::h (.) però in realtà è::,
 BO092	mh (.) è tollerato ma:,
-BO143	m:::h (.) se è possibile evitare, l'utilizzo doppio, del=e::h (.) delle congiunzioni avversative, è meglio fa:rlo.
-BO092	okay.
+BO092	m:::h (.) se è possibile evitare, l'utilizzo doppio, del=e::h (.) delle congiunzioni avversative, è meglio fa:rlo.
+BO143	okay.
 BO092	e s~=poi soprattutto, nei testi scritti.
-BO143	e::::h, (.) sì anche qui,
-BO092	ah, okay, sì.
+BO092	e::::h, (.) sì anche qui,
+BO143	ah, okay, sì.
 BO092	okay no (.) i riferimenti bibliograci vanno be:ne, (.) la bibliografia mi sembra formalmente corretta,
 BO092	riguardo un attimo,
-BO143	sì vedi qua per esempio hai lasciato due spa[zi, e qui ne hai lascia]to uno.
-BO092	[ah, okay].
+BO092	sì vedi qua per esempio hai lasciato due spa[zi, e qui ne hai lascia]to uno.
+BO143	[ah, okay].
 BO092	diventa anche difficile (.) da leggere, perché non si capisce se questo si riferisce,
-BO143	>cioè<,
-BO092	sì (.) sì sì sì sì, ho capito.
+BO092	>cioè<,
+BO143	sì (.) sì sì sì sì, ho capito.
 BO092	no per il resto, era standardizzata be:ne,
-BO143	(fai) la triennale?
-BO092	sì.
+BO092	(fai) la triennale?
+BO143	sì.
 BO092	triennale.
-BO143	okay (.) senti io, (.) allora per questa parte, ti do: la (.) parte che di questa parte di esame, ti do ventotto.
-BO092	gra[zie].
-BO143	[e poi] vai allo studio centoventiquattro:, (.) a fare l'altra parte [dell'esa]me,
-BO092	[okay].
-BO143	adesso un attimo solo [che] mi appunto,
-BO092	[sì].
-BO143	le domande che ti ho fatto,
-BO092	e:::h (.) lo studio centoventiquattro [è:::],
-BO143	[dovrebbe e]ssere al primo piano.
-BO092	okay.
+BO092	okay (.) senti io, (.) allora per questa parte, ti do: la (.) parte che di questa parte di esame, ti do ventotto.
+BO143	gra[zie].
+BO092	[e poi] vai allo studio centoventiquattro:, (.) a fare l'altra parte [dell'esa]me,
+BO143	[okay].
+BO092	adesso un attimo solo [che] mi appunto,
+BO143	[sì].
+BO092	le domande che ti ho fatto,
+BO143	e:::h (.) lo studio centoventiquattro [è:::],
+BO092	[dovrebbe e]ssere al primo piano.
+BO143	okay.
 BO092	sì.
 BO092	e:::h=m:::h,
 BO092	bene.
-BO143	[allora in bo]cca al lupo per la [prossima::] (.) parte (.) dell'esame.
+BO092	[allora in bo]cca al lupo per la [prossima::] (.) parte (.) dell'esame.
 BO143	[grazie].
-BO092	[crepi, grazie].
-BO143	arriveder[ci].
+BO143	[crepi, grazie].
+BO092	arriveder[ci].
 BO143	[arr]ivederci.

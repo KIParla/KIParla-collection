@@ -1,156 +1,156 @@
 BO118	dovresti parlarmi della tua casa
-BO140	attuale
-BO118	mh sì
-BO140	com'è fatta la tua casa con chi vivi
+BO118	attuale
+BO140	mh sì
+BO118	com'è fatta la tua casa con chi vivi
 BO140	allora la mia casa è una villa
 BO140	mh in mezzo alla natura
 BO140	ci viviamo in un po' di famiglie che sono
-BO118	eh la mia famiglia
-BO140	mhmh
+BO140	eh la mia famiglia
+BO118	mhmh
 BO140	mia nonna
-BO118	mh i miei cugini quindi due famiglie e la nonna dei miei cugini quindi ci sono cinque famiglie
-BO140	okay quindi è fatta su diversi piani
-BO118	sì ci sono tre piani
-BO140	mhmh
-BO118	e l'ultimo piano è una soffitta che in realtà è abitata da uno dei miei zii
-BO140	okay
-BO118	è fatta in mattoni è è una casa costruita intorno agli anni cinquanta credo
+BO140	mh i miei cugini quindi due famiglie e la nonna dei miei cugini quindi ci sono cinque famiglie
+BO118	okay quindi è fatta su diversi piani
+BO140	sì ci sono tre piani
+BO118	mhmh
+BO140	e l'ultimo piano è una soffitta che in realtà è abitata da uno dei miei zii
 BO118	okay
-BO140	e si trova in centro alla città o fuori
+BO140	è fatta in mattoni è è una casa costruita intorno agli anni cinquanta credo
+BO118	okay
+BO118	e si trova in centro alla città o fuori
 BO140	no si trova fuori dalla città ma è vicina in realtà
-BO118	io abito a @nomepaese e a piedi una decina di minuti ci metto
-BO140	okay
+BO140	io abito a @nomepaese e a piedi una decina di minuti ci metto
+BO118	okay
 BO140	e è bella secondo me perché è immersa nel verde
 BO140	fino a mh trent'anni fa io non lo so ma ho visto dalle foto
 BO140	c'era era so~ c'era solo casa mia e immersa proprio nel verde poi dopo hanno costruito delle villette sopra casa mia e quindi si è persa la percezione della strada
-BO118	eh nazionale che collega @nomepaese con altre altri paesi
+BO140	eh nazionale che collega @nomepaese con altre altri paesi
 BO118	okay
-BO140	e tipo fuori da casa tua che c'è tipo avete il giardino
+BO118	e tipo fuori da casa tua che c'è tipo avete il giardino
 BO140	abbiamo sì me un prato c'è un grande prato
 BO140	e in realtà ce ne son due
 BO140	e sono divisi dalla strada che che porta a casa mia
 BO140	e sotto casa abbiamo un un orto molto grande che è gestito da una parte da mia nonna e dai miei genitori un'altra parte da un'altra famiglia
-BO118	e intorno comunque c'è campagna
-BO140	okay
+BO140	e intorno comunque c'è campagna
+BO118	okay
 BO140	quindi ehm per questo è immer~ cioè è immersa nella natura poi si vedono i monti gli appennini è
-BO118	è bello
-BO140	ehm coi vicini avete un buon rapporto li conoscete bene
+BO140	è bello
+BO118	ehm coi vicini avete un buon rapporto li conoscete bene
 BO140	si cioè diciamo che io ho sempre vissuto fin da piccola con loro perché fan parte della mia famiglia non sono paren~ cioè non è una parentela di primo grado ma comunque di secron~ di secondo grado quindi i figli
 BO140	hanno la mia stessa età o mh siamo comunque coetanei abbiamo sempre giocato insieme fin da piccoli
 BO140	anche se non c'è un rapporto proprio
-BO118	mh stretto di parentela ma più di convenevoli e
+BO140	mh stretto di parentela ma più di convenevoli e
 BO118	okay però comunque è
-BO140	cioè un'atmosfera familiare xxxx
+BO118	cioè un'atmosfera familiare xxxx
 BO140	sì sì sì sì certo
 BO140	cioè non stia~ cioè non festeggiamo feste insieme non stiamo molto insieme in generale però se ci incontriamo fuori da casa ci salutiamo ci chiediamo come stiamo e
-BO118	sì alla fine è un rapporto mh amichevole
-BO140	okay
-BO118	sicuramente non non portiamo rancore o
-BO140	okay e qual è la tua stanza preferita nella tua casa
+BO140	sì alla fine è un rapporto mh amichevole
+BO118	okay
+BO140	sicuramente non non portiamo rancore o
+BO118	okay e qual è la tua stanza preferita nella tua casa
 BO140	la mia stanza preferita ah in realtà una volta era il bagno
 BO140	ma perché è la parte più piccola della casa e si riscalda prima e
 BO140	quindi anche in inverno ho sempre pensato
 BO140	fosse un un luogo più chiuso di altri
 BO140	in generale in questo momento è la sala perché c'è il camino e mh
-BO118	mh vabbè ci stiamo insieme esatto c'è il divano comodo
-BO140	state insieme
+BO140	mh vabbè ci stiamo insieme esatto c'è il divano comodo
+BO118	state insieme
 BO140	e però in realtà non ci sto quasi mai perché son sempre qua a bologna e
-BO118	non ho in realtà un~ una stanza preferita
+BO140	non ho in realtà un~ una stanza preferita
 BO118	nemmeno io mi sa che ce l'ho
 BO118	anche perché casa mia tipo è molto cioè dà molto un senso di freddo
 BO118	perché l'hanno rifatta da poco quindi è molto moderna invece prima era tutta fatta di legno e c'era il camino e adesso non c'è più
 BO118	e prima la mia stanza preferita penso fosse la cucina
-BO140	perché era grande e c'era il tavolo c'era pure un divanetto
-BO118	sì
+BO118	perché era grande e c'era il tavolo c'era pure un divanetto
+BO140	sì
 BO118	però adesso non ce l'ho
 BO118	okay
-BO140	ehm quindi stai vicina al centro e vai spesso in centro o o resti più nella zona dove dove abiti
+BO118	ehm quindi stai vicina al centro e vai spesso in centro o o resti più nella zona dove dove abiti
 BO140	sì vabbè certo
 BO140	anche perché abito diciamo in una periferia cioè @nomepaese è piccola
 BO140	quindi appena ti sposti un po' dal centro a meno che non sia proprio la zona residenziale nuova eh entri molto nella campagna e dove abito io appunto è un aggregato di
 BO140	cento case con la chiesetta così insomma
-BO118	non si fa niente in quella zona quindi per forza vai in centro
+BO140	non si fa niente in quella zona quindi per forza vai in centro
 BO118	okay
-BO140	per for~ quindi per forza devi prendere la macchina per anda' in centro
+BO118	per for~ quindi per forza devi prendere la macchina per anda' in centro
 BO140	sì generalmente sì perché comunque sia non mh
 BO140	non ci sono piste ciclabili o cioè non c'è possibilità di prender la bici o cioè andare a piedi si ma durante il giorno è possibile perché poi di sera comunque son delle strade abbastanza buie
 BO140	è brutto tornare a piedi
 BO140	e quindi sì prendo sempre la macchina
 BO140	mh è comoda e ti sposti facilmente
-BO118	invece in altri mezzi sarebbe impossibile anche con l'autobus così
-BO140	eh ce li avete gli autobus
+BO140	invece in altri mezzi sarebbe impossibile anche con l'autobus così
+BO118	eh ce li avete gli autobus
 BO140	sì ce ne sono pochi e passano tipo ogni quaranti minuti ogni mezz'ora così quindi in realtà è un po' scomodo spostarsi in autobus
 BO140	cioè l'ho fatto tante volte anche quand'ero più piccola però cioè generalmente preferisco la macchina
 BO140	anche perché cioè mi ricordo c'era un periodo in cui i miei tipo ehm vabbè lavoravano sempre dalla mattina alla sera e io la macchina a casa non ce l'avevo non uscivo quasi mai
-BO118	quindi sì sono molto legata alla macchina e agli spostamenti in macchina
+BO140	quindi sì sono molto legata alla macchina e agli spostamenti in macchina
 BO118	si anch'io
 BO118	infatti anch'io sto un po' fuori dal centro cioè io abito in questa frazione e anche solo per arrivare nel paese vero e proprio
-BO140	se dovessi anda' a piedi ci metterei tipo mezz'ora
-BO118	sì sì
-BO140	e quindi prendo sempre la macchina infatti non vedevo l'ora di prender la patente quando c'avevo diciotto anni
-BO118	no io in realtà ho sempre usato il motorino quando ero cioè dai quattordici anni in poi son sempre stata legata molto al motorino ma perché mi piace essere indipendente
-BO140	mhmh
+BO118	se dovessi anda' a piedi ci metterei tipo mezz'ora
+BO140	sì sì
+BO118	e quindi prendo sempre la macchina infatti non vedevo l'ora di prender la patente quando c'avevo diciotto anni
+BO140	no io in realtà ho sempre usato il motorino quando ero cioè dai quattordici anni in poi son sempre stata legata molto al motorino ma perché mi piace essere indipendente
+BO118	mhmh
 BO140	quindi mh
-BO118	cioè preferisco spostarmi per i cavoli miei senza stare sempre agli altri
-BO140	io ho preso il patentino e non ho mai preso il motorino perché avevo paura
+BO140	cioè preferisco spostarmi per i cavoli miei senza stare sempre agli altri
+BO118	io ho preso il patentino e non ho mai preso il motorino perché avevo paura
 BO140	ah ecco vedi
-BO118	no io lo prendevo anche quando nevicava
+BO140	no io lo prendevo anche quando nevicava
 BO118	mado'
-BO140	che poi @nomepaese è fatta tut~ cioè tutta in salita son scomode le strade
+BO118	che poi @nomepaese è fatta tut~ cioè tutta in salita son scomode le strade
 BO140	sì eh
 BO140	sì eh cioè diciamo che il centro è tutto salita e discesa
-BO118	però fuori tutta la periferia così cioè sono delle pendenze normali diciamo
-BO140	okay
+BO140	però fuori tutta la periferia così cioè sono delle pendenze normali diciamo
+BO118	okay
 BO140	cioè da fare in bici è diver~ cioè è più difficile
 BO140	però in motorino in macchina o a piedi si fan tranquillamente ecco cioè
-BO118	in bici devi essere uno sportivo
-BO140	e invece adesso stai a bologna
-BO118	sì
-BO140	e quante case hai cambiato fino adesso da quando stai
-BO118	due
+BO140	in bici devi essere uno sportivo
+BO118	e invece adesso stai a bologna
+BO140	sì
+BO118	e quante case hai cambiato fino adesso da quando stai
+BO140	due
 BO118	due okay
-BO140	la prima casa era in via
-BO118	e la prima casa era in via @nomeluogo,
-BO140	okay
+BO118	la prima casa era in via
+BO140	e la prima casa era in via @nomeluogo,
+BO118	okay
 BO140	e proprio in centro nella zona universitaria
 BO140	e ci ho vissuto quattro anni in doppia
-BO118	e la casa era bellissima
-BO140	quattro anni ci hai vissuto
+BO140	e la casa era bellissima
+BO118	quattro anni ci hai vissuto
 BO140	sì
 BO140	i primi miei quattro anni abbiamo cambiato abbastanza coinquiline in realtà
 BO140	però anche se ero in doppia mi son sempre trovata bene perché c'era un ambiente comune che era la sala cucina
 BO140	era un open space
 BO140	e mh ed era molto bello cioè mh l'ambiente era familiare e comunque c'erano un paio di divani
-BO118	eh la televisione il tavolo da cucina e h stavam sempre tutte insieme
-BO140	okay quindi eran sala e cucina insieme
+BO140	eh la televisione il tavolo da cucina e h stavam sempre tutte insieme
+BO118	okay quindi eran sala e cucina insieme
 BO140	sì e poi c'eran le due camere che si affacciavano sulla saletta e la cucina che eran due doppie e un bagnetto
 BO140	quindi in realtà era piccolina però era ristrutturata da qualche anno quindi era una bella casa abbastanza nuova almeno internamente esternamente no perché era gli edifici degli anni settanta che hanno costruito in centro
-BO118	e sì
+BO140	e sì
 BO118	che poi in quella via son tutti uguali cioè io pure tipo
 BO118	xxx avevo visto una casa quando cercavo casa l'anno scorso
-BO140	e e fuori più o meno son tutti uguali gli edifici
-BO118	sì da fuori dici
-BO140	in quella via xx in quella via
+BO118	e e fuori più o meno son tutti uguali gli edifici
+BO140	sì da fuori dici
+BO118	in quella via xx in quella via
 BO140	sì sì in quella zona sì
 BO140	ma anche perché in via @nomeluogo cioè via @nomeluogo è una è una via che è stata costruita in quegli anni secondo me
 BO140	cioè le vie storiche sono
-BO118	dai zamboni castiglione san vitale insomma cioè quello è il centro piazza maggiore così
-BO140	sì
-BO118	tutto quello che sta fuori diciamo da cioè fuori proprio no via irnerio zona irnerio così sono più si anni cinquanta credo
-BO140	sì penso di sì
-BO118	non lo so
+BO140	dai zamboni castiglione san vitale insomma cioè quello è il centro piazza maggiore così
+BO118	sì
+BO140	tutto quello che sta fuori diciamo da cioè fuori proprio no via irnerio zona irnerio così sono più si anni cinquanta credo
+BO118	sì penso di sì
+BO140	non lo so
 BO118	poi ehm
-BO140	e quindi hai vissuto sempre con tutte ragazze
+BO118	e quindi hai vissuto sempre con tutte ragazze
 BO140	sì nella prima casa si eravam solo ragazze
 BO140	e in questa invece c'è stato un periodo in cui hanno abitato anche degli uomini
-BO118	ehm anche perché cioè cioè son tutte singole quindi è più facile
-BO140	sì
+BO140	ehm anche perché cioè cioè son tutte singole quindi è più facile
+BO118	sì
 BO140	eh che ci siano anche degli uomini mentre nell'altra comunque essendo in due doppie
-BO118	e eravamo più contente di dormire tra donne che avere un uomo in casa anche perché magari cioè nel senso si possono creare anche diversi imbarazzi
+BO140	e eravamo più contente di dormire tra donne che avere un uomo in casa anche perché magari cioè nel senso si possono creare anche diversi imbarazzi
 BO118	si
-BO140	e e rispetto all'altra casa cioè quali sono le differenze tra questa casa qui e l'altra casa
-BO118	e xx
-BO140	sia internamente che come zona
+BO118	e e rispetto all'altra casa cioè quali sono le differenze tra questa casa qui e l'altra casa
+BO140	e xx
+BO118	sia internamente che come zona
 BO140	allora e come zona ho sempre amato il centro di bologna quindi fosse per me in questo momento mi ritrasferirei in centro
 BO140	perché questa casa comunque essendo zona @nomeluogo e per andare in centro ti muovi generalmen~ cioè ti devi muovere comunque o con dei mezzi o a piedi o in bicicletta ma comunque i tempi sono sempre più prolungati
 BO140	e quindi capita spesso che se sei mh indaffarato o non hai tempo di di andare in centro non hai un pomeriggio libero non ci passi mai
@@ -162,89 +162,89 @@ BO140	e che mh comunque io apprezzo tanto
 BO140	mh diciamo che dell'altra preferivo il fatto che fosse in centro rispetto a questa
 BO140	questa è molto più vecchia come casa non è stata ristrutturata mai quindi
 BO140	ehm a livello estetico l'altra è più bella ma mh
-BO118	però anche in questa sto bene ovviamente
+BO140	però anche in questa sto bene ovviamente
 BO118	mh mh
 BO118	sì anche a me
 BO118	io ehm questo è il primo anno che sto in singola
 BO118	e anche a me m'ha fatto un sacco la differenza
 BO118	cioè ho sentito un sacco la differenza anzi i primi giorni
 BO118	era strano che non avessi nessuno con cui parla' prima di addormentamme cioè proprio mi faceva un sacco strano
-BO140	adesso lo apprezzo molto sta cosa
+BO118	adesso lo apprezzo molto sta cosa
 BO140	sì è che in realtà secondo me è una cosa che si ha un po' con la crescita perché quattro anni i miei pri~ i miei primi tre anni diciamo
 BO140	non l'ho mai sentita non ho mai sentito il bisogno di andare in singola
-BO118	anche perché poi sarà di fa~ cioè sta anche il fatto che la mia quella che era in camera con me insomma il weekend tornava spesso a casa quindi comunque il weekend la camera ce l'avevo circa libera
-BO140	okay
+BO140	anche perché poi sarà di fa~ cioè sta anche il fatto che la mia quella che era in camera con me insomma il weekend tornava spesso a casa quindi comunque il weekend la camera ce l'avevo circa libera
+BO118	okay
 BO140	e se volevo ritagliarmi anche dei momenti miei non facevo difficoltà
 BO140	però sì diciamo che crescendo hai bisogno di avere uno spazio più privato
-BO118	i primi anni son più belli si condivide sempre di più sei ancora nella fase del
-BO140	si
-BO118	siamo tutti amici
-BO140	sì che bella l'università tutti insieme
+BO140	i primi anni son più belli si condivide sempre di più sei ancora nella fase del
+BO118	si
+BO140	siamo tutti amici
+BO118	sì che bella l'università tutti insieme
 BO140	esatto
-BO118	poi crescendo secondo me hai bisogno anche di avere uno spazio tuo in cui rinchiuderti
+BO140	poi crescendo secondo me hai bisogno anche di avere uno spazio tuo in cui rinchiuderti
 BO118	sì assolutamente
 BO118	non so se te l'avevo detto tipo io l'anno scorso ero arrivata alla fine che non ce la facevo più stavo impazzendo
 BO118	anche perché anche noi avevamo sala e cucina
 BO118	che praticamente no~ non avevano un~ una porta divisoria c'avevano solamente una specie di arco tra le due stanze e quindi
 BO118	fondamentalmente non stavi da solo quando stavi da una parte o dall'altra
 BO118	e io l'unico posto che c'avevo in cui potevo completamente sta' da sola era il bagno
-BO140	e apprezzavo tantissimo quando stavo in bagno perché non riuscivo più a a sta' con le persone
+BO118	e apprezzavo tantissimo quando stavo in bagno perché non riuscivo più a a sta' con le persone
 BO140	sì sì ma lo capisco
 BO140	cioè lo capisco per quello
-BO118	cioè in realtà son sempre stata fortunata perché ho vissuto sempre con delle persone tranquille che mi lasciavano i miei spazi
-BO140	sì sì ma anch'io però era proprio l'esigenza de sta da sola in dei momenti
-BO118	sì di stare da sola di non parla~ di non vedere in faccia nessuno di di stare per
-BO140	esatto
+BO140	cioè in realtà son sempre stata fortunata perché ho vissuto sempre con delle persone tranquille che mi lasciavano i miei spazi
+BO118	sì sì ma anch'io però era proprio l'esigenza de sta da sola in dei momenti
+BO140	sì di stare da sola di non parla~ di non vedere in faccia nessuno di di stare per
+BO118	esatto
 BO140	fatti suoi
-BO118	sì sì no per quello sì
+BO140	sì sì no per quello sì
 BO118	che poi sta cosa è anche difficile a bologna in generale se stai in centro perché ovunque vai c'è qualcuno
-BO140	cioè non c'è nessun posto in cui tu stai completamente da solo o comunque stai co' poca gente
-BO118	mh in che senso dici
-BO140	cioè tipo
-BO118	di spazi pubblici
+BO118	cioè non c'è nessun posto in cui tu stai completamente da solo o comunque stai co' poca gente
+BO140	mh in che senso dici
+BO118	cioè tipo
+BO140	di spazi pubblici
 BO118	sì
-BO140	cioè stai per strada è raro che trovi una strada in cui ci stai solo tu
+BO118	cioè stai per strada è raro che trovi una strada in cui ci stai solo tu
 BO140	certo
-BO118	sì sì sì sì assolutamente vabbè quello è un po' il centro il centro di tutte le città
-BO140	sì esatto
+BO140	sì sì sì sì assolutamente vabbè quello è un po' il centro il centro di tutte le città
+BO118	sì esatto
 BO140	cioè appena ti sposti un pochino più fuori per dire tipo in andrea costa c'è un parco pubblico
-BO118	che ho scoperto l'anno scorso e se vai lì mmmh in certi orari non trovi mai nessuno
-BO140	mh dove sta
+BO140	che ho scoperto l'anno scorso e se vai lì mmmh in certi orari non trovi mai nessuno
+BO118	mh dove sta
 BO140	cioè
-BO118	è il parco melloni si trova tipo tra via melloni e l'altra non so come si chiami in realtà
-BO140	ah
+BO140	è il parco melloni si trova tipo tra via melloni e l'altra non so come si chiami in realtà
+BO118	ah
 BO140	però ti~ è piccolino è racchiuso in mezzo alle case
 BO140	e è molto carino cioè ci portano i cani e anche i bimbi ci sono i giochi per bambini così quindi se tipo ci vai la sera alle nove di sera in estate
 BO140	è difficile che trovi qualcuno magari no
 BO140	è carino stai lì
-BO118	è molto tranquilla come zona
+BO140	è molto tranquilla come zona
 BO118	sì ma infatti già uscendo dalle mura
-BO140	è diversa bologna cioè proprio cambia totalmente
-BO118	sì
-BO140	secondo me
-BO118	e infatti per quello
-BO140	anche zona murri dove abita leo
-BO118	sì esatto
-BO140	cioè là io
-BO118	cioè è molto residenziale lo senti lo vedi che ci abitan delle famiglie i non studenti quindi
-BO140	si
-BO118	cioè se vuoi anche più tranquillità ti sposti verso fuori generalmente non conosco person~ famiglie che bolognesi che abitano in centro
-BO140	esatto
-BO140	comunque se abitan son rimaste nelle zone più storiche tipo
-BO118	castiglione
+BO118	è diversa bologna cioè proprio cambia totalmente
+BO140	sì
+BO118	secondo me
+BO140	e infatti per quello
+BO118	anche zona murri dove abita leo
 BO140	sì esatto
-BO118	sì
+BO118	cioè là io
+BO140	cioè è molto residenziale lo senti lo vedi che ci abitan delle famiglie i non studenti quindi
+BO118	si
+BO140	cioè se vuoi anche più tranquillità ti sposti verso fuori generalmente non conosco person~ famiglie che bolognesi che abitano in centro
+BO118	esatto
+BO140	comunque se abitan son rimaste nelle zone più storiche tipo
+BO140	castiglione
+BO118	sì esatto
+BO140	sì
 BO118	anche se io non so se mh nel futu~ cioè
 BO118	se da grande vorrò vivere in una città
 BO118	cioè la città ti offre tantissimo anche a livello lavorativo sicuramente poi dipende da quello che uno vuole fa ma avendo fatto l'università è ovvio che uno aspiri a un lavoro mh ovviamente non da operaio o quello che sia
 BO118	però non so se abiterei in città
-BO140	o perlomeno se abiterei a bologna
-BO118	ma in città parli di centro storico o o città come città metropolitana in gene~
+BO118	o perlomeno se abiterei a bologna
+BO140	ma in città parli di centro storico o o città come città metropolitana in gene~
 BO118	cioè
-BO140	città metropolitana
-BO118	cioè vorresti abitare in campagna lontana dal dal traffico e
+BO118	città metropolitana
+BO140	cioè vorresti abitare in campagna lontana dal dal traffico e
 BO118	forse sì
-BO140	forse sì
+BO118	forse sì
 BO140	no io in realtà no
 BO140	cioè nel senso per quanto mi piaccia la tranquillità e la serenità non mi piacerebbe abitare lontano da tutto
 BO140	perché son sempre stata una persona molto
@@ -252,160 +252,160 @@ BO140	socievole cioè mi piace stare con le persone poi ho bisogno dei miei spaz
 BO140	però mi piace tantissimo uscire a farmi una passeggiata e incontrare delle persone
 BO140	cioè farci due chiacchiere magari così
 BO140	che poi i miei spazi me li ritaglio a casa mia ecco
-BO118	magari sì in campagna mi piacerebbe abitare o in in più che in campagna in un posto con del verde
+BO140	magari sì in campagna mi piacerebbe abitare o in in più che in campagna in un posto con del verde
 BO118	esatto cioè ma una via di mezzo tipo mh a firenze dove
 BO118	dove m'hanno ospitato cioè a pistoia questa ragazza abitava abbastanza lontana dal centro di pistoia cioè c'abbiamo messo
 BO118	venti minuti con la macchina abbiamo fatto una strada bellissima per i monti bella
 BO118	e lei sta in campagna però in realtà se vuole un po' cioè se mh il sabato c'ha voglia de fa' una passeggiata in centro
-BO140	fa subito
-BO118	sì
+BO118	fa subito
+BO140	sì
 BO118	come magari dove abito io che okay alla fine @nomepaese non è pistoia cioè a @nomepaese non c'è assolutamente niente
 BO118	però come zona più o meno è limitrofa a un centro un po' più grande
-BO140	però è comunque resta comunque abbastanza isolata per sta' tranquilla
+BO118	però è comunque resta comunque abbastanza isolata per sta' tranquilla
 BO140	sì sì sì
-BO118	esatto
-BO140	cioè non so se io quando avrò una famiglia vorrò sta a bologna
+BO140	esatto
+BO118	cioè non so se io quando avrò una famiglia vorrò sta a bologna
 BO140	sì no beh quello lo capisco in realtà ma perché è una città molto traffic~ cioè comunque sia
 BO140	per quanto sia piccola bologna perché rispetto a milano roma così è molto piccola però per stare in tranquillità ti devi spostare in perif~ in periferia tipo san lazzaro
 BO140	che comunque mh cioè comincia a esser distante perché son venti minuti di macchina
 BO140	poi con tutto il traffico che c'è trovi anche cioè ci metti anche mezz'ora
-BO118	in quel caso no neanche io vorrei vivere in una città così più che altro perché quando diventi grande e hai una famiglia ti cambia tanto la percezione della città cioè io
+BO140	in quel caso no neanche io vorrei vivere in una città così più che altro perché quando diventi grande e hai una famiglia ti cambia tanto la percezione della città cioè io
 BO118	sì xx
-BO140	poi una città come bologna che comunque è una città universitaria
-BO118	si
-BO140	cioè io non me lo immagino da grande coi miei figli fare una passeggiata per bologna con tutti studenti cioè preferisco farmi una passeggiata a firenze preferisco farmi una passeggiata
+BO118	poi una città come bologna che comunque è una città universitaria
+BO140	si
+BO118	cioè io non me lo immagino da grande coi miei figli fare una passeggiata per bologna con tutti studenti cioè preferisco farmi una passeggiata a firenze preferisco farmi una passeggiata
 BO140	esatto
-BO118	esatto
+BO140	esatto
 BO118	a pistoia che è piccola però
-BO140	è molto più mh familiare cioè comunque ci stanno un sacco de famiglie cioè a bologna non ci stanno cioè in via zamboni non ce l'ho mai vista una famiglia
+BO118	è molto più mh familiare cioè comunque ci stanno un sacco de famiglie cioè a bologna non ci stanno cioè in via zamboni non ce l'ho mai vista una famiglia
 BO140	sì sì sì
-BO118	eh per dire però allo stesso tempo non abiterei a bologna forse per tutta la mia vita ma neanche in un centro piccolo come @nomepaese
-BO140	okay
+BO140	eh per dire però allo stesso tempo non abiterei a bologna forse per tutta la mia vita ma neanche in un centro piccolo come @nomepaese
+BO118	okay
 BO140	perché non
 BO140	vabbè al di là non offre niente @nomepaese non mh cioè comunque continuano a lavorarci le persone che ci hanno lavorato da una vita ma per i giovani non c'è possibilità lavorativa a meno che non ti accontenti comunque di lavorare al bar
 BO140	o in un ristorante insomma o se riesci a reinventarti e costruisci una tua attività
 BO140	però è è difficile insomma io da ingegnere a meno che non vado a lavorare in uno studio di ingegneria
 BO140	e comunque rinchiudere tutta la mia vita a @nomepaese e non lo vorrò mai fare perché
 BO140	comunque mh ti offre poco a livello sia cioè offre anche poco divertimento a livello giovanile ma anche per delle famiglie
-BO118	cioè io non ho ricordi di quando son piccola che uscivo con i miei in centro a @nomepaese
-BO140	no
-BO118	perché non ma pochissimi perché non
+BO140	cioè io non ho ricordi di quando son piccola che uscivo con i miei in centro a @nomepaese
+BO118	no
+BO140	perché non ma pochissimi perché non
 BO118	ma in realtà anch'io a @nomepaese
 BO118	cioè non ho ricordi che uscissi a @nomepaese o a @nomepaese con i miei
-BO140	forse xx più nel paesino nostro ma sempre solite cose
+BO118	forse xx più nel paesino nostro ma sempre solite cose
 BO140	sì sì sì
 BO140	sì però cioè magari ci sono pochi eventi e iniziative offerte in una città più piccola che poi non è sempre vero perché ci son tante periferie tanti piccoli borghetti che organizzano tanti eventi e la qualità della vita è è buona
-BO118	però @nomepaese secondo me per quanto sia anche una città universitaria non offre nulla
-BO140	eh ma infatti è strano cioè comunque è un polo universitario grosso
-BO118	sì
-BO140	cioè ci viene gente dal sud veramente xx xxx
+BO140	però @nomepaese secondo me per quanto sia anche una città universitaria non offre nulla
+BO118	eh ma infatti è strano cioè comunque è un polo universitario grosso
+BO140	sì
+BO118	cioè ci viene gente dal sud veramente xx xxx
 BO140	eh ma è che l'amministrazione mh
 BO140	non è interessata probabilmente cioè nel senso negli ultimi due anni mi sto accorgendo che stan cercando di far dei passi avanti
 BO140	però da quando ero adolescente dai diciamo dai boh quattordici anni ho cominciato a uscire fino ad adesso
 BO140	che ne ho venticinque comunque non
 BO140	cioè non trovo cioè non ho mai trovato dei dei grandi eventi o
-BO118	cioè possibilità di divertirmi anzi quando avevo quattordici anni ce ne erano molti di più organizzavano anche dei concerti
-BO140	sì
-BO118	sì l'università organizzava dei concerti e lasciavano molto più liberi gli universitari di esprimersi e anche a livello proprio organizzativo
-BO140	ah
+BO140	cioè possibilità di divertirmi anzi quando avevo quattordici anni ce ne erano molti di più organizzavano anche dei concerti
+BO118	sì
+BO140	sì l'università organizzava dei concerti e lasciavano molto più liberi gli universitari di esprimersi e anche a livello proprio organizzativo
+BO118	ah
 BO140	mentre adesso gli stanno tagliando le gambe ovunque a chiunque e non c'è più niente
-BO118	quindi xx
-BO140	ma in realtà anche a bologna stanno a fa' un po' sto lavoro
+BO140	quindi xx
+BO118	ma in realtà anche a bologna stanno a fa' un po' sto lavoro
 BO140	sì però bologna essendo più grande secondo me c'è più via di uscita e ne risente meno
 BO140	mentre un paesin~ un piccolo centro come @nomepaese dove c'è una piazza e ci sono boh dieci locali se a tutti tagli le gambe non c'è più via d'uscita
 BO140	cioè ti devi spostare per forza
-BO118	e non è una città vic~ che è vicino a tante possibilità cioè la vi~ cioè la città più gran~ più grande xxx diciamo più vicina che è leggermente più grande è pesaro
-BO140	mhmh
+BO140	e non è una città vic~ che è vicino a tante possibilità cioè la vi~ cioè la città più gran~ più grande xxx diciamo più vicina che è leggermente più grande è pesaro
+BO118	mhmh
 BO140	ma comunque sia prendi la macchina per andare a pesaro ci metti tre quarti d'ora
-BO118	e cioè ti passa un po' la voglia diciamo a fare avanti e indietro comunque per questo
-BO140	pensavo fosse fosse più vicina
+BO140	e cioè ti passa un po' la voglia diciamo a fare avanti e indietro comunque per questo
+BO118	pensavo fosse fosse più vicina
 BO140	no in realtà son trentacinque chilometri ma la strada è mh cioè è vecchia
 BO140	e quindi ci metti tanto tempo poi è l'unica strada che collega pesaro a @nomepaese e
 BO140	non c'hai altro modo per andare
-BO118	e devi fare unicamente quella quindi c'è anche mh abbastanza traffico
-BO140	e pesaro è più viva a livello di eventi
+BO140	e devi fare unicamente quella quindi c'è anche mh abbastanza traffico
+BO118	e pesaro è più viva a livello di eventi
 BO140	sì
 BO140	sì sì pesaro sì
 BO140	assolutamente cioè me ne sto accorgendo adesso con michele
 BO140	che cioè comunque si cioè si vive bene a pesaro
 BO140	perché sicuramente è anche dato dal fatto che ha un'amministrazione più ricca
-BO118	cioè è un comune ricco pesaro
-BO140	mh mh
+BO140	cioè è un comune ricco pesaro
+BO118	mh mh
 BO140	quindi mh
 BO140	cioè investono tanto nel mh in eventi cittadini anche per dire l'accensione delle luci natalizie c'erano boh migliaia di persone in piazza
-BO118	e non si passava neanche quindi
-BO140	e a pesaro ci stanno delle università
-BO118	a pesaro ci sono un paio di università due o tre facoltà insomma ma sono dei corsi di laurea di di ancona e di urbino
-BO140	mh mh
-BO118	cioè pesaro come città non ha un'università propria
-BO140	okay
-BO118	accoglie solo nelle sedi dei corsi
-BO140	tipo succursali
-BO118	sì sì sì
-BO140	e tipo a pesaro c'abiteresti
+BO140	e non si passava neanche quindi
+BO118	e a pesaro ci stanno delle università
+BO140	a pesaro ci sono un paio di università due o tre facoltà insomma ma sono dei corsi di laurea di di ancona e di urbino
+BO118	mh mh
+BO140	cioè pesaro come città non ha un'università propria
+BO118	okay
+BO140	accoglie solo nelle sedi dei corsi
+BO118	tipo succursali
+BO140	sì sì sì
+BO118	e tipo a pesaro c'abiteresti
 BO140	sì
 BO140	a pesaro sì
 BO140	perché ho sempre pensato di riavvicinarmi a casa
 BO140	e quindi comunque ritornare vicino ai miei alla mia famiglia
-BO118	ma allo stesso tempo per il discorso che facevo prima non mi piacerebbe vivere a @nomepaese o in un piccolo paese
-BO140	okay
-BO118	e pesaro diciamo che è un po' la la cioè la sìùá il compromesso giusto perché ti offre tanto di più e allo stesso tempo è comunque una piccola città e in cui vivi bene e
-BO140	il compromesso
+BO140	ma allo stesso tempo per il discorso che facevo prima non mi piacerebbe vivere a @nomepaese o in un piccolo paese
+BO118	okay
+BO140	e pesaro diciamo che è un po' la la cioè la sìùá il compromesso giusto perché ti offre tanto di più e allo stesso tempo è comunque una piccola città e in cui vivi bene e
+BO118	il compromesso
 BO140	mh le persone si conoscono generalmente anche se
-BO118	boh non so quanti abitanti ci siano però
-BO140	non lo so no~ non pensavo nemmeno fosse più grande di @nomepaese
-BO118	centomila perlom~
-BO140	poi io non ho mai visto né pesaro né @nomepaese
+BO140	boh non so quanti abitanti ci siano però
+BO118	non lo so no~ non pensavo nemmeno fosse più grande di @nomepaese
+BO140	centomila perlom~
+BO118	poi io non ho mai visto né pesaro né @nomepaese
 BO140	si
-BO118	no a livel~
-BO140	quindi non c'ho proprio idea
-BO118	e che no beh @nomepaese in realtà conta quindicimila abitanti
-BO140	ah pochi
-BO118	quindi sì ne fa trentamila con gli studenti universitari
-BO140	eh ecco
+BO140	no a livel~
+BO118	quindi non c'ho proprio idea
+BO140	e che no beh @nomepaese in realtà conta quindicimila abitanti
+BO118	ah pochi
+BO140	quindi sì ne fa trentamila con gli studenti universitari
+BO118	eh ecco
 BO140	e quindi sembra sì ah in realtà di @abitantipaese ce ne sono quindicimila e non ce ne son più perché scappan tutti da @nomepaese perché non ti offre più niente invece
 BO140	pesaro xx la gente continua a anzi torna
 BO140	perché è una città in cui stai bene
 BO140	e
 BO140	e quindi sì abiterei a pesaro
-BO118	mi piace come città
+BO140	mi piace come città
 BO118	io sto p~ sto pensando all'equivalente de quello che potrebbe esse pesaro
-BO140	tipo vicino @nomepaese non so se tipo ancona potrebbe esse una cosa simile
-BO118	non lo so perché io ad ancona non ci son mai stata sinceramente
+BO118	tipo vicino @nomepaese non so se tipo ancona potrebbe esse una cosa simile
+BO140	non lo so perché io ad ancona non ci son mai stata sinceramente
 BO118	ancona è carina solo che
-BO140	tipo per gli universitari è molto triste cioè anche lì ci stanno pochi eventi per i giovani che poi è strano perché comunque ci stanno una marea di facoltà scientifiche c'è medicina c'è ingegneria
-BO118	sì
+BO118	tipo per gli universitari è molto triste cioè anche lì ci stanno pochi eventi per i giovani che poi è strano perché comunque ci stanno una marea di facoltà scientifiche c'è medicina c'è ingegneria
+BO140	sì
 BO118	quasi tutte le ingegnerie stanno lì solo una sta a fermo
 BO118	e fermo è molto più smorta
 BO118	cioè vicino a noi secondo me la più viva è macerata
-BO140	per gli universitari
+BO118	per gli universitari
 BO140	macerata
 BO140	non lo so perché io vabbè il sud delle marche sinceramente non conosco
 BO140	son stata una volta ad ascoli piceno quando ero più piccola
-BO118	però forse è più lontano da casa tua è vero
-BO140	da casa mia forse no forse non è così lontana ascoli piceno io sta~ io stavo in provincia di ascoli piceno prima
-BO118	ah
+BO140	però forse è più lontano da casa tua è vero
+BO118	da casa mia forse no forse non è così lontana ascoli piceno io sta~ io stavo in provincia di ascoli piceno prima
+BO140	ah
 BO118	adesso sto in provincia di fermo
 BO118	però a fermo non c'è niente
-BO140	cioè xxx xxxxx
-BO118	però anche fermo dovrebbe esser~ a no è camerino che c'ha università fermo non c'è
+BO118	cioè xxx xxxxx
+BO140	però anche fermo dovrebbe esser~ a no è camerino che c'ha università fermo non c'è
 BO118	camerino fermo c'è ingegneria gestionale
 BO118	che è quella che ha fatto vincenzo
-BO140	e poi c'è tipo beni culturali ah e infermieristica
-BO118	ah okay
-BO140	però c'è poca gente
-BO118	ma so~ è dell'università di fermo proprio
-BO140	no di ancona
-BO118	ah okay
+BO118	e poi c'è tipo beni culturali ah e infermieristica
+BO140	ah okay
+BO118	però c'è poca gente
+BO140	ma so~ è dell'università di fermo proprio
+BO118	no di ancona
+BO140	ah okay
 BO118	e a ancona ci stanno quasi tutte le università tranne quelle umanistiche
-BO140	c'è architettura c'è ingegneri~
-BO118	ingegn~ ingegneria sì
-BO140	si che è molto buona anche
+BO118	c'è architettura c'è ingegneri~
+BO140	ingegn~ ingegneria sì
+BO118	si che è molto buona anche
 BO140	io ricordo
 BO140	sì
 BO140	quando dovevo scegliere se fare ingegneria edile e architettura a bologna o ancona poi alla fine ho scelto bologna per la città in realtà
 BO140	perché mi parlavano tutti bene di bologna e nessuno di bene di ancona
-BO118	quindi alla fine
+BO140	quindi alla fine
 BO118	sì ancona pure a me me l'hanno un sacco sc~ a parte io mh cioè non c'era lingue
 BO118	potevo anda' solamente o a urbino o a macerata
 BO118	però tutti me dicevano se devi sceglie' tra ancona o macerata o ancona e urbino assolutamente non anda' ad ancona perché non c'è niente non c'è niente
@@ -414,39 +414,39 @@ BO118	e un'altra volta così dovevamo anda' vincenzo doveva anda' a consegna' de
 BO118	ehm però è carina cioè sarà che c'è il mare a me m'è piaciuta
 BO118	certo no~ non penso che ci vivrei tutti i giorni là è un po' un mortorio
 BO118	però è carina perché c'è il mare ci sta tutto sto viale coi negozi
-BO140	però sì
-BO118	no più che altro è che cioè a me non mi hanno parlato bene di ancona sì ah proprio perché non cioè non non organizzano
-BO140	no c'è tipo un pub
-BO118	esatto
-BO140	che fa le serate
+BO118	però sì
+BO140	no più che altro è che cioè a me non mi hanno parlato bene di ancona sì ah proprio perché non cioè non non organizzano
+BO118	no c'è tipo un pub
+BO140	esatto
+BO118	che fa le serate
 BO140	cioè non c'è niente mh
-BO118	e poi non lo so in realtà mh non ho mai sentito parlare di architettura storica di ancona non so ma magari quello è per ignoranza mia
+BO140	e poi non lo so in realtà mh non ho mai sentito parlare di architettura storica di ancona non so ma magari quello è per ignoranza mia
 BO118	non lo so
-BO140	cioè io non lo so
-BO118	è che ho cioè ho notato magari capito che delle città che hanno più storia ah più architettura
+BO118	cioè io non lo so
+BO140	è che ho cioè ho notato magari capito che delle città che hanno più storia ah più architettura
 BO118	cioè xx
 BO118	no si effettivamente non ci stanno edifici che m'hanno lasciato oddio che bella ancona forse
-BO140	giusto la zona del passetto che ci sta sta specie de tempio
-BO118	mhmh
+BO118	giusto la zona del passetto che ci sta sta specie de tempio
+BO140	mhmh
 BO118	non so di che epoca
 BO118	e poi per il resto di edifici storici non penso ci sia niente di che
 BO118	forse le facoltà tipo la facoltà d'economia che c'ha sto prato enorme davanti che è fatta tipo a ferro de cavallo
 BO118	e xx quella è un po' più particolare rispetto alle altr~ altri edifici però per il resto è tutta molto
-BO140	penso sia anni settanta xx
+BO118	penso sia anni settanta xx
 BO140	sì
-BO118	a caso senza sapere
-BO140	no comunque non ci sta niente di che
+BO140	a caso senza sapere
+BO118	no comunque non ci sta niente di che
 BO140	no vabbè ci andrò comunque
 BO140	xx devo andare a
 BO140	cioè in realtà non lo so
 BO140	sto aspettando una mail dalla sovrintendenza per per la tesi
-BO118	e è ad ancona quella delle marche quindi probabilmente dovrò andare ad ancona e visiterò la citta
+BO140	e è ad ancona quella delle marche quindi probabilmente dovrò andare ad ancona e visiterò la citta
 BO118	ah
 BO118	vai al passetto che è bellissimo
-BO140	ci sono tutte le casette dei pescatori
-BO118	bello
+BO118	ci sono tutte le casette dei pescatori
+BO140	bello
 BO118	bellissimo
-BO140	sì
+BO118	sì
 BO140	passetto
-BO118	va bene me lo ricorderò
+BO140	va bene me lo ricorderò
 BO118	abbiamo parlato un sacco

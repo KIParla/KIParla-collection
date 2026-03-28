@@ -1,14 +1,14 @@
 BOR030	okay
-BOI091	quindi inizierei chiedendoti in che zona di bologna vivi
+BOR030	quindi inizierei chiedendoti in che zona di bologna vivi
 BOI091	attualmente a sala bolognese che è un paesino di ottomila persone vicino a bologna
 BOI091	prima eh vivevo invece in @nomeluogo
 BOI091	che è un
-BOR030	un quartie~ mh mh eh fa parte del quartiere savena vicino a san lazzaro
-BOI091	ok~
-BOR030	e invece la mia infanzia l'ho vissuta in saragozza
-BOI091	d'accordo
-BOR030	zona
-BOI091	e hai frequentato lì le scuole
+BOI091	un quartie~ mh mh eh fa parte del quartiere savena vicino a san lazzaro
+BOR030	ok~
+BOI091	e invece la mia infanzia l'ho vissuta in saragozza
+BOR030	d'accordo
+BOI091	zona
+BOR030	e hai frequentato lì le scuole
 BOI091	sì
 BOI091	eh saragozza av~ avevamo le elementari
 BOI091	e all'asilo presumo di sì non mi ricordo
@@ -16,52 +16,52 @@ BOI091	le elementari sì ehm
 BOI091	e le medie che erano eh
 BOI091	lì attaccate alle carracci insomma
 BOI091	mentre invece le superiori le ho fatte al pacinotti
-BOR030	eh sempre lì vicino a saragozza
+BOI091	eh sempre lì vicino a saragozza
 BOR030	d'accordo
-BOI091	e i tuoi amici con cui magari andavi a scuola ancora vivono vicino a te si sono spostati sai qualcosa
+BOR030	e i tuoi amici con cui magari andavi a scuola ancora vivono vicino a te si sono spostati sai qualcosa
 BOI091	amici della scuola mh non li frequento quasi più ci sentiamo ogni tanto
 BOI091	e
 BOI091	una mia carissima amica delle scuole che si chiama arianna sì è ancora lì ancora
 BOI091	non in saragozza ma ehm
 BOI091	in vicino @nomeluogo quartiere savena le a lei abita lì
-BOR030	e veniva a scuola con me
+BOI091	e veniva a scuola con me
 BOR030	ecco
 BOR030	d'accordo
-BOI091	mentre ritornando alla zona attuale in cui vivi eh hai pareri ti piace questa zona
+BOR030	mentre ritornando alla zona attuale in cui vivi eh hai pareri ti piace questa zona
 BOI091	diciamo che a livello di traffico l'adoro
 BOI091	nel senso che quando vado a trovare mia mamma che abita
 BOI091	ancora in @nomeluogo ehm il traffico è tremendo e
 BOI091	mentre invece qui
 BOI091	è molto più tranquillo
 BOI091	però c'è il contro che a sala bolognese c'è poco o niente a livello di
-BOR030	di negozi di di vita di di tutto
-BOI091	mhmh
-BOR030	mh
-BOI091	e quindi se potessi apportare delle migliorie sarebbe
+BOI091	di negozi di di vita di di tutto
+BOR030	mhmh
+BOI091	mh
+BOR030	e quindi se potessi apportare delle migliorie sarebbe
 BOI091	sarebbe sicuramente dei negozi in più delle delle strutture per accogliere
 BOI091	i ragazzi per eh
 BOI091	mh
 BOI091	pe~ è un paese morto se si può dire cioè ci sono sicuramente più anziani che giovani eh
-BOR030	e più farmacie che probabilmente posti dove divertirsi
+BOI091	e più farmacie che probabilmente posti dove divertirsi
 BOR030	capisco
-BOI091	e quindi alla fine ti ritrovi a doverti spostare spesso
-BOR030	sì
-BOI091	e in che zone più o meno
+BOR030	e quindi alla fine ti ritrovi a doverti spostare spesso
+BOI091	sì
+BOR030	e in che zone più o meno
 BOI091	beh considerando che lavoro in corticella diciamo che quando poi devo fare qualcosa la zona che m~
 BOI091	si può dire bazzico di più è quella nel senso che conosco bene quella zona lì e oppure quando vado da mia mamma ne approffito se devo andare che ne so
 BOI091	a far la spesa lì c'è l'ipermercato e l'ipercoop e ne approfitto per andar lì perché qui da noi
-BOR030	c'è poco a livello anche di di questo a livello commerciale di spese
+BOI091	c'è poco a livello anche di di questo a livello commerciale di spese
 BOR030	va bene
-BOI091	e muovendoti in mezzo alla città generalmente tu utilizzi che mezzo
-BOR030	la macchina la mia macchina
-BOI091	macchina
-BOR030	non
-BOI091	mezzi pubblici
-BOR030	zero
-BOI091	okay
-BOR030	zero non mi piacciono neanche
+BOR030	e muovendoti in mezzo alla città generalmente tu utilizzi che mezzo
+BOI091	la macchina la mia macchina
+BOR030	macchina
+BOI091	non
+BOR030	mezzi pubblici
+BOI091	zero
+BOR030	okay
+BOI091	zero non mi piacciono neanche
 BOR030	d'accordo
-BOI091	mentre per quanto riguarda bologna hai notato dei cambiamenti negli ultimi anni in bene in male
+BOR030	mentre per quanto riguarda bologna hai notato dei cambiamenti negli ultimi anni in bene in male
 BOI091	bologna se parliamo di bologna centro ehm
 BOI091	sicuramente c'è più molta più gente di una volta okay
 BOI091	un tempo lavoravo a bologna in centro tanto tempo fa
@@ -74,26 +74,26 @@ BOI091	non non incontravi quasi nessuno
 BOI091	adesso mi farebbe un po' più paura fare una cosa del genere quindi
 BOI091	probabilmente bologna è diventata una metropoli mh più
 BOI091	eh con tante persone razze diverse tante persone quindi
-BOR030	anche più pericolose
+BOI091	anche più pericolose
 BOR030	d'accordo va bene
 BOR030	allora eh
 BOR030	per quanto riguarda invece le tradizioni più bolognesi vorrei chiederti
 BOR030	allora bologna si sa che è una città eh sempre ricca di manifestazioni ed eventi
-BOI091	e quindi volevo sapere se è un aspetto comunque che ti piace della città
+BOR030	e quindi volevo sapere se è un aspetto comunque che ti piace della città
 BOI091	sicuramente sì che io ne prenda parte no
 BOI091	nel senso che eh le manifestazioni che ci sono eh
 BOI091	mh mi rendono veramente orgogliosa di bologna su tanti aspetti però io non le ho mai mai fatte
-BOR030	se non quando ero a scuola le manifestazioni scolastiche che si facevano ma
-BOI091	d'accordo
-BOR030	quando capivi poco ecco
+BOI091	se non quando ero a scuola le manifestazioni scolastiche che si facevano ma
+BOR030	d'accordo
+BOI091	quando capivi poco ecco
 BOR030	va bene
-BOI091	invece per caso dei sette segreti di bologna hai mai sentito parlare
-BOR030	certo
+BOR030	invece per caso dei sette segreti di bologna hai mai sentito parlare
+BOI091	certo
 BOR030	certo
 BOR030	e riterresti che sia sano eh
-BOI091	scusa siano eh rapprasentativi quindi della cultura bolognese
-BOR030	mah diciamo che è una cosa più turistica probabilmente che proprio culturalmente
-BOI091	perché diresti questo
+BOR030	scusa siano eh rapprasentativi quindi della cultura bolognese
+BOI091	mah diciamo che è una cosa più turistica probabilmente che proprio culturalmente
+BOR030	perché diresti questo
 BOI091	mah
 BOI091	perché se pensi mh
 BOI091	alla finestrella di venezia eh
@@ -104,22 +104,22 @@ BOI091	vedo più san luca come tradizione bolognese vedo di più andarsi a mangi
 BOI091	ehm la convivialità a tavola il buon vino sono una cosa più queste sono più cose
 BOI091	turistiche che se tu arrivi ti dicono guarda facciamo il tour di bologna ti faccio vedere i sette segreti
 BOI091	e allora eh gli il telefono senza fili il nettuno dalla posizione le frecce di corte isolani eh però
-BOR030	sì sono più appunto da turisti da vedere
+BOI091	sì sono più appunto da turisti da vedere
 BOR030	mentre per quanto riguarda le due torri
-BOI091	eh considereresti magari quelle più il simbolo della città quindi
+BOR030	eh considereresti magari quelle più il simbolo della città quindi
 BOI091	sì
-BOR030	sì sì probabilmente sì
+BOI091	sì sì probabilmente sì
 BOR030	okay
-BOI091	e cosa ne pensi del crollo possibile della garisenda
+BOR030	e cosa ne pensi del crollo possibile della garisenda
 BOI091	e mi preoccupa mi preoccupa molto questa cosa non so come interverranno però
 BOI091	però è una ah
-BOR030	è una cosa molto brutta mh
-BOI091	mhmhmh
-BOR030	mi fa molto dispiacere
+BOI091	è una cosa molto brutta mh
+BOR030	mhmhmh
+BOI091	mi fa molto dispiacere
 BOR030	capisco
 BOR030	mentre per quanto riguarda le ricorrenze festive tipicamente bolognesi inizierei chiedendoti magari dei commenti su san petronio
 BOR030	quindi ad esempio come vivevi tu la festa oppure se si faceva qualcosa di particolare
-BOI091	in generale
+BOR030	in generale
 BOI091	no
 BOI091	noi non abbiamo mai festeggiato i santi mai co~ come famiglia proprio quindi era un festivo si stava tutti insieme ma
 BOI091	dire festeggiamo san petronio no mai fatto
@@ -131,11 +131,11 @@ BOI091	non saprei neanche dirti
 BOI091	che cosa ha fatto san petronio eh
 BOI091	perché è santo ecco non non non l'ho mai
 BOI091	non l'ho mai saputo e non non non mi sono mai neanche posta il problema di saperlo
-BOR030	mentre san francesco sai quelli un po' più famosi
-BOI091	d'accordo
-BOR030	questa è una mancanza proverò a rimediare
+BOI091	mentre san francesco sai quelli un po' più famosi
 BOR030	d'accordo
-BOI091	mentre a natale vorrei chiederti se c'è qualche tradizione particolare magari che avete in famiglia
+BOI091	questa è una mancanza proverò a rimediare
+BOR030	d'accordo
+BOR030	mentre a natale vorrei chiederti se c'è qualche tradizione particolare magari che avete in famiglia
 BOI091	sì sicuramente sì eh
 BOI091	beh
 BOI091	intanto quando mia nonna era viva eh ci trovavamo sempre tutti la famiglia era una
@@ -147,21 +147,21 @@ BOI091	dispensava i regali e questa era la tradizione che abbiamo portato avanti
 BOI091	non non l'abbiamo più fatta
 BOI091	e invece mh mangereccia diciamo
 BOI091	non possono mai mancare le lasagne di mia mamma a natale
-BOR030	e questa è una cosa che tutti gli anni lei vuole fare noi gli chiediamo di farla e quindi facciamo sempre le lasagne
-BOI091	quindi generalmente a a pranzo di natale o comunque
+BOI091	e questa è una cosa che tutti gli anni lei vuole fare noi gli chiediamo di farla e quindi facciamo sempre le lasagne
+BOR030	quindi generalmente a a pranzo di natale o comunque
 BOI091	siamo sempre tutti insieme
-BOR030	sì
+BOI091	sì
 BOR030	e quindi si mangiano lasagne
-BOI091	tortellini
+BOR030	tortellini
 BOI091	tortellini lasagne l~ arrosto eh
-BOR030	eh vari secondi l'antipasto il dolce e e poi si si scoppia
-BOI091	xx
-BOR030	solito il natale è sempre così
+BOI091	eh vari secondi l'antipasto il dolce e e poi si si scoppia
+BOR030	xx
+BOI091	solito il natale è sempre così
 BOR030	va bene
-BOI091	mentre per quanto riguarda le decorazioni preferisci magari fare il presepe l'albero
+BOR030	mentre per quanto riguarda le decorazioni preferisci magari fare il presepe l'albero
+BOI091	l'albero
 BOR030	l'albero
-BOR030	l'albero
-BOI091	come mai
+BOR030	come mai
 BOI091	l'albero
 BOI091	mh
 BOI091	in questo preciso momento perché la casa è molto piccola e non saprei dove metterlo perché il presepe mi sa mh
@@ -170,14 +170,14 @@ BOI091	mi piacerebbe farlo
 BOI091	bello
 BOI091	grande eh completo non soltanto eh maria giuseppe l'asinello il bue e il gesù bambino n quindi
 BOI091	eh avrei potuto fare solo questo e non mi piace invece l'alberello mi da l'idea più di
-BOR030	eh di festa
-BOI091	mh
-BOR030	non rinuncio
-BOI091	e l'albero come ti piace farlo
-BOR030	pieno di luce
-BOI091	di colori partico~
-BOR030	pieno di luci colorate sì assolutamente
-BOI091	quindi non sei magari tradizionalista l'oro e rosso
+BOI091	eh di festa
+BOR030	mh
+BOI091	non rinuncio
+BOR030	e l'albero come ti piace farlo
+BOI091	pieno di luce
+BOR030	di colori partico~
+BOI091	pieno di luci colorate sì assolutamente
+BOR030	quindi non sei magari tradizionalista l'oro e rosso
 BOI091	no
 BOI091	no
 BOI091	zero
@@ -185,20 +185,19 @@ BOI091	eh più colori ci sono più luci ci sono più
 BOI091	eh
 BOI091	più mi piace
 BOI091	mettere anche le luci eh
-BOR030	deve esser festa
+BOI091	deve esser festa
 BOR030	d'accordo
-BOI091	ed era così anche a casa quando eri piccola
-BOR030	s~
-BOI091	lo facevi sempre tu l'albero
+BOR030	ed era così anche a casa quando eri piccola
+BOI091	s~
+BOR030	lo facevi sempre tu l'albero
 BOI091	no mia mamma
 BOI091	quando ero piccola mia mamma era un albero che io vedevo non so se per per ma grandissimo
 BOI091	e poi per sotto era sempre pieno di regali eh
 BOI091	perché poi lo facevamo sempre a casa nostra il natale
 BOI091	e quindi c'erano tutti come dicevamo prima i regali di tutti i cugini quindi erano una marea di regali quest'albero enorme
-BOR030	e avevamo pure una casa grande quando eravamo piccoli quindi eh era più gestibile
-BOI091	ti ricordi magari qualche regalo
-BOR030	
-BOI091	che ti dessero quand'eri
+BOI091	e avevamo pure una casa grande quando eravamo piccoli quindi eh era più gestibile
+BOR030	ti ricordi magari qualche regalo
+BOR030	che ti dessero quand'eri
 BOI091	sì
 BOI091	posso dirlo magari eh
 BOI091	eh mi ricordo sempre sta cosa di dover dare i regali a tutti eh c'era u~ un regalo enorme piatto tutto incartato
@@ -210,75 +209,75 @@ BOI091	lo apro
 BOI091	e c'era la mh la squadra la foto della squadra dell'inter con tutti gli autografi dei giocatori
 BOI091	con scritto a elena con tanta simpatia e quindi
 BOI091	c'era un amico di mia mamma di milano e mi aveva fatto firmare tutti
-BOR030	e quello per me è stato uno perché non me lo aspettavo che fosse mia quindi è stata bella la sorpresa e poi insomma c'erano tutti gli autografi e
-BOI091	e ce l'hai ancora
-BOR030	certo
-BOI091	appeso da qualche parte
+BOI091	e quello per me è stato uno perché non me lo aspettavo che fosse mia quindi è stata bella la sorpresa e poi insomma c'erano tutti gli autografi e
+BOR030	e ce l'hai ancora
+BOI091	certo
+BOR030	appeso da qualche parte
 BOI091	certo
 BOI091	in camera da d~ dove dormivo eh c'è c'è proprio appeso in camera ancora
-BOR030	sì sì
-BOI091	bello
-BOR030	nella cameretta sì sì
+BOI091	sì sì
+BOR030	bello
+BOI091	nella cameretta sì sì
 BOR030	bello bello
-BOI091	eh per quanto riguarda sempre il natale sei più team pandoro o panettone
-BOR030	panettone tutta la vita
-BOI091	e come ti piace
-BOR030	con le gocce di cioccolato
-BOI091	ne~ nessun altro tipo
-BOR030	nessun altro tipo
-BOI091	va be~
+BOR030	eh per quanto riguarda sempre il natale sei più team pandoro o panettone
+BOI091	panettone tutta la vita
+BOR030	e come ti piace
+BOI091	con le gocce di cioccolato
+BOR030	ne~ nessun altro tipo
+BOI091	nessun altro tipo
+BOR030	va be~
 BOI091	cioè no forse anche coi canditi eh scusa con l'uvetta i canditi no
-BOR030	mh però di base lo prendo con le gocce di cioccolato
+BOI091	mh però di base lo prendo con le gocce di cioccolato
 BOR030	d'accordo
-BOI091	mentre il capodanno
+BOR030	mentre il capodanno
 BOI091	capodanno invece non è una festività che non ho mai sopportato non non mi piace dover
 BOI091	eh fare festa per forza non mi isp~ non mi piace dover far tardi per forza
 BOI091	ehm bere un un'imposizione che non non ho mai sopportato quindi
 BOI091	o a casa con gli amici a fare i giochi di società
 BOI091	o da soli a guardare un film e mangiarci una pizza
-BOR030	non
-BOI091	quindi magari scendere in piazza e guardare i fuochi
+BOI091	non
+BOR030	quindi magari scendere in piazza e guardare i fuochi
 BOI091	xxx
 BOI091	no zero
 BOI091	no ze~ l'ho fatto eh perché quando s~ quando ero giovane andavamo in centro a vedere il vecchione che bruciava
 BOI091	però non mi è mai piaciuto l'ho sempre fatto perché in compagnia decidevano di fare quello
 BOI091	però non mi è m
-BOR030	proprio zero
-BOI091	non c'è mai stata magari una pazzia che avete fatto a capodanno
-BOR030	no
-BOI091	nulla
+BOI091	proprio zero
+BOR030	non c'è mai stata magari una pazzia che avete fatto a capodanno
+BOI091	no
+BOR030	nulla
 BOI091	no perché non l'unica pazzia è che abbiamo ricevuto delle bottigliate che la gente tirava le bottiglie per terra quindi guarda forse
-BOR030	anche quello non mi è piaciuto e non camminavi sui vetri ti tiravano le bottiglie non
-BOI091	confermo
-BOR030	zero proprio
-BOI091	e il carnevale invece
+BOI091	anche quello non mi è piaciuto e non camminavi sui vetri ti tiravano le bottiglie non
+BOR030	confermo
+BOI091	zero proprio
+BOR030	e il carnevale invece
 BOI091	carnevale è un'altra festività
-BOR030	sembro un po' il grinch ma no non mi piace neanche il carnevale
-BOI091	d'accordo
+BOI091	sembro un po' il grinch ma no non mi piace neanche il carnevale
+BOR030	d'accordo
 BOI091	non mi piace cioè se mi dici andiamo a vedere i carri
 BOI091	sì perché sono degli spettacoli la gente c'ha lavorato per tanto tempo e fa delle robe meravigliose
-BOR030	ma se devo andare tipo a una festa io in maschera per carnevale no
-BOI091	hai qualche aneddoto magari
-BOR030	ma
-BOI091	traumatico
+BOI091	ma se devo andare tipo a una festa io in maschera per carnevale no
+BOR030	hai qualche aneddoto magari
+BOI091	ma
+BOR030	traumatico
 BOI091	può può dar~
 BOI091	sai che forse adesso che mi ci fai pensare
 BOI091	porca miseria una volta a casa di una mia ami~ io ero alle elementari
 BOI091	ero alle elementari mi aveva vestito mia mia mamma non mi ricordo da cosa e correndo son caduta e mi si è strappato nel sedere il costume
 BOI091	e qui~ può darsi che sia stato questo che mi ha traumatizzata
-BOR030	e da lì non ho for~ forse è questo
+BOI091	e da lì non ho for~ forse è questo
 BOR030	potrebbe darsi
 BOR030	va bene
 BOR030	e la festività magari invece più mh
-BOI091	magari anche storica il venticinque aprile
-BOR030	mhmh
+BOR030	magari anche storica il venticinque aprile
+BOI091	mhmh
 BOR030	eh mh magari hai mai
-BOI091	partecipato ad andare magari al pratello il venticinque aprile fatto qualcosa di particolare
+BOR030	partecipato ad andare magari al pratello il venticinque aprile fatto qualcosa di particolare
 BOI091	no
 BOI091	no ne ne approfittavo per fare magari qualche viaggio
 BOI091	sempre coi discorso che eh
-BOR030	fai magari dei ponti delle robe col primo maggio eh no mai mh
-BOI091	dove sei andata magari
+BOI091	fai magari dei ponti delle robe col primo maggio eh no mai mh
+BOR030	dove sei andata magari
 BOI091	poi
 BOI091	alle terme
 BOI091	abbiam fatto un weekend alle terme a saturnia
@@ -287,22 +286,21 @@ BOI091	eh e tra l'altro bellissimo perché son delle terme naturali quindi ehm
 BOI091	mi ricordo che sono entrata con le ciabatte perché f~ insomma era sera non si vedeva niente
 BOI091	e ho perso una ciabatta non riuscivo più a trovarla mi si era sganciata e ho detto boh senti vado via senza ciabatte cos'è
 BOI091	dopo un po' puff è tornata su da un'altra parte
-BOR030	una cosa incredibile
+BOI091	una cosa incredibile
 BOR030	e quest'anno magari vuoi organizzare sempre qualcosa
-BOI091	per quel periodo
+BOR030	per quel periodo
 BOI091	può darsi
 BOI091	se riesco a prendere le ferie magari vado in danimarca
 BOI091	così
-BOR030	mh ho un pensiero con un'amica di fare un viaggio in danimarca di qualche giorno
+BOI091	mh ho un pensiero con un'amica di fare un viaggio in danimarca di qualche giorno
 BOR030	non sarebbe male
-BOI091	e d'estate invece cosa ti piace fare soprattutto magari vicino a ferragosto
-BOI091	
+BOR030	e d'estate invece cosa ti piace fare soprattutto magari vicino a ferragosto
 BOI091	a ferragosto ehm
 BOI091	è un periodo molto caldo dove tutti vanno in ferie quindi se posso lo evito a livello di vacanze proprio perché
 BOI091	trovi tanta gente eh è difficile muoversi in spiaggia
 BOI091	c'è casotto
-BOR030	e non so se si sentirà dalla re~ dalla registrazione ma avendo un cane eh un bulldog francese che ha difficoltà di respirazione
-BOI091	mhmh
+BOI091	e non so se si sentirà dalla re~ dalla registrazione ma avendo un cane eh un bulldog francese che ha difficoltà di respirazione
+BOR030	mhmh
 BOI091	quando scelgo le vacanze
 BOI091	la priorità ce l'ha lui quindi
 BOI091	scelgo posti dove lui possa stare bene dov' è accettato
@@ -316,24 +314,24 @@ BOI091	quindi tu esci da questo rifugio
 BOI091	c'è il bosco vai su e puoi arrivare fino al monte cimone
 BOI091	camminando
 BOI091	eh mi piace molto è molto carino
-BOR030	respiri un po' di di aria pulita
+BOI091	respiri un po' di di aria pulita
 BOR030	bello
 BOR030	ma in generale quindi d'estate se tu dovessi scegliere andresti magari più a fare le vacanze in montagna proprio dico in generale rispetto che al mare
-BOI091	o comunque ti piace il mare
+BOR030	o comunque ti piace il mare
 BOI091	mi piace anche il mare diciamo che non sono una fan del sole perché mi brucio mi scotto subito
 BOI091	però il relax del mare mi piace molto
 BOI091	ehm
 BOI091	non sono una che passa le ore in acqua anche perché qui da noi nella riviera insomma è un po'
 BOI091	un po' diverso che magari andare che ne so a reggio calabria che c'ha dell' a~ del mare stupendo
 BOI091	ehm
-BOR030	quindi eh magari fare sai le delle parole crociate sotto l'ombrellone rilassarsi
+BOI091	quindi eh magari fare sai le delle parole crociate sotto l'ombrellone rilassarsi
 BOR030	d'accordo
 BOR030	allora passerei ad un altro punto e ti chiederei magari invece sul cibo
-BOI091	di bologna
-BOR030	mh
-BOI091	quindi vabbè sappiamo che bologna ha una grande tradizione di osterie trattorie
-BOR030	eh già
-BOI091	se magari conosci qualche nome o eri tipica andare da qualche parte
+BOR030	di bologna
+BOI091	mh
+BOR030	quindi vabbè sappiamo che bologna ha una grande tradizione di osterie trattorie
+BOI091	eh già
+BOR030	se magari conosci qualche nome o eri tipica andare da qualche parte
 BOI091	allora
 BOI091	con
 BOI091	con i miei non andavamo quasi mai fuori a mangiare
@@ -351,24 +349,24 @@ BOI091	per me non esiste lasagna non esi~ nonostante appunto con mia mamma si ma
 BOI091	io se posso scegliere per me la tagliatella al ragù vince su tutto eh è il top
 BOI091	i mh posti dove andavo a mangiare fuori ehm
 BOI091	c'è in centro c'è un posto che si chiama il tinello eh che ci sono stata un paio di volte che è buono ma
-BOR030	non ho un posto particolare dove vado a mangiare bolognese
+BOI091	non ho un posto particolare dove vado a mangiare bolognese
 BOR030	però ti faccio una domanda perché tu hai detto appunto tagliatelle al ragù
 BOR030	e infatti qui nella mia lista ho anche la domanda famosissima
-BOI091	il ragù a casa lo prepari
-BOR030	certo
-BOI091	e come lo prepari
+BOR030	il ragù a casa lo prepari
+BOI091	certo
+BOR030	e come lo prepari
 BOI091	dico quasi una bestemmia
 BOI091	però
 BOI091	lo faccio in pentola a pressione
 BOI091	quindi metto il soffritto metto la carne metto un po' di vino rosso
 BOI091	eh un po' di salsa di ragù non di concentrato e poi lo faccio andare
 BOI091	per
-BOR030	quaranta cinquanta minuti
+BOI091	quaranta cinquanta minuti
 BOR030	d'accordo
-BOI091	eh
-BOR030	e viene buonissimo quindi fattelo perché non perdete tempo
+BOR030	eh
+BOI091	e viene buonissimo quindi fattelo perché non perdete tempo
 BOR030	invece la famosissima lasagna di tua mamma
-BOI091	eh sai anche quella come si prepara c'è una ricetta o è segreta
+BOR030	eh sai anche quella come si prepara c'è una ricetta o è segreta
 BOI091	certo
 BOI091	certo no no no certo certo la
 BOI091	ma poi è cuore di mamma probabilmente perché alla fine
@@ -384,28 +382,28 @@ BOI091	poi lei è contenta perché lo fa e noi gli facciamo i complimenti quindi
 BOI091	comunque sì è la la base besciamella ragù eh pane mh e sì pane ehm
 BOI091	formaggio grattuggiato
 BOI091	ehm
-BOR030	e la pasta fresca
+BOI091	e la pasta fresca
 BOR030	va bene
-BOI091	eh cambiando argomento volevo chiederti se per caso sei familiare con il concetto di mercati all'aperto soprattutto qui dell'usato di bologna
-BOR030	no
+BOR030	eh cambiando argomento volevo chiederti se per caso sei familiare con il concetto di mercati all'aperto soprattutto qui dell'usato di bologna
+BOI091	no
 BOR030	no
 BOR030	quindi non sei solita magari andare in mercatini
 BOR030	okay
-BOI091	eh invece la l'iniziativa cineteca di bologna del maxi schermo in piazza maggiore
-BOR030	neanche
+BOR030	eh invece la l'iniziativa cineteca di bologna del maxi schermo in piazza maggiore
 BOI091	neanche
+BOR030	neanche
 BOI091	ho un collega che ci lav~ c'ha lavorato ma non mh me ne ha parlato un po' ma non ho
 BOI091	non sono mai stata so che una volta hanno passato un film porno per errore
-BOR030	ma non
-BOI091	mhmh certo
-BOR030	no eh perché le non sapendo no~ non essendoci mai andata so quelle notizie che vengon fuori per sta sto motivo qua ma non
+BOI091	ma non
+BOR030	mhmh certo
+BOI091	no eh perché le non sapendo no~ non essendoci mai andata so quelle notizie che vengon fuori per sta sto motivo qua ma non
 BOR030	va bene
-BOI091	mentre per quanto riguarda l'altro simbolo di bologna i portici
-BOR030	ovvi
-BOI091	i portici sono diventati patrimonio dell'unesco
-BOR030	dell'une~
+BOR030	mentre per quanto riguarda l'altro simbolo di bologna i portici
+BOI091	ovvi
+BOR030	i portici sono diventati patrimonio dell'unesco
+BOI091	dell'une~
 BOR030	e volevo chiederti se tu hai qualche opinione in merito
-BOI091	comunque in generale dei portici
+BOR030	comunque in generale dei portici
 BOI091	beh i portici sono
 BOI091	sono una cosa spettacolare di bologna
 BOI091	eh
@@ -413,52 +411,49 @@ BOI091	camminare sotto ai portici eh è quasi una bestemmia dire camminiamo in m
 BOI091	ti portano ovunque
 BOI091	xxx
 BOI091	probabilmente poi vuol dire questo portici no eh però parti dal centro e arrivi fin su al meloncello e arrivi a san luca eh
-BOR030	per me eh è veramente anche questo un plus di bologna sicuramente oltre oltre le torri che dicevamo prima anche i portici
+BOI091	per me eh è veramente anche questo un plus di bologna sicuramente oltre oltre le torri che dicevamo prima anche i portici
 BOR030	mh
-BOI091	e cosa ne pensi del loro stato attuale
+BOR030	e cosa ne pensi del loro stato attuale
 BOI091	eh eh f~
-BOI091	
 BOI091	torniamo al discorso di prima che
 BOI091	essendo diventata una grande metropoli ed essendoci tante persone tante
 BOI091	teste sbagliate eh l sono ridotti non proprio bene vengono usati un po' come bagni vengono usati
 BOI091	sono contenta che si vogliano invece mettere a posto
 BOI091	perché eh leggevo che c'è l'iniziativa di risi~ ri
-BOR030	non ristruttararli di vabbè mh riportarli al loro arbore diciamo così
-BOI091	certo
-BOR030	albore
+BOI091	non ristruttararli di vabbè mh riportarli al loro arbore diciamo così
+BOR030	certo
+BOI091	albore
 BOR030	ehm
 BOR030	volevo chiederti infatti appunto abbiam parlato del loro stato
-BOI091	ci sono anche molte scritte sui portici
-BOR030	appunto
-BOI091	eh non so se magari te ne ricordi qualcheduna passando
+BOR030	ci sono anche molte scritte sui portici
+BOI091	appunto
+BOR030	eh non so se magari te ne ricordi qualcheduna passando
 BOI091	io ce n'era una di quando ero giovinazza che che c'era sempre
 BOI091	era mi pare lu~ lucca con
-BOR030	con la a fatta al contrario mh c'era sempre sto qua che scriveva sta roba
-BOI091	mh
+BOI091	con la a fatta al contrario mh c'era sempre sto qua che scriveva sta roba
+BOR030	mh
 BOI091	sì guarda eh
 BOI091	ma dappertutto la scriveva
 BOI091	e ricordo che a noi dava un fastidio da matti le~ leggerlo perché era
 BOI091	ma come i i lucchetti
 BOI091	altra roba che non
 BOI091	cioè vai a deturpare una roba perché devi mettere un lucchetto
-BOR030	no l~ non non li capisco
-BOI091	quei degli innamorati
+BOI091	no l~ non non li capisco
+BOR030	quei degli innamorati
 BOI091	sì
-BOR030	tanto poi vi lasciate
-BOR030	
-BOI091	crudele
-BOR030	
-BOI091	ehm qualche altro aneddoto ti viene in mente
+BOI091	tanto poi vi lasciate
+BOR030	crudele
+BOR030	ehm qualche altro aneddoto ti viene in mente
 BOI091	stavo pensando
 BOI091	dici in generale o sui portici
-BOR030	eh che
+BOI091	eh che
 BOR030	se ne hai sui portici sennò anche in generale ti ascolto
 BOR030	se non ti viene in mente niente altrimenti nulla
+BOR030	no
 BOI091	no
-BOI091	no
-BOR030	adesso
+BOI091	adesso
 BOR030	va bene
-BOI091	e san luca invece
+BOR030	e san luca invece
 BOI091	san luca eh
 BOI091	ti ripeto quando quand'ero piccola che abitavo lì ehm noi eravamo sempre al meloncello avevamo come punto di riferimento
 BOI091	la gelateria che è proprio di fronte allo stadio quindi noi tutti i pomeriggi stavamo lì
@@ -468,40 +463,40 @@ BOI091	e poi noi abbiamo a bologna la
 BOI091	beh se passo l'esame vado su a san luca a piedi quindi se fa fa questo vado su a san luca a piedi quindi
 BOI091	tante volte credono eh tu~ tutti noi di bologna abbiamo fatto san luca per ringraziare di aver avuto u un bel voto a scuola u un qualcosa che ci è andato bene un
 BOI091	eh io qualche volta l'ho fatta per
-BOR030	poi ho smesso perché era troppa fatica quindi ho detto non ne vale la pena studio piuttosto che che chiedere e poi dover andare a san luca
+BOI091	poi ho smesso perché era troppa fatica quindi ho detto non ne vale la pena studio piuttosto che che chiedere e poi dover andare a san luca
 BOR030	va bene
-BOI091	allora
+BOR030	allora
 BOI091	però san luca è veramente emozionante proprio andare lissù e vedi tutta bologna eh ti
 BOI091	ti apre proprio il cuore e
 BOI091	un'altra cosa che ti diranno tutti i bolognesi quando fanno dei viaggi
 BOI091	tornano in autostrada
 BOI091	quando vedono san luca sanno che sono arrivati a casa
 BOI091	si vede sempre dappertutto e tu dici
-BOR030	ah c'è san luca sono a casa
-BOI091	mh
-BOR030	torni a casa
-BOI091	anche da qui più o meno si vede san luca
+BOI091	ah c'è san luca sono a casa
+BOR030	mh
+BOI091	torni a casa
+BOR030	anche da qui più o meno si vede san luca
 BOI091	sì sì
 BOI091	sì dalla finestra della camera
 BOI091	pensa che non c'avevo mai fatto caso un paio d'anni fa è venuta una collega
 BOI091	è andata alla finestra guarda ma beh ma si vede san luca da qua eh ma cosa dici
-BOR030	sono andata alla finestra e si vede veramente san luca
-BOI091	però
-BOR030	e da lì so che si vede san luca
-BOI091	va bene allora passerei alle domande invece un po' più sulla tua persona adesso
-BOR030	vai
-BOI091	ti chiedo innanzitutto che lavoro fai
-BOR030	in questo momento lavoro in @nomeazienda sono un'operatrice di call center
-BOI091	okay e da quanto tempo
-BOR030	dal novantanove ottobre novantanove
+BOI091	sono andata alla finestra e si vede veramente san luca
+BOR030	però
+BOI091	e da lì so che si vede san luca
+BOR030	va bene allora passerei alle domande invece un po' più sulla tua persona adesso
+BOI091	vai
+BOR030	ti chiedo innanzitutto che lavoro fai
+BOI091	in questo momento lavoro in @nomeazienda sono un'operatrice di call center
+BOR030	okay e da quanto tempo
+BOI091	dal novantanove ottobre novantanove
 BOR030	d'accordo
-BOI091	e hai sempre fatto questo lavoro
+BOR030	e hai sempre fatto questo lavoro
 BOI091	no eh prima di questo ho lavorato per due anni al @nomeluogo in centro
 BOI091	quando ti dicevo che giravo in centro era perché lavoravo lì
 BOI091	uscita dalla scuola sono andata subito a lavorare al @nomeluogo e poi dopo un anno e mezzo due anni
-BOR030	sono andata in @nomeluogo quindi ho sempre fatto questo
+BOI091	sono andata in @nomeluogo quindi ho sempre fatto questo
 BOR030	d'accordo
-BOI091	e avresti mai il desiderio di cambiare magari
+BOR030	e avresti mai il desiderio di cambiare magari
 BOI091	diciamo che io sono una persona ehm
 BOI091	che non ama tanto i cambiamenti quindi la paura di affrontare un cambiamento del genere così grande eh ti direi no
 BOI091	poi è chiaro che eh se c'è la necessità come al @nomeluogo un po' sai non è che
@@ -509,14 +504,14 @@ BOI091	cioè per carità niente di male a lavorare al @nomeluogo però
 BOI091	quando poi sono andata in @nomeazienda mi son resa conto che ho ho fatto bene a farlo nonostante avessi paura comunque perché poi un anno e mezzo
 BOI091	conoscevi tutti sapevi il lavoro eh
 BOI091	e quindi ogni tanto ci vuole un po' di
-BOR030	eh
-BOI091	coraggio
+BOI091	eh
+BOR030	coraggio
 BOI091	di coraggio grazie di coraggio nel far le cose cosa che io non ho di base
 BOI091	però eh
-BOR030	diciamo che adesso no eh
-BOI091	ah adesso no
-BOR030	adesso no adesso sto bene dove sto
-BOI091	okay mentre l'ambiente bolognese pensi sia un buon posto per lavorare
+BOI091	diciamo che adesso no eh
+BOR030	ah adesso no
+BOI091	adesso no adesso sto bene dove sto
+BOR030	okay mentre l'ambiente bolognese pensi sia un buon posto per lavorare
 BOI091	sì
 BOI091	sì sì
 BOI091	per me sì
@@ -527,23 +522,23 @@ BOI091	eh in @nomeazienda c'è stata un'ondata dei padovani
 BOI091	poi c'è stata l'ondata
 BOI091	eh dei milanesi poi c'è stata l'ondata dei napoletani
 BOI091	e dei romani c'era anche quindi insomma sono stati un po' tutti
-BOR030	di bologna veramente le conti sulla sulla dita di una mano nonostante e boh sia xx un call center a bologna
-BOI091	però in generale comunque lavorare a bologna
+BOI091	di bologna veramente le conti sulla sulla dita di una mano nonostante e boh sia xx un call center a bologna
+BOR030	però in generale comunque lavorare a bologna
 BOI091	sì sì sì
 BOI091	sì sì sì sì sì
 BOI091	nonostante bologna sia una città molto cara c'è poco da nasconderci quindi
 BOI091	eh probabilmente lo stipendio che tu hai in @nomeazienda rapportato in un'altra città magari ti fa fare delle robe
 BOI091	di diverse maggiori rispetto a quelle che ti puoi permettere a bologna
-BOR030	però eh però bologna sì eh
-BOI091	bologna è bologna
+BOI091	però eh però bologna sì eh
 BOR030	bologna è bologna
+BOI091	bologna è bologna
 BOR030	va bene
-BOI091	mentre passiamo alle attività del tempo libero
-BOR030	bulagna è bula~
-BOI091	eh ti chiedo innanzitutto se fai attività sportiva
+BOR030	mentre passiamo alle attività del tempo libero
+BOI091	bulagna è bula~
+BOR030	eh ti chiedo innanzitutto se fai attività sportiva
 BOI091	in questo momento no
-BOR030	ne ho fatta tanta ma adesso no
-BOI091	e che tipo di attività hai fatto
+BOI091	ne ho fatta tanta ma adesso no
+BOR030	e che tipo di attività hai fatto
 BOI091	ho iniziato bah col nuoto quando si fa da da piccoli poi ho giocato a softball per mh quasi quattro cinque anni
 BOI091	eh però non era il mio sport era troppo noioso
 BOI091	eh ho cominciato a giocare a pallamano
@@ -556,48 +551,48 @@ BOI091	ma non
 BOI091	io ero piccola vedevo tutte queste donne grandi che giocavano che tiravano pallonate assurde mi sono un po' spaventata e non sono più tornata
 BOI091	eh
 BOI091	basta quindi ti direi so~ ti dico softball pallamano e calcetto a livello proprio sportivo nelle varie società
-BOR030	poi adesso che sono un po' più grande eh ho fatto zumba
-BOI091	mhmh
+BOI091	poi adesso che sono un po' più grande eh ho fatto zumba
+BOR030	mhmh
 BOI091	eh
 BOI091	però anche lì poi dopo ho smesso perché la coordinazione non era proprio il mio punto di forza
-BOR030	eh eh basta poi dopo da lì so~
+BOI091	eh eh basta poi dopo da lì so~
 BOR030	va bene
-BOI091	e mentre per quanto riguarda le uscite
-BOR030	eh sì
-BOI091	e che posti preferisci quando devi uscire
-BOR030	sicuramente un ristorante
-BOI091	quindi
+BOR030	e mentre per quanto riguarda le uscite
+BOI091	eh sì
+BOR030	e che posti preferisci quando devi uscire
+BOI091	sicuramente un ristorante
+BOR030	quindi
 BOI091	in un bar un per per un un bar per un aperitivo o un ristorante
 BOI091	non non
 BOI091	non disdegnerei neanche disdegnerei neanche di andare a fare una serata in discoteca se ti devo dire la verità
 BOI091	però poi
-BOR030	bisogna rendersi conto che dopo un po' quando si passa l'età diventa anche difficile fare una cosa così eh
-BOI091	mh
+BOI091	bisogna rendersi conto che dopo un po' quando si passa l'età diventa anche difficile fare una cosa così eh
+BOR030	mh
 BOI091	poi è vero che ci sono i posti il nuovo luna per esempio eh il posto
 BOI091	dove si potrebbe andare però
-BOR030	però si deve avere anche la compagnia per fare una cosa così
-BOI091	certamente
-BOR030	perché la devi fare in in balotta per divertirsi
+BOI091	però si deve avere anche la compagnia per fare una cosa così
+BOR030	certamente
+BOI091	perché la devi fare in in balotta per divertirsi
 BOR030	mhmh
-BOI091	e più o meno quante volte a settimana esci se ne hai la possibilità
-BOR030	mh
-BOI091	o comunque
+BOR030	e più o meno quante volte a settimana esci se ne hai la possibilità
+BOI091	mh
+BOR030	o comunque
 BOI091	sì sì
-BOR030	mh un paio di volte alla settimana sì
-BOI091	okay bene quindi abbastanza comunque
+BOI091	mh un paio di volte alla settimana sì
+BOR030	okay bene quindi abbastanza comunque
 BOI091	sì sì sì sì sì d'inverno diciamo che
 BOI091	facciamo una media un po' più
 BOI091	bassa perché
 BOI091	quando si è a casa al calduccio che devi prendere e uscire
-BOR030	quindi
-BOI091	manca la voglia
+BOI091	quindi
+BOR030	manca la voglia
 BOI091	manca la voglia
 BOI091	quindi diciamo che due è la media perché magari d'estate vai e ti fai l'aperitivo vai fuori a cena fai xxx
-BOR030	quindi una media di due volte alla settimana però sì
+BOI091	quindi una media di due volte alla settimana però sì
 BOR030	va bene e invece da giovane
-BOI091	cosa ti piaceva fare
-BOR030	da giovane eh come io sono ancora giovane te lo devo dire però vabbè
-BOI091	certo
+BOR030	cosa ti piaceva fare
+BOI091	da giovane eh come io sono ancora giovane te lo devo dire però vabbè
+BOR030	certo
 BOI091	ehm da giovane eh cosa facevamo eravamo sempre
 BOI091	con la squadra perché avendo fatto sempre sport poi dopo quando entri in una squadra eh
 BOI091	diventi una famiglia anche lì no quindi noi facevamo l'allenamento poi uscivamo
@@ -606,38 +601,36 @@ BOI091	eh e facevamo due allenamenti alla settimana più la partita
 BOI091	quindi eravamo poi sempre tutti insieme quindi andavamo e poi avevamo un ritrovo che era
 BOI091	quando giocavo a soft~ a scusami
 BOI091	sì a softball avevamo a vicino a san lazzaro il falchi che è il campo da baseball dei dove giocavano i ragazzi e ci trovavamo sempre lì
-BOR030	quindi tutte le sere eravamo lì al falchi a parlare chiacchierare facevamo facevamo anche serate così
+BOI091	quindi tutte le sere eravamo lì al falchi a parlare chiacchierare facevamo facevamo anche serate così
 BOR030	d'accordo
 BOR030	e passerei dunque alla musica
-BOI091	quindi se mi puoi dire che genere ascolti
+BOR030	quindi se mi puoi dire che genere ascolti
 BOI091	pronti
-BOI091	
 BOI091	musica prettamente italiana
 BOI091	eh l~ diciamo in questo momento particolare eh
 BOI091	ho i pinguini tattici nucleari che sono
-BOR030	sono una droga mi mi piacciono da morire
-BOI091	ma son di bologna loro
+BOI091	sono una droga mi mi piacciono da morire
+BOR030	ma son di bologna loro
 BOI091	eh
 BOI091	no
 BOI091	no no no
 BOI091	eh lui è di bergamo mi pare quindi ma li ho sentiti per caso poi dopo la figlia di una mia amica mh
 BOI091	le piacciono da matti e allora io le ho detto eh ti porto al concerto se vien~ vengono a bologna fatalità vengono a bologna a maggio e allora
-BOR030	la porto al concerto e adesso devo studiare
+BOI091	la porto al concerto e adesso devo studiare
 BOR030	mhmh
-BOI091	i testi
+BOR030	i testi
 BOI091	i testi certo
 BOI091	e poi un'altra che mi piace tantissimo
 BOI091	a cui andrò al concerto a gennaio è la pausini quindi eh adesso c'è la pausini
 BOI091	ma ti ripeto l'italiana mi piace quasi tutta eh son stata di recente al concerto di max pezzali
 BOI091	che mi è sempre piaciuto tantissimo
-BOR030	eh ligabue vasco rossi tu~ tutti tutti quelli italiani la straniera no
+BOI091	eh ligabue vasco rossi tu~ tutti tutti quelli italiani la straniera no
 BOR030	va bene
-BOI091	eh sempre di hobby passioni eh parlerei del calcio adesso
-BOR030	
-BOI091	non aspettavi altro
+BOR030	eh sempre di hobby passioni eh parlerei del calcio adesso
+BOR030	non aspettavi altro
 BOI091	u~ u~ una lieve passione che ho
-BOR030	non so se l'hai capito da prima dal da quando ero bambina col poster
-BOI091	okay quindi io ti lascio anche parlare liberamente ti indirizzo dicendoti chiedendoti che squadra tifi perché e tu parti pure
+BOI091	non so se l'hai capito da prima dal da quando ero bambina col poster
+BOR030	okay quindi io ti lascio anche parlare liberamente ti indirizzo dicendoti chiedendoti che squadra tifi perché e tu parti pure
 BOI091	allora
 BOI091	tifo per l'inter mia mamma tifa per l'inter mio fratello tifa per l'inter mio papà è gobbo è juventino
 BOI091	i miei sono separati non so se è un caso ma forse per quello
@@ -647,8 +640,8 @@ BOI091	io credo di tifare inter per mia mamma mia mamma mi dice che lei
 BOI091	tifava inter quand'era giovane poi dopo ha smesso quando siamo nati io e mio fratello e sono stata io che
 BOI091	mi sono affezionata all'inter e lei allora è ritornata però su questo non so se è ben così
 BOI091	comunque io ho iniziato perché ero innamorata persa di un calciatore
-BOR030	eh e c'ho un aneddoto se vuoi
-BOI091	quale
+BOI091	eh e c'ho un aneddoto se vuoi
+BOR030	quale
 BOI091	nicola berti
 BOI091	eh
 BOI091	una volta allora noi prendiamo un cane mh mia nonna regala a mio fratello un cagnolino
@@ -661,18 +654,15 @@ BOI091	io e un'altra ragazzina ch'eravamo piccole avevamo avuto sedici diciasset
 BOI091	arriva nicola berti
 BOI091	io tutta emozionata non riuscivo a parlare
 BOI091	mia mamma lo saluta la prima roba che gli dice fa sai che abbiamo un cane che si chiama come te
-BOR030	no vabbè mamma sono morta in quel momento
-BOI091	
-BOR030	anche lui forse
-BOR030	
-BOI091	
+BOI091	no vabbè mamma sono morta in quel momento
+BOI091	anche lui forse
 BOI091	eh e poi da lì è nata la nostra passione perché come ti dicevo non siamo mai usciti tanto come famiglia no~ non
 BOI091	però quando c'era l'inter è il momento in cui siamo tutti insieme ci guardavamo la partita tutti insieme
 BOI091	adesso che siamo in tre case diverse la guardiamo insie~
 BOI091	cioè non siamo insieme fisicamente ma siamo insieme col telefono ce la commentiamo
-BOR030	quindi è un modo un po' di di stare uniti comunque come famiglia eh
+BOI091	quindi è un modo un po' di di stare uniti comunque come famiglia eh
 BOR030	certo
-BOI091	ma tu preferisci guardarla da casa o andare allo stadio
+BOR030	ma tu preferisci guardarla da casa o andare allo stadio
 BOI091	allora per tanti anni abbiamo avuto l'abbonamento a milano andavamo col pullman partivamo
 BOI091	è bellissimo lo stadio
 BOI091	bellissimo però è faticoso
@@ -684,45 +674,45 @@ BOI091	ma devi arrivare prima perché ovviamente sa appena si tu non trovi posto
 BOI091	quindi partivamo a degli orari osc~ tipo c'era la partita alle otto e mezza di sera tu partivi alle dieci della mattina
 BOI091	entrare allo stadio alle tre del pomeriggio quindi del col freddo l'era
 BOI091	però allora non c'era ancora la tivù quindi cioè c'era la tivù ma non era come adesso che la vedi tutte dove vuoi e quindi andavi
-BOR030	adesso stai comodo sul divano col tuo plaid te la guardi quindi direi adesso come adesso a casa
-BOI091	va bene
-BOR030	poi magari ogni tanto andare allo stadio è sempre bello eh perché
+BOI091	adesso stai comodo sul divano col tuo plaid te la guardi quindi direi adesso come adesso a casa
+BOR030	va bene
+BOI091	poi magari ogni tanto andare allo stadio è sempre bello eh perché
 BOR030	d'accordo
-BOI091	mentre film cinema ti piace
+BOR030	mentre film cinema ti piace
 BOI091	i film sì molto il cinema no
 BOI091	non n~ mh
 BOI091	non mi è troppo alto il rumore non p~ p~ poi io sono
-BOR030	cioè se ho uno davanti alto mi innervosisco uno che parla mi inner~ io dev~ sto a casa mia a vedermi il mio film la mia tivù stoppo quando voglio eh
-BOI091	che programmi ti piacciono
+BOI091	cioè se ho uno davanti alto mi innervosisco uno che parla mi inner~ io dev~ sto a casa mia a vedermi il mio film la mia tivù stoppo quando voglio eh
+BOR030	che programmi ti piacciono
 BOI091	eh
 BOI091	prettamente guardo serie tv
 BOI091	non guardo programmi
 BOI091	xxx di nessun tipo non ho guardavo xfactor gli anni prece~ passati ma adesso non non non lo guardo neanche più non
-BOR030	però serie tv sì io sono una patita di serie tv
-BOI091	e hai dei generi particolari che preferisci
+BOI091	però serie tv sì io sono una patita di serie tv
+BOR030	e hai dei generi particolari che preferisci
 BOI091	diciamo che evito l'horror sicuramente evito il
 BOI091	troppo thriller perché ehm c'è già ansia nella vita e io ho bisogno di di robe tranquille
 BOI091	eh adesso sto vedendo the big bang theory che non l'avevo mai visto
-BOR030	eh lo adoro
-BOI091	anche a me piace
-BOR030	eh
-BOI091	eh quanto spesso diresti che guardi quindi questi programmi
+BOI091	eh lo adoro
+BOR030	anche a me piace
+BOI091	eh
+BOR030	eh quanto spesso diresti che guardi quindi questi programmi
 BOI091	mah
 BOI091	eh
-BOR030	diciamo che l~ quasi tutte le sere se non esco io guardo guardo la tivù sì sì
-BOI091	quindi comunque prettamente di sera è il tuo orario
+BOI091	diciamo che l~ quasi tutte le sere se non esco io guardo guardo la tivù sì sì
+BOR030	quindi comunque prettamente di sera è il tuo orario
 BOI091	sì
 BOI091	sì sì sì sì sì
 BOI091	sì perché diciamo che lavo~ lavorando poi quelle sei sette ore eh
-BOR030	ti occupa un po' la giornata ho il il cane come dicevamo prima porta via sistema casa cucina sempre la sera sì
-BOI091	va bene
+BOI091	ti occupa un po' la giornata ho il il cane come dicevamo prima porta via sistema casa cucina sempre la sera sì
+BOR030	va bene
 BOI091	ma magari c'hai una mezz'oretta pomeriggio che mi metto e mi guardo
 BOI091	però
 BOI091	la sera sicuramente è il momento di relax in cui
-BOR030	guardo la tivù
+BOI091	guardo la tivù
 BOR030	d'accordo
-BOI091	va bene allora abbiamo finito io ti ringrazio
-BOR030	è stato un piacere
-BOI091	eh
-BOR030	forza inter
+BOR030	va bene allora abbiamo finito io ti ringrazio
+BOI091	è stato un piacere
+BOR030	eh
+BOI091	forza inter
 BOR030	va bene fine

@@ -1,33 +1,33 @@
-BO082	buongiorno posso entrare
-BO084	prego buongiorno venga
-BO082	buongiorno
+BO084	buongiorno posso entrare
+BO082	prego buongiorno venga
 BO084	buongiorno
+BO082	buongiorno
 BO084	le avevo scritto una mail
-BO082	per una eventuale proposta della tesi
+BO084	per una eventuale proposta della tesi
 BO082	ah quella mail
-BO084	del eh del ah proposta di tesi
-BO082	sì
+BO082	del eh del ah proposta di tesi
+BO084	sì
 BO082	allora non so chi è
-BO084	aspetta lei è si chiama
-BO082	miriam
-BO084	allora cognome
-BO082	rossi
+BO082	aspetta lei è si chiama
+BO084	miriam
+BO082	allora cognome
+BO084	rossi
 BO082	okay
-BO084	ah okay sì perché xx di email ne ho xx un milione ma non tutte con proposte di tesi
-BO082	sì sì
-BO084	allora intanto per quando
-BO082	allora se vanno bene tutti gli esami di quest'anno giugno luglio
-BO084	giugno non c'è quindi luglio
-BO082	luglio
-BO084	allora luglio diciotto
-BO082	sì sì
+BO082	ah okay sì perché xx di email ne ho xx un milione ma non tutte con proposte di tesi
+BO084	sì sì
+BO082	allora intanto per quando
+BO084	allora se vanno bene tutti gli esami di quest'anno giugno luglio
+BO082	giugno non c'è quindi luglio
+BO084	luglio
+BO082	allora luglio diciotto
+BO084	sì sì
 BO082	allora bisogna vedere quante ne ho io per luglio diciotto eh un attimo solo
 BO082	allora questo sito qua
 BO082	questo sito una due
 BO082	tre quattro cinque sei sette
 BO082	sette forse otto
-BO084	più un paio che potrebbero slittare siamo lì eh
-BO082	xxxxxxx
+BO082	più un paio che potrebbero slittare siamo lì eh
+BO084	xxxxxxx
 BO082	sì
 BO082	beh
 BO082	è diciamo più o meno la decima
@@ -35,70 +35,70 @@ BO082	quindi iniziamo poi vediamo strada facendo insomma come si mette
 BO082	e
 BO082	sì diciamo che gli altri hanno già iniziato più o meno a lavorare insomma
 BO082	e allora su che cosa la voleva fare lei la tesi
-BO084	visto che ha detto che aveva le idee chiare
-BO082	allora io ho un'idea abbastanza precisa eh
-BO084	sì
+BO082	visto che ha detto che aveva le idee chiare
+BO084	allora io ho un'idea abbastanza precisa eh
+BO082	sì
 BO084	cioè avevo fatto no come m
-BO082	argomento a scelta il primo anno quando avevo fatto l'esame di linguistica
-BO084	mhmh
-BO082	quindi sul genere linguistico
-BO084	mhmh
-BO082	lo tratterei prima in generale
-BO084	mhmh
+BO084	argomento a scelta il primo anno quando avevo fatto l'esame di linguistica
+BO082	mhmh
+BO084	quindi sul genere linguistico
+BO082	mhmh
+BO084	lo tratterei prima in generale
+BO082	mhmh
 BO084	eventualmente come introduzione
-BO082	quindi vabbè con la distinzione dei criteri dell'assegnazione del genere criterio formale criterio semantico se non so bene quanti capitoli possano servire
+BO084	quindi vabbè con la distinzione dei criteri dell'assegnazione del genere criterio formale criterio semantico se non so bene quanti capitoli possano servire
 BO082	mhmh m
-BO084	mhmh
-BO082	in caso la distinzione con il numero con la categoria quindi all'universale che implica che una lingua che abbia la categoria debba avere anche il genere
-BO084	mhmh
-BO082	quindi magari le differenze però l'aspetto che mi interessa di più è l'articolo che avevo letto sia che aveva scritto lei penso in un seminario ma anche con brugnatelli
-BO084	sì
-BO082	quindi e la cosa che mi interesserebbe di più
-BO084	ho scritto un articolo con brugnatelli
-BO082	della
-BO084	ma su cosa
-BO082	della tesi eh la vede cioè vede
-BO084	no non mi ricordavo di aver scritto un articolo con brugnatelli sul genere
-BO082	no è un sì sì sì si chiamava non so se fosse un articolo o più un seminario o qualcosa del genere
+BO082	mhmh
+BO084	in caso la distinzione con il numero con la categoria quindi all'universale che implica che una lingua che abbia la categoria debba avere anche il genere
+BO082	mhmh
+BO084	quindi magari le differenze però l'aspetto che mi interessa di più è l'articolo che avevo letto sia che aveva scritto lei penso in un seminario ma anche con brugnatelli
+BO082	sì
+BO084	quindi e la cosa che mi interesserebbe di più
+BO082	ho scritto un articolo con brugnatelli
+BO084	della
+BO082	ma su cosa
+BO084	della tesi eh la vede cioè vede
+BO082	no non mi ricordavo di aver scritto un articolo con brugnatelli sul genere
+BO084	no è un sì sì sì si chiamava non so se fosse un articolo o più un seminario o qualcosa del genere
 BO082	no
-BO084	forse sì
+BO082	forse sì
 BO084	si chiamava
-BO082	riflessi linguistici delle differenze di genere
-BO084	ah okay ma sì forse era un monografico di un milione di miliardi di anni fa ma dove l'ha trovata questa roba su internet
+BO084	riflessi linguistici delle differenze di genere
+BO082	ah okay ma sì forse era un monografico di un milione di miliardi di anni fa ma dove l'ha trovata questa roba su internet
 BO084	sì
-BO082	sì sì sì
-BO084	pensavo avessero bonificato tutto
+BO084	sì sì sì
+BO082	pensavo avessero bonificato tutto
 BO084	eh no
 BO084	e quindi insomma la cosa che mi ha interessato è l'ipotesi
-BO082	sapir wohrf
+BO084	sapir wohrf
 BO082	mhmh
-BO084	mhmh
-BO082	e quindi vedere come le strutture linguistiche condizionano la realtà e viceversa
-BO084	mhmh
+BO082	mhmh
+BO084	e quindi vedere come le strutture linguistiche condizionano la realtà e viceversa
+BO082	mhmh
 BO084	e quindi volevo fare un'analisi
 BO084	sulle categorie di genere delle varie lingue
-BO082	e contemporaneamente vedere la cultura come si comporta a livello di distinzione dei generi
+BO084	e contemporaneamente vedere la cultura come si comporta a livello di distinzione dei generi
 BO082	mhmh
-BO084	sì
-BO082	quindi proprio nell'aspetto semantico
-BO084	mhmh
-BO084	quindi proprio di maschile e femminile
-BO082	e quindi eventualmente non xxx linguistico
-BO082	allora le li allora mashile e fe~ allora
-BO084	lei troppa roba
 BO082	sì
+BO084	quindi proprio nell'aspetto semantico
+BO082	mhmh
+BO084	quindi proprio di maschile e femminile
+BO084	e quindi eventualmente non xxx linguistico
+BO082	allora le li allora mashile e fe~ allora
+BO082	lei troppa roba
+BO084	sì
 BO082	cioè nel senso che una tesina una è intanto non è una tesi ma un elaborato finale
 BO082	okay serve la triennale quindi
-BO084	gli argomenti che lei diciamo mi ha citato sarebbero troppi anche per una tesi magistrale verosimilmente quindi direi che focaliziamo
+BO082	gli argomenti che lei diciamo mi ha citato sarebbero troppi anche per una tesi magistrale verosimilmente quindi direi che focaliziamo
 BO084	mhmh
-BO082	sì sì sì
+BO084	sì sì sì
 BO082	o facciamo una tesi
 BO082	diciamo
-BO084	su sul genere in generale come aveva detto
-BO082	m
-BO084	e quindi xx oppure facciamo questo aspetto qua dando in parte per scontate un po' le altre cose
+BO082	su sul genere in generale come aveva detto
+BO084	m
+BO082	e quindi xx oppure facciamo questo aspetto qua dando in parte per scontate un po' le altre cose
 BO084	questo aspetto allora
-BO082	perfetto
+BO084	perfetto
 BO082	okay
 BO082	allora
 BO082	e
@@ -107,65 +107,65 @@ BO082	se lei vuol fare una tesi diciamo
 BO082	sulla
 BO082	rapporto lingua società a partire dal genere o la insomma il pensiero e quelle robe lì
 BO082	ehm
-BO084	allora le lingue del mondo sono tante e i sistemi di genere nelle lingue del mondo sono tante
-BO082	okay
+BO082	allora le lingue del mondo sono tante e i sistemi di genere nelle lingue del mondo sono tante
+BO084	okay
 BO082	tanti
 BO082	non tutti
 BO082	diciamo allineati sulla dicotomia maschile femminile
-BO084	ma anzi su cose molto diverse
-BO082	mhmh
-BO084	quindi
-BO082	mhmh
+BO082	ma anzi su cose molto diverse
+BO084	mhmh
+BO082	quindi
+BO084	mhmh
 BO082	vediamo
 BO082	se sia il caso di focalizzare solo sul maschile e femminile
 BO082	o se fare un discorso più generale di tipo diciamo essenzialmente un po' più tipologico
-BO084	okay
-BO082	allora
+BO082	okay
+BO084	allora
 BO082	allora quindi quello che lei deve fare intanto è raccogliere un po' di bibliografia
-BO084	mh
-BO082	sì
+BO082	mh
+BO084	sì
 BO082	quindi
 BO082	quel diciamo quei cosi che ha trovato su internet io non mi ricordo neanche che bibliografia avevano ma può dare un'occhiata
-BO084	c'era un libro secondo me di luraghi
-BO082	però se posso cioè alla fine il mio ragionamento che è quello che veramente volevo fare se si potesse fare un lavoro del genere
+BO082	c'era un libro secondo me di luraghi
+BO084	però se posso cioè alla fine il mio ragionamento che è quello che veramente volevo fare se si potesse fare un lavoro del genere
 BO082	sì dica
 BO082	certo
-BO084	sì
-BO082	come si diceva le lingue sono tante io vorrei focalizzarmi magari su inglese
-BO084	mhmh
-BO084	e italiano
-BO082	perché in inglese ab~ cioè c'è questo fossile linguistico del maschile e femminile nella terza persona del pronome
 BO082	sì
-BO084	sì
+BO084	come si diceva le lingue sono tante io vorrei focalizzarmi magari su inglese
+BO082	mhmh
+BO084	e italiano
+BO084	perché in inglese ab~ cioè c'è questo fossile linguistico del maschile e femminile nella terza persona del pronome
+BO082	sì
+BO082	sì
 BO084	e quindi
-BO082	e e siccome sto studiando anche storia contemporanea
-BO084	sì
-BO082	mi colpiva vedere come l'inghilterra è la prima società a livello europeo con ad esempio movimenti femministi
-BO084	sì però come fa a fare uno studio comparato sul genere prendendo una lingua che non ha il genere
+BO084	e e siccome sto studiando anche storia contemporanea
+BO082	sì
+BO084	mi colpiva vedere come l'inghilterra è la prima società a livello europeo con ad esempio movimenti femministi
+BO082	sì però come fa a fare uno studio comparato sul genere prendendo una lingua che non ha il genere
 BO084	eh vedere la differenza invece con l'italiano perché invece l'italiano a me ha colpito vedere magari se si può se si possono utilizzare i testi del risorgimento
-BO082	perché io leggevo nel libro di storia che mi ha colpito come soprattutto nel risorgimento inzia la distinzione dei generi
-BO084	sì
+BO084	perché io leggevo nel libro di storia che mi ha colpito come soprattutto nel risorgimento inzia la distinzione dei generi
+BO082	sì
 BO084	nel senso che ad ogni xx ad ogni genere si danno delle prerogative
 BO084	quindi viene proprio utilizzato linguisticamente delle determinate parole nei testi
-BO082	classici cuore di de amicis eccetera
-BO084	mhmh
+BO084	classici cuore di de amicis eccetera
+BO082	mhmh
 BO084	quindi anziché usare femmina
-BO082	e maschio
-BO084	mhmh
+BO084	e maschio
+BO082	mhmh
 BO084	si usa donna patria la patria la femmina la donna come patria
-BO082	la madre la patria
-BO084	sì però questo non c'entra niente col genere linguistico
+BO084	la madre la patria
+BO082	sì però questo non c'entra niente col genere linguistico
 BO084	beh
-BO082	mh
+BO084	mh
 BO082	cioè nel senso col genere noi partiamo
-BO084	diciamo questo diciamo è un immaginario col~ collettivo eccetera che ha a che fare diciamo più con la dimensione lessicale
-BO082	s
-BO084	non con la dimensione del genere morfologico diciamo no
-BO082	eh ma a me interessa a livello proprio lessicale
+BO082	diciamo questo diciamo è un immaginario col~ collettivo eccetera che ha a che fare diciamo più con la dimensione lessicale
+BO084	s
+BO082	non con la dimensione del genere morfologico diciamo no
+BO084	eh ma a me interessa a livello proprio lessicale
 BO082	m
-BO084	però è una cosa diversa
+BO082	però è una cosa diversa
 BO084	cioè del
-BO082	sì
+BO084	sì
 BO082	okay allora lei x deve intanto chiarirsi un pochino le idee
 BO082	mh
 BO082	quindi a questo punto lei si trova una bibliografia se la legge e mi butta giù un progettino scritto
@@ -183,26 +183,26 @@ BO082	m
 BO082	io le suggerirei
 BO082	un libro
 BO082	che si chiama le linguaggio e genere grammatiche e usi
-BO084	di luraghi e olita
-BO082	posso
+BO082	di luraghi e olita
+BO084	posso
 BO082	a cura di
-BO084	sì
-BO082	posso prendere una penna
+BO082	sì
+BO084	posso prendere una penna
 BO082	sì
 BO082	e poi
 BO082	prova a dare un'occhiata
 BO082	sì ci sono anche un sacco di
-BO084	come dire
+BO082	come dire
+BO084	linguaggio e genere
 BO082	linguaggio e genere
-BO082	linguaggio e genere
-BO084	eh luraghi e olita
-BO082	e genere
+BO082	eh luraghi e olita
+BO084	e genere
 BO082	ci sono anche poi eventualmente tutte le raccomandazioni
-BO084	a partire da quelle di alma sabatini per l'uso
-BO082	sì
-BO084	e diciamo non maschilista la lingua che le può leggere
+BO082	a partire da quelle di alma sabatini per l'uso
+BO084	sì
+BO082	e diciamo non maschilista la lingua che le può leggere
 BO084	quelli le avevo viste
-BO082	li ho visti quelli dell'alma sabatini
+BO084	li ho visti quelli dell'alma sabatini
 BO082	e
 BO082	poi
 BO082	può guardare altre cose in giro se trova
@@ -236,33 +236,33 @@ BO082	okay l'ho incollato due volte per sbaglio
 BO082	ecco spedito
 BO082	quindi prova a leggersi un po' di bibliografia
 BO082	mette insieme un po' di altra bibliografia oltre a quella che le ho indicato
-BO084	e poi mi mette giù per iscritto in un paio di pagine anche con riferimento ai testi che citava
-BO082	sì sì sì sì
+BO082	e poi mi mette giù per iscritto in un paio di pagine anche con riferimento ai testi che citava
+BO084	sì sì sì sì
 BO082	il suo progetto di tesi e poi ci vediamo direi
 BO082	l'ideale sarebbe se riuscisse a farlo entro
 BO082	e
 BO082	per marzo diciamo no luglio lei vuole andare vero
-BO084	luglio allora luglio ci possiam vedere anche subito alla ripresa insomma
-BO082	sì xx
+BO082	luglio allora luglio ci possiam vedere anche subito alla ripresa insomma
+BO084	sì xx
 BO082	se non ce la fa prima delle delle vacanze di natale quindi entro tre settimane
-BO084	ci vediamo subito dopo l'epifania
-BO082	quindi o entro natale o direttamente a gennaio
+BO082	ci vediamo subito dopo l'epifania
+BO084	quindi o entro natale o direttamente a gennaio
 BO082	okay
 BO082	se ce la fa entro natale va bene
-BO084	se no qua alla ripresa l'otto il nove insomma però non oltre
-BO082	sì sì sì va bene
-BO084	okay
+BO082	se no qua alla ripresa l'otto il nove insomma però non oltre
+BO084	sì sì sì va bene
 BO082	okay
+BO084	okay
 BO082	così cerchiamo di definire un pochino meglio su questi aspetti socio
 BO082	diciamo sociali del
 BO082	e
 BO082	del genere e capire meglio insomma
 BO082	che tipo di di approccio dare al lavoro
-BO084	okay
-BO082	va bene
-BO084	va bene
-BO082	grazie
 BO082	okay
-BO084	arrivederci
+BO084	va bene
+BO082	va bene
+BO084	grazie
+BO082	okay
+BO082	arrivederci
 BO084	buona giornata
 BO084	arrivederci

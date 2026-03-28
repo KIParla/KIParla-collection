@@ -227,7 +227,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 46-6	TO037	46	mangiare	mangiare	linguistic	_	_	_	_	_	_
 46-7	TO037	46	la	la	linguistic	_	_	_	_	_	_
 46-8	TO037	46	frutta	frutta	linguistic	_	End=81.6	_	_	_	_
-47-0	TO036	47	cla,	cla	linguistic	Intonation=weakly_rising	Begin=81.6	_	_	_	_
+47-0	TO036	47	cla,	cla	linguistic	Intonation=WeaklyRising	Begin=81.6	_	_	_	_
 47-1	TO036	47	elii?	elii	linguistic	Intonation=Rising	End=82.8	_	_	_	_
 48-0	TO029	48	(no	no	linguistic	_	Begin=82.91	_	_	0-2(0)	_
 48-1	TO029	48	grazie	grazie	linguistic	_	_	_	_	0-6(0)	_
@@ -580,7 +580,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 115-5	TO036	115	fatto	fatto	linguistic	_	_	_	_	_	_
 115-6	TO036	115	il	il	linguistic	_	_	_	_	_	_
 115-7	TO036	115	questionario	questionario	linguistic	_	_	_	_	_	_
-115-8	TO036	115	do::po,	dopo	linguistic	Intonation=weakly_rising	_	1x2	_	_	_
+115-8	TO036	115	do::po,	dopo	linguistic	Intonation=WeaklyRising	_	1x2	_	_	_
 115-9	TO036	115	inso~	inso~	linguistic	Interrupted=Yes	End=244.413	_	_	_	_
 116-0	TO029	116	[xxxxx]	x	unknown	_	Begin=241.227|End=242.193	_	_	_	0-5(17)
 117-0	TO036	117	dovevo	dovevo	linguistic	_	Begin=244.503	_	_	_	_
@@ -1329,7 +1329,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 240-2	TO029	240	fai	fai	linguistic	_	_	_	_	_	_
 240-3	TO029	240	via	via	linguistic	_	_	_	_	_	_
 240-4	TO029	240	bava	bava	linguistic	_	_	_	_	_	_
-240-5	TO029	240	tutta,	tutta	linguistic	Intonation=weakly_rising	_	_	_	_	_
+240-5	TO029	240	tutta,	tutta	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 240-6	TO029	240	attraversi	attraversi	linguistic	_	End=522.054	_	_	_	_
 241-0	TO037	241	eh	eh	linguistic	_	Begin=522.067|End=522.418	_	_	_	_
 242-0	TO029	242	e	e	linguistic	_	Begin=522.702	_	_	_	_
@@ -1745,7 +1745,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 303-7	TO036	303	be~	be~	linguistic	Interrupted=Yes	_	_	_	_	_
 303-8	TO036	303	>cioè<	cioè	linguistic	_	_	_	Fast=0-4	_	_
 303-9	TO036	303	un'	un'	linguistic	SpaceAfter=No	_	_	_	_	_
-303-10	TO036	303	immagine,	immagine	linguistic	Intonation=weakly_rising	_	_	_	_	_
+303-10	TO036	303	immagine,	immagine	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 303-11	TO036	303	un	un	linguistic	_	_	_	_	_	_
 303-12	TO036	303	simbolo	simbolo	linguistic	_	_	_	_	_	_
 303-13	TO036	303	bello	bello	linguistic	_	_	_	_	_	_
@@ -2318,8 +2318,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 395-8	TO029	395	la	la	linguistic	_	_	_	_	_	0-2(79)
 395-9	TO029	395	mia]	mia	linguistic	_	_	_	_	_	0-3(79)
 395-10	TO029	395	famiglia	famiglia	linguistic	_	_	_	_	_	_
-395-11	TO029	395	papà,	papà	linguistic	Intonation=weakly_rising	_	_	_	_	_
-395-12	TO029	395	roberta,	roberta	linguistic	Intonation=weakly_rising	_	_	_	_	_
+395-11	TO029	395	papà,	papà	linguistic	Intonation=WeaklyRising	_	_	_	_	_
+395-12	TO029	395	roberta,	roberta	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 395-13	TO029	395	[tutti	tutti	linguistic	_	_	_	_	_	0-5(80)
 395-14	TO029	395	a	a	linguistic	_	_	_	_	_	0-1(80)
 395-15	TO029	395	fare	fare	linguistic	_	_	_	_	_	0-4(80)
@@ -3250,18 +3250,18 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 543-1	TO036	543	ha	ha	linguistic	_	_	_	Slow=0-2	_	_
 543-2	TO036	543	gonfiato	gonfiato	linguistic	_	_	_	Slow=0-8	_	_
 543-3	TO036	543	il	il	linguistic	_	_	_	Slow=0-2	_	_
-543-4	TO036	543	materassino,	materassino	linguistic	Intonation=weakly_rising	_	_	Slow=0-11	_	_
+543-4	TO036	543	materassino,	materassino	linguistic	Intonation=WeaklyRising	_	_	Slow=0-11	_	_
 543-5	TO036	543	si	si	linguistic	_	_	_	Slow=0-2	_	_
 543-6	TO036	543	è	è	linguistic	_	_	_	Slow=0-1	_	_
 543-7	TO036	543	tolto	tolto	linguistic	_	_	_	Slow=0-5	_	_
 543-8	TO036	543	[le	le	linguistic	_	_	_	Slow=0-2	_	0-2(90)
-543-9	TO036	543	co:::se]>,	cose	linguistic	Intonation=weakly_rising	End=1263.379	1x3	Slow=0-4	_	0-4(90)
+543-9	TO036	543	co:::se]>,	cose	linguistic	Intonation=WeaklyRising	End=1263.379	1x3	Slow=0-4	_	0-4(90)
 544-0	TO029	544	[davvero]?	davvero	linguistic	Intonation=Rising	Begin=1262.21|End=1263.384	_	_	_	0-7(90)
 545-0	TO036	545	<si	si	linguistic	_	Begin=1263.416	_	Slow=0-2	_	_
 545-1	TO036	545	è	è	linguistic	_	_	_	Slow=0-1	_	_
 545-2	TO036	545	aperto	aperto	linguistic	_	_	_	Slow=0-6	_	_
 545-3	TO036	545	il	il	linguistic	_	_	_	Slow=0-2	_	_
-545-4	TO036	545	cuscino,	cuscino	linguistic	Intonation=weakly_rising	_	_	Slow=0-7	_	_
+545-4	TO036	545	cuscino,	cuscino	linguistic	Intonation=WeaklyRising	_	_	Slow=0-7	_	_
 545-5	TO036	545	poi	poi	linguistic	_	_	_	Slow=0-3	_	_
 545-6	TO036	545	si	si	linguistic	_	_	_	Slow=0-2	_	_
 545-7	TO036	545	è	è	linguistic	_	_	_	Slow=0-1	_	_
@@ -3407,7 +3407,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 566-1	TO037	566	sia]	sia	linguistic	_	_	_	_	_	0-3(98)
 566-2	TO037	566	mentre	mentre	linguistic	_	_	_	_	_	_
 566-3	TO037	566	era	era	linguistic	_	_	_	_	_	_
-566-4	TO037	566	così,	così	linguistic	Intonation=weakly_rising	_	_	_	_	_
+566-4	TO037	566	così,	così	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 566-5	TO037	566	poi	poi	linguistic	_	_	_	_	_	_
 566-6	TO037	566	si	si	linguistic	_	_	_	_	_	_
 566-7	TO037	566	è	è	linguistic	_	_	_	_	_	_
@@ -3513,7 +3513,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 585-2	TO036	585	la	la	linguistic	_	_	_	_	_	_
 585-3	TO036	585	presa	presa	linguistic	_	_	_	_	_	_
 585-4	TO036	585	della	della	linguistic	_	_	_	_	_	_
-585-5	TO036	585	corrente,	corrente	linguistic	Intonation=weakly_rising	_	_	_	_	_
+585-5	TO036	585	corrente,	corrente	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 585-6	TO036	585	il	il	linguistic	_	_	_	_	_	_
 585-7	TO036	585	bagno	bagno	linguistic	_	End=1343.0	_	_	_	_
 586-0	TO037	586	beh	beh	linguistic	_	Begin=1343.0|End=1343.491	_	_	_	_
@@ -3566,7 +3566,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 596-3	TO036	596	[person~]	person~	linguistic	Interrupted=Yes	End=1357.305	_	_	_	0-7(105)
 597-0	TO029	597	[le	le	linguistic	_	Begin=1356.611	_	_	_	0-2(105)
 597-1	TO029	597	persone]	persone	linguistic	_	_	_	_	_	0-7(105)
-597-2	TO029	597	vanno,	vanno	linguistic	Intonation=weakly_rising	_	_	_	_	_
+597-2	TO029	597	vanno,	vanno	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 597-3	TO029	597	corrono	corrono	linguistic	_	End=1358.243	_	_	_	_
 598-0	TO036	598	sì:	sì	linguistic	_	Begin=1358.267	1x1	_	_	_
 598-1	TO036	598	lasciano	lasciano	linguistic	_	_	_	_	_	_
@@ -3749,7 +3749,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 620-0	TO037	620	sui	sui	linguistic	_	Begin=1414.7	_	_	_	_
 620-1	TO037	620	tavoli	tavoli	linguistic	_	_	_	_	_	_
 620-2	TO037	620	[dei	dei	linguistic	_	_	_	_	_	0-3(111)
-620-3	TO037	620	ba:r],	bar	linguistic	Intonation=weakly_rising	End=1416.0	1x1	_	_	0-3(111)
+620-3	TO037	620	ba:r],	bar	linguistic	Intonation=WeaklyRising	End=1416.0	1x1	_	_	0-3(111)
 621-0	TO029	621	[xx]xxx?	xxxxx	linguistic	Intonation=Rising	Begin=1415.293|End=1416.696	_	_	_	0-2(111)
 622-0	TO036	622	[sì]	sì	linguistic	_	Begin=1416.696|End=1417.149	_	_	_	0-2(112)
 623-0	TO037	623	[sì]	sì	linguistic	_	Begin=1416.696	_	_	_	0-2(112)
@@ -4026,7 +4026,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 672-1	TO037	672	quando	quando	linguistic	_	_	_	_	_	_
 672-2	TO037	672	siam'	siam'	linguistic	Truncated=Yes	_	_	_	_	_
 672-3	TO037	672	tornate	tornate	linguistic	_	_	_	_	_	_
-672-4	TO037	672	sì,	sì	linguistic	Intonation=weakly_rising	_	_	_	_	_
+672-4	TO037	672	sì,	sì	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 672-5	TO037	672	probabilmente	probabilmente	linguistic	_	_	_	_	_	_
 672-6	TO037	672	sì	sì	linguistic	_	_	_	_	_	_
 672-7	TO037	672	nico	nico	linguistic	_	_	_	_	_	_

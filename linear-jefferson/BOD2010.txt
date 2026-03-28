@@ -1,65 +1,65 @@
 BO049	e:::hm ciao
-BO074	((ride))
-BO049	ciao,
-BO074	tutto bene?
-BO049	sì.
+BO049	((ride))
+BO074	ciao,
+BO049	tutto bene?
+BO074	sì.
 BO049	okay,
 BO049	allora,
-BO074	vuoi raccontarmi:: dove vivi?
+BO049	vuoi raccontarmi:: dove vivi?
 BO074	e:::::h in generale?
-BO049	eh allor[a::], vivo a @nomepaese
+BO074	eh allor[a::], vivo a @nomepaese
 BO049	[si]
-BO074	okay
-BO049	che dove è il luogo dove sono nato, ho sempre vissuto qua
-BO074	°okay°
+BO049	okay
+BO074	che dove è il luogo dove sono nato, ho sempre vissuto qua
+BO049	°okay°
 BO074	anche:: m:::h
 BO074	ho studiato:: da altre parti comunque anche le superiori le ho fatte a @nomepaese
-BO049	e:: poi anche all'università ho::: studiato a bologna però ho sempre fatto: il pendolare.
-BO074	sempre vissuto a @nomepaese
-BO049	esattamente.
+BO074	e:: poi anche all'università ho::: studiato a bologna però ho sempre fatto: il pendolare.
+BO049	sempre vissuto a @nomepaese
+BO074	esattamente.
 BO049	o:kay
-BO074	e vivi in una casa, in un appartamento:::, in una villa, in un non so cosa?
-BO049	vivo:::in ((ride))
-BO074	°una capanna?°
-BO049	non vivo in una >capanna< neanche sotto un ponte
-BO074	((ride))
+BO049	e vivi in una casa, in un appartamento:::, in una villa, in un non so cosa?
+BO074	vivo:::in ((ride))
+BO049	°una capanna?°
+BO074	non vivo in una >capanna< neanche sotto un ponte
+BO049	((ride))
 BO074	ma vivo in una casa qua in centro
 BO074	che:: è una casa:: sì familiare divisa in due appartamenti
-BO049	al prim~ nel primo piano ci sto:: io e la mia famiglia al secondo piano invece ci sta: mio zio
-BO074	ah okay, quindi vivi coi tuoi
-BO049	°esatto°
+BO074	al prim~ nel primo piano ci sto:: io e la mia famiglia al secondo piano invece ci sta: mio zio
+BO049	ah okay, quindi vivi coi tuoi
+BO074	°esatto°
 BO049	e::::h m::h tu hai m:h sei figlio unico?
-BO074	o:::
-BO049	no, ho una sorella più ((sbuffa)) un po' più:::: giovane di me ha cinque anni in meno di me
-BO074	o[kay]
-BO049	[>quindi<] ne ha:: venti, ventuno, xx
-BO074	°okay° e:: condividi la stanza con lei o::: sei in camera:: da solo?
-BO049	no sono in camera da solo.
+BO049	o:::
+BO074	no, ho una sorella più ((sbuffa)) un po' più:::: giovane di me ha cinque anni in meno di me
+BO049	o[kay]
+BO074	[>quindi<] ne ha:: venti, ventuno, xx
+BO049	°okay° e:: condividi la stanza con lei o::: sei in camera:: da solo?
+BO074	no sono in camera da solo.
 BO049	bene,
-BO074	ehm:::: [com'è la tua] camera?
-BO049	[°da molti anni°]
+BO049	ehm:::: [com'è la tua] camera?
+BO074	[°da molti anni°]
 BO049	((ride)) ah beh si sa dai
-BO074	com'è la tua::: la tua camera se:::: ti va di descrivermela [un po']
+BO049	com'è la tua::: la tua camera se:::: ti va di descrivermela [un po']
 BO074	[sì]
-BO049	eh io la descriverei::: spaziosa.
-BO074	sì? ((ride))
+BO074	eh io la descriverei::: spaziosa.
+BO049	sì? ((ride))
 BO074	sì mi:::
-BO049	perché::: comunque abbiam dovuto fare dei lavori (.) perché la mia casa è stata danneggiata:: per il ter~ durante il [terremoto],
-BO074	[ah >durante<il terremoto] okay
+BO074	perché::: comunque abbiam dovuto fare dei lavori (.) perché la mia casa è stata danneggiata:: per il ter~ durante il [terremoto],
+BO049	[ah >durante<il terremoto] okay
 BO074	e quindi dopo abbiam dovuto:: siam stati per un periodo fuori ca:sa
 BO074	e::h adesso abbiamo dopo che l'abbiamo messa a posto, la cosa principale che volevo io è avere pochi oggetti in camera,
 BO074	ma in giro proprio in generale in giro per casa perché::: comunque tra il trasloco e tutto il resto
 BO074	mi son reso conto che::: >effettivamente< c'era un sacco di roba in più che non serviva assolutamente a nulla
 BO074	e:::h dato che ho già visto quanto:: sia faticoso traslocare più di una volta::,
-BO049	ho deciso: che: la voglio non vo~ non vuota però:: con meno roba possibile
-BO074	essenziale.
+BO074	ho deciso: che: la voglio non vo~ non vuota però:: con meno roba possibile
 BO049	essenziale.
+BO074	essenziale.
 BO049	(bene)
 BO049	e::hm quindi tu hai sempre vissuto lì
-BO074	sei nato e cresciuto lì
-BO049	°sì°
+BO049	sei nato e cresciuto lì
+BO074	°sì°
 BO049	giusto?
-BO074	e durante il terremoto vi siete avete vissuto in una casa::: temporanea, in un'abitazione temporanea? oppure
+BO049	e durante il terremoto vi siete avete vissuto in una casa::: temporanea, in un'abitazione temporanea? oppure
 BO074	e::h si abbiam fatto abbiamo siam stati da una parte fortunati perché abbiamo::
 BO074	avuto la:: disponibilità che c'era::: mio nonno che aveva un ap~ che aveva un appartamento in più
 BO074	e quindi lì ci sono andati e::h i miei e mia sorella
@@ -71,15 +71,15 @@ BO074	e per motivi di spazio perché in quell'appartamento io non ci stavo, mi s
 BO074	però era:: era veramente
 BO074	cioè da una parte:::
 BO074	era comodo e siam stati fortunati a trovare quella sistemazione
-BO049	dall'altra parte non era comodissimo perché comunuque anche per andare a mangiare e tutto il resto andavo dai miei quindi [poi]
-BO074	[uscivi] di casa
+BO074	dall'altra parte non era comodissimo perché comunuque anche per andare a mangiare e tutto il resto andavo dai miei quindi [poi]
+BO049	[uscivi] di casa
 BO074	uscivo di casa,
-BO049	era:: meno di un metro >cioè< era il portone di fianco però era sempre avanti e indietro.
+BO074	era:: meno di un metro >cioè< era il portone di fianco però era sempre avanti e indietro.
 BO049	°sì, ho capito.°
 BO049	e:::hm:::::
 BO049	la tua casa com'è ordinata?
 BO049	tu che tipo sei, la tieni in ordine, pulisci?
-BO074	((ride))
+BO049	((ride))
 BO074	mah,
 BO074	eh allora,
 BO074	adesso sto: cercando::
@@ -97,82 +97,82 @@ BO074	ci penso io a pulire e a mettere in ordine,
 BO074	e c'ho pensato anche io quando abbiamo fatto il trasloco:: la disposizione di tutto quindi
 BO074	sono un po':: i::: li considero i miei i miei spazi
 BO074	e adesso::: sto cercando di tenerli:
-BO049	in ordine, mi sto imponendo di diventare più ordinato.
+BO074	in ordine, mi sto imponendo di diventare più ordinato.
 BO049	bene.
 BO049	e:::: c'è una stanza:: della tua casa che preferisci rispetto alle altre,
-BO074	in cui passi più tempo?
+BO049	in cui passi più tempo?
 BO074	mah a::h m::h s:
-BO049	>cioè< io mi s::empre trovato bene a stare in camera mia
-BO074	°okay°
+BO074	>cioè< io mi s::empre trovato bene a stare in camera mia
+BO049	°okay°
 BO074	perché comunque:::
 BO074	è il mio spazio,
 BO074	e::: poi un'altra
 BO074	l'altra stanza è appunto questa:: taverna che fin da:: ragazzino
 BO074	fin da quando avevo (.) quattordici quindici anni
-BO049	e::h la usavamo io e i miei amici
-BO074	°okay°
+BO074	e::h la usavamo io e i miei amici
+BO049	°okay°
 BO074	l'abbiam sempre usata lì e adesso::
 BO074	dopo, appunto dopo i lavori dopo il terremoto l'abbiamo cambiata un po',
 BO074	però c'è ancora
-BO049	e:: e quella l'ho sempre considerata comunque la:: uno spazio molto personale
-BO074	°okay°
+BO074	e:: e quella l'ho sempre considerata comunque la:: uno spazio molto personale
+BO049	°okay°
 BO074	anche perché di fatto:::
 BO074	né i miei né mia sorella sorella ci vann~ >cioè<
-BO049	non non ci vanno praticamente mai l'ho sempre usata principalmente io.
-BO074	ehm:: ti trovi lì coi tuoi amici mi hai [detto]
-BO049	[sì]
+BO074	non non ci vanno praticamente mai l'ho sempre usata principalmente io.
+BO049	ehm:: ti trovi lì coi tuoi amici mi hai [detto]
+BO074	[sì]
 BO049	cosa, cosa fate quando siete lì?
-BO074	quali sono i vostri passatempi nella taverna?
+BO049	quali sono i vostri passatempi nella taverna?
 BO074	mah la taverna la usavamo soprattutto di di inverno,
 BO074	perché comunque d'esate più che altro uscivamo,
 BO074	d'inverno li era:: era comodo perché adess~ prima c'era un camino
 BO074	adesso c'abbiamo:
 BO074	è stato (rimodernizzata) e c'è una stufa
-BO049	((ride))
+BO074	((ride))
 BO049	ah ((ride)) okay,
-BO074	un po' meno romantico però ((ride))
+BO049	un po' meno romantico però ((ride))
 BO074	[eh si]
 BO074	pr~ problemi di:: di tipo
-BO049	cos'era ingegneristico architettoni[co]
-BO074	[ah (.) sì]
+BO074	cos'era ingegneristico architettoni[co]
+BO049	[ah (.) sì]
 BO074	[non] ci poteva più (.) essere lì solo il
 BO074	non ci poteva più essere il il camino,
 BO074	e quindi c'è la stufa ora.
-BO049	°[e::h°]
-BO074	[°beh ci sta°]
-BO049	°ci sta°
-BO074	((ride)) e::h
+BO074	°[e::h°]
+BO049	[°beh ci sta°]
+BO074	°ci sta°
+BO049	((ride)) e::h
 BO074	principalmente,
 BO074	i passatempi abbiam~ sempre soprattutto::
 BO074	d'inverno ci trovavamo o per guardar dei film,
-BO049	perché comunque:: ci ho messo il il televisore e anche il (.) il lettore di vu di [quello] delle cassette
-BO074	[okay]
-BO049	e::h oppure ci siam sempre trovati per fare tipo::: dei dei giochi principale[mente],
-BO074	[dei] >giochi di società<
+BO074	perché comunque:: ci ho messo il il televisore e anche il (.) il lettore di vu di [quello] delle cassette
+BO049	[okay]
+BO074	e::h oppure ci siam sempre trovati per fare tipo::: dei dei giochi principale[mente],
+BO049	[dei] >giochi di società<
 BO074	dei giochi di società
-BO049	oppure anche solo magari per:: bersi una birra o::: fare quattro chiacchere ecco.
+BO074	oppure anche solo magari per:: bersi una birra o::: fare quattro chiacchere ecco.
 BO049	bene.
 BO049	ehm::: e il tuo quartiere che che quartiere è?
-BO074	tu abiti in centro mi [hai detto (.) sì]
-BO049	[io abito in centro sì].
+BO049	tu abiti in centro mi [hai detto (.) sì]
+BO074	[io abito in centro sì].
 BO049	quindi come descriveresti:: il tuo quartiere >cioè<
-BO074	c'è qualcosa da fare?
+BO049	c'è qualcosa da fare?
 BO074	mah e:h l'ho <notato> no
 BO074	>secondo< me è molto >cioè<
 BO074	è:: sempre stato molto comodo
 BO074	>estremamente< comodo vivere in centro perché:::
 BO074	s~ s~ se tu >cioè<
-BO049	si ha tutto alla portata di mano [>cioè<]
-BO074	[mh]
+BO074	si ha tutto alla portata di mano [>cioè<]
+BO049	[mh]
 BO074	di fatto::: principalmente mi son sempre mosso o a piedi o in bici
 BO074	in città,
 BO074	poi vabbè,
-BO049	andare fuori [con:] (.) i vari mezzi
-BO074	[sì]
+BO074	andare fuori [con:] (.) i vari mezzi
+BO049	[sì]
 BO074	però ul:timamente l'ho visto
 BO074	secondo me il almeno in centro di >@nomepaese< è una cosa che (.) ho visto anche per esempio anche a bologna,
-BO049	l'ho visto molto lasciato a se stesso.
-BO074	s:ì
+BO074	l'ho visto molto lasciato a se stesso.
+BO049	s:ì
 BO074	molta:: incuria non so
 BO074	se attribuirla:::
 BO074	boh al comune o a
@@ -185,25 +185,25 @@ BO074	molte cose lasciate all'incuria e al degrado: mi dispiace mi:::
 BO074	mi dà fastidio perché comunque è il posto dove sono nato, dove ho sempre vissuto
 BO074	e::h vederlo:::
 BO074	lasciato andare:::
-BO049	sì, mi dispiace e mi infastidisce anche.
+BO074	sì, mi dispiace e mi infastidisce anche.
 BO049	mh sì chiaro
 BO049	e:: tu per muoverti:: usi mezzi:: mezzi di trasporto, bici,
 BO049	a piedi,
-BO074	mezzi pubblici >cosa< [come] ti muovi?
+BO049	mezzi pubblici >cosa< [come] ti muovi?
 BO074	[mah]
 BO074	mi mi muovo principalmente
 BO074	o:::: con vabbè o a piedi o in bici,
 BO074	e:: an~
 BO074	e poi dopo soprattutto quando tipo:: vado a bologna così
 BO074	cerco mi piace soprattutto muovermi in treno
-BO049	perché il treno mi è sempre piaciuto molto.
+BO074	perché il treno mi è sempre piaciuto molto.
 BO049	mh bene
-BO074	come mai ti piace il treno? ((ride))
+BO049	come mai ti piace il treno? ((ride))
 BO074	perché lo trovo::: e:h
 BO074	bello
-BO049	ah >cioè< dipende poi che treni ovviamen[te magar]i
+BO074	ah >cioè< dipende poi che treni ovviamen[te magar]i
 BO049	[okay]
-BO074	>cos'è cos'è che ti piace cos'è che è bello< del treno
+BO049	>cos'è cos'è che ti piace cos'è che è bello< del treno
 BO074	il treno ma perché allora
 BO074	e:::h se >hai in quello< se è tenuto bene
 BO074	>secondo me< è estremamente comodo ti siedi
@@ -215,34 +215,34 @@ BO074	è uno:: dei miei passatempi preferiti
 BO074	quello:: di asc~ appunto sì di ascoltar la musica mi metto li ad ascoltar la musica e a guardare fuori il paesaggio
 BO074	oppure::
 BO074	e::h leggo:: o::: ripasso qualcosa
-BO049	c'hai >la possibilità secondo me< del treno di muoverti
-BO074	mh
+BO074	c'hai >la possibilità secondo me< del treno di muoverti
+BO049	mh
 BO074	anche::: non
-BO049	troppo né lentamente né velocemen[te]
-BO074	[o]kay
+BO074	troppo né lentamente né velocemen[te]
+BO049	[o]kay
 BO074	e::: ti lascia::: quel momento per te stesso. puoi fare quello che vuoi
 BO074	e:: soprattutto:::
 BO074	°m::h° >secondo me< è molto più comodo per per alcune volte ris~
 BO074	più comodo rispetto al:::
-BO049	alla macchina o perfino anche all'aereo
+BO074	alla macchina o perfino anche all'aereo
 BO049	mh
 BO049	come mai >rispetto< beh rispetto all'aereo
 BO049	parliamo di: distanze::
-BO074	diverse no?
+BO049	diverse no?
 BO074	sì,
-BO049	anche se comunque ho fatto viaggi l~ veramente lunghi in treno.
-BO074	tipo?
-BO049	tipo:: sono and<ato> al confine tra la francia e la spagna in treno
-BO074	sì
-BO049	ci ho messo un giorno e mezzo
-BO074	ah
-BO049	però ((ride)) ci sono arrivato alla fine
+BO074	anche se comunque ho fatto viaggi l~ veramente lunghi in treno.
+BO049	tipo?
+BO074	tipo:: sono and<ato> al confine tra la francia e la spagna in treno
+BO049	sì
+BO074	ci ho messo un giorno e mezzo
+BO049	ah
+BO074	però ((ride)) ci sono arrivato alla fine
 BO049	e come mai? >cioè< >hai scelto tu il treno<?
-BO074	o:: è stata una casualità non
+BO049	o:: è stata una casualità non
 BO074	e:h un po' tutte e due >avevamo< visto:::
 BO074	che:: di tempo:: so: ho fatto un viaggio con un mio amico che abbiam fatto il
-BO049	quando avevo fatto il cammino di santiago
-BO074	°a:::h okay°
+BO074	quando avevo fatto il cammino di santiago
+BO049	°a:::h okay°
 BO074	e:::h
 BO074	che l'ho fatto con un mio amico avevamo visto che a::h
 BO074	da raggiungere il posto in ogni caso
@@ -254,22 +254,22 @@ BO074	i prezzi e il te:mpo:::,
 BO074	le difficoltà:: (.) dell'aereo erano
 BO074	quasi maggiori rispetto a quelle del treno
 BO074	non avevamo problemi di tempo allora abbiamo detto
-BO049	vabbè facciamocela in treno e ci siamo attraversati l'italia e la francia in treno praticamente
-BO074	>è< stato un bel viaggio?
-BO049	sì
-BO074	piace[vole]?
+BO074	vabbè facciamocela in treno e ci siamo attraversati l'italia e la francia in treno praticamente
+BO049	>è< stato un bel viaggio?
+BO074	sì
+BO049	piace[vole]?
 BO074	°[(poi è stato)]:::°
-BO049	poi quello è stato l'inizio del vero viaggio [°poi dopo°]
+BO074	poi quello è stato l'inizio del vero viaggio [°poi dopo°]
 BO049	[e::h]
-BO074	vuoi parlarmi un po' di questo cammino?
-BO049	sì, va bene
+BO049	vuoi parlarmi un po' di questo cammino?
+BO074	sì, va bene
 BO049	come mai hai deciso di andare:::, che:: cosa::
-BO074	cosa ti ha ispirato::?
+BO049	cosa ti ha ispirato::?
 BO074	mah, è <stato> è stato particolare
 BO074	perché io (.) prima non l'ho l'ho fatto nel
 BO074	duemila e nove
-BO049	°>ormai [andiamo indietro<°]
-BO074	[°duemila e nove?°]
+BO074	°>ormai [andiamo indietro<°]
+BO049	[°duemila e nove?°]
 BO074	sì (.) andiamo indietro di un bel po' ormai.
 BO074	avevo:::: sì
 BO074	compiuto da poco diciott'anni,
@@ -283,29 +283,29 @@ BO074	gli:: gli sarebbe piaciuto farlo e me l'aveva proposto
 BO074	e quindi:::
 BO074	questo:: l'anno prima nel duemila e: sette
 BO074	>(me n'aveva)< l'av~ l'aveva scoperto lui e >me n~ ha< parlato subito
-BO049	e:: ci aveva molto incuriosito abbiamo iniziato un po' ad informarci così, e abbiam~ deciso di farlo
-BO074	°mh bello°
-BO049	°e:::h°
-BO074	e com'è stato?
+BO074	e:: ci aveva molto incuriosito abbiamo iniziato un po' ad informarci così, e abbiam~ deciso di farlo
+BO049	°mh bello°
+BO074	°e:::h°
+BO049	e com'è stato?
 BO074	è stata:: allora:::::
-BO049	adess~ è <stata> tra le esperienze più belle che abbia mai fatto
-BO074	okay,
-BO049	[è veramente]:::
-BO074	[bene]
-BO049	>cioè< io lo consiglio a tutti
-BO074	sì
-BO074	lo:: infatti::: non mi dispiacerebbe anche in futuro di rifarlo
-BO049	non so ancora::
-BO074	l'avete fatto tutto dall'iniz[io alla fi]ne?
-BO049	[°sì°]
-BO074	>quanto< ci avete messo?
-BO074	ci abbiam messo allora noi siam stati via
-BO049	<sui> quaranta gi[orni],
-BO074	[mh]
-BO074	e di cammi~ >cioè< e di cammino effettivo ne ab~ m::::h
-BO049	abbiamo camminato per ventinove giorni.
+BO074	adess~ è <stata> tra le esperienze più belle che abbia mai fatto
 BO049	okay,
-BO074	e gli altri:: dieci giorni [cosa]?
+BO074	[è veramente]:::
+BO049	[bene]
+BO074	>cioè< io lo consiglio a tutti
+BO049	sì
+BO074	lo:: infatti::: non mi dispiacerebbe anche in futuro di rifarlo
+BO074	non so ancora::
+BO049	l'avete fatto tutto dall'iniz[io alla fi]ne?
+BO074	[°sì°]
+BO049	>quanto< ci avete messo?
+BO074	ci abbiam messo allora noi siam stati via
+BO074	<sui> quaranta gi[orni],
+BO049	[mh]
+BO074	e di cammi~ >cioè< e di cammino effettivo ne ab~ m::::h
+BO074	abbiamo camminato per ventinove giorni.
+BO049	okay,
+BO049	e gli altri:: dieci giorni [cosa]?
 BO074	[gli altri] dieci giorni li abbiamo un po'::: allora alcune volte::
 BO074	eh ci siam fermati lungo il cammino ci siam fermati perché:::
 BO074	a vedere due città (.) perché eravamo arrivati a leòn e a burgos e:::
@@ -315,26 +315,26 @@ BO074	usare un paio di giorni per visitarle:: entrambe le città,
 BO074	e poi: eh ci siam~ fermati un paio di giorni a santiago
 BO074	e dopo abbiamo continuato, però <quello> in l'abbiam~ fatto in autobus perché non >avevamo<::
 BO074	abbastanza tempo
-BO049	siamo:: volevamo arrivare fino all'oceano.
-BO074	mh,
+BO074	siamo:: volevamo arrivare fino all'oceano.
+BO049	mh,
 BO074	siamo arrivati fino a: finister
-BO049	e dopo ci siam~ fermati là:: qualche giorno per farci::
-BO074	>un po' di vacanza<
-BO049	esattamente di, più che altro morire in spiaggia [perché] eravamo abbastanza stanchi
+BO074	e dopo ci siam~ fermati là:: qualche giorno per farci::
+BO049	>un po' di vacanza<
+BO074	esattamente di, più che altro morire in spiaggia [perché] eravamo abbastanza stanchi
 BO049	[ecco]
-BO074	>quindi< è stato anche stancante [fisicamente]
+BO049	>quindi< è stato anche stancante [fisicamente]
 BO074	[sì]
-BO049	veramente tanto
-BO074	sì? ((ride))
-BO049	sì.
-BO074	ma vi eravate preparati, allenati oppure:: niente?
-BO049	m::h no siamo andati molto a caso
-BO074	((ride))
+BO074	veramente tanto
+BO049	sì? ((ride))
+BO074	sì.
+BO049	ma vi eravate preparati, allenati oppure:: niente?
+BO074	m::h no siamo andati molto a caso
+BO049	((ride))
 BO074	a dir~ la verità,
 BO074	e:: questo in parte:: >l'avevo< un po' sentito a livello: fisico perché comunque (.) molto faticoso,
 BO074	però:: comunque una persona:: direi in salute
-BO049	soprattutto un ragazzo: [giova]ne (.) anche senza allenamento::
-BO074	[°giovane°]
+BO074	soprattutto un ragazzo: [giova]ne (.) anche senza allenamento::
+BO049	[°giovane°]
 BO074	lo riesce a fare direi abbastanza: tranquillamente,
 BO074	poi: (.) ovvio magari: >cioè< difficoltà
 BO074	e:h di tipo: fisico ma anche psicologico perché comunque anche
@@ -343,52 +343,52 @@ BO074	pesante non solo >fisicamente< ma anche psicologicamente in alcuni momenti
 BO074	e::h ci sono.
 BO074	e:: magari dei dei problemi
 BO074	non ho conosciuto nessuno che non abbia=avuto dei problemi o alle gambe, o ai piedi, alle ginocchia::
-BO049	anch'io ho avuto un problema al gino~ a un ginocchio che mi ha fatto molto male,
-BO074	°sì°
-BO049	però:: vai avanti.
+BO074	anch'io ho avuto un problema al gino~ a un ginocchio che mi ha fatto molto male,
+BO049	°sì°
+BO074	però:: vai avanti.
 BO049	eh, sì
 BO049	e::hm c'è un <episodio> particolarmente non so divertente, o interessante del cammino che::
-BO074	mi potresti raccontare?
-BO049	<eh ci dovrei pensare un attimo::>
-BO074	>qualcosa:< che ti viene in mente,
-BO049	tipo una <cosa:> che m'(era
-BO074	anche una cosa brutta se preferisci. ((ride))
+BO049	mi potresti raccontare?
+BO074	<eh ci dovrei pensare un attimo::>
+BO049	>qualcosa:< che ti viene in mente,
+BO074	tipo una <cosa:> che m'(era
+BO049	anche una cosa brutta se preferisci. ((ride))
 BO074	>no vabbè<
 BO074	una cosa divertente e c'era avevamo fatto una specie di:::
 BO074	non so >cioè< era un giochetto che ormai s'(era facevamo io e il mio amico anche per passarci il tempo e:
 BO074	e::: perché comunque
 BO074	cammini mediamente per otto ore sette otto ore al giorno quindi
 BO074	e:::h eh >cioè< devi far~ devi trovare un qualche modo un
-BO049	un modo per passarti [il tempo],
-BO074	[sì]
+BO074	un modo per passarti [il tempo],
+BO049	[sì]
 BO074	era quello::
 BO074	che c'erano magari c'erano:: durante il cammino >sentivam~< delle frasi che ci colpivano,
 BO074	e::hm::
 BO074	sia in ingles~, in italiano, e spagnolo così,
-BO049	e noi (.) allora per passarci il tempo (.) costruivamo tipo dei dialoghi solo utilizzando queste frasi fatte
-BO074	oddio ((ride)) xxx molto difficile ma anche diver~
+BO074	e noi (.) allora per passarci il tempo (.) costruivamo tipo dei dialoghi solo utilizzando queste frasi fatte
+BO049	oddio ((ride)) xxx molto difficile ma anche diver~
 BO074	si ma erano delle delle (>principalmente<) delle cazza~ erano tipo del ci creavamo tipo dei tormentoni
 BO074	con cui ((ride)) noi
-BO049	>praticamente< riuscivamo a reggere quasi un'intera [conversazione]
-BO074	[ba quindi aveva sen]so quello che:::
-BO049	non [n~ non tan~ >cioè<]magari dall'esterno non si capiva molto
-BO074	[non non s~ okay] ((ride))
-BO049	però noi due sapevamo:: [cosa (vos~)] stavam~ dicendo
+BO074	>praticamente< riuscivamo a reggere quasi un'intera [conversazione]
+BO049	[ba quindi aveva sen]so quello che:::
+BO074	non [n~ non tan~ >cioè<]magari dall'esterno non si capiva molto
+BO049	[non non s~ okay] ((ride))
+BO074	però noi due sapevamo:: [cosa (vos~)] stavam~ dicendo
 BO049	[okay]
 BO049	°bravi° vedi questi ((ride)) abbastanza interessante.
 BO049	e:: c'è stata un:: non so un::
 BO049	qualcosa che ti ha colpito proprio durante il cammino, una meta più interessa:nte,
-BO074	non so un passaggio::
+BO049	non so un passaggio::
 BO074	ma <di cose> >cioè< ce ne sono:::
 BO074	di luoghi che mi han colpito ce ne sono <veramente::> tan~ <tanti>
 BO074	anche perché alla fine in ogni
 BO074	in ogni:: posto davvero sì: abbiamo vissuto:: un'esperienza particolare >cioè<
 BO074	per assurdo se maga~ >cioè<
 BO074	sembra una cos~ (.) può sembrare strano però
-BO049	m::h può sembrare una cosa molto ripetitiva, ugni [giorno] a camminare per otto ore, arrivi nel posto così
-BO074	[mh]
-BO049	però eh davvero ogni giorno era come se foss~ si vivesse quasi un'esperienza: diversa.
-BO074	°m:h (.) bello.°
+BO074	m::h può sembrare una cosa molto ripetitiva, ugni [giorno] a camminare per otto ore, arrivi nel posto così
+BO049	[mh]
+BO074	però eh davvero ogni giorno era come se foss~ si vivesse quasi un'esperienza: diversa.
+BO049	°m:h (.) bello.°
 BO074	e::: quindi:::
 BO074	ogni giorno davvero ci lasciava qualcosa di: di diverso.
 BO074	e::hm
@@ -396,13 +396,13 @@ BO074	me ne vengono:: in mente:: un paio soprattutto: uno che mi era piaciuto,
 BO074	molto bello era stato: uno dei primi giorni
 BO074	che avevamo::
 BO074	raggiunto questo: piccolo paesino, era proprio all'inizio eravamo ancora erav<amo>
-BO049	se non ricordo male (.) nei:: nei paesi baschi,
-BO074	okay
+BO074	se non ricordo male (.) nei:: nei paesi baschi,
+BO049	okay
 BO074	mi sembra di ricordare
-BO049	era: il posto se non ri~ si chiamava zu~ si chiama zubiri,
-BO074	°zubiri°
-BO049	che è anche un nome buffo
-BO074	s[ì]
+BO074	era: il posto se non ri~ si chiamava zu~ si chiama zubiri,
+BO049	°zubiri°
+BO074	che è anche un nome buffo
+BO049	s[ì]
 BO074	[(che] è) un nome simpatico
 BO074	e questo era un posto, ma era:: proprio un paesino sperduto in mezzo alla::
 BO074	alle cam~ alla campagna spagnola, non c'era:: assolutamente nulla, era::
@@ -411,9 +411,9 @@ BO074	e::: non era neanche una::
 BO074	la fine di una tappa era proprio durante il cammino ci >eravamo< fermati lì a mangiare,
 BO074	e mi ricordo questo: paesino qua ci aveva colpito tantissimo perché era proprio:
 BO074	un posto:: come dire: estremamente::: m::h
-BO049	semplice ma molto bello.
+BO074	semplice ma molto bello.
 BO049	okay,
-BO074	tipo: molto tradizionale o::?
+BO049	tipo: molto tradizionale o::?
 BO074	era: era: proprio::
 BO074	sì, >cioè< s:: forse era magar~ anche i primi giorni >avevamo< iniziato a sentire la fatica così,
 BO074	però era estremamente tranquillo, sentivi che
@@ -422,50 +422,50 @@ BO074	come dire lentamente, non c'era::
 BO074	magari la fretta
 BO074	che uno sente magari a vivere:: normarlmente tutti giorni >cioè< abbiamo::
 BO074	tutti hanno mille impegni han da fare qualcosa così
-BO049	e se quando non fai niente almeno (.) a me capita di sentirmi quasi in colpa quand[o::] non faccio niente.
-BO074	[sì]
+BO074	e se quando non fai niente almeno (.) a me capita di sentirmi quasi in colpa quand[o::] non faccio niente.
+BO049	[sì]
 BO074	mentre lì:: quello::
 BO074	e::h (.) sentito tutto questo che:: era:::
 BO074	davvero un surplus, >cioè<
 BO074	era tutto così: calmo, tranquillo
 BO074	e::hm::
-BO049	e poi:: >ci eravam fermati lì a::< era molto bello anche come posto,
-BO074	°okay°
+BO074	e poi:: >ci eravam fermati lì a::< era molto bello anche come posto,
+BO049	°okay°
 BO074	perché era questo paesino >cioè< era in mezzo a tipo un sacco di boschi quindi:
 BO074	e::h
 BO074	c'era anche abbastanza fresco nonostante fosse: pieno luglio si: si sta anche bene,
 BO074	la temperatura
 BO074	e:: ci siam fermati lì a mangiare siam andati a far la spesa così,
 BO074	e:::hm::
-BO049	(avevam) notato anche:: anche solo il costo della vita era:: avevam pagato:: pochissimo per mangiare anche bene,
-BO074	°sì°
+BO074	(avevam) notato anche:: anche solo il costo della vita era:: avevam pagato:: pochissimo per mangiare anche bene,
+BO049	°sì°
 BO074	e::hm:::
-BO049	non (lo) so mi aveva sembrato proprio un l: l'impressione che ho avuto proprio un luogo:: tranquillo.
-BO074	bene,
-BO049	>veramente< [bello].
+BO074	non (lo) so mi aveva sembrato proprio un l: l'impressione che ho avuto proprio un luogo:: tranquillo.
+BO049	bene,
+BO074	>veramente< [bello].
 BO049	°[okay]°
 BO049	perfetto,
 BO049	allora
 BO049	ti potrei chiedere
 BO049	se::: non ti dispiace
 BO049	questo: amico:: con cui hai fatto il cammino è un tuo amico delle delle:: di scuola,
-BO074	o un::
+BO049	o un::
 BO074	è: un mio amico ci siam~ conosciu~ adesso bene non saprei dire
 BO074	quando ci siam~ conosciuti perché ci conosciamo da quando eravamo piccoli
 BO074	e:: c'eravamo::: <conosciu~>
-BO049	>cioè< il luogo almeno è stata la:: la parrocchia
-BO074	okay
-BO049	perché:: frequentavamo tutti e due san nicolò,
-BO074	okay
-BO049	e poi::
-BO074	che è qua a @nome[paese]
-BO049	[è] qua a @nome[paese,]
-BO074	[okay]
+BO074	>cioè< il luogo almeno è stata la:: la parrocchia
+BO049	okay
+BO074	perché:: frequentavamo tutti e due san nicolò,
+BO049	okay
+BO074	e poi::
+BO049	che è qua a @nome[paese]
+BO074	[è] qua a @nome[paese,]
+BO049	[okay]
 BO074	sì
-BO049	è di fianco a casa mia
-BO074	okay
-BO049	poi anche lui abita lì: lì vicino
-BO074	°okay°
+BO074	è di fianco a casa mia
+BO049	okay
+BO074	poi anche lui abita lì: lì vicino
+BO049	°okay°
 BO074	e::h quindi ci siam~ conosciuti da:: (.) da bambini
 BO074	poi dopo però non ci frequentavamo tanto dopo per a::h
 BO074	un po' amici in comune comunque
@@ -476,18 +476,18 @@ BO074	ver~ sì verso i quindici anni più o meno abbiamo iniziato a::
 BO074	ad uscire anche con la:: s~ (.) stessa compagnia di amici,
 BO074	e dopo:: da lì
 BO074	e::h
-BO049	siamo: >cioè< siam~ veramente diventati amici nonostante comunque anche prima ci conoscessimo da: diversi anni
-BO074	quindi vi frequentate ancora o::?
-BO049	sì.
-BO074	sì
-BO049	sì sì [sì]
+BO074	siamo: >cioè< siam~ veramente diventati amici nonostante comunque anche prima ci conoscessimo da: diversi anni
+BO049	quindi vi frequentate ancora o::?
+BO074	sì.
+BO049	sì
+BO074	sì sì [sì]
 BO049	[okay]
 BO049	e::hm e qua a @nomepaese che::
-BO074	nel tempo libero cosa fai?
-BO049	mah nel tempo libero adesso:: vorrei averne perch[é ((ride)) s]ono molto pieno
-BO074	[ecco] ((ride))
-BO049	adesso sto:: sto scrivendo: la tesi,
-BO074	ah okay
+BO049	nel tempo libero cosa fai?
+BO074	mah nel tempo libero adesso:: vorrei averne perch[é ((ride)) s]ono molto pieno
+BO049	[ecco] ((ride))
+BO074	adesso sto:: sto scrivendo: la tesi,
+BO049	ah okay
 BO074	e quindi:: di tempo libero non ne ho tantissimo,
 BO074	e poi in più: do anche:: ripetizioni
 BO074	e quan~ m~ ho un po' di tempo libero un tempo: leggev~ leggevo molto
@@ -496,18 +496,18 @@ BO074	mi p~ mi è sempre piaciuto o guardare film,
 BO074	>cioè< magari in quei momenti di durante la sera così,
 BO074	oppure se ho: magari più tempo::, mezza giornata così::
 BO074	era una cosa che m:i è sempre piaciuta e magari:: girare
-BO049	cioè vedere, visitare pos[ti].
-BO074	[ah] okay
-BO049	e quindi [x]
+BO074	cioè vedere, visitare pos[ti].
+BO049	[ah] okay
+BO074	e quindi [x]
 BO049	[ti pia]ce (.) nel senso di viaggiare,
-BO074	o nel senso di camminare:: a caso::?
-BO049	ma:h tutte=due
-BO074	tutte e due [okay]
+BO049	o nel senso di camminare:: a caso::?
+BO074	ma:h tutte=due
+BO049	tutte e due [okay]
 BO074	[>tutte=due<]
-BO049	sì sì boh forse è questo senso: proprio di muover[si °che mi°]che mi piace.
+BO074	sì sì boh forse è questo senso: proprio di muover[si °che mi°]che mi piace.
 BO049	[sì di muoversi]
 BO049	bene bene,
-BO074	e:: in futuro: ti piacerebbe rimanere a vivere qui, o:: vorresti: non so (.) muoverti appunto?
+BO049	e:: in futuro: ti piacerebbe rimanere a vivere qui, o:: vorresti: non so (.) muoverti appunto?
 BO074	mah <adess~> è una cosa che ci sto pensando molto ultimamente,
 BO074	e pensavo che dopo:: dopo la laurea
 BO074	che dovrei laurearmi in marzo del prossimo anno
@@ -515,25 +515,25 @@ BO074	nel duemiladiciotto,
 BO074	mi piacerebbe fare: un'esp~ m:h trasferirmi fuori @nomepaese
 BO074	ancora: non so (.) di preciso dove,
 BO074	però::
-BO049	almeno: per un periodo di:: di tempo:: anda~ >cioè< andar via di qua
+BO074	almeno: per un periodo di:: di tempo:: anda~ >cioè< andar via di qua
 BO049	okay, quindi fare solo proprio un periodo ma all'estero:: o:::?
-BO074	o in italia o [da qua]lche altra parte?
+BO049	o in italia o [da qua]lche altra parte?
 BO074	[eh]
-BO049	non mi dispiacerebbe magari: fare: sicuramente un'esperienza all'estero,
-BO074	°okay°
-BO049	per:: (.) migliorare sicuramente il mio inglese,
-BO074	okay, quello che facciamo tu~ la scusa che usiamo [tutti] per andare ((ride))
+BO074	non mi dispiacerebbe magari: fare: sicuramente un'esperienza all'estero,
+BO049	°okay°
+BO074	per:: (.) migliorare sicuramente il mio inglese,
+BO049	okay, quello che facciamo tu~ la scusa che usiamo [tutti] per andare ((ride))
 BO074	[esatto]
 BO074	anche perché lo sento un po' (come mancante),
-BO049	l~ l'ho studiato però è da (.) [] tanto che non lo uso quindi
-BO074	[sì]
-BO049	e:: mi rendo conto di saperlo:: non benissimo come credevo,
-BO074	((ride)) vabbè dai, ci sta.
+BO074	l~ l'ho studiato però è da (.) [] tanto che non lo uso quindi
+BO049	[sì]
+BO074	e:: mi rendo conto di saperlo:: non benissimo come credevo,
+BO049	((ride)) vabbè dai, ci sta.
 BO074	o: non solo b~ o anzi meglio non ben~ non benissimo
-BO049	non bene come cred[evo],
-BO074	[ah e]cco
-BO049	°ecco°
-BO074	[>(allora)< sì] dai andiamo all'este:ro:,
+BO074	non bene come cred[evo],
+BO049	[ah e]cco
+BO074	°ecco°
+BO049	[>(allora)< sì] dai andiamo all'este:ro:,
 BO074	[meglio]
 BO074	e poi:: ((sbuffa))
 BO074	dopo al ritorno::
@@ -543,38 +543,38 @@ BO074	perché: comunque faccio:: studio arte quindi
 BO074	andare: anche solo in una città:: più grande
 BO074	per avere:: più (.) possibilità anche nell'ambito:
 BO074	non solo lavorativo ma anche per::
-BO049	maggior possibilità di esperienze
-BO074	sì
+BO074	maggior possibilità di esperienze
+BO049	sì
 BO074	legata:::
-BO049	a quello: quello che faccio, di quello che mi occupo
+BO074	a quello: quello che faccio, di quello che mi occupo
 BO049	°bene° bene,
-BO074	e:: come ti immagini: la tua casa futura?
+BO049	e:: come ti immagini: la tua casa futura?
 BO074	non ho la più pallida ide~
-BO049	[>(cioè)< (zer~) no mai]
+BO074	[>(cioè)< (zer~) no mai]
 BO049	[zero non (te la senti) (.) cosa pen]si invece
 BO049	non sai (.) dove ti piacerebbe abita:re?
-BO074	non
-BO049	vivere ma::h
+BO049	non
+BO074	vivere ma::h
 BO049	non so fermarti avere una grande famiglia, in una grande casa, oppure::?
-BO074	non lo so vagabonda:re?
-BO049	no, questo, no non sapr[ei:::]
-BO074	[°non non ne hai idea°]?
+BO049	non lo so vagabonda:re?
+BO074	no, questo, no non sapr[ei:::]
+BO049	[°non non ne hai idea°]?
 BO074	no, non ne ho idea, anche: perché. cerco di non
 BO074	fare::
 BO074	mai:::
-BO049	troppi piani per il fut[uro::] molto lontano
-BO074	[°okay°]
+BO074	troppi piani per il fut[uro::] molto lontano
+BO049	[°okay°]
 BO074	>cioè< mi:: cerco di darmi del:: delle tappe,
 BO074	del::
 BO074	sì (.) delle tappe magari a::
 BO074	>periodo< breve medio,
-BO049	e:: di arrivare lì e poi dopo deci[dere]: dopo cosa fare
+BO074	e:: di arrivare lì e poi dopo deci[dere]: dopo cosa fare
 BO049	[mh]
 BO049	bello,
-BO074	bel ragionamento, ci sta io:: ti ti copierò allora.
-BO049	((ride))
+BO049	bel ragionamento, ci sta io:: ti ti copierò allora.
+BO074	((ride))
 BO049	e::h no, va bene dai:
-BO074	va bene così.
-BO049	[okay]
-BO074	[grazie].
+BO049	va bene così.
+BO074	[okay]
+BO049	[grazie].
 BO074	a te.

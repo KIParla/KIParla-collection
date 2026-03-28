@@ -1,18 +1,17 @@
 TOI041	sì
-TOR001	poi firmo dopo
+TOI041	poi firmo dopo
 TOR001	okay perfetto
-TOI041	quindi è da firmare te lo lascio in giro
-TOR001	sì devo firmare le sì sì
+TOR001	quindi è da firmare te lo lascio in giro
+TOI041	sì devo firmare le sì sì
 TOR001	allora non metto via okay okay
-TOI041	solo per evitare che poi lo infogno e non lo trovo più
-TOR001	
+TOR001	solo per evitare che poi lo infogno e non lo trovo più
 TOR001	lasciamolo qui
 TOR001	okay
 TOR001	va bene
-TOI041	che lavoro fai
+TOR001	che lavoro fai
 TOI041	io sono una libera professionista lavoro per delle case editrici
-TOR001	come editor come correttrice di bozze indicista
-TOI041	okay e in cosa consiste in pratica il tuo lavoro
+TOI041	come editor come correttrice di bozze indicista
+TOR001	okay e in cosa consiste in pratica il tuo lavoro
 TOI041	consiste nel leggere scusami
 TOI041	scusami
 TOI041	le bozze
@@ -27,63 +26,61 @@ TOI041	di saggistica chiaramente in questo caso
 TOI041	e invece il lavoro di editing è un lavoro un po' più complesso si lavora insieme all'autore
 TOI041	per verificare la tenuta
 TOI041	contenutistica formale del libro e poi
-TOR001	successivamente il libro va in lettura di bozza
-TOI041	quindi è una fase successiva
-TOR001	è una fase precedente rispetto alla bozza alla lettura di bozze sì
+TOI041	successivamente il libro va in lettura di bozza
+TOR001	quindi è una fase successiva
+TOI041	è una fase precedente rispetto alla bozza alla lettura di bozze sì
 TOR001	sì ce~
 TOR001	okay
 TOR001	mh mh mh
 TOR001	okay
-TOI041	quale momento preferisci di più del tuo lavoro
+TOR001	quale momento preferisci di più del tuo lavoro
 TOI041	eh sicuramente l'editing è un lavoro più premiante perché
 TOI041	hai maggiore responsabilità e quindi anche maggiore voce in capitolo rispetto alle scelte
 TOI041	alle scelte editoriali
 TOI041	e rispetto ai contenuti del testo
 TOI041	da un punto di vista più
 TOI041	ehm pratico sicuramente il lavoro
-TOR001	che trovo più divertente è la lettura di bozze perché ho modo di leggere tantissimi libri
-TOI041	
+TOI041	che trovo più divertente è la lettura di bozze perché ho modo di leggere tantissimi libri
 TOI041	in poco tempo
 TOI041	con un livello di responsabilità abbastanza basso nel senso che chiaramente ho
 TOI041	il compito di verificare tutta una serie di informazioni
 TOI041	però c'è l'editor che ha già fatto una
 TOI041	bella passata
-TOR001	quindi è un bel modo di leggere ecco in confronto a quello
+TOI041	quindi è un bel modo di leggere ecco in confronto a quello
 TOR001	certo
-TOR001	
-TOI041	e preferisci la narrativa o la saggistica
-TOR001	preferisco la saggistica
-TOI041	okay
-TOR001	decisamente sì
-TOI041	che che tipo di saggi sono
+TOR001	e preferisci la narrativa o la saggistica
+TOI041	preferisco la saggistica
+TOR001	okay
+TOI041	decisamente sì
+TOR001	che che tipo di saggi sono
 TOI041	mh
 TOI041	avendo io una formazione umanistica
 TOI041	eh prevalentemente mi fanno leggere
-TOR001	materie umanistiche in particolare storia e letteratura
-TOI041	okay
+TOI041	materie umanistiche in particolare storia e letteratura
+TOR001	okay
 TOI041	eh
 TOI041	poi qualche volta mi capita anche di leggere
 TOI041	materiale di altro genere ultimamente mi sono capitati
 TOI041	i libri di botanica o comunque scri~
-TOR001	quasi tutti diciamo divulgativi ecco
-TOI041	okay
+TOI041	quasi tutti diciamo divulgativi ecco
+TOR001	okay
 TOI041	è difficile che
 TOI041	affidino a una persona che ha una
 TOI041	formazione umanistica
 TOI041	qualche cosa di molto tecnico
 TOI041	su un argomento di cui proprio non hai
-TOR001	ehm
-TOI041	certo
+TOI041	ehm
+TOR001	certo
 TOI041	molto gli strumenti perché sarebbe insomma un po'
-TOR001	un autogol ecco
-TOI041	mh mh mh mh mh
-TOR001	però sulla divulgazione diciamo che spaziamo abbastanza
+TOI041	un autogol ecco
+TOR001	mh mh mh mh mh
+TOI041	però sulla divulgazione diciamo che spaziamo abbastanza
 TOR001	okay
-TOI041	quindi comunque in generale preferisci la saggistica
-TOR001	sì in generale sì
-TOI041	okay
-TOR001	sì
-TOI041	ma anche da leggere nel tempo libero o solo per lavorare
+TOR001	quindi comunque in generale preferisci la saggistica
+TOI041	sì in generale sì
+TOR001	okay
+TOI041	sì
+TOR001	ma anche da leggere nel tempo libero o solo per lavorare
 TOI041	eh
 TOI041	nel tempo libero leggo narrativa
 TOI041	perché
@@ -93,21 +90,20 @@ TOI041	è difficile
 TOI041	quando si legge solo saggistica poi quando ti capita di fare un lavoro su un'opera narrativa sei più in difficoltà
 TOI041	perché ci sono proprio altre regole altri
 TOI041	eh anche altre convenzioni
-TOR001	e perdi la mano diciamo così
-TOI041	mh mh mhmh mh
+TOI041	e perdi la mano diciamo così
+TOR001	mh mh mhmh mh
 TOI041	nella nella lettura
 TOI041	e poi mi piace molto io sono una
 TOI041	una grande lettrice di romanzi lo sono sempre stata fin da ragazzina
 TOI041	quindi
 TOI041	finisco per leggere più narrativa che saggistica
-TOR001	però non è detto adesso per esempio sto leggendo un saggio di ramotti
-TOI041	mh mh
+TOI041	però non è detto adesso per esempio sto leggendo un saggio di ramotti
+TOR001	mh mh
 TOI041	nel mio tempo libero
 TOI041	per cui ogni tanto mi capita anche di leggere
-TOR001	dei bei mattoni ecco diciamo
-TOR001	
+TOI041	dei bei mattoni ecco diciamo
 TOR001	senti e se ti capita un qualcosa di narrativa veramente brutto
-TOI041	cioè
+TOR001	cioè
 TOI041	non lo finisco
 TOI041	no no no io sono assolutamente con pennac su questo
 TOI041	i libri brutti
@@ -115,24 +111,24 @@ TOI041	c'è c'è troppa roba interessante da leggere
 TOI041	e non basta tutta la vita per leggerla
 TOI041	quindi io non sono una di quelle che portano il libro alla fine per forza
 TOI041	gli do almeno una cinquantina di pagine
-TOR001	quindi ecco la mia regola è questa
-TOI041	okay
+TOI041	quindi ecco la mia regola è questa
+TOR001	okay
 TOI041	che almeno una cinquantina di pagine di possibilità gliela do
 TOI041	però se poi proprio non ce la faccio
-TOR001	lo metto da parte e passo a quello successivo
+TOI041	lo metto da parte e passo a quello successivo
 TOR001	okay
-TOI041	quindi ha comunque una chance diciamo xxx
+TOR001	quindi ha comunque una chance diciamo xxx
 TOI041	sì una chance si dà a tutti però
-TOR001	adesso non esageriamo
+TOI041	adesso non esageriamo
 TOR001	e se appunto se devi lavorare
-TOI041	c'è se devi fare un lavoro di solo di revisione bozze eh
-TOR001	mh
-TOI041	su un romanzo che però diventa proprio difficile da leggere come si fa
-TOR001	eh
-TOI041	cioè ti concentri solo sulla forma come come risolvi
-TOI041	lì purtroppo eh lì purtroppo
-TOR001	non hai alternative e devi andare avanti
+TOR001	c'è se devi fare un lavoro di solo di revisione bozze eh
+TOI041	mh
+TOR001	su un romanzo che però diventa proprio difficile da leggere come si fa
 TOI041	eh
+TOR001	cioè ti concentri solo sulla forma come come risolvi
+TOI041	lì purtroppo eh lì purtroppo
+TOI041	non hai alternative e devi andare avanti
+TOR001	eh
 TOI041	mi è capitato di leggere delle cose veramente
 TOI041	che per me erano terribili
 TOI041	per fortuna io lavoro
@@ -142,8 +138,8 @@ TOI041	diciamo che quella principale è una grossa casa editrice
 TOI041	che pubblica
 TOI041	dal mio punto di vista
 TOI041	delle pubblicazioni veramente di qualità
-TOR001	quindi
-TOI041	beh
+TOI041	quindi
+TOR001	beh
 TOI041	non è fac~ non è frequentissimo che mi capiti proprio di leggere una cosa che mi
 TOI041	mi crea del mh insomma
 TOI041	delle turb~ dei turbamenti insuperabili
@@ -160,24 +156,24 @@ TOI041	di sveltire molto
 TOI041	di concentrarmi molto in maniera da non far durare il supplizio troppo a lungo
 TOI041	cioè l'idea è un po' questa ecco
 TOI041	cerchiamo di
-TOR001	di lavorare il meglio possibile ma nel minor tempo possibile così almeno
+TOI041	di lavorare il meglio possibile ma nel minor tempo possibile così almeno
 TOR001	in poco tempo
-TOI041	via il dente via il dolore
+TOR001	via il dente via il dolore
 TOI041	lo archiviamo
-TOR001	esatto e basta
+TOI041	esatto e basta
 TOR001	okay
-TOI041	e complessivamente ti piace il tuo lavoro
+TOR001	e complessivamente ti piace il tuo lavoro
 TOI041	molto
-TOR001	moltissimo sì
-TOI041	ti dà soddisfazione
-TOR001	molto sì
+TOI041	moltissimo sì
+TOR001	ti dà soddisfazione
+TOI041	molto sì
 TOR001	okay
-TOI041	hai sempre fatto questo lavoro
+TOR001	hai sempre fatto questo lavoro
 TOI041	no
 TOI041	ho fatto lavori diversi
 TOI041	eh ho lavorato
-TOR001	ho iniziato lavorando in un call center
-TOI041	mh mh
+TOI041	ho iniziato lavorando in un call center
+TOR001	mh mh
 TOI041	come molti della mia generazione lavorativa credo
 TOI041	ehm
 TOI041	ho iniziato subito non come operatrice telefonica ma come supervisor
@@ -195,24 +191,24 @@ TOI041	c'ho lavorato abba~ un certo numero di anni
 TOI041	ho fatto
 TOI041	facev~ mh
 TOI041	a un certo punto ho deciso che avrei voluto fare altro
-TOR001	ma ho fatto molta fatica perché
-TOI041	mhmh
+TOI041	ma ho fatto molta fatica perché
+TOR001	mhmh
 TOI041	il mercato del lavoro tende a essere
 TOI041	molto impermeabile ai
 TOI041	almeno in italia nella mia esperienza tende ad essere molto impermeabile ai tentativi di cambiamento
 TOI041	quindi quando tu inizi in un modo
-TOR001	poi è difficile riuscire a riciclarti perché tendono a proporti sempre
-TOI041	é difficile
-TOR001	posizioni che hanno a che fare con quello che sai già fare
-TOI041	mhmh
+TOI041	poi è difficile riuscire a riciclarti perché tendono a proporti sempre
+TOR001	é difficile
+TOI041	posizioni che hanno a che fare con quello che sai già fare
+TOR001	mhmh
 TOI041	no non c'è molta disponibilità
 TOI041	a continuare la formazione
-TOR001	si parla tanto di formazione continua ma nella mi esperienza non si fa molto
-TOI041	mh mh
+TOI041	si parla tanto di formazione continua ma nella mi esperienza non si fa molto
+TOR001	mh mh
 TOI041	per cui
 TOI041	mi sono iscritta ad un master
-TOR001	ho fatto alla fine un master alla facoltà di sociologia di urbino per
-TOI041	mh mh
+TOI041	ho fatto alla fine un master alla facoltà di sociologia di urbino per
+TOR001	mh mh
 TOI041	cercare tramite lo stage
 TOI041	che veniva dopo il master
 TOI041	proprio chiaro il mio tentati~
@@ -220,16 +216,16 @@ TOI041	di cambiare settore
 TOI041	e ci sono riuscita ho lavorato poi in un ente di formazione professionale
 TOI041	un grosso ente
 TOI041	piemontese uno dei più grandi
-TOR001	sono poi stata presa non immediatamente dopo ma un annetto dopo aver finito lo stage mi hanno richiamata perché avevano una posizione che si era liberata
-TOI041	beh ottimo
+TOI041	sono poi stata presa non immediatamente dopo ma un annetto dopo aver finito lo stage mi hanno richiamata perché avevano una posizione che si era liberata
+TOR001	beh ottimo
 TOI041	quindi ho lavorato un certo numero di anni lì
 TOI041	poi quando a un certo punto
 TOI041	eh ci sono stati una serie di
 TOI041	problemi proprio nel settore della formazione professionale piemontese
 TOI041	per cui ci sono stati enti che hanno chiuso sono stati
 TOI041	riassorbiti a livello di dipendenti dagli altri enti
-TOR001	quindi non c'era più spazio per
-TOI041	mh mh
+TOI041	quindi non c'era più spazio per
+TOR001	mh mh
 TOI041	una campagna di
 TOI041	ehm
 TOI041	assunzioni a tempo indeterminato che erano state preventivate
@@ -246,27 +242,24 @@ TOI041	questa della correzione di bozza era una cosa che facevo già da tanti an
 TOI041	nei ritagli di tempo non come attività principale
 TOI041	ho deciso di puntare di più su quella e
 TOI041	quindi ho fatto un paio di piccoli corsi di formazione ho cercato di
-TOR001	inserirmi nell'ambiente per fortuna ci sono riuscita
-TOI041	
-TOR001	e adesso sono molto contenta
-TOI041	e meno male
+TOI041	inserirmi nell'ambiente per fortuna ci sono riuscita
+TOI041	e adesso sono molto contenta
+TOR001	e meno male
 TOI041	e da qualche anno sì sì faccio proprio il lavoro che mi piace fare
-TOR001	spero di fare questo
-TOI041	
+TOI041	spero di fare questo
 TOI041	per il momento non ho ambizioni di cambiare di nuovo
-TOR001	mi piacerebbe continuare a fare questo
+TOI041	mi piacerebbe continuare a fare questo
 TOR001	mh mh mh mh
-TOI041	beh che bello no quando trovi
-TOR001	sì sono molto contenta sì
+TOR001	beh che bello no quando trovi
+TOI041	sì sono molto contenta sì
 TOR001	eh ci credo
-TOR001	
 TOR001	va bene
-TOI041	appunto la domanda dopo era ti piacerebbe andare avanti a far lo stesso lavoro o vorresti cambiare ma
-TOR001	no mi piacerebbe mi piacerebbe fare questo
-TOI041	mi sembra che hai risposto
+TOR001	appunto la domanda dopo era ti piacerebbe andare avanti a far lo stesso lavoro o vorresti cambiare ma
+TOI041	no mi piacerebbe mi piacerebbe fare questo
+TOR001	mi sembra che hai risposto
 TOI041	magari fare anche altre cose questo senza dubbio
-TOR001	la formazione per esempio è una delle
-TOI041	mh mh mh
+TOI041	la formazione per esempio è una delle
+TOR001	mh mh mh
 TOI041	delle cose in cui mi sono forse un po' trovata
 TOI041	senza averla
 TOI041	così tanto cercata
@@ -275,34 +268,32 @@ TOI041	soprattutto di formazione
 TOI041	per te
 TOI041	cioè fare la formazione
 TOI041	porta a studiare
-TOR001	e quindi a formarti di più
-TOI041	certo
+TOI041	e quindi a formarti di più
+TOR001	certo
 TOI041	e a superare un po' quella pigrizia di dire vabbè
-TOR001	non so mi leggo un romanzo perché non ho voglia
-TOI041	
+TOI041	non so mi leggo un romanzo perché non ho voglia
 TOI041	invece sei sei un pochino più motivato a confrontarti anche con un pubblico
 TOI041	diverso dal mio che è inesistente
-TOR001	nel senso che io lavoro con me stessa
-TOI041	certo
-TOR001	che lavoro con con i testi scritti ma
-TOI041	certo
+TOI041	nel senso che io lavoro con me stessa
+TOR001	certo
+TOI041	che lavoro con con i testi scritti ma
+TOR001	certo
 TOI041	non ho tantissima interazione invece
 TOI041	la formazione ti porta a lavorare con altre persone quindi sicuramente
 TOI041	è utilissima per non chiudersi nel proprio piccolo
-TOR001	guscetto di
-TOI041	
+TOI041	guscetto di
 TOI041	così
-TOR001	di certezze ma anche di cose che sai fare ma son sempre quelle e non ne impari mai di nuove insomma
+TOI041	di certezze ma anche di cose che sai fare ma son sempre quelle e non ne impari mai di nuove insomma
 TOR001	eh sì
 TOR001	certo
-TOI041	e quindi ti piace fare formazione
+TOR001	e quindi ti piace fare formazione
 TOI041	mi piace fare formazione per
 TOI041	l'aspetto che
 TOI041	mh riguarda il lavorare con gli altri
 TOI041	e l'imparare
 TOI041	attraverso il confronto con gli altri
-TOR001	anche gli stessi allievi eh
-TOI041	mh mh
+TOI041	anche gli stessi allievi eh
+TOR001	mh mh
 TOI041	non soltanto i colleghi
 TOI041	che sono
 TOI041	un'ottima risorsa ma io trovo
@@ -317,55 +308,55 @@ TOI041	cioè trovo che questo
 TOI041	e vedere le difficoltà che l'altro può avere nel capire quello che tu gli dici
 TOI041	che magari per te è assolutamente
 TOI041	pacifico
-TOR001	specialmente quando sei come me una che non nasce come
-TOI041	mh mh
+TOI041	specialmente quando sei come me una che non nasce come
+TOR001	mh mh
 TOI041	docente quindi io non ho
 TOI041	fatto corsi di didattica non ho studiato
 TOI041	per fare quello
 TOI041	e quindi sono magari
-TOR001	il classico esperto che viene preso a fare una lezione o un piccolo corso perché sa di quella materia lì
-TOI041	mh mh mh
+TOI041	il classico esperto che viene preso a fare una lezione o un piccolo corso perché sa di quella materia lì
+TOR001	mh mh mh
 TOI041	però non sa della didattica di quella materia lì
 TOI041	quindi per me
 TOI041	vedere le difficoltà che incontrano
 TOI041	le persone a cui cerco di trasmettere determinati contenuti
-TOR001	nel comprendermi mi aiuta
-TOI041	mh mh
+TOI041	nel comprendermi mi aiuta
+TOR001	mh mh
 TOI041	a
 TOI041	a esprimermi meglio mi aiuta a capire come
 TOI041	anche come studiare
 TOI041	meglio
-TOR001	quella stessa materia che penso di sapere ma magari forse
-TOI041	certo
-TOR001	invece c'è ancora bisogno di
-TOI041	mh mh mh
+TOI041	quella stessa materia che penso di sapere ma magari forse
+TOR001	certo
+TOI041	invece c'è ancora bisogno di
+TOR001	mh mh mh
 TOI041	la formazione di per sé non
-TOR001	non è non è il campo che io avevo scelto
-TOI041	mh mh mh
+TOI041	non è non è il campo che io avevo scelto
+TOR001	mh mh mh
 TOI041	era una delle possibilità io mi sono laureata in lettere quindi
 TOI041	fare all'epoca
 TOI041	alla fine degli anni novanta
 TOI041	fare il percorso per diventare insegnanti era una delle possibilità
-TOR001	che io avevo escluso perché non mi interessava così tanto
-TOI041	mh mh mh mh mh
-TOR001	puntare su quello
+TOI041	che io avevo escluso perché non mi interessava così tanto
+TOR001	mh mh mh mh mh
+TOI041	puntare su quello
 TOR001	quindi diciamo l'idea p~ cioè
-TOI041	per il momento va bene l'equilibrio che hai ora no
-TOR001	sì sì decisamente
-TOI041	cioè ti piace il tuo lavoro e poi a spot diciamo delle mh
+TOR001	per il momento va bene l'equilibrio che hai ora no
+TOI041	sì sì decisamente
+TOR001	cioè ti piace il tuo lavoro e poi a spot diciamo delle mh
 TOI041	e poi fare sì delle altre cose
-TOR001	sì
+TOI041	sì
 TOR001	okay va bene
-TOI041	ehm pensi che torino sia un buon posto per lavorare
+TOR001	ehm pensi che torino sia un buon posto per lavorare
 TOI041	non avendo esperienza di altri posti
 TOI041	neanche di altre città italiane
 TOI041	faccio fatica
-TOR001	a immaginare un confronto
-TOI041	mh mh
+TOI041	a immaginare un confronto
+TOR001	mh mh
 TOI041	cioè credo che questa domanda
 TOI041	a questa domanda si potrebbe rispondere meglio avendo
-TOR001	magari venendo da un altro posto o avendo avuto opportunità di studiare o di lavorare in un altro posto
-TOI041	mh mh mh
+TOI041	magari venendo da un altro posto o avendo avuto opportunità di studiare o di lavorare in un altro posto
+TOR001	mh mh mh
 TOI041	eh io come ti dicevo mh
 TOI041	ero giovane e cercavo la mia strada nella vita
 TOI041	verso la fine degli anni novanta inizio anni duemila
@@ -373,8 +364,8 @@ TOI041	e ho trovato
 TOI041	grandi difficoltà
 TOI041	pur essendo una persona con
 TOI041	una buona formazione perché ho potuto fare l'università e anche farla con tutta calma quindi farla bene
-TOR001	mi sono laureata bene
-TOI041	mh mh mh
+TOI041	mi sono laureata bene
+TOR001	mh mh mh
 TOI041	eh
 TOI041	però
 TOI041	devo dire che ho trovato un po'
@@ -384,8 +375,8 @@ TOI041	questa tendenza a incasellare molto rapidamente le persone
 TOI041	eh
 TOI041	in una certa in un certo ruolo in una cer~
 TOI041	in un certo ambito di competenza
-TOR001	e quindi poi una grandissima difficoltà invece
-TOI041	certo
+TOI041	e quindi poi una grandissima difficoltà invece
+TOR001	certo
 TOI041	da parte della persona che vorrebbe
 TOI041	provare anche altro
 TOI041	eh
@@ -394,44 +385,44 @@ TOI041	a leversi da quella cosa lì
 TOI041	quella era anche l'epoca
 TOI041	in cui s~
 TOI041	adesso forse se ne parla un po' meno ma credo che il fenomeno non sia assolutamente sparito
-TOR001	era l'epoca degli stage gratuiti
-TOI041	mh mh
+TOI041	era l'epoca degli stage gratuiti
+TOR001	mh mh
 TOI041	trovavi da fare tutto quello che volevi
-TOR001	purché tu fossi disposto a lavorare gratis
+TOI041	purché tu fossi disposto a lavorare gratis
 TOR001	certo
-TOI041	non credo sia cambiato
+TOR001	non credo sia cambiato
 TOI041	retribuito proprio non se ne parla nemmeno
 TOI041	io
 TOI041	l~ ho trovato molta difficoltà
-TOR001	cioè devo dire che l'ho trovato un percorso
-TOI041	mh mh
+TOI041	cioè devo dire che l'ho trovato un percorso
+TOR001	mh mh
 TOI041	accidentato e difficile
 TOI041	sono contenta poi ad un certo punto di essere riuscita
 TOI041	a infilarmi
 TOI041	in qualche modo in un ambito
 TOI041	ehm a me gradito
-TOR001	ed è per questo che dico
-TOI041	certo
+TOI041	ed è per questo che dico
+TOR001	certo
 TOI041	però insomma ho anche quarantasei anni
 TOI041	e
 TOI041	comunque saranno sette otto anni che faccio questo lavoro
-TOR001	quindi ci sono arrivata abbastanza tardi
+TOI041	quindi ci sono arrivata abbastanza tardi
 TOR001	certo
-TOI041	certo
-TOR001	effettivamente
-TOI041	facendo cose diverse
+TOR001	certo
+TOI041	effettivamente
 TOR001	facendo cose diverse
-TOI041	eh certo
+TOI041	facendo cose diverse
+TOR001	eh certo
 TOI041	che poi sono state tutte positive io non non ne rinengo nessuna
 TOI041	non ne rinnego nessuna sono stata contenta di tutte le esperienze che ho avuto però
 TOI041	l'ho vissuto come un percorso accidentato
 TOI041	sicuramente perché
 TOI041	soprattutto il passaggio
 TOI041	dal call-center poi all'agenzia di formazione eccetera
-TOR001	ho dovuto farci un intero master
-TOI041	certo
-TOR001	comunque spendendo dei soldi o facendoli spendere ai miei genitori
-TOI041	certo
+TOI041	ho dovuto farci un intero master
+TOR001	certo
+TOI041	comunque spendendo dei soldi o facendoli spendere ai miei genitori
+TOR001	certo
 TOI041	che mi aiutavano
 TOI041	eh insomma non è stato mh
 TOI041	non è stato facile
@@ -439,54 +430,53 @@ TOI041	perché lì mi sono proprio scontrata contro
 TOI041	questa
 TOI041	questo fenomeno per cui io cercavo delle opportunità
 TOI041	per fare altro e mi offrivano solo posti da operatrici telefoniche
-TOR001	proprio non non c'era verso di uscire da quel
+TOI041	proprio non non c'era verso di uscire da quel
 TOR001	mh mh
-TOI041	lì hai fatto bene tu a
-TOR001	da quella categorizzazione lì
-TOI041	cioè a mischiar le carte xxx
+TOR001	lì hai fatto bene tu a
+TOI041	da quella categorizzazione lì
+TOR001	cioè a mischiar le carte xxx
 TOI041	eh ho de~
-TOR001	eh sì ho detto proviamo a vedere se aggiungendo della formazione in un altro ambito
-TOI041	mh mh mh
-TOR001	quindi mettendo i piedi
-TOI041	certo
+TOI041	eh sì ho detto proviamo a vedere se aggiungendo della formazione in un altro ambito
+TOR001	mh mh mh
+TOI041	quindi mettendo i piedi
+TOR001	certo
 TOI041	in un ambiente diverso si riesce
-TOR001	cioè perché proprio non
-TOI041	aiuto
+TOI041	cioè perché proprio non
+TOR001	aiuto
 TOI041	non riuscivo a trovare
 TOI041	una via d'uscita
-TOR001	ero molto disperata in quel periodo devo dire
-TOI041	eh ci credo certo
-TOR001	sì
-TOI041	certo
-TOR001	sì sì
+TOI041	ero molto disperata in quel periodo devo dire
+TOR001	eh ci credo certo
+TOI041	sì
+TOR001	certo
+TOI041	sì sì
 TOR001	anche perché comunque
 TOR001	cioè molto giovane una delle prime esperienze
-TOI041	uno non è che vuole incasinarsi tutta la vita là cioè
+TOR001	uno non è che vuole incasinarsi tutta la vita là cioè
 TOI041	no infatti infatti
-TOR001	eh
+TOI041	eh
 TOR001	certo
 TOR001	aiuto
 TOR001	ehm
-TOI041	andresti fuori torino a lavorare
-TOI041	
+TOR001	andresti fuori torino a lavorare
 TOI041	n~ no per una ragione molto
 TOI041	personale molto banale
 TOI041	ho mh sono figlia unica
 TOI041	e ho due genitori
 TOI041	settantenni
 TOI041	che stanno bene sono perfettamente autonomi si fanno la loro vita
-TOR001	ma proprio in questo particolare momento della mia vita mi dispiacerebbe
-TOI041	mh mh
+TOI041	ma proprio in questo particolare momento della mia vita mi dispiacerebbe
+TOR001	mh mh
 TOI041	andare via e
-TOR001	non avere la possibilità di vederli di stare con loro e di
-TOI041	mh mh mh
+TOI041	non avere la possibilità di vederli di stare con loro e di
+TOR001	mh mh mh
 TOI041	quindi mh no
 TOI041	quando ero più giovane
 TOI041	no
 TOI041	perché ero molto
 TOI041	più
-TOR001	spaventata dalle novità e
-TOI041	mh mh
+TOI041	spaventata dalle novità e
+TOR001	mh mh
 TOI041	e insomma in difficoltà rispetto al fatto di
 TOI041	staccarmi dal dal mio ambiente dall'ambiente conosciuto
 TOI041	mio padre ad esempio ricordo che quando
@@ -497,53 +487,49 @@ TOI041	inclinazione
 TOI041	da voler seguire negli studi universitari per cui
 TOI041	sarebbe opportuno che tu anziché studiare a torino
 TOI041	andassi a studiare
-TOR001	da n'altra parte
-TOI041	mh mh mh
+TOI041	da n'altra parte
+TOR001	mh mh mh
 TOI041	alla normale
 TOI041	facciamo per dire una cosa no
-TOR001	che tutti immaginiamo possa essere una buona opportunità nella vita
-TOI041	
+TOI041	che tutti immaginiamo possa essere una buona opportunità nella vita
 TOI041	facciamolo
-TOR001	nel senso io noi siamo disposti ad aiutarti
-TOI041	mh mh mh
+TOI041	nel senso io noi siamo disposti ad aiutarti
+TOR001	mh mh mh
 TOI041	cerchiamo un appartamento ti aiutiamo con le spese eccetera eccetera
-TOR001	allora io dissi ma manco morta per carità di dio figuriamoci dove vuoi che vada
-TOI041	
+TOI041	allora io dissi ma manco morta per carità di dio figuriamoci dove vuoi che vada
 TOI041	lasciami stare a torino che sto tanto bene qua
-TOR001	adesso quelle paure lì non ce le ho più
-TOI041	mh mh mh
-TOR001	cioè da quel punto di vista lì non avrei problemi a dire
-TOI041	mh mh
-TOR001	mi trasferisco da un'altra parte perché magari c'è un'opportunità interessante di fare una cosa
-TOI041	mh mh
+TOI041	adesso quelle paure lì non ce le ho più
+TOR001	mh mh mh
+TOI041	cioè da quel punto di vista lì non avrei problemi a dire
+TOR001	mh mh
+TOI041	mi trasferisco da un'altra parte perché magari c'è un'opportunità interessante di fare una cosa
+TOR001	mh mh
 TOI041	però mi dispiacerebbe per
-TOR001	per quel motivo lì
+TOI041	per quel motivo lì
 TOR001	mh mh mh
 TOR001	ehm
 TOR001	in via diciamo assolutamente astratta quindi non
 TOR001	considerando problemi decisioni insomma concrete
 TOR001	ehm
-TOI041	dove altro ti piacerebbe vivere
-TOI041	
+TOR001	dove altro ti piacerebbe vivere
 TOI041	bella domanda non c'ho mai pensato
 TOI041	eh
 TOI041	ma tu dici in riferimento a
-TOR001	questioni oppurtunità lavorative
+TOI041	questioni oppurtunità lavorative
 TOR001	anche ma non solo in realtà
 TOR001	cioè
-TOI041	appunto fatti salvi i problemi pratici organizzativi
-TOR001	mh mh mh mh
-TOI041	xx della vita di ognuno
-TOR001	eh beh certo
+TOR001	appunto fatti salvi i problemi pratici organizzativi
+TOI041	mh mh mh mh
+TOR001	xx della vita di ognuno
+TOI041	eh beh certo
 TOR001	qual è il posto in europa o nel mondo
 TOR001	in italia anche
 TOR001	non so
 TOR001	eh in cui ti piacerebbe vivere
-TOI041	un posto magari che hai visitato e ti ha colpito
+TOR001	un posto magari che hai visitato e ti ha colpito
 TOI041	ah beh no
 TOI041	posti particolari non me ne viene in mente nessuno
-TOR001	sicuramente per la mia vecchiaia se così si può dire
-TOI041	
+TOI041	sicuramente per la mia vecchiaia se così si può dire
 TOI041	mi piacerebbe molto andare a vivere in un
 TOI041	in un posto un pochino non uhm
 TOI041	non più così urbano ecco
@@ -561,8 +547,8 @@ TOI041	quella che considero una famiglia
 TOI041	di affetti
 TOI041	e e
 TOI041	e sarei contenta insomma di poter continuare a
-TOR001	vederli a frequentarli a stare con loro
-TOI041	mh mh mh
+TOI041	vederli a frequentarli a stare con loro
+TOR001	mh mh mh
 TOI041	quindi sicuramente siccome non si diventa più giovani purtroppo ma si diventa più vecchi
 TOI041	immagino ecco proprio di non spostarmi di
 TOI041	centinai di kilometri però magari un pochino più in mezzo al verde
@@ -575,57 +561,54 @@ TOI041	poi dove il mare non importa
 TOI041	certo se è papeete
 TOI041	meglio
 TOI041	rispetto a finale ligure
-TOR001	però biso~ non lo so ecco adesso vediamo se le possibilità di saranno
-TOI041	altrimenti rivalutiamo finale al limite è comoda
-TOR001	sì al limite rivalutiamo finale ~che perché forse è un pochino più comoda
-TOI041	
-TOR001	papeete è sicuramente meglio ecco sì
+TOI041	però biso~ non lo so ecco adesso vediamo se le possibilità di saranno
+TOR001	altrimenti rivalutiamo finale al limite è comoda
+TOI041	sì al limite rivalutiamo finale ~che perché forse è un pochino più comoda
+TOI041	papeete è sicuramente meglio ecco sì
 TOR001	mi sento di dire di sì
 TOR001	va bene
-TOI041	ehm in che zona di torino vivi
-TOR001	io vivo nel quartiere cenisia
-TOI041	mh mh
+TOR001	ehm in che zona di torino vivi
+TOI041	io vivo nel quartiere cenisia
+TOR001	mh mh
 TOI041	eh in
-TOR001	vicino a pizza rivoli
-TOI041	okay
-TOR001	quindi sì
-TOI041	okay
-TOR001	quella zona lì
-TOI041	e hai sempre vissuto lì
+TOI041	vicino a pizza rivoli
+TOR001	okay
+TOI041	quindi sì
+TOR001	okay
+TOI041	quella zona lì
+TOR001	e hai sempre vissuto lì
 TOI041	vivo lì dal duemila
-TOR001	dal duemiladue dal duemilauno non ricordo
-TOI041	okay
-TOR001	dall'inizio degli anni duemila sì
-TOI041	okay e prima invece dove vivevi
+TOI041	dal duemiladue dal duemilauno non ricordo
+TOR001	okay
+TOI041	dall'inizio degli anni duemila sì
+TOR001	okay e prima invece dove vivevi
 TOI041	e prima vivevo
 TOI041	in cit turin
-TOR001	non molto lontano da lì in realtà
-TOI041	ah okay
-TOR001	un paio di fermate di metropolitana
+TOI041	non molto lontano da lì in realtà
+TOR001	ah okay
+TOI041	un paio di fermate di metropolitana
 TOR001	ah quindi
-TOI041	
 TOI041	che all'epoca non c'era perché poi l'hanno fatta dopo ma insomma
 TOI041	sì sì ho sempre abitato più o meno in quelle zone lì
 TOI041	la mia famiglia è sempre stata stanziale
-TOR001	io sono nata lì
-TOI041	okay
-TOR001	e cresciuta lì e poi mi sono trasferita
-TOI041	okay
+TOI041	io sono nata lì
+TOR001	okay
+TOI041	e cresciuta lì e poi mi sono trasferita
+TOR001	okay
 TOI041	ho abitato per un brevissimo periodo un annetto in
-TOR001	vicino al parco del valentino
-TOI041	okay
+TOI041	vicino al parco del valentino
+TOR001	okay
 TOI041	eh
 TOI041	però un annetto
 TOI041	era un affitto
-TOR001	eh insomma
+TOI041	eh insomma
 TOR001	okay
-TOI041	poi sei tornata
-TOR001	poi sono tornata all'ovile
-TOI041	
-TOR001	sì
+TOR001	poi sei tornata
+TOI041	poi sono tornata all'ovile
+TOI041	sì
 TOR001	okay
 TOR001	eh ti piace come zona
-TOI041	la approssimo a una unica perché mi pare che appunto
+TOR001	la approssimo a una unica perché mi pare che appunto
 TOI041	sì sì sì
 TOI041	ci sono delle differenze sensibili
 TOI041	forse cit turin è più
@@ -634,46 +617,44 @@ TOI041	cit turin è madamin come dice sempre mia mamma no
 TOI041	cit turin è madamin
 TOI041	invece cenisia forse ha degli
 TOI041	insomma degli aspetto un po' più popolari che me la rendono
-TOR001	particolarmente cara perché mi sento
-TOI041	mh mh
+TOI041	particolarmente cara perché mi sento
+TOR001	mh mh
 TOI041	mi sento molto a casa
-TOR001	insomma c'è questa
-TOI041	
+TOI041	insomma c'è questa
 TOI041	è un bel quartiere
 TOI041	è molto pulito
 TOI041	con
 TOI041	adesso non è
-TOR001	non è un quartiere che si possa considerare degradato da nessun punto di vista secondo me
-TOI041	mh mh
+TOI041	non è un quartiere che si possa considerare degradato da nessun punto di vista secondo me
+TOR001	mh mh
 TOI041	però è un quartiere molto popolare
 TOI041	quindi a differenza di cit turin dove vedi appunto molte madamin col cagnetto
-TOR001	al mercato di piazza benefica che fanno
-TOI041	
+TOI041	al mercato di piazza benefica che fanno
 TOI041	e ti viene quindi un po' se vedi
 TOI041	che ne so il ragazzo con il giubbotto un po' sporco ti viene da dire
 TOI041	oh poverino chissà cosa gli è successo
 TOI041	invece
-TOR001	in cenisia c'è tutto
-TOI041	in cenisia xxx non ti giri neanche se c'è uno
+TOI041	in cenisia c'è tutto
+TOR001	in cenisia xxx non ti giri neanche se c'è uno
 TOI041	c'è tutto ci sono gli immigrati poi ci sono molte comunità di immigrati
-TOR001	questo secondo me porta una ricchezza
-TOI041	mh mh
+TOI041	questo secondo me porta una ricchezza
+TOR001	mh mh
 TOI041	una ricchezza incredibile al quartiere
-TOR001	io di questo sono molto contenta
-TOI041	mh mh
-TOR001	mi piace vedere insomma tante facce
-TOI041	mh mh che ci sia anche varietà
+TOI041	io di questo sono molto contenta
+TOR001	mh mh
+TOI041	mi piace vedere insomma tante facce
+TOR001	mh mh che ci sia anche varietà
 TOI041	e non sempre solo
 TOI041	eh sì poi anche insomma a livello di
-TOR001	di convivenza secondo me
+TOI041	di convivenza secondo me
 TOR001	mh mh
-TOI041	certo
-TOI041	bella
 TOR001	certo
+TOI041	bella
+TOI041	certo
 TOR001	ma ci sono che tu sappia in zona non so ehm
 TOR001	appunto
-TOI041	cioè me lo descrivi comunque come un quartiere piuttosto vivo no
-TOR001	sì secodo me sì
+TOR001	cioè me lo descrivi comunque come un quartiere piuttosto vivo no
+TOI041	sì secodo me sì
 TOR001	ci sono non lo so del
 TOR001	degli spazi
 TOR001	per attività o
@@ -687,20 +668,20 @@ TOR001	eh
 TOR001	in cui però vengono offerte delle attività vere e proprie no
 TOR001	cioè che siano corsi di italiano o siano
 TOR001	eh laboratori artistici o cose di questo tipo
-TOI041	invece da questa parte di torino se ne trovano secondo te di queste cose
+TOR001	invece da questa parte di torino se ne trovano secondo te di queste cose
 TOI041	mah io ne sono poco informata perché non
 TOI041	so so che
 TOI041	so per sentito dire
 TOI041	che è molto attivo
-TOR001	il parroco della chiesa di corso racconigi
-TOI041	mh mh
+TOI041	il parroco della chiesa di corso racconigi
+TOR001	mh mh
 TOI041	che fa molte cose con
 TOI041	soprattutto appunto con le comunità
 TOI041	di immigrati nel quartiere che ci sono e sono
 TOI041	e sono numerose
 TOI041	e quelle almeno di religione cristiana
-TOR001	fanno un po' capo a quella
-TOI041	mh mh
+TOI041	fanno un po' capo a quella
+TOR001	mh mh
 TOI041	a quella chiesa lì
 TOI041	e poi invece c'è
 TOI041	la parrocchia credo si chiami di gesù adolescente
@@ -708,53 +689,52 @@ TOI041	che è
 TOI041	in una traversa di corso racconigi un po' più verso corso peschiera
 TOI041	che ho scoperto recentemente essere
 TOI041	ehm
-TOR001	invece frequentata dalla comu~ da una comunità peru~ di peruviani
-TOI041	ah sì
+TOI041	invece frequentata dalla comu~ da una comunità peru~ di peruviani
+TOR001	ah sì
 TOI041	c'è
 TOI041	non io non non lo sapevo ma ho scoperto che c'è
 TOI041	appunto nel quartiere una nutritissima comunità di
 TOI041	di peruviani
 TOI041	che si è formata
 TOI041	mi dicono negli anni ottanta
-TOR001	con l'arrivo soprattutto di tante
-TOI041	ah
+TOI041	con l'arrivo soprattutto di tante
+TOR001	ah
 TOI041	donne tante ragazze che venivano qui
-TOR001	ahimè a fare le badanti a fare le donne delle pulizie
-TOI041	mh mh
+TOI041	ahimè a fare le badanti a fare le donne delle pulizie
+TOR001	mh mh
 TOI041	per mantenere i figli e i mariti a casa
-TOR001	perché là non c'era lavoro
-TOI041	mh mh
+TOI041	perché là non c'era lavoro
+TOR001	mh mh
 TOI041	e poi si è formata appunto questa comunità
 TOI041	che adesso è piuttosto infatti
 TOI041	da quella parte lì
 TOI041	facendoci una passeggiata ci sono un sacco di ristorante peruviani
-TOR001	che xxx io non avevo
-TOI041	ah davvero
-TOR001	sì che io non avevo mai visto
-TOI041	non lo sapevo
+TOI041	che xxx io non avevo
+TOR001	ah davvero
+TOI041	sì che io non avevo mai visto
+TOR001	non lo sapevo
 TOI041	e ci sono ristoranti fastfood posti comunque frequentati
 TOI041	la chiesa tra l'altro bellissima
-TOR001	all'interno c'è una bellissima madonna nera
-TOI041	ah sì
+TOI041	all'interno c'è una bellissima madonna nera
+TOR001	ah sì
 TOI041	un quadretto di una madonna nera
 TOI041	non so io non sapevo non son mai entrata
-TOR001	sono atea quindi non sono mai entrata in chiesa
-TOI041	
+TOI041	sono atea quindi non sono mai entrata in chiesa
 TOI041	non mi è mai venuta la curiosità
 TOI041	e invece ho fa~ fatto male
-TOR001	perché a volte entrare nelle chiese
-TOI041	mh mh mh
-TOR001	effettivamente ti fa scoprire
-TOI041	certo
-TOR001	delle cose che non sapevi
-TOI041	okay
+TOI041	perché a volte entrare nelle chiese
+TOR001	mh mh mh
+TOI041	effettivamente ti fa scoprire
+TOR001	certo
+TOI041	delle cose che non sapevi
+TOR001	okay
 TOI041	eh dal punto di vista dell'organizzazione di attività per
 TOI041	io so che fanno molte cose in civica
-TOR001	ma in civica siamo già più spostati verso il centro
-TOI041	mh mh
-TOR001	perché siamo già via garibaldi praticamente
+TOI041	ma in civica siamo già più spostati verso il centro
 TOR001	mh mh
-TOI041	eh sì
+TOI041	perché siamo già via garibaldi praticamente
+TOR001	mh mh
+TOR001	eh sì
 TOI041	e so che lì
 TOI041	sì fanno un sacco di di attività
 TOI041	ehm
@@ -776,10 +756,10 @@ TOI041	in via frejus ma non so se poi
 TOI041	il comune abbia trovato i fondi per farlo
 TOI041	so che qualche anno fa c'era stata questa richiesta da parte del
 TOI041	del quartiere insomma
-TOR001	di avere un punto in cui si potesse anche portare i ragazzini a fare compiti magari essere aiutati
+TOI041	di avere un punto in cui si potesse anche portare i ragazzini a fare compiti magari essere aiutati
 TOR001	mh mh mh mh
-TOI041	certo
-TOR001	però non sono molto informata sulle attività
+TOR001	certo
+TOI041	però non sono molto informata sulle attività
 TOR001	e secondo te ci sono dei luoghi di riferimento nel quartiere
 TOR001	e quali sono
 TOR001	cioè dei luoghi
@@ -787,31 +767,31 @@ TOR001	di riferimento
 TOR001	diciamo ehm
 TOR001	significativi
 TOR001	cioè che se dovessi descrivere il tuo quartiere
-TOI041	li tireresti in ballo diciamo
+TOR001	li tireresti in ballo diciamo
 TOI041	vabbè cenisia
 TOI041	se guardi dal punto di vista architettonico
 TOI041	c'è
-TOR001	che ne so c'è le o gi erre
-TOI041	okay
+TOI041	che ne so c'è le o gi erre
+TOR001	okay
 TOI041	per dire no
-TOR001	quindi è un quartiere effettivamente
+TOI041	quindi è un quartiere effettivamente
 TOR001	no no ma anche
 TOR001	non in astratto eh anche per te
-TOI041	cioè posti che magari per te okay
+TOR001	cioè posti che magari per te okay
 TOI041	il mercato per me il mercato
 TOI041	il mercato di corso racconigi che
 TOI041	che poi prosegue perché poi va va giù
 TOI041	anche dopo corso peschiera è lunghissimo io ovviamente frequento il pezzo
-TOR001	più vicino a casa mia
-TOI041	certo
+TOI041	più vicino a casa mia
+TOR001	certo
 TOI041	prevalentemente però sì
 TOI041	è
 TOI041	un mercato che tra l'altro fa parte della mia vita fin da quando ero bambina
 TOI041	perché io invece da bambina andavo a scuola
-TOR001	nel quartiere san paolo
-TOI041	mh mh
-TOR001	perché mia nonna abitava lì
-TOI041	okay
+TOI041	nel quartiere san paolo
+TOR001	mh mh
+TOI041	perché mia nonna abitava lì
+TOR001	okay
 TOI041	e mia mamma insegnava
 TOI041	in una scuola lì
 TOI041	per cui io mh
@@ -820,32 +800,31 @@ TOI041	nel quartiere cit turin
 TOI041	però praticamente stavo tutto il giorno
 TOI041	nel quartiere san paolo perché stavo
 TOI041	con la nonna
-TOR001	e con la nonna andavamo spesso al mercato
+TOI041	e con la nonna andavamo spesso al mercato
 TOR001	okay
-TOI041	
 TOI041	quindi per me proprio il mercato di corso racconigi
-TOR001	se devo dire un posto di torino che mi ha accompagnato in tutta la vita è quello
-TOI041	okay
-TOR001	sicuramente
-TOI041	e ti vengono in mente degli episodi o delle delle immagini associate al mercato
+TOI041	se devo dire un posto di torino che mi ha accompagnato in tutta la vita è quello
+TOR001	okay
+TOI041	sicuramente
+TOR001	e ti vengono in mente degli episodi o delle delle immagini associate al mercato
 TOI041	mi viene in mente che negli ultimi anni si è creato quello che
 TOI041	ho scoperto sui giornali
 TOI041	perché io non sapevo
 TOI041	viene definito il sud di corso racconi~ del mercato di corso racconigi
-TOR001	io non lo sapevo
-TOI041	ah sì
+TOI041	io non lo sapevo
+TOR001	ah sì
 TOI041	effettivamente è vero
 TOI041	c'è un un primo pezzo
 TOI041	il primo pezzo quello che parte proprio dall'incrocio con
-TOR001	corso vittorio
-TOI041	mh mh
+TOI041	corso vittorio
+TOR001	mh mh
 TOI041	è oggetto di
 TOI041	almeno da quando io sono lì
 TOI041	di un po' di controversie
 TOI041	perché ogni tanto i residenti
 TOI041	nel
-TOR001	nelle case che ci sono lì intorno
-TOI041	mh mh
+TOI041	nelle case che ci sono lì intorno
+TOR001	mh mh
 TOI041	tra cui anche la mia
 TOI041	fi~ fanno delle petizioni
 TOI041	per far
@@ -858,17 +837,17 @@ TOI041	perché montano i banchi
 TOI041	e il primo pezzo di mercato racconigi è essenzialmente di alimentari
 TOI041	ehm
 TOI041	un po' di abbigliamento un po' di cose per la casa
-TOR001	ma ci sono molti banchi di alimentari
-TOI041	mh mh
+TOI041	ma ci sono molti banchi di alimentari
+TOR001	mh mh
 TOI041	e quelli montano presto effettivamente la mattina
 TOI041	per cui i residenti si lamentano un po'
 TOI041	ogni tanto periodicamente si lamentano che c'è rumore
-TOR001	che poi lasciano sporco
-TOI041	okay
+TOI041	che poi lasciano sporco
+TOR001	okay
 TOI041	insomma le solite cose
 TOI041	allora adesso ultimamente effettivamente hanno iniziato
-TOR001	cioè il mercato inizia un pochettino più in là
-TOI041	mh mh
+TOI041	cioè il mercato inizia un pochettino più in là
+TOR001	mh mh
 TOI041	c'è un
 TOI041	un pezzo che potrà essere
 TOI041	toh centocinquanta metri
@@ -880,12 +859,12 @@ TOI041	questi
 TOI041	ambulanti
 TOI041	che non so nean~ xxx non so dire se abbiano la licenza o meno
 TOI041	io presumo di sì perché tanto ci sono tutte le mattine i vigili che controllano le licenze quindi
-TOR001	mi sembrerebbe strano ecco che potessero
-TOI041	mh mh mh
+TOI041	mi sembrerebbe strano ecco che potessero
+TOR001	mh mh mh
 TOI041	però probabilmente sono quelli che hanno
 TOI041	eh la licenza
-TOR001	che ne so giornaliera
-TOI041	okay
+TOI041	che ne so giornaliera
+TOR001	okay
 TOI041	o comunque non hanno il banco
 TOI041	mettono le cose per te~ mettono i teli per terra
 TOI041	eh e vendono
@@ -897,36 +876,35 @@ TOI041	hanno
 TOI041	io ne vedo parecchie di queste persone che raccolgono le cose dentro i cassonetti ma hanno
 TOI041	sono organizzati
 TOI041	hanno il loro bel
-TOR001	carrettino
-TOI041	mh mh mh
+TOI041	carrettino
+TOR001	mh mh mh
 TOI041	e selezionano
 TOI041	che ne sono i gioc~
-TOR001	noi buttiamo via tanta roba
-TOI041	sì sì
-TOR001	obiettivamente buttiamo via tante cose
-TOI041	certo
-TOR001	che potrebbero probabilmente essere riparate
-TOI041	mh mh mh
+TOI041	noi buttiamo via tanta roba
+TOR001	sì sì
+TOI041	obiettivamente buttiamo via tante cose
+TOR001	certo
+TOI041	che potrebbero probabilmente essere riparate
+TOR001	mh mh mh
 TOI041	e sistemate
 TOI041	e queste persone
 TOI041	fanno questa specie di souq
-TOR001	c'è loro hanno questa specie di mercato in cui rivendono
-TOI041	okay
+TOI041	c'è loro hanno questa specie di mercato in cui rivendono
+TOR001	okay
 TOI041	questi oggetti che sono
-TOR001	evidentemente oggetti usati
-TOI041	mh mh mh
-TOR001	ma anche abbigliamento scarpe
-TOI041	mh mh
+TOI041	evidentemente oggetti usati
+TOR001	mh mh mh
+TOI041	ma anche abbigliamento scarpe
+TOR001	mh mh
 TOI041	giocattoli libri
-TOR001	che probabilmente recuperano
-TOI041	in giro
-TOR001	in giro da gente che li butta
-TOI041	mh mh
+TOI041	che probabilmente recuperano
+TOR001	in giro
+TOI041	in giro da gente che li butta
+TOR001	mh mh
 TOI041	e poi lì
 TOI041	li rivendono
 TOI041	e io la trovo una cosa estremamente pittoresca
-TOR001	nel senso che li trov~
-TOI041	
+TOI041	nel senso che li trov~
 TOI041	non lo so li trovo molto carini
 TOI041	poi ho sempre l'idea che
 TOI041	probabilmente
@@ -936,83 +914,80 @@ TOI041	eh ma questi sono dei racket perché poi li sfruttano
 TOI041	bisogna farli sgombrare bisogna
 TOI041	io non riesco a vedere questa cosa qua
 TOI041	si vede che sono
-TOR001	vivo sono naif vivo in un mondo tutto mio
-TOI041	
+TOI041	vivo sono naif vivo in un mondo tutto mio
 TOI041	cioè io ci vedo gente che si è inventata una maniera
 TOI041	per magari tirar su qualche soldo
 TOI041	da qualcosa che a me non serve più
-TOR001	e quindi non mi dà nessun fastidio
-TOI041	certo
+TOI041	e quindi non mi dà nessun fastidio
+TOR001	certo
 TOI041	non non riesco a vederci
-TOR001	a vede~ poi magari hanno ragione loro
-TOI041	ed frequentato c'è tanta gente
+TOI041	a vede~ poi magari hanno ragione loro
+TOR001	ed frequentato c'è tanta gente
 TOI041	mah sì c'è tanta gente perché in quel pezzo di mercato lì
 TOI041	c'è tanta gente che va a fare la spesa
 TOI041	vengono anche da altri
-TOR001	da altri da altre parti di torino
-TOI041	a far la spesa
+TOI041	da altri da altre parti di torino
+TOR001	a far la spesa
 TOI041	arrivano proprio con la
 TOI041	con la loro sportina
 TOI041	con la metropolitana adesso che c'è la metropolitana
 TOI041	noi torinesi siamo impazziti
 TOI041	questa metropolitana che è lunga cento metri ma noi
-TOR001	sembra una cosa meravigliosa
+TOI041	sembra una cosa meravigliosa
 TOR001	tutti e cento
-TOI041	
 TOI041	a noi sembra una cosa favolosa e quindi
-TOR001	ci spostiamo su e giù per torino
+TOI041	ci spostiamo su e giù per torino
 TOR001	beh ma se tu devi andare da una parte
 TOR001	cioè da parte a parte
-TOI041	servita con la metro è fantastico
-TOR001	io la trovo meravigliosa e infatti mi muovo praticamente solo con la metropolitana
-TOI041	fantastico
+TOR001	servita con la metro è fantastico
+TOI041	io la trovo meravigliosa e infatti mi muovo praticamente solo con la metropolitana
+TOR001	fantastico
 TOI041	da quando c'è la metropolitana io ho risolto tutti i miei problemi
-TOR001	di mobilità
-TOI041	anch'io lo farei però cioè
-TOR001	
-TOI041	se potessi scegliere anch'io
+TOI041	di mobilità
+TOR001	anch'io lo farei però cioè
+TOR001	se potessi scegliere anch'io
 TOI041	poi quando qualche amico di milano o di roma mi prende un po' in giro
-TOR001	perché mi dice avete una metropolitana che sembra un treno giocattolo
-TOI041	eh un pochino
-TOR001	beh ho capito però per noi
+TOI041	perché mi dice avete una metropolitana che sembra un treno giocattolo
+TOR001	eh un pochino
+TOI041	beh ho capito però per noi
 TOR001	o un tram
-TOI041	non saprei
-TOR001	per noi va bene insomma non è che
+TOR001	non saprei
+TOI041	per noi va bene insomma non è che
 TOR001	no no ma
 TOR001	è super efficiente no
 TOR001	cioè per davvero
-TOI041	se tu devi andare
-TOR001	è comoda
-TOI041	stazione fantastico fantastico
+TOR001	se tu devi andare
+TOI041	è comoda
+TOR001	stazione fantastico fantastico
 TOI041	se devi andare al lingotto è una meraviglia
-TOR001	cioè prima andare al lingotto era un incubo
-TOI041	certo
-TOR001	diciamoci la verità
+TOI041	cioè prima andare al lingotto era un incubo
+TOR001	certo
+TOI041	diciamoci la verità
 TOR001	ci mettevi una vita
 TOR001	no no chiaro ma infatti
 TOR001	sì
 TOR001	se il tuo obiettivo è una fermata della metro
-TOI041	fantastico
-TOR001	la tua vita è migliorata
-TOI041	prendi la scala mobile per salire
-TOR001	incalcolabilmente
+TOR001	fantastico
+TOI041	la tua vita è migliorata
+TOR001	prendi la scala mobile per salire
+TOI041	incalcolabilmente
 TOR001	meno bene diciamo
 TOR001	comunque ehm
 TOR001	quali sono secondo te i punti di forza del tuo quartiere
-TOI041	cioè le cose che ti piacciono di più
+TOR001	cioè le cose che ti piacciono di più
 TOI041	le cose che mi piacciono di più
 TOI041	mi piace che appunto sia un quartiere molto vivo
 TOI041	ci sono molti negozi
-TOR001	molti torinesi hanno il mito di crocetta
-TOI041	mh mh
+TOI041	molti torinesi hanno il mito di crocetta
+TOR001	mh mh
 TOI041	io mh
 TOI041	ci saranno sicuramente delle case bellissime non ne dubito
 TOI041	ma io veramente piuttosto che andare a vivere a crocetta
 TOI041	andrei più volentieri a vivere a barriera di milano
 TOI041	che tutti dicono
 TOI041	no per carità barriera di milano
-TOR001	perché crocetta è morta
-TOI041	mh mh
+TOI041	perché crocetta è morta
+TOR001	mh mh
 TOI041	eh tu fai una passe~ è vero che è tranquilla
 TOI041	e ci senti gli uccellini perché passano poche macchine
 TOI041	però santa pazienza
@@ -1020,24 +995,23 @@ TOI041	fai una passeggiata a crocetta di pomeriggio
 TOI041	e ti sembra di essere in una città fantasma
 TOI041	io
 TOI041	se devo vivere in città non voglio vivere in una città fantasma
-TOR001	allora magari vado a abitare
-TOI041	certo
+TOI041	allora magari vado a abitare
+TOR001	certo
 TOI041	fuori torino
 TOI041	in mezzo al verde nella campagna
-TOR001	invece cenisia
-TOI041	certo
+TOI041	invece cenisia
+TOR001	certo
 TOI041	è un quartiere vivissimo
-TOR001	pieno di negozi pieno di servizi
-TOI041	mh mh mh
+TOI041	pieno di negozi pieno di servizi
+TOR001	mh mh mh
 TOI041	ci sono i mezzi pubblici
 TOI041	c'è la gente che si muove
 TOI041	insomma
-TOR001	questo mi piace di cenisia
-TOI041	è questa la cosa che ti piace di più
-TOR001	sì è la cosa che mi piace di più in assoluto
+TOI041	questo mi piace di cenisia
+TOR001	è questa la cosa che ti piace di più
+TOI041	sì è la cosa che mi piace di più in assoluto
 TOR001	okay
-TOI041	e invece la cosa che ti piace di meno
-TOI041	
+TOR001	e invece la cosa che ti piace di meno
 TOI041	la cosa che mi piace di meno
 TOI041	anche a questo non ho mai pen~ devo dire che non c'ho mai pensato
 TOI041	cosa non mi piaccia del mio quartiere
@@ -1047,19 +1021,18 @@ TOI041	lo so che non è bello da dire
 TOI041	però e
 TOI041	voglio essere sincera
 TOI041	non mi piaceva quando c'era
-TOR001	il centro sociale
-TOI041	mh mh
-TOR001	il gabrio
-TOI041	mh mh
+TOI041	il centro sociale
+TOR001	mh mh
+TOI041	il gabrio
+TOR001	mh mh
 TOI041	che adesso poi si è spostato
 TOI041	in via miglio
 TOI041	tra l'altro nella scuola dove io ho fatto le medie
-TOR001	mah va bene insomma va bene così
-TOI041	
+TOI041	mah va bene insomma va bene così
 TOI041	ma non erano i ragazzi del centro sociale che mi davano fastidio
 TOI041	perché quelli secondo me erano adorabili
-TOR001	era una parte del mondo che gli ruotava intorno
-TOI041	mh mh
+TOI041	era una parte del mondo che gli ruotava intorno
+TOR001	mh mh
 TOI041	eh perché
 TOI041	erano c'era
 TOI041	molta gente che girava
@@ -1067,127 +1040,125 @@ TOI041	che ne so che
 TOI041	si portava i divani e buttava i divani in mezzo alla strada e dormiva in mezzo alla strada
 TOI041	con i cani sempre slegati
 TOI041	c'erano dei momenti in cui effettivamente la vivibilità
-TOR001	quel dedalo di vie intorno lì
-TOI041	mh mh mh
+TOI041	quel dedalo di vie intorno lì
+TOR001	mh mh mh
 TOI041	era un pochettino
-TOR001	difficile
-TOI041	mh mh mh
+TOI041	difficile
+TOR001	mh mh mh
 TOI041	un po' faticosa
-TOR001	devo dir la verità
-TOI041	okay
+TOI041	devo dir la verità
+TOR001	okay
 TOI041	da quando se ne sono andati loro ovviamente se n'è andato anche tutto il circo
 TOI041	che gli girava intorno
 TOI041	perché in realtà
 TOI041	i ragazzi del gabrio io non li conoscevo personalmente però li conoscevo tutti di vista
-TOR001	niente da dire
-TOI041	mh mh mh
-TOR001	anzi quando qualcuno di questi faceva troppo casino erano loro stessi che cercavano di
-TOI041	eh certo
+TOI041	niente da dire
+TOR001	mh mh mh
+TOI041	anzi quando qualcuno di questi faceva troppo casino erano loro stessi che cercavano di
+TOR001	eh certo
 TOI041	chiaramente erano persone civili
 TOI041	tra l'altro molto impegnati
 TOI041	loro sì molto impegnati nel quartiere
 TOI041	facevano delle attività per aiutare
 TOI041	che ne so gli immigrati appena arrivati che non sapevano la lingua oppure che non
-TOR001	non riuscivano a gestirsi nei rapporti coi vari uffici gli accompagnavano
-TOI041	mh mh mh
-TOR001	quindi io da quel punto di vista lì erano veramente
-TOI041	beh carini
-TOR001	sì veramente carini
+TOI041	non riuscivano a gestirsi nei rapporti coi vari uffici gli accompagnavano
+TOR001	mh mh mh
+TOI041	quindi io da quel punto di vista lì erano veramente
+TOR001	beh carini
+TOI041	sì veramente carini
 TOR001	mh
 TOR001	e poi di solito ne~ cioè
-TOI041	tipicamente nei centri sociali le persone che sono dentro sono le prime a voler mantenere col quartiere un rapporto positivo
-TOR001	eh sì
-TOI041	per cui sono le prime che si lamentano se poi
-TOR001	eh sì perché lo fanno apposta per quello
-TOI041	certo
+TOR001	tipicamente nei centri sociali le persone che sono dentro sono le prime a voler mantenere col quartiere un rapporto positivo
+TOI041	eh sì
+TOR001	per cui sono le prime che si lamentano se poi
+TOI041	eh sì perché lo fanno apposta per quello
+TOR001	certo
 TOI041	per cui voglio dire loro erano
 TOI041	erano veramente carini
-TOR001	solo che appunto magari organizzavano serate o che e poi arrivava
+TOI041	solo che appunto magari organizzavano serate o che e poi arrivava
 TOR001	sì sì
-TOI041	certo e poi certo
-TOR001	intorno ci arrivava un po' di tutto perché la logica è
-TOI041	certo sì sì
+TOR001	certo e poi certo
+TOI041	intorno ci arrivava un po' di tutto perché la logica è
+TOR001	certo sì sì
 TOI041	tutti sono bene accetti
-TOR001	che va bene
-TOI041	certo
-TOR001	però insomma ogni tanto poi qualcuno può creare un po' di
-TOI041	no no chiaro
-TOR001	di casino ecco diciamo la verità
+TOI041	che va bene
+TOR001	certo
+TOI041	però insomma ogni tanto poi qualcuno può creare un po' di
+TOR001	no no chiaro
+TOI041	di casino ecco diciamo la verità
 TOR001	certo
 TOR001	va bene
 TOR001	ehm
-TOI041	trovi tutto nel tuo quartiere o sei costretta a spostarti spesso
+TOR001	trovi tutto nel tuo quartiere o sei costretta a spostarti spesso
 TOI041	no trovo tutto
-TOR001	direi che
+TOI041	direi che
 TOR001	okay
-TOI041	e in città come ti muovi
-TOR001	mi muovo prevalentemente con la metropolitana
-TOI041	
+TOR001	e in città come ti muovi
+TOI041	mi muovo prevalentemente con la metropolitana
 TOI041	o con i mezzi pubblici perché poi alla fine
 TOI041	mi muovo tra casa mia e il centro
 TOI041	o casa mia e
 TOI041	ehm
 TOI041	via asinari quella zona lì
-TOR001	insomma comunque mi muovo prevalentemente coi mezzi pubblici
-TOI041	mh mh mh mh
-TOR001	qualche volta anche con la macchina
-TOI041	mh mh
-TOR001	che ho e quindi
-TOI041	okay
+TOI041	insomma comunque mi muovo prevalentemente coi mezzi pubblici
+TOR001	mh mh mh mh
+TOI041	qualche volta anche con la macchina
+TOR001	mh mh
+TOI041	che ho e quindi
+TOR001	okay
 TOI041	quando devo fare già dei tragitti un po' più lunghi magari prendo la macchina
-TOR001	però o devo portar dei pesi
-TOI041	mh mh mh
+TOI041	però o devo portar dei pesi
+TOR001	mh mh mh
 TOI041	ecco perché poi quello il fatto che ormai sono anziana
 TOI041	quindi portare il peso prendo la macchina
-TOR001	però
+TOI041	però
 TOR001	giustamente
 TOR001	va bene
 TOR001	ehm
-TOI041	ti sembra che torino sia cambiata molto negli ultimi anni
+TOR001	ti sembra che torino sia cambiata molto negli ultimi anni
 TOI041	mah sono una di quella che ha un po' la sensazione che le olimpiadi abbiano
 TOI041	cambiato
-TOR001	il modo dei torinesi di vivere la loro città
-TOI041	mh mh
+TOI041	il modo dei torinesi di vivere la loro città
+TOR001	mh mh
 TOI041	io io questa cosa qua l'ho
-TOR001	l'ho l'ho sentita abbastanza
-TOI041	mh mh
+TOI041	l'ho l'ho sentita abbastanza
+TOR001	mh mh
 TOI041	nel senso che quello è stato un momento di festa che in effetti mi ha fatto
 TOI041	vedere una torino diversa che non
-TOR001	non ero abituata
-TOI041	mh mh
+TOI041	non ero abituata
+TOR001	mh mh
 TOI041	cioè prima anche io xxx mi sembrava che fosse una città poco
 TOI041	poco vivace cioè
-TOR001	cioè sicuramente molto vi~
-TOI041	okay
+TOI041	cioè sicuramente molto vi~
+TOR001	okay
 TOI041	poco vitale
-TOR001	vivace magari dal punto di vista culturale senz'altro questo sì
+TOI041	vivace magari dal punto di vista culturale senz'altro questo sì
 TOR001	mh mh
-TOI041	mh mh
+TOR001	mh mh
 TOI041	però forse poco vitale
-TOR001	eh gente per le strade o che non è che se ne vedesse tanta
-TOI041	mh mh
-TOR001	invece lì poi ci son state le notti bianche secondo me le persone hanno scoperto che forse
-TOI041	
+TOI041	eh gente per le strade o che non è che se ne vedesse tanta
+TOR001	mh mh
+TOI041	invece lì poi ci son state le notti bianche secondo me le persone hanno scoperto che forse
 TOI041	si può vivere la città anche
 TOI041	in modo un po' più
 TOI041	informale
-TOR001	senza necessariamente andare al regio solo a battere le mani al re
-TOI041	mh mh
+TOI041	senza necessariamente andare al regio solo a battere le mani al re
+TOR001	mh mh
 TOI041	si possono fare anche delle cose un po' più popolari ma
 TOI041	comunque ci si diverte lo stesso
 TOI041	e in effetti secondo me
 TOI041	eh
 TOI041	secondo me è cambiata
-TOR001	è cambiata in questo senso
-TOI041	mh mh
+TOI041	è cambiata in questo senso
+TOR001	mh mh
 TOI041	vedo più
 TOI041	vedo più gente che va in giro
-TOR001	a guardarsi intorno rispetto
-TOI041	mh mh
-TOR001	rispetto a prima
-TOI041	è anche più turistica no
-TOR001	sì sicuramente
-TOI041	cioè anche gente da fuori
+TOI041	a guardarsi intorno rispetto
+TOR001	mh mh
+TOI041	rispetto a prima
+TOR001	è anche più turistica no
+TOI041	sì sicuramente
+TOR001	cioè anche gente da fuori
 TOI041	sicuramente
 TOI041	sento molti molti stranieri
 TOI041	molti turisti stranieri
@@ -1195,20 +1166,20 @@ TOI041	già in questo periodo
 TOI041	appena comincia ad arrivare la stagione un pochino più
 TOI041	più bella effettivamente
 TOI041	ci sono molti turisti francesi
-TOR001	sento molto parlare in francese
+TOI041	sento molto parlare in francese
 TOR001	sì un sacco
-TOI041	un sacco
+TOR001	un sacco
 TOI041	in giro
-TOR001	ma anche americani sì sì
-TOI041	mh mh mh
+TOI041	ma anche americani sì sì
+TOR001	mh mh mh
 TOI041	cioè
-TOR001	xxxxxx
-TOI041	beh bello no c'è
+TOI041	xxxxxx
+TOR001	beh bello no c'è
 TOI041	ottimo bellissimo
 TOI041	direi di sì anche perché è una città bellissima quindi
-TOR001	meno male che
-TOI041	sono sono d'accordo
-TOR001	entra nei percorsi turistici
+TOI041	meno male che
+TOR001	sono sono d'accordo
+TOI041	entra nei percorsi turistici
 TOR001	però
 TOR001	spesso no cioè adesso xxx
 TOR001	in effetti meno però
@@ -1217,19 +1188,18 @@ TOR001	ma un po' come milano eh
 TOR001	cioè che è cambiata questa immagine un po' negli ultimi anni
 TOR001	però è associata alla città in cui si va a lavorare grigia eccetera
 TOR001	e non viene valutata invece no tutta la parte di
-TOI041	di offerta che può darti culturale architettonica
-TOR001	eh sì
+TOR001	di offerta che può darti culturale architettonica
+TOI041	eh sì
 TOR001	e via no
 TOR001	e mi sembra in effetti che negli ultimi anni
 TOR001	ormai sono diversi anni
 TOR001	sia sia proprio cambiata questa cosa
-TOI041	va bene sei contento della tua città
-TOR001	sì
-TOI041	
-TOR001	sì molto
+TOR001	va bene sei contento della tua città
+TOI041	sì
+TOI041	sì molto
 TOR001	questa è la risposta standard di tutti
-TOI041	siete tutti entusiasti
-TOR001	sì io sono molto contenta mi piace molto torino sì sì sì sì
+TOR001	siete tutti entusiasti
+TOI041	sì io sono molto contenta mi piace molto torino sì sì sì sì
 TOR001	bene bene
 TOR001	okay
 TOR001	ehm
@@ -1241,7 +1211,7 @@ TOR001	e il quartiere
 TOR001	diciamo i quartieri in realtà
 TOR001	in cui
 TOR001	ahm
-TOI041	hai vissuto nella tua vita ti sembrano cambiati tanto nel tempo
+TOR001	hai vissuto nella tua vita ti sembrano cambiati tanto nel tempo
 TOI041	mah io
 TOI041	forse forse ehm
 TOI041	non so se sono io che ci faccio più caso perché poi
@@ -1251,24 +1221,23 @@ TOI041	sulle cose che ti circondano
 TOI041	almeno io ero molto più
 TOI041	chiusa su su me stessa
 TOI041	mi guardavo poco intorno ero
-TOR001	sempre un po' con i miei pensieri che
-TOI041	
+TOI041	sempre un po' con i miei pensieri che
 TOI041	mi facevano da filtro rispetto
 TOI041	quindi non so se so~ appunto io che magari
 TOI041	tante cose non le notavo e le noto adesso
 TOI041	mi sembra di vedere
 TOI041	più negozi
 TOI041	ma più
-TOR001	turnover
-TOI041	mh mh
+TOI041	turnover
+TOR001	mh mh
 TOI041	di negozi
 TOI041	questo ne~ nei quartieri
 TOI041	che frequento io
 TOI041	che sono comunque
 TOI041	in qualche modo
 TOI041	paracentrali
-TOR001	perché in ogni caso sono dei quar~
-TOI041	okay
+TOI041	perché in ogni caso sono dei quar~
+TOR001	okay
 TOI041	eh
 TOI041	quando mi sposto
 TOI041	mi capita anche solo di passare magari coi mezzi
@@ -1276,61 +1245,60 @@ TOI041	in quartieri
 TOI041	conside~ che si possono considerare leggermente più periferici
 TOI041	ma leggermente perché se parliamo di aurora
 TOI041	aurora non può essere considerato quartiere periferico
-TOR001	però rispetto a cenisia magari lo è
-TOI041	mh mh
+TOI041	però rispetto a cenisia magari lo è
+TOR001	mh mh
 TOI041	mi capita di vedere tanti negozi chiusi tante serrande abbassate
 TOI041	questo lo noto perché
 TOI041	mah io non non ricord~ non ricordo questo fenomeno da quando ero ragazzina
 TOI041	cioè ricordo sempre gli stessi negozi sempre negli stessi posti
 TOI041	no erano un punto di riferimento i negozi
-TOR001	perché
-TOI041	certo
+TOI041	perché
+TOR001	certo
 TOI041	lì c'era il macellaio là c'era il negozio d'abbigliamento da
-TOR001	sempre
-TOI041	certo
+TOI041	sempre
+TOR001	certo
 TOI041	adesso invece
-TOR001	mi sembra che questa questa cosa qui abbia un turnover maggiore
-TOI041	mh mh mh
-TOR001	sto fenomeno sia più
+TOI041	mi sembra che questa questa cosa qui abbia un turnover maggiore
+TOR001	mh mh mh
+TOI041	sto fenomeno sia più
 TOR001	mh mh mh
 TOR001	sì è vero
-TOI041	che
+TOR001	che
 TOI041	insomma rib~ mh ribolle di più
 TOI041	che non so se sia un bene o un male
 TOI041	perché non so dire se
-TOR001	boh
+TOI041	boh
 TOR001	non lo so
 TOR001	non saprei
-TOI041	però in effetti è vero ce n'è un sacco di
-TOR001	mh
-TOI041	di serrande abbassate
-TOR001	tante serrande abbassate e tanti negozi che cambiano
-TOI041	sì sì
-TOR001	e che cambiano anche spesso
+TOR001	però in effetti è vero ce n'è un sacco di
+TOI041	mh
+TOR001	di serrande abbassate
+TOI041	tante serrande abbassate e tanti negozi che cambiano
+TOR001	sì sì
+TOI041	e che cambiano anche spesso
 TOR001	sì sì sì
 TOR001	frequente sì
 TOR001	va bene
 TOR001	ultimissime domande
-TOI041	eh cosa fai durante il tempo libero
+TOR001	eh cosa fai durante il tempo libero
 TOI041	allora durante il tempo libero a parte leggere
 TOI041	perché nonostante io legga per lavoro riesco poi a leggere anche durante il tempo libero
 TOI041	e a guardare tanti
 TOI041	film
 TOI041	su netlflix
-TOR001	perché sono una
-TOI041	
+TOI041	perché sono una
 TOI041	film e serie televisive
 TOI041	perché sono una grande
 TOI041	mangiatrice di serie televisive
 TOI041	eh soprattutto mi occupo dei miei cani
-TOR001	io ho la passione degli animali domestici quindi ho tre cani e due gatti
+TOI041	io ho la passione degli animali domestici quindi ho tre cani e due gatti
 TOR001	mh mh
-TOI041	wow
-TOR001	quindi faccio delle passeggiate li porto in campagna
-TOI041	dove eh dove vai a passeggiare con
+TOR001	wow
+TOI041	quindi faccio delle passeggiate li porto in campagna
+TOR001	dove eh dove vai a passeggiare con
 TOI041	con loro io passeggio al guinzaglio
-TOR001	in giro in giro per
-TOI041	mh mh
+TOI041	in giro in giro per
+TOR001	mh mh
 TOI041	non sono una da area cani
 TOI041	non sono una da parco dove si lasciano i cani liberi perché sono troppo apprensiva
 TOI041	quindi poi ho paura che mi scappi quindi poi succeda qualcosa
@@ -1340,60 +1308,57 @@ TOI041	tutte le volte che posso
 TOI041	da adesso fino a ottobre inoltrato
 TOI041	tutte le volte che posso magari nel weekend
 TOI041	vado lì
-TOR001	e così li lascio
-TOI041	più liberi
+TOI041	e così li lascio
+TOR001	più liberi
 TOI041	li lascio correre sì
-TOR001	poi ho anche degli altri amici che hanno delle case in provincia di asti
-TOI041	okay
-TOR001	quindi facciamo questi
-TOI041	
-TOR001	weekend in cui ci organizziamo tutti insieme
-TOI041	beh bello
-TOR001	itineriamo cani bambini
-TOI041	
+TOI041	poi ho anche degli altri amici che hanno delle case in provincia di asti
+TOR001	okay
+TOI041	quindi facciamo questi
+TOI041	weekend in cui ci organizziamo tutti insieme
+TOR001	beh bello
+TOI041	itineriamo cani bambini
 TOI041	c'è sempre molto
-TOR001	molto caos
+TOI041	molto caos
 TOR001	okay
 TOR001	va bene
 TOR001	quindi mi hai detto netflix
 TOR001	questo non mi sembra sensato
 TOR001	invece per esempio
 TOR001	mh
-TOI041	musica cinema
+TOR001	musica cinema
 TOI041	cinema sì
 TOI041	il cinema mi piace moltissimo
-TOR001	andare al cinema è una delle cose che mi piace di più in assoluto al mondo
-TOI041	
+TOI041	andare al cinema è una delle cose che mi piace di più in assoluto al mondo
 TOI041	e che però
 TOI041	faccio poco
-TOR001	devo dire la verità
-TOI041	okay
+TOI041	devo dire la verità
+TOR001	okay
 TOI041	faccio meno di quanto di quanto vorrei
 TOI041	forse mi piace così tanto però anche per quello
 TOI041	sono dell'idea che la magia di andare al cinema se poi ci vai
 TOI041	tre volte alla settimana dopo un po'
 TOI041	ti ti ti decade un pochino
 TOI041	quindi in fondo sono affezionata a questa mia abitudine di non
-TOR001	di non essere così assidua frequentatrice delle sale cinematografiche perché mi emoziona ancora molto
-TOI041	ah
-TOR001	andare al cinema mi piace
-TOI041	che bello
-TOR001	quando vado proprio mi sento
-TOI041	e e in che cinema vai
+TOI041	di non essere così assidua frequentatrice delle sale cinematografiche perché mi emoziona ancora molto
+TOR001	ah
+TOI041	andare al cinema mi piace
+TOR001	che bello
+TOI041	quando vado proprio mi sento
+TOR001	e e in che cinema vai
 TOI041	tutta contenta perché sono lì a guardare il film al cinema
 TOI041	vado nei cinema
-TOR001	credo che li definiscano cinema d'essai
-TOI041	mh mh
+TOI041	credo che li definiscano cinema d'essai
+TOR001	mh mh
 TOI041	io sono non sono una da multisa~
 TOI041	odio le multisala
 TOI041	eh perché odio mangiare con l'odore del popcorn
 TOI041	sai proprio mi dà
-TOR001	cioè guardare il film con l'odore del popcorn mi dà proprio fastidio
-TOI041	fastidio
+TOI041	cioè guardare il film con l'odore del popcorn mi dà proprio fastidio
+TOR001	fastidio
 TOI041	e poi non mi piacciono tanto i film
 TOI041	che ne so dei supereroi
-TOR001	quelle robe lì per cui
-TOI041	mh mh
+TOI041	quelle robe lì per cui
+TOR001	mh mh
 TOI041	non frequento tanto il multisala perché poi tendono a dare quel tipo di
 TOI041	di film
 TOI041	o le commedie tipo vacanze di natale che non mi piacciono
@@ -1403,26 +1368,25 @@ TOI041	quando li trovo cerco di gaurdare dei film
 TOI041	magari
 TOI041	di
 TOI041	che ne so di paesi
-TOR001	non tutti film americani se fosse possibile
-TOI041	mh mh
+TOI041	non tutti film americani se fosse possibile
+TOR001	mh mh
 TOI041	quelli li trovo già su netflix
-TOR001	visto che xxx l'abbiamo nominato prima no
-TOI041	
-TOR001	quelli si trovano e si guarda ah
-TOI041	certo
+TOI041	visto che xxx l'abbiamo nominato prima no
+TOI041	quelli si trovano e si guarda ah
+TOR001	certo
 TOI041	facilmente
 TOI041	se se riesco mi piace magari cercare di guardare qualcosa di africano
-TOR001	qualcosa di di asiatico
-TOI041	che è più difficile trovare
+TOI041	qualcosa di di asiatico
+TOR001	che è più difficile trovare
 TOI041	pochino più difficile
-TOR001	sì trovare perché
-TOI041	okay
-TOR001	così mi dà una finestra su un pezzo di mondo che conosco meno
+TOI041	sì trovare perché
+TOR001	okay
+TOI041	così mi dà una finestra su un pezzo di mondo che conosco meno
 TOR001	certo
 TOR001	va bene
-TOI041	io direi che possiamo chiudere qui
-TOR001	grazie
+TOR001	io direi che possiamo chiudere qui
+TOI041	grazie
 TOR001	grazie a te
-TOI041	figurati
-TOR001	bello
+TOR001	figurati
+TOI041	bello
 TOR001	grazie mille

@@ -1,94 +1,94 @@
 TOR001	o:kay
 TOR001	posto via
-TOI006	che lavoro fai?
+TOR001	che lavoro fai?
 TOI006	faccio: il commerciale.
 TOI006	vendo: imballaggi industriali e servizi di logistica integrata.
-TOR001	alle aziende.
-TOI006	okay quindi (.) diciamo (.) com'è organizzata la tua giornata?
+TOI006	alle aziende.
+TOR001	okay quindi (.) diciamo (.) com'è organizzata la tua giornata?
 TOI006	la mia: giornata è organizzata che entro in ufficio,
 TOI006	faccio ricerca cliente,
-TOR001	faccio delle telefonate ai clie[nti:],
-TOI006	[mh]mh
+TOI006	faccio delle telefonate ai clie[nti:],
+TOR001	[mh]mh
 TOI006	vado:, fisso appuntamenti:,
 TOI006	vado dai clienti e::h,
 TOI006	e presento l'azienda.
 TOI006	oppure:, e:::h
-TOR001	se è già un clie:nte. fidelizza:to
-TOI006	mhmh
-TOR001	incremento (gl)i ordini.
-TOR002	okay
-TOR001	ma sei di quelli che girano col tablet per far vedere i prodotti?
-TOI006	((ride))
-TOR001	no quello ancora
+TOI006	se è già un clie:nte. fidelizza:to
+TOR001	mhmh
+TOI006	incremento (gl)i ordini.
+TOR001	okay
+TOR002	ma sei di quelli che girano col tablet per far vedere i prodotti?
+TOR001	((ride))
+TOI006	no quello ancora
 TOR001	ma (.) eh=m::h
-TOI006	quindi dicevi vendi imballag[gi]. tipo?
+TOR001	quindi dicevi vendi imballag[gi]. tipo?
 TOI006	[si].
 TOI006	tipo:::
-TOR001	[casse in legno:, gabbie],
-TOI006	[cioè io non ne so niente e:h]
+TOI006	[casse in legno:, gabbie],
+TOR001	[cioè io non ne so niente e:h]
 TOI006	e:::h
-TOR001	e pallet, [e::h]
-TOI006	[okay]
+TOI006	e pallet, [e::h]
+TOR001	[okay]
 TOI006	e:::h
-TOR001	protetti:vi: a::l materia:le de:lle: spedizioni.
-TOI006	okay. quindi che tipo di clienti hai?
+TOI006	protetti:vi: a::l materia:le de:lle: spedizioni.
+TOR001	okay. quindi che tipo di clienti hai?
 TOI006	eh aziende:::,
 TOI006	di qualsiasi:, genere
 TOI006	da fonderie: a:::h,
 TOI006	a aziende automotive::, e:h
 TOI006	aziende che::,
-TOR001	eh=mh fabbricano impianti:
-TOI006	okay
-TOR001	industriali:
-TOI006	okay
-TOR001	aziende di robotica.
-TOI006	ma (.) sostanzialmente per la spedizione?
-TOR001	[sostanzialmente:] aziende che::
-TOI006	[cioè per il trasporto]?
-TOR001	e::h lavorano per l'export
+TOI006	eh=mh fabbricano impianti:
 TOR001	okay
-TOI006	da quanto tempo fai questo lavoro?
-TOR001	da circa due anni.
+TOI006	industriali:
+TOR001	okay
+TOI006	aziende di robotica.
+TOR001	ma (.) sostanzialmente per la spedizione?
+TOI006	[sostanzialmente:] aziende che::
+TOR001	[cioè per il trasporto]?
+TOI006	e::h lavorano per l'export
+TOR001	okay
+TOR001	da quanto tempo fai questo lavoro?
+TOI006	da circa due anni.
 TOR001	okay,
-TOI006	lavori in proprio o sei dipend[ente]?
-TOR001	[no son] dipendente
+TOR001	lavori in proprio o sei dipend[ente]?
+TOI006	[no son] dipendente
 TOR001	okay,
-TOI006	hai sempre fatto lo stesso lavoro?
-TOR001	no.
-TOI006	okay, cosa facevi prima?
+TOR001	hai sempre fatto lo stesso lavoro?
+TOI006	no.
+TOR001	okay, cosa facevi prima?
 TOI006	prima vendevo i:::n
-TOR001	attrezzature per la ristorazione:
-TOI006	okay,
+TOI006	attrezzature per la ristorazione:
+TOR001	okay,
 TOI006	arredamenti
-TOR001	sempre per la ristorazione o comunque ambiti professionali,
-TOI006	m:hmh
+TOI006	sempre per la ristorazione o comunque ambiti professionali,
+TOR001	m:hmh
 TOI006	e:::h
 TOI006	e: p:oi vabbè geometra:
-TOR001	e magazzini::
-TOI006	okay
-TOR001	ho fatto un po'
+TOI006	e magazzini::
+TOR001	okay
+TOI006	ho fatto un po'
 TOR001	e cosa:: e cosa preferivi fa:re?
-TOI006	c(io)è tra le cose che hai fat[to]?
+TOR001	c(io)è tra le cose che hai fat[to]?
 TOI006	[beh] (.) tra quello che ho fatto sicuramente questo::
 TOI006	quindi: la vendita: o (.) o d~
-TOR001	dell: dell'ambito s~ professionale: quindi della ristorazione,
-TOI006	m:mh,
+TOI006	dell: dell'ambito s~ professionale: quindi della ristorazione,
+TOR001	m:mh,
 TOI006	quello era xxx un bel campo, a::h
 TOI006	altrettanto:: (.) probabilmente anche più bello e più:::
-TOR001	gratificante è questo sugli imball[aggi].
+TOI006	gratificante è questo sugli imball[aggi].
 TOR001	[questo]
-TOI006	okay, perché dici gratificante? [>°cioè in che senso°<]
+TOR001	okay, perché dici gratificante? [>°cioè in che senso°<]
 TOI006	[perché::] hai un ventaglio di:::
 TOI006	di aziende al quale poter (.) proporre (.) il tuo::
 TOI006	prodotto, e:: inoltre sei
 TOI006	quasi sempre sicuro che:
 TOI006	queste aziende che (.) comunque adoperano l'export
-TOR001	hanno bisogno di questo.
-TOI006	mh mh [mh]
+TOI006	hanno bisogno di questo.
+TOR001	mh mh [mh]
 TOI006	[e] di aziende:::
 TOI006	per fortuna in italia che
-TOR001	hanno:: e::h, (.) hanno bisogno di esportare i loro prodotti sono tante [in italia]
-TOI006	[ce n'è] tante (.) mh mh mh
+TOI006	hanno:: e::h, (.) hanno bisogno di esportare i loro prodotti sono tante [in italia]
+TOR001	[ce n'è] tante (.) mh mh mh
 TOI006	diciamo che invece poi non hai:,
 TOI006	un accanimento:: (.) di internet,
 TOI006	perché mentre su::
@@ -96,228 +96,228 @@ TOI006	vendere delle: componenti di::
 TOI006	e:h cucine industriali quindi di gas, di forni, di::
 TOI006	anche solo di:: (.) mh
 TOI006	piccoli strumenti per comunque la ristorazione, per i bar e quant altro,
-TOR001	può esserci un offerta mediante internet
-TOI006	mh mh,
+TOI006	può esserci un offerta mediante internet
+TOR001	mh mh,
 TOI006	perché:::
 TOI006	ad oggi:::
 TOI006	quel mh
 TOI006	diciamo quel po::~ quel punto mh
 TOI006	di vendita è molto: attivo: (.) invece:: il mio: è una personalizzazione rispetto al prodotto che fai quindi non puoi
 TOI006	formulare (.) sempre preventivi via mail
-TOR001	cioè hai bisogno per forza di una figura che viene:,
-TOI006	mhmh
-TOR001	a trovarti, a vedere che cosa stai (.) che cosa hai biso[gno]
+TOI006	cioè hai bisogno per forza di una figura che viene:,
+TOR001	mhmh
+TOI006	a trovarti, a vedere che cosa stai (.) che cosa hai biso[gno]
 TOR001	[mh] mh mh
-TOI006	quindi [dici] non c'è la competizione [di]
+TOR001	quindi [dici] non c'è la competizione [di]
 TOI006	[perché] xxx
 TOI006	[hai::] un po di concorrenza in meno in questo senso
 TOI006	e:h quella è la prima cosa:
-TOR001	è vero anche che hai delle aziende molto più grandi
-TOI006	mh mh
+TOI006	è vero anche che hai delle aziende molto più grandi
+TOR001	mh mh
 TOI006	che ti possono:
-TOR001	mettere diciamo i bastoni tra le ruote però ecco sì
-TOI006	((ride))
+TOI006	mettere diciamo i bastoni tra le ruote però ecco sì
+TOR001	((ride))
 TOI006	però la cosa più bella è che tu:: hai
 TOI006	devi renderti professionale perché:
-TOR001	e:h il cliente ha bisogno di te.
-TOI006	okay
+TOI006	e:h il cliente ha bisogno di te.
+TOR001	okay
 TOI006	cioè
-TOR001	non è che per forza una telefonata basta per sapere [di cosa ho bisogno] (.) perché devo venire lì e posso anche proporti delle migliori, dei saving (.) su quello che già fai.
+TOI006	non è che per forza una telefonata basta per sapere [di cosa ho bisogno] (.) perché devo venire lì e posso anche proporti delle migliori, dei saving (.) su quello che già fai.
 TOR001	[mh mh mh]
-TOI006	okay
+TOR001	okay
 TOI006	quindi invece di un imballaggio, invece di un rivestimento, invece di: un plastico che utilizzi per esportare, per
 TOI006	ma già per gestire un magazzino c(io)è in un magazzino magari hai tanto di quello sp~ spazio inutilizzato che io invece potrei,
 TOI006	proporti di u~, di migliorare quello quindi son dei puoi: essere utile a: a un azienda per
-TOR001	per fare una: riduzione di costi, ecco questo.
-TOI006	okay (.) invece m::h dici non serve necessariamente che tu fossi lì, non serviva che tu fossi lì di persona quando: ti occupavi di [cose]: tipo per la [ristorazione]
+TOI006	per fare una: riduzione di costi, ecco questo.
+TOR001	okay (.) invece m::h dici non serve necessariamente che tu fossi lì, non serviva che tu fossi lì di persona quando: ti occupavi di [cose]: tipo per la [ristorazione]
 TOI006	[be:h]
-TOR001	[sì perché:] allora ci sono ormai le fiere che fanno sono molto esaustive
-TOI006	mh mh
-TOR001	quindi se vai:, se e:h è più che altro la tecnologia ormai: su tante cose è arrivata
-TOI006	mh mh
-TOR001	quindi: la il cliente è molto informato, il cliente ha bisogno solo del prezzo.
-TOI006	ah okay
+TOI006	[sì perché:] allora ci sono ormai le fiere che fanno sono molto esaustive
+TOR001	mh mh
+TOI006	quindi se vai:, se e:h è più che altro la tecnologia ormai: su tante cose è arrivata
+TOR001	mh mh
+TOI006	quindi: la il cliente è molto informato, il cliente ha bisogno solo del prezzo.
+TOR001	ah okay
 TOI006	e quindi lì diventa proprio una battaglia solo quasi esclusivamente del prezzo
-TOR001	se vista dal punto di vista telefonata e [richiesta] del prodotto.
-TOI006	[okay]
-TOR001	se invece fai:: un'attività di vendita: che vai dal cliente, sì ti conosce, magari vuole sapere anche la tua versione probabilmente: sa già cosa deve comprare
-TOI006	okay
+TOI006	se vista dal punto di vista telefonata e [richiesta] del prodotto.
+TOR001	[okay]
+TOI006	se invece fai:: un'attività di vendita: che vai dal cliente, sì ti conosce, magari vuole sapere anche la tua versione probabilmente: sa già cosa deve comprare
+TOR001	okay
 TOI006	lo stesso può verificarsi anche in questo perché comunque il mondo poi alla fine delle vendite, degli acquisti è quello, però:
-TOR001	puoi mettere qualche::
-TOI006	m::h
+TOI006	puoi mettere qualche::
+TOR001	m::h
 TOI006	sei un po' più: libero si forse dal mercato perché è un po un prodotto di nicchia mettiamola così.
 TOI006	perché il forno potrei, qualsiasi persona potrebbe oggi:
 TOI006	fare, anche un rivenditore cioè ho: una cantina o un garage inizio a, apro un'esse erre elle
 TOI006	faccio un po' di::
-TOR001	e::h=mh di magazzino a prodotti e inizio a vendere per fatti i miei (.) invece questo comunque devi avere delle strutture
-TOI006	mh mh mh certo
-TOR001	è: un mondo un po' diverso insomma non,
-TOR002	okay
-TOI006	sai chi vende forni adesso, il fratello di: [xxx]
-TOR002	[il fratello] di paolina
-TOI006	[esatto]
-TOR001	[si si] gia da due anni.
-TOR002	il fratello di?
-TOR001	paolina di [edo]
-TOI006	[ah okay]
+TOI006	e::h=mh di magazzino a prodotti e inizio a vendere per fatti i miei (.) invece questo comunque devi avere delle strutture
+TOR001	mh mh mh certo
+TOI006	è: un mondo un po' diverso insomma non,
+TOR001	okay
+TOR002	sai chi vende forni adesso, il fratello di: [xxx]
+TOI006	[il fratello] di paolina
+TOR002	[esatto]
+TOI006	[si si] gia da due anni.
+TOR001	il fratello di?
+TOR002	paolina di [edo]
+TOR001	[ah okay]
 TOI006	non ti dico il nome perché
-TOR001	se no.
+TOI006	se no.
 TOR001	no ma: cioè tanto poi lo togliamo n~
-TOR002	di quello che ti pare non ti [preoccupare].
-TOR001	[metto] un bu:p
-TOI006	esatto anche [per xxx]
+TOR001	di quello che ti pare non ti [preoccupare].
+TOR002	[metto] un bu:p
+TOR001	esatto anche [per xxx]
 TOI006	[per la u]
 TOI006	e:h vende i forni.
-TOR001	ed è veneta l'azienda
-TOI006	ma era quello che era a londra?
-TOR002	l altro vende in puglia.
-???	ferr[xxx]
-TOR001	ah si?
-TOR002	cioè tornato da londra vende forni?
-TOI006	si.
-TOR001	s[i]
-TOR002	[o]kay (.) non avevo cap[ito].
-TOI006	[no ma ci guadagna anche bene]
-TOR001	[sì ma poi lui cos è sa sa anche, lui che cosa fa], cioè [è mezzo cuoco anche]
-TOR002	[no no non],
-TOR001	[lui ha fatto alberghiero], [lui faceva il, l manager al ristorante]
-TOI006	[ah è vero]
+TOI006	ed è veneta l'azienda
+TOR001	ma era quello che era a londra?
+TOI006	l altro vende in puglia.
+TOR002	ferr[xxx]
+???	ah si?
+TOR001	cioè tornato da londra vende forni?
+TOR002	si.
+TOI006	s[i]
+TOR001	[o]kay (.) non avevo cap[ito].
+TOR002	[no ma ci guadagna anche bene]
+TOI006	[sì ma poi lui cos è sa sa anche, lui che cosa fa], cioè [è mezzo cuoco anche]
+TOR001	[no no non],
+TOR002	[lui ha fatto alberghiero], [lui faceva il, l manager al ristorante]
+TOR001	[ah è vero]
 TOI006	[sai] cos'è ad oggi se tu hai quella:, ecco.
-TOR001	adesso per fare quel lavoro lì se tu fossi:, se fossi cuoco,
-TOI006	mh mh
+TOI006	adesso per fare quel lavoro lì se tu fossi:, se fossi cuoco,
+TOR001	mh mh
 TOI006	sarebbe:: [più:]
-TOR001	più valutato perché: se vai a fare dimostrazioni al cliente [non sei solo] tu che dici, questo fa quello quello quello glielo di: (.) [gliele fai]
+TOI006	più valutato perché: se vai a fare dimostrazioni al cliente [non sei solo] tu che dici, questo fa quello quello quello glielo di: (.) [gliele fai]
 TOR001	[ah certo]
-???	[certo]
-TOI006	si
-TOR001	e parli con uno chef spesso [quindi::],
-TOI006	[mh (.) beh sei anche::, certo]
-TOR001	[tu sei chef lui è chef], se hai bisogni sai [tutto].
+TOR001	[certo]
+???	si
+TOI006	e parli con uno chef spesso [quindi::],
+TOR001	[mh (.) beh sei anche::, certo]
+TOI006	[tu sei chef lui è chef], se hai bisogni sai [tutto].
 TOR001	[cer]to.
 TOR001	beh (.) poi se uno: immagina che sono domande così,
-TOI006	cioè (.) se:: io cuoco devo comprarmi un forno e ho se faccio domande (.) [] se ho di fronte un cuoco magari sa rispondere [meglio]
+TOR001	cioè (.) se:: io cuoco devo comprarmi un forno e ho se faccio domande (.) [] se ho di fronte un cuoco magari sa rispondere [meglio]
 TOI006	[si]
-TOR001	[sì] (.) ti sa anche [dare] delle:: sui tempi di cottura indicazioni [migliori, io come commerciale] arrivo fino a un certo [punto poi ti devo] portare il cuoco.
-???	[certo]
-TOR001	[xxx]
+TOI006	[sì] (.) ti sa anche [dare] delle:: sui tempi di cottura indicazioni [migliori, io come commerciale] arrivo fino a un certo [punto poi ti devo] portare il cuoco.
+TOR001	[certo]
+???	[xxx]
 TOR001	[eh si]
 TOR001	[si si certo]
-TOI006	[eh no (.) certo]
-TOR001	in quel modo abbatti una persona e [in questo caso] io
+TOR001	[eh no (.) certo]
+TOI006	in quel modo abbatti una persona e [in questo caso] io
 TOR001	[eh certo].
 TOR001	mh mh mh eh no certo
-TOI006	eh=m::h ti piacerebbe andare avanti a fare lo stesso lavoro o vorresti cambiare?
-TOR001	be::h
-TOI006	((ride))
+TOR001	eh=m::h ti piacerebbe andare avanti a fare lo stesso lavoro o vorresti cambiare?
+TOI006	be::h
+TOR001	((ride))
 TOI006	a me piace anche cambiare: (.) certo che se questo lavoro mi porta poi dei:,
 TOI006	mi indirizza verso dei:: un buon:
-TOR001	una buona prospettiva::
-TOI006	mh mh mh
+TOI006	una buona prospettiva::
+TOR001	mh mh mh
 TOI006	non sarebbe poi:
 TOI006	indispensabile: stravolgere veramente poi tutto cioè
-TOR001	lo farei anche in altre: zone (.) cioè comunque questo è un prodotto che serve dappertutto [quindi:],
-TOI006	[mhmh]
-TOR002	puoi farlo anche: in inghliterra questo lavoro, lo puoi fare in [india], lo puoi fare in scozia, anche se chi, a beh in scozia puoi (.) paradossalmente
-TOR001	[scozia]
-TOI006	((ride))
+TOI006	lo farei anche in altre: zone (.) cioè comunque questo è un prodotto che serve dappertutto [quindi:],
+TOR001	[mhmh]
+TOI006	puoi farlo anche: in inghliterra questo lavoro, lo puoi fare in [india], lo puoi fare in scozia, anche se chi, a beh in scozia puoi (.) paradossalmente
+TOR002	[scozia]
+TOR001	((ride))
 TOI006	in, nella fascia del nord italia (.) vendi imballaggi industriali:
-TOR001	di un certo livello. magari in scozia son poche le aziende che fanno turbine, che fanno::
-TOI006	mh mh mh
+TOI006	di un certo livello. magari in scozia son poche le aziende che fanno turbine, che fanno::
+TOR001	mh mh mh
 TOI006	e::h queste e:h,
 TOI006	prodotti o: (.) presse ecco mettiamola così: magari anche solo del whisky vendi dei: packaging
-TOR001	piccoli e comunque quello è lo [stesso]: ambito. però ecco si
+TOI006	piccoli e comunque quello è lo [stesso]: ambito. però ecco si
 TOR001	[certo]
 TOR001	e se potessi scegliere cosa: ti piacerebbe fare?
 TOR001	nel caso in cui potessi cambiare mettiamo.
 TOR001	in via ipotetica
-TOI006	cosa [vorresti fare]
-TOR001	[non lo so] (.) avrei bisogno di un e:h di un suggerimento si
-TOI006	okay (.) così
-TOR001	cioè adesso così non ti saprei dire, ah vorrei fare:
-TOR002	[l astronauta]
+TOR001	cosa [vorresti fare]
+TOI006	[non lo so] (.) avrei bisogno di un e:h di un suggerimento si
+TOR001	okay (.) così
+TOI006	cioè adesso così non ti saprei dire, ah vorrei fare:
+TOR001	[l astronauta]
 TOR002	[il batterista]
+TOR002	((ride))
 TOR001	((ride))
-TOI006	((ride))
-TOR002	[sì mi] piacerebbe fare il batterista ma anche lì dovrei fare un percorso che non ho ancora:, non ho portato ancora a::
-TOR001	beh ma chet te ne frega (.) se ti pigliano così e ti dan dei soldi ((ride))
-TOI006	e c(c)erto ((ride))
+TOI006	[sì mi] piacerebbe fare il batterista ma anche lì dovrei fare un percorso che non ho ancora:, non ho portato ancora a::
+TOR002	beh ma chet te ne frega (.) se ti pigliano così e ti dan dei soldi ((ride))
+TOR001	e c(c)erto ((ride))
 TOI006	no: sicuramente: nel sotto l'aspetto musicale o: (.) o filosofico della vita mi piacerebbe molto di più quello che vuol dire:, affrontare anche dei discorsi:
-TOR002	che [paradossalmente possono]
-???	[anche se è vero che farlo di lavoro:] cioè sai quanti lavori di merda devi fare.
-TOR001	sì
-TOR002	mh
-???	quanti::, tra matrimoni:, roba di cui non te ne frega niente
-TOI006	devi anche avere un percorso:, cioè ci sono quelli che lo fanno proprio da quand erano piccoli e quindi
-???	no, sì il musicista sarebbe una [bella cosa].
-TOR001	[anni e anni e] anni
-???	eh sì
-TOI006	quella poi è una scelta: proprio di vita, tipo quelli che studiano [al conservatorio]
+TOI006	che [paradossalmente possono]
+TOR002	[anche se è vero che farlo di lavoro:] cioè sai quanti lavori di merda devi fare.
+???	sì
+TOR001	mh
+TOR002	quanti::, tra matrimoni:, roba di cui non te ne frega niente
+???	devi anche avere un percorso:, cioè ci sono quelli che lo fanno proprio da quand erano piccoli e quindi
+TOI006	no, sì il musicista sarebbe una [bella cosa].
+???	[anni e anni e] anni
+TOR001	eh sì
+???	quella poi è una scelta: proprio di vita, tipo quelli che studiano [al conservatorio]
 TOI006	[o fare, sai cosa mi piacerebbe] cioè un altro, un'altra cosa molto bella è fare::
-???	non so se si può definire esploratore però quello che:,
-TOI006	il documentarista
-TOR002	il documentarista su la ga~ l'enogastronomia, su il paesaggio, su la storia (.) quello mi piace[rebbe mo]lto.
-TOR001	[ah bello]
+TOI006	non so se si può definire esploratore però quello che:,
+???	il documentarista
+TOI006	il documentarista su la ga~ l'enogastronomia, su il paesaggio, su la storia (.) quello mi piace[rebbe mo]lto.
+TOR002	[ah bello]
 TOR001	[mh]
-???	bello
-TOI006	sì
-???	quello sì però quello vorrebbe ecco lì (.) rifare proprio una vita:, cioè ri~ mettere da parte trent anni:
-TOI006	rifare [tutto]
-TOR002	[per pre]ndere proprio poca roba eh
+TOR001	bello
+???	sì
+TOI006	quello sì però quello vorrebbe ecco lì (.) rifare proprio una vita:, cioè ri~ mettere da parte trent anni:
+???	rifare [tutto]
+TOI006	[per pre]ndere proprio poca roba eh
+TOR002	((ride))
 TOR001	((ride))
 TOI006	((ride))
-TOI006	((ride))
-TOR002	xxxx
-TOI006	ci van tanti soldi secondo me.
-TOR001	eh [sì infatti]
+TOI006	xxxx
+TOR002	ci van tanti soldi secondo me.
+TOI006	eh [sì infatti]
 TOR001	[eh sì]
-TOI006	a(i)voglia
-TOR001	però se uno, se dov~ volessi fare una cosa forse quella è una di quelle che
-TOI006	beh figo
-TOR002	e il resto tutto quello che viene mettiamola proprio:
+TOR001	a(i)voglia
+TOI006	però se uno, se dov~ volessi fare una cosa forse quella è una di quelle che
+TOR001	beh figo
+TOI006	e il resto tutto quello che viene mettiamola proprio:
+TOR002	((ride))
 TOR001	((ride))
-TOR001	((ride))
-TOI006	allo:ra m::h, pensi che torino sia un buon posto per lavorare?
+TOR001	allo:ra m::h, pensi che torino sia un buon posto per lavorare?
 TOI006	nel mio mondo no. torino proprio no.
 TOI006	e:::h
-TOR001	purtroppo no (.) [non so se devo]
-TOI006	[dove sarebbe meglio]?
-TOR001	non lo so dove sarebbe meglio ma probabilmente torino è la città più critica: sotto l'aspetto:: di vendite::
-TOI006	ah sì?
-TOR001	sì proprio per l accettazione da parte delle:, delle persone
-TOI006	cioè?
+TOI006	purtroppo no (.) [non so se devo]
+TOR001	[dove sarebbe meglio]?
+TOI006	non lo so dove sarebbe meglio ma probabilmente torino è la città più critica: sotto l'aspetto:: di vendite::
+TOR001	ah sì?
+TOI006	sì proprio per l accettazione da parte delle:, delle persone
+TOR001	cioè?
 TOI006	cioè che qui:: purtroppo è ancora da quello che vedo io siam poco aperti.
 TOI006	alle novità, alle: tecnologie, a quello che è.
-TOR001	e:h=mh no (.) alle tecnologie no (.) alle, alle opportunità nuove mettiamola perché poi direi una cosa che non so.
-TOI006	mh mh mh
+TOI006	e:h=mh no (.) alle tecnologie no (.) alle, alle opportunità nuove mettiamola perché poi direi una cosa che non so.
+TOR001	mh mh mh
 TOI006	però cioè nel senso che c'è un politecnico non posso dire che per le tecnologie non siamo aperti
-???	di sicuro siamo un popolo (.) un po' pigro un po':: [non disposto a investire], non aperto a tutte le opportunità che si presentano.
-TOR001	[non disposto a investire forse]
-TOI006	mh mh mh
+TOI006	di sicuro siamo un popolo (.) un po' pigro un po':: [non disposto a investire], non aperto a tutte le opportunità che si presentano.
+???	[non disposto a investire forse]
+TOR001	mh mh mh
 TOI006	probabilmente ci vuole molto tempo qui finché tu riesci nel tuo: intento (.) in altre piazze probabilmente quel tempo::,
-TOR001	che qui dedicano a pensare ti fanno iniziare magari ci pensano dopo quindi (.) come apertura di mercati è molto più facile farla in altre aree secondo me soprattutto ti parlo nel mio mondo
-TOI006	mh mh
+TOI006	che qui dedicano a pensare ti fanno iniziare magari ci pensano dopo quindi (.) come apertura di mercati è molto più facile farla in altre aree secondo me soprattutto ti parlo nel mio mondo
+TOR001	mh mh
 TOI006	non voglio entrare troppo nel,
-???	nel (.) ne e:h
-TOI006	nel detta[glio]
+TOI006	nel (.) ne e:h
+???	nel detta[glio]
 TOI006	[nel] dettaglio ecco sì
 TOI006	non
-TOR001	però qui: se sei un po' raccomandato vivi se no:,
-TOI006	è difficile [eh]
-TOR001	[fai] fatica sì.
-TOI006	okay
+TOI006	però qui: se sei un po' raccomandato vivi se no:,
+TOR001	è difficile [eh]
+TOI006	[fai] fatica sì.
+TOR001	okay
 TOI006	probabilmente anche fuori è così ma fuori poi (.) per fortuna c'è:
 TOI006	un po' di possibilità per tutti c'è. qui no. lo vediamo perché: te lo dico subito, perché qui è stato
 TOI006	e::h è stata:: torino è stata fondata dalla fiat sotto: un certo aspetto (.) almeno dal novecento
-TOR001	e questo ha fatto sì che torino sì chiudesse all'interno di se stessa perché l'automotive rendeva parecchio.
-TOI006	mh mh
+TOI006	e questo ha fatto sì che torino sì chiudesse all'interno di se stessa perché l'automotive rendeva parecchio.
+TOR001	mh mh
 TOI006	nel momento, che ci accorgiamo che l'automotive soprattutto quello italiano perde perché la concorrenza è più forte e ha investito e ri: torno a ripetermi: all'inizio
-TOR001	probabilmente torino adesso è fuori dai giochi di tante cose finché non verrà qualcuno a: con [a inves]tire
-TOI006	[mh mh]
-TOR001	e purtroppo nessuno ad oggi può dire sì (.) anche: un azienda rinominata potrà investire sul piemonte o su torino.
-TOI006	mh mh mh
+TOI006	probabilmente torino adesso è fuori dai giochi di tante cose finché non verrà qualcuno a: con [a inves]tire
+TOR001	[mh mh]
+TOI006	e purtroppo nessuno ad oggi può dire sì (.) anche: un azienda rinominata potrà investire sul piemonte o su torino.
+TOR001	mh mh mh
 TOI006	no.
-TOR001	invece a:h=mh per dire la lombardia, l'emilia romagna, il veneto ci son così tante realtà anche meno buone di quelle che ci sono qui (.) che però credono hanno proprio un altro tipo di mentalità imprenditoriale.
-TOI006	mh mh
+TOI006	invece a:h=mh per dire la lombardia, l'emilia romagna, il veneto ci son così tante realtà anche meno buone di quelle che ci sono qui (.) che però credono hanno proprio un altro tipo di mentalità imprenditoriale.
+TOR001	mh mh
 TOI006	e lo vedo molto nel confronto magari nelle zone di: brescia, di bergamo, di milano, per per esempio rispetto a quella che è torino:
 TOI006	asti,
 TOI006	e:h sì io mi fermerei.
@@ -325,1420 +325,1420 @@ TOI006	alessandria già di meno perché alessandria è stata già commissariata,
 TOI006	vive un po': di quello che son le rubinetterie, un po:: più: avvicinata dalla lombardia,
 TOI006	quindi quelle sono aree un po più:: eh contagiate da: un sintomo di ripresa.
 TOI006	torino, è proprio un po' chiusa su se stessa a mio avviso secondo me questo anche lo:
-TOR001	va a ricadere anche sulla (.) popolazione
-TOI006	mh mh
-TOR001	e quindi: si crea questo: diciamo: questo circuito chiuso mettiamola così.
+TOI006	va a ricadere anche sulla (.) popolazione
+TOR001	mh mh
+TOI006	e quindi: si crea questo: diciamo: questo circuito chiuso mettiamola così.
 TOR001	quindi dici che verso est cioè nel nord est è meglio?
-TOI006	[sempre] xxx eh
+TOR001	[sempre] xxx eh
 TOI006	[sì]
-TOR001	[ma no] xxx si vabbè sotto certi livelli si ma è anche anche verso sud secondo me.
-TOI006	mh
+TOI006	[ma no] xxx si vabbè sotto certi livelli si ma è anche anche verso sud secondo me.
+TOR001	mh
 TOI006	solo che poi se andiamo più a sud lì magari mancano proprio i soldi, oppure ci sono delle:
-TOR002	delle situazioni che non:, diverse sì.
-TOI006	più che altro non devi guardare solo l'industria secondo me.
+TOI006	delle situazioni che non:, diverse sì.
+TOR002	più che altro non devi guardare solo l'industria secondo me.
 TOI006	no ma io a beh ti parlo di quello che so io però anche sul fu~, sul cibo alla fine:
 TOI006	ah oh mh sì (.) però è difficile un piemontese berrà un: vino toscano.
 TOI006	secondo me.
 TOI006	cioè non troverai mai la piola che ti offre il chianti::
-TOR002	per[ché:]
-TOR001	[xxx]
-TOI006	beh è vero però eh?
-TOR002	cioè qua se vai a bere
-TOR001	è tornato tanto di moda il vino (.) alla fi[ne]
-TOI006	[eh] ma di qua:
-TOR001	sì ma di q~ c(io)è alla fine (.) [] spingi la carne dal piemonte, spingi quel perché è tuo ma ci sta anche hanno le nocciole la ferrero nocciole, la lindt nocciole piemontesi
-???	[ha ragione]
-TOI006	vabbè comunque i piemontesi sono i più conservatori.
-TOR002	son più con quello è il mia [ehm] è la mia.
-TOR001	[eh sì]
-TOI006	mh mh mh
-TOR001	cioè a torino tu non venderai mai perugina toglitelo dalla testa cioè ma sembra stupido: ma [tu se entri in] qualsiasi bar eh,
+TOI006	per[ché:]
+TOR002	[xxx]
+TOR001	beh è vero però eh?
+TOI006	cioè qua se vai a bere
+TOR002	è tornato tanto di moda il vino (.) alla fi[ne]
+TOR001	[eh] ma di qua:
+TOI006	sì ma di q~ c(io)è alla fine (.) [] spingi la carne dal piemonte, spingi quel perché è tuo ma ci sta anche hanno le nocciole la ferrero nocciole, la lindt nocciole piemontesi
+TOR001	[ha ragione]
+???	vabbè comunque i piemontesi sono i più conservatori.
+TOI006	son più con quello è il mia [ehm] è la mia.
+TOR002	[eh sì]
+TOR001	mh mh mh
+TOI006	cioè a torino tu non venderai mai perugina toglitelo dalla testa cioè ma sembra stupido: ma [tu se entri in] qualsiasi bar eh,
 TOR001	((ride))
-TOI006	[no no no ma è vero]
-TOR001	vai nei: nei supermercati è p è poca o comunque [non vende molto].
-???	[mh mh mh (.) mh mh]
+TOR001	[no no no ma è vero]
+TOI006	vai nei: nei supermercati è p è poca o comunque [non vende molto].
+TOR001	[mh mh mh (.) mh mh]
 ???	beh comunque basta anche vedere il mercato, il mercato della finanza è a milano, in lombardia, emilia: perché là la gente:
-TOI006	investe il proprio patrimonio, a torino così come in piemonte, come in altre regioni, non esiste perché è meglio tenerli da parte anche se non ti frutta niente però tu ce li hai lì.
-???	boh. oppure i soldi chi li, chi ce li ha li tiene nel cassetto e invece la milano da bere:,
-TOI006	eh
+???	investe il proprio patrimonio, a torino così come in piemonte, come in altre regioni, non esiste perché è meglio tenerli da parte anche se non ti frutta niente però tu ce li hai lì.
+TOI006	boh. oppure i soldi chi li, chi ce li ha li tiene nel cassetto e invece la milano da bere:,
+???	eh
 TOI006	è proprio la:, eh no ma que scusa eh cioè negli anni ottanta milano ha fatto i soldi la gente spendeva e continua a farlo anche adesso in crisi.
 TOI006	cioè la gente spende a brescia vanno a mangiare anche dove c'è menu fisso col (pana) con con i porche vanno. cioè non è come qua che: se c'hai una macchina
 TOI006	di grossa cilindrata o vai nei posti dedicati a:: al tuo tipo di: di vita oppure non ti abbassi a incontrare anche altre persone.
 TOI006	oppure ancora meglio dire che uno che c'ha i soldi a torino è quasi,
 TOI006	è così::
-TOR001	non vuole far vedere che ce li ha, e compra la cinquecento, compra le macchine comunque di qui perché non vuole far vedere
-TOI006	mh mh mh
-TOR001	e quindi non volendo far vedere non non investe, perché se [tu fai] un locale molto bello:,
-TOI006	[certo].
+TOI006	non vuole far vedere che ce li ha, e compra la cinquecento, compra le macchine comunque di qui perché non vuole far vedere
+TOR001	mh mh mh
+TOI006	e quindi non volendo far vedere non non investe, perché se [tu fai] un locale molto bello:,
+TOR001	[certo].
 TOI006	a torino
-TOR001	e::h, hai paura che la gente [non entra] (.) perché lo vede troppo costoso magari.
+TOI006	e::h, hai paura che la gente [non entra] (.) perché lo vede troppo costoso magari.
 TOR001	[mh mh mh]
-TOI006	mh mh mh
+TOR001	mh mh mh
 TOI006	e poi: per magari entrare, la gente prima di entrare passano tre mesi tempo che tu sei già fallito.
-TOR001	e questo lo posso vedere sul vecchio lavoro che lo facevo, [che facevo insomma].
+TOI006	e questo lo posso vedere sul vecchio lavoro che lo facevo, [che facevo insomma].
 TOR001	[mh mh mh]
-TOI006	mh mh mh mh
-TOR001	quindi sì questo è:
-TOI006	e: quindi perché la domanda dopo era dove sarebbe meglio: lavorare (.) però appunto mi dicevi nord est ma non [solo vero]?
+TOR001	mh mh mh mh
+TOI006	quindi sì questo è:
+TOR001	e: quindi perché la domanda dopo era dove sarebbe meglio: lavorare (.) però appunto mi dicevi nord est ma non [solo vero]?
 TOI006	[sì ma non solo], cioè se poi:, poi lì bisogna vedere anche un
-TOR001	le economie e comunque: i governi perché se domani (.) abbiamo visto la zona del salento com è: cresciuta rispetto alla zona della romagna,
-TOI006	mh mh
-TOR001	in un modo espos~ esponenziale da ci da cinque anni almeno a questa parte se non dieci quindi quin[di],
-TOI006	[mh] mh mh mh
-TOR001	e tutto sta poi più che altro lì perché di belle se vogliamo parlare di turismo cioè il nord ha tante cose ma al sud ce n'è altrettante che non sono sviluppate o son tenute male.
-TOI006	mh mh mh
-TOR001	e non è interesse neanche da della popolazione avere gente poi che vada a:
-TOI006	mh mh mh
+TOI006	le economie e comunque: i governi perché se domani (.) abbiamo visto la zona del salento com è: cresciuta rispetto alla zona della romagna,
+TOR001	mh mh
+TOI006	in un modo espos~ esponenziale da ci da cinque anni almeno a questa parte se non dieci quindi quin[di],
+TOR001	[mh] mh mh mh
+TOI006	e tutto sta poi più che altro lì perché di belle se vogliamo parlare di turismo cioè il nord ha tante cose ma al sud ce n'è altrettante che non sono sviluppate o son tenute male.
+TOR001	mh mh mh
+TOI006	e non è interesse neanche da della popolazione avere gente poi che vada a:
+TOR001	mh mh mh
 TOI006	diciamo a stare (.) e::h
 TOI006	se vediamo l'aspetto:
-TOR001	dello sport a parte qualche (.) piccola mh cittadina comunque è il nord quella che ne fa da padrona [perché poi] la lombardia, il piemonte
-TOI006	[mh mh mh]
-TOR001	e qualcosina l'emilia probabilmente (.) l'econ~, l economia è tutta la val padana,
-TOI006	mh mh mh
+TOI006	dello sport a parte qualche (.) piccola mh cittadina comunque è il nord quella che ne fa da padrona [perché poi] la lombardia, il piemonte
+TOR001	[mh mh mh]
+TOI006	e qualcosina l'emilia probabilmente (.) l'econ~, l economia è tutta la val padana,
+TOR001	mh mh mh
 TOI006	quindi sì mh (.) se dovessi soffermarmi su questo lavoro::,
-TOR001	sicuramente hai più opportunità: in [questa] f~ mh zona piuttosto che in altre.
+TOI006	sicuramente hai più opportunità: in [questa] f~ mh zona piuttosto che in altre.
 TOR001	[mh mh]
-TOI006	mh [mh]
-TOR001	[pe]rò: se se l'economia come può essere quella di bari (.) [] continua ad essere così forte: o la zona del casertano, del frosinate
-TOI006	[mh mh]
-TOR001	dove c'è un un minimo di m~, di metalmeccanita, di metalmeccanica piuttosto che di qualche azienda del settore anche aerospaziale continuano ad essere così forti:,
-TOI006	mh mh [mh]
-TOR001	[ci] sono opportunità molto valide: anche lì (.) dipende più dal settore probabilmente quello.
-TOI006	mh mh mh mh
-TOR001	perché anche il piemonte ha le sue,
-TOI006	mh [mh]
+TOR001	mh [mh]
+TOI006	[pe]rò: se se l'economia come può essere quella di bari (.) [] continua ad essere così forte: o la zona del casertano, del frosinate
+TOR001	[mh mh]
+TOI006	dove c'è un un minimo di m~, di metalmeccanita, di metalmeccanica piuttosto che di qualche azienda del settore anche aerospaziale continuano ad essere così forti:,
+TOR001	mh mh [mh]
+TOI006	[ci] sono opportunità molto valide: anche lì (.) dipende più dal settore probabilmente quello.
+TOR001	mh mh mh mh
+TOI006	perché anche il piemonte ha le sue,
+TOR001	mh [mh]
 TOI006	[ne] ha molte perché se vediamo l~ (.) la vendita di vini siamo pr~ pr~ probabilmente i pri~ la prima regione che esporta vino
 TOI006	se vediamo:,
 TOI006	quello che sono i formaggi piuttosto che anche:: lì
-TOR001	però ecco non non per tutti [ecco].
-TOI006	[eh no] certo
-TOR001	non è che domani apro io:: (.) un'azienda:: (.) che fa fattoria e: penso e posso pensare di diventare meglio di coalvi
-TOI006	mh mh mh mh
-TOR001	o di altri::
-TOI006	mh mh mh mh
-TOR002	e::h diciamo:,
-TOI006	coalvi cos è un consorzio [no]?
+TOI006	però ecco non non per tutti [ecco].
+TOR001	[eh no] certo
+TOI006	non è che domani apro io:: (.) un'azienda:: (.) che fa fattoria e: penso e posso pensare di diventare meglio di coalvi
+TOR001	mh mh mh mh
+TOI006	o di altri::
+TOR001	mh mh mh mh
+TOI006	e::h diciamo:,
+TOR002	coalvi cos è un consorzio [no]?
 TOI006	[sì è] un consorzio grosso che è riconosciuto da tutti cioè io domani non è che posso aprire il mio consorzio oppure,
 TOI006	per quello ti dico se sei coalvi vendi se non lo sei fai fatica per dirti: eh come esempio se sei: la cantina::
-TOR001	fontanafredda sanno già chi sei, se sei::
-TOI006	okay
-TOR001	cascine chicco probabilmente sei molto meglio però faranno fati~ cioè [insomma]
+TOI006	fontanafredda sanno già chi sei, se sei::
+TOR001	okay
+TOI006	cascine chicco probabilmente sei molto meglio però faranno fati~ cioè [insomma]
 TOR001	[mh mh] mh
-TOI006	okay
-TOR001	ma è come se vedi il prosecco cioè se vai in un bar a torino no? e dici voglio del, prosecco, prosecco non, è dif~, ad, solo ultimamente hanno fatto dei brut piemontesi
-TOI006	mh mh
+TOR001	okay
+TOI006	ma è come se vedi il prosecco cioè se vai in un bar a torino no? e dici voglio del, prosecco, prosecco non, è dif~, ad, solo ultimamente hanno fatto dei brut piemontesi
+TOR001	mh mh
 TOI006	questo per dirti anche un po'::,
 TOI006	e::h
 TOI006	la po~ il poco: e::h la poca voglia di informazione da parte delle:,
-TOR001	del pubblico [nel se]nso
-TOI006	[mh mh]
+TOI006	del pubblico [nel se]nso
+TOR001	[mh mh]
 TOI006	fanno tanti programmi anche televisivi sul food poi alla fine se vai::,
-TOR001	la maggior parte della gente non gliene frega niente di mangiare bene, o spende poco o prende quello che c'è.
-TOI006	mh mh
+TOI006	la maggior parte della gente non gliene frega niente di mangiare bene, o spende poco o prende quello che c'è.
+TOR001	mh mh
 TOI006	non (.) è difficile che vai::
-TOR001	in un posto e ti danno la franciacorta: se non sei proprio nella zona
-TOI006	mh mh mh mh
+TOI006	in un posto e ti danno la franciacorta: se non sei proprio nella zona
+TOR001	mh mh mh mh
 TOI006	piuttosto bevi::, bevi un prosecco che non è valido però lo bevi perché il nome prosecco per te
-TOR001	è quello in realtà in piemonte stanno crescendo molte cantine che fanno brut molto valido
-TOI006	mh mh mh
-TOR001	però la gente non le conosce ancora (.) proprio perché [secondo] me:,
-TOI006	[mh mh]
-TOR001	c'è un po questa grossa attesa.
-TOI006	okay.
+TOI006	è quello in realtà in piemonte stanno crescendo molte cantine che fanno brut molto valido
+TOR001	mh mh mh
+TOI006	però la gente non le conosce ancora (.) proprio perché [secondo] me:,
+TOR001	[mh mh]
+TOI006	c'è un po questa grossa attesa.
+TOR001	okay.
 TOI006	((ride))
 TOI006	e::h
-TOR001	di aprirsi al mercato ecco (.) [tutto lì].
-TOI006	[mh mh mh mh]
-TOR001	e:h
+TOI006	di aprirsi al mercato ecco (.) [tutto lì].
+TOR001	[mh mh mh mh]
+TOI006	e:h
 TOR001	okay.
-TOI006	ah=m, hai mai vissuto fuori torino?
-TOR001	no vissuto no.
+TOR001	ah=m, hai mai vissuto fuori torino?
+TOI006	no vissuto no.
 TOR001	okay,
-TOI006	ah=m ti trasferiresti all estero per lavorare?
-TOR001	beh sì [se] ci sono delle buone possibilità farei una bella esperienza sì.
+TOR001	ah=m ti trasferiresti all estero per lavorare?
+TOI006	beh sì [se] ci sono delle buone possibilità farei una bella esperienza sì.
 TOR001	[sì]?
-TOI006	mh mh mh [mh]
-TOR001	[poi], un'esperienza non vuol dire viverci tutta la vita, [però sì].
+TOR001	mh mh mh [mh]
+TOI006	[poi], un'esperienza non vuol dire viverci tutta la vita, [però sì].
 TOR001	[sì sì sì] sì
-TOI006	ma (.) hai idea che all estero ci sia più lavoro che in italia?
+TOR001	ma (.) hai idea che all estero ci sia più lavoro che in italia?
 TOI006	ma e:h in europa probabilmente no
 TOI006	cioè:: può darsi che in qualche zona stai meglio, probabilmente puoi essere più:
 TOI006	ricompensato dal tuo lavoro perché se sei una persona:,
-TOR001	che si dà da fare (.) forse vieni riconosciuta di più.
-TOI006	mh mh mh
+TOI006	che si dà da fare (.) forse vieni riconosciuta di più.
+TOR001	mh mh mh
 TOI006	cosa che in italia:,
-TOR001	probabilmente in quasi tutte le zone non è così.
-TOI006	mh mh mh mh
-TOR001	però poi alla fine siamo così un po' mammoni un po' così: che alla fine ci lamentiamo ci lamentiamo e pensiamo che l'erba del vicino è sempre più fresca, [più buona]
-TOI006	[mh mh mh]
-TOR001	probabilmente è meglio coltivare quella che hai: nel tuo.
-???	((ride))
-TOI006	è anche ve[ro]
-TOR002	[e] forse::,
-???	[e:h boh]
-TOR001	[c'è un] sacco di gente che se ne va all estero e poi alla fine torna soprattutto in [inghilterra]
-TOI006	[eh sì]
-???	[torni] perché ti manca, cioè io lo vivo già [adesso:],
-TOI006	[perché] ti manca e perché il mercato è saturo anche lì, tipo londra ci sono più italiani che:, che [inglesi, brighton]
-???	[ho capito] però c hai sempre un po la nostalgia [secondo me].
-TOR002	[sì anche quello].
-TOI006	[no ma] infatti cioè: devi aver voglia di essere un emigra[to].
-???	[eh] per me anche andare ad asti: ti rimane quella quella malin[conia]
-TOR001	[ad asti]?
+TOI006	probabilmente in quasi tutte le zone non è così.
+TOR001	mh mh mh mh
+TOI006	però poi alla fine siamo così un po' mammoni un po' così: che alla fine ci lamentiamo ci lamentiamo e pensiamo che l'erba del vicino è sempre più fresca, [più buona]
+TOR001	[mh mh mh]
+TOI006	probabilmente è meglio coltivare quella che hai: nel tuo.
+TOR001	((ride))
+???	è anche ve[ro]
+TOI006	[e] forse::,
+TOR002	[e:h boh]
+???	[c'è un] sacco di gente che se ne va all estero e poi alla fine torna soprattutto in [inghilterra]
+TOR001	[eh sì]
+TOI006	[torni] perché ti manca, cioè io lo vivo già [adesso:],
+???	[perché] ti manca e perché il mercato è saturo anche lì, tipo londra ci sono più italiani che:, che [inglesi, brighton]
+TOI006	[ho capito] però c hai sempre un po la nostalgia [secondo me].
+???	[sì anche quello].
+TOR002	[no ma] infatti cioè: devi aver voglia di essere un emigra[to].
+TOI006	[eh] per me anche andare ad asti: ti rimane quella quella malin[conia]
+???	[ad asti]?
+TOR001	((ride))
+TOR002	minchia ci [credo] ad asti
+???	[ad asti]
+TOR001	((ride))
+TOI006	per dirti cioè:, anche uno, un napoletano a torino c'ha la malinconia della cittadina parte[nope].
+???	[sì sì] ma è normale.
+TOI006	quello ti dico cioè [eh]
+TOR002	[no no è giusto]
+TOI006	[però] è un punto di vista mio se no fal falla tu cioè ognuno
+TOR001	((ride))
+???	[xxx siamo andati, siamo andati:]
+TOI006	[scusa è la mia intervista ci posso dire quello che voglio],
+???	siamo andati a mirafiori sentiva la mancanza di [cenisia]
 TOR002	((ride))
-???	minchia ci [credo] ad asti
-TOR001	[ad asti]
-TOI006	((ride))
-???	per dirti cioè:, anche uno, un napoletano a torino c'ha la malinconia della cittadina parte[nope].
-TOI006	[sì sì] ma è normale.
-TOR002	quello ti dico cioè [eh]
-TOI006	[no no è giusto]
-TOR001	[però] è un punto di vista mio se no fal falla tu cioè ognuno
-???	((ride))
-TOI006	[xxx siamo andati, siamo andati:]
-???	[scusa è la mia intervista ci posso dire quello che voglio],
-TOR002	siamo andati a mirafiori sentiva la mancanza di [cenisia]
+TOR001	((ride))
+TOI006	[ma no] ma
+TOR002	a gianni ma eh [l'altro giorno eravamo] in via vigliani ma non c era un negozio di strumenti là [vicino]?
+???	[eravamo un po nostalgici]
+TOI006	[sì ha chiuso].
+TOR002	ah ha chiuso ecco perché l'ho cercato un po' e non lo trovavo però ho detto secondo me era qua.
+TOI006	comunque:: ecco sì
+TOR001	ieri era
+TOR002	ieri.
+???	la mia intervista
+TOI006	eh no eh scusa se non posso neanche essere libero nel giudiz[io]
+TOR001	((ride))
+???	[è] la sua intervista.
+TOR002	((ride))
 TOR001	((ride))
 TOI006	((ride))
-TOR002	[ma no] ma
-???	a gianni ma eh [l'altro giorno eravamo] in via vigliani ma non c era un negozio di strumenti là [vicino]?
-TOI006	[eravamo un po nostalgici]
-TOR002	[sì ha chiuso].
-TOI006	ah ha chiuso ecco perché l'ho cercato un po' e non lo trovavo però ho detto secondo me era qua.
-TOR001	comunque:: ecco sì
-TOR002	ieri era
-???	ieri.
-TOI006	la mia intervista
-TOR001	eh no eh scusa se non posso neanche essere libero nel giudiz[io]
-???	((ride))
-TOR002	[è] la sua intervista.
-TOR001	((ride))
-TOI006	((ride))
-TOR001	((ride))
-TOI006	ah=m::h
-TOR001	poi ho perso la domanda [perché]
-TOI006	[no no ci] siamo ci siamo era se all estero [c'è più c'è più] lavoro
-TOR001	[io intanto mangio]
+TOR001	ah=m::h
+TOI006	poi ho perso la domanda [perché]
+TOR001	[no no ci] siamo ci siamo era se all estero [c'è più c'è più] lavoro
+TOI006	[io intanto mangio]
 TOR001	e:::h e per fare un'esperienza anche breve tipo dove andresti?
-TOR002	così se tu avessi la [possibilità]
-TOR001	[a brescia]
-???	a asti abbiamo detto
-TOR002	[ad asti]
-TOI006	((ride))
-???	((ride))
-TOI006	a brescia già un altro continente potrebbe [essere].
-TOR002	[beh di]pende da cosa dove dovrei fare,
-TOI006	ci va il passaporto per andare a br[escia].
-???	[dove]ssi scegliere::,
-TOI006	la spagna è calda
-TOR002	sì il portogallo la spagna la grecia
-TOR001	mh (.) [tutti] paesi ricchi comunque hai detto [eh]
-TOI006	[e non la scozia]?
-TOR002	[la] sco~ no infatti cioè dipende cosa,
-TOI006	cioè l'irlan[da::]
-TOR001	[cioè] sicuramente non avrei voglia di finire a düsseldorf [a m~ a m~] monaco, a p~ parigi, cioè:: sì ci vai perché ci fai l'esperienza eh
-TOR001	[eh certo oh]
-TOI006	ah ah
-TOI006	lione: è bellissima però (.) dovessi proprio scegliere andrei in un posto un po' migliore insomma
-TOR001	perché se rischio di anche viverci il resto della mia vita, però tu mi hai detto forse un'esperienza picco[la]
-TOI006	[no] anche solo per un'esperienza
-TOI006	anche no vabbè visto che sono così ignorante comunque di::
-TOR001	e a parte che non mi devo limitare all europa (.) [andrei a cuba], in sud america, andrei in [africa].
-???	[no no dove ti pare].
-TOI006	[xxx è già in macchina (.) anche l africa è proprio: xxx]
-TOR002	[cioè andrei dappertutto sì dipende da::, se ci f~]
-TOI006	((ride))
-???	vabbè ma che c'entra tu hai mai visto un elefante dal vivo? io no.
-TOR002	ma chi se ne frega ti sta chiedendo del lavoro anche [dal vivo]
-TOR001	((ride))
+TOR001	così se tu avessi la [possibilità]
+TOR002	[a brescia]
+TOR001	a asti abbiamo detto
+???	[ad asti]
 TOR002	((ride))
-???	[io sì] al circo una volta.
-TOR002	interviste di lavoro ma avete mai visto degli elefanti e le giraffe? e allora le [giraffe]?
-???	[no perché] io guardi che l ho visto, lei forse non lo sa però
-TOR001	((ride))
 TOI006	((ride))
+???	a brescia già un altro continente potrebbe [essere].
+TOI006	[beh di]pende da cosa dove dovrei fare,
+TOR002	ci va il passaporto per andare a br[escia].
+TOI006	[dove]ssi scegliere::,
+???	la spagna è calda
+TOI006	sì il portogallo la spagna la grecia
+TOR002	mh (.) [tutti] paesi ricchi comunque hai detto [eh]
+TOR001	[e non la scozia]?
+TOI006	[la] sco~ no infatti cioè dipende cosa,
+TOR002	cioè l'irlan[da::]
+TOI006	[cioè] sicuramente non avrei voglia di finire a düsseldorf [a m~ a m~] monaco, a p~ parigi, cioè:: sì ci vai perché ci fai l'esperienza eh
+TOR001	[eh certo oh]
+TOR001	ah ah
+TOI006	lione: è bellissima però (.) dovessi proprio scegliere andrei in un posto un po' migliore insomma
+TOI006	perché se rischio di anche viverci il resto della mia vita, però tu mi hai detto forse un'esperienza picco[la]
+TOR001	[no] anche solo per un'esperienza
+TOI006	anche no vabbè visto che sono così ignorante comunque di::
+TOI006	e a parte che non mi devo limitare all europa (.) [andrei a cuba], in sud america, andrei in [africa].
+TOR001	[no no dove ti pare].
+???	[xxx è già in macchina (.) anche l africa è proprio: xxx]
+TOI006	[cioè andrei dappertutto sì dipende da::, se ci f~]
+TOR002	((ride))
+TOI006	vabbè ma che c'entra tu hai mai visto un elefante dal vivo? io no.
+???	ma chi se ne frega ti sta chiedendo del lavoro anche [dal vivo]
+TOR002	((ride))
+TOR001	((ride))
+TOR002	[io sì] al circo una volta.
+???	interviste di lavoro ma avete mai visto degli elefanti e le giraffe? e allora le [giraffe]?
+TOR002	[no perché] io guardi che l ho visto, lei forse non lo sa però
+???	((ride))
+TOR001	((ride))
 TOI006	no vabbè per carità andrei a vedere anche::,
-???	in iran non lo so, sai che ci sono i giacimenti [petroliferi]
-TOR002	anche lì la guerra e il lavoro,
-TOI006	te lo vedi che torna con la kefiah in testa
-???	tanti prodotti
-TOI006	col burqa [ma vedi che il burqa]
-TOR001	[tanti prodotti] che spediscono i miei clienti li [mandano] in iran: è pazzesco cioè fanno un sacco di impianti
-TOR002	[in iran]
-TOI006	((ride))
-TOR001	ma cose grosse eh
-TOI006	ma la smetti, di disturbare povero gianni
+TOI006	in iran non lo so, sai che ci sono i giacimenti [petroliferi]
+???	anche lì la guerra e il lavoro,
+TOR002	te lo vedi che torna con la kefiah in testa
+TOI006	tanti prodotti
+???	col burqa [ma vedi che il burqa]
+TOI006	[tanti prodotti] che spediscono i miei clienti li [mandano] in iran: è pazzesco cioè fanno un sacco di impianti
+TOR001	[in iran]
+TOR002	((ride))
+TOI006	ma cose grosse eh
+TOR001	ma la smetti, di disturbare povero gianni
 TOI006	andrei: ah ecco toh vogliamo farla::, vogliamo dirla tutta? in inghilterra nella zona sud cioè: quindi anche sotto londra,
-TOR002	visto che c'è tanto [no]?
-TOI006	[a sto]nhenge
-TOR001	non mi venire a [dire che non c'è: lavoro, lì ce n'è] c'è di tutto à
-???	[e così c'è anche lavoro quello sei a posto]
-TOR002	e poi non vedi gli elefanti
+TOI006	visto che c'è tanto [no]?
+TOR002	[a sto]nhenge
+TOI006	non mi venire a [dire che non c'è: lavoro, lì ce n'è] c'è di tutto à
+TOR001	[e così c'è anche lavoro quello sei a posto]
+???	e poi non vedi gli elefanti
+TOR002	((ride))
 TOR001	((ride))
-TOI006	((ride))
-TOR002	sì vabbè ma per dire
-???	vabbè ma un circo di zingari lo troverà ((ride)) lo zoo
+TOI006	sì vabbè ma per dire
+TOR002	vabbè ma un circo di zingari lo troverà ((ride)) lo zoo
+???	((ride))
+TOR001	((ride)) lo zoo ((ride))
+TOI006	che ne so, andrei dappertutto non an~ ecco forse sarebbe meglio dire dove non andrei
+TOR001	ecco
+TOI006	nelle zone del nord della russia dove fa fre~ la siberia
+TOR002	((ride))
 TOR001	((ride))
-TOI006	((ride)) lo zoo ((ride))
-TOR001	che ne so, andrei dappertutto non an~ ecco forse sarebbe meglio dire dove non andrei
-TOI006	ecco
-TOR002	nelle zone del nord della russia dove fa fre~ la siberia
-TOR001	((ride))
-TOI006	((ride))
-TOR001	oppure la zona asiatica non mi, tipo la mongolia la cina non è che proprio è::: [il mio sogno del domani], il resto::
-TOR002	[non ti ispirano]
-TOI006	in nepal? ci andresti in nepal?
+TOI006	oppure la zona asiatica non mi, tipo la mongolia la cina non è che proprio è::: [il mio sogno del domani], il resto::
+TOR001	[non ti ispirano]
+TOR002	in nepal? ci andresti in nepal?
 TOI006	in nepal ho visto delle immagini, c(io)è veramente meglio stare con degli elefanti in africa
-TOR001	ma no lì dipende se devi fare una s~, una cosa spirituale piuttosto che:: una cosa di lavoro
-TOI006	e cer[to]
-TOR002	[poi] quello è l
-TOI006	no, io [conosco uno che] si è trovato bene in [nepal]
+TOI006	ma no lì dipende se devi fare una s~, una cosa spirituale piuttosto che:: una cosa di lavoro
+TOR001	e cer[to]
+TOI006	[poi] quello è l
+TOR002	no, io [conosco uno che] si è trovato bene in [nepal]
 TOI006	[cioè se devo andare a]
-TOR001	[devo] andare a paragonare il mio lavoro in un altro: punto: della terra andrei sicuramente in ger[mania, in am]erica in
-TOI006	[okay]
-TOR001	in inghilterra non lo so ma [pro~] anche in cina figurati c(io)è la cina:
-TOI006	[mh mh]
-TOR001	il giappone [no? la] corea
-TOI006	[mh mh]
+TOI006	[devo] andare a paragonare il mio lavoro in un altro: punto: della terra andrei sicuramente in ger[mania, in am]erica in
+TOR001	[okay]
+TOI006	in inghilterra non lo so ma [pro~] anche in cina figurati c(io)è la cina:
+TOR001	[mh mh]
+TOI006	il giappone [no? la] corea
+TOR001	[mh mh]
 TOI006	però:
 TOI006	se dovessi fare altri tipo di: di lavori oppure proprio delle meditazioni di
 TOI006	personali
-TOR001	andrei nelle zone più sottosviluppate probabilmente
+TOI006	andrei nelle zone più sottosviluppate probabilmente
 TOR001	okay
-TOI006	in che zona di torino vivi?
-TOR001	san paolo
-TOI006	e hai sempre vissuto lì?
+TOR001	in che zona di torino vivi?
+TOI006	san paolo
+TOR001	e hai sempre vissuto lì?
 TOI006	sì
-TOR001	cenisia, cit turin sì
+TOI006	cenisia, cit turin sì
 TOR001	okay
-TOI006	hai frequentato le scuole lì?
-TOR001	sì.
-TOI006	sì?
-TOR001	scusa ((ride)) stavo pensando alle [scuole]
-TOI006	[e i tuoi amici] vivono sempre lì in zona?
-TOR001	sì quasi tutti
-TOI006	quasi tutti sempre lì okay
+TOR001	hai frequentato le scuole lì?
+TOI006	sì.
+TOR001	sì?
+TOI006	scusa ((ride)) stavo pensando alle [scuole]
+TOR001	[e i tuoi amici] vivono sempre lì in zona?
+TOI006	sì quasi tutti
+TOR001	quasi tutti sempre lì okay
 TOI006	quelli di torino
-TOR001	se no (parlavi) di quelli di sapri che abitavano da un'altra parte
-TOI006	eh=mh ti piace la tua zona?
-TOR001	sì dai, meglio che le altre
+TOI006	se no (parlavi) di quelli di sapri che abitavano da un'altra parte
+TOR001	eh=mh ti piace la tua zona?
+TOI006	sì dai, meglio che le altre
 TOR001	okay
-TOI006	perché ti piace?
+TOR001	perché ti piace?
 TOI006	beh all'epoca: quando sono nato era un po' più:: no era tra~, è tranquilla, è ben servita
 TOI006	e poi diciamo che sei fuori dal centro che:::
 TOI006	nel pel~ cioè m=h
-TOR001	puoi permetterti diciamo di vivere:
-TOI006	mh mh
+TOI006	puoi permetterti diciamo di vivere:
+TOR001	mh mh
 TOI006	a buoni livelli perché sei a due passi dal centro quindi ci puoi andare qua sei comodo ecco sì comodità e:::h
-TOR001	comodità su certi aspetti sicuramente non per il parcheggio, non per l'aria che respiri
-TOI006	mh mh mh
+TOI006	comodità su certi aspetti sicuramente non per il parcheggio, non per l'aria che respiri
+TOR001	mh mh mh
 TOI006	e p~
 TOI006	probabilmente sì però quella poi dovresti cambiare totalmente
 TOI006	perché di sicuro non, non consiglierei a tutti di::
-TOR001	di vivere in una zona come questa per dire che stai bene
-TOI006	mh mh mh
-TOR001	stai bene se vuoi stare in una città e:::h
-TOI006	certo
+TOI006	di vivere in una zona come questa per dire che stai bene
+TOR001	mh mh mh
+TOI006	stai bene se vuoi stare in una città e:::h
+TOR001	certo
 TOI006	ma non e::h
-TOR001	sotto l'aspetto della vita in sé non s~ non è questo il vivere
-TOI006	[okay]
-TOR001	[secondo] me
-TOI006	perché dici?
+TOI006	sotto l'aspetto della vita in sé non s~ non è questo il vivere
+TOR001	[okay]
+TOI006	[secondo] me
+TOR001	perché dici?
 TOI006	perché:::
-???	c(io)è sì perché:: nella ci~ la città purtroppo ha le sue:::
-TOI006	suoi pro e contro
-TOR001	ha i suoi pro~ mol~ più che [problemi che non] l'agorà dei greci per esempio
+TOI006	c(io)è sì perché:: nella ci~ la città purtroppo ha le sue:::
+???	suoi pro e contro
+TOI006	ha i suoi pro~ mol~ più che [problemi che non] l'agorà dei greci per esempio
 TOR001	[mh mh mh]
 TOR001	mh
-TOI006	((ride))
+TOR001	((ride))
 TOI006	no (.) perché nell'agorà dei greci ci si trovava nelle piazze e si discuteva, ormai anche nelle città ci son tutti o nelle boutique o dentro casa
 TOI006	quindi alla fine della fiera se abiti in collina, o se abiti in campagna, o se abiti in città
 TOI006	ti senti solo lo stesso
 TOI006	questo è il le le::: il punto del, chiave
 TOI006	cioè non c'è più quella differenza come negli anni sessanta che se abitavi::
-TOR002	a villastellone chissà dove cazzo eri
+TOI006	a villastellone chissà dove cazzo eri
+TOR002	((ride))
 ???	((ride))
 TOR001	((ride))
-???	((ride))
-TOI006	abbiamo capito il concetto
-TOR002	eh no eh sembra che [chissà che tipo di]
-TOI006	[è la prima uscita] della tangenziale villastellone
-TOR001	eh co~ te lo dico [per dire:::]
-TOI006	[dimmi]
-TOR001	a (lonate::)
-TOI006	[perfetto va bene]
-???	[vare:~] sai quella zona tipo rho
-TOI006	xxxx
+???	abbiamo capito il concetto
+TOI006	eh no eh sembra che [chissà che tipo di]
+TOR002	[è la prima uscita] della tangenziale villastellone
+TOI006	eh co~ te lo dico [per dire:::]
+TOR001	[dimmi]
+TOI006	a (lonate::)
+TOR001	[perfetto va bene]
+TOI006	[vare:~] sai quella zona tipo rho
+???	xxxx
 TOI006	o rho
-???	no po:~
-TOR001	((ride))
-TOI006	[va bene va bene] va bene [ho capito dai]
-TOR002	[vicino a mortara no]?
-TOI006	[minchia]
-???	[mortara] sei a trenta [chilometri] da mila[no]
-TOR001	[abbiamo capito il concetto
-TOR002	va bene
-???	(non) c'è na fungiazza di minchia
+TOI006	no po:~
+???	((ride))
+TOR001	[va bene va bene] va bene [ho capito dai]
+TOI006	[vicino a mortara no]?
+TOR002	[minchia]
+TOI006	[mortara] sei a trenta [chilometri] da mila[no]
+???	[abbiamo capito il concetto
+TOR001	va bene
+TOR002	(non) c'è na fungiazza di minchia
+???	((ride))
 TOR001	((ride))
 TOI006	((ride))
-TOI006	((ride))
-???	sì no:: alla fine nella città sei solo in mezzo alla confusione ma non es~ non ti dà:: più sviluppo personale
-TOR001	cioè hanno più vantaggi e adesso lo stesso vantaggio di vivere [più fuori tipo] in periferia
+TOI006	sì no:: alla fine nella città sei solo in mezzo alla confusione ma non es~ non ti dà:: più sviluppo personale
+???	cioè hanno più vantaggi e adesso lo stesso vantaggio di vivere [più fuori tipo] in periferia
 TOR001	[mh mh mh]
-???	okay
-TOR001	e in centro
-TOI006	e=mh ci sono problemi nella tua zona? ci sono cose che miglioreresti?
+TOR001	okay
+???	e in centro
+TOR001	e=mh ci sono problemi nella tua zona? ci sono cose che miglioreresti?
 TOI006	s::~ migliorerei probabilmente la viabilità, ma: non, non direi:: questa via bisogna farla in un senso unico
-TOR001	e che:: continuano a costruire
-TOI006	mh
+TOI006	e che:: continuano a costruire
+TOR001	mh
 TOI006	anche dove: è già stracostruito continuano a buttare giù quel piccolo che era rimasto anche quasi in abbandono, invece di
-TOR001	[riqualificarlo:] in polmoni verdi in strutture
-TOI006	[metterlo a posto]
+TOI006	[riqualificarlo:] in polmoni verdi in strutture
+TOR001	[metterlo a posto]
 TOI006	per il pubblico, su quello io mi vorrei anche:: c(io)è
 TOI006	era:: indicata la mia questione sulla città
-TOR001	no creano case, creano comunque lotti isolati proprietà private sempre::
-TOI006	mh mh mh mh
+TOI006	no creano case, creano comunque lotti isolati proprietà private sempre::
+TOR001	mh mh mh mh
 TOI006	per pochi sempre più piccole, cioè quindi la tua visione
-TOR001	che per fortuna in italia un po' tendiamo a salvaguardare ma se vediamo altre aree son molto più critiche cioè tu stai dentro trenta quaranta metri quadri, sei sempre più stretto ecco
-TOI006	mh mh mh mh
+TOI006	che per fortuna in italia un po' tendiamo a salvaguardare ma se vediamo altre aree son molto più critiche cioè tu stai dentro trenta quaranta metri quadri, sei sempre più stretto ecco
+TOR001	mh mh mh mh
 TOI006	e per fortuna non viviamo ancora sotto terra, mettiamola anche così
-TOR001	perché in cina, anche in america stan facendo i grattacieli sotto terra alla fine.
-TOI006	mh mh mh mh
-TOR001	quindi::: du~ io già che mi affaccio e vedo case case case dopo trent'anni sinceramente mi sono annoiato
-TOI006	ma vorresti trasferirti fuori città?
+TOI006	perché in cina, anche in america stan facendo i grattacieli sotto terra alla fine.
+TOR001	mh mh mh mh
+TOI006	quindi::: du~ io già che mi affaccio e vedo case case case dopo trent'anni sinceramente mi sono annoiato
+TOR001	ma vorresti trasferirti fuori città?
 TOI006	beh non lo escluderei
 TOI006	poi o altra città o:::
 TOI006	è chiaro che se abitassi in crocetta, magari in zone tipo::: la, proprio la crocetta quella lì dove c'è il giardino del fante vivrei:::
-TOR001	non mi lamenterei per niente proprio
-TOI006	in un castello ((ride))
-TOR001	no ma perché poi dipende anche [dai punti di vi~] nelle viuzze come queste sei oppresso
+TOI006	non mi lamenterei per niente proprio
+TOR001	in un castello ((ride))
+TOI006	no ma perché poi dipende anche [dai punti di vi~] nelle viuzze come queste sei oppresso
 TOR001	[no no certo]
-TOI006	mh mh mh mh mh
-TOR001	in centro anche, alla fine non cambia molto, cambia solo che lì::
-TOI006	mh mh mh [mh]
-TOR001	[devi avere] un sacco di soldi per poterti permettere quel~ quello stato di vita e qua [poi]
-TOI006	[(assai)]
-TOR001	puoi fare l'operaio ecco mettiamola così
-TOI006	trovi tutto nel tuo quartiere o ti devi spostare spesso?
+TOR001	mh mh mh mh mh
+TOI006	in centro anche, alla fine non cambia molto, cambia solo che lì::
+TOR001	mh mh mh [mh]
+TOI006	[devi avere] un sacco di soldi per poterti permettere quel~ quello stato di vita e qua [poi]
+TOR001	[(assai)]
+TOI006	puoi fare l'operaio ecco mettiamola così
+TOR001	trovi tutto nel tuo quartiere o ti devi spostare spesso?
 TOI006	beh ad oggi purtroppo ti sposti anche se hai tutto sotto casa
-TOR001	però:: quella cosa di dire vado di là:::
-TOI006	mh
-TOR001	probabilmente [uno: stimolo]
-TOI006	[tu ti sposti] comunque
+TOI006	però:: quella cosa di dire vado di là:::
+TOR001	mh
+TOI006	probabilmente [uno: stimolo]
+TOR001	[tu ti sposti] comunque
 TOI006	è uno stimolo piuttosto che a parte che diventa anche quasi più conveniente perché c'è
-TOR001	non:: non riesci: a=mh per comprare in boutique sotto casa è più conveniente magari [spostarsi andare]
-TOI006	[mh mh] mh
+TOI006	non:: non riesci: a=mh per comprare in boutique sotto casa è più conveniente magari [spostarsi andare]
+TOR001	[mh mh] mh
 TOI006	in aree commerciali e trovare lì è vero anche che questo purtroppo genera
-TOR001	crisi::: nelle boutique sotto casa, [quindi:::]
-TOI006	[mh mh mh]
+TOI006	crisi::: nelle boutique sotto casa, [quindi:::]
+TOR001	[mh mh mh]
 TOI006	insomma e::h
-TOR001	se non mi sposto è per quello ma [generalmente] mi sposto
-TOI006	[okay]
+TOI006	se non mi sposto è per quello ma [generalmente] mi sposto
+TOR001	[okay]
 TOI006	okay e come ti muovi in città?
 TOI006	bah se riesco a piedi
 TOI006	se riesco a piedi o in bus sì, la macchina:::
-TOR001	se sono obbligato proprio per il parcheggio perché non c'ho voglia c(io)è:::
-TOI006	okay
-TOR001	mi piace di più fare una camminata since~ se dovessi sceglieree
+TOI006	se sono obbligato proprio per il parcheggio perché non c'ho voglia c(io)è:::
 TOR001	okay
-TOI006	e come ti trovi coi mezzi?
+TOI006	mi piace di più fare una camminata since~ se dovessi sceglieree
+TOR001	okay
+TOR001	e come ti trovi coi mezzi?
 TOI006	coi mezzi a torino per fortuna non:: c'è da disperarsi c(io)è:
-TOR001	c'è sempre qualcosa di ci [potr~]
-???	[cosa]?
-TOI006	il servizio è buono
+TOI006	c'è sempre qualcosa di ci [potr~]
+TOR001	[cosa]?
+???	il servizio è buono
 TOI006	potrebbe essere sempre meglio qualsiasi cosa però::: mh
-TOR001	ti ripeto la zona è molto:: gest~ è molto:::
-TOI006	servita
-???	servita da più:: linee [quindi]
-TOR001	[quello che manca] a torino è un'altra metro ad [esempio] altre linee di metro
-TOR002	[mh mh mh mh]
-TOR001	ma dicono di [farla praticamente]
+TOI006	ti ripeto la zona è molto:: gest~ è molto:::
+TOR001	servita
+TOI006	servita da più:: linee [quindi]
+???	[quello che manca] a torino è un'altra metro ad [esempio] altre linee di metro
+TOR001	[mh mh mh mh]
+TOR002	ma dicono di [farla praticamente]
 TOR001	[se ciao]
-TOR002	è da [quando sono arrivata che mi han detto::: arriva la metro]
-TOI006	[sono lungo il quattro praticamente]
-???	[sì]?
-TOR002	[xxx] ma si parla di vent'anni cioè [si parla di::]
-TOR001	[minchia]
-TOI006	[ciao]
-TOR002	[ma se non finiscono] neanche l'ultimo tratto fino in [piazza bengasi]
-TOR001	[effettivamente]
+TOR001	è da [quando sono arrivata che mi han detto::: arriva la metro]
+TOR002	[sono lungo il quattro praticamente]
+TOI006	[sì]?
+???	[xxx] ma si parla di vent'anni cioè [si parla di::]
+TOR002	[minchia]
+TOR001	[ciao]
+TOI006	[ma se non finiscono] neanche l'ultimo tratto fino in [piazza bengasi]
+TOR002	[effettivamente]
 TOR001	[infatti]
-TOR002	c(io)è vabbè lasciamo perdere va
-???	ma non è che l'ho detto io che la volevo fare eh ((ride))
-TOI006	[torino rispetto ad altre città]
-???	[però quello sai cos'è] anche lì? e::h generato dal dal dagli agnelli cioè dovevano vendere le macchine:::
-TOI006	era [convinto]
-???	[milano] c'ha cinque metro eh più c'ha un servizio ferroviario [metropolitano]
-TOI006	[però] comunque c'è da dire ch[e:::]
-???	[c(io)è] che è già è già da una vita, qua l'hanno fatto l'anno scorso e sembra che chissà cosa si sono [inventati]
-TOI006	[però] c'è da dire che torino rispetto alle altre città i mezzi:::
-???	sì funzionano::: [però i mezzi che] funzionano creano anche disagio
-TOI006	[funzionano tram e autobus]
+TOR001	c(io)è vabbè lasciamo perdere va
+TOR002	ma non è che l'ho detto io che la volevo fare eh ((ride))
+???	[torino rispetto ad altre città]
+TOI006	[però quello sai cos'è] anche lì? e::h generato dal dal dagli agnelli cioè dovevano vendere le macchine:::
+???	era [convinto]
+TOI006	[milano] c'ha cinque metro eh più c'ha un servizio ferroviario [metropolitano]
+???	[però] comunque c'è da dire ch[e:::]
+TOI006	[c(io)è] che è già è già da una vita, qua l'hanno fatto l'anno scorso e sembra che chissà cosa si sono [inventati]
+???	[però] c'è da dire che torino rispetto alle altre città i mezzi:::
+TOI006	sì funzionano::: [però i mezzi che] funzionano creano anche disagio
+???	[funzionano tram e autobus]
 TOI006	sulla viabilità a volte
-???	che immagino sui tram piuttosto che su anche i pullman
-TOI006	i tram sicuramente
+TOI006	che immagino sui tram piuttosto che su anche i pullman
+???	i tram sicuramente
 TOI006	eh e quindi::: eh
 TOI006	se
 TOI006	se fai un servizio pubblico migliore
-TOR001	allora puoi dire alla gente lasciate le macchine a casa
+TOI006	allora puoi dire alla gente lasciate le macchine a casa
 TOR001	eh certo
-TOI006	se non lo fai no
-TOR001	se non lo fai e:::h lasci le cose come stanno e in più riempi tre giornali che gtt fallirà
-TOI006	eh [sì]
-TOR001	[eh non ci] sono i fondi la gente userà sempre di più la macchina
-TOI006	certo
+TOR001	se non lo fai no
+TOI006	se non lo fai e:::h lasci le cose come stanno e in più riempi tre giornali che gtt fallirà
+TOR001	eh [sì]
+TOI006	[eh non ci] sono i fondi la gente userà sempre di più la macchina
+TOR001	certo
 TOI006	quindi se vogliamo migliorare anche la città, le abitudini del cittadino
-TOR001	dobbiamo anche metterlo in condizione
-TOI006	mh mh mh
+TOI006	dobbiamo anche metterlo in condizione
+TOR001	mh mh mh
 TOI006	non puoi fare c(io)è: il problema poi sta sempre al e:h
 TOI006	se vivi in un mondo stressante, in un mondo dove ti contano il secondo, in un mondo dove
 TOI006	e::h
-TOR001	dove avere la macchina comunque è::: più comodo: e::h
-TOI006	no certo
-TOR001	non puoi sperare che tutto cambi perché:: per grazia divina
+TOI006	dove avere la macchina comunque è::: più comodo: e::h
+TOR001	no certo
+TOI006	non puoi sperare che tutto cambi perché:: per grazia divina
 TOR001	certo
 TOR001	a:h=mh ti sembra: mi guardi cosa fa il milan?
 TOR001	intanto
-TOI006	eh=mh ti sembra che torino sia cambiata negli ultimi anni?
-TOR001	beh [sì] dalle olimpiadi [sicuramente]
+TOR001	eh=mh ti sembra che torino sia cambiata negli ultimi anni?
+TOI006	beh [sì] dalle olimpiadi [sicuramente]
 TOR001	[sì]?
-TOI006	[in be~ in bene] quindi?
-???	beh per un attimo [sembrava in]
-TOR001	[è finita]
-???	[finita]?
-TOR001	due a [uno]
-TOI006	[due] a uno
+TOR001	[in be~ in bene] quindi?
+TOI006	beh per un attimo [sembrava in]
+???	[è finita]
+TOR001	[finita]?
+???	due a [uno]
+TOR001	[due] a uno
 TOI006	sembrava in bene:::
 TOI006	dopo un po' a veder le cose dopo alla fine di debiti ne hanno lasciato un sacco
-TOR001	ora dire che si stava meglio prima non ho, no.
-TOI006	mh mh
-TOR001	ma non si sta neanche poi meglio ora cioè
-TOI006	mh mh mh [mh]
+TOI006	ora dire che si stava meglio prima non ho, no.
+TOR001	mh mh
+TOI006	ma non si sta neanche poi meglio ora cioè
+TOR001	mh mh mh [mh]
 TOI006	[quindi] alla fine sì c'è stato questo cambiamento ma dire
-TOR001	che si stava meglio o peggio::
-TOI006	mh
-TOR001	non saprei:: sincerame~ [c(io)è] altri aspetti, diversi aspetti
-???	[ma]
-TOI006	beh tipo per me che sono arrivata dopo l'ho vista peggiorare ad esempio, dipende a che: momento l'hai vissuta perché io sono arrivata
-???	sì però
+TOI006	che si stava meglio o peggio::
+TOR001	mh
+TOI006	non saprei:: sincerame~ [c(io)è] altri aspetti, diversi aspetti
+TOR001	[ma]
+???	beh tipo per me che sono arrivata dopo l'ho vista peggiorare ad esempio, dipende a che: momento l'hai vissuta perché io sono arrivata
+TOI006	sì però
 ???	nel duemila e undici e comunque era già avuto, era già progredita
-TOR001	quindi mi son trovata nel periodo d'oro perché c'era tanta roba da fare, ad oggi invece:::
-TOR002	mh mh
-???	eh
-TOI006	si no, no no comunque da fare, però sotto tanti punti di vista è peggiorata, tipo sicurezza o quant'altro
-???	ma dipende cosa::: a parte che una volta la sicurezza era peggio di adesso
-TOI006	no.
+???	quindi mi son trovata nel periodo d'oro perché c'era tanta roba da fare, ad oggi invece:::
+TOR001	mh mh
+TOR002	eh
+???	si no, no no comunque da fare, però sotto tanti punti di vista è peggiorata, tipo sicurezza o quant'altro
+TOI006	ma dipende cosa::: a parte che una volta la sicurezza era peggio di adesso
+???	no.
 TOI006	mah, ma allora ma tu non ci vivevi
 TOI006	ma se tu andavi all'e~ a mirafiori quando c'avevo tredici anni io non ci potevo entrare a mirafiori
 TOI006	perché uscivo senza: saccagnato di botte
-???	se andavo a mi~ alle [vallette::]
-TOI006	[le zone no~] le zone nostre son sempre [state]
-TOR001	[adesso] se ci vai non ne esci, cioè:: non è detto che per forza ti succede una rapina, una volta sì.
-TOI006	mh mh
+TOI006	se andavo a mi~ alle [vallette::]
+???	[le zone no~] le zone nostre son sempre [state]
+TOI006	[adesso] se ci vai non ne esci, cioè:: non è detto che per forza ti succede una rapina, una volta sì.
+TOR001	mh mh
 TOI006	quello ti di~ dieci anni fa era: un po' più sporca, anche nella zona dove abitava lui era off limit
 TOI006	nel quadrilatero negli anni sessanta non ci potevi stare perché ti s~ ti ammazzavano se ci riusciva[no]
-TOR001	è quello quindi ci~ cioè: [sicuramente] non puoi dire la sicurezza per e:h
-TOI006	[mh mh mh]
+TOI006	è quello quindi ci~ cioè: [sicuramente] non puoi dire la sicurezza per e:h
+TOR001	[mh mh mh]
 TOI006	quello c'è da sempre quel problema lì
-???	te l'ho sempre detto
-TOI006	comunque le aggressioni e le cose, sarà forse un evento mediatico [però forse te ne accorgi di più]
-TOR001	[è che adesso te ne accorgi di più] e poi c'hai sta televisione che purtroppo deve fare notizia su [quello]
-TOI006	[certo]
-TOR001	perché non sa parlare di altro
-TOI006	mah e::h dicevi che è cambiata secondo te da dopo le olimpiadi
-TOR001	sì.
-TOI006	ma che cambiamenti ci sono stati?
-TOR001	beh [so~]
-TOI006	[se]co~ la la tua impressione
+TOI006	te l'ho sempre detto
+???	comunque le aggressioni e le cose, sarà forse un evento mediatico [però forse te ne accorgi di più]
+TOI006	[è che adesso te ne accorgi di più] e poi c'hai sta televisione che purtroppo deve fare notizia su [quello]
+TOR001	[certo]
+TOI006	perché non sa parlare di altro
+TOR001	mah e::h dicevi che è cambiata secondo te da dopo le olimpiadi
+TOI006	sì.
+TOR001	ma che cambiamenti ci sono stati?
+TOI006	beh [so~]
+TOR001	[se]co~ la la tua impressione
 TOI006	la mia impressione è che son state fatte::
 TOI006	la metropolitana per esempio
 TOI006	è stata esposta al turismo, quindi fino a ieri
 TOI006	torino sembrava una città metalmeccanica, sull'automobile
 TOI006	poi c(io)è si è scoperto che restaurando, riscoprendo certi:::
-TOR001	certe aree archeologiche mettiamole così::
-TOI006	mh mh
+TOI006	certe aree archeologiche mettiamole così::
+TOR001	mh mh
 TOI006	ci si poteva creare un profit eh
 TOI006	forse se n'è abusato di questo, forse son stati spesi anche un po' male o forse son stati anche adesso
 TOI006	butt~ e::h non eh
-TOR001	eh non più sfruttati quei siti o anche nuovi cioè [vediamo sestriere], vediamo altre zone
+TOI006	eh non più sfruttati quei siti o anche nuovi cioè [vediamo sestriere], vediamo altre zone
 TOR001	[mh mh]
-TOI006	mh mh [mh]
+TOR001	mh mh [mh]
 TOI006	[han] fatto dei pala:: sport, pala:: che alla fine non
-TOR001	son serviti per sei mesi [se va bene]
-TOI006	[e basta] dici
+TOI006	son serviti per sei mesi [se va bene]
+TOR001	[e basta] dici
 TOI006	poi non hanno continuato
-TOR001	a cavalcare l'onda
-TOI006	mh mh
+TOI006	a cavalcare l'onda
+TOR001	mh mh
 TOI006	cioè a, a milano probabilmente di expo si parla ancora
 TOI006	si continua a parlare e si ed è in analisi di cosa: fare
 TOI006	in quelle aree
 TOI006	qui non c'è neanche::: la domanda lì cos'è, no lì c'è solo la rassegnazione che
-TOR001	c'è la ruggine in [quelle::] situazioni
+TOI006	c'è la ruggine in [quelle::] situazioni
 TOR001	[mh mh mh mh]
-TOI006	mh mh mh ma: hanno abbandonato: [tutto? cioè han lasciato::]
-TOR001	[beh alcune, alcune:: alcune] alcune cose, alcuni siti sì, altre meno, però alla fine per dire l'olimpico, [lo stadio dove sei stata oggi]
-TOI006	[no no] certo
-TOR001	quello l'hanno fatto per le olimpiadi
-TOI006	mh mh mh mh
-TOR001	però non è che ci fanno economia
-TOI006	no no certo
+TOR001	mh mh mh ma: hanno abbandonato: [tutto? cioè han lasciato::]
+TOI006	[beh alcune, alcune:: alcune] alcune cose, alcuni siti sì, altre meno, però alla fine per dire l'olimpico, [lo stadio dove sei stata oggi]
+TOR001	[no no] certo
+TOI006	quello l'hanno fatto per le olimpiadi
+TOR001	mh mh mh mh
+TOI006	però non è che ci fanno economia
+TOR001	no no certo
 TOI006	cioè la gente si viene a vedere lo juventus stadium a parte che è privato
 TOI006	però non è quella l'economia dove deve girare una città perché vuol dire che se la juve domani non inizia più, non continua a vincere gli scudetti
-TOR001	o a fare quello che no (.) è che non viene più nessuno in questa città
-TOI006	((ride))
+TOI006	o a fare quello che no (.) è che non viene più nessuno in questa città
+TOR001	((ride))
 TOI006	e no vabbè ma però, alla fine i i turisti che vengono
 TOI006	cioè costa crociere fa scendere la gente a genova per fargli visitare il museo stadium
-???	cioè lo stadium museum come si chiama sì
-TOI006	sì
-TOR001	vabbè il museo della juve, invece di portarlo a venaria lo porta al museo della juve
-TOI006	mh mh mh
+TOI006	cioè lo stadium museum come si chiama sì
+???	sì
+TOI006	vabbè il museo della juve, invece di portarlo a venaria lo porta al museo della juve
+TOR001	mh mh mh
 TOI006	perché la juve fa conosce~ però
 TOI006	ti ripeto, non è quello che deve far girare:::
-TOR001	l'economia, cioè sarebbe meglio farlo girare e:h per gli stabilimenti della fiat
-TOI006	((ride)) sì forse sì in effetti ((ride))
-???	alla maserati ti va bene la [maserati]?
-TOI006	[venaria]? cioè far vedere i luoghi turistici delle città belli
-???	sì però [per dirti] cioè::
+TOI006	l'economia, cioè sarebbe meglio farlo girare e:h per gli stabilimenti della fiat
+TOR001	((ride)) sì forse sì in effetti ((ride))
+TOI006	alla maserati ti va bene la [maserati]?
+???	[venaria]? cioè far vedere i luoghi turistici delle città belli
+TOI006	sì però [per dirti] cioè::
 ???	[o il museo egizio]
 ???	piuttosto che lo juventus stadium ecco
-TOI006	comunque lo [juventus stadium] fa parte del settore terziario quindi
-TOR002	[sì il museo egizio]
-???	no ma non è per forza musei:::
-TOR002	sì [xxx]
-TOI006	[secondo me alla fine] anche una roba come lo stadio della juve che poi è una tamarrata che a me non piace [sinceramente]
-TOR002	[sì c'è] uno studio quello che vuoi [e allora anche il grattacielo della san paolo]
-TOI006	[alla fine:::]
-TOR001	c'è tutta questa cosa però [quel grattacielo]
-???	[io ci voglio andare] io vorrei salirci
-TOR002	e anche l' potrebbero [far vedere:::]
+???	comunque lo [juventus stadium] fa parte del settore terziario quindi
+TOI006	[sì il museo egizio]
+TOR002	no ma non è per forza musei:::
+???	sì [xxx]
+TOR002	[secondo me alla fine] anche una roba come lo stadio della juve che poi è una tamarrata che a me non piace [sinceramente]
+TOI006	[sì c'è] uno studio quello che vuoi [e allora anche il grattacielo della san paolo]
+TOR002	[alla fine:::]
+TOI006	c'è tutta questa cosa però [quel grattacielo]
+TOR001	[io ci voglio andare] io vorrei salirci
+???	e anche l' potrebbero [far vedere:::]
 TOR002	[sì ma non è] che fa aggregazione il grattacielo san paolo
-TOR001	una roba come: [uno stadio:]
-TOR002	[e beh però sotto la] spinta di
-TOI006	[e ta~] c'è::
+TOR002	una roba come: [uno stadio:]
+TOR001	[e beh però sotto la] spinta di
+TOR002	[e ta~] c'è::
 TOI006	sì certo dipende con chi ti vai a confrontare, certo che se vai a parlare con degli sportivi::: però sei vai a parlare con a~ con architetti magari quello:
-???	è più condiviso
-TOI006	xxx [xxxxxxxxx]
+TOI006	è più condiviso
+???	xxx [xxxxxxxxx]
 TOI006	[no: bo::h]
 TOI006	[certo che quel~ non è il grattacielo cioè milano] ha fatto quello dell'unicredit che penso che rispetto a questo non è che abbia meno
-???	qua c'ha qualche pannello in più::
-TOI006	beh quello di milano è meglio c'è tutta una piazza [dedicata è un'altra cosa]
-???	[per quello ti di~ eh] per quello ti dico qua sembra che abbiamo scoperto l'acqua calda anche con lo stadio cioè, [allora a quel punto] se vogliamo parlare di assoluto vado a vedere:
-TOI006	[però comunque::]
-???	quello lì dell'arsenal o d~ o quello della germania lì del [bayern]
-TOI006	[certo che] facendo un [confronto con e:h]
-???	[che son tutti copiati da quello schema] lì quindi anche noi non è che abbiamo scoperto l'acqua calda
-TOI006	no diciamo che facendo un confronto con il settore terziario sarebbe meglio far vedere::: musei o altre cose delle città
-???	beh sì
-TOI006	piuttosto che far vedere cose legate [allo sport]
-TOR001	[cioè vai::]
-TOR002	mh mh mh
-???	però tutto fa perché secondo [me di:::]
-TOI006	[però comunque] tutto fa
-TOR002	tutto fa però non::
-TOI006	cioè tu dici di mille persone:
+TOI006	qua c'ha qualche pannello in più::
+???	beh quello di milano è meglio c'è tutta una piazza [dedicata è un'altra cosa]
+TOI006	[per quello ti di~ eh] per quello ti dico qua sembra che abbiamo scoperto l'acqua calda anche con lo stadio cioè, [allora a quel punto] se vogliamo parlare di assoluto vado a vedere:
+???	[però comunque::]
+TOI006	quello lì dell'arsenal o d~ o quello della germania lì del [bayern]
+???	[certo che] facendo un [confronto con e:h]
+TOI006	[che son tutti copiati da quello schema] lì quindi anche noi non è che abbiamo scoperto l'acqua calda
+???	no diciamo che facendo un confronto con il settore terziario sarebbe meglio far vedere::: musei o altre cose delle città
+TOI006	beh sì
+???	piuttosto che far vedere cose legate [allo sport]
+TOI006	[cioè vai::]
+TOR001	mh mh mh
+TOR002	però tutto fa perché secondo [me di:::]
+???	[però comunque] tutto fa
+TOI006	tutto fa però non::
+TOR002	cioè tu dici di mille persone:
 TOI006	però non è to~ cioè un cinese non è che dice vado a torino va a venezia, a firenze, a milano perché c'è la moda o va a roma
-TOR001	o a napoli perché c'è il detto che là son tutti mariuoli e allora vado a napoli
+TOI006	o a napoli perché c'è il detto che là son tutti mariuoli e allora vado a napoli
 TOR001	((ride))
-TOR002	per [vederli:]?
-???	[vado a vedere]
-TOR001	[per farsi de]rubare
-???	((ride))
-TOR002	si mette xxxxx (al collo e [prova,) vediamo]
-TOR001	[quello sì ma]
-TOI006	[fa: tipo quello è il safari]
-TOR002	[no però per dirti] non è che vado a::: a torino per la juventus
+TOR001	per [vederli:]?
+TOR002	[vado a vedere]
+???	[per farsi de]rubare
+TOR001	((ride))
+???	si mette xxxxx (al collo e [prova,) vediamo]
+TOR002	[quello sì ma]
+TOR001	[fa: tipo quello è il safari]
+TOI006	[no però per dirti] non è che vado a::: a torino per la juventus
 TOR002	no no no io però sto dicendo di
-???	numero a cazzo [mille persone che ti porta lo stadio della juve]
-TOR001	[che comunque è un fenomeno] che fa aggregazione tra i [tifo~] cioè tra i turisti
-???	[eh]
-TOR001	[cioè è un momento di condivisione]
-TOI006	[sì]
+TOR002	numero a cazzo [mille persone che ti porta lo stadio della juve]
+???	[che comunque è un fenomeno] che fa aggregazione tra i [tifo~] cioè tra i turisti
+TOR001	[eh]
+???	[cioè è un momento di condivisione]
+TOR001	[sì]
 TOI006	[eh okay però io stavo: dice~] ho detto se la città è migliorata sotto alcuni aspetti sì.
 TOI006	però essendo stati poi dimenticati per essere magari poi presentati nuovi progetti che non
 TOI006	(in)somma
 TOI006	ma (.) tu sei d'accordo con quello che diceva lei? cioè che dopo il picco del duemila e sei c'è stato un nuovo calo?
-TOR001	eh sì c'è stato, [c'è stato] ma perché non son stati più cioè poi dipende da quali
-TOI006	[mh mh mh]
-TOR001	di sicuro:: c'era un festival jazz molto valido che è stato un po' lasciato anche
-TOI006	eh ma che fine ha fatto?
-TOR001	eh ma quest'anno lo rifaranno però quest'anno [passato non l'hanno più fatto]
-TOI006	[è vero l'hanno anche richiamato] torino jazz festival
-???	sì, [inoltre:::]
-TOI006	[c'è: la fiera] del libro che avevano [tolto e poi [xxx]
+TOI006	eh sì c'è stato, [c'è stato] ma perché non son stati più cioè poi dipende da quali
+TOR001	[mh mh mh]
+TOI006	di sicuro:: c'era un festival jazz molto valido che è stato un po' lasciato anche
+TOR001	eh ma che fine ha fatto?
+TOI006	eh ma quest'anno lo rifaranno però quest'anno [passato non l'hanno più fatto]
+TOR001	[è vero l'hanno anche richiamato] torino jazz festival
+TOI006	sì, [inoltre:::]
+???	[c'è: la fiera] del libro che avevano [tolto e poi [xxx]
 TOI006	[la fiera del libro] c(io)è ci son tante cose che, la fiera del gusto:: la
-TOR001	il motor show era nato qua [alla fine], poi l'hanno spostato a bologna, poi non l'han più fa~
-???	[mh mh mh]
-TOI006	ah beh tra l'altro [c'è]
+TOI006	il motor show era nato qua [alla fine], poi l'hanno spostato a bologna, poi non l'han più fa~
+TOR001	[mh mh mh]
+???	ah beh tra l'altro [c'è]
 TOI006	[poi] è vero che ti scontri contro manifestazioni che son quelle lì
 TOI006	mh della::: svizzera: quelle: di: parigi e di::
 TOI006	quella americana
-TOR001	di detroit che sono le migliori
-TOI006	mh mh
-???	però a noi c'hanno un po' saccheggiato
+TOI006	di detroit che sono le migliori
+TOR001	mh mh
+TOI006	però a noi c'hanno un po' saccheggiato
 ???	a qualunque ah beh anche gli ultimi eventi non vanno a favore delle manifestazioni pubbliche o degli eventi pubblici
-TOR001	tipo dopo il fatto della juve
-???	mh mh
-TOI006	vogliono togliere tutto
-???	è una scusa comunque
-TOI006	hanno limitato di tutto e di più, tipo ci sono molte norme più:
-???	sì restrittive, [ma aspettavano quello per e:h è una scusa secondo me]
-TOR001	[che fa~ che evitano di::] far organizzare gli eventi
-TOI006	[mh mh mh]
-TOR001	[cioè quello] vuol dire allora non lo facciamo perché se no ris~ fate come l'altra volta
-???	ah beh
-TOR001	c(io)è
-TOI006	((ride))
+???	tipo dopo il fatto della juve
+TOR001	mh mh
+???	vogliono togliere tutto
+TOI006	è una scusa comunque
+???	hanno limitato di tutto e di più, tipo ci sono molte norme più:
+TOI006	sì restrittive, [ma aspettavano quello per e:h è una scusa secondo me]
+???	[che fa~ che evitano di::] far organizzare gli eventi
+TOR001	[mh mh mh]
+TOI006	[cioè quello] vuol dire allora non lo facciamo perché se no ris~ fate come l'altra volta
+TOR001	ah beh
+???	c(io)è
+TOR001	((ride))
 TOI006	mi sembra una cosa, allora non dovresti più fare dopo ev~ eventi:: che son successi con e:h
 TOI006	eh u~ (.) sai quando c'era stato quel discorso della juve che erano morti::
-TOR001	allora non vai più a vedere le trasferte
-TOI006	mh mh mh mh
+TOI006	allora non vai più a vedere le trasferte
+TOR001	mh mh mh mh
 TOI006	oppure:: il motorino dell'inter allora non vai più a san siro perché se no
-TOR001	ti lanciano un motorino in testa
-TOI006	come cazzo han fatto a far passare un [motorino io ho ogni] volta che ci penso
-???	[vabbè lì ci sono altre]
-TOR001	sì assurdo
+TOI006	ti lanciano un motorino in testa
+TOR001	come cazzo han fatto a far passare un [motorino io ho ogni] volta che ci penso
+TOI006	[vabbè lì ci sono altre]
+???	sì assurdo
 TOR001	c(io)è
 TOR001	vabbè
 TOR001	eh=mh
-TOI006	in generale sei contento della tua città?
-TOR001	no
-???	((ride))
-TOR001	risposta conclusiva
+TOR001	in generale sei contento della tua città?
+TOI006	no
 TOR001	((ride))
-TOI006	perché dici?
-TOR001	perché secondo me si potrebbe fare::: si potrebbe vivere meglio
-TOI006	mh
+???	risposta conclusiva
+TOR001	((ride))
+TOR001	perché dici?
+TOI006	perché secondo me si potrebbe fare::: si potrebbe vivere meglio
+TOR001	mh
 TOI006	proprio ma penso:: tra le persone tra:: qui invece essendo molto un po' più:
 TOI006	che poi magari non sarà solo torino però essendo un po':
-TOR001	un po' chiusa::
-TOI006	mh mh mh
+TOI006	un po' chiusa::
+TOR001	mh mh mh
 TOI006	ti dà un po' di isolamento:: proprio d~
 TOI006	c(io)è non è un discorso di privacy è un discorso proprio che non puoi fare due chiacchiere in giro perché::
-TOR001	diventa un po' difficile su torino
-TOI006	mh mh mh
+TOI006	diventa un po' difficile su torino
+TOR001	mh mh mh
 TOI006	che qualcuno ti dia così facilmente la parola
-TOR001	che ormai c'è sta paura, questo ti dico
+TOI006	che ormai c'è sta paura, questo ti dico
 TOR001	okay
 TOR001	ma quindi potenzialme~ c(io)è pensi:
-TOI006	potenzialmente come idea di spostarti?
-TOR001	beh sì, ho sempre pensato a quello (.) magari sarò sognatore eterno
+TOR001	potenzialmente come idea di spostarti?
+TOI006	beh sì, ho sempre pensato a quello (.) magari sarò sognatore eterno
 TOR001	mh mh mh mh
-TOI006	però come idea dico ce l'hai?
-TOR001	sì sì
+TOR001	però come idea dico ce l'hai?
+TOI006	sì sì
 TOR001	okay
 TOR001	va bene
 TOR001	m:h cambiamo argomento
-TOR002	co[sa]?
+TOR001	co[sa]?
 TOR002	[no] niente non mi ricordavo il nome di quello lì
-???	[ma adesso mi è venuto in mente]
-TOR001	[aldo baglio]
-TOR002	quello: [con la scimmia no]?
-TOR001	[dal bagno]
-TOR002	ma non quello con la
-TOR001	sì
-TOI006	dunque cosa fai durante il tuo tempo libero?
-TOR001	schifo
-TOI006	((ride))
-???	che faccio:: leggo::
-TOI006	musica, sport?
-TOR001	musica sport
+TOR002	[ma adesso mi è venuto in mente]
+???	[aldo baglio]
+TOR001	quello: [con la scimmia no]?
+TOR002	[dal bagno]
+TOR001	ma non quello con la
+TOR002	sì
+TOR001	dunque cosa fai durante il tuo tempo libero?
+TOI006	schifo
+TOR001	((ride))
+TOI006	che faccio:: leggo::
+???	musica, sport?
+TOI006	musica sport
 TOR001	okay
-TOI006	cosa leggi?
-TOR001	leggo quotidiani, qualche libro
-TOI006	ah è vero: leggi i quotidia~
-TOR001	filosofie: mh
-???	ma il quotidiano tutti i giorni?
-TOI006	[settimanalmente]
-TOR001	[almeno tre tre vo]lte alla settimana sì
-TOI006	che eroe
-TOR001	cioè domani ne compro due
-TOI006	e cosa prendi?
-TOR001	perché prendo il corriere e repubblica
-TOI006	tutti e due li prendi?
-TOR001	giovedì prendo repubblica
-TOI006	mh
+TOR001	cosa leggi?
+TOI006	leggo quotidiani, qualche libro
+TOR001	ah è vero: leggi i quotidia~
+TOI006	filosofie: mh
+TOR001	ma il quotidiano tutti i giorni?
+???	[settimanalmente]
+TOI006	[almeno tre tre vo]lte alla settimana sì
+TOR001	che eroe
+TOI006	cioè domani ne compro due
+TOR001	e cosa prendi?
+TOI006	perché prendo il corriere e repubblica
+TOR001	tutti e due li prendi?
+TOI006	giovedì prendo repubblica
+TOR001	mh
 TOI006	a volte il ventiquattrore dipende un po' come
 TOI006	ormai scrivono poco
-TOR001	tipo la stampa non la compro più se riesco
-TOI006	mh mh mh
+TOI006	tipo la stampa non la compro più se riesco
+TOR001	mh mh mh
 TOI006	perché ormai non vale più niente
-TOR001	la gente è andat~, cioè c~ chi valeva come:: come redattori
-TOI006	mh mh mh
+TOI006	la gente è andat~, cioè c~ chi valeva come:: come redattori
+TOR001	mh mh mh
 TOI006	scrittori come non so politici, mettici quello che vuoi
-TOR001	son tutti o su repubblica o corriere della sera
-TOI006	mh mh
-TOR001	sulla stampa:: son solo i raccomandati son rimasti
-TOI006	((ride))
+TOI006	son tutti o su repubblica o corriere della sera
+TOR001	mh mh
+TOI006	sulla stampa:: son solo i raccomandati son rimasti
+TOR001	((ride))
 TOI006	no ma te lo dico proprio in un modo cioè ma e:h
 TOI006	mi vergogno però è così c'è:
-TOR001	c'è un mattia feltri sul buongiorno della stampa cosa mi [serve]
-TOI006	[mh] mh mh
-TOR001	vai a scrivere da tuo padre, da libero cioè
+TOI006	c'è un mattia feltri sul buongiorno della stampa cosa mi [serve]
+TOR001	[mh] mh mh
+TOI006	vai a scrivere da tuo padre, da libero cioè
 TOR001	((ride))
-TOI006	e cosa preferisci tra corriere e repubblica?
+TOR001	e cosa preferisci tra corriere e repubblica?
 TOI006	beh se la stan giocando sai?
-TOR001	perché:: corriere ha fatto dei bei investimenti però alla fine anche repubblica ha fatto un restyling [diciamo]
-TOI006	[eh] ti è piaciuto?
-TOR001	sì
-TOI006	[sì]?
-TOR002	[dai] non è male
-TOR001	ma è già da un po' che l'ha fatto [no]?
-TOI006	[e:h] non tantissimo
-???	e dall'inizio dell'anno più o meno
-TOI006	un paio di mesi
-TOR002	un mese due:
-TOR001	sì?
-TOI006	sì perché io ero al ba:r
-TOR001	è diventato un po' più smart sai
-TOI006	è [vero]
-TOR001	[si usa] questo [termine]?
-TOI006	[sì]
-TOR001	e:h sì proba[bilme~]
-TOR002	[sembra] un po' tablet
-TOR001	sì
-TOI006	cioè com'è impostato, [come sono] le notizie [vero]?
+TOI006	perché:: corriere ha fatto dei bei investimenti però alla fine anche repubblica ha fatto un restyling [diciamo]
+TOR001	[eh] ti è piaciuto?
+TOI006	sì
+TOR001	[sì]?
+TOI006	[dai] non è male
+TOR002	ma è già da un po' che l'ha fatto [no]?
+TOR001	[e:h] non tantissimo
+TOI006	e dall'inizio dell'anno più o meno
+???	un paio di mesi
+TOI006	un mese due:
+TOR002	sì?
+TOR001	sì perché io ero al ba:r
+TOI006	è diventato un po' più smart sai
+TOR001	è [vero]
+TOI006	[si usa] questo [termine]?
+TOR001	[sì]
+TOI006	e:h sì proba[bilme~]
+TOR001	[sembra] un po' tablet
+TOR002	sì
+TOR001	cioè com'è impostato, [come sono] le notizie [vero]?
 TOI006	[sì sì]
-TOR001	poi ci sono:: c'è la pagina notizie veloci:
-TOI006	mh
+TOI006	poi ci sono:: c'è la pagina notizie veloci:
+TOR001	mh
 TOI006	poi comunque di contenuti ci sono, di reportage, però a livello generale chiaramente i giornali ormai sono sempre::
 TOI006	danno un contenuto sempre un po'::
-TOR001	inferiore
+TOI006	inferiore
 TOR001	sì?
-TOI006	eh=a:::h [ta ta ta]
-TOR001	[diciamo] che non fanno più reportage come una volta o allegati costano
-TOI006	cose di approfondimento [dici]
+TOR001	eh=a:::h [ta ta ta]
+TOI006	[diciamo] che non fanno più reportage come una volta o allegati costano
+TOR001	cose di approfondimento [dici]
 TOI006	[costa]no
-TOR001	costano e in più la gente la devi tenere meno informata possibile
-TOI006	mh
+TOI006	costano e in più la gente la devi tenere meno informata possibile
+TOR001	mh
 TOI006	soprattutto al mondo d'oggi secondo me perché proprio in un mondo: così
 TOI006	dove hai::
 TOI006	u~ una criticità della politica così ampia:
 TOI006	se tu inizi a dire delle cose anche vere::
-TOR001	metti un po' di:: scompiglio [tra la] gente invece se la orienti dove vuoi tu: or~ lasci molto:
-TOI006	[mh mh]
-TOR001	le cose molto:: in generale:: la gente iniz~ parla sempre dei soliti [luoghi comuni]
+TOI006	metti un po' di:: scompiglio [tra la] gente invece se la orienti dove vuoi tu: or~ lasci molto:
+TOR001	[mh mh]
+TOI006	le cose molto:: in generale:: la gente iniz~ parla sempre dei soliti [luoghi comuni]
 TOR001	[mh mh mh]
 TOR001	quindi dici che è una c(io)è::
 TOR001	è per questo che::
-TOI006	che ci sono articoli appunto più superficiali [più leggeri:]
-TOR001	[anche quelli] poi chiaramente:: il giornale:: investe meno quindi magari non ti manda come reportage in quella zona
-TOI006	[certo]
+TOR001	che ci sono articoli appunto più superficiali [più leggeri:]
+TOI006	[anche quelli] poi chiaramente:: il giornale:: investe meno quindi magari non ti manda come reportage in quella zona
+TOR001	[certo]
 TOI006	[te lo fa] fare da fuori, te lo fa fare con e:h
-TOR001	notizie ansa che quindi sono già:
-TOI006	cer[to]
-TOR001	[scre]mate: ecco quindi
+TOI006	notizie ansa che quindi sono già:
+TOR001	cer[to]
+TOI006	[scre]mate: ecco quindi
 TOR001	mh mh mh
-TOI006	certo
+TOR001	certo
 TOI006	non ci sono neanche più le grandi::
-TOR001	menti probabilmete c(io)è io se penso a indro montanelli
-TOI006	mh mh
+TOI006	menti probabilmete c(io)è io se penso a indro montanelli
+TOR001	mh mh
 TOI006	anche: anche se non avevo la stessa magari opinione politica, ma: o ideologia però:
-TOR001	sentire le sue parole:
-TOI006	mh mh mh
+TOI006	sentire le sue parole:
+TOR001	mh mh mh
 TOI006	erano: quelli cioè erano vere::
-TOR001	e facevano riflettere ti creavano un tuo pensiero commento [cioè erano]
-TOI006	[mh mh mh]
+TOI006	e facevano riflettere ti creavano un tuo pensiero commento [cioè erano]
+TOR001	[mh mh mh]
 TOI006	adesso se senti:::
 TOI006	non so mh vedi certi: commenti in giro che
 TOI006	stessi scrittori che fanno a volte dei:::
 TOI006	dei::: mh
-TOR001	dei: approfondimenti in linea
-TOI006	mh mh
-TOR001	non è che han dei contenuti molto:
-TOI006	mh mh
-TOR001	pieni ecco
-TOI006	però lo leggi il giornale cioè:: nel senso [comunque::] nonostante questi::
+TOI006	dei: approfondimenti in linea
+TOR001	mh mh
+TOI006	non è che han dei contenuti molto:
+TOR001	mh mh
+TOI006	pieni ecco
+TOR001	però lo leggi il giornale cioè:: nel senso [comunque::] nonostante questi::
 TOI006	[sì]
 TOI006	sì sì no vabbè è chiaro che poi
-TOR001	per: speri sempre che il mondo sia
+TOI006	per: speri sempre che il mondo sia
 TOR001	((ride)) che migliori
-TOI006	okay poi dicevi oltre a: leggere?
-TOR001	beh la musica, ascolto musica
-TOI006	ma cosa ascolti?
-TOR001	beh rock, ascolto:: principalmente rock
-TOI006	mh mh
-TOR001	principalmente jazz sì, jazz rock
-TOI006	mh mh
-TOR001	anche lì compro la rivista del jazz
-TOI006	cosa prendi di rivista jazz?
-TOR001	musica jazz
+TOR001	okay poi dicevi oltre a: leggere?
+TOI006	beh la musica, ascolto musica
+TOR001	ma cosa ascolti?
+TOI006	beh rock, ascolto:: principalmente rock
+TOR001	mh mh
+TOI006	principalmente jazz sì, jazz rock
+TOR001	mh mh
+TOI006	anche lì compro la rivista del jazz
+TOR001	cosa prendi di rivista jazz?
+TOI006	musica jazz
 TOR001	ah okay
-TOI006	e di rivista rock?
-TOR001	no: non ne: acqui[sto]
+TOR001	e di rivista rock?
+TOI006	no: non ne: acqui[sto]
 TOR001	[no]?
 TOR001	neanche io ne prendo
-TOR002	tu hai in mente riviste rock decenti?
-TOR001	beh buscadero: che però fa cose tipo:
-TOR002	beh però:
-TOR001	sessanta settanta [ottanta novanta]
-TOI006	[dai che] palle ((ride)) [madonna]
-TOR002	[è scadu~ è scadu~]
-TOI006	[classic] rock
-TOR002	sì non ce [n'è di be~]
+TOR001	tu hai in mente riviste rock decenti?
+TOR002	beh buscadero: che però fa cose tipo:
+TOR001	beh però:
+TOR002	sessanta settanta [ottanta novanta]
+TOR001	[dai che] palle ((ride)) [madonna]
+TOI006	[è scadu~ è scadu~]
+TOR002	[classic] rock
+TOI006	sì non ce [n'è di be~]
 TOR002	[classic rock non è] brutta::
-TOR001	per anche lì è un po' vecchiotta:
-TOR002	c'è il mucchio
-TOI006	eh [il mucchio è figa] rumore
+TOR002	per anche lì è un po' vecchiotta:
+TOR001	c'è il mucchio
+TOR002	eh [il mucchio è figa] rumore
 TOI006	[e dai boh]
-TOR002	rumore
-TOI006	se esiste ancora [rumore]
-TOR001	[sì però poi] costano un sa~ [cioè]
-TOI006	[costa un] sacco:
-TOR001	poi a: volte non ce l'ha:: uno devi andare [da un altro] giornalaio
+TOI006	rumore
+TOR002	se esiste ancora [rumore]
+TOI006	[sì però poi] costano un sa~ [cioè]
+TOR001	[costa un] sacco:
+TOI006	poi a: volte non ce l'ha:: uno devi andare [da un altro] giornalaio
 TOR001	[mh]
-TOI006	no più che altro poi la guardi dici per spendere cinque euro mi vado a comprare un cd per cinque [euro]
+TOR001	no più che altro poi la guardi dici per spendere cinque euro mi vado a comprare un cd per cinque [euro]
 TOI006	[sì]
-TOR001	[invece] con musica jazz ti danno uno barra due cd a volta
+TOI006	[invece] con musica jazz ti danno uno barra due cd a volta
 TOR001	[sì forse sì]
-TOI006	ah buono
+TOR001	ah buono
 TOI006	poi a volte
-TOR001	non sono quello che vuoi
-TOI006	vabbè
-TOR001	[la qualità c'è se]mpre
+TOI006	non sono quello che vuoi
+TOR001	vabbè
+TOI006	[la qualità c'è se]mpre
 TOR001	[però:::]
-TOI006	sì
-TOR001	sinceramente eh è vero che anche lì è sempre un po' più (pericolo)
-TOR001	((ride))
-TOI006	e::h vai ai concerti?
 TOR001	sì
-TOI006	tipo?
+TOI006	sinceramente eh è vero che anche lì è sempre un po' più (pericolo)
+TOR001	((ride))
+TOR001	e::h vai ai concerti?
+TOI006	sì
+TOR001	tipo?
 TOI006	va be::h mi piace tanto vasco rossi perché è una persona:: che
 TOI006	secondo me innovativa su::
 TOI006	cioè nonostante ri::~ rifa~
 TOI006	rifaccia sempre un po' lo stesso repertorio però lo rivisita quindi
 TOI006	ti diverti sempre poi la le persone che:::
-TOR001	trovi lì, hai sempre: un qualcosa in comune
-TOI006	eh
-TOR001	che va oltr[e:]
+TOI006	trovi lì, hai sempre: un qualcosa in comune
+TOR001	eh
+TOI006	che va oltr[e:]
 TOR001	[raccon]tami io non ho mai visto vasco dal vivo
-TOI006	mai
-TOR001	beh se vai c'è una bellissima atmosfera [per]ché ti trovi::
-TOI006	[mh mh]
+TOR001	mai
+TOI006	beh se vai c'è una bellissima atmosfera [per]ché ti trovi::
+TOR001	[mh mh]
 TOI006	trovi delle persone che più o meno:
-TOR001	hanno le tue stesse un po' abitudini in un modo o nell'altro
-TOI006	mh mh
+TOI006	hanno le tue stesse un po' abitudini in un modo o nell'altro
+TOR001	mh mh
 TOI006	cioè: hanno le tue stesse magari anche passioni o idee o: voglie no?
-TOR001	no poi magari uno le fa in un modo un altro in un altro [però più o meno] ti ritrovi
-TOI006	[mh mh mh]
+TOI006	no poi magari uno le fa in un modo un altro in un altro [però più o meno] ti ritrovi
+TOR001	[mh mh mh]
 TOI006	che è forse anche un po':: se hai delle debolezze::
 TOI006	non hai paura di esprimerle perché se::
 TOI006	sei:
-TOR001	ti senti un po' a contatto con delle persone a volte deboli come te [magari]
+TOI006	ti senti un po' a contatto con delle persone a volte deboli come te [magari]
 TOR001	[mh mh]mh
-TOI006	e l'hai visto tante volte dal [vivo]?
+TOR001	e l'hai visto tante volte dal [vivo]?
 TOI006	[beh sì sì] almeno
-TOR001	diciassette
-TOR002	[a::::::::h]
-TOI006	[la tua] canzone preferita, no c'era prima
+TOI006	diciassette
+TOR001	[a::::::::h]
+TOR002	[la tua] canzone preferita, no c'era prima
 TOI006	però non è solo:: cioè quello perché a me gli altri
 TOI006	stanno eh st~
 TOI006	stanno morendo perché alla fine
 TOI006	cioè l'unico è zucchero ma:
-TOR001	gli stadio ma:: purtroppo non riesco più ad andare a veder lucio dalla cioè questo
-TOI006	[certo]
-TOR001	[xx]
-TOI006	certo
+TOI006	gli stadio ma:: purtroppo non riesco più ad andare a veder lucio dalla cioè questo
+TOR001	[certo]
+TOI006	[xx]
+TOR001	certo
 TOI006	cioè ad oggi non è più: facile:: trovare delle persone come loro
 TOI006	che marchino::
-TOR001	la storia musicale: in un modo::
-???	mh mh mh
-TOI006	xxxxxxxx
+TOI006	la storia musicale: in un modo::
+TOR001	mh mh mh
+???	xxxxxxxx
 TOI006	sì che gli dia un::
-TOR001	u::n una struttura alla musica probabilmente
-TOI006	mh mh [mh]
-TOR001	[cioè adesso] trovi sì quello magari che ci fa la canzoncina carina
-TOI006	mh mh mh
+TOI006	u::n una struttura alla musica probabilmente
+TOR001	mh mh [mh]
+TOI006	[cioè adesso] trovi sì quello magari che ci fa la canzoncina carina
+TOR001	mh mh mh
 TOI006	e fa solo quella
-TOR001	d'altro che le fanno solo per fare i soldi::: perché non c'hanno niente da fa[re]
-TOI006	[mh] mh mh mh
+TOI006	d'altro che le fanno solo per fare i soldi::: perché non c'hanno niente da fa[re]
+TOR001	[mh] mh mh mh
 TOI006	cioè immagino chi fa rap adesso, trap eh
-TOR001	la trovo un po' banale ormai, [perché il rap] secondo me l'han già sorpassato:
-TOI006	[mh mh mh]
-TOR001	dall'america: di dieci anni fa:
-TOI006	mh mh mh
+TOI006	la trovo un po' banale ormai, [perché il rap] secondo me l'han già sorpassato:
+TOR001	[mh mh mh]
+TOI006	dall'america: di dieci anni fa:
+TOR001	mh mh mh
 TOI006	risentirlo oggi anche in modo male, cioè in un modo sgradevole: perché
 TOI006	alla fine:: è s~
 TOI006	vedi solo sti ragazzini:
 TOI006	non ti dico buttati sulla strada ma è gente alla fine che sta bene, si droga:
 TOI006	si fa i suoi:
-TOR001	a~ a~ abitua i suoi vizi a:: delle cose che alla fine:
-TOI006	mh mh mh
-TOR001	non sono la ribellione della società
-TOI006	[mh mh mh]
+TOI006	a~ a~ abitua i suoi vizi a:: delle cose che alla fine:
+TOR001	mh mh mh
+TOI006	non sono la ribellione della società
+TOR001	[mh mh mh]
 TOI006	[cioè] quello voglio dire, il rock è nato con eh
 TOI006	andare contro certe:: eh
-TOR001	certi: certi limiti no? [certe:]
-TOI006	[mh mh]
-TOR001	certe imposizioni
-TOI006	mh mh
-TOR001	il jazz uguale è nato da rivolte dei neri alla fine se andiamo a vedere le origini [del jazz]
-TOI006	[mh mh]
+TOI006	certi: certi limiti no? [certe:]
+TOR001	[mh mh]
+TOI006	certe imposizioni
+TOR001	mh mh
+TOI006	il jazz uguale è nato da rivolte dei neri alla fine se andiamo a vedere le origini [del jazz]
+TOR001	[mh mh]
 TOI006	eh i:: quello di adesso non è nessun non
-TOR001	poi dipende c'è c'è chi magari non la vede come me e dice no [effettivamente] quello vuole andare contro la società
+TOI006	poi dipende c'è c'è chi magari non la vede come me e dice no [effettivamente] quello vuole andare contro la società
 TOR001	[mh mh mh]
-TOI006	ma anche per il jazz è così?
+TOR001	ma anche per il jazz è così?
 TOI006	sì, anche il jazz, il jazz è più:: forse:
-TOR001	sì eh spirituale
-TOI006	mh mh
+TOI006	sì eh spirituale
+TOR001	mh mh
 TOI006	perché il musicista jazz è quello che ha dentro la malinconia la::
-TOR001	quello che ha dentro lo fa con lo strumento
-TOI006	mh mh
-TOR001	invece di farlo con dei testi o con delle parole o solo con la voglia di presentarsi così al pubblico
+TOI006	quello che ha dentro lo fa con lo strumento
+TOR001	mh mh
+TOI006	invece di farlo con dei testi o con delle parole o solo con la voglia di presentarsi così al pubblico
 TOR001	mh mh mh
 TOR001	okay
-TOI006	prima dicevi vasco innovatore
+TOR001	prima dicevi vasco innovatore
 TOI006	beh sì perché::
 TOI006	secondo me è::
 TOI006	lui: per quello che fa
-TOR001	beh lui non è che ha scoperto niente alla fine
-TOI006	mh mh
+TOI006	beh lui non è che ha scoperto niente alla fine
+TOR001	mh mh
 TOI006	ha solo::
 TOI006	eh mostrato all'italia che all'estero c'era quello
 TOI006	in fo~ al fondo e poi c'ha messo del suo
 TOI006	però ogni concerto che vai non ti annoia
-TOR001	c(io)è [non è] mai la stessa: c'è sempre quella cosa che ti sorprende sempre quel e::h
-TOI006	[mh mh]
+TOI006	c(io)è [non è] mai la stessa: c'è sempre quella cosa che ti sorprende sempre quel e::h
+TOR001	[mh mh]
 TOI006	quella voglia di ritornare poi c(io)è
-TOR001	quello quello eh
-TOI006	e si è mantenuto negli anni secondo [te::]
+TOI006	quello quello eh
+TOR001	e si è mantenuto negli anni secondo [te::]
 TOI006	[beh sì anzi] c'è stato un periodo che forse::
 TOI006	stava un po': perdendo un po'::
-TOR001	perdendo un po': punti [mettiamola] non so e invece secondo me da quando si è:
-TOI006	[mh mh mh]
-TOR001	ha superato la sua malattia l'ha reso ancora più forte gli ha [messo una]
-TOI006	[che malattia aveva]?
-???	ma non so ha avuto una:::
-TOR002	beh problemi fisici [xxxxxxxx]
-TOI006	[eh se l'è vista brutta brutta] un po' di anni [fa]
-TOR001	[ha avuto una] infezione al cuore:
-TOI006	a:h
-TOR001	no no ha rischiato di morire ins[omma] è stato due mesi:
+TOI006	perdendo un po': punti [mettiamola] non so e invece secondo me da quando si è:
 TOR001	[mh mh mh]
-TOI006	caspita
-TOR002	sotto farmaci
-TOR001	ma poi era in depressione anche [prima]
-TOI006	[mh mh mh]
+TOI006	ha superato la sua malattia l'ha reso ancora più forte gli ha [messo una]
+TOR001	[che malattia aveva]?
+TOI006	ma non so ha avuto una:::
+???	beh problemi fisici [xxxxxxxx]
+TOR002	[eh se l'è vista brutta brutta] un po' di anni [fa]
+TOI006	[ha avuto una] infezione al cuore:
+TOR001	a:h
+TOI006	no no ha rischiato di morire ins[omma] è stato due mesi:
+TOR001	[mh mh mh]
+TOR001	caspita
+TOI006	sotto farmaci
+TOR002	ma poi era in depressione anche [prima]
+TOR001	[mh mh mh]
 TOI006	[sì poi] depressioni varie ma perché alla fine con gli artisti
 TOI006	però questo forse gli ha fatto: gli ha messo su una corazza che: adesso
 TOI006	cioè per me anche lui avend~ es~ esse~ essendo così sceso diciamo in basso
-TOR001	ha quasi scoperto che poi vivere è ancora [più bello] se superi certi: aspetti
-TOI006	[mh mh mh]
+TOI006	ha quasi scoperto che poi vivere è ancora [più bello] se superi certi: aspetti
+TOR001	[mh mh mh]
 TOI006	e intanto: lui alla fine è una persona che vedo sincera se non altro coerente, cioè ogni volta che parla dice sempre::
-TOR001	quello e lo vedi anche nella vita che fa
-TOI006	mh [mh mh]
-TOR001	[c(io)è non è che lui] eh quando lo vedevi nelle interviste degli anni novanta non si voleva far vedere che beveva o si drogava
-TOI006	mh mh
-TOR001	forse lo voleva anche marcare, non gliene è mai fregato niente
-TOI006	mh mh mh mh
+TOI006	quello e lo vedi anche nella vita che fa
+TOR001	mh [mh mh]
+TOI006	[c(io)è non è che lui] eh quando lo vedevi nelle interviste degli anni novanta non si voleva far vedere che beveva o si drogava
+TOR001	mh mh
+TOI006	forse lo voleva anche marcare, non gliene è mai fregato niente
+TOR001	mh mh mh mh
 TOI006	nel momento che adesso ha superato anche certe:::
-TOR001	certe complicazioni alla fine:: è come diceva luca carboni ci vuole un fisico bestiale, magari lui ce l'ha
-TOI006	((ride))
+TOI006	certe complicazioni alla fine:: è come diceva luca carboni ci vuole un fisico bestiale, magari lui ce l'ha
+TOR001	((ride))
 TOI006	e magari vuole anche mandare a fanculo tutti quelli che lo hanno giudicato fino ad oggi
 TOI006	però tra lui anche: altre::
 TOI006	altri artisti per carità
-TOR001	c(io)è un de andré non è che non lo vedo bene perché: non ce l'ha fatta
-TOI006	mh mh
-TOR001	o un battisti cioè per me anche quelli sono:
-TOI006	mh mh mh
+TOI006	c(io)è un de andré non è che non lo vedo bene perché: non ce l'ha fatta
+TOR001	mh mh
+TOI006	o un battisti cioè per me anche quelli sono:
+TOR001	mh mh mh
 TOI006	son persone che hanno dato tanto a::
-TOR001	all'italia nel senso all'umanità penso
-TOI006	mh [mh mh]
-TOR001	[l'umanità] italiana
-TOI006	sì sì sì certo
+TOI006	all'italia nel senso all'umanità penso
+TOR001	mh [mh mh]
+TOI006	[l'umanità] italiana
+TOR001	sì sì sì certo
 TOI006	iannacci cioè senza di loro secondo me:: non
-TOR001	cioè lì nasceva tutta la comicità::
-TOI006	mh mh mh
-TOR001	che vedevamo anche al teatro, in televisione, (.) [] totò in ni~
-TOI006	[mh mh]
-TOR001	secondo me ha tra~ ha dato spunto ad altri artisti che possono essere pino daniele, [ma adesso ti dico] dei nomi che poi magari non combaciano però::
+TOI006	cioè lì nasceva tutta la comicità::
+TOR001	mh mh mh
+TOI006	che vedevamo anche al teatro, in televisione, (.) [] totò in ni~
+TOR001	[mh mh]
+TOI006	secondo me ha tra~ ha dato spunto ad altri artisti che possono essere pino daniele, [ma adesso ti dico] dei nomi che poi magari non combaciano però::
 TOR001	[mh mh mh]
-TOI006	mh mh mh mh
-TOR001	tutto quello che c'era in emilia, il guccini che era il contastorie, il cantautore ha fatto nascere magari un magari lucio dalla i:
-TOI006	mh mh [mh]
+TOR001	mh mh mh mh
+TOI006	tutto quello che c'era in emilia, il guccini che era il contastorie, il cantautore ha fatto nascere magari un magari lucio dalla i:
+TOR001	mh mh [mh]
 TOI006	[e] tutti quelli che poi sono arrivati dopo cioè il curreri, il vasco, il gr~ grignani
-TOR001	no forse grignani è milanese
-TOI006	non lo so
-TOR002	sì [sì]
-TOI006	[grig]nani non è toscano?
-TOR002	o toscano però lo so [piuttosto]
-TOR001	[no però toscano grignani]
-TOI006	[vabbè]
-???	quell'altro lì:::
-TOI006	[chi]?
-???	[quello] lì::: come si chia~ bersani no?
-TOR001	ah sì
-TOI006	[mh mh mh]
-TOR001	[cioè com]unque l'emilia sotto l'aspetto musicale:::
-TOI006	eh sì è fertile
+TOI006	no forse grignani è milanese
+TOR001	non lo so
+TOI006	sì [sì]
+TOR002	[grig]nani non è toscano?
+TOI006	o toscano però lo so [piuttosto]
+TOR002	[no però toscano grignani]
+TOR001	[vabbè]
+TOI006	quell'altro lì:::
+???	[chi]?
+TOI006	[quello] lì::: come si chia~ bersani no?
+???	ah sì
+TOR001	[mh mh mh]
+TOI006	[cioè com]unque l'emilia sotto l'aspetto musicale:::
+TOR001	eh sì è fertile
 TOI006	è molto fertile
 TOI006	e::::h
-TOR001	ogni::: milano la il cabaret probabilmente
-TOI006	mh mh mh
+TOI006	ogni::: milano la il cabaret probabilmente
+TOR001	mh mh mh
 TOI006	torino non ce l'ha quest[a]
 TOI006	[eh sì] infatti
 TOI006	invece torino per di~ per l'assurdo ha poco di::
 TOI006	di e:::h di musica piuttosto che di teatro::
-TOR001	iz~ [cioè] comico
+TOI006	iz~ [cioè] comico
 TOR001	[mh mh]
-TOI006	mh mh mh
-TOR001	c'ha poco
 TOR001	mh mh mh
-TOI006	anche di musica c'è poco
+TOI006	c'ha poco
+TOR001	mh mh mh
+TOR001	anche di musica c'è poco
 TOI006	sì no~ cioè non c'è nessuno che dici a parte quelli lì che i classici no?
-TOR002	non so nea~ non so se toscanini fosse di torino
-TOI006	boh
-TOR002	eh (.) per dirti dovrei andare poi a fare una ricerca [che non ho mai fatto però]
+TOI006	non so nea~ non so se toscanini fosse di torino
+TOR002	boh
+TOI006	eh (.) per dirti dovrei andare poi a fare una ricerca [che non ho mai fatto però]
 TOR002	[no abbiamo fatto la classica] boh ma
-TOI006	cioè non ho capito in che senso dici non c'è nessuno, adesso?
+TOR002	cioè non ho capito in che senso dici non c'è nessuno, adesso?
 TOI006	no a torino
-TOR002	è non è [il]
-TOI006	[fred busca]glione
+TOI006	è non è [il]
+TOR002	[fred busca]glione
 TOI006	sì.
-TOR001	paolo conte
-TOI006	era di torino torino?
-TOR002	no di asti
+TOI006	paolo conte
+TOR001	era di torino torino?
+TOI006	no di asti
 TOR002	alba
-TOI006	o asti
-TOR001	[asti]
-TOR002	[xx]
-TOI006	asti fo[rse]
-TOR001	[alba è] il tuo [amico]
-TOR002	[mi sa asti proprio]
-TOI006	[gianmaria]
-TOR002	[gianmaria testa]
-TOI006	[testa] (.) è morto
-TOR002	però per di~
-TOR001	((ride))
-TOI006	((ride)) buonanima
+TOR002	o asti
+TOI006	[asti]
+TOR001	[xx]
+TOR002	asti fo[rse]
+TOI006	[alba è] il tuo [amico]
+TOR001	[mi sa asti proprio]
+TOR002	[gianmaria]
+TOI006	[gianmaria testa]
+TOR002	[testa] (.) è morto
+TOI006	però per di~
+TOR002	((ride))
+TOR001	((ride)) buonanima
 TOI006	per dirti alla fine::: so~
 TOI006	son pochi:: a::h di~ sotto quella:
 TOI006	guarda quindi forse:
-TOR001	qui non so cosa si sia pensato negli anni precedenti
-TOI006	han fatto alt[ro]
-TOR001	[al]la fiat
-TOI006	alla fiat forse
-TOR002	ai francesi che ci (attacca)
-TOR001	((ride))
+TOI006	qui non so cosa si sia pensato negli anni precedenti
+TOR001	han fatto alt[ro]
+TOI006	[al]la fiat
+TOR001	alla fiat forse
+TOI006	ai francesi che ci (attacca)
+TOR002	((ride))
 TOR001	((ride))
 TOR001	e:::h ah
 TOR001	che posti frequenti quando esci?
-TOI006	da signora ((ride))
-TOR002	mah i jazz club
-TOR001	°i jazz club° ((ride))
-TOI006	tipo?
-TOR001	tipo:: tipo il jazz [club] oppure:::
-TOI006	[eh okay]
+TOR001	da signora ((ride))
+TOI006	mah i jazz club
+TOR002	°i jazz club° ((ride))
+TOR001	tipo?
+TOI006	tipo:: tipo il jazz [club] oppure:::
+TOR001	[eh okay]
 TOI006	no (.) non so:::
-TOR001	poi a beh locali dove si fa musica:: i pub
-TOR002	mh
-TOI006	silvano
-TOR001	ristora[nti]
-TOI006	[silva]no
-TOR001	enote[che] c(io)è non so adesso::
-TOR002	[chi è silvano]?
-TOI006	no era un posto dove andavamo una volta silvano, [era::], è stato il suo migliore amico per un po'
-TOR002	[sì]
+TOI006	poi a beh locali dove si fa musica:: i pub
+TOR001	mh
+TOR002	silvano
+TOI006	ristora[nti]
+TOR001	[silva]no
+TOI006	enote[che] c(io)è non so adesso::
+TOR001	[chi è silvano]?
+TOR002	no era un posto dove andavamo una volta silvano, [era::], è stato il suo migliore amico per un po'
+TOI006	[sì]
 TOR002	poi han litigato ((ride))
-TOR001	((ride))
-TOR002	quest'estate non siamo più andati dalla signora
-TOR002	mh
-TOI006	l'ho vista l'altro giorno, ti ho mandato anche la foto
-TOR002	sì
-TOR001	((ride))
-TOR002	ma chi era quella a cui hai fatto una foto in pullman per mandargliela? ((ride))
-TOI006	e diglielo, spiegaglielo chi era
-TOR001	praticamente [a volte] andavamo: in questo chiosco no?
-TOR001	[certo]
-TOI006	sì
-TOI006	in questo chiosco spesso eravamo io lui e marco
-TOR001	che mangiavamo: patatine e bevevamo birra
-TOI006	mh
-TOR002	principalmente era quella la serata, cioè noi uscivamo::
-TOR001	((ride))
-TOI006	((ride))
-TOR001	con mille:: aspettative e poi invece ci
 TOR002	((ride))
-TOR002	con mille euro mai
+TOR001	quest'estate non siamo più andati dalla signora
+TOR002	mh
+TOR002	l'ho vista l'altro giorno, ti ho mandato anche la foto
+TOI006	sì
+TOR002	((ride))
+TOR001	ma chi era quella a cui hai fatto una foto in pullman per mandargliela? ((ride))
+TOR002	e diglielo, spiegaglielo chi era
+TOI006	praticamente [a volte] andavamo: in questo chiosco no?
+TOR001	[certo]
+TOR001	sì
+TOI006	in questo chiosco spesso eravamo io lui e marco
+TOI006	che mangiavamo: patatine e bevevamo birra
+TOR001	mh
+TOI006	principalmente era quella la serata, cioè noi uscivamo::
+TOR002	((ride))
 TOR001	((ride))
-TOI006	((ride))
+TOI006	con mille:: aspettative e poi invece ci
+TOR001	((ride))
+TOR002	con mille euro mai
+TOR002	((ride))
+TOR001	((ride))
 TOI006	quei pochi, quei pochi spiccioli li spendevamo così
-TOR002	però lì c'era il giornale io leggevo la stampa, leggevo torino cronaca
-TOI006	una volta c'ha messo pure un film in tv [ci siam guardati il film in tv]
-TOR001	[sì (.) una sera avevo anche] il telecomando
-TOI006	((ride))
+TOI006	però lì c'era il giornale io leggevo la stampa, leggevo torino cronaca
+TOR002	una volta c'ha messo pure un film in tv [ci siam guardati il film in tv]
+TOI006	[sì (.) una sera avevo anche] il telecomando
+TOR001	((ride))
 TOI006	comunque::: niente: arrivev~
 TOI006	si presentava tutte le sere questa signora
-TOR001	goffa:
-TOI006	((ride))
+TOI006	goffa:
+TOR001	((ride))
 TOI006	e un po' matta
-TOR001	e diciamo ci scherzava~ ci ridevamo un po' sopra anche perché era una che borbottava un po':
-TOI006	((ride))
-TOR002	senza che nessuno gli dava:: conto
-TOI006	[si metteva la] giacca lì se gliela spostavi si [incazzava c(io)è]
+TOI006	e diciamo ci scherzava~ ci ridevamo un po' sopra anche perché era una che borbottava un po':
+TOR001	((ride))
+TOI006	senza che nessuno gli dava:: conto
+TOR002	[si metteva la] giacca lì se gliela spostavi si [incazzava c(io)è]
 TOI006	[si incazzava]
 TOI006	[se prendevi] il giornale prima di lei quindi::
 TOI006	insomma c'era una storia dentro questi::
 TOI006	poi questa iniziava con questa signora che gestiva sto chiosco
 TOI006	ti tirava fuori un pippone::
-TOR001	i cazzi suoi che a questa non gliene fregava nie~, ogni volta che si andava diceva io non ne posso più di questa
+TOI006	i cazzi suoi che a questa non gliene fregava nie~, ogni volta che si andava diceva io non ne posso più di questa
 TOR001	((ride))
-TOI006	((ride))
-TOR001	quindi ecco quello è
-TOI006	ma dalla signora veniva [questa]?
-TOR001	[sì sì]
+TOR001	((ride))
+TOI006	quindi ecco quello è
+TOR001	ma dalla signora veniva [questa]?
+TOI006	[sì sì]
 TOR001	a::h okay
 TOR001	va be:ne, segui il calcio?
-TOI006	[abbiamo] quasi finito eh
-TOR001	[sì]
-TOI006	((ride))
-TOR001	lo seguo attiva~ molto attivamente il calcio.
-TOI006	che squadra tifi?
-TOR002	il perugia
+TOR001	[abbiamo] quasi finito eh
+TOI006	[sì]
 TOR001	((ride))
+TOI006	lo seguo attiva~ molto attivamente il calcio.
+TOR001	che squadra tifi?
+TOI006	il perugia
+TOR002	((ride))
 TOR001	((ride))
-TOI006	come mai?
-???	perché:: sono qua~ da quando sono andato in curva nord mi sono innamorato del tifo, dei colori
-TOI006	cioè togli anche il fatto che è uno juventino venduto perché prima tifava juve
-TOR001	[ma che tifa]
-TOI006	[hai] cambiato squadra? [ma dai]
-???	[ma non è che tifavo]
-TOR002	[sì ha cambiato] io questo [l'ho scoperto dopo]
-TOI006	[si dai vabbè gianni questa cosa si può] dire però
-TOR002	ma non è che tifavo, a dieci[anni ragazzi]
-???	[da:i]
-TOR002	[dai]
-TOI006	[che c'avevi] la maglietta di trezeguet
-TOR001	sì me [l'avevano]
-TOI006	[la magli]etta [di trezeguet]
+TOR001	come mai?
+TOI006	perché:: sono qua~ da quando sono andato in curva nord mi sono innamorato del tifo, dei colori
+???	cioè togli anche il fatto che è uno juventino venduto perché prima tifava juve
+TOI006	[ma che tifa]
+TOR001	[hai] cambiato squadra? [ma dai]
+TOI006	[ma non è che tifavo]
+???	[sì ha cambiato] io questo [l'ho scoperto dopo]
+TOR002	[si dai vabbè gianni questa cosa si può] dire però
+TOI006	ma non è che tifavo, a dieci[anni ragazzi]
+TOR002	[da:i]
+???	[dai]
+TOR002	[che c'avevi] la maglietta di trezeguet
+TOI006	sì me [l'avevano]
+TOR001	[la magli]etta [di trezeguet]
 TOI006	[ma trezeguet era quella francese] eh
-TOR002	c'avevo quella di [del piero], il dieci senza [la scritta del piero]
+TOI006	c'avevo quella di [del piero], il dieci senza [la scritta del piero]
 TOR002	[ah è vero]
 TOR002	[è vero]
-TOI006	però [trezeguet ce l'avevi]
-TOR002	[e me l'ha regalata mio zio] perché lavorava per i sony
+TOR002	però [trezeguet ce l'avevi]
+TOI006	[e me l'ha regalata mio zio] perché lavorava per i sony
+TOR002	((ride))
 TOR001	((ride))
-TOI006	((ride))
-???	aveva dei buoni prezzi all'epoca [c'era la sony]
-TOR001	[comunque] uno juventino venduto
-TOI006	[e:::h quindi::]
+TOI006	aveva dei buoni prezzi all'epoca [c'era la sony]
+???	[comunque] uno juventino venduto
+TOR001	[e:::h quindi::]
 TOI006	[ma che c'entra venduto c'entra che] io quando poi sono entrato in uno stadio, in una realtà davvero dove c'era
 TOI006	il tifo
 TOI006	che conta:::
-???	[mi sono innamorato della: della::]
-TOR001	[il tifo che conta]
-TOI006	[ma a perugia] questo è [successo] ma e come mai sei andato a perugia?
+TOI006	[mi sono innamorato della: della::]
+???	[il tifo che conta]
+TOR001	[ma a perugia] questo è [successo] ma e come mai sei andato a perugia?
 TOI006	[sì]
-TOR001	perché lì c'è la mia tata ci [sono un po']
+TOI006	perché lì c'è la mia tata ci [sono un po']
 TOR001	[ah okay]
-TOI006	e si quindi sei capitato allo stadio e hai:::
-TOR001	sì
-TOI006	[c(io)è]
-TOR001	[da] quel giorno lì [io non] ho mai [dimenticato]
+TOR001	e si quindi sei capitato allo stadio e hai:::
+TOI006	sì
+TOR001	[c(io)è]
+TOI006	[da] quel giorno lì [io non] ho mai [dimenticato]
 TOR001	[okay]
-TOI006	[quindi] c'è un episodio spe[cifico]
-TOR001	[sì]
-TOI006	cioè [ti ricordi quando]
-TOR001	[cioè è come] l'amore a prima vista [sì sì]
-TOI006	[okay] va bene che partita era?
-TOR001	era perugia ascoli tra l'altro
-???	((ride))
-TOR002	bella
-TOI006	((ride))
+TOR001	[quindi] c'è un episodio spe[cifico]
+TOI006	[sì]
+TOR001	cioè [ti ricordi quando]
+TOI006	[cioè è come] l'amore a prima vista [sì sì]
+TOR001	[okay] va bene che partita era?
+TOI006	era perugia ascoli tra l'altro
+TOR001	((ride))
+???	bella
+TOR002	((ride))
 TOI006	molto (.) no scusa eh non so se era perugia torino
 TOI006	o perugia:::
-TOR002	sai che non so se:: sono indeciso sul dir[lo]
-TOI006	[perugia] torino mi sembra strano mica era [in bi]
-???	[forse] nel duemila e quattro no
-TOI006	è in serie a il [perugia]?
-TOR002	[nel] duemila e quattro abbiam fatto un e:h
-TOI006	era in lega pro il torino
+TOI006	sai che non so se:: sono indeciso sul dir[lo]
+TOR002	[perugia] torino mi sembra strano mica era [in bi]
+TOI006	[forse] nel duemila e quattro no
+???	è in serie a il [perugia]?
+TOI006	[nel] duemila e quattro abbiam fatto un e:h
+TOR002	era in lega pro il torino
 TOI006	no eravamo in serie a
-???	c'è stato lo scontro: eh scusa in serie bi eravamo
-TOI006	ecco
+TOI006	c'è stato lo scontro: eh scusa in serie bi eravamo
+???	ecco
 TOI006	e c'è stato un e:h i play off
 TOI006	che c'hanno rubato a::: perugia
 TOI006	però qua gli abbiam fatto l'uno a zero ma non è servito
 TOI006	non siam passati
 TOI006	però la prima prima partita dovrebbe essere stata juve ascoli
-TOR001	cioè perugia ascoli
+TOI006	cioè perugia ascoli
 TOR001	((ride)) che lapsus
-???	((ride))
+TOR001	((ride))
 ???	che lapsus
 ???	di certo la juve contro l'ascoli
-TOR001	((ride))
-TOI006	e in che:: in che serie sta il perugia?
-???	[adesso] in serie bi
-TOR001	[bi]
-TOI006	okay ma quindi vai a vederlo?
+???	((ride))
+TOR001	e in che:: in che serie sta il perugia?
+TOI006	[adesso] in serie bi
+???	[bi]
+TOR001	okay ma quindi vai a vederlo?
 TOI006	sì sì
-TOR001	mi capita di andare anche in altre città
+TOI006	mi capita di andare anche in altre città
 TOR001	ah sì? ma quindi vai::?
-TOI006	cioè vai con eh con gli [ultras] della:::
+TOR001	cioè vai con eh con gli [ultras] della:::
 TOI006	[da solo]
 TOI006	sì vado lì poi chi trovo trovo
 TOI006	okay
 TOI006	tipo l'altro giorno eravamo:: dove eravamo:?
 TOI006	a bologna? che c'era quello lì:
-???	tifava perugia
-TOI006	no:: eravamo:: a verona
-???	a verona
-TOI006	e c'era il negozio [delle:: delle maglie] dove vendevano tutte le maglie della serie a
+TOI006	tifava perugia
+???	no:: eravamo:: a verona
+TOI006	a verona
+???	e c'era il negozio [delle:: delle maglie] dove vendevano tutte le maglie della serie a
 TOI006	[c'era un negozio di maglie]
-???	tra l'altro ha [messo whatsapp]
-TOI006	[e lui fa non c'è] la maglia del [perugia]?
-???	[sai che] ha detto non c'ho whatsapp adesso ho visto che l'ha [messo]
-TOI006	[ah sì]?
-TOR001	mo gli scrivo antò forza grifo
-TOI006	((ride))
-TOR002	e allora è passato questo fa no:: e sì c'era quella del manchester e il bambino fa sì come quella del perugia tipo [e gli ho detto]
-TOI006	[mh mh]
-???	forza [gri~]
+TOI006	tra l'altro ha [messo whatsapp]
+???	[e lui fa non c'è] la maglia del [perugia]?
+TOI006	[sai che] ha detto non c'ho whatsapp adesso ho visto che l'ha [messo]
+???	[ah sì]?
+TOI006	mo gli scrivo antò forza grifo
+TOR001	((ride))
+TOI006	e allora è passato questo fa no:: e sì c'era quella del manchester e il bambino fa sì come quella del perugia tipo [e gli ho detto]
+TOR002	[mh mh]
+TOI006	forza [gri~]
 ???	[no]
-TOR001	il bambino voleva la maglia del milan o dell'inter e il padre gli fa no guarda che le maglie serie sono quelle del perugia
+???	il bambino voleva la maglia del milan o dell'inter e il padre gli fa no guarda che le maglie serie sono quelle del perugia
 TOR001	((ride))
-TOR002	((ride))
-???	mh
-TOR001	per nazione
-???	((ride))
-TOR001	come confondere i bambini fin da piccoli
-TOR002	((ride))
-TOI006	vedi lui che va dal bambino si forza gri~ il bambino si spaventa scappa
-???	no mi è capitato qualche anno fa di incontrare una famiglia ternana
-TOI006	(a:h di cade)
+TOR001	((ride))
+TOR002	mh
+???	per nazione
+TOR001	((ride))
+???	come confondere i bambini fin da piccoli
+TOR001	((ride))
+TOR002	vedi lui che va dal bambino si forza gri~ il bambino si spaventa scappa
+TOI006	no mi è capitato qualche anno fa di incontrare una famiglia ternana
+???	(a:h di cade)
 TOI006	su un tram qua e mi han chiesto un'informazione
-TOR001	e io non gliel'ho data
-TOI006	((ride))
+TOI006	e io non gliel'ho data
+TOR001	((ride))
 TOI006	io gli ho da~ eh parlavo e gli ho detto
-???	poi avevo visto il bambino che c'aveva i colori della ternana ma non ci volevo credere ho detto ah ma siete umbri di dove ah di terni a io gli ho fatto ah io tifo grifo tifo perugia gli ho detto allora
-TOI006	e il bambino gli ha fatto
-TOR002	praticamente sì
-TOR001	mh mh
-TOI006	((ride))
-TOR002	abbiamo iniziato a:: a scontrarci un attimo il padre [fa allora]
-TOI006	[col] bambino?
-TOR001	sì anche col bambino comunque il padre mi fa fai finta che non ci siamo mai conosciuti
-TOI006	eh madonna
-???	quando sono sceso e ho detto allora arrivederci e buon proseguimento
-TOI006	[sì]
-TOR002	[e faccio] e buon campionato visto che loro erano in serie bi tanto torneremo
-TOI006	((ride))
-TOR001	no no c'è proprio un [odio:]
-TOI006	[gente che tifa] ternana sul pullman
-???	c'è proprio un odio::
-TOR002	e poi sì il terni è una squadra interessante
+TOI006	poi avevo visto il bambino che c'aveva i colori della ternana ma non ci volevo credere ho detto ah ma siete umbri di dove ah di terni a io gli ho fatto ah io tifo grifo tifo perugia gli ho detto allora
+???	e il bambino gli ha fatto
+TOI006	praticamente sì
+TOR002	mh mh
+TOR001	((ride))
+TOI006	abbiamo iniziato a:: a scontrarci un attimo il padre [fa allora]
+TOR002	[col] bambino?
+TOI006	sì anche col bambino comunque il padre mi fa fai finta che non ci siamo mai conosciuti
+TOR001	eh madonna
+TOI006	quando sono sceso e ho detto allora arrivederci e buon proseguimento
+???	[sì]
+TOI006	[e faccio] e buon campionato visto che loro erano in serie bi tanto torneremo
 TOR002	((ride))
-???	com'è i colori? rosso verde?
-TOR002	verde e rosso sì
-TOI006	[aspetta invece l'avellinoo è bianco verde]
-TOR002	le pecore
-TOR001	((ride)) le pecore
-TOI006	e quindi vai abbastanza spesso allo stadio cioè quando [puoi vai]?
-TOR001	[sì sì] mi capita sì
-TOI006	e vai sempre in curva o [anche:: solo in curva]
+TOI006	no no c'è proprio un [odio:]
+TOR001	[gente che tifa] ternana sul pullman
+TOI006	c'è proprio un odio::
+???	e poi sì il terni è una squadra interessante
+TOR002	((ride))
+TOR002	com'è i colori? rosso verde?
+???	verde e rosso sì
+TOR002	[aspetta invece l'avellinoo è bianco verde]
+TOI006	le pecore
+TOR002	((ride)) le pecore
+TOR001	e quindi vai abbastanza spesso allo stadio cioè quando [puoi vai]?
+TOI006	[sì sì] mi capita sì
+TOR001	e vai sempre in curva o [anche:: solo in curva]
 TOI006	[sì sì sempre (.) eh] certo
-TOR002	a bologna ho fatto questioni che mi volevano mandare nei distinti
-TOR001	((ride)) questioni
+TOI006	a bologna ho fatto questioni che mi volevano mandare nei distinti
+TOR002	((ride)) questioni
 TOR001	((ride))
-TOI006	preferisci guardare le partite allo stadio o:::
+TOR001	preferisci guardare le partite allo stadio o:::
+TOI006	sì
 TOR001	sì
-TOR001	sì
-TOI006	e i [xxx]
-TOR001	[in cur]va è meglio che allo stadio
-TOI006	mh però in curva non si vede un po' un cazzo [no solo]
-TOR001	[sì ma si vive]
+TOR001	e i [xxx]
+TOI006	[in cur]va è meglio che allo stadio
+TOR001	mh però in curva non si vede un po' un cazzo [no solo]
+TOI006	[sì ma si vive]
 TOR001	okay si vive meglio ma non si vede la partita è ve~ vero però
-TOI006	e::h=mh
+TOR001	e::h=mh
 TOI006	eh lì in tv a casa se ti incazzi mi ha visto lui ti ricordi che siam passati in serie bi?
-TOR001	sono andato sul balcone di teo sì::
-TOI006	((ride))
+TOI006	sono andato sul balcone di teo sì::
+TOR001	((ride))
 TOI006	allo stadio::
-TOR001	tutti capiscono perché stai lì
-TOI006	e certo
-TOR001	stai urlando
+TOI006	tutti capiscono perché stai lì
+TOR001	e certo
+TOI006	stai urlando
 TOR001	ultima domanda
-TOR002	cosa?
-TOR001	no ridevo per e:h [ricordavo la scena]
+TOR001	cosa?
+TOR002	no ridevo per e:h [ricordavo la scena]
 TOR001	[pensando a lui sul balcone] che urla ah ho capito
-TOR002	ti piacc[iono::]
-TOR001	[tutta] la gente pazza a fianco
+TOR001	ti piacc[iono::]
+TOR002	[tutta] la gente pazza a fianco
 TOR001	((ride))
-TOI006	ti piace il cinema?
-TOR001	sì
-TOI006	che tipo di film guardi?
-TOR001	film a beh a me piacciono quelli di una volta i:: neore~ neo::realismi::
-TOI006	mh
-TOR001	neorealismo, così
-TOI006	mh mh
-TOR001	comici
-TOI006	e tipo quali sono i tuoi film preferiti?
-TOR002	beh il ragazzo di campagna
+TOR001	ti piace il cinema?
+TOI006	sì
+TOR001	che tipo di film guardi?
+TOI006	film a beh a me piacciono quelli di una volta i:: neore~ neo::realismi::
+TOR001	mh
+TOI006	neorealismo, così
+TOR001	mh mh
+TOI006	comici
+TOR001	e tipo quali sono i tuoi film preferiti?
+TOI006	beh il ragazzo di campagna
+TOR002	((ride))
 TOR001	((ride))
-TOI006	((ride))
-TOR001	pozzetto sì mi piace:: carlo verdone, di italiani troisi::
-TOI006	mh mh mh
+TOI006	pozzetto sì mi piace:: carlo verdone, di italiani troisi::
+TOR001	mh mh mh
 TOI006	e::h
 TOI006	se andiamo all'estero mi piacciono::
-TOR001	quelli di de niro spesso
-TOI006	mh mh
+TOI006	quelli di de niro spesso
+TOR001	mh mh
 TOI006	oppure:::
 TOI006	e::h
-TOR001	è da un po' che non vedo: ah eh a beh a me piacciono tanto quelli là del e:h degli anni settanta
-TOI006	cioè?
-TOR001	cioè quelli:: su roma spara milano [risponde]
-TOI006	[a::h] che fighi
-TOR002	a me quellii ne ho: guarda là sopra c'ho:::
-TOI006	((ride))
-TOR002	c'ho lo specia(le) c'ho dei cofanetti di::
-TOI006	((ride))
-TOR001	speciale delle colonne sonore
-TOI006	((ride))
-TOR002	c'è sia tipo er monnezza sono io,
+TOI006	è da un po' che non vedo: ah eh a beh a me piacciono tanto quelli là del e:h degli anni settanta
+TOR001	cioè?
+TOI006	cioè quelli:: su roma spara milano [risponde]
+TOR001	[a::h] che fighi
+TOI006	a me quellii ne ho: guarda là sopra c'ho:::
+TOR002	((ride))
+TOI006	c'ho lo specia(le) c'ho dei cofanetti di::
+TOR002	((ride))
+TOI006	speciale delle colonne sonore
 TOR001	((ride))
-TOI006	((ride))
-TOR002	ci sono:: le colonne sonore di franco micalizzi
+TOI006	c'è sia tipo er monnezza sono io,
+TOR002	((ride))
 TOR001	((ride))
-TOI006	((ride))
-TOR001	e armando trovajoli cioè no a me queste cose mi piacciono un sacco
-TOI006	io avevo visto milano odia la polizia non può sparare
-TOR001	pesante
-TOI006	quello è bello: a me era piaciuto un sacco
-TOR001	ah ma quello io mi guardo anche degli sketch al mattino quando mi sveglio
+TOI006	ci sono:: le colonne sonore di franco micalizzi
+TOR002	((ride))
+TOR001	((ride))
+TOI006	e armando trovajoli cioè no a me queste cose mi piacciono un sacco
+TOR001	io avevo visto milano odia la polizia non può sparare
+TOI006	pesante
+TOR001	quello è bello: a me era piaciuto un sacco
+TOI006	ah ma quello io mi guardo anche degli sketch al mattino quando mi sveglio
 TOR001	siamo andati tipo: dieci giorni fa a vedere::
-TOI006	((ride))
-TOR002	no no io: a me:
-???	((ride))
-TOI006	beh così
+TOR001	((ride))
+TOI006	no no io: a me:
+TOR002	((ride))
+???	beh così
 TOI006	no vabbè sai
-TOR001	[però gli faccio vedere]
+TOI006	[però gli faccio vedere]
 TOR001	[c'è una:::] mh
-TOI006	una mostra a milano, gliel'hai detto?
-TOR001	ah sì me l'avevi [detto]
+TOR001	una mostra a milano, gliel'hai detto?
+TOI006	ah sì me l'avevi [detto]
 TOR001	[sì gliel'ho] detto
-TOI006	eh se [passi vai] è bello:
+TOR001	eh se [passi vai] è bello:
 TOI006	[l'ho registrata]
-TOR001	e se riesco ad andare volentieri
-TOI006	molto carina
+TOI006	e se riesco ad andare volentieri
+TOR001	molto carina
 TOI006	quando lei mi vuole::
 TOI006	raggiungere a milano, ci andremo
-???	no dobbiamo andare all'outlet a novara più che [altro]
-TOI006	[sì]
+TOI006	no dobbiamo andare all'outlet a novara più che [altro]
+???	[sì]
 TOI006	se: combiniamo andiamo tutti
 TOI006	l'ho portata a vedere l'alfa romeo
 TOI006	cioè l'ho portata al centro veramente
-TOR001	[se no non la]
-???	[al centro hai detto? io non] sono mai andata
-TOI006	[ad arese]
-???	è enorme
+TOI006	[se no non la]
+TOR001	[al centro hai detto? io non] sono mai andata
+???	[ad arese]
+TOI006	è enorme
 ???	in realtà mi~
 ???	non c'è tanta:::
 ???	c(io)è tipo quei negozi tipo zara, quei negozi dove in genere vado di solito
 ???	non sono tanto riforniti
+???	((ride))
 TOR002	((ride))
-TOR001	((ride))
-TOI006	c'è poca roba?
-???	fammi mettere [a posto]
-TOR001	[sì: c'è] ci sono tanti negozi ma all'interno sono non sono riforniti come qui nel centro [delle] città
-TOI006	[okay]
-TOR001	quindi abbiam finito
+TOR001	c'è poca roba?
+TOI006	fammi mettere [a posto]
+???	[sì: c'è] ci sono tanti negozi ma all'interno sono non sono riforniti come qui nel centro [delle] città
+TOR001	[okay]
+TOI006	quindi abbiam finito
 TOR001	sì finiamo
 TOR001	grazie giovanni, no no no no a posto

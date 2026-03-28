@@ -1,101 +1,95 @@
-TOI058	sì sì mah cioè non non vi tengo prigionieri eh se poi dovete andare io non
+TOR001	sì sì mah cioè non non vi tengo prigionieri eh se poi dovete andare io non
 TOI058	sì no non vuoi passare
-TOR001	basta uno che si
+TOI058	basta uno che si
 TOR001	okay
 TOR001	va benissimo
-TOI058	dunque in che zona di torino vivi
-TOR001	parella
-TOI058	e hai sempre vissuto qui
-TOR001	sì
-TOI058	da sempre
+TOR001	dunque in che zona di torino vivi
+TOI058	parella
+TOR001	e hai sempre vissuto qui
+TOI058	sì
 TOR001	da sempre
-TOI058	okay
-TOI058	nella stessa via
-TOR001	ho cambibato tre volte casa ma
+TOI058	da sempre
 TOR001	okay
-TOI058	ma sempre nella stessa via
-TOR001	sempre nella stessa via
+TOI058	nella stessa via
+TOI058	ho cambibato tre volte casa ma
+TOR001	okay
+TOR001	ma sempre nella stessa via
+TOI058	sempre nella stessa via
 TOR001	oka~
-TOI058	quindi hai frequentato tutte le scuole qua
+TOR001	quindi hai frequentato tutte le scuole qua
 TOI058	eh no in realtà no
-TOR001	perché vabbè ero solo con mia madre quindi
-TOI058	okay
-TOR001	per comodità scuole che lei ap~ lavorava tra l'altro a san mauro
-TOI058	mh mh
+TOI058	perché vabbè ero solo con mia madre quindi
+TOR001	okay
+TOI058	per comodità scuole che lei ap~ lavorava tra l'altro a san mauro
+TOR001	mh mh
 TOI058	e quindi eh
 TOI058	scuole che venivano comodo
-TOR001	per andare al lavoro
-TOI058	okay per strada diciamo
-TOR001	che avessero anche orari più
-TOI058	più
-TOR001	più più elastici insomma
+TOI058	per andare al lavoro
+TOR001	okay per strada diciamo
+TOI058	che avessero anche orari più
+TOR001	più
+TOI058	più più elastici insomma
 TOR001	okay
-TOI058	e quindi dove hai frequentato le scuole
+TOR001	e quindi dove hai frequentato le scuole
 TOI058	ho fatto
-TOR001	le elementari al corso grosseto
-TOI058	mh mh
-TOR001	cafasso
-TOI058	okay
-TOR001	e poi le medie al cottolengo a porta palazzo
+TOI058	le elementari al corso grosseto
+TOR001	mh mh
+TOI058	cafasso
 TOR001	okay
-TOI058	
-TOR001	superiori due anni a porta palazzo
-TOI058	okay
-TOR001	e poi il triennio a grugliasco majorana
+TOI058	e poi le medie al cottolengo a porta palazzo
+TOR001	okay
+TOI058	superiori due anni a porta palazzo
+TOR001	okay
+TOI058	e poi il triennio a grugliasco majorana
 TOR001	okay quindi
 TOR001	mh m~
 TOR001	un sacco di
-TOI058	diciamo okay
-TOI058	
-TOR001	ho girato ho girato con le scuole ho girato sì
+TOR001	diciamo okay
+TOI058	ho girato ho girato con le scuole ho girato sì
 TOR001	okay
 TOR001	e
 TOR001	ti ricordi appunto dalla scuola come cambiavano
 TOR001	le persone in base
 TOR001	alla zona in cui si trova la scuola
-TOI058	o se cambiavano o se invece ti sembrava fosse abbastanza omogeneo
+TOR001	o se cambiavano o se invece ti sembrava fosse abbastanza omogeneo
 TOI058	mh
 TOI058	ma vabbè la
 TOI058	insomma
 TOI058	cioè tipo
-TOR001	mh le scuole elemntari le ho fatte tutte là quindi
-TOI058	mh mh
-TOR001	in realtà erano scuole private
-TOI058	mh mh
+TOI058	mh le scuole elemntari le ho fatte tutte là quindi
+TOR001	mh mh
+TOI058	in realtà erano scuole private
+TOR001	mh mh
 TOI058	quindi
 TOI058	che non raccoglievano fondamentalmente la gente del eh
-TOR001	del quartiere anzi xx
-TOI058	mh mh mh mh mh mh
-TOI059	veniva gente da
-TOI058	ciao
-TOI059	come me
-TOR001	scusa
+TOI058	del quartiere anzi xx
+TOR001	mh mh mh mh mh mh
+TOI058	veniva gente da
+TOI059	ciao
+TOI058	come me
+TOI059	scusa
 TOR001	ciao
-TOI059	figurati
-TOR001	lidia piacere
-TOI059	ciao anna
-TOR001	ma mia zia mi ha
-TOI059	
-TOR001	chiusa nell'angolo
-TOI059	
-TOI059	
+TOR001	figurati
+TOI059	lidia piacere
+TOR001	ciao anna
+TOI059	ma mia zia mi ha
+TOI059	chiusa nell'angolo
 TOI059	che non ci vediamo mai
-TOR001	allora
-TOI059	non c'è nessun problema
-TOR001	ne approfitta
+TOI059	allora
+TOR001	non c'è nessun problema
+TOI059	ne approfitta
 TOR001	allora
 TOR001	eh
 TOR001	po po po
 TOR001	facciamo che
 TOR001	allora a questo punto ti spiego dopo magari
 TOR001	o
-TOI058	come volete
+TOR001	come volete
 TOI058	ah sì per fir~
-TOR001	sì sì sì
-TOI058	sì pe~ xx uguale
-TOR001	mh
-TOI058	fac~ fa~ la faccio molto breve poi dopo se hai domande aggiungo
-TOR001	
+TOI058	sì sì sì
+TOR001	sì pe~ xx uguale
+TOI058	mh
+TOR001	fac~ fa~ la faccio molto breve poi dopo se hai domande aggiungo
 TOR001	eh appunto stiamo raccogliendo queste interviste tra torino e provincia
 TOR001	coinvolgendo persone diciamo di età diversa che abitano in zone diverse eccetera
 TOR001	e mh per fare raccontare le citt~ la la città
@@ -103,1266 +97,1167 @@ TOR001	al dalle persone che la abitano sostanzialmente
 TOR001	quindi vi faccio domande principalmente sui quartieri che conoscete di più
 TOR001	su mh mh
 TOR001	se è cambiato il quartiere nel corso del tempo quali sono le caratteristiche principali cose di questo tipo
-TOI059	e appunto registro l'intervista poi ti faccio firmare la liberatoria per utilizzare la registrazione
-TOR001	okay
+TOR001	e appunto registro l'intervista poi ti faccio firmare la liberatoria per utilizzare la registrazione
+TOI059	okay
 TOR001	oka~
-TOI059	poi dopo appunto se hai domande
-TOR001	va bene
+TOR001	poi dopo appunto se hai domande
+TOI059	va bene
 TOR001	dimmi tutto
-TOI058	ah chiede~ ti avevo chiesto del quart~ dei quartieri delle scuole giusto
-TOR001	sì
-TOI058	okay
+TOR001	ah chiede~ ti avevo chiesto del quart~ dei quartieri delle scuole giusto
+TOI058	sì
+TOR001	okay
 TOI058	eh quindi appunto la gente che veniva a scuola non era gente del quartiere in realtà quindi
-TOR001	non ho conosciuto proprio
+TOI058	non ho conosciuto proprio
 TOR001	mh mh mh mh
-TOI058	okay
+TOR001	okay
 TOI058	la la gente di
-TOR001	dei singoli quartieri
-TOI058	e invece poi dopo
+TOI058	dei singoli quartieri
+TOR001	e invece poi dopo
 TOI058	eh
 TOI058	boh fino alle superiori
 TOI058	in realtà anche anche lì non c'era
-TOR001	cioè non ho presente x la divisione del quartiere non
+TOI058	cioè non ho presente x la divisione del quartiere non
 TOR001	okay
-TOI058	okay
-TOR001	non lo so non mi sembra così così netta
-TOI058	okay
-TOR001	cioè almeno come l'ho conosciuta io solo
 TOR001	okay
-TOI059	eh tu invece hai sempre vissuto in questo quartiere
-TOR001	no
-TOI059	okay
+TOI058	non lo so non mi sembra così così netta
+TOR001	okay
+TOI058	cioè almeno come l'ho conosciuta io solo
+TOR001	okay
+TOR001	eh tu invece hai sempre vissuto in questo quartiere
+TOI059	no
+TOR001	okay
 TOI059	no
 TOI059	io
 TOI059	vabbè
-TOR001	da piccolissima sì perché i miei abitavano qua in via rosolino pilo
-TOI059	okay
-TOR001	poi si sono trasferiti a vinovo
-TOI059	okay
-TOR001	e poi a grugliasco
-TOI059	okay
-TOR001	e poi siam tornati di nuovo qua
+TOI059	da piccolissima sì perché i miei abitavano qua in via rosolino pilo
 TOR001	okay
-TOI059	quindi
-TOR001	sì
-TOR001	tanti
-TOI058	posti comunque diversi
-TOI059	
+TOI059	poi si sono trasferiti a vinovo
+TOR001	okay
+TOI059	e poi a grugliasco
+TOR001	okay
+TOI059	e poi siam tornati di nuovo qua
+TOR001	okay
+TOR001	quindi
 TOI059	sì
-TOR001	sì
-TOR001	
-TOI059	abbiamo anche vasco nel corpus
-TOR001	tanti posti
-TOI058	
-TOI059	
-TOI059	
-TOR001	sì tanti posti diversi
-TOI059	okay
+TOR001	tanti
+TOR001	posti comunque diversi
+TOI059	sì
+TOI059	sì
+TOR001	abbiamo anche vasco nel corpus
+TOI059	tanti posti
+TOI059	sì tanti posti diversi
+TOR001	okay
 TOI059	mh
 TOI059	livello scolastico io ho mh
-TOR001	andavo a scuola vicino a dove abitava mia nonna
-TOI059	mh mh
-TOR001	perché i miei hanno sempre lavorato per cui era lei che doveva occuparsi di portarmi eh eh
-TOI059	mh mh
+TOI059	andavo a scuola vicino a dove abitava mia nonna
+TOR001	mh mh
+TOI059	perché i miei hanno sempre lavorato per cui era lei che doveva occuparsi di portarmi eh eh
+TOR001	mh mh
 TOI059	e la zona era più o meno
-TOR001	piazza massaua
-TOI059	okay
-TOR001	via pacchiotti via servais
+TOI059	piazza massaua
 TOR001	okay
-TOI059	okay
+TOI059	via pacchiotti via servais
+TOR001	okay
+TOR001	okay
 TOI059	ho fatto l'asilo e le elementari
 TOI059	e anche le vabbè le medie qua in via p~
-TOR001	via pacchiotti sempre
-TOI059	okay
-TOR001	le superiori di nuovo là in via servais
-TOR001	
-TOI059	okay quindi tutto in zona
+TOI059	via pacchiotti sempre
+TOR001	okay
+TOI059	le superiori di nuovo là in via servais
+TOR001	okay quindi tutto in zona
 TOI059	sempre in zona
-TOR001	sì sì sì
+TOI059	sì sì sì
 TOR001	okay
 TOR001	eh eh come ti sei trovata nei diversi posti in cui hai vissuto
-TOI059	cioè quali erano diaciamo
-TOR001	mah allora ti dico a grugliasco ci andavo solo a dormire praticamente
-TOI059	okay
+TOR001	cioè quali erano diaciamo
+TOI059	mah allora ti dico a grugliasco ci andavo solo a dormire praticamente
+TOR001	okay
 TOI059	per cui
-TOR001	anche come amicizie giusto solo i ragazzini del eh del palazzo mah
-TOI059	okay
-TOR001	era proprio circoscritto prop~ magari al x sabato la domenica per cui non
+TOI059	anche come amicizie giusto solo i ragazzini del eh del palazzo mah
+TOR001	okay
+TOI059	era proprio circoscritto prop~ magari al x sabato la domenica per cui non
 TOR001	mh mh
-TOI059	okay
+TOR001	okay
 TOI059	eh
 TOI059	invece
-TOR001	scolastico bene
-TOI059	okay
-TOR001	tutti i ragazzini più o meno
+TOI059	scolastico bene
+TOR001	okay
+TOI059	tutti i ragazzini più o meno
 TOR001	va bene
 TOR001	okay
 TOR001	e quindi
-TOI059	dovendo scegliere preferiresti vivere in provincia o in città
-TOR001	no eh città
+TOR001	dovendo scegliere preferiresti vivere in provincia o in città
+TOI059	no eh città
 TOR001	okay
-TOI059	va bene okay
+TOR001	va bene okay
 TOI059	città tutta la vita
-TOR001	sì sì sì
-TOI059	perché dici
-TOR001	perché allora prima cosa io non guido
-TOI059	okay
-TOR001	per cui mi piace avere tutto comodo
-TOI059	
+TOI059	sì sì sì
+TOR001	perché dici
+TOI059	perché allora prima cosa io non guido
+TOR001	okay
+TOI059	per cui mi piace avere tutto comodo
 TOI059	e quindi
-TOR001	e poi no io fuori no
-TOI059	
-TOR001	città sì sì tutta la vita
+TOI059	e poi no io fuori no
+TOI059	città sì sì tutta la vita
 TOR001	okay
 TOR001	va bene
-TOI059	allora quindi diciamo che questoè il quartiere che conoscete meglio entrambi mi pare di capire okay
-TOR001	sì
-TOI058	vi piace il quartiere
+TOR001	allora quindi diciamo che questoè il quartiere che conoscete meglio entrambi mi pare di capire okay
 TOI059	sì
-TOR001	sì
-TOI058	okay
-TOR001	sì
-TOI059	quali sono gli aspetti positivi per voi
+TOR001	vi piace il quartiere
+TOI058	sì
+TOI059	sì
+TOR001	okay
+TOI058	sì
+TOR001	quali sono gli aspetti positivi per voi
 TOI059	il servizi
 TOI059	c'è tutto
 TOI059	tutto
 TOI059	ti serve una cosa e la trovi
 TOI059	a portata di
-TOR001	di passeggiata nel senso non devi prendere la macchina per nulla
-TOR001	
-TOI059	mh mh
+TOI059	di passeggiata nel senso non devi prendere la macchina per nulla
+TOR001	mh mh
 TOI059	e i servizi
 TOI059	son fondamentali
 TOI059	quindi
-TOR001	sì
+TOI059	sì
 TOR001	okay
-TOI058	e poi
+TOR001	e poi
 TOI058	vabbè poi il quartiere è
 TOI058	fondamntalmente p~ ti piace perché ci ci nasci
-TOR001	nel senso che
-TOI059	mh
-TOI058	mh mh
+TOI058	nel senso che
+TOR001	mh
+TOI059	mh mh
 TOI058	ci sono quartieri a torino dove
-TOR001	non ci andrei neanche
-TOR001	
-TOI058	
+TOI058	non ci andrei neanche
 TOI058	di passaggio
-TOR001	e c'è gente che eh che che che continua a vivere lì e si sposa e compra casa lì eh
-TOI058	mh mh
+TOI058	e c'è gente che eh che che che continua a vivere lì e si sposa e compra casa lì eh
+TOR001	mh mh
 TOI058	quindi boh quando
 TOI058	ti inf~ cioè
-TOR001	quando ci nasci boh ci nasci
-TOI059	è molto torinese questa cosa eh
-TOR001	mh
-TOI058	di essere super legati alla
+TOI058	quando ci nasci boh ci nasci
+TOR001	è molto torinese questa cosa eh
+TOI059	mh
+TOR001	di essere super legati alla
 TOI058	ah
-TOR001	ah
+TOI058	ah
 TOR001	alla zona
 TOR001	okay
 TOR001	quindi
-TOI059	però oltre ai servizi
-???	vieni vieni tranquillo
-???	
-???	
-TOI058	non c'è niente xxxxxx
+TOR001	però oltre ai servizi
+TOI059	vieni vieni tranquillo
+???	non c'è niente xxxxxx
 TOI058	non c'è niente
 TOI058	che tristezza
-TOR001	possiamo metter agli atti sto bambino triste qua che ha bisogno del tablet
-TOI058	
-???	spegni la tele
-TOR001	sì
+TOI058	possiamo metter agli atti sto bambino triste qua che ha bisogno del tablet
+TOI058	spegni la tele
+???	sì
 TOR001	okay
 TOR001	quindi
-TOI059	appunto dicevo oltre ai servizi ci sono delle cose che secondo voi sono particolarmente positive di questo quartiere
-TOR001	la vicinanza della metropolitana
-TOI059	mh mh
-TOR001	quello è adesso è fondamentale
-TOI059	mh mh
-TOR001	noi in dieci minuti siamo in centro siamo a collegno cioè ci spostiamo proprio
-TOI059	mh mh
-TOI059	velocemente
-TOI058	eh
-TOI059	vabbè poi ci sono i parchi anche c'è la pellerina c'è la tesoriera
+TOR001	appunto dicevo oltre ai servizi ci sono delle cose che secondo voi sono particolarmente positive di questo quartiere
+TOI059	la vicinanza della metropolitana
 TOR001	mh mh
-TOI059	sì eh
-TOI059	sì
-TOI058	la tesoriera
-TOR001	c'è ruffini insomma
-TOI059	
-TOR001	sì
-TOI058	mh mh mh mh mh
-???	senza
-TOI058	papi
-???	eh vieni qua
-TOI058	c'è un avviso sul diario
-TOR001	eh dopo me lo fai vedere fede
-TOR001	
-TOR001	okay
-TOI059	e invece secondo voi ci sono dei punti deboli di questo quartiere
-TOI059	sì
-TOR001	eh il nostro punto debole è stata la scuola
-TOI059	okay
-TOR001	perché non ci piacevano le scuola pubbliche
+TOI059	quello è adesso è fondamentale
+TOR001	mh mh
+TOI059	noi in dieci minuti siamo in centro siamo a collegno cioè ci spostiamo proprio
+TOR001	mh mh
+TOI059	velocemente
+TOI059	eh
+TOI058	vabbè poi ci sono i parchi anche c'è la pellerina c'è la tesoriera
 TOI059	mh mh
-TOR001	di questo quartiere
-TOI059	mh mh
-TOR001	e infatti abbiam mandato i bambini in una scuola paritaria
-TOR001	okay
-TOI059	sempre qui della zona però
+TOR001	sì eh
 TOI059	sì
-TOR001	sì sì sì sì sempre lì sì sì
-TOI058	okay
-TOI059	a cento metri da qua
-TOR001	sì
-TOI059	ah beh quindi
-TOI058	sì sì sì
+TOI059	la tesoriera
+TOI058	c'è ruffini insomma
+TOI059	sì
+TOR001	mh mh mh mh mh
+TOI058	senza
+???	papi
+TOI058	eh vieni qua
+???	c'è un avviso sul diario
+TOI058	eh dopo me lo fai vedere fede
+TOR001	okay
+TOR001	e invece secondo voi ci sono dei punti deboli di questo quartiere
+TOI059	sì
+TOI059	eh il nostro punto debole è stata la scuola
+TOR001	okay
+TOI059	perché non ci piacevano le scuola pubbliche
+TOR001	mh mh
+TOI059	di questo quartiere
+TOR001	mh mh
+TOI059	e infatti abbiam mandato i bambini in una scuola paritaria
+TOR001	okay
+TOR001	sempre qui della zona però
+TOI059	sì
+TOI059	sì sì sì sì sempre lì sì sì
+TOR001	okay
+TOI058	a cento metri da qua
+TOI059	sì
+TOR001	ah beh quindi
+TOI059	sì sì sì
 TOI058	dicevamo che
 TOI058	questa qua la conosciamo
-TOR001	perché l'ha frequentata sua sorella altra gente che
-TOI058	mh mh
-TOR001	che alla fine è quello che cioè la scuola non ti piace perché senti i giudizi della gente
-TOI059	mh mh mh certo
-TOI058	mh
+TOI058	perché l'ha frequentata sua sorella altra gente che
+TOR001	mh mh
+TOI058	che alla fine è quello che cioè la scuola non ti piace perché senti i giudizi della gente
+TOR001	mh mh mh certo
+TOI059	mh
 TOI058	eh eh e bon
-TOI059	però per le elementari
-TOR001	sì asilo a
-TOI059	okay
-TOR001	a scuola materna e elementari
-TOI059	ah
+TOI058	però per le elementari
+TOI059	sì asilo a
+TOR001	okay
+TOI059	a scuola materna e elementari
+TOR001	ah
 TOI059	alle medie invece
 TOI059	la più grande va in una scuola pubblica sempre comunque qua della zona
-TOR001	di cui ci hanno parlato molto bene e conosciamo raga~
-TOI059	xx
-TOR001	cioè ragazze che hanno frequentato per cui ci siamo
-TOI059	mh mh mh mh mh
+TOI059	di cui ci hanno parlato molto bene e conosciamo raga~
+TOR001	xx
+TOI059	cioè ragazze che hanno frequentato per cui ci siamo
+TOR001	mh mh mh mh mh
 TOI059	fidati
-TOR001	e e quest'anno è andata bene
+TOI059	e e quest'anno è andata bene
 TOR001	okay
-TOI059	okay
-TOI058	per cui
-TOI059	anche a livello economico
-TOR001	eh sì
-TOI059	
-TOR001	sì
-TOI059	bel sollievo
-TOR001	sì
-TOI059	
-TOI058	sì
-TOI059	sì sì
-TOR001	sì
-TOI059	certo
-TOR001	decisamente
 TOR001	okay
-TOI059	e altri aspetti secondo voi non tanto positivi del quartiere
-TOI059	ci sono dei locali che non
-TOI058	non sono tanto
-TOI059	vabbè ma quello c'è da~
-TOI059	eh
-TOI058	che cioè che attirano comunque gente che non
-TOI059	xxx
-TOR001	che non ci piace tanto
-TOR001	okay
-TOI059	m~ adesso no~ non se non volete farmi il nome del locale va bene ma tipo
-TOI059	
-TOR001	tipo un bar
-TOI059	okay
-TOI058	
-TOI058	vabbè ma di che di bar ci sono cioè
-TOI059	in tutte le zone
-TOR001	no vabbè che comunque ha una clientela che non è proprio
-TOI059	ma nel senso che poi cioè se capita di passarci davanti sei a disagio nel senso che fanno rumore nel senso che
-TOI059	no nel senso mh
-TOR001	che non non mi viene voglia neanche di entrare a prendere un caffè
-TOR001	okay
-TOI059	ah sì di questi uff
-TOR001	eh
-TOI058	sì
-TOI059	ah beh poi i bar che stanno aperti la notte poi
-TOI058	eh
-TOI059	sono frequentati insomma da
+TOI059	per cui
+TOI058	anche a livello economico
+TOI059	eh sì
 TOI059	sì
+TOR001	bel sollievo
+TOI059	sì
+TOI059	sì
+TOI058	sì sì
+TOI059	sì
+TOR001	certo
+TOI059	decisamente
+TOR001	okay
+TOR001	e altri aspetti secondo voi non tanto positivi del quartiere
+TOI059	ci sono dei locali che non
+TOI059	non sono tanto
+TOI058	vabbè ma quello c'è da~
+TOI059	eh
+TOI059	che cioè che attirano comunque gente che non
+TOI058	xxx
+TOI059	che non ci piace tanto
+TOR001	okay
+TOR001	m~ adesso no~ non se non volete farmi il nome del locale va bene ma tipo
+TOI059	tipo un bar
+TOR001	okay
+TOI058	vabbè ma di che di bar ci sono cioè
+TOI058	in tutte le zone
+TOI059	no vabbè che comunque ha una clientela che non è proprio
+TOR001	ma nel senso che poi cioè se capita di passarci davanti sei a disagio nel senso che fanno rumore nel senso che
+TOI059	no nel senso mh
+TOI059	che non non mi viene voglia neanche di entrare a prendere un caffè
+TOR001	okay
+TOR001	ah sì di questi uff
+TOI059	eh
 TOR001	sì
-TOI059	da chi è in giro di notte eh certo
-TOI058	in quel sen~
-TOI059	
-TOR001	eh in quel senso
-TOI058	okay
+TOI058	ah beh poi i bar che stanno aperti la notte poi
+TOI059	eh
+TOI058	sono frequentati insomma da
+TOI059	sì
+TOI059	sì
+TOR001	da chi è in giro di notte eh certo
+TOI059	in quel sen~
+TOI059	eh in quel senso
+TOR001	okay
 TOI058	però
 TOI058	cioè non è che
-TOR001	è una prerogativa di questa zona voglio dire a~ anzi
-TOI059	no no no certo
+TOI058	è una prerogativa di questa zona voglio dire a~ anzi
+TOR001	no no no certo
 TOI059	no
 TOI059	ce n'è uno
-TOI058	e bon
+TOI059	e bon
 TOI058	beh
-TOR001	vabbè
+TOI058	vabbè
 TOR001	okay
 TOR001	e
-TOI059	che tipo di persone abitano nel quartiere
+TOR001	che tipo di persone abitano nel quartiere
 TOI059	ogni
-TOR001	di tutti i tipi
-TOI059	okay
+TOI059	di tutti i tipi
+TOR001	okay
 TOI059	di tutti i tipi
 TOI059	cioè
 TOI059	dalla persona benestante a
 TOI059	la persona meno
-TOI058	abbiente
-TOI059	sì
-TOI058	tutti
+TOI059	abbiente
+TOI058	sì
+TOI059	tutti
 TOI058	ceto medio
+TOI058	sì
+TOI059	sì non
+TOI058	ci son le case popolari
+TOR001	mh mh
 TOI059	sì
-TOI058	sì non
-TOR001	ci son le case popolari
-TOI059	mh mh
-TOI059	sì
-TOI058	però ci sono anche case eh
-TOI059	ci sono case nuove
-TOI058	costose eh
-TOR001	in mezzo costose
-TOR001	
-TOI059	okay
-TOR001	sì sì
+TOI059	però ci sono anche case eh
+TOI058	ci sono case nuove
+TOI059	costose eh
+TOI058	in mezzo costose
+TOR001	okay
+TOI059	sì sì
 TOR001	ehm
 TOR001	non so
 TOR001	ehm
-TOI059	lo consigliereste per uno che si dovrebbe trasfe~ si dovesse trasferire a torino
+TOR001	lo consigliereste per uno che si dovrebbe trasfe~ si dovesse trasferire a torino
 TOI059	sì io sì
-TOR001	sì sì
-TOI058	sì
-TOR001	sì sì sì
-TOI059	okay quindi su~ opinione super positiva da quel che oka~
+TOI059	sì sì
+TOR001	sì
 TOI058	sì sì sì
-TOR001	mh
+TOR001	okay quindi su~ opinione super positiva da quel che oka~
+TOI059	sì sì sì
+TOI058	mh
 TOR001	io non sono di qua ma ci vivo
 TOR001	per me ci sono poche cose da fare
-TOI059	no non avete questa sensazione
-TOR001	poche cose da fare n~
+TOR001	no non avete questa sensazione
+TOI059	poche cose da fare n~
 TOR001	in zona
 TOR001	cioè
 TOR001	se
-TOI058	mh
-TOI059	eh dipende per chi
+TOR001	mh
+TOI058	eh dipende per chi
 TOI059	eh noi per esem~
-TOI058	cioè eh sì
-TOI059	beh una volta una volta che hai figli comunque non hai
+TOI059	cioè eh sì
+TOI058	beh una volta una volta che hai figli comunque non hai
 TOI059	per i giovani probabilmen~
-TOR001	eh sì
-TOI058	
-TOI059	cose da fare non ne hai più
-TOI058	
-TOI058	quindi
-TOI059	se non se non riguardano
-TOR001	sì
-TOI058	il tempo libero occupato diciamo
 TOI059	eh sì
-TOR001	sì
-TOI058	okay
-TOR001	o il cibo diciamo
-TOI058	
-TOI059	xxx unico
-TOR001	eh tu dici tipo al quadrilatero locali
-TOI059	no ma sì anche meno senza arrivare a a sì no cioè non andrei a vivere al quadrilatero per capirci
-TOI058	eh
-TOI059	
+TOI058	cose da fare non ne hai più
+TOI058	quindi
+TOI058	se non se non riguardano
+TOI059	sì
+TOR001	il tempo libero occupato diciamo
+TOI058	eh sì
+TOI059	sì
+TOR001	okay
+TOI058	o il cibo diciamo
+TOI058	xxx unico
+TOI059	eh tu dici tipo al quadrilatero locali
+TOR001	no ma sì anche meno senza arrivare a a sì no cioè non andrei a vivere al quadrilatero per capirci
+TOI059	eh
 TOI059	eh no
 TOI059	però
-TOR001	cose da fare
+TOI059	cose da fare
 TOR001	sì anche s~ s~ sì boh non so se dovessi uscire la sera
 TOR001	a meno che di andare al cinema o così
 TOR001	però
-TOI059	m~ mi sposterei
-TOI058	sì
-TOI059	ah sì
-TOR001	sì è vero
-TOI059	xxx
-TOR001	sì sì sì vita notturna no qua no
-TOI059	cioè senza poi ripeto non non che voglia andare a ballare e tornare alle quattro sbronza però
+TOR001	m~ mi sposterei
+TOI059	sì
+TOI058	ah sì
+TOI059	sì è vero
+TOR001	xxx
+TOI059	sì sì sì vita notturna no qua no
+TOR001	cioè senza poi ripeto non non che voglia andare a ballare e tornare alle quattro sbronza però
 TOI059	no
-TOI058	sì
-TOI059	però noi non noi la vita notturna non non sappiamo più cosa è quindi non
 TOI059	sì
-TOR001	no zero
+TOI058	però noi non noi la vita notturna non non sappiamo più cosa è quindi non
+TOI059	sì
+TOI059	no zero
 TOR001	okay
-TOI058	
-TOI059	non è un lato negativo tra~ anzi
-TOR001	se ti vuoi mangiare la pizza c'è la pizzeria se vuoi andare al pub c'è il pub se ti vuoi far la passeggiata
+TOI058	non è un lato negativo tra~ anzi
+TOI059	se ti vuoi mangiare la pizza c'è la pizzeria se vuoi andare al pub c'è il pub se ti vuoi far la passeggiata
 TOR001	sì questo sì
-TOI059	che pub ci sono in zona
-TOI058	ce n'è uno mh
-TOI059	ce n'è allora ce n'è uno piccolino
-TOI058	come si chiama quella via di là
-TOR001	in corso lecce
-TOI058	mh mh
-TOR001	il cartoccio sul lato destro là
-TOI058	mh mh
-TOI059	sulla sinistra c'è la domus
-TOR001	mh
-TOI058	okay
-TOR001	un po' più avanti sempre su corso lecce sulla sinistra
-TOI058	okay
-TOR001	poi ce n'è ne hanno aperto uno nuovo
-TOI059	eh quello l'ho visto
-TOI058	mh
-TOI059	eh
-TOI058	quello però è sciccoso
-TOI058	è un
-TOR001	è un pub gourmet
-TOR001	un pochino
-TOI059	eh vero
+TOR001	che pub ci sono in zona
+TOI059	ce n'è uno mh
+TOI058	ce n'è allora ce n'è uno piccolino
+TOI059	come si chiama quella via di là
+TOI058	in corso lecce
+TOR001	mh mh
+TOI058	il cartoccio sul lato destro là
+TOR001	mh mh
+TOI058	sulla sinistra c'è la domus
+TOI059	mh
+TOR001	okay
+TOI058	un po' più avanti sempre su corso lecce sulla sinistra
+TOR001	okay
+TOI058	poi ce n'è ne hanno aperto uno nuovo
+TOR001	eh quello l'ho visto
+TOI059	mh
 TOI058	eh
-TOR001	siamo andat~
-TOI058	poi con tutti gli sgabelli e tutto
-TOI058	stavam an~
-TOI059	siamo andati una volta giusto per provare ma non
-TOR001	sì
-TOI059	
+TOI059	quello però è sciccoso
+TOI058	è un
+TOI058	è un pub gourmet
+TOR001	un pochino
+TOR001	eh vero
 TOI059	eh
-TOR001	sì non
-TOI058	
-TOI059	non fa per noi
-TOI058	è un è un ristorante travestito da pub
-TOR001	sì
-TOI058	sì
-TOR001	sì sì
+TOI058	siamo andat~
+TOR001	poi con tutti gli sgabelli e tutto
+TOI058	stavam an~
+TOI058	siamo andati una volta giusto per provare ma non
 TOI059	sì
-TOR001	mh
-TOI058	è un po' troppo pettinato
-TOI059	ah ah ah
+TOI059	eh
+TOI059	sì non
+TOI058	non fa per noi
+TOI059	è un è un ristorante travestito da pub
+TOI058	sì
+TOR001	sì
+TOI058	sì sì
+TOR001	sì
+TOI059	mh
+TOR001	è un po' troppo pettinato
+TOI058	ah ah ah
+TOI059	sì
+TOI059	sì sì sì sì
+TOI058	poi anche dalle tue parti non c'è n'è uno
+TOR001	c'è lo sherlock
+TOI058	ah poi c'è lu~ lucas se esiste ancora
+TOI059	forse l'hanno chiuso un po' di anni fa
+TOI058	eh
+TOR001	non so
+TOI059	mh
+TOI058	ah
+TOI059	quello lì dove andiamo
+TOI059	e il il mh la birroteca
+TOR001	ah
+TOR001	più giù però no
+TOI059	mh
+TOI058	ah
+TOI058	eh quello non è male
+TOI059	mh
+TOR001	no è carino sì
+TOR001	okay
+TOI058	mh
+TOI058	mh
+TOR001	e i vostri amici o le persone che frequentate più spesso sono qui nel quartiere oppure no
+TOI058	ehm no in realtà no
+TOI059	no
+TOI058	no
+TOR001	okay
+TOI059	no
+TOR001	cioè sono sparse per la città
 TOI059	sì
 TOI058	sì sì sì sì
-TOR001	poi anche dalle tue parti non c'è n'è uno
-TOI058	c'è lo sherlock
-TOI059	ah poi c'è lu~ lucas se esiste ancora
-TOI058	forse l'hanno chiuso un po' di anni fa
-TOR001	eh
-TOI059	non so
+TOI059	sì
+TOR001	okay
+TOI059	anche fuori città
 TOI058	mh
-TOI059	ah
-TOI059	quello lì dove andiamo
-TOR001	e il il mh la birroteca
-TOR001	ah
-TOI059	più giù però no
-TOI058	mh
-TOI058	ah
-TOI059	eh quello non è male
-TOR001	mh
-TOR001	no è carino sì
-TOI058	okay
-TOR001	mh
-TOI058	
-TOR001	mh
-TOI058	e i vostri amici o le persone che frequentate più spesso sono qui nel quartiere oppure no
-TOI059	ehm no in realtà no
-TOI058	no
-TOR001	no
-TOI059	okay
-TOR001	no
-TOI059	cioè sono sparse per la città
-TOI058	sì
-TOI059	sì sì sì sì
-TOR001	sì
-TOI059	okay
-TOI058	anche fuori città
-TOI059	mh
-TOI058	comuni limitrofi
-TOR001	sì vabbè
-TOI058	okay
-TOR001	il bacino intorno
+TOI059	comuni limitrofi
+TOI058	sì vabbè
+TOR001	okay
+TOI058	il bacino intorno
 TOR001	quindi
-TOI059	città e provincia diciamo
+TOR001	città e provincia diciamo
+TOI059	mh
 TOI058	mh
-TOR001	mh
 TOR001	okay e come vi muovete solitamente
-TOI058	anche se dovete raggiungerli o
+TOR001	anche se dovete raggiungerli o
 TOI058	ma~
-TOI059	in macchina macchina
-TOR001	m~ mh in auto sì
+TOI058	in macchina macchina
+TOI059	m~ mh in auto sì
 TOR001	macchina
 TOR001	okay
-TOR001	
-TOI059	ecco ci sono delle cose che migliorereste della zona
-TOR001	la pulizia dei marciapiedi
-TOI058	
+TOR001	ecco ci sono delle cose che migliorereste della zona
+TOI059	la pulizia dei marciapiedi
 TOI058	mh
-TOI059	mah quello anche lì penso sia che un problema diffuso
-TOR001	delle persone
-TOI059	sì
-TOI058	che sporcano
-TOI058	eh sì che hanno il cane che che non raccolgono cioè
-TOR001	non i cani che non raccolgono i padroni che non raccolgono
-TOI059	
-TOI058	sì
-TOR001	no adesso è pieno io cioè ogni giorno poi poi mio figlio le centra tutte quindi
-TOR001	è pieno
-TOI059	
-TOI058	ha il radar
-TOI059	è devastante
+TOI058	mah quello anche lì penso sia che un problema diffuso
+TOI059	delle persone
 TOR001	sì
+TOI059	che sporcano
+TOI058	eh sì che hanno il cane che che non raccolgono cioè
+TOI058	non i cani che non raccolgono i padroni che non raccolgono
+TOI059	sì
+TOI058	no adesso è pieno io cioè ogni giorno poi poi mio figlio le centra tutte quindi
+TOR001	è pieno
+TOI059	ha il radar
+TOI058	è devastante
+TOI059	sì
 TOR001	okay
-TOI058	e altri e altri aspetti che che migliorereste
+TOR001	e altri e altri aspetti che che migliorereste
 TOI058	io ho una cosa mia metterei qui
-TOR001	il coso della padella viene xxx
-TOI059	sì viene viene benissimo
-TOI058	mh
-TOR001	e i fegatini
-TOI058	
-TOR001	no ma una cosa mia i~ gli cioè io metterei dossi agli attraversamenti ovunque
-TOI058	okay
-TOR001	dappertutto no perché
-TOI058	mh mh mh
+TOI058	il coso della padella viene xxx
+TOR001	sì viene viene benissimo
+TOI059	mh
+TOI058	e i fegatini
+TOI058	no ma una cosa mia i~ gli cioè io metterei dossi agli attraversamenti ovunque
+TOR001	okay
+TOI058	dappertutto no perché
+TOR001	mh mh mh
 TOI058	ci son delle
-TOR001	no cioè tipo piazza rivoli
-TOI058	sì
-TOR001	qualsiasi attraversamento è devastante
-TOI059	sì
-TOR001	mh
-TOI058	sì sì sì
-TOR001	o o che arrivano o che escono dalla rotonda
+TOI058	no cioè tipo piazza rivoli
+TOR001	sì
+TOI058	qualsiasi attraversamento è devastante
+TOR001	sì
+TOI059	mh
+TOR001	sì sì sì
+TOI058	o o che arrivano o che escono dalla rotonda
 TOR001	ma anche tutto
-TOI059	sì
-TOR001	sì vanno sparati eh
-TOI058	mh mh mh
-TOR001	quindi io li metterei ovunque
-TOI058	anche tutto corso francia no è un po' selvaggio riuscire a attraversare indenni cioè
+TOR001	sì
+TOI059	sì vanno sparati eh
+TOR001	mh mh mh
+TOI058	quindi io li metterei ovunque
+TOR001	anche tutto corso francia no è un po' selvaggio riuscire a attraversare indenni cioè
 TOI058	mh
-TOI059	eh
-TOI058	mh
-TOI058	
-TOI059	sì sì
+TOI058	eh
+TOI059	mh
+TOI058	sì sì
+TOI059	mh
+TOI059	mh
+TOI058	forse solo a bernini c'è qualche qualcosa
+TOR001	eh
+TOI058	davanti all'isef però
+TOR001	sì
+TOR001	sì è vero
 TOI059	mh
 TOI058	mh
-TOR001	forse solo a bernini c'è qualche qualcosa
-TOI058	eh
-TOR001	davanti all'isef però
-TOR001	sì
-TOI059	sì è vero
-TOI058	mh
-TOR001	mh
 TOR001	poca roba però
 TOR001	va bene
 TOR001	ehm mh mh mh
 TOR001	vi sembra che appunto
 TOR001	il quartiere sia cambiato negli anni
-TOI058	oppure vi sembra statico nel tempo
-TOI059	no a me sembra sempre uguale
-TOI058	sì anche a me mi sembra sempre ugua~
-TOR001	e poi è
-TOI058	
+TOR001	oppure vi sembra statico nel tempo
+TOI058	no a me sembra sempre uguale
+TOI059	sì anche a me mi sembra sempre ugua~
+TOI058	e poi è
 TOI058	è c~ è come come i
 TOI058	i figli no che
 TOI058	xxx
 TOI058	uno lo vede dopo un po' xx
-TOI059	mi com'è cresciuto
+TOI058	mi com'è cresciuto
 TOI059	sì
-TOI058	quando ci vivi
+TOI059	quando ci vivi
 TOI058	per me se
-TOI059	eh infatti
-TOI058	anche quando hanno cambiato il senso di marcia in piazza rivoli all'inizio sembrava una roba eh eh
-TOI059	eh
+TOI058	eh infatti
+TOI059	anche quando hanno cambiato il senso di marcia in piazza rivoli all'inizio sembrava una roba eh eh
+TOI058	eh
 TOI059	adesso
-TOI058	è normale
+TOI059	è normale
 TOI058	sì a parte
-TOI059	sì ste mega rotonde e poi una volta c'era il tram in corso francia
-TOR001	mh
-TOI058	mh mh
-TOR001	quindi
+TOI058	sì ste mega rotonde e poi una volta c'era il tram in corso francia
+TOI059	mh
+TOR001	mh mh
+TOI058	quindi
 TOR001	okay
-TOI058	e dove passava in mezzo o ai lati
+TOR001	e dove passava in mezzo o ai lati
 TOI058	ah
-TOI059	passava di lato
-TOI058	ai lati
-TOI059	cioè
-TOI058	mh
+TOI058	passava di lato
+TOI059	ai lati
+TOI058	cioè
+TOI059	mh
 TOI058	tra
 TOI058	tra met~
 TOI058	tra la metà
-TOI059	destra andando dritto e il controviale
-TOR001	sì
-TOI059	okay
-TOR001	mh
-TOI059	okay
-TOI058	sì c'era l'uno
+TOI058	destra andando dritto e il controviale
+TOI059	sì
+TOR001	okay
 TOI059	mh
-TOR001	mh
-TOI058	
+TOR001	okay
+TOI059	sì c'era l'uno
+TOI058	mh
+TOI059	mh
 TOI058	da~ andava da
-TOI059	sì da piazza massaua fino a piazza carducci
-TOR001	sì
-TOI058	wow
-TOR001	più o meno come la metro sì
+TOI058	sì da piazza massaua fino a piazza carducci
+TOI059	sì
+TOR001	wow
+TOI058	più o meno come la metro sì
 TOR001	eh eh eh eh
 TOR001	okay
 TOR001	quindi vi sembra tutto sommato tutto uguale
-TOI059	che non ci siano
-TOI058	sì l'impressione è sì
-TOR001	sì qualcosa dell'urbanistica
-TOI058	okay
-TOI059	vabbè sottopasso per esempio
+TOR001	che non ci siano
+TOI059	sì l'impressione è sì
+TOI058	sì qualcosa dell'urbanistica
+TOR001	okay
+TOI058	vabbè sottopasso per esempio
 TOI059	mh
-TOI058	sì l'unica cosa no la cosa invece che è cambiata tanto negli anni sono i negozi
-TOR001	xxx
-TOI059	mh mh
-TOR001	hanno chiuso tantissimi negozi
-TOI059	mh mh
+TOI059	sì l'unica cosa no la cosa invece che è cambiata tanto negli anni sono i negozi
+TOI058	xxx
+TOR001	mh mh
+TOI059	hanno chiuso tantissimi negozi
+TOR001	mh mh
 TOI059	per esempio in questa via
-TOR001	tantissime attività commerciali chiuse e hanno trasformato i negozi in abitazioni
-TOI059	okay
+TOI059	tantissime attività commerciali chiuse e hanno trasformato i negozi in abitazioni
+TOR001	okay
 TOI059	per cui tu se qua
 TOI059	passeggi la sera
-TOR001	è tutto chiuso
-TOI059	mh mh
-TOI059	non c'è un negozio non c'è una luce quello sì
-TOR001	tantissime attività com~ piccole attività commerciali
-TOI059	mh mh
-TOI058	son proprio morte
-TOI058	però chiudono in via roma
-TOI059	chiudono le gru quindi
-TOI058	sì però
-TOR001	perché non dovrebbero chiudere via domodossola
-TOI059	
-TOI059	eh sì
-TOI058	però qua ce ne erano tanti
-TOI059	anche lì a~ anche lì non è una prerogativa della zona
-TOR001	no no
-TOI059	no no
-TOI058	però è cambiato in questo senso prima era molto più commerciale
+TOI059	è tutto chiuso
 TOR001	mh mh
-TOI059	okay
+TOI059	non c'è un negozio non c'è una luce quello sì
+TOI059	tantissime attività com~ piccole attività commerciali
+TOR001	mh mh
+TOI059	son proprio morte
+TOI058	però chiudono in via roma
+TOI058	chiudono le gru quindi
+TOI059	sì però
+TOI058	perché non dovrebbero chiudere via domodossola
+TOI059	eh sì
+TOI059	però qua ce ne erano tanti
+TOI058	anche lì a~ anche lì non è una prerogativa della zona
+TOI059	no no
+TOR001	no no
+TOI059	però è cambiato in questo senso prima era molto più commerciale
+TOI058	mh mh
+TOR001	okay
 TOI059	adesso è rimasta commerciale magari la piazza
-TOR001	e non più la via
-TOI058	mh mh
-TOR001	cioè son cose che che cambiano in tutto non è
-TOI058	sì sì
+TOI059	e non più la via
+TOR001	mh mh
+TOI058	cioè son cose che che cambiano in tutto non è
+TOR001	sì sì
 TOI058	come i supermercati bon
-TOR001	cioè una volta c'era a~ il il continente di corso monte cucco
-TOI058	sì sì
-TOR001	e bon
-TOI058	mh mh
+TOI058	cioè una volta c'era a~ il il continente di corso monte cucco
+TOR001	sì sì
+TOI058	e bon
+TOR001	mh mh
 TOI058	adesso eh
-TOR001	pieno pieno
-TOI059	però è vero no che cambia tanto poi la faccia del quartiere
-TOR001	sì
-TOI058	quando cambiano i negozi
-TOI059	ah sì è un po' più mh
+TOI058	pieno pieno
+TOR001	però è vero no che cambia tanto poi la faccia del quartiere
+TOI059	sì
+TOR001	quando cambiano i negozi
+TOI058	ah sì è un po' più mh
 TOI059	sì
 TOI059	sì
-TOI058	c'è meno gente in giro ma anche la sera mh cioè tipo io alle otto vado a prendere arianna in palestra prima c'erano i negozi aperti comunque
+TOI059	c'è meno gente in giro ma anche la sera mh cioè tipo io alle otto vado a prendere arianna in palestra prima c'erano i negozi aperti comunque
 TOI058	triste un po' più
-TOI059	eh
-TOR001	gente che adesso no
-TOI058	certo
-TOI059	sì a natale mettevano gli addobbi
-TOR001	eh è vero
-TOI058	mh
-TOI058	adesso no
-TOR001	sono in tre
-TOI059	
 TOI058	eh
-TOR001	dividersi la spesa dice vabbè mi metto la mia lucina
-TOI058	
-TOR001	fuori e bon
-TOI059	okay
+TOI059	gente che adesso no
+TOR001	certo
+TOI058	sì a natale mettevano gli addobbi
+TOI059	eh è vero
 TOR001	mh
-TOR001	e hanno aperto dei negozi nuovi invece
-TOI059	o xx magari hanno preso gestioni vecchie son cambiate le persone sono
-TOI058	s~
-TOI059	ma qualc~ poca roba
-TOI059	pochissimi
-TOR001	pochissimi la maggior parte sono proprio chiusi
-TOI059	okay
-TOR001	ma proprio chiusi
-TOI059	okay
-TOI058	e non hanno riaperto
-TOI059	sì beh qua qua sotto ce ne sono tre
-TOI059	o niente
-TOR001	eh
-TOI058	mh mh
-TOI059	e due sono chiusi
-TOI058	eh
-TOR001	del palazzo
-TOI058	okay
-TOI059	ce n'è solo più una che sta andando in pensione e tra l'altro
-TOI058	e che chiuderà
+TOI058	adesso no
+TOI058	sono in tre
 TOI059	eh
-TOR001	eh quindi
+TOI058	dividersi la spesa dice vabbè mi metto la mia lucina
+TOI058	fuori e bon
+TOR001	okay
 TOI059	mh
-TOR001	fra sei mesi saranno tutti chiusi
+TOR001	e hanno aperto dei negozi nuovi invece
+TOR001	o xx magari hanno preso gestioni vecchie son cambiate le persone sono
+TOI059	s~
+TOI058	ma qualc~ poca roba
+TOI059	pochissimi
+TOI059	pochissimi la maggior parte sono proprio chiusi
+TOR001	okay
+TOI059	ma proprio chiusi
+TOR001	okay
+TOI059	e non hanno riaperto
+TOI058	sì beh qua qua sotto ce ne sono tre
+TOI059	o niente
+TOI059	eh
+TOR001	mh mh
+TOI058	e due sono chiusi
+TOI059	eh
+TOI058	del palazzo
+TOR001	okay
+TOI058	ce n'è solo più una che sta andando in pensione e tra l'altro
+TOI059	e che chiuderà
+TOI058	eh
+TOI059	eh quindi
+TOR001	mh
+TOI059	fra sei mesi saranno tutti chiusi
 TOR001	okay
 TOR001	d'accordo
-TOI059	però per per esempio nel cioè nell'isolato in cui abito ci sono credo tre sarti cinesi
-TOR001	sì
-TOI058	tre
+TOR001	però per per esempio nel cioè nell'isolato in cui abito ci sono credo tre sarti cinesi
+TOI059	sì
+TOR001	tre
 TOI058	ah
-TOI059	no noi ne abbiamo uno solo
-TOR001	sì uno noi ne abbiamo uno
-TOI059	per quello chiedevo se ci fossero altri
-TOR001	mh
-TOI058	posti che magari non lo so fino a non tantissimi anni fa non non c'erano
-TOR001	vabbè i kebab
-TOI059	eh giusto
-TOI058	ah sì
-TOR001	questo qua di piazza rivoli
-TOI058	è buono tra l'altro
-TOR001	che
-TOI058	
-TOR001	
-TOI058	a me piace
-TOR001	eh sì è sempre pieno
-TOI058	tra tra quelli diciamo
-TOR001	xx
-TOI058	luridi
-TOR001	
-TOI058	io apprezzo quelli a xxxx
-TOR001	sì sì
-TOI058	
-TOR001	sì cerco di evitarlo il kebab però se proprio
+TOI058	no noi ne abbiamo uno solo
+TOI059	sì uno noi ne abbiamo uno
+TOR001	per quello chiedevo se ci fossero altri
+TOI059	mh
+TOR001	posti che magari non lo so fino a non tantissimi anni fa non non c'erano
+TOI058	vabbè i kebab
+TOR001	eh giusto
+TOI059	ah sì
+TOI058	questo qua di piazza rivoli
+TOR001	è buono tra l'altro
+TOI058	che
+TOR001	a me piace
+TOI058	eh sì è sempre pieno
+TOR001	tra tra quelli diciamo
+TOI058	xx
+TOR001	luridi
+TOR001	io apprezzo quelli a xxxx
+TOI058	sì sì
+TOI058	sì cerco di evitarlo il kebab però se proprio
 TOR001	sì no beh
 TOR001	sì
 TOR001	vabbè
-TOI058	almeno fa un po' di folclore
-TOR001	sì beh
+TOR001	almeno fa un po' di folclore
+TOI058	sì beh
 TOR001	va bene
 TOR001	ehm mh mh mh
 TOR001	e invece la città complessivamente vi sembra cambiata negli ultimi anni
-TOI058	al di là del quartiere
-TOR001	eh questi cambiamenti qua che alla fine li vedi in piccolo li vedi anche in grande quindi
-TOI058	mh mh
+TOR001	al di là del quartiere
+TOI058	eh questi cambiamenti qua che alla fine li vedi in piccolo li vedi anche in grande quindi
+TOR001	mh mh
 TOI058	un po' i negozi che chiudono
 TOI058	vabbè poi ovviamente
 TOI058	aumentano
-TOR001	gli stranieri che si
-TOI058	mh mh
-TOR001	si si si insediano eh
+TOI058	gli stranieri che si
+TOR001	mh mh
+TOI058	si si si insediano eh
 TOR001	beh in questo quartiere
-TOI059	non tantissimo però no
-TOR001	però per esempio questa via
-TOI059	mh mh
-TOR001	se tu già passi piazza chironi
-TOI059	mh mh
-TOR001	ehm ce n'è molti di più
+TOR001	non tantissimo però no
+TOI059	però per esempio questa via
+TOR001	mh mh
+TOI059	se tu già passi piazza chironi
+TOR001	mh mh
+TOI059	ehm ce n'è molti di più
 TOR001	okay
 TOR001	okay
-TOI059	d'accordo
-TOI058	proprio
+TOR001	d'accordo
+TOI059	proprio
+TOI058	mh
+TOI059	tanti
+TOR001	mh mh
 TOI059	mh
-TOR001	tanti
-TOI059	mh mh
-TOR001	mh
-TOI058	e da dove vengono
+TOR001	e da dove vengono
 TOI058	sì poi vabbè c'è
 TOI058	vabbè ah c~
-TOI059	mah in zona xx particolari vengono dal
+TOI058	mah in zona xx particolari vengono dal
 TOI059	ah beh il palazzo di tua mamma
-TOI058	so~ quasi tutti rumeni
-TOI059	vengono dall'est sì i rumeni sono quelli più più più più più diffusi
+TOI059	so~ quasi tutti rumeni
+TOI058	vengono dall'est sì i rumeni sono quelli più più più più più diffusi
 TOI059	c'è soltanto più
 TOI059	sua mamma
 TOI059	e un'altra signora
-TOR001	
 TOR001	mh
 TOR001	oka~
-TOI059	io ho solo vecchi piemontesi per quello son~ ho una visione un po' distorta
-TOI058	
-TOI059	
+TOR001	io ho solo vecchi piemontesi per quello son~ ho una visione un po' distorta
 TOI059	no nel palazzo di sua mamma che abita qua di fronte son rimaste
-TOR001	due tre faglie italiane
-TOI058	ah okay
-TOR001	due
-TOI059	e sono rumeni dicevate più o meno
+TOI059	due tre faglie italiane
+TOR001	ah okay
+TOI058	due
+TOR001	e sono rumeni dicevate più o meno
 TOI059	mh
+TOI059	sì
 TOI058	sì
 TOI059	sì
+TOI059	sì sì sì sì
+TOI058	beh qua sono tutti in affitto quindi
+TOR001	mh mh
 TOI059	sì
-TOI058	sì sì sì sì
-TOR001	beh qua sono tutti in affitto quindi
-TOI059	mh mh
-TOR001	sì
-TOI059	mh mh
-TOR001	sì sì sì
-TOI059	okay
-TOI058	la maggior parte sì
-TOR001	sì
+TOR001	mh mh
+TOI059	sì sì sì
+TOR001	okay
+TOI059	la maggior parte sì
+TOI058	sì
 TOR001	okay
 TOR001	d'accordo
-TOI058	e però in generale non vi sembra sia cambiata quindi la città negli ult~ sostanzialmente al di là dei negozi al di là di migranti
+TOR001	e però in generale non vi sembra sia cambiata quindi la città negli ult~ sostanzialmente al di là dei negozi al di là di migranti
 TOI058	vabbè ci son stati mh
 TOI058	un po' di riqualificazioni
-TOR001	quindi a livello di urbanistica
-TOI058	mh mh
+TOI058	quindi a livello di urbanistica
+TOR001	mh mh
 TOI058	porta susa
 TOI058	e i grattecieli
-TOR001	il grattacielo perché l'altro
-TOI059	
-TOI058	mh mh mh mh
-TOR001	sto cadavere lì
-TOI058	
+TOI058	il grattacielo perché l'altro
+TOI059	mh mh mh mh
+TOI058	sto cadavere lì
 TOI058	tristezza
-TOR001	eh
-TOI058	okay
+TOI058	eh
+TOR001	okay
 TOI058	corsi nuovi insomma mh
-TOR001	sottopassi sta ceracando un po' di xxx
-TOI058	mh mh
-TOR001	da quel punto di vista di migliorare un po'
+TOI058	sottopassi sta ceracando un po' di xxx
+TOR001	mh mh
+TOI058	da quel punto di vista di migliorare un po'
 TOR001	non vi sembra però che stia mh cambiata un po' l'immagine di torino negli anni
 TOR001	cioè
 TOR001	ehm
 TOR001	che si stia un po' smarcata dall'idea che fosse
-TOI058	eh
+TOR001	eh
 TOI058	mah la ve la vedo cioè la vedo
-TOI059	la
-TOI058	mi viene in mente la cosa di crozza
+TOI058	la
+TOI059	mi viene in mente la cosa di crozza
 TOI058	leggendo a livello turistico che eh
-TOI059	insomma
-TOI058	sì
+TOI058	insomma
+TOI059	sì
 TOI058	è una città che tira
 TOI058	lo dice nel eh
-TOI059	il prece~
-TOR001	
-TOI058	
-TOR001	il presidente de luca della regione campania
-TOR001	
-TOI058	sì
-TOI058	che non si capacitava del fatto che napoli fosse al sedicesimo posto come città turistica e e torino fosse
-TOI058	
-TOR001	fosse davanti
-TOI058	
-TOI058	x poi c'era crozza che lo imitava e lo prendeva in giro
-TOI059	è bellissimo quel pezzo
+TOI058	il prece~
+TOI058	il presidente de luca della regione campania
 TOR001	sì
-TOI058	
+TOI058	che non si capacitava del fatto che napoli fosse al sedicesimo posto come città turistica e e torino fosse
+TOI058	fosse davanti
+TOI058	x poi c'era crozza che lo imitava e lo prendeva in giro
+TOI058	è bellissimo quel pezzo
+TOI059	sì
 TOI058	e quindi
-TOI059	quindi boh
-TOI058	se ti capita gua~ guardalo
-TOR001	vabbè poi cioè
-TOI058	dopo lo cerco
-TOI058	
-TOR001	no fa mor~
-TOI058	
-TOR001	sì gli dice tip~ mh vabbè adesso magari alla gente non gliene frega niente vabbè
-TOI058	
-TOR001	taglia~
+TOI058	quindi boh
+TOI059	se ti capita gua~ guardalo
+TOI058	vabbè poi cioè
+TOR001	dopo lo cerco
+TOI058	no fa mor~
+TOI058	sì gli dice tip~ mh vabbè adesso magari alla gente non gliene frega niente vabbè
+TOI058	taglia~
 TOR001	okay dopo dopo tagliamo va bene
-TOI059	no però è vero eh che ci sono un sacco di turisti in più
+TOR001	no però è vero eh che ci sono un sacco di turisti in più
 TOI059	no ci sono
-TOI058	ci sono un sacco di turisti noi un giorno che c'era sono venuti a trovarci dei nostri amici li abbiamo portati a fare un giro in centro
-TOI059	mh mh
-TOR001	volevano andare al museo egizio ma c'era una coda
-TOI059	mh mh
-TOI059	infinita
-TOR001	infinita
+TOI059	ci sono un sacco di turisti noi un giorno che c'era sono venuti a trovarci dei nostri amici li abbiamo portati a fare un giro in centro
 TOI058	mh mh
-TOR001	mh
-TOI058	si vedono
-TOR001	però è be~ be~ cioè è bella torino xx
-TOI059	sì sì no son d'accordo
+TOI059	volevano andare al museo egizio ma c'era una coda
+TOR001	mh mh
+TOI059	infinita
+TOI059	infinita
+TOR001	mh mh
+TOI058	mh
+TOR001	si vedono
+TOI058	però è be~ be~ cioè è bella torino xx
+TOR001	sì sì no son d'accordo
 TOI059	sì no anche il centro a fare una passeggiata anche
-TOI058	così è
-TOI059	infatti domenica vengono dei nostri amici da roma
+TOI059	così è
+TOI058	infatti domenica vengono dei nostri amici da roma
 TOI059	bello
-TOI058	eh li portiamo in giro
-TOR001	le xx
-TOI058	e che giro fate fare di solito appunto se avete amici da fuori
-TOR001	s~
-TOI058	quali sono i punti
+TOI059	eh li portiamo in giro
+TOI058	le xx
+TOR001	e che giro fate fare di solito appunto se avete amici da fuori
+TOI058	s~
+TOR001	quali sono i punti
 TOI058	no ma quella
 TOI058	quelli di mi~ l'ultimi lì di che sono venuti da milano
-TOI059	fatto fare un giro della madonna
-TOR001	sì
-TOI058	
-TOI059	lì abbiam fatto tipo tutta via garibaldi
-TOI058	abbiam fatti camminare tant~
+TOI058	fatto fare un giro della madonna
+TOI059	sì
+TOI058	lì abbiam fatto tipo tutta via garibaldi
+TOI059	abbiam fatti camminare tant~
 TOI058	tutta via po
 TOI058	fino in fondo
-TOI059	poi tutto l~
+TOI058	poi tutto l~
 TOI059	piazza castello
-TOI058	piazza
-TOI059	sì siamo già in via po amore
-TOR001	eh
-TOI058	
-TOI059	
-TOI058	vabbè
+TOI059	piazza
+TOI058	sì siamo già in via po amore
+TOI059	eh
+TOI059	vabbè
 TOI058	da via garibaldi a fare andare in via po eh eh vien da sé che piazza castello
-TOR001	minchia
-TOI058	
-TOI059	correggimi se sbaglio
-TOR001	dovevi dirlo
-TOI059	
-TOI058	hai circumnavigato piazza castello
+TOI058	minchia
+TOI058	correggimi se sbaglio
+TOI059	dovevi dirlo
+TOI059	hai circumnavigato piazza castello
 TOI058	vabbè poi abbiam fatto tutto il parco
-TOR001	il valentino
-TOI058	uh caspita
-TOR001	siamo arrivati al lingotto sì x
-TOI058	
-TOI059	infatti credo che non credo che non verranno più
-TOR001	erano un po' stanchi
-TOI058	morti esatto
-TOI059	
-TOI058	eh sì perché andiamo a vedere quello ah ma c'è anche quello da vedere ah ma andiamo fino a là
-TOR001	sì poi via po anche tutte le le
-TOI058	eh certo
-TOR001	la mole
-TOI058	no è beh
-TOR001	tutte le varie cose
-TOR001	
-TOI059	okay
-TOR001	mh
+TOI058	il valentino
+TOR001	uh caspita
+TOI058	siamo arrivati al lingotto sì x
+TOI058	infatti credo che non credo che non verranno più
+TOI059	erano un po' stanchi
+TOR001	morti esatto
+TOI059	eh sì perché andiamo a vedere quello ah ma c'è anche quello da vedere ah ma andiamo fino a là
+TOI058	sì poi via po anche tutte le le
+TOR001	eh certo
+TOI058	la mole
+TOR001	no è beh
+TOI058	tutte le varie cose
+TOR001	okay
+TOI059	mh
 TOR001	quindi
-TOI059	ehm soprattutto appunto passeggiare
-TOR001	sì
-TOI059	o ci sono secondo voi del delle cose appunto tipo il museo egizio cioè delle attrazioni tra virgolette da vedere secondo voi
+TOR001	ehm soprattutto appunto passeggiare
 TOI059	sì
-TOI058	sì
+TOR001	o ci sono secondo voi del delle cose appunto tipo il museo egizio cioè delle attrazioni tra virgolette da vedere secondo voi
+TOI059	sì
+TOI059	sì
 TOI058	ci sono sì però n~
 TOI058	cioè
-TOR001	se la insegni in un giorno così veloce facciamo un giro in centro
-TOI059	no certo
+TOI058	se la insegni in un giorno così veloce facciamo un giro in centro
+TOR001	no certo
 TOI059	però il museo egizio è il museo egizio
 TOI059	cioè
-TOR001	non ce n'è
-TOI059	sì sì
-TOR001	
-TOI059	non ve~ poi da quando l'hanno rinnovato è
-TOR001	sì noi poi siamo andati c'era una promozione la sera
-TOI059	mh mh
+TOI059	non ce n'è
+TOR001	sì sì
+TOR001	non ve~ poi da quando l'hanno rinnovato è
+TOI059	sì noi poi siamo andati c'era una promozione la sera
+TOR001	mh mh
 TOI059	eh bellissimo
-TOR001	cioè n~ non c'era nessuno
-TOI059	wow
-TOI058	coi bambini abbiam fatto il gi~ bellissimo
-TOI059	sì con dodici euro siamo entrati in quattro
+TOI059	cioè n~ non c'era nessuno
+TOR001	wow
+TOI059	coi bambini abbiam fatto il gi~ bellissimo
+TOI058	sì con dodici euro siamo entrati in quattro
 TOI059	erano x
-TOR001	sì
-TOI059	wow
-TOI058	sì sì anche adesso lo fanno le promozioni a giugno e a luglio
-TOI059	sì era un venerdì sera cinque euro gli adulti e un euro i bambini
+TOI059	sì
+TOR001	wow
+TOI059	sì sì anche adesso lo fanno le promozioni a giugno e a luglio
+TOI058	sì era un venerdì sera cinque euro gli adulti e un euro i bambini
 TOI059	il venerdì
-TOR001	mh
-TOI059	ah
+TOI059	mh
+TOR001	ah
 TOI059	eh i bambini pagano sempre un euro
 TOI059	sempre
 TOI059	però c'era a cinque euro
-TOR001	dalle sei e mezza alle dieci e mezza di sera
+TOI059	dalle sei e mezza alle dieci e mezza di sera
 TOR001	mh mh
-TOI059	e c'è poca gente non c'è xxx
+TOR001	e c'è poca gente non c'è xxx
 TOI059	quando siamo andati noi
-TOI058	che però era anche luglio forse
-TOI059	mh
+TOI059	che però era anche luglio forse
+TOI058	mh
 TOI059	non c'era nessuno
-TOR001	proprio bello
-TOI059	wow
+TOI059	proprio bello
+TOR001	wow
 TOI059	l'abbiamo gu~ visto proprio bene
-TOR001	sì
-TOI059	beh
-TOR001	bello
-TOI059	bell'occasione
 TOI059	sì
-TOI058	sì sì
-TOR001	dopo trent'anni che
-TOI059	
-TOI058	sì perchè poi ci vai con la scuola ma con la scuola fai un determinato giro per i fatti tuoi
-TOI059	
-TOR001	vedi altre cose
-TOR001	certo
+TOR001	beh
+TOI059	bello
+TOR001	bell'occasione
+TOI059	sì
 TOI059	sì sì
+TOI058	dopo trent'anni che
+TOI059	sì perchè poi ci vai con la scuola ma con la scuola fai un determinato giro per i fatti tuoi
+TOI059	vedi altre cose
+TOR001	certo
+TOR001	sì sì
 TOI059	mh
 TOI059	bello
 TOI059	poi vabbè c'è la mole cioè ce n'è di cose da vedere anche
-TOR001	da fuori senza pagare il biglietto
+TOI059	da fuori senza pagare il biglietto
 TOR001	mh mh
-TOI059	mh mh mh mh
+TOR001	mh mh mh mh
 TOI059	i murazzi a me piaccion tantissimo
-TOI058	far la passeggiata lì
-TOR001	mh
-TOI058	beh bello
-TOI059	torino è bella sì
-TOR001	sì
-TOR001	
+TOI059	far la passeggiata lì
+TOI058	mh
+TOR001	beh bello
+TOI058	torino è bella sì
+TOI059	sì
 TOR001	okay
 TOR001	ehm
 TOR001	mh mh mh quindi
-TOI059	appunto nel complesso mi sembrate entrambi molto contenti della città
-TOR001	sì
-TOI058	giusto
-TOR001	sì
+TOR001	appunto nel complesso mi sembrate entrambi molto contenti della città
+TOI059	sì
+TOR001	giusto
+TOI058	sì
 TOR001	okay
 TOR001	ehm
 TOR001	tornando al quartiere ci sono dei diciamo degli spazi dei luoghi
 TOR001	che ritenete siano particolarmente significativi
-TOI059	per il quartiere cioè che lo identifichino in qualche modo
-TOR001	la tesoriera
-TOI059	mh mh
-TOR001	sicuramente
-TOI059	mh mh
+TOR001	per il quartiere cioè che lo identifichino in qualche modo
+TOI059	la tesoriera
+TOR001	mh mh
+TOI059	sicuramente
+TOR001	mh mh
 TOI059	sì
-TOR001	questo quartiere
-TOI059	prova a raccontarmi un po' la tesoriera cioè fai conto che io non sia di qui e quindi non sappia che cose
+TOI059	questo quartiere
+TOR001	prova a raccontarmi un po' la tesoriera cioè fai conto che io non sia di qui e quindi non sappia che cose
 TOI059	allora la tesoriera è un parco bellissimo
-TOR001	pulitissimo
-TOI059	mh
+TOI059	pulitissimo
+TOR001	mh
 TOI059	curatissimo
 TOI059	perché è veramente curato tantissimo
 TOI059	e
-TOR001	i nostri bambini son cresciuti alla tesoriera
-TOI059	
+TOI059	i nostri bambini son cresciuti alla tesoriera
 TOI059	sua mamma li portava da quando erano proprio
-TOR001	pochi mesi neonati
-TOI059	
-TOR001	e stavano le le giornate lì
-TOI059	mh mh
+TOI059	pochi mesi neonati
+TOI059	e stavano le le giornate lì
+TOR001	mh mh
 TOI059	e e po~
 TOI059	puoi fare tutto
 TOI059	ci sono c'è l'area con i giochini e quindi puoi giocare ci sono i prati dove puoi portarti il telo e e sdraiarti
-TOI058	ti puoi far la passeggiata in bici ti puoi fare la passeggiata a piedi la sera adesso organizzano un sacco di cose
-TOI059	poi il punto verde
-TOI058	mh
-TOI058	sì ci sono bar chioschi
-TOR001	fontane
-TOI059	e gli anziani che giocano
+TOI059	ti puoi far la passeggiata in bici ti puoi fare la passeggiata a piedi la sera adesso organizzano un sacco di cose
+TOI058	poi il punto verde
 TOI059	mh
-TOR001	sì
-TOI059	
+TOI058	sì ci sono bar chioschi
+TOI058	fontane
+TOR001	e gli anziani che giocano
+TOI059	mh
+TOI059	sì
 TOI059	sì sì sì
-TOI058	pieno ballano giocano
+TOI059	pieno ballano giocano
 TOI058	ma sì ci sono anche le
 TOI058	c'erano
-TOI059	no c'era c'era la bocciofila là adesso l'hanno spostata sul lato
-TOR001	sì
-TOI059	ah sì
-TOI058	sì sì
+TOI058	no c'era c'era la bocciofila là adesso l'hanno spostata sul lato
+TOI059	sì
+TOR001	ah sì
+TOI059	sì sì
 TOI058	mh
-TOI059	ce ne era uno in fondo in fondo
-TOI058	sì
-TOR001	diciamo verso corso monte xx
-TOI059	mh mh
+TOI058	ce ne era uno in fondo in fondo
+TOI059	sì
+TOI058	diciamo verso corso monte xx
+TOR001	mh mh
 TOI059	un po' troppe zanzare
-TOR001	se potessero fare qualcosa per le zanzare
-TOI058	
-TOR001	
-TOI058	xx scriviamolo appendino subito
+TOI059	se potessero fare qualcosa per le zanzare
+TOR001	xx scriviamolo appendino subito
 TOI058	~zare sì
-TOI059	eh
+TOI058	eh
 TOI059	appendino bonificare
-TOI058	ammazzare tutte le zanzare
-TOI059	mettere qualche pipistrello in più
+TOI059	ammazzare tutte le zanzare
+TOI058	mettere qualche pipistrello in più
 TOI059	mh
 TOI059	mh mh mh
-TOR001	alleviamo un sacco di pipistrelli
-TOI058	
+TOI059	alleviamo un sacco di pipistrelli
 TOI058	tra l'altro io arrivo dalla tesoriera
-TOI059	s~ sono arrivato dieci minuti prima di te
+TOI058	s~ sono arrivato dieci minuti prima di te
 TOI059	sì
-TOR001	sì sì
-TOI058	zanzare confermi quindi
-TOR001	sì sì sì sì sì
-TOR001	
+TOI059	sì sì
+TOR001	zanzare confermi quindi
+TOI058	sì sì sì sì sì
 TOR001	okay
 TOR001	e
 TOR001	poi che cos'altro oltre la tesoriera
-TOI058	vi vengono in mente degli posti
-TOR001	boh
-TOI059	non so per esempio mercati
+TOR001	vi vengono in mente degli posti
+TOI058	boh
+TOR001	non so per esempio mercati
 TOI059	ah sì
-TOR001	noi eh
-TOI058	
-TOI059	
-TOI058	
-TOI059	corso racconigi corso svizzero
-TOR001	sì
-TOI059	frequentate
-TOI058	tantissimo
-TOI059	sì sì
-TOR001	sì sì
-TOI059	okay
-TOR001	sì sì
-TOI059	quindi andate regolarmente a fare la spesa al mercato
+TOI059	noi eh
+TOI058	corso racconigi corso svizzero
 TOI059	sì
-TOI058	beh lui facendo i turni
-TOI059	mh
+TOR001	frequentate
+TOI059	tantissimo
+TOI058	sì sì
+TOI059	sì sì
+TOR001	okay
+TOI059	sì sì
+TOR001	quindi andate regolarmente a fare la spesa al mercato
+TOI059	sì
+TOI059	beh lui facendo i turni
+TOI058	mh
 TOI059	quando per esempio lavora al pomeriggio
-TOI058	al mattino tutti i giorni va al mercato
-TOR001	sì non tutti i giorni
-TOI059	
-TOI058	sì tutti i giorni
-TOR001	ma non dire
-TOI059	
+TOI059	al mattino tutti i giorni va al mercato
+TOI058	sì non tutti i giorni
+TOI059	sì tutti i giorni
+TOI058	ma non dire
 TOI059	corso racconigi e corso svizzera
-TOR001	tutte e due
-TOI058	entrambi
-TOI059	no corso svizzero n~
-TOR001	eh eh un po' meno
-TOI059	
-TOR001	
-TOI058	qual è la differenza tra i due mercati
-TOR001	vabbè corso racconigi è più è più lungo
-TOI058	mh mh
-TOI059	un po' più a buon mercato
-TOR001	mh
-TOI058	
-TOI059	
-TOI058	più economico
+TOI059	tutte e due
+TOR001	entrambi
+TOI058	no corso svizzero n~
+TOI059	eh eh un po' meno
+TOR001	qual è la differenza tra i due mercati
+TOI058	vabbè corso racconigi è più è più lungo
+TOR001	mh mh
+TOI058	un po' più a buon mercato
+TOI059	mh
+TOI059	più economico
 TOI058	se mi passi
-TOR001	sì corso svizzero no
-TOI058	occhio
-TOI059	oh madonna
-TOR001	sì
-TOI059	
-TOR001	io il sabato
-TOI059	mh mh
+TOI058	sì corso svizzero no
+TOR001	occhio
+TOI058	oh madonna
+TOI059	sì
+TOI059	io il sabato
+TOR001	mh mh
 TOI059	sabato corso racconigi
-TOR001	che poi è anche più lungo il sabato perché arriva fino oltre corso peschiera eh sì è bello
+TOI059	che poi è anche più lungo il sabato perché arriva fino oltre corso peschiera eh sì è bello
 TOR001	enorme
 TOR001	mh mh mh mh
-TOI059	quindi se potete fate la spesa al mercato comunque
+TOR001	quindi se potete fate la spesa al mercato comunque
 TOI059	sì
-TOR001	sì sì
+TOI059	sì sì
 TOR001	oh che bello
 TOR001	e avete
 TOR001	cioè
 TOR001	ehm
 TOR001	avete già i banchi di fiducia con tutte
-TOI058	
-TOR001	sì
-TOI058	
-TOR001	dipende da cosa la devo comprare
-TOI058	
-TOI058	scusa eh se
-TOI059	secondo te più li lascio
 TOI058	sì
-TOR001	poi diventano molli o poi tornano duri
-TOI058	non non saprei proprio
-TOR001	è vero
-TOI058	
-TOI059	non se può mangia~
+TOI058	dipende da cosa la devo comprare
+TOI058	scusa eh se
+TOI058	secondo te più li lascio
+TOI059	sì
+TOI058	poi diventano molli o poi tornano duri
+TOR001	non non saprei proprio
+TOI058	è vero
+TOI058	non se può mangia~
 TOI059	sì lui compra
-TOR001	una cosa qua e si compra solo là una cosa lì si compra solo lì
+TOI059	una cosa qua e si compra solo là una cosa lì si compra solo lì
 TOR001	wow
-TOI059	e quindi
-TOR001	sì sì sì
+TOR001	e quindi
+TOI059	sì sì sì
 TOR001	dodici ore al mercato praticamente
-TOI059	
 TOI059	sì sì sì
 TOI059	mercato e supermercati anche della zona
-TOI058	x xxx
-TOI059	xx
-TOR001	ce ne sono anche tanti
-TOI059	mh mh
+TOI059	x xxx
+TOI058	xx
+TOI059	ce ne sono anche tanti
+TOR001	mh mh
 TOI059	c'è l'ins il sigma
-TOR001	ce n'è borello
-TOI059	okay
+TOI059	ce n'è borello
+TOR001	okay
 TOI059	no ce ne abbiamo xx
-TOR001	tanti
-TOI059	sì supermercati ce n'è un sacco
-TOR001	sì
+TOI059	tanti
+TOR001	sì supermercati ce n'è un sacco
+TOI059	sì
 TOR001	ehm
-TOI059	co~ cosa vi piace del mercato cioè quali sono gli aspetti positivi secondo voi del mercato
-TOR001	mah a me mi piace proprio farmi la passeggiata in mezzo alle bancarelle a curiosare
-TOI059	
-TOI058	che magari
-TOI059	beh c'è più scelta
-TOR001	mh
-TOI058	mh mh
-TOR001	cioè il supermercato hai bisogno di comprare le fragole vai lì eh quelle ci sono
-TOI058	mh mh mh mh mh
-TOR001	qua invece boh ne vedi delle diversi prezzi diverse
-TOI059	mh mh
-TOI058	diverse provenienze
-TOR001	eh
+TOR001	co~ cosa vi piace del mercato cioè quali sono gli aspetti positivi secondo voi del mercato
+TOI059	mah a me mi piace proprio farmi la passeggiata in mezzo alle bancarelle a curiosare
+TOI059	che magari
+TOI058	beh c'è più scelta
+TOI059	mh
+TOR001	mh mh
+TOI058	cioè il supermercato hai bisogno di comprare le fragole vai lì eh quelle ci sono
+TOR001	mh mh mh mh mh
+TOI058	qua invece boh ne vedi delle diversi prezzi diverse
+TOR001	mh mh
+TOI059	diverse provenienze
+TOI058	eh
 TOR001	okay
 TOR001	quindi mercato tendenzialmente
-TOI058	e appunto l~ la differenza tra corso svizzera e corso racconigi corso svizzera è più piccolo okay
-TOR001	è più piccolo sì e forse un pelino più caro
-TOI058	okay
-TOR001	mh
-TOI058	okay
+TOR001	e appunto l~ la differenza tra corso svizzera e corso racconigi corso svizzera è più piccolo okay
+TOI058	è più piccolo sì e forse un pelino più caro
+TOR001	okay
+TOI058	mh
+TOR001	okay
 TOI058	ci sono
 TOI058	vabbè
 TOI058	ci sono
 TOI058	più tornando agli stranieri più banchi
 TOI058	gestiti da
-TOR001	da stranieri che non
-TOI058	in corso svizzera
-TOR001	in corso racconigi
-TOI058	ah okay
-TOR001	eh
-TOI058	okay
+TOI058	da stranieri che non
+TOR001	in corso svizzera
+TOI058	in corso racconigi
+TOR001	ah okay
+TOI058	eh
+TOR001	okay
 TOI058	eh anche perché avevo mi hanno detto che
 TOI058	cioè prendere una licenza di un banco è
 TOI058	prendere un pro~ un biglietto dell'autobus
-TOR001	vai in comune e te la danno
-TOI058	ah sì
-TOR001	sì sì
-TOI058	non ho idea
-TOR001	eh non lo so x c'è gente che
-TOI058	okay
-TOI059	del mestiere
+TOI058	vai in comune e te la danno
+TOR001	ah sì
+TOI058	sì sì
+TOR001	non ho idea
+TOI058	eh non lo so x c'è gente che
+TOR001	okay
+TOI058	del mestiere
 TOI059	perché adesso le hanno liberalizzate una volta
-TOI058	la compravi la licenza adesso è tutto
-TOR001	mh
-TOI059	mh mh
-TOR001	libero
-TOI058	okay
+TOI059	la compravi la licenza adesso è tutto
+TOI058	mh
+TOR001	mh mh
+TOI059	libero
+TOR001	okay
 TOI058	sì
-TOR001	quando non vuoi più la lasci lì arriva un altro se la prende
+TOI058	quando non vuoi più la lasci lì arriva un altro se la prende
 TOR001	mh mh
 TOR001	okay
 TOR001	d'accordo
 TOR001	vi faccio le ultime domande cambio:: argomento
-TOI059	che lavoro fate
-TOR001	io sono impiegata
-TOI059	okay
-TOR001	lavoro da un commercialista
-TOI058	okay
-TOR001	io faccio manutenzione tecnica in metropolitana
+TOR001	che lavoro fate
+TOI059	io sono impiegata
+TOR001	okay
+TOI059	lavoro da un commercialista
+TOR001	okay
+TOI058	io faccio manutenzione tecnica in metropolitana
 TOR001	okay
 TOR001	e ehm
-TOI059	avete sempre fatto lo stesso lavoro ne avete cambiati
+TOR001	avete sempre fatto lo stesso lavoro ne avete cambiati
 TOI059	io sì
 TOI059	sempre
-TOI058	nello stesso posto stesso lavoro
-TOR001	mh
-TOI058	eh okay
-TOR001	no io vabbè ne ho fatti un po'
-TOI058	okay
+TOI059	nello stesso posto stesso lavoro
+TOI058	mh
+TOR001	eh okay
+TOI058	no io vabbè ne ho fatti un po'
+TOR001	okay
 TOI058	di più
 TOI058	questo è il più grosso
-TOR001	prima guidavo gli autobus
-TOI058	okay
-TOR001	e poi boh altri lavoretti prima mah
-TOI058	okay
-TOR001	da giovane
-TOI059	
-TOR001	la città la conosce benissimo
-TOI059	eh infatti infatti
-TOR001	
+TOI058	prima guidavo gli autobus
+TOR001	okay
+TOI058	e poi boh altri lavoretti prima mah
+TOR001	okay
+TOI058	da giovane
+TOI059	la città la conosce benissimo
+TOR001	eh infatti infatti
 TOR001	cioè
 TOR001	eh che rapporto avevi con la città quando
-TOI058	guidavi
-TOR001	eh no l'ho cioè l'ho scoperta lì la città fondamentalmente
-TOI058	mh mh
+TOR001	guidavi
+TOI058	eh no l'ho cioè l'ho scoperta lì la città fondamentalmente
+TOR001	mh mh
 TOI058	perché
 TOI058	cioè
-TOR001	ho scoperto delle co~ delle zone di torino che
-TOI058	
-TOR001	poi arrivavo in un punto e dicevo
-TOI058	per esempio
-TOR001	ah pensa te io lì andavo là e bastava girare l'angolo e
-TOI058	
+TOI058	ho scoperto delle co~ delle zone di torino che
+TOI058	poi arrivavo in un punto e dicevo
+TOR001	per esempio
+TOI058	ah pensa te io lì andavo là e bastava girare l'angolo e
 TOI058	eh eh e quindi boh l'ho l'ho conosciuta
-TOR001	con quel lavoro lì ho guidato per più di sei anni quindi
+TOI058	con quel lavoro lì ho guidato per più di sei anni quindi
 TOR001	ah beh da un sacco
 TOR001	okay
-TOI058	e ci sono appunto delle zone che hai scoperto così che non che non conoscevi
+TOR001	e ci sono appunto delle zone che hai scoperto così che non che non conoscevi
 TOI058	sì sì sì
 TOI058	che non che non frequenta~ anche perché ero abbastanza cioè
-TOR001	ho iniziato a vent'anni quindi
-TOI058	giovanissimo
+TOI058	ho iniziato a vent'anni quindi
+TOR001	giovanissimo
 TOI058	prima boh eh
 TOI058	cioè
-TOR001	cioè centro eh
-TOI058	
+TOI058	cioè centro eh
 TOI058	il massimo era la discoteca
-TOR001	in via nizza
-TOI058	okay
-TOR001	però boh un sacco di zone che
+TOI058	in via nizza
+TOR001	okay
+TOI058	però boh un sacco di zone che
 TOR001	mh mh
 TOR001	e
 TOR001	ehm
@@ -1370,44 +1265,40 @@ TOR001	sì
 TOR001	va bene
 TOR001	ehm mh mh mh mh
 TOR001	okay
-TOI059	pensate che in generale torino sia un buon posto per vivere
-TOI058	secondo me sì
-TOR001	sì
+TOR001	pensate che in generale torino sia un buon posto per vivere
+TOI059	secondo me sì
+TOI058	sì
 TOR001	okay
 TOR001	e
 TOR001	quindi
 TOR001	potendo lasciando perdere
 TOR001	mh
 TOR001	tutto ciò che è concreto ma potendo
-TOI058	scegliereste comunque di vivere a torino o vi piacerebbe essere da un'altra parte o magari in futuro andare da un'altra parte
-TOI059	no da da buon torinese io
+TOR001	scegliereste comunque di vivere a torino o vi piacerebbe essere da un'altra parte o magari in futuro andare da un'altra parte
+TOI058	no da da buon torinese io
 TOI059	no
-TOI058	no no no
+TOI059	no no no
 TOI058	direi direi di no
-TOI059	direi di no
-TOI058	no
-TOI059	quando xxx xxx
+TOI058	direi di no
+TOI059	no
+TOI058	quando xxx xxx
 TOI059	cioè
 TOI059	torino e questa zona
-TOI058	comunque noi siamo proprio abbiamo le radici
-TOR001	mh
-TOI059	ma un sacco eh cioè tre quarti delle persone che sto sentendo dicono
-TOI058	sì
-TOI059	ah
-TOR001	sì sì
-TOI059	ognuno con la propria zona mah
-TOI058	sì
-TOI059	sì sì s~
-TOR001	sì sì sì
-TOI058	super radicati
-TOI059	no viaggiare per carità è bello andare guardare fare però
-TOR001	sì sì una settimana due però poi bisogna tornare a casa
-TOI058	
-TOR001	
+TOI059	comunque noi siamo proprio abbiamo le radici
+TOI058	mh
+TOR001	ma un sacco eh cioè tre quarti delle persone che sto sentendo dicono
+TOI059	sì
+TOI058	ah
+TOI059	sì sì
+TOR001	ognuno con la propria zona mah
+TOI059	sì
+TOI058	sì sì s~
+TOI059	sì sì sì
+TOR001	super radicati
+TOI058	no viaggiare per carità è bello andare guardare fare però
+TOI059	sì sì una settimana due però poi bisogna tornare a casa
 TOR001	xx a casa
-TOI058	
-TOI059	anche più di una settimana due
-TOR001	poi f~ ne fai altre due poi torni poi altre due
-TOR001	
+TOI058	anche più di una settimana due
+TOI059	poi f~ ne fai altre due poi torni poi altre due
 TOR001	okay va bene
 TOR001	vi vi lascio liberi grazie mille intanto

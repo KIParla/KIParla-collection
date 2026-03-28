@@ -1,49 +1,49 @@
 BOI004	°visto?°
-BOR002	fallo sulla parte intervista eh
-BOI004	eh?
+BOI004	fallo sulla parte intervista eh
+BOR002	eh?
 BOI004	vabbè
-BOR002	andiamo il mio è partito
-BOI004	da lì?
-BOR002	sì (.) è ugu[ale]
-BOI005	[va be]ne (.) magari decidete:: chi risponde per pri~ °vabbè che dopo deve [instaurarsi una conversazione°]
-BOR002	[beh inizia la mamma poi rispondo io dai]
-BOI004	allora in che zona di bologna vivi?
+BOI004	andiamo il mio è partito
+BOR002	da lì?
+BOI004	sì (.) è ugu[ale]
+BOR002	[va be]ne (.) magari decidete:: chi risponde per pri~ °vabbè che dopo deve [instaurarsi una conversazione°]
+BOI005	[beh inizia la mamma poi rispondo io dai]
+BOR002	allora in che zona di bologna vivi?
 BOI004	alla: croce di casalecchio
-BOI005	[eh]
+BOI004	[eh]
 BOI005	[alla] croce di casalecchio,
-BOR002	che è: l'ultimo quartiere di casalecchio prima di arrivare a bologna
-BOI004	hai sempre: vissuto lì? cioè avete sempre vissuto [lì]
-BOI005	[sì] (.) io [sono] nata in un'altra strada ma son sempre vissuta qua
-BOR002	[sì]
-BOI004	e avete anche frequentato le scuole?
-BOR002	sì (.) e: nella: zona dici?
-BOI004	sì (.) in questa zona
+BOI005	che è: l'ultimo quartiere di casalecchio prima di arrivare a bologna
+BOR002	hai sempre: vissuto lì? cioè avete sempre vissuto [lì]
+BOI004	[sì] (.) io [sono] nata in un'altra strada ma son sempre vissuta qua
+BOI005	[sì]
+BOR002	e avete anche frequentato le scuole?
+BOI004	sì (.) e: nella: zona dici?
+BOR002	sì (.) in questa zona
 BOI004	eh sì fino alle medie sì (.) poi le superiori sono andata: a bologna
-BOI005	alle
+BOI004	alle
 BOI005	io ho frequentato qui: tutte le scuole:: anche se: l'istituto tecnico è fuori comune, sotto bologna, ma è a poche centinaia di metri per cui:
-BOR002	>son sempre andato a scuola a piedi e ho sempre frequentato in zona<
-BOI004	i vostri amici vivono ancora: vicino a voi: o si sono spostati:, (.) prevalentemente vivono qua, da altre parti,
+BOI005	>son sempre andato a scuola a piedi e ho sempre frequentato in zona<
+BOR002	i vostri amici vivono ancora: vicino a voi: o si sono spostati:, (.) prevalentemente vivono qua, da altre parti,
 BOI004	la mia amica, (.) mh la francesca, si è: spostata (.) si è sposata è andata ad abitare a san lorenzo in collina
-BOR002	ehm:
-BOI004	in generale? (.) non so magari più verso il centro, più verso: fuori,
-BOR002	m:h
-BOI004	in [maggiora]:nza
+BOI004	ehm:
+BOR002	in generale? (.) non so magari più verso il centro, più verso: fuori,
+BOI004	m:h
+BOR002	in [maggiora]:nza
 BOI004	[cioè]
 BOI004	la maggioranza dei miei amici: no p~ secondo son quasi molti sono andati fuori
 BOI004	ah in centro pochi
-BOI005	pochi pochi (.) °sono sincera°
+BOI004	pochi pochi (.) °sono sincera°
 BOI005	anche i miei amici si sono spostati:: (.) praticamente tutti dal quartiere,
 BOI005	quasi tutti
 BOI005	e: prevalentemente: chi non ha ereditato una casa nel centro storico di bologna:
 BOI005	o >dentro il comune di bologna< si è spostato fuori
-BOR002	nei comuni limitrofi
+BOI005	nei comuni limitrofi
 BOR002	e:h vi piace la vostra <zona>? se sì o no
-BOI004	perché?
+BOR002	perché?
 BOI004	allora la zona dove abitiamo proprio mh @nomeluogo no
 BOI004	a me non piace non mi è mai piaciuta neanche quando ero piccola
 BOI004	che era proprio la zona:
 BOI004	quella un po' più malfamata ecco non so come dire
-BOI005	e:hm: come zona la croce di casalecchio come croce di casalecchio sì mi piace molto (.) però la mia zona proprio per niente
+BOI004	e:hm: come zona la croce di casalecchio come croce di casalecchio sì mi piace molto (.) però la mia zona proprio per niente
 BOI005	a me la mia zona piace,
 BOI005	anche se è sempre: @nomeluogo,
 BOI005	e: mi piace: il contesto del quartiere, mi piace il fatto: che
@@ -51,25 +51,25 @@ BOI005	nei pressi di casa nostra: c'è la pista ciclabile:, che consente: diciam
 BOI005	e:h si può arrivare (.) a bologna a piedi in bicicletta:, si può arrivare a parco talon,
 BOI005	e anche come posizione rispetto: alle principali vie di comunicazione stazione, aereoporto, autostrada, (.) in posizione baricentr~ nonché
 BOI005	e:hm
-BOR002	grandi supermercati è in posizione <baricentrica> quindi (.) mi piace molto e la ritengo molto comoda
-BOI004	anch'io l'ho sempre pensato
-BOR002	sì per me ci sono:
-BOI004	[MOLTO COLLEGATA]
+BOI005	grandi supermercati è in posizione <baricentrica> quindi (.) mi piace molto e la ritengo molto comoda
+BOR002	anch'io l'ho sempre pensato
+BOI004	sì per me ci sono:
+BOR002	[MOLTO COLLEGATA]
 BOI004	[cioè (.) anche le scuole:], sì
 BOI004	è molto collegata sì sì ci sono
 BOI004	tanti servizi
-BOR002	[son since]ra
+BOI004	[son since]ra
 BOR002	[°mh°]
-BOI004	invece dall'altro lato secondo voi ci sono dei <problemi>, o (.) nel caso come: migliorereste (.) la zona
+BOR002	invece dall'altro lato secondo voi ci sono dei <problemi>, o (.) nel caso come: migliorereste (.) la zona
 BOI004	sicuramente nella nostra zona la viabilità non è il massimo
 BOI004	noi abitiamo: in questa <parte> di di della croce di casalecchio
-BOR002	dove (.) se cade il ponte (.) e::h [noi siamo] in un'isola praticamente siamo irraggiungibili
-BOI004	[è vero] ((ride))
+BOI004	dove (.) se cade il ponte (.) e::h [noi siamo] in un'isola praticamente siamo irraggiungibili
+BOR002	[è vero] ((ride))
 BOI004	e:h quindi insomma siamo molto attaccati a questo ponte sembriamo quasi una penisola
 BOI004	e:hm: per cui la viabilità andrebbe ripensata secondo me sicuramente: mettere: qualche marciapiede, adesso hanno fatto la:
 BOI004	((sospira)) la pista clclabile lì sulle strade (.) non mi trovo per niente d'accordo su questa cosa
 BOI004	quindi anche questa la toglierei
-BOI005	altre co:se:? m:h boh adesso non mi vengono in mente
+BOI004	altre co:se:? m:h boh adesso non mi vengono in mente
 BOI005	e:h sì nel nostro:::
 BOI005	nel nostro: <rione> in particolare c'è un po' il problema della viab~ >c'è il problema della viabilità< non un po',
 BOI005	nonostante siano stati fatti degli sforzi: la strada consorziale è diventata comunale,
@@ -82,39 +82,39 @@ BOI005	essendoci: molti edifici anni sessanta, (.) un'epoca in cui: o anche anni
 BOI005	>non c'erano tutte le automobili di adesso< e le automobili comunque che c'erano non avevano le attuali dimensioni
 BOI005	di conseguenza: non ci sono un numero di appartamenti pa~ numero di garage pari agli appartamenti
 BOI005	e:h dei palazzi quindi di conseguenza >le macchine sono in gran parte per strada anche perché le macchine attuali<
-BOI004	sono molto più voluminose delle macchine (.) degli anni sessanta settanta
+BOI005	sono molto più voluminose delle macchine (.) degli anni sessanta settanta
 BOI004	ma anche perché eh nel nuc~ in ogni nucleo familiare non c'è una macchina una volta magari ne avevi una per tutti quanti
 BOI004	anche solo noi per dire siamo in cinque abbiamo <tre> macchine
 BOI004	e un motorino
-BOR002	quindi [un garage]
-BOI004	[COMPRATE una]
-BOR002	COMPRATA una
-BOI004	((ride))
-BOI005	eh però [e:h]
+BOI004	quindi [un garage]
+BOR002	[COMPRATE una]
+BOI004	COMPRATA una
+BOR002	((ride))
+BOI004	eh però [e:h]
 BOI005	[°due°]
-BOI004	°>anche il motorino<°
-BOR002	ah è ver[o (.) due me]zzi è vero COMPRATI due
-BOI004	[è vero]
+BOI005	°>anche il motorino<°
+BOI004	ah è ver[o (.) due me]zzi è vero COMPRATI due
+BOR002	[è vero]
 BOI004	e: però: sì m:h
 BOI004	>cioè anche se avessimo< UN GARAGE (.) ovviamente delle macchine fuori ne avremmo
 BOI004	quando io ero giovane mio papà aveva <una> macchina
 BOI004	poi vabbè (.) >ho cominciato< siamo siam cresciuti: e ne abbiamo presa una per ognuno però
 BOI004	mh sì in realtà anche le il numero delle macchine è <superiore>
 BOI004	e:h rispetto a tanti anni fa ecco indipendentemente dal:
-BOR002	°dagli appartamenti ecco°
+BOI004	°dagli appartamenti ecco°
 BOR002	°bene°
 BOR002	e:h nel <quartiere> quindi diciamo. più nella croce,
 BOR002	non qui nella via (.) trovate tutto: diciamo quello di cui avete bisogno?
-BOI004	o: vi dovete spostare spesso
+BOR002	o: vi dovete spostare spesso
 BOI004	e: allora (.) mh io mi sposto spesso perché dove lavoro
 BOI004	e:h ho u:n: supermercato, quindi facendo un giro unico
 BOI004	e:h trovo tutta la roba, in più i prezzi sono: sicuramente (.) più bassi rispetto ai negozietti che puoi trovare però
 BOI004	se non ho la macchina:, e o se: non posso: non voglio spostarmi più di tanto,
 BOI004	secondo me alla croce c'è tutt~ una cosa che mancava tanti anni fa ma che finalmente adesso c'è (.) è la cartoleria
 BOI004	era una di quelle cose che noi quando:
-BOI005	è andata via la la col~ la ca~ la palme~ la palmira? palmira si chiamava? [lì so]tto dove [c'erano i ro]ssi
+BOI004	è andata via la la col~ la ca~ la palme~ la palmira? palmira si chiamava? [lì so]tto dove [c'erano i ro]ssi
 BOI005	[mh]
-BOI004	[sì]
+BOI005	[sì]
 BOI004	e: c'era solo lei, (.) quando ha chiuso c'è stato il <buio>
 BOI004	perché comunque (.) cioè ci sono tante <scuole> fra l'infa~ vabbè l'infanzia non è che vai a comprare lì però
 BOI004	a primaria, le medie:, anche le superiori ti manca il righello ti manca qui e:e vai lì e lo compri
@@ -125,10 +125,10 @@ BOI004	però sì di altre cose mi vien da dire che mh secondo me c'è praticamen
 BOI004	ci sono tanti parrucchieri,
 BOI004	alla croce, (.) fondamentali,
 BOI004	tante banche,
-BOR002	e:: adesso quelle sono un po' calat[e]
-BOI004	[sc[uole guide
+BOI004	e:: adesso quelle sono un po' calat[e]
+BOR002	[sc[uole guide
 BOI004	>scuole guida< parecc~ ma soprattutto le parrucchiere
-BOI005	le parrucchiere sono: °sono spettacolari alla croce vabbè°
+BOI004	le parrucchiere sono: °sono spettacolari alla croce vabbè°
 BOI005	e:h sì eh ci si sposta molto per fare gli acquisti ma perché ci si vuole spostare perché
 BOI005	si vuole comprare
 BOI005	magari anche il cibo di un certo tipo di una certa qualità
@@ -137,46 +137,46 @@ BOI005	°ehm°
 BOI005	poi chiaramen~ (.) eh si no anche per cose diciamo tipo elettrodomestici e quant'altro ecco quindi
 BOI005	credo che: soprattutto le persone: che non hanno un automobile o un mezzo di trasporto:
 BOI005	e:h qui possano trovare tutto anche se chiaramente i prezzi sono diversi rispetto a quelli dei
-BOI004	dei grandi centri commerciali
+BOI005	dei grandi centri commerciali
 BOI004	una cosa che manca qui alla croce
-BOI005	la ferramenta c'era ma l'hanno chiusa vero?
-BOI004	[mh]
-BOI005	[non c'è più]
-BOI004	mh
-BOI005	non c'è [più la ferr]amenta
-BOI004	[sì]
+BOI004	la ferramenta c'era ma l'hanno chiusa vero?
+BOI005	[mh]
+BOI004	[non c'è più]
+BOI005	mh
+BOI004	non c'è [più la ferr]amenta
+BOI005	[sì]
 BOI004	°quindi° c~ c'è il <tabaccaio>, c'è::
 BOI004	DI OGNI farmacie: e: e
 BOI004	ma la ferramenta:: non c'è
-BOR002	°non c'è°
-BOI004	°vero°
+BOI004	°non c'è°
+BOR002	°vero°
 BOI004	°per dire°
-BOR002	c'è anche le palestre,
-BOI004	palestre? °alla croce°
-BOR002	be:h [la: lo][di],
+BOI004	c'è anche le palestre,
+BOR002	palestre? °alla croce°
+BOI004	be:h [la: lo][di],
 BOR002	[ah sì]
-BOI004	[vab]bè sì °una°
-BOR002	[c'è la lodi] vabbè poi c'è le venticinque aprile comunque che comunque [c'è la pisci:]na, n~ non tutti i quartieri hanno
+BOR002	[vab]bè sì °una°
+BOI004	[c'è la lodi] vabbè poi c'è le venticinque aprile comunque che comunque [c'è la pisci:]na, n~ non tutti i quartieri hanno
 BOR002	[sì è vero]
-BOI004	[ah]
+BOR002	[ah]
 BOI004	almeno (.) non credo
 BOI004	°>adesso< mi vien da pensare ai quartieri ma tutti hanno°
 BOI004	°boh°
-BOR002	°non lo so (.) vabbè°
+BOI004	°non lo so (.) vabbè°
 BOR002	come: vi: spostate in città cioè:
-BOI004	>se dovete andare< in un <luo:go> avete una preferenza: di:
-BOR002	di me[zzo]?
-BOI004	[di lo]comozione? sì di me:zzo oppure per voi è indifferente:
+BOR002	>se dovete andare< in un <luo:go> avete una preferenza: di:
+BOI004	di me[zzo]?
+BOR002	[di lo]comozione? sì di me:zzo oppure per voi è indifferente:
 BOI004	°allora° (.) ovviamente io a piedi mai
-BOR002	in bicicletta tanto meno
-BOI004	((ride))
+BOI004	in bicicletta tanto meno
+BOR002	((ride))
 BOI004	E: ALLORA (.) mh dipende dove devi andare e anche a che ora o con chi
 BOI004	cioè se dobbiamo andare in centro, o se è estate,
 BOI004	il motorino è la cosa migliore ovvio che se devi portarti la roba da mangiare devi comprare. delle cose:, e: e
 BOI004	il motorino non è comodissimo perché (.) dove la metti la roba? e:h
 BOI004	se no vabbè io: la macchina l'autobus poco (.) proprio poco da quando abbiamo il motorino io penso di non averlo più toccato son sincera
-BOR002	e:hm (.) sì le bici mi fa schifo quindi
-BOI005	((ride))
+BOI004	e:hm (.) sì le bici mi fa schifo quindi
+BOR002	((ride))
 BOI005	io mi muovo: quando posso sempre in scooter a meno che non piova a dirotto o non ci sia la neve
 BOI005	chiaramente se debbo: spostare: delle cose <voluminose>
 BOI005	acquistarle andarle a prendere da qualcuno: debbo utilizzare l'automobile (.) autobus mai
@@ -184,11 +184,11 @@ BOI005	((schiarisce_la_gola))
 BOI005	praticamente mai
 BOI005	e:h d'estate mi muovo volentieri in bicicletta ma più per:
 BOI005	non per raggiungere un dato luogo perché si fa prima in motorino ma per
-BOI004	per:
-BOI005	sv[ago]
+BOI005	per:
+BOI004	sv[ago]
 BOI005	[per piac]ere di muoversi in bicicletta
 BOI005	e: anche a piedi mi muovo volentieri a piedi nell'ambito di:
-BOR002	di un raggio di: due o tre chilometri ecco mi muovo vo~ >molto volentieri a piedi< (.) mezzi pubblici mai
+BOI005	di un raggio di: due o tre chilometri ecco mi muovo vo~ >molto volentieri a piedi< (.) mezzi pubblici mai
 BOR002	>allora< secondo voi bologna °proprio: bologna° quindi non il <quartiere>
 BOR002	riprendendo anche un po':
 BOR002	>magari le cose che si sono dette< adesso su: questo quartiere qui, cosa: va bene, cosa non va bene,
@@ -197,34 +197,34 @@ BOR002	e: nel caso >se secondo voi< è cambiata
 BOR002	in bene o in male
 BOR002	cioè magari specificando:
 BOR002	ultimi anni non so magari possono essere gli ultimi cinque (.) o magari: gli ultimi dieci ultimi venti
-BOI004	insomma
+BOR002	insomma
 BOI004	°c~ ci devo pensare: non lo so°
 BOI004	e:h c(io)é mi vien da dire che sicuramente la zona
 BOI004	e:h com'è che si chiama quella del sabato
 BOI004	che è tutto chiuso
-BOI005	il:
-BOI004	>zeta ti elle<
-BOR002	la zeta ti elle [lì e: e]
-BOI004	[m:hmh]
-BOR002	e:h sicuramente (.) mh per fare delle passeggiate è comodo:: e quella è cambiata ai tempi nostri non c'era °alm[eno°]
-BOI005	[eh da qua]nt'è che c'è la zeta ti elle? io non lo so
-BOR002	diec'anni?
-BOI004	ah
+BOI004	il:
+BOI005	>zeta ti elle<
+BOI004	la zeta ti elle [lì e: e]
+BOR002	[m:hmh]
+BOI004	e:h sicuramente (.) mh per fare delle passeggiate è comodo:: e quella è cambiata ai tempi nostri non c'era °alm[eno°]
+BOR002	[eh da qua]nt'è che c'è la zeta ti elle? io non lo so
+BOI005	diec'anni?
+BOR002	ah
 BOI004	°uhm (.) sì forse sì°
-BOI005	°sì sì° quando noi andavamo [in centro] (.) si andava l'autobus arrivava fin lì
-BOI004	[anche un po' di più]
+BOI004	°sì sì° quando noi andavamo [in centro] (.) si andava l'autobus arrivava fin lì
+BOI005	[anche un po' di più]
 BOI004	e:h scendevi facevi la vasca: e: basta
 BOI004	°sì son sincera ecco la vasca è sempre stata una cosa molto bella di via indipendenza°
 BOI004	e:hm (.) altre cose? no che i negozi son sempre aperti
-BOR002	quand'eravam giovani noi no
-BOI004	[è un bene o un] male
+BOI004	quand'eravam giovani noi no
+BOR002	[è un bene o un] male
 BOI004	[x x x]
 BOI004	è: un bene perché attira
 BOI004	e::hm un bene perché è comodo per chi lavora andare: in centro: e poter acquistare
 BOI004	e:hm (.) forse meno bene per chi ci lavora,
 BOI004	e::
 BOI004	non lo so (.) a me i negozi piacciono quindi più sono aperti meglio è
-BOI005	°son sincera quindi°
+BOI004	°son sincera quindi°
 BOI005	sì la parte positiva della zeta ti elle
 BOI005	((si_schiarisce_la_gola)) è che: ci si può l~ (.) muovere abbastanza tranquillamente e (.) con un po' meno inquinamento almeno a livello apparente: a piedi
 BOI005	e poi sicuramente negli ultimi dieci anni bologna è cambiata molto per quanto riguarda la ristorazione ad esempio via pescherie vecchie >tutta la zona< del quadrilatero
@@ -250,11 +250,11 @@ BOI005	e:ssendoci i tavolini e persone fuori e quindi:
 BOI005	allontanando anche quella che può essere: una fascia di illegalità o comunque di non sicurezza soprattutto
 BOI005	per persone particolarmente anziane, o particolarmente giovani. ecco che sono forse quelle un po' più vulnerabili
 BOI005	E: questa credo sia una cosa da migliorare cioè: ravvivare via indipendenza
-BOR002	e:hm: [scuo~]
-BOI005	[via indipende]nza pro[prio]?
+BOI005	e:hm: [scuo~]
+BOR002	[via indipende]nza pro[prio]?
 BOI005	[v~] via indipendenza:
-BOR002	mh nella (.) p:arte: diciamo più bassa cioè [difatti in vi]a indipendenza poi è chiaro che via indipendenza essendoci °come dice°
-BOI005	[mhmh]
+BOI005	mh nella (.) p:arte: diciamo più bassa cioè [difatti in vi]a indipendenza poi è chiaro che via indipendenza essendoci °come dice°
+BOR002	[mhmh]
 BOI005	la mamma essendoci: le vasche non è che puoi mettere dei tavolini fuori nei portici
 BOI005	però ritengo che in qualche modo:: ravvivare la vita notturna, con più luci, più presenza di persone.
 BOI005	e:: sia una cosa positiva UNA COSA CHE:
@@ -266,7 +266,7 @@ BOI005	e::hm: dà tranquillità alle persone (.) e:
 BOI005	e:hm: scoraggia chi
 BOI005	chi vuole: borseggiare comunque compiere atti di le~ illegalità secondo me qui si potrebbe migliorare molto sia a livello di
 BOI005	e:h organi di polizia di <stato> quindi carabinieri guardia di finanza polizia (.) sia a livello di polizia locale ecco
-BOI004	questo credo che sia MOLTO migliorabile
+BOI005	questo credo che sia MOLTO migliorabile
 BOI004	però la zona: per esempio di: piazza verdi lì dell'università io mi ricordo >quando andavo all'università io<
 BOI004	e:h cioè (.) tabù (.) alla sera non ci si poteva andare eh era pieno di punkabbestia, risse,
 BOI004	è così anche adesso però credo che sia ((sospira)) almeno un po' da quello che un po' si vede sui social, da quello che >magari raccontano< i figli così
@@ -275,30 +275,30 @@ BOI004	mi sembra un po' più vivibile ecco cioè ci sono: mh beh somma però ci 
 BOI004	almeno io ho questa impressione però io non ci vado mai quindi °non te lo so dire°
 BOI004	una cosa che secondo me è cambiata anche è la: m::::h
 BOI004	la <piazzola> da quando >non so da quant'è che hanno fatto il parcheggio di via irnerio<
-BOI005	°quanto sarà?°
-BOI004	>il parcheggio di via irnerio<?
-BOI005	[eh]
-BOI004	>[il parcheggio] sotto di [piazza otto agosto]<
+BOI004	°quanto sarà?°
+BOI005	>il parcheggio di via irnerio<?
+BOI004	[eh]
+BOI005	>[il parcheggio] sotto di [piazza otto agosto]<
 BOI004	[sì]
-BOI005	di piazza otto ag[osto]
+BOI004	di piazza otto ag[osto]
 BOI005	[sì]
-BOI004	eh
-BOI005	da quant'è che ci sarà?
-BOI004	diec'anni?
+BOI005	eh
+BOI004	da quant'è che ci sarà?
+BOI005	diec'anni?
 BOI004	°anche quello (.) diec'anni° sì
 BOI004	cioè prima: la piazzola era un posto alternativo: dove andavi a prendere >della roba< e anche della bella roba
 BOI004	per me da quando l'hanno rifatto e hanno: appunto fatto sto parcheggione
 BOI004	#in realtà: è cambiato molto anche la piazzola cioè c'è proprio delle ciofeche delle schifezze: °a parte che non non c'è un italiano che è uno°
 BOI004	°ma vabbè pazienza°
 BOI004	e: però anche proprio la roba è molto:
-BOR002	cambiata (.) °insomma quella cosa: a me non: (.) non piace molto ecco°
+BOI004	cambiata (.) °insomma quella cosa: a me non: (.) non piace molto ecco°
 BOR002	vi sembra (.) che
 BOR002	i: giovani
 BOR002	>diciamo di adesso<
 BOR002	vivano: la città
 BOR002	più o meno nella nostra: nella vostra (.) stessa maniera?
 BOR002	o (.) in maniera diversa
-BOI005	magari se non è una [domanda troppo]
+BOR002	magari se non è una [domanda troppo]
 BOI005	[no no senz'altro d]iversa cioè nel senso che: come dice la mamma la vasca in via indipendenza comunque
 BOI005	mh >ad esempio< (.) trent'anni fa: in via indipendenza: il venerdì sera
 BOI005	si faceva avanti e indietro in macchina, si faceva inversione in piazza otto agosto, si ritornava su da via indipendenza,
@@ -309,8 +309,8 @@ BOI005	quindi i:: luoghi di interesse si sono spostati credo soprattutto anche p
 BOI005	eh i cinema in centro non ci sono più il cinema era senz'altro: ad esempio:
 BOI005	noi come abitudine ci trovavamo (.) al: bar stadio dove c'era il <cartellone> con:
 BOI005	e:h siccome non c'era internet con de~ vari: cinema e
-BOI004	i [film che: con la progra]mmazione dei film,
-BOI005	[con la programmazione (.) eh]
+BOI005	i [film che: con la progra]mmazione dei film,
+BOI004	[con la programmazione (.) eh]
 BOI005	ci si ritrovava lì, magari bevevi qualcosa, prendevi il caffè,
 BOI005	e poi dopo (.) in compagnia poi dopo:
 BOI005	si andava in centro
@@ -324,13 +324,13 @@ BOI005	aspettavi: il cambio turno: dello spettacolo,
 BOI005	e per me era una cosa: mi piaceva molto
 BOI005	trovo: le:: multisale <spersonalizzanti> un po':
 BOI005	sembra di essere un po' <delle galline di allevamento> e: mi piace molto meno anche se capisco che (.) è tutto molto più comodo perché comunque:
-BOR002	raggiungere le sale in centro i cinema in centro (.) era:: impegnativo: per trovare il parcheggio poi chiaramente [°si sono°]
-BOI005	[pensa se] era impegnativo una volta che non c'era la zeta ti elle <[adesso eff]ettivamente> ((ride))
+BOI005	raggiungere le sale in centro i cinema in centro (.) era:: impegnativo: per trovare il parcheggio poi chiaramente [°si sono°]
+BOR002	[pensa se] era impegnativo una volta che non c'era la zeta ti elle <[adesso eff]ettivamente> ((ride))
 BOI005	[certo]
 BOI005	certo
 BOI005	e:: ecco questa è la cosa che (.) a me non piace ecco però
 BOI005	a livello di u:tilità è un fatto di gusti
-BOI004	a livello di: mh UTILIZZO sen'altro sono più fruibili le multisale però io le trovo molto tristi
+BOI005	a livello di: mh UTILIZZO sen'altro sono più fruibili le multisale però io le trovo molto tristi
 BOI004	io:: sì secondo me i ragazzi hanno: cambiato un po' la modalità cioè
 BOI004	per noi era fondamentale vederci no?
 BOI004	e: quindi qualsiasi posto:: andava bene
@@ -353,14 +353,14 @@ BOI004	secondo me un po' è cambiata: °questa cosa°
 BOI004	°con i suoi pro e i suoi contro eh non voglio: demonizzare niente e nessuno° però:
 BOI004	sicuramente l:o <stare insieme> per: i: ragazzi di adesso:
 BOI004	ha degli altri:: delle altre connotazioni °ecco°
-BOR002	e quindi anche degli altri posti
+BOI004	e quindi anche degli altri posti
 BOR002	>allora rimanendo sempre< un p:o' in t:ema: <bologna>,
 BOR002	>questa magari< è una domanda che prende un attimo più di tempo per:
 BOR002	per pensarci ma non è un problema
 BOR002	vi viene in mente <qualche> (.) <aneddoto>
 BOR002	<storia>
 BOR002	insomma: legato ai portici?
-BOI005	°di bologna°
+BOR002	°di bologna°
 BOI005	eh legato ai portici di bologna c'era: <fino a poco tempo fa> un (.) tipo più o meno della mia età >sulla cinquantina< che suonava il sax
 BOI005	ma non perché avesse necessità economiche ma per~ aveva due cani: chow chow
 BOI005	e::: (.) perché era uno dei personaggi
@@ -371,44 +371,44 @@ BOI005	però era: da trent'anni una:
 BOI005	un ritrovo invernale:: primaverile
 BOI005	e abbastanza:
 BOI005	abbastanza conosciuto sapevi che lì ci trovavi beppe ne~ (.) beppe maniglia con:
-BOI004	°con molta probabilità°
-BOI005	[°aneddoti°]
+BOI005	°con molta probabilità°
+BOI004	[°aneddoti°]
 BOI005	[aneddoti:] riguardo ai portici::
-BOI004	°io onestamente non me li ricordo°
+BOI005	°io onestamente non me li ricordo°
 BOI004	°no io poi son sincera io li ho frequentati:° più da: da vecchia adesso da adesso che
-BOI005	quando ero giovane io i portici di san luca (.) ci sono stata veramente [molto °poco°]
-BOR002	[DI SAN LUCA]?
-BOI005	PORTICI [IN GENERALE QUINDI::] Sì RELATIVI ANCHE A SAN LUCA [ANCHE MAGARI]
-BOI004	[ah i portici in genere]
+BOI004	quando ero giovane io i portici di san luca (.) ci sono stata veramente [molto °poco°]
+BOI005	[DI SAN LUCA]?
+BOR002	PORTICI [IN GENERALE QUINDI::] Sì RELATIVI ANCHE A SAN LUCA [ANCHE MAGARI]
+BOI005	[ah i portici in genere]
 BOI004	[ah]
 BOI004	[ah (.) sì >io stavo pensa]ndo proprio solo ai portici di san luca< non so perché
 BOI004	e::h no (.) aneddoti no sui portici in generale: no
 BOI004	m::h
-BOR002	((ride)) io mi ricordo che (.) chi è (.) che dei nostri figli li chiamava i portici del bavaglione?
-BOI005	((ride))
-BOI004	>non mi ricordavo neanche del bavaglione<
-BOR002	io mi ricordo i portici del <bavaglione> invece che del pavaglione
-BOI004	((ride))
+BOI004	((ride)) io mi ricordo che (.) chi è (.) che dei nostri figli li chiamava i portici del bavaglione?
+BOR002	((ride))
+BOI005	>non mi ricordavo neanche del bavaglione<
+BOI004	io mi ricordo i portici del <bavaglione> invece che del pavaglione
+BOR002	((ride))
 BOI004	°questa:° è un aneddoto di casa nostra
 BOI004	e: <sui portici::>
-BOI005	°son sincera no[n:°]
-BOI004	>[io mi] ricordo che c'erano i sottopassaggi i sottopassaggi< [erano un <luogo:>]
-BOI005	[°ah è vero:°]
+BOI004	°son sincera no[n:°]
+BOI005	>[io mi] ricordo che c'erano i sottopassaggi i sottopassaggi< [erano un <luogo:>]
+BOI004	[°ah è vero:°]
 BOI005	mh (.) i sottopassaggi: si passava da:: <sotto via rizzoli via indipendenza>,
-BOR002	e si sbucava da~ dall'altra parte
-BOI005	ma è quelli che: adesso: avr[ebbero la] emme della [metro]?
-BOI004	[°son chiusi°]
+BOI005	e si sbucava da~ dall'altra parte
+BOR002	ma è quelli che: adesso: avr[ebbero la] emme della [metro]?
+BOI005	[°son chiusi°]
 BOI004	[esatto]
-BOR002	°[che c'hanno] quell'odore di <banana> orribile°
-BOI005	[ah]
-BOR002	°(penso) di sì°
-BOI004	((ride))
+BOI004	°[che c'hanno] quell'odore di <banana> orribile°
+BOR002	[ah]
+BOI005	°(penso) di sì°
+BOR002	((ride))
 BOI004	quando <entri> (.) c'era quell'odore
-BOI005	°[mamma mia]° di banana [>a me la<]
+BOI004	°[mamma mia]° di banana [>a me la<]
 BOI005	[ah]
 BOI005	[>non mi ricordo<]
-BOI004	io so che lì c'erano [dei: negozi anch]e: belli,
-BOI005	[dei negozi]
+BOI005	io so che lì c'erano [dei: negozi anch]e: belli,
+BOI004	[dei negozi]
 BOI005	e:h c'era uno o due bar e comunque (.) e::h
 BOI005	quando c'era brutto tempo o comunque quando c'era freddo era luogo di ritrovo per i capannelli
 BOI005	di anziani ma non solo degli anziani
@@ -417,30 +417,30 @@ BOI005	>non so mi ricordo< c'era un negozio dell'AVIREX,
 BOI005	°c'eran~° (.) dei negozi comunque abbastanza in voga
 BOI005	e:hm:
 BOI005	sì (.) per me erano erano belli ecco >eran rappresentativi< (.) secondo me li han chiusi:
-BOR002	trent'anni fa? venticinque anni fa?
-BOI004	°pensa te°
+BOI005	trent'anni fa? venticinque anni fa?
+BOR002	°pensa te°
 BOI004	>secondo me< i portici li dovrebbero fare <in tutto il mondo> (.) perché è una <trovata> spettacolare VABBE' C'è IL PORTICO QUELLO
-BOR002	eh di corte ISOLANI con: (.) le frecce (.) che tutte le volte che si passava di lì guardate le frecce degli india:ni,
-BOI004	((ride)) DEGLI IN[DIANI]?
-BOR002	[degli india]ni certo (.) erano gli indiani
-BOI004	((ride))
+BOI004	eh di corte ISOLANI con: (.) le frecce (.) che tutte le volte che si passava di lì guardate le frecce degli india:ni,
+BOR002	((ride)) DEGLI IN[DIANI]?
+BOI004	[degli india]ni certo (.) erano gli indiani
+BOR002	((ride))
 BOI004	e::hm:
 BOI004	sì mi ricordo quello come
-BOR002	[°(qua)xxx (adesso)°]
+BOI004	[°(qua)xxx (adesso)°]
 BOR002	[INVECE] (.) vi: ricordate
 BOR002	o avete qualche ricordo magari legato
-BOI005	a san luca? cioè magari >quando siete stati la prima volta<, o >quando siete stati< la prima volta a <piedi>,
+BOR002	a san luca? cioè magari >quando siete stati la prima volta<, o >quando siete stati< la prima volta a <piedi>,
 BOI005	>sono stato a san luca< coi miei nonni quando c'era la funivia, che funzionava veramente ma ero veramente piccolo >ho un ricordo molto vago e mi ricordo che vado su questa funivia con i miei nonni e probabilmente c'erano anche i miei genitori<
 BOI005	e:hm: riguardo <specificatamente: a san luca>
-BOR002	[e:h]
-BOI005	[ma perché] l'hanno tolta °la funivia°?
-BOR002	è: >un costi di gestione<
+BOI005	[e:h]
+BOR002	[ma perché] l'hanno tolta °la funivia°?
+BOI005	è: >un costi di gestione<
 BOR002	ah
-BOI004	peccato
+BOR002	peccato
 BOI004	io: no ricordi io mi ricordo °ma appunto° quando c'andavam con la parrocchia (.) a fare qua~ perché io da giovane coi miei a san luca se ci sono andata non me lo ricordo >se ci sono andata ci sono andata< in macchina
 BOI004	forse per qualche messa particola:re:
 BOI004	però non ho ricordi:
-BOI005	°così specifi[ci°]
+BOI004	°così specifi[ci°]
 BOI005	[mi ricordo] che erano: i: giri quando si aveva il motorino, che andavi su da casaglia, >parcheggiavi nella pendenza e venivi giù da san luca<,
 BOI005	oppure quando::: non sapevi cosa fare andavi su a san luca stavi:
 BOI005	ah ad esempio >andavamo nel parcheggione< i miei amici avevano: quello che si chiamava il baracchino all'epoca no? cioè il cibì cioè la radio cibì
@@ -448,53 +448,53 @@ BOI005	e: c'erano i vari canali quindi sin~ (.) ~tonizzavi sul canale dei camion
 BOI005	che trasmettevano: dalla bassa s~ s~ sentiva praticamente tutta la pianura padana
 BOI005	e quindi ci facevamo delle gran risate perché quello chiaramente era un punto di ricezione alto,
 BOI005	quindi l'antenna prendeva molto più lontano ecco
-BOR002	questo sì
-BOI004	meh sembra <completamente> un altro [mondo] ((ride))
-BOR002	[un altro mondo] (.) eh (sta' buono)
-BOI004	((ride))
+BOI005	questo sì
+BOR002	meh sembra <completamente> un altro [mondo] ((ride))
+BOI004	[un altro mondo] (.) eh (sta' buono)
+BOR002	((ride))
 BOI004	no io mi ricordo che noi facevamo il giro li sù
-BOR002	e: arrivavamo vabbè a casa:glia insomma quei posti lì poi buttavamo giù i: bidoni
-BOI004	MA COME?
-BOR002	°sì lascia stare° (.) [io e] bianchini sempre (.) io bianchini e l'ilaria
-BOI004	[NO:] ((ride))
-BOR002	andavamo, prendevamo i bidoni, e poi li buttavamo giù per:
-BOI005	((ride))
-BOI004	°la mamma teppista°
-BOR002	vabbè: ma (.) sì
-BOI004	((ride))
+BOI004	e: arrivavamo vabbè a casa:glia insomma quei posti lì poi buttavamo giù i: bidoni
+BOR002	MA COME?
+BOI004	°sì lascia stare° (.) [io e] bianchini sempre (.) io bianchini e l'ilaria
+BOR002	[NO:] ((ride))
+BOI004	andavamo, prendevamo i bidoni, e poi li buttavamo giù per:
+BOR002	((ride))
+BOI005	°la mamma teppista°
+BOI004	vabbè: ma (.) sì
+BOR002	((ride))
 BOI004	>cioè< io: lo facevo >perché lo facevan tutti< però: s~ no però mi divertivo °quello sì°
-BOR002	(ecco) xx
+BOI004	(ecco) xx
 BOR002	sempre un po': relativo ai portici secondo voi come sono cambiati se sono cambiati
-BOI005	negli anni
+BOR002	negli anni
 BOI005	credo che in passato fossero: più <decorosi> mi sembra eh
-BOI004	°però forse il passato viene sempre ricordato°
-BOI005	°meglio°
+BOI005	°però forse il passato viene sempre ricordato°
+BOI004	°meglio°
 BOI005	e:h meglio e:h quello che mi ricordo io che a metà anni <ottanta: dove att:ualmente>
 BOI005	sulla sinistra >andando verso la stazione< in via indipendenza,
 BOI005	>dove< attualmente: c'è tipo: non è tezenis ma una di quelle cose lì
 BOI005	ci fu uno dei primi fast food italy and italy
 BOI005	eh dei primi fast food un po' in: (.) e:h (.) di lusso diciamo
-BOR002	[tra virgolette]
-BOI005	[mhmh]
+BOI005	[tra virgolette]
+BOR002	[mhmh]
 BOI005	e: poi dopo da lì: italy and italy si
 BOI005	e:hm
 BOI005	trasferì
 BOI005	e:hm: in un altro portico che è quello che quando si viene da
-BOI004	e::h [piazza malpighi]
-BOI005	[piazza malpighi]
+BOI005	e::h [piazza malpighi]
+BOI004	[piazza malpighi]
 BOI005	si va verso:: via marconi sulla sinistra
-BOI004	c'è un portico che farà tre campate
-BOI005	>dove< [c'è la wind]
+BOI005	c'è un portico che farà tre campate
+BOI004	>dove< [c'è la wind]
 BOI005	[e accanto c'è l]a via (.) via del pratello
 BOI005	e lì c'era italy and italy quindi: metà anni ottanta:: seconda metà anni ottanta
 BOI005	>si sono iniziati< a sviluppare un po' questi fast food un
 BOI005	po' più:
 BOI005	e:h ELEGANTE diciamo: e:h
-BOR002	che erano: diciamo luog~ (.) luoghi di <ritrovo>
-BOI005	m:h
+BOI005	che erano: diciamo luog~ (.) luoghi di <ritrovo>
+BOR002	m:h
 BOI005	per i ragazzi: a:: (.) a un costo abbastanza accettabile
-BOI004	e:hm
-BOI005	°io [<differenze>]°
+BOI005	e:hm
+BOI004	°io [<differenze>]°
 BOI005	[e quindi c'era mol]to: c'era m:~
 BOI005	c'era mol~ in questa zona:
 BOI005	>di via indipendenza< c'era molta più:
@@ -502,13 +502,13 @@ BOI005	frequentazione, poi:
 BOI005	m::h
 BOI005	per tanto tempo comunque c~ era chiusa l'arena del sole no?
 BOI005	che è stata ristrutturata non da tanti anni forse da vent'anni
-BOR002	e che però non so perché è dedicata: agli spettacoli solo diurni (.) non l'ho mai capito
-BOI005	solo diurni?
-BOR002	[è luogo >c'è scritto] proprio< luogo: deputato (.) agli spettacoli diurni
-BOI005	[ah non lo sapevo]
+BOI005	e che però non so perché è dedicata: agli spettacoli solo diurni (.) non l'ho mai capito
+BOR002	solo diurni?
+BOI005	[è luogo >c'è scritto] proprio< luogo: deputato (.) agli spettacoli diurni
+BOR002	[ah non lo sapevo]
 BOI005	>destinato agli spettacoli diurni<
-BOR002	>si chiama arena del sole per quello<
-BOI005	non ne avevo idea
+BOI005	>si chiama arena del sole per quello<
+BOR002	non ne avevo idea
 BOI005	ah non so neanch'io
 BOI005	e:hm però ecco il mi~ il mio rico~ poi: vabbè ecco
 BOI005	aneddoti legati ai portici: era tradizionale >facevi il giro in centro< la pizza da altero,
@@ -521,75 +521,75 @@ BOI005	e quindi erano un po': due passaggi obbligati
 BOI005	poi: <quan:do: un po' più avanti> ed è aperto tutt'ora <l'incrocio tra via lame>
 BOI005	e: via rivareno, E:H via san felice via rivareno,
 BOI005	e:h bombo,
-BOR002	e:h [che] (.) che c'è ancora bombo
-BOI005	[C'è ANCORA]
+BOI005	e:h [che] (.) che c'è ancora bombo
+BOR002	[C'è ANCORA]
 BOI005	infatti ci sono stato tipo: un mese fa >tre settimane fa< di sera
-BOR002	c'è sempre il solito tipo >il solito padrone< (.) poi dopo ce n'era anche un altro bombocrepes (.) in qualche altro: luogo più centrale:
-BOI005	via delle moline
-BOR002	può essere (.) sì esatto (.) [dovrebbe essere proprio lì]
+BOI005	c'è sempre il solito tipo >il solito padrone< (.) poi dopo ce n'era anche un altro bombocrepes (.) in qualche altro: luogo più centrale:
+BOR002	via delle moline
+BOI005	può essere (.) sì esatto (.) [dovrebbe essere proprio lì]
 BOR002	[anche quello:]
-BOI005	se è quello origin[ale c'è ancora]
+BOR002	se è quello origin[ale c'è ancora]
 BOI005	[e quindi questi] erano: dei: passaggi: i~ erano:
 BOI005	sì dei passaggi:
 BOI005	°mh° (.) D'OBBLIGO: per chi ragazzino con:
 BOI005	m:h POCO DENARO: e: si divertiva: con <poco> l'importante è fare il giro in centro poi ecco
-BOI004	mangiare o bere qualche cosa
+BOI005	mangiare o bere qualche cosa
 BOI004	°io: non mi ricordo°
 BOI004	°io: ripeto io l:~°
 BOI004	(il) centro di bologna perché i portici son soprattutto lì
-BOR002	cioè ci sono anche qua alla croce eh i portici ((ride))
-BOI005	((ride))
-BOI004	anche in via saffi ci sono i portici
+BOI004	cioè ci sono anche qua alla croce eh i portici ((ride))
+BOR002	((ride))
+BOI005	anche in via saffi ci sono i portici
 BOI004	eh e:: non non trovo la differ~ delle grandi differenze perché io poi da piccola: (.) c'andavo po:co cioè andavamo in centro quando c'era santa luci:a,
-BOI005	°e::h in: cos'è in san domenico che c'era?°
-BOR002	e:h >quando c'era santa lucia< (.) eh. giù per via::
-BOI005	[strada maggiore]
-BOI004	[eh >strada maggiore<]
-BOI005	[stra]da [maggio:re] (.) [eh]
-BOR002	[>strada maggiore<]
-BOI004	[li hanno aper]ti oggi mi sa i merca[tini]
-BOI005	[sì:]?
-BOR002	[>addirittura<]?
-BOI004	[mh]
+BOI004	°e::h in: cos'è in san domenico che c'era?°
+BOI005	e:h >quando c'era santa lucia< (.) eh. giù per via::
+BOR002	[strada maggiore]
+BOI005	[eh >strada maggiore<]
+BOI004	[stra]da [maggio:re] (.) [eh]
+BOI005	[>strada maggiore<]
+BOR002	[li hanno aper]ti oggi mi sa i merca[tini]
+BOI004	[sì:]?
+BOI005	[>addirittura<]?
+BOR002	[mh]
 BOI004	[ua]u
-BOR002	e:h vabbè (.) e:h però: sì non: io non: ho grandi: °ricordi sono sincera° sono cambiati saranno li avran ristrutturati penso:
+BOI004	e:h vabbè (.) e:h però: sì non: io non: ho grandi: °ricordi sono sincera° sono cambiati saranno li avran ristrutturati penso:
 BOR002	eh a proposito adesso
-BOI005	che sono diventati patrimonio dell'unesco credo nel duemila[venti]
-BOR002	[chi]?
-BOI004	[i portici]
-BOI005	[i portici] di bo[logna] (.) mh
-BOR002	[ah sì]?
+BOR002	che sono diventati patrimonio dell'unesco credo nel duemila[venti]
+BOI005	[chi]?
+BOR002	[i portici]
+BOI004	[i portici] di bo[logna] (.) mh
+BOI005	[ah sì]?
 BOR002	eh (.) secondo voi: cioè
 BOR002	DEVE (.) può cambiar qualcosa?
-BOI004	nel senso::
+BOR002	nel senso::
 BOI004	mah io spero che vengano: sicuramente mh (.) <mantenuti> e:h così come sono,
 BOI004	eh e: tenuti bene (.) cioè
 BOI004	con una sorta di cura
 BOI004	però: essendo:
-BOR002	di passaggio >non so come dire< non è che li puoi chiudere come una <chiesa> o come un palazzo [per cui dici eh]
-BOI004	[no vabbè (.) certo]
+BOI004	di passaggio >non so come dire< non è che li puoi chiudere come una <chiesa> o come un palazzo [per cui dici eh]
+BOR002	[no vabbè (.) certo]
 BOI004	quindi essendo di passaggio ti passa il <cretino> che con lo spray e:e
 BOI004	e quindi: non non so
-BOR002	m:h (.) s~ se ci piazzi delle telecamere per beccarli poi alla fine fa cagare perché c~ ((ride)) metti la [telecamera]
-BOI004	[è che tanto le dis]truggono
+BOI004	m:h (.) s~ se ci piazzi delle telecamere per beccarli poi alla fine fa cagare perché c~ ((ride)) metti la [telecamera]
+BOR002	[è che tanto le dis]truggono
 BOI004	ma poi li d~ appunto (.) non <saprei>
-BOR002	m:h non so cos'è che possa cambiare col fatto che sono diventati patrimonio dell'unesco [°son sincera°]
+BOI004	m:h non so cos'è che possa cambiare col fatto che sono diventati patrimonio dell'unesco [°son sincera°]
 BOR002	[>non lo so< cioè:] tipo io
 BOR002	da una parte:
 BOR002	fa sempre puzza di pipì no?
-BOI004	quindi [quello dà fastidio sopra]ttutto in meloncello:, saragozza così
-BOR002	[è vero (.) sì]
+BOR002	quindi [quello dà fastidio sopra]ttutto in meloncello:, saragozza così
+BOI004	[è vero (.) sì]
 BOR002	e: dall'altra parte però: io spesso >ed è una cosa di cui secondo me< in molti si lamentano (.) è pieno di barboni no?
 BOR002	e: (.) però secondo me se <vai a>
 BOR002	tra virgolette <sanificarli>, a <pattugliarli>, i:
 BOR002	i portici così
 BOR002	poi togli:
-BOI005	un po': il rifugio almeno dalla pioggia:, dal vento >di quello che è< a [quelli che sono i clo]chard quindi per me per esempio
-BOR002	[beh certo]
+BOR002	un po': il rifugio almeno dalla pioggia:, dal vento >di quello che è< a [quelli che sono i clo]chard quindi per me per esempio
+BOI005	[beh certo]
 BOR002	anche se sono una ragazza e mi dà fastidio che magari passo la sera e °ci sono I:° clochard (.) però credo che sarebbe:
-BOI005	un po' distruttivo ecco: un'urbanizzazione un po' distruttiva °per:°
-BOR002	[ah beh certo perché:] creare
-BOI005	[°i senzatetto°]
+BOR002	un po' distruttivo ecco: un'urbanizzazione un po' distruttiva °per:°
+BOI005	[ah beh certo perché:] creare
+BOR002	[°i senzatetto°]
 BOI005	diciamo delle zone d'elite
 BOI005	e:h preclude il fatto che poi delle persone: homeless possano: rifugiar~ (.) <vi> <si> rifugiarvisi
 BOI005	e:h sì (.) e: sono: è il prezzo da pagare
@@ -613,27 +613,27 @@ BOI005	>soprattutto in certe situazioni< in certe ore di non sicurezza
 BOI005	non provenga dai senzatetto ma:
 BOI005	d~ da chi delinque appositamente ecco
 BOI005	poi (.) chiaramente è una s~ è (.) un discorso DELICATO
-BOR002	°e:° anche difficile da sviscerare ecco
-BOI005	sì [sì °ma infatti°]
+BOI005	°e:° anche difficile da sviscerare ecco
+BOR002	sì [sì °ma infatti°]
 BOI005	[DOVENDO SCEGLIER]E però: ecco
-BOR002	io li lascerei così
+BOI005	io li lascerei così
 BOR002	mhmh
 BOR002	okay
 BOR002	>quindi diciamo< l'argomento: bologna l'abbiamo un po':: toccato (.) adesso magari ci sono domande un po' più:
 BOR002	generali
-BOI004	ALLORA che lavoro fate?
-BOI005	l'insegnante alla scuola dell'infanzia
-BOR002	progettista meccanico in un'azienda privata
-BOI005	facciam così vi faccio magari un po' più [domande] così poi parlate un po': del vostro lavoro, la vostra storia: <lavorati[va> insomma]
-BOI004	[sì]
-BOR002	[se <ciao>] comincio io a parlare del mio lavoro è finita eh
+BOR002	ALLORA che lavoro fate?
+BOI004	l'insegnante alla scuola dell'infanzia
+BOI005	progettista meccanico in un'azienda privata
+BOR002	facciam così vi faccio magari un po' più [domande] così poi parlate un po': del vostro lavoro, la vostra storia: <lavorati[va> insomma]
+BOI005	[sì]
+BOI004	[se <ciao>] comincio io a parlare del mio lavoro è finita eh
 BOR002	((ride)) ((sospira)) vabbè
 BOR002	>allora più o meno da ta~< da quanto tempo fate il lavoro che >state facendo<, (.) in cosa consiste,
 BOR002	se avete fatto: sempre lo stesso lavoro,
 BOR002	<o: se per esempio avete fatto un lavo:ro <che> preferivate nel passato, vorreste far qualcosa nel futuro di diverso::>,
 BOR002	>insomma cioè:<
 BOR002	>una conversazione< abbastanza libera: °sul:°
-BOI004	°sul lavoro°
+BOR002	°sul lavoro°
 BOI004	allora io ho cominciato presto
 BOI004	facendo: la segretaria
 BOI004	e: >nell'associazione< di mio: papà
@@ -654,18 +654,18 @@ BOI004	e: poi dopo vabbè ho fatto: un corso all'università che mi ha portato a
 BOI004	mh dove mi piace lavorare meno,
 BOI004	e::h io diciamo che quando ero piccola dicevo io: da grande farò o l'infermiera
 BOI004	o la suora
-BOR002	o la maestra
-BOI004	<apperò>
+BOI004	o la maestra
+BOR002	<apperò>
 BOI004	quindi alla fine ((ride)) una delle tre e::h l'ho fatta insomma: e quindi:: no io son contenta a me il lavoro: mio mi piace tantissimo
 BOI004	e::hm non nascondo l'idea che magari quando sarò un po'
 BOI004	più vecchia (.) e::hm
 BOI004	far xx (.) cioè l'idea di fare: la docente alla primaria,
 BOI004	o: la: vicepreside o perché no (.) la preside
-BOR002	e: chissà [mai]
+BOI004	e: chissà [mai]
 BOR002	[yeah]
-BOI004	((ride))
-BOR002	yeah
-BOI004	yeah ((ride))
+BOR002	((ride))
+BOI004	yeah
+BOR002	yeah ((ride))
 BOI004	però: è un lavoro che mi distacche~ >cioè quello< del preside m~ mi distaccherebbe molto dai bambini e:hm:
 BOI004	quindi
 BOI004	non credo che:
@@ -677,7 +677,7 @@ BOI004	#dio tal degga no però io sono contenta del mio lavoro e: era quello che
 BOI004	MI VEDEVO DA PICCOLA COSì::
 BOI004	e da d~ DA GRANDE:: mi
 BOI004	mi vedrò da vecchia: °come insegnante dell'infanzia ecco°
-BOI005	°il mio lavoro è un po' questo°
+BOI004	°il mio lavoro è un po' questo°
 BOI005	io è da trentaquattro anni che lavoro nella stessa azienda
 BOI005	e faccio:
 BOI005	e::h lo (.) mh lo stesso tipo di lavoro
@@ -735,15 +735,15 @@ BOI005	e comunque ti consentiva
 BOI005	e:h un'ampia scelta >nel caso il tuo lavoro non ti piacesse<
 BOI005	attualmente non è più così
 BOI005	°m::h°
-BOR002	HO PARLATO MOLTO IN GENERALE
-BOI005	[eh proprio:] (.) diciamo a questo proposito secondo me una questione interessante è (.) se secondo voi
-BOR002	[e:]
+BOI005	HO PARLATO MOLTO IN GENERALE
+BOR002	[eh proprio:] (.) diciamo a questo proposito secondo me una questione interessante è (.) se secondo voi
+BOI005	[e:]
 BOR002	magari non relativamente: ai vostri tipi di: occupazione singolarmente
 BOR002	ma (.) se (.) bologna (.) è un buon posto per (.) trovar lavo:ro
 BOR002	>dove ci sono possibilità< di lavoro,
 BOR002	sì
 BOR002	no
-BOI005	perché
+BOR002	perché
 BOI005	allora per me bologna
 BOI005	è un posto dove si trova lavoro lo testimonia il fatto (.) che
 BOI005	e::h
@@ -763,8 +763,8 @@ BOI005	e:h <dipende molto dal>
 BOI005	dall'orientamento
 BOI005	che si ha per il lavoro
 BOI005	poi anche a bologna sicuramente
-BOR002	°e:h° si sviluppano tutte le attività che in precedenza
-BOI005	((tossisce))
+BOI005	°e:h° si sviluppano tutte le attività che in precedenza
+BOR002	((tossisce))
 BOI005	°m:h non non non° (.) non (.) non si eran sviluppate >poi tipo< tipo: (.) tutti questi corrieri velo:ci
 BOI005	che però sono un po' l'ultima spiaggia no? è come
 BOI005	>come fare il taxista a new york< no è un po' l'ultima spiaggia un po' il lavoro
@@ -783,8 +783,8 @@ BOI005	sono sempre meno (.) parte
 BOI005	e:h manuale e:h
 BOI005	quindi parte di manodopera è sempre più
 BOI005	organizzazione (.) marketing (.) informatizzazione
-BOR002	e: quello che: viene chiamata l'industria quattro punto zero
-BOI004	secondo te?
+BOI005	e: quello che: viene chiamata l'industria quattro punto zero
+BOR002	secondo te?
 BOI004	io: credo che: no a bologna si: si trovi °da lavoro°
 BOI004	perché: comunque noi di persone
 BOI004	eh disoccupate ne conosciamo (.) °veramente poche°
@@ -794,16 +794,16 @@ BOI004	e::hm:
 BOI004	cioè (.) ci sta (.) nel senso eh però alla fine io
 BOI004	cioè anche marco ha appena finito un lavo~ vabbè che è un lavoro tecnico però finito un lavoro ne ha trovato subito un altro l'unica che non lo trova è la federica,
 BOI004	°e qui la chiudo° e:hm:
-BOR002	però
-BOI004	((tossisce))
+BOI004	però
+BOR002	((tossisce))
 BOI004	cioè a me sembra che bene o male
 BOI004	e:h si riesca (.) a trovare
 BOI004	poi ripeto magari non è il lavoro della tua vita
 BOI004	però e::h io credo che a bologna anche un po' gli artigiani ci siano (.) a~ anche quello ehm:: in italia °credo che sì°
 BOI004	°ci siano° ancora degli artigiani quindi forse anche quelli
 BOI004	ti prendono
-BOR002	ehm (.) sì m:h secondo me siamo un po' fighetti ecco magari non vogliamo andare a distribuire le pizze
-BOI004	((tossisce))
+BOI004	ehm (.) sì m:h secondo me siamo un po' fighetti ecco magari non vogliamo andare a distribuire le pizze
+BOR002	((tossisce))
 BOI004	e: a fare il babysitter ma voglio già avere la mia pizzeria e:: m:h fa~ far l'insegnante ecco
 BOI004	°mettendola così°
 BOI004	però no secondo me a bologna: m:h
@@ -814,7 +814,7 @@ BOI004	non per solo per bologna però m:h mi vien da dire un po' la differenza a
 BOI004	anni fa si portava solo manualmente, poi è arrivato via mia via mail si manda tutto via mail,
 BOI004	adesso secondo me un po' si sta tornando a: voler rivedere la gente in faccia
 BOI004	°quindi° forse
-BOR002	un po' bisogna cambiare anche quello ecco
+BOI004	un po' bisogna cambiare anche quello ecco
 BOR002	°mhmh°
 BOR002	se voi foste: (.) giovani: diciamo di adesso,
 BOR002	secondo voi fareste più fatica a trovare un <lavoro>? o no
@@ -822,7 +822,7 @@ BOR002	ehm: (.) per esempio: magari: intendo sia lavoro in generale quindi occup
 BOR002	magari di seconda scelta
 BOR002	>appunto non di prima scelta<
 BOR002	o occupazione di prima scelta ovvero (.) <ho studiato ics> vorrei fare:
-BOI005	quella cosa lì
+BOR002	quella cosa lì
 BOI005	in passato >secondo me< era più facile studiare: la cosa ics
 BOI005	e trovare il lavoro ics
 BOI005	e::hm
@@ -837,7 +837,7 @@ BOI005	>debbo portare a casa lo stipendio debbo guadagnare< (.) quindi mi adatto
 BOI005	molte cose
 BOI005	°m:h° non necessariamente tutte ma molte molte cose
 BOI005	e::h (.) sì questa seconda opzione ritengo: che sia più: facile
-BOI004	la prima >ritengo che sia< più difficile
+BOI005	la prima >ritengo che sia< più difficile
 BOI004	io: non so se è: diversa la: la richiesta la domanda: e:hm:
 BOI004	cioè s~ s~ se è aumentata se è diminuita non lo so io credo che i giovani di adesso
 BOI004	dal momento che comunque sono debbono essere >praticamente quasi tutti< laureati,
@@ -865,14 +865,14 @@ BOI004	che non tutti sono disposti a: mh
 BOI004	ad accettare ecco:: o perlomeno: anche: cioè tu proponi questa cosa però a un certo punto ti dicono guarda
 BOI004	adesso facciam che cominci a fare: non so il segretario prendi su le telefonate, poi se vai bene (.) mi piaci mi proponi anche la cosa che vorresti fare tu
 BOI004	e non so se molti giovani sono disposti a (.) fare: (.) prendere le telefonate per poi dire c'ho il grande progetto della ferrari con la lamborghini: eccetera (.) °quindi°
-BOR002	è è un po' cambiata secondo me sia la domanda che l'offerta °ecco°
+BOI004	è è un po' cambiata secondo me sia la domanda che l'offerta °ecco°
 BOR002	mhmh
 BOR002	beh direi che: son state abbastanza:
-BOI004	esaustive come:
-BOR002	[risposte]
-BOI004	[come DOMAN]DE sì come conversazione,
-BOR002	°quanto [c'abbiam messo?°]
+BOR002	esaustive come:
+BOI004	[risposte]
+BOR002	[come DOMAN]DE sì come conversazione,
+BOI004	°quanto [c'abbiam messo?°]
 BOR002	[m:h]
-BOI005	mah direi che:
-BOR002	mezz'ora
+BOR002	mah direi che:
+BOI005	mezz'ora
 BOR002	va bene così insomma

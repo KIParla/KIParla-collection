@@ -1,134 +1,128 @@
-TOR002	eh fino a quando non carica
-TOR001	vai vai
+TOR001	eh fino a quando non carica
+TOR002	vai vai
 TOR001	ci siamo
-TOI075	okay
-TOR002	xx lei si sieda se non altro
-TOI075	va bene
-TOR001	perché a vederlo lì in piedi dà fastidio
-TOR002	sì in effetti è un po'
+TOR001	okay
+TOI075	xx lei si sieda se non altro
+TOR002	va bene
+TOI075	perché a vederlo lì in piedi dà fastidio
+TOR001	sì in effetti è un po'
 TOR002	va bene allora
-TOR001	allora mi siedo qua
-TOI075	
-TOR001	
+TOR002	allora mi siedo qua
 TOR001	okay
-TOI075	lei ha sempre vissuto a torino
-TOR001	sì praticamente sempre solo quando andavo in ferie ma
+TOR001	lei ha sempre vissuto a torino
+TOI075	sì praticamente sempre solo quando andavo in ferie ma
 TOR001	okay
-TOI075	in vacanza quindi
-TOR001	eh
-TOR001	
-TOI075	e in che quartiere ha vissuto
-TOR002	ehm praticamente sarebbe quartiere che adesso si chiama aurora
-TOR001	mh
-TOI075	okay
+TOR001	in vacanza quindi
+TOI075	eh
+TOR001	e in che quartiere ha vissuto
+TOI075	ehm praticamente sarebbe quartiere che adesso si chiama aurora
+TOR002	mh
+TOR001	okay
 TOI075	più o meno di lì
 TOI075	dalle parti dove ci sono gli spacciatori
-TOR001	in corso non so ne~ se ne ha sentito parlare
-TOI075	sì
+TOI075	in corso non so ne~ se ne ha sentito parlare
+TOR001	sì
 TOI075	comunque
 TOI075	quando sono nato io era un quartiere normale
-TOR001	non era non c'era la malavita
-TOI075	okay
-TOR001	diciamo
-TOR001	
-TOI075	e ha sempre vissuto lì
-TOR002	sì sono nato in via
-TOR001	mh
-TOI075	okay
-TOR002	che è una traversa di corso
-TOI075	noi stavamo in via
+TOI075	non era non c'era la malavita
+TOR001	okay
+TOI075	diciamo
+TOR001	e ha sempre vissuto lì
+TOI075	sì sono nato in via
+TOR002	mh
+TOR001	okay
+TOI075	che è una traversa di corso
+TOR002	noi stavamo in via
 TOI075	sono stato
-TOR001	battezzato a maria ausiliatrice
-TOI075	mhmh
-TOR001	sapete dov'è la chiesa di maria ausiliatrice
-TOI075	sì
+TOI075	battezzato a maria ausiliatrice
+TOR001	mhmh
+TOI075	sapete dov'è la chiesa di maria ausiliatrice
+TOR001	sì
 TOI075	mio padre anche lui era un torinese doc
-TOR001	lui è stato battezzato alla chiesa dei santi martiri
-TOI075	okay
-TOR001	era la chiesa principale di via garibaldi
+TOI075	lui è stato battezzato alla chiesa dei santi martiri
+TOR001	okay
+TOI075	era la chiesa principale di via garibaldi
 TOR001	mhmh
 TOR001	mhmh
-TOI075	e com'era allora il quartiere in cui abitava
-TOR001	mah quando sono nato non non ricordo esattamente
-TOI075	ahah beh certo
+TOR001	e com'era allora il quartiere in cui abitava
+TOI075	mah quando sono nato non non ricordo esattamente
+TOR001	ahah beh certo
 TOI075	poi per un certo periodo mi sono trafserito
-TOR001	nella zona di piazza maria teresa non lo so se ha presente
-TOI075	no dov'è
+TOI075	nella zona di piazza maria teresa non lo so se ha presente
+TOR001	no dov'è
 TOI075	eh questa piazza è praticamente
-TOR001	xxx sa dov'è via giolitti
-TOI075	sì
-TOR002	la via che parte da piazza san carlo
-TOI075	mhmh
+TOI075	xxx sa dov'è via giolitti
+TOR001	sì
+TOI075	la via che parte da piazza san carlo
+TOR002	mhmh
 TOI075	va giù verso il po
 TOI075	prima di arrivare al fondo
-TOR001	c'è una piazza
-TOI075	mhmh
-TOR001	che si chiama x piazza maria teresa considerato un quartiere molto chic
+TOI075	c'è una piazza
+TOR001	mhmh
+TOI075	che si chiama x piazza maria teresa considerato un quartiere molto chic
 TOR001	okay
-TOI075	okay
+TOR001	okay
 TOI075	xx
-TOR001	c'eran tutti i nobili
-TOI075	mhmh
+TOI075	c'eran tutti i nobili
+TOR001	mhmh
 TOI075	che abitavano in quella zona
 TOI075	mio padre aveva messo un nego~ un negozio in quella zona lì
 TOI075	quindi le scuole elementari le ho fatte in quella zona cioè
 TOI075	alla scuola niccolò tommaseo
-TOR001	che era in via san massimo
-TOI075	okay
-TOR001	sempre in quella zona lì
-TOI075	mhmh mhmh
+TOI075	che era in via san massimo
+TOR001	okay
+TOI075	sempre in quella zona lì
+TOR001	mhmh mhmh
 TOI075	ecco poi
 TOI075	dopo
 TOI075	dopo là quando è venuta la guerra ne trentanove mio padre ha ceduto questo negozio
 TOI075	e siamo di nuovo tornati a vivere
 TOI075	praticamente nella zona
-TOR001	qui con~ come dicevo prima zona aurora
-TOI075	okay
+TOI075	qui con~ come dicevo prima zona aurora
+TOR001	okay
 TOI075	ma non so
-TOI075	
 TOI075	x
-TOR001	da da allora sono sempre vissuto più o meno in questa zona
-TOI075	okay
+TOI075	da da allora sono sempre vissuto più o meno in questa zona
+TOR001	okay
 TOI075	cioè la zona
 TOI075	praticamente fra corso giulio cesare
 TOI075	e corso principe oddone allora c'era la stazione dora
 TOI075	e ora è stata eliminata
-TOR001	ecco e adesso c'è piazza baldissera
-TOI075	sì
-TOR001	ecco
-TOI075	e che tipo di abi~ di persone abitavano nel quartiere
+TOI075	ecco e adesso c'è piazza baldissera
+TOR001	sì
+TOI075	ecco
+TOR001	e che tipo di abi~ di persone abitavano nel quartiere
 TOI075	mah persone normali non certo
 TOI075	altolocate perché
 TOI075	a torino il quartiere diciamo
 TOI075	delle persone più
-TOR001	eleganti la crocetta xx avrà sentito xx x noi non c'erano le persone della crocetta persone normali
-TOI075	mhmh
-TOR001	operai artigiani così nel genere
+TOI075	eleganti la crocetta xx avrà sentito xx x noi non c'erano le persone della crocetta persone normali
+TOR001	mhmh
+TOI075	operai artigiani così nel genere
 TOR001	mhmh
 TOR001	okay
-TOI075	e ah lei prima ha accennato alla guerra
-TOR001	mh
-TOI075	quanti quanti anni aveva
-TOR001	quando è s~ nel millenovecentotrentanove avevo dieci anni
-TOI075	okay
-TOR001	quando è finita nel quarantacinque ne avevo sedici
-TOI075	okay
-TOR001	mh
-TOI075	e che ricordi ha di questo periodo
+TOR001	e ah lei prima ha accennato alla guerra
+TOI075	mh
+TOR001	quanti quanti anni aveva
+TOI075	quando è s~ nel millenovecentotrentanove avevo dieci anni
+TOR001	okay
+TOI075	quando è finita nel quarantacinque ne avevo sedici
+TOR001	okay
+TOI075	mh
+TOR001	e che ricordi ha di questo periodo
 TOI075	eh non tanto belli eh perché
 TOI075	in tutto c'era il razionamento
 TOI075	si soffriva la fame
-TOR001	poi c'erano i bombardamenti
-TOI075	in cosa consisteva il razionamento
-TOR001	come
-TOI075	in cos~ cosa cosa voleva dire avere il razionamento
-TOR001	e c'erano delle tessere
-TOI075	mhmh
+TOI075	poi c'erano i bombardamenti
+TOR001	in cosa consisteva il razionamento
+TOI075	come
+TOR001	in cos~ cosa cosa voleva dire avere il razionamento
+TOI075	e c'erano delle tessere
+TOR001	mhmh
 TOI075	x
 TOI075	per esempio il c'era il diritto d'avere duecento grammi al giorno di pane
 TOI075	poi per gli altri generi
-TOR001	x cioè magari adesso ne consumano anche meno
-TOI075	
+TOI075	x cioè magari adesso ne consumano anche meno
 TOI075	di duecento grammi ma siccome allora il pane era una parte essenziale
 TOI075	era molto importante poi
 TOI075	da duecento grammi erano scesi
@@ -143,28 +137,24 @@ TOI075	a fare delle gite nei paesi dei dintorni
 TOI075	si cercava di acquistare qualcosa
 TOI075	lì dai contadini così
 TOI075	quella era
-TOR001	quella era la borsa nera lì c'erano quelli che lo facevano per per mestiere eh
-TOR002	
-TOI075	
+TOI075	quella era la borsa nera lì c'erano quelli che lo facevano per per mestiere eh
 TOI075	andavano a comprare la roba all'esterno e la portavano in città
-TOR001	per rifornire gli affamati
-TOR002	
-TOI075	e se ti scoprivano cosa succedeva
+TOI075	per rifornire gli affamati
+TOR002	e se ti scoprivano cosa succedeva
 TOI075	x
-TOR002	eh
-TOI075	se ti scoprivano a comprare
+TOI075	eh
+TOR002	se ti scoprivano a comprare
 TOI075	eh eh
 TOI075	c'erano dei controlli
 TOI075	sequestravano la roba insomma
 TOI075	non è che li fucilassero comunque
 TOI075	almeno la roba che portavano gliela xx
-TOR002	sequestravano e quindi era già un danno notevole
-TOI075	eh beh
-TOR001	
+TOI075	sequestravano e quindi era già un danno notevole
+TOR002	eh beh
 TOR001	certo
-TOI075	e poi diceva dei bombardamenti
-TOR001	sì eh anche quello è diventato una cosa abbastanza
-TOI075	mhmh
+TOR001	e poi diceva dei bombardamenti
+TOI075	sì eh anche quello è diventato una cosa abbastanza
+TOR001	mhmh
 TOI075	spiacevole
 TOI075	partivan dal quarantadue all'inizio
 TOI075	c'era stato un bombardamento proprio il primo giorno di guerra
@@ -172,9 +162,9 @@ TOI075	che avevano colpito
 TOI075	lì vicino a porta palazzo
 TOI075	ma poi non c'erano stati dei gravi episodi
 TOI075	poi a partire dal millenovecentoquarantadue
-TOR001	xxx la guerra aerea si è intensificata
-TOR002	certo
-TOI075	mhmh
+TOI075	xxx la guerra aerea si è intensificata
+TOR001	certo
+TOR002	mhmh
 TOI075	tanto per fiaccare il morale
 TOI075	nella popolazione quindi
 TOI075	è diventata molto grave e poi
@@ -182,9 +172,9 @@ TOI075	torino il bombardamento più grave si è avuto nel millenovecentosessanta
 TOI075	tredici luglio
 TOI075	tutti i vecchi
 TOI075	che erano allora lo ricordano ancora una data funesta è stato più di mille morti
-TOR001	una cosa terribile
+TOI075	una cosa terribile
 TOR001	mhmhmhmhmh
-TOI075	e la popolazione civile cosa faceva quando c'erano i bombardamenti
+TOR001	e la popolazione civile cosa faceva quando c'erano i bombardamenti
 TOI075	mah molti scappa~ sono scappati all'est~
 TOI075	nei paesi lì vicini
 TOI075	cercavan di sfollare
@@ -198,12 +188,12 @@ TOI075	cioè c'era stata qualche iniziativa privata cioè
 TOI075	si facevan dei rifugi sottoterra
 TOI075	ma non sotto le case perché
 TOI075	sotto le case
-TOR002	se crollava la casa rimanevano tutti
-TOR001	mhmh
-TOI075	certo
+TOI075	se crollava la casa rimanevano tutti
+TOR002	mhmh
+TOR001	certo
 TOI075	invece
-TOR001	si facevano i rifugi a l~ diciamo in posti esterni
-TOI075	mhmh
+TOI075	si facevano i rifugi a l~ diciamo in posti esterni
+TOR001	mhmh
 TOI075	sotterranei
 TOI075	e erano abbastanza sicuri
 TOI075	e anche noi avevamo un rifugio
@@ -212,23 +202,23 @@ TOI075	a nostre spese
 TOI075	c'erano
 TOI075	cento duecento persone che si erano come associate
 TOI075	in un x versato una quota
-TOR001	e tutti insieme avevano costruito questo rifugio
-TOI075	mhmhmh
-TOR001	sotterraneo
+TOI075	e tutti insieme avevano costruito questo rifugio
+TOR001	mhmhmh
+TOI075	sotterraneo
 TOR001	certo
 TOR001	okay
 TOR001	e mh
 TOR001	e ha altri ricordi legati a torino durante la guerra
-TOI075	degli episodi magari
+TOR001	degli episodi magari
 TOI075	e poi c'è
 TOI075	dopo l'otto settembre c'è stata la guerra
-TOR001	dei partigiani quindi
-TOI075	mhmh
+TOI075	dei partigiani quindi
+TOR001	mhmh
 TOI075	c'erano qui praticamente comandavano i tedeschi
 TOI075	c'erano anche i fa~ italiani ma erano così come i
 TOI075	dei servi dei dei
-TOR001	di cose di second'ordine
-TOI075	dei tedeschi mhmh
+TOI075	di cose di second'ordine
+TOR001	dei tedeschi mhmh
 TOI075	quelli che comandavano erano i tedeschi
 TOI075	x c'erano anche i documenti in tedesco
 TOI075	per
@@ -236,32 +226,32 @@ TOI075	se uno voleva circolare
 TOI075	era proibito persino andare in bicicletta
 TOI075	perché
 TOI075	a volte
-TOR002	quelli con la bicicletta facevano gli attentati e poi scappavano allora
-TOI075	mhmh
+TOI075	quelli con la bicicletta facevano gli attentati e poi scappavano allora
+TOR002	mhmh
 TOI075	era vietato circolare in bicicletta
-TOR001	automobili neanche a parlarne
-TOR002	neanche a parlarne
-TOI075	in tutta la città
+TOI075	automobili neanche a parlarne
+TOR001	neanche a parlarne
+TOR002	in tutta la città
 TOI075	eh in tutta la città
 TOI075	era così
 TOI075	e x così siamo andati avanti
 TOI075	praticamente dal millenovecentosessantatré
 TOI075	al sessantacinque
-TOR001	quando c'è stato poi la liberazione
-TOI075	mhmh
+TOI075	quando c'è stato poi la liberazione
+TOR001	mhmh
 TOI075	il venticinque aprile che
-TOR001	torino è stata un po' in ritardo cioè
-TOI075	mhmh
+TOI075	torino è stata un po' in ritardo cioè
+TOR001	mhmh
 TOI075	ti parlo del venticinque aprile ma qui
-TOR001	la guerra lì è incominciata il ventisei l'insurrezione
-TOI075	sì
-TOR001	dal ventisei al ventotto insomma
-TOI075	più tardi
-TOR001	x almeno è stato così
-TOI075	e poi diciamo la fase più di ricostruzione
+TOI075	la guerra lì è incominciata il ventisei l'insurrezione
+TOR001	sì
+TOI075	dal ventisei al ventotto insomma
+TOR001	più tardi
+TOI075	x almeno è stato così
+TOR001	e poi diciamo la fase più di ricostruzione
 TOI075	eh sì c'erano molte molte case diroccate
-TOR001	a causa dei bombardamenti
-TOI075	mhmhmhmh
+TOI075	a causa dei bombardamenti
+TOR001	mhmhmhmh
 TOI075	quindi
 TOI075	un po' per volta si è avviata la ricostruzione
 TOI075	il più importante
@@ -269,25 +259,25 @@ TOI075	dal punto di vista politico che sono ritornati ad esserci i partiti polit
 TOI075	la libertà di opinione diciamo prima
 TOI075	c'era solo la voce del partito fascista nessun altro
 TOI075	anche i giornali erano controllati dal partito fascista
-TOR002	quindi non si poteva dir niente d'altro
-TOI075	certo
+TOI075	quindi non si poteva dir niente d'altro
+TOR002	certo
 TOI075	eh invece è tornata la libertà insomma
 TOI075	la diversi diversi partiti
 TOI075	le opinioni poi
 TOI075	c'è stato il referendum
 TOI075	fra monarchia e repubblica
-TOR001	nel millenovecentoquarantasei
-TOI075	mhmh
-TOR001	io allora non votavo ancora perché allora
-TOI075	certo
+TOI075	nel millenovecentoquarantasei
+TOR001	mhmh
+TOI075	io allora non votavo ancora perché allora
+TOR001	certo
 TOI075	il voto era solo per i maggiori di ventun anni
-TOR002	non c'er~ adesso votano i dicio~
-TOR001	diciotto
-TOI075	certo
+TOI075	non c'er~ adesso votano i dicio~
+TOR002	diciotto
+TOR001	certo
 TOI075	allora il voto era per i
 TOI075	ven~ dal ventuno in su
-TOR001	e per il senato da venticinque anni in su
-TOI075	mhmh
+TOI075	e per il senato da venticinque anni in su
+TOR001	mhmh
 TOI075	le regole erano quelle e quindi
 TOI075	poi
 TOI075	quando cominciato a votare
@@ -298,49 +288,43 @@ TOI075	ci indottrinavano
 TOI075	eravamo tutti
 TOI075	iscritti alla gil
 TOI075	gioventù italiana del littorio
-TOR002	non si poteva scappare eh
-TOR001	
-TOI075	
-TOR002	tutti inquadrati
-TOI075	e cosa vi facevano fare
-TOR002	eh
-TOI075	cosa vi facevano fare
+TOI075	non si poteva scappare eh
+TOI075	tutti inquadrati
+TOR002	e cosa vi facevano fare
+TOI075	eh
+TOR002	cosa vi facevano fare
 TOI075	mah bisognava avere bisognava avere la divisa
 TOI075	c'erano i più piccoli erano i figli della lupa
-TOR002	poi c'erano i balilla
-TOI075	ah sì sì
+TOI075	poi c'erano i balilla
+TOR002	ah sì sì
 TOI075	poi gli avanguardisti
 TOI075	i giovani fascisti c'eran tutte
 TOI075	le categorie
 TOI075	e ognuno aveva la sua divisa bisognava comprare la divisa
 TOI075	per essere in regola
-TOR002	anch'io avevo la divisa balilla
-TOR001	
-TOI075	
+TOI075	anch'io avevo la divisa balilla
 TOI075	xx
 TOI075	poi
 TOI075	tanto quando è proseguita la guerra
 TOI075	a un certo punto
-TOR002	è un po' sparito perché
-TOI075	mhmh
-TOR002	c'erano altre cose più gravi
-TOR001	eh beh
+TOI075	è un po' sparito perché
+TOR002	mhmh
+TOI075	c'erano altre cose più gravi
+TOR002	eh beh
 TOR001	certo
-TOI075	
-TOI075	
-TOR002	x
+TOI075	x
 TOR002	e come l'avete vissuto quando mh
 TOR002	mh appunto quando è arrivata la repubblica
-TOI075	dopo il referendum a torino come come l'avete ricevuta questa cosa
+TOR002	dopo il referendum a torino come come l'avete ricevuta questa cosa
 TOI075	eh mah cioè
 TOI075	c~ c'era xx così sì
 TOI075	la vita è sembrata men~ menomeno meno triste eh perché
 TOI075	almeno c'era libertà di associazione
-TOR002	per esempio io ero divent~ ero socio della famia turineisa
-TOI075	ah
+TOI075	per esempio io ero divent~ ero socio della famia turineisa
+TOR002	ah
 TOI075	è un'associazione sì un po' così
-TOR002	nelle tradizioni nel xx del piemonte organizzavano il carnevale quante cose e insomma
-TOI075	mhmh
+TOI075	nelle tradizioni nel xx del piemonte organizzavano il carnevale quante cose e insomma
+TOR002	mhmh
 TOI075	eh ognuno
 TOI075	anche quella
 TOI075	era già stata fondata nel millenovecentoventisei
@@ -350,10 +334,10 @@ TOI075	con la linea del del governo
 TOI075	non non era politicamente allineata
 TOI075	quindi avevano sciolto quindi
 TOI075	nel quarantacinque quarantasei si sono ricostituite tutte le vecchie associazioni
-TOR001	ognuno ha avuto la possibilità di scegliere così
-TOI075	certo
-TOR002	la propria vita
-TOI075	già perché hai fascisti non piaceva se si parlava piemontese
+TOI075	ognuno ha avuto la possibilità di scegliere così
+TOR001	certo
+TOI075	la propria vita
+TOR002	già perché hai fascisti non piaceva se si parlava piemontese
 TOI075	ah no eh bisognava
 TOI075	sarà che qui ancora era ancora niente ma
 TOI075	per esempio nelle regioni orientali nell'istria
@@ -361,21 +345,21 @@ TOI075	quelli che parlavano sloveno li perseguitavano
 TOI075	sono sono cose che non si sapevano neanche perché i giornali non ne parlavano ma
 TOI075	comunque poi per esempio la faccenda dei forni crematori
 TOI075	in germania
-TOR002	tutte cose che di cui i giornali non parlavano
-TOI075	mhmhmh
+TOI075	tutte cose che di cui i giornali non parlavano
+TOR002	mhmhmh
 TOI075	nessuno non sapeva niente
 TOI075	si sono sapute dopo
-TOR001	dopo la fine della guerra allora
-TOI075	certo
+TOI075	dopo la fine della guerra allora
+TOR001	certo
 TOI075	si è saputo poi un p~ po' più di
 TOI075	di cose ma prima era tutto
-TOR001	tutto segreto eh tutto
-TOI075	mhmhmhmhmhmh
-TOR001	controllato dalla censura
+TOI075	tutto segreto eh tutto
+TOR001	mhmhmhmhmhmh
+TOI075	controllato dalla censura
 TOR001	certo
-TOR002	vuoi andare avanti tu
+TOR001	vuoi andare avanti tu
 TOR002	ehm
-TOI075	no beh se se ci racconta ancora un po' qualcosa su questa famia turineisa
+TOR002	no beh se se ci racconta ancora un po' qualcosa su questa famia turineisa
 TOI075	mah
 TOI075	per esempio io
 TOI075	io lavoravo con mio padre che aveva un'aziendina così
@@ -401,183 +385,167 @@ TOI075	xx potuto ho ripreso gli studi serali
 TOI075	e ho preso il diploma da ragioniere
 TOI075	e quindi dopo che ho preso il diploma
 TOI075	ho cercato così un impiego un po'
-TOR002	un po' decente che mi permettesse di vivere
-TOR001	
-TOR001	
-TOI075	certo
+TOI075	un po' decente che mi permettesse di vivere
+TOR001	certo
 TOI075	e quindi
 TOI075	nel frattempo ho continuato così
 TOI075	a vivere
 TOI075	diciamo un po' liberamente
 TOI075	quindi xx ero socio della famia turineisa ma poi avevo tanti altri interessi
-TOR002	seguivo il cinema teatro
-TOI075	mhmhmh
+TOI075	seguivo il cinema teatro
+TOR002	mhmhmh
 TOI075	ero stato abbonato al teatro stabile
 TOI075	poi ero appassionato di opera lirica
-TOR001	tifoso del torino
-TOI075	
-TOI075	
+TOI075	tifoso del torino
 TOI075	quindi sono stato anche tanti anni abbonati al al torino calcio
 TOI075	insomma xx avevo diversi hobby
-TOR001	diverse attività non è che avessi un'attività prema~ prevalente così
-TOI075	
-TOR001	ero un po' eclettico diciamo
-TOR002	tanti interessi
+TOI075	diverse attività non è che avessi un'attività prema~ prevalente così
+TOI075	ero un po' eclettico diciamo
+TOR001	tanti interessi
 TOR002	certo
-TOI075	ma insomma negli anni cinquanta sessanta si si parlava tanto il piemontese
+TOR002	ma insomma negli anni cinquanta sessanta si si parlava tanto il piemontese
 TOI075	mah eh in quel periodo c'è stato
 TOI075	molta immigrazione dal meridione
-TOR002	quindi il piemontese si è
-TOI075	mhmh
+TOI075	quindi il piemontese si è
+TOR002	mhmh
 TOI075	xx gradualmente è quasi sparito
-TOR002	xx come come adesso quelli che parlano piemontese sono bestie rare
-TOI075	mhmh
+TOI075	xx come come adesso quelli che parlano piemontese sono bestie rare
+TOR002	mhmh
 TOI075	io sono uno dei pochi
-TOR002	ancora che sa parlare e scrivere perché poi è ancora più difficile scrivere in piemontese
-TOI075	e scrivere
+TOI075	ancora che sa parlare e scrivere perché poi è ancora più difficile scrivere in piemontese
+TOR002	e scrivere
 TOI075	la grafia piemontese non è molto semplice
 TOI075	comunque
 TOI075	io me la cavo ancora
 TOI075	quando c'è qualcuno che parla piemontese
-TOR002	ben contento di parlare ma
-TOI075	ah mi lu parlu 'l piemunteis eh
-TOR002	xxxx lo parla
-TOI075	sì sì
+TOI075	ben contento di parlare ma
+TOR002	ah mi lu parlu 'l piemunteis eh
+TOI075	xxxx lo parla
+TOR002	sì sì
 TOI075	eh
-TOR001	normalmente capita raramente di parlare piemontese
-TOI075	ma le piacerebbe
-TOR002	adesso è più facile parlare romeno
-TOR001	
-TOI075	
+TOI075	normalmente capita raramente di parlare piemontese
+TOR001	ma le piacerebbe
+TOI075	adesso è più facile parlare romeno
 TOI075	o spagnolo
 TOI075	ci son~ qui per esempio in questa struttura ci sono molte
-TOR001	ci sono molte operatrici romene e peruviane
+TOI075	ci sono molte operatrici romene e peruviane
 TOR001	mhmh
-TOI075	mhmh
+TOR001	mhmh
 TOI075	maggior parte
-TOR001	italiane sono poche
-TOI075	mhmh
+TOI075	italiane sono poche
+TOR001	mhmh
 TOI075	adesso è ne è ar~ arrivata una giovane
 TOI075	italiana che anche lei vie~
-TOR002	è figlia di padre torinese una bestia rara
-TOR001	
-TOI075	
-TOR002	non l'ho più vista
-TOR001	
-TOI075	
-TOR002	non so se l'hanno già rapita
-TOI075	l'hanno mandata via
+TOI075	è figlia di padre torinese una bestia rara
+TOI075	non l'ho più vista
+TOI075	non so se l'hanno già rapita
+TOR002	l'hanno mandata via
 TOI075	è sparita dalla circolazione
 TOI075	ma ero ben contento che ci fosse questa ragazza
 TOI075	così
-TOR002	piemontese doc
-TOR001	
-TOI075	
-TOR001	e invece
-TOI075	ma a lei piacerebbe avere occasioni per parlarlo
+TOI075	piemontese doc
+TOI075	e invece
+TOR001	ma a lei piacerebbe avere occasioni per parlarlo
 TOI075	mah insomma se mi capita lo parlo volentieri
 TOI075	non è che
 TOI075	che in un certo senso il piemontese
-TOR001	per le persone eleganti è considerato una cosa così volgare
-TOI075	mhmh
+TOI075	per le persone eleganti è considerato una cosa così volgare
+TOR001	mhmh
 TOI075	una cosa poco piace~ quindi nelle
 TOI075	quindi diciamo nelle case della media borghesia i bambini erano
-TOR002	tutti istruiti a parlare italiano
-TOI075	certo
+TOI075	tutti istruiti a parlare italiano
+TOR002	certo
 TOI075	piemontese veniva considerato una cosa da così da poveretti
-TOR001	da miserabili
-TOI075	
+TOI075	da miserabili
 TOI075	non era molto
 TOI075	considerato il dialetto piemontese
-TOR001	adesso poi c'è stato un ripensamento ma
-TOI075	mhmh
+TOI075	adesso poi c'è stato un ripensamento ma
+TOR001	mhmh
 TOI075	insomma
-TOR002	non è che nel frattempo i piemontesi sono quasi spariti quindi
-TOR001	
-TOI075	
-TOR001	c'è poco da fare
-TOI075	ma e lei l'ha imparato in casa cioè suo padre le parlava in
+TOI075	non è che nel frattempo i piemontesi sono quasi spariti quindi
+TOI075	c'è poco da fare
+TOR001	ma e lei l'ha imparato in casa cioè suo padre le parlava in
 TOI075	sì mia mat~ mia x parlavano piemontese
-TOR001	normalmente ma il linguaggio di casa
+TOI075	normalmente ma il linguaggio di casa
 TOR001	ahah
 TOR001	certo
-TOI075	mhmhmh
+TOR001	mhmhmh
 TOI075	però qua~ mia madre si era preoccupata già prima che incomincia~
-TOR001	io non sono andato all'asilo
-TOI075	mhmh
+TOI075	io non sono andato all'asilo
+TOR001	mhmh
 TOI075	xx
 TOI075	prima di incominciare le elementari mi a~ mia madre mi aveva par~ mandato un po' a fare i il~ lezione da una ex me~ ex maestra
 TOI075	quindi sono arrivato a scuola che
-TOR001	parlavo anche italiano
-TOI075	okay
+TOI075	parlavo anche italiano
+TOR001	okay
 TOI075	x quelli che parlavano solo piemontese poi a scuola
-TOR001	avevano difficoltà a parlare in italiano
-TOI075	certo
+TOI075	avevano difficoltà a parlare in italiano
+TOR001	certo
 TOI075	invece io parlavo piemontese e italiano
-TOR002	ero già bilingue
-TOI075	già da piccolo
-TOR001	e quindi
-TOI075	certo
+TOI075	ero già bilingue
+TOR002	già da piccolo
+TOI075	e quindi
+TOR001	certo
 TOI075	me la sono sempre cavata anche a scuola
-TOR001	non ho mai avuto problemi
+TOI075	non ho mai avuto problemi
 TOR001	eheheh
-TOI075	e a scuola erano tanti i bambini che arrivavano e parlavano solo piemontese
+TOR001	e a scuola erano tanti i bambini che arrivavano e parlavano solo piemontese
 TOI075	mah ce n'era ma insomma poi poco per volta si arrangiavano e impa~
-TOR001	si parlava italiano abbastanza normalmente
+TOI075	si parlava italiano abbastanza normalmente
 TOR001	mhmh
-TOI075	mhmh
+TOR001	mhmh
 TOI075	poi c'erano i figli degli immigrati
 TOI075	parlavano napoletano siciliano
-TOR001	cose del genere
-TOI075	certo
+TOI075	cose del genere
+TOR001	certo
 TOI075	c'era già la torre di babele
-TOR001	anche allora
-TOI075	già allora
-TOR001	non è solo adesso eh
-TOR002	mhmhmh
-TOI075	forse è per questo che son nate anche le le associazioni appunto come la famia turineisa
+TOI075	anche allora
+TOR001	già allora
+TOI075	non è solo adesso eh
+TOR001	mhmhmh
+TOR002	forse è per questo che son nate anche le le associazioni appunto come la famia turineisa
 TOI075	mah eh famia turineisa era già nata prima prima della guerra ma comunque
 TOI075	ma anche formato altre associazioni
 TOI075	anche quelle
 TOI075	per esempio anche quelle del
 TOI075	gli immigrati dal meridione hanno formato delle associazioni
-TOR002	per esempio c'era anche il fogolar furlan
-TOI075	mhmh
-TOR002	che riuniva i fur~ i i gli originari del friuli
-TOI075	mhmhmh
-TOR001	del veneto eh c'è stato un tempo che dal veneto c'è stata molta immigrazione verso torino
-TOI075	certo
+TOI075	per esempio c'era anche il fogolar furlan
+TOR002	mhmh
+TOI075	che riuniva i fur~ i i gli originari del friuli
+TOR002	mhmhmh
+TOI075	del veneto eh c'è stato un tempo che dal veneto c'è stata molta immigrazione verso torino
+TOR001	certo
 TOI075	poi adesso xxxx sarebbe il contrario
 TOI075	nel veneto sono più ricchi di noi
 TOI075	ma allora
 TOI075	torino era una meta
-TOR001	chied~ desiderata
-TOR002	certo
-TOI075	per la fiat
+TOI075	chied~ desiderata
+TOR001	certo
+TOR002	per la fiat
 TOI075	e sì soprattutto la fiat
-TOR001	è quella che dava lavoro alla maggior parte delle persone
+TOI075	è quella che dava lavoro alla maggior parte delle persone
 TOR001	certo
 TOR001	e quindi lei dopo la guerra diceva è andato a vivere in aurora
-TOI075	quartiere aurora
-TOR001	eh già già prim~ quando è iniziata la guerra ero già andato a vivere lì praticamente sempre
+TOR001	quartiere aurora
+TOI075	eh già già prim~ quando è iniziata la guerra ero già andato a vivere lì praticamente sempre
 TOR001	okay
-TOI075	okay
-TOR001	nella zona più o meno dov'ero nato poca distanza
-TOI075	mhmh mhmh
-TOR001	insomma
+TOR001	okay
+TOI075	nella zona più o meno dov'ero nato poca distanza
+TOR001	mhmh mhmh
+TOI075	insomma
 TOR001	e e
-TOI075	in quel quartiere si sono poi trasferiti anche molti degli immigrati che arrivavano no da altre regioni
+TOR001	in quel quartiere si sono poi trasferiti anche molti degli immigrati che arrivavano no da altre regioni
 TOI075	ah certo
 TOI075	per esempio
 TOI075	io ho comprato
-TOR001	quando ho potuto poi ho comp~ ho acquistato un alloggio
-TOI075	mhmh
-TOR001	in una via che è una via che va
-TOI075	mhmh
+TOI075	quando ho potuto poi ho comp~ ho acquistato un alloggio
+TOR001	mhmh
+TOI075	in una via che è una via che va
+TOR001	mhmh
 TOI075	da corso vercelli
 TOI075	fino alla stazione dora
-TOR001	alla stazione dora
-TOI075	okay
+TOI075	alla stazione dora
+TOR001	okay
 TOI075	e quindi
 TOI075	quella casa lì
 TOI075	x que~
@@ -587,43 +555,43 @@ TOI075	piemontesi x veri e propri ce ne sono pochi ce n'è qualcuno ma
 TOI075	c'erano dei veneti di altre
 TOI075	al~ altre origini pugliesi
 TOI075	e così via
-TOR001	insomma c'è un po' di tutto
-TOI075	mhmhmh un po' di tutto
+TOI075	insomma c'è un po' di tutto
+TOR001	mhmhmh un po' di tutto
 TOI075	torre di babele
-TOR001	ride
+TOI075	ride
 TOR001	e si ricorda appunto come
 TOR001	come venivano accolti
-TOI075	gli immigrati da altre regioni
+TOR001	gli immigrati da altre regioni
 TOI075	mah io x non erano accolti con molta simpatia eh diciamo la verità
 TOI075	i~ io personalmente
 TOI075	non mi sono mai per~ preoccupato sono sempre stato uno così
-TOR001	liberale insomma
-TOI075	mhmh
+TOI075	liberale insomma
+TOR001	mhmh
 TOI075	cercavo di essere amico con tutti
 TOI075	gli unici coi quali
 TOI075	mi sento un po'
-TOR001	gli unici coi quali mi sento un po' razzista sono gli zingari
-TOI075	mhmh
+TOI075	gli unici coi quali mi sento un po' razzista sono gli zingari
+TOR001	mhmh
 TOI075	i rom
 TOI075	ma non per motivi raziali ma perché la maggior parte
 TOI075	vivono diciamo di truffe di rapine
-TOR001	non es~ per loro non esiste il lavoro onesto è quello che
-TOI075	mhmh
+TOI075	non es~ per loro non esiste il lavoro onesto è quello che
+TOR001	mhmh
 TOI075	dà f~ non dà fastidio solo a me
 TOI075	sono mal visti da tutta la dalla maggioranza delle persone
 TOI075	sono malvisti per quello
-TOR001	perché non sanno cosa vuol dire lavorare
-TOI075	mhmh
+TOI075	perché non sanno cosa vuol dire lavorare
+TOR001	mhmh
 TOI075	ades~ magari anche fra loro
 TOI075	ce ne sarà qualcuno per bene
 TOI075	per per noi è difficile distinguere
-TOR001	persona onesta dal disonesto
-TOI075	mh
-TOR001	è un po' un problema quello
+TOI075	persona onesta dal disonesto
+TOR001	mh
+TOI075	è un po' un problema quello
 TOR001	mhmh
 TOR001	ma e appunto sulla migrazione italiana non erano accolti bene e questo si sa
 TOR001	ma si ricorda degli esempi concreti
-TOI075	cioè dove in che tipo di case andavano ad abitare
+TOR001	cioè dove in che tipo di case andavano ad abitare
 TOI075	eh beh certo andavano ad abitare nelle case più vecchie
 TOI075	perché costavano di meno
 TOI075	perché
@@ -633,33 +601,32 @@ TOI075	quindi quelli quelli che stavano meglio
 TOI075	anche quelli che non so xxx avevano
 TOI075	un lavoro un po' remunerativo andavano a x abitare nelle case nuove
 TOI075	perché nel frattempo
-TOR001	si sono costruite molte case nuove
-TOI075	mhmh
+TOI075	si sono costruite molte case nuove
+TOR001	mhmh
 TOI075	la maggior parte delle case che lei vede in giro
 TOI075	sono state costruite dopo la guerra
 TOI075	quindi chi chi aveva più possibilità andava ad abitare nella casa nuova
 TOI075	che era più elegante e più confrortevole
 TOI075	e i poveretti andavano ad abitare nelle case vecchie
-TOR001	dove dove ci stava si spendeva di meno
-TOI075	certo
-TOR001	è logico è sempre stato così
+TOI075	dove dove ci stava si spendeva di meno
+TOR001	certo
+TOI075	è logico è sempre stato così
 TOR001	mhmhmh
 TOR001	e si ricorda poi nel corso degli anni
-TOI075	come è cambiata questa relazione cioè pian piano
+TOR001	come è cambiata questa relazione cioè pian piano
 TOI075	eh praticamente
 TOI075	gli immigrati italiani sono
-TOR001	siamo diventati tutti italiani
-TOI075	
+TOI075	siamo diventati tutti italiani
 TOI075	e quindi ci sentiamo abbastanza solidali
 TOI075	e viceversa sono arrivati gli immigrati
 TOI075	dal dall'estero e quindi
 TOI075	gli stesso problema che c'era allora con i gli gli immigrati italiani è con questi che arrivano dall'estero
 TOI075	specialmente da dal dall'africa
 TOI075	dal gli arabi
-TOR001	e via dicendo
+TOI075	e via dicendo
 TOR001	certo
 TOR001	e quali sono secondo lei le caratteristiche in comune
-TOI075	tra queste due ondate migratorie
+TOR001	tra queste due ondate migratorie
 TOI075	mah è difficile fare un parallelo sa
 TOI075	i tempi sono cambiati
 TOI075	quindi cioè
@@ -667,159 +634,147 @@ TOI075	per esempio
 TOI075	primi nel diciamo
 TOI075	subito dopo la fine della guerra
 TOI075	gente che avessero la macchina
-TOR001	erano pochissimi
-TOI075	mhmh
+TOI075	erano pochissimi
+TOR001	mhmh
 TOI075	poi man mano specialmente quelli che hanno cominciato a lavorare alla fiat
 TOI075	si sono comprati la macchina magari
 TOI075	a condizioni di favore e quindi
 TOI075	poco per volta l'automobile non era più
 TOI075	uno status symbol
-TOR002	ma era una cosa di oggetto un oggettoo comune come
-TOI075	sì
-TOR002	il frigorifero
-TOR001	
-TOI075	
+TOI075	ma era una cosa di oggetto un oggettoo comune come
+TOR002	sì
+TOI075	il frigorifero
 TOI075	o la lavatrice perché
 TOI075	anche gli elettrodomestici
-TOR001	prima della guerra non non si u~ non c'erano nelle case
-TOI075	mhmhmhm
+TOI075	prima della guerra non non si u~ non c'erano nelle case
+TOR001	mhmhmhm
 TOI075	a casa mia il primo frigorifero lo abbiamo acquistato
 TOI075	nel sessanta o giù di lì
 TOI075	poi la lavatrice
-TOR001	l~ la televisione sa poco per volta
-TOI075	certo
-TOR001	secondo i progressi della tecnica ci siamo adeguati
-TOI075	mhmhmh
+TOI075	l~ la televisione sa poco per volta
+TOR001	certo
+TOI075	secondo i progressi della tecnica ci siamo adeguati
+TOR001	mhmhmh
 TOI075	una volta eran tutte cose sconosciute anche
 TOI075	gli elettrodomestici
 TOI075	erano solo cosa da ricchi
-TOR002	non erano cosa da persone normali
-TOR001	mhmhmhm
+TOI075	non erano cosa da persone normali
+TOR002	mhmhmhm
 TOR001	certo
 TOR001	e e appunto
 TOR001	anche in base al tipo diverso di persone
-TOI075	che veniva a vivere a torino
+TOR001	che veniva a vivere a torino
 TOI075	mh
-TOR001	
-TOI075	okay e quindi secondo lei nel complesso è cambiata in peggio la città
+TOR001	okay e quindi secondo lei nel complesso è cambiata in peggio la città
 TOI075	eh eh diciamo no~ è difficile dire che sia migliorata eh
 TOI075	è ovvio che tutti tendono a
 TOI075	pensare che una volta si stava bene
 TOI075	poi tutti hanno nostalgia
 TOI075	del passato ma
-TOR001	in linea di massima non direi che la situazione sia migliorata
-TOI075	mhmhmh
+TOI075	in linea di massima non direi che la situazione sia migliorata
+TOR001	mhmhmh
 TOI075	secondo il mio modesto parere
 TOI075	tutto è relativo eh
-TOR001	quello che sta bene
-TOI075	ah sì certo
+TOI075	quello che sta bene
+TOR001	ah sì certo
 TOI075	è contento di stare
-TOR002	come è adesso e chi chi sta male è ovvio che
-TOI075	
-TOR001	non è contento
-TOI075	certo
-TOR001	c'è poco da fare
-TOI075	e senta quali sono le zone di torino che le piacciono di più
-TOR001	mah
-TOI075	a cui è più affezionato
+TOI075	come è adesso e chi chi sta male è ovvio che
+TOI075	non è contento
+TOR001	certo
+TOI075	c'è poco da fare
+TOR001	e senta quali sono le zone di torino che le piacciono di più
+TOI075	mah
+TOR001	a cui è più affezionato
 TOI075	mah dico per esempio io vado
 TOI075	d'estate adesso sono ricoverato qui quand'ero ancora
 TOI075	libero cittadino
 TOI075	andavo sovente in centro
 TOI075	mi piaceva per esempio andare
 TOI075	nei caffè che ci sono sotto i portici via roma
-TOR001	o via po o altre zone
-TOI075	mhmh
+TOI075	o via po o altre zone
+TOR001	mhmh
 TOI075	mi piaceva sedermi ai tavoli e guardare la gente che che passeggia
 TOI075	queste cose del genere
-TOR001	sa ognuno si diverte come può
+TOI075	sa ognuno si diverte come può
 TOR001	sì sì
-TOI075	
-TOR001	
 TOR001	e altre altre mh
-TOI075	e altre zone che le piacciono o a cui è legato per qualche motivo
-TOR001	eh sono legato appunto a questa zona dove sono nato dove sono stato battezzato
-TOI075	mhmhmh
+TOR001	e altre zone che le piacciono o a cui è legato per qualche motivo
+TOI075	eh sono legato appunto a questa zona dove sono nato dove sono stato battezzato
+TOR001	mhmhmh
 TOI075	la prima comunione l'ho fatta alla chiesa di san massimo
-TOR001	che è non so se sa dov'è san massimo è la via
-TOI075	mhmh
-TOR001	che va da via po a corso vittorio
-TOI075	sì
+TOI075	che è non so se sa dov'è san massimo è la via
+TOR001	mhmh
+TOI075	che va da via po a corso vittorio
+TOR001	sì
 TOI075	e lì c'è una chiesa
 TOI075	c'è anche la scuola dove
 TOI075	sono andato da bambino andavo
-TOR001	questa scuola niccolò tommaseo
-TOI075	mh
+TOI075	questa scuola niccolò tommaseo
+TOR001	mh
 TOI075	che si trova lì ci sono i giardini cavour
-TOR002	così un certo rimpianto per quando ero bambino sa ognuno
-TOR001	
-TOI075	
+TOI075	così un certo rimpianto per quando ero bambino sa ognuno
 TOI075	quand'era bambino
 TOI075	sembra di essere più felice che non quand'è cresciuto
-TOR001	l'impressione è quella
+TOI075	l'impressione è quella
 TOR001	certo
 TOR001	ehm va bene
-TOR002	tu hai domande
+TOR001	tu hai domande
 TOR002	sì ehm
-TOI075	ha detto che scrive anche in piemontese
-TOR002	eh
-TOI075	ha detto che scrive anche in piemontese
-TOR002	sapevo scrivere ma poi non ho mai scritto niente
+TOR002	ha detto che scrive anche in piemontese
+TOI075	eh
+TOR002	ha detto che scrive anche in piemontese
+TOI075	sapevo scrivere ma poi non ho mai scritto niente
 TOR002	ah
-TOI075	ah
-TOR002	l'amara verità comunque
-TOI075	però lo legge
-TOR002	lo leg~ lo leggo correntemente e già tanto se uno riesce a leggerlo
+TOR002	ah
+TOI075	l'amara verità comunque
+TOR002	però lo legge
+TOI075	lo leg~ lo leggo correntemente e già tanto se uno riesce a leggerlo
 TOR002	eh beh
-TOI075	e cosa legge di bello
+TOR002	e cosa legge di bello
 TOI075	mah adesso non
 TOI075	appunto quando
 TOI075	ero socio della famia turineisa
-TOR002	mi mandavano un giornale
-TOI075	mhmh
+TOI075	mi mandavano un giornale
+TOR002	mhmh
 TOI075	prima era settimanale e poi mensile
 TOI075	fra l'altro fra tutti i doc~ le cose io ho molti vocabolari di varie lingue
-TOR002	ho anche il dizionario piemontese italiano
-TOI075	mhmhmhm
+TOI075	ho anche il dizionario piemontese italiano
+TOR002	mhmhmhm
 TOI075	pure as~ conoscendo bene il torin~ il piemontese ho anche il dizionario
 TOI075	quindi ho sempre cercato perché
 TOI075	c'è sempre quella parola che non si capisce
 TOI075	diciamo il motivo di disagio che ho adesso perché
 TOI075	nei giornali usano molti
 TOI075	neologismi diciamo
-TOR002	vocaboli che magari dieci anni fa nessuno sconosceva
-TOI075	sì
+TOI075	vocaboli che magari dieci anni fa nessuno sconosceva
+TOR002	sì
 TOI075	adesso li usano come se tutti fossero cos~ obbligati a conoscerli
 TOI075	ma n~ x magari un vocabolo nuovo
 TOI075	non so cosa significa ma loro
 TOI075	presumono che
-TOR002	che lei conosca che sappia già tutto
-TOI075	certo
+TOI075	che lei conosca che sappia già tutto
+TOR002	certo
 TOI075	io
 TOI075	per esempio sono
 TOI075	molto diffidente nei confronti di internet
 TOI075	perché penso che può essere utile ma
 TOI075	anche fonte di molte truffe imbrogli
-TOR002	cose del genere quindi
-TOI075	eh se non fai attenzione
+TOI075	cose del genere quindi
+TOR002	eh se non fai attenzione
 TOI075	penso che
 TOI075	se uno ne può fare a meno io ne faccio a meno
-TOR002	e sto benissimo
-TOR001	
-TOI075	
-TOI075	
+TOI075	e sto benissimo
 TOI075	dico non è obbligatorio x sembra che
 TOI075	se uno non ha il sito internet oramai
 TOI075	non conta più niente
 TOI075	è un povero disgraziato
 TOI075	io però
 TOI075	faccio a meno del sito internet
-TOR001	e sto bene lo stesso
-TOR002	si vive bene
+TOI075	e sto bene lo stesso
+TOR001	si vive bene
 TOR002	secondo quello che ti serve
-TOR002	
 TOR002	se a uno gli serve
-TOI075	sì se uno non ha bisogno
+TOR002	sì se uno non ha bisogno
 TOI075	eh può darsi
 TOI075	che a qualcuno serva ma insomma
 TOI075	oltretutto
@@ -828,47 +783,44 @@ TOI075	praticamente adesso
 TOI075	vorrebbero fare la democrazia su internet cioè invece
 TOI075	di fare le elezioni
 TOI075	fanno le votazioni su internet e quello che decide internet
-TOR001	deve valere per tutti
-TOI075	mhmh
+TOI075	deve valere per tutti
+TOR001	mhmh
 TOI075	e quella è una cosa assurda per conto mio
 TOI075	xx
-TOR002	un'utopia insomma
-TOI075	ma non si farà non succederà
+TOI075	un'utopia insomma
+TOR002	ma non si farà non succederà
 TOI075	io
 TOI075	per me
 TOI075	se dipende da me
-TOR001	assolutamente non ci sarà
-TOI075	
+TOI075	assolutamente non ci sarà
 TOI075	spero che anche gli altri
 TOI075	si non si lascino illudere
-TOR001	è un po' un'illusione
-TOR002	speriamo
-TOI075	ma no
+TOI075	è un po' un'illusione
+TOR001	speriamo
+TOR002	ma no
 TOI075	tutte le promesse
 TOI075	adesso non voglio fare discussioni politiche ma
 TOI075	tutte le promesse che hanno fatto una parte sono solo bufale
-TOR001	non è che
-TOI075	mhmhmh
+TOI075	non è che
+TOR001	mhmhmh
 TOI075	che possono mantenerle
-TOR002	le promesse che hanno fatto i governanti di adesso
-TOR001	
-TOR002	
-TOI075	una gara a chi la spara più grossa
+TOI075	le promesse che hanno fatto i governanti di adesso
+TOR002	una gara a chi la spara più grossa
 TOI075	diciamo che io quando
 TOI075	ho cominciato ad avere un'opinione politica personale
 TOI075	quando siamo arrivati verso la fine della guerra che avevo
 TOI075	quindici sedici anni
-TOR002	da allora la mia opinione politica non è mai cambiata
-TOI075	ah beh
+TOI075	da allora la mia opinione politica non è mai cambiata
+TOR002	ah beh
 TOI075	sempre
 TOI075	rimasto coerente con le mie idee poi
 TOI075	se c'è il partito che corrisponde alle mie idee lo voto
-TOR001	se no pazienza
+TOI075	se no pazienza
 TOR001	beh quello è un altro discorso
 TOR001	certo
 TOR001	bene per me va bene anche
-TOR002	tu hai altre domande
-TOR001	eh no
+TOR001	tu hai altre domande
+TOR002	eh no
 TOR001	io ho chiesto tutto
 TOR001	okay allora
 TOR001	abbiamo finito

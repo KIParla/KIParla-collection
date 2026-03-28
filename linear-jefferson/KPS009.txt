@@ -1,318 +1,318 @@
-PKP041	posso salutare?
+PKP039	posso salutare?
 PKP041	#me::na
-PKP040	ma cos'è iceberg?
+PKP041	ma cos'è iceberg?
 PKP040	yes:::<ice berg> come dice la nonna
-PKP041	io mi compro sempre la ice berg
-PKP040	((ride))
-PKP042	no:nna si dice i::ceberg
-PKP040	il problema è che mo è girarla
-PKP041	[e:::::::h prova] devi:::: fare perciò è un passatempo
+PKP040	io mi compro sempre la ice berg
+PKP041	((ride))
+PKP040	no:nna si dice i::ceberg
+PKP042	il problema è che mo è girarla
+PKP040	[e:::::::h prova] devi:::: fare perciò è un passatempo
 PKP041	[e::h lo so]
-PKP042	ti passa la fam[e]
-PKP041	[è] una sfi:da (.) io l'ho detto che già mentre la componi ti passa la fame
-PKP040	sisi oddio mentre la com[poni no]
+PKP041	ti passa la fam[e]
+PKP042	[è] una sfi:da (.) io l'ho detto che già mentre la componi ti passa la fame
+PKP041	sisi oddio mentre la com[poni no]
 PKP040	[poi:]: a infiocina:rla
-PKP042	no devo comprare le coppe:: più grandi veramente eh
-PKP041	no: ste coppe sono belle
-PKP039	belle no? molto mediterranee
-PKP040	xx dovremmo comprare i sacchi ce li attacchiamo qua e [xxxx] ((ride))
-PKP039	[che scemo con la biada] ((ride))
-PKP040	biano biano (.) con la biada
-PKP042	questo è aceto balsamico quello è olio (.) il sale: lo volete? [o anche no]?
-PKP039	[sisi]
-PKP040	#ca cierto
-PKP041	tu si?
-PKP042	>no io no<
-PKP040	che insalata è senza sale,
-PKP039	anche il pepe? veramente quelle cose sono:: un poco:: piccandelle le o~ le aolive
-PKP040	le aolie?
-PKP041	le aolie
+PKP040	no devo comprare le coppe:: più grandi veramente eh
+PKP042	no: ste coppe sono belle
+PKP041	belle no? molto mediterranee
+PKP039	xx dovremmo comprare i sacchi ce li attacchiamo qua e [xxxx] ((ride))
+PKP040	[che scemo con la biada] ((ride))
+PKP039	biano biano (.) con la biada
+PKP040	questo è aceto balsamico quello è olio (.) il sale: lo volete? [o anche no]?
+PKP042	[sisi]
+PKP039	#ca cierto
+PKP040	tu si?
+PKP041	>no io no<
+PKP042	che insalata è senza sale,
+PKP040	anche il pepe? veramente quelle cose sono:: un poco:: piccandelle le o~ le aolive
+PKP039	le aolie?
+PKP040	le aolie
 PKP041	che cari::no poi facciamo la foto
 PKP041	sei proprio bravo
-PKP042	che giorno è oggi?
-PKP040	giovedi no?
-PKP039	sciovdì
+PKP041	che giorno è oggi?
+PKP042	giovedi no?
+PKP040	sciovdì
 PKP039	sciovdì sciovdì sciovì
-PKP042	oh ha continua:to a girare per mezz'ora dopo che l'ho spenta la:: la stufa
-PKP039	continuava:: a fare calore?
-PKP040	pure la ventola
-PKP041	veramente un:: un affare
-PKP039	peccato che non si possono:: invitare tante persone:::
-PKP042	xxxxx
-PKP041	non sto capendo
-PKP040	cioè [quando si potranno invitare con quella stufa]
-PKP042	[eh no perché::] devo mettergli un goccio di attack questo lo devi togliere
-PKP040	a::h ok
-PKP041	quello che devi toglie~ quello (.) qua dentro (.) si è staccato
-PKP040	quando si potranno invitare persone con quella stufa il televisore il coso:: [non usciremo più]
-PKP042	[con gli amici state là]
-PKP041	guarda che svolti le serate [con quella sa]
+PKP039	oh ha continua:to a girare per mezz'ora dopo che l'ho spenta la:: la stufa
+PKP042	continuava:: a fare calore?
+PKP039	pure la ventola
+PKP040	veramente un:: un affare
+PKP041	peccato che non si possono:: invitare tante persone:::
+PKP039	xxxxx
+PKP042	non sto capendo
+PKP041	cioè [quando si potranno invitare con quella stufa]
+PKP040	[eh no perché::] devo mettergli un goccio di attack questo lo devi togliere
+PKP042	a::h ok
+PKP040	quello che devi toglie~ quello (.) qua dentro (.) si è staccato
+PKP041	quando si potranno invitare persone con quella stufa il televisore il coso:: [non usciremo più]
+PKP040	[con gli amici state là]
+PKP042	guarda che svolti le serate [con quella sa]
 PKP041	[avoglia]
-PKP040	ah io l'uovo sodo questa volta lo mangio meglio (.) di quella volta che mi stavo affogando
-PKP041	cosa,
-PKP040	l'uovo sodo ((ride))
-PKP041	mh
-PKP042	ti piace la feta?
-PKP041	a te no?
-PKP040	ma:: da sola no
-PKP041	eh vedi che esce? ci vuole la coppa [più grande] devo andarla a comprare mi sono scordata
-PKP040	[°passami il tonno°]
-PKP042	sono andata alla coop
+PKP041	ah io l'uovo sodo questa volta lo mangio meglio (.) di quella volta che mi stavo affogando
+PKP040	cosa,
+PKP041	l'uovo sodo ((ride))
+PKP040	mh
+PKP041	ti piace la feta?
+PKP042	a te no?
+PKP041	ma:: da sola no
+PKP040	eh vedi che esce? ci vuole la coppa [più grande] devo andarla a comprare mi sono scordata
+PKP041	[°passami il tonno°]
+PKP040	sono andata alla coop
 PKP042	°questo° qua non so se l'uovo metterlo dentro:
-PKP040	forse [va meglio a parte]
-PKP042	[forse sgonfiatelo] un po
-PKP041	no forse no
-PKP042	°non parlare sott~°
-PKP040	mh?
-PKP042	che hai detto?
-PKP039	forse lo mangerò a parte
-PKP041	#ei pensaci sa fani comu la nonna clara
-PKP040	ma:mma mi:a che str:e:ss pranzare con papà e la nonna clara
-PKP041	si
-PKP040	quando hai lezione alle tredici e quaranta cinque
-PKP041	perché lui fa sempre li battute quella non le capisce
-PKP039	è le:[nta] ((ride))
-PKP040	[c'eri] (.) c'eri pure tu?
-PKP042	no (.) so x
+PKP042	forse [va meglio a parte]
+PKP040	[forse sgonfiatelo] un po
+PKP042	no forse no
+PKP041	°non parlare sott~°
+PKP042	mh?
+PKP040	che hai detto?
+PKP042	forse lo mangerò a parte
+PKP039	#ei pensaci sa fani comu la nonna clara
+PKP041	ma:mma mi:a che str:e:ss pranzare con papà e la nonna clara
+PKP040	si
+PKP041	quando hai lezione alle tredici e quaranta cinque
+PKP040	perché lui fa sempre li battute quella non le capisce
+PKP041	è le:[nta] ((ride))
+PKP039	[c'eri] (.) c'eri pure tu?
+PKP040	no (.) so x
+PKP042	((ride))
 PKP041	((ride))
-PKP039	((ride))
 PKP039	((ride)) #ca scusa
-PKP040	anna se non hai le prove (.) taci
-PKP041	lau
-PKP039	un po' troppo no,
-PKP041	#be ca alla fine olio è
-PKP040	eh no mi stava:: [prendendo]
-PKP041	[piacendo]
-PKP039	che manca? no sale no
-PKP041	come non il sale?
-PKP040	che manca? (.) ei:: l'uovo sodo
-PKP039	>sono piccanti<?
-PKP040	buh
-PKP039	li ha messe tutte sotto ce l'hai sa
-PKP042	eh non escono non salgono non salgono
+PKP039	anna se non hai le prove (.) taci
+PKP040	lau
+PKP041	un po' troppo no,
+PKP039	#be ca alla fine olio è
+PKP041	eh no mi stava:: [prendendo]
+PKP040	[piacendo]
+PKP041	che manca? no sale no
+PKP039	come non il sale?
+PKP041	che manca? (.) ei:: l'uovo sodo
+PKP040	>sono piccanti<?
+PKP039	buh
+PKP040	li ha messe tutte sotto ce l'hai sa
+PKP039	eh non escono non salgono non salgono
 PKP042	m:::h
-PKP040	sto perdendo pezzi
+PKP042	sto perdendo pezzi
 PKP040	((ride))
-PKP042	quindi i ragazzi di milano rimangono là?
+PKP040	quindi i ragazzi di milano rimangono là?
 PKP042	così sembra
-PKP039	forse paolo
-PKP042	nella comunità?
+PKP042	forse paolo
+PKP039	nella comunità?
 PKP042	paolo forse scende perché ha avuto una complicazione
-PKP041	non è risultato beneficiario della borsa di studio
-PKP042	ma: non so come sia possibile
-PKP041	è scalato di centotrentasei posizioni
-PKP040	vuol dire che c'è gente che sta molto peggio di lui
-PKP042	no: la madre magari [basta]
-PKP040	[vuol dire anche] che c'è gente fa
-PKP041	basta che ha preso qualche compenso in più la madre e:: è scattata di:: di gradone eh
-PKP039	#sangu però
-PKP041	carlomonte:: il figlio: è scalato in dietro di:: (.) [cento]
-PKP039	[si però] voglio dire papà è un disabile:e:: mo non so quan~ se ha il monoreddito::
-PKP040	eh no non sono monoreddito
+PKP042	non è risultato beneficiario della borsa di studio
+PKP041	ma: non so come sia possibile
+PKP042	è scalato di centotrentasei posizioni
+PKP041	vuol dire che c'è gente che sta molto peggio di lui
+PKP040	no: la madre magari [basta]
+PKP042	[vuol dire anche] che c'è gente fa
+PKP040	basta che ha preso qualche compenso in più la madre e:: è scattata di:: di gradone eh
+PKP041	#sangu però
+PKP039	carlomonte:: il figlio: è scalato in dietro di:: (.) [cento]
+PKP041	[si però] voglio dire papà è un disabile:e:: mo non so quan~ se ha il monoreddito::
+PKP039	eh no non sono monoreddito
 PKP040	ti assicuro (.) che sono tanti che stanno peggio di lui
 PKP040	perché:
 PKP040	lei prende uno stipendio
 PKP040	po:i:
-PKP041	se ha fatto la collaboratice del preside:
-PKP042	a:h già
-PKP040	mhmh
-PKP039	ha preso i compensi (.) purtroppo: devi farti bene i conti
-PKP040	anna come puoi aver pensato che io non abbia messo (.) i tovaglioli (.) nel tavolo
-PKP039	#°pà vi ci la spicci sa°
-PKP040	((ride))
-PKP042	mi passi~ ah (.) poi poi me la passi
-PKP040	mh
+PKP040	se ha fatto la collaboratice del preside:
+PKP041	a:h già
+PKP042	mhmh
+PKP040	ha preso i compensi (.) purtroppo: devi farti bene i conti
+PKP039	anna come puoi aver pensato che io non abbia messo (.) i tovaglioli (.) nel tavolo
+PKP040	#°pà vi ci la spicci sa°
+PKP039	((ride))
+PKP040	mi passi~ ah (.) poi poi me la passi
+PKP042	mh
 PKP040	poco poco
-PKP041	no io mangio poco [perché::]
-PKP040	[man]na::ggia
-PKP042	non devo::: ehm
-PKP040	te lo stavo mettendo perché ne stavo aggiungendo un po' però non l'avevi presa tu
+PKP040	no io mangio poco [perché::]
+PKP041	[man]na::ggia
+PKP040	non devo::: ehm
+PKP042	te lo stavo mettendo perché ne stavo aggiungendo un po' però non l'avevi presa tu
 PKP040	è caduta
 PKP040	ha detto carlo che oggi (.) nel parcheggio dove passa sempre lu:i
 PKP040	c'erano due camionette
-PKP041	ha detto mado' ma mi hanno fatto un'impressione semprava proprio uno stato di guerra
-PKP042	scendi un sabato al centro
-PKP041	infatti
+PKP040	ha detto mado' ma mi hanno fatto un'impressione semprava proprio uno stato di guerra
+PKP041	scendi un sabato al centro
+PKP042	infatti
 PKP041	quella volta da:: orzunmanie:llo:
 PKP041	con le pistole
-PKP042	non era manco una pistola era più grande di una pistola
-PKP039	un uzi
-PKP041	una mitraglietta
-PKP042	mh
-PKP040	l'uzi
-PKP039	piccanti?
-PKP042	non le sento
-PKP041	questa pratica dell'insalatona: (.) devo portarla anche a casa mia
-PKP042	mh quando non c'è tuo padre ((ride))
-PKP041	beh magari quando fanno (.) qualcosa che non [mi va]
-PKP042	[che non] ti pia:ce
-PKP040	no che~ no (.) che non mi piace è difficile
-PKP040	((ride)) non è difficile
-PKP042	ci sono un sacco di cose che non mangi che ti dobbiamo insegnare a mangiare
-PKP042	mh
-PKP040	a casa mia dico (.) magari mia mamma fa le cose (.) [in base ai] miei gusti no?
-PKP041	che ti piacciono
-PKP040	[che ti piacciono]
-PKP041	poi a te (.) forse piace la pasta no?
-PKP042	mh (.) ma non la mangia quasi mai e:h
+PKP041	non era manco una pistola era più grande di una pistola
+PKP042	un uzi
+PKP039	una mitraglietta
 PKP041	mh
-PKP040	beh (.) molto meno di noi la mangi
-PKP042	me noi [quanto] la stiamo mangiando? (.) ieri abbiamo mangiato le melanzane lau
-PKP040	[mo]
-PKP042	oggi hai mangiato (.) [il]
-PKP040	[mo] un sacco di volte il riso sto mangiando
-PKP042	eh (.) noi molto spesso
-PKP040	d'estate il fa::rro un sacco di volte
+PKP042	l'uzi
+PKP040	piccanti?
+PKP039	non le sento
+PKP042	questa pratica dell'insalatona: (.) devo portarla anche a casa mia
+PKP041	mh quando non c'è tuo padre ((ride))
+PKP042	beh magari quando fanno (.) qualcosa che non [mi va]
+PKP041	[che non] ti pia:ce
+PKP042	no che~ no (.) che non mi piace è difficile
+PKP040	((ride)) non è difficile
+PKP040	ci sono un sacco di cose che non mangi che ti dobbiamo insegnare a mangiare
+PKP042	mh
+PKP042	a casa mia dico (.) magari mia mamma fa le cose (.) [in base ai] miei gusti no?
+PKP040	che ti piacciono
+PKP041	[che ti piacciono]
+PKP040	poi a te (.) forse piace la pasta no?
+PKP041	mh (.) ma non la mangia quasi mai e:h
+PKP042	mh
+PKP041	beh (.) molto meno di noi la mangi
+PKP040	me noi [quanto] la stiamo mangiando? (.) ieri abbiamo mangiato le melanzane lau
+PKP042	[mo]
+PKP040	oggi hai mangiato (.) [il]
+PKP042	[mo] un sacco di volte il riso sto mangiando
+PKP040	eh (.) noi molto spesso
+PKP042	d'estate il fa::rro un sacco di volte
 PKP040	mo domani c'è della chinoa mo la faccio fare
-PKP042	la consumia:mo
-PKP039	quindi da domani (.) coprifuoco alle ventidue?
-PKP040	mh
+PKP040	la consumia:mo
+PKP042	quindi da domani (.) coprifuoco alle ventidue?
+PKP039	mh
 PKP040	ma comunque
 PKP040	non è che nelle altre ore si può uscire
 PKP040	bisogna comunque::: (.) motivare pure gli spostamenti
-PKP041	#non è ca
-PKP040	beh
-PKP041	#vanno a passeggio li cristiani
-PKP040	dal parrucchiere
-PKP039	al parrucchiere si può andare
+PKP040	#non è ca
+PKP041	beh
+PKP040	#vanno a passeggio li cristiani
+PKP041	dal parrucchiere
+PKP040	al parrucchiere si può andare
 PKP039	il problema è che lo devi tenere scritto sopra l'autocertificazione quello è xx
-PKP040	[non basta che g]lielo dici
-PKP039	[xx]
-PKP041	dove stai andando? non lo puoi dire lì per lì
-PKP040	no perché non è vietato
-PKP041	x tu gli dici solo che [xxx]
+PKP039	[non basta che g]lielo dici
+PKP040	[xx]
+PKP039	dove stai andando? non lo puoi dire lì per lì
+PKP041	no perché non è vietato
+PKP040	x tu gli dici solo che [xxx]
 PKP041	[è scon]sigliato ma non è vietato
-PKP040	non cominciamo eh
+PKP041	non cominciamo eh
 PKP040	#sini lau ca tu a do vai
-PKP041	arrivi a casa di marco [xxx]
-PKP040	[ho capi]to però se ti fermano per and[are a casa di xx]
+PKP040	arrivi a casa di marco [xxx]
+PKP041	[ho capi]to però se ti fermano per and[are a casa di xx]
 PKP040	[puoi anda]re
-PKP041	a parte che puoi sempre dire che stai andando alla cosa sotto casa sua
-PKP042	mh (.) vero
-PKP040	cosa cartolinea?
-PKP042	eh
-PKP040	sta lavorando proprio assai cartoinea eh (.) mamma mia
-PKP039	certi stanno lavorando sta quello che fa: i computer a noi
-PKP040	#quelli pazienti mia sono
+PKP040	a parte che puoi sempre dire che stai andando alla cosa sotto casa sua
+PKP041	mh (.) vero
+PKP042	cosa cartolinea?
+PKP040	eh
+PKP042	sta lavorando proprio assai cartoinea eh (.) mamma mia
+PKP040	certi stanno lavorando sta quello che fa: i computer a noi
+PKP039	#quelli pazienti mia sono
 PKP040	#ha detto:: sto nfucato di lavoro
-PKP039	i computer il prezzo dei computer sono schizzati
-PKP041	ci credo
-PKP040	eh ma (.) già che:: gli universitari so[no rimasti giù]
-PKP039	[infatti martina] se lo voleva comprare ho detto (a)spetta guarda (.) perché:
-PKP042	penso che saliranno anche i prezzi delle biciclette
+PKP040	i computer il prezzo dei computer sono schizzati
+PKP039	ci credo
+PKP041	eh ma (.) già che:: gli universitari so[no rimasti giù]
+PKP040	[infatti martina] se lo voleva comprare ho detto (a)spetta guarda (.) perché:
+PKP039	penso che saliranno anche i prezzi delle biciclette
 PKP042	vabbè perché (.) sulla base dei fondi che hanno erogato pure là per i buoni
-PKP039	e:h la scuola nostra cioè la scuola a: l'università nostra hanno erogato: la borsa di studio quella di cinquecento euro per: comprare i computer cose per chi non aveva::
-PKP041	sessantotto per cento [del xxx]
-PKP042	>[e perché non l'hai fatta]<
-PKP039	perché non potevo (.) fino a dodici mila euro era l'isee
+PKP042	e:h la scuola nostra cioè la scuola a: l'università nostra hanno erogato: la borsa di studio quella di cinquecento euro per: comprare i computer cose per chi non aveva::
+PKP039	sessantotto per cento [del xxx]
+PKP041	>[e perché non l'hai fatta]<
+PKP042	perché non potevo (.) fino a dodici mila euro era l'isee
 PKP039	>sono<
-PKP042	sono e::h bonus non sono rimborsi (.) per la bicicletta
+PKP039	sono e::h bonus non sono rimborsi (.) per la bicicletta
 PKP042	secondo te
-PKP041	°e poi in tutto questo xx xx l'ha presa°
-PKP039	°mh (.) assurdo°
-PKP040	che poi dice che molti (.) che hanno preso il bonus non riusciranno a spenderlo
-PKP039	mh
-PKP040	non ci stanno biciclette
-PKP039	vabbè devi comprare: se la prendi al decathlon non vale?
-PKP042	devi [andare da quelli là (.) da quell]i che aderiscono (.) all'iniziativa
-PKP040	[che proprio al decathlon non ce ne sono]
-PKP039	mi passi un pochino (.) di tonno per favore? scusami (.) ti sei messo là
-PKP042	domani vuoi fare ginnastica?
-PKP040	cosa?
-PKP042	#no non deve fare sforzi lu piccinnu
+PKP042	°e poi in tutto questo xx xx l'ha presa°
+PKP041	°mh (.) assurdo°
+PKP039	che poi dice che molti (.) che hanno preso il bonus non riusciranno a spenderlo
 PKP040	mh
-PKP041	allora vieni pres~ no deve studiare
-PKP040	domani c'ho l'esposizione io
-PKP041	di che?
-PKP040	dei gruppi di francese ma non so [se sto]
-PKP039	[comunque] abbiamo detto che li mettiamo nella macchina e li scendiamo con la macchina
-PKP040	domani arrivano settanta sacchi di pellet (.) da [quindici chili l'uno]
-PKP039	[si ha] (.) pensato bene di farsi piglia~ portare la cosa poi n~ na non ha [pensato]
-PKP040	#[marce'] non solo lo faccio di sobbra p~ pure tu m'ha rimproverari che non lo faccio bene
-PKP039	non c'hai pensato x (.) che sarebbe stato difficile portare giù
-PKP040	ho pen[sato]
+PKP039	non ci stanno biciclette
+PKP040	vabbè devi comprare: se la prendi al decathlon non vale?
+PKP039	devi [andare da quelli là (.) da quell]i che aderiscono (.) all'iniziativa
+PKP042	[che proprio al decathlon non ce ne sono]
+PKP040	mi passi un pochino (.) di tonno per favore? scusami (.) ti sei messo là
+PKP039	domani vuoi fare ginnastica?
+PKP042	cosa?
+PKP040	#no non deve fare sforzi lu piccinnu
+PKP042	mh
+PKP040	allora vieni pres~ no deve studiare
+PKP041	domani c'ho l'esposizione io
+PKP040	di che?
+PKP041	dei gruppi di francese ma non so [se sto]
+PKP040	[comunque] abbiamo detto che li mettiamo nella macchina e li scendiamo con la macchina
+PKP039	domani arrivano settanta sacchi di pellet (.) da [quindici chili l'uno]
+PKP040	[si ha] (.) pensato bene di farsi piglia~ portare la cosa poi n~ na non ha [pensato]
+PKP039	#[marce'] non solo lo faccio di sobbra p~ pure tu m'ha rimproverari che non lo faccio bene
+PKP040	non c'hai pensato x (.) che sarebbe stato difficile portare giù
+PKP039	ho pen[sato]
 PKP040	[comun]que nella macchina almeno cinque ce ne stanno
 PKP040	settanta diviso cinque:
-PKP042	quanto fa?
-PKP040	ma li hai ordinati? devono scaricarteli?
-PKP039	una ventina di viaggi
+PKP040	quanto fa?
+PKP042	ma li hai ordinati? devono scaricarteli?
+PKP040	una ventina di viaggi
 PKP039	e che non c'ho la possibilità manco di farmeli mettere dentro
 PKP039	per poi sistemarmeli piano piano
-PKP042	quelli in mezzo alla strada li lasciano
-PKP040	a che ora,
-PKP039	non lo so
-PKP040	primo pomeriggio ha detto
-PKP042	il bello che io alle quattro c'ho (.) una videochiamata
+PKP039	quelli in mezzo alla strada li lasciano
+PKP042	a che ora,
+PKP040	non lo so
+PKP039	primo pomeriggio ha detto
+PKP040	il bello che io alle quattro c'ho (.) una videochiamata
 PKP042	io potrei esserci comunque se serve eh
-PKP040	domani perché io ho lezione soltanto:
-PKP042	devi studiare
-PKP040	beh vabbè
-PKP042	vabbe vieni a studiare qua
-PKP040	mh a memoria me lo sono imparato un altro poco il programma
-PKP039	embeh
-PKP040	avrei dovuto far trovare il bancale fuori quando abbiamo preso così con la:
+PKP042	domani perché io ho lezione soltanto:
+PKP040	devi studiare
+PKP042	beh vabbè
+PKP040	vabbe vieni a studiare qua
+PKP042	mh a memoria me lo sono imparato un altro poco il programma
+PKP040	embeh
+PKP039	avrei dovuto far trovare il bancale fuori quando abbiamo preso così con la:
 PKP040	mettiamo il tavolo (.) marrone sotto al gazebo
 PKP040	un po' li mettiamo sopra il tavolo
 PKP040	c'è solo acqua?
 PKP040	mh che begli occhi ((riferimento_a_tv))
-PKP041	(terribile [ha] l'accento di xx)
-PKP039	[eh]?
-PKP041	subaqueo (.) immersioni ((_riferimento_a_tv))
-PKP039	diving
+PKP040	(terribile [ha] l'accento di xx)
+PKP041	[eh]?
+PKP039	subaqueo (.) immersioni ((_riferimento_a_tv))
+PKP041	diving
 PKP039	quando c'era la moda dei:: degli swatch
 PKP039	no?
-PKP042	lo scuba diving (.) ricercatissimo
-PKP039	che cos'è?
-PKP042	gli orologi swatch
-PKP039	a:::h
-PKP041	che la smart quando uscì in collaborazione con la swatch e la mercedes
-PKP039	ma forse ancora
-PKP042	dici?
-PKP041	no::: non penso
-PKP039	mado' mi sono tenuta la coda fino a mo
-PKP041	cioè l'uovo sodo: si è perso
-PKP042	buonissimo
-PKP041	io ho preferito mangiarlo:
-PKP039	eh si alla fin[e::]
+PKP039	lo scuba diving (.) ricercatissimo
+PKP042	che cos'è?
+PKP039	gli orologi swatch
+PKP042	a:::h
+PKP039	che la smart quando uscì in collaborazione con la swatch e la mercedes
+PKP041	ma forse ancora
+PKP039	dici?
+PKP042	no::: non penso
+PKP041	mado' mi sono tenuta la coda fino a mo
+PKP039	cioè l'uovo sodo: si è perso
+PKP041	buonissimo
+PKP042	io ho preferito mangiarlo:
+PKP041	eh si alla fin[e::]
 PKP039	[ma og]gi fanno::
-PKP041	#vattela a pesca addai
-PKP039	x factor
-PKP042	mh
-PKP040	[roccuzzo]
+PKP039	#vattela a pesca addai
+PKP041	x factor
+PKP039	mh
+PKP042	[roccuzzo]
 PKP040	[poi è ritornata] all'asilo?
-PKP041	#ma quisto fa [lu mangiafuoco] no?
-PKP040	[mangiafuoco]
-PKP042	secondo te lau? ((riferimento_a_tv))
-PKP039	no questo qua: (.) ce l'ha la faccia da uno che fa divani per i cani cioè
-PKP041	[troppo::] troppo banale
-PKP040	((ride))
-PKP042	che fa i divani per?
-PKP041	[per i cani] no?
-PKP042	[i cani]
-PKP041	cioè proprio: si vede
-PKP040	mà è ironico
-PKP042	sisi ho capito
-PKP040	no fa divani per i cani guarda che è un indizio sa'
-PKP041	allora era que[la]
-PKP042	[ma cos]a stai dicendo
-PKP041	divano per i cani gua[rda]
-PKP042	[ho capi]to non è un indizio
-PKP041	no è un: mestiere
-PKP042	eh lo so (.) ma eri ironico
-PKP041	è certo che ero ironi[co]
+PKP040	#ma quisto fa [lu mangiafuoco] no?
+PKP041	[mangiafuoco]
+PKP040	secondo te lau? ((riferimento_a_tv))
+PKP042	no questo qua: (.) ce l'ha la faccia da uno che fa divani per i cani cioè
+PKP039	[troppo::] troppo banale
+PKP041	((ride))
+PKP040	che fa i divani per?
+PKP042	[per i cani] no?
+PKP041	[i cani]
+PKP042	cioè proprio: si vede
+PKP041	mà è ironico
+PKP040	sisi ho capito
+PKP042	no fa divani per i cani guarda che è un indizio sa'
+PKP040	allora era que[la]
+PKP041	[ma cos]a stai dicendo
+PKP042	divano per i cani gua[rda]
+PKP041	[ho capi]to non è un indizio
+PKP042	no è un: mestiere
+PKP041	eh lo so (.) ma eri ironico
+PKP042	è certo che ero ironi[co]
 PKP041	[e allo]ra e ci che vuoi da me
-PKP040	#ti ttacchi
-PKP042	finite quell[a::::] (.) finite quella: cosa
-PKP041	[io:::] ho tempo ancora
-PKP042	cioè sono sazia eh ho mangiato giusto perché c'è
-PKP041	eh
-PKP042	un'euro ((riferimento_a_tv))
+PKP041	#ti ttacchi
+PKP040	finite quell[a::::] (.) finite quella: cosa
+PKP042	[io:::] ho tempo ancora
+PKP041	cioè sono sazia eh ho mangiato giusto perché c'è
+PKP042	eh
+PKP041	un'euro ((riferimento_a_tv))
 PKP042	mh qesto è tutto quello di cui dispongo
-PKP040	vabbè
-PKP042	xxx
-PKP039	°perché,° (.) xxxx
-PKP040	allora l'altro giorno mi chiama una signora:
-PKP039	mangiafuoco
+PKP042	vabbè
+PKP040	xxx
+PKP042	°perché,° (.) xxxx
+PKP039	allora l'altro giorno mi chiama una signora:
+PKP040	mangiafuoco
 PKP039	dice l'ultimo dente che si muove: mi da fastidio: mi fa male:
 PKP039	venuta alle otto
 PKP039	mi chiama stamattina che dice avanti a quello la che mi ha tolto:
@@ -322,137 +322,137 @@ PKP039	°perché signora da tirare°
 PKP039	potrebbe essere stato quello ad avermi dato dolore l'altro giorno
 PKP039	ico scusi ma il dolore adesso ce l'ha?
 PKP039	no mi è passato
-PKP040	E ALLORA ((ride)) cioè ho detto le ho tolto quello là di dietro che si muoveva di più le è passato il dolore:
-PKP039	((ride))
-PKP040	#ciononostante qua~ tu mi dici può darsi che quello che c'ho mo era quello che mi aveva fatto male: perciò lo dobbiamo togliere: ma allora si fessa propria
-PKP039	marce' vedi: [male che vada] fai questo (.) della vita:
-PKP040	[dici che: non era quello là che mi aveva fatto male:]?
+PKP039	E ALLORA ((ride)) cioè ho detto le ho tolto quello là di dietro che si muoveva di più le è passato il dolore:
+PKP040	((ride))
+PKP039	#ciononostante qua~ tu mi dici può darsi che quello che c'ho mo era quello che mi aveva fatto male: perciò lo dobbiamo togliere: ma allora si fessa propria
+PKP040	marce' vedi: [male che vada] fai questo (.) della vita:
+PKP039	[dici che: non era quello là che mi aveva fatto male:]?
 PKP040	dici che ti mangi tutto: ((ride))
 PKP040	#ti puè mangià puru lu fuecu no?
-PKP042	#puru li calabbresi si mangiano il fuoco ((ride))
-PKP040	mh comunque (.) mio cugino lo fa questo
-PKP041	davvero?
-PKP042	#busci:a
-PKP041	mio cugino marco tondo
+PKP040	#puru li calabbresi si mangiano il fuoco ((ride))
+PKP042	mh comunque (.) mio cugino lo fa questo
+PKP040	davvero?
+PKP041	#busci:a
+PKP042	mio cugino marco tondo
 PKP041	#ce faci
-PKP042	no: non lo voglio vedere: non lo voglio vedere
-PKP039	non ci sono i video ci sono le foto:
-PKP042	chi è marco tondo fammi capire
-PKP040	mio cugino
-PKP039	omonimo
-PKP042	ma lo fa per lavoro?
-PKP040	[non lo so io so che] lo faceva
+PKP041	no: non lo voglio vedere: non lo voglio vedere
+PKP042	non ci sono i video ci sono le foto:
+PKP039	chi è marco tondo fammi capire
+PKP042	mio cugino
+PKP040	omonimo
+PKP039	ma lo fa per lavoro?
+PKP042	[non lo so io so che] lo faceva
 PKP040	[ah questo]
 PKP040	sta pure il domatore di leoni
 PKP040	ti sei fatta le sopracciglia?
-PKP041	eh co[cchia]
+PKP040	eh co[cchia]
 PKP041	[ve]diamo?
-PKP040	eh
+PKP041	eh
 PKP040	hai visto?
-PKP042	e allora:: (.) impara dai
-PKP040	ma mio padre non è molto [contento in]fatti:
+PKP040	e allora:: (.) impara dai
+PKP042	ma mio padre non è molto [contento in]fatti:
 PKP040	((ride)) [immagino:]
 PKP040	tuo zio tuo zio xxx
-PKP039	come lau?
-PKP042	il fatto è tutto quel benzene in bocca
-PKP040	mbo::
-PKP041	for[se x]
+PKP040	come lau?
+PKP039	il fatto è tutto quel benzene in bocca
+PKP042	mbo::
+PKP040	for[se x]
 PKP041	[ben]zene:
-PKP039	il ciclo del benze:ne
-PKP041	il ciclo perido [xx]
+PKP041	il ciclo del benze:ne
+PKP039	il ciclo perido [xx]
 PKP041	[tu lo sai]? io no
-PKP040	l'ho imparato a memoria: per due giorni:
-PKP039	[mado' [veramente]
-PKP041	[l'anello] del benzene no?
-PKP040	l'anello del benzene me lo ricordo (.) è [come un esagono no]?
+PKP041	l'ho imparato a memoria: per due giorni:
+PKP040	[mado' [veramente]
+PKP039	[l'anello] del benzene no?
+PKP041	l'anello del benzene me lo ricordo (.) è [come un esagono no]?
 PKP040	[eppure] (.) eppure la chimica ti piaceva alle medie:
-PKP041	io mi già ti vedevo (.) [che ti volevo mandare al majorana]
+PKP040	io mi già ti vedevo (.) [che ti volevo mandare al majorana]
 PKP041	se qualcuno me l'avesse insegnata: [ora starei facendo:] (.) ctf credo che mi sarebbe piaciuto
-PKP042	in laborato:rio
-PKP041	col ca:mice
-PKP039	eh
+PKP041	in laborato:rio
+PKP042	col ca:mice
+PKP041	eh
 PKP039	non vedo nessu:no
-PKP041	xx xx xx
-PKP040	no
-PKP041	lau hai scritto l'articolo [pe:r (.) della monteverde]
-PKP041	[con gli amici di laboratorio]
-PKP040	sì
-PKP042	lo scoprirò::
-PKP041	cercando
-PKP040	mh
-PKP041	mi raccomando sa' (.) quello che devi scrivere sa'
-PKP040	sono dovuta essere un pochino: retorica
-PKP041	beh è chiaro
-PKP042	cioè non posso essere sincera al cento per cento ecco
-PKP041	perché
-PKP040	beh
-PKP041	vabbè però tutto sommato
-PKP040	per annamaria lo faccio (.) solo per annamaria
-PKP041	quando esce
-PKP040	boh [xxxx]
-PKP041	[oggi ho visto] antonella che cantava
-PKP041	mh
-PKP040	avevamo mangiato sano finché non mi sono (.) scofanata una busta di crostin[i] ((ride))
-PKP041	[e]cco ((ride))
-PKP040	però non sono fritti
-PKP041	da leccarsi le dita senti [io mo mi vado a fare subito la doccia]
-PKP040	[sono molto: calorici]? [ho sbaglia:to]?
-PKP042	[no:]
-PKP041	[che ne so io]
-PKP042	tu sei il mio dietologo
+PKP039	xx xx xx
 PKP041	no
-PKP040	dai: sincero
-PKP041	vediamo sta scritto no?
-PKP042	(tu dovevi dire no xx)
-PKP041	non sono calorici
-PKP040	brav[o]
-PKP042	[e]nergia: per die~ cento grammi: (.) duemila e cinquantotto chilo: chi: [no] cappa jei che cosa sono?
-PKP041	[chilo joule]
-PKP040	chilo joule
-PKP041	quattrocentonovantuno chilo calorie:
-PKP039	quattrocentonovantuno so' pochissime (.) per cento grammi
-PKP040	cento gra:mmi (.) considera che xxx
-PKP041	considera che tutta la busta è duecento grammi ne avrai mangiato cinquanta gra:mmi:
-PKP040	ma va:
+PKP040	lau hai scritto l'articolo [pe:r (.) della monteverde]
+PKP041	[con gli amici di laboratorio]
+PKP041	sì
+PKP040	lo scoprirò::
+PKP042	cercando
+PKP041	mh
+PKP040	mi raccomando sa' (.) quello che devi scrivere sa'
+PKP041	sono dovuta essere un pochino: retorica
+PKP040	beh è chiaro
+PKP041	cioè non posso essere sincera al cento per cento ecco
+PKP042	perché
+PKP041	beh
+PKP040	vabbè però tutto sommato
+PKP041	per annamaria lo faccio (.) solo per annamaria
+PKP040	quando esce
+PKP041	boh [xxxx]
+PKP040	[oggi ho visto] antonella che cantava
+PKP041	mh
+PKP041	avevamo mangiato sano finché non mi sono (.) scofanata una busta di crostin[i] ((ride))
+PKP040	[e]cco ((ride))
+PKP041	però non sono fritti
+PKP040	da leccarsi le dita senti [io mo mi vado a fare subito la doccia]
+PKP041	[sono molto: calorici]? [ho sbaglia:to]?
+PKP040	[no:]
+PKP042	[che ne so io]
+PKP041	tu sei il mio dietologo
+PKP042	no
+PKP041	dai: sincero
+PKP040	vediamo sta scritto no?
+PKP041	(tu dovevi dire no xx)
+PKP042	non sono calorici
+PKP041	brav[o]
+PKP040	[e]nergia: per die~ cento grammi: (.) duemila e cinquantotto chilo: chi: [no] cappa jei che cosa sono?
+PKP042	[chilo joule]
+PKP041	chilo joule
+PKP040	quattrocentonovantuno chilo calorie:
+PKP041	quattrocentonovantuno so' pochissime (.) per cento grammi
+PKP039	cento gra:mmi (.) considera che xxx
+PKP040	considera che tutta la busta è duecento grammi ne avrai mangiato cinquanta gra:mmi:
+PKP041	ma va:
 PKP040	ma suvvi:a
-PKP042	ne apriamo un altro
-PKP040	allora posso mangiarne un'altra intera
-PKP041	allora [ci sta la mia segretaria] lau ci sta clara
-PKP040	[allora posso arrivare a duecento]
+PKP040	ne apriamo un altro
+PKP042	allora posso mangiarne un'altra intera
+PKP040	allora [ci sta la mia segretaria] lau ci sta clara
+PKP041	[allora posso arrivare a duecento]
 PKP040	che ogni volta io mi porto l'orzo dico cla no l'orzo non lo posso:::: mangiare
-PKP039	[perché::::] si sta ce~ togliendo tutto il frumento che forse c'ha un'intolleranza al frumento
-PKP040	[xxx]
+PKP040	[perché::::] si sta ce~ togliendo tutto il frumento che forse c'ha un'intolleranza al frumento
+PKP039	[xxx]
 PKP040	#poi stavano li pasticcini e si ndé mangiati tre
-PKP041	no no questo:: io: no devo comprare la rosa canina: perché la rosa canina è una vitamina [c]
-PKP040	[tu] non ti prendevi la~ la rosa cani[na]?
+PKP040	no no questo:: io: no devo comprare la rosa canina: perché la rosa canina è una vitamina [c]
+PKP041	[tu] non ti prendevi la~ la rosa cani[na]?
 PKP040	[xxx]
-PKP041	[io] la prendevo la rosa canina
-PKP040	ah no tu: l'artiglio del diavolo per la pelle
-PKP039	no l'artiglio del davol~
-PKP040	mado' mi fa male qua
-PKP041	l'art~ eh con l'artiglio del diavolo
-PKP040	eh l'artiglio del diavolo per [i mu:scoli]
-PKP039	[per i dolori]
-PKP042	appena faccio una cosa sa
-PKP040	[a me pure fa male qua oggi]
-PKP039	[vattela a fare un:] una cosa
-PKP040	là andai da claudio no? disse questo qua è: una degenerazione [x]
-PKP041	[ho capi]to ti fa un po' di laser
-PKP040	quello in bici eh io l'ultima volta che siamo andati in bici [quella parte:] (.) mamma mia
+PKP040	[io] la prendevo la rosa canina
+PKP041	ah no tu: l'artiglio del diavolo per la pelle
+PKP040	no l'artiglio del davol~
+PKP039	mado' mi fa male qua
+PKP040	l'art~ eh con l'artiglio del diavolo
+PKP041	eh l'artiglio del diavolo per [i mu:scoli]
+PKP040	[per i dolori]
+PKP039	appena faccio una cosa sa
+PKP042	[a me pure fa male qua oggi]
+PKP040	[vattela a fare un:] una cosa
+PKP039	là andai da claudio no? disse questo qua è: una degenerazione [x]
+PKP040	[ho capi]to ti fa un po' di laser
+PKP041	quello in bici eh io l'ultima volta che siamo andati in bici [quella parte:] (.) mamma mia
 PKP040	[eh è vero x]
-PKP041	dovresti cambiare un poco il manubrio
-PKP042	stavo così per tenere i freni e tenere così quando sono scesa dalla dalla: bici: qua mi faceva mali:ssimo
-PKP041	so' duri?
-PKP039	no è grande no? finché prendi i manu~ i: i freni e tutto il man[ubrio così] no no vedi che dopo un po': questa situazio:ne
-PKP040	[comunque il freno il freno] il freno con un dito io lo prendo eh xx
-PKP041	[eh però marce' stai così eh]
-PKP040	ho capito l'indice se pre~ fai questa questa cosa
+PKP040	dovresti cambiare un poco il manubrio
+PKP041	stavo così per tenere i freni e tenere così quando sono scesa dalla dalla: bici: qua mi faceva mali:ssimo
+PKP042	so' duri?
+PKP041	no è grande no? finché prendi i manu~ i: i freni e tutto il man[ubrio così] no no vedi che dopo un po': questa situazio:ne
+PKP039	[comunque il freno il freno] il freno con un dito io lo prendo eh xx
+PKP040	[eh però marce' stai così eh]
+PKP041	ho capito l'indice se pre~ fai questa questa cosa
 PKP040	questa così ha ragione secondo me si
-PKP041	ci vuole una cosa più [così]
-PKP040	[grazie]
-PKP039	va bene ninni?
-PKP042	[passiamo al dolce PASSI]AMO AL DOLCE:
-PKP041	[mi è piaciuta molto questa:]
-PKP039	no basta fine io mi alzo
-PKP040	allora i li[quori]
+PKP040	ci vuole una cosa più [così]
+PKP041	[grazie]
+PKP040	va bene ninni?
+PKP039	[passiamo al dolce PASSI]AMO AL DOLCE:
+PKP042	[mi è piaciuta molto questa:]
+PKP041	no basta fine io mi alzo
+PKP039	allora i li[quori]
 PKP040	#[none] io vado a farmi una doccia

@@ -1,4 +1,4 @@
-BOI064	nome
+BOR020	nome
 BOI064	allora
 BOI064	il mio nome è mario rossi
 BOI064	ehm vivo a bologna da
@@ -24,13 +24,13 @@ BOI064	sono molto grato
 BOI064	a questo corso che mi ha
 BOI064	mi ha potuto
 BOI064	formare al meglio per
-BOR020	il mondo del lavoro e questa è la mia parte più formale
+BOI064	il mondo del lavoro e questa è la mia parte più formale
 BOR020	allora ti chiedo brevemente
-BOI064	dove abiti diciamo in zona
-BOR020	nelle zone
+BOR020	dove abiti diciamo in zona
+BOI064	nelle zone
 BOR020	nella zona
 BOR020	e eh
-BOI064	diciamo com'è stato allora il tuo primo approccio alla città
+BOR020	diciamo com'è stato allora il tuo primo approccio alla città
 BOI064	allora attualmente
 BOI064	abito in fossolo due madonne
 BOI064	è una piccola zona credo che sia piccola
@@ -62,9 +62,8 @@ BOI064	e bologna san~ mi è sembrata subito
 BOI064	il posto adatto per me
 BOI064	non che aveva anche il corso che più mi
 BOI064	stava in quel momento attirando
-BOR020	in linea di massima
+BOI064	in linea di massima
 BOR020	quindi sei contento con quello che stai facendo adesso o
-BOI064	
 BOI064	sì allora
 BOI064	in linea di massima sono contento certamente perché
 BOI064	eh sicuramente quando non abiti in una città
@@ -83,25 +82,25 @@ BOI064	credo che poche altre cose ti
 BOI064	formino da un punto di vista umano
 BOI064	quanto allontanarti da
 BOI064	dal nido in un certo senso
-BOR020	bologna ancor di più è
-BOI064	certo
+BOI064	bologna ancor di più è
+BOR020	certo
 BOI064	è un è una bolgia di
 BOI064	avvenimenti persone
 BOI064	di tutte origini diverse infatti
 BOI064	il mio il mio contatto con bologna piuttosto che la mia relazione attuale con bologna
 BOI064	è
 BOI064	è un luogo di svago piuttosto che il mio angolo innovativo
-BOR020	in un certo senso
+BOI064	in un certo senso
 BOR020	quindi
 BOR020	anche dal punto di vista di un lavoratore perché comunque possiamo considerarti
 BOR020	lavoratore
 BOR020	riesci a viverti bologna come città
-BOI064	diciamo
-BOR020	professionale
+BOR020	diciamo
+BOI064	professionale
 BOR020	per
 BOR020	sì ma anche per giovani nel senso
 BOR020	riesci a vivertela anche dal punto di vista
-BOI064	giovanile
+BOR020	giovanile
 BOI064	e infatti è qui che
 BOI064	subentra la caratteristica principale di bologna
 BOI064	è una città che da spazio a tutti
@@ -110,8 +109,8 @@ BOI064	ed è la stessa città che da spazio al eh all'imprenditore
 BOI064	che passeggia
 BOI064	in via cavour
 BOI064	guardando i negozi di
-BOR020	mi sembra che ci siano gucci o piuttosto che giù di lì insomma
-BOI064	sì
+BOI064	mi sembra che ci siano gucci o piuttosto che giù di lì insomma
+BOR020	sì
 BOI064	dà un è uno spazio per tutti sinceramente e col fatto che
 BOI064	costantemente cambia la sua popolazione perché ci sono persone che vengono e tante altre persone che arrivano
 BOI064	e che vanno via insomma
@@ -146,10 +145,10 @@ BOI064	però
 BOI064	come ho detto anche prima
 BOI064	ti devi trovare il tuo piccolo spazietto e bologna più di altre città
 BOI064	ti
-BOR020	soddisfa in quello che ti può dare
+BOI064	soddisfa in quello che ti può dare
 BOR020	sì quindi
 BOR020	ef~ effettivamente tu avendo vissuto anche altre città
-BOI064	puoi dire di questa cosa di bologna effettivamente
+BOR020	puoi dire di questa cosa di bologna effettivamente
 BOI064	sì allora facendo un esempio basilare
 BOI064	ehm sono solito girare tra la spezia
 BOI064	ravenna e anche bologna ma queste sono le principali tre città sono tre città
@@ -188,16 +187,15 @@ BOI064	in linea di massima
 BOI064	devo anche dire che
 BOI064	tante persone
 BOI064	me compreso preferiscono la città preferiscono bologna ai bolognesi
-BOR020	questo è
-BOI064	
+BOI064	questo è
 BOI064	questo è un dato di fatto è inutile è utile dire così però
 BOI064	però comunque
 BOI064	sicuramente anche a loro devono
-BOR020	devono arrivare determinati meriti
+BOI064	devono arrivare determinati meriti
 BOR020	ma e ad esempio dove lav~
 BOR020	c~ d~
 BOR020	dove
-BOI064	cioè dov'è che lavori cioè dov'è la tua sede del lavoro ad esempio
+BOR020	cioè dov'è che lavori cioè dov'è la tua sede del lavoro ad esempio
 BOI064	la mia sede attualmente è all'interno delle mura
 BOI064	e all'interno delle mura siamo sulla zona
 BOI064	all'incirca
@@ -215,8 +213,8 @@ BOI064	e
 BOI064	come p~ come poter dire
 BOI064	da due anni che sono qua a bologna
 BOI064	ne ho ne ho viste di cotte e di crude
-BOR020	ne ho viste di cotte di crude sono
-BOI064	immagino
+BOI064	ne ho viste di cotte di crude sono
+BOR020	immagino
 BOI064	ma ne sono soprattutto contento perché ne sono uscito arricchito
 BOI064	e potrà sembrare anche scontato dirlo in questo modo però oggettivamente ne sono uscito arricchito perché
 BOI064	qualc~ eh quello che
@@ -225,11 +223,11 @@ BOI064	ti da
 BOI064	bologna
 BOI064	è
 BOI064	che è una vera e propria incognita
-BOR020	quando tu esci la sera puoi uscire puoi uscire un martedì come puoi uscire un sabato sera
-BOI064	non sai
+BOI064	quando tu esci la sera puoi uscire puoi uscire un martedì come puoi uscire un sabato sera
+BOR020	non sai
 BOI064	l~
-BOR020	la l'energia che si respira
-BOI064	mh
+BOI064	la l'energia che si respira
+BOR020	mh
 BOI064	all'interno delle vie
 BOI064	delle mh è tutta diversa
 BOI064	e ti sembra di essere a casa ti sembra che la persona che hai appena incontrato per strada
@@ -240,8 +238,8 @@ BOI064	non vi siano cattive intenzioni è
 BOI064	è un po' forse
 BOI064	eh
 BOI064	una visione
-BOR020	utopica
-BOI064	certo
+BOI064	utopica
+BOR020	certo
 BOI064	a dirla in questo modo
 BOI064	ma la realtà dei fatti è questa
 BOI064	perché io
@@ -254,8 +252,8 @@ BOI064	ed è scontato
 BOI064	per me è scontatissimo dire che bologna ti dà spazio bologna è per tutti
 BOI064	puoi essere la persona
 BOI064	più
-BOR020	introversa del mondo puoi essere la persona più estroversa c'è posto per tutti perché
-BOI064	vero
+BOI064	introversa del mondo puoi essere la persona più estroversa c'è posto per tutti perché
+BOR020	vero
 BOI064	dove vai vai trovi sempre qualcuno che ti
 BOI064	ti ti ti ti dà una pacca sulla spalla e ti dice vieni con me andiamo a far serata
 BOI064	piuttosto del banalmente ho visto anche
@@ -278,8 +276,8 @@ BOI064	c'è c'è un'aria diversissima qua
 BOI064	poi una cosa
 BOI064	bella di bologna che è a misura d'uomo
 BOI064	io gli ultimi anni li ho vissuti a ravenna prima di venir qua
-BOR020	e ravenna è una città troppo grande per la per la sua infrastruttura di di spostamenti
-BOI064	ah
+BOI064	e ravenna è una città troppo grande per la per la sua infrastruttura di di spostamenti
+BOR020	ah
 BOI064	da dove vengo io passavano gli autobus una una volta ogni ora
 BOI064	se andava bene
 BOI064	e essermi trasferito
@@ -294,19 +292,18 @@ BOI064	e
 BOI064	parlare dei parlare dei mezzi pubblici è sciocco piuttosto che poco interessante questo
 BOI064	posso benissimo saperlo però
 BOI064	certe volte m~ magari bisogna un po' distaccarsi dalle classiche novelle fa fiabesche de de de
-BOR020	dei luoghi raccontati da chissà chi e un po' più fermarci sui dati di fatto
+BOI064	dei luoghi raccontati da chissà chi e un po' più fermarci sui dati di fatto
 BOR020	beh ma
-BOI064	penso che ogni tanto anche l'autobus è un luogo
-BOR020	è un luogo magico è un luogo magico
-BOI064	di fiaba
+BOR020	penso che ogni tanto anche l'autobus è un luogo
+BOI064	è un luogo magico è un luogo magico
+BOR020	di fiaba
 BOI064	allora vogliamo parlare del sessantadue
 BOI064	il sessantadue a bologna insieme al sessantuno sono le due linee notturne
 BOI064	sono due linee che indicativamente partono dalle due del mattino e finiscono all'incirca verso le sei dove poi iniziano
 BOI064	le le le linee diurne
 BOI064	il sessantuno è indirizzato all'incirca verso bolognina
 BOI064	da quanto ho capito non sono mai stato un gran
-BOR020	fan del sessantuno non ho mai avuto necessità di doverlo prendere
-BOI064	
+BOI064	fan del sessantuno non ho mai avuto necessità di doverlo prendere
 BOI064	ma bensì il sessantadue è il mio regno
 BOI064	il sessantadue
 BOI064	e è un posto magico
@@ -319,8 +316,8 @@ BOI064	come potre~ borghese
 BOI064	vedere su un autobus persone che dormono
 BOI064	può sembrare
 BOI064	può essere sintomo come il sinonimo di squallore
-BOR020	per me no per me per me è semplic~ anzi forse è una prova del fatto che c'è una fiducia una fiducia di fondo
-BOI064	certo
+BOI064	per me no per me per me è semplic~ anzi forse è una prova del fatto che c'è una fiducia una fiducia di fondo
+BOR020	certo
 BOI064	un forse anche del menefreghismo
 BOI064	ma romanticizzando un po' xx romanticizzandoci un po' sopra
 BOI064	banalmente anche un po' di fiducia dove tu ti lasci
@@ -342,8 +339,7 @@ BOI064	e ogni volta che riesco a trovarla sveglia sono
 BOI064	incuriosito sempre di più dal fatto
 BOI064	della sua storia
 BOI064	perché ogni volta che tu ti avvicini a lei e lei sta parlando anche incon~ anche
-BOR020	come dire in modo nascosto riesci a sentire ciò che sta dicendo piano piano la stagione prosegue
-BOI064	
+BOI064	come dire in modo nascosto riesci a sentire ciò che sta dicendo piano piano la stagione prosegue
 BOI064	e si aggiungono nuovi episodi
 BOI064	ehm
 BOI064	da due anni che sono qua non conosco ancora il suo nome ma conosco gran parte della sua vita più di quanto lei pensi che io conosca
@@ -352,24 +348,24 @@ BOI064	questo
 BOI064	come magari
 BOI064	sarebbe anche carino parlare di
 BOI064	certi luoghi di ritrovo
-BOR020	tipo bombocrep
-BOI064	certo certo assolutamente sarebbe stata infatti la mia
-BOR020	bombocrep
-BOI064	la mia prossima domanda
-BOR020	ci sono dei luoghi di ritrovo
+BOI064	tipo bombocrep
+BOR020	certo certo assolutamente sarebbe stata infatti la mia
+BOI064	bombocrep
+BOR020	la mia prossima domanda
+BOI064	ci sono dei luoghi di ritrovo
 BOR020	anche perché
 BOR020	f~ un po' mi immagino che siano diversi da quelli studenteschi ma
 BOR020	data la tua età
-BOI064	probabilmente non troppo
-BOR020	no xx an~
-BOI064	non troppo diversi ecco
-BOR020	eh qui ritorniamo al discorso
-BOI064	sicuramente diversi forse dai bolognesi di nascita nel senso che
+BOR020	probabilmente non troppo
+BOI064	no xx an~
+BOR020	non troppo diversi ecco
+BOI064	eh qui ritorniamo al discorso
+BOR020	sicuramente diversi forse dai bolognesi di nascita nel senso che
 BOI064	ah
-BOR020	sì
-BOI064	non so quanti bolognesi anche tu conosci
-BOR020	allora mh ti dirò la verità i bolognesi
-BOI064	ma insomma
+BOI064	sì
+BOR020	non so quanti bolognesi anche tu conosci
+BOI064	allora mh ti dirò la verità i bolognesi
+BOR020	ma insomma
 BOI064	è una
 BOI064	so sono estro~
 BOI064	estremamente sincero
@@ -381,8 +377,8 @@ BOI064	ma perché è così
 BOI064	non vedono le persone
 BOI064	magari come i ragazzi fuorisede come qualcosa di
 BOI064	che che rimarranno nel tempo
-BOR020	nella città vedono come un mh momento di passaggio
-BOI064	certo
+BOI064	nella città vedono come un mh momento di passaggio
+BOR020	certo
 BOI064	e questo crea un netto distacco
 BOI064	perché i fuorisede tra loro si ritrovano
 BOI064	io parlo dei fuorisede perché
@@ -398,8 +394,8 @@ BOI064	e non
 BOI064	lavorat~ non da lavoratore
 BOI064	i luoghi di ritrovo
 BOI064	invece a contrario di tutto ciò che ho appena detto è un luogo di ritrovo per tutti
-BOR020	ad esempio io non sono un fan io non sono fan di bombocrep
-BOI064	bombocrep
+BOI064	ad esempio io non sono un fan io non sono fan di bombocrep
+BOR020	bombocrep
 BOI064	io non sono fan di bombocrep io sono fan di zamboni tre
 BOI064	zamboni tre è una è un
 BOI064	forno
@@ -421,24 +417,24 @@ BOI064	sono eventi più unici che rari
 BOI064	allora
 BOI064	avrei il piacere di raccontare determinati aneddoti
 BOI064	che
-BOR020	che ho che ho avuto che che ho avuto piacere di
-BOI064	siamo felici di ascoltare
+BOI064	che ho che ho avuto che che ho avuto piacere di
+BOR020	siamo felici di ascoltare
 BOI064	di vivere qui a bologna
 BOI064	allora
 BOI064	una sera
 BOI064	ero
 BOI064	vagante in mezzo alle alle vie di
-BOR020	di questa bologna calda perché era estate tral'altro era estate
-BOI064	allora caldissima
+BOI064	di questa bologna calda perché era estate tral'altro era estate
+BOR020	allora caldissima
 BOI064	caldissima caldissima che non si respirava
 BOI064	e al che siamo arrivati io e i miei amici in un vicoletto
 BOI064	in un vicoletto poco poco po~ lontano poco più lontano da
 BOI064	mh
 BOI064	da petroni
-BOR020	petroni che una in realtà è una zona molto trafficata d'est~ di sera
-BOI064	mhmh
-BOR020	specialmente d'estate mol~ ma comunque molto trafficata tutto
-BOI064	sempre
+BOI064	petroni che una in realtà è una zona molto trafficata d'est~ di sera
+BOR020	mhmh
+BOI064	specialmente d'estate mol~ ma comunque molto trafficata tutto
+BOR020	sempre
 BOI064	tutto l'anno worldwide
 BOI064	e ci siamo infilati in questo baretto
 BOI064	io e i miei tre amici
@@ -447,45 +443,40 @@ BOI064	e a un certo punto
 BOI064	il barista
 BOI064	che era lì a a servire i clienti eravamo essenzialmente in dieci se andava bene eravamo in dieci
 BOI064	dopo mh mezzoretta si è svuotato siam rimasti noi quattro e qualche altro cliente forse arrivavamo sì e no a sei sette
-BOR020	il barista decide di bere più di tutti
-BOI064	
+BOI064	il barista decide di bere più di tutti
 BOI064	e si ubriaca al punto
 BOI064	che inizia a diventare il matto del locale
-BOR020	il barista proprietario
-BOI064	
+BOI064	il barista proprietario
 BOI064	e noi clienti ancor più distrutti di lui
 BOI064	abbiamo dovuto reggere lui
-BOR020	affinché non d~ non devastasse il suo stesso bar
-BOR020	
-BOI064	bellissimo
+BOI064	affinché non d~ non devastasse il suo stesso bar
+BOR020	bellissimo
 BOI064	ed è stato un momento magico perché eravamo noi quattro i miei amici distrutti
 BOI064	che non capivamo nemmeno come ci stessimo chiamando
 BOI064	con altre due persone
 BOI064	che non conoscevamo a reggere questo signore di buon cinquanta sessant'anni
 BOI064	matto come un cavallo
-BOR020	fai un salto in avanti così nel nel lasso temporale e alla fine abbiam dovuto chiudere noi il locale
-BOR020	
-BOI064	oddio
+BOI064	fai un salto in avanti così nel nel lasso temporale e alla fine abbiam dovuto chiudere noi il locale
+BOR020	oddio
 BOI064	abbiam dovuto chiudere noi il locale
 BOI064	perché
 BOI064	il signore n~ era troppo alticcio lo abbiamo fatto sedere su una sedia
-BOR020	abbiamo chiuso noi le luci tutto quanto sotto sue direttive ovviamente però le abbiamo dovute chiudere noi con tanto di tappa~ tapparelle e lucchetto
+BOI064	abbiamo chiuso noi le luci tutto quanto sotto sue direttive ovviamente però le abbiamo dovute chiudere noi con tanto di tappa~ tapparelle e lucchetto
 BOR020	certo
-BOI064	
 BOI064	poi abbiamo lasciato le chiavi in mano al proprietario e ce ne siamo andati
 BOI064	ma questa come
 BOI064	dirò la verità allora di di storie ne ho ma sono
 BOI064	sono abbastanza
-BOR020	eh come si può dire
-BOI064	borderline
+BOI064	eh come si può dire
+BOR020	borderline
 BOI064	eh borderline è una parola sì forse una delle parole più giuste
 BOI064	quasi
 BOI064	le definirei particolari particola~ degli incontri fortuiti
 BOI064	allora
 BOI064	ah piccola parentesi la cosa più bella di bologna è la pagina instagram scritte ignoranti a bologna
-BOR020	eh è il succo è la linfa vitale di questo posto ah
+BOI064	eh è il succo è la linfa vitale di questo posto ah
 BOR020	certo
-BOI064	certo
+BOR020	certo
 BOI064	parliamo appunto del fatto che tu potrai camminare per la strada della città
 BOI064	a tarda sera
 BOI064	e se tu in casa arrivi a bologna che non hai
@@ -497,24 +488,24 @@ BOI064	nelle vie troverai tutto il mobilio che ti serve
 BOI064	troverai dalle
 BOI064	doghe per il letto a materassi mobili frighi
 BOI064	ehm forni
-BOR020	non hai qualcosa lo puoi trovare lì senza alcun problema e tante volte funzionano
-BOI064	ho visto anche le pentole recentemente
+BOI064	non hai qualcosa lo puoi trovare lì senza alcun problema e tante volte funzionano
+BOR020	ho visto anche le pentole recentemente
 BOI064	le pentole ehm di tutto e di più quadri eh
 BOI064	una sera stavo tornando a casa
 BOI064	ero distrutto eh di nuovo
 BOI064	eh sembra sembra che son sempre distrutto ho avuto una vita abbastanza interessante negli ultimi due anni
 BOI064	ehm ho visto un frigo
-BOR020	e non so perché avevo sentito un collegamento strano tra me e questo frigo
-BOI064	dovevi prenderlo
-BOR020	no non l'ho preso ma bensì è diventato il mio migliore amico e sono stato lì di fianco a lui per mezz'ora
-BOI064	no
+BOI064	e non so perché avevo sentito un collegamento strano tra me e questo frigo
+BOR020	dovevi prenderlo
+BOI064	no non l'ho preso ma bensì è diventato il mio migliore amico e sono stato lì di fianco a lui per mezz'ora
+BOR020	no
 BOI064	e ho parlato col frigo
 BOI064	e non ero drogato ero semplicemente ubriaco però ho parlato col frigo
 BOI064	e sono rimasto lì a parlare col frigo per mezz'ora buona
 BOI064	poi è arrivato un altro più p~ messo peggio di me
-BOR020	abbiamo parlato col frigo tutti e tre insieme non ci rispondeva ce ne siamo andati
+BOI064	abbiamo parlato col frigo tutti e tre insieme non ci rispondeva ce ne siamo andati
 BOR020	eh certo
-BOI064	funziona così quando non
+BOR020	funziona così quando non
 BOI064	però è una una bella storia una bella storia anche bella da sentire
 BOI064	tanta umanità
 BOI064	tanta umanità vedo
@@ -535,8 +526,8 @@ BOI064	ehm
 BOI064	c'è stato questo piccolo momento dove la prendevam sempre insieme
 BOI064	perché io uscivo dal corso e lei tornava a casa a quanto pare
 BOI064	e ogni giorno io sapevo che usciva dalla xx e doveva andare a de~
-BOR020	a farla salire sull'autobus ma non come un peso era quasi diventata una routine come annaffiare le piante
-BOI064	certo
+BOI064	a farla salire sull'autobus ma non come un peso era quasi diventata una routine come annaffiare le piante
+BOR020	certo
 BOI064	ed è bello perché eravamo sempre io e chiunque altro una volta era un signore magari del
 BOI064	bangladesh la volta dopo era una studentessa la volta dopo era una ragazza appena arrivata dalla cina
 BOI064	si creava sempre questo momento di unione tra me e una signora che
@@ -551,27 +542,27 @@ BOI064	anc~ lei lo disse in prima lo disse in persona il fatto che
 BOI064	nonostante lei si poteva permettere qualsiasi cosa
 BOI064	e non volesse l'accompagnatore
 BOI064	lo esigeva che non voleva l'accompa~ perché comunque era abbastanza indipendente per quanto fosse difficile
-BOR020	nonostante avesse tutto il denaro che di cui aveva necessità non aveva la libertà fisica e motoria che chiunque altro giova
-BOI064	sì è vero questa è una cosa che si percepisce molto
-BOR020	eh sì uno stacco economico tra le persone
+BOI064	nonostante avesse tutto il denaro che di cui aveva necessità non aveva la libertà fisica e motoria che chiunque altro giova
+BOR020	sì è vero questa è una cosa che si percepisce molto
+BOI064	eh sì uno stacco economico tra le persone
 BOR020	sì moltissimo in realtà anche
-BOI064	non lo so anche banalmente da fuorisede si vede molto anche
-BOR020	sì sì lo stacco della quotidianità tra le persone
+BOR020	non lo so anche banalmente da fuorisede si vede molto anche
+BOI064	sì sì lo stacco della quotidianità tra le persone
 BOR020	sì molto
-BOI064	molto molto
-BOR020	ma si crea quasi una sorta di sobborgo tra i fuorisede
+BOR020	molto molto
+BOI064	ma si crea quasi una sorta di sobborgo tra i fuorisede
 BOR020	sì
-BOI064	no ma anche
-BOR020	un filo comune
+BOR020	no ma anche
+BOI064	un filo comune
 BOR020	sì sì assolutamente
 BOR020	che però si lega poi ai bolognesi
-BOI064	inevitabilmente diciamo
+BOR020	inevitabilmente diciamo
 BOI064	eh
 BOI064	sì sì abbastanza però vien difficile perché i bolognesi vogliono far la nostra vita
 BOI064	mentre noi siamo obbligati a farla la nostra vita
 BOI064	eh abbastanza difficile
-BOR020	però non è che sia difficile
-BOI064	hai hai qualche collega bolognese
+BOI064	però non è che sia difficile
+BOR020	hai hai qualche collega bolognese
 BOI064	sì il titolare
 BOI064	la mia titolare è pura bolognese purosangue
 BOI064	purosangue
@@ -587,26 +578,25 @@ BOI064	mh che respira la mh
 BOI064	la la bologna bene
 BOI064	mi vien da dire così
 BOI064	se lei deve andare a mangiar fuori non le verrebbe mai in mente di andare in qualche fast food piuttosto che lo zamboni tre
-BOR020	bensì lei va in qualche ristorantino
-BOI064	certo
+BOI064	bensì lei va in qualche ristorantino
+BOR020	certo
 BOI064	sotto qualche po~ sotto qualche porticato
 BOI064	e non assolutamente e anzi
-BOR020	non è mica una cosa negativa assolutamente sono solo due stili di vita completamente diversi
+BOI064	non è mica una cosa negativa assolutamente sono solo due stili di vita completamente diversi
 BOR020	certo certo no è una grande differenza
-BOI064	ma di stile di vita banalmente
-BOR020	sì
-BOI064	probabilmente anche un nativo bolognese la vive molto diversamente ecco
-BOR020	sì esatto esatto
+BOR020	ma di stile di vita banalmente
+BOI064	sì
+BOR020	probabilmente anche un nativo bolognese la vive molto diversamente ecco
+BOI064	sì esatto esatto
 BOR020	penso anche un giovane in realtà bolognese ma comunque vabbè al di là di questo
 BOR020	volevo poi chiederti anche come
 BOR020	non so contorni la tua vita da lavoratore al di là
-BOI064	della serata
-BOR020	è impegnativissimo orribile
-BOI064	durante la settimana
+BOR020	della serata
+BOI064	è impegnativissimo orribile
+BOR020	durante la settimana
 BOI064	orribile no allora
 BOI064	ehm
-BOR020	quello che non ti dicono quando sei ragazzino qua~ prima di crescere è che il cibo non nasce nel frigo
-BOI064	
+BOI064	quello che non ti dicono quando sei ragazzino qua~ prima di crescere è che il cibo non nasce nel frigo
 BOI064	i la~ i vestiti non nascono puliti
 BOI064	una volta che li la~ li lasci nel secchio
 BOI064	allora pratical~ praticamente la mia la mia quotidianità è
@@ -632,35 +622,34 @@ BOI064	ho comprato una tela bianca e mi sono messo a disegnare una tela perché 
 BOI064	e dato che sono un grafico
 BOI064	a volte mi mh sull'autobus mi nasce un'idea
 BOI064	e dico beh
-BOR020	voglio fare non lo so una bottiglia dalla quale esce del mare con del tartufo
-BOI064	
+BOI064	voglio fare non lo so una bottiglia dalla quale esce del mare con del tartufo
 BOI064	e infatti quando torno a casa farò una bottiglia che esce del mare con tartufo
 BOI064	in linea di massima quello che faccio ieri quello che ho fatto ieri non è quello che farò domani
 BOI064	son fatto così non ho una routine a parte il mio lavoro non ho una routine
 BOI064	ho vivo molto al momento vivo molto alla giornata dico la verità
-BOR020	sotto quel punto di vista invece magari sotto un punto di vista un po' più incravattato
-BOI064	mh
+BOI064	sotto quel punto di vista invece magari sotto un punto di vista un po' più incravattato
+BOR020	mh
 BOI064	eh no lì sono molto più rigido verso me stesso dico la verità
 BOI064	son dipendente dal caffè
-BOR020	classico lavoratore ventenne classico
-BOI064	classico lavoratore
-BOR020	te l'hai mai fatto il ca~ il caffè dello studente
+BOI064	classico lavoratore ventenne classico
+BOR020	classico lavoratore
+BOI064	te l'hai mai fatto il ca~ il caffè dello studente
 BOR020	è fo~
-BOI064	n~ no
-BOR020	sai cos'è
-BOI064	no non lo so cos'è
+BOR020	n~ no
+BOI064	sai cos'è
+BOR020	no non lo so cos'è
 BOI064	allora il caffè dello studente consiste
 BOI064	dove tu prendi la moka
 BOI064	fai il caffè
 BOI064	e con il caffè
-BOR020	lo reinserisci nel serbatoio dell'acqua dopodiché fai un altro caffè
+BOI064	lo reinserisci nel serbatoio dell'acqua dopodiché fai un altro caffè
 BOR020	ah
-BOI064	il doppio caffè
+BOR020	il doppio caffè
 BOI064	il doppio caffè
 BOI064	ed è il caffè dello studente che ti dovrebbe dare una botta in più di
 BOI064	quella che è caffeina e carica
-BOR020	che in realtà non è vero
-BOI064	esplode il cuore
+BOI064	che in realtà non è vero
+BOR020	esplode il cuore
 BOI064	no non è tanto quello a un'ora e mezza dal da appena ti sei svegliato per un'ora e mezzo cioè praticamente ti ha fatto svegliarti tenere sveglio il corti~ il cortisolo
 BOI064	il cortisolo
 BOI064	non vorrei dire una cazzata
@@ -675,12 +664,12 @@ BOI064	per forza
 BOI064	perché altrimenti tu lo bevi ed è come bere acqua
 BOI064	il tuo corpo anzi lo sente in modo negativo ma tu no
 BOI064	quindi sei sempre addormentata hai hai la tachicardia e sei addormentata
-BOR020	e così è
-BOI064	non lo sapevo
-BOR020	bologna
-BOI064	non lo conoscevo
-BOR020	bologna bologna a bologna
-BOI064	l'hai imparato qui
+BOI064	e così è
+BOR020	non lo sapevo
+BOI064	bologna
+BOR020	non lo conoscevo
+BOI064	bologna bologna a bologna
+BOR020	l'hai imparato qui
 BOI064	s~ l'ho imparato sì quì sì una volta a casa di una ra~ eh un ragazzo
 BOI064	mh mi fece vedere questa cosa e io rimasi abbastanza male eh una cosa anche no interessante di bologna è che non sai mai quello che succede l'altra sera
 BOI064	l'altro giorno scusami stavo scendendo in centro appunto xx per andare a lavorare
@@ -691,8 +680,8 @@ BOI064	tutta in movimento
 BOI064	e fa ridere perché
 BOI064	dei palazzi sono cioè delle
 BOI064	delle costruzioni sono ferme qua da
-BOR020	centinaia di anni
-BOI064	sì al cinema in ce~
+BOI064	centinaia di anni
+BOR020	sì al cinema in ce~
 BOI064	rurali ruralissime e comunque non sai mai cosa sta per acca~
 BOI064	poi ho un'altra cosa bellissima da dire di bologna
 BOI064	che ehm
@@ -702,17 +691,17 @@ BOI064	i due giorni del weekend dove
 BOI064	il comune decide di
 BOI064	chiudere le strade principali di bologna
 BOI064	che sono via indipendenza e via rizzoli con ugo bassi
-BOR020	eh
-BOI064	che
-BOR020	al
-BOI064	ho scoperto che si chiama t days perché formano una t
+BOI064	eh
+BOR020	che
+BOI064	al
+BOR020	ho scoperto che si chiama t days perché formano una t
 BOI064	perché è una t
 BOI064	è una t perché è una e si chiamano t days perché è una t
-BOR020	e questo non è mansplaining però
-BOI064	no non è mansplaining
+BOI064	e questo non è mansplaining però
+BOR020	no non è mansplaining
 BOI064	non è mansplaining
-BOR020	e
-BOI064	però è un fun fact
+BOI064	e
+BOR020	però è un fun fact
 BOI064	è un fun fact e anche un altro piccolo fun fact imparerete
 BOI064	tantissime
 BOI064	nuove novità
@@ -723,29 +712,28 @@ BOI064	in un modo assurdo bologna sì è una ce~ perché proprio come ho detto p
 BOI064	è una città completamente in evoluzione quindi
 BOI064	qual~ mh la la qualunque
 BOI064	novità arriva prima qua che altrove
-BOR020	è impossibile da da negare
-BOI064	mh
+BOI064	è impossibile da da negare
+BOR020	mh
 BOI064	e dà spazio a tutti
 BOI064	e quindi questi t days è bellissimo perché durante il fine settimana incontri un sacco di artisti di strada
 BOI064	incontri persone che fanno
 BOI064	eh ad esempio mi sembra che settimana scorsa ci fosse stata una ragazza
 BOI064	che stava facendo un mandala
-BOR020	un mandala mi sembra con della sabbia colorata
-BOI064	ah
+BOI064	un mandala mi sembra con della sabbia colorata
+BOR020	ah
 BOI064	sì meraviglioso del riso non me lo ricordo fatto sta che non è la classico la scultura del cane con la sabbia finta fintissima che vedi
 BOI064	in chi qualunque altra città no no qua sono veri e propri artisti
-BOR020	è una città artistica bologna
-BOI064	sì è vero da anche spazio
+BOI064	è una città artistica bologna
+BOR020	sì è vero da anche spazio
 BOI064	poi è piena di
-BOR020	è piena di segreti
-BOI064	di segreti oltre i sette che co~ che conoscono i turisti insomma
+BOI064	è piena di segreti
+BOR020	di segreti oltre i sette che co~ che conoscono i turisti insomma
 BOI064	oltre i sette sì eh
-BOR020	yeah tutti gli altri che faccio ve li darò io ve li darò io in primo piano
-BOR020	
-BOI064	ehm e invece per i tuoi amici chi sono i tuoi amici da dove dove vengono che fa~ non lo so che fate
+BOI064	yeah tutti gli altri che faccio ve li darò io ve li darò io in primo piano
+BOR020	ehm e invece per i tuoi amici chi sono i tuoi amici da dove dove vengono che fa~ non lo so che fate
 BOI064	qualunque
-BOR020	qualunque qualunque perché
-BOI064	hai un gruppo
+BOI064	qualunque qualunque perché
+BOR020	hai un gruppo
 BOI064	eh questo no
 BOI064	questo no
 BOI064	perché solitamente è
@@ -765,8 +753,8 @@ BOI064	di mare che non vuole sapere niente del mondo
 BOI064	e invece tantissimi altri bolognesi sono apertissimi una la prima persona che io conobbi qui
 BOI064	con la quale costruii un rapporto è un ragazzo della mia zona
 BOI064	che vicino al al parco della lunetta
-BOR020	è un ragazzo
-BOI064	bello bellissimo il parco della lunetta
+BOI064	è un ragazzo
+BOR020	bello bellissimo il parco della lunetta
 BOI064	bellissimo con tra l'altro c'ha anche i tubi quindi se ti vuoi allenare per fare corpo libero è perfetto
 BOI064	all'inizio mi ero preso bene con questa cosa
 BOI064	poi ho smesso
@@ -782,11 +770,11 @@ BOI064	ti trovi persone così
 BOI064	trovi persone così di cuo~ ti trovi persone aperte
 BOI064	e
 BOI064	però devi saper sempre tu trovare
-BOR020	trovare un po'
-BOI064	sì
+BOI064	trovare un po'
+BOR020	sì
 BOI064	l'oro in mezzo al fango
-BOR020	diamanti in mezzo alla pietra
-BOI064	certo un po' di laboriosità da solo ce la devi avere certo
+BOI064	diamanti in mezzo alla pietra
+BOR020	certo un po' di laboriosità da solo ce la devi avere certo
 BOI064	piccolo interesse
 BOI064	voi potete andare in qualunque casa
 BOI064	di qualche fuorisede troverete
@@ -794,10 +782,10 @@ BOI064	cose c~
 BOI064	nella qua~ della noi della quale non avete mai visto in vita pro~ in vita vostra
 BOI064	allora io come ho già detto
 BOI064	ad attualmente sto lavorando
-BOR020	perciò dovrei aver perso la qualif~ la qualifica da fuorisede
-BOI064	l'hai persa
-BOR020	l'ho persa dovrei
-BOI064	l'hai persa
+BOI064	perciò dovrei aver perso la qualif~ la qualifica da fuorisede
+BOR020	l'hai persa
+BOI064	l'ho persa dovrei
+BOR020	l'hai persa
 BOI064	dovrei dovrei ma io no~ io non la perderò mai la terrò sempre con me
 BOI064	ehm
 BOI064	e io mi metto in primo piano
@@ -816,27 +804,27 @@ BOI064	puoi andare in c~ cioè una volta che entri in casa di qualche ragazzo
 BOI064	c'è un museo della cartellonistica stradale della s~ della segnaletica stradale una cosa incredibile ragazzi
 BOI064	e tutto questo non è una cosa negativa è una cosa positiva anche se vabbè
 BOI064	possiam chiamarlo vandalismo
-BOR020	non è vandalismo perché comunque
-BOI064	forse un po'
-BOR020	ma no in linea di ma~ cioè sì e no e sai co~ sai come si dice è è illegale se ti trovano
-BOI064	certo
+BOI064	non è vandalismo perché comunque
+BOR020	forse un po'
+BOI064	ma no in linea di ma~ cioè sì e no e sai co~ sai come si dice è è illegale se ti trovano
+BOR020	certo
 BOI064	è illegale se ti beccano se non ti beccano
 BOI064	habibi everything fine
-BOR020	hai visto quel video
-BOI064	no
+BOI064	hai visto quel video
+BOR020	no
 BOI064	cazzo devo fartelo vedere dopo
 BOI064	legal
 BOI064	when police is there
 BOI064	police not there
-BOR020	habibi everything fine
-BOI064	no non lo conosco
+BOI064	habibi everything fine
+BOR020	no non lo conosco
 BOI064	imparerete tanto l'inglese perché
 BOI064	qua viene chiunque
 BOI064	una sera mi misi
 BOI064	allora
 BOI064	ehm
-BOR020	non so se si può parlare di
-BOI064	puoi parlare di quello che vuoi
+BOI064	non so se si può parlare di
+BOR020	puoi parlare di quello che vuoi
 BOI064	allora sta mh c'è un sacco di ganja qua a bologna c'è un sacco di erba
 BOI064	ma non da un punto di vista negativo come per dire
 BOI064	piazza di spaccio
@@ -866,18 +854,17 @@ BOI064	ricordiamo gli anni novanta mi sembra
 BOI064	con la
 BOI064	con la grandissima ondata di eroina
 BOI064	che c'è stata non vorrei dire una cazzata
-BOR020	mi sembra di sì mi sembra anni novanta ottanta
-BOI064	sai forse più di me
+BOI064	mi sembra di sì mi sembra anni novanta ottanta
+BOR020	sai forse più di me
 BOI064	durante
-BOR020	durante le brigate rosse anche è arrivata un'ondata assurda
-BOI064	sicuramente
+BOI064	durante le brigate rosse anche è arrivata un'ondata assurda
+BOR020	sicuramente
 BOI064	ehm
 BOI064	vabbè anni di piombo
 BOI064	hitler
-BOR020	allora
-BOI064	
-BOR020	parole a caso
-BOI064	stiamo
+BOI064	allora
+BOI064	parole a caso
+BOR020	stiamo
 BOI064	parole a caso
 BOI064	ehm
 BOI064	ho fatto amicizia con un ragazzo di new york
@@ -892,8 +879,8 @@ BOI064	non lo andremo a dire
 BOI064	però eravamo in centro
 BOI064	generalmente
 BOI064	e una volta che abbiamo reperito la zaza come la chiamava lui la chiamava la zaza
-BOR020	gli americani la chiamano zaza
-BOI064	ah
+BOI064	gli americani la chiamano zaza
+BOR020	ah
 BOI064	zaza
 BOI064	ehm
 BOI064	troviamo la cartina troviam questo poi abbiamo fatto amicizia con un ragazzo nigeriano
@@ -905,47 +892,45 @@ BOI064	del
 BOI064	del del nord estremo tipo ucraina polonia giù di lì insomma
 BOI064	e anche loro si sono uniti perché volevan fumare però eran dei degli scoppiati
 BOI064	un casino e alla fine io mi son proposto per rollar~ di rollare per tutti
-BOR020	e quella sera tutte quelle persone sono tornate a casa tutte contente
-BOI064	
+BOI064	e quella sera tutte quelle persone sono tornate a casa tutte contente
 BOI064	con i loro cannoni
 BOI064	eh
 BOI064	cioè io dalla liguria di origine albanese tra l'altro perché sono
 BOI064	cioè c~
 BOI064	che viaggio st~ cioè
-BOR020	che viaggio
-BOI064	sì sì certo ti dici
-BOR020	sì
-BOI064	cavolo sono qui
+BOI064	che viaggio
+BOR020	sì sì certo ti dici
+BOI064	sì
+BOR020	cavolo sono qui
 BOI064	che ca~ non ha senso non ha senso non ha senso questa città
 BOI064	ma è bella perché è così
 BOI064	no vabbè è bellissima cioè ci sono un sacco di monumenti i colli
-BOR020	l~ eh la skyline con con la moto
+BOI064	l~ eh la skyline con con la moto
 BOR020	eh infatti anche quello ti volevo chiedere
-BOI064	ehm hai la macchina qui
-BOR020	sì ho la macchina
+BOR020	ehm hai la macchina qui
+BOI064	sì ho la macchina
 BOR020	ah cavolo quindi
-BOI064	puoi effettivamente anche spostarti
+BOR020	puoi effettivamente anche spostarti
 BOI064	ho
 BOI064	ho una libertà ho una
-BOR020	sì in effetti sì in realtà no è la città peggiore per la macchina
-BOI064	io ci credo che sia
+BOI064	sì in effetti sì in realtà no è la città peggiore per la macchina
+BOR020	io ci credo che sia
 BOI064	perché perché non puoi portarla in centro non puoi portarla in centro e se la porti devi stare attentissimo primo giorno di bologna ho preso cento euro di multa perché la segnaletica della stazione è una merda
-BOR020	e mi sono inf~ e mi sono infilato nall'area dei bus ho fatto un casino
-BOI064	benvenuto
+BOI064	e mi sono inf~ e mi sono infilato nall'area dei bus ho fatto un casino
+BOR020	benvenuto
 BOI064	e mi sono preso cento euro di multa
 BOI064	ehm la macchina comoda
-BOR020	comodissima però non è così essenziale perché
-BOI064	no da lavoratore magari non troppo
-BOR020	mh no anzi no in realtà sì dovrebbe cioè dipende che lavoro fai se io lavorassi in qualche fabbrica a a borgo panigale
-BOI064	eh certo
+BOI064	comodissima però non è così essenziale perché
+BOR020	no da lavoratore magari non troppo
+BOI064	mh no anzi no in realtà sì dovrebbe cioè dipende che lavoro fai se io lavorassi in qualche fabbrica a a borgo panigale
+BOR020	eh certo
 BOI064	so~ sarei quasi obbligato ad aver la macchina
 BOI064	se non facilitato ad averla ecco
 BOI064	invece fortunatamente abito in c~ eh lavoro in centro come ho già detto prima i mezzi pubblici
 BOI064	sono una manna dal cielo per quanto eh allora oggettivamente i controlli dei mezzi pubblici fanno schifo e devono farci qualcosa a riguardo perché sono ingestibili
 BOI064	non è possibile che i controllori salgano chiedano
 BOI064	il biglietto a cinque persone e trenta scendono e quello che non ce l'ha poi deve pagare per tutti non ha alcun senso se u~ se vogliono farlo devono farlo bene altrimenti che non lo facciano
-BOR020	okay piccola piccolo sfogo
-BOI064	
+BOI064	okay piccola piccolo sfogo
 BOI064	e
 BOI064	è bellissimo
 BOI064	ehm
@@ -958,19 +943,18 @@ BOI064	pericolosa dal punto di vista è è molto
 BOI064	mh
 BOI064	attiva
 BOI064	se sei neopatentato e non hai mai fatto un
-BOR020	un giro con i mh strade con tre corsie e novanta macchine
-BOI064	beh sì
-BOR020	è parti~ è un battesimo di fuoco non indifferente
-BOI064	immagino sui viali
+BOI064	un giro con i mh strade con tre corsie e novanta macchine
+BOR020	beh sì
+BOI064	è parti~ è un battesimo di fuoco non indifferente
+BOR020	immagino sui viali
 BOI064	ma xx
-BOR020	come si eh si dice spesso eh minchia no non tanto sui viali nelle rotonde ad esempio c'è una rotonda vicino casa mia quella dell'esselunga
-BOI064	ah pensavo di sì
+BOI064	come si eh si dice spesso eh minchia no non tanto sui viali nelle rotonde ad esempio c'è una rotonda vicino casa mia quella dell'esselunga
+BOR020	ah pensavo di sì
 BOI064	che mh
 BOI064	è mh
 BOI064	nonché è la prima rotonda che tu vedi una volta sei uscito dalla tangenziale per andare nella mia zona
 BOI064	piccola parentesi io vengo da ravenna è la mia uscita per andare a casa
-BOR020	si chiama ravenna
-BOI064	
+BOI064	si chiama ravenna
 BOI064	quindi non posso sbagliarmi
 BOI064	eh in o~ proprio oggi ho avuto delle difficoltà
 BOI064	la gente non sa guidare ma tutti convivono in questo modo
@@ -979,9 +963,9 @@ BOI064	la gente non sa guidare dovrebbe fare incidenti ma non li fa
 BOI064	e ti dico ehm
 BOI064	no non ne val la pena
 BOI064	io ho la macchina perché come ho già detto ho necessità di spostarmi
-BOR020	ogni settima~ ogni settimana io se non vado da qualche parte xxx per forza da qualche altra parte non sto mai qua
+BOI064	ogni settima~ ogni settimana io se non vado da qualche parte xxx per forza da qualche altra parte non sto mai qua
 BOR020	per tornare a casa
-BOI064	mhmh
+BOR020	mhmh
 BOI064	non mi faccio un fine settimana a bologna da settimane
 BOI064	e ma per il resto è un po' fine a sè stessa
 BOI064	i bus ci sono e come hai detto tu prima fare amicizia di
@@ -992,48 +976,48 @@ BOI064	ca~ anzi ti dirò di più nell'ultimo periodo son
 BOI064	più i fuorisede che arrivano con la macchina di ragazzi ve~ g~
 BOI064	bolognesi che hanno
 BOI064	la macchina già qui
-BOR020	piccolo meme
+BOI064	piccolo meme
 BOR020	sì no immagino perché
 BOR020	cioè diventa è i~
-BOI064	oddio la vedo anche un po' strana comunque che il fuorsede c'abbia la macchina
-BOR020	eh sì
-BOI064	non non tanti c'hanno il parcheggio ad esempio
-BOR020	mi infatti su questo sono stato fortunatissimo la gente mi
+BOR020	oddio la vedo anche un po' strana comunque che il fuorsede c'abbia la macchina
+BOI064	eh sì
+BOR020	non non tanti c'hanno il parcheggio ad esempio
+BOI064	mi infatti su questo sono stato fortunatissimo la gente mi
 BOR020	xx sì
-BOI064	infatti sei molto fortunato
+BOR020	infatti sei molto fortunato
 BOI064	la gente mi blasta dove abito come ho già detto prima io abito in fossolo due madonne la gente me lo blasta perché dice che è una zona dimenticata da dio
 BOI064	regà io c'ho i parcheggi
 BOI064	c'ho il verde perché è pieno di parchi di fianco a casa mia
 BOI064	ho gli autobus
-BOR020	sto da dio
-BOI064	sì perché sei poco fuori le mura di fatto
-BOR020	oddio poco amò sono quasi sette chilometri
-BOI064	vabbè però
-BOR020	oddio quanti cazzo sono~
-BOI064	sono così tanti
-BOR020	cinque o sei chilometri
+BOI064	sto da dio
+BOR020	sì perché sei poco fuori le mura di fatto
+BOI064	oddio poco amò sono quasi sette chilometri
+BOR020	vabbè però
+BOI064	oddio quanti cazzo sono~
+BOR020	sono così tanti
+BOI064	cinque o sei chilometri
 BOR020	eh ci~
-BOI064	sì no è cinque
+BOR020	sì no è cinque
 BOI064	abbastanza abbastanza abbastanza
 BOI064	ehm
 BOI064	volevo dire una roba mi son dimenticato
-BOR020	ecco vol~ eh xx
-BOI064	vabbè comunque magari con la macchina sei andato sui colli no
-BOR020	mai
+BOI064	ecco vol~ eh xx
+BOR020	vabbè comunque magari con la macchina sei andato sui colli no
 BOI064	mai
-BOR020	mai stato sui colli xx
-BOI064	non sei mai stato sui colli
+BOR020	mai
+BOI064	mai stato sui colli xx
+BOR020	non sei mai stato sui colli
 BOI064	e tutti lo dicono tutti dicono che devi andare a san luca almeno una volta piccolo meme
 BOI064	io mi è venuta a trovar mia mamma
 BOI064	un po' di tempo fa
-BOR020	e io le dissi dai domani andiamo sui colli andiamo a vedere i colli andiamo a fare colazione sui colli io volevo dormire lei è andata da sola
-BOI064	no
+BOI064	e io le dissi dai domani andiamo sui colli andiamo a vedere i colli andiamo a fare colazione sui colli io volevo dormire lei è andata da sola
+BOR020	no
 BOI064	senza mai aver guidato a bologna
 BOI064	ha guidato da sola
 BOI064	vabbè sì che c'ha trent'anni di patente eh però ha guidato da sola per i
 BOI064	cazzi suoi su per i colli e mi son svegliato quando lei era già tornata
-BOR020	ma io son già sta~ xxxx
-BOI064	pessimo figlio
+BOI064	ma io son già sta~ xxxx
+BOR020	pessimo figlio
 BOI064	poi
 BOI064	molto eh ma son
 BOI064	era obbligatorio molto libertina la città
@@ -1070,18 +1054,18 @@ BOI064	preferisco cioè già se sono incauto ne devo pagar le conseguenze in un 
 BOI064	oggettivamente in un luogo dove non devo prendermi la vagonata di merda
 BOI064	perché è è l'ambiente sbagliato
 BOI064	questo è un ambiente giusto
-BOR020	e questo è uno dei suoi pro questo è uno dei suoi pro assolutamente
+BOI064	e questo è uno dei suoi pro questo è uno dei suoi pro assolutamente
 BOR020	ma e pensi che starai qui ancora per tanto tempo
-BOI064	ti ci ve~
+BOR020	ti ci ve~
 BOI064	eh questa
-BOR020	eh
-BOI064	non so vedi un po'
+BOI064	eh
+BOR020	non so vedi un po'
 BOI064	mi ci vedo qua a vivere
 BOI064	se mi ci vedo qua a vivere
-BOR020	xxx
+BOI064	xxx
 BOR020	oddio non è detto per sempre
 BOR020	per un
-BOI064	po' di anni
+BOR020	po' di anni
 BOI064	chi lo sa
 BOI064	io purtroppo non lo so devo vedere un po' quello che mi offrirà la vita
 BOI064	e quanto io voglia mordere dalla vita
@@ -1108,20 +1092,19 @@ BOI064	però dipende se non non mi vedo obbligato
 BOI064	non dico è la città giusta per me e per quello che sarò
 BOI064	adesso mi trovo bene
 BOI064	domani chi lo sa
-BOR020	magari crepo
-BOR020	
+BOI064	magari crepo
 BOR020	no certo da questo punto di vista immagino
 BOR020	anche se in realtà
 BOR020	penso che comunque abbia una cioè sia una città
 BOR020	che potenzialmente può offrirti anche al di là non lo so del
-BOI064	della vita da giovane diciamo secondo me è una città vivibile anche
-BOR020	mhmh
+BOR020	della vita da giovane diciamo secondo me è una città vivibile anche
+BOI064	mhmh
 BOR020	da adulto
 BOR020	sebbene non
-BOI064	tu non sia un adu~ non tu tu insomma ma
-BOR020	io sono io sono un super adulto
+BOR020	tu non sia un adu~ non tu tu insomma ma
+BOI064	io sono io sono un super adulto
 BOR020	un adult~
-BOI064	sei un super adulto
+BOR020	sei un super adulto
 BOI064	col cazzo
 BOI064	ho fatto un danno
 BOI064	ehm
@@ -1134,9 +1117,9 @@ BOI064	ben venga
 BOI064	io ad esempio non non lo so se mi vedo così
 BOI064	della serie io
 BOI064	vorrei sempre vivere poco fuori dalla città
-BOR020	per avere quel discorso che ho detto prima cioè che la grande città sia una scelta e non un obbligo
+BOI064	per avere quel discorso che ho detto prima cioè che la grande città sia una scelta e non un obbligo
 BOR020	sì sì
-BOI064	no no certo
+BOR020	no no certo
 BOI064	non voglio vivere in petroni con i miei bambini che dormono di un anno e quattro mesi per dirti per farti un esempio
 BOI064	e
 BOI064	e sotto fanno baldoria e non e non posso dormire domani devo andare a l~
@@ -1154,15 +1137,15 @@ BOI064	gli adulti
 BOI064	bologna
 BOI064	come accoglie i giovani
 BOI064	e questo credo che sia un dato di fatto
-BOR020	non accoglie gli gliu~ gli adulti quanto accoglie i giovani
+BOI064	non accoglie gli gliu~ gli adulti quanto accoglie i giovani
 BOR020	allora sì anch'io tendenzialmente
 BOR020	concordo con quest'affermazione anche se
 BOR020	se cioè vivendo anche in questa zona insomma mazzini un po' oltre
 BOR020	che è
 BOR020	secondo me è comunque reputata una zona residenziale
-BOI064	mi sembra residenziale dalle case che vedo insomma
-BOR020	mazzini ha tutto un bel pre~ non lo conosci il passato di mazzini
-BOI064	non lo conosco il passato di mazzini
+BOR020	mi sembra residenziale dalle case che vedo insomma
+BOI064	mazzini ha tutto un bel pre~ non lo conosci il passato di mazzini
+BOR020	non lo conosco il passato di mazzini
 BOI064	ah questo è tutto un capitolo
 BOI064	mazzini
 BOI064	è mh attualmente
@@ -1179,17 +1162,17 @@ BOI064	eh
 BOI064	basilarmente eh
 BOI064	questo aprile qui
 BOI064	c'è stata una sparatoria tipo
-BOR020	a due passi da casa mia
-BOI064	mh
+BOI064	a due passi da casa mia
+BOR020	mh
 BOI064	sì letteralmente
 BOI064	e uh sparatoria in zona rega capitano ovunqu~ milano milano è la città più pericolosa d'italia più di napoli più di scampia
-BOR020	più di mazzini per è la realtà dei fatti
-BOI064	no ma ci credo
-BOR020	è la verità dei fatti è inutile dire che
-BOI064	no no nessuno è salvo
-BOR020	non posso eh non posso no figa xx io son salvissimo xx la fatalità
+BOI064	più di mazzini per è la realtà dei fatti
+BOR020	no ma ci credo
+BOI064	è la verità dei fatti è inutile dire che
+BOR020	no no nessuno è salvo
+BOI064	non posso eh non posso no figa xx io son salvissimo xx la fatalità
 BOR020	eh
-BOI064	certo
+BOR020	certo
 BOI064	esiste
 BOI064	però ti dico che essenzialmente
 BOI064	anzi
@@ -1198,18 +1181,18 @@ BOI064	non è altrettanto pericolosa quanto potrebbe essere un
 BOI064	eh
 BOI064	quartiere qualsiasi di milano come un rogoredo piuttosto che
 BOI064	un quarto oggiaro
-BOR020	xxx verità rari
+BOI064	xxx verità rari
 BOR020	no no è veri~
-BOI064	questo infatti è verissimo anche io banalmente
-BOR020	i matti ci stanno ovunque dai
+BOR020	questo infatti è verissimo anche io banalmente
+BOI064	i matti ci stanno ovunque dai
 BOR020	allora una cosa molto positiva che io qui ho notato è che effettivamente ci sono un sacco di matti ma nessun matto
-BOI064	disturba
-BOR020	no quello no quello no
-BOI064	veramente non mi sono mai sentita non so a disagio in pericolo o comunque non so se anche tu
+BOR020	disturba
+BOI064	no quello no quello no
+BOR020	veramente non mi sono mai sentita non so a disagio in pericolo o comunque non so se anche tu
 BOI064	io
 BOI064	eh
-BOR020	sì in realtà sì mi è capitato
-BOI064	in pericolo
+BOI064	sì in realtà sì mi è capitato
+BOR020	in pericolo
 BOI064	figa
 BOI064	sì
 BOI064	ahm quand'è stato quest'estate
@@ -1234,8 +1217,8 @@ BOI064	a ravenna non è come il bronx come non è lo sp~
 BOI064	non è la spezia però c'è più indifferenza
 BOI064	non q~ qua c'è n'è molta di meno
 BOI064	cioè s~ se di là siamo nella media se a ravenna come a boh cazzo ne so a perugia piuttosto che a modena siamo
-BOR020	a una di~ di un'indifferenza standard qua è molto meno
-BOI064	va bene dai grazie mille di tutto e
-BOR020	basta
-BOI064	sì
+BOI064	a una di~ di un'indifferenza standard qua è molto meno
+BOR020	va bene dai grazie mille di tutto e
+BOI064	basta
+BOR020	sì
 BOI064	mh okay

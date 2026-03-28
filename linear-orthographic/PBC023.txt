@@ -1,5 +1,5 @@
 BOR016	partito
-BOI058	attualmente dove abiti
+BOR016	attualmente dove abiti
 BOI058	io attualmente abito a monterenzio
 BOI058	monterenzio è un
 BOI058	un comune in provincia di bologna
@@ -7,8 +7,8 @@ BOI058	e dista un un trenta chilometri da
 BOI058	da bologna appunto
 BOI058	eh
 BOI058	per raggiungere bologna ci si impiega una mezzoretta tre quarti d'ora dipende con che mezzo ci si va e
-BOR016	e in che orario della giornata ci si va
-BOI058	e come ti trovi a monterenzio
+BOI058	e in che orario della giornata ci si va
+BOR016	e come ti trovi a monterenzio
 BOI058	ma a monterenzio mi trovo
 BOI058	diciamo bene
 BOI058	è un paese mh
@@ -16,8 +16,8 @@ BOI058	ci sono poche
 BOI058	pochi servizi per quanto riguarda il tempo libero però a livello di medici di farmacia di servizi pubblici
 BOI058	di supermercati
 BOI058	è abbastanza come paese di campagna insomma è abbastanza
-BOR016	attrezzato abbastanza servito ecco
-BOI058	ed è cambiato molto nel corso degli anni
+BOI058	attrezzato abbastanza servito ecco
+BOR016	ed è cambiato molto nel corso degli anni
 BOI058	nel corso degli anni è cambiato abbastanza
 BOI058	se consideriamo
 BOI058	eh trent'anni fa quando io sono tornata a vivere a monterenzio
@@ -31,8 +31,8 @@ BOI058	ma è rimasta un'unica strada
 BOI058	da percorrere bologna
 BOI058	bologna e monterenzio insomma
 BOI058	perciò adesso
-BOR016	è abbastanza trafficata
-BOI058	e le persone che ci vivono sono cambiate
+BOI058	è abbastanza trafficata
+BOR016	e le persone che ci vivono sono cambiate
 BOI058	naturalmente le persone che ci vivono sono cambiate anche quelle perché un po'
 BOI058	sono diventate grandi un po'
 BOI058	avendo costruito tanto
@@ -50,8 +50,8 @@ BOI058	a parte le scuole il nido
 BOI058	eh la materna scuole medie
 BOI058	eh
 BOI058	e poi
-BOR016	non c'è altro insomma per i giovani
-BOI058	all'epoca quali erano i luoghi di ritrovo più frequentati
+BOI058	non c'è altro insomma per i giovani
+BOR016	all'epoca quali erano i luoghi di ritrovo più frequentati
 BOI058	all'epoca a monterenzio avevamo un bel centro anziani avevamo il centro giovanile
 BOI058	avevamo un un teatro cinema
 BOI058	la biblioteca
@@ -69,8 +69,8 @@ BOI058	delle
 BOI058	degli spettacoli a teatro ma
 BOI058	a livello del cinema che faceva cinema e teatro quello non
 BOI058	non è più possibile farlo perché appunto c'è poche persone che
-BOR016	che vanno al cinema qua
-BOI058	eh la città di bologna ti piace
+BOI058	che vanno al cinema qua
+BOR016	eh la città di bologna ti piace
 BOI058	la città di bologna mi piace perché
 BOI058	c'ho vissuto per tanti anni a bologna
 BOI058	e mi è sempre piaciuta mi continua
@@ -78,9 +78,9 @@ BOI058	piacere
 BOI058	eh perché abbiamo un bel centro storico abbiamo dei bei monumenti abbiamo delle belle piazze
 BOI058	eh abbiamo i portici eh
 BOI058	le due torri insomma bologna è
-BOR016	una bella città
+BOI058	una bella città
 BOR016	eh negli anni ti sembra
-BOI058	che sia cambiata oppure che sia rimasta uguale
+BOR016	che sia cambiata oppure che sia rimasta uguale
 BOI058	no negli anni è cambiata
 BOI058	fortunatamente è stata
 BOI058	è stata un po' pulita è stata
@@ -100,8 +100,8 @@ BOI058	vengono imbrattati i i muri
 BOI058	poi speriamo che col tempo riescono a
 BOI058	a pulire anche quelli e
 BOI058	a fare perdere
-BOR016	quella maleducazione che hanno appunto di di imbrattare i muri
-BOI058	e le persone che abitano la città secondo te sono cambiate
+BOI058	quella maleducazione che hanno appunto di di imbrattare i muri
+BOR016	e le persone che abitano la città secondo te sono cambiate
 BOI058	ma anche quelle sono cambiate perché
 BOI058	ehm
 BOI058	adesso in centro
@@ -122,15 +122,15 @@ BOI058	chi ha degli appartamenti
 BOI058	cerca di darli ai giovani perché magari vanno in quattro cinque sei in un appartamento perciò incassano molto di più questi proprietari
 BOI058	che non
 BOI058	incasserebbero
-BOR016	con solo una famiglia insomma
-BOI058	e pensi che come città possa essere un buon posto per i tuoi figli e i tuoi nipoti
+BOI058	con solo una famiglia insomma
+BOR016	e pensi che come città possa essere un buon posto per i tuoi figli e i tuoi nipoti
 BOI058	direi direi di sì perché
 BOI058	c'è comunque del lavoro
 BOI058	ci sono appunto
 BOI058	le uners~ università per i giovani che vogliono studiare
 BOI058	perciò direi che
-BOR016	una buona città insomma
-BOI058	eh quindi comunque non hai sempre vissuto nello stesso luogo
+BOI058	una buona città insomma
+BOR016	eh quindi comunque non hai sempre vissuto nello stesso luogo
 BOI058	no assolutamente io non ho vissuto nello stesso luogo
 BOI058	da quando sono nata abitavo su a
 BOI058	a monghidoro
@@ -143,11 +143,11 @@ BOI058	e lì ho vissuto per altri altri sei anni
 BOI058	e poi eh
 BOI058	ero venuta ad abitare a monterenzio da monterenzio mi sono trasferita a bologna perciò
 BOI058	ho cambiato varie
-BOR016	varie zone insomma varie case
-BOI058	e poi sei tornata a monterenzio
-BOR016	e poi dopo son tornata a monterenzio sì adesso sono trent'anni che sono tornata su a monterenzio
+BOI058	varie zone insomma varie case
+BOR016	e poi sei tornata a monterenzio
+BOI058	e poi dopo son tornata a monterenzio sì adesso sono trent'anni che sono tornata su a monterenzio
 BOR016	ehm
-BOI058	quando vivevi a monghidoro vivevi con la tua famiglia giusto
+BOR016	quando vivevi a monghidoro vivevi con la tua famiglia giusto
 BOI058	ma certamente vivevo con la mia famiglia perché sono nata lì perciò ero piccolina
 BOI058	vivevo coi miei genitori eh
 BOI058	due sorelle e un fratello eravamo in quattro
@@ -175,25 +175,25 @@ BOI058	dovere fare tutti questi chilometri per andare a scuola però eravamo abi
 BOI058	li facevamo li facevamo in compagnia perché poi
 BOI058	di bambini ce n'eran tanti si facevano in compagnia
 BOI058	si facevano
-BOR016	tutti queste belle chilometri
-BOI058	e fino a che età sei andata a scuola
+BOI058	tutti queste belle chilometri
+BOR016	e fino a che età sei andata a scuola
 BOI058	sono andata a scuola sino ai tredici anni e poi eh
-BOR016	non ne avevo voglia ho smesso
-BOI058	e cos'hai fatto dopo
-BOR016	dopo sono andata a lavorare
-BOI058	dai tredici anni quindi
+BOI058	non ne avevo voglia ho smesso
+BOR016	e cos'hai fatto dopo
+BOI058	dopo sono andata a lavorare
+BOR016	dai tredici anni quindi
 BOI058	non avevo ancora quindici anni sì dai tredici anni e mezzo sono andata a lavorare
 BOI058	ehm
 BOI058	ero andata a lavorare presso una famiglia
 BOI058	mi trovavo bene eh
 BOI058	ho lavorato per questa famiglia un due anni
 BOI058	e poi dopo
-BOR016	ho iniziato a fare un altro lavoro per un po' di anni insomma
-BOI058	e che lavoro facevi per questa famiglia
+BOI058	ho iniziato a fare un altro lavoro per un po' di anni insomma
+BOR016	e che lavoro facevi per questa famiglia
 BOI058	questo era una
 BOI058	una collaboratrice familiare perciò facevo le pulizie lavavo stiravo facevo da mangiare facevo
-BOR016	di tutto un po'
-BOI058	eh dopo che hai smesso di lavorare per questa famiglia
+BOI058	di tutto un po'
+BOR016	eh dopo che hai smesso di lavorare per questa famiglia
 BOI058	dopo che ho smesso di lavorare per questa famiglia avevo comprato
 BOI058	eh una macchina
 BOI058	una macchina da magliaia chiamata insomma facevo la magliaia
@@ -211,16 +211,15 @@ BOI058	non mi hanno più lasciato lavorare perché appunto dicevano che disturba
 BOI058	la macchina da magliaia fa un certo un certo rumore insomma
 BOI058	però invece di cambiar casa loro
 BOI058	mi han fatto smettere di lavorare
-BOR016	
-BOI058	e i vestiti li facevi per dei clienti che avevi oppure per dei negozi
-BOR016	c'erano i maglifici che ti davano da fare queste queste maglie ti davano la lana ti davano i vari campioni e tu dovevi fare queste maglie sì
-BOI058	quindi per dei negozi
+BOR016	e i vestiti li facevi per dei clienti che avevi oppure per dei negozi
+BOI058	c'erano i maglifici che ti davano da fare queste queste maglie ti davano la lana ti davano i vari campioni e tu dovevi fare queste maglie sì
+BOR016	quindi per dei negozi
 BOI058	era un maglificio
 BOI058	che te lo faceva fare che poi il maglificio
-BOR016	a sua volta vendeva ai negozi
+BOI058	a sua volta vendeva ai negozi
 BOR016	quindi comunque
 BOR016	piuttosto che lavorare dentro
-BOI058	il maglificio la gente lavorava da casa
+BOR016	il maglificio la gente lavorava da casa
 BOI058	la gente lavorava da casa perché da casa appunto poteva seguire i bambini poteva seguire
 BOI058	perché non tutti
 BOI058	avevano la possibilità di lasciare i bambini quando stavan poco bene o non c'era
@@ -231,8 +230,8 @@ BOI058	e poi comunque quando un bambino sta poco bene
 BOI058	se non hai nessuno che te lo tiene
 BOI058	se sei in una fabbrica
 BOI058	ci sono più problemi
-BOR016	e invece così lavorando da casa avevo la possibilità di lavorare guadanare un po' di soldi e nello stesso tempo seguire la mia bambina
-BOI058	eh all'epoca cosa facevi durante il tuo tempo libero
+BOI058	e invece così lavorando da casa avevo la possibilità di lavorare guadanare un po' di soldi e nello stesso tempo seguire la mia bambina
+BOR016	eh all'epoca cosa facevi durante il tuo tempo libero
 BOI058	all'epoca durante il tempo libero fin tanto che non avevo la bambina
 BOI058	eh
 BOI058	alla domenica s'andava a fare un giro in centro
@@ -241,8 +240,8 @@ BOI058	appunto
 BOI058	a far qualche giretto
 BOI058	e poi dopo
 BOI058	dopo che c'era la bambina dopo si andava a spasso con la bambina
-BOR016	durante il tempo libero
-BOI058	ehm le le vacanze come le trascorrevi
+BOI058	durante il tempo libero
+BOR016	ehm le le vacanze come le trascorrevi
 BOI058	quando ero piccola non non si facevano vacanze perché non c'era la possibilità e poi ehm
 BOI058	in campagnia così appunto parlo di tanti anni fa non
 BOI058	non c'era neanche la la possibilità di andare in vacanza insomma
@@ -253,8 +252,8 @@ BOI058	cosa si decideva di fare quell~ quell'estate lì insomma
 BOI058	o s'andava il mese al mare o il mese in montagna
 BOI058	facevamo queste vacanze poi dopo nel tempo sono iniziati anche i viaggi ma allora quando
 BOI058	quando avevo la bambina piccola si faceva
-BOR016	la vacanza al mare o in montagna
-BOI058	e adesso come trascorri il tuo tempo libero
+BOI058	la vacanza al mare o in montagna
+BOR016	e adesso come trascorri il tuo tempo libero
 BOI058	adesso il mio tempo libero lo trascorro di tempo libero sinceramente ne ho sempre molto poco
 BOI058	perché mh
 BOI058	adesso ho smesso di di lavorare
@@ -272,8 +271,8 @@ BOI058	eh
 BOI058	organizziamo anche tanti belle gite
 BOI058	per sempre appunto per per raccogliere fondi ogni persona che
 BOI058	eh viene in viaggio con me
-BOR016	l'agenzia l'agenzia di viaggi mi dà una percentuale per per la ricerca sul cancro insomma
-BOI058	e poi fai anche il mercato di giovedì
+BOI058	l'agenzia l'agenzia di viaggi mi dà una percentuale per per la ricerca sul cancro insomma
+BOR016	e poi fai anche il mercato di giovedì
 BOI058	eh poi una volta alla settimana andiamo su a monghidoro
 BOI058	a fare mercato
 BOI058	abbiamo tutte queste cose che ci vengono offerte una parte sono nuove una parte sono usate
@@ -289,8 +288,8 @@ BOI058	eh ha anche molte più spese che non abbiamo noi
 BOI058	perciò abbiamo tutti i nostri clienti che
 BOI058	tutti i giovedì ci vengono a trovare ci vengono a salutare anche se non vengono ad acquistare però ci vengono a salutare
 BOI058	eh comunque riusciamo specialmente i mesi estivi che c'è più
-BOR016	più gente più persone anche su a monghidoro a fare dei buoni incassi
-BOI058	e ti piace fare volontariato
+BOI058	più gente più persone anche su a monghidoro a fare dei buoni incassi
+BOR016	e ti piace fare volontariato
 BOI058	ma mi piace perché
 BOI058	ho la possibilità di stare a contatto con le persone di stare con la gente di stare con
 BOI058	coi miei compagni di gioco come dico io l~ le persone che che collaborano con me perché naturalmente non sono sola perché da sola non riuscirei a fare
@@ -299,8 +298,8 @@ BOI058	perciò mi piace tutto questo
 BOI058	e poi eh sono anche
 BOI058	contenta perché appunto
 BOI058	do dei soldi offriamo dei soldi per questa associazione
-BOR016	per la ricerca sul cancro
-BOI058	e poi ti dà anche l'opportunità comunque di viaggiare
+BOI058	per la ricerca sul cancro
+BOR016	e poi ti dà anche l'opportunità comunque di viaggiare
 BOI058	mi dà anche l'opportunità di viaggiare perché
 BOI058	eh come capogruppo io ho il compito di
 BOI058	di raccogliere le persone di
@@ -311,8 +310,8 @@ BOI058	vado via io e perciò in questi anni sono ventidue anni
 BOI058	che organizzo gite ho fatto tant~ ho avuto la possibilità di fare tanti bei eh
 BOI058	tanti bei viaggi con tanti questi
 BOI058	compagni di viaggi amici eh
-BOR016	abbiam fatto viaggi indimenticabili
-BOI058	e qual è stato il tuo viaggio preferito
+BOI058	abbiam fatto viaggi indimenticabili
+BOR016	e qual è stato il tuo viaggio preferito
 BOI058	ma non posso dire il mio viaggio pr~ preferito posso il dire il viaggio più desiderato
 BOI058	è stato un viaggio che abbiamo fatto nel duemila e nove
 BOI058	che siamo andati a capo nord
@@ -341,8 +340,8 @@ BOI058	e in questi viaggi ogni tanto ne ho offerto uno alle mie nipoti
 BOI058	e sono stata molto contenta d'averlo fatto
 BOI058	specialmente anche adesso che è venuto questo
 BOI058	questo questa mh epidemia che abbiam dovuto star fermi due anni io dico sempre per fortuna che
-BOR016	l'abbiam fatto quando c'era la possibilità di farlo adesso andar via a far questi viaggi così lontani è molto più molto più rischioso
-BOI058	e il tuo prossimo viaggio quand'è
+BOI058	l'abbiam fatto quando c'era la possibilità di farlo adesso andar via a far questi viaggi così lontani è molto più molto più rischioso
+BOR016	e il tuo prossimo viaggio quand'è
 BOI058	il mio prossimo viaggio sarà domani
 BOI058	staremo via tre giorni
 BOI058	eh andremo
@@ -350,12 +349,12 @@ BOI058	a como
 BOI058	como e dintorni insomma
 BOI058	eh
 BOI058	anche qua ho già tante persone che
-BOR016	tante persone che vengono insomma
+BOI058	tante persone che vengono insomma
 BOR016	ehm
 BOR016	hai parlato della
-BOI058	della pandemia
-BOR016	sì
-BOI058	come l'hai vissuta
+BOR016	della pandemia
+BOI058	sì
+BOR016	come l'hai vissuta
 BOI058	l'ho vissuta l'ho vissuta con una gran angoscia perché poi eh col fatto che nostra figlia
 BOI058	eh lavora in ospedale perciò è stata un po' angosciante la cosa
 BOI058	eh
@@ -376,19 +375,18 @@ BOI058	allora da un lato è stato angosciante dall'altro siamo stati qua in casa
 BOI058	mi portavano a casa la spesa chi per forza doveva uscire
 BOI058	nostra figlia nostro genero nipote perché loro andavano anche a lavorare
 BOI058	ci portavano a casa la spesa perciò insomma siamo stati
-BOR016	qua tranquilli noi
+BOI058	qua tranquilli noi
 BOR016	e oltre
-BOI058	alla crisi comunque degli ultimi anni con la pandemia ti ricordi di altri periodi di crisi economiche
+BOR016	alla crisi comunque degli ultimi anni con la pandemia ti ricordi di altri periodi di crisi economiche
 BOI058	altri periodi ci sono stati mi ricordo un po'
 BOI058	appunto come ho detto prima essendo nata dopo
 BOI058	pochi anni dopo la guerra era un periodo abbastanza
-BOR016	abbastanza di crisi quella
+BOI058	abbastanza di crisi quella
 BOR016	eh
-BOI058	oltre all'italiano te parli anche il dialetto bolognese
+BOR016	oltre all'italiano te parli anche il dialetto bolognese
 BOI058	ma si che lo parlo un po' il dialetto bolognese mi piace
-BOI058	
-BOR016	parla~
-BOI058	e ne conosci anche altri oltre al dialetto bolognese oppure no
+BOI058	parla~
+BOR016	e ne conosci anche altri oltre al dialetto bolognese oppure no
 BOI058	parlarlo non riesco
 BOI058	capirlo
 BOI058	capisco il romagnolo capisco
@@ -403,16 +401,16 @@ BOI058	perciò lo
 BOI058	l'accento la cadenza è ben diversa
 BOI058	lo capisco ma non
 BOI058	non lo parlo ecco parlo solo
-BOR016	il bolognese ecco
-BOI058	e preferisci parlare in dialetto o in italiano
+BOI058	il bolognese ecco
+BOR016	e preferisci parlare in dialetto o in italiano
 BOI058	ma
 BOI058	in genere preferisco parlare anche se non lo so parlare molto bene preferisco parlare l'italiano perché
 BOI058	tante persone specialmente i giovani adesso non lo capiscono molto il
 BOI058	il dialetto
 BOI058	eh tanto meno lo parlano perciò
 BOI058	però mi sarebbe piaciuto che anche le mie nipoti avessero imparato un po' a parlare il dialetto ma
-BOR016	proprio ne volen brisa saver a scorrer in dialèt
-BOI058	e ti diaspiace che comunque i giovani lo parlano meno
+BOI058	proprio ne volen brisa saver a scorrer in dialèt
+BOR016	e ti diaspiace che comunque i giovani lo parlano meno
 BOI058	ma sì mi dispiace un po' perché comunque è la nostra cultura è il nostro dialetto eh
 BOI058	mi sarebbe piaciuto appunto che
 BOI058	che anche i giovani l~ la lo
@@ -429,49 +427,49 @@ BOI058	che non lo fanno per per mestiere lo fanno per
 BOI058	per volontariato lo fanno per hobby
 BOI058	perciò sarebe carino che
 BOI058	ci metton tanto impegno anche loro
-BOR016	che ci fossero più persone che partecipano a queste cose ma purtroppo è così
-BOI058	ti ricordi come hai conosciuto tuo marito
+BOI058	che ci fossero più persone che partecipano a queste cose ma purtroppo è così
+BOR016	ti ricordi come hai conosciuto tuo marito
 BOI058	perbacco sembra ieri
 BOI058	ero
 BOI058	allora abitavo appunto qua in zona monterenzio
 BOI058	ero a spasso una domenica pomeriggio con una mia amica e lui eh è passato con in macchina con un suo miglior amico
 BOI058	eh si sono fermati eh
 BOI058	abbiamo iniziato a chiacchierare eh vederci eh
-BOR016	dopo un anno eravamo sposati
-BOI058	ma perché la tua amica conosceva loro o si son fermati a parlare
+BOI058	dopo un anno eravamo sposati
+BOR016	ma perché la tua amica conosceva loro o si son fermati a parlare
 BOI058	no
-BOR016	no no si son proprio fermati si son proprio fermati a caso eh
-BOI058	oggi non succederebbe una cosa così
+BOI058	no no si son proprio fermati si son proprio fermati a caso eh
+BOR016	oggi non succederebbe una cosa così
 BOI058	oggi non succederebbe eh perché adesso
 BOI058	non so perché
 BOI058	ci sono
-BOR016	come posso dire
-BOI058	cambiato
+BOI058	come posso dire
+BOR016	cambiato
 BOI058	è cambiato sì
 BOI058	allora
 BOI058	mh
 BOI058	c'era meno meno
 BOI058	si era più tranquilli insomma
 BOI058	adesso si ha paura di tutto perché uno vien rapito l'altro perché ha il coltello l'altro eh perciò anche sti giovani forse
-BOR016	hanno han più paura insomma una volta eravamo un attimo più tranquilli eh
+BOI058	hanno han più paura insomma una volta eravamo un attimo più tranquilli eh
 BOR016	mhmh
 BOR016	ehm
 BOR016	riguardo sempre la città di bologna
-BOI058	eh qual è stata la prima volta che sei stata a san luca
+BOR016	eh qual è stata la prima volta che sei stata a san luca
 BOI058	a san luca la prima volta
 BOI058	avevo sui
 BOI058	quindici anni la prima volta che ci sono andata
 BOI058	ci sono andata con un'amica una domenica pomeriggio
 BOI058	abbiam fatto dal centro siamo arrivati sino su a san luca a piedi e tutta la bella gradinata eh poi abbiam fatto anche il ritorno
 BOI058	a piedi dopo negli anni ci son tornata una volta o due ma in macchina a piedi non
-BOR016	non ci sono più andata
-BOI058	e vorresti tornare a rifarlo
+BOI058	non ci sono più andata
+BOR016	e vorresti tornare a rifarlo
 BOI058	eh mi piacerebbe ritornare a fare adesso quando avrò sistemato un po' la mia gambetta mi piacerebbe proprio
 BOI058	tornarci a piedi
 BOI058	magari con le mie nipoti che non ci sono mai andate
-BOR016	mi piacerebbe andare su a san luca con loro
+BOI058	mi piacerebbe andare su a san luca con loro
 BOR016	eh
-BOI058	qual è il tuo monumento di bologna preferito se ne hai uno
+BOR016	qual è il tuo monumento di bologna preferito se ne hai uno
 BOI058	eh beh
 BOI058	ma a bologna ne abbiam tanti dei monumenti
 BOI058	perché piazza maggiore il nettuno eh la chiesa eh son stupendi
@@ -502,11 +500,11 @@ BOI058	che è il nostro cimi~ cioè il cimitero di bologna però anche lì eh
 BOI058	ci son dei monumenti
 BOI058	piazza otto agosto anche lì c'è quella gradinata che che è favolosa
 BOI058	abbiam tante di cose a bologna
-BOR016	belle
+BOI058	belle
 BOR016	essendo che comunque i portici
 BOR016	sono ovunque a bologna
 BOR016	che effetto ti fa quando
-BOI058	visiti un'altra città e non li vedi
+BOR016	visiti un'altra città e non li vedi
 BOI058	ogni città è a sé
 BOI058	perciò eh
 BOI058	c'è di bello ovunque
@@ -526,13 +524,11 @@ BOI058	però bisogna apprezzare anche
 BOI058	le città
 BOI058	dove vai insomma
 BOI058	però
-BOR016	i portici di bologna sono unici
+BOI058	i portici di bologna sono unici
 BOR016	qual è il prossimo viaggio che vorresti organizzare cioè dov'è che vorresti andare
-BOI058	che non ci sei ancora stata
+BOR016	che non ci sei ancora stata
 BOI058	ma che non sono ancora stata sono tanti i posti
-BOR016	se devo inizare a elencare dove vorrei andare
-BOI058	
-BOI058	
+BOI058	se devo inizare a elencare dove vorrei andare
 BOI058	finisco domani
 BOI058	posso dire che
 BOI058	mh
@@ -559,15 +555,15 @@ BOI058	ci son già stata tante volte però la sardegna è sempre bella
 BOI058	eh
 BOI058	perciò
 BOI058	poi ce ne son tanti insomma dei posti insomma che
-BOR016	vorrei andare prossimamente
+BOI058	vorrei andare prossimamente
 BOR016	se mh
 BOR016	se avessi avuto la possibilità di continuare
 BOR016	a fare
 BOR016	a lavorare con
-BOI058	la magliaia
-BOR016	sì
+BOR016	la magliaia
+BOI058	sì
 BOR016	ti sarebbe piaciuto
-BOI058	cioè secondo te sarebbe potuta diventare una tua carriera lavorativa oppure no
+BOR016	cioè secondo te sarebbe potuta diventare una tua carriera lavorativa oppure no
 BOI058	ma penso di sì perché perché
 BOI058	eh le maglie usavano allora come
 BOI058	si usano anche adesso
@@ -588,13 +584,13 @@ BOI058	perché hanno la lana anche lì che gliela gli è stata regalata
 BOI058	però insomma
 BOI058	se continuavano
 BOI058	a lasciarmi lavorare
-BOR016	avrei continuato col mio lavoro insomma
+BOI058	avrei continuato col mio lavoro insomma
 BOR016	mh
 BOR016	ehm
-BOI058	hai detto che la tua infanzia l'hai trascorsa a monghidoro
-BOR016	sì
+BOR016	hai detto che la tua infanzia l'hai trascorsa a monghidoro
+BOI058	sì
 BOR016	eh
-BOI058	com'è stata diciamo la tua infanzia come potresti descriverla
+BOR016	com'è stata diciamo la tua infanzia come potresti descriverla
 BOI058	come potrei descriverla eh
 BOI058	come ho detto appunto era una famiglia
 BOI058	non dico povera però insomma
@@ -612,8 +608,8 @@ BOI058	che ricordo sempre
 BOI058	eh l'ho già detto tante volte
 BOI058	avevo boh sette otto anni
 BOI058	e col babbo eravamo andati a seminare il grano turco che naturalmente non c'era la macchina da seminarlo
-BOR016	ma si seminava così a mano
-BOI058	mh
+BOI058	ma si seminava così a mano
+BOR016	mh
 BOI058	eh il babbo aveva era chiamato il pettine era un attrezzo
 BOI058	con
 BOI058	con quattro con quattro perni che lui faceva i quattro buchini e io dietro dovevo mettere i quattro chicci di di grano turco
@@ -626,10 +622,8 @@ BOI058	eh andiamo a casa finiamo
 BOI058	e anche lì con queste zucchine c'era da mettere un semino ogni buca
 BOI058	a un certo punto nascono queste zucchine in una in un buco in un eh ne avevo messe ventotto
 BOI058	perciò io facevo prima facevo presto a finire
-BOR016	
-BOI058	
-BOR016	i semini della zucca d'altra parte
-BOI058	semi
+BOI058	i semini della zucca d'altra parte
+BOR016	semi
 BOI058	avevo sette otto anni perciò
 BOI058	era già molto quello che
 BOI058	che facevo
@@ -649,22 +643,19 @@ BOI058	s'andava via il mattino sulle otto otto e mezza eh
 BOI058	e si tornava a casa la sera
 BOI058	ma per me star via tutto il giorno
 BOI058	là con queste mucche là da sola era era una tragedia
-BOI058	
 BOI058	mi ricordo d'estate magari c'era il sole tipo oggi
 BOI058	però non ne avevam voglia d'andar via
 BOI058	andavamo là dove dove c'era l'abbeveratorio del per le mucche
-BOR016	eh con la mano buttavam via degli schizzi d'acqua
-BOI058	
+BOI058	eh con la mano buttavam via degli schizzi d'acqua
 BOI058	e poi dicevo con la mamma mamma ma non vedi che ci sono
-BOR016	le gocce dell'acqua sta per piovere ma eh c'era un sole come
-BOI058	
+BOI058	le gocce dell'acqua sta per piovere ma eh c'era un sole come
 BOI058	però insomma quando si è bambini ehm
 BOI058	si ha questa fantasia di voler far piovere anche se
-BOR016	anche se c'è il sole
+BOI058	anche se c'è il sole
 BOR016	ehm
 BOR016	ma cioè le mucche
 BOR016	e poi anche il grano cioè erano
-BOI058	solo per la famiglia o vendevate anche dei prodotti
+BOR016	solo per la famiglia o vendevate anche dei prodotti
 BOI058	allora eravamo a mezzadri
 BOI058	perciò la metà
 BOI058	era del
@@ -681,32 +672,32 @@ BOI058	il grano veniva diviso metà
 BOI058	al propietario metà al contadino
 BOI058	eh tutti i prodotti erano
 BOI058	metà insomma
-BOR016	si faceva a metà
+BOI058	si faceva a metà
 BOR016	e questa era la casa che avevate a monghidoro
-BOI058	giusto
+BOR016	giusto
 BOI058	sia a monghidoro che quando ci siamo trasferiti a bisano perché anche lì
-BOR016	i miei genitori erano contadini perciò anche lì eh
-BOI058	e avete c~ c'è è cambiato il
+BOI058	i miei genitori erano contadini perciò anche lì eh
+BOR016	e avete c~ c'è è cambiato il
 BOI058	abbiam cambiato casa abbiam cambiato proprietario
 BOI058	del del terreno
-BOR016	ma il lavoro era rimasto quello insomma
+BOI058	ma il lavoro era rimasto quello insomma
 BOR016	mh
 BOR016	e non hai mai pensato che quello potrebbe essere
 BOR016	il tuo lavoro futuro
 BOR016	non volevi lavorare
-BOI058	facendo la contadina
+BOR016	facendo la contadina
 BOI058	mh ma dopo no perché poi poi negli anni anche i miei genitori hanno
 BOI058	hanno smesso di lavorar la terra
 BOI058	eh quando mi sono sposata
 BOI058	eh i genitori di mio marito anche loro erano contadini però mio marito faceva un altro lavoro perciò non
 BOI058	poi negli anni anche loro poi hanno
-BOR016	sono andati in pensione hanno smesso insomma perciò non abbiamo portato avanti quel lavoro lì
-BOI058	e poi ti sei trasferita a bologna
-BOR016	poi dopo mi son trasferita a bologna sì
+BOI058	sono andati in pensione hanno smesso insomma perciò non abbiamo portato avanti quel lavoro lì
+BOR016	e poi ti sei trasferita a bologna
+BOI058	poi dopo mi son trasferita a bologna sì
 BOR016	eh ti piace di più
 BOR016	vivere adesso qui a monterenzio
 BOR016	oppure
-BOI058	quando abitavi a bologna
+BOR016	quando abitavi a bologna
 BOI058	ma la città è bella perché perché
 BOI058	è più servita perché
 BOI058	con poco sei in centro hai tutte le comodità
@@ -723,9 +714,9 @@ BOI058	è voluto venir via proprio quando è andato in pensione è voluto venir 
 BOI058	non eh
 BOI058	dopo trent'anni non è certamente disposto a
 BOI058	a tornarci insomma
-BOR016	lui è qua tranquillo
+BOI058	lui è qua tranquillo
 BOR016	eh che ricordi hai di quando vivevi
-BOI058	giù a bologna
+BOR016	giù a bologna
 BOI058	ma tanti ricordi p~ prima di tutto avevo tanti anni in meno
 BOI058	e poi eh
 BOI058	e poi anche per nostra figlia che era una ragazzina eh li aveva
@@ -737,11 +728,11 @@ BOI058	un po' più in campagna abbiamo più spazio abbiamo là si viveva
 BOI058	se eri in casa avevi questo appartamento vivevi lì dentro le tue mura eh
 BOI058	basta insomma
 BOI058	c'era il vantaggio che
-BOR016	se lavoravi in centro avevi poca strada da fare
+BOI058	se lavoravi in centro avevi poca strada da fare
 BOR016	e all'epoca com'era la scuola
 BOR016	quando hai fatto te la
 BOR016	hai fatto la materna
-BOI058	cioè le le elementari
+BOR016	cioè le le elementari
 BOI058	io ho fatto le elementari sì
 BOI058	all'elementari c'erano le le classi miste
 BOI058	perché poi essendo così in campagna ce n'erano perché una volta ce n'eraro molti più bambini che non ci sono adesso
@@ -753,11 +744,10 @@ BOI058	c'eran le classi miste insomma
 BOI058	eh
 BOI058	c'erano un insegnante unica non c'era quella di italiano di matematica
 BOI058	d'inglese come c'è adesso perché allora l'inglese
-BOR016	scurreva in dialèt brisa in inglese
-BOI058	
+BOI058	scurreva in dialèt brisa in inglese
 BOI058	eh l~ poi avevi un'unica maestra che faceva le varie
-BOR016	le varie materie insomma
-BOI058	e quali erano le materia se te le ricordi
+BOI058	le varie materie insomma
+BOR016	e quali erano le materia se te le ricordi
 BOI058	vabbè le materie era italiano era matemtica
 BOI058	storia geografia scienze
 BOI058	eh religione
@@ -772,8 +762,8 @@ BOI058	specialmente
 BOI058	nei paesi così
 BOI058	in provincia insomma ecco in centro a bologna non
 BOI058	nel comune proprio bologna non lo so
-BOR016	però periferia
-BOI058	però dopo non c'era l'obbligo di fare anche le medie
+BOI058	però periferia
+BOR016	però dopo non c'era l'obbligo di fare anche le medie
 BOI058	l'obbligo eh
 BOI058	è venuto poi nel tempo quando
 BOI058	quando l'ho fatto io
@@ -783,29 +773,29 @@ BOI058	ho smesso
 BOI058	poi dopo le ho poi fatte serali
 BOI058	negli anni
 BOI058	sia io che mio marito
-BOR016	siamo andati a fare le medie serali
-BOI058	quand'eravate a bologna
+BOI058	siamo andati a fare le medie serali
+BOR016	quand'eravate a bologna
 BOI058	quand'eravamo a bologna certamente quando nostra figlia aveva diciott'anni noi abbiamo fatte le
 BOI058	le medie serali
 BOI058	andavamo a scuola tutti e due eh
-BOR016	avevamo abbiam fatto le medie serali
-BOI058	eh che materie si facevano lì
+BOI058	avevamo abbiam fatto le medie serali
+BOR016	eh che materie si facevano lì
 BOI058	lì abbiam fatto francese
 BOI058	eh
 BOI058	italiano matematica
-BOR016	eran comunque serali insomma
-BOI058	ma avete dovuto riprendere tutti e tre gli anni oppure col fatto che ne avevi fatti due comunque
+BOI058	eran comunque serali insomma
+BOR016	ma avete dovuto riprendere tutti e tre gli anni oppure col fatto che ne avevi fatti due comunque
 BOI058	no eh abbiam fatto
-BOR016	tre anni in uno
-BOI058	ah
-BOR016	non abbiam fatto tre tre anni abbiam fatto
-BOI058	mhmh
+BOI058	tre anni in uno
+BOR016	ah
+BOI058	non abbiam fatto tre tre anni abbiam fatto
+BOR016	mhmh
 BOI058	abbiam fatto tutti e tre
 BOI058	tutti e tre anni delle medie
 BOI058	abbiamo avuto il diploma
 BOI058	per
-BOR016	per le medie insomma
-BOI058	perché serviva per il lavoro oppure
+BOI058	per le medie insomma
+BOR016	perché serviva per il lavoro oppure
 BOI058	no perché perché da piccola non ne avevo avuto voglia però dopo dopo mi dispiaceva non
 BOI058	non avere le medie almeno le medie isomma perciò
 BOI058	son stata più grande che
@@ -818,18 +808,15 @@ BOI058	le scuole elementari
 BOI058	e poi dopo aveva fatto meccanico serale
 BOI058	però non aveva proprio le medie
 BOI058	perciò dopo ci siamo andati assieme
-BOR016	dopo chi ci vedeva sempre assieme ci divertivamo a dire che ci eravam conosciuti lì sui banchi di scuola
-BOI058	
-BOR016	
-BOI058	invece vi eravate conosciuti per strada
+BOI058	dopo chi ci vedeva sempre assieme ci divertivamo a dire che ci eravam conosciuti lì sui banchi di scuola
+BOR016	invece vi eravate conosciuti per strada
 BOI058	c'eravam conosciuti per strada
 BOI058	e alla fine del
 BOI058	alla fine dei dei nove mesi del~ delle scuole abbiam detto appunto che
-BOR016	eravam sposati da vent'anni
-BOI058	
+BOI058	eravam sposati da vent'anni
 BOI058	all'inizio ci divertivamo a dire che
-BOR016	c'eravam conosciuti sui banchi di scuola
-BOI058	però non hai voluto continuare a studiare
+BOI058	c'eravam conosciuti sui banchi di scuola
+BOR016	però non hai voluto continuare a studiare
 BOI058	dopo le medie continuare a fare le serali le superiori era
 BOI058	era abbastanza faticoso insomma perché
 BOI058	lavoravo la bambina la casa tutto eh allora
@@ -837,10 +824,10 @@ BOI058	cioè la bambina
 BOI058	nel tempo poi era già grande però
 BOI058	non
 BOI058	non c'ho pensato insomma di continuare
-BOR016	non c'ho pensato
+BOI058	non c'ho pensato
 BOR016	ehm
 BOR016	sempre ritornando comunque alla situazione di crisi degli ultimi anni
-BOI058	mh che consigli potresti dare magari ai giovani di oggi per superare questo periodo
+BOR016	mh che consigli potresti dare magari ai giovani di oggi per superare questo periodo
 BOI058	per superare questo periodo adesso non voglio entrare naturalmente nella politica nelle cose comunque anche i giovani dovrebbero imparare una volta
 BOI058	i giovani di
 BOI058	cinquant'anni fa diciamo han fatto tanti scioperi han fatto combattuto tanto per avere
@@ -895,10 +882,10 @@ BOI058	altrimenti
 BOI058	se c'è un qualched'uno che
 BOI058	che deve servire ci vuole insomma
 BOI058	se vogliamo andare fuori a cena un qualched'uno deve
-BOR016	deve servire
+BOI058	deve servire
 BOR016	okay
 BOR016	e te comunque sei stata
-BOI058	contenta del tuo lavoro
+BOR016	contenta del tuo lavoro
 BOI058	ma sì io son stata contenta perché
 BOI058	ho sempre fatto un lavoro onesto
 BOI058	mi han sempre voluto bene trattato bene
@@ -911,7 +898,7 @@ BOI058	a
 BOI058	chiamarci insomma perciò
 BOI058	in più son riuscita
 BOI058	a seguire anche mia figlia che era la cosa più importante che
-BOR016	che era in quel periodo lì poterla seguire
+BOI058	che era in quel periodo lì poterla seguire
 BOR016	okay
-BOI058	basta grazie
+BOR016	basta grazie
 BOI058	prego

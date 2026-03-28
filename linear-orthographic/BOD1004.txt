@@ -373,21 +373,21 @@ BO093	perché noi non sappiamo quali sono le cause cioè noi non sappiamo se il 
 BO093	è quello che provoca i ros o sono i ros che provocano il danno al mitocondrio
 BO093	eh non sappiamo se sono queste proteine malfoldate che provocano l'alterazione mitocondriale o provocano l'apoptosi e indirettamente l'alterazione mitocondriale
 BO093	cioè l'ordine la sequenza con cui compaiono nelle diverse patologie questi xxx
-???	non è noto però ci sono e sono comuni a tutte le patologie
-BO093	ma questa necrosi programmata
-???	xxxxx sì
-BO093	quella lì esiste solo in una condizione patologica
-???	no no è anche fisiologica anche durante lo sviluppo
-BO093	ma una necrosi
-???	una necrosi programmata la necroctosi
-BO093	ma non causa infiammazione
+BO093	non è noto però ci sono e sono comuni a tutte le patologie
+???	ma questa necrosi programmata
+BO093	xxxxx sì
+???	quella lì esiste solo in una condizione patologica
+BO093	no no è anche fisiologica anche durante lo sviluppo
+???	ma una necrosi
+BO093	una necrosi programmata la necroctosi
+???	ma non causa infiammazione
 BO093	causa infiammazione ma è controllata non è casuale eh
 BO093	non è una necrosi casuale è una forma di morte necrotica
 BO093	in cui si attiva il sistema immunitario in modo tale che poi elimini attraverso un livello di infiammazione non esagerato ovviamente le cellule che poi vanno incontro a morte
 BO093	questo durante lo sviluppo è chiaro che nelle malattie neurodegenerative la necroctosi contribuisce alla minore infiammazione
 BO093	perché lì eh abbiamo una attivazione eccessiva della microglia
-???	però è un meccanismo che funziona anche fisiologicamente
-BO093	ma perché non sostituirla a una semplice apoptosi
+BO093	però è un meccanismo che funziona anche fisiologicamente
+???	ma perché non sostituirla a una semplice apoptosi
 BO093	quello lo devi chiedere a madre natura non a me perché cioè per me poteva bastare l'apoptosi evidentemente no diciamo sono dei pathway diversi poi
 BO093	adesso se ti farai un corso di fisiologia molecolare chi lo sta facendo xx le distinzioni tra questi tipi di morte sono sempre più sfumate
 BO093	e sembrano veramente diciamo un continuum di tipi di morti avendo come estremi l'apoptosi e la necrosi classica e in mezzo ositutti questi tipi di morbo programmata

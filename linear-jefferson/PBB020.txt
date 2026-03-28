@@ -1,25 +1,25 @@
-BOR017	>un'intro nome cognome qualcosa<?
-BOI059	dove sei nata?
+BOI059	>un'intro nome cognome qualcosa<?
+BOR017	dove sei nata?
 BOI059	a bologna
-BOR017	non su in via d'azeglio ma al maggiore
-BOI059	e dove abiti adesso?
+BOI059	non su in via d'azeglio ma al maggiore
+BOR017	e dove abiti adesso?
 BOI059	a casalecchio di reno
 BOI059	che è come dire bologna nel senso che facciamo parte della città metropolitana
 BOI059	un tempo eravamo due comuni separati e adesso solo sulla carta
-BOR017	>ma ci piacerebbe rimanerlo< grazie
-BOI059	((ride))
+BOI059	>ma ci piacerebbe rimanerlo< grazie
 BOR017	((ride))
-BOI059	e il quartie:re?
+BOI059	((ride))
+BOR017	e il quartie:re?
 BOI059	il quartiere è
 BOI059	essendo un altro
 BOI059	comune
 BOI059	non è un quartiere
 BOI059	poi
 BOI059	all'interno di casalecchio sto nel quartiere del: vecchio municipio
-BOR017	parco talon
-BOI059	hai sempre vissuto quindi a bologna
-BOR017	n[i]
-BOI059	°[mh] n[o]°
+BOI059	parco talon
+BOR017	hai sempre vissuto quindi a bologna
+BOI059	n[i]
+BOR017	°[mh] n[o]°
 BOI059	[sì] allora a bologna sì
 BOI059	nel senso che io sono na:ta: e sta:vo in corticella
 BOI059	poi
@@ -32,24 +32,24 @@ BOI059	e l'aeroporto
 BOI059	poi ci siamo trasferiti per (ehm) un ritorno di mamma alle origini
 BOI059	già con un pa~ un nuovo patrigno e tutto
 BOI059	a calderara di reno che è
-BOR017	un filo meno bologna ma ci sentiamo comunque ancora [bolognesi]
-BOI059	[°bolognesi°]
+BOI059	un filo meno bologna ma ci sentiamo comunque ancora [bolognesi]
+BOR017	[°bolognesi°]
 BOI059	e poi la mia vita è proseguita
-BOR017	e ora sto a casalecchio appunto
-BOI059	e:h da quanto vivi:
-BOR017	a <casa[lecchio]>
-BOI059	[a casalecchio] quind[i]?
+BOI059	e ora sto a casalecchio appunto
+BOR017	e:h da quanto vivi:
+BOI059	a <casa[lecchio]>
+BOR017	[a casalecchio] quind[i]?
 BOI059	[s]o:no:
-BOR017	otto anni
-BOI059	°otto [anni]°
+BOI059	otto anni
+BOR017	°otto [anni]°
 BOI059	[pra]ticamente ((ride))
-BOR017	((ride))
-BOI059	[come ti trovi]?
-BOR017	[otto di trenta~] o~ [otto di] trentasette sono vecchia
+BOI059	((ride))
+BOR017	[come ti trovi]?
+BOI059	[otto di trenta~] o~ [otto di] trentasette sono vecchia
 BOR017	[come]
-BOI059	xxxx
-BOR017	((ride))
-BOI059	come ti trovi in questa città quindi?
+BOR017	xxxx
+BOI059	((ride))
+BOR017	come ti trovi in questa città quindi?
 BOI059	bene
 BOI059	mi trovo bene sia a casalecchio che a casalecchio in quanto è facente parte di bologna
 BOI059	perché casalecchio da solo non avrebbe
@@ -58,11 +58,11 @@ BOI059	tutto quello che trovo a bologna
 BOI059	alcuni negozi >alcune cose (no)<
 BOI059	poi siamo fortunati abbiamo:
 BOI059	supermercati cinema: ogni genere di cose
-BOR017	però a volte devi prendere la macchina e andar su fino a [bologna]
-BOI059	[beh comunque] con i mezzi è °[fattibile]°
-BOR017	e[satto o anche so]lamente per andare a una sera: al pub
+BOI059	però a volte devi prendere la macchina e andar su fino a [bologna]
+BOR017	[beh comunque] con i mezzi è °[fattibile]°
+BOI059	e[satto o anche so]lamente per andare a una sera: al pub
 BOR017	hai detto di avere trentasette anni
-BOI059	pensi che durante la tua vita a bologna in generale sia cambiata in quanto città?
+BOR017	pensi che durante la tua vita a bologna in generale sia cambiata in quanto città?
 BOI059	ni
 BOI059	allora nell'arco della mia vita io sono una di quelle che ha visto bologna diventare da città
 BOI059	al massimo per stude:nti
@@ -72,24 +72,24 @@ BOI059	quindi l'ho vista cambiare nel senso che ho visto:
 BOI059	molti più supermercati aprirsi: aumentare tantissimo:
 BOI059	e:h l~ le vie del~ dello shopping nel senso una volta via indipendenza non era la via dello shopping come lo è adesso
 BOI059	a differenza di via farini che è la via dello shopping dei ricchi
-BOR017	ma quello lo è sempre stato
-BOI059	((ride))
+BOI059	ma quello lo è sempre stato
+BOR017	((ride))
 BOI059	e: quindi l'ho vista cambiare sì
 BOI059	non dico in peggio
 BOI059	perché comunque
 BOI059	io capisco le potenzialità del turismo
 BOI059	non dico in meglio perché comunque s'è riempita un
 BOI059	filo tanto e stiamo perdendo alcune cose molto belle tipo
-BOR017	la basilica dei servi che ci stanno facendo un conad
-BOI059	°mh°
-BOR017	per[ò il turismo]
-BOI059	[questo è triste]
+BOI059	la basilica dei servi che ci stanno facendo un conad
+BOR017	°mh°
+BOI059	per[ò il turismo]
+BOR017	[questo è triste]
 BOI059	sì però il turismo lo richiede se comunque salvano in maniera coerente lo spazio
-BOR017	male non fa
+BOI059	male non fa
 BOR017	benissimo
-BOI059	e:h per quanto riguarda invece il tuo quartiere pensi che anch'esso sia cambiato molto?
-BOR017	>allora< casalecchio città no quartier[e]
-BOI059	°[o]kay°
+BOR017	e:h per quanto riguarda invece il tuo quartiere pensi che anch'esso sia cambiato molto?
+BOI059	>allora< casalecchio città no quartier[e]
+BOR017	°[o]kay°
 BOI059	non lo conosco a sufficienza da sapere quanto sia cambiato
 BOI059	da che ero piccola >a che io sono arrivata a viverci lì< sì
 BOI059	perché appunto ha subito grandi espansio:ni
@@ -103,22 +103,22 @@ BOI059	il primo supermercato di bologna che era appunto il centro borgo che o:h 
 BOI059	io
 BOI059	#con le cassiere scherzo sempre io ero una delle cinne che saltellava sul gonfiabile all'apertura adesso
 BOI059	ci vengo a fare l~ mh le mie spese da
-BOR017	eh donna con una famiglia con una casa ecco
-BOI059	credi che ci siano delle differenze tra i vari quartieri a [bologna]? e tra le person[e]?
+BOI059	eh donna con una famiglia con una casa ecco
+BOR017	credi che ci siano delle differenze tra i vari quartieri a [bologna]? e tra le person[e]?
 BOI059	[oh sì]
-BOR017	[oh] sì
-BOI059	((ride))
+BOI059	[oh] sì
+BOR017	((ride))
 BOI059	nel senso che
 BOI059	e:h bologna è
 BOI059	quel tantinello gra:nde
 BOI059	da
 BOI059	eh avere
 BOI059	e:h
-BOR017	il l'autorazzismo interno ovvero
-BOI059	mhmh
+BOI059	il l'autorazzismo interno ovvero
+BOR017	mhmh
 BOI059	eh
-BOR017	c(io)è se sei dei co:lli sei ricco >ma tendenzialmente è facile che tu sia< lievemente antipatico
-BOI059	((ride))
+BOI059	c(io)è se sei dei co:lli sei ricco >ma tendenzialmente è facile che tu sia< lievemente antipatico
+BOR017	((ride))
 BOI059	se sei del pila:stro
 BOI059	c'era il periodo in cui tanto se stai al pilastro sei un delinquente poi è diventata la ba:rca
 BOI059	e poi adesso non è più da nessuna parte
@@ -128,16 +128,16 @@ BOI059	per
 BOI059	stile di vita che la gente ha iniziato a viverci lontananza e vicinanza dal centro perché
 BOI059	quelli magari più lonta:ni
 BOI059	che sen~ si sentono satelliti in realtà hanno una vita propria >a differenza di quelli più vicini al centro< che vivono in funzione del centro
-BOR017	e anche per quanto riguarda magari diciamo le persone che ci vivono
+BOI059	e anche per quanto riguarda magari diciamo le persone che ci vivono
 BOR017	ti piace di più la bologna di oggi o di ieri?
-BOI059	è difficile la scelt[a]
+BOR017	è difficile la scelt[a]
 BOI059	[a:]llora
-BOR017	mettiamola così mi piace la bologna di oggi nel mese d'agosto
-BOI059	((ride))
-BOR017	che ((ride))
-BOI059	che è vuoto ti[po]?
-BOR017	[che]
-BOI059	((ride))
+BOI059	mettiamola così mi piace la bologna di oggi nel mese d'agosto
+BOR017	((ride))
+BOI059	che ((ride))
+BOR017	che è vuoto ti[po]?
+BOI059	[che]
+BOR017	((ride))
 BOI059	che sì >nel senso< c(io)è eh
 BOI059	c'è la possibilità di andare in giro a riprendersi il centro girarlo con pù tranquillità con pù serenità
 BOI059	>in realtà a me la (voglian)< la bologna di oggi piace con tutte le le: mh le possibilità che ci sono cose >che prima non c'erano< anche solame:nte
@@ -146,18 +146,18 @@ BOI059	trovare il negozio che ti fa il trucco particolare una volta non esisteva
 BOI059	quindi
 BOI059	mi piace la bologna di oggi
 BOI059	m:h
-BOR017	non sono entusiasta degli abitanti della bologna di oggi mettiamola così ecco
+BOI059	non sono entusiasta degli abitanti della bologna di oggi mettiamola così ecco
 BOR017	((schiocca_la_lingua))
 BOR017	<°okay°>
 BOR017	eh che cosa fai nel tuo tempo libero?
-BOI059	come trascorri ad esempio anche le vacanze? visto che ago:sto ((ride)) qui bo[logna è li][bera]
+BOR017	come trascorri ad esempio anche le vacanze? visto che ago:sto ((ride)) qui bo[logna è li][bera]
 BOI059	[esatto] [allora]
 BOI059	io trascorro le vaca:nze
-BOR017	stesso discorso nel mese di giugno
-BOI059	mh
+BOI059	stesso discorso nel mese di giugno
+BOR017	mh
 BOI059	per evitare
-BOR017	di avere addosso la [gente]
-BOI059	[mhmh]
+BOI059	di avere addosso la [gente]
+BOR017	[mhmh]
 BOI059	>in generale a me allora< le vacanze c(io)è per il farle fuori perché bologna la conosco
 BOI059	magari nella settimana di sta:cco che mi prendo di solito lavorando sotto natale piuttosto >che nei primi mesi dell'anno invece<
 BOI059	o >anche lì< tempo libero
@@ -172,8 +172,8 @@ BOI059	#anche lì quando ero: cinna io dovevi andare fuori per vedere cose belle
 BOI059	adesso >invece<
 BOI059	parte di bologna che mi piace della modifica
 BOI059	adesso è facile
-BOR017	fare una roba figa e andare magari appunto a vedersi una bella mostra in giro per bologna
-BOI059	a proposito di andare in giro vai al mercato?
+BOI059	fare una roba figa e andare magari appunto a vedersi una bella mostra in giro per bologna
+BOR017	a proposito di andare in giro vai al mercato?
 BOI059	quale? c(io)è nel senso allora
 BOI059	da bolognese >ti dico che<
 BOI059	se per mercato intendi la mon~ la piazzo:la
@@ -187,30 +187,30 @@ BOI059	xxxx c'è il mercato quindi:
 BOI059	e:h lunedì è a calderara di reno il mercoledì ce l'ho anche a casalecchio
 BOI059	il giovedì so che ce n'è uno se non l'hanno spostato a san pietro in casa:le
 BOI059	poi il venerdì e il sabato c'è la piazzo:la la domenica ci sono i vari merca:ti: straordina~
-BOR017	sì vado al mercato compro un sacco di roba ((ride)) al mercato
-BOI059	xxxx
-BOR017	mi piace andare al mercato [trovo che] siano belli
+BOI059	sì vado al mercato compro un sacco di roba ((ride)) al mercato
+BOR017	xxxx
+BOI059	mi piace andare al mercato [trovo che] siano belli
 BOR017	[okay]
-BOI059	pensi invece che bologna sia un buon posto per le nuove generazioni?
+BOR017	pensi invece che bologna sia un buon posto per le nuove generazioni?
 BOI059	sì
 BOI059	sì perché continuiamo ad avere un'offerta formativa non solo universitaria ma anche delle scuole superiori
 BOI059	ben: strutturata ben fatta devo dire
 BOI059	sì perché è una città aperta io mh
-BOR017	una cosa che amo di bologna è che tu puoi essere chi vuoi e[ssere]
-BOI059	[chi vuoi come] vuoi
-BOR017	come vuoi [senza e]ssere preoccupato di oh mio dio mi giudicheranno
-BOI059	[è vero]
+BOI059	una cosa che amo di bologna è che tu puoi essere chi vuoi e[ssere]
+BOR017	[chi vuoi come] vuoi
+BOI059	come vuoi [senza e]ssere preoccupato di oh mio dio mi giudicheranno
+BOR017	[è vero]
 BOI059	è uno dei motivi per cui sono felice di essere bolognese ehm:
-BOR017	è una cosa che mi piace un sacco
+BOI059	è una cosa che mi piace un sacco
 BOR017	e:h cosa ne pensi infatti >ti volevo chiedere anche< di noi giovani che veniamo qui a studiare
 BOR017	e ti chiedo anche
 BOR017	pensi che il tuo lavoro in quanto portina:ia in uno studenta:to
-BOI059	possa influire in questo tuo giudizio?
+BOR017	possa influire in questo tuo giudizio?
 BOI059	sì tantissimo
 BOI059	prima di voi
 BOI059	io
-BOR017	mh avevo un pessimo rapporto con i giovani che venivano da fuori
-BOI059	((ride))
+BOI059	mh avevo un pessimo rapporto con i giovani che venivano da fuori
+BOR017	((ride))
 BOI059	anche quando io ci ho provato a far l'università
 BOI059	comunque >allora<
 BOI059	il concetto è
@@ -228,43 +228,43 @@ BOI059	quindi i giovani in generale è un discorso fin troppo vago
 BOI059	avendo avuto a che fare con voi che
 BOI059	vuoi forza mh lavoro >quello che vuoi< siete costretti anche
 BOI059	a portare a casa gli esami ma anche con i vostri amici che vengono a trovarvi
-BOR017	#ho capito in realtà che è fisiologico il momento di sbrago totale
-BOI059	((ride))
+BOI059	#ho capito in realtà che è fisiologico il momento di sbrago totale
+BOR017	((ride))
 BOI059	però poi alla fine si ritorna sempre nei binari quindi
 BOI059	trovo anche
 BOI059	che siate in realtà adesso poi ci emozioneremo nel dirci queste cose
 BOI059	un piccolo tesoro nascosto perché potete dare ta:nto
 BOI059	a chi come me all'inizio (era) un po' paraocchi perché:
-BOR017	#cinno di merda fai ca~ fai del casino e basta ((ride))
-BOI059	((ride))
+BOI059	#cinno di merda fai ca~ fai del casino e basta ((ride))
+BOR017	((ride))
 BOI059	in realtà potete dare tanto a questo posto a questa città ed è una cosa figa
 BOI059	quindi sì penso che:
 BOI059	>sono contenta che i giovani vengano qui< e: e penso che: sì il mio
 BOI059	giudizio sia completamente influenzato dal mio lavoro ora
-BOR017	questo giudizio finalmente positivo ecco
-BOI059	visto che abbiamo tirato in ballo lo studenta:to:
-BOR017	sì
-BOI059	hai dei bei ricordi o degli aneddoti in particola:re che
-BOR017	((ride))
-BOI059	so[no legati] ad esso
+BOI059	questo giudizio finalmente positivo ecco
+BOR017	visto che abbiamo tirato in ballo lo studenta:to:
+BOI059	sì
+BOR017	hai dei bei ricordi o degli aneddoti in particola:re che
+BOI059	((ride))
+BOR017	so[no legati] ad esso
 BOI059	[il mio]
 BOI059	il mio aneddoto preferito è sempre uno
 BOI059	ed è che ai primi giorni dell'anno l'anno accademico essendo io
 BOI059	l'unica portiera
 BOI059	xx (appunto non è che) l'unica portiera l'unico eh mh dipendente di portineria
 BOI059	principalmente bolognese
-BOR017	io vi devo insegnare tre cose
-BOI059	°mh°
-BOR017	#che la spazzatura è il rusco
-BOI059	((ride))
-BOR017	#che il ragazzo è il cinno e declina regolare italiano quindi cinno cinna cinni cinne
-BOI059	((ride))
+BOI059	io vi devo insegnare tre cose
+BOR017	°mh°
+BOI059	#che la spazzatura è il rusco
+BOR017	((ride))
+BOI059	#che il ragazzo è il cinno e declina regolare italiano quindi cinno cinna cinni cinne
+BOR017	((ride))
 BOI059	e che
-BOR017	quando vuoi farti aprire da lontano
-BOI059	e[satto]
-BOR017	#[chiedi il ti]ro
+BOI059	quando vuoi farti aprire da lontano
+BOR017	e[satto]
+BOI059	#[chiedi il ti]ro
 BOR017	sì
-BOI059	mi [ricordo] ((ride))
+BOR017	mi [ricordo] ((ride))
 BOI059	>[questo per me]<
 BOI059	((ride)) vedi?
 BOI059	questo per me è proprio l'aneddoto più bello legato al lavoro perché
@@ -275,34 +275,34 @@ BOI059	tre termini dialettali
 BOI059	senza rendersene conto io ho
 BOI059	scoperto nella mia vita che rusco è dialetto
 BOI059	che avevo già
-BOR017	(buone) trent'anni [credo] quind[i]:
+BOI059	(buone) trent'anni [credo] quind[i]:
 BOR017	[certo]
-BOI059	[stai] [se]ttando i nostri paramet[ri]
+BOR017	[stai] [se]ttando i nostri paramet[ri]
 BOI059	[sì]
-BOR017	[es]at[to]
-BOI059	sul[la nuo]va [lingua]
-BOR017	[esatto] sulla [nuova]
-BOI059	sul [nuovo] [posto]
-BOR017	[esa]tto sul~ esatt[o]
-BOI059	[e]d è fondamentale eh ((ride))
-BOR017	#sì anche perché altrimenti (a)scolta mi dai il tiro? tu non sai cos'è dici cosa devo fare di questo campanello in cui c'è scritto tiro? ((ride))
+BOI059	[es]at[to]
+BOR017	sul[la nuo]va [lingua]
+BOI059	[esatto] sulla [nuova]
+BOR017	sul [nuovo] [posto]
+BOI059	[esa]tto sul~ esatt[o]
+BOR017	[e]d è fondamentale eh ((ride))
+BOI059	#sì anche perché altrimenti (a)scolta mi dai il tiro? tu non sai cos'è dici cosa devo fare di questo campanello in cui c'è scritto tiro? ((ride))
 BOR017	((ride))
-BOI059	#io le prime volte ero sconvolto da dammi un tiro
-BOR017	eh [certo]
-BOI059	[cioè non ca]pivo con tutto che lo sap[evo non capi][vo]
+BOR017	#io le prime volte ero sconvolto da dammi un tiro
+BOI059	eh [certo]
+BOR017	[cioè non ca]pivo con tutto che lo sap[evo non capi][vo]
 BOI059	((ride))
 BOI059	>[anche perché]<
-BOR017	[anche la s]igaretta: è un tiro
-BOI059	eh [certo]
+BOI059	[anche la s]igaretta: è un tiro
+BOR017	eh [certo]
 BOI059	#[può essere anche un cu]ccio
 BOI059	#ma un cuccio di sigaretta è più nei
 BOI059	((schiocca_la_lingua))
-BOR017	>se so che sei bolognese dico oh (a)scolta< dammi ben un cuccio di sigaretta se no è dammi un tiro
-BOI059	((ride))
-BOR017	anche di quello che è diverso da dammi il tiro ((ride))
+BOI059	>se so che sei bolognese dico oh (a)scolta< dammi ben un cuccio di sigaretta se no è dammi un tiro
+BOR017	((ride))
+BOI059	anche di quello che è diverso da dammi il tiro ((ride))
 BOR017	okay
 BOR017	eh
-BOI059	come vai e come invece andavi prima al lavor[o]
+BOR017	come vai e come invece andavi prima al lavor[o]
 BOI059	[al]lora dipende sempre dove sono
 BOI059	fintanto che sono qui in
 BOI059	negli studentati o comunque che lavoro nella zona del ce:ntro:
@@ -310,22 +310,22 @@ BOI059	mi piace muovermi
 BOI059	in: in autobus
 BOI059	perché comunque:
 BOI059	abitando adeso a casalecchio gli autobus sono ben serviti
-BOR017	e trovo che bologna abbia una rete abbastanza ((ride)) capillare di autobus che fa praticamente qualunque cosa
-BOI059	questo è il futuro te lo dico da siciliano questo è il fu[turo] ((ride))
+BOI059	e trovo che bologna abbia una rete abbastanza ((ride)) capillare di autobus che fa praticamente qualunque cosa
+BOR017	questo è il futuro te lo dico da siciliano questo è il fu[turo] ((ride))
 BOI059	((ride))
-BOR017	[graz]ie ((ride)) ne vado molto orgogliosa
-BOI059	((ride))
+BOI059	[graz]ie ((ride)) ne vado molto orgogliosa
+BOR017	((ride))
 BOI059	e:h poi dipende ci sono volte in cui devo per forza spostarmi in macchina ho avuto un periodo che da
 BOI059	casalecchio lavoravo al comune di argelato che è dall'altra parte del mo~ c(io)è
 BOI059	sono
 BOI059	non è dall'altra parte del mondo ma è (effettivamente) dall'altra parte del mondo quindi
 BOI059	se ti sposti dal~ da bolo:gna
 BOI059	devi per forza avere una macchina perché se no è infattibile
-BOR017	quindi a lavoro però ci vengo quando posso in autobus e se no ho comprato una macchina a gpl per inquinare meno
-BOI059	bra:va
-BOR017	gra:zie ((ride))
+BOI059	quindi a lavoro però ci vengo quando posso in autobus e se no ho comprato una macchina a gpl per inquinare meno
+BOR017	bra:va
+BOI059	gra:zie ((ride))
 BOR017	e:hm:
-BOI059	eri eri qui a bologna durante il periodo della pandemia? s[ì perché] me lo ricor[do]
+BOR017	eri eri qui a bologna durante il periodo della pandemia? s[ì perché] me lo ricor[do]
 BOI059	[sì:]
 BOI059	[esa]tto
 BOI059	anche perché essendo di bologna casa mia è bologna quindi non ho avuto bisogno di
@@ -343,55 +343,55 @@ BOI059	perché:
 BOI059	voi eravate le persone con cui noi potevamo parlare tutti i giorni
 BOI059	>non avevam bisogno di andare su un balcone ad appladire della gente< perché
 BOI059	vedevamo i vostri sforzi e vedevamo:
-BOR017	la fatica di essere qui e l~ l'onestà di dire no io ho bisogno di tornare a casa perché sto uscendo pazzo
+BOI059	la fatica di essere qui e l~ l'onestà di dire no io ho bisogno di tornare a casa perché sto uscendo pazzo
 BOR017	e mi permetto di dire che magari lo siamo ancora cioè nel senso che
-BOI059	parliamo ancora °xx[x ancora]°
-BOR017	[sì no c(io)è siamo an~] anzi da lì [si è crea~]
-BOI059	[grazie a quel][lo] [esatto si è creato:]
+BOR017	parliamo ancora °xx[x ancora]°
+BOI059	[sì no c(io)è siamo an~] anzi da lì [si è crea~]
+BOR017	[grazie a quel][lo] [esatto si è creato:]
 BOI059	[esa]tto [grazie a quello si è crea]to:
 BOI059	un maggiore ris~ mh livello di anche di fiducia e di rispetto ma anche solamente di affetto perché
 BOI059	abbia~ vi abbiamo visti
 BOI059	vi vedevamo
 BOI059	sia chi di voi è rimasto sia chi di voi è andato a casa quando è tornato quindi
 BOI059	è stato molto importante secondo c(io)è
-BOR017	nell[a sfiga]
-BOI059	[ci siamo vissu]ti
+BOI059	nell[a sfiga]
+BOR017	[ci siamo vissu]ti
 BOI059	esatto nella sfiga ci siamo vissuti e ci siamo resi conto
 BOI059	del fatto che
 BOI059	questa struttura in qualche senso ha salvato più di un senno
 BOI059	sia per chi è dovuto e voluto tornare a casa e poi
 BOI059	sapeva di avere un porto sicuro in cui
 BOI059	riscappare
-BOR017	però sì è merito della pandemia se anche questa intervista è merito della pandemia perché [è da lì che si]
-BOI059	((ride)) [certo]
-BOR017	abbiamo legato tutti quanti di più
-BOI059	al[trimen]ti non te l'avrei chiest[o]
+BOI059	però sì è merito della pandemia se anche questa intervista è merito della pandemia perché [è da lì che si]
+BOR017	((ride)) [certo]
+BOI059	abbiamo legato tutti quanti di più
+BOR017	al[trimen]ti non te l'avrei chiest[o]
 BOI059	[sì]
-BOR017	[e]satto
-BOI059	chiaro ((ride)) se non [ci fo]sse [xx]
+BOI059	[e]satto
+BOR017	chiaro ((ride)) se non [ci fo]sse [xx]
 BOI059	[sì]
 BOI059	>[no se] non ci fosse un rapporto non< sì se~
-BOR017	perché sono domande non personali
-BOI059	[ma qua:si]
+BOI059	perché sono domande non personali
+BOR017	[ma qua:si]
 BOI059	[ma qua:si] ((ride))
-BOR017	((ride))
+BOI059	((ride))
 BOR017	e:hm facciamo adesso invece se ti va una top ten
 BOR017	ovvero
 BOR017	cosa consiglieresti a una persona che visita bologna per la prima volta?
-BOI059	cinque posti
-BOR017	allora
+BOR017	cinque posti
+BOI059	allora
+BOR017	must have
 BOI059	must have
-BOI059	must have
-BOR017	piazza maggiore col nettuno nel senso che okay sono due piazze separate ma è una uni[ca]
-BOI059	[sì]
+BOI059	piazza maggiore col nettuno nel senso che okay sono due piazze separate ma è una uni[ca]
+BOR017	[sì]
 BOI059	anche perché noi
-BOR017	bolognesi se devi trovarti in piazza ti trovi sotto il culo del [nettuno]
+BOI059	bolognesi se devi trovarti in piazza ti trovi sotto il culo del [nettuno]
 BOR017	[°nettuno°]
-BOI059	per [forza]
+BOR017	per [forza]
 BOI059	[ma non al] nettuno
 BOI059	sotto al culo del nettuno quindi è esattamente in quello spigolo d~ di di di mh
-BOR017	mh di dis di di di di fontana sotto al culo del nettuno
-BOI059	((ride))
+BOI059	mh di dis di di di di fontana sotto al culo del nettuno
+BOR017	((ride))
 BOI059	poi
 BOI059	io
 BOI059	se ci sono io a farti da guida ti faccio anche vedere il dito del nettuno
@@ -403,13 +403,13 @@ BOI059	è bello il dentro cioè nel senso
 BOI059	°okay° che bella la piazza ma su cosa affaccia e piuttosto che
 BOI059	la basilica di san petronio per quanto la amo molto palazzo podestà mi è più nel cuore
 BOI059	torre degli asinelli
-BOR017	poi se siete studenti non dovete salire fino alla laurea però almeno sotto col naso per aria
-BOI059	io sono salito prima di iscriver[mi]
-BOR017	[>tu sei sa]lito prima di iscriverti< quindi hai fatto [bene]
-BOI059	[salvo]
+BOI059	poi se siete studenti non dovete salire fino alla laurea però almeno sotto col naso per aria
+BOR017	io sono salito prima di iscriver[mi]
+BOI059	[>tu sei sa]lito prima di iscriverti< quindi hai fatto [bene]
+BOR017	[salvo]
 BOI059	perché a quanto pare
-BOR017	per gli studenti dall'iscrizione in poi non si sale mai più
-BOI059	vade retr[o]
+BOI059	per gli studenti dall'iscrizione in poi non si sale mai più
+BOR017	vade retr[o]
 BOI059	[e]satto vade retro lì di fianco piazza santo stefano
 BOI059	perché ha il complesso delle sette chie:se perché
 BOI059	ti fa vedere la bologna:
@@ -417,24 +417,24 @@ BOI059	anti:ca
 BOI059	prima di essere bononia >c(io)è nel senso<
 BOI059	la chiesa ottagonale è un tempio di iside quindi stiamo parlando di un'occupazione
 BOI059	molto più antica rispetto a quello che uno si aspetta
-BOR017	e i giardini margherita
-BOI059	bellissimi aggiungerei
+BOI059	e i giardini margherita
+BOR017	bellissimi aggiungerei
 BOI059	io non li amavo moltissimo anche perché abitavo dall'altra parte di bologna non mi erano comodi
 BOI059	eh un po':
 BOI059	mh dopo le superiori in generale
-BOR017	sono veramente belli
-BOI059	°gra[ndissimi]°
+BOI059	sono veramente belli
+BOR017	°gra[ndissimi]°
 BOI059	[e a fine d]ella giornata soprattutto se c'è bel tempo >a maggior ragione<
-BOR017	fermarsi ai giardini magari per una granita per un gela:t[o:]
-BOI059	a[n]che solo per stare [lì due minuti] ne[lla natura] °bellis[simo]°
+BOI059	fermarsi ai giardini magari per una granita per un gela:t[o:]
+BOR017	a[n]che solo per stare [lì due minuti] ne[lla natura] °bellis[simo]°
 BOI059	[anche solo per s~]
 BOI059	[esatto]
-BOR017	[ti perme]tte di stare nella natura in centro in città letteralmente
-BOI059	(davver[o)]
-BOR017	[nella mi]a top cinque è questa
-BOI059	adesso ti chiedo ma dall'intervista già si nota
-BOR017	mh
-BOI059	conosci il dialetto bolognese? ma ne conosci anche altri?
+BOI059	[ti perme]tte di stare nella natura in centro in città letteralmente
+BOR017	(davver[o)]
+BOI059	[nella mi]a top cinque è questa
+BOR017	adesso ti chiedo ma dall'intervista già si nota
+BOI059	mh
+BOR017	conosci il dialetto bolognese? ma ne conosci anche altri?
 BOI059	allora
 BOI059	il mio dialetto
 BOI059	non è strettamente bolognese perché
@@ -445,23 +445,23 @@ BOI059	è nata la nonna di castello d'argile
 BOI059	il nonno è di pie:ve
 BOI059	quindi è un misto tra il bolognese e il ferrarese quindi papà parla un misto bolognese e ferrarese
 BOI059	mamma parla un misto modenese e ferrarese io parlo
-BOR017	una derivazione di ((ride)) è un casino della mado~
-BOI059	((ride))
-BOR017	è un po' >come la ricetta del ragù ognuno c'ha la sua<
-BOI059	okay ((ride))
+BOI059	una derivazione di ((ride)) è un casino della mado~
+BOR017	((ride))
+BOI059	è un po' >come la ricetta del ragù ognuno c'ha la sua<
+BOR017	okay ((ride))
 BOI059	io mi rendo conto che
-BOR017	quando parlo in dialetto mamma mi corregge perché sbaglio qualche parola [qui e là]
-BOI059	[secondo le]i ovviament[e]
-BOR017	[s]ì secondo lei >però in realtà<
-BOI059	((ride))
+BOI059	quando parlo in dialetto mamma mi corregge perché sbaglio qualche parola [qui e là]
+BOR017	[secondo le]i ovviament[e]
+BOI059	[s]ì secondo lei >però in realtà<
+BOR017	((ride))
 BOI059	è abba~ ha abbastanza ragione
 BOI059	la nonna di mio marito mi corregge ancora in maniera diversa perché lei ha il dialetto della montagna
 BOI059	quindi
 BOI059	lo capisco molto bene
 BOI059	lo parlo con difficoltà
-BOR017	lo parlo <solo> in famiglia
+BOI059	lo parlo <solo> in famiglia
 BOR017	quindi abitualmente
-BOI059	usi l'ital[iano]
+BOR017	usi l'ital[iano]
 BOI059	([io ab]itualmente) uso l'italiano
 BOI059	mi sono resa conto appunto con quelle tre quattro parole che per me
 BOI059	non sono neanche dialetto che me lo deve dire qulcun altro che è dialetto perché per me
@@ -471,12 +471,12 @@ BOI059	perché alla fine
 BOI059	non ho mai avuto
 BOI059	occasione di amicizie abbastanza lontane da impararle perché un dialetto non so ehm:
 BOI059	°(mhmh)° per dire romagno:lo
-BOR017	eh che arriva da una (.) figlia di un romagnolo e di una palermitana è difficile da [imparare]
-BOI059	[°(diverso ce~)°]
-BOR017	quindi io in realtà di dialetto conosco solo il mio
+BOI059	eh che arriva da una (.) figlia di un romagnolo e di una palermitana è difficile da [imparare]
+BOR017	[°(diverso ce~)°]
+BOI059	quindi io in realtà di dialetto conosco solo il mio
 BOR017	okay
 BOR017	e
-BOI059	ti dispiace il fatto che magari le nuove generazioni lo usino sempre m[eno]?
+BOR017	ti dispiace il fatto che magari le nuove generazioni lo usino sempre m[eno]?
 BOI059	[sì]
 BOI059	io per prima a me dispiace che il dialetto non si parli non si
 BOI059	coltivi
@@ -487,17 +487,17 @@ BOI059	perché gli spettacoli sono
 BOI059	m::h mo:lto amatoriali
 BOI059	e
 BOI059	tendenzialmente fa:tti da: anziani >quindi continuano a non essere< sufficientemente belli
-BOR017	e i corsi uno non c'ha voglia di andare a fare il corso letteralmen[te]
-BOI059	[diciamo]celo
-BOR017	no
-BOI059	anche [perché] se non sei del posto
-BOR017	[c(io)è]
-BOI059	è davvero pesant[e]
-BOR017	[es]at~ [ma io stessa]
-BOI059	cioè nel s[enso per me ad ese]mpio sarebbe impossibile fare un corso di [dialetto romagnolo]
+BOI059	e i corsi uno non c'ha voglia di andare a fare il corso letteralmen[te]
+BOR017	[diciamo]celo
+BOI059	no
+BOR017	anche [perché] se non sei del posto
+BOI059	[c(io)è]
+BOR017	è davvero pesant[e]
+BOI059	[es]at~ [ma io stessa]
+BOR017	cioè nel s[enso per me ad ese]mpio sarebbe impossibile fare un corso di [dialetto romagnolo]
 BOI059	[ma poi qui subentra anche] un discorso che so che tu puoi capirmi
-BOR017	che è la differenza tra una lingua scritta e una lingua parla[ta]
-BOI059	°[esa]ttamen~°
+BOI059	che è la differenza tra una lingua scritta e una lingua parla[ta]
+BOR017	°[esa]ttamen~°
 BOI059	il dialetto nasce come lingua orale a trascr~ a a a trasposizione a insegnamento orale
 BOI059	l'idea di doverlo trovare scritto capire l'accento circonflesso l'accento di qua l'accento di là
 BOI059	non ci riesco perché non mi appartiene dovrei imparare una nuova lingua in un certo senso quindi
@@ -509,81 +509,81 @@ BOI059	#lui andava in centro a bologna da cinno
 BOI059	#appunto perché cinno è automatico
 BOI059	e c'erano i capannelli di vecchietti che parlavano in dialetto
 BOI059	tu potevi arrivar lì e parlare
-BOR017	#ma a scor in dialat
-BOI059	((ride))
+BOI059	#ma a scor in dialat
+BOR017	((ride))
 BOI059	no solo in dialetto quindi c'era un modo per impararla
 BOI059	gli anziani pian piano: son diventati morti
-BOR017	gli adulti pian piano non lo sapevano più quindi non non si pratica più così tanto mi dispiace tantissimo
-BOI059	altra domanda per una bolognese do[c]
-BOR017	[sì]
-BOI059	sei mai stata a san luca?
+BOI059	gli adulti pian piano non lo sapevano più quindi non non si pratica più così tanto mi dispiace tantissimo
+BOR017	altra domanda per una bolognese do[c]
+BOI059	[sì]
+BOR017	sei mai stata a san luca?
 BOI059	((ride))
 BOI059	sì
 BOI059	spesso
 BOI059	e:hm nel senso
-BOR017	a me san luca piace la prima volta probabilmente ci sono stata che ero una bimba e non ne ho neanche memoria
-BOI059	mh
-BOR017	eh ci sono tornata un altro paio di volte con la scuo:la e con le elementa:ri e con le me:die con le superiori l'ho saltata
+BOI059	a me san luca piace la prima volta probabilmente ci sono stata che ero una bimba e non ne ho neanche memoria
+BOR017	mh
+BOI059	eh ci sono tornata un altro paio di volte con la scuo:la e con le elementa:ri e con le me:die con le superiori l'ho saltata
 BOR017	((ride))
-BOI059	e tutti gli anni ((ride))
+BOR017	e tutti gli anni ((ride))
 BOI059	>e tutti gli anni xx (tutti gli anni) andiamo a san luca andiamo a san luca<
 BOI059	non è un posto in cui è facile andare a far fuga nel senso che
 BOI059	se non vuoi andare a lezione non vai a san luca perché han messo su l'autobus ma da poco
-BOR017	prima bisognava andar su a piedi
+BOI059	prima bisognava andar su a piedi
 BOR017	((ride))
-BOI059	c[erto]
-BOR017	[è è un] portico lungo c(io)è nel sen[so]
-BOI059	[son]o seicento[sessantasei] se non erro [tipo]
+BOR017	c[erto]
+BOI059	[è è un] portico lungo c(io)è nel sen[so]
+BOR017	[son]o seicento[sessantasei] se non erro [tipo]
 BOI059	[sì esatto]
-BOR017	[sì sì] e seicentosessantasei arcate
-BOI059	((ride))
-BOR017	e::h[m]
-BOI059	[il più] lungo d'euro:pa
+BOI059	[sì sì] e seicentosessantasei arcate
+BOR017	((ride))
+BOI059	e::h[m]
+BOR017	[il più] lungo d'euro:pa
 BOI059	[il più] lungo d'e~
-BOR017	ah
-BOI059	((ride))
+BOI059	ah
+BOR017	((ride))
 BOI059	xxxxxx che poi bisogna sempre capire se parti da
-BOR017	andrea costa se parti da saragozza da dove diavolo parti
-BOI059	((ride))
+BOI059	andrea costa se parti da saragozza da dove diavolo parti
+BOR017	((ride))
 BOI059	per me san luca è stato importante perché in uno dei momenti di: m:h
 BOI059	fidanza:ta
 BOI059	convivente da un paio d'anni
 BOI059	e::h marito in trasferta
 BOI059	io in attimo di panico perché era la prima volta che ero da sola in quella che era casa sua in affitto ed era casa nostra
-BOR017	sono uscita di casa da casalecchio e sono arrivata su a piedi a san luca
-BOI059	wow com[plimenti]
+BOI059	sono uscita di casa da casalecchio e sono arrivata su a piedi a san luca
+BOR017	wow com[plimenti]
 BOI059	[e poi son tornata giù] a piedi
-BOR017	perché ed era l'otto marzo in tutto questo tra l'altro cioè >memoria improvvisa< [quindi]
-BOI059	[indipe]ndenza delle [donne]
-BOR017	[esatt]o indipendenza delle donne: attacco di panico di essere da sola ho preso e sono andata su a piedi letteralmente
-BOI059	parlando di portici
-BOR017	sì
-BOI059	immagino tu abbia letto che sono stati dichiarati patrimonio dell'unesco [grandis]simo o[nore] °grandis[simo onore]°
+BOI059	perché ed era l'otto marzo in tutto questo tra l'altro cioè >memoria improvvisa< [quindi]
+BOR017	[indipe]ndenza delle [donne]
+BOI059	[esatt]o indipendenza delle donne: attacco di panico di essere da sola ho preso e sono andata su a piedi letteralmente
+BOR017	parlando di portici
+BOI059	sì
+BOR017	immagino tu abbia letto che sono stati dichiarati patrimonio dell'unesco [grandis]simo o[nore] °grandis[simo onore]°
 BOI059	[ovvio]
 BOI059	[yes]
-BOR017	[sì]
-BOI059	secondo te meritano davvero ques[to ti]tolo?
+BOI059	[sì]
+BOR017	secondo te meritano davvero ques[to ti]tolo?
 BOI059	[sì]
 BOI059	sì
-BOR017	me ne son resa conto:: andando in altre città
-BOI059	oka[y]
+BOI059	me ne son resa conto:: andando in altre città
+BOR017	oka[y]
 BOI059	[nel s]enso che quando in altre città piove non puoi vedere il centro storico
-BOR017	da noi sì
-BOI059	((ride))
+BOI059	da noi sì
 BOR017	((ride))
-BOI059	ti sembra nient[e]?
+BOI059	((ride))
+BOR017	ti sembra nient[e]?
 BOI059	[n]o ((ride))
 BOI059	>quando vai a fare shopping< se piove hai tempo di uscire dal negozio sistemare le tue robe e andare oltre
-BOR017	quindi: io credo che se li meritino sì
+BOI059	quindi: io credo che se li meritino sì
 BOR017	hai
-BOI059	qualche aneddoto legato ai portici?
+BOR017	qualche aneddoto legato ai portici?
 BOI059	una marea c(io)è nel senso
 BOI059	l'ultimo è di questo halloween a me piace festeggiare halloween
 BOI059	eh volevamo fare un:
 BOI059	filmatino carino collegato al fatto che e:h
 BOI059	rappresentavamo due personaggi di un film in un certo senso
-BOR017	e abbiamo usato i portici come ambientazione
-BOI059	°wow°
+BOI059	e abbiamo usato i portici come ambientazione
+BOR017	°wow°
 BOI059	piuttosto che: da ragazzina che cerchi tutte quante conti i vari cosi dei portici
 BOI059	piuttosto che quando sei in ugo bassi sotto le paz
 BOI059	e:h
@@ -592,55 +592,55 @@ BOI059	quindi sì più che più che aneddoti
 BOI059	sono letteralmente i momenti di vita perché i portici fanno parte di noi non è
 BOI059	<l'aneddoto oh mio dio>
 BOI059	<la volta in cui hai lasciato il: morosino delle scuole superiori>
-BOR017	e sei sotto al portico in uno spigolino a piangere passa il vecchietto e cerca di tirarti su di morale [quindi]
-BOI059	[te lo rico]rdi per[ò]
+BOI059	e sei sotto al portico in uno spigolino a piangere passa il vecchietto e cerca di tirarti su di morale [quindi]
+BOR017	[te lo rico]rdi per[ò]
 BOI059	[sì]
 BOI059	tutto beh eh mi ricordo
-BOR017	non ti dico al cento per cento in quale arcata di portico
-BOI059	[xxx]
+BOI059	non ti dico al cento per cento in quale arcata di portico
+BOR017	[xxx]
 BOI059	[ma che ero]
-BOR017	nei portici di via santo [stefano (.) perché] sono i nostri portici sono (.) casa per noi letteralmente
-BOI059	[ah okay]
+BOI059	nei portici di via santo [stefano (.) perché] sono i nostri portici sono (.) casa per noi letteralmente
+BOR017	[ah okay]
 BOI059	#tutti i vari scrumazzi fatti perché hai la scarpa slacciata
-BOR017	ma tanto sei sotto al portico e non ti smerdi di fango
+BOI059	ma tanto sei sotto al portico e non ti smerdi di fango
 BOR017	°esatto°
 BOR017	e:hm:
-BOI059	per quanto riguarda i portici pensi che siano cambiati anch'essi negli anni? se sì come?
+BOR017	per quanto riguarda i portici pensi che siano cambiati anch'essi negli anni? se sì come?
 BOI059	sì penso che siano stati migliorati nel senso che
 BOI059	ancor prima di diventare patrimonio dell'unesco
 BOI059	la gente si è resa conto che sono di qualità
-BOR017	[che sono] una qualità e che sono importanti quindi
-BOI059	°[mhmh]°
+BOI059	[che sono] una qualità e che sono importanti quindi
+BOR017	°[mhmh]°
 BOI059	man mano vedevi le varie zone che li sistemava nel senso
 BOI059	non ho mai capito se sono eh in in gestione al comune
 BOI059	se sono in gestione
 BOI059	ai vari negozi o che cosa
-BOR017	però ogni tanto tu vedevi il pezzo di portico chiuso perché veniva sistemato
-BOI059	sì [ho visto] che a volte lavorano [nel pavimen]to a volte nel [muro]
+BOI059	però ogni tanto tu vedevi il pezzo di portico chiuso perché veniva sistemato
+BOR017	sì [ho visto] che a volte lavorano [nel pavimen]to a volte nel [muro]
 BOI059	[mh]
 BOI059	[esatto]
 BOI059	[sono ca]mbiate nel senso che
 BOI059	si s~
 BOI059	eh stanno cercando di tornare ad un antico splendore che non hanno mai avuto perché ora vivono uno splendore
-BOR017	migliore rispetto a quando sono nati secondo me
-BOI059	ovviamente immagino tu sappia lo scopo con cui sono stati realizzati se non dovessi saperlo possiamo provare ad immaginarlo in[sieme]
+BOI059	migliore rispetto a quando sono nati secondo me
+BOR017	ovviamente immagino tu sappia lo scopo con cui sono stati realizzati se non dovessi saperlo possiamo provare ad immaginarlo in[sieme]
 BOI059	[al(l)o]:ra
-BOR017	la versione che so io e anche al(l)o:ra è cadenza del dialetto bolognese poi
-BOI059	((ride))
+BOI059	la versione che so io e anche al(l)o:ra è cadenza del dialetto bolognese poi
+BOR017	((ride))
 BOI059	la: versione che so io è che
 BOI059	essendo le vie più importanti e principali della città
 BOI059	venivano aggiunti secondi piani alle case
 BOI059	e non essendoci nessuno a controllare
 BOI059	stiam parlando dal medioevo in poi c(io)è medioevo proprio
-BOR017	veniva allungato un pochino davanti sempre
-BOI059	[okay]
+BOI059	veniva allungato un pochino davanti sempre
+BOR017	[okay]
 BOI059	[e quindi] in questo modo bisognava poi creare sostegno
 BOI059	alla struttura perché altrimenti la struttura veniva giù
 BOI059	in più
 BOI059	ha di particolare il fatto che
 BOI059	ehm
-BOR017	#è da lì che nasce il tiro di bologna [nel senso]
-BOI059	[°okay°]
+BOI059	#è da lì che nasce il tiro di bologna [nel senso]
+BOR017	[°okay°]
 BOI059	si dice sempre stesso discorso che ci fosse la chiusura
 BOI059	sulle porte
 BOI059	e
@@ -648,39 +648,39 @@ BOI059	praticamente
 BOI059	al piano superiore
 BOI059	all'altezza della porta c'era una corda
 BOI059	#che era legata alla porta del piano di sotto quindi da giù oh dammi il tiro
-BOR017	tu tira:vi la [corda che non era ques]tione di contrappeso >era proprio< tiravi su la porta
-BOI059	[°wo:w°]
+BOI059	tu tira:vi la [corda che non era ques]tione di contrappeso >era proprio< tiravi su la porta
+BOR017	[°wo:w°]
 BOI059	per aprire la porta sotto quindi il nostro dammi il tiro
-BOR017	ha delle origini storiche p[ortici]
-BOI059	[antichiss]i[me]
+BOI059	ha delle origini storiche p[ortici]
+BOR017	[antichiss]i[me]
 BOI059	[sì s]ì perché per noi è tutto collegato noi siamo bolognesi noi siamo lievemente radicati
 BOI059	c(io)è nel senso è casa nostra non ci cacci
 BOI059	ci evolviamo fintanto che
 BOI059	ne vale la pena però n:on c(io)è
 BOI059	siamo un tutt'uno col nostro passato il più delle volte c~
-BOR017	ce ne vantiamo anche un po' abbastanza
-BOI059	vi ammiro mol[to]
+BOI059	ce ne vantiamo anche un po' abbastanza
+BOR017	vi ammiro mol[to]
 BOI059	[bolo]gna la rossa bologna la dotta bologna la grassa
-BOR017	siamo tra l'altro oggi oggi è martedì gras[so]?
-BOI059	[sì]
-BOR017	quindi bologna la grassa le nostre sfrappole sono le migliori del mondo
-BOI059	((ride))
+BOI059	siamo tra l'altro oggi oggi è martedì gras[so]?
+BOR017	[sì]
+BOI059	quindi bologna la grassa le nostre sfrappole sono le migliori del mondo
+BOR017	((ride))
 BOI059	i tortellini sono nostri e non di: non di >anz~< anche lì
 BOI059	è un discorso complicato i tortellini
-BOR017	sono di castelfranco emilia
-BOI059	okay quindi [nean]che di bologna
+BOI059	sono di castelfranco emilia
+BOR017	okay quindi [nean]che di bologna
 BOI059	[che]
-BOR017	attualmen~ non dire una cosa del genere che ti picchio ((ride))
+BOI059	attualmen~ non dire una cosa del genere che ti picchio ((ride))
 BOR017	((ride))
-BOI059	°[aiuto]°
+BOR017	°[aiuto]°
 BOI059	[secondo] la tradi~ secondo la geopolitica attuale
-BOR017	castelfranco è sotto modena
-BOI059	°oka[y]°
+BOI059	castelfranco è sotto modena
+BOR017	°oka[y]°
 BOI059	[ma s]econdo la diocesi
 BOI059	è sotto bologna quindi comunque rimane nostro
-BOR017	((ride))
+BOI059	((ride))
 BOR017	che cosa ne pensi dunque dello stato attuale dei nostri portici? c'è qualcosa che si potrebbe migliorare secondo te?
-BOI059	come la miglior[eres]ti?
+BOR017	come la miglior[eres]ti?
 BOI059	[allora]
 BOI059	i portici di città
 BOI059	sono messi bene
@@ -698,21 +698,21 @@ BOI059	e quello che ottieni in cambio è forse qualcosa
 BOI059	se sei ricco dai direttamente i soldi per rifare una delle arcate
 BOI059	però il punto è che comunque essendo patrimonio della citt~ >c(io)è (se) anche lì<
 BOI059	se è proprietà della chiesa che la chiesa lo sistemi se è patrimonio del comune che il comune lo sistemi ci sono dei gradini
-BOR017	che son consumati uno sì e mh [eh]
-BOI059	[sì sì] °[è rischioso è rischioso]°
+BOI059	che son consumati uno sì e mh [eh]
+BOR017	[sì sì] °[è rischioso è rischioso]°
 BOI059	[è più difficile (.) al di là di rischio]so
-BOR017	#l'è più difezil andar sò e:h o:h si fa della fatica per niente ecco
+BOI059	#l'è più difezil andar sò e:h o:h si fa della fatica per niente ecco
 BOR017	((ride))
 BOR017	°vero°
 BOR017	°verissimo°
-BOI059	ma ho visto che prima hai citato il cibo passiamo dunque al cibo
-BOR017	sono bolognese per [forza]
-BOI059	[parliamo] parliamo allora dei piatti tipici bolognesi
+BOR017	ma ho visto che prima hai citato il cibo passiamo dunque al cibo
+BOI059	sono bolognese per [forza]
+BOR017	[parliamo] parliamo allora dei piatti tipici bolognesi
 BOI059	allora
-BOR017	non credere a quello che ti dicono in giro
-BOI059	°ok[ay°]
-BOR017	nel [sens]o le tigelle non sono nostre
-BOI059	[sì]
+BOI059	non credere a quello che ti dicono in giro
+BOR017	°ok[ay°]
+BOI059	nel [sens]o le tigelle non sono nostre
+BOR017	[sì]
 BOI059	[sono mo]denesi
 BOI059	che loro tra l'altro lo chiamano lo gnocco perché la tigella è l'impa~ è l~
 BOI059	per loro la tigella è il pezzo di meta~ di di
@@ -733,8 +733,8 @@ BOI059	anche l'agnello (.) E
 BOI059	particolarissima
 BOI059	la crema fritta
 BOI059	la crema fritta è tipica bolognese >checchè ti dicano in giro la crema fritta viene da noi<
-BOR017	>perché fa parte del [nostro]<
-BOI059	[è un do]lce
+BOI059	>perché fa parte del [nostro]<
+BOR017	[è un do]lce
 BOI059	è un dolce
 BOI059	m:a è a:nche non un dolce perché fa parte del gran fritto
 BOI059	se tu fai il gran fritto >che quindi sono< costine d'agnello
@@ -754,50 +754,50 @@ BOI059	#la carota è la pistinaga
 BOI059	nel nostro dialetto più antico e quindi ci va
 BOI059	#lo zucchino sono i zucchini quindi hanno comunque un'accezione
 BOI059	dialettale quindi ci va
-BOR017	#la carota di sicuro perché appunto pistinaga mamma mi chiamava la mia piccola pistinaga
-BOI059	ver[o]?
+BOI059	#la carota di sicuro perché appunto pistinaga mamma mi chiamava la mia piccola pistinaga
+BOR017	ver[o]?
 BOI059	[s]ì
 BOI059	#io ero tutto l'orto per mia mamma la pistinaga rimane sempre la mia preferita
 BOI059	quindi gran fritto bolognese assolutamente TORTELLINO
-BOR017	in brodo
-BOI059	sempre rigorosamente
+BOI059	in brodo
+BOR017	sempre rigorosamente
 BOI059	alla panna
 BOI059	è concesso
 BOI059	al ragù
 BOI059	sei il figlio del diavolo
-BOR017	pasticciato solo in casa
-BOI059	in casa si può fa[re]
+BOI059	pasticciato solo in casa
+BOR017	in casa si può fa[re]
 BOI059	[in] (pa~) in casa si può fare ma solo in casa
 BOI059	quindi lo scrigno di venere di bruno barbieri con il tortellino pasticciato
 BOI059	se lo può mangiare lui
-BOR017	((ride))
-BOI059	°okay okay° ((ride))
-BOR017	ah e poi abbiamo la petroniana la cotoletta alla bolognese che è una coto[letta]
-BOI059	[sì] buonissim[a]
+BOI059	((ride))
+BOR017	°okay okay° ((ride))
+BOI059	ah e poi abbiamo la petroniana la cotoletta alla bolognese che è una coto[letta]
+BOR017	[sì] buonissim[a]
 BOI059	[>allora<] è una cotoletta di vitello
 BOI059	passata per bene ne:lla nella: nella panatura che è una panatura che prevede
 BOI059	pangrattato e formaggio quella bolognese
 BOI059	poi viene cotta nel brodo
 BOI059	quindi alza anche un pochino la crosta ci aggiungi sopra
-BOR017	>un pezzettino di formaggio< sto iniziando a sbavare
-BOI059	((ride))
+BOI059	>un pezzettino di formaggio< sto iniziando a sbavare
+BOR017	((ride))
 BOI059	ci aggiungi sopra un pezzettino di formaggio il prosciutto crudo
 BOI059	un po' di panna o besciamella a seconda della ricetta
-BOR017	alcuni un po' di concentrato di pomodoro eventualmente anch[e]
-BOI059	°[b]uon[o]°
-BOR017	[s]ì è una sb~ [c(io)è è] [sì]
-BOI059	[particolare no]? [col pomodo]ro non:
+BOI059	alcuni un po' di concentrato di pomodoro eventualmente anch[e]
+BOR017	°[b]uon[o]°
+BOI059	[s]ì è una sb~ [c(io)è è] [sì]
+BOR017	[particolare no]? [col pomodo]ro non:
 BOI059	eh no la (c~ l~) c'è anche chi la fa col pomodoro
-BOR017	dipende anche lì il ristorante e tutto il resto
+BOI059	dipende anche lì il ristorante e tutto il resto
 BOR017	tra tutta questa lista
-BOI059	quali sono i tuoi piatti preferiti?
-BOR017	i doratini di pollo ((ride)) che non te li ho [detti]
-BOI059	[non li hai de]tti
+BOR017	quali sono i tuoi piatti preferiti?
+BOI059	i doratini di pollo ((ride)) che non te li ho [detti]
+BOR017	[non li hai de]tti
 BOI059	((ride)) allora
 BOI059	di questa lista
-BOR017	ah ci sono anche i passatelli tra l'altro tra i tipici la zuppa imperiale che è che è un altro un >al[tro tipo di]< pa~ no pasta [sempre]
+BOI059	ah ci sono anche i passatelli tra l'altro tra i tipici la zuppa imperiale che è che è un altro un >al[tro tipo di]< pa~ no pasta [sempre]
 BOR017	[dolce]?
-BOI059	[pasta]
+BOR017	[pasta]
 BOI059	ehm allora in questa lista:
 BOI059	i tortellini al in brodo
 BOI059	no i tortellini alla panna perché alla fine sono una bimba dentro
@@ -808,15 +808,15 @@ BOI059	cucinato
 BOI059	per bene fritto perché a bologna se è fritto è buono a quindi appunto
 BOI059	la
 BOI059	la mia ricetta di doratino di pollo che è diversa per esempio da quella: di fami~ eh quella del mio mari~ di mio marito prevede
-BOR017	un ammollo di un giorno nell'uovo
-BOI059	w[o:w]
+BOI059	un ammollo di un giorno nell'uovo
+BOR017	w[o:w]
 BOI059	[per dire s]ì
-BOR017	sono (.) morbidissimi buonissimi
+BOI059	sono (.) morbidissimi buonissimi
 BOR017	okay a proposito di ricette
-BOI059	visto che ci hai citato tutti questi [pia]tti qualche chicca ce la potresti dare?
+BOR017	visto che ci hai citato tutti questi [pia]tti qualche chicca ce la potresti dare?
 BOI059	[mh]
-BOR017	allora posso darti i doratini di pollo ma senza darti le dosi
-BOI059	o:[kay che poi] inventi tu
+BOI059	allora posso darti i doratini di pollo ma senza darti le dosi
+BOR017	o:[kay che poi] inventi tu
 BOI059	[nel senso che i doratini]
 BOI059	eh no allora le mie dosi sono le dosi dei ca~
 BOI059	casa mia
@@ -825,8 +825,8 @@ BOI059	eh
 BOI059	non te le posso dare la mamma mi picchia
 BOI059	però il doratino di pollo si fa così
 BOI059	tu prendi il pollo
-BOR017	lo metti a bagno il giorno prima con sale uovo noce moscata la noce moscata regina a [bologna]
-BOI059	[(°wo:w°)]
+BOI059	lo metti a bagno il giorno prima con sale uovo noce moscata la noce moscata regina a [bologna]
+BOR017	[(°wo:w°)]
 BOI059	assolutamente la prendi e la grattugi non prendi quella già grattugiata perché non è altrettanto fresca
 BOI059	qui parte la la nazi cucina che c'è in me ((ride))
 BOI059	quindi assolutamente mhmh noce moscata grattugiata la lasci a mollo
@@ -837,24 +837,24 @@ BOI059	tiri fuori il doratino
 BOI059	lì dov'è lo pani in un misto di pangrattato e grana grattugiato
 BOI059	#poi se sei veramente una brutta persona lo ripucci in altro olio e di nuovo in pangrattato e uovo
 BOI059	mh c(io)è ma non prima pangrattato e poi formaggio formaggio e non uovo
-BOR017	non separati insi[eme]
-BOI059	°[insiem]e°
-BOR017	c(io)è li mescoli dopodiché frittura profonda
-BOI059	mhmh
+BOI059	non separati insi[eme]
+BOR017	°[insiem]e°
+BOI059	c(io)è li mescoli dopodiché frittura profonda
+BOR017	mhmh
 BOI059	>quindi< grande bacinella d'olio
-BOR017	possibilmente di semi meglio se di girasole
-BOI059	mhmh
+BOI059	possibilmente di semi meglio se di girasole
+BOR017	mhmh
 BOI059	e poi friggi di prepotenza
 BOI059	la ricetta del tortellino non te la posso dare perché: è segreta
-BOR017	[è di famiglia]
-BOI059	[ma mi puoi dire che] si mette nel ripieno?
+BOI059	[è di famiglia]
+BOR017	[ma mi puoi dire che] si mette nel ripieno?
 BOI059	ah dipende ((ride)) ((ride))
-BOR017	allora già il ripieno è a crudo o a cotto secondo te?
-BOI059	crudo?
-BOR017	bravo
-BOI059	°okay°
-BOR017	quelli che dicono è a cotto anche lì figli del diavolo
-BOI059	o[kay]
+BOI059	allora già il ripieno è a crudo o a cotto secondo te?
+BOR017	crudo?
+BOI059	bravo
+BOR017	°okay°
+BOI059	quelli che dicono è a cotto anche lì figli del diavolo
+BOR017	o[kay]
 BOI059	[poi] dipende se uno c'ha della tolleranza si fa tutto
 BOI059	qualche anno fa abbiamo fatto l'evento
 BOI059	dei tortellini di pollo
@@ -865,8 +865,8 @@ BOI059	è il discorso di prima
 BOI059	bologna è una città FIGA
 BOI059	facciamo il tortellino di pollo
 BOI059	#per quei cristian ch~
-BOR017	#che (.) quei cristian non è perché non son cristiani appunto
-BOI059	((ride))
+BOI059	#che (.) quei cristian non è perché non son cristiani appunto
+BOR017	((ride))
 BOI059	che non possono mangiare: il il il maiale c(io)è è è così per noi
 BOI059	il tortellino è un misto di più carni di maiale tendenzialmente vari pezzettini lonzina coscina pezzettini vari e mortadella
 BOI059	quindi chi becca il pepe è la persona fortunata
@@ -876,22 +876,22 @@ BOI059	al massimo se no anche più grossa
 BOI059	un uovo
 BOI059	non c'è vergogna nel tirarla con la macchinetta piuttosto che tirare la sfoglia a mano
 BOI059	io l'ho provata a tirare a mano a me piace tantissimo cucinare ma tirare la sfoglia a mano vuol dire sfarsi la schiena
-BOR017	allora piuttosto vado a comprarmi una buona macchinetta tanto alla fine funziona così qu[indi]
-BOI059	[(io) ho il] ricordo di nonna che per quanto non faccia i tortellini
+BOI059	allora piuttosto vado a comprarmi una buona macchinetta tanto alla fine funziona così qu[indi]
+BOR017	[(io) ho il] ricordo di nonna che per quanto non faccia i tortellini
 BOI059	eh
-BOR017	però com[unque la sf~]
-BOI059	[la pas]ta che fa in casa lei
-BOR017	esatto è [lo stesso discorso]
-BOI059	[(anche lei è) la stessa co]sa
-BOR017	di base ci sono svariati ricettari registrati se li vuoi
-BOI059	°oka[y]°
+BOI059	però com[unque la sf~]
+BOR017	[la pas]ta che fa in casa lei
+BOI059	esatto è [lo stesso discorso]
+BOR017	[(anche lei è) la stessa co]sa
+BOI059	di base ci sono svariati ricettari registrati se li vuoi
+BOR017	°oka[y]°
 BOI059	[eh] in camera di comme:rcio: in: il cucchiaio d'arge:nto:
 BOI059	il modo migliore però per avere una buona ricetta bolognese è diventare davvero amico di qualcuno
 BOI059	perché quando diventiamo davvero amici
-BOR017	vi diamo anche il cuore oltre che le ricet[te]
+BOI059	vi diamo anche il cuore oltre che le ricet[te]
 BOR017	[w]o:w
-BOI059	che dolci voi bolognesi
+BOR017	che dolci voi bolognesi
 BOI059	grazie
-BOR017	((ride))
-BOI059	grazie mille
+BOI059	((ride))
+BOR017	grazie mille
 BOI059	prego

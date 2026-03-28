@@ -1,83 +1,83 @@
 BOR005	allora
-BOI019	inizio subito chiedendole in che quartiere di bologna vive
+BOR005	inizio subito chiedendole in che quartiere di bologna vive
 BOI019	quartiere saragozza
 BOI019	attualmente si dice saragozza porto perché
-BOR005	questo quartiere è diventato ancora più grande credo che abbia più di sessanta mila persone
-BOI019	ah molte quindi
-BOR005	sì
-BOI019	e si trova bene qua
+BOI019	questo quartiere è diventato ancora più grande credo che abbia più di sessanta mila persone
+BOR005	ah molte quindi
+BOI019	sì
+BOR005	e si trova bene qua
 BOI019	quindi saragozza porto
 BOI019	benissimo son cinquant'anni che abi~ sessant'anni
-BOR005	che abito in questo quartiere
-BOI019	mhmh
+BOI019	che abito in questo quartiere
+BOR005	mhmh
 BOI019	un quartiere che è diventato anche direi
 BOI019	eh più abitato di quando io abitavo qui
 BOI019	perché son state costruite poi tante case eh
-BOR005	quando sono arrivata questa mia casa non c'era per esempio
-BOI019	ah
-BOR005	non c'era
-BOI019	ed è cambiato
-BOR005	negli a~ gli anni sessanta negli anni sessanta questa casa non c'era c'erano due villette
-BOI019	e basta
-BOR005	e basta c'è rimasta la testimonianza di un abete bellissimo
-BOI019	e quindi il quartiere è cambiato molto in questi anni
-BOR005	il cambiere è cambiato molto
+BOI019	quando sono arrivata questa mia casa non c'era per esempio
+BOR005	ah
+BOI019	non c'era
+BOR005	ed è cambiato
+BOI019	negli a~ gli anni sessanta negli anni sessanta questa casa non c'era c'erano due villette
+BOR005	e basta
+BOI019	e basta c'è rimasta la testimonianza di un abete bellissimo
+BOR005	e quindi il quartiere è cambiato molto in questi anni
+BOI019	il cambiere è cambiato molto
 BOR005	ma solo a livello diciamo di struttura o anche di persone che la abitano che ci lavorano
-BOI019	lo vede molto cambiato questo quartiere
+BOR005	lo vede molto cambiato questo quartiere
 BOI019	mah ehm
-BOR005	io penso che c'era più artigianato una volta
+BOI019	io penso che c'era più artigianato una volta
 BOR005	mh
-BOI019	probabile sì
+BOR005	probabile sì
 BOI019	sì anche i portici me li ricordo abitati
 BOI019	abitati da da calzolai eh sarti
 BOI019	eh
 BOI019	queste queste figure sono sparite gli artigiani non esistono più
-BOR005	ma negli anni sessanta c'erano ancora
-BOI019	ad esempio quali questi artigiani che mestieri facevano cioè magari falgnami arrotini
-BOR005	sì sì sì sì c'erano c'erano
-BOI019	ah okay eh
+BOI019	ma negli anni sessanta c'erano ancora
+BOR005	ad esempio quali questi artigiani che mestieri facevano cioè magari falgnami arrotini
+BOI019	sì sì sì sì c'erano c'erano
+BOR005	ah okay eh
 BOI019	sono partita sono sono
 BOI019	e poi da da da oltre deci anni dieci anni
-BOR005	sono sparite anche le piccole botteghe
-BOI019	mh
+BOI019	sono sparite anche le piccole botteghe
+BOR005	mh
 BOI019	le piccole b~ il lattaio
-BOR005	il fornaio
+BOI019	il fornaio
 BOR005	ah quindi anche
-BOI019	cioè tutte per le piccole botteghe proprio
+BOR005	cioè tutte per le piccole botteghe proprio
 BOI019	que~ questo nella zona
-BOR005	saragozza
-BOI019	mhmh
-BOR005	perché vedo invece che in via andrea costa
-BOI019	mhmh
+BOI019	saragozza
+BOR005	mhmh
+BOI019	perché vedo invece che in via andrea costa
+BOR005	mhmh
 BOI019	che diciamo la parallela a saragozza
-BOR005	sono ancora molto presenti queste
-BOI019	sì sì anche in via saffi le ancora ce ne sono
-BOR005	sì
-BOI019	quindi ecco è una cosa più legata qua al quartiere più che a questa via anzi
+BOI019	sono ancora molto presenti queste
+BOR005	sì sì anche in via saffi le ancora ce ne sono
+BOI019	sì
+BOR005	quindi ecco è una cosa più legata qua al quartiere più che a questa via anzi
 BOI019	sì sì sì sì
 BOI019	sì sì direi un po' di meno da noi un po' di meno
 BOI019	comunque è un un quartiere molto vivo perché
-BOR005	eh coi portici
-BOI019	sì
-BOR005	diventa una una congiunzione
-BOI019	mhmh
-BOR005	con con la città
-BOI019	anche xx
+BOI019	eh coi portici
+BOR005	sì
+BOI019	diventa una una congiunzione
+BOR005	mhmh
+BOI019	con con la città
+BOR005	anche xx
 BOI019	con la città da da dal dal dal centro
 BOI019	alla periferia
 BOI019	dal centro abitato
 BOI019	alla
 BOI019	direi quasi
-BOR005	anche alla collina la co~ la campagna
-BOI019	però adesso che ha parlato di portici lei scusi da quanti anni è che abita a bologna dagli anni sessanta giusto
-BOR005	no no dagli anni cinquanta
+BOI019	anche alla collina la co~ la campagna
+BOR005	però adesso che ha parlato di portici lei scusi da quanti anni è che abita a bologna dagli anni sessanta giusto
+BOI019	no no dagli anni cinquanta
 BOR005	ah dagli anni cinquanta
-BOI019	visto che i portici tra l'altro dall'anno scorso mi sembra mi son diventati patrimonio dell'unesco
-BOR005	sì sì
+BOR005	visto che i portici tra l'altro dall'anno scorso mi sembra mi son diventati patrimonio dell'unesco
+BOI019	sì sì
 BOR005	lei per caso ha
 BOR005	qualche aneddoto qualcosa che magari le è capitato mentre passeggiava sotto i portici che le è rimasto impresso qualcosa che ha visto
 BOR005	sui portici o
-BOI019	camminando sotto i portici
+BOR005	camminando sotto i portici
 BOI019	io ti po~ io ti posso dire che
 BOI019	eh
 BOI019	ho vi
@@ -97,13 +97,13 @@ BOI019	eh e quindi anche lì
 BOI019	comincia già l'incontro
 BOI019	con tante persone proprio se tu
 BOI019	se tu vai anche adesso tu vedi la pasticceria neri
-BOR005	è sempre pienissima
-BOI019	mh
+BOI019	è sempre pienissima
+BOR005	mh
 BOI019	perché c'è un buon caffè
 BOI019	e c'è il motivo proprio della relazione non solo
 BOI019	poi dopo lì
-BOR005	c'è anche l'università
-BOI019	c'è ingegneria vero
+BOI019	c'è anche l'università
+BOR005	c'è ingegneria vero
 BOI019	i~ ingegneria
 BOI019	sì i giardini bellissimi
 BOI019	i giardini di porta saragozza
@@ -131,32 +131,31 @@ BOI019	si sono un po'
 BOI019	organizzate grazie alla presenza della biblioteca questo lo devo dire perché è la verità venivano
 BOI019	da me le persone a prepararsi come organizzare le biblioteche interne il righi in particolare
 BOI019	mi ricordo
-BOI019	
 BOI019	e quindi il comune poi fece le biblioteche
-BOR005	negli altri quartieri
-BOI019	mh
+BOI019	negli altri quartieri
+BOR005	mh
 BOI019	come punto culturale
 BOI019	qui la nostra biblioteca è nata
-BOR005	ma tu mi devi far le domande queste
+BOI019	ma tu mi devi far le domande queste
 BOR005	si infatti la prendevo proprio come un punto di partenza perché appunto parlava delle biblioteche appunto
-BOI019	lei ha fatto la bibliotecaria ha detto per più di venti anni
-BOR005	sì sì sì sì sì
-BOI019	e in quale biblioteca cioè è stata in una sola biblioteca o in più biblioteche
+BOR005	lei ha fatto la bibliotecaria ha detto per più di venti anni
+BOI019	sì sì sì sì sì
+BOR005	e in quale biblioteca cioè è stata in una sola biblioteca o in più biblioteche
 BOI019	no io addirittura addirittura sono partita
-BOR005	nell'ufficio della direzione delle biblioteche
-BOI019	mh
+BOI019	nell'ufficio della direzione delle biblioteche
+BOR005	mh
 BOI019	e le biblioteche di quartiere
 BOI019	e sono
 BOI019	subito
 BOI019	entrata diciamo
 BOI019	in eh in collaborazione col direttore delle biblioteche che è il direttore rossi
 BOI019	il dottor rossi
-BOR005	quindi io ho lavorato alla direzione delle biblioteche
-BOI019	mhmh
+BOI019	quindi io ho lavorato alla direzione delle biblioteche
+BOR005	mhmh
 BOI019	quindi
 BOI019	subito
-BOR005	nelle istituzioni proprio delle nuove sedi
-BOI019	mhmh
+BOI019	nelle istituzioni proprio delle nuove sedi
+BOR005	mhmh
 BOI019	e partiamo
 BOI019	partiamo dalla biblioteca
 BOI019	bolognina
@@ -164,20 +163,20 @@ BOI019	dalla biblioteca
 BOI019	che poi dopo diventa corticella
 BOI019	in particolare la biblioteca
 BOI019	dove ho collaborato direttamente la biblioteca
-BOR005	del quartiere mazzini
-BOI019	okay
+BOI019	del quartiere mazzini
+BOR005	okay
 BOI019	quartiere mazzini
-BOR005	però era già nata la biblioteca san donato
-BOI019	mhmh
+BOI019	però era già nata la biblioteca san donato
+BOR005	mhmh
 BOI019	poi dopo è arrivata la biblioteca lame
 BOI019	poi è arriva~ sono arrivate tante biblioteche
-BOR005	biblioteca di borgo panigale
-BOI019	mhmh
+BOI019	biblioteca di borgo panigale
+BOR005	mhmh
 BOI019	la barca
-BOR005	saragozza è stata una delle ultime biblioteche
-BOI019	comunque là di villa spada
-BOR005	villa spada negli anni novanta addirittura
-BOI019	ah però così tardi
+BOI019	saragozza è stata una delle ultime biblioteche
+BOR005	comunque là di villa spada
+BOI019	villa spada negli anni novanta addirittura
+BOR005	ah però così tardi
 BOI019	eh sì
 BOI019	sì sì sì sì perché perché prima
 BOI019	a fine degli anni settanta
@@ -188,15 +187,15 @@ BOI019	era
 BOI019	in via ventun aprile
 BOI019	in un piccolo negozietto
 BOI019	dove adesso
-BOR005	c'è il negozio del meccanico delle biciclette ma è un picc~ è una stanzina
-BOI019	mhmh
+BOI019	c'è il negozio del meccanico delle biciclette ma è un picc~ è una stanzina
+BOR005	mhmh
 BOI019	ma fu un manifesto
 BOI019	in questo quartiere però c'era già una biblioteca era la biblioteca malpighi
 BOI019	un pochino più verso il centro
 BOI019	perché il quartiere era malpighi saragozza
 BOI019	ma proprio saragozza qui
-BOR005	è nata alla fine degli anni settanta
-BOI019	come mai ha scelto proprio il lavoro di bibliotecaria
+BOI019	è nata alla fine degli anni settanta
+BOR005	come mai ha scelto proprio il lavoro di bibliotecaria
 BOI019	eh
 BOI019	ho scelto il lavoro di bibliotecaria perché
 BOI019	mi piaceva anche l'insegnamento però
@@ -214,17 +213,17 @@ BOI019	e alimentava in me questo
 BOI019	ehm bisogno di conoscer
 BOI019	di capire
 BOI019	che non finiva mai e che mi rendeva consapevole
-BOR005	di non sapere quel famoso detto socratico no
-BOI019	mhmh
+BOI019	di non sapere quel famoso detto socratico no
+BOR005	mhmh
 BOI019	io so di non sapere
 BOI019	e nonostante la mia età eh eh di novantatre anni ormai
 BOI019	è ancora valido
 BOI019	so di non sapere proprio
 BOI019	e questi alimenta la mia curiosità
-BOR005	e la mia capacità di star bene
-BOI019	mhmh
-BOR005	e di condividerlo anche con gli altri perché è il mio proprio motivo anche di relazione con gli altri
-BOI019	mh
+BOI019	e la mia capacità di star bene
+BOR005	mhmh
+BOI019	e di condividerlo anche con gli altri perché è il mio proprio motivo anche di relazione con gli altri
+BOR005	mh
 BOI019	ancor della mia della mia vivacità mentale del mio star bene
 BOI019	tant'è vero che quando vado dal dal mio medico di
 BOI019	di famiglia
@@ -249,8 +248,8 @@ BOI019	i libri a domicilio gratuitamente
 BOI019	tant'è vero che questo l'ho detto
 BOI019	anche al nostro sindaco
 BOI019	che deve continuare perché è una gran cosa
-BOR005	i libri come terapia
-BOI019	sì assolutamente
+BOI019	i libri come terapia
+BOR005	sì assolutamente
 BOI019	lo dico sempre al mio medico di base ma è vero sai
 BOI019	te lo posso dire
 BOI019	perché io sento anche attraverso
@@ -260,11 +259,11 @@ BOI019	che non hanno
 BOI019	non solo argomenti ma
 BOI019	non riempiono il loro tempo
 BOI019	invece con gioia
-BOR005	la lettu~ la lettura ti dà gioia
-BOI019	eccome se dà gioia
+BOI019	la lettu~ la lettura ti dà gioia
+BOR005	eccome se dà gioia
 BOI019	ti dà conoscenza
-BOR005	ti dà capacità di relazione
-BOI019	assolutamente sì condivido a pieno
+BOI019	ti dà capacità di relazione
+BOR005	assolutamente sì condivido a pieno
 BOI019	ma conoscenza ti dà e questa è molto importan~
 BOI019	e vi~ ha la fortuna anche con mio marito che eh
 BOI019	venivamo appunto da da da due
@@ -277,21 +276,21 @@ BOI019	eh in crociera mai
 BOI019	si partiva con pochi soldi e via
 BOI019	tutto segnato tutto
 BOI019	eh abbiam girato il mondo abbiamo
-BOR005	proprio
-BOI019	mh
+BOI019	proprio
+BOR005	mh
 BOI019	perché anche
 BOI019	i libri
 BOI019	i libri e anche i viaggi eh
 BOI019	danno tanto
-BOR005	sì sì
-BOI019	xx
-BOR005	ma i li~
+BOI019	sì sì
+BOR005	xx
+BOI019	ma i li~
 BOR005	si parlava di conoscenza di sapere
 BOR005	no te mi è venuto in mente che di solito
 BOR005	che appunto
-BOI019	nelle biblioteche si organizzano anche eventi culturali
-BOR005	sempre sempre
-BOI019	e lei mi ha~ mh nei suoi anni di servizio ha avuto modo di partecipare a questi eventi
+BOR005	nelle biblioteche si organizzano anche eventi culturali
+BOI019	sempre sempre
+BOR005	e lei mi ha~ mh nei suoi anni di servizio ha avuto modo di partecipare a questi eventi
 BOI019	sempre sempre sempre tesoro sempre
 BOI019	la la la prima cosa io io ricordo
 BOI019	la prima cosa è
@@ -309,8 +308,8 @@ BOI019	la la prima cosa fu proprio quella
 BOI019	di andare
 BOI019	dai direttori didattici a dire
 BOI019	che le maestre potevano uscire coi loro bambini
-BOR005	e tu dovevi vedere
-BOI019	mh
+BOI019	e tu dovevi vedere
+BOR005	mh
 BOI019	tutte queste
 BOI019	insegnanti che prendevano l'appuntamento
 BOI019	con la classe
@@ -331,8 +330,8 @@ BOI019	le altre realtà
 BOI019	vedere un po'
 BOI019	vedere un po'
 BOI019	oltre alle scuole che cosa ci può essere anche
-BOR005	conoscere
-BOI019	mh
+BOI019	conoscere
+BOR005	mh
 BOI019	dove viviamo
 BOI019	e darne trasmissione agli altri se magari non lo vedono questo
 BOI019	quindi vedere tutte le presenze artistiche
@@ -352,17 +351,17 @@ BOI019	e quindi i ragazzi fecero il censimento
 BOI019	delle piante
 BOI019	di villa delle rose
 BOI019	con un etichetta che poi dopo portarono via
-BOR005	eh ci sono i soliti balordi
-BOI019	mh
+BOI019	eh ci sono i soliti balordi
+BOR005	mh
 BOI019	e
 BOI019	da dove veniva questa pianta come si chiamava
 BOI019	e mi ricordo che addirittura dopo le scuole
 BOI019	avevano anche la possibilità
 BOI019	di andare a conoscere
-BOR005	questo patrimonio del quartiere
-BOI019	ah però che bello
-BOR005	e così anche visite guidate anche al nostro quartiere
-BOI019	mh
+BOI019	questo patrimonio del quartiere
+BOR005	ah però che bello
+BOI019	e così anche visite guidate anche al nostro quartiere
+BOR005	mh
 BOI019	l'ultima parte la nostra qui di via paolo martini
 BOI019	di via
 BOI019	di via di via ventun aprile perché si chiamava così
@@ -383,8 +382,8 @@ BOI019	per tutte queste cose
 BOI019	le nostre scuole hanno avuto questa possibilità grazie alla biblioteca
 BOI019	da da da quel periodo al periodo medievale
 BOI019	con le testimonianze dei pittori anche bolognesi
-BOR005	della chiesa di san giuseppe
-BOI019	mh
+BOI019	della chiesa di san giuseppe
+BOR005	mh
 BOI019	naturalmente dopo coi portici
 BOI019	poi il periodo fascista
 BOI019	che noi abbiamo
@@ -395,8 +394,8 @@ BOI019	di via paolo martini
 BOI019	e poi dopo con le villette
 BOI019	che erano state destinate
 BOI019	ai ehm
-BOR005	alle autorità fasciste
-BOI019	mh
+BOI019	alle autorità fasciste
+BOR005	mh
 BOI019	quindi conoscere
 BOI019	per esempio lo stadio che era stato costruito anche quello
 BOI019	nel periodo fascista quindi
@@ -410,24 +409,24 @@ BOI019	alle donne partigiane
 BOI019	che penso sia l'unico museo
 BOI019	a cielo aperto dedicato alle donne
 BOI019	non sono sicura ma io credo sia l'unico
-BOR005	dedicato alle donne partigiane
-BOI019	credo anche io
+BOI019	dedicato alle donne partigiane
+BOR005	credo anche io
 BOI019	a cielo aperto
 BOI019	collegato
-BOR005	con la nuova sede della biblioteca
-BOI019	qual'è la nuova sede
-BOR005	la nuova sede della biblioeca è villa spada
-BOI019	ah okay okay
+BOI019	con la nuova sede della biblioteca
+BOR005	qual'è la nuova sede
+BOI019	la nuova sede della biblioeca è villa spada
+BOR005	ah okay okay
 BOI019	perché prima
 BOI019	la la biblioteca è nata in via paolo
-BOR005	in in via in via ventuno aprile
-BOI019	mhmh
+BOI019	in in via in via ventuno aprile
+BOR005	mhmh
 BOI019	è nata in via ventuno aprile
 BOI019	e quando è nata lì appunto è partita anche la ricerca del quartiere
 BOI019	del del del novecento ah che ad opera di ragazzi che avevano
 BOI019	fatto storia contemporanea
-BOR005	questi sono tutti documenti che si trovano in biblioteca
-BOI019	mhmh
+BOI019	questi sono tutti documenti che si trovano in biblioteca
+BOR005	mhmh
 BOI019	in biblioteca attuale di villa spada
 BOI019	e si chiamavano i quaderni del quartiere
 BOI019	e quindi cos'era nell'ottocento questo quartiere cosa è diventato pai
@@ -452,8 +451,8 @@ BOI019	diventa patrimonio delle scuole
 BOI019	non ci sono i libri
 BOI019	ma ci sono poi dopo tutte queste conoscenze
 BOI019	attraverso documenti attraverso queste co~
-BOR005	questo ha fatto la biblioteca
-BOI019	quindi la biblioteca ha anche organizzato eventi magari legati alla seconda guerra mondiale alla resistenza
+BOI019	questo ha fatto la biblioteca
+BOR005	quindi la biblioteca ha anche organizzato eventi magari legati alla seconda guerra mondiale alla resistenza
 BOI019	certo
 BOI019	certo ecco il museo poi anche della resistenza
 BOI019	nasce
@@ -489,22 +488,22 @@ BOI019	qualcosa che le le tiene ancora un po' separa~
 BOI019	ma addirittura legare perché i ragazzi
 BOI019	studiando anche magari fuori
 BOI019	avessero davanti anche questo collegamento molto bello
-BOR005	questo è stato fatto con la biblioteca
-BOI019	mh
+BOI019	questo è stato fatto con la biblioteca
+BOR005	mh
 BOI019	soprattutto con delle donne partigiane
 BOI019	adesso non c'è più l' l'architetto
 BOI019	eh adesso come si chiamava mi s~
 BOI019	non ce l'ho un e~ era architetto donna che tanto l'ha voluto
 BOI019	una partigiana altre partigiane il comune
-BOR005	e ed è stato fatto questo monumento bel~ lei l'ha visto poi il monumento delle partigiane sì
-BOI019	sì sì l'ho visto molto bello
-BOR005	sì sì
+BOI019	e ed è stato fatto questo monumento bel~ lei l'ha visto poi il monumento delle partigiane sì
+BOR005	sì sì l'ho visto molto bello
+BOI019	sì sì
 BOR005	e di queste partigian~ per quanto siano
 BOR005	tutte figure molto importanti c'è magari una che le è rimasta particolarmente impressa
-BOI019	di queste donne di quelle che magari ha anche avuto la fortuna di conoscere
+BOR005	di queste donne di quelle che magari ha anche avuto la fortuna di conoscere
 BOI019	sì sì sì sì
-BOR005	soprattutto ehm sono morte tutte però
-BOI019	qualche ricordo ha di loro cosa le è rimasto in presso
+BOI019	soprattutto ehm sono morte tutte però
+BOR005	qualche ricordo ha di loro cosa le è rimasto in presso
 BOI019	ah di di di di donne di donne solari buone
 BOI019	buone solari semplici laboriose
 BOI019	proprio mh
@@ -530,18 +529,18 @@ BOI019	eh
 BOI019	sono non non mi sovviene il nome del~ della partigiana
 BOI019	nella mi pare si chiamasse
 BOI019	comunque questo lo troviamo
-BOR005	il nome lo troviamo
+BOI019	il nome lo troviamo
 BOR005	sìsì
-BOI019	e lei ha qualche ricordo della guerra di qualcosa che ha vissuto lei in prima persona
-BOR005	io io non abitavo a bologna quindi non t~ non ti posso parlare dei ricordi della guerra di bologna
+BOR005	e lei ha qualche ricordo della guerra di qualcosa che ha vissuto lei in prima persona
+BOI019	io io non abitavo a bologna quindi non t~ non ti posso parlare dei ricordi della guerra di bologna
 BOR005	mhmh
-BOI019	mhmh
+BOR005	mhmh
 BOI019	ma eh dei ricordi della mia guerra sì
 BOI019	io ero una bambina che avevo
 BOI019	avevo dieci anni quando
 BOI019	non ancora diec'anni quando c'è stata
-BOR005	il discorso il dieci giugno del quaranta
-BOI019	mh
+BOI019	il discorso il dieci giugno del quaranta
+BOR005	mh
 BOI019	me lo ricordo molto bene
 BOI019	perché nel mio paese
 BOI019	era un paese apppunto di romania ameldola forlì
@@ -626,8 +625,8 @@ BOI019	eh
 BOI019	il comandante forse
 BOI019	proprio immediatamente davanti al carrarmato
 BOI019	nella motocicletta con
-BOR005	col seggiolino lì come si chiama il
-BOI019	il saita
+BOI019	col seggiolino lì come si chiama il
+BOR005	il saita
 BOI019	quindi c'era colui che guidava e colui che comandava che avevano già il mitra
 BOI019	poi subito dietro i carrarmati
 BOI019	questi carrarmati che spianavano proprio la strada spianavano
@@ -688,11 +687,11 @@ BOI019	qualco~ a botte così s~
 BOI019	sembravano abbastanza sicure
 BOI019	e quindi lì abbiamo vissuto
 BOI019	mesi e mesi utti in comunità
-BOR005	con poco da mangiare con così
+BOI019	con poco da mangiare con così
 BOR005	e adesso
 BOR005	cioè lei
 BOR005	che ha proprio vissuto in prima persona la seconda guerra mondiale in qualche modo
-BOI019	mh cosa fa lei diciamo per tenere viva questa memoria per tramandarla ai giovani
+BOR005	mh cosa fa lei diciamo per tenere viva questa memoria per tramandarla ai giovani
 BOI019	i racconti li ho fatti
 BOI019	ti dirò
 BOI019	ti dirò
@@ -773,29 +772,27 @@ BOI019	anche
 BOI019	eh non so eh della cioccolata non avevamo mai mangiato la cioccolata non c'era la cioccolata ai miei tempi
 BOI019	cioccolatini poi neanche per~
 BOI019	o le caramelle col buco
-BOR005	eh l~ la cicles caramelle col buco
-BOI019	
+BOI019	eh l~ la cicles caramelle col buco
 BOI019	però però
 BOI019	ci fu anche un'altra cosa questa non era proprio allegra
 BOI019	mi ricordo
 BOI019	siccome mh sai nelle nostre case non è che ci fosse tanta
 BOI019	igiene non è che si conoscevano tante cose non avevamo i bagni i gabinetti comuni tutto il resto
 BOI019	quindi arrivò anche la disimpiazione col col col
-BOR005	ehm eh come si~ col flit
-BOI019	mhmh
+BOI019	ehm eh come si~ col flit
+BOR005	mhmh
 BOI019	ehm conghe
 BOI019	avevano addirittura de~ delle macchine che sembravano dei cannoncini
 BOI019	e che mh
 BOI019	ehm
 BOI019	spargevano
-BOR005	il ddt che è un p~ un potente veleno
-BOI019	ah sì
+BOI019	il ddt che è un p~ un potente veleno
+BOR005	ah sì
 BOI019	per a~ per ammazzare
 BOI019	quelle che erano pulci
 BOI019	eh blatte
 BOI019	tutto quello che c'era in giro eh questo lo facevano anche nelle case eh
-BOR005	ah tutta una roba così
-BOI019	
+BOI019	ah tutta una roba così
 BOI019	quindi
 BOI019	quindi sono arrivate tante cose
 BOI019	con con i nostri con gli alleati
@@ -822,12 +819,12 @@ BOI019	la pelle di un coniglio
 BOI019	e in mezzo faceva era la danza del sole dopo
 BOI019	ho saputo che era la danza del sole
 BOI019	e l'ho letto anche in un libro
-BOR005	di di di di il il re della pioggia
-BOI019	mhmh
+BOI019	di di di di il il re della pioggia
+BOR005	mhmh
 BOI019	eh di di sciau bello l'ho letto anche in questo libro
 BOI019	ho detto eh ma era proprio la danza
-BOR005	del sole
-BOI019	mh
+BOI019	del sole
+BOR005	mh
 BOI019	comunque
 BOI019	era un periodo però
 BOI019	pur sai le guerre portano anche queste cose da vecchia data anche del periodo delle sabine
@@ -867,7 +864,6 @@ BOI019	però la guerra miseria proprio miseria miseria quel po' di pane quel po'
 BOI019	io mi ricordo che trovammo
 BOI019	trovammo
 BOI019	un in caso un sacchetto di di di grano turco
-BOI019	
 BOI019	io io mi ricordo con un sasso
 BOI019	eh si si schiacciò questo grano turco si fece una specie di farina
 BOI019	e e un po' di panone insomma
@@ -937,7 +933,6 @@ BOI019	dentro
 BOI019	io ho la chiave l'ho tenuta come ricordo
 BOI019	chiudeva queste ragazze dentro
 BOI019	e poi andava negli altri luoghi
-BOI019	
 BOI019	parlando con le ragazze che pativano come noi perché
 BOI019	perché lei non non non non dava non dava niente
 BOI019	era era rigida
@@ -976,11 +971,8 @@ BOI019	di tutto quel tu~ dz queste persone attorno
 BOI019	era il natale del quarantaquattro
 BOI019	quindi xx il mio problema
 BOI019	con la mia nonna dicevo nonna ma il prete glielo devo dire che abbiam rubato
-BOR005	no no questo non è un rubare
-BOR005	
-BOI019	
-BOR005	il mio problema l'ho scritto questo racconto e l'ho regalato
-BOI019	
+BOI019	no no questo non è un rubare
+BOI019	il mio problema l'ho scritto questo racconto e l'ho regalato
 BOI019	che ogni tanto regalo i racconti
 BOI019	adesso ce n'ho uno di di dario che te lo do poi
 BOI019	che lui è stato r mh
@@ -988,10 +980,10 @@ BOI019	per mio marito è stato un ragazzino poverino
 BOI019	che non sapeva neanche dov'era milano l'ha mandato a milano a portare
 BOI019	a portare
 BOI019	eh le scarpe per i partigiani ma chissà cosa c'era dentro quelle scarpe
-BOR005	quindi
+BOI019	quindi
 BOR005	e quindi sono stati un po' diciamo tu~
 BOR005	tutto quello che lei ha vissuto che l'hanno portata ad unirsi ad anpi
-BOI019	o comunque ha collaborato con anpi
+BOR005	o comunque ha collaborato con anpi
 BOI019	certo certo certo anche perché mio marito era iscritto all'anpi
 BOI019	ti dirò mi sono iscritta anch'io all'anpi
 BOI019	e a~ anche i miei nipoti anche anche
@@ -1071,8 +1063,8 @@ BOI019	e dice dario
 BOI019	eh e que presenta questo ragazzo eh
 BOI019	ti presento neri no non mi ricordo il nome mi ricordo il cognome neri
 BOI019	che ha qualcosa da raccontare sai
-BOR005	lo invita a casa nostra
-BOI019	mhmh
+BOI019	lo invita a casa nostra
+BOR005	mhmh
 BOI019	viene a casa nostra ci racconta
 BOI019	che lui è l'unico
 BOI019	anno aprile millenovecentocinquantacinque questo me lo ricordo bene
@@ -1091,8 +1083,8 @@ BOI019	e dopo poi ha fatto l'insegnante
 BOI019	a mh e a
 BOI019	a ferrara
 BOI019	dopo r dopo io l'ho perso di vista non so neanche se è più al mondo ma non credo sia più al mondo aveva degli anni più di noi
-BOR005	comunque
-BOI019	con l'anpi quindi
+BOI019	comunque
+BOR005	con l'anpi quindi
 BOI019	parla
 BOI019	eh siamo in aprile del cinquantacinque
 BOI019	siamo già diplomati
@@ -1196,8 +1188,8 @@ BOI019	e noi parliamo di negazionisti ma più andiamo avanti
 BOI019	più se non si trasmettono le cose
 BOI019	più spariscono
 BOI019	queste testimonianze
-BOR005	queste testimonianze queste son testimonianze materiali capirai le altre
-BOI019	mh
+BOI019	queste testimonianze queste son testimonianze materiali capirai le altre
+BOR005	mh
 BOI019	perché si da tanta importanza ad aushwitz perché pas~
 BOI019	aushwitz è stato raggiunto
 BOI019	quando c'erano ancora i tedeschi dentro
@@ -1213,24 +1205,24 @@ BOI019	tutti questi e quando abbiam visto aushwitz già
 BOI019	arrivare ad aushwitz
 BOI019	n~ non non non si trovava la strada perché neanche i polacchi ti dicevano dov'era anche quello
 BOI019	una certa riluttanza
-BOR005	di farti di farti vedere le cose
-BOI019	immagino
+BOI019	di farti di farti vedere le cose
+BOR005	immagino
 BOI019	ma quando quando siamo andati ad aushwitz che abbiam visto che si sentiva perfino
 BOI019	si sentiva perfino ancora l'odore della morte
 BOI019	da rimanere
-BOR005	da rimaner senza parole lì lì
-BOI019	mh
-BOR005	lì lì si rimane proprio senza parole
+BOI019	da rimaner senza parole lì lì
 BOR005	mh
-BOI019	e anpi sta facendo anche delle attività per portar avanti questa memoria
+BOI019	lì lì si rimane proprio senza parole
+BOR005	mh
+BOR005	e anpi sta facendo anche delle attività per portar avanti questa memoria
 BOI019	io penso di sì io penso di sì
 BOI019	d'accordo con gli ex deportati perché
-BOR005	ecco
-BOI019	ce ne sono ancora
+BOI019	ecco
+BOR005	ce ne sono ancora
 BOI019	ci sono ancora non lo so tesorio io penso che
 BOI019	io ho avuto la fortuna
-BOR005	di incontrarne uno e sono andato con gli ex deportati molte volte
-BOI019	mhmh
+BOI019	di incontrarne uno e sono andato con gli ex deportati molte volte
+BOR005	mhmh
 BOI019	sono andata molte volte ehm
 BOI019	e no abbiam fatto con loro mh a~
 BOI019	privatamente ma anche con loro tanti viaggi
@@ -1327,8 +1319,8 @@ BOI019	ed è requiem per terezin
 BOI019	che quando leggi quel libro ti sembra di sentire la musica
 BOI019	ti sembra di sentire
 BOI019	proprio il requiem forte di verdi
-BOR005	e e e e e questo perché perché la gente sa già che è arrivata la fine
-BOI019	sì
+BOI019	e e e e e questo perché perché la gente sa già che è arrivata la fine
+BOR005	sì
 BOI019	e lì e lì
 BOI019	se tu io noi siamo andati a vedere anche terezin stat e
 BOI019	ho visto che c'era
@@ -1337,8 +1329,8 @@ BOI019	del gas anche cu~ lì
 BOI019	c'era c'era
 BOI019	eh sai lì poi la scusa perché poi dopo c'eran le malattie
 BOI019	e allora bisognava
-BOR005	purificare l'aria far tutte queste robe
-BOI019	mh
+BOI019	purificare l'aria far tutte queste robe
+BOR005	mh
 BOI019	pensa mo
 BOI019	pensa mo ecco e qui ci rifacciamo sempre
 BOI019	alla famosa storia

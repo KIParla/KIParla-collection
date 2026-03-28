@@ -1,420 +1,396 @@
-PKP112	che tensione
-PKP112	
-PKP118	buon appetito
-PKP119	grazie
-PKP112	grazie altrettanto
-PKP118	
-PKP118	
-PKP112	è buona
+PKP119	che tensione
+PKP112	buon appetito
+PKP118	grazie
+PKP119	grazie altrettanto
+PKP118	è buona
 PKP112	boh
-PKP119	è molto grossa
-PKP118	bella
-PKP119	è cotta
+PKP112	è molto grossa
+PKP119	bella
+PKP118	è cotta
 PKP119	eh beh
 PKP119	sì
-PKP118	è una bella pataccona
-PKP112	
-PKP119	
-PKP112	hai detto in dialetto
-PKP118	la nonna come sta
+PKP119	è una bella pataccona
+PKP119	hai detto in dialetto
+PKP112	la nonna come sta
 PKP118	mi sa bene
-PKP112	è venuto l'imbianchino a vedere il lavoro che c'è da fare in mansarda
-PKP118	che lavoro c'è da fare
+PKP118	è venuto l'imbianchino a vedere il lavoro che c'è da fare in mansarda
+PKP112	che lavoro c'è da fare
 PKP118	ti ricordi che c'era stata quell'infiltrazione d'acqua
 PKP118	lì vicino alla finestra
 PKP118	e allora è venuta a vedere e dai viene la prossima settimana martedì mattina alle otto e mezza
-PKP119	se ci sei fede così
-PKP118	batti un colpo
+PKP118	se ci sei fede così
+PKP119	batti un colpo
 PKP118	no vai tu dai
 PKP118	a dare un occhio
 PKP118	a vedere come fa il lavoro dai
-PKP112	deve riprendere il muro scrostarlo dare l'intonaco e poi imbiancare
-PKP119	xxxx
-PKP118	no no
-PKP112	io e papà abbiamo deciso che uno di questi giorni per colazione cuciniamo il porridge
-PKP118	mh
-PKP119	vuoi assaggiarlo
-PKP118	con la cioccolata fondente
-PKP119	no non l'avevam~
-PKP118	oltre settantadue percento
+PKP118	deve riprendere il muro scrostarlo dare l'intonaco e poi imbiancare
+PKP112	xxxx
+PKP119	no no
+PKP118	io e papà abbiamo deciso che uno di questi giorni per colazione cuciniamo il porridge
+PKP112	mh
+PKP118	vuoi assaggiarlo
+PKP119	con la cioccolata fondente
+PKP118	no non l'avevam~
+PKP119	oltre settantadue percento
 PKP118	ma non è un tipo cosa c'è il miglio
+PKP118	no
 PKP112	no
-PKP119	no
-PKP112	no l'avena
-PKP118	c'è l'avena
+PKP119	no l'avena
+PKP112	c'è l'avena
 PKP118	l'avena
 PKP118	proviamo
-PKP119	non mi ispira molto però
-PKP112	neanche a me
-PKP118	eh ma è molto nutriente
+PKP118	non mi ispira molto però
+PKP119	neanche a me
+PKP112	eh ma è molto nutriente
 PKP118	lo so lo so
 PKP118	mh è tipo macrobiotico
-PKP112	cibo macrobiotico
+PKP118	cibo macrobiotico
 PKP112	mh
-PKP119	no ma
+PKP112	no ma
 PKP119	ma dove si trova l'avena
-PKP118	la farina
-PKP112	l'avena secondo me se vai
-PKP118	non la farina
-PKP119	no la farina mica la farina
-PKP112	e che cosa
-PKP118	i fiocchi
-PKP119	secondo me se vai lì da quello che vende i mangimi per gli animali la la trovi
-PKP112	per i conigli
-PKP118	ma la troverai anche al supermercato
-PKP119	sì
-PKP112	eh oh eh
-PKP118	se vuoi
-PKP119	
-PKP118	hai sentito la nonna
-PKP119	gino
-PKP118	eh
-PKP119	non ho non sto sentendo nessuno
-PKP118	ma lei ieri sera ha telefonato allo zio fabrizio
-PKP119	per
-PKP118	per la questione della zia
-PKP119	è lui che ha chiamato
-PKP118	no io l'ho chiamato
-PKP119	ah e
-PKP119	e mi ha detto che an~ l'aveva chiamata per capire un attimino cos'è che è però secondo lui lei ha un mh
-PKP118	boh c'è stato qualche discorso strano che ha avuto qualche tiraculo non so oh se ho capito bene con la nonna
-PKP112	ancora
-PKP119	
-PKP118	e allora per effetto del tiraculo eh si è levata dalla
-PKP119	da tutti xx
-PKP112	da tutti tutti i contatti del mondo
-PKP118	
-PKP119	ma cosa c'entrano le nostre xx
-PKP112	è un grosso tiraculo
-PKP118	
-PKP112	
-PKP119	boh
-PKP119	allora eh lei sicuramente sta passando il più brutto periodo della sua vita pe~
-PKP112	cos'hai trovato
-PKP119	
-PKP112	cosa
-PKP119	niente era un un pezzo di
-PKP112	ah
+PKP119	la farina
+PKP118	l'avena secondo me se vai
+PKP112	non la farina
+PKP118	no la farina mica la farina
+PKP119	e che cosa
+PKP112	i fiocchi
+PKP118	secondo me se vai lì da quello che vende i mangimi per gli animali la la trovi
+PKP119	per i conigli
+PKP112	ma la troverai anche al supermercato
+PKP118	sì
+PKP119	eh oh eh
+PKP112	se vuoi
+PKP119	hai sentito la nonna
+PKP118	gino
 PKP119	eh
-PKP112	e niente quindi ha detto anche lui non ci ha creduto a questa sua scusa
-PKP119	vabbè ma che stia passando il più brutto periodo della sua vita cosa c'entra col togliersi da tutti i gruppi
-PKP118	niente eh
-PKP119	si è arrabbiata per qualcosa qualcosa le ha dato fastidio dai secondo me è legata al compleanno dello zio
+PKP118	non ho non sto sentendo nessuno
+PKP119	ma lei ieri sera ha telefonato allo zio fabrizio
+PKP118	per
+PKP119	per la questione della zia
+PKP118	è lui che ha chiamato
+PKP119	no io l'ho chiamato
+PKP118	ah e
+PKP119	e mi ha detto che an~ l'aveva chiamata per capire un attimino cos'è che è però secondo lui lei ha un mh
+PKP119	boh c'è stato qualche discorso strano che ha avuto qualche tiraculo non so oh se ho capito bene con la nonna
+PKP118	ancora
+PKP119	e allora per effetto del tiraculo eh si è levata dalla
+PKP118	da tutti xx
+PKP119	da tutti tutti i contatti del mondo
+PKP118	ma cosa c'entrano le nostre xx
+PKP119	è un grosso tiraculo
+PKP112	boh
+PKP119	allora eh lei sicuramente sta passando il più brutto periodo della sua vita pe~
+PKP119	cos'hai trovato
+PKP119	cosa
+PKP112	niente era un un pezzo di
+PKP119	ah
+PKP112	eh
+PKP119	e niente quindi ha detto anche lui non ci ha creduto a questa sua scusa
+PKP112	vabbè ma che stia passando il più brutto periodo della sua vita cosa c'entra col togliersi da tutti i gruppi
+PKP119	niente eh
+PKP118	si è arrabbiata per qualcosa qualcosa le ha dato fastidio dai secondo me è legata al compleanno dello zio
 PKP119	sì sì
-PKP112	ma vabbè ma cosa dovevamo fare una festa xx
+PKP119	ma vabbè ma cosa dovevamo fare una festa xx
 PKP112	ma lo zio
 PKP112	non lo so
-PKP118	cioè non ho capito lo zio l'ha chiamata
-PKP112	mi sembrava di sì
-PKP118	ah
-PKP119	mhmh
-PKP112	eh
-PKP119	e lei cosa gli ha detto
-PKP112	fondamentalmente quello che ti ha detto a te
-PKP119	okay ma a voce
-PKP118	eh
-PKP112	no non so se l'ha chiamata ti ha chiamata
-PKP118	si si
-PKP119	ah
-PKP112	invece la sally è ancora incinta
-PKP119	ah
-PKP112	però ha~
-PKP119	qundi non l'ha perso
-PKP112	no ma non è eh eh è una non incinta
+PKP112	cioè non ho capito lo zio l'ha chiamata
+PKP118	mi sembrava di sì
+PKP112	ah
+PKP118	mhmh
 PKP119	eh
-PKP118	cioè non ha fino a sabato xx però nel verdetto se lo perde definitivamente o glielo fanno perdere
-PKP119	ah quindi eh l~ l'ha perso praticamente
-PKP112	boh
-PKP119	ma perché
-PKP112	beh son contento io per xx
-PKP119	ma perché lo deve perdere per forza
-PKP118	no non è per forza
-PKP119	ah perché evidentemente non si è attaccato non si è
-PKP119	la natura
-PKP118	vede e provvede sarà
+PKP112	e lei cosa gli ha detto
+PKP119	fondamentalmente quello che ti ha detto a te
+PKP112	okay ma a voce
+PKP119	eh
+PKP118	no non so se l'ha chiamata ti ha chiamata
+PKP112	si si
+PKP118	ah
+PKP119	invece la sally è ancora incinta
+PKP112	ah
+PKP119	però ha~
+PKP112	qundi non l'ha perso
+PKP119	no ma non è eh eh è una non incinta
+PKP112	eh
+PKP119	cioè non ha fino a sabato xx però nel verdetto se lo perde definitivamente o glielo fanno perdere
+PKP118	ah quindi eh l~ l'ha perso praticamente
 PKP119	boh
-PKP118	ha paura di rifare un'altra sally
-PKP118	
-PKP119	no dai tanto
-PKP118	no scherzo
-PKP119	ci riproveranno dai
+PKP112	ma perché
+PKP119	beh son contento io per xx
+PKP112	ma perché lo deve perdere per forza
+PKP119	no non è per forza
+PKP118	ah perché evidentemente non si è attaccato non si è
+PKP119	la natura
+PKP119	vede e provvede sarà
+PKP118	boh
+PKP119	ha paura di rifare un'altra sally
+PKP118	no dai tanto
+PKP119	no scherzo
+PKP118	ci riproveranno dai
 PKP119	ma sì
-PKP118	tra dieci anni
+PKP119	tra dieci anni
 PKP118	ma sì
-PKP119	cioè tuo fratello quanti anni ha scusa
-PKP118	ha l'età di tuo è un settantatre ha l'età di tua sorella
+PKP118	cioè tuo fratello quanti anni ha scusa
+PKP119	ha l'età di tuo è un settantatre ha l'età di tua sorella
 PKP118	eh e quindi quaranta sette
 PKP118	eh quasi
-PKP119	no quarantasette
-PKP118	eh
+PKP118	no quarantasette
+PKP119	eh
 PKP118	mh
-PKP119	è ora se ne vuole fare un figl~ un altro xxx
-PKP118	lui ma lui ne può fare c'è lui è come lui è come charlie chaplin xxx
+PKP118	è ora se ne vuole fare un figl~ un altro xxx
+PKP119	lui ma lui ne può fare c'è lui è come lui è come charlie chaplin xxx
 PKP118	vabbè che lei è giovane
 PKP118	cioè
-PKP119	la sally cos'ha trentasette anni
-PKP118	sì
-PKP119	mh
-PKP118	sai com'è
-PKP119	eh
-PKP119	guarda lui
-PKP118	lui può avere anche novant'anni
-PKP118	ah sì
-PKP119	basta che la
-PKP119	l'unico problema è che quando torna a casa c'è qualcuno che gli prepara un piatto così di pasta
-PKP118	e gli lava e gli stira e gli fa e lui non deve fare un cazzo e deve andare solo a lavorare
-PKP118	
-PKP112	la tesi oggi chiara sei andata avanti un po' a scriverla
-PKP118	no zero
-PKP112	dai
-PKP118	oh ho fatto il tirocinio
-PKP118	ah
-PKP112	l'incontro con rossini com'è andato
-PKP118	te l'ho detto
-PKP112	mh
-PKP118	eh bene
-PKP112	bene
-PKP118	cioè bene mi ha fatto capire che non gliene frega niente a loro della tesi della triennale
-PKP112	mh
-PKP118	perché dà più importanza a quella della magistrale quindi dai mi ha tranquillizzato
-PKP118	della magistrale mh
-PKP119	bene
-PKP112	eh tranquilla è rimasta inculata lo sai vero
-PKP118	
-PKP112	sempre fine
-PKP119	
-PKP112	ti avevo avvisato che era possibile avere un discorso abbastanza scurrile
-PKP118	
-PKP119	ma penso che sia possibile
-PKP112	a tavola proprio sincero
-PKP119	eh
-PKP112	come il vino che sto per andare a bere
-PKP119	
-PKP118	ah beh siete di compagnia
-PKP112	
-PKP118	
-PKP119	ho la bocca piena
-PKP112	ah è vero non si parla con la bocca piena
-PKP112	eh non è xxx
-PKP119	eh già
-PKP112	infatti infatti noi stiamo stiamo mangiando però stiamo parlando
-PKP112	non lo so
-PKP118	eh
-PKP112	vuoi un'altra fetta di pane chiara
-PKP112	no basta
-PKP119	son piena
-PKP112	no
-PKP119	mi mangio giusto il il fico d'india
-PKP118	ecco brava
-PKP118	eh
-PKP112	se è ancora buono
-PKP119	carolina ha scritto alla marina gli ha detto ah ho visto
-PKP112	ti ha mandato i soldi
-PKP112	la marina sì
-PKP119	ho visto
-PKP118	no la carolina
-PKP112	che ore sono
-PKP119	cosa
-PKP112	non avevi prestato dei soldi a qualcuno
-PKP119	no a marina
-PKP112	mh
-PKP112	mh carolina mi fa no ho scritto a marina e fa
-PKP118	ehm ho visto che i voli per bologna ad ottobre sono sono superconomici
-PKP112	ah
-PKP118	e quindi ha detto che viene
-PKP112	per la tua laurea
-PKP112	gli ho detto gli ho detto dille che venga per la mia laurea a fine ottobre
-PKP119	se la vabbè se vuol venire prima va bene
-PKP118	questa chi la carolina
-PKP112	ma te ma
+PKP118	la sally cos'ha trentasette anni
+PKP119	sì
 PKP118	mh
-PKP112	ma dagliela una data sai già la data
-PKP118	gliel'ho detto si si ma infatti me l'aveva chiesto
-PKP112	l'ha già la data
-PKP118	cioè so che è o il ventotto o il ventinove o il trenta
+PKP119	sai com'è
+PKP118	eh
+PKP119	guarda lui
+PKP119	lui può avere anche novant'anni
+PKP118	ah sì
+PKP118	basta che la
+PKP119	l'unico problema è che quando torna a casa c'è qualcuno che gli prepara un piatto così di pasta
+PKP119	e gli lava e gli stira e gli fa e lui non deve fare un cazzo e deve andare solo a lavorare
+PKP118	la tesi oggi chiara sei andata avanti un po' a scriverla
+PKP112	no zero
+PKP118	dai
+PKP112	oh ho fatto il tirocinio
+PKP118	ah
+PKP118	l'incontro con rossini com'è andato
+PKP112	te l'ho detto
+PKP118	mh
+PKP112	eh bene
+PKP118	bene
+PKP112	cioè bene mi ha fatto capire che non gliene frega niente a loro della tesi della triennale
+PKP118	mh
+PKP112	perché dà più importanza a quella della magistrale quindi dai mi ha tranquillizzato
+PKP118	della magistrale mh
+PKP118	bene
+PKP119	eh tranquilla è rimasta inculata lo sai vero
+PKP118	sempre fine
+PKP119	ti avevo avvisato che era possibile avere un discorso abbastanza scurrile
+PKP118	ma penso che sia possibile
+PKP119	a tavola proprio sincero
+PKP112	eh
+PKP119	come il vino che sto per andare a bere
+PKP119	ah beh siete di compagnia
+PKP118	ho la bocca piena
+PKP119	ah è vero non si parla con la bocca piena
+PKP112	eh non è xxx
+PKP112	eh già
+PKP119	infatti infatti noi stiamo stiamo mangiando però stiamo parlando
+PKP112	non lo so
+PKP112	eh
+PKP118	vuoi un'altra fetta di pane chiara
+PKP112	no basta
+PKP112	son piena
+PKP119	no
+PKP112	mi mangio giusto il il fico d'india
+PKP119	ecco brava
+PKP118	eh
+PKP118	se è ancora buono
+PKP112	carolina ha scritto alla marina gli ha detto ah ho visto
+PKP119	ti ha mandato i soldi
+PKP112	la marina sì
+PKP112	ho visto
+PKP119	no la carolina
+PKP118	che ore sono
+PKP112	cosa
+PKP119	non avevi prestato dei soldi a qualcuno
+PKP112	no a marina
+PKP119	mh
+PKP112	mh carolina mi fa no ho scritto a marina e fa
+PKP112	ehm ho visto che i voli per bologna ad ottobre sono sono superconomici
+PKP118	ah
+PKP112	e quindi ha detto che viene
+PKP118	per la tua laurea
+PKP112	gli ho detto gli ho detto dille che venga per la mia laurea a fine ottobre
+PKP112	se la vabbè se vuol venire prima va bene
+PKP119	questa chi la carolina
+PKP118	ma te ma
 PKP112	mh
-PKP119	sarà tanto se viene e sta un po'
-PKP112	cioè settembre
+PKP118	ma dagliela una data sai già la data
+PKP112	gliel'ho detto si si ma infatti me l'aveva chiesto
+PKP118	l'ha già la data
+PKP112	cioè so che è o il ventotto o il ventinove o il trenta
+PKP118	mh
+PKP112	sarà tanto se viene e sta un po'
+PKP119	cioè settembre
+PKP112	ottobre
 PKP118	ottobre
-PKP119	ottobre
 PKP119	ah madonna
-PKP112	per i morti
-PKP119	praticamente sì
+PKP119	per i morti
+PKP112	praticamente sì
 PKP119	quindi festeggiamo halloween
-PKP112	quando fai la laurea tu
+PKP119	quando fai la laurea tu
 PKP112	ah si
-PKP119	tra l'altro mh
-PKP118	ci vestiamo da gli addams vi
-PKP112	
-PKP118	ma halloween è già il trentuno
-PKP112	mh
+PKP112	tra l'altro mh
+PKP119	ci vestiamo da gli addams vi
+PKP112	ma halloween è già il trentuno
+PKP118	mh
 PKP112	tra l'altro
 PKP112	abbiamo
-PKP118	mh perché il diciassette è il compleanno di carolina no
+PKP112	mh perché il diciassette è il compleanno di carolina no
 PKP118	mh
-PKP112	ottobre
-PKP118	settembre
-PKP112	mh
+PKP118	ottobre
+PKP112	settembre
+PKP118	mh
 PKP112	quindi fra poco
 PKP112	allora marina
-PKP118	visto che deve venire a bologna
-PKP112	mh
-PKP118	le~ e lei adesso è a bologna marina
-PKP112	mh
-PKP112	lei è andata a comprare nello store della dell'università
-PKP118	la borraccia dell'università di bologna
-PKP112	ah
-PKP118	e un'agendina dell'unibo
-PKP112	bello
-PKP112	e dentro ha detto che le disegna tipo non so l'itinerario qualc~ tipo un plan di quello che faremo quando viene qua a bologna
-PKP118	e poi glielo spediamo
-PKP112	bellino
+PKP112	visto che deve venire a bologna
 PKP118	mh
-PKP112	ma n~ non vi conviene darglielo ah no perché manca troppo dai
-PKP118	no è per il compleanno
-PKP112	bellino
-PKP119	mhmh
-PKP112	che bello non ho capito niente
-PKP118	
-PKP112	
-PKP118	le mandiamo una borraccia un'agenda con dentro tipo un itinerario di cose viene qua a bologna non so ristoranti cose da vedere così
-PKP112	beh così può vedere bologna che non l'aveva vista
-PKP119	eh
-PKP118	eh che è anche un bel periodo
-PKP119	mh
-PKP118	perché in autunno è bella bologna
-PKP112	molto
-PKP119	mh
-PKP118	forse più bella che d'estate
+PKP112	le~ e lei adesso è a bologna marina
+PKP118	mh
+PKP112	lei è andata a comprare nello store della dell'università
+PKP112	la borraccia dell'università di bologna
+PKP118	ah
+PKP112	e un'agendina dell'unibo
+PKP118	bello
+PKP112	e dentro ha detto che le disegna tipo non so l'itinerario qualc~ tipo un plan di quello che faremo quando viene qua a bologna
+PKP112	e poi glielo spediamo
+PKP118	bellino
+PKP112	mh
+PKP118	ma n~ non vi conviene darglielo ah no perché manca troppo dai
+PKP112	no è per il compleanno
+PKP118	bellino
+PKP112	mhmh
+PKP119	che bello non ho capito niente
+PKP112	le mandiamo una borraccia un'agenda con dentro tipo un itinerario di cose viene qua a bologna non so ristoranti cose da vedere così
+PKP118	beh così può vedere bologna che non l'aveva vista
+PKP112	eh
+PKP119	eh che è anche un bel periodo
+PKP118	mh
+PKP119	perché in autunno è bella bologna
+PKP118	molto
+PKP112	mh
+PKP119	forse più bella che d'estate
 PKP118	eh
-PKP112	poi da bologna se volete fare un giro a verona e vicino là
-PKP118	sai che io non sono mai andata a san luca
-PKP119	eh sarà l'occasione
+PKP118	poi da bologna se volete fare un giro a verona e vicino là
+PKP112	sai che io non sono mai andata a san luca
+PKP118	eh sarà l'occasione
 PKP119	a piedi c'andate però
 PKP119	prendete l'autobus tutta via saragozza vi fate portare fino a dove c'è lo stadio
 PKP119	presente lo stadio il cimitero del nonno
-PKP112	è lì la certosa
-PKP119	no
-PKP112	ci sei stata
+PKP119	è lì la certosa
+PKP112	no
+PKP119	ci sei stata
 PKP112	mh
-PKP119	eh si
+PKP112	eh si
 PKP119	eh
-PKP118	poi da lì prendete la scalinata e andate su fino alla chiesa di san luca
-PKP112	da lì parte
-PKP119	mh
+PKP119	poi da lì prendete la scalinata e andate su fino alla chiesa di san luca
+PKP118	da lì parte
+PKP112	mh
 PKP119	e
-PKP112	così è tutta scalini scalini però è riparata può piovere nevicare fare dire voi arrivate su fino alla chiesa
-PKP119	ma quindi si mh si cammina
-PKP118	vo~ volendo bello bello c'è il portico allora tu p~ da porta saragozza anzi dal centro di bologna
+PKP119	così è tutta scalini scalini però è riparata può piovere nevicare fare dire voi arrivate su fino alla chiesa
+PKP112	ma quindi si mh si cammina
+PKP119	vo~ volendo bello bello c'è il portico allora tu p~ da porta saragozza anzi dal centro di bologna
 PKP118	eh certo il concetto è quello
-PKP112	beh certo
-PKP119	mhmh
-PKP112	se uno proprio ne ha voglia di camminare
-PKP119	eh
-PKP112	ma perché è lunga eh
-PKP119	eh
-PKP112	poi dal centro da piazza maggiore fai tutta tutta via via saragozza fino alla porta saragozza poi da lì porta saragozza fino a lo stadio
+PKP118	beh certo
+PKP112	mhmh
+PKP119	se uno proprio ne ha voglia di camminare
+PKP112	eh
+PKP119	ma perché è lunga eh
+PKP112	eh
+PKP119	poi dal centro da piazza maggiore fai tutta tutta via via saragozza fino alla porta saragozza poi da lì porta saragozza fino a lo stadio
 PKP112	mh
-PKP119	mhmh
-PKP112	tutta sotto il portico quindi proprio né fare dire ci sono i negozi c'è tutto que~ vi fermate vi prendete il caffè quello quell'a~
+PKP112	mhmh
+PKP119	tutta sotto il portico quindi proprio né fare dire ci sono i negozi c'è tutto que~ vi fermate vi prendete il caffè quello quell'a~
 PKP112	eh è lunghissima
-PKP119	bello
+PKP112	bello
 PKP119	poi arrivate alle orfanelle
-PKP112	alla là lì la l~ il passaggio che poi però lì finiscono i portici
+PKP119	alla là lì la l~ il passaggio che poi però lì finiscono i portici
 PKP112	ah ah
-PKP119	e cominciano però
+PKP112	e cominciano però
 PKP119	quello è un limite
-PKP118	e li c'è la la la la diciamo c'è il pellegrinaggio alla la madonna
-PKP119	però dopo cominciano quelli di san luca i portici no
-PKP118	sì
-PKP119	eh quindi c'è
-PKP112	tu in poche parole lì incominci a fare delle gran scale
-PKP118	vabbè però se non è caldo
-PKP112	è bello
-PKP119	mh
-PKP112	no di no~ d'inverno è bellissimo
-PKP119	eh
+PKP119	e li c'è la la la la diciamo c'è il pellegrinaggio alla la madonna
+PKP118	però dopo cominciano quelli di san luca i portici no
+PKP119	sì
+PKP118	eh quindi c'è
+PKP119	tu in poche parole lì incominci a fare delle gran scale
+PKP112	vabbè però se non è caldo
+PKP118	è bello
+PKP112	mh
+PKP119	no di no~ d'inverno è bellissimo
+PKP112	eh
 PKP119	se ne avete voglia di camminare potete partire da piazza maggiore
-PKP118	poi magari è
-PKP119	quanti chilometri saranno xx
+PKP119	poi magari è
+PKP118	quanti chilometri saranno xx
 PKP119	ah secondo me saranno un paio di chilometri a andare su
-PKP118	anche di più
+PKP119	anche di più
 PKP118	sicuro
-PKP119	ma
+PKP118	ma
 PKP119	due barra tre chilometri però tutti scalini
-PKP118	a scendere aiuta mi sa anche
-PKP119	eh
+PKP119	a scendere aiuta mi sa anche
+PKP118	eh
 PKP119	a salire eh
 PKP119	e poi c'è tutto vabbè c'è tutta la parte del porticato che dal centro di bologna arriva lì fino a alle orfanelle
 PKP119	secondo me ci saranno tr~ altre tre quattro chilometri sono otto chilometri
-PKP118	otto nove chilometri il problema è l~ lo spezzone quello che tira
-PKP119	mh
-PKP118	io l'ho fatta una volta eh
-PKP119	mh
-PKP118	però
-PKP112	lunga
-PKP119	è lunga ma
-PKP112	non dal centro eh solo la parte diciamo delle orfanelle
-PKP119	mhmh
-PKP112	c'è un punto che è così da fare eh
-PKP119	mh
-PKP112	ah tira di brutto ci son tutti i santi puoi pregare ogni e poi ci sono le fermate
-PKP119	beh mhmh
-PKP119	le chiamano
-PKP112	cioè ogni tot scalini c'è la fermata col santo così ti puoi implorare il santo che ti aiuta per fare l'altra rampa
-PKP119	
-PKP119	e finché non arrivi su
-PKP118	poi andate a vedere c'è la madonna nera
-PKP118	vabbé
-PKP119	sarà come andare su a bertinoro qui da forlimpopoli
-PKP118	dal centro di bologna
-PKP119	eh
-PKP112	sì
-PKP118	cioè vabbè un'oretta e mezza dai
-PKP119	eh
-PKP112	sì
+PKP119	otto nove chilometri il problema è l~ lo spezzone quello che tira
 PKP118	mh
-PKP119	dopo al massimo uno può tornare anche in autobus c'è l'autobus
+PKP119	io l'ho fatta una volta eh
+PKP118	mh
+PKP119	però
+PKP118	lunga
+PKP112	è lunga ma
+PKP119	non dal centro eh solo la parte diciamo delle orfanelle
+PKP112	mhmh
+PKP119	c'è un punto che è così da fare eh
+PKP112	mh
+PKP119	ah tira di brutto ci son tutti i santi puoi pregare ogni e poi ci sono le fermate
+PKP112	beh mhmh
+PKP119	le chiamano
+PKP119	cioè ogni tot scalini c'è la fermata col santo così ti puoi implorare il santo che ti aiuta per fare l'altra rampa
+PKP119	e finché non arrivi su
+PKP119	poi andate a vedere c'è la madonna nera
+PKP118	vabbé
+PKP118	sarà come andare su a bertinoro qui da forlimpopoli
+PKP119	dal centro di bologna
+PKP118	eh
+PKP119	sì
+PKP112	cioè vabbè un'oretta e mezza dai
+PKP118	eh
+PKP119	sì
+PKP112	mh
+PKP118	dopo al massimo uno può tornare anche in autobus c'è l'autobus
 PKP119	ma penso di sì ovviamente
-PKP118	le navette ci sono
-PKP119	mh
+PKP119	le navette ci sono
+PKP118	mh
 PKP119	ma a scendere la fai
 PKP119	arrivi allo stadio prendi l'autobus e ti porta in centro poi prendi un altro autobus vieni in san donato
-PKP118	una giornata intensa
-PKP112	eh
+PKP119	una giornata intensa
+PKP118	eh
 PKP112	vabbè però ci sta
-PKP118	io non sono mai andata
-PKP112	oh
-PKP119	ma anche tipo te sei mai stata a rocchetta mattei
-PKP112	la
-PKP112	
-PKP118	rocchetta mattei si chiama
-PKP112	cos'è
+PKP112	io non sono mai andata
+PKP118	oh
+PKP112	ma anche tipo te sei mai stata a rocchetta mattei
+PKP119	la
+PKP112	rocchetta mattei si chiama
+PKP118	cos'è
 PKP112	è penso vicino a bologna
 PKP112	cioè non lo so bene dove sia se è vicino a bologna comunque vabbè in quella in quelle zone lì
 PKP112	ed è questa sorta di chiesa ma è bellissima perché è tutta decorata in bianco e nero a mosaici
-PKP119	è particolarissima
-PKP112	aspetta un attimo
-PKP119	xxx
-PKP118	son curioso
-PKP112	vicino a bologna
+PKP112	è particolarissima
+PKP119	aspetta un attimo
+PKP112	xxx
+PKP119	son curioso
+PKP118	vicino a bologna
 PKP112	sì penso di sì
-PKP118	finisco eh
-PKP112	eh
-PKP118	li finisco
-PKP119	sì finiscili perché se no vanno a male quei fichi d'india
-PKP118	a meno che non è una
-PKP119	sono molto maturi
-PKP112	a meno che non è una cosa nuova io non l'ho mai sentita né nominare né mai vista
-PKP118	ma
-PKP112	è nuova
-PKP119	ma che nuova
+PKP112	finisco eh
+PKP118	eh
+PKP112	li finisco
+PKP118	sì finiscili perché se no vanno a male quei fichi d'india
+PKP119	a meno che non è una
+PKP118	sono molto maturi
+PKP119	a meno che non è una cosa nuova io non l'ho mai sentita né nominare né mai vista
+PKP112	ma
+PKP118	è nuova
+PKP112	ma che nuova
 PKP119	chiesa
-PKP112	rocchetta
-PKP119	ah le spine
-PKP118	ah
-PKP112	si è infilato nel dito
-PKP118	no
+PKP119	rocchetta
+PKP112	ah le spine
+PKP119	ah
+PKP118	si è infilato nel dito
+PKP112	no
 PKP118	toglilo
 PKP118	devi chiedere a carolina
 PKP118	mi fai un favore
@@ -423,165 +399,165 @@ PKP118	in tedesco
 PKP118	cioè io l'ho sempre chiamato micheal ende ma non si chiama eh lo scrittore
 PKP118	ovviamente perché è tedesco
 PKP118	se si chiama michel o michael ende
-PKP112	come lo dico
-PKP118	mi sa michael
+PKP118	come lo dico
+PKP112	mi sa michael
 PKP118	perché io in alcune interviste l'ho sentito chiamare michel ende
-PKP119	ma michel mi sembra un nom~
-PKP112	ma non è a bologna infatti
-PKP119	no però è mi pare che sia
-PKP118	guarda
-PKP119	ma dov'è
+PKP118	ma michel mi sembra un nom~
+PKP119	ma non è a bologna infatti
+PKP112	no però è mi pare che sia
+PKP119	guarda
+PKP118	ma dov'è
 PKP119	è in stile arabo
-PKP118	guarda
-PKP119	ma è una chiesa che cos'è
-PKP118	sembra sembra u~
-PKP119	un palazzo
-PKP118	sembra un palazzo un mh
-PKP112	ma dov'è
-PKP119	è molto bello però
+PKP119	guarda
+PKP118	ma è una chiesa che cos'è
+PKP119	sembra sembra u~
+PKP118	un palazzo
+PKP119	sembra un palazzo un mh
+PKP118	ma dov'è
+PKP112	è molto bello però
 PKP119	di un sultano
-PKP112	guarda è tutto in stile arabo guarda guarda le arcate
-PKP118	fa vedere
-PKP119	ma dov'è
-PKP112	adesso ci guardiamo
+PKP119	guarda è tutto in stile arabo guarda guarda le arcate
+PKP112	fa vedere
+PKP118	ma dov'è
+PKP119	adesso ci guardiamo
 PKP112	guardala dentro perché
-PKP119	non è
+PKP112	non è
 PKP119	sì sì c'è tutto eh sembra di essere a alhambra
-PKP112	in spagna guarda
-PKP119	ma che cos'è
-PKP118	guarda se non sembra una moschea
+PKP119	in spagna guarda
+PKP112	ma che cos'è
+PKP119	guarda se non sembra una moschea
 PKP118	eh sì
-PKP112	sì sì
+PKP118	sì sì
 PKP112	è bellissima
-PKP119	infatti xxxx
-PKP118	questa è una roba per me boh
-PKP119	ma dov'è
-PKP112	aspetta che te lo dico maps
+PKP112	infatti xxxx
+PKP119	questa è una roba per me boh
+PKP118	ma dov'è
+PKP119	aspetta che te lo dico maps
 PKP112	cerca su wikipedia
 PKP112	la storia
-PKP118	guarda
+PKP112	guarda
 PKP118	dov'è
 PKP118	è venuto fuori
 PKP118	no
-PKP112	sta qua~ sta calcolando qua
-PKP119	secondo me se cerchi su wikipedia
+PKP118	sta qua~ sta calcolando qua
+PKP112	secondo me se cerchi su wikipedia
 PKP119	ottantacinque chilometri da qui è
-PKP118	quindi verso modena più o meno
+PKP119	quindi verso modena più o meno
 PKP118	ah da qui
-PKP119	perché bologna quanti chilometri sono da qui
-PKP118	sessantasette
-PKP112	ah
-PKP118	perché verso modena
-PKP119	ah
+PKP118	perché bologna quanti chilometri sono da qui
+PKP119	sessantasette
+PKP118	ah
+PKP112	perché verso modena
+PKP118	ah
 PKP119	xxx
 PKP119	n~ neanche mai sentita
-PKP118	allora aspetta un attimo perché avevo
-PKP112	chi te l'ha detta
-PKP118	ma c'erano andati dei mei amici
-PKP119	mh
+PKP119	allora aspetta un attimo perché avevo
+PKP118	chi te l'ha detta
+PKP112	ma c'erano andati dei mei amici
+PKP118	mh
 PKP119	ho capito
-PKP112	non è comodissimo arrivarci eh
-PKP119	vabbè una gita di un giorno
+PKP119	non è comodissimo arrivarci eh
+PKP112	vabbè una gita di un giorno
 PKP119	cioè
 PKP119	secondo me sì
-PKP118	per carità
-PKP112	prenderesti la frutta dopo chiara in frigo per favore
-PKP119	certo
-PKP118	mhmh
-PKP119	chissà se sono arrivati i banchi oggi a scuola stiamo aspettando i banchi
-PKP118	eh sì
-PKP119	non erano ancora arrivati
-PKP112	eh vabbè sto a posto
-PKP118	speriamo
-PKP112	oggi pomeriggio chissà se si può devo chiedere
-PKP118	anche le prugne
+PKP119	per carità
+PKP118	prenderesti la frutta dopo chiara in frigo per favore
+PKP112	certo
+PKP119	mhmh
+PKP118	chissà se sono arrivati i banchi oggi a scuola stiamo aspettando i banchi
+PKP119	eh sì
+PKP118	non erano ancora arrivati
+PKP119	eh vabbè sto a posto
+PKP112	speriamo
+PKP118	oggi pomeriggio chissà se si può devo chiedere
+PKP112	anche le prugne
 PKP118	sì
-PKP119	grazie
-PKP118	te pensa dov'è
-PKP119	dov'è
-PKP112	ma lo sai dov'è
-PKP119	no
+PKP118	grazie
+PKP119	te pensa dov'è
+PKP118	dov'è
+PKP119	ma lo sai dov'è
+PKP112	no
 PKP119	eh
 PKP119	è parco storico di montesole
-PKP118	cioè sei ai confini con la toscana
-PKP119	ah quindi è su
-PKP118	però già la parte di modena perché sei guarda a monzuno vedi
-PKP119	mh
-PKP118	sei proprio vicino a monzuno castiglione dei pepoli roncobilaccio
-PKP119	mh
+PKP119	cioè sei ai confini con la toscana
+PKP118	ah quindi è su
+PKP119	però già la parte di modena perché sei guarda a monzuno vedi
+PKP118	mh
+PKP119	sei proprio vicino a monzuno castiglione dei pepoli roncobilaccio
+PKP118	mh
 PKP119	ma è lontanissimo da bologna cioè
 PKP119	non è una roba che è da dire
-PKP118	sì per uno in germa~
-PKP112	però si raggiunge con la macchina
-PKP119	ma allora si può raggiungere
-PKP118	sì per uno in germania dice xxx stai lì
-PKP119	ma ma c'è ce n'è di roba da vedere c'è non c'è bisogno di andare a vedere questa c~
+PKP119	sì per uno in germa~
+PKP118	però si raggiunge con la macchina
+PKP112	ma allora si può raggiungere
+PKP119	sì per uno in germania dice xxx stai lì
+PKP118	ma ma c'è ce n'è di roba da vedere c'è non c'è bisogno di andare a vedere questa c~
 PKP119	stai lì
-PKP112	cioè secondo me
+PKP119	cioè secondo me
 PKP112	no boh
 PKP112	così
-PKP119	no dico solo che non l'ho mai vista io ma posso andarci
-PKP118	secondo me
-PKP119	eh neanche io
-PKP112	eh vabbè ma neanch'io magari ci andiamo insieme
-PKP119	eh
-PKP112	ho paura
-PKP119	di cosa
-PKP112	ma poi cosa ci fa una moschea lì in mezzo
+PKP112	no dico solo che non l'ho mai vista io ma posso andarci
+PKP119	secondo me
+PKP118	eh neanche io
+PKP119	eh vabbè ma neanch'io magari ci andiamo insieme
+PKP112	eh
+PKP119	ho paura
+PKP112	di cosa
+PKP119	ma poi cosa ci fa una moschea lì in mezzo
 PKP112	ma non è una mosch~ cerca su wikipedia
-PKP119	non è una moschea
-PKP118	guarda cosa dice lì
-PKP112	come si chiama
+PKP112	non è una moschea
+PKP119	guarda cosa dice lì
+PKP118	come si chiama
+PKP112	rocchetta mattei
 PKP118	rocchetta mattei
-PKP119	rocchetta mattei
-PKP112	per me è uno che si è convertito ai musulmani
-PKP118	l'hai trovata
+PKP119	per me è uno che si è convertito ai musulmani
+PKP112	l'hai trovata
 PKP118	è una chiesa mi dà chiesa
 PKP118	sì sto guardando eh
 PKP118	allo~ il sito ufficiale
 PKP118	la rocchetta mattei
-PKP119	prenota scegli quando visitare
-PKP118	ascolta qui
+PKP118	prenota scegli quando visitare
+PKP119	ascolta qui
 PKP118	paga si per
 PKP118	ah e grazie per gli occhiali perché non vedo niente
 PKP118	un tesoro architettonico inimitabile
-PKP112	grazie alla fondazione cassa di risparmio di bologna
-PKP118	eh quindi cos'è
+PKP118	grazie alla fondazione cassa di risparmio di bologna
+PKP112	eh quindi cos'è
 PKP118	ma questa ah è della cassa della f~ eh fondazione cassa di risparmio di bologna l'ha acquistato nel duemila e cinque
-PKP119	e riaperto al pubblico nel duemila e quindici ecco perché
-PKP118	ah ecco è una cosa fresca
+PKP118	e riaperto al pubblico nel duemila e quindici ecco perché
+PKP119	ah ecco è una cosa fresca
 PKP118	eh
-PKP112	è al comune di grizzano morandi che non ci sono xx
-PKP118	ma cos'è una chiesa cos'è
-PKP119	aspetta
+PKP118	è al comune di grizzano morandi che non ci sono xx
+PKP112	ma cos'è una chiesa cos'è
+PKP118	aspetta
 PKP119	per me è una moschea
-PKP112	perché lo stile è arabo proprio
-PKP119	sì okay ma magari può essere
-PKP112	sembra di essere ad alhambra guarda le foto
-PKP118	una di quelle chiese bizantine non lo so
-PKP119	storia
+PKP119	perché lo stile è arabo proprio
+PKP112	sì okay ma magari può essere
+PKP119	sembra di essere ad alhambra guarda le foto
+PKP112	una di quelle chiese bizantine non lo so
+PKP118	storia
 PKP119	no è diverso
 PKP119	tutto bianco e nero le arcate proprio e le pa~ i portali fatti così
 PKP119	eh stile proprio arabesco
-PKP118	c'è la storia xx
+PKP119	c'è la storia xx
 PKP118	aspetta sì
-PKP112	approfitta
+PKP118	approfitta
 PKP112	allora nella registrazione che ha ascoltato
-PKP118	della
+PKP112	della
 PKP118	è un castello
-PKP119	lì il castello definito rocchetta mattei deve il suo nome al conte cesare mattei ma secondo me era quello di cui parlava l'arianna quest'estate
-PKP118	con chi
-PKP119	con xxxxxxx ma dicevo sarà quello dove siamo andati che te dicevi
-PKP118	no quello
-PKP119	perché io non l'ho mai sentito
-PKP118	ah
-PKP119	però era questo
-PKP118	perché io dicevo il castello dei rossi là
-PKP119	eh e invece è questo qui
-PKP118	eh bello anche quello
-PKP112	è questo qui dai deve il suo nome al conte cesare mattei
-PKP119	dov'è il castello dei rossi
-PKP118	è vicino a bologna
+PKP118	lì il castello definito rocchetta mattei deve il suo nome al conte cesare mattei ma secondo me era quello di cui parlava l'arianna quest'estate
+PKP119	con chi
+PKP118	con xxxxxxx ma dicevo sarà quello dove siamo andati che te dicevi
+PKP119	no quello
+PKP118	perché io non l'ho mai sentito
+PKP119	ah
+PKP118	però era questo
+PKP119	perché io dicevo il castello dei rossi là
+PKP118	eh e invece è questo qui
+PKP119	eh bello anche quello
+PKP118	è questo qui dai deve il suo nome al conte cesare mattei
+PKP112	dov'è il castello dei rossi
+PKP119	è vicino a bologna
 PKP118	beh non è antichissimo
 PKP118	allora il castello definito rocchetta mattei deve il suo nome al conte cesare mattei milleottocentonove milleottocentonovantasei
 PKP118	che lo fece edificare sulle rovine di un'antica costruzione risalente al tredicesimo secolo
@@ -589,344 +565,326 @@ PKP118	la rocca di savignano
 PKP118	la struttura del castello fu modificata più volte dal conte durante la sua vita e dai suoi eredi
 PKP118	rendendola un labirinto di torri scalinate monumentali sale di ricevimento
 PKP118	camere private che richiamano stili diversi
-PKP112	dal neomedievale al neorinascimentale dal moresco al liberty
-PKP118	ma quindi è un castello
-PKP119	sì
-PKP118	è un capriccio secondo me
+PKP118	dal neomedievale al neorinascimentale dal moresco al liberty
+PKP112	ma quindi è un castello
+PKP118	sì
+PKP119	è un capriccio secondo me
 PKP118	cesare è il conte cesare mattei
 PKP118	cesare mattei nacque a bologna nel milleottocento e nove da famiglia agiata
-PKP112	crebbe a contatto con alcuni dei più importanti e significativi personaggi dell'epoca
-PKP118	vabbè
+PKP118	crebbe a contatto con alcuni dei più importanti e significativi personaggi dell'epoca
+PKP112	vabbè
 PKP118	tutto xx
-PKP119	sì come quindi
-PKP112	vabbè ci an~
-PKP119	ci andiamo
-PKP112	sì andremo a fare una gita
-PKP118	dai andiamoci
+PKP118	sì come quindi
+PKP119	vabbè ci an~
+PKP112	ci andiamo
+PKP119	sì andremo a fare una gita
+PKP112	dai andiamoci
 PKP118	sì
 PKP118	allora stavo leggendo
 PKP118	lo ristrutturò lui praticamente
 PKP118	la costruzione della rocchetta eh ehm
 PKP118	ah ah ah
-PKP119	beh quindi è recente perché milleottocentocinquanta
+PKP118	beh quindi è recente perché milleottocentocinquanta
 PKP119	sì
-PKP112	sì infatti
-PKP119	mh
-PKP118	è più sembra più un capriccio personale
-PKP112	sì
-PKP118	mh
-PKP118	brava la marcella
-PKP119	cioè è ancora in corso d'opera il restauro
-PKP118	devono pagare
-PKP112	cioè no~ forse di alcune parti
-PKP118	ma perchè dovevi sapere la pronuncia di quello scrittore
-PKP118	perché
-PKP112	leggerò la storia infinita ai bambini
-PKP118	ah è l'autore della storia infinita
-PKP112	michael ende sì
-PKP118	ah
-PKP119	io l'ho sempre chiamato michael ma non si chiama michael perché
-PKP112	never ending story
-PKP112	è tedesco
-PKP118	
-PKP119	
-PKP118	hai visto il film te
-PKP112	sì
-PKP112	io l'ho visto
-PKP118	però un sacco di tempo fa lo vorrei rivedere
-PKP119	ma è uscito è uscit~ ehm è uscito quando noi negli anni quand'era novanta sì esatto
-PKP118	ma sì eravamo già grandini
-PKP119	ma a michael ende non è piaciuto per niente infatti si è arrabbiato moltissimo per come l'avevano
-PKP118	cosa c'entra cosa c'entra m~
-PKP119	l'autore della storia infinita
-PKP112	perché si era arrabbiato
-PKP118	cioè per~
-PKP119	perché non gli è piaciuto proprio
-PKP118	ah il film
-PKP118	a parte che il film arriva fino a metà libro
-PKP112	cioè tutta la seconda parte del libro non c'è
-PKP118	ma perché è lunghissimo il libro de~
-PKP112	sì è lungo
-PKP118	io non l'ho mai letto il libro
-PKP119	è bello molto bellissimo
-PKP118	va ben
+PKP119	sì infatti
+PKP112	mh
+PKP119	è più sembra più un capriccio personale
 PKP118	sì
-PKP112	va bene allora andremo a questa rocchetta mattei
+PKP112	mh
+PKP118	brava la marcella
+PKP118	cioè è ancora in corso d'opera il restauro
+PKP119	devono pagare
+PKP118	cioè no~ forse di alcune parti
+PKP112	ma perchè dovevi sapere la pronuncia di quello scrittore
+PKP118	perché
+PKP118	leggerò la storia infinita ai bambini
+PKP112	ah è l'autore della storia infinita
+PKP118	michael ende sì
+PKP112	ah
+PKP118	io l'ho sempre chiamato michael ma non si chiama michael perché
+PKP119	never ending story
+PKP112	è tedesco
+PKP119	hai visto il film te
+PKP118	sì
+PKP112	io l'ho visto
+PKP112	però un sacco di tempo fa lo vorrei rivedere
+PKP118	ma è uscito è uscit~ ehm è uscito quando noi negli anni quand'era novanta sì esatto
+PKP119	ma sì eravamo già grandini
+PKP118	ma a michael ende non è piaciuto per niente infatti si è arrabbiato moltissimo per come l'avevano
+PKP119	cosa c'entra cosa c'entra m~
+PKP118	l'autore della storia infinita
+PKP119	perché si era arrabbiato
+PKP112	cioè per~
+PKP118	perché non gli è piaciuto proprio
+PKP119	ah il film
+PKP118	a parte che il film arriva fino a metà libro
+PKP118	cioè tutta la seconda parte del libro non c'è
+PKP112	ma perché è lunghissimo il libro de~
+PKP118	sì è lungo
+PKP112	io non l'ho mai letto il libro
+PKP118	è bello molto bellissimo
+PKP119	va ben
+PKP118	sì
+PKP118	va bene allora andremo a questa rocchetta mattei
 PKP112	eh dai
-PKP119	magari prima che diventi
-PKP112	a pasqua
+PKP112	magari prima che diventi
+PKP119	a pasqua
 PKP112	mh no prima
-PKP118	cioè là facciamo una gita prima che venga freddo dai
-PKP112	sì
-PKP118	quest'autunno
-PKP119	sì
-PKP118	no
-PKP112	beh quando andiamo una volta che andiamo a bologna eh guarda che è vicino a ca~ è che secondo me è vicino anche a casa dell'arianna
+PKP112	cioè là facciamo una gita prima che venga freddo dai
+PKP118	sì
+PKP112	quest'autunno
+PKP118	sì
+PKP119	no
+PKP118	beh quando andiamo una volta che andiamo a bologna eh guarda che è vicino a ca~ è che secondo me è vicino anche a casa dell'arianna
+PKP112	mh
+PKP118	non è che è tanto lontano
+PKP119	ma cosa stai dicendo
+PKP118	da bologna
+PKP119	da casalecchio di reno
 PKP118	mh
-PKP119	non è che è tanto lontano
-PKP118	ma cosa stai dicendo
-PKP119	da bologna
-PKP118	da casalecchio di reno
-PKP119	mh
 PKP119	ma c'è tut~ hai ehm devi andare a coso a
 PKP119	eh dalle parti s~ sei ai confini con la
-PKP118	come si chiamava quello che hai detto prima a mh roncobilaccio
-PKP119	toscana
-PKP118	cioè sei a metà tra la toscana e l'emilia
-PKP112	okay
-PKP119	vabbè una giornata magari c'è anche delle altre cose da vedere lì
+PKP119	come si chiamava quello che hai detto prima a mh roncobilaccio
+PKP118	toscana
+PKP119	cioè sei a metà tra la toscana e l'emilia
+PKP118	okay
+PKP112	vabbè una giornata magari c'è anche delle altre cose da vedere lì
 PKP119	poi facciamo la strada normale fino a lì eh
-PKP118	che è bella quella zona c'è il parco del sole
-PKP119	ma tu non ce l'hai google ecco maps è lì
+PKP119	che è bella quella zona c'è il parco del sole
+PKP118	ma tu non ce l'hai google ecco maps è lì
 PKP119	eh
-PKP118	io non ce l'ho
-PKP119	mi dai un altro po' di fico caramellato è buonissimo
-PKP118	eh ringrazia la tua amica là
+PKP119	io non ce l'ho
+PKP118	mi dai un altro po' di fico caramellato è buonissimo
+PKP119	eh ringrazia la tua amica là
 PKP118	eh
 PKP118	mh
 PKP118	che buono
-PKP112	perché mi dà chiesa di rocchetta mattei xxxx
-PKP118	perché è una chiesa secondo me
-PKP119	ma questo è un castello
-PKP119	
-PKP118	no è di fianco c'è la chiesa
+PKP118	perché mi dà chiesa di rocchetta mattei xxxx
+PKP112	perché è una chiesa secondo me
+PKP118	ma questo è un castello
+PKP119	no è di fianco c'è la chiesa
 PKP118	vabbè
 PKP118	mh sì
-PKP119	rocchetta mattei attrazione turistica
-PKP118	vai su
-PKP112	è vicino a eh a rocchetta mattei
+PKP118	rocchetta mattei attrazione turistica
+PKP119	vai su
+PKP118	è vicino a eh a rocchetta mattei
 PKP112	comunque quei pomodori secchi
 PKP112	secondo me bisogna mangiarli perché
-PKP119	io li ho aperti un tot di tempo fa
-PKP112	li hai mangiati ieri
+PKP112	io li ho aperti un tot di tempo fa
+PKP119	li hai mangiati ieri
 PKP112	sì li avevo mangiati però ehm
-PKP118	ce n'era una puntina che rimaneva un po' fuori dall'olio muffa in tre secondi
-PKP112	ma sì allora bisogna buttarli dai
-PKP119	no
-PKP112	ma ce li siam mangiati ieri in
+PKP112	ce n'era una puntina che rimaneva un po' fuori dall'olio muffa in tre secondi
+PKP118	ma sì allora bisogna buttarli dai
+PKP112	no
+PKP119	ma ce li siam mangiati ieri in
 PKP112	ma~ mamma
 PKP112	un mese fa faceva già la muffa solo la parte fuori dall'olio
-PKP118	poi dopo li ho schiacciati tutti dentro e nulla
-PKP112	l'hai tolta la parte tutt'intorno
-PKP118	sì è ammuffita
-PKP119	mi dai un'altro po' di fichino
-PKP112	pichino
-PKP118	
-PKP119	no
-PKP118	ha detto pichino
+PKP112	poi dopo li ho schiacciati tutti dentro e nulla
+PKP118	l'hai tolta la parte tutt'intorno
+PKP112	sì è ammuffita
+PKP118	mi dai un'altro po' di fichino
+PKP119	pichino
+PKP118	no
+PKP119	ha detto pichino
 PKP118	fico
 PKP118	ho detto fico
-PKP112	voglio un po' di fico caramellato
-PKP112	
-PKP119	
-PKP118	ha detto pichini vero
+PKP118	voglio un po' di fico caramellato
+PKP119	ha detto pichini vero
 PKP118	ah sai quanto ci vuole qua
-PKP119	altro che ottantatré chilometri sono centrotrentaquattro chilometri
-PKP118	ma per andar dove
-PKP112	a rocchetta mattei
-PKP119	quanto ci vuol~ quanto tempo ore
-PKP118	ah sì
+PKP118	altro che ottantatré chilometri sono centrotrentaquattro chilometri
+PKP119	ma per andar dove
+PKP118	a rocchetta mattei
+PKP112	quanto ci vuol~ quanto tempo ore
+PKP119	ah sì
 PKP118	un'ora e tre quarti
-PKP112	due ci vogliono
-PKP119	vabbe dai ti fai una gita un giorno
-PKP112	non lo dire con la zia alberta eh
-PKP118	
-PKP118	
-PKP112	perché
+PKP118	due ci vogliono
+PKP112	vabbe dai ti fai una gita un giorno
+PKP119	non lo dire con la zia alberta eh
+PKP118	perché
 PKP112	si offende
 PKP112	dai chiamala
-PKP119	chiamiamola
-PKP112	ma gli av~ gli ho mandato un messaggio anche ieri sera
-PKP118	e cosa ti ha risposto
-PKP119	cosa ti ha risposto
-PKP118	ho detto come va lassù
-PKP119	eh t'ha risposto
-PKP118	fa ah dai bene e così
-PKP119	mh
+PKP112	chiamiamola
+PKP119	ma gli av~ gli ho mandato un messaggio anche ieri sera
+PKP112	e cosa ti ha risposto
+PKP118	cosa ti ha risposto
+PKP119	ho detto come va lassù
+PKP118	eh t'ha risposto
+PKP119	fa ah dai bene e così
+PKP118	mh
 PKP119	ma è depressa t'ho detto è entrata in un xxxx anche lei
 PKP119	ma la capisco eh
-PKP118	cosa c'è qua il nocciolo
+PKP119	cosa c'è qua il nocciolo
 PKP118	ma il nocciolo del fico scusa
-PKP119	sarà il gam~ il gambo
+PKP118	sarà il gam~ il gambo
 PKP119	prova
-PKP118	sì hai l'aids te me l'attacchi
-PKP112	ma smettila
-PKP118	mh
-PKP112	
-PKP119	l'aids
-PKP118	no l'aids il covid lì
-PKP112	il covid
-PKP119	ah uguale
+PKP119	sì hai l'aids te me l'attacchi
+PKP118	ma smettila
+PKP112	mh
+PKP112	l'aids
+PKP119	no l'aids il covid lì
+PKP118	il covid
+PKP112	ah uguale
 PKP119	no non è
 PKP119	son sempre malattie infettive
 PKP119	che è quasi meglio l'aids in questi ultimi tempi perché
-PKP118	almeno uno non te l'attacca in casa così
+PKP119	almeno uno non te l'attacca in casa così
 PKP118	ah b~ vabbè bisogna arrivare a sasso marconi
-PKP119	e poi da lì prendere uscire dall' autostrada
+PKP118	e poi da lì prendere uscire dall' autostrada
 PKP119	ma ora
-PKP118	io non ce la faccio
-PKP112	eh mh un po' in là eh
-PKP119	guido io
-PKP112	così non ce la faccio il doppio
-PKP119	
-PKP112	arrivo che sono così
-PKP112	
-PKP119	me ne dai un altro po'
-PKP118	ma ehi
-PKP112	ma tu ma scusami e io vorrei un fico per me e ve lo mangiate voi
-PKP119	
-PKP118	no
-PKP112	mi dai un~ una puntina e poi ve lo magnate voi
-PKP118	il picchino
-PKP119	dai dammi un pez~ un fico e me lo mangio dopo
-PKP118	dai va là te li sei mangiati tutti te
-PKP119	ma io ne ho mangiati due pezzettini
-PKP118	no due pezzettini
+PKP119	io non ce la faccio
+PKP118	eh mh un po' in là eh
+PKP112	guido io
+PKP119	così non ce la faccio il doppio
+PKP119	arrivo che sono così
+PKP112	me ne dai un altro po'
+PKP119	ma ehi
+PKP118	ma tu ma scusami e io vorrei un fico per me e ve lo mangiate voi
+PKP119	no
+PKP118	mi dai un~ una puntina e poi ve lo magnate voi
+PKP112	il picchino
+PKP118	dai dammi un pez~ un fico e me lo mangio dopo
+PKP119	dai va là te li sei mangiati tutti te
+PKP118	ma io ne ho mangiati due pezzettini
+PKP119	no due pezzettini
 PKP118	dam~
 PKP118	dammi un pez~ un fico intero
-PKP119	che me lo mangio io da sola
+PKP118	che me lo mangio io da sola
 PKP119	no
 PKP119	tu non sei gestibile
-PKP118	col fico
-PKP112	
-PKP118	
-PKP119	dai dammene un'altro po'
-PKP112	ludovico sei buono come un fico
-PKP119	dai papà
-PKP112	un vero amico
-PKP119	io non farò mai più una cosa così con te
-PKP112	lo vuoi molto o poco caramellato
-PKP119	io mi immagino chi ascolterà questa registrazione
-PKP118	si divertirà dirà che bella famiglia è comica proprio
-PKP119	dai dammene un pezzetto
+PKP119	col fico
+PKP118	dai dammene un'altro po'
+PKP119	ludovico sei buono come un fico
+PKP112	dai papà
+PKP119	un vero amico
+PKP112	io non farò mai più una cosa così con te
+PKP119	lo vuoi molto o poco caramellato
+PKP112	io mi immagino chi ascolterà questa registrazione
+PKP119	si divertirà dirà che bella famiglia è comica proprio
+PKP118	dai dammene un pezzetto
 PKP119	cos'è
 PKP119	non sono napoletane
-PKP112	guarda che è meraviglioso
-PKP118	
-PKP112	sono siciliani
-PKP119	eh ci
-PKP118	basta eh
-PKP119	basta
+PKP119	guarda che è meraviglioso
+PKP118	sono siciliani
+PKP112	eh ci
+PKP119	basta eh
+PKP118	basta
 PKP119	eh non devo far rumore
-PKP118	non è roba vero
-PKP119	no
+PKP119	non è roba vero
 PKP118	no
+PKP119	no
 PKP118	però
-PKP112	adesso vediamo quanto ne dai a me e quanto ne mangiate voi
-PKP119	io non ne voglio più
-PKP118	neanch'io
-PKP112	eh sì
-PKP118	ma basta ributtalo dentro quello
-PKP119	va bene
-PKP118	secondo te me lo fan ritirare fuori tre volte
-PKP112	
-PKP118	e chi se lo mangia tutto quello là
-PKP119	io
-PKP112	sta a vedere eh qui
-PKP119	tutto intero
-PKP118	sta a vedere chiara
-PKP119	no beh tutto intero no
-PKP118	sta a vedere
-PKP112	è smagoso dai
-PKP118	sì
-PKP119	buono
-PKP118	ma secondo te c'è aggiunta di zucchero qui
-PKP119	certo
-PKP118	non è già lo zucchero che fa il ficus
-PKP118	no no c'è dello zucchero in più
-PKP119	si sente anche nel tappo c'era molta granella
-PKP118	sì effettivamente è vero
-PKP119	se no come fai a caramellarli scusa
-PKP118	però già il ficus
-PKP118	ma c'è lo zucchero
-PKP119	questa è una bomba
-PKP118	ma cos'abbiam mangiato un fico
-PKP119	tre
-PKP112	uno due tre
-PKP118	io un morsino ne ho mangiato
-PKP119	okay basta
-PKP118	ti sei mangiata anche l'uva la pe~ la la la prugna
-PKP112	fico d'india
-PKP119	no la prugna no
-PKP119	fico d'india te c'hai dato
-PKP118	il rewind
-PKP119	eh c'è da dubitarne
-PKP112	bene
-PKP118	cosa ti ha detto la zia veronica oggi
-PKP119	che sta bene
-PKP112	c'hai un po' di fico qui
-PKP118	
-PKP118	aspetta che mi pulisco
-PKP119	sta bene la zia
-PKP118	sta bene
-PKP119	sì
-PKP118	sono tornati
-PKP119	son tornati a castel fidardo
-PKP118	in pace tutto come se non fosse successo niente
-PKP118	sì
-PKP118	sì
-PKP119	e non sono più al mare adesso
-PKP112	come mai si son stufati
-PKP118	in pace
-PKP112	cioè son tornati a casa al castello non stanno al mare
-PKP118	ma mh uguale la situazione
-PKP118	sì come s~ sì sì
-PKP119	poi non so non ne abbiam parlato
-PKP112	morirà così
-PKP118	finché sta bene a lei stare così
-PKP118	ha detto che mariarita inizierà la scuola
-PKP112	e fino a ottobre farà solo fino a mezzogiorno
-PKP118	è vero
+PKP118	adesso vediamo quanto ne dai a me e quanto ne mangiate voi
+PKP112	io non ne voglio più
+PKP119	neanch'io
+PKP118	eh sì
+PKP112	ma basta ributtalo dentro quello
+PKP118	va bene
+PKP119	secondo te me lo fan ritirare fuori tre volte
+PKP112	e chi se lo mangia tutto quello là
+PKP118	io
+PKP119	sta a vedere eh qui
+PKP112	tutto intero
+PKP119	sta a vedere chiara
+PKP118	no beh tutto intero no
+PKP119	sta a vedere
+PKP118	è smagoso dai
 PKP112	sì
-PKP118	perché
-PKP119	perché mancano degli insegnanti e
-PKP112	perché là figurati
-PKP119	beh non le va male
-PKP118	non gli pare vero alla laura
+PKP118	buono
+PKP119	ma secondo te c'è aggiunta di zucchero qui
+PKP118	certo
+PKP119	non è già lo zucchero che fa il ficus
+PKP118	no no c'è dello zucchero in più
+PKP118	si sente anche nel tappo c'era molta granella
+PKP119	sì effettivamente è vero
+PKP118	se no come fai a caramellarli scusa
+PKP119	però già il ficus
+PKP118	ma c'è lo zucchero
+PKP118	questa è una bomba
+PKP119	ma cos'abbiam mangiato un fico
+PKP118	tre
+PKP119	uno due tre
+PKP112	io un morsino ne ho mangiato
+PKP118	okay basta
+PKP119	ti sei mangiata anche l'uva la pe~ la la la prugna
+PKP118	fico d'india
+PKP112	no la prugna no
+PKP119	fico d'india te c'hai dato
+PKP119	il rewind
+PKP118	eh c'è da dubitarne
+PKP119	bene
+PKP112	cosa ti ha detto la zia veronica oggi
+PKP118	che sta bene
+PKP119	c'hai un po' di fico qui
+PKP118	aspetta che mi pulisco
+PKP118	sta bene la zia
+PKP119	sta bene
+PKP118	sì
+PKP119	sono tornati
+PKP118	son tornati a castel fidardo
+PKP119	in pace tutto come se non fosse successo niente
+PKP118	sì
+PKP118	sì
+PKP118	e non sono più al mare adesso
+PKP119	come mai si son stufati
+PKP112	in pace
+PKP118	cioè son tornati a casa al castello non stanno al mare
+PKP112	ma mh uguale la situazione
+PKP118	sì come s~ sì sì
+PKP118	poi non so non ne abbiam parlato
+PKP119	morirà così
+PKP112	finché sta bene a lei stare così
+PKP118	ha detto che mariarita inizierà la scuola
+PKP118	e fino a ottobre farà solo fino a mezzogiorno
+PKP112	è vero
+PKP118	sì
+PKP112	perché
+PKP118	perché mancano degli insegnanti e
+PKP119	perché là figurati
+PKP112	beh non le va male
+PKP119	non gli pare vero alla laura
 PKP118	ma non sapeva ancora niente cioè perché ha telefonato però non le avevano detto niente
 PKP118	non ha neanche
 PKP118	firmato il patto di corresponsabilità con le famiglie
 PKP118	mh sapeva niente ancora
-PKP119	mi sembrano molto in alto mare
-PKP118	ti è sceso il fico
-PKP119	no va bene basta
-PKP118	nono
-PKP119	può bastare
-PKP118	no no è tuo eh
-PKP119	non me lo mangio io
+PKP118	mi sembrano molto in alto mare
+PKP119	ti è sceso il fico
+PKP118	no va bene basta
+PKP119	nono
+PKP118	può bastare
+PKP119	no no è tuo eh
+PKP118	non me lo mangio io
 PKP119	quello grosso
-PKP118	quello piccolo
+PKP119	quello piccolo
 PKP118	è tuo
-PKP112	dopo basta
-PKP119	no basta io son piena
-PKP112	sei sicura
-PKP118	hai ringraziato la ma poi ti ha dato anche le la salsa di pomodoro ho visto
-PKP119	mh
+PKP118	dopo basta
+PKP112	no basta io son piena
+PKP119	sei sicura
+PKP112	hai ringraziato la ma poi ti ha dato anche le la salsa di pomodoro ho visto
+PKP118	mh
 PKP119	ma chiara tu devi capire io l'ho ringraziata è ovvio che l'ho ringraziata
 PKP119	dicevo la gente non è che mi vede e se e son gesù
-PKP112	e tutti d~ mi portano i doni
-PKP112	
-PKP119	vabbè gli ha fatto la il lavoro
+PKP119	e tutti d~ mi portano i doni
+PKP112	vabbè gli ha fatto la il lavoro
 PKP119	la gente
 PKP119	chi lo vuole fare a me piace molto eh
 PKP119	proprio come stile
 PKP119	cioè il dare avere
-PKP112	il baratto così
+PKP119	il baratto così
 PKP112	anche perché se
-PKP119	cioè lei ti chie~ però ti ha chiesto se volevi dei soldi
-PKP118	ti dirò
-PKP112	ma va là
-PKP119	ma cosa gli hai fatto non ho capito
+PKP112	cioè lei ti chie~ però ti ha chiesto se volevi dei soldi
+PKP119	ti dirò
+PKP118	ma va là
+PKP112	ma cosa gli hai fatto non ho capito
 PKP119	ma ho messo a posto
 PKP119	due volte la lavatrice
-PKP112	cosa
-PKP119	mh
+PKP119	cosa
+PKP112	mh
 PKP119	ah
 PKP119	due volte la lavatrice
 PKP119	e non gli avevo chiesto mai niente
-PKP112	poi
-PKP118	chiama sempre te sei il suo tecnico
-PKP119	la xx sì sì sì
-PKP118	beh sai com'è
-PKP119	il lampadario in casa
+PKP119	poi
+PKP112	chiama sempre te sei il suo tecnico
+PKP118	la xx sì sì sì
+PKP119	beh sai com'è
+PKP118	il lampadario in casa
 PKP119	la lam~

@@ -1,10 +1,10 @@
 BOR002	allora
-BOI014	in che quartiere di bologna vivi e come ti trovi
+BOR002	in che quartiere di bologna vivi e come ti trovi
 BOI014	dunque io vivo alla croce di casalecchio che è un quartiere del comune di casalecchio
 BOI014	che appartiene alla provincia di bologna
-BOR002	mi trovo molto bene mi trovo molto bene
+BOI014	mi trovo molto bene mi trovo molto bene
 BOR002	secondo te è cambiato molto nel corso degli anni se sì perché o se no
-BOI014	perché non è cambiato
+BOR002	perché non è cambiato
 BOI014	sì è cambiato decisamente molto perché io faccio riferimento ai miei primi anni
 BOI014	sono ve~ arrivata qui a casalecchio nel
 BOI014	eh millenovecentoquarantanove e non mi sono più spostata quindi la situazione di allora era di un dopoguerra
@@ -12,13 +12,12 @@ BOI014	con
 BOI014	pochissime case molte diroccate e una popolazione nel quartiere minima
 BOI014	di poco più penso di
 BOI014	trecento persone ecco adesso fai i calcoli che ce ne sono ottomila
-BOR002	è cambiata mh radicalmente in questi settant'anni è cambiato moltissimo ecco
-BOI014	ma quindi trecento persone in tutta la croce cioè non solo in questa
-BOR002	sì no nella croce quando sono arrivata io sì
-BOI014	
+BOI014	è cambiata mh radicalmente in questi settant'anni è cambiato moltissimo ecco
+BOR002	ma quindi trecento persone in tutta la croce cioè non solo in questa
+BOI014	sì no nella croce quando sono arrivata io sì
 BOI014	m~ ma poi dicendo molto
-BOR002	perché c'erano pochissime case
-BOI014	ah pensa te
+BOI014	perché c'erano pochissime case
+BOR002	ah pensa te
 BOI014	erano
 BOI014	tutte dis~ quelle poche erano distrutte
 BOI014	e poi c'era eh
@@ -27,32 +26,31 @@ BOI014	di una latteria
 BOI014	poi la croce era divisa in luna
 BOI014	e sole
 BOI014	che erano due zone eh indicate
-BOR002	eh in questo modo non non non ho mai capito perché comunque
-BOI014	
+BOI014	eh in questo modo non non non ho mai capito perché comunque
 BOI014	lu~ le la la prima parte la luna era
 BOI014	eh quella più vicina a bologna e il sole quella più vicino a casalecchio
 BOI014	ma ripeto
 BOI014	erano
-BOR002	c'eran pochissime case ecco
+BOI014	c'eran pochissime case ecco
 BOR002	pensa te
-BOI014	non cioè proprio non ne avevo idea neanche della denominazione queste cose no
+BOR002	non cioè proprio non ne avevo idea neanche della denominazione queste cose no
 BOI014	non lo sapevi no
-BOR002	eh la c~ infatti la f~ f~ la fermata del tram perché allora c'era il tram
+BOI014	eh la c~ infatti la f~ f~ la fermata del tram perché allora c'era il tram
 BOR002	no non era mai
-BOI014	ah e' vero
+BOR002	ah e' vero
 BOI014	c'era la luna
-BOR002	e il sole
-BOI014	ma ancora adesso
-BOR002	erano denominate proprio luna e sole
-BOI014	eh ancora adesso c'è la fermata croce luna
-BOR002	crocefi~
-BOI014	però non c'è croce sole c'è solo croce luna
+BOI014	e il sole
+BOR002	ma ancora adesso
+BOI014	erano denominate proprio luna e sole
+BOR002	eh ancora adesso c'è la fermata croce luna
+BOI014	crocefi~
+BOR002	però non c'è croce sole c'è solo croce luna
 BOI014	eh però c'era croce luna sì
 BOI014	beh croce sole forse non c'era però perché passava
 BOI014	sotto
-BOR002	e v~ allora luna sicuramente e forse sole non c'era neanche
+BOI014	e v~ allora luna sicuramente e forse sole non c'era neanche
 BOR002	capito
-BOI014	e sono cambiate anche le persone che vivono nel quartiere
+BOR002	e sono cambiate anche le persone che vivono nel quartiere
 BOI014	le persone decisamente quelle che ricordo io eh appartenevano ad un ceto
 BOI014	bassissimo di
 BOI014	operai
@@ -61,33 +59,33 @@ BOI014	e che abitavano nelle case popolari che erano state costruite subito dopo
 BOI014	quella in cui ho vissuto io per
 BOI014	venti s~ vent'anni
 BOI014	era una casa infatti popolare costruita con il piano penso fanfani qualcosa del genere
-BOR002	eh che fu un piano eh che ehm ricostruì le case in tutta in tutta italia
-BOI014	mh
+BOI014	eh che fu un piano eh che ehm ricostruì le case in tutta in tutta italia
+BOR002	mh
 BOI014	che non c'erano no e in queste case abitavamo noi che
 BOI014	eh la mia famiglia era una famiglia di artigiani che in un certo senso era un po' più
 BOI014	eh ricca dicia~ fra virgolette ma
 BOI014	la la base
 BOI014	della popolazione era una popolazione
-BOR002	poverissima
-BOI014	eh e dov'era la casa popolare
-BOR002	è quella di via canonica
-BOI014	ah di via ca~ ah è vero che me l'avevi detto
+BOI014	poverissima
+BOR002	eh e dov'era la casa popolare
+BOI014	è quella di via canonica
+BOR002	ah di via ca~ ah è vero che me l'avevi detto
 BOI014	eh eh io ho sempre abitato lì
-BOR002	per i miei vent'anni cioè meno di vent'anni perché poi avevo sì vent'anni
-BOI014	è vero
-BOR002	avevo neanche cinque anni quando son venuta
-BOI014	mh
+BOI014	per i miei vent'anni cioè meno di vent'anni perché poi avevo sì vent'anni
+BOR002	è vero
+BOI014	avevo neanche cinque anni quando son venuta
+BOR002	mh
 BOI014	e ne avevo venticinque ventisei quando mi sono sposata e sono andata via
 BOI014	comunque sì la popolazione era un proprio un ceto bassissimo
 BOI014	con anche una certa delinquenza
-BOR002	i ragazzini i bambini i ragazzini soprattutto erano
-BOI014	mh
+BOI014	i ragazzini i bambini i ragazzini soprattutto erano
+BOR002	mh
 BOI014	eh ehm
 BOI014	ladruncoli ce ne'eran parecchi
 BOI014	che andavano anche in galera
-BOR002	perché poi c'era una povertà diffusa ecco
+BOI014	perché poi c'era una povertà diffusa ecco
 BOR002	eh ti viene in mente qualche ricordo legato alla tua casa diciamo quella che è stata maggiormente la tua casa per la tua vita che non sia questa
-BOI014	cioè quindi quella lì di via canonica
+BOR002	cioè quindi quella lì di via canonica
 BOI014	ah beh è i ricordi della mia infanzia che
 BOI014	nonostante tutto è stata una bellissima infanzia
 BOI014	con i miei amici che erano i miei compagni di scuola
@@ -98,25 +96,23 @@ BOI014	eh era proprio stato l'amico del cuore per me
 BOI014	e con lui abbiamo giocavamo io andavo in casa sua lui veniva da me
 BOI014	la lui
 BOI014	aveva la madre che era vedova che lavorava alla
-BOR002	alla fabbrica dell'argento che era a casalecchio
-BOI014	mh
+BOI014	alla fabbrica dell'argento che era a casalecchio
+BOR002	mh
 BOI014	c'era una fabbrica dell'argento che era una fabbrica che dava lavoro a parecchie persone
 BOI014	e lei lavorava lì e aveva tre figli poverini avevano una miseria incredibile
-BOR002	facevan sempre da mangiare le tagliatelle
-BOI014	buone pero'
-BOR002	a~ cciden~ solo condite poi con in un soffritto fatto con la cipolla
-BOI014	
-BOR002	e e e la conserva eh carne poca roba
-BOI014	mh
-BOR002	ma per me aveva un profumo meraviglioso che
-BOI014	
+BOI014	facevan sempre da mangiare le tagliatelle
+BOR002	buone pero'
+BOI014	a~ cciden~ solo condite poi con in un soffritto fatto con la cipolla
+BOI014	e e e la conserva eh carne poca roba
+BOR002	mh
+BOI014	ma per me aveva un profumo meraviglioso che
 BOI014	io le le avrei che a me non piaceva niente quand'ero piccola ero molto
 BOI014	schizzinosa mangiavo poco e non mi piaceva nien~
 BOI014	ma quell'odore lì era un odore fantastico
 BOI014	e ho vissuto e mi ricordo delle nevicate nella grande~ del cinquantasei la famosa nevicata del cinquantasei che
-BOR002	è diventata un un un riferimento anche musicale no
+BOI014	è diventata un un un riferimento anche musicale no
 BOR002	mh
-BOI014	ah non lo sapevo
+BOR002	ah non lo sapevo
 BOI014	di una canzone non sapevi sì adesso non mi ricordo non mi viene in mente in questo momento di chi
 BOI014	è la nevicata del cinquantasei è una nevicata
 BOI014	incredibile
@@ -128,31 +124,29 @@ BOI014	avevano mio padre aveva suo fratello che abitava a casalecchio
 BOI014	in centro vicino alla ferrovia no
 BOI014	e eh tutte le domeniche noi andavamo da loro loro venivano da noi e si stava insieme
 BOI014	ed era eh con i cugini ci siamo sempre frequentati non è come adesso che
-BOR002	una telefonata un whatsapp è morta lì non ci si vede neanche allora
-BOI014	mhmh
-BOR002	non c'era neanche il telefono perché il telefono è arrivato verso la fine degli anni cinquanta a casa nostra
-BOI014	certo
+BOI014	una telefonata un whatsapp è morta lì non ci si vede neanche allora
+BOR002	mhmh
+BOI014	non c'era neanche il telefono perché il telefono è arrivato verso la fine degli anni cinquanta a casa nostra
+BOR002	certo
 BOI014	e la televis~ come la televisione negli anni dai cin~ dai sì nel~ a metà anni cinquanta
 BOI014	è arrivato il telefono prima non avevamo niente quindi ci si vedeva per forza
 BOI014	de visu
-BOR002	perché ti dovevi vedere così
-BOI014	mhmh
-BOR002	quindi ho bellissimi ricordi del della mia infanzia
+BOI014	perché ti dovevi vedere così
+BOR002	mhmh
+BOI014	quindi ho bellissimi ricordi del della mia infanzia
 BOR002	e quali erano diciamo i luoghi più frequentati del quartiere
-BOI014	sì da bambini da ragazzi adesso
+BOR002	sì da bambini da ragazzi adesso
 BOI014	da bambina era il cortile
-BOR002	il cortile perché non c'erano altri luoghi di aggregazione perché non avevamo la chiesa la nostra parrocchia era san martino
-BOI014	
+BOI014	il cortile perché non c'erano altri luoghi di aggregazione perché non avevamo la chiesa la nostra parrocchia era san martino
 BOI014	quindi
 BOI014	il catechismo la eh i sacramenti li ho fatti tutti a san martino andavamo alla dottrina a piedi da casa nostra fino là
-BOR002	ma non c'erano attività eh parrocchiali non esistevano allora c'era la messa e il rosario della
-BOI014	bello
-BOR002	be~ il rosario
-BOI014	
+BOI014	ma non c'erano attività eh parrocchiali non esistevano allora c'era la messa e il rosario della
+BOR002	bello
+BOI014	be~ il rosario
 BOI014	e quindi facevamo
 BOI014	eh i
-BOR002	no altri luoghi di aggregazione eran le case degli amici
-BOI014	mhmh
+BOI014	no altri luoghi di aggregazione eran le case degli amici
+BOR002	mhmh
 BOI014	o o in cortile nel cortile dove ci si trovava
 BOI014	e poi dopo di bello c'era che d'estate
 BOI014	soprattutto in estate
@@ -160,16 +154,15 @@ BOI014	mh eh tutti si usciva di casa con una seggiola si andava nel cortile alla
 BOI014	gli gli adulti
 BOI014	e cominciavano a raccontare
 BOI014	a raccontare erano tutti episodi di guerra di quelli che ricordo più indietro nel tempo perché la guerra era appena passata
-BOR002	e parlavano di questi tognini
-BOI014	tognini
-BOR002	tognini i tugnéin
-BOI014	ah
-BOR002	in dialetto bolognese erano i tugnèin
-BOI014	okay
-BOR002	io c'ho messo una vita per capire che erano i tedeschi
-BOI014	ah
-BOR002	
-BOI014	no infatti non avrei mai ricollegato
+BOI014	e parlavano di questi tognini
+BOR002	tognini
+BOI014	tognini i tugnéin
+BOR002	ah
+BOI014	in dialetto bolognese erano i tugnèin
+BOR002	okay
+BOI014	io c'ho messo una vita per capire che erano i tedeschi
+BOR002	ah
+BOR002	no infatti non avrei mai ricollegato
 BOI014	eh
 BOI014	tun~ to~ tognini i tugnèin
 BOI014	tugnèin
@@ -178,56 +171,56 @@ BOI014	che venivano ovviamente
 BOI014	eh rappresentati come delle persone
 BOI014	insomma di cui avere grande paura anche perché
 BOI014	mia madre raccontava che i miei fratelli che son molto più grandi di me eh a~ avevano già l'età per essere
-BOR002	mh eh solda~ non soldati erano ancora piccoli però
-BOI014	la leva
+BOI014	mh eh solda~ non soldati erano ancora piccoli però
+BOR002	la leva
 BOI014	potevano essere considerati anche dei
 BOI014	partigiani quindi quando eo scappavano sempre
 BOI014	dovevano scappare capito
 BOI014	e questi
 BOI014	tognini perché poi in italiano erano diventati i tognini ma
-BOR002	loro ne parlavano in dialetto li chiama~ perché allora tutti lì parlavano in dialetto
-BOI014	certo
+BOI014	loro ne parlavano in dialetto li chiama~ perché allora tutti lì parlavano in dialetto
+BOR002	certo
 BOI014	tutti parlavano in diale~ solo noi coi i miei genitori
 BOI014	n~ nei ri~ verso di me verso mia sorella parlavano sempre in italiano
-BOR002	però fra di loro e con i miei fratelli parlavano sempre in dialetto
+BOI014	però fra di loro e con i miei fratelli parlavano sempre in dialetto
 BOR002	mh eh allora colgo la palla al balzo dal momento che una che d~
 BOR002	insomma dei focus
 BOR002	se dato che tu comunque sei nata
-BOI014	cioè appunto che la guerra è finita cioè dopo un anno quindi probabilmente non hai ricordi molto probabilmente non hai ricordi
+BOR002	cioè appunto che la guerra è finita cioè dopo un anno quindi probabilmente non hai ricordi molto probabilmente non hai ricordi
 BOI014	mh
-BOR002	no
-BOI014	se ti veniva in mente qualche episodio allora che ti è stato raccontato
-BOR002	sì mi s~
+BOI014	no
+BOR002	se ti veniva in mente qualche episodio allora che ti è stato raccontato
+BOI014	sì mi s~
 BOR002	ma anche
-BOI014	se ti viene in mente nel corso del~
+BOR002	se ti viene in mente nel corso del~
 BOI014	no mi è mi è n~ mi è venu~ mi viene in mente subito perché mia madre ha sempre raccontato che
 BOI014	eh ogni volta che sentivano
 BOI014	pippo
 BOI014	che era
 BOI014	eh l'aereo
 BOI014	che che
-BOR002	dava l'allarme no
-BOI014	mhmh
+BOI014	dava l'allarme no
+BOR002	mhmh
 BOI014	e
-BOR002	eh non so se era pippo che dava l'allarme comunque c'era sto pippo non lo so xx
-BOI014	ma era una persona o era un nome per qualcosa
-BOR002	no no un aereo un aereo
-BOI014	ah era un aereo
+BOI014	eh non so se era pippo che dava l'allarme comunque c'era sto pippo non lo so xx
+BOR002	ma era una persona o era un nome per qualcosa
+BOI014	no no un aereo un aereo
+BOR002	ah era un aereo
 BOI014	vero credo che fosse l'aereo comunque
 BOI014	eh
 BOI014	quando suonava l'allarme tutti andavano a nei rifugi
-BOR002	uno è in via dei bregoli
-BOI014	ah
-BOR002	non l'hai mai visto quando hai fatto la strada ecco c'è adesso l'hanno chiuso però
+BOI014	uno è in via dei bregoli
+BOR002	ah
+BOI014	non l'hai mai visto quando hai fatto la strada ecco c'è adesso l'hanno chiuso però
 BOR002	non c'ho mai fatto caso
-BOI014	ah
+BOR002	ah
 BOI014	proprio vicino alla chiesa
 BOI014	su poco dopo c'era
-BOR002	sotto nel monte avevano fatto i rifugi no
-BOI014	okay
-BOR002	i rifugi oppure si andava in cantina insomma si scappava va bene dalle case mia madre ha sempre raccontato che
+BOI014	sotto nel monte avevano fatto i rifugi no
+BOR002	okay
+BOI014	i rifugi oppure si andava in cantina insomma si scappava va bene dalle case mia madre ha sempre raccontato che
 BOR002	mhmh
-BOI014	mhmh
+BOR002	mhmh
 BOI014	mi aveva preso in braccio perché io ero piccola naturalmente ed era scappata
 BOI014	per for~
 BOI014	e f~ salendo le scale o scendendo le scale non lo so
@@ -236,69 +229,68 @@ BOI014	ehm
 BOI014	distrutto lo scalino
 BOI014	precedente a quello che aveva fatto lei insomma in poche parole
 BOI014	si era
-BOR002	salvata hai capito
-BOI014	mamma mia
+BOI014	salvata hai capito
+BOR002	mamma mia
 BOI014	e in un'altra occasione i miei fratelli invece
 BOI014	mi ave~ mi prendevano in braccio
 BOI014	e si scappava e una volta s~
 BOI014	che non e~ non essendo riusciti a
 BOI014	scappare nel rifugio perché era arrivata subito la la gli aerei
 BOI014	i bombardamenti
-BOR002	si but~ buttarono in un fosso
-BOI014	mh ma pensa te
+BOI014	si but~ buttarono in un fosso
+BOR002	mh ma pensa te
 BOI014	in un fosso così
 BOI014	con me
 BOI014	e ehm i miei fratelli erano fe~ fenomenali perché mio zi~ zio tarquinio
-BOR002	era quello che aveva sempre fame no poi ti puoi immaginare quattordici sedic'anni che fame potevano avere
-BOI014	
-BOR002	quando sentiva l'allarme prendeva il pane e scappava col pane c'era sì
-BOI014	no
+BOI014	era quello che aveva sempre fame no poi ti puoi immaginare quattordici sedic'anni che fame potevano avere
+BOI014	quando sentiva l'allarme prendeva il pane e scappava col pane c'era sì
+BOR002	no
 BOI014	perché lui aveva beh perché si rimaneva d~
-BOR002	del tempo nei rifugi no
-BOI014	mhmh
+BOI014	del tempo nei rifugi no
+BOR002	mhmh
 BOI014	e si portava dietro
 BOI014	la le pagnotte hai capito
-BOR002	mio fratello era fenomenale
+BOI014	mio fratello era fenomenale
 BOR002	eh i tuoi fratelli
 BOR002	ma anche semplicemente la zia
-BOI014	che comunque è nata prima di te ti hanno mai raccontato qualcosa perché questo te l'ha raccontato tua mamma ma magari loro
-BOR002	me l'ha racco~ questo è de~ de~ de~ del fatto me l'han raccontato i miei fratelli della gue~
-BOI014	ah okay
+BOR002	che comunque è nata prima di te ti hanno mai raccontato qualcosa perché questo te l'ha raccontato tua mamma ma magari loro
+BOI014	me l'ha racco~ questo è de~ de~ de~ del fatto me l'han raccontato i miei fratelli della gue~
+BOR002	ah okay
 BOI014	della guerra raccontavano queste cose qui
 BOI014	mio padre al di' la guerra praticamente non ha mai raccontato perché lui è stato riformato
-BOR002	perché lui aveva l'asma
-BOI014	okay e riformato significa
+BOI014	perché lui aveva l'asma
+BOR002	okay e riformato significa
 BOI014	quindi
-BOR002	riformato vuol dire che non è stato chiamato alle armi
-BOI014	ah okay okay
+BOI014	riformato vuol dire che non è stato chiamato alle armi
+BOR002	ah okay okay
 BOI014	eh aveva un'asma
-BOR002	molto grave mio padre no e quindi lui la guerra non l'ha fatta pur essendo nell'età perché lui è nato
-BOI014	mhmh
+BOI014	molto grave mio padre no e quindi lui la guerra non l'ha fatta pur essendo nell'età perché lui è nato
+BOR002	mhmh
 BOI014	nell'ottantasei nel milleottocentottantasei quindi
 BOI014	quando c'era la guerra nel trentanove
 BOI014	a~ aveva l'età per andare militare lui non non fu richiamato
-BOR002	e lo lo lavorava all'arsenale
-BOI014	mhmh
+BOI014	e lo lo lavorava all'arsenale
+BOR002	mhmh
 BOI014	l'arsenale di bologna
-BOR002	dove costruivano le armi no
-BOI014	e dov'era
+BOI014	dove costruivano le armi no
+BOR002	e dov'era
 BOI014	ah c'è ancora eh
-BOR002	cioè cia~ c'è
-BOI014	ah c'è ancora
+BOI014	cioè cia~ c'è
+BOR002	ah c'è ancora
 BOI014	sui viali
 BOI014	adesso si chiama in un altro c'ha un altro nome ma sui viali sulla destra
-BOR002	dove fanno credo il eh dove c'è quel parcheggio grande
-BOI014	il baraccano
-BOR002	no
+BOI014	dove fanno credo il eh dove c'è quel parcheggio grande
+BOR002	il baraccano
 BOI014	no
+BOR002	no
 BOI014	ma sui sulla destra andando verso
-BOR002	verso il centro passato il baraccano
-BOI014	passato il baraccano ah la staveco
+BOI014	verso il centro passato il baraccano
+BOR002	passato il baraccano ah la staveco
 BOI014	eh
-BOR002	eh quo~ non lo so insomma dove c~ c'è c'è quell~
-BOI014	vicino a dove adesso ci sono i pompieri i carabinieri non mi ricordo
-BOR002	no ancora più avanti non lo so di preciso comunque l'arsenale era molto grande lui lavorava lì
-BOI014	ahaha
+BOI014	eh quo~ non lo so insomma dove c~ c'è c'è quell~
+BOR002	vicino a dove adesso ci sono i pompieri i carabinieri non mi ricordo
+BOI014	no ancora più avanti non lo so di preciso comunque l'arsenale era molto grande lui lavorava lì
+BOR002	ahaha
 BOI014	e tant'è vero che mio padre quando finì la guerra
 BOI014	perché
 BOI014	mio padre
@@ -307,88 +299,88 @@ BOI014	anzi
 BOI014	pero'
 BOI014	esse~
 BOI014	siccome lui durante il fascismo era
-BOR002	eh faceva parte di una famiglia molto ricca te l'ho raccontata no che possedeva tutto l'eremo
-BOI014	sì sì
+BOI014	eh faceva parte di una famiglia molto ricca te l'ho raccontata no che possedeva tutto l'eremo
+BOR002	sì sì
 BOI014	tutto tutte quelle quei quei posti là
 BOI014	e quindi aveva contatti con
 BOI014	ehm
 BOI014	i i i i i
-BOR002	i grandi del del paese hai capito quindi fascisti
-BOI014	mhmh
+BOI014	i grandi del del paese hai capito quindi fascisti
+BOR002	mhmh
 BOI014	però mio padre ha sempre raccontato che quando sapeva che
-BOR002	eh s~ c~ partivano le squadracce per
-BOI014	mhmh
+BOI014	eh s~ c~ partivano le squadracce per
+BOR002	mhmh
 BOI014	per picchiare quelli che non contadini soprattutto che non la pensavano come
-BOR002	i co~ che eran comunisti
-BOI014	certo
-BOR002	lui li andava ad avvertire capito
-BOI014	ma dai
+BOI014	i co~ che eran comunisti
+BOR002	certo
+BOI014	lui li andava ad avvertire capito
+BOR002	ma dai
 BOI014	sì eh l'ha sempre detto ah ma ci credo perché mio padre era un uomo eccezionale
 BOI014	quindi lui
-BOR002	ha mh diciamo che non ha mai mh agito in maniera attiva durante il fascismo però
-BOI014	beh ha fatto la sua parte
+BOI014	ha mh diciamo che non ha mai mh agito in maniera attiva durante il fascismo però
+BOR002	beh ha fatto la sua parte
 BOI014	eh era considerato dal momento che la sua famiglia era una famiglia
 BOI014	abbiente faceva parte della
 BOI014	della
-BOR002	di quella sfera lì
-BOI014	mhmh
-BOR002	e per finire il discorso quando finì la guerra mio padre fu epurato
-BOI014	appurato signi~
-BOR002	epurato
-BOI014	epurato significa
+BOI014	di quella sfera lì
+BOR002	mhmh
+BOI014	e per finire il discorso quando finì la guerra mio padre fu epurato
+BOR002	appurato signi~
+BOI014	epurato
+BOR002	epurato significa
 BOI014	epurato vuol dire che lo dis~ lo
-BOR002	eh licenziarono
-BOI014	ah
+BOI014	eh licenziarono
+BOR002	ah
 BOI014	sì perché non poteva fare parte
-BOR002	il l'arsenale era un'istituzione statale
-BOI014	ah beh certo è vero
-BOR002	e quindi venne epurato mio padre
-BOI014	madonna
-BOR002	hai capito
-BOI014	e quindi dopo
-BOR002	quindi dopo si inventò il mestiere di falegname
-BOI014	ah che sì okay
+BOI014	il l'arsenale era un'istituzione statale
+BOR002	ah beh certo è vero
+BOI014	e quindi venne epurato mio padre
+BOR002	madonna
+BOI014	hai capito
+BOR002	e quindi dopo
+BOI014	quindi dopo si inventò il mestiere di falegname
+BOR002	ah che sì okay
 BOI014	perché quando erano eravamo
 BOI014	sfollati si diceva che non avevamo casa era
 BOI014	abitavamo a nel seminario
 BOI014	regionale quello di bologna quello che è
 BOI014	che è
-BOR002	dove c'è adesso
-BOI014	il rizzoli
-BOR002	eh
-BOI014	dove c'è il rizzoli no
+BOI014	dove c'è adesso
+BOR002	il rizzoli
+BOI014	eh
+BOR002	dove c'è il rizzoli no
 BOI014	no
-BOR002	no lì è quello nuovo che hanno fatto quello vecchio è in via dei mille
+BOI014	no lì è quello nuovo che hanno fatto quello vecchio è in via dei mille
 BOR002	ah è quello nuovo
 BOR002	via dei mille ah
-BOI014	ah centro proprio
-BOR002	centro lì era bellissimo il seminario eh
+BOR002	ah centro proprio
+BOI014	centro lì era bellissimo il seminario eh
 BOR002	ah
-BOI014	pensa te
+BOR002	pensa te
 BOI014	bellissimo
 BOI014	e mio p~ e mio padre
 BOI014	era ehm faceva parte del consiglio ve c'erano mille
 BOI014	mille sfollati
-BOR002	che abitavano lì nel
+BOI014	che abitavano lì nel
 BOR002	ma si chiama via dei mille
-BOI014	perché ah per una
-BOR002	no no non per quello no via dei mille mi~ mille dei garibaldi ecco
+BOR002	perché ah per una
+BOI014	no no non per quello no via dei mille mi~ mille dei garibaldi ecco
 BOR002	i mille quelli di
-BOI014	ah okay
+BOR002	ah okay
 BOI014	sì b~ adesso c~ eh è c'è dove c'è
-BOR002	anche il mamo mimo mo~
-BOI014	mambo
-BOR002	mambo da quelle parti lì
-BOI014	mhmh
+BOI014	anche il mamo mimo mo~
+BOR002	mambo
+BOI014	mambo da quelle parti lì
+BOR002	mhmh
 BOI014	eh c'era se tu vedi quel palazzo lì
-BOR002	quei b~ subito dopo
-BOI014	mhmh
+BOI014	quei b~ subito dopo
+BOR002	mhmh
 BOI014	eh è ancora
-BOR002	ha ancora l'aspetto insomma di un
-BOI014	eh non c'ho mai fatto caso
+BOI014	ha ancora l'aspetto insomma di un
+BOR002	eh non c'ho mai fatto caso
 BOI014	eh facci caso il seminario
-BOR002	regionale se guardi in internet ti dice dov'è
-BOI014	mhmh
+BOI014	regionale se guardi in internet ti dice dov'è
+BOR002	mhmh
 BOI014	comunque era c'eran mille persone
 BOI014	mio padre
 BOI014	perché era un uomo in gamba intelligente aveva anche studiato per i suoi tempi no
@@ -396,8 +388,8 @@ BOI014	faceva parte del comitato
 BOI014	va bene
 BOI014	comunque gli avevano dato un piano intero
 BOI014	i mh i i preti
-BOR002	perché i seminaristi c'erano ancora eh
-BOI014	mhmh
+BOI014	perché i seminaristi c'erano ancora eh
+BOR002	mhmh
 BOI014	gli aveva il ve~ il vescovo gli aveva dato
 BOI014	un piano intero
 BOI014	da usare come
@@ -407,55 +399,53 @@ BOI014	per fare le riparazioni
 BOI014	a a a alle ai ai mobili delle persone che abitavano lì sai nessuno aveva soldi aveva quelle poche cose
 BOI014	e mio padre si è inventato il mestiere di falegname
 BOI014	perché non e poi soprattutto ha cominciato facendo gli zoccoli
-BOR002	perché non c'erano scarpe
-BOI014	quelli ah è vero effettivamente
-BOR002	gli zoccoli quelli olandesi c~ quelli olandesi in realtà
+BOI014	perché non c'erano scarpe
+BOR002	quelli ah è vero effettivamente
+BOI014	gli zoccoli quelli olandesi c~ quelli olandesi in realtà
 BOR002	quelli olandesi
-BOI014	che poi quest'estate sono tornati di moda
-BOR002	eh
-BOI014	quelli della doctor scholl
-BOR002	s~ ecco io aveva un paio ma a me mi aveva fatto un paio
-BOI014	stra di moda
+BOR002	che poi quest'estate sono tornati di moda
+BOI014	eh
+BOR002	quelli della doctor scholl
+BOI014	s~ ecco io aveva un paio ma a me mi aveva fatto un paio
+BOR002	stra di moda
 BOI014	avevo quattro anni
-BOR002	un paio che era meraviglioso pensandoci
-BOR002	
-BOI014	e non ce l'hai più
-BOR002	eh eh chi si figurati la sacra era meravigliosa
-BOI014	no però che carino
+BOI014	un paio che era meraviglioso pensandoci
+BOR002	e non ce l'hai più
+BOI014	eh eh chi si figurati la sacra era meravigliosa
+BOR002	no però che carino
 BOI014	e quindi mio padre lavorava lì dopo i miei fratelli son diventati dei falegnami hai capito
 BOI014	e quindi
 BOI014	da dove son partita
-BOR002	no m'hai fatto delle domande tu se mi ricordavo delle cose
+BOI014	no m'hai fatto delle domande tu se mi ricordavo delle cose
 BOR002	non
-BOI014	esatto oh se poi ti ricordi qualcos'altro
-BOR002	delle cose della sì che inerenti alla guerra sono queste ecco dopo ripeto
-BOI014	mhmh
+BOR002	esatto oh se poi ti ricordi qualcos'altro
+BOI014	delle cose della sì che inerenti alla guerra sono queste ecco dopo ripeto
+BOR002	mhmh
 BOI014	parlavano anche dei partigiani io
 BOI014	quando sentivo parl~ parlavano dei partigiani
 BOI014	e anche lì eh
 BOI014	la voce del popolo
-BOR002	ne parlava anche male perché
-BOI014	mh
+BOI014	ne parlava anche male perché
+BOR002	mh
 BOI014	i partigiani facevano le
 BOI014	le incursioni diciamo poi scappavano ma i tedeschi ammazzavano
-BOR002	eh i quelli
-BOI014	la gente
-BOR002	la gente per
-BOI014	certo
-BOR002	ripercussione contro queste cose quindi non erano proprio visti
-BOI014	certo
-BOR002	ah meravigliosamente bene
+BOI014	eh i quelli
+BOR002	la gente
+BOI014	la gente per
+BOR002	certo
+BOI014	ripercussione contro queste cose quindi non erano proprio visti
+BOR002	certo
+BOI014	ah meravigliosamente bene
 BOR002	no anzi
-BOI014	capito
+BOR002	capito
 BOI014	pero' era bellissimo ecco ti stavo dicendo alla
 BOI014	in estate si usciva
 BOI014	io pendevo dalle labbra
 BOI014	di queste persone che raccontavano queste cose capendo la meta'
-BOR002	di quello che dicevano perché
-BOI014	perché parlavano in dialetto
+BOI014	di quello che dicevano perché
+BOR002	perché parlavano in dialetto
 BOI014	no no capivo perfettamente il dialetto ma non avevo riferimenti perché non sapevo niente ti ripeto i tugnini
-BOR002	chi cazzo erano scusami
-BOI014	
+BOI014	chi cazzo erano scusami
 BOI014	io cioè ci ho messo veramente una vita per capire che cosa
 BOI014	chi fossero hai capito
 BOI014	e quindi
@@ -463,50 +453,49 @@ BOI014	ah un altro episodio legato che mi raccontava mia madre
 BOI014	legato al
 BOI014	ai ai tedeschi
 BOI014	che non e~ ce n'erano anche di quelli che
-BOR002	venivano oh raccontati come brave persone no
-BOI014	ah
+BOI014	venivano oh raccontati come brave persone no
+BOR002	ah
 BOI014	dice che una volta erano
 BOI014	usciva ogni tanto insomma qualcuno arrivava
-BOR002	e e voleva prendere la roba da mangiare no
-BOI014	mhmh
+BOI014	e e voleva prendere la roba da mangiare no
+BOR002	mhmh
 BOI014	e allora erano andati in casa dai miei e mia madre si è presentata con me in braccio
 BOI014	e questo quando l'ha vista così ha preso e se n'è andato
-BOR002	non ha voluto niente
-BOI014	ah
-BOR002	quindi episodi anche e~ edificanti ecco
-BOI014	sì di carità tra virgolette
-BOR002	tutto certo di di umanità soprattutto che non c'erano non erano solo
-BOI014	esatto
+BOI014	non ha voluto niente
+BOR002	ah
+BOI014	quindi episodi anche e~ edificanti ecco
+BOR002	sì di carità tra virgolette
+BOI014	tutto certo di di umanità soprattutto che non c'erano non erano solo
+BOR002	esatto
 BOI014	queste cose io me le ricordo perché me le raccontava ma era meraviglioso ascoltare quello che dicevano
-BOR002	che raccontavano ripeto soprattutto della guerra ma poi di tante altre cose
-BOI014	vabbè e come si fa a non raccontare di una cosa così che è appena successa
-BOR002	eh che poi così recente anche
-BOI014	eh appunto pensa a noi che parliam sempre del covid vabbè che ci siamo ancora dentro
+BOI014	che raccontavano ripeto soprattutto della guerra ma poi di tante altre cose
+BOR002	vabbè e come si fa a non raccontare di una cosa così che è appena successa
+BOI014	eh che poi così recente anche
+BOR002	eh appunto pensa a noi che parliam sempre del covid vabbè che ci siamo ancora dentro
 BOI014	eh così
 BOI014	sì
 BOI014	eh
-BOR002	eh
-BOI014	però per anni ne parlaremo
+BOI014	eh
+BOR002	però per anni ne parlaremo
 BOI014	sì sì sì sì
 BOI014	e quindi
 BOI014	per un bambino poi io ero particolarmente curiosa ecco
 BOI014	anche perché questa mia curiosità e anche questo mio
 BOI014	amore per la lettura me l'ha me l'ha mh mh manda~
-BOR002	portato mh come si dice
-BOI014	trasmesso
+BOI014	portato mh come si dice
+BOR002	trasmesso
 BOI014	trasmesso non mi viene la parola mia madre
-BOR002	che mia madre era una grandissima lettrice ma una volta libri per le case non ce n'erano ce n'erano pochissimi però
-BOI014	mhmh
+BOI014	che mia madre era una grandissima lettrice ma una volta libri per le case non ce n'erano ce n'erano pochissimi però
+BOR002	mhmh
 BOI014	mi ricordo che p~ prendeva grand hotel
-BOR002	che è un rivi~ è un settimanale tipo chi tipo no non era così p~ era mh
-BOI014	ah
+BOI014	che è un rivi~ è un settimanale tipo chi tipo no non era così p~ era mh
+BOR002	ah
 BOI014	erano
 BOI014	delle
-BOR002	delle storie delle storie a fumetti hai capito
-BOI014	mhmh
+BOI014	delle storie delle storie a fumetti hai capito
+BOR002	mhmh
 BOI014	e e e l~ e poi lo prendeva e lo leggeva a voce alta e
-BOR002	oh io ascoltavo meraviglioso
-BOI014	
+BOI014	oh io ascoltavo meraviglioso
 BOI014	e c'era
 BOI014	eh c'eran delle
 BOI014	eh delle storie
@@ -514,17 +503,17 @@ BOI014	semplicissime ovviamente molto
 BOI014	sì popolari però interessanti poi dopo
 BOI014	quando venne la radio
 BOI014	allora fu una meraviglia perché mio padre era un gran patito dell'opera no
-BOR002	dell'opera
-BOI014	ma va là
+BOI014	dell'opera
+BOR002	ma va là
 BOI014	mio padre sì mio padre suonava
 BOI014	lui aveva
 BOI014	eh quando era ricco
 BOI014	suonava il pianoforte suonava il mandolino
-BOR002	ah er~ conosc~
-BOI014	ah il mandolino non ho mai sentito nessuno che dicesse so suonare il mandolino che è uno stereotipo italiano ma
+BOI014	ah er~ conosc~
+BOR002	ah il mandolino non ho mai sentito nessuno che dicesse so suonare il mandolino che è uno stereotipo italiano ma
 BOI014	ma
-BOR002	no no mandolino ma che che il mandolino ce l'ha mia sorella adesso ma è meraviglioso il mandolino di mio padre eh
-BOI014	ma va là
+BOI014	no no mandolino ma che che il mandolino ce l'ha mia sorella adesso ma è meraviglioso il mandolino di mio padre eh
+BOR002	ma va là
 BOI014	l'ha fatto restaurare ma è un pezzo
 BOI014	d'antiquariato ma
 BOI014	poi che mio padre suonava il mandolino era
@@ -538,18 +527,17 @@ BOI014	che sentii una romanza che non mi ricordo neanche di quale opera fosse
 BOI014	ed era talmente commovente che mi io
 BOI014	mi misi a piangere
 BOI014	pensa
-BOR002	una bambina ma piccola ero eh
-BOI014	mh
+BOI014	una bambina ma piccola ero eh
+BOR002	mh
 BOI014	e quindi gl~ il l~ l~ il l'amore per la lettura
 BOI014	mia madre me l'ha
 BOI014	me l'ha trasmesso
 BOI014	e dop~ e da qu~ e io dopo ho cominciato a leggere i fumetti leggevo
-BOR002	fetenzìe e più orribili che mi trovavo in casa
-BOI014	
-BOR002	l'intrepido perché i miei fratelli prendevano l'intre~
-BOI014	cos'è l'intrepido
-BOR002	intrepido è un fumetto
-BOI014	ah è un fumetto
+BOI014	fetenzìe e più orribili che mi trovavo in casa
+BOI014	l'intrepido perché i miei fratelli prendevano l'intre~
+BOR002	cos'è l'intrepido
+BOI014	intrepido è un fumetto
+BOR002	ah è un fumetto
 BOI014	dei di quei tempi
 BOI014	e leggevo l'intrepido e
 BOI014	poi dopo pian piano ho cominciato
@@ -557,53 +545,51 @@ BOI014	a prendere dei libri a
 BOI014	nella
 BOI014	prenderla nella biblioteca comunale perché
 BOI014	non avevo mica i soldi per comperare i libri
-BOR002	e dopo ho scoperto un mondo naturalmente
-BOI014	eh no certo sicuramente non erano beni di prima necessità ecco
+BOI014	e dopo ho scoperto un mondo naturalmente
+BOR002	eh no certo sicuramente non erano beni di prima necessità ecco
 BOI014	no no assolutamente però dopo pian piano ho affinato le mi~ i miei gusti però
-BOR002	ho cominciato dal basso
-BOI014	mhmh
-BOR002	anche topolino no noi non lo prendevamo topolino
+BOI014	ho cominciato dal basso
+BOR002	mhmh
+BOI014	anche topolino no noi non lo prendevamo topolino
 BOR002	forse
-BOI014	no vabbè c'era già
-BOR002	perché era successivo poi era era anche successivo
-BOI014	ah esatto
+BOR002	no vabbè c'era già
+BOI014	perché era successivo poi era era anche successivo
+BOR002	ah esatto
 BOI014	eh lo prendeva una mia amica
 BOI014	di scuola delle elementari ma
 BOI014	sì dopo me lo dava
 BOI014	e a me piaceva moltissimo
-BOR002	nonna papera
-BOI014	
-BOR002	quando faceva la torta le torte lo il profumo che si vedeva
+BOI014	nonna papera
+BOI014	quando faceva la torta le torte lo il profumo che si vedeva
 BOR002	le torte
-BOI014	che le metteva sulla finestra
+BOR002	che le metteva sulla finestra
 BOI014	che xx ah sulla finestra ecco io ho in mente quella cosa lì
 BOI014	oppure c'erano degli altri libri che
 BOI014	aveva sempre questa mia amica perché lei era molto più ricca di noi
 BOI014	aveva dei libri dove eh c~ eh c'erano
 BOI014	le formiche il mondo delle formiche
 BOI014	an~ antropomorfi
-BOR002	antropomor~
-BOI014	fe o an~
-BOR002	fe antropomorfiche
-BOI014	tropomorfiche
+BOI014	antropomor~
+BOR002	fe o an~
+BOI014	fe antropomorfiche
+BOR002	tropomorfiche
 BOI014	antropomorfiche
-BOR002	una roba io impazzivo mi
-BOI014	
-BOR002	mi mi piaceva da morire ve' queste formichine che
+BOI014	una roba io impazzivo mi
+BOI014	mi mi piaceva da morire ve' queste formichine che
 BOR002	ma io visivamente ce l'ho presente
-BOI014	mh sì delle illustrazioni con le formiche secondo me è una cosa che è rimasta per almeno venti trent'anni
+BOR002	mh sì delle illustrazioni con le formiche secondo me è una cosa che è rimasta per almeno venti trent'anni
 BOI014	con le formi~
 BOI014	no ma forse proprio per i per la l'organizzazione che hanno no
 BOI014	eh hanno proprio un'organizzazione con
 BOI014	eh
-BOR002	facevan tutte le case era bellissimo
+BOI014	facevan tutte le case era bellissimo
 BOR002	no ma proprio ehm
 BOR002	penso di aver visto da qualche parte mi sembra sì dei
-BOI014	tipo dei giornalini con appunto ste formichine forse li ho visti nella collezione di fumetti del nonno
+BOR002	tipo dei giornalini con appunto ste formichine forse li ho visti nella collezione di fumetti del nonno
 BOI014	eh con le formi~
-BOR002	eh ah può darsi
-BOI014	il nonno pino
-BOR002	ma insomma avevano formiche a me piacevan da morire
+BOI014	eh ah può darsi
+BOR002	il nonno pino
+BOI014	ma insomma avevano formiche a me piacevan da morire
 BOR002	capito
 BOR002	allora
 BOR002	vediamo
@@ -613,46 +599,42 @@ BOR002	eh insomma dei tuoi amici di scuola
 BOR002	così
 BOR002	ehm diciamo in generale i i tuoi amici appunto di scuola che sia elementari o medie son rimasti più o meno
 BOR002	nel quartiere
-BOI014	se ne sono andati
+BOR002	se ne sono andati
 BOI014	ah beh nel quartiere ne sono rimasti pochi
 BOI014	delle elementari me ne sono rimasti
 BOI014	ah
 BOI014	tre quattro
 BOI014	fra cui
 BOI014	ehm la gisella rossi che purtroppo
-BOR002	è una delle vittime dell'otto a~ del pri~ del primo ago~
-BOI014	due agosto
-BOR002	del due agosto
-BOI014	ah è vero
+BOI014	è una delle vittime dell'otto a~ del pri~ del primo ago~
+BOR002	due agosto
+BOI014	del due agosto
+BOR002	ah è vero
 BOI014	del millenovecentottanta era una mia compagna delle elementari
 BOI014	e~ e~ eran quattro
 BOI014	poi dopo
 BOI014	dopo che io mi sono sposata loro io sono rimasta qua perché son s~ sono sì settant'anni che s~ che abito qua
 BOI014	settan~ settan~ ta due
 BOI014	anni che abito qua
-BOR002	eh s~ no ne a~ ne avevo cinque settantatré
-BOI014	mh
+BOI014	eh s~ no ne a~ ne avevo cinque settantatré
+BOR002	mh
 BOI014	settantatré anni che abito qua
 BOI014	e gli altri quando si sono sposati se ne sono andati insomma ci siamo
 BOI014	frequentati dopo le elementari le altri hanno
 BOI014	molti sono andati a lavorare
-BOR002	perché si andava a lavorare a undic'anni eh quando ero piccola io
-BOI014	mhmh
-BOR002	quindi pochi hanno continuato gli studi
+BOI014	perché si andava a lavorare a undic'anni eh quando ero piccola io
+BOR002	mhmh
+BOI014	quindi pochi hanno continuato gli studi
 BOR002	ma tipo
-BOI014	cioè son rimasti non so più zona bologna centro fuori oppure sono andati all'estero
+BOR002	cioè son rimasti non so più zona bologna centro fuori oppure sono andati all'estero
 BOI014	no no son rimasti tutti nella zona o bologna o
-BOR002	o comunque nei dintorni no all'estero non non mi sembra nessuno
+BOI014	o comunque nei dintorni no all'estero non non mi sembra nessuno
 BOR002	ho capito
 BOR002	ehm
-BOI014	cambiamo un po' argomento così
-BOR002	sì
-BOR002	
-BOI014	ti ricordi come hai conosciuto tuo marito
-BOR002	
-BOI014	
-BOR002	eh sfondi una porta aperta l'ho conosciuto a una gita parrocchiale
-BOI014	
+BOR002	cambiamo un po' argomento così
+BOI014	sì
+BOR002	ti ricordi come hai conosciuto tuo marito
+BOI014	eh sfondi una porta aperta l'ho conosciuto a una gita parrocchiale
 BOI014	siccome eravamo tutti e due orfani
 BOI014	di io di padre
 BOI014	ne che morto nel sessantadue
@@ -668,84 +650,82 @@ BOI014	e fu bello
 BOI014	ci f~ mh marco me lo ricordo perché
 BOI014	aveva un maglione a scacchi
 BOI014	quello che c'è nella foto là
-BOR002	que~
-BOI014	non non ho presente la foto
+BOI014	que~
+BOR002	non non ho presente la foto
 BOI014	que~
 BOI014	la foto nel
-BOR002	ne~ nell'ingresso
-BOI014	eh dopo ci guardo
+BOI014	ne~ nell'ingresso
+BOR002	eh dopo ci guardo
 BOI014	quello per i suoi
 BOI014	quando abbiamo fatto
-BOR002	i cinquant'anni di
-BOI014	ah cos'e' azzurro e grigio
+BOI014	i cinquant'anni di
+BOR002	ah cos'e' azzurro e grigio
 BOI014	ig di
 BOI014	il secondo s~
-BOR002	no no era marrone e beige
+BOI014	no no era marrone e beige
 BOR002	no
-BOI014	perfetto ci siamo
+BOR002	perfetto ci siamo
 BOI014	eh eh eh ma adesso lo vedi nella foto
 BOI014	era secco secco secco con il cappello
-BOR002	della facoltà di chimica industriale in testa
-BOI014	eh se la tirava
-BOR002	perché era una matricola no
-BOI014	ah ah
+BOI014	della facoltà di chimica industriale in testa
+BOR002	eh se la tirava
+BOI014	perché era una matricola no
+BOR002	ah ah
 BOI014	ah beh eh in maggio fu il cinque maggio
-BOR002	ei fu sì come immobile
-BOI014	
-BOR002	ei f~ eh e che poi ci ho scritto la zirudela proprio
-BOI014	ah sì
-BOR002	dopo valla a vedere non te la ricordi più eh
-BOI014	no
-BOR002	era il cinque maggio
-BOI014	no aspetta e' quella che c'e' all'entrata
-BOR002	all'entrata sì
-BOI014	ah no allora visivamente ce l'ho presente come fa no
+BOI014	ei fu sì come immobile
+BOI014	ei f~ eh e che poi ci ho scritto la zirudela proprio
+BOR002	ah sì
+BOI014	dopo valla a vedere non te la ricordi più eh
+BOR002	no
+BOI014	era il cinque maggio
+BOR002	no aspetta e' quella che c'e' all'entrata
+BOI014	all'entrata sì
+BOR002	ah no allora visivamente ce l'ho presente come fa no
 BOI014	eh
 BOI014	ecco e c'è la foto del del nonno
 BOI014	che era
 BOI014	alto
-BOR002	che non sembra ma era l~ alto
-BOI014	no io me lo ricordo comunque che era più alto
+BOI014	che non sembra ma era l~ alto
+BOR002	no io me lo ricordo comunque che era più alto
 BOI014	e alto
 BOI014	magrissimo
 BOI014	come adesso
 BOI014	e
 BOI014	e e insomma a me colpì subito perché mi piaceva insomma come perché a me
-BOR002	son sempre piaciuti gli uomini non muscolosi un po' intellettuali diciamo
-BOI014	mhmh
-BOR002	e lui filava dietro a mia sorella ovviamente ecco
-BOI014	
+BOI014	son sempre piaciuti gli uomini non muscolosi un po' intellettuali diciamo
+BOR002	mhmh
+BOI014	e lui filava dietro a mia sorella ovviamente ecco
 BOI014	poi invece mia sorella gli ha dato dell'aria perché a lei non interessava minimamente
 BOI014	e ha ripiegato su di me
 BOI014	e da lì ci siamo conosciuti ma ci siamo
 BOI014	sì innamorati subito insomma
 BOI014	e siamo insieme da
-BOR002	dal sessantatré
+BOI014	dal sessantatré
 BOR002	quindi fra due anni fate
 BOR002	sessant'anni di matrimonio
-BOI014	no sì
+BOR002	no sì
 BOI014	no
-BOR002	mh abbiam fatto cinquantun'anni di matrimonio più sette di
-BOI014	fidanzamento
+BOI014	mh abbiam fatto cinquantun'anni di matrimonio più sette di
+BOR002	fidanzamento
 BOI014	sono cinquantanove anni
 BOI014	che siamo
-BOR002	che ci conosciamo
-BOI014	sì
-BOR002	fra un anno facciamo sessant'anni che ci conosciamo
+BOI014	che ci conosciamo
+BOR002	sì
+BOI014	fra un anno facciamo sessant'anni che ci conosciamo
 BOR002	mamma mia
-BOI014	è una vita
-BOR002	ah più che una vita
-BOI014	sì sì esatto
+BOR002	è una vita
+BOI014	ah più che una vita
+BOR002	sì sì esatto
 BOI014	ho passato
 BOI014	tre volte
 BOI014	la vita che ho
-BOR002	che ho pa~ trascorso con la mia famiglia
-BOI014	è vero
-BOR002	ci son stata vent'anni
-BOI014	è vero
-BOR002	eh
+BOI014	che ho pa~ trascorso con la mia famiglia
+BOR002	è vero
+BOI014	ci son stata vent'anni
+BOR002	è vero
+BOI014	eh
 BOR002	e dopo che insomma avete avuto figli la vita è cambiata molto
-BOI014	o no
+BOR002	o no
 BOI014	oh
 BOI014	eh radicalmente
 BOI014	come
@@ -763,43 +743,41 @@ BOI014	fra virgolette
 BOI014	piu' che bravi ecco
 BOI014	e quindi non abbiamo avuto particolari problemi se non quelli di salute che purtroppo ci hanno
 BOI014	condizionato
-BOR002	moltissimo
-BOI014	invece quando sono arrivati i nipoti
-BOR002	quando sono arrivati i nipoti è stata la gioia
-BOI014	
+BOI014	moltissimo
+BOR002	invece quando sono arrivati i nipoti
+BOI014	quando sono arrivati i nipoti è stata la gioia
 BOI014	direi
 BOI014	quasi più grande di avere dei figli perché io la maternità l'ho vissuta con molto
 BOI014	mh
 BOI014	timore
-BOR002	perché il primo bambino purtroppo l'abbiamo perso quindi io ho sofferto fisicamente moltissimo
-BOI014	mhmh
+BOI014	perché il primo bambino purtroppo l'abbiamo perso quindi io ho sofferto fisicamente moltissimo
+BOR002	mhmh
 BOI014	psicologicamente ancora di più che io non ne volevo più dei figli
 BOI014	e l'ho sempre vissuta con molta ansia con un'ansia
 BOI014	eh anche il paura di non essere in grado di allevarli
 BOI014	perché i bambini
 BOI014	i i neonati a me han sempre
-BOR002	fatto paura nel senso che non li capisco
-BOI014	certo beh sì
-BOR002	no vabbè beh c'è chi ha il trasporto io non li capisco a me i bambini piacciono
-BOI014	no io sono uguale io non ho mai preso in braccio un bambino
-BOR002	dai tre anni in avanti
-BOI014	
+BOI014	fatto paura nel senso che non li capisco
+BOR002	certo beh sì
+BOI014	no vabbè beh c'è chi ha il trasporto io non li capisco a me i bambini piacciono
+BOR002	no io sono uguale io non ho mai preso in braccio un bambino
+BOI014	dai tre anni in avanti
 BOI014	ma fino ad allora i bambini per me sono delle pers~ b~ ehm delle entità sconosciute quindi ho sempre avuto timore di non
 BOI014	rapportarmi nella maniera giusta anche perché non avevo nessuno che mi potesse insegnare
 BOI014	mia madre era con
 BOI014	la zia caterina quindi
 BOI014	ero da sola non avevo nessuno
 BOI014	quindi ho dovuto ho preso libri
-BOR002	dottor spock mi son letto tutto
-BOI014	dottor spock
-BOR002	dottor spock è un classico
-BOI014	no io l'ho gia' sentito sto nome
+BOI014	dottor spock mi son letto tutto
+BOR002	dottor spock
+BOI014	dottor spock è un classico
+BOR002	no io l'ho gia' sentito sto nome
 BOI014	america~
 BOI014	era in america il dottor spock ha spopolato negli anni cinquanta sessanta settanta che è un tomo
 BOI014	grande così
 BOI014	che
-BOR002	é un pediatra no
-BOI014	mhmh
+BOI014	é un pediatra no
+BOR002	mhmh
 BOI014	che eh
 BOI014	ti dice tutto quello che può capitare a un bambino come bisogna comportarsi
 BOI014	le malattie con tutto
@@ -808,42 +786,41 @@ BOI014	un
 BOI014	è molto importante io lo
 BOI014	am~ per me è stato molto
 BOI014	importante
-BOR002	l~ leggerlo perché non avevo nessuno hai capito che mi diceva niente
-BOI014	mhmh certo
+BOI014	l~ leggerlo perché non avevo nessuno hai capito che mi diceva niente
+BOR002	mhmh certo
 BOI014	quindi
 BOI014	è sta~
-BOR002	e invece quando siete nati voi
-BOI014	
+BOI014	e invece quando siete nati voi
 BOI014	è stata una una
 BOI014	mah non so come dire una gratificazione
 BOI014	vissuta con
 BOI014	con una gioia così profonda che io credo
-BOR002	di più di quando son nati i miei figli anche perché ho sempre sofferto come una bestia quando li ho fatti
-BOI014	no certo sicuramente quando nascono i tuoi di figli è una gioia immensa ma è più timore
+BOI014	di più di quando son nati i miei figli anche perché ho sempre sofferto come una bestia quando li ho fatti
+BOR002	no certo sicuramente quando nascono i tuoi di figli è una gioia immensa ma è più timore
 BOI014	no e' una gioia ma
 BOI014	sì
-BOR002	io vo~ e so~ ho sem~ sono ansiosa molto son sempre stata
-BOI014	certo
+BOI014	io vo~ e so~ ho sem~ sono ansiosa molto son sempre stata
+BOR002	certo
 BOI014	ma
 BOI014	ho sempre fatto quello che dovevo perché non mi sono mai tirata indietro però l'ho sempre vissuta con molta
-BOR002	paura io
-BOI014	sì diciamo
-BOR002	e invece i nipoti
-BOI014	tra virgolette li fa qualcun altro però questo qualcun altro è frutto di te
+BOI014	paura io
+BOR002	sì diciamo
+BOI014	e invece i nipoti
+BOR002	tra virgolette li fa qualcun altro però questo qualcun altro è frutto di te
 BOI014	s
 BOI014	sì però c'è un legame non lo so è un
 BOI014	beh è è è una banalià perché lo dicono tutti eh non è che
 BOI014	sia una cosa che invento io anche perché
-BOR002	ilaria noi ci siamo occupati di voi fin da subito
-BOI014	no no ma infatti
+BOI014	ilaria noi ci siamo occupati di voi fin da subito
+BOR002	no no ma infatti
 BOI014	e io
-BOR002	e io fin da subito son sempre stata con voi tutti i giorni
-BOI014	sì ma infatti
-BOR002	quindi
-BOI014	cioè a quel punto quando siam nati noi a quel punto sicuramente è cambiata
+BOI014	e io fin da subito son sempre stata con voi tutti i giorni
+BOR002	sì ma infatti
+BOI014	quindi
+BOR002	cioè a quel punto quando siam nati noi a quel punto sicuramente è cambiata
 BOI014	eh
-BOR002	eh vabbè ero cambiata io perché ero già diventata
-BOI014	eh
+BOI014	eh vabbè ero cambiata io perché ero già diventata
+BOR002	eh
 BOI014	un po' vecchia quasi
 BOI014	ma
 BOI014	ero anche in grado di
@@ -851,154 +828,152 @@ BOI014	apprezzare
 BOI014	ecco quando si è genitori
 BOI014	da soli
 BOI014	con un pregresso come il mio
-BOR002	non te lo godi hai capito
-BOI014	certo
+BOI014	non te lo godi hai capito
+BOR002	certo
 BOI014	diventa più un dovere
 BOI014	una cosa poi
 BOI014	hai paura di essere inadeguata io
 BOI014	con te ho avuto paura all'inizio di e~ di non sapere come fare perché l'ho vissuta con un molta ansia
-BOR002	però sapevo che a un certo punto arrivava tua madre hai capito
-BOI014	ah beh certo
+BOI014	però sapevo che a un certo punto arrivava tua madre hai capito
+BOR002	ah beh certo
 BOI014	e quindi
 BOI014	lei era molto più disinvolta è stata molto più disinvolta di me
 BOI014	con i con i figli io non sono mai stata disinvolta
-BOR002	io il rapporto
-BOI014	lei c'è nata così
+BOI014	io il rapporto
+BOR002	lei c'è nata così
 BOI014	il rapporto l'ho instaurato ripeto quando ha com~ ha cominciato proprio
-BOR002	a vedere nel bambino una persona
-BOI014	mhmh
+BOI014	a vedere nel bambino una persona
+BOR002	mhmh
 BOI014	non solo qualcuno a cui dare da mangiare da bere pulire eccetera
-BOR002	perché all'inizio sono così
-BOI014	eh certo
+BOI014	perché all'inizio sono così
+BOR002	eh certo
 BOI014	poi c'è ci son gli sguardi ci sono i sorrisi meravigliosi tutto quello che vuoi però
 BOI014	e quindi
 BOI014	con i nipo~
-BOR002	con i nipoti è stato è stato meraviglioso
-BOI014	papà ha detto che è già pronto ad avere i nipoti voglio vedere da chi
+BOI014	con i nipoti è stato è stato meraviglioso
+BOR002	papà ha detto che è già pronto ad avere i nipoti voglio vedere da chi
 BOI014	eh
-BOR002	spero ben da te
-BOI014	sì ma spero non nei prossimi anni
-BOR002	ma come fra poco non nei prossimi anni
-BOI014	
-BOR002	eh
-BOI014	vabbè cambiamo un po' topic
-BOR002	eh
+BOI014	spero ben da te
+BOR002	sì ma spero non nei prossimi anni
+BOI014	ma come fra poco non nei prossimi anni
+BOI014	eh
+BOR002	vabbè cambiamo un po' topic
+BOI014	eh
 BOR002	allora
-BOI014	più che altro su bologna quindi sulla città che sicuramente l'hai vissuta più di noi
-BOR002	mh
+BOR002	più che altro su bologna quindi sulla città che sicuramente l'hai vissuta più di noi
+BOI014	mh
 BOR002	eh legato soprattutto ai portici no che poi quest'anno
 BOR002	se non l'anno scorso
-BOI014	sono stati resi patrimonio dell'unesco no
-BOR002	dell'u~ l'unesco sì
+BOR002	sono stati resi patrimonio dell'unesco no
+BOI014	dell'u~ l'unesco sì
 BOR002	allora ehm
 BOR002	ti chiedevo se ti viene in mente qualche aneddoto o ricordo sui portici e con portici intendo
 BOR002	sia quelli vabbè del meloncello di san luca che quelli anche
 BOR002	cioè proprio del centro quindi delle vie
-BOI014	principali
+BOR002	principali
 BOI014	bah i portici io li associo ai negozi che ci sono
 BOI014	che ci sono
 BOI014	ecco
 BOI014	ma anche
 BOI014	in particolare non saprei dire perché
-BOR002	fanno talmente parte del mio mondo che non
-BOI014	oramai non ci fai caso
+BOI014	fanno talmente parte del mio mondo che non
+BOR002	oramai non ci fai caso
 BOI014	non c'ho fatto caso hai capito quindi
 BOI014	a parte appunto il meloncello come dici tu per quando c'è
-BOR002	viene giù la madonna ma
-BOI014	mhmh
+BOI014	viene giù la madonna ma
+BOR002	mhmh
 BOI014	non ho mai
 BOI014	pensato ai portici come a qualcosa di particolare perché fanno parte del mio
 BOI014	del mio mondo per cui non
-BOR002	che ore sono scusa che devo dare la medicina
-BOI014	sono le diciotto e trentacinque
-BOR002	ah va benissimo no
-BOI014	okay
+BOI014	che ore sono scusa che devo dare la medicina
+BOR002	sono le diciotto e trentacinque
+BOI014	ah va benissimo no
+BOR002	okay
 BOI014	sono ancora in tempo
 BOI014	e quindi no sto pensando
 BOI014	niente ne ho sempre sentito parlare
 BOI014	dai bolognesi
-BOR002	con orgoglio ecco quello sì
-BOI014	mhmh
+BOI014	con orgoglio ecco quello sì
+BOR002	mhmh
 BOI014	noi ne abbiamo sempre parlato tutti di a~ anche quelli eh
-BOR002	con orgoglio perché in effetti è una cosa particolare che ha solo bologna ecco
-BOI014	certo
+BOI014	con orgoglio perché in effetti è una cosa particolare che ha solo bologna ecco
+BOR002	certo
 BOI014	ehm
 BOI014	oppure ripeto i portici rispetto ai negozi che ci sono ecco quindi penso
 BOI014	al portico del pavaglione
 BOI014	che è quello che per i bolognesi è il massimo con tutti i negozi meravigliosi che ci sono
-BOR002	però in particolare non mi viene in mente niente
-BOI014	eh magari no dì pure
-BOR002	oppure i portici ecco quando si va a san luca a piedi
-BOI014	eh infatti volevo chiedere
+BOI014	però in particolare non mi viene in mente niente
+BOR002	eh magari no dì pure
+BOI014	oppure i portici ecco quando si va a san luca a piedi
+BOR002	eh infatti volevo chiedere
 BOI014	ecco
 BOI014	ecco quello quando si farà il pellegrinaggio che si va a piedi a san luca
 BOI014	e e e e anche all'interno dei portici ci sono
 BOI014	quello per esempio di via saragozza ci sono anche delle pitture delle
-BOR002	degli affreschi
-BOI014	mh
-BOR002	ce ne sono eh
-BOI014	sì
+BOI014	degli affreschi
+BOR002	mh
+BOI014	ce ne sono eh
+BOR002	sì
 BOI014	o anche in barberia ce n'è una molto bella
-BOR002	una bella madonna
-BOI014	ci son passata ma
-BOR002	c'e' la madonna grassa
-BOI014	non c'ho mai fatto caso
+BOI014	una bella madonna
+BOR002	ci son passata ma
+BOI014	c'e' la madonna grassa
+BOR002	non c'ho mai fatto caso
 BOI014	la madonna grassa credo che però sia nei portici di san luca
-BOR002	mi viene in mente sta madonna grassa però non so dirti esattamente dove sia
+BOI014	mi viene in mente sta madonna grassa però non so dirti esattamente dove sia
 BOR002	e ti ricordi magari
 BOR002	se non ti ricordi non fa niente la prima volta o una volta particolare in cui sei andata a san luca
-BOI014	magari a piedi uno se lo ricorda di più che andare in macchina
+BOR002	magari a piedi uno se lo ricorda di più che andare in macchina
 BOI014	ci son
 BOI014	mi ricordo che c'ha da piccola
 BOI014	ci si andava
 BOI014	per i bregoli
 BOI014	i bregual
-BOR002	poi si diceva
-BOI014	brigual
+BOI014	poi si diceva
+BOR002	brigual
 BOI014	i brigual
 BOI014	i brigual bregual non lo so di preciso si faceva la ga~ si camminava
 BOI014	io avevo sempre paura perché c'era
-BOR002	ero fifona da piccola avveo paura delle bestie dei serpenti
-BOI014	ah pensavo dell'altezza o di scivolare
+BOI014	ero fifona da piccola avveo paura delle bestie dei serpenti
+BOR002	ah pensavo dell'altezza o di scivolare
 BOI014	no no no no no del sentiero che c'era in mezzo con tutti i rovi gli arbusti così
 BOI014	e si andava a fare il picnic
-BOR002	il lunedì di pasqua
-BOI014	ah
+BOI014	il lunedì di pasqua
+BOR002	ah
 BOI014	c'era la ehm
 BOI014	tradizione
-BOR002	di andare a san luca a fare il picnic
+BOI014	di andare a san luca a fare il picnic
 BOR002	ah
 BOR002	beh che alla fine eh è una cosa che
 BOR002	non dico che sia rimasta però in maniera simile
-BOI014	tipo con gli amici adesso
-BOR002	sì
-BOI014	il lunedì di pasquetta si fa sempre grigliata o qualcosa all'aperto sui colli
+BOR002	tipo con gli amici adesso
 BOI014	sì
-BOR002	però noi noi si faceva a san luca
-BOI014	mh pensa
+BOR002	il lunedì di pasquetta si fa sempre grigliata o qualcosa all'aperto sui colli
+BOI014	sì
+BOI014	però noi noi si faceva a san luca
+BOR002	mh pensa
 BOI014	era una tradizione era proprio il picnic a san picnic non si chiamava picnic com'è che si chiamava
-BOR002	aveva un nome
-BOI014	beh il concetto vabbè è quello
-BOR002	sì e il concetto è quello però non si capiva non non sapevi neanche cosa fosse il picnic
-BOI014	mhmh
-BOR002	il lunedi' di pasqua si diceva il lunedì di pasqua
-BOR002	
+BOI014	aveva un nome
+BOR002	beh il concetto vabbè è quello
+BOI014	sì e il concetto è quello però non si capiva non non sapevi neanche cosa fosse il picnic
+BOR002	mhmh
+BOI014	il lunedi' di pasqua si diceva il lunedì di pasqua
 BOR002	e secondo te i i portici non so sono cambiati magari effettivamente tu non ci vai molto spesso
 BOR002	però non lo so per esempio adesso io vabbè
 BOR002	mh c'ho vent'anni
 BOR002	però vedo che man mano si riempono per esempio un po' di più di
 BOR002	di graffiti
-BOI014	o di scritte
-BOR002	ecco io non te lo so dire sì
-BOI014	mhmh
+BOR002	o di scritte
+BOI014	ecco io non te lo so dire sì
+BOR002	mhmh
 BOI014	non so
 BOI014	io uh i portici
-BOR002	quelli che sono i peggiori di tutti son quelli dell'università in via zamboni
-BOI014	mh
+BOI014	quelli che sono i peggiori di tutti son quelli dell'università in via zamboni
+BOR002	mh
 BOI014	che sono pieni non solo di graffiti ma anche di tutti
 BOI014	i mh
-BOR002	gli avvisi le richieste
-BOI014	è vero
+BOI014	gli avvisi le richieste
+BOR002	è vero
 BOI014	è uno schifo io ci sono anda~ c'an~
 BOI014	m'è capitato di andarci con la vostra mamma quando
 BOI014	faceva l'università era uno
@@ -1006,17 +981,17 @@ BOI014	schifo veramente
 BOI014	via zamboni
 BOI014	è un degrado
 BOI014	piazza verdi
-BOR002	purtroppo
-BOI014	certo
-BOR002	mh
+BOI014	purtroppo
+BOR002	certo
+BOI014	mh
 BOR002	sì no infatti si parlava anche l'altro giorno del fatto che c'è sempre puzza di
-BOI014	cioe' di pipi' almeno per dove giro io c'è sempre puzza di pipì
+BOR002	cioe' di pipi' almeno per dove giro io c'è sempre puzza di pipì
 BOI014	p~ p~ p~ sì sì
-BOR002	sì sì sì sì
+BOI014	sì sì sì sì
 BOR002	allora ci si chiedeva ma così senza neanche darsi risposta se magari
 BOR002	essendo che adesso probabilmente avranno dei fondi
 BOR002	forse dall'unesco non lo so come funzionino queste cose cosa potrebbero fare perché sicuramente
-BOI014	non è che puoi chiuderli o puoi mettere una teca
+BOR002	non è che puoi chiuderli o puoi mettere una teca
 BOI014	ma io credo che
 BOI014	che non sia una questione solo di economica assolutamente lì è una questione di
 BOI014	educazione
@@ -1026,42 +1001,42 @@ BOI014	che
 BOI014	posso capire che abbiano dei disagi perché non hanno e è però che bisogno c'è di fare così
 BOI014	una volta poi era anche il ricettacolo della ribellione
 BOI014	quando c'è sta~ ci sono stati gli anni settanta ottanta
-BOR002	era pieno di scritte inneggianti alle brigate rosse a quelle cose lì quindi
-BOI014	mh
+BOI014	era pieno di scritte inneggianti alle brigate rosse a quelle cose lì quindi
+BOR002	mh
 BOI014	a quei tempi
 BOI014	me lo ricordo a quei tempi mi ricordo che era anche
 BOI014	insomma quasi pericoloso
-BOR002	frequentare quei posti lì perché c'erano questi esaltati
-BOI014	ma pensa te
+BOI014	frequentare quei posti lì perché c'erano questi esaltati
+BOR002	ma pensa te
 BOI014	eh sì eh beh bologna poi è stata
 BOI014	una delle città
 BOI014	nelle quali
 BOI014	e il sessantotto il famoso sessantotto oh ha avuto più clamore eh
-BOR002	perché mh città universitaria e quindi
-BOI014	certo città dichiaratamente di sinistra cioè alla fine
+BOI014	perché mh città universitaria e quindi
+BOR002	certo città dichiaratamente di sinistra cioè alla fine
 BOI014	eh eh
 BOI014	ecco tutti di sinistra quelli
 BOI014	soprattutto di sini~ ma poi c'erano anche quelli di destra quindi c'era la contrapposizione
 BOI014	quindi
 BOI014	era
 BOI014	una zona pericolosa quella lì
-BOR002	e quindi il degrado c'era allora ma c'è anche adesso
-BOI014	mhmh
+BOI014	e quindi il degrado c'era allora ma c'è anche adesso
+BOR002	mhmh
 BOI014	e quindi io non credo tanto che sia
 BOI014	una questione di
 BOI014	di investimenti
-BOR002	è una questione di im modificazione del
-BOI014	dell'atteggiamento
+BOI014	è una questione di im modificazione del
+BOR002	dell'atteggiamento
 BOI014	dell'atteggiamento non è possibile perché
 BOI014	adesso per esempio non lo so
-BOR002	ma ci sono drogati negli anni ottanta novanta era pieno di drogati in quei posti lì
+BOI014	ma ci sono drogati negli anni ottanta novanta era pieno di drogati in quei posti lì
 BOR002	allora li' e ne parlavamo appunto è pieno di barboni pero' posso dire io ci giro
-BOI014	non sono aggressivi niente cioè stanno per il loro ovvio che ti fanno un po' soggezione ma io non ho mai avuto
-BOR002	mh
-BOI014	problemi mi fanno un po' paura se passo da sola la sera ma
-BOR002	mh
+BOR002	non sono aggressivi niente cioè stanno per il loro ovvio che ti fanno un po' soggezione ma io non ho mai avuto
+BOI014	mh
+BOR002	problemi mi fanno un po' paura se passo da sola la sera ma
+BOI014	mh
 BOR002	beh drogati
-BOI014	cioè purtroppo non per fare di tutta l'erba un fascio però molti dei senzatetto così son~ magari sono alcolisti
+BOR002	cioè purtroppo non per fare di tutta l'erba un fascio però molti dei senzatetto così son~ magari sono alcolisti
 BOI014	no no invece adesso eh eh infatti eh lì secondo me non ce ne sono
 BOI014	perché è cambiato l'uso della droga no
 BOI014	una volta la droga era quasi tutta eroina
@@ -1073,12 +1048,12 @@ BOI014	eroinomani
 BOI014	che li vedevi che
 BOI014	che
 BOI014	quelli e t~ eran tanti hai capito
-BOR002	si vedeva adesso non li vedi
-BOI014	no effettivamen~ cioè
+BOI014	si vedeva adesso non li vedi
+BOR002	no effettivamen~ cioè
 BOI014	non vedi nessuno hai capito
 BOI014	perché tutti
-BOR002	s~ e s~ lo fanno in casa loro hai capito
-BOI014	mhmh
+BOI014	s~ e s~ lo fanno in casa loro hai capito
+BOR002	mhmh
 BOI014	e' diventata una
 BOI014	un'uso
 BOI014	di massa
@@ -1088,23 +1063,23 @@ BOI014	perché l'eroina
 BOI014	ne ha amma~ ne ha ammazzati a quantità industriali ecco
 BOI014	ma anche
 BOI014	perché gli e~ quelli
-BOR002	diventavano dei senzatetto hai capito
-BOI014	mhmh
+BOI014	diventavano dei senzatetto hai capito
+BOR002	mhmh
 BOI014	adesso non è più così
-BOR002	eh si drogano vivendo in famiglia normalmente
-BOI014	sì sì è vero
+BOI014	eh si drogano vivendo in famiglia normalmente
+BOR002	sì sì è vero
 BOI014	quindi non hanno bisogno di
-BOR002	hai capito
+BOI014	hai capito
 BOR002	sì io adesso per esempio
 BOR002	per come sono cresciuta io la droga la vedo più
 BOR002	relativa eh per esempio alle persone ricche
 BOR002	cioè per me le persone
 BOR002	cioè non so la cocaina così la collego
-BOI014	alle persone ricche che fanno i festini non a quello che sta per strada che non ha un soldo
+BOR002	alle persone ricche che fanno i festini non a quello che sta per strada che non ha un soldo
 BOI014	sì allo sballo
 BOI014	sì
 BOI014	sì
-BOR002	allora invece era così aspetta che
+BOI014	allora invece era così aspetta che
 BOR002	sì sì
 BOR002	okay
 BOR002	ehm
@@ -1116,12 +1091,12 @@ BOR002	magari sui generis
 BOR002	ehm
 BOR002	oltre diciamo alla crisi degli ultimi anni poi adesso
 BOR002	c'è crisi economica no
-BOI014	adesso poi col covid
-BOR002	mh
+BOR002	adesso poi col covid
+BOI014	mh
 BOR002	ehm
 BOR002	ti ricordi altri periodi in cui
 BOR002	o per voi o generalmente ci sono stati periodi di crisi proprio economica profonda tipo
-BOI014	io sono nata che c'è stata dopo poco la crisi del duemilaotto ma ovviamente non me la ricordo ecco
+BOR002	io sono nata che c'è stata dopo poco la crisi del duemilaotto ma ovviamente non me la ricordo ecco
 BOI014	dunque una crisi c'è statala crisi
 BOI014	petrolifera
 BOI014	negli anni settanta
@@ -1136,8 +1111,8 @@ BOI014	quindi
 BOI014	eh lo stato
 BOI014	eh istituì le domeniche
 BOI014	eh senza
-BOR002	usare i mezzi pubblici e neanche le automobili
-BOI014	non ne avevo idea
+BOI014	usare i mezzi pubblici e neanche le automobili
+BOR002	non ne avevo idea
 BOI014	ah sì
 BOI014	le domeniche senza
 BOI014	eh sì
@@ -1158,8 +1133,8 @@ BOI014	che e poi io ricordo nella mia famiglia per esempio
 BOI014	che il nonno lavorava in banca
 BOI014	e lo stipendio del bancario era incredibile negli anni settanta no
 BOI014	prendevano
-BOR002	eh la dodi~ la tre~ la arrivavano fino alla quindicesima
-BOI014	ma va là
+BOI014	eh la dodi~ la tre~ la arrivavano fino alla quindicesima
+BOR002	ma va là
 BOI014	sì
 BOI014	anche avevano
 BOI014	tante poi avevano una scala mobile anomala
@@ -1168,22 +1143,21 @@ BOI014	la scala mobile lo sai che è quel meccanismo che
 BOI014	eh
 BOI014	permette a agli stipendi di adeguarsi al costo della vita
 BOI014	adesso e' tale che è ininfluente e non si non si capisce neanche che ci sia cioè non aumentano
-BOR002	in base all'inflazione no perché allora c'era
-BOI014	okay
+BOI014	in base all'inflazione no perché allora c'era
+BOR002	okay
 BOI014	una grandissima inflazione quindi
-BOR002	la eh scala mobile si chiamava che aveva il nonno era anomala si chiamava perché non era uguale
-BOI014	mh
+BOI014	la eh scala mobile si chiamava che aveva il nonno era anomala si chiamava perché non era uguale
+BOR002	mh
 BOI014	agli altri lavoratori per cui se
 BOI014	aumentava l'inflazione
 BOI014	lo stipendio
 BOI014	non si adeguava ma aumentava ancora di più
 BOI014	quindi prendev~
-BOR002	prendeva uno stipendio meraviglioso
-BOI014	
-BOR002	la eliminarono perché per altro non era neanche giusto
-BOI014	certo
-BOR002	ecco e quindi noi prendemmo una stangata
-BOI014	mh
+BOI014	prendeva uno stipendio meraviglioso
+BOI014	la eliminarono perché per altro non era neanche giusto
+BOR002	certo
+BOI014	ecco e quindi noi prendemmo una stangata
+BOR002	mh
 BOI014	incredibile
 BOI014	perché
 BOI014	adeguandolo a
@@ -1200,30 +1174,30 @@ BOI014	vice capo ufficio poi capo ufficio
 BOI014	poi diventò
 BOI014	quadro insomma
 BOI014	ce la cavammo discretamente perché vivere
-BOR002	con uno stipendio solo con due figli
-BOI014	certo
+BOI014	con uno stipendio solo con due figli
+BOR002	certo
 BOI014	è stata non è stata proprio una passeggiata ecco
 BOI014	pero' dal punto di vista dell'italia diciamo a parte quella crisi lì dis~
 BOI014	ci son stati degli alti e bassi a parte questo
 BOI014	questione dell'energia
-BOR002	del risparmio energetico delle domeniche a piedi
+BOI014	del risparmio energetico delle domeniche a piedi
 BOR002	che è un po' no non è proprio un po'
-BOI014	e' simile per alcuni aspetti alla zeta ti elle di adesso anche se è fatta per altre ragioni
-BOR002	sì per altre ragioni però si andava a piedi hai capito
-BOI014	capito
+BOR002	e' simile per alcuni aspetti alla zeta ti elle di adesso anche se è fatta per altre ragioni
+BOI014	sì per altre ragioni però si andava a piedi hai capito
+BOR002	capito
 BOI014	e e
-BOR002	tirarono fuori le carrozze con i cavalli anche
-BOI014	no vabbe'
+BOI014	tirarono fuori le carrozze con i cavalli anche
+BOR002	no vabbe'
 BOI014	eh sì eh
-BOR002	c'era chi andava così
-BOI014	negli anni settanta
+BOI014	c'era chi andava così
+BOR002	negli anni settanta
 BOI014	sì
-BOR002	c'era chi aveva ancora i
-BOI014	no vabbè
-BOR002	le ca~ cavalli ce n'era allora c'erano ancora eh
-BOI014	mh
+BOI014	c'era chi aveva ancora i
+BOR002	no vabbè
+BOI014	le ca~ cavalli ce n'era allora c'erano ancora eh
+BOR002	mh
 BOI014	eh
-BOR002	pensa te
+BOI014	pensa te
 BOR002	mh
 BOR002	e no volevo chiederti mh
 BOR002	insomma un contributo personale nel senso dal momento che comunque di crisi a livello
@@ -1236,20 +1210,20 @@ BOR002	ti sentiresti di dare ai giovani
 BOR002	di adesso
 BOR002	che stanno subendo insomma
 BOR002	questa cosa della pandemia che relativamente a tutto quello che hai vissuto tu non è niente
-BOI014	PERÒ cioè dato che sicuramente di periodi di crisi
-BOR002	come non è niente eh è gravissima
+BOR002	PERÒ cioè dato che sicuramente di periodi di crisi
+BOI014	come non è niente eh è gravissima
 BOR002	e' gravissima no però io per esempio avessi vissuto negli anni sessanta settanta
-BOI014	cioè per la paura di uscire di cioè non sarei uscita di casa
-BOR002	ah beh per via del terrorismo dici ah beh certo
-BOI014	ma si' cioe' o anche il dopoguerra cioè nel senso
+BOR002	cioè per la paura di uscire di cioè non sarei uscita di casa
+BOI014	ah beh per via del terrorismo dici ah beh certo
+BOR002	ma si' cioe' o anche il dopoguerra cioè nel senso
 BOI014	sì sì sì sì ah beh certo
-BOR002	che consigli
-BOI014	eh
+BOI014	che consigli
+BOR002	eh
 BOI014	allora
 BOI014	a parte che
 BOI014	xx
-BOR002	di non aspettare
-BOI014	aspettare
+BOI014	di non aspettare
+BOR002	aspettare
 BOI014	di aspet~
 BOI014	di non aspettare i giovani di
 BOI014	ma forse non tanto i giovani di adesso ma di un po' di tempo fa
@@ -1273,20 +1247,17 @@ BOI014	ma di vivere
 BOI014	il momento
 BOI014	perche' se aspetti e dici adesso questo lo faro' quando avro'
 BOI014	non lo farai mai devi cogli l'attimo
-BOR002	in senso positivo non cogli l'attimo per fare le cazzate ovviamente
-BOI014	mhmh
-BOR002	hai capito cosa voglio dire
-BOI014	sì sì sì certo
+BOI014	in senso positivo non cogli l'attimo per fare le cazzate ovviamente
+BOR002	mhmh
+BOI014	hai capito cosa voglio dire
+BOR002	sì sì sì certo
 BOI014	ecco io consiglio quello
 BOI014	PERCHÉ io ho visto tante
 BOI014	insomma adesso li vedi che
 BOI014	aspettano tutti di avere l~ aspett~ non lo so adesso aspettavano di avere la casa di avere
 BOI014	di avere tutti i mobili di avere questo ee
-BOR002	poi quando hanno tutti si separano
-BOI014	
-BOI014	
-BOR002	la conclusione è quella
-BOI014	
+BOI014	poi quando hanno tutti si separano
+BOI014	la conclusione è quella
 BOI014	hai capito
 BOI014	allora la vita
 BOI014	ehm
@@ -1294,34 +1265,30 @@ BOI014	cioè
 BOI014	sc~ mh
 BOI014	vivere secondo
 BOI014	i i mh
-???	la anche la biologia
-BOR002	
-BOI014	ah se vuoi andare ad aprire
-???	vado ad aprire sì
-BOR002	qui ho interrotto e ripreso la registrazione per via del campanello quindi ci sono due suoni sovrapposti che in realtà non lo sarebbero
-BOI014	faccio giusto
+BOI014	la anche la biologia
+BOR002	ah se vuoi andare ad aprire
+BOI014	vado ad aprire sì
+???	qui ho interrotto e ripreso la registrazione per via del campanello quindi ci sono due suoni sovrapposti che in realtà non lo sarebbero
+BOR002	faccio giusto
 BOI014	cioe' di seguire la biologia
-BOR002	ecco non aspetta~
-BOR002	
-BOI014	allora
+BOI014	ecco non aspetta~
+BOR002	allora
 BOI014	se
 BOI014	è è non è
-BOR002	è la solita menata che dico però io lo consiglio
-BOI014	
+BOI014	è la solita menata che dico però io lo consiglio
 BOI014	perché io ho visto tua madre
 BOI014	guarda come ha ha fatto le cose
 BOI014	proprio in maniera perfetta
 BOI014	secondo me
 BOI014	e adesso lei si gode si gode
-BOR002	insomma vive una vita piena ecco
+BOI014	insomma vive una vita piena ecco
 BOR002	sì
-BOR002	
 BOR002	diciamo che io vedendola quant'è stressata così la penso un po'
-BOI014	in maniera diversa nel senso che secondo me lei appunto per la voglia di fare molto ha fatto subito togliendosi del tempo che magari poteva vivere in un'altra maniera ma io cresco anche in un
-BOR002	sì però però adesso lei si vive vive pienamente eh
-BOI014	non si lascia poi così andare sai è giovane pensare di lasciare andare i figli o che sian già adulti quando sei ancora così giovane
-BOR002	eh sai io f~ io faccio ehm ehm
-BOI014	per me è difficile
+BOR002	in maniera diversa nel senso che secondo me lei appunto per la voglia di fare molto ha fatto subito togliendosi del tempo che magari poteva vivere in un'altra maniera ma io cresco anche in un
+BOI014	sì però però adesso lei si vive vive pienamente eh
+BOR002	non si lascia poi così andare sai è giovane pensare di lasciare andare i figli o che sian già adulti quando sei ancora così giovane
+BOI014	eh sai io f~ io faccio ehm ehm
+BOR002	per me è difficile
 BOI014	io faccio il paragone con me io non sono mai
 BOI014	uscita
 BOI014	eh
@@ -1329,20 +1296,19 @@ BOI014	cioè
 BOI014	io non ho mai vissuto come vive tua madre
 BOI014	non tanto perché ho avuto i filgi tardi perché non è che li abbia avuti tardi
 BOI014	li ho avuti insomma
-BOR002	tardi per i miei t~ per i miei tempi tardi
-BOI014	nella media
+BOI014	tardi per i miei t~ per i miei tempi tardi
+BOR002	nella media
 BOI014	te l'ho sempre detto che
 BOI014	sono una primipera primipara attempata io
-BOR002	a ventotto anni no
+BOI014	a ventotto anni no
 BOR002	mhmh
-BOI014	sì fa strano
+BOR002	sì fa strano
 BOI014	nel settantatré ero una primipara attempata a ventotto anni
 BOI014	ma non ho ma~
 BOI014	io fintanto che voi che i miei figli non erano più grandi
-BOR002	ehm non ho mai fatto nien~ ma neanche dopo a dir la verità quindi
-BOI014	
-BOR002	vabbè il mio era un caso è un caso a parte a me pare che tua madre invece
-BOI014	vabbè quello esatto in altre condizioni
+BOI014	ehm non ho mai fatto nien~ ma neanche dopo a dir la verità quindi
+BOI014	vabbè il mio era un caso è un caso a parte a me pare che tua madre invece
+BOR002	vabbè quello esatto in altre condizioni
 BOI014	e'
 BOI014	una che vuol fare tante cose che fa tante cose però
 BOI014	le fa
@@ -1350,105 +1316,103 @@ BOI014	nei tempi anche giusti insomma
 BOI014	dal punto di vista biologico secondo me
 BOI014	io sono molto contenta per lei perché
 BOI014	per me
-???	vive una vita piena ecco
-BOI014	
-BOR002	oh sarà la fabrizia
-BOI014	al telefono vabbè non ti preoccupare
-BOR002	non possono è finita dai
-BOI014	no giusto le ultime domande perché magari possono essere interessanti
-BOR002	mh
-BOI014	eh hai detto che in famiglia da te si parlava più che altro dialetto bolognese no
-BOR002	sì
-BOI014	si è mai parlato qualche altro tipo di dialetto
+BOI014	vive una vita piena ecco
+BOI014	oh sarà la fabrizia
+BOR002	al telefono vabbè non ti preoccupare
+BOI014	non possono è finita dai
+BOR002	no giusto le ultime domande perché magari possono essere interessanti
+BOI014	mh
+BOR002	eh hai detto che in famiglia da te si parlava più che altro dialetto bolognese no
+BOI014	sì
+BOR002	si è mai parlato qualche altro tipo di dialetto
 BOI014	fra
 BOI014	certo
-BOR002	friulano
-BOI014	mh
+BOI014	friulano
+BOR002	mh
 BOI014	il friulano perché mia madre è friulan~ era friulana quindi
 BOI014	quando
 BOI014	andavamo in vacanza a lignano sabbiadoro
 BOI014	che è vicino a latisana dove abitava lei
 BOI014	eh tutti i suoi parenti parlavano in friulano
 BOI014	e io
-BOR002	capivo perfettamente il friulano
-BOI014	eh e quindi capivi
-BOR002	bellissima è una lingua stupenda il ven~ friulano è belli~ difficilissimo
+BOI014	capivo perfettamente il friulano
+BOR002	eh e quindi capivi
+BOI014	bellissima è una lingua stupenda il ven~ friulano è belli~ difficilissimo
 BOR002	sì
-BOI014	eh
-BOR002	bellissima
-BOI014	ma quindi capivi meglio il dialetto diciamo bolognese o quello friulano
+BOR002	eh
+BOI014	bellissima
+BOR002	ma quindi capivi meglio il dialetto diciamo bolognese o quello friulano
 BOI014	ah quello bolognese ovviamente perché quello friulano lo lo lo lolo ascoltavo durante le vacanze
 BOI014	comunque quando si è bambini si capisce
 BOI014	pero' ecco adesso mi viene in mente che sentivo anche il dialetto modenese
-BOR002	perché mio padre
-BOI014	mh
+BOI014	perché mio padre
+BOR002	mh
 BOI014	era modenese
-BOR002	non era bolognese
-BOR002	ah
 BOI014	non era bolognese
+BOR002	ah
+BOR002	non era bolognese
 BOI014	non era bologn~ allora lui
 BOI014	parlava un dialetto bolognese imbastardato
 BOI014	ma
 BOI014	il dialetto bolognese vero lo parlavano
 BOI014	i miei fratelli
-BOR002	e mia madre pur essendo friulana parlava il dialetto bolognese
-BOI014	mh
-BOR002	pensa te
-BOI014	quindi da voi cioè si parlava italiano zero
-BOR002	no no italiano sì eccome se si parlava lo parlavano i miei genitori con noi
+BOI014	e mia madre pur essendo friulana parlava il dialetto bolognese
+BOR002	mh
+BOI014	pensa te
+BOR002	quindi da voi cioè si parlava italiano zero
+BOI014	no no italiano sì eccome se si parlava lo parlavano i miei genitori con noi
 BOR002	si'
-BOI014	eh
+BOR002	eh
 BOI014	con me e la caterina
 BOI014	e io e la caterina abbiam sempre parlato in italiano
-BOR002	fid~ in dialetto non abbiam mai parlato mol~ lo capiam perfettamente ma non abbiam mai parlato in dialetto
-BOI014	quindi tipo anche tu quando sei da sola col nonno parli in italiano sì
-BOR002	sempre sì non ho mai parlato in dialetto
+BOI014	fid~ in dialetto non abbiam mai parlato mol~ lo capiam perfettamente ma non abbiam mai parlato in dialetto
+BOR002	quindi tipo anche tu quando sei da sola col nonno parli in italiano sì
+BOI014	sempre sì non ho mai parlato in dialetto
 BOR002	no perché tipo l'altra nonna quando è con papà secondo me loro parlano spesso in dialetto
-BOI014	poi quando ci siamo noi magari no
+BOR002	poi quando ci siamo noi magari no
 BOI014	no mai mai
 BOI014	mia madre m~ ma~ ma~ mia madre con me parlava delle volte anche in dialetto
-BOR002	per dire quando magari s'arrabbiava o qualco~
-BOI014	mhmh
-BOR002	però io non ho mai parlato in dialetto
+BOI014	per dire quando magari s'arrabbiava o qualco~
+BOR002	mhmh
+BOI014	però io non ho mai parlato in dialetto
 BOR002	ma secondo te come mai han voluto
 BOR002	diciamo
-BOI014	parlare italiano perche' diciamo la pras~ cioe' la prassi la norma
-BOR002	ma perché per loro parlare in italiano era salire un gradino della scala sociale
-BOI014	ah
-BOR002	quindi
-BOI014	eh
+BOR002	parlare italiano perche' diciamo la pras~ cioe' la prassi la norma
+BOI014	ma perché per loro parlare in italiano era salire un gradino della scala sociale
+BOR002	ah
+BOI014	quindi
+BOR002	eh
 BOI014	era
 BOI014	un desiderio di i
-BOR002	darci un'istruzione infatti anche il desiderio di farci studiare l'hanno sempre avuto per cui
-BOI014	mh
-BOR002	parl~ si parlava in italiano per agevolare anche noi in modo che eh a scuola avessimo meno difficoltà
-BOI014	eh ci sta no perché diciamo la prassi
-BOR002	no no i miei coetanei parlavano tutti in dialetto eh
-BOI014	mh
+BOI014	darci un'istruzione infatti anche il desiderio di farci studiare l'hanno sempre avuto per cui
+BOR002	mh
+BOI014	parl~ si parlava in italiano per agevolare anche noi in modo che eh a scuola avessimo meno difficoltà
+BOR002	eh ci sta no perché diciamo la prassi
+BOI014	no no i miei coetanei parlavano tutti in dialetto eh
+BOR002	mh
 BOI014	spesso sì
 BOI014	fra di noi no
 BOI014	ma con i genitori così ma
 BOI014	mie~ miei ci tenevano moltissimo che noi
-BOR002	che noi parlassimo in italiano
+BOI014	che noi parlassimo in italiano
 BOR002	pensa te
-BOI014	cioe' no nel senso non è che è una cosa stra~
-BOR002	ti ti meraviglia
+BOR002	cioe' no nel senso non è che è una cosa stra~
+BOI014	ti ti meraviglia
 BOR002	sì mi meraviglia nel senso che ho sempre pensato che si cercasse di mantenere
 BOR002	il dialetto ma magari è un'idea mia
-BOI014	finché si poteva no
+BOR002	finché si poteva no
 BOI014	ma sai dipende da cosa intendi cioè
 BOI014	che cos'è per te il dialetto
 BOI014	per i miei genitori il dialetto era l'espressione dell'essere
 BOI014	popolo popolo
 BOI014	ignorante
-BOR002	hai capito
-BOI014	mhmh
-BOR002	ecco invece p~ d'italiano no
+BOI014	hai capito
+BOR002	mhmh
+BOI014	ecco invece p~ d'italiano no
 BOR002	per esempio io non avendo per niente la parte del dialetto cioè alcune parole capisco ma capisco e basta al massimo
-BOI014	e per me il fatto di non avere un dialetto come per esempio un ragazzo della mia età del sud ha per me è una mancanza
-BOR002	hai ragione perché sono le tue origini sarebbe mancato anche a me
-BOR002	
-BOI014	esatto
+BOR002	e per me il fatto di non avere un dialetto come per esempio un ragazzo della mia età del sud ha per me è una mancanza
+BOI014	hai ragione perché sono le tue origini sarebbe mancato anche a me
+BOR002	esatto
 BOI014	infatti
 BOI014	a me piace molto cioè io lo capisco perfettamente
 BOI014	quando
@@ -1459,15 +1423,14 @@ BOI014	le scriveva adesso
 BOI014	è un patrimonio
 BOI014	decisamente decisamente
 BOI014	però
-BOR002	ci dev'essere qualcuno che te lo trasmette
+BOI014	ci dev'essere qualcuno che te lo trasmette
 BOR002	no certo poi è tutto appunto relativo a come lo vedi da
-BOI014	età a età decennio a decennio
+BOR002	età a età decennio a decennio
 BOI014	sì no i miei genitori non l'han mai considerato un patrimonio anzi
-BOR002	una palla al piede
-BOI014	mh pensa te
-BOR002	sì ma era così in maniera diffusa eh non
-BOI014	no ma ha tutto esatto ha tutto un suo senso assolutamente
+BOI014	una palla al piede
+BOR002	mh pensa te
+BOI014	sì ma era così in maniera diffusa eh non
+BOR002	no ma ha tutto esatto ha tutto un suo senso assolutamente
 BOI014	eh
-???	eh eh perché l~ eh beh eh eh per esempio le persone altolocate non c'è dubbio che parlassero in dialetto
-BOR002	
+BOI014	eh eh perché l~ eh beh eh eh per esempio le persone altolocate non c'è dubbio che parlassero in dialetto
 BOR002	adesso

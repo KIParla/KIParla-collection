@@ -1,147 +1,147 @@
-BO087	buongio[rno]
-BO089	[ecco] buongiorno.
-BO087	xxx
+BO089	buongio[rno]
+BO087	[ecco] buongiorno.
+BO089	xxx
 BO087	((tossisce))
 BO087	no. ho un po' freddo, si può chiudere la porta?
-???	vi dispiace?
+BO087	vi dispiace?
 ???	(a ma per chiudere?)
-BO087	xxx vado io.
-BO089	allora lei,
-BO087	[bibliografia (.) sì].
+???	xxx vado io.
+BO087	allora lei,
+BO089	[bibliografia (.) sì].
 BO087	[<bibliografia>],
-BO089	magistrale.
-BO087	magistrale (.) ho portato anche::: [il repertorio],
-BO089	[brava, (.) che bibliogra]fia ha port~ (.) che bibliografia ha[scelto]?
+BO087	magistrale.
+BO089	magistrale (.) ho portato anche::: [il repertorio],
+BO087	[brava, (.) che bibliogra]fia ha port~ (.) che bibliografia ha[scelto]?
 BO089	[e::hm]:,
-BO087	delle: trad~ (.) delle opere cinesi tradotte in italian[o::: (.) e una]
-BO089	[perché è] spento?
+BO089	delle: trad~ (.) delle opere cinesi tradotte in italian[o::: (.) e una]
+BO087	[perché è] spento?
 BO089	<bibliografia>,
-BO087	retrospettiva.
+BO089	retrospettiva.
 BO087	((bisbiglio_incomprensibile))
 BO087	è spento? (.) o ancora non funziona?
-BO089	no (.) è proprio spento.
+BO087	no (.) è proprio spento.
 BO089	sì comunque è freddo, (.) anche fuori.
 BO089	è una bibliografia retrospettiva, che=m:::h
 BO089	praticamente=m::h
 BO089	elenca le informazioni delle opere: pubbli~ (.) delle traduzione pubblicate dal millenovecento al millenovecentosei in italia,
-BO087	quindi è anche una [biblio~]
-BO089	[delle] opere cines[i]?
+BO089	quindi è anche una [biblio~]
+BO087	[delle] opere cines[i]?
 BO089	[ci]nesi, (.) sì,
 BO089	e::::hm::::
-BO087	°cosa° stavo dicendo, (.) quindi è anche nazionale, (.) una cosa, (.) io credo di aver sbagliato, (.) perché ho scr[itto prim]ario e invece
+BO089	°cosa° stavo dicendo, (.) quindi è anche nazionale, (.) una cosa, (.) io credo di aver sbagliato, (.) perché ho scr[itto prim]ario e invece
 BO087	[mh].
-BO089	e ovviamente lei adesso mi dirà che differenza c'è [tra primaria e secondaria] no?
+BO087	e ovviamente lei adesso mi dirà che differenza c'è [tra primaria e secondaria] no?
 BO089	[sì ((ride)) esatto].
 BO089	primaria perché m:::h praticamente elenca le informazioni anal~ (.) le informazioni riguardanti: i vari le varie=m:::h (.) i vari documenti, analizzando
-BO087	direttamente il documen[to].
-BO089	[mh mh],
-BO087	mentre la secondaria si fonda su al~ m:h (.) si basa su altre (.) e:h bibliografie o cataloghi:: di (.) di bilbioteche per (.) mh (.) [per la stesura del repertorio].
+BO089	direttamente il documen[to].
+BO087	[mh mh],
+BO089	mentre la secondaria si fonda su al~ m:h (.) si basa su altre (.) e:h bibliografie o cataloghi:: di (.) di bilbioteche per (.) mh (.) [per la stesura del repertorio].
 BO087	[per raccogliere notizie::],
-BO089	[indirette],
+BO087	[indirette],
 BO089	[e infatti qua c'è] scritto,
 BO089	io, (.) poi,
 BO089	se ho sbagliato non lo so.
 BO089	dice nella compilazione di questo lavoro sono state consultate le bibliografie di <studi sinologi a cura di>,
 BO089	e:: (.) quelle delle traduzioni di opere letterarie a cura di=m~ (.) di masci maria rita e federico masini.
-BO087	quindi è secondaria.
+BO089	quindi è secondaria.
 BO087	dunque un conto è dire che, (.) <nel compilare una bibliografia>,
 BO087	dice nella compilazione sono state consultate.
 BO087	un conto è dire (.) FONTE delle notizie bibliografiche sono i seguenti repertori.
 BO087	se non dice altro, e dice solo questo, io direi:::,
 BO087	che
 BO087	se vuol dire che è secondaria è detto proprio male.
-BO089	mh,
 BO087	mh,
+BO089	mh,
 BO087	però,
-BO089	anzitutto, nasce come complemento di un'altra blibliografia.
-BO087	mh [mh],
-BO089	[che è]?
-BO087	che è quella degl=m::h (.) delle opere tradotte dal (.) dall'ita~ mh dal mh (.) sì, (.) dall'italiano al cinese, (.) la bibliografia del
+BO087	anzitutto, nasce come complemento di un'altra blibliografia.
+BO089	mh [mh],
+BO087	[che è]?
+BO089	che è quella degl=m::h (.) delle opere tradotte dal (.) dall'ita~ mh dal mh (.) sì, (.) dall'italiano al cinese, (.) la bibliografia del
 BO087	che mi sembra::
-BO089	di tipo primario, perché voglio di[re dell'amba]sciata d'italia,
-BO087	[sì].
+BO087	di tipo primario, perché voglio di[re dell'amba]sciata d'italia,
+BO089	[sì].
 BO087	quindi,
 BO087	secondo me,
 BO087	questo <prosegue un lavoro e quindi non dice tutta la natura di questo lavoro si aggancia subito a quello> se, (.) >io sarei andato a vede l'introduzione alla bibliografia delle opere italiane se la bibliografia delle opere italiane è tradotta in cinese<,
 BO087	dice chiaramente, che trattasi di una bibliografia primaria, allora questa lo è pure.
-BO089	[infatti],
+BO087	[infatti],
 BO089	[okay]
-BO087	tra l'altro, (.) [no perché c'era scritto],
+BO089	tra l'altro, (.) [no perché c'era scritto],
 BO087	[questa affermazione dice che appunto] (.) nel compilarlo, abbiamo comunque tenuto conto, di altre bibliografie,
 BO087	non è che se uno, (.) compila, (.) una bilbiografia primaria,
-BO089	appunto (.) attingendo (.) al documento in forma diretta, (.) esclude la consultazione di tutte le altre bibliografie.
-BO087	mhmh,
+BO087	appunto (.) attingendo (.) al documento in forma diretta, (.) esclude la consultazione di tutte le altre bibliografie.
+BO089	mhmh,
 BO087	mh no no anzi lo fa, (.) perché magari il documento che ha in mano è incompleto,
 BO087	perché magari il documento che ha in mano,
 BO087	è bibliografato in modo diverso, rispetto a quello,
-BO089	perché è un'emissione diversa, perché è una (.) uno stato diverso, non lo so (.) insomma.
-BO087	okay
+BO087	perché è un'emissione diversa, perché è una (.) uno stato diverso, non lo so (.) insomma.
+BO089	okay
 BO087	però (.) ecco,
 BO087	se solo qui, il punto in cui,
-BO089	ne parla:=m:h io direi che (.) la cosa rimane,
+BO087	ne parla:=m:h io direi che (.) la cosa rimane,
 BO089	no dice poi che=m::h è stato difficile per alcuni (.) e:h andare a ritrovare (.) insomma le informazioni bibliografiche, perché le traduzioni erano (.) mh molto datate.
-BO087	[e::: (.) qui]ndi comunque un'analisi (.) diretta dei documenti ovviamente c'è stata, (.) però,
-BO089	[mh],
+BO089	[e::: (.) qui]ndi comunque un'analisi (.) diretta dei documenti ovviamente c'è stata, (.) però,
+BO087	[mh],
 BO089	e:::h
-BO087	mi è rimasto questo [dubbio insomma].
-BO089	[dunque, (.) bisogna però] capire una cosa (.) questa è la bibliografia delle opere CINESI tra[dotte in italiano sì sì sì sì perfetto].
+BO089	mi è rimasto questo [dubbio insomma].
+BO087	[dunque, (.) bisogna però] capire una cosa (.) questa è la bibliografia delle opere CINESI tra[dotte in italiano sì sì sì sì perfetto].
 BO089	[sì, (.) tradotte in italiano].
 BO089	[quindi], (.) poi ho scelto, siccome è diviso in generi,
 BO089	il=e::h=il le intere schede, quindi ci sono documenti politici filosofici, (.) e:::h di letteratura,
 BO089	ho scelto: (.) quelli di letteratura, (.) moderna e contemporanea, e ho (.) mh sono andata a analizzare le varie (.) le varie opere ho segnato (.) ovviamente non è esaustiva come nota bilbiografica, però sono andata a segnare quelle che magari
 BO089	conosco meglio perché
-BO087	studio: (.) studio cinese quindi:,
-BO089	mh mh,
+BO089	studio: (.) studio cinese quindi:,
+BO087	mh mh,
 BO089	e::::=m:h (.) quelle che magari ho letto, durante i miei studi, (.) e quindi::
-BO087	un po' le ho (.) le ho riportate ho scelto lo stile citazionale:: short title quindi una::
-BO089	short ti[tle]. ((corregge_la_pronuncia))
-BO087	[sho]rt title ((ride)) (.) [eh=m:h],
-BO089	[studi anche] un po' di inglese [per la carità].
+BO089	un po' le ho (.) le ho riportate ho scelto lo stile citazionale:: short title quindi una::
+BO087	short ti[tle]. ((corregge_la_pronuncia))
+BO089	[sho]rt title ((ride)) (.) [eh=m:h],
+BO087	[studi anche] un po' di inglese [per la carità].
 BO089	((ride)) [sì sì] ((ride))
 BO089	eh=m:::::::h (.) e poi sono andata a ordinarle::: (.) alfabeticamente per autore, (.) cinese,
-BO087	e:h=[m::::h],
-BO089	[adesso] mi deve togliere subito la curi[osità]
-BO087	[sì] (.) ((ride))
+BO089	e:h=[m::::h],
+BO087	[adesso] mi deve togliere subito la curi[osità]
+BO089	[sì] (.) ((ride))
 BO087	cioè,
 BO087	acheng,
-BO089	è un nome solo, (.) e non ci piove.
+BO087	è un nome solo, (.) e non ci piove.
 BO089	no.
-BO087	so~ è a, (.) ceng.
+BO089	so~ è a, (.) ceng.
 BO087	acheng, (.) e si scrive attaccato,
 BO087	perfetto.
-BO089	ba jin,
+BO087	ba jin,
+BO089	due nomi.
 BO087	due nomi.
-BO087	due nomi.
-BO089	ba è il nome? (.) o è il co[gnome]?
-BO087	[sono] i cognomi.
-BO089	ba jin, sono due cognomi.
-BO087	no è il no~ (.) cognome, e no[me].
-BO089	[co]gnome nome (.) [e in cinese loro] come si chiamano?
-BO087	[poi alcuni::],
-BO089	si chiama[no (.) cioè, (.) no]me e cognome come in italiano, perché noi in italiano ci chiaiamo nome e cognome.
-BO087	[e::h=m:::h],
+BO087	ba è il nome? (.) o è il co[gnome]?
+BO089	[sono] i cognomi.
+BO087	ba jin, sono due cognomi.
+BO089	no è il no~ (.) cognome, e no[me].
+BO087	[co]gnome nome (.) [e in cinese loro] come si chiamano?
+BO089	[poi alcuni::],
+BO087	si chiama[no (.) cioè, (.) no]me e cognome come in italiano, perché noi in italiano ci chiaiamo nome e cognome.
+BO089	[e::h=m:::h],
 BO087	poi quando ci elencano,
-BO089	invertono il nostro nome norm[ale dicono] prima il cognome poi mettono una virgola (.) e mettono ciò che viene dopo gius[to]?
+BO087	invertono il nostro nome norm[ale dicono] prima il cognome poi mettono una virgola (.) e mettono ciò che viene dopo gius[to]?
 BO089	[mh mh],
-BO087	[mh]mh,
+BO089	[mh]mh,
 BO087	loro?
 BO087	la sequenza normale
 BO087	della
-BO089	deno[minazione],
-BO087	[cogn~ (.) cognome] nome.
-BO089	cognome nom[e? (.) pri]ma si dice il cognome, poi il nome.
+BO087	deno[minazione],
+BO089	[cogn~ (.) cognome] nome.
+BO087	cognome nom[e? (.) pri]ma si dice il cognome, poi il nome.
 BO089	[sì].
-BO087	mh mh,
-BO089	okay.
+BO089	mh mh,
+BO087	okay.
 BO089	sì m:::h (.) il mh (.) il m:::h (.) il l'elemento importante, è il cognome nel=e::h,
 BO089	nel nel in cina insomma.
-BO087	però alcuni non sono proprio i nomi reali, perché m:::h hanno usato degli pseudo~ pseudonimi nella loro carriera tipo lu xun.
-BO089	[lu xun (.) dov'è]?
+BO089	però alcuni non sono proprio i nomi reali, perché m:::h hanno usato degli pseudo~ pseudonimi nella loro carriera tipo lu xun.
+BO087	[lu xun (.) dov'è]?
 BO089	[e:::h il padre del],
-BO087	lu xu:[n],
-BO089	[lu] xun ecco [qui].
-BO087	[sì:::],
-BO089	e il nome reale, lei non l'ha proprio messo perché tanto [lui non ha pubblicato nulla col nome reale].
+BO089	lu xu:[n],
+BO087	[lu] xun ecco [qui].
+BO089	[sì:::],
+BO087	e il nome reale, lei non l'ha proprio messo perché tanto [lui non ha pubblicato nulla col nome reale].
 BO089	[no perché è conosciuto come:: (.) come lu xun].
 BO089	padre della:: narrativa::: moderna, quindi:::,
 BO089	e::: lu xun, è conosciuto così.
@@ -154,222 +154,222 @@ BO089	racconti e racconti brevi,
 BO089	e:: anche poesie e:::,
 BO089	dei saggi mi pare.
 BO089	primavera di::,
-BO087	li dazhao è un saggio.
-BO089	allor~ io le ho evidenziato qui [due noti]zie eh,
+BO089	li dazhao è un saggio.
+BO087	allor~ io le ho evidenziato qui [due noti]zie eh,
 BO089	[mh],
-BO087	okay.
-BO089	lei me le commenta per favore.
+BO089	okay.
+BO087	lei me le commenta per favore.
 BO089	m:::::h,
 BO089	si trata di (.) e::h (.) una:::,
 BO089	e::h=m::::h di una traduzione che è stata:: edita in una rivista,
 BO089	e:::h=m:::h (.) la rivista lo::=m:::h,
 BO089	eh (.) m::h,
-BO087	la devo dire, (.) m::h ana[lizzandola tutta]?
-BO089	[sì sì sì] (.) sì [sì].
-BO087	[cioè] (.) m:h dal=[e::h dal titolo],
-BO089	[proceda nello specifico], si tratta di un,
+BO089	la devo dire, (.) m::h ana[lizzandola tutta]?
+BO087	[sì sì sì] (.) sì [sì].
+BO089	[cioè] (.) m:h dal=[e::h dal titolo],
+BO087	[proceda nello specifico], si tratta di un,
 BO089	okay (.) ho m::::h scritto il (.) titolo dell'autore cinese, (.) in=e:::h maiuscolo,
-BO087	e:::h=[m::h],
-BO089	[il] nome [dell'autore cinese],
-BO087	[il (.) il nome dell'au]tore cinese in maiuscolo, (.) [ho ripor~]
-BO089	[che è gu]muo::: ru
-BO087	guo: moruo.
+BO089	e:::h=[m::h],
+BO087	[il] nome [dell'autore cinese],
+BO089	[il (.) il nome dell'au]tore cinese in maiuscolo, (.) [ho ripor~]
+BO087	[che è gu]muo::: ru
+BO089	guo: moruo.
+BO087	guo moruo.
 BO089	guo moruo.
-BO089	guo moruo.
-BO087	e:: ho riportato anche:::=m::h i relativi caratteri cinesi del (.) del nome,
-BO089	del nome s[ì].
+BO089	e:: ho riportato anche:::=m::h i relativi caratteri cinesi del (.) del nome,
+BO087	del nome s[ì].
 BO089	[de]l nome,
-BO087	poi (.) e::h (.) il titolo del=e::h (.) dell'opera (.) [°tradotta°],
-BO089	[perché ha riportato i carat]teri cinesi?
+BO089	poi (.) e::h (.) il titolo del=e::h (.) dell'opera (.) [°tradotta°],
+BO087	[perché ha riportato i carat]teri cinesi?
 BO089	m::h per
 BO089	m:h=non lo so.
-BO087	m::h=[in alcune],
-BO089	[si usa così] nella bibliografia che lei ha avuto in mano?
-BO087	c'è anche il nome (.) in (.) in cinese sia dell'opera, che del=eh (.) [dell'autor~] (.) del,
-BO089	[traduttore],
-BO087	dell'autore.
-BO089	ah (.) no (.) e questo è il tiolo?
-BO087	((ride))
-BO089	lun dun iu ba li [min gin]
+BO089	m::h=[in alcune],
+BO087	[si usa così] nella bibliografia che lei ha avuto in mano?
+BO089	c'è anche il nome (.) in (.) in cinese sia dell'opera, che del=eh (.) [dell'autor~] (.) del,
+BO087	[traduttore],
+BO089	dell'autore.
+BO087	ah (.) no (.) e questo è il tiolo?
+BO089	((ride))
+BO087	lun dun iu ba li [min gin]
 BO089	[sì (.) è il titolo] del=e::h (.) dell'opera.
 BO089	quella tras~ (.) traslitterazione pinyin del=e::h=m::h (.) dei caratteri.
 BO089	e=m::::h,
-BO087	e: ho riportato il nome del=e::h dell'opera (.) m::h tradotta in itali[ano],
-BO089	[titolo dell'opera].
-BO087	[in corsi~] (.) titolo dellopera, (.) in [corsivo],
-BO089	[mi dice il titolo] dell'autore e il nome dell'opera.
-BO087	((ride)) [ho sbagliato] ((ride))
+BO089	e: ho riportato il nome del=e::h dell'opera (.) m::h tradotta in itali[ano],
+BO087	[titolo dell'opera].
+BO089	[in corsi~] (.) titolo dellopera, (.) in [corsivo],
+BO087	[mi dice il titolo] dell'autore e il nome dell'opera.
+BO089	((ride)) [ho sbagliato] ((ride))
 BO087	[davvero].
-BO089	[il titolo dell'opera che è]?
+BO087	[il titolo dell'opera che è]?
 BO089	[e:::h=m:::h],
-BO087	poesie inedite (.) da le dee, (.) e:h [le dee] che (.) che è il e::h=m::::h,
-BO089	[mh mh],
+BO089	poesie inedite (.) da le dee, (.) e:h [le dee] che (.) che è il e::h=m::::h,
+BO087	[mh mh],
 BO089	diciamo il contenuto generale, (.) e:h=m:::h delle poesie di questo: (.) autore, (.) eh cinese,
 BO089	e:::h (.) quindi in uscen (.) ho riportato anche qui i caratteri del=e:h (.) contenuto: m:h generale,
 BO089	e:::h ho riportato il nome della trauttrice,
 BO089	buiatti anna,
-BO087	e::h tutto in ton[do],
-BO089	[pe]rché ha invertito il nome e il congome?
+BO089	e::h tutto in ton[do],
+BO087	[pe]rché ha invertito il nome e il congome?
 BO089	m::::::h,
 BO089	perché=m::h non si deve invertire?
-BO087	no?
+BO089	no?
 BO087	no.
 BO087	cioè in italiano lei si chiama anna?
-BO089	bu[iatti].
+BO087	bu[iatti].
 BO089	[buiatti].
-BO087	ah okay.
-BO089	lei lo inverte se, (.) fa un indice dei traduttori.
-BO087	[m::h],
-BO089	[cio]è un indice dei traduttori lei lo trova invertito
-BO087	[mh mh],
-BO089	[perché ele]nca per cognome, non per nome.
-BO087	ho capi[to].
-BO089	[almeno] di non avere la follia che alle volte si ve[de],
-BO087	[quin]di ho sbagliato [dappertutto per]ché.
+BO089	ah okay.
+BO087	lei lo inverte se, (.) fa un indice dei traduttori.
+BO089	[m::h],
+BO087	[cio]è un indice dei traduttori lei lo trova invertito
+BO089	[mh mh],
+BO087	[perché ele]nca per cognome, non per nome.
+BO089	ho capi[to].
+BO087	[almeno] di non avere la follia che alle volte si ve[de],
+BO089	[quin]di ho sbagliato [dappertutto per]ché.
 BO087	[ed è giusta],
 BO087	di elencare,
 BO087	eh (.) i nomi,
-BO089	secondo l'ordine alfabetico MA lasciando l'ordine comune del nome.
-BO087	mh mh,
+BO087	secondo l'ordine alfabetico MA lasciando l'ordine comune del nome.
+BO089	mh mh,
 BO087	che sono andrea battistini::::,
 BO087	ezio raimondi.
-BO089	l'elenco è per ordine di cognome, (.) [n~=non si] sbaglia].
-BO087	[okay].
+BO087	l'elenco è per ordine di cognome, (.) [n~=non si] sbaglia].
+BO089	[okay].
 BO087	però è chiaro che è visivamente più facile, vedere un battistini virgola andrea, (.) e un raimondi virgola ezio.
-BO089	[mh], (.) però,
-BO087	[mh mh],
+BO087	[mh], (.) però,
+BO089	[mh mh],
 BO087	in italia:no,
 BO087	quando io (.) descrivo, e dico (.) questo libro è stato tradotto da,
 BO087	non c'è nessuna ragione, di invertire.
-BO089	[infa]tti,
+BO087	[infa]tti,
 BO089	[okay].
-BO087	sì.
-BO089	l'autore come si presenta?
-BO087	marina milanda.
-BO089	giusta[mente col suo ele]nco col suo nome e il suo cognome (.) mh?
+BO089	sì.
+BO087	l'autore come si presenta?
+BO089	marina milanda.
+BO087	giusta[mente col suo ele]nco col suo nome e il suo cognome (.) mh?
 BO089	[giustamente].
-BO087	sì.
+BO089	sì.
 BO087	e (.) e questo era il senso della mia domanda di prima.
 BO087	cioè=s (.) in un libro, cinese (.) nel frontespizio di un libro cinese (.) io trovo scritto
-BO089	gou morou?
+BO087	gou morou?
+BO089	sì.
 BO087	sì.
-BO087	sì.
-BO089	quindi ((P))>io trovo scritto< prima il congome, e poi il no[me].
-BO087	mh mh,
-BO089	uno si scri~ non si presentano così?
-BO087	sì anche=mh (.) an~ (.) quando si chiaman[o, non è che si chi]amano per nome (.) [si chiamano per nome, (.) della famiglia].
+BO087	quindi ((P))>io trovo scritto< prima il congome, e poi il no[me].
+BO089	mh mh,
+BO087	uno si scri~ non si presentano così?
+BO089	sì anche=mh (.) an~ (.) quando si chiaman[o, non è che si chi]amano per nome (.) [si chiamano per nome, (.) della famiglia].
 BO087	[sì (.) sì sì].
-BO089	[>perché< questa è una particolarità (.) cultu]ra:[le proprio eh],
-BO087	[sì, (.) sì, certo].
-BO089	[è mol]to parti[colare],
-BO087	[legata] insomma:=alla filosofia confuciana in cui la fem~ (.) la famiglia è importantissima, quindi:
-BO089	mh,
-BO087	[si] chiamano::: (.) cioè a volte anche i miei compagni, gli (.) alle: (.) alle elementari c'era un cine:se, lo chiamvano per cognome, (.) giou.
-BO089	[m:h],
-BO087	[o] liu fen, (.) ce n'era un altro, (.) eh cognome era.
-BO089	per cognome, (.) [sì sì], (.) okay.
+BO087	[>perché< questa è una particolarità (.) cultu]ra:[le proprio eh],
+BO089	[sì, (.) sì, certo].
+BO087	[è mol]to parti[colare],
+BO089	[legata] insomma:=alla filosofia confuciana in cui la fem~ (.) la famiglia è importantissima, quindi:
+BO087	mh,
+BO089	[si] chiamano::: (.) cioè a volte anche i miei compagni, gli (.) alle: (.) alle elementari c'era un cine:se, lo chiamvano per cognome, (.) giou.
+BO087	[m:h],
+BO089	[o] liu fen, (.) ce n'era un altro, (.) eh cognome era.
+BO087	per cognome, (.) [sì sì], (.) okay.
 BO089	[sì sì],
 BO089	e::h=m:::h (.) e poi:: (.) rivi~, (.) il nome della rivista, tra virgolette basse,
-BO087	e::::h (.) e (.) e=l=[n:::],
-BO089	[che co]s'è questo?
-BO087	cosa?
-BO089	quello che mi ha detto che è tra virgolette basse.
-BO087	il nome della rivista.
-BO089	che cosè?
-BO087	il luogo, (.) e=e il luogo (.) e=m::::h (.) [la],
-BO089	[il] nome, della rivista?
-BO087	il titolo della rivista. ((ride))
-BO089	se torna a confondere nome e titolo mi arrabbio eh.
-BO087	scu[si] ((ride))
-BO089	[siamo] in bilbiografia (.) [il titolo della rivista].
+BO089	e::::h (.) e (.) e=l=[n:::],
+BO087	[che co]s'è questo?
+BO089	cosa?
+BO087	quello che mi ha detto che è tra virgolette basse.
+BO089	il nome della rivista.
+BO087	che cosè?
+BO089	il luogo, (.) e=e il luogo (.) e=m::::h (.) [la],
+BO087	[il] nome, della rivista?
+BO089	il titolo della rivista. ((ride))
+BO087	se torna a confondere nome e titolo mi arrabbio eh.
+BO089	scu[si] ((ride))
+BO087	[siamo] in bilbiografia (.) [il titolo della rivista].
 BO089	[il titolo della rivista].
 BO089	e poi abbiamo invece il numero, della rivista,
-BO087	e:::h l'anno di::: (.) di pubblicazione, (.) e (.) e:h=m:::h (.) e il mese,
-BO089	>perfetto (.) e il titolo della rivista è<, (.) [mar~ (.) c]a,
-BO087	[<marca>],
-BO089	marca.
-BO087	rivista di confine,
-BO089	cos'è rivista di confine?
+BO089	e:::h l'anno di::: (.) di pubblicazione, (.) e (.) e:h=m:::h (.) e il mese,
+BO087	>perfetto (.) e il titolo della rivista è<, (.) [mar~ (.) c]a,
+BO089	[<marca>],
+BO087	marca.
+BO089	rivista di confine,
+BO087	cos'è rivista di confine?
 BO089	e:::::.
 BO089	m::::::h.
-BO087	una rivista:::: (.) in cui vengono pubblicate dell[e:::],
-BO089	[no ris]petto a ma:rca, dico questo è il titolo de[lla rivista (.) questo]?
+BO089	una rivista:::: (.) in cui vengono pubblicate dell[e:::],
+BO087	[no ris]petto a ma:rca, dico questo è il titolo de[lla rivista (.) questo]?
 BO089	[ah, (.) okay].
-BO087	è u=m:::h sotto[ti:tolo].
-BO089	[un sottoti]tolo, (.) [perfetto].
+BO089	è u=m:::h sotto[ti:tolo].
+BO087	[un sottoti]tolo, (.) [perfetto].
 BO089	[un sottotitolo::]:: che ci spiega::=mh,
-BO087	meglio inso[mma: (.) il titolo (.) esatto].
-BO089	[il titolo che non è poi così chiaro no]? (.) marca,
-BO087	e:h=mh, (.) e poi abbiamo le pagine (.) ho riportato le pagine relative=al dove posso trovare la tradu[zione].
-BO089	[il contribu]to (.) perfetto.
+BO089	meglio inso[mma: (.) il titolo (.) esatto].
+BO087	[il titolo che non è poi così chiaro no]? (.) marca,
+BO089	e:h=mh, (.) e poi abbiamo le pagine (.) ho riportato le pagine relative=al dove posso trovare la tradu[zione].
+BO087	[il contribu]to (.) perfetto.
 BO089	e:::=m:::h,
-BO087	mh,
-BO089	anche qui abbiamo una notizia simile, tratt[a dalla ste]ssa rivista, cominci pure a commentare da qui, perché è qui che ho notato la cosa che non mi torna:,
+BO089	mh,
+BO087	anche qui abbiamo una notizia simile, tratt[a dalla ste]ssa rivista, cominci pure a commentare da qui, perché è qui che ho notato la cosa che non mi torna:,
 BO089	[sì:],
 BO089	e:::h=m:::h,
-BO087	[il titolo del],
+BO089	[il titolo del],
 BO087	[il sottotito]lo,
-BO089	attenta (.) [una volta maiuscolo, una volta minuscolo, (.) ma va bene] (.) poi?
+BO087	attenta (.) [una volta maiuscolo, una volta minuscolo, (.) ma va bene] (.) poi?
 BO089	[o:::h (.) mio dio (.) m:h (.) sì (.) è vero].
 BO089	e:::::h=eh,
 BO089	poi (.) e:::h (.) ho invertito (.) oh ((ride)) qua.
 BO089	sì.
-BO087	ho riportato prima l'an~ (.) m::h l'anno di pubblicazione e poi:: (.) eh=mh il mese.
+BO089	ho riportato prima l'an~ (.) m::h l'anno di pubblicazione e poi:: (.) eh=mh il mese.
 BO087	>allora< qui ha messo l'anno,
-BO089	e il mese.
-BO087	sì.
-BO089	e dà >solamente< la sequenza, (.) di [pagine] (.) che è uguale qui.
-BO087	[sì:],
+BO087	e il mese.
+BO089	sì.
+BO087	e dà >solamente< la sequenza, (.) di [pagine] (.) che è uguale qui.
+BO089	[sì:],
 BO087	anno,
-BO089	mese, (.) sequenza di pagine (.) [cosa c'è] qua in [più un po']?
+BO087	mese, (.) sequenza di pagine (.) [cosa c'è] qua in [più un po']?
 BO089	[mh mh],
 BO089	[manca]::::: il numero.
 BO089	della::: (.) della rivista.
 BO089	però,
-BO087	m::h forse non=eh (.) non c'è.
+BO089	m::h forse non=eh (.) non c'è.
 BO087	cioè nel (.) nel febbra:io, giugno dell'ottantase:i,
 BO087	e:::h (.) c'è,
-BO089	e nel febbraio giugno dell'ottantase:i,
-BO087	forse è lo [stigma è lo] stesso numero.
+BO087	e nel febbraio giugno dell'ottantase:i,
+BO089	forse è lo [stigma è lo] stesso numero.
 BO087	[non c'è:]?
-BO089	[a::h=e]cco.
+BO087	[a::h=e]cco.
 BO089	((ride))
-BO087	ecco.
-BO089	sicuramente c'è,
-BO087	mh mh,
-BO089	che cos'è sto numero? cioè (.) la numerazione dei periodici (.) lei è stata a lezione?
-BO087	no.
+BO089	ecco.
+BO087	sicuramente c'è,
+BO089	mh mh,
+BO087	che cos'è sto numero? cioè (.) la numerazione dei periodici (.) lei è stata a lezione?
+BO089	no.
 BO087	allora non gliela facio (.) perché non la xxx
 BO087	allora,
 BO087	va bene (.) attenta,
 BO087	è fatta bene, e sono contento (.) attenta a queste
-BO089	pre[cisazioni eh], (.) perché la bilbiografia è=m::h molto pre~ (.) molto attenta.
-BO087	[sì le=m::h],
+BO087	pre[cisazioni eh], (.) perché la bilbiografia è=m::h molto pre~ (.) molto attenta.
+BO089	[sì le=m::h],
 BO087	quando si cita un periodico, (.) noi dobbiamo sapere.
-BO089	qual è l'anno, (.) solare in cui il periodico è uscito (.) novantase~ (.) [ottantas]ei.
-BO087	[ah okay].
+BO087	qual è l'anno, (.) solare in cui il periodico è uscito (.) novantase~ (.) [ottantas]ei.
+BO089	[ah okay].
 BO087	qual è l'anna:ta,
-BO089	[il periodo di do]dici mesi,
-BO087	[in numero roma:no],
+BO087	[il periodo di do]dici mesi,
+BO089	[in numero roma:no],
 BO087	in cui tutti, i fascicoli >di quel periodico usciti< si raccolgono idealmente in un unico volume fisico.
 BO087	questo si chiama annata, che non coincide con l'anno,
 BO087	può essere diversa,
 BO087	TRE:,
-BO089	il numero di fascicolo.
-BO087	okay.
+BO087	il numero di fascicolo.
+BO089	okay.
 BO087	mh,
 BO087	quella lì, (.) probabilmente (.) sedici dic~ (.) diciassette,
 BO087	secondo me, (.) >visto che la rivista<,
-BO089	mi sembra (.) bimestra:le,
-BO087	mh [mh],
+BO087	mi sembra (.) bimestra:le,
+BO089	mh [mh],
 BO087	[no]n dovrebbe, essere il numero di fascicolo.
 BO087	no, (.) non bimestrale (.) febbra:io che cos'è (.) febbra:io,
 BO087	febbra:io giugno (.) quadrimestrale.
-BO089	>quindi dovrebbero uscire<, (.) tre fascioli l'anno?
-BO087	mh mh,
+BO087	>quindi dovrebbero uscire<, (.) tre fascioli l'anno?
+BO089	mh mh,
 BO087	°quindi°, (.) questo sarà il fascicolo,
-BO089	uno, (.) due, (.) o [tre].
-BO087	[tre].
+BO087	uno, (.) due, (.) o [tre].
+BO089	[tre].
 BO087	tra l'altro inizia=in febbraio,
 BO087	>quindi vuol dire che c'è<,
 BO087	febbra:io,
@@ -377,24 +377,24 @@ BO087	ma:rzo,
 BO087	apri:le maggio,
 BO087	giugno.
 BO087	mah particolare, come periodicità sta rivista.
-BO089	dunque la cosa importante, è che lei deve sapere di una rivista, (.) l'anno,
-BO087	[mh mh],
+BO087	dunque la cosa importante, è che lei deve sapere di una rivista, (.) l'anno,
+BO089	[mh mh],
 BO087	[lei lo] sa,
 BO087	l'annata,
-BO089	che non è detto sia l'anno (.) e >secondo< me l'annata in quel caso è <sedici diciassette> (.) cioè, (.) sedicesima diciassettesima [annata].
+BO087	che non è detto sia l'anno (.) e >secondo< me l'annata in quel caso è <sedici diciassette> (.) cioè, (.) sedicesima diciassettesima [annata].
 BO089	[però] non dovrebbe essere riportata in numeri romani?
-BO087	l'[annata]?
-BO089	[s~ (.) mh], (.) beh insomma uno, (.) in teoria sì, (.) però,
+BO089	l'[annata]?
+BO087	[s~ (.) mh], (.) beh insomma uno, (.) in teoria sì, (.) però,
 BO089	e:h,
-BO087	perché [comunque ce c'è un'altra rivista] che riporta l'annat[a (.) cioè (.) il numero romano].
+BO089	perché [comunque ce c'è un'altra rivista] che riporta l'annat[a (.) cioè (.) il numero romano].
 BO087	[se la rivista lo ricorda].
-BO089	[eh lo so, ma se la rivista che lei ha] (.) che lei non ha avuto in mano,
-BO087	no.
+BO087	[eh lo so, ma se la rivista che lei ha] (.) che lei non ha avuto in mano,
+BO089	no.
 BO087	lo riporta in numeri arabi, (.) e (.) la sua bibliografia lo riporta in numeri arabi,
-BO089	no un bibliografo molto scafa:to, va a controllare e lo trasforma (.) [non mi] aspetto questo.
-BO087	[mh mh],
-BO089	>quello che mi aspetto da lei invece è< che lei abbia la (.) la chia:ra percezione che per citare una rivista ci vuole un anno.
-BO087	mh [mh],
+BO087	no un bibliografo molto scafa:to, va a controllare e lo trasforma (.) [non mi] aspetto questo.
+BO089	[mh mh],
+BO087	>quello che mi aspetto da lei invece è< che lei abbia la (.) la chia:ra percezione che per citare una rivista ci vuole un anno.
+BO089	mh [mh],
 BO087	[ci] vuole un'annata,
 BO087	<eventualmente> ci vuole un fascicolo
 BO087	ed eventualissimamente,
@@ -403,41 +403,41 @@ BO087	qualora una rivista,
 BO087	sia,
 BO087	e::h=m::h talmente vecchia,
 BO087	da aver a un certo punto azzera:to la sua numerazione, e ripartita da una nuova serie un po' come le:,
-BO089	le serie televis[ive].
-BO087	[mh mh],
+BO087	le serie televis[ive].
+BO089	[mh mh],
 BO087	prima serie, seconda serie terza serie (.) okay?
 BO087	però questo lei lo deve,
-BO089	focal[izzare] (.) a lezione l'avre~ (.) l'ho spiegato abbastanza bene ma, (.) si vede capisco che lei non
-BO087	[sì].
-BO089	perché una delle cose più difficili.
+BO087	focal[izzare] (.) a lezione l'avre~ (.) l'ho spiegato abbastanza bene ma, (.) si vede capisco che lei non
+BO089	[sì].
+BO087	perché una delle cose più difficili.
 BO089	((ride))
-BO087	m:::h,
-BO089	della (.) m:h bibliografi[a (.) reperto]riale e periodica.
-BO087	[mh mh mh],
-BO089	mh?
+BO089	m:::h,
+BO087	della (.) m:h bibliografi[a (.) reperto]riale e periodica.
+BO089	[mh mh mh],
+BO087	mh?
 BO089	okay.
-BO087	stavo ricercando:: guo moruo. ((ride))
-BO089	sì sicuramente loro faranno una gran confusione, eh non ho: (.) non ho dubbi.
+BO089	stavo ricercando:: guo moruo. ((ride))
+BO087	sì sicuramente loro faranno una gran confusione, eh non ho: (.) non ho dubbi.
 BO089	no non ritrovo quell'altro.
-BO087	vabbè.
-BO089	anche perché (.) le bibliografie specialistiche (.) spesso sono compilati d[a specialis]ti senza la consulenza dei bibliografi
-BO087	[mh mh],
-BO089	e quindi::,
-BO087	quindi magari, ((ride)) un po',
-BO089	hanno una loro dimensione un po' fantasiosa talvolta.
+BO089	vabbè.
+BO087	anche perché (.) le bibliografie specialistiche (.) spesso sono compilati d[a specialis]ti senza la consulenza dei bibliografi
+BO089	[mh mh],
+BO087	e quindi::,
+BO089	quindi magari, ((ride)) un po',
+BO087	hanno una loro dimensione un po' fantasiosa talvolta.
 BO089	((ride))
-BO087	((ride))
+BO089	((ride))
 BO087	allora,
 BO087	senta rossi, (.) poi lei mi porta il manuale.
-BO089	[che manu]ale ha scelto?
+BO087	[che manu]ale ha scelto?
 BO089	[sì].
 BO089	lezioni di bibliografia, il manuale, (.) poi e::h=m:::h ho pre~ (.) ho fatto::=m:h il,
-BO087	l'università spiegata agli studenti [universi]tari di [marco],
+BO089	l'università spiegata agli studenti [universi]tari di [marco],
 BO087	[mh mh],
-BO089	[la bibliote]ca spiegata agli studenti universitari.
-BO087	[eh=mh la biblioteca]: (.) di marco guerr[ini].
+BO087	[la bibliote]ca spiegata agli studenti universitari.
+BO089	[eh=mh la biblioteca]: (.) di marco guerr[ini].
 BO087	[mh],
-BO089	va bene allora due domande, (.) uno da:: (.) dal manuale il manuale, mi dice per favore che cos'è una bibliografia <nazionale>?
+BO087	va bene allora due domande, (.) uno da:: (.) dal manuale il manuale, mi dice per favore che cos'è una bibliografia <nazionale>?
 BO089	mh mh,
 BO089	e::h=m:h è una tipologia di: (.) bilbiografia,
 BO089	e::h=m:::h=e::h=m::::h,
@@ -450,177 +450,177 @@ BO089	delle pubblicazioni relative,
 BO089	ad (.) ogni paese e ogni lingua,
 BO089	e:h (.) e vi possono essere, anche delle bibliografie nazio~ (.) eh=mh locali,
 BO089	eh che invece si riferiscono ad un determinato: (.) alle pubblicazioni di un determinato ambito territoriale,
-BO087	e:::h=mh (.) e di una determinata: lingua.
-BO089	saprebbe farmi un esempio di bibliografia nazionale internazionale e locale?
+BO089	e:::h=mh (.) e di una determinata: lingua.
+BO087	saprebbe farmi un esempio di bibliografia nazionale internazionale e locale?
 BO089	e::h=m:::::h,
 BO089	de dal manuale?
-BO087	[sì].
 BO089	[sì].
-BO087	e::h (.) [bibliografia (.) nazionale, è la bibliografia na]zionale italia[na].
+BO087	[sì].
+BO089	e::h (.) [bibliografia (.) nazionale, è la bibliografia na]zionale italia[na].
 BO087	[o dal manuale, o dalla sua esperienza].
-BO089	[bra]va,
+BO087	[bra]va,
 BO089	e::h=m:::h (.) che è m::::h,
 BO089	ha avuto origine dal millenovecentocinquattotto, e che è andata a sostituire quello che era il bollettino (.) delle pubblicazioni italiane::=m:h ricevute per diritto di stampa,
-BO087	che [ha],
-BO089	[cos'è il d]iritto di stampa?
+BO089	che [ha],
+BO087	[cos'è il d]iritto di stampa?
 BO089	e:::h diritto di stampa=m:::h,
 BO089	e:h=m:::h l'obb~ (.) m::h un obbligo: (.) e:::h=m:::h da parte dei:: (.) degli autori di (.) e:::h depositare nelle biblioteche,
-BO087	no?
-BO089	non degli autori,
+BO089	no?
+BO087	non degli autori,
 BO089	e::::h,
-BO087	dele::: delle c[ase],
-BO089	[come s]i chiama, (.) diritto di?
-BO087	stampa.
-BO089	>si chiamava, oggi non si chiama più così (.) si chiama legge di< (.) sul <deposito [legale>].
-BO087	[deposito lega:le].
-BO089	[però se ha] un diritto di stampa,
-BO087	quin[di da parte m:h de]lle case editrici del[=e::::h],
+BO089	dele::: delle c[ase],
+BO087	[come s]i chiama, (.) diritto di?
+BO089	stampa.
+BO087	>si chiamava, oggi non si chiama più così (.) si chiama legge di< (.) sul <deposito [legale>].
+BO089	[deposito lega:le].
+BO087	[però se ha] un diritto di stampa,
+BO089	quin[di da parte m:h de]lle case editrici del[=e::::h],
 BO087	[a chi competerà]?
-BO089	[sì] (.) in teoria (.) oggi (.) oggi nel deposito legale spetta alla casa editri[ce, (.) ma se è un diri]tto di stampa,
-BO087	[mh mh],
-BO089	in origine (.) a chi [xxx],
-BO087	[dai: (.) librai:] (.) dai:: ti~,
-BO089	perché i librai stampano libri (.) [cioè lei va alla feltrine]lli e vede lì gente che
+BO087	[sì] (.) in teoria (.) oggi (.) oggi nel deposito legale spetta alla casa editri[ce, (.) ma se è un diri]tto di stampa,
+BO089	[mh mh],
+BO087	in origine (.) a chi [xxx],
+BO089	[dai: (.) librai:] (.) dai:: ti~,
+BO087	perché i librai stampano libri (.) [cioè lei va alla feltrine]lli e vede lì gente che
 BO089	[stampa (.) e:::h],
-BO087	((ride))
-BO089	col to:rchio stampa.
-BO087	i tipogra[fi].
-BO089	[o:::h] (.) [questo questa parola questa [parola assolutamente] retro proprio la [fuggono gli autori gli editori],
-BO089	((ride)) [ritorniamo xxx] ((ride))
-BO087	[ah mia zia faceva la tipografa tra l'altro].
-BO089	PU::RE
-BO087	((ride)) sì.
-BO089	maledetta rossi (.) tipografo dove?
 BO089	((ride))
-BO087	a @nomeluogo.
-BO089	ah stupe:[nda, (.) c'è una tra]dizi[one eccezionale],
+BO087	col to:rchio stampa.
+BO089	i tipogra[fi].
+BO087	[o:::h] (.) [questo questa parola questa [parola assolutamente] retro proprio la [fuggono gli autori gli editori],
+BO089	((ride)) [ritorniamo xxx] ((ride))
+BO089	[ah mia zia faceva la tipografa tra l'altro].
+BO087	PU::RE
+BO089	((ride)) sì.
+BO087	maledetta rossi (.) tipografo dove?
+BO089	((ride))
+BO089	a @nomeluogo.
+BO087	ah stupe:[nda, (.) c'è una tra]dizi[one eccezionale],
 BO089	[mh mh],
-BO087	[sì perché io sono di là vicino].
-BO089	[nella bella (.) la calcografia] di @nomeluogo [è],
+BO089	[sì perché io sono di là vicino].
+BO087	[nella bella (.) la calcografia] di @nomeluogo [è],
 BO089	[non proprio a @nomeluogo però].
-BO087	[sì], sì, siamo:::,
-BO089	è una scuola del li~ (.) c'era la scuola del li[bro più importa]nte d'ita:lia,
+BO089	[sì], sì, siamo:::,
+BO087	è una scuola del li~ (.) c'era la scuola del li[bro più importa]nte d'ita:lia,
 BO089	[mh mh],
-BO087	sì.
-BO089	il suo zio faceva il tipogra[fo],
-BO087	[sì],
-BO089	e ad[esso non lo fa più].
-BO087	[mio zio e mia z~] (.) m::h è venuto a manca:re [lui, e la zia ha chiu]so insom[ma::],
+BO089	sì.
+BO087	il suo zio faceva il tipogra[fo],
+BO089	[sì],
+BO087	e ad[esso non lo fa più].
+BO089	[mio zio e mia z~] (.) m::h è venuto a manca:re [lui, e la zia ha chiu]so insom[ma::],
 BO087	[a:h (.) che peccato].
 BO087	[dispia]ce:re.
-BO089	ah=avevano proprio loro una loro tipogra[fia]?
-BO087	[sì m:]::h l'avevano sotto casa, una:: (.) tipografia:::=andavan::=insomm[a::::],
-BO089	[e] a chi l'hanno venduta?
-BO087	no (.) mh c'hanno fatto un'altra casa adesso ((ride)) [hanno chiuso proprio:::],
-BO089	[e i materia:li °xx°] (.) no (.) ma i materiali::::: di tipografia, dove sono finiti?
-BO087	°non:: non ne ho idea°
-BO089	adesso lei si informa e mi s[scrive una mail per favore].
-BO087	[mi infor~ (.) va bene]. ((ride))
-BO089	[si informa dalla zia],
-BO087	((ride)) [va bene], (.) va bene.
-BO089	e dice che (.) il bianchi, [che è un'appassionato di tipo]grafia,
-BO087	[che comunque (.) è:],
-BO089	eh=mh (.) vuol sapere dove son finite le sue i suoi mate[ria:li].
-BO087	[va bene] (.) glielo chie[derò].
-BO089	[°perché°] (.) se sono in un magazz[i:no],
-BO087	[perché comunque] ero piccolina avevano: (.) [insomma era quasi alla fine (.) sì], sì,
+BO087	ah=avevano proprio loro una loro tipogra[fia]?
+BO089	[sì m:]::h l'avevano sotto casa, una:: (.) tipografia:::=andavan::=insomm[a::::],
+BO087	[e] a chi l'hanno venduta?
+BO089	no (.) mh c'hanno fatto un'altra casa adesso ((ride)) [hanno chiuso proprio:::],
+BO087	[e i materia:li °xx°] (.) no (.) ma i materiali::::: di tipografia, dove sono finiti?
+BO089	°non:: non ne ho idea°
+BO087	adesso lei si informa e mi s[scrive una mail per favore].
+BO089	[mi infor~ (.) va bene]. ((ride))
+BO087	[si informa dalla zia],
+BO089	((ride)) [va bene], (.) va bene.
+BO087	e dice che (.) il bianchi, [che è un'appassionato di tipo]grafia,
+BO089	[che comunque (.) è:],
+BO087	eh=mh (.) vuol sapere dove son finite le sue i suoi mate[ria:li].
+BO089	[va bene] (.) glielo chie[derò].
+BO087	[°perché°] (.) se sono in un magazz[i:no],
+BO089	[perché comunque] ero piccolina avevano: (.) [insomma era quasi alla fine (.) sì], sì,
 BO087	[mh (.) ah (.) si parla di::::],
-BO089	qurant'anni fa, [più o meno].
-BO087	[bo:h non] (.) anni settanta o ottanta, credo.
-BO089	lei si informi, [magari le dicono] che le hanno messe in una casa di campa[gna, e::]
+BO087	qurant'anni fa, [più o meno].
+BO089	[bo:h non] (.) anni settanta o ottanta, credo.
+BO087	lei si informi, [magari le dicono] che le hanno messe in una casa di campa[gna, e::]
 BO089	[va bene]
-BO087	[mh mh],
-BO089	e sono materiali impor[a:nti].
-BO087	[va be]ne all[ora glielo chiederò].
-BO089	[quindi il tipograf=in ori]gine era il [tipografo (.) povero tipografo] (.) che doveva,
-BO087	[tipografo (.) mh (.) sì] ((ride))
+BO089	[mh mh],
+BO087	e sono materiali impor[a:nti].
+BO089	[va be]ne all[ora glielo chiederò].
+BO087	[quindi il tipograf=in ori]gine era il [tipografo (.) povero tipografo] (.) che doveva,
+BO089	[tipografo (.) mh (.) sì] ((ride))
 BO087	stampa:to il libro, andare a guardarlo.
 BO087	anche perché,
-BO089	quando il >diritto< di stampa (.) nasce, lei non lo sa ma nasce intorno al (.) sedicesimo secolo in francia,
-BO087	mh [mh],
+BO087	quando il >diritto< di stampa (.) nasce, lei non lo sa ma nasce intorno al (.) sedicesimo secolo in francia,
+BO089	mh [mh],
 BO087	[mh],
-BO089	gli editori non c'erano ancora,
-BO087	sì [no, (.) certo].
-BO089	[xx più tipografi].
-BO087	c'erano i tipografi.
-BO089	eh=m:::h e oggi invece spetta all'editore e oggi si chiama deposito (.) lega[le].
-BO087	[le]gale.
-BO089	mh,
-BO087	quindi il [deposito di:],
-BO089	[esempio stamp]=eh=mh di tipografia:: (.) di:: (.) bibliografia internazionale?
-BO087	e::::h=m::::h,
-BO089	può anche prendere il manuale e sfogliarlo.
+BO087	gli editori non c'erano ancora,
+BO089	sì [no, (.) certo].
+BO087	[xx più tipografi].
+BO089	c'erano i tipografi.
+BO087	eh=m:::h e oggi invece spetta all'editore e oggi si chiama deposito (.) lega[le].
+BO089	[le]gale.
+BO087	mh,
+BO089	quindi il [deposito di:],
+BO087	[esempio stamp]=eh=mh di tipografia:: (.) di:: (.) bibliografia internazionale?
+BO089	e::::h=m::::h,
+BO087	può anche prendere il manuale e sfogliarlo.
 BO089	eh non ce l'ho dietro il manuale (.) e:h=mh (.) internazionale=mh,
 BO089	e:h=m::::::h,
-BO087	m:::h no, (.) parliamo di bilbiografia, non di catalogo quin[di],
-BO089	[mh] mh, (.) bra:va.
+BO089	m:::h no, (.) parliamo di bilbiografia, non di catalogo quin[di],
+BO087	[mh] mh, (.) bra:va.
 BO089	e::::h,
-BO087	un esempio proprio [devo fare]?
+BO089	un esempio proprio [devo fare]?
 BO087	[mh m:h],
-BO089	mi piacerebbe.
+BO087	mi piacerebbe.
 BO089	e:::::h,
 BO089	non so la stessa bibliografia:: delle opere:::=m::h italiane (.) tradotte::: in cinese.
 BO089	pubblicate in cina, quindi relative a:::: (.) a una lingua
 BO089	comunque sia straniera diversa dalla
-BO087	dalla lingua cinese.
-BO089	giusto, (.) purché siano stampate e pubblicate in tanti?
-BO087	e::h=m::::h,
-BO089	paesi div[ersi].
-BO087	[sì].
+BO089	dalla lingua cinese.
+BO087	giusto, (.) purché siano stampate e pubblicate in tanti?
+BO089	e::h=m::::h,
+BO087	paesi div[ersi].
+BO089	[sì].
 BO087	cina::::=m::h
-BO089	dov'è che si (.) dov'è che si stampa cinese?
-BO087	((ride))
+BO087	dov'è che si (.) dov'è che si stampa cinese?
+BO089	((ride))
 BO087	oltre che in cina.
-BO089	shanghai.
-BO087	mh[mh],
-BO089	[che non è] in cina.
-BO087	sì, (.) sì sì.
-BO089	ma shanghai non è autonoma? (.) no è stata riassorbita.
-BO087	era tai[wa:n, forse].
-BO089	[era autonoma] (.) ah tai[wan],
-BO087	[taiwan],
-BO089	[taiwan è ancora autonoma]
+BO087	shanghai.
+BO089	mh[mh],
+BO087	[che non è] in cina.
+BO089	sì, (.) sì sì.
+BO087	ma shanghai non è autonoma? (.) no è stata riassorbita.
+BO089	era tai[wa:n, forse].
+BO087	[era autonoma] (.) ah tai[wan],
+BO089	[taiwan],
+BO087	[taiwan è ancora autonoma]
 BO089	[l'isola: (.) di formosa].
-BO087	credo di no.
-BO089	anche [lei è stata assorbita alla cina].
+BO089	credo di no.
+BO087	anche [lei è stata assorbita alla cina].
 BO089	[è ritornata (.) sì].
-BO087	sì sì,
-BO089	beh forse magari, non so in india, si stampa pure cinese
-BO087	sì,
-BO089	una def~,
-BO087	giappone, (.) for[se, (.) anche],
-BO089	[giappo:ne] (.) m::::h, (.) giappone
-BO087	no.
-BO089	non lo so.
-BO087	co[rea del nord], ((ride))
+BO089	sì sì,
+BO087	beh forse magari, non so in india, si stampa pure cinese
+BO089	sì,
+BO087	una def~,
+BO089	giappone, (.) for[se, (.) anche],
+BO087	[giappo:ne] (.) m::::h, (.) giappone
+BO089	no.
+BO087	non lo so.
+BO089	co[rea del nord], ((ride))
 BO087	[esempio di bibliogra~] (.) corea del nord (.) esempio di bibliografia:::,
 BO087	invece loca:le?
-BO089	que[sto è più difficile].
+BO087	que[sto è più difficile].
 BO089	[e:::h loc]ale::: ad esempio le bibliografie che:::: abbiamo nel=e:h=m::h,
 BO089	eh (.) diciassettesimo secolo:: (.) tipo relative (.) all'area: (.) romana,
-BO087	di:: (.) e:h=allacci[a, xur]bana e drammatur[gia],
+BO089	di:: (.) e:h=allacci[a, xur]bana e drammatur[gia],
 BO087	[brava],
 BO087	bra:va],
-BO089	br[ava].
-BO087	[e: di t]opi:::=m:::h=vece=[m:::h, nie~],
-BO089	[to]ppi,
-BO087	toppi, (.) [a::h],
-BO089	[nico]lò [toppi],
-BO087	[ho per una p]i per strada,
-BO089	sì:,
-BO087	e:h=m::h (.) e la::: bibioteca:::: napoletana.
+BO087	br[ava].
+BO089	[e: di t]opi:::=m:::h=vece=[m:::h, nie~],
+BO087	[to]ppi,
+BO089	toppi, (.) [a::h],
+BO087	[nico]lò [toppi],
+BO089	[ho per una p]i per strada,
+BO087	sì:,
+BO089	e:h=m::h (.) e la::: bibioteca:::: napoletana.
 BO087	brava,
-BO089	molto brava.
-BO087	quindi:::,
+BO087	molto brava.
+BO089	quindi:::,
 BO087	eh (.) ultima domanda,
-BO089	guerrini, (.) l:: (.) spiega agli studenti universita:ri la bibliote[ca].
-BO087	[sì],
+BO087	guerrini, (.) l:: (.) spiega agli studenti universita:ri la bibliote[ca].
+BO089	[sì],
 BO087	e spiega la differenza tra,
 BO087	e::::h (.) il catalogo tradizion:ale e l'opac.
-BO089	[cos'è l'o]pac, (.) quali sono i suoi:,
-BO087	[mh mh],
+BO087	[cos'è l'o]pac, (.) quali sono i suoi:,
+BO089	[mh mh],
 BO087	orrizzonti i suoi vantaggi e anche i suoi limiti.
-BO089	okay
+BO087	okay
 BO089	sì (.) eh=m::h allora=mh (.) l'opac praticamente è un (.) letteralmente significa on line public acces catagolg,
 BO089	e::h ed è un servizio, (.) che viene offir~ (.) offerto dalle: (.) dalle biblioteche, per poter ricercare documenti attraverso la compilazione di vari:: (.) di vari filtri,
 BO089	e::::h che permettono quindi (.) possno permettere m:::h,
@@ -629,105 +629,105 @@ BO089	che rien~ (.) serie di ricerche che rientrano
 BO089	e::h nel=e::h,
 BO089	e:::h=m::h (.) non mi ritorna il nome in inglese.
 BO089	e::: m:::h,
-BO087	e: (.) [m::::h],
-BO089	[che cos]a [xxx]
+BO089	e: (.) [m::::h],
+BO087	[che cos]a [xxx]
 BO089	[le] le varie metodologia di ricerca, per, (.) paro:le, scorrimento di liste alfabetiche,
 BO089	e:h=m:::h,
-BO087	inrformation retrivial,
-BO089	vari sistemi, [di information retrivial], eh
+BO089	inrformation retrivial,
+BO087	vari sistemi, [di information retrivial], eh
 BO089	[vai sistemi, di mh sì].
 BO089	e:::h=m:::h,
 BO089	e:::h=m:::h (.) eh eh=m:::::h,
 BO089	la cara~ m::h (.) è formato insomma da tutte quelle che sono le (.) registrazioni (.) eh=m:::h bibliografiche dei vari eh=mh (.) dei vari documeÌnti,
 BO089	e:::h quindi i vari records,
 BO089	e:h che sono: (.) e::h caratterizzati da vari campi, vari fields.
-BO087	quindi autore, (.) titolo dell'opera::=m:h (.) anno di [pubblicazione, soggetto eccetera],
-BO089	[soggetto:, (.) editore], (.) luogo [di pubblicazione],
+BO089	quindi autore, (.) titolo dell'opera::=m:h (.) anno di [pubblicazione, soggetto eccetera],
+BO087	[soggetto:, (.) editore], (.) luogo [di pubblicazione],
 BO089	[luogo di pubblicaz]ione, (.) e eh che m::h=nsomma l'insieme di questi records, danno vita alla banca dati.
-BO087	e:::h=m::::h,
-BO089	rispetto al catalogo tradizionale, che era quello più un catalogo a schede mo[bili, (.) lascian]do perdere i cataloghi a volume che pure esistevano,
-BO087	[sì:::],
-BO089	e:h=m:h (.) qual è il vantaggio dell'opac?
-BO087	e::h permette di eh=[m::h],
-BO089	[lei ha mai us]ato un catalogo a schede mobili?
+BO089	e:::h=m::::h,
+BO087	rispetto al catalogo tradizionale, che era quello più un catalogo a schede mo[bili, (.) lascian]do perdere i cataloghi a volume che pure esistevano,
+BO089	[sì:::],
+BO087	e:h=m:h (.) qual è il vantaggio dell'opac?
+BO089	e::h permette di eh=[m::h],
+BO087	[lei ha mai us]ato un catalogo a schede mobili?
 BO089	e::::h (.) °no°.
-BO087	°no°.
-BO089	°male.°
+BO089	°no°.
+BO087	°male.°
 BO089	((ride)) va bene.
-BO087	potrei inizia[re] ((ride))
-BO089	[male per due motivi] (.) primo, perché così capisce la differenza tra opac e catalogo tradizio[nale],
-BO087	[mh mh],
+BO089	potrei inizia[re] ((ride))
+BO087	[male per due motivi] (.) primo, perché così capisce la differenza tra opac e catalogo tradizio[nale],
+BO089	[mh mh],
 BO087	secondo, questo è un po' più:: (.) finalizzato a superare l'esame di bibliografia quindi ha=m:h (.) un valore meno (.) meno importante.
-BO089	invece è molto importante perché, (.) e::h soltanto una minima parte, delle notizie bilbiografiche sono oggi consultabili attraverso l'opac no[nostante],
-BO087	[mh (.) cer]to.
+BO087	invece è molto importante perché, (.) e::h soltanto una minima parte, delle notizie bilbiografiche sono oggi consultabili attraverso l'opac no[nostante],
+BO089	[mh (.) cer]to.
 BO087	gli opac cumulano,
 BO087	normalmente più cataloghi, alle volte centinaia di cataloghi, dando vita a milioni di record bibliografici, materializzati in decine di milioni (.) di esemplari,
-BO089	in realtà, (.) non documentano tutto il patrimoni[o:: libra]rio::, delle (.) biblioteche (.) anche solo, (.) italiane.
-BO087	[mh mh],
-BO089	quindi, (.) una buona ricerca, può essere (.) deve essere fatta [oggi anche],
+BO087	in realtà, (.) non documentano tutto il patrimoni[o:: libra]rio::, delle (.) biblioteche (.) anche solo, (.) italiane.
+BO089	[mh mh],
+BO087	quindi, (.) una buona ricerca, può essere (.) deve essere fatta [oggi anche],
 BO089	[non l'ho m~],
 BO089	[sì], (.) certo (.) non l'ho mai fatto forse perché nel mio (.) m:h ambito, (.) di studio insomma non (.) non ho mai avuto bisogno di andare a ricercare (.) e::h=m:h,
 BO089	pubblicazioni,
-BO087	dat~ (.) insomma, (.) tanto datate.
-BO089	beh (.) au[tori dell]'ottocento, (.) che sono stati tradotti in italia, autori cinesi.
-BO087	[la ma~],
-BO089	dell'ottocento, (.) che sono stati tradotti in italia, (.) non ce ne sono?
+BO089	dat~ (.) insomma, (.) tanto datate.
+BO087	beh (.) au[tori dell]'ottocento, (.) che sono stati tradotti in italia, autori cinesi.
+BO089	[la ma~],
+BO087	dell'ottocento, (.) che sono stati tradotti in italia, (.) non ce ne sono?
 BO089	ma:=n::=le:=n::,
-BO087	sì, (.) sì ci sono,
-BO089	eh quelli [lei non li trova mica],
-BO087	[però non:::] (.) non risal~, (.) cioè,
-BO089	non li trova nelle nelle banche da[ti eh], lei li trova nei cataloghi: a s[chede].
+BO089	sì, (.) sì ci sono,
+BO087	eh quelli [lei non li trova mica],
+BO089	[però non:::] (.) non risal~, (.) cioè,
+BO087	non li trova nelle nelle banche da[ti eh], lei li trova nei cataloghi: a s[chede].
 BO089	[m:h],
 BO089	[direttame]nte lì.
-BO087	okay.
+BO089	okay.
 BO087	sì.
-BO089	o [più o meno].
-BO087	[quindi],
+BO087	o [più o meno].
+BO089	[quindi],
 BO087	già (.) credo che (.) voi la letteratura,
 BO087	cioè i testi: (.) che hanno a che fare con altre lingue,
-BO089	non sono mica tanto trattati, an[che ne]gli opac [eh],
+BO087	non sono mica tanto trattati, an[che ne]gli opac [eh],
 BO089	[mh],
 BO089	[sì] infatti non è che ho trovato molto.
-BO087	[cioè],
-BO089	[è un] grande limite [questo del]=e:h (.) dell'o[pac, p]roprio perché,
+BO089	[cioè],
+BO087	[è un] grande limite [questo del]=e:h (.) dell'o[pac, p]roprio perché,
 BO089	[mh mh mh],
 BO089	[sì],
-BO087	c'erano:: (.) c'era una bibliografia su in generali studi (.) eh orientali ma, (.) m:h vecchissima. ((ride))
-BO089	sì sì sì [no bisogna andare ancora xx volumi cartacei (.) pe]r cercare bibliografie, e per cercare testi.
+BO089	c'erano:: (.) c'era una bibliografia su in generali studi (.) eh orientali ma, (.) m:h vecchissima. ((ride))
+BO087	sì sì sì [no bisogna andare ancora xx volumi cartacei (.) pe]r cercare bibliografie, e per cercare testi.
 BO089	[c'era mh veramente (.) mh pochissima roba].
-BO087	mh mh,
-BO089	va bene rossi io sono contento e le do trenta.
-BO087	grazie.
-BO089	non le do la lode per la questione del=e:h,
+BO089	mh mh,
+BO087	va bene rossi io sono contento e le do trenta.
+BO089	grazie.
+BO087	non le do la lode per la questione del=e:h,
 BO089	dei cataloghi.
-BO087	((ride))
+BO089	((ride))
 BO087	no,
 BO087	no,
-BO089	no, per la questione <della> numerazione dei perio[dici >per]ché lei< non la sapeva, se io gliela chiedevo [lei non la sapeva].
+BO087	no, per la questione <della> numerazione dei perio[dici >per]ché lei< non la sapeva, se io gliela chiedevo [lei non la sapeva].
 BO089	[mh],
-BO087	[sì, sì],
-BO089	anche per la sua onestà insomma quindi,
-BO087	ah no ma::,
-BO089	[e],
-BO087	[ne sono] consapevole. ((ride))
+BO089	[sì, sì],
+BO087	anche per la sua onestà insomma quindi,
+BO089	ah no ma::,
+BO087	[e],
+BO089	[ne sono] consapevole. ((ride))
 BO087	perché no mi ha fatto l'intervento delle (.) delle bilbiografie loca:li,
 BO087	passando,
-BO089	diciamo dalla prospettiva della storia della bibliografia,
-BO087	mh mh,
+BO087	diciamo dalla prospettiva della storia della bibliografia,
+BO089	mh mh,
 BO087	che mi è piaicuto molto (.) quindi la volevo dare, (.) ma poi,
 BO087	ho pensato e ho detto,
-BO089	se l'è [giocata lì].
+BO087	se l'è [giocata lì].
 BO089	[no ma va bene] almeno:: (.) almeno l'imparo.
-BO087	che mi servirà.
-BO089	allora le chiedo, (.) la sua password, senza di[gitare] invio però eh,
-BO087	[sì::],
-BO089	aspetti che qui che qua ecco eh,
-BO087	vado?
+BO089	che mi servirà.
+BO087	allora le chiedo, (.) la sua password, senza di[gitare] invio però eh,
+BO089	[sì::],
+BO087	aspetti che qui che qua ecco eh,
+BO089	vado?
 BO087	sì.
-BO089	perfett[o].
-BO087	[a]ndata.
+BO087	perfett[o].
+BO089	[a]ndata.
 BO087	sì.
-BO089	[andata].
+BO087	[andata].
 BO089	[okay].
-BO087	arrive[derci, (.) grazie].
+BO089	arrive[derci, (.) grazie].
 BO087	[grazie, (.) arrive]derci.

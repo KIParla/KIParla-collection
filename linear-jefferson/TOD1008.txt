@@ -699,17 +699,17 @@ TO062	l'obiettivo della vostra formazione
 TO062	l'obiettivo della formazione non è saper dire quando è nato petrarca
 TO062	quando è nato petrarca?
 TO062	più o meno?
-???	dica
-TO062	io?
-???	sì
-TO062	fine duecento inizio trecento?
+TO062	dica
+???	io?
+TO062	sì
+???	fine duecento inizio trecento?
 TO062	eh
 TO062	allora, pet~ dante quando è nato?
 TO062	dante è più facile,
 TO062	perché nel trecento ave~ milletrecento zero zero
-???	aveva
+TO062	aveva
 ???	xxxx
-TO062	sessantacinque
+???	sessantacinque
 TO062	sessantacinque perché ha trentacinque anni
 TO062	vi ricordate?
 TO062	e::h petrarca
@@ -1134,8 +1134,8 @@ TO062	e::h la lettera bi
 TO062	all'orale
 TO062	e decidiamo poi un'integrazione, lo decido durante il corso.
 TO062	>quindi vedete< che l'orale
-???	eh dica
-TO062	chi non fa questo tipo di xx
+TO062	eh dica
+???	chi non fa questo tipo di xx
 TO062	no
 TO062	chi fa lo scritto
 TO062	chi fa lo scritto
@@ -1225,45 +1225,45 @@ TO062	eh e poi lì avete quasi finito.
 TO062	altre domande
 TO062	chi non è del terzo anno di lettere
 TO062	>alzate la mano<
-???	e::h siete di che cosa?
-TO062	lettere secondo a[nno]
-???	[ah] secondo anno,
-TO062	io filosofia
-???	filosofi:a
+TO062	e::h siete di che cosa?
+???	lettere secondo a[nno]
+TO062	[ah] secondo anno,
+???	io filosofia
+TO062	filosofi:a
 ???	lettere
-TO062	lette[re]
-???	[ma] secondo ann[o].
-TO062	[s]econdo anno
+???	lette[re]
+TO062	[ma] secondo ann[o].
+???	[s]econdo anno
 TO062	vabbè, secondo anno:: va bene.
 TO062	avete già dato:::
-???	un esame di base?
-TO062	sì
-???	e::h storia della lingua italiana?
-TO062	io ho dato linguistica
-???	linguistica però sta frequentando adesso
-TO062	anch'io uguale
-???	stesse co~ stessa cosa
-TO062	e::h io:: non ho ancora:: nessun esame:: di lettere
-???	perché lei è di fil[os~ (.) ah] scusi scusi no no
-TO062	[filosofia]
+TO062	un esame di base?
+???	sì
+TO062	e::h storia della lingua italiana?
+???	io ho dato linguistica
+TO062	linguistica però sta frequentando adesso
+???	anch'io uguale
+TO062	stesse co~ stessa cosa
+???	e::h io:: non ho ancora:: nessun esame:: di lettere
+TO062	perché lei è di fil[os~ (.) ah] scusi scusi no no
+???	[filosofia]
 TO062	ma s~ chiedevo a quelli del secondo a:nno
-???	e:::h filologia?
+TO062	e:::h filologia?
 ???	xx lo frequenterò: quest'anno
-TO062	quest'anno
+???	quest'anno
 TO062	>va bene<
-???	gli altri quelli del terzo anno hanno fatto tutti più o meno filologia?
-TO062	xx
+TO062	gli altri quelli del terzo anno hanno fatto tutti più o meno filologia?
+???	xx
 TO062	un po' sì (.) va bene.
 TO062	e:::h più o me:no
 TO062	sì
 TO062	e::::hm:::
-???	stilistica metrica chi l'ha dato?
-TO062	è inizia:to: è iniz~
-???	a::h ah va bene lo farete quest'anno pe[rò]
-TO062	[sì]
+TO062	stilistica metrica chi l'ha dato?
+???	è inizia:to: è iniz~
+TO062	a::h ah va bene lo farete quest'anno pe[rò]
+???	[sì]
 TO062	va bene.
-???	allora chi (.) sì?
-TO062	se:: non si ha intenzione di frequentare stilistica metrica e:
+TO062	allora chi (.) sì?
+???	se:: non si ha intenzione di frequentare stilistica metrica e:
 TO062	non importa non importa è:: un::
 TO062	è un di più e:h che: rende più: sicuri,
 TO062	per cu:i
@@ -1277,8 +1277,8 @@ TO062	che:: non posso dare per: per conosciute.
 TO062	dunque no chi non era del terzo anno
 TO062	né del secondo anno di lettere? filosofia,
 TO062	e altri?
-???	sì?
-TO062	io faccio l'erasmus
+TO062	sì?
+???	io faccio l'erasmus
 TO062	e ah e: vie~ eh sì ci siamo già:: viste
 TO062	va bene.
 TO062	altri?
@@ -1304,8 +1304,8 @@ TO062	la mattina cerco sempre di essere qui alle otto e un quarto:
 TO062	in caso:: vedeste che nevica
 TO062	e:::h e io ritardo un po':
 TO062	aspettatemi, abbiate fede devo solo portare mio figlio a scuola e::
-???	>°visto che nevica diventa tutto più complicato dica°<
-TO062	e::h quindi lo scritto si terrebbe l'ultima settimana di (lezione)
+TO062	>°visto che nevica diventa tutto più complicato dica°<
+???	e::h quindi lo scritto si terrebbe l'ultima settimana di (lezione)
 TO062	sì, esatto
 TO062	e:::h
 TO062	vi dico anche::: se volete quando più o meno
@@ -1327,17 +1327,17 @@ TO062	vi faccio fare lezione
 TO062	da: rossella bianchi che è la curatrice
 TO062	di questo::: libro una le >faccio fare una lezione< generale su petrarca
 TO062	e::h lei è bravissima vedrete che::
-???	mi:: chiederete ma perché non può far lezione lei invece che ((ride))
-TO062	((ridono))
+TO062	mi:: chiederete ma perché non può far lezione lei invece che ((ride))
+???	((ridono))
 TO062	e:::
 TO062	e quindi:: potrebbe essere:: una::
 TO062	una soluzione per non perdere
 TO062	>in maniera da finire< il corso prima di natale perché se no cominciamo già a perdere una lezione
 TO062	e finirlo dopo natale è un po'difficile
-???	dic~
-TO062	non sono comunque solo cinque le settimane prima di natale?
-???	come?
-TO062	l'ultima la s~ sesta settimana di lezione >cioè< non è xxx
+TO062	dic~
+???	non sono comunque solo cinque le settimane prima di natale?
+TO062	come?
+???	l'ultima la s~ sesta settimana di lezione >cioè< non è xxx
 TO062	ah:: ecco infatti è per quello che:::
 TO062	stavo cercando di ricostruirle, sono s~ uno,
 TO062	du:e, ho s~ ho contato male
@@ -1572,8 +1572,8 @@ TO062	>allora chi ha già studiato questo documento sa che<
 TO062	come veniva disposto il sonetto?
 TO062	quanti versi ha per noi il sonetto?
 TO062	quattordici.
-???	quante righe ci sono qui?
-TO062	xx
+TO062	quante righe ci sono qui?
+???	xx
 TO062	sette.
 TO062	perché i versi erano scritti a due a due
 TO062	erano scritti appaiati
@@ -1863,16 +1863,16 @@ TO062	che (.) e:h petrarca poteva avere davanti agli occhi
 TO062	la vita no:va
 TO062	che non è propriamente un canzoniere
 TO062	a che genere (.) lo ascriviamo la vita nova
-???	>come lo definiamo<
-TO062	miscellaneo?
+TO062	>come lo definiamo<
+???	miscellaneo?
 TO062	n::o
 TO062	>vi ricordate< ci sono
 TO062	i sonetti e le canzoni di dante ma ci sono anche le parti esplicative
 TO062	prosimetro, prosimetro, come
-???	>fatemi un altro esempio di prosimetro<
-TO062	xxxx
-???	°come?°
-TO062	quello che usa xx xxx
+TO062	>fatemi un altro esempio di prosimetro<
+???	xxxx
+TO062	°come?°
+???	quello che usa xx xxx
 TO062	e::h
 TO062	diciamo nella tradizione medieva:le: più vicina?
 TO062	viene in mente niente?
@@ -1889,8 +1889,8 @@ TO062	e qui l'ordinamento è chiaro
 TO062	perché lo di:ce dante
 TO062	in che senso sono ordinate vi ricordate?
 TO062	cosa dice all'inizio
-???	cosa racconta all'inizio >della vita nova<
-TO062	(in ordine cronologico?)
+TO062	cosa racconta all'inizio >della vita nova<
+???	(in ordine cronologico?)
 TO062	in ordine cronologico,
 TO062	in ordine strettamente cronologico
 TO062	nel senso che all'inizio racconta vi ricordate?

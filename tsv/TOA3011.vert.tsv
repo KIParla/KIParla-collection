@@ -66,7 +66,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 12-0	TO087	12	poi	poi	linguistic	_	Begin=15.845	_	_	_	_
 12-1	TO087	12	è	è	linguistic	_	_	_	_	_	_
 12-2	TO087	12	figa::	figa	linguistic	_	End=16.811	3x2	_	_	_
-13-0	TO085	13	sì,	sì	linguistic	Intonation=weakly_rising	Begin=16.811	_	_	_	_
+13-0	TO085	13	sì,	sì	linguistic	Intonation=WeaklyRising	Begin=16.811	_	_	_	_
 13-1	TO085	13	[costa	costa	linguistic	_	_	_	_	_	0-5(2)
 13-2	TO085	13	duecento	duecento	linguistic	_	_	_	_	_	0-8(2)
 13-3	TO085	13	euro	euro	linguistic	_	_	_	_	_	0-4(2)
@@ -486,13 +486,13 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 85-1	TO087	85	il	il	linguistic	_	_	_	_	_	_
 85-2	TO087	85	telefono	telefono	linguistic	_	_	_	_	_	_
 85-3	TO087	85	è	è	linguistic	_	_	_	_	_	_
-85-4	TO087	85	caduto,	caduto	linguistic	Intonation=weakly_rising	_	_	_	_	_
+85-4	TO087	85	caduto,	caduto	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 85-5	TO087	85	lui	lui	linguistic	_	_	_	_	_	_
 85-6	TO087	85	è	è	linguistic	_	_	_	_	_	_
 85-7	TO087	85	scappato	scappato	linguistic	_	_	_	_	_	_
 85-8	TO087	85	con	con	linguistic	_	_	_	_	_	_
 85-9	TO087	85	la	la	linguistic	_	_	_	_	_	_
-85-10	TO087	85	borsa,	borsa	linguistic	Intonation=weakly_rising	End=122.599	_	_	_	_
+85-10	TO087	85	borsa,	borsa	linguistic	Intonation=WeaklyRising	End=122.599	_	_	_	_
 86-0	TO087	86	e	e	linguistic	_	Begin=122.658	_	_	_	_
 86-1	TO087	86	aveva	aveva	linguistic	_	_	_	_	_	_
 86-2	TO087	86	dentro	dentro	linguistic	_	_	_	_	_	_
@@ -871,7 +871,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 147-6	TO088	147	dal	dal	linguistic	_	_	_	_	_	0-3(43)
 147-7	TO088	147	corpo]	corpo	linguistic	_	End=232.912	_	_	_	0-5(43)
 148-0	TO085	148	[die:tro	dietro	linguistic	_	Begin=230.643	2x1	_	_	0-6(43)
-148-1	TO085	148	luogo,	luogo	linguistic	Intonation=weakly_rising	_	_	_	_	0-5(43)
+148-1	TO085	148	luogo,	luogo	linguistic	Intonation=WeaklyRising	_	_	_	_	0-5(43)
 148-2	TO085	148	data	data	linguistic	_	_	_	_	_	0-4(43)
 148-3	TO085	148	di	di	linguistic	_	_	_	_	_	0-2(43)
 148-4	TO085	148	nascita	nascita	linguistic	_	_	_	_	_	0-7(43)
@@ -1733,7 +1733,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 296-5	TO087	296	nel	nel	linguistic	_	_	_	_	_	_
 296-6	TO087	296	senso	senso	linguistic	_	End=473.598	_	_	_	_
 297-0	TO085	297	grazie	grazie	linguistic	_	Begin=473.673|End=474.199	_	_	_	_
-298-0	TO087	298	°aspetta,	aspetta	linguistic	Intonation=weakly_rising|Volume=Low	Begin=474.363	_	_	_	_
+298-0	TO087	298	°aspetta,	aspetta	linguistic	Intonation=WeaklyRising|Volume=Low	Begin=474.363	_	_	_	_
 298-1	TO087	298	no	no	linguistic	Volume=Low	_	_	_	_	_
 298-2	TO087	298	non	non	linguistic	Volume=Low	_	_	_	_	_
 298-3	TO087	298	è	è	linguistic	Volume=Low	_	_	_	_	_
@@ -1857,7 +1857,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 320-1	TO085	320	però	però	linguistic	_	_	_	_	_	0-4(95)
 320-2	TO085	320	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	0-2(95)
 320-3	TO085	320	è]	è	linguistic	_	_	_	_	_	0-1(95)
-320-4	TO085	320	cittadino,	cittadino	linguistic	Intonation=weakly_rising	End=502.959	_	_	_	_
+320-4	TO085	320	cittadino,	cittadino	linguistic	Intonation=WeaklyRising	End=502.959	_	_	_	_
 321-0	TO087	321	sì	sì	linguistic	_	Begin=502.963	_	_	_	_
 321-1	TO087	321	sì	sì	linguistic	_	_	_	_	_	_
 321-2	TO087	321	[sì	sì	linguistic	_	_	_	_	_	0-2(96)

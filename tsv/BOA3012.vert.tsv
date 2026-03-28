@@ -142,7 +142,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 28-2	BO095	28	stampare:	stampare	linguistic	_	End=98.475	7x1	_	_	_
 29-0	BO095	29	da	da	linguistic	_	Begin=99.706	_	_	_	_
 29-1	BO095	29	master	master	linguistic	_	_	_	_	_	_
-29-2	BO095	29	copy,	copy	linguistic	Intonation=weakly_rising	_	_	_	_	_
+29-2	BO095	29	copy,	copy	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 29-3	BO095	29	che	che	linguistic	_	_	_	_	_	_
 29-4	BO095	29	è	è	linguistic	_	_	_	_	_	_
 29-5	BO095	29	la	la	linguistic	_	_	_	_	_	_
@@ -225,7 +225,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 40-5	BO097	40	in	in	linguistic	_	_	_	_	_	_
 40-6	BO097	40	pratica	pratica	linguistic	_	End=147.356	_	_	_	_
 41-0	BO095	41	mh	mh	linguistic	_	Begin=147.643	_	_	_	_
-41-1	BO095	41	mh,	mh	linguistic	Intonation=weakly_rising	End=148.206	_	_	_	_
+41-1	BO095	41	mh,	mh	linguistic	Intonation=WeaklyRising	End=148.206	_	_	_	_
 42-0	BO097	42	m::h	mh	linguistic	_	Begin=148.641|End=149.255	0x2	_	_	_
 43-0	BO097	43	nella	nella	linguistic	_	Begin=151.558	_	_	_	_
 43-1	BO097	43	copisteria	copisteria	linguistic	_	_	_	_	_	_
@@ -279,7 +279,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 51-2	BO097	51	il	il	linguistic	_	_	_	_	_	_
 51-3	BO097	51	titolo	titolo	linguistic	_	_	_	_	_	_
 51-4	BO097	51	del	del	linguistic	_	_	_	_	_	_
-51-5	BO097	51	libro,	libro	linguistic	Intonation=weakly_rising	End=173.7	_	_	_	_
+51-5	BO097	51	libro,	libro	linguistic	Intonation=WeaklyRising	End=173.7	_	_	_	_
 52-0	BO097	52	e	e	linguistic	_	Begin=175.659	_	_	_	_
 52-1	BO097	52	loro	loro	linguistic	_	_	_	_	_	_
 52-2	BO097	52	hanno	hanno	linguistic	_	_	_	_	_	_
@@ -287,7 +287,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 52-4	BO097	52	file	file	linguistic	_	End=177.625	_	_	_	_
 53-0	BO097	53	de~	de~	linguistic	Interrupted=Yes	Begin=178.875	_	_	_	_
 53-1	BO097	53	degli	degli	linguistic	_	_	_	_	_	_
-53-2	BO097	53	esami,	esami	linguistic	Intonation=weakly_rising	_	_	_	_	_
+53-2	BO097	53	esami,	esami	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 53-3	BO097	53	cioè	cioè	linguistic	_	_	_	_	_	_
 53-4	BO097	53	dei	dei	linguistic	_	_	_	_	_	_
 53-5	BO097	53	libri	libri	linguistic	_	_	_	_	_	_
@@ -306,7 +306,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 54-9	BO097	54	vuoi	vuoi	linguistic	_	End=184.418	_	_	_	_
 55-0	BO097	55	però	però	linguistic	_	Begin=185.518	_	_	_	_
 55-1	BO097	55	in	in	linguistic	_	_	_	_	_	_
-55-2	BO097	55	effetti,	effetti	linguistic	Intonation=weakly_rising	End=186.193	_	_	_	_
+55-2	BO097	55	effetti,	effetti	linguistic	Intonation=WeaklyRising	End=186.193	_	_	_	_
 56-0	BO097	56	è	è	linguistic	_	Begin=188.423	_	_	_	_
 56-1	BO097	56	un	un	linguistic	_	_	_	_	_	_
 56-2	BO097	56	sacco	sacco	linguistic	_	_	_	_	_	_
@@ -321,7 +321,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 58-4	BO095	58	vorrei:::	vorrei	linguistic	_	_	5x3	_	_	_
 58-5	BO095	58	dargli	dargli	linguistic	_	_	_	_	_	_
 58-6	BO095	58	la	la	linguistic	_	_	_	_	_	_
-58-7	BO095	58	chiavetta,	chiavetta	linguistic	Intonation=weakly_rising	End=198.838	_	_	_	_
+58-7	BO095	58	chiavetta,	chiavetta	linguistic	Intonation=WeaklyRising	End=198.838	_	_	_	_
 59-0	BO095	59	e	e	linguistic	_	Begin=199.103	_	_	_	_
 59-1	BO095	59	far	far	linguistic	_	_	_	_	_	_
 59-2	BO095	59	mettere	mettere	linguistic	_	_	_	_	_	_
@@ -494,7 +494,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 94-1	BO095	94	problema	problema	linguistic	_	_	_	_	_	_
 94-2	BO095	94	è	è	linguistic	_	_	_	_	_	_
 94-3	BO095	94	quando	quando	linguistic	_	_	_	_	_	_
-94-4	BO095	94	nevica,	nevica	linguistic	Intonation=weakly_rising	End=412.081	_	_	_	_
+94-4	BO095	94	nevica,	nevica	linguistic	Intonation=WeaklyRising	End=412.081	_	_	_	_
 95-0	BO095	95	e	e	linguistic	_	Begin=412.532	_	_	_	_
 95-1	BO095	95	tu	tu	linguistic	_	_	_	_	_	_
 95-2	BO095	95	sei	sei	linguistic	_	_	_	_	_	_
@@ -529,7 +529,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 99-2	BO097	99	letto	letto	linguistic	_	_	_	_	_	_
 99-3	BO097	99	xxxx	x	unknown	_	End=426.843	_	_	_	_
 100-0	BO095	100	mh	mh	linguistic	_	Begin=426.879	_	_	_	_
-100-1	BO095	100	mh,	mh	linguistic	Intonation=weakly_rising	End=427.235	_	_	_	_
+100-1	BO095	100	mh,	mh	linguistic	Intonation=WeaklyRising	End=427.235	_	_	_	_
 101-0	BO097	101	io	io	linguistic	_	Begin=427.585	_	_	_	_
 101-1	BO097	101	ho	ho	linguistic	_	_	_	_	_	_
 101-2	BO097	101	detto	detto	linguistic	_	_	_	_	_	_
@@ -568,9 +568,9 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 112-1	BO097	112	dire	dire	linguistic	_	_	_	_	_	_
 112-2	BO097	112	che	che	linguistic	_	_	_	_	_	_
 112-3	BO097	112	la	la	linguistic	_	_	_	_	_	_
-112-4	BO097	112	neve,	neve	linguistic	Intonation=weakly_rising	End=451.081	_	_	_	_
+112-4	BO097	112	neve,	neve	linguistic	Intonation=WeaklyRising	End=451.081	_	_	_	_
 113-0	BO097	113	per	per	linguistic	_	Begin=451.493	_	_	_	_
-113-1	BO097	113	terra,	terra	linguistic	Intonation=weakly_rising	_	_	_	_	_
+113-1	BO097	113	terra,	terra	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 113-2	BO097	113	si	si	linguistic	_	_	_	_	_	_
 113-3	BO097	113	scioglie	scioglie	linguistic	_	_	_	_	_	_
 113-4	BO097	113	tutta	tutta	linguistic	_	_	_	_	_	_
@@ -607,8 +607,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 119-2	BO097	119	cosa	cosa	linguistic	_	_	_	_	_	_
 119-3	BO097	119	tutta	tutta	linguistic	_	End=470.668	_	_	_	_
 120-0	BO095	120	melm[osa]	melmosa	linguistic	_	Begin=471.32|End=472.122	_	_	_	4-7(8)
-121-0	BO097	121	[acqu]o::sa,	acquosa	linguistic	Intonation=weakly_rising	Begin=471.881	4x2	_	_	0-4(8)
-121-1	BO097	121	bagnata,	bagnata	linguistic	Intonation=weakly_rising	End=473.461	_	_	_	_
+121-0	BO097	121	[acqu]o::sa,	acquosa	linguistic	Intonation=WeaklyRising	Begin=471.881	4x2	_	_	0-4(8)
+121-1	BO097	121	bagnata,	bagnata	linguistic	Intonation=WeaklyRising	End=473.461	_	_	_	_
 122-0	BO097	122	bagnata:::	bagnata	linguistic	_	Begin=474.049	6x3	_	_	_
 122-1	BO097	122	in	in	linguistic	_	_	_	_	_	_
 122-2	BO097	122	cui	cui	linguistic	_	_	_	_	_	_
@@ -821,7 +821,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 156-7	BO095	156	per	per	linguistic	_	_	_	_	_	_
 156-8	BO095	156	fare	fare	linguistic	_	_	_	_	_	_
 156-9	BO095	156	il	il	linguistic	_	_	_	_	_	_
-156-10	BO095	156	cappuccino,	cappuccino	linguistic	Intonation=weakly_rising	End=654.949	_	_	_	_
+156-10	BO095	156	cappuccino,	cappuccino	linguistic	Intonation=WeaklyRising	End=654.949	_	_	_	_
 157-0	BO097	157	non	non	linguistic	_	Begin=658.122	_	_	_	_
 157-1	BO097	157	importa	importa	linguistic	_	_	_	_	_	_
 157-2	BO097	157	cioè	cioè	linguistic	_	End=659.14	_	_	_	_
@@ -907,7 +907,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 172-7	BO095	172	rovescia	rovescia	linguistic	_	_	_	_	_	_
 172-8	BO095	172	tipo	tipo	linguistic	_	End=764.937	_	_	_	_
 173-0	BO095	173	meno	meno	linguistic	_	Begin=765.413	_	_	_	_
-173-1	BO095	173	ventidue,	ventidue	linguistic	Intonation=weakly_rising	_	_	_	_	_
+173-1	BO095	173	ventidue,	ventidue	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 173-2	BO095	173	meno	meno	linguistic	_	_	_	_	_	_
 173-3	BO095	173	ventuno	ventuno	linguistic	_	End=767.343	_	_	_	_
 174-0	BO095	174	però	però	linguistic	_	Begin=771.442	_	_	_	_
@@ -1092,17 +1092,17 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 198-4	BO097	198	avere	avere	linguistic	_	_	_	_	_	_
 198-5	BO097	198	spazio	spazio	linguistic	_	_	_	_	_	_
 198-6	BO097	198	a	a	linguistic	_	_	_	_	_	_
-198-7	BO097	198	sufficienza,	sufficienza	linguistic	Intonation=weakly_rising	End=848.387	_	_	_	_
+198-7	BO097	198	sufficienza,	sufficienza	linguistic	Intonation=WeaklyRising	End=848.387	_	_	_	_
 199-0	BO097	199	ti	ti	linguistic	_	Begin=850.414	_	_	_	_
 199-1	BO097	199	prepari	prepari	linguistic	_	_	_	_	_	_
 199-2	BO097	199	una	una	linguistic	_	_	_	_	_	_
-199-3	BO097	199	borsa,	borsa	linguistic	Intonation=weakly_rising	End=851.837	_	_	_	_
+199-3	BO097	199	borsa,	borsa	linguistic	Intonation=WeaklyRising	End=851.837	_	_	_	_
 200-0	BO097	200	in	in	linguistic	_	Begin=852.803	_	_	_	_
 200-1	BO097	200	più	più	linguistic	_	_	_	_	_	_
 200-2	BO097	200	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 200-3	BO097	200	non	non	linguistic	_	_	_	_	_	_
 200-4	BO097	200	tanto	tanto	linguistic	_	_	_	_	_	_
-200-5	BO097	200	grossa,	grossa	linguistic	Intonation=weakly_rising	End=854.76	_	_	_	_
+200-5	BO097	200	grossa,	grossa	linguistic	Intonation=WeaklyRising	End=854.76	_	_	_	_
 201-0	BO095	201	xxx	x	unknown	_	Begin=855.616	_	_	_	_
 201-1	BO095	201	in	in	linguistic	_	_	_	_	_	_
 201-2	BO095	201	valigia	valigia	linguistic	_	End=857.418	_	_	_	_
@@ -1112,7 +1112,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 203-1	BO097	203	un	un	linguistic	_	_	_	_	_	_
 203-2	BO097	203	pochino	pochino	linguistic	_	_	_	_	_	_
 203-3	BO097	203	di	di	linguistic	_	_	_	_	_	_
-203-4	BO097	203	spazio,	spazio	linguistic	Intonation=weakly_rising	End=859.353	_	_	_	_
+203-4	BO097	203	spazio,	spazio	linguistic	Intonation=WeaklyRising	End=859.353	_	_	_	_
 204-0	BO095	204	sì	sì	linguistic	_	Begin=859.371	_	_	_	_
 204-1	BO095	204	probabilmente:	probabilmente	linguistic	_	_	12x1	_	_	_
 204-2	BO095	204	sarebbe	sarebbe	linguistic	_	_	_	_	_	_
@@ -1273,7 +1273,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 226-13	BO097	226	diventa	diventa	linguistic	_	_	_	_	_	_
 226-14	BO097	226	bagaglio	bagaglio	linguistic	_	_	_	_	_	_
 226-15	BO097	226	in	in	linguistic	_	_	_	_	_	_
-226-16	BO097	226	stiva,	stiva	linguistic	Intonation=weakly_rising	End=913.812	_	_	_	_
+226-16	BO097	226	stiva,	stiva	linguistic	Intonation=WeaklyRising	End=913.812	_	_	_	_
 227-0	BO097	227	tu	tu	linguistic	_	Begin=914.234	_	_	_	_
 227-1	BO097	227	hai	hai	linguistic	_	_	_	_	_	_
 227-2	BO097	227	diritto	diritto	linguistic	_	_	_	_	_	_
@@ -1340,7 +1340,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 236-2	BO097	236	lo	lo	linguistic	_	_	_	_	_	_
 236-3	BO097	236	zaino	zaino	linguistic	_	End=948.158	_	_	_	_
 237-0	BO095	237	mh	mh	linguistic	_	Begin=948.158	_	_	_	_
-237-1	BO095	237	mh,	mh	linguistic	Intonation=weakly_rising	End=948.668	_	_	_	_
+237-1	BO095	237	mh,	mh	linguistic	Intonation=WeaklyRising	End=948.668	_	_	_	_
 238-0	BO097	238	si	si	linguistic	_	Begin=949.897	_	_	_	_
 238-1	BO097	238	era	era	linguistic	_	_	_	_	_	_
 238-2	BO097	238	anche	anche	linguistic	_	_	_	_	_	_

@@ -1,894 +1,894 @@
-token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	guesses	overlaps
-0-0	TOI002	0	conosci	conosci	linguistic	_	Begin=1.01	_	_	_	_
-0-1	TOI002	0	dialetti	dialetti	linguistic	_	_	_	_	_	_
-0-2	TOI002	0	o	o	linguistic	_	_	_	_	_	_
-0-3	TOI002	0	altre	altre	linguistic	_	_	_	_	_	_
-0-4	TOI002	0	lingue,	lingue	linguistic	Intonation=WeaklyRising	End=2.922	_	_	_	_
-1-0	TOI002	1	no.	no	linguistic	Intonation=Falling	Begin=5.13|End=5.646	_	_	_	_
-2-0	TOI002	2	°parlo	parlo	linguistic	Volume=Low	Begin=6.518	_	_	_	_
-2-1	TOI002	2	a	a	linguistic	Volume=Low	_	_	_	_	_
-2-2	TOI002	2	malapena	malapena	linguistic	Volume=Low	_	_	_	_	_
-2-3	TOI002	2	l'	l'	linguistic	SpaceAfter=No|Volume=Low	_	_	_	_	_
-2-4	TOI002	2	italiano°	italiano	linguistic	Volume=Low	End=8.151	_	_	_	_
-3-0	TOR001	3	°allo:ra°	allora	linguistic	Volume=Low	Begin=8.464|End=9.137	3x1	_	_	_
-4-0	TOI003	4	non	non	linguistic	_	Begin=9.93	_	_	_	_
-4-1	TOI003	4	conosco	conosco	linguistic	_	_	_	_	_	_
-4-2	TOI003	4	neanche	neanche	linguistic	_	_	_	_	_	_
-4-3	TOI003	4	il	il	linguistic	_	_	_	_	_	_
-4-4	TOI003	4	mio	mio	linguistic	_	_	_	_	_	_
-4-5	TOI003	4	di	di	linguistic	_	_	_	_	_	_
-4-6	TOI003	4	dialetto	dialetto	linguistic	_	_	_	_	_	_
-4-7	TOI003	4	((ride))	((ride))	nonverbalbehavior	_	End=12.058	_	_	_	_
-5-0	TOI003	5	o	o	linguistic	_	Begin=13.354	_	_	_	_
-5-1	TOI003	5	altre	altre	linguistic	_	_	_	_	_	_
-5-2	TOI003	5	lingue	lingue	linguistic	_	End=14.474	_	_	_	_
-6-0	TOI002	6	città	città	linguistic	_	Begin=15.264	_	_	_	_
-6-1	TOI002	6	di	di	linguistic	_	_	_	_	_	_
-6-2	TOI002	6	nascita	nascita	linguistic	_	_	_	_	_	_
-6-3	TOI002	6	del	del	linguistic	_	_	_	_	_	_
-6-4	TOI002	6	pa:dre,	padre	linguistic	Intonation=WeaklyRising	End=16.656	1x1	_	_	_
-7-0	TOI002	7	(questa	questa	linguistic	_	Begin=17.31	_	_	0-6(0)	_
-7-1	TOI002	7	è)	è	linguistic	_	_	_	_	0-1(0)	_
-7-2	TOI002	7	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-7-3	TOI002	7	una	una	linguistic	_	_	_	_	_	_
-7-4	TOI002	7	domanda	domanda	linguistic	_	_	_	_	_	_
-7-5	TOI002	7	un	un	linguistic	_	_	_	_	_	_
-7-6	TOI002	7	po'	po'	linguistic	_	_	_	_	_	_
-7-7	TOI002	7	infame	infame	linguistic	_	End=18.886	_	_	_	_
-8-0	TOI003	8	io	io	linguistic	_	Begin=19.578	_	_	_	_
-8-1	TOI003	8	metto	metto	linguistic	_	_	_	_	_	_
-8-2	TOI003	8	sì.	sì	linguistic	Intonation=Falling	End=20.34	_	_	_	_
-9-0	TOR001	9	((ride))	((ride))	nonverbalbehavior	_	Begin=21.199|End=22.118	_	_	_	_
-10-0	TOI002	10	ma	ma	linguistic	_	Begin=22.628	_	_	_	_
-10-1	TOI002	10	che	che	linguistic	_	_	_	_	_	_
-10-2	TOI002	10	co:sa?	cosa	linguistic	Intonation=Rising	End=23.289	1x1	_	_	_
-11-0	TOI003	11	conosci	conosci	linguistic	_	Begin=24.078	_	_	_	_
-11-1	TOI003	11	dialetti	dialetti	linguistic	_	_	_	_	_	_
-11-2	TOI003	11	italiani	italiani	linguistic	_	_	_	_	_	_
-11-3	TOI003	11	xx	x	unknown	_	_	_	_	_	_
-11-4	TOI003	11	altre	altre	linguistic	_	_	_	_	_	_
-11-5	TOI003	11	[lingue]	lingue	linguistic	_	End=26.32	_	_	_	0-6(0)
-12-0	TOI002	12	[che]	che	linguistic	_	Begin=25.989	_	_	_	0-3(0)
-12-1	TOI002	12	lingue	lingue	linguistic	_	_	_	_	_	_
-12-2	TOI002	12	cono:sci?	conosci	linguistic	Intonation=Rising	End=27.097	3x1	_	_	_
-13-0	TOI003	13	eh?	eh	linguistic	Intonation=Rising	Begin=27.103|End=27.476	_	_	_	_
-14-0	TOI002	14	che	che	linguistic	_	Begin=27.476	_	_	_	_
-14-1	TOI002	14	lingue	lingue	linguistic	_	_	_	_	_	_
-14-2	TOI002	14	conosci?	conosci	linguistic	Intonation=Rising	End=28.532	_	_	_	_
-15-0	TOI003	15	vabbè	vabbè	linguistic	_	Begin=28.563	_	_	_	_
-15-1	TOI003	15	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
-15-2	TOI003	15	inglese	inglese	linguistic	_	_	_	_	_	_
-15-3	TOI003	15	quando	quando	linguistic	_	_	_	_	_	_
-15-4	TOI003	15	vado	vado	linguistic	_	_	_	_	_	_
-15-5	TOI003	15	all'	all'	linguistic	SpaceAfter=No	_	_	_	_	_
-15-6	TOI003	15	estero	estero	linguistic	_	_	_	_	_	_
-15-7	TOI003	15	parlo	parlo	linguistic	_	_	_	_	_	4-5(1)
-15-8	TOI003	15	[eh	eh	linguistic	_	_	_	_	_	0-2(1)
-15-9	TOI003	15	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(1)
-15-10	TOI003	15	mi	mi	linguistic	_	_	_	_	_	0-2(1)
-15-11	TOI003	15	faccio	faccio	linguistic	_	_	_	_	_	0-6(1)
-15-12	TOI003	15	capi]re	capire	linguistic	_	End=32.479	_	_	_	0-3(1)
-16-0	TOI002	16	[ma	ma	linguistic	_	Begin=30.816	_	_	_	0-2(1)
-16-1	TOI002	16	vaff(anculo)]	vaffanculo	linguistic	_	_	_	_	4-10(0)	0-10(1)
-16-2	TOI002	16	((ride))	((ride))	nonverbalbehavior	_	End=32.049	_	_	_	_
-17-0	TOR001	17	((ride))	((ride))	nonverbalbehavior	_	Begin=31.436|End=39.064	_	_	_	_
-18-0	TOI002	18	anch'	anch'	linguistic	SpaceAfter=No	Begin=32.496	_	_	_	_
-18-1	TOI002	18	io	io	linguistic	_	_	_	_	_	_
-18-2	TOI002	18	mi	mi	linguistic	_	_	_	_	_	_
-18-3	TOI002	18	faccio	faccio	linguistic	_	_	_	_	_	_
-18-4	TOI002	18	capire	capire	linguistic	_	_	_	_	_	_
-18-5	TOI002	18	[cazzo	cazzo	linguistic	_	_	_	_	_	0-5(2)
-18-6	TOI002	18	vuol	vuol	linguistic	_	_	_	_	_	0-4(2)
-18-7	TOI002	18	dire	dire	linguistic	_	_	_	_	_	0-4(2)
-18-8	TOI002	18	xxx]xx	x	unknown	_	End=35.719	_	_	_	0-3(2)
-19-0	TOI003	19	[eh	eh	linguistic	_	Begin=33.623	_	_	_	0-2(2)
-19-1	TOI003	19	sì	sì	linguistic	_	_	_	_	_	0-2(2)
-19-2	TOI003	19	(per	per	linguistic	_	_	_	_	0-3(0)	0-3(2)
-19-3	TOI003	19	gesti)]	gesti	linguistic	_	End=35.277	_	_	0-5(0)	0-5(2)
-20-0	TOR001	20	e:h	eh	linguistic	_	Begin=44.954	0x1	_	_	_
-20-1	TOR001	20	qua[ttro],	quattro	linguistic	Intonation=WeaklyRising	End=45.987	_	_	_	3-7(3)
-21-0	TOR002	21	[tre	tre	linguistic	_	Begin=45.33	_	_	_	0-3(?)
-21-1	TOR002	21	quattro]	quattro	linguistic	_	End=46.4	_	_	_	0-7(?)
-22-0	TOR003	22	[qua]ttro	quattro	linguistic	_	Begin=46.035|End=46.653	_	_	_	0-3(4)
-23-0	TOI002	23	°(siamo	siamo	linguistic	Volume=Low	Begin=47.872	_	_	0-5(0)	_
-23-1	TOI002	23	nel)	nel	linguistic	Volume=Low	_	_	_	0-3(0)	_
-23-2	TOI002	23	duemiladiciotto°	duemiladiciotto	linguistic	Volume=Low	End=50.194	_	_	_	_
-24-0	TOR002	24	°puoi	puoi	linguistic	Volume=Low	Begin=55.574	_	_	_	_
-24-1	TOR002	24	mica	mica	linguistic	Volume=Low	_	_	_	_	_
-24-2	TOR002	24	spegnere	spegnere	linguistic	Volume=Low	_	_	_	_	_
-24-3	TOR002	24	quella	quella	linguistic	Volume=Low	_	_	_	_	_
-24-4	TOR002	24	luce	luce	linguistic	Volume=Low	_	_	_	_	_
-24-5	TOR002	24	lì?°	lì	linguistic	Intonation=Rising|Volume=Low	End=57.203	_	_	_	_
-25-0	TOR001	25	ma	ma	linguistic	_	Begin=57.228	_	_	_	_
-25-1	TOR001	25	ba:sta	basta	linguistic	_	_	1x1	_	_	_
-25-2	TOR001	25	con	con	linguistic	_	_	_	_	_	_
-25-3	TOR001	25	ste	ste	linguistic	_	_	_	_	_	_
-25-4	TOR001	25	lu:ci	luci	linguistic	_	_	1x1	_	_	_
-25-5	TOR001	25	((ride))	((ride))	nonverbalbehavior	_	End=58.93	_	_	_	_
-26-0	TOI003	26	quanti	quanti	linguistic	_	Begin=59.477	_	_	_	_
-26-1	TOI003	26	ne	ne	linguistic	_	_	_	_	_	_
-26-2	TOI003	26	abbiamo	abbiamo	linguistic	_	_	_	_	_	_
-26-3	TOI003	26	oggi,	oggi	linguistic	Intonation=WeaklyRising	_	_	_	_	_
-26-4	TOI003	26	tre?	tre	linguistic	Intonation=Rising	End=60.684	_	_	_	_
-27-0	TOI003	27	quanti	quanti	linguistic	_	Begin=62.385	_	_	_	_
-27-1	TOI003	27	ne	ne	linguistic	_	_	_	_	_	_
-27-2	TOI003	27	abbiamo	abbiamo	linguistic	_	_	_	_	_	_
-27-3	TOI003	27	oggi?	oggi	linguistic	Intonation=Rising	End=63.399	_	_	_	_
-28-0	TOR001	28	quattro	quattro	linguistic	_	Begin=63.462|End=64.144	_	_	_	_
-29-0	TOI003	29	eh	eh	linguistic	_	Begin=64.992	_	_	_	_
-29-1	TOI003	29	io	io	linguistic	_	_	_	_	_	_
-29-2	TOI003	29	in	in	linguistic	_	_	_	_	_	_
-29-3	TOI003	29	vacanza	vacanza	linguistic	_	_	_	_	_	_
-29-4	TOI003	29	perdo	perdo	linguistic	_	_	_	_	_	_
-29-5	TOI003	29	tutto	tutto	linguistic	_	End=66.854	_	_	_	_
-30-0	TOR001	30	((ride))	((ride))	nonverbalbehavior	_	Begin=66.372|End=66.83	_	_	_	_
-31-0	TOI003	31	è	è	linguistic	_	Begin=67.206	_	_	_	_
-31-1	TOI003	31	diciotto?	diciotto	linguistic	Intonation=Rising	End=68.143	_	_	_	_
-32-0	TOI003	32	xx	x	unknown	_	Begin=68.404|End=69.414	_	_	_	_
-33-0	TOR001	33	((ride))	((ride))	nonverbalbehavior	_	Begin=69.434|End=69.936	_	_	_	_
-34-0	TOR001	34	grazie.	grazie	linguistic	Intonation=Falling	Begin=71.798|End=72.355	_	_	_	_
-35-0	TOI002	35	ma	ma	linguistic	_	Begin=74.79	_	_	_	_
-35-1	TOI002	35	è	è	linguistic	_	_	_	_	_	_
-35-2	TOI002	35	un'	un'	linguistic	SpaceAfter=No	_	_	_	_	_
-35-3	TOI002	35	intervista	intervista	linguistic	_	_	_	_	_	_
-35-4	TOI002	35	doppia	doppia	linguistic	_	_	_	_	_	_
-35-5	TOI002	35	o	o	linguistic	_	_	_	_	_	_
-35-6	TOI002	35	singola?	singola	linguistic	Intonation=Rising	End=76.15	_	_	_	_
-36-0	TOR001	36	doppia	doppia	linguistic	_	Begin=76.166	_	_	_	_
-36-1	TOR001	36	doppia	doppia	linguistic	_	_	_	_	_	_
-36-2	TOR001	36	la	la	linguistic	_	_	_	_	_	_
-36-3	TOR001	36	fate	fate	linguistic	_	_	_	_	_	_
-36-4	TOR001	36	insie[me]	insieme	linguistic	_	End=77.501	_	_	_	5-7(5)
-37-0	TOI002	37	[ti]po	tipo	linguistic	_	Begin=77.232	_	_	_	0-2(5)
-37-1	TOI002	37	le	le	linguistic	_	_	_	_	_	_
-37-2	TOI002	37	iene?	iene	linguistic	Intonation=Rising	End=77.999	_	_	_	_
-38-0	TOI003	38	((ride))	((ride))	nonverbalbehavior	_	Begin=78.08|End=78.492	_	_	_	_
-39-0	TOR001	39	((ride))	((ride))	nonverbalbehavior	_	Begin=78.08|End=78.492	_	_	_	_
-40-0	TOI003	40	chi	chi	linguistic	_	Begin=79.941	_	_	_	_
-40-1	TOI003	40	è	è	linguistic	_	_	_	_	_	_
-40-2	TOI003	40	più	più	linguistic	_	_	_	_	_	_
-40-3	TOI003	40	bravo	bravo	linguistic	_	_	_	_	_	_
-40-4	TOI003	40	a	a	linguistic	_	_	_	_	_	_
-40-5	TOI003	40	letto?	letto	linguistic	Intonation=Rising	_	_	_	_	_
-40-6	TOI003	40	lui.	lui	linguistic	Intonation=Falling	End=81.378	_	_	_	_
-41-0	TOR003	41	((ride))	((ride))	nonverbalbehavior	_	Begin=81.571|End=82.038	_	_	_	_
-42-0	TOI002	42	((ride))	((ride))	nonverbalbehavior	_	Begin=81.571|End=82.038	_	_	_	_
-43-0	TOR002	43	((ride))	((ride))	nonverbalbehavior	_	Begin=81.571|End=82.038	_	_	_	_
-44-0	TOR001	44	((ride))	((ride))	nonverbalbehavior	_	Begin=81.571|End=82.038	_	_	_	_
-45-0	TOI003	45	e::h	eh	linguistic	_	Begin=84.719	0x2	_	_	_
-45-1	TOI003	45	devo	devo	linguistic	_	_	_	_	_	_
-45-2	TOI003	45	crocettare	crocettare	linguistic	_	_	_	_	_	_
-45-3	TOI003	45	gli	gli	linguistic	_	_	_	_	_	_
-45-4	TOI003	45	ultimi	ultimi	linguistic	_	_	_	_	_	_
-45-5	TOI003	45	due	due	linguistic	_	_	_	_	_	_
-45-6	TOI003	45	[quadratini,	quadratini	linguistic	Intonation=WeaklyRising	_	_	_	_	0-10(6)
-45-7	TOI003	45	giusto]?	giusto	linguistic	Intonation=Rising	End=87.904	_	_	_	0-6(6)
-46-0	TOI002	46	[tutto	tutto	linguistic	_	Begin=86.464	_	_	_	0-5(?)
-46-1	TOI002	46	sì,	sì	linguistic	Intonation=WeaklyRising	_	_	_	_	0-2(?)
-46-2	TOI002	46	crocetta	crocetta	linguistic	_	_	_	_	_	0-8(?)
-46-3	TOI002	46	e	e	linguistic	_	_	_	_	_	0-1(?)
-46-4	TOI002	46	firma]	firma	linguistic	_	_	_	_	_	0-5(?)
-46-5	TOI002	46	dai	dai	linguistic	_	_	_	_	_	_
-46-6	TOI002	46	xx	x	unknown	_	_	_	_	_	_
-46-7	TOI002	46	(minchia)	minchia	linguistic	_	_	_	_	0-7(0)	_
-46-8	TOI002	46	non	non	linguistic	_	_	_	_	_	_
-46-9	TOI002	46	finiamo	finiamo	linguistic	_	_	_	_	_	_
-46-10	TOI002	46	più	più	linguistic	_	End=89.97	_	_	_	_
-47-0	TOR001	47	[vai	vai	linguistic	_	Begin=87.933	_	_	_	0-3(7)
-47-1	TOR001	47	vai]	vai	linguistic	_	End=88.575	_	_	_	0-3(7)
-48-0	TOI002	48	bravo.	bravo	linguistic	Intonation=Falling	Begin=90.503|End=91.008	_	_	_	_
-49-0	TOI003	49	c(io)è	cioè	linguistic	_	Begin=91.591	_	_	1-3(0)	_
-49-1	TOI003	49	hai	hai	linguistic	_	_	_	_	_	_
-49-2	TOI003	49	iniziato	iniziato	linguistic	_	_	_	_	_	_
-49-3	TOI003	49	prima	prima	linguistic	_	_	_	_	_	_
-49-4	TOI003	49	di	di	linguistic	_	_	_	_	_	_
-49-5	TOI003	49	me	me	linguistic	_	_	_	_	_	_
-49-6	TOI003	49	e	e	linguistic	_	_	_	_	_	_
-49-7	TOI003	49	hai	hai	linguistic	_	_	_	_	_	_
-49-8	TOI003	49	finito	finito	linguistic	_	_	_	_	_	_
-49-9	TOI003	49	prima?	prima	linguistic	Intonation=Rising	End=92.947	_	_	_	_
-50-0	TOI002	50	okay	okay	linguistic	_	Begin=92.98|End=93.47	_	_	_	_
-51-0	TOR001	51	okay	okay	linguistic	_	Begin=93.533	_	_	_	_
-51-1	TOR001	51	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-51-2	TOR001	51	grazie	grazie	linguistic	_	End=95.233	_	_	_	_
-52-0	TOI002	52	°grazie	grazie	linguistic	Volume=Low	Begin=95.399	_	_	_	_
-52-1	TOI002	52	a	a	linguistic	Volume=Low	_	_	_	_	_
-52-2	TOI002	52	te.°	te	linguistic	Intonation=Falling|Volume=Low	End=96.1	_	_	_	_
-53-0	TOR001	53	allora	allora	linguistic	_	Begin=96.12	_	_	_	_
-53-1	TOR001	53	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
-53-2	TOR001	53	intervista	intervista	linguistic	_	_	_	_	_	_
-53-3	TOR001	53	riguarda	riguarda	linguistic	_	End=97.85	_	_	_	_
-54-0	TOR001	54	e:hm	ehm	linguistic	_	Begin=98.021	0x1	_	_	_
-54-1	TOR001	54	le	le	linguistic	_	_	_	_	_	_
-54-2	TOR001	54	abitudini	abitudini	linguistic	_	_	_	_	_	_
-54-3	TOR001	54	di	di	linguistic	_	_	_	_	_	_
-54-4	TOR001	54	giovani	giovani	linguistic	_	_	_	_	_	_
-54-5	TOR001	54	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-54-6	TOR001	54	lavoratori	lavoratori	linguistic	_	_	_	_	_	_
-54-7	TOR001	54	torinesi	torinesi	linguistic	_	_	_	_	_	_
-54-8	TOR001	54	quindi	quindi	linguistic	_	_	_	_	_	_
-54-9	TOR001	54	gli	gli	linguistic	_	_	_	_	_	_
-54-10	TOR001	54	argomenti	argomenti	linguistic	_	_	_	_	_	_
-54-11	TOR001	54	sono	sono	linguistic	_	_	_	_	_	_
-54-12	TOR001	54	un	un	linguistic	_	_	_	_	_	_
-54-13	TOR001	54	po':	po'	linguistic	_	_	1x1	_	_	_
-54-14	TOR001	54	vari	vari	linguistic	_	End=103.348	_	_	_	_
-55-0	TOI002	55	okay	okay	linguistic	_	Begin=103.44|End=104.131	_	_	_	_
-56-0	TOR001	56	bene	bene	linguistic	_	Begin=104.262	_	_	_	_
-56-1	TOR001	56	quindi	quindi	linguistic	_	_	_	_	_	_
-56-2	TOR001	56	iniziamo	iniziamo	linguistic	_	_	_	_	_	_
-56-3	TOR001	56	che	che	linguistic	_	_	_	_	_	_
-56-4	TOR001	56	lavoro	lavoro	linguistic	_	_	_	_	_	_
-56-5	TOR001	56	fate?	fate	linguistic	Intonation=Rising	End=106.334	_	_	_	_
-57-0	TOI003	57	operaio.	operaio	linguistic	Intonation=Falling	Begin=106.39|End=107.41	_	_	_	_
-58-0	TOI002	58	[io	io	linguistic	_	Begin=107.52	_	_	_	0-2(?)
-58-1	TOI002	58	metalmeccanico]	metalmeccanico	linguistic	_	End=108.824	_	_	_	0-14(?)
-59-0	TOR001	59	[mh	mh	linguistic	_	Begin=107.52	_	_	_	0-2(8)
-59-1	TOR001	59	mh]	mh	linguistic	_	End=108.05	_	_	_	0-2(8)
-60-0	TOI003	60	[°xxxx°]	x	unknown	Volume=Low	Begin=108.182|End=108.807	_	_	_	0-4(9)
-61-0	TOR001	61	okay	okay	linguistic	_	Begin=108.903|End=109.65	_	_	_	_
-62-0	TOR001	62	da	da	linguistic	_	Begin=109.752	_	_	_	_
-62-1	TOR001	62	quanto	quanto	linguistic	_	_	_	_	_	_
-62-2	TOR001	62	tempo?	tempo	linguistic	Intonation=Rising	End=110.97	_	_	_	_
-63-0	TOI003	63	m::h	mh	linguistic	_	Begin=111.253	0x2	_	_	_
-63-1	TOI003	63	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-63-2	TOI003	63	questo	questo	linguistic	_	_	_	_	_	_
-63-3	TOI003	63	lavoro	lavoro	linguistic	_	_	_	_	_	_
-63-4	TOI003	63	o	o	linguistic	_	_	_	_	_	_
-63-5	TOI003	63	anche:	anche	linguistic	_	_	4x1	_	_	_
-63-6	TOI003	63	quello	quello	linguistic	_	_	_	_	_	_
-63-7	TOI003	63	pri[ma],	prima	linguistic	Intonation=WeaklyRising	End=114.783	_	_	_	3-5(10)
-64-0	TOR001	64	[que]sto	questo	linguistic	_	Begin=114.496	_	_	_	0-3(10)
-64-1	TOR001	64	lavoro	lavoro	linguistic	_	End=115.293	_	_	_	_
-65-0	TOI003	65	quattro	quattro	linguistic	_	Begin=115.78	_	_	_	_
-65-1	TOI003	65	anni	anni	linguistic	_	End=116.677	_	_	_	_
-66-0	TOR001	66	ah	ah	linguistic	_	Begin=116.677	_	_	_	_
-66-1	TOR001	66	caspita	caspita	linguistic	_	_	_	_	_	_
-66-2	TOR001	66	un	un	linguistic	_	_	_	_	_	_
-66-3	TOR001	66	sacco	sacco	linguistic	_	End=117.567	_	_	_	_
-67-0	TOI002	67	dodici.	dodici	linguistic	Intonation=Falling	Begin=117.571|End=118.174	_	_	_	_
-68-0	TOI003	68	un	un	linguistic	_	Begin=118.211	_	_	_	_
-68-1	TOI003	68	sacco	sacco	linguistic	_	End=118.789	_	_	_	_
-69-0	TOR003	69	((ride))	((ride))	nonverbalbehavior	_	Begin=118.833|End=119.19	_	_	_	_
-70-0	TOI003	70	((ride))	((ride))	nonverbalbehavior	_	Begin=118.833|End=119.19	_	_	_	_
-71-0	TOI002	71	((ride))	((ride))	nonverbalbehavior	_	Begin=118.833|End=119.19	_	_	_	_
-72-0	TOR002	72	((ride))	((ride))	nonverbalbehavior	_	Begin=118.833|End=119.19	_	_	_	_
-73-0	TOR001	73	((ride))	((ride))	nonverbalbehavior	_	Begin=119.725|End=121.47	_	_	_	_
-74-0	TOI003	74	[x]	x	unknown	_	Begin=121.312|End=122.055	_	_	_	0-1(11)
-75-0	TOR001	75	[in]	in	linguistic	_	Begin=121.471	_	_	_	0-2(11)
-75-1	TOR001	75	cosa	cosa	linguistic	_	_	_	_	_	_
-75-2	TOR001	75	consiste	consiste	linguistic	_	_	_	_	_	_
-75-3	TOR001	75	il	il	linguistic	_	_	_	_	_	_
-75-4	TOR001	75	lavoro,	lavoro	linguistic	Intonation=WeaklyRising	_	_	_	_	_
-75-5	TOR001	75	cioè	cioè	linguistic	_	_	_	_	_	_
-75-6	TOR001	75	cosa	cosa	linguistic	_	_	_	_	_	_
-75-7	TOR001	75	fate?	fate	linguistic	Intonation=Rising	End=124.348	_	_	_	_
-76-0	TOI003	76	allora	allora	linguistic	_	Begin=124.452	_	_	_	_
-76-1	TOI003	76	noi	noi	linguistic	_	_	_	_	_	_
-76-2	TOI003	76	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-76-3	TOI003	76	produciamo	produciamo	linguistic	_	_	_	_	_	_
-76-4	TOI003	76	bulloneria	bulloneria	linguistic	_	_	_	_	_	_
-76-5	TOI003	76	e	e	linguistic	_	_	_	_	_	_
-76-6	TOI003	76	viteria	viteria	linguistic	_	_	_	_	_	_
-76-7	TOI003	76	speciale	speciale	linguistic	_	End=129.02	_	_	_	_
-77-0	TOR001	77	mh	mh	linguistic	_	Begin=129.03	_	_	_	_
-77-1	TOR001	77	mh	mh	linguistic	_	End=129.55	_	_	_	_
-78-0	TOI003	78	esportiamo	esportiamo	linguistic	_	Begin=129.794	_	_	_	_
-78-1	TOI003	78	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-78-2	TOI003	78	in	in	linguistic	_	_	_	_	_	_
-78-3	TOI003	78	tutto	tutto	linguistic	_	_	_	_	_	_
-78-4	TOI003	78	il	il	linguistic	_	_	_	_	_	_
-78-5	TOI003	78	mondo,	mondo	linguistic	Intonation=WeaklyRising	End=132.266	_	_	_	_
-79-0	TOR001	79	mh	mh	linguistic	_	Begin=132.338	_	_	_	_
-79-1	TOR001	79	mh	mh	linguistic	_	End=132.79	_	_	_	_
-80-0	TOI003	80	ed	ed	linguistic	_	Begin=132.81	_	_	_	_
-80-1	TOI003	80	è::	è	linguistic	ProsodicLink=Yes	_	0x2	_	_	_
-80-2	TOI003	80	mh	mh	linguistic	_	End=134.37	_	_	_	_
-81-0	TOI003	81	praticamente	praticamente	linguistic	_	Begin=134.421	_	_	_	_
-81-1	TOI003	81	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-81-2	TOI003	81	ci	ci	linguistic	_	_	_	_	_	_
-81-3	TOI003	81	sono	sono	linguistic	_	_	_	_	_	_
-81-4	TOI003	81	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-81-5	TOI003	81	eh	eh	linguistic	_	_	_	_	_	_
-81-6	TOI003	81	ditte	ditte	linguistic	_	_	_	_	_	_
-81-7	TOI003	81	come	come	linguistic	_	_	_	_	_	_
-81-8	TOI003	81	noi	noi	linguistic	_	_	_	_	_	_
-81-9	TOI003	81	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-81-10	TOI003	81	che	che	linguistic	_	_	_	_	_	_
-81-11	TOI003	81	prudono	prudono	linguistic	_	_	_	_	_	_
-81-12	TOI003	81	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-81-13	TOI003	81	le:	le	linguistic	_	_	1x1	_	_	_
-81-14	TOI003	81	bulloneria	bulloneria	linguistic	_	_	_	_	_	_
-81-15	TOI003	81	e	e	linguistic	_	_	_	_	_	_
-81-16	TOI003	81	viteria	viteria	linguistic	_	_	_	_	_	_
-81-17	TOI003	81	<normale>	normale	linguistic	_	End=142.077	_	Slow=0-7	_	_
-82-0	TOR001	82	mh	mh	linguistic	_	Begin=142.085	_	_	_	_
-82-1	TOR001	82	mh	mh	linguistic	_	End=142.5	_	_	_	_
-83-0	TOI003	83	quella	quella	linguistic	_	Begin=142.5	_	_	_	_
-83-1	TOI003	83	base	base	linguistic	_	_	_	_	_	_
-83-2	TOI003	83	noi	noi	linguistic	_	_	_	_	_	_
-83-3	TOI003	83	facciamo	facciamo	linguistic	_	_	_	_	_	_
-83-4	TOI003	83	ci	ci	linguistic	_	_	_	_	_	_
-83-5	TOI003	83	occupiamo	occupiamo	linguistic	_	_	_	_	_	_
-83-6	TOI003	83	solo	solo	linguistic	_	_	_	_	_	_
-83-7	TOI003	83	dello	dello	linguistic	_	_	_	_	_	_
-83-8	TOI003	83	speciale.	speciale	linguistic	Intonation=Falling	End=145.311	_	_	_	_
-84-0	TOR001	84	okay	okay	linguistic	_	Begin=145.311|End=145.87	_	_	_	_
-85-0	TOI003	85	quindi	quindi	linguistic	_	Begin=145.87	_	_	_	_
-85-1	TOI003	85	siamo:	siamo	linguistic	_	_	4x1	_	_	_
-85-2	TOI003	85	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-85-3	TOI003	85	un'	un'	linguistic	SpaceAfter=No	_	_	_	_	_
-85-4	TOI003	85	azienda	azienda	linguistic	_	_	_	_	_	_
-85-5	TOI003	85	unica	unica	linguistic	_	_	_	_	_	_
-85-6	TOI003	85	in	in	linguistic	_	_	_	_	_	_
-85-7	TOI003	85	italia	italia	linguistic	_	_	_	_	_	_
-85-8	TOI003	85	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-85-9	TOI003	85	[che	che	linguistic	_	_	_	_	_	0-3(12)
-85-10	TOI003	85	fa]	fa	linguistic	_	_	_	_	_	0-2(12)
-85-11	TOI003	85	questa	questa	linguistic	_	_	_	_	_	_
-85-12	TOI003	85	cosa	cosa	linguistic	_	_	_	_	_	_
-85-13	TOI003	85	qua	qua	linguistic	_	End=150.16	_	_	_	_
-86-0	TOR001	86	[mh	mh	linguistic	_	Begin=148.992	_	_	_	0-2(12)
-86-1	TOR001	86	mh]	mh	linguistic	_	End=149.461	_	_	_	0-2(12)
-87-0	TOR001	87	okay	okay	linguistic	_	Begin=150.26|End=151.046	_	_	_	_
-88-0	TOR001	88	e	e	linguistic	_	Begin=151.727	_	_	_	_
-88-1	TOR001	88	di	di	linguistic	_	_	_	_	_	_
-88-2	TOR001	88	concreto	concreto	linguistic	_	_	_	_	_	_
-88-3	TOR001	88	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-88-4	TOR001	88	cioè	cioè	linguistic	_	_	_	_	_	_
-88-5	TOR001	88	durante	durante	linguistic	_	_	_	_	_	_
-88-6	TOR001	88	il	il	linguistic	_	_	_	_	_	_
-88-7	TOR001	88	giorno	giorno	linguistic	_	_	_	_	_	_
-88-8	TOR001	88	cosa	cosa	linguistic	_	_	_	_	_	_
-88-9	TOR001	88	fai?	fai	linguistic	Intonation=Rising	_	_	_	_	_
-88-10	TOR001	88	cioè	cioè	linguistic	_	_	_	_	_	_
-88-11	TOR001	88	l~	l~	linguistic	Interrupted=Yes	_	_	_	_	_
-88-12	TOR001	88	l~	l~	linguistic	Interrupted=Yes	_	_	_	_	_
-88-13	TOR001	88	la	la	linguistic	_	_	_	_	_	_
-88-14	TOR001	88	[la	la	linguistic	_	_	_	_	_	0-2(13)
-88-15	TOR001	88	tua	tua	linguistic	_	_	_	_	_	0-3(13)
-88-16	TOR001	88	giornata	giornata	linguistic	_	_	_	_	_	0-8(13)
-88-17	TOR001	88	(tipo)]	tipo	linguistic	_	End=156.506	_	_	0-4(0)	0-4(13)
-89-0	TOI003	89	[la	la	linguistic	_	Begin=155.009	_	_	_	0-2(?)
-89-1	TOI003	89	mia	mia	linguistic	_	_	_	_	_	0-3(?)
-89-2	TOI003	89	mansione	mansione	linguistic	_	_	_	_	_	0-8(?)
-89-3	TOI003	89	è	è	linguistic	_	_	_	_	_	0-1(?)
-89-4	TOI003	89	il	il	linguistic	_	_	_	_	_	0-2(?)
-89-5	TOI003	89	rullato]re	rullatore	linguistic	_	_	_	_	_	0-7(?)
-89-6	TOI003	89	io	io	linguistic	_	_	_	_	_	_
-89-7	TOI003	89	mi	mi	linguistic	_	_	_	_	_	_
-89-8	TOI003	89	occupo	occupo	linguistic	_	_	_	_	_	_
-89-9	TOI003	89	della	della	linguistic	_	_	_	_	_	_
-89-10	TOI003	89	filettatura	filettatura	linguistic	_	End=158.508	_	_	_	_
-90-0	TOR001	90	[okay]	okay	linguistic	_	Begin=156.82|End=157.322	_	_	_	0-4(14)
-91-0	TOR001	91	okay	okay	linguistic	_	Begin=158.51|End=158.852	_	_	_	_
-92-0	TOI003	92	della	della	linguistic	_	Begin=158.86	_	_	_	_
-92-1	TOI003	92	vite	vite	linguistic	_	_	_	_	_	_
-92-2	TOI003	92	o	o	linguistic	_	_	_	_	_	_
-92-3	TOI003	92	del	del	linguistic	_	_	_	_	_	_
-92-4	TOI003	92	bullone	bullone	linguistic	_	End=160.23	_	_	_	_
-93-0	TOR001	93	okay	okay	linguistic	_	Begin=160.23|End=160.6	_	_	_	_
-94-0	TOI003	94	la	la	linguistic	_	Begin=160.62	_	_	_	_
-94-1	TOI003	94	funzionalità.	funzionalità	linguistic	Intonation=Falling	End=161.626	_	_	_	_
-95-0	TOR001	95	mh	mh	linguistic	_	Begin=161.626	_	_	_	_
-95-1	TOR001	95	mh	mh	linguistic	_	_	_	_	_	_
-95-2	TOR001	95	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-95-3	TOR001	95	okay	okay	linguistic	_	End=162.78	_	_	_	_
-96-0	TOR001	96	tu	tu	linguistic	_	Begin=163.02	_	_	_	_
-96-1	TOR001	96	invece?	invece	linguistic	Intonation=Rising	End=163.667	_	_	_	_
-97-0	TOI002	97	io::	io	linguistic	ProsodicLink=Yes	Begin=163.682	1x2	_	_	_
-97-1	TOI002	97	ho	ho	linguistic	_	_	_	_	_	_
-97-2	TOI002	97	un'	un'	linguistic	SpaceAfter=No	_	_	_	_	_
-97-3	TOI002	97	impresa	impresa	linguistic	_	_	_	_	_	_
-97-4	TOI002	97	edile	edile	linguistic	_	_	_	_	_	_
-97-5	TOI002	97	diciamo	diciamo	linguistic	_	End=166.246	_	_	_	_
-98-0	TOR001	98	mh	mh	linguistic	_	Begin=166.246	_	_	_	_
-98-1	TOR001	98	mh	mh	linguistic	_	End=166.67	_	_	_	_
-99-0	TOI002	99	facciamo	facciamo	linguistic	_	Begin=166.68	_	_	_	_
-99-1	TOI002	99	decorazioni	decorazioni	linguistic	_	_	_	_	_	_
-99-2	TOI002	99	più	più	linguistic	_	_	_	_	_	_
-99-3	TOI002	99	che	che	linguistic	_	_	_	_	_	_
-99-4	TOI002	99	al[tro]	altro	linguistic	_	_	_	_	_	2-5(15)
-99-5	TOI002	99	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-99-6	TOI002	99	la	la	linguistic	_	_	_	_	_	_
-99-7	TOI002	99	ritrutturazione	ritrutturazione	linguistic	_	_	_	_	_	_
-99-8	TOI002	99	in	in	linguistic	_	_	_	_	_	_
-99-9	TOI002	99	generale	generale	linguistic	_	End=170.38	_	_	_	_
-100-0	TOR001	100	[mh	mh	linguistic	_	Begin=168.215	_	_	_	0-2(15)
-100-1	TOR001	100	mh]	mh	linguistic	_	End=168.709	_	_	_	0-2(15)
-101-0	TOR001	101	okay	okay	linguistic	_	Begin=170.396|End=170.983	_	_	_	_
-102-0	TOI002	102	la	la	linguistic	_	Begin=171.14	_	_	_	_
-102-1	TOI002	102	mia	mia	linguistic	_	_	_	_	_	_
-102-2	TOI002	102	mansione?	mansione	linguistic	Intonation=Rising	End=172.29	_	_	_	_
-103-0	TOR001	103	sì	sì	linguistic	_	Begin=172.29	_	_	_	_
-103-1	TOR001	103	((ride))	((ride))	nonverbalbehavior	_	End=173.55	_	_	_	_
-104-0	TOR003	104	((ride))	((ride))	nonverbalbehavior	_	Begin=174.337|End=175.425	_	_	_	_
-105-0	TOI003	105	ecco	ecco	linguistic	_	Begin=174.337	_	_	_	_
-105-1	TOI003	105	qua	qua	linguistic	_	_	_	_	_	_
-105-2	TOI003	105	è	è	linguistic	_	_	_	_	_	_
-105-3	TOI003	105	bello	bello	linguistic	_	End=175.425	_	_	_	_
-106-0	TOI002	106	no	no	linguistic	_	Begin=176.185	_	_	_	_
-106-1	TOI002	106	io	io	linguistic	_	_	_	_	_	_
-106-2	TOI002	106	gestisco	gestisco	linguistic	_	_	_	_	_	_
-106-3	TOI002	106	cantieri	cantieri	linguistic	_	_	_	_	_	_
-106-4	TOI002	106	sto	sto	linguistic	_	_	_	_	_	_
-106-5	TOI002	106	sui	sui	linguistic	_	_	_	_	_	_
-106-6	TOI002	106	cantieri	cantieri	linguistic	_	_	_	_	_	_
-106-7	TOI002	106	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-106-8	TOI002	106	[noi]	noi	linguistic	_	_	_	_	_	0-3(16)
-106-9	TOI002	106	siamo:	siamo	linguistic	_	_	4x1	_	_	_
-106-10	TOI002	106	un'	un'	linguistic	SpaceAfter=No	_	_	_	_	_
-106-11	TOI002	106	azienda	azienda	linguistic	_	_	_	_	_	_
-106-12	TOI002	106	familiare	familiare	linguistic	_	End=180.425	_	_	_	_
-107-0	TOR001	107	[okay]	okay	linguistic	_	Begin=178.161|End=178.73	_	_	_	0-4(16)
-108-0	TOR001	108	okay	okay	linguistic	_	Begin=180.432|End=180.932	_	_	_	_
-109-0	TOI002	109	mio	mio	linguistic	_	Begin=180.94	_	_	_	_
-109-1	TOI002	109	cugino::	cugino	linguistic	_	_	5x2	_	_	_
-109-2	TOI002	109	è	è	linguistic	_	_	_	_	_	_
-109-3	TOI002	109	in	in	linguistic	_	_	_	_	_	_
-109-4	TOI002	109	un	un	linguistic	_	_	_	_	_	_
-109-5	TOI002	109	ufficio	ufficio	linguistic	_	_	_	_	_	_
-109-6	TOI002	109	e	e	linguistic	_	_	_	_	_	_
-109-7	TOI002	109	segue	segue	linguistic	_	_	_	_	_	_
-109-8	TOI002	109	la	la	linguistic	_	_	_	_	_	_
-109-9	TOI002	109	parte	parte	linguistic	_	_	_	_	_	_
-109-10	TOI002	109	amministrativa	amministrativa	linguistic	_	_	_	_	_	_
-109-11	TOI002	109	e	e	linguistic	_	_	_	_	_	_
-109-12	TOI002	109	io	io	linguistic	_	_	_	_	_	_
-109-13	TOI002	109	(s~	s~	linguistic	Interrupted=Yes	_	_	_	0-2(0)	_
-109-14	TOI002	109	s~)	s~	linguistic	Interrupted=Yes	_	_	_	0-2(0)	_
-109-15	TOI002	109	gestisco	gestisco	linguistic	_	_	_	_	_	_
-109-16	TOI002	109	i	i	linguistic	_	_	_	_	_	_
-109-17	TOI002	109	cantieri	cantieri	linguistic	_	End=186.551	_	_	_	_
-110-0	TOI003	110	[è	è	linguistic	_	Begin=186.554	_	_	_	0-1(18)
-110-1	TOI003	110	nato]	nato	linguistic	_	_	_	_	_	0-4(18)
-110-2	TOI003	110	con	con	linguistic	_	_	_	_	_	_
-110-3	TOI003	110	la	la	linguistic	_	_	_	_	_	_
-110-4	TOI003	110	camicia	camicia	linguistic	_	_	_	_	_	_
-110-5	TOI003	110	pratica[(mente)]	praticamente	linguistic	_	End=188.267	_	_	7-12(0)	7-12(17)
-111-0	TOR001	111	[(okay)]	okay	linguistic	_	Begin=186.554|End=187.009	_	_	0-4(0)	0-4(18)
-112-0	TOR001	112	((ride))	((ride))	nonverbalbehavior	_	Begin=187.673|End=189.096	_	_	_	_
-113-0	TOR003	113	[però]	però	linguistic	_	Begin=187.893|End=188.26	_	_	_	0-4(17)
-114-0	TOI002	114	il	il	linguistic	_	Begin=188.413	_	_	_	_
-114-1	TOI002	114	t~	t~	linguistic	Interrupted=Yes	_	_	_	_	_
-114-2	TOI002	114	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-114-3	TOI002	114	il	il	linguistic	_	_	_	_	_	_
-114-4	TOI002	114	tempo	tempo	linguistic	_	_	_	_	_	_
-114-5	TOI002	114	lo	lo	linguistic	_	_	_	_	_	_
-114-6	TOI002	114	passo	passo	linguistic	_	_	_	_	_	_
-114-7	TOI002	114	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-114-8	TOI002	114	più	più	linguistic	_	_	_	_	_	_
-114-9	TOI002	114	che	che	linguistic	_	_	_	_	_	_
-114-10	TOI002	114	altro	altro	linguistic	_	_	_	_	_	_
-114-11	TOI002	114	al	al	linguistic	_	_	_	_	_	_
-114-12	TOI002	114	bar	bar	linguistic	_	_	_	_	_	_
-114-13	TOI002	114	[(no,)]	no	linguistic	Intonation=WeaklyRising	End=191.224	_	_	0-2(0)	0-2(19)
-115-0	TOI003	115	[acqua]	acqua	linguistic	_	Begin=190.77	_	_	_	0-5(19)
-115-1	TOI003	115	gasata	gasata	linguistic	_	_	_	_	_	_
-115-2	TOI003	115	o	o	linguistic	_	_	_	_	_	_
-115-3	TOI003	115	xx?	xx	linguistic	Intonation=Rising	End=192.0	_	_	_	_
-116-0	TOI002	116	((ride))	((ride))	nonverbalbehavior	_	Begin=192.127|End=192.438	_	_	_	_
-117-0	TOR001	117	((ride))	((ride))	nonverbalbehavior	_	Begin=192.127|End=192.438	_	_	_	_
-118-0	TOI003	118	fa	fa	linguistic	_	Begin=192.669	_	_	_	_
-118-1	TOI003	118	(u)na	una	linguistic	_	_	_	_	0-1(0)	_
-118-2	TOI003	118	bellissima	bellissima	linguistic	_	_	_	_	_	_
-118-3	TOI003	118	vita	vita	linguistic	_	End=193.752	_	_	_	_
-119-0	TOI003	119	nella	nella	linguistic	_	Begin=194.872	_	_	_	_
-119-1	TOI003	119	prossima	prossima	linguistic	_	_	_	_	_	_
-119-2	TOI003	119	vita	vita	linguistic	_	_	_	_	_	_
-119-3	TOI003	119	vorrei	vorrei	linguistic	_	_	_	_	_	_
-119-4	TOI003	119	nascere	nascere	linguistic	_	_	_	_	_	_
-119-5	TOI003	119	mario	mario	linguistic	_	_	_	_	_	_
-119-6	TOI003	119	rossi	rossi	linguistic	_	End=197.597	_	_	_	_
-120-0	TOR003	120	((ride))	((ride))	nonverbalbehavior	_	Begin=197.662|End=198.024	_	_	_	_
-121-0	TOI002	121	((ride))	((ride))	nonverbalbehavior	_	Begin=197.662|End=198.024	_	_	_	_
-122-0	TOR002	122	((ride))	((ride))	nonverbalbehavior	_	Begin=197.662|End=198.024	_	_	_	_
-123-0	TOR001	123	((ride))	((ride))	nonverbalbehavior	_	Begin=197.662|End=198.024	_	_	_	_
-124-0	TOR001	124	eh	eh	linguistic	_	Begin=201.58	_	_	_	_
-124-1	TOR001	124	quindi	quindi	linguistic	_	_	_	_	_	_
-124-2	TOR001	124	lavori	lavori	linguistic	_	_	_	_	_	_
-124-3	TOR001	124	in	in	linguistic	_	_	_	_	_	_
-124-4	TOR001	124	proprio	proprio	linguistic	_	_	_	_	_	_
-124-5	TOR001	124	o	o	linguistic	_	_	_	_	_	_
-124-6	TOR001	124	sei	sei	linguistic	_	_	_	_	_	_
-124-7	TOR001	124	dipendente	dipendente	linguistic	_	_	_	_	_	_
-124-8	TOR001	124	in	in	linguistic	_	_	_	_	_	_
-124-9	TOR001	124	realtà	realtà	linguistic	_	_	_	_	_	_
-124-10	TOR001	124	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
-124-11	TOR001	124	avete	avete	linguistic	_	_	_	_	_	_
-124-12	TOR001	124	già	già	linguistic	_	_	_	_	_	_
-124-13	TOR001	124	risposto	risposto	linguistic	_	End=205.421	_	_	_	_
-125-0	TOI003	125	mh	mh	linguistic	_	Begin=205.425|End=206.018	_	_	_	_
-126-0	TOR001	126	tu	tu	linguistic	_	Begin=206.227	_	_	_	_
-126-1	TOR001	126	sei	sei	linguistic	_	_	_	_	_	_
-126-2	TOR001	126	dipen[dente]	dipendente	linguistic	_	_	_	_	_	5-10(20)
-126-3	TOR001	126	tu	tu	linguistic	_	_	_	_	_	_
-126-4	TOR001	126	invece	invece	linguistic	_	_	_	_	_	_
-126-5	TOR001	126	lavori	lavori	linguistic	_	_	_	_	_	_
-126-6	TOR001	126	in	in	linguistic	_	_	_	_	_	_
-126-7	TOR001	126	proprio,	proprio	linguistic	Intonation=WeaklyRising	_	_	_	_	_
-126-8	TOR001	126	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-126-9	TOR001	126	okay	okay	linguistic	_	End=209.17	_	_	_	_
-127-0	TOI003	127	[mh	mh	linguistic	_	Begin=206.942	_	_	_	0-2(20)
-127-1	TOI003	127	mh]	mh	linguistic	_	End=207.415	_	_	_	0-2(20)
-128-0	TOR001	128	ehm	ehm	linguistic	_	Begin=209.263	_	_	_	_
-128-1	TOR001	128	avete	avete	linguistic	_	_	_	_	_	_
-128-2	TOR001	128	sempre	sempre	linguistic	_	_	_	_	_	_
-128-3	TOR001	128	fatto	fatto	linguistic	_	_	_	_	_	_
-128-4	TOR001	128	questo	questo	linguistic	_	_	_	_	_	_
-128-5	TOR001	128	lavoro?	lavoro	linguistic	Intonation=Rising	End=212.06	_	_	_	_
-129-0	TOI003	129	[no].	no	linguistic	Intonation=Falling	Begin=212.326|End=212.84	_	_	_	0-2(21)
-130-0	TOR001	130	[o]	o	linguistic	_	Begin=212.331	_	_	_	0-1(21)
-130-1	TOR001	130	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-130-2	TOR001	130	prima	prima	linguistic	_	_	_	_	_	_
-130-3	TOR001	130	ne	ne	linguistic	_	_	_	_	_	_
-130-4	TOR001	130	facevate	facevate	linguistic	_	_	_	_	_	_
-130-5	TOR001	130	al[tri]?	altri	linguistic	Intonation=Rising	End=214.182	_	_	_	2-5(22)
-131-0	TOI003	131	[ne]	ne	linguistic	_	Begin=213.774	_	_	_	0-2(22)
-131-1	TOI003	131	facevo	facevo	linguistic	_	_	_	_	_	_
-131-2	TOI003	131	facevo	facevo	linguistic	_	_	_	_	_	_
-131-3	TOI003	131	un	un	linguistic	_	_	_	_	_	_
-131-4	TOI003	131	altro	altro	linguistic	_	_	_	_	_	_
-131-5	TOI003	131	[mestiere].	mestiere	linguistic	Intonation=Falling	End=215.389	_	_	_	0-8(23)
-132-0	TOR001	132	[okay	okay	linguistic	_	Begin=214.925	_	_	_	0-4(23)
-132-1	TOR001	132	cos]a	cosa	linguistic	_	_	_	_	_	0-3(23)
-132-2	TOR001	132	facevi?	facevi	linguistic	Intonation=Rising	End=216.047	_	_	_	_
-133-0	TOI003	133	il	il	linguistic	_	Begin=216.405	_	_	_	_
-133-1	TOI003	133	responsabile	responsabile	linguistic	_	_	_	_	_	_
-133-2	TOI003	133	tecnico	tecnico	linguistic	_	_	_	_	_	_
-133-3	TOI003	133	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-133-4	TOI003	133	alle	alle	linguistic	_	_	_	_	_	_
-133-5	TOI003	133	revisioni	revisioni	linguistic	_	_	_	_	_	_
-133-6	TOI003	133	di	di	linguistic	_	_	_	_	_	_
-133-7	TOI003	133	auto	auto	linguistic	_	_	_	_	_	_
-133-8	TOI003	133	e	e	linguistic	_	_	_	_	_	_
-133-9	TOI003	133	motoveicoli.	motoveicoli	linguistic	Intonation=Falling	End=219.79	_	_	_	_
-134-0	TOR001	134	okay	okay	linguistic	_	Begin=219.8|End=220.65	_	_	_	_
-135-0	TOI003	135	lavoravo:	lavoravo	linguistic	_	Begin=220.65	7x1	_	_	_
-135-1	TOI003	135	in	in	linguistic	_	_	_	_	_	_
-135-2	TOI003	135	un	un	linguistic	_	_	_	_	_	_
-135-3	TOI003	135	centro	centro	linguistic	_	_	_	_	_	_
-135-4	TOI003	135	revisioni	revisioni	linguistic	_	End=222.739	_	_	_	_
-136-0	TOR001	136	mh	mh	linguistic	_	Begin=222.749	_	_	_	_
-136-1	TOR001	136	mh	mh	linguistic	_	End=223.095	_	_	_	_
-137-0	TOI003	137	e:	e	linguistic	_	Begin=223.65	0x1	_	_	_
-137-1	TOI003	137	>ho	ho	linguistic	_	_	_	Fast=0-2	_	_
-137-2	TOI003	137	fatto	fatto	linguistic	_	_	_	Fast=0-5	_	_
-137-3	TOI003	137	anche	anche	linguistic	_	_	_	Fast=0-5	_	_
-137-4	TOI003	137	un	un	linguistic	_	_	_	Fast=0-2	_	_
-137-5	TOI003	137	po'	po'	linguistic	_	_	_	Fast=0-3	_	_
-137-6	TOI003	137	di	di	linguistic	_	_	_	Fast=0-2	_	_
-137-7	TOI003	137	meccanica	meccanica	linguistic	_	_	_	Fast=0-9	_	_
-137-8	TOI003	137	perché	perché	linguistic	_	_	_	Fast=0-6	_	_
-137-9	TOI003	137	ho	ho	linguistic	_	_	_	Fast=0-2	_	_
-137-10	TOI003	137	fatto	fatto	linguistic	_	_	_	Fast=0-5	_	_
-137-11	TOI003	137	la	la	linguistic	_	_	_	Fast=0-2	_	_
-137-12	TOI003	137	scuola	scuola	linguistic	_	_	_	Fast=0-6	_	_
-137-13	TOI003	137	di	di	linguistic	_	_	_	Fast=0-2	_	_
-137-14	TOI003	137	meccanica<	meccanica	linguistic	_	_	_	Fast=0-9	_	_
-137-15	TOI003	137	però	però	linguistic	_	_	_	_	_	_
-137-16	TOI003	137	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-137-17	TOI003	137	la	la	linguistic	_	_	_	_	_	_
-137-18	TOI003	137	mia	mia	linguistic	_	_	_	_	_	_
-137-19	TOI003	137	mansione	mansione	linguistic	_	_	_	_	_	_
-137-20	TOI003	137	era	era	linguistic	_	_	_	_	_	_
-137-21	TOI003	137	quella	quella	linguistic	_	_	_	_	_	_
-137-22	TOI003	137	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-137-23	TOI003	137	del	del	linguistic	_	_	_	_	_	_
-137-24	TOI003	137	revisionista.	revisionista	linguistic	Intonation=Falling	End=230.487	_	_	_	_
-138-0	TOR001	138	okay	okay	linguistic	_	Begin=230.59	_	_	_	_
-138-1	TOR001	138	cioè?	cioè	linguistic	Intonation=Rising	_	_	_	_	_
-138-2	TOR001	138	((ridendo))	((ridendo))	nonverbalbehavior	_	End=231.972	_	_	_	_
-139-0	TOR001	139	cosa	cosa	linguistic	_	Begin=232.29	_	_	_	_
-139-1	TOR001	139	[in	in	linguistic	_	_	_	_	_	0-2(24)
-139-2	TOR001	139	cosa	cosa	linguistic	_	_	_	_	_	0-4(24)
-139-3	TOR001	139	facevi	facevi	linguistic	_	_	_	_	_	0-6(24)
-139-4	TOR001	139	in	in	linguistic	_	_	_	_	_	0-2(24)
-139-5	TOR001	139	pratica],	pratica	linguistic	Intonation=WeaklyRising	End=234.04	_	_	_	0-7(24)
-140-0	TOI003	140	[xxx]	x	unknown	_	Begin=232.745|End=234.04	_	_	_	0-3(24)
-141-0	TOR001	141	[ah	ah	linguistic	_	Begin=234.119	_	_	_	0-2(25)
-141-1	TOR001	141	sì	sì	linguistic	_	_	_	_	_	0-2(25)
-141-2	TOR001	141	la	la	linguistic	_	_	_	_	_	0-2(25)
-141-3	TOR001	141	revisione	revisione	linguistic	_	_	_	_	_	0-9(25)
-141-4	TOR001	141	dell'	dell'	linguistic	SpaceAfter=No	_	_	_	_	0-5(25)
-141-5	TOR001	141	auto	auto	linguistic	_	_	_	_	_	0-4(25)
-141-6	TOR001	141	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(25)
-141-7	TOR001	141	certo	certo	linguistic	_	_	_	_	_	0-5(25)
-141-8	TOR001	141	certo	certo	linguistic	_	_	_	_	_	0-5(25)
-141-9	TOR001	141	sì	sì	linguistic	_	_	_	_	_	0-2(25)
-141-10	TOR001	141	sì]	sì	linguistic	_	End=237.34	_	_	_	0-2(25)
-142-0	TOI003	142	[la	la	linguistic	_	Begin=234.123	_	_	_	0-2(25)
-142-1	TOI003	142	re~	re~	linguistic	Interrupted=Yes	_	_	_	_	0-3(25)
-142-2	TOI003	142	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(25)
-142-3	TOI003	142	la	la	linguistic	_	_	_	_	_	0-2(25)
-142-4	TOI003	142	revisione	revisione	linguistic	_	_	_	_	_	0-9(25)
-142-5	TOI003	142	dell'	dell'	linguistic	SpaceAfter=No	_	_	_	_	0-5(25)
-142-6	TOI003	142	auto	auto	linguistic	_	_	_	_	_	0-4(25)
-142-7	TOI003	142	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(25)
-142-8	TOI003	142	io	io	linguistic	_	_	_	_	_	0-2(25)
-142-9	TOI003	142	dovevo	dovevo	linguistic	_	_	_	_	_	0-6(25)
-142-10	TOI003	142	fare:	fare	linguistic	_	_	3x1	_	_	0-4(25)
-142-11	TOI003	142	tutti	tutti	linguistic	_	_	_	_	_	0-5(25)
-142-12	TOI003	142	i]	i	linguistic	_	_	_	_	_	0-1(25)
-142-13	TOI003	142	test	test	linguistic	_	End=238.063	_	_	_	_
-143-0	TOI003	143	e	e	linguistic	_	Begin=238.255	_	_	_	_
-143-1	TOI003	143	dare	dare	linguistic	_	_	_	_	_	_
-143-2	TOI003	143	la	la	linguistic	_	_	_	_	_	_
-143-3	TOI003	143	delibera	delibera	linguistic	_	_	_	_	_	_
-143-4	TOI003	143	all'	all'	linguistic	SpaceAfter=No	_	_	_	_	_
-143-5	TOI003	143	autocircolazione	autocircolazione	linguistic	_	_	_	_	_	_
-143-6	TOI003	143	[O]	o	linguistic	Volume=High	_	_	_	_	0-1(26)
-143-7	TOI003	143	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-143-8	TOI003	143	bocciarla	bocciarla	linguistic	_	End=242.02	_	_	_	_
-144-0	TOR001	144	[okay]	okay	linguistic	_	Begin=240.435|End=241.27	_	_	_	0-4(26)
-145-0	TOR001	145	okay	okay	linguistic	_	Begin=242.03	_	_	_	_
-145-1	TOR001	145	va	va	linguistic	_	_	_	_	_	_
-145-2	TOR001	145	bene	bene	linguistic	_	End=242.923	_	_	_	_
-146-0	TOR002	146	però	però	linguistic	_	Begin=242.923	_	_	_	_
-146-1	TOR002	146	non	non	linguistic	_	_	_	_	_	_
-146-2	TOR002	146	sei	sei	linguistic	_	_	_	_	_	_
-146-3	TOR002	146	di	di	linguistic	_	_	_	_	_	_
-146-4	TOR002	146	quelli	quelli	linguistic	_	_	_	_	_	_
-146-5	TOR002	146	che	che	linguistic	_	_	_	_	_	_
-146-6	TOR002	146	fan(no)	fanno	linguistic	_	_	_	_	3-5(0)	_
-146-7	TOR002	146	le	le	linguistic	_	_	_	_	_	_
-146-8	TOR002	146	perizie	perizie	linguistic	_	_	_	_	_	_
-146-9	TOR002	146	per	per	linguistic	_	_	_	_	_	_
-146-10	TOR002	146	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
-146-11	TOR002	146	assicurazione,	assicurazione	linguistic	Intonation=WeaklyRising	End=245.797	_	_	_	_
-147-0	TOI003	147	m:h	mh	linguistic	_	Begin=245.797	0x1	_	_	_
-147-1	TOI003	147	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-147-2	TOI003	147	MAGARI	magari	linguistic	Volume=High	End=248.21	_	_	_	_
-148-0	TOI003	148	sai	sai	linguistic	_	Begin=248.32	_	_	_	_
-148-1	TOI003	148	quanta	quanta	linguistic	_	_	_	_	_	_
-148-2	TOI003	148	corruzione	corruzione	linguistic	_	_	_	_	_	_
-148-3	TOI003	148	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-148-4	TOI003	148	sai	sai	linguistic	_	_	_	_	_	_
-148-5	TOI003	148	quanti	quanti	linguistic	_	_	_	_	_	_
-148-6	TOI003	148	soldi	soldi	linguistic	_	_	_	_	_	_
-148-7	TOI003	148	no	no	linguistic	_	_	_	_	_	_
-148-8	TOI003	148	purtroppo	purtroppo	linguistic	_	_	_	_	_	_
-148-9	TOI003	148	no	no	linguistic	_	_	_	_	_	_
-148-10	TOI003	148	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-148-11	TOI003	148	hanno	hanno	linguistic	_	_	_	_	_	_
-148-12	TOI003	148	provato	provato	linguistic	_	_	_	_	_	_
-148-13	TOI003	148	a	a	linguistic	_	_	_	_	_	_
-148-14	TOI003	148	corrompermi	corrompermi	linguistic	_	_	_	_	_	_
-148-15	TOI003	148	anche	anche	linguistic	_	_	_	_	_	_
-148-16	TOI003	148	lì	lì	linguistic	_	_	_	_	_	_
-148-17	TOI003	148	però,	però	linguistic	Intonation=WeaklyRising	End=254.96	_	_	_	_
-149-0	TOR003	149	((ride))	((ride))	nonverbalbehavior	_	Begin=248.322|End=248.714	_	_	_	_
-150-0	TOI002	150	((ride))	((ride))	nonverbalbehavior	_	Begin=248.322|End=248.714	_	_	_	_
-151-0	TOR002	151	((ride))	((ride))	nonverbalbehavior	_	Begin=248.322|End=248.714	_	_	_	_
-152-0	TOR001	152	((ride))	((ride))	nonverbalbehavior	_	Begin=248.322|End=248.714	_	_	_	_
-153-0	TOI003	153	avevi	avevi	linguistic	_	Begin=255.171	_	_	_	_
-153-1	TOI003	153	era	era	linguistic	_	_	_	_	_	_
-153-2	TOI003	153	più	più	linguistic	_	_	_	_	_	_
-153-3	TOI003	153	quello	quello	linguistic	_	_	_	_	_	_
-153-4	TOI003	153	che	che	linguistic	_	_	_	_	_	_
-153-5	TOI003	153	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-153-6	TOI003	153	che	che	linguistic	_	_	_	_	_	_
-153-7	TOI003	153	perdevi	perdevi	linguistic	_	_	_	_	_	_
-153-8	TOI003	153	che	che	linguistic	_	_	_	_	_	_
-153-9	TOI003	153	quello	quello	linguistic	_	_	_	_	_	_
-153-10	TOI003	153	che	che	linguistic	_	_	_	_	_	_
-153-11	TOI003	153	guadagnavi	guadagnavi	linguistic	_	_	_	_	_	_
-153-12	TOI003	153	perché	perché	linguistic	_	_	_	_	_	_
-153-13	TOI003	153	poi	poi	linguistic	_	_	_	_	_	_
-153-14	TOI003	153	venivano	venivano	linguistic	_	_	_	_	_	_
-153-15	TOI003	153	anche	anche	linguistic	_	_	_	_	_	_
-153-16	TOI003	153	gli	gli	linguistic	_	_	_	_	_	_
-153-17	TOI003	153	ispettori	ispettori	linguistic	_	_	_	_	_	_
-153-18	TOI003	153	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-153-19	TOI003	153	della	della	linguistic	_	_	_	_	_	_
-153-20	TOI003	153	regione	regione	linguistic	_	End=261.838	_	_	_	_
-154-0	TOR002	154	ah	ah	linguistic	_	Begin=261.841|End=262.542	_	_	_	_
-155-0	TOI003	155	eh	eh	linguistic	_	Begin=262.544	_	_	_	_
-155-1	TOI003	155	cammuffati	cammuffati	linguistic	_	_	_	_	_	_
-155-2	TOI003	155	da::	da	linguistic	_	_	1x2	_	_	_
-155-3	TOI003	155	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-155-4	TOI003	155	da	da	linguistic	_	_	_	_	_	_
-155-5	TOI003	155	un	un	linguistic	_	_	_	_	_	_
-155-6	TOI003	155	privato	privato	linguistic	_	End=266.126	_	_	_	_
-156-0	TOI003	156	ti	ti	linguistic	_	Begin=266.369	_	_	_	_
-156-1	TOI003	156	portavano	portavano	linguistic	_	_	_	_	_	_
-156-2	TOI003	156	una	una	linguistic	_	_	_	_	_	_
-156-3	TOI003	156	macchina	macchina	linguistic	_	_	_	_	_	_
-156-4	TOI003	156	con:	con	linguistic	_	_	2x1	_	_	_
-156-5	TOI003	156	una	una	linguistic	_	_	_	_	_	_
-156-6	TOI003	156	serie	serie	linguistic	_	_	_	_	_	_
-156-7	TOI003	156	di	di	linguistic	_	_	_	_	_	_
-156-8	TOI003	156	problemi	problemi	linguistic	_	End=269.576	_	_	_	_
-157-0	TOI003	157	e	e	linguistic	_	Begin=269.576	_	_	_	_
-157-1	TOI003	157	tu	tu	linguistic	_	_	_	_	_	_
-157-2	TOI003	157	(in~)	in~	linguistic	Interrupted=Yes	_	_	_	0-3(0)	_
-157-3	TOI003	157	non	non	linguistic	_	_	_	_	_	_
-157-4	TOI003	157	lo	lo	linguistic	_	_	_	_	_	_
-157-5	TOI003	157	sapevi	sapevi	linguistic	_	_	_	_	_	_
-157-6	TOI003	157	quindi:	quindi	linguistic	_	_	5x1	_	_	_
-157-7	TOI003	157	stavi	stavi	linguistic	_	_	_	_	_	_
-157-8	TOI003	157	facendo	facendo	linguistic	_	_	_	_	_	_
-157-9	TOI003	157	una	una	linguistic	_	_	_	_	_	_
-157-10	TOI003	157	revisione	revisione	linguistic	_	_	_	_	_	_
-157-11	TOI003	157	a:	a	linguistic	_	_	0x1	_	_	_
-157-12	TOI003	157	un	un	linguistic	_	_	_	_	_	_
-157-13	TOI003	157	cliente	cliente	linguistic	_	End=274.003	_	_	_	_
-158-0	TOI003	158	e	e	linguistic	_	Begin=274.749	_	_	_	_
-158-1	TOI003	158	se	se	linguistic	_	_	_	_	_	_
-158-2	TOI003	158	l~	l~	linguistic	Interrupted=Yes	_	_	_	_	_
-158-3	TOI003	158	eh	eh	linguistic	_	_	_	_	_	_
-158-4	TOI003	158	lui	lui	linguistic	_	_	_	_	_	_
-158-5	TOI003	158	era	era	linguistic	_	_	_	_	_	_
-158-6	TOI003	158	lì	lì	linguistic	_	_	_	_	_	_
-158-7	TOI003	158	pronto	pronto	linguistic	_	_	_	_	_	_
-158-8	TOI003	158	per:	per	linguistic	_	_	2x1	_	_	_
-158-9	TOI003	158	annotarsi	annotarsi	linguistic	_	_	_	_	_	_
-158-10	TOI003	158	tutto	tutto	linguistic	_	End=278.534	_	_	_	_
-159-0	TOI003	159	e	e	linguistic	_	Begin=278.555	_	_	_	_
-159-1	TOI003	159	se	se	linguistic	_	_	_	_	_	_
-159-2	TOI003	159	facevi	facevi	linguistic	_	_	_	_	_	_
-159-3	TOI003	159	delle	delle	linguistic	_	_	_	_	_	_
-159-4	TOI003	159	cagate	cagate	linguistic	_	_	_	_	_	_
-159-5	TOI003	159	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-159-6	TOI003	159	e::h	eh	linguistic	_	_	0x2	_	_	_
-159-7	TOI003	159	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-159-8	TOI003	159	ti	ti	linguistic	_	_	_	_	_	_
-159-9	TOI003	159	mandavano	mandavano	linguistic	_	_	_	_	_	_
-159-10	TOI003	159	dal(la)	dalla	linguistic	_	_	_	_	3-5(0)	_
-159-11	TOI003	159	corte	corte	linguistic	_	_	_	_	_	_
-159-12	TOI003	159	di	di	linguistic	_	_	_	_	_	_
-159-13	TOI003	159	lavoro	lavoro	linguistic	_	End=283.18	_	_	_	_
-160-0	TOR002	160	pensa	pensa	linguistic	_	Begin=283.18	_	_	_	_
-160-1	TOR002	160	[te]	te	linguistic	_	End=283.806	_	_	_	0-2(27)
-161-0	TOI003	161	[per]ché	perché	linguistic	_	Begin=283.525	_	_	_	0-3(27)
-161-1	TOI003	161	eri	eri	linguistic	_	_	_	_	_	_
-161-2	TOI003	161	punibile	punibile	linguistic	_	_	_	_	_	_
-161-3	TOI003	161	a	a	linguistic	_	_	_	_	_	_
-161-4	TOI003	161	livello	livello	linguistic	_	_	_	_	_	_
-161-5	TOI003	161	civile	civile	linguistic	_	_	_	_	_	_
-161-6	TOI003	161	e	e	linguistic	_	_	_	_	_	_
-161-7	TOI003	161	penale.	penale	linguistic	Intonation=Falling	End=286.35	_	_	_	_
-162-0	TOI003	162	sì	sì	linguistic	_	Begin=286.969	_	_	_	_
-162-1	TOI003	162	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-162-2	TOI003	162	(dopo	dopo	linguistic	_	_	_	_	0-4(0)	_
-162-3	TOI003	162	sì)	sì	linguistic	_	_	_	_	0-2(0)	_
-162-4	TOI003	162	metti	metti	linguistic	_	_	_	_	_	_
-162-5	TOI003	162	una	una	linguistic	_	_	_	_	_	_
-162-6	TOI003	162	firma	firma	linguistic	_	_	_	_	_	_
-162-7	TOI003	162	quindi	quindi	linguistic	_	_	_	_	_	_
-162-8	TOI003	162	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-162-9	TOI003	162	hai	hai	linguistic	_	_	_	_	_	_
-162-10	TOI003	162	la	la	linguistic	_	_	_	_	_	_
-162-11	TOI003	162	repsonsabilità	repsonsabilità	linguistic	_	_	_	_	_	_
-162-12	TOI003	162	totale	totale	linguistic	_	_	_	_	_	_
-162-13	TOI003	162	[sulla	sulla	linguistic	_	_	_	_	_	0-5(28)
-162-14	TOI003	162	circolaz]ione	circolazione	linguistic	_	_	_	_	_	0-8(28)
-162-15	TOI003	162	del	del	linguistic	_	_	_	_	_	_
-162-16	TOI003	162	veicolo	veicolo	linguistic	_	End=292.931	_	_	_	_
-163-0	TOR001	163	[certo]	certo	linguistic	_	Begin=291.209|End=291.89	_	_	_	0-5(28)
-164-0	TOR002	164	pensa	pensa	linguistic	_	Begin=293.13	_	_	_	_
-164-1	TOR002	164	te	te	linguistic	_	End=294.0	_	_	_	_
-165-0	TOI003	165	se	se	linguistic	_	Begin=294.926	_	_	_	_
-165-1	TOI003	165	io	io	linguistic	_	_	_	_	_	_
-165-2	TOI003	165	ti	ti	linguistic	_	_	_	_	_	_
-165-3	TOI003	165	faccio	faccio	linguistic	_	_	_	_	_	_
-165-4	TOI003	165	un	un	linguistic	_	_	_	_	_	_
-165-5	TOI003	165	esempio	esempio	linguistic	_	End=296.397	_	_	_	_
-166-0	TOR001	166	mh	mh	linguistic	_	Begin=296.397	_	_	_	_
-166-1	TOR001	166	mh	mh	linguistic	_	End=296.857	_	_	_	_
-167-0	TOI003	167	>eh	eh	linguistic	_	Begin=296.857	_	Fast=0-2	_	_
-167-1	TOI003	167	davo	davo	linguistic	_	_	_	Fast=0-4	_	_
-167-2	TOI003	167	una	una	linguistic	_	_	_	Fast=0-3	_	_
-167-3	TOI003	167	delibera	delibera	linguistic	_	_	_	Fast=0-8	_	_
-167-4	TOI003	167	a	a	linguistic	_	_	_	Fast=0-1	_	_
-167-5	TOI003	167	una	una	linguistic	_	_	_	Fast=0-3	_	_
-167-6	TOI003	167	macchina	macchina	linguistic	_	_	_	Fast=0-8	_	_
-167-7	TOI003	167	e	e	linguistic	_	_	_	Fast=0-1	_	_
-167-8	TOI003	167	dicevo	dicevo	linguistic	_	_	_	Fast=0-6	_	_
-167-9	TOI003	167	ah	ah	linguistic	_	_	_	Fast=0-2	_	_
-167-10	TOI003	167	per	per	linguistic	_	_	_	Fast=0-3	_	_
-167-11	TOI003	167	me	me	linguistic	_	_	_	Fast=0-2	_	_
-167-12	TOI003	167	a	a	linguistic	_	_	_	Fast=0-1	_	_
-167-13	TOI003	167	posto	posto	linguistic	_	_	_	Fast=0-5	_	_
-167-14	TOI003	167	facevo	facevo	linguistic	_	_	_	Fast=0-6	_	_
-167-15	TOI003	167	una	una	linguistic	_	_	_	Fast=0-3	_	_
-167-16	TOI003	167	revisione	revisione	linguistic	_	_	_	Fast=0-9	_	_
-167-17	TOI003	167	blanda<	blanda	linguistic	_	_	_	Fast=0-6	_	_
-167-18	TOI003	167	questo	questo	linguistic	_	_	_	_	_	_
-167-19	TOI003	167	usciva	usciva	linguistic	_	_	_	_	_	_
-167-20	TOI003	167	aveva	aveva	linguistic	_	_	_	_	_	_
-167-21	TOI003	167	un	un	linguistic	_	_	_	_	_	_
-167-22	TOI003	167	problema	problema	linguistic	_	_	_	_	_	_
-167-23	TOI003	167	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-167-24	TOI003	167	ai	ai	linguistic	_	_	_	_	_	_
-167-25	TOI003	167	freni	freni	linguistic	_	End=302.617	_	_	_	_
-168-0	TOR001	168	mh	mh	linguistic	_	Begin=302.612	_	_	_	_
-168-1	TOR001	168	[mh	mh	linguistic	_	_	_	_	_	0-2(29)
-168-2	TOR001	168	mh]	mh	linguistic	_	End=303.406	_	_	_	0-2(29)
-169-0	TOI003	169	[e	e	linguistic	_	Begin=302.825	_	_	_	0-1(30)
-169-1	TOI003	169	ti	ti	linguistic	_	_	_	_	_	0-2(30)
-169-2	TOI003	169	inves]tiva	investiva	linguistic	_	_	_	_	_	0-5(30)
-169-3	TOI003	169	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-169-4	TOI003	169	io	io	linguistic	_	_	_	_	_	_
-169-5	TOI003	169	andavo	andavo	linguistic	_	_	_	_	_	_
-169-6	TOI003	169	in	in	linguistic	_	_	_	_	_	_
-169-7	TOI003	169	galera.	galera	linguistic	Intonation=Falling	End=305.073	_	_	_	_
-170-0	TOR001	170	ma[(donna)]	madonna	linguistic	_	Begin=305.073|End=306.1	_	_	2-7(0)	2-7(31)
-171-0	TOI003	171	[il	il	linguistic	_	Begin=305.457	_	_	_	0-2(31)
-171-1	TOI003	171	primo]	primo	linguistic	_	_	_	_	_	0-5(31)
-171-2	TOI003	171	che	che	linguistic	_	_	_	_	_	_
-171-3	TOI003	171	andavano	andavano	linguistic	_	_	_	_	_	_
-171-4	TOI003	171	a	a	linguistic	_	_	_	_	_	_
-171-5	TOI003	171	acchippiare	acchippiare	linguistic	_	_	_	_	_	_
-171-6	TOI003	171	ero	ero	linguistic	_	_	_	_	_	_
-171-7	TOI003	171	io.	io	linguistic	Intonation=Falling	End=307.456	_	_	_	_
-172-0	TOI003	172	poi	poi	linguistic	_	Begin=308.277	_	_	_	_
-172-1	TOI003	172	ovviamente	ovviamente	linguistic	_	_	_	_	_	_
-172-2	TOI003	172	dopo:	dopo	linguistic	_	End=310.234	3x1	_	_	_
-173-0	TOI003	173	dopo:	dopo	linguistic	_	Begin=310.677	3x1	_	_	_
-173-1	TOI003	173	anni	anni	linguistic	_	_	_	_	_	_
-173-2	TOI003	173	di	di	linguistic	_	_	_	_	_	_
-173-3	TOI003	173	magari	magari	linguistic	_	_	_	_	_	_
-173-4	TOI003	173	di	di	linguistic	_	_	_	_	_	_
-173-5	TOI003	173	avvocati	avvocati	linguistic	_	_	_	_	_	_
-173-6	TOI003	173	e	e	linguistic	_	_	_	_	_	_
-173-7	TOI003	173	processi	processi	linguistic	_	_	_	_	_	_
-173-8	TOI003	173	magari	magari	linguistic	_	_	_	_	_	_
-173-9	TOI003	173	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-173-10	TOI003	173	però	però	linguistic	_	_	_	_	_	_
-173-11	TOI003	173	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-173-12	TOI003	173	sei	sei	linguistic	_	_	_	_	_	_
-173-13	TOI003	173	rovinato.	rovinato	linguistic	Intonation=Falling	End=315.4	_	_	_	_
-174-0	TOR003	174	nel	nel	linguistic	_	Begin=315.4	_	_	_	_
-174-1	TOR003	174	dubbio	dubbio	linguistic	_	End=316.359	_	_	_	_
-175-0	TOI003	175	meglio	meglio	linguistic	_	Begin=316.359	_	_	_	_
-175-1	TOI003	175	andare	andare	linguistic	_	_	_	_	_	_
-175-2	TOI003	175	in	in	linguistic	_	_	_	_	_	_
-175-3	TOI003	175	messico.	messico	linguistic	Intonation=Falling	End=317.606	_	_	_	_
-176-0	TOR003	176	((ride))	((ride))	nonverbalbehavior	_	Begin=317.747|End=318.295	_	_	_	_
-177-0	TOI002	177	((ride))	((ride))	nonverbalbehavior	_	Begin=317.747|End=318.295	_	_	_	_
-178-0	TOR002	178	((ride))	((ride))	nonverbalbehavior	_	Begin=317.747|End=318.295	_	_	_	_
-179-0	TOR001	179	((ride))	((ride))	nonverbalbehavior	_	Begin=317.747|End=318.295	_	_	_	_
-180-0	TOR001	180	(nel	nel	linguistic	_	Begin=319.78	_	_	0-3(0)	_
-180-1	TOR001	180	dubbio	dubbio	linguistic	_	_	_	_	0-6(0)	_
-180-2	TOR001	180	meglio)	meglio	linguistic	_	_	_	_	0-6(0)	_
-180-3	TOR001	180	il	il	linguistic	_	_	_	_	_	_
-180-4	TOR001	180	messico	messico	linguistic	_	End=321.732	_	_	_	_
-181-0	TOR001	181	tu	tu	linguistic	_	Begin=321.732	_	_	_	_
-181-1	TOR001	181	invece	invece	linguistic	_	_	_	_	_	_
-181-2	TOR001	181	hai	hai	linguistic	_	_	_	_	_	_
-181-3	TOR001	181	sempre	sempre	linguistic	_	_	_	_	_	_
-181-4	TOR001	181	fatto	fatto	linguistic	_	_	_	_	_	_
-181-5	TOR001	181	lo	lo	linguistic	_	_	_	_	_	_
-181-6	TOR001	181	[stesso	stesso	linguistic	_	_	_	_	_	0-6(32)
-181-7	TOR001	181	lavoro]?	lavoro	linguistic	Intonation=Rising	End=323.926	_	_	_	0-6(32)
-182-0	TOI002	182	[eh	eh	linguistic	_	Begin=322.799	_	_	_	0-2(32)
-182-1	TOI002	182	io	io	linguistic	_	_	_	_	_	0-2(32)
-182-2	TOI002	182	purtroppo]	purtroppo	linguistic	_	_	_	_	_	0-9(32)
-182-3	TOI002	182	un	un	linguistic	_	_	_	_	_	_
-182-4	TOI002	182	anno	anno	linguistic	_	_	_	_	_	_
-182-5	TOI002	182	ho	ho	linguistic	_	_	_	_	_	_
-182-6	TOI002	182	lavorato	lavorato	linguistic	_	_	_	_	_	_
-182-7	TOI002	182	((ride))	((ride))	nonverbalbehavior	_	End=324.84	_	_	_	_
-183-0	TOR003	183	((ride))	((ride))	nonverbalbehavior	_	Begin=325.034|End=325.712	_	_	_	_
-184-0	TOR002	184	((ride))	((ride))	nonverbalbehavior	_	Begin=325.034|End=325.712	_	_	_	_
-185-0	TOR001	185	((ride))	((ride))	nonverbalbehavior	_	Begin=325.034|End=325.712	_	_	_	_
-186-0	TOI002	186	no	no	linguistic	_	Begin=333.372	_	_	_	_
-186-1	TOI002	186	ho	ho	linguistic	_	_	_	_	_	_
-186-2	TOI002	186	fatto::	fatto	linguistic	_	_	4x2	_	_	_
-186-3	TOI002	186	mh	mh	linguistic	_	_	_	_	_	_
-186-4	TOI002	186	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-186-5	TOI002	186	pavimenti	pavimenti	linguistic	_	_	_	_	_	_
-186-6	TOI002	186	in	in	linguistic	_	_	_	_	_	_
-186-7	TOI002	186	resina	resina	linguistic	_	_	_	_	_	_
-186-8	TOI002	186	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-186-9	TOI002	186	da	da	linguistic	_	_	_	_	_	_
-186-10	TOI002	186	operaio	operaio	linguistic	_	_	_	_	_	_
-186-11	TOI002	186	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-186-12	TOI002	186	[in	in	linguistic	_	_	_	_	_	0-2(33)
-186-13	TOI002	186	una	una	linguistic	_	_	_	_	_	0-3(33)
-186-14	TOI002	186	ditta]:	ditta	linguistic	_	_	4x1	_	_	0-5(33)
-186-15	TOI002	186	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-186-16	TOI002	186	che	che	linguistic	_	_	_	_	_	_
-186-17	TOI002	186	conoscevamo	conoscevamo	linguistic	_	End=339.26	_	_	_	_
-187-0	TOR001	187	[okay]	okay	linguistic	_	Begin=336.668|End=337.465	_	_	_	0-4(33)
+token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+0-0	TOI002	0	conosci	conosci	linguistic	none	_	Begin=1.01	_	_	_	_
+0-1	TOI002	0	dialetti	dialetti	linguistic	none	_	_	_	_	_	_
+0-2	TOI002	0	o	o	linguistic	none	_	_	_	_	_	_
+0-3	TOI002	0	altre	altre	linguistic	none	_	_	_	_	_	_
+0-4	TOI002	0	lingue,	lingue	linguistic	none	Intonation=WeaklyRising	End=2.922	_	_	_	_
+1-0	TOI002	1	no.	no	linguistic	none	Intonation=Falling	Begin=5.13|End=5.646	_	_	_	_
+2-0	TOI002	2	°parlo	parlo	linguistic	none	Volume=Low	Begin=6.518	_	_	_	_
+2-1	TOI002	2	a	a	linguistic	none	Volume=Low	_	_	_	_	_
+2-2	TOI002	2	malapena	malapena	linguistic	none	Volume=Low	_	_	_	_	_
+2-3	TOI002	2	l'	l'	linguistic	none	SpaceAfter=No|Volume=Low	_	_	_	_	_
+2-4	TOI002	2	italiano°	italiano	linguistic	none	Volume=Low	End=8.151	_	_	_	_
+3-0	TOR001	3	°allo:ra°	allora	linguistic	none	Volume=Low	Begin=8.464|End=9.137	3x1	_	_	_
+4-0	TOI003	4	non	non	linguistic	none	_	Begin=9.93	_	_	_	_
+4-1	TOI003	4	conosco	conosco	linguistic	none	_	_	_	_	_	_
+4-2	TOI003	4	neanche	neanche	linguistic	none	_	_	_	_	_	_
+4-3	TOI003	4	il	il	linguistic	none	_	_	_	_	_	_
+4-4	TOI003	4	mio	mio	linguistic	none	_	_	_	_	_	_
+4-5	TOI003	4	di	di	linguistic	none	_	_	_	_	_	_
+4-6	TOI003	4	dialetto	dialetto	linguistic	none	_	_	_	_	_	_
+4-7	TOI003	4	((ride))	((ride))	nonverbalbehavior	none	_	End=12.058	_	_	_	_
+5-0	TOI003	5	o	o	linguistic	none	_	Begin=13.354	_	_	_	_
+5-1	TOI003	5	altre	altre	linguistic	none	_	_	_	_	_	_
+5-2	TOI003	5	lingue	lingue	linguistic	none	_	End=14.474	_	_	_	_
+6-0	TOI002	6	città	città	linguistic	none	_	Begin=15.264	_	_	_	_
+6-1	TOI002	6	di	di	linguistic	none	_	_	_	_	_	_
+6-2	TOI002	6	nascita	nascita	linguistic	none	_	_	_	_	_	_
+6-3	TOI002	6	del	del	linguistic	none	_	_	_	_	_	_
+6-4	TOI002	6	pa:dre,	padre	linguistic	none	Intonation=WeaklyRising	End=16.656	1x1	_	_	_
+7-0	TOI002	7	(questa	questa	linguistic	none	_	Begin=17.31	_	_	0-6(0)	_
+7-1	TOI002	7	è)	è	linguistic	none	_	_	_	_	0-1(0)	_
+7-2	TOI002	7	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+7-3	TOI002	7	una	una	linguistic	none	_	_	_	_	_	_
+7-4	TOI002	7	domanda	domanda	linguistic	none	_	_	_	_	_	_
+7-5	TOI002	7	un	un	linguistic	none	_	_	_	_	_	_
+7-6	TOI002	7	po'	po'	linguistic	none	_	_	_	_	_	_
+7-7	TOI002	7	infame	infame	linguistic	none	_	End=18.886	_	_	_	_
+8-0	TOI003	8	io	io	linguistic	none	_	Begin=19.578	_	_	_	_
+8-1	TOI003	8	metto	metto	linguistic	none	_	_	_	_	_	_
+8-2	TOI003	8	sì.	sì	linguistic	none	Intonation=Falling	End=20.34	_	_	_	_
+9-0	TOR001	9	((ride))	((ride))	nonverbalbehavior	none	_	Begin=21.199|End=22.118	_	_	_	_
+10-0	TOI002	10	ma	ma	linguistic	none	_	Begin=22.628	_	_	_	_
+10-1	TOI002	10	che	che	linguistic	none	_	_	_	_	_	_
+10-2	TOI002	10	co:sa?	cosa	linguistic	none	Intonation=Rising	End=23.289	1x1	_	_	_
+11-0	TOI003	11	conosci	conosci	linguistic	none	_	Begin=24.078	_	_	_	_
+11-1	TOI003	11	dialetti	dialetti	linguistic	none	_	_	_	_	_	_
+11-2	TOI003	11	italiani	italiani	linguistic	none	_	_	_	_	_	_
+11-3	TOI003	11	xx	x	unknown	none	_	_	_	_	_	_
+11-4	TOI003	11	altre	altre	linguistic	none	_	_	_	_	_	_
+11-5	TOI003	11	[lingue]	lingue	linguistic	none	_	End=26.32	_	_	_	0-6(0)
+12-0	TOI002	12	[che]	che	linguistic	none	_	Begin=25.989	_	_	_	0-3(0)
+12-1	TOI002	12	lingue	lingue	linguistic	none	_	_	_	_	_	_
+12-2	TOI002	12	cono:sci?	conosci	linguistic	none	Intonation=Rising	End=27.097	3x1	_	_	_
+13-0	TOI003	13	eh?	eh	linguistic	none	Intonation=Rising	Begin=27.103|End=27.476	_	_	_	_
+14-0	TOI002	14	che	che	linguistic	none	_	Begin=27.476	_	_	_	_
+14-1	TOI002	14	lingue	lingue	linguistic	none	_	_	_	_	_	_
+14-2	TOI002	14	conosci?	conosci	linguistic	none	Intonation=Rising	End=28.532	_	_	_	_
+15-0	TOI003	15	vabbè	vabbè	linguistic	none	_	Begin=28.563	_	_	_	_
+15-1	TOI003	15	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
+15-2	TOI003	15	inglese	inglese	linguistic	none	_	_	_	_	_	_
+15-3	TOI003	15	quando	quando	linguistic	none	_	_	_	_	_	_
+15-4	TOI003	15	vado	vado	linguistic	none	_	_	_	_	_	_
+15-5	TOI003	15	all'	all'	linguistic	none	SpaceAfter=No	_	_	_	_	_
+15-6	TOI003	15	estero	estero	linguistic	none	_	_	_	_	_	_
+15-7	TOI003	15	parlo	parlo	linguistic	none	_	_	_	_	_	4-5(1)
+15-8	TOI003	15	[eh	eh	linguistic	none	_	_	_	_	_	0-2(1)
+15-9	TOI003	15	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	0-3(1)
+15-10	TOI003	15	mi	mi	linguistic	none	_	_	_	_	_	0-2(1)
+15-11	TOI003	15	faccio	faccio	linguistic	none	_	_	_	_	_	0-6(1)
+15-12	TOI003	15	capi]re	capire	linguistic	none	_	End=32.479	_	_	_	0-3(1)
+16-0	TOI002	16	[ma	ma	linguistic	none	_	Begin=30.816	_	_	_	0-2(1)
+16-1	TOI002	16	vaff(anculo)]	vaffanculo	linguistic	none	_	_	_	_	4-10(0)	0-10(1)
+16-2	TOI002	16	((ride))	((ride))	nonverbalbehavior	none	_	End=32.049	_	_	_	_
+17-0	TOR001	17	((ride))	((ride))	nonverbalbehavior	none	_	Begin=31.436|End=39.064	_	_	_	_
+18-0	TOI002	18	anch'	anch'	linguistic	none	SpaceAfter=No	Begin=32.496	_	_	_	_
+18-1	TOI002	18	io	io	linguistic	none	_	_	_	_	_	_
+18-2	TOI002	18	mi	mi	linguistic	none	_	_	_	_	_	_
+18-3	TOI002	18	faccio	faccio	linguistic	none	_	_	_	_	_	_
+18-4	TOI002	18	capire	capire	linguistic	none	_	_	_	_	_	_
+18-5	TOI002	18	[cazzo	cazzo	linguistic	none	_	_	_	_	_	0-5(2)
+18-6	TOI002	18	vuol	vuol	linguistic	none	_	_	_	_	_	0-4(2)
+18-7	TOI002	18	dire	dire	linguistic	none	_	_	_	_	_	0-4(2)
+18-8	TOI002	18	xxx]xx	x	unknown	none	_	End=35.719	_	_	_	0-3(2)
+19-0	TOI003	19	[eh	eh	linguistic	none	_	Begin=33.623	_	_	_	0-2(2)
+19-1	TOI003	19	sì	sì	linguistic	none	_	_	_	_	_	0-2(2)
+19-2	TOI003	19	(per	per	linguistic	none	_	_	_	_	0-3(0)	0-3(2)
+19-3	TOI003	19	gesti)]	gesti	linguistic	none	_	End=35.277	_	_	0-5(0)	0-5(2)
+20-0	TOR001	20	e:h	eh	linguistic	none	_	Begin=44.954	0x1	_	_	_
+20-1	TOR001	20	qua[ttro],	quattro	linguistic	none	Intonation=WeaklyRising	End=45.987	_	_	_	3-7(3)
+21-0	TOR002	21	[tre	tre	linguistic	none	_	Begin=45.33	_	_	_	0-3(?)
+21-1	TOR002	21	quattro]	quattro	linguistic	none	_	End=46.4	_	_	_	0-7(?)
+22-0	TOR003	22	[qua]ttro	quattro	linguistic	none	_	Begin=46.035|End=46.653	_	_	_	0-3(4)
+23-0	TOI002	23	°(siamo	siamo	linguistic	none	Volume=Low	Begin=47.872	_	_	0-5(0)	_
+23-1	TOI002	23	nel)	nel	linguistic	none	Volume=Low	_	_	_	0-3(0)	_
+23-2	TOI002	23	duemiladiciotto°	duemiladiciotto	linguistic	none	Volume=Low	End=50.194	_	_	_	_
+24-0	TOR002	24	°puoi	puoi	linguistic	none	Volume=Low	Begin=55.574	_	_	_	_
+24-1	TOR002	24	mica	mica	linguistic	none	Volume=Low	_	_	_	_	_
+24-2	TOR002	24	spegnere	spegnere	linguistic	none	Volume=Low	_	_	_	_	_
+24-3	TOR002	24	quella	quella	linguistic	none	Volume=Low	_	_	_	_	_
+24-4	TOR002	24	luce	luce	linguistic	none	Volume=Low	_	_	_	_	_
+24-5	TOR002	24	lì?°	lì	linguistic	none	Intonation=Rising|Volume=Low	End=57.203	_	_	_	_
+25-0	TOR001	25	ma	ma	linguistic	none	_	Begin=57.228	_	_	_	_
+25-1	TOR001	25	ba:sta	basta	linguistic	none	_	_	1x1	_	_	_
+25-2	TOR001	25	con	con	linguistic	none	_	_	_	_	_	_
+25-3	TOR001	25	ste	ste	linguistic	none	_	_	_	_	_	_
+25-4	TOR001	25	lu:ci	luci	linguistic	none	_	_	1x1	_	_	_
+25-5	TOR001	25	((ride))	((ride))	nonverbalbehavior	none	_	End=58.93	_	_	_	_
+26-0	TOI003	26	quanti	quanti	linguistic	none	_	Begin=59.477	_	_	_	_
+26-1	TOI003	26	ne	ne	linguistic	none	_	_	_	_	_	_
+26-2	TOI003	26	abbiamo	abbiamo	linguistic	none	_	_	_	_	_	_
+26-3	TOI003	26	oggi,	oggi	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
+26-4	TOI003	26	tre?	tre	linguistic	none	Intonation=Rising	End=60.684	_	_	_	_
+27-0	TOI003	27	quanti	quanti	linguistic	none	_	Begin=62.385	_	_	_	_
+27-1	TOI003	27	ne	ne	linguistic	none	_	_	_	_	_	_
+27-2	TOI003	27	abbiamo	abbiamo	linguistic	none	_	_	_	_	_	_
+27-3	TOI003	27	oggi?	oggi	linguistic	none	Intonation=Rising	End=63.399	_	_	_	_
+28-0	TOR001	28	quattro	quattro	linguistic	none	_	Begin=63.462|End=64.144	_	_	_	_
+29-0	TOI003	29	eh	eh	linguistic	none	_	Begin=64.992	_	_	_	_
+29-1	TOI003	29	io	io	linguistic	none	_	_	_	_	_	_
+29-2	TOI003	29	in	in	linguistic	none	_	_	_	_	_	_
+29-3	TOI003	29	vacanza	vacanza	linguistic	none	_	_	_	_	_	_
+29-4	TOI003	29	perdo	perdo	linguistic	none	_	_	_	_	_	_
+29-5	TOI003	29	tutto	tutto	linguistic	none	_	End=66.854	_	_	_	_
+30-0	TOR001	30	((ride))	((ride))	nonverbalbehavior	none	_	Begin=66.372|End=66.83	_	_	_	_
+31-0	TOI003	31	è	è	linguistic	none	_	Begin=67.206	_	_	_	_
+31-1	TOI003	31	diciotto?	diciotto	linguistic	none	Intonation=Rising	End=68.143	_	_	_	_
+32-0	TOI003	32	xx	x	unknown	none	_	Begin=68.404|End=69.414	_	_	_	_
+33-0	TOR001	33	((ride))	((ride))	nonverbalbehavior	none	_	Begin=69.434|End=69.936	_	_	_	_
+34-0	TOR001	34	grazie.	grazie	linguistic	none	Intonation=Falling	Begin=71.798|End=72.355	_	_	_	_
+35-0	TOI002	35	ma	ma	linguistic	none	_	Begin=74.79	_	_	_	_
+35-1	TOI002	35	è	è	linguistic	none	_	_	_	_	_	_
+35-2	TOI002	35	un'	un'	linguistic	none	SpaceAfter=No	_	_	_	_	_
+35-3	TOI002	35	intervista	intervista	linguistic	none	_	_	_	_	_	_
+35-4	TOI002	35	doppia	doppia	linguistic	none	_	_	_	_	_	_
+35-5	TOI002	35	o	o	linguistic	none	_	_	_	_	_	_
+35-6	TOI002	35	singola?	singola	linguistic	none	Intonation=Rising	End=76.15	_	_	_	_
+36-0	TOR001	36	doppia	doppia	linguistic	none	_	Begin=76.166	_	_	_	_
+36-1	TOR001	36	doppia	doppia	linguistic	none	_	_	_	_	_	_
+36-2	TOR001	36	la	la	linguistic	none	_	_	_	_	_	_
+36-3	TOR001	36	fate	fate	linguistic	none	_	_	_	_	_	_
+36-4	TOR001	36	insie[me]	insieme	linguistic	none	_	End=77.501	_	_	_	5-7(5)
+37-0	TOI002	37	[ti]po	tipo	linguistic	none	_	Begin=77.232	_	_	_	0-2(5)
+37-1	TOI002	37	le	le	linguistic	none	_	_	_	_	_	_
+37-2	TOI002	37	iene?	iene	linguistic	none	Intonation=Rising	End=77.999	_	_	_	_
+38-0	TOI003	38	((ride))	((ride))	nonverbalbehavior	none	_	Begin=78.08|End=78.492	_	_	_	_
+39-0	TOR001	39	((ride))	((ride))	nonverbalbehavior	none	_	Begin=78.08|End=78.492	_	_	_	_
+40-0	TOI003	40	chi	chi	linguistic	none	_	Begin=79.941	_	_	_	_
+40-1	TOI003	40	è	è	linguistic	none	_	_	_	_	_	_
+40-2	TOI003	40	più	più	linguistic	none	_	_	_	_	_	_
+40-3	TOI003	40	bravo	bravo	linguistic	none	_	_	_	_	_	_
+40-4	TOI003	40	a	a	linguistic	none	_	_	_	_	_	_
+40-5	TOI003	40	letto?	letto	linguistic	none	Intonation=Rising	_	_	_	_	_
+40-6	TOI003	40	lui.	lui	linguistic	none	Intonation=Falling	End=81.378	_	_	_	_
+41-0	TOR003	41	((ride))	((ride))	nonverbalbehavior	none	_	Begin=81.571|End=82.038	_	_	_	_
+42-0	TOI002	42	((ride))	((ride))	nonverbalbehavior	none	_	Begin=81.571|End=82.038	_	_	_	_
+43-0	TOR002	43	((ride))	((ride))	nonverbalbehavior	none	_	Begin=81.571|End=82.038	_	_	_	_
+44-0	TOR001	44	((ride))	((ride))	nonverbalbehavior	none	_	Begin=81.571|End=82.038	_	_	_	_
+45-0	TOI003	45	e::h	eh	linguistic	none	_	Begin=84.719	0x2	_	_	_
+45-1	TOI003	45	devo	devo	linguistic	none	_	_	_	_	_	_
+45-2	TOI003	45	crocettare	crocettare	linguistic	none	_	_	_	_	_	_
+45-3	TOI003	45	gli	gli	linguistic	none	_	_	_	_	_	_
+45-4	TOI003	45	ultimi	ultimi	linguistic	none	_	_	_	_	_	_
+45-5	TOI003	45	due	due	linguistic	none	_	_	_	_	_	_
+45-6	TOI003	45	[quadratini,	quadratini	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-10(6)
+45-7	TOI003	45	giusto]?	giusto	linguistic	none	Intonation=Rising	End=87.904	_	_	_	0-6(6)
+46-0	TOI002	46	[tutto	tutto	linguistic	none	_	Begin=86.464	_	_	_	0-5(?)
+46-1	TOI002	46	sì,	sì	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-2(?)
+46-2	TOI002	46	crocetta	crocetta	linguistic	none	_	_	_	_	_	0-8(?)
+46-3	TOI002	46	e	e	linguistic	none	_	_	_	_	_	0-1(?)
+46-4	TOI002	46	firma]	firma	linguistic	none	_	_	_	_	_	0-5(?)
+46-5	TOI002	46	dai	dai	linguistic	none	_	_	_	_	_	_
+46-6	TOI002	46	xx	x	unknown	none	_	_	_	_	_	_
+46-7	TOI002	46	(minchia)	minchia	linguistic	none	_	_	_	_	0-7(0)	_
+46-8	TOI002	46	non	non	linguistic	none	_	_	_	_	_	_
+46-9	TOI002	46	finiamo	finiamo	linguistic	none	_	_	_	_	_	_
+46-10	TOI002	46	più	più	linguistic	none	_	End=89.97	_	_	_	_
+47-0	TOR001	47	[vai	vai	linguistic	none	_	Begin=87.933	_	_	_	0-3(7)
+47-1	TOR001	47	vai]	vai	linguistic	none	_	End=88.575	_	_	_	0-3(7)
+48-0	TOI002	48	bravo.	bravo	linguistic	none	Intonation=Falling	Begin=90.503|End=91.008	_	_	_	_
+49-0	TOI003	49	c(io)è	cioè	linguistic	none	_	Begin=91.591	_	_	1-3(0)	_
+49-1	TOI003	49	hai	hai	linguistic	none	_	_	_	_	_	_
+49-2	TOI003	49	iniziato	iniziato	linguistic	none	_	_	_	_	_	_
+49-3	TOI003	49	prima	prima	linguistic	none	_	_	_	_	_	_
+49-4	TOI003	49	di	di	linguistic	none	_	_	_	_	_	_
+49-5	TOI003	49	me	me	linguistic	none	_	_	_	_	_	_
+49-6	TOI003	49	e	e	linguistic	none	_	_	_	_	_	_
+49-7	TOI003	49	hai	hai	linguistic	none	_	_	_	_	_	_
+49-8	TOI003	49	finito	finito	linguistic	none	_	_	_	_	_	_
+49-9	TOI003	49	prima?	prima	linguistic	none	Intonation=Rising	End=92.947	_	_	_	_
+50-0	TOI002	50	okay	okay	linguistic	none	_	Begin=92.98|End=93.47	_	_	_	_
+51-0	TOR001	51	okay	okay	linguistic	none	_	Begin=93.533	_	_	_	_
+51-1	TOR001	51	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+51-2	TOR001	51	grazie	grazie	linguistic	none	_	End=95.233	_	_	_	_
+52-0	TOI002	52	°grazie	grazie	linguistic	none	Volume=Low	Begin=95.399	_	_	_	_
+52-1	TOI002	52	a	a	linguistic	none	Volume=Low	_	_	_	_	_
+52-2	TOI002	52	te.°	te	linguistic	none	Intonation=Falling|Volume=Low	End=96.1	_	_	_	_
+53-0	TOR001	53	allora	allora	linguistic	none	_	Begin=96.12	_	_	_	_
+53-1	TOR001	53	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
+53-2	TOR001	53	intervista	intervista	linguistic	none	_	_	_	_	_	_
+53-3	TOR001	53	riguarda	riguarda	linguistic	none	_	End=97.85	_	_	_	_
+54-0	TOR001	54	e:hm	ehm	linguistic	none	_	Begin=98.021	0x1	_	_	_
+54-1	TOR001	54	le	le	linguistic	none	_	_	_	_	_	_
+54-2	TOR001	54	abitudini	abitudini	linguistic	none	_	_	_	_	_	_
+54-3	TOR001	54	di	di	linguistic	none	_	_	_	_	_	_
+54-4	TOR001	54	giovani	giovani	linguistic	none	_	_	_	_	_	_
+54-5	TOR001	54	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+54-6	TOR001	54	lavoratori	lavoratori	linguistic	none	_	_	_	_	_	_
+54-7	TOR001	54	torinesi	torinesi	linguistic	none	_	_	_	_	_	_
+54-8	TOR001	54	quindi	quindi	linguistic	none	_	_	_	_	_	_
+54-9	TOR001	54	gli	gli	linguistic	none	_	_	_	_	_	_
+54-10	TOR001	54	argomenti	argomenti	linguistic	none	_	_	_	_	_	_
+54-11	TOR001	54	sono	sono	linguistic	none	_	_	_	_	_	_
+54-12	TOR001	54	un	un	linguistic	none	_	_	_	_	_	_
+54-13	TOR001	54	po':	po'	linguistic	none	_	_	1x1	_	_	_
+54-14	TOR001	54	vari	vari	linguistic	none	_	End=103.348	_	_	_	_
+55-0	TOI002	55	okay	okay	linguistic	none	_	Begin=103.44|End=104.131	_	_	_	_
+56-0	TOR001	56	bene	bene	linguistic	none	_	Begin=104.262	_	_	_	_
+56-1	TOR001	56	quindi	quindi	linguistic	none	_	_	_	_	_	_
+56-2	TOR001	56	iniziamo	iniziamo	linguistic	none	_	_	_	_	_	_
+56-3	TOR001	56	che	che	linguistic	none	_	_	_	_	_	_
+56-4	TOR001	56	lavoro	lavoro	linguistic	none	_	_	_	_	_	_
+56-5	TOR001	56	fate?	fate	linguistic	none	Intonation=Rising	End=106.334	_	_	_	_
+57-0	TOI003	57	operaio.	operaio	linguistic	none	Intonation=Falling	Begin=106.39|End=107.41	_	_	_	_
+58-0	TOI002	58	[io	io	linguistic	none	_	Begin=107.52	_	_	_	0-2(?)
+58-1	TOI002	58	metalmeccanico]	metalmeccanico	linguistic	none	_	End=108.824	_	_	_	0-14(?)
+59-0	TOR001	59	[mh	mh	linguistic	none	_	Begin=107.52	_	_	_	0-2(8)
+59-1	TOR001	59	mh]	mh	linguistic	none	_	End=108.05	_	_	_	0-2(8)
+60-0	TOI003	60	[°xxxx°]	x	unknown	none	Volume=Low	Begin=108.182|End=108.807	_	_	_	0-4(9)
+61-0	TOR001	61	okay	okay	linguistic	none	_	Begin=108.903|End=109.65	_	_	_	_
+62-0	TOR001	62	da	da	linguistic	none	_	Begin=109.752	_	_	_	_
+62-1	TOR001	62	quanto	quanto	linguistic	none	_	_	_	_	_	_
+62-2	TOR001	62	tempo?	tempo	linguistic	none	Intonation=Rising	End=110.97	_	_	_	_
+63-0	TOI003	63	m::h	mh	linguistic	none	_	Begin=111.253	0x2	_	_	_
+63-1	TOI003	63	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+63-2	TOI003	63	questo	questo	linguistic	none	_	_	_	_	_	_
+63-3	TOI003	63	lavoro	lavoro	linguistic	none	_	_	_	_	_	_
+63-4	TOI003	63	o	o	linguistic	none	_	_	_	_	_	_
+63-5	TOI003	63	anche:	anche	linguistic	none	_	_	4x1	_	_	_
+63-6	TOI003	63	quello	quello	linguistic	none	_	_	_	_	_	_
+63-7	TOI003	63	pri[ma],	prima	linguistic	none	Intonation=WeaklyRising	End=114.783	_	_	_	3-5(10)
+64-0	TOR001	64	[que]sto	questo	linguistic	none	_	Begin=114.496	_	_	_	0-3(10)
+64-1	TOR001	64	lavoro	lavoro	linguistic	none	_	End=115.293	_	_	_	_
+65-0	TOI003	65	quattro	quattro	linguistic	none	_	Begin=115.78	_	_	_	_
+65-1	TOI003	65	anni	anni	linguistic	none	_	End=116.677	_	_	_	_
+66-0	TOR001	66	ah	ah	linguistic	none	_	Begin=116.677	_	_	_	_
+66-1	TOR001	66	caspita	caspita	linguistic	none	_	_	_	_	_	_
+66-2	TOR001	66	un	un	linguistic	none	_	_	_	_	_	_
+66-3	TOR001	66	sacco	sacco	linguistic	none	_	End=117.567	_	_	_	_
+67-0	TOI002	67	dodici.	dodici	linguistic	none	Intonation=Falling	Begin=117.571|End=118.174	_	_	_	_
+68-0	TOI003	68	un	un	linguistic	none	_	Begin=118.211	_	_	_	_
+68-1	TOI003	68	sacco	sacco	linguistic	none	_	End=118.789	_	_	_	_
+69-0	TOR003	69	((ride))	((ride))	nonverbalbehavior	none	_	Begin=118.833|End=119.19	_	_	_	_
+70-0	TOI003	70	((ride))	((ride))	nonverbalbehavior	none	_	Begin=118.833|End=119.19	_	_	_	_
+71-0	TOI002	71	((ride))	((ride))	nonverbalbehavior	none	_	Begin=118.833|End=119.19	_	_	_	_
+72-0	TOR002	72	((ride))	((ride))	nonverbalbehavior	none	_	Begin=118.833|End=119.19	_	_	_	_
+73-0	TOR001	73	((ride))	((ride))	nonverbalbehavior	none	_	Begin=119.725|End=121.47	_	_	_	_
+74-0	TOI003	74	[x]	x	unknown	none	_	Begin=121.312|End=122.055	_	_	_	0-1(11)
+75-0	TOR001	75	[in]	in	linguistic	none	_	Begin=121.471	_	_	_	0-2(11)
+75-1	TOR001	75	cosa	cosa	linguistic	none	_	_	_	_	_	_
+75-2	TOR001	75	consiste	consiste	linguistic	none	_	_	_	_	_	_
+75-3	TOR001	75	il	il	linguistic	none	_	_	_	_	_	_
+75-4	TOR001	75	lavoro,	lavoro	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
+75-5	TOR001	75	cioè	cioè	linguistic	none	_	_	_	_	_	_
+75-6	TOR001	75	cosa	cosa	linguistic	none	_	_	_	_	_	_
+75-7	TOR001	75	fate?	fate	linguistic	none	Intonation=Rising	End=124.348	_	_	_	_
+76-0	TOI003	76	allora	allora	linguistic	none	_	Begin=124.452	_	_	_	_
+76-1	TOI003	76	noi	noi	linguistic	none	_	_	_	_	_	_
+76-2	TOI003	76	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+76-3	TOI003	76	produciamo	produciamo	linguistic	none	_	_	_	_	_	_
+76-4	TOI003	76	bulloneria	bulloneria	linguistic	none	_	_	_	_	_	_
+76-5	TOI003	76	e	e	linguistic	none	_	_	_	_	_	_
+76-6	TOI003	76	viteria	viteria	linguistic	none	_	_	_	_	_	_
+76-7	TOI003	76	speciale	speciale	linguistic	none	_	End=129.02	_	_	_	_
+77-0	TOR001	77	mh	mh	linguistic	none	_	Begin=129.03	_	_	_	_
+77-1	TOR001	77	mh	mh	linguistic	none	_	End=129.55	_	_	_	_
+78-0	TOI003	78	esportiamo	esportiamo	linguistic	none	_	Begin=129.794	_	_	_	_
+78-1	TOI003	78	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+78-2	TOI003	78	in	in	linguistic	none	_	_	_	_	_	_
+78-3	TOI003	78	tutto	tutto	linguistic	none	_	_	_	_	_	_
+78-4	TOI003	78	il	il	linguistic	none	_	_	_	_	_	_
+78-5	TOI003	78	mondo,	mondo	linguistic	none	Intonation=WeaklyRising	End=132.266	_	_	_	_
+79-0	TOR001	79	mh	mh	linguistic	none	_	Begin=132.338	_	_	_	_
+79-1	TOR001	79	mh	mh	linguistic	none	_	End=132.79	_	_	_	_
+80-0	TOI003	80	ed	ed	linguistic	none	_	Begin=132.81	_	_	_	_
+80-1	TOI003	80	è::	è	linguistic	none	ProsodicLink=Yes	_	0x2	_	_	_
+80-2	TOI003	80	mh	mh	linguistic	none	_	End=134.37	_	_	_	_
+81-0	TOI003	81	praticamente	praticamente	linguistic	none	_	Begin=134.421	_	_	_	_
+81-1	TOI003	81	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+81-2	TOI003	81	ci	ci	linguistic	none	_	_	_	_	_	_
+81-3	TOI003	81	sono	sono	linguistic	none	_	_	_	_	_	_
+81-4	TOI003	81	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+81-5	TOI003	81	eh	eh	linguistic	none	_	_	_	_	_	_
+81-6	TOI003	81	ditte	ditte	linguistic	none	_	_	_	_	_	_
+81-7	TOI003	81	come	come	linguistic	none	_	_	_	_	_	_
+81-8	TOI003	81	noi	noi	linguistic	none	_	_	_	_	_	_
+81-9	TOI003	81	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+81-10	TOI003	81	che	che	linguistic	none	_	_	_	_	_	_
+81-11	TOI003	81	prudono	prudono	linguistic	none	_	_	_	_	_	_
+81-12	TOI003	81	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+81-13	TOI003	81	le:	le	linguistic	none	_	_	1x1	_	_	_
+81-14	TOI003	81	bulloneria	bulloneria	linguistic	none	_	_	_	_	_	_
+81-15	TOI003	81	e	e	linguistic	none	_	_	_	_	_	_
+81-16	TOI003	81	viteria	viteria	linguistic	none	_	_	_	_	_	_
+81-17	TOI003	81	<normale>	normale	linguistic	none	_	End=142.077	_	Slow=0-7	_	_
+82-0	TOR001	82	mh	mh	linguistic	none	_	Begin=142.085	_	_	_	_
+82-1	TOR001	82	mh	mh	linguistic	none	_	End=142.5	_	_	_	_
+83-0	TOI003	83	quella	quella	linguistic	none	_	Begin=142.5	_	_	_	_
+83-1	TOI003	83	base	base	linguistic	none	_	_	_	_	_	_
+83-2	TOI003	83	noi	noi	linguistic	none	_	_	_	_	_	_
+83-3	TOI003	83	facciamo	facciamo	linguistic	none	_	_	_	_	_	_
+83-4	TOI003	83	ci	ci	linguistic	none	_	_	_	_	_	_
+83-5	TOI003	83	occupiamo	occupiamo	linguistic	none	_	_	_	_	_	_
+83-6	TOI003	83	solo	solo	linguistic	none	_	_	_	_	_	_
+83-7	TOI003	83	dello	dello	linguistic	none	_	_	_	_	_	_
+83-8	TOI003	83	speciale.	speciale	linguistic	none	Intonation=Falling	End=145.311	_	_	_	_
+84-0	TOR001	84	okay	okay	linguistic	none	_	Begin=145.311|End=145.87	_	_	_	_
+85-0	TOI003	85	quindi	quindi	linguistic	none	_	Begin=145.87	_	_	_	_
+85-1	TOI003	85	siamo:	siamo	linguistic	none	_	_	4x1	_	_	_
+85-2	TOI003	85	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+85-3	TOI003	85	un'	un'	linguistic	none	SpaceAfter=No	_	_	_	_	_
+85-4	TOI003	85	azienda	azienda	linguistic	none	_	_	_	_	_	_
+85-5	TOI003	85	unica	unica	linguistic	none	_	_	_	_	_	_
+85-6	TOI003	85	in	in	linguistic	none	_	_	_	_	_	_
+85-7	TOI003	85	italia	italia	linguistic	none	_	_	_	_	_	_
+85-8	TOI003	85	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+85-9	TOI003	85	[che	che	linguistic	none	_	_	_	_	_	0-3(12)
+85-10	TOI003	85	fa]	fa	linguistic	none	_	_	_	_	_	0-2(12)
+85-11	TOI003	85	questa	questa	linguistic	none	_	_	_	_	_	_
+85-12	TOI003	85	cosa	cosa	linguistic	none	_	_	_	_	_	_
+85-13	TOI003	85	qua	qua	linguistic	none	_	End=150.16	_	_	_	_
+86-0	TOR001	86	[mh	mh	linguistic	none	_	Begin=148.992	_	_	_	0-2(12)
+86-1	TOR001	86	mh]	mh	linguistic	none	_	End=149.461	_	_	_	0-2(12)
+87-0	TOR001	87	okay	okay	linguistic	none	_	Begin=150.26|End=151.046	_	_	_	_
+88-0	TOR001	88	e	e	linguistic	none	_	Begin=151.727	_	_	_	_
+88-1	TOR001	88	di	di	linguistic	none	_	_	_	_	_	_
+88-2	TOR001	88	concreto	concreto	linguistic	none	_	_	_	_	_	_
+88-3	TOR001	88	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+88-4	TOR001	88	cioè	cioè	linguistic	none	_	_	_	_	_	_
+88-5	TOR001	88	durante	durante	linguistic	none	_	_	_	_	_	_
+88-6	TOR001	88	il	il	linguistic	none	_	_	_	_	_	_
+88-7	TOR001	88	giorno	giorno	linguistic	none	_	_	_	_	_	_
+88-8	TOR001	88	cosa	cosa	linguistic	none	_	_	_	_	_	_
+88-9	TOR001	88	fai?	fai	linguistic	none	Intonation=Rising	_	_	_	_	_
+88-10	TOR001	88	cioè	cioè	linguistic	none	_	_	_	_	_	_
+88-11	TOR001	88	l~	l~	linguistic	none	Interrupted=Yes	_	_	_	_	_
+88-12	TOR001	88	l~	l~	linguistic	none	Interrupted=Yes	_	_	_	_	_
+88-13	TOR001	88	la	la	linguistic	none	_	_	_	_	_	_
+88-14	TOR001	88	[la	la	linguistic	none	_	_	_	_	_	0-2(13)
+88-15	TOR001	88	tua	tua	linguistic	none	_	_	_	_	_	0-3(13)
+88-16	TOR001	88	giornata	giornata	linguistic	none	_	_	_	_	_	0-8(13)
+88-17	TOR001	88	(tipo)]	tipo	linguistic	none	_	End=156.506	_	_	0-4(0)	0-4(13)
+89-0	TOI003	89	[la	la	linguistic	none	_	Begin=155.009	_	_	_	0-2(?)
+89-1	TOI003	89	mia	mia	linguistic	none	_	_	_	_	_	0-3(?)
+89-2	TOI003	89	mansione	mansione	linguistic	none	_	_	_	_	_	0-8(?)
+89-3	TOI003	89	è	è	linguistic	none	_	_	_	_	_	0-1(?)
+89-4	TOI003	89	il	il	linguistic	none	_	_	_	_	_	0-2(?)
+89-5	TOI003	89	rullato]re	rullatore	linguistic	none	_	_	_	_	_	0-7(?)
+89-6	TOI003	89	io	io	linguistic	none	_	_	_	_	_	_
+89-7	TOI003	89	mi	mi	linguistic	none	_	_	_	_	_	_
+89-8	TOI003	89	occupo	occupo	linguistic	none	_	_	_	_	_	_
+89-9	TOI003	89	della	della	linguistic	none	_	_	_	_	_	_
+89-10	TOI003	89	filettatura	filettatura	linguistic	none	_	End=158.508	_	_	_	_
+90-0	TOR001	90	[okay]	okay	linguistic	none	_	Begin=156.82|End=157.322	_	_	_	0-4(14)
+91-0	TOR001	91	okay	okay	linguistic	none	_	Begin=158.51|End=158.852	_	_	_	_
+92-0	TOI003	92	della	della	linguistic	none	_	Begin=158.86	_	_	_	_
+92-1	TOI003	92	vite	vite	linguistic	none	_	_	_	_	_	_
+92-2	TOI003	92	o	o	linguistic	none	_	_	_	_	_	_
+92-3	TOI003	92	del	del	linguistic	none	_	_	_	_	_	_
+92-4	TOI003	92	bullone	bullone	linguistic	none	_	End=160.23	_	_	_	_
+93-0	TOR001	93	okay	okay	linguistic	none	_	Begin=160.23|End=160.6	_	_	_	_
+94-0	TOI003	94	la	la	linguistic	none	_	Begin=160.62	_	_	_	_
+94-1	TOI003	94	funzionalità.	funzionalità	linguistic	none	Intonation=Falling	End=161.626	_	_	_	_
+95-0	TOR001	95	mh	mh	linguistic	none	_	Begin=161.626	_	_	_	_
+95-1	TOR001	95	mh	mh	linguistic	none	_	_	_	_	_	_
+95-2	TOR001	95	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+95-3	TOR001	95	okay	okay	linguistic	none	_	End=162.78	_	_	_	_
+96-0	TOR001	96	tu	tu	linguistic	none	_	Begin=163.02	_	_	_	_
+96-1	TOR001	96	invece?	invece	linguistic	none	Intonation=Rising	End=163.667	_	_	_	_
+97-0	TOI002	97	io::	io	linguistic	none	ProsodicLink=Yes	Begin=163.682	1x2	_	_	_
+97-1	TOI002	97	ho	ho	linguistic	none	_	_	_	_	_	_
+97-2	TOI002	97	un'	un'	linguistic	none	SpaceAfter=No	_	_	_	_	_
+97-3	TOI002	97	impresa	impresa	linguistic	none	_	_	_	_	_	_
+97-4	TOI002	97	edile	edile	linguistic	none	_	_	_	_	_	_
+97-5	TOI002	97	diciamo	diciamo	linguistic	none	_	End=166.246	_	_	_	_
+98-0	TOR001	98	mh	mh	linguistic	none	_	Begin=166.246	_	_	_	_
+98-1	TOR001	98	mh	mh	linguistic	none	_	End=166.67	_	_	_	_
+99-0	TOI002	99	facciamo	facciamo	linguistic	none	_	Begin=166.68	_	_	_	_
+99-1	TOI002	99	decorazioni	decorazioni	linguistic	none	_	_	_	_	_	_
+99-2	TOI002	99	più	più	linguistic	none	_	_	_	_	_	_
+99-3	TOI002	99	che	che	linguistic	none	_	_	_	_	_	_
+99-4	TOI002	99	al[tro]	altro	linguistic	none	_	_	_	_	_	2-5(15)
+99-5	TOI002	99	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+99-6	TOI002	99	la	la	linguistic	none	_	_	_	_	_	_
+99-7	TOI002	99	ritrutturazione	ritrutturazione	linguistic	none	_	_	_	_	_	_
+99-8	TOI002	99	in	in	linguistic	none	_	_	_	_	_	_
+99-9	TOI002	99	generale	generale	linguistic	none	_	End=170.38	_	_	_	_
+100-0	TOR001	100	[mh	mh	linguistic	none	_	Begin=168.215	_	_	_	0-2(15)
+100-1	TOR001	100	mh]	mh	linguistic	none	_	End=168.709	_	_	_	0-2(15)
+101-0	TOR001	101	okay	okay	linguistic	none	_	Begin=170.396|End=170.983	_	_	_	_
+102-0	TOI002	102	la	la	linguistic	none	_	Begin=171.14	_	_	_	_
+102-1	TOI002	102	mia	mia	linguistic	none	_	_	_	_	_	_
+102-2	TOI002	102	mansione?	mansione	linguistic	none	Intonation=Rising	End=172.29	_	_	_	_
+103-0	TOR001	103	sì	sì	linguistic	none	_	Begin=172.29	_	_	_	_
+103-1	TOR001	103	((ride))	((ride))	nonverbalbehavior	none	_	End=173.55	_	_	_	_
+104-0	TOR003	104	((ride))	((ride))	nonverbalbehavior	none	_	Begin=174.337|End=175.425	_	_	_	_
+105-0	TOI003	105	ecco	ecco	linguistic	none	_	Begin=174.337	_	_	_	_
+105-1	TOI003	105	qua	qua	linguistic	none	_	_	_	_	_	_
+105-2	TOI003	105	è	è	linguistic	none	_	_	_	_	_	_
+105-3	TOI003	105	bello	bello	linguistic	none	_	End=175.425	_	_	_	_
+106-0	TOI002	106	no	no	linguistic	none	_	Begin=176.185	_	_	_	_
+106-1	TOI002	106	io	io	linguistic	none	_	_	_	_	_	_
+106-2	TOI002	106	gestisco	gestisco	linguistic	none	_	_	_	_	_	_
+106-3	TOI002	106	cantieri	cantieri	linguistic	none	_	_	_	_	_	_
+106-4	TOI002	106	sto	sto	linguistic	none	_	_	_	_	_	_
+106-5	TOI002	106	sui	sui	linguistic	none	_	_	_	_	_	_
+106-6	TOI002	106	cantieri	cantieri	linguistic	none	_	_	_	_	_	_
+106-7	TOI002	106	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+106-8	TOI002	106	[noi]	noi	linguistic	none	_	_	_	_	_	0-3(16)
+106-9	TOI002	106	siamo:	siamo	linguistic	none	_	_	4x1	_	_	_
+106-10	TOI002	106	un'	un'	linguistic	none	SpaceAfter=No	_	_	_	_	_
+106-11	TOI002	106	azienda	azienda	linguistic	none	_	_	_	_	_	_
+106-12	TOI002	106	familiare	familiare	linguistic	none	_	End=180.425	_	_	_	_
+107-0	TOR001	107	[okay]	okay	linguistic	none	_	Begin=178.161|End=178.73	_	_	_	0-4(16)
+108-0	TOR001	108	okay	okay	linguistic	none	_	Begin=180.432|End=180.932	_	_	_	_
+109-0	TOI002	109	mio	mio	linguistic	none	_	Begin=180.94	_	_	_	_
+109-1	TOI002	109	cugino::	cugino	linguistic	none	_	_	5x2	_	_	_
+109-2	TOI002	109	è	è	linguistic	none	_	_	_	_	_	_
+109-3	TOI002	109	in	in	linguistic	none	_	_	_	_	_	_
+109-4	TOI002	109	un	un	linguistic	none	_	_	_	_	_	_
+109-5	TOI002	109	ufficio	ufficio	linguistic	none	_	_	_	_	_	_
+109-6	TOI002	109	e	e	linguistic	none	_	_	_	_	_	_
+109-7	TOI002	109	segue	segue	linguistic	none	_	_	_	_	_	_
+109-8	TOI002	109	la	la	linguistic	none	_	_	_	_	_	_
+109-9	TOI002	109	parte	parte	linguistic	none	_	_	_	_	_	_
+109-10	TOI002	109	amministrativa	amministrativa	linguistic	none	_	_	_	_	_	_
+109-11	TOI002	109	e	e	linguistic	none	_	_	_	_	_	_
+109-12	TOI002	109	io	io	linguistic	none	_	_	_	_	_	_
+109-13	TOI002	109	(s~	s~	linguistic	none	Interrupted=Yes	_	_	_	0-2(0)	_
+109-14	TOI002	109	s~)	s~	linguistic	none	Interrupted=Yes	_	_	_	0-2(0)	_
+109-15	TOI002	109	gestisco	gestisco	linguistic	none	_	_	_	_	_	_
+109-16	TOI002	109	i	i	linguistic	none	_	_	_	_	_	_
+109-17	TOI002	109	cantieri	cantieri	linguistic	none	_	End=186.551	_	_	_	_
+110-0	TOI003	110	[è	è	linguistic	none	_	Begin=186.554	_	_	_	0-1(18)
+110-1	TOI003	110	nato]	nato	linguistic	none	_	_	_	_	_	0-4(18)
+110-2	TOI003	110	con	con	linguistic	none	_	_	_	_	_	_
+110-3	TOI003	110	la	la	linguistic	none	_	_	_	_	_	_
+110-4	TOI003	110	camicia	camicia	linguistic	none	_	_	_	_	_	_
+110-5	TOI003	110	pratica[(mente)]	praticamente	linguistic	none	_	End=188.267	_	_	7-12(0)	7-12(17)
+111-0	TOR001	111	[(okay)]	okay	linguistic	none	_	Begin=186.554|End=187.009	_	_	0-4(0)	0-4(18)
+112-0	TOR001	112	((ride))	((ride))	nonverbalbehavior	none	_	Begin=187.673|End=189.096	_	_	_	_
+113-0	TOR003	113	[però]	però	linguistic	none	_	Begin=187.893|End=188.26	_	_	_	0-4(17)
+114-0	TOI002	114	il	il	linguistic	none	_	Begin=188.413	_	_	_	_
+114-1	TOI002	114	t~	t~	linguistic	none	Interrupted=Yes	_	_	_	_	_
+114-2	TOI002	114	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+114-3	TOI002	114	il	il	linguistic	none	_	_	_	_	_	_
+114-4	TOI002	114	tempo	tempo	linguistic	none	_	_	_	_	_	_
+114-5	TOI002	114	lo	lo	linguistic	none	_	_	_	_	_	_
+114-6	TOI002	114	passo	passo	linguistic	none	_	_	_	_	_	_
+114-7	TOI002	114	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+114-8	TOI002	114	più	più	linguistic	none	_	_	_	_	_	_
+114-9	TOI002	114	che	che	linguistic	none	_	_	_	_	_	_
+114-10	TOI002	114	altro	altro	linguistic	none	_	_	_	_	_	_
+114-11	TOI002	114	al	al	linguistic	none	_	_	_	_	_	_
+114-12	TOI002	114	bar	bar	linguistic	none	_	_	_	_	_	_
+114-13	TOI002	114	[(no,)]	no	linguistic	none	Intonation=WeaklyRising	End=191.224	_	_	0-2(0)	0-2(19)
+115-0	TOI003	115	[acqua]	acqua	linguistic	none	_	Begin=190.77	_	_	_	0-5(19)
+115-1	TOI003	115	gasata	gasata	linguistic	none	_	_	_	_	_	_
+115-2	TOI003	115	o	o	linguistic	none	_	_	_	_	_	_
+115-3	TOI003	115	xx?	xx	linguistic	none	Intonation=Rising	End=192.0	_	_	_	_
+116-0	TOI002	116	((ride))	((ride))	nonverbalbehavior	none	_	Begin=192.127|End=192.438	_	_	_	_
+117-0	TOR001	117	((ride))	((ride))	nonverbalbehavior	none	_	Begin=192.127|End=192.438	_	_	_	_
+118-0	TOI003	118	fa	fa	linguistic	none	_	Begin=192.669	_	_	_	_
+118-1	TOI003	118	(u)na	una	linguistic	none	_	_	_	_	0-1(0)	_
+118-2	TOI003	118	bellissima	bellissima	linguistic	none	_	_	_	_	_	_
+118-3	TOI003	118	vita	vita	linguistic	none	_	End=193.752	_	_	_	_
+119-0	TOI003	119	nella	nella	linguistic	none	_	Begin=194.872	_	_	_	_
+119-1	TOI003	119	prossima	prossima	linguistic	none	_	_	_	_	_	_
+119-2	TOI003	119	vita	vita	linguistic	none	_	_	_	_	_	_
+119-3	TOI003	119	vorrei	vorrei	linguistic	none	_	_	_	_	_	_
+119-4	TOI003	119	nascere	nascere	linguistic	none	_	_	_	_	_	_
+119-5	TOI003	119	mario	mario	linguistic	none	_	_	_	_	_	_
+119-6	TOI003	119	rossi	rossi	linguistic	none	_	End=197.597	_	_	_	_
+120-0	TOR003	120	((ride))	((ride))	nonverbalbehavior	none	_	Begin=197.662|End=198.024	_	_	_	_
+121-0	TOI002	121	((ride))	((ride))	nonverbalbehavior	none	_	Begin=197.662|End=198.024	_	_	_	_
+122-0	TOR002	122	((ride))	((ride))	nonverbalbehavior	none	_	Begin=197.662|End=198.024	_	_	_	_
+123-0	TOR001	123	((ride))	((ride))	nonverbalbehavior	none	_	Begin=197.662|End=198.024	_	_	_	_
+124-0	TOR001	124	eh	eh	linguistic	none	_	Begin=201.58	_	_	_	_
+124-1	TOR001	124	quindi	quindi	linguistic	none	_	_	_	_	_	_
+124-2	TOR001	124	lavori	lavori	linguistic	none	_	_	_	_	_	_
+124-3	TOR001	124	in	in	linguistic	none	_	_	_	_	_	_
+124-4	TOR001	124	proprio	proprio	linguistic	none	_	_	_	_	_	_
+124-5	TOR001	124	o	o	linguistic	none	_	_	_	_	_	_
+124-6	TOR001	124	sei	sei	linguistic	none	_	_	_	_	_	_
+124-7	TOR001	124	dipendente	dipendente	linguistic	none	_	_	_	_	_	_
+124-8	TOR001	124	in	in	linguistic	none	_	_	_	_	_	_
+124-9	TOR001	124	realtà	realtà	linguistic	none	_	_	_	_	_	_
+124-10	TOR001	124	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
+124-11	TOR001	124	avete	avete	linguistic	none	_	_	_	_	_	_
+124-12	TOR001	124	già	già	linguistic	none	_	_	_	_	_	_
+124-13	TOR001	124	risposto	risposto	linguistic	none	_	End=205.421	_	_	_	_
+125-0	TOI003	125	mh	mh	linguistic	none	_	Begin=205.425|End=206.018	_	_	_	_
+126-0	TOR001	126	tu	tu	linguistic	none	_	Begin=206.227	_	_	_	_
+126-1	TOR001	126	sei	sei	linguistic	none	_	_	_	_	_	_
+126-2	TOR001	126	dipen[dente]	dipendente	linguistic	none	_	_	_	_	_	5-10(20)
+126-3	TOR001	126	tu	tu	linguistic	none	_	_	_	_	_	_
+126-4	TOR001	126	invece	invece	linguistic	none	_	_	_	_	_	_
+126-5	TOR001	126	lavori	lavori	linguistic	none	_	_	_	_	_	_
+126-6	TOR001	126	in	in	linguistic	none	_	_	_	_	_	_
+126-7	TOR001	126	proprio,	proprio	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
+126-8	TOR001	126	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+126-9	TOR001	126	okay	okay	linguistic	none	_	End=209.17	_	_	_	_
+127-0	TOI003	127	[mh	mh	linguistic	none	_	Begin=206.942	_	_	_	0-2(20)
+127-1	TOI003	127	mh]	mh	linguistic	none	_	End=207.415	_	_	_	0-2(20)
+128-0	TOR001	128	ehm	ehm	linguistic	none	_	Begin=209.263	_	_	_	_
+128-1	TOR001	128	avete	avete	linguistic	none	_	_	_	_	_	_
+128-2	TOR001	128	sempre	sempre	linguistic	none	_	_	_	_	_	_
+128-3	TOR001	128	fatto	fatto	linguistic	none	_	_	_	_	_	_
+128-4	TOR001	128	questo	questo	linguistic	none	_	_	_	_	_	_
+128-5	TOR001	128	lavoro?	lavoro	linguistic	none	Intonation=Rising	End=212.06	_	_	_	_
+129-0	TOI003	129	[no].	no	linguistic	none	Intonation=Falling	Begin=212.326|End=212.84	_	_	_	0-2(21)
+130-0	TOR001	130	[o]	o	linguistic	none	_	Begin=212.331	_	_	_	0-1(21)
+130-1	TOR001	130	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+130-2	TOR001	130	prima	prima	linguistic	none	_	_	_	_	_	_
+130-3	TOR001	130	ne	ne	linguistic	none	_	_	_	_	_	_
+130-4	TOR001	130	facevate	facevate	linguistic	none	_	_	_	_	_	_
+130-5	TOR001	130	al[tri]?	altri	linguistic	none	Intonation=Rising	End=214.182	_	_	_	2-5(22)
+131-0	TOI003	131	[ne]	ne	linguistic	none	_	Begin=213.774	_	_	_	0-2(22)
+131-1	TOI003	131	facevo	facevo	linguistic	none	_	_	_	_	_	_
+131-2	TOI003	131	facevo	facevo	linguistic	none	_	_	_	_	_	_
+131-3	TOI003	131	un	un	linguistic	none	_	_	_	_	_	_
+131-4	TOI003	131	altro	altro	linguistic	none	_	_	_	_	_	_
+131-5	TOI003	131	[mestiere].	mestiere	linguistic	none	Intonation=Falling	End=215.389	_	_	_	0-8(23)
+132-0	TOR001	132	[okay	okay	linguistic	none	_	Begin=214.925	_	_	_	0-4(23)
+132-1	TOR001	132	cos]a	cosa	linguistic	none	_	_	_	_	_	0-3(23)
+132-2	TOR001	132	facevi?	facevi	linguistic	none	Intonation=Rising	End=216.047	_	_	_	_
+133-0	TOI003	133	il	il	linguistic	none	_	Begin=216.405	_	_	_	_
+133-1	TOI003	133	responsabile	responsabile	linguistic	none	_	_	_	_	_	_
+133-2	TOI003	133	tecnico	tecnico	linguistic	none	_	_	_	_	_	_
+133-3	TOI003	133	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+133-4	TOI003	133	alle	alle	linguistic	none	_	_	_	_	_	_
+133-5	TOI003	133	revisioni	revisioni	linguistic	none	_	_	_	_	_	_
+133-6	TOI003	133	di	di	linguistic	none	_	_	_	_	_	_
+133-7	TOI003	133	auto	auto	linguistic	none	_	_	_	_	_	_
+133-8	TOI003	133	e	e	linguistic	none	_	_	_	_	_	_
+133-9	TOI003	133	motoveicoli.	motoveicoli	linguistic	none	Intonation=Falling	End=219.79	_	_	_	_
+134-0	TOR001	134	okay	okay	linguistic	none	_	Begin=219.8|End=220.65	_	_	_	_
+135-0	TOI003	135	lavoravo:	lavoravo	linguistic	none	_	Begin=220.65	7x1	_	_	_
+135-1	TOI003	135	in	in	linguistic	none	_	_	_	_	_	_
+135-2	TOI003	135	un	un	linguistic	none	_	_	_	_	_	_
+135-3	TOI003	135	centro	centro	linguistic	none	_	_	_	_	_	_
+135-4	TOI003	135	revisioni	revisioni	linguistic	none	_	End=222.739	_	_	_	_
+136-0	TOR001	136	mh	mh	linguistic	none	_	Begin=222.749	_	_	_	_
+136-1	TOR001	136	mh	mh	linguistic	none	_	End=223.095	_	_	_	_
+137-0	TOI003	137	e:	e	linguistic	none	_	Begin=223.65	0x1	_	_	_
+137-1	TOI003	137	>ho	ho	linguistic	none	_	_	_	Fast=0-2	_	_
+137-2	TOI003	137	fatto	fatto	linguistic	none	_	_	_	Fast=0-5	_	_
+137-3	TOI003	137	anche	anche	linguistic	none	_	_	_	Fast=0-5	_	_
+137-4	TOI003	137	un	un	linguistic	none	_	_	_	Fast=0-2	_	_
+137-5	TOI003	137	po'	po'	linguistic	none	_	_	_	Fast=0-3	_	_
+137-6	TOI003	137	di	di	linguistic	none	_	_	_	Fast=0-2	_	_
+137-7	TOI003	137	meccanica	meccanica	linguistic	none	_	_	_	Fast=0-9	_	_
+137-8	TOI003	137	perché	perché	linguistic	none	_	_	_	Fast=0-6	_	_
+137-9	TOI003	137	ho	ho	linguistic	none	_	_	_	Fast=0-2	_	_
+137-10	TOI003	137	fatto	fatto	linguistic	none	_	_	_	Fast=0-5	_	_
+137-11	TOI003	137	la	la	linguistic	none	_	_	_	Fast=0-2	_	_
+137-12	TOI003	137	scuola	scuola	linguistic	none	_	_	_	Fast=0-6	_	_
+137-13	TOI003	137	di	di	linguistic	none	_	_	_	Fast=0-2	_	_
+137-14	TOI003	137	meccanica<	meccanica	linguistic	none	_	_	_	Fast=0-9	_	_
+137-15	TOI003	137	però	però	linguistic	none	_	_	_	_	_	_
+137-16	TOI003	137	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+137-17	TOI003	137	la	la	linguistic	none	_	_	_	_	_	_
+137-18	TOI003	137	mia	mia	linguistic	none	_	_	_	_	_	_
+137-19	TOI003	137	mansione	mansione	linguistic	none	_	_	_	_	_	_
+137-20	TOI003	137	era	era	linguistic	none	_	_	_	_	_	_
+137-21	TOI003	137	quella	quella	linguistic	none	_	_	_	_	_	_
+137-22	TOI003	137	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+137-23	TOI003	137	del	del	linguistic	none	_	_	_	_	_	_
+137-24	TOI003	137	revisionista.	revisionista	linguistic	none	Intonation=Falling	End=230.487	_	_	_	_
+138-0	TOR001	138	okay	okay	linguistic	none	_	Begin=230.59	_	_	_	_
+138-1	TOR001	138	cioè?	cioè	linguistic	none	Intonation=Rising	_	_	_	_	_
+138-2	TOR001	138	((ridendo))	((ridendo))	nonverbalbehavior	none	_	End=231.972	_	_	_	_
+139-0	TOR001	139	cosa	cosa	linguistic	none	_	Begin=232.29	_	_	_	_
+139-1	TOR001	139	[in	in	linguistic	none	_	_	_	_	_	0-2(24)
+139-2	TOR001	139	cosa	cosa	linguistic	none	_	_	_	_	_	0-4(24)
+139-3	TOR001	139	facevi	facevi	linguistic	none	_	_	_	_	_	0-6(24)
+139-4	TOR001	139	in	in	linguistic	none	_	_	_	_	_	0-2(24)
+139-5	TOR001	139	pratica],	pratica	linguistic	none	Intonation=WeaklyRising	End=234.04	_	_	_	0-7(24)
+140-0	TOI003	140	[xxx]	x	unknown	none	_	Begin=232.745|End=234.04	_	_	_	0-3(24)
+141-0	TOR001	141	[ah	ah	linguistic	none	_	Begin=234.119	_	_	_	0-2(25)
+141-1	TOR001	141	sì	sì	linguistic	none	_	_	_	_	_	0-2(25)
+141-2	TOR001	141	la	la	linguistic	none	_	_	_	_	_	0-2(25)
+141-3	TOR001	141	revisione	revisione	linguistic	none	_	_	_	_	_	0-9(25)
+141-4	TOR001	141	dell'	dell'	linguistic	none	SpaceAfter=No	_	_	_	_	0-5(25)
+141-5	TOR001	141	auto	auto	linguistic	none	_	_	_	_	_	0-4(25)
+141-6	TOR001	141	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	0-3(25)
+141-7	TOR001	141	certo	certo	linguistic	none	_	_	_	_	_	0-5(25)
+141-8	TOR001	141	certo	certo	linguistic	none	_	_	_	_	_	0-5(25)
+141-9	TOR001	141	sì	sì	linguistic	none	_	_	_	_	_	0-2(25)
+141-10	TOR001	141	sì]	sì	linguistic	none	_	End=237.34	_	_	_	0-2(25)
+142-0	TOI003	142	[la	la	linguistic	none	_	Begin=234.123	_	_	_	0-2(25)
+142-1	TOI003	142	re~	re~	linguistic	none	Interrupted=Yes	_	_	_	_	0-3(25)
+142-2	TOI003	142	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	0-3(25)
+142-3	TOI003	142	la	la	linguistic	none	_	_	_	_	_	0-2(25)
+142-4	TOI003	142	revisione	revisione	linguistic	none	_	_	_	_	_	0-9(25)
+142-5	TOI003	142	dell'	dell'	linguistic	none	SpaceAfter=No	_	_	_	_	0-5(25)
+142-6	TOI003	142	auto	auto	linguistic	none	_	_	_	_	_	0-4(25)
+142-7	TOI003	142	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	0-3(25)
+142-8	TOI003	142	io	io	linguistic	none	_	_	_	_	_	0-2(25)
+142-9	TOI003	142	dovevo	dovevo	linguistic	none	_	_	_	_	_	0-6(25)
+142-10	TOI003	142	fare:	fare	linguistic	none	_	_	3x1	_	_	0-4(25)
+142-11	TOI003	142	tutti	tutti	linguistic	none	_	_	_	_	_	0-5(25)
+142-12	TOI003	142	i]	i	linguistic	none	_	_	_	_	_	0-1(25)
+142-13	TOI003	142	test	test	linguistic	none	_	End=238.063	_	_	_	_
+143-0	TOI003	143	e	e	linguistic	none	_	Begin=238.255	_	_	_	_
+143-1	TOI003	143	dare	dare	linguistic	none	_	_	_	_	_	_
+143-2	TOI003	143	la	la	linguistic	none	_	_	_	_	_	_
+143-3	TOI003	143	delibera	delibera	linguistic	none	_	_	_	_	_	_
+143-4	TOI003	143	all'	all'	linguistic	none	SpaceAfter=No	_	_	_	_	_
+143-5	TOI003	143	autocircolazione	autocircolazione	linguistic	none	_	_	_	_	_	_
+143-6	TOI003	143	[O]	o	linguistic	none	Volume=High	_	_	_	_	0-1(26)
+143-7	TOI003	143	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+143-8	TOI003	143	bocciarla	bocciarla	linguistic	none	_	End=242.02	_	_	_	_
+144-0	TOR001	144	[okay]	okay	linguistic	none	_	Begin=240.435|End=241.27	_	_	_	0-4(26)
+145-0	TOR001	145	okay	okay	linguistic	none	_	Begin=242.03	_	_	_	_
+145-1	TOR001	145	va	va	linguistic	none	_	_	_	_	_	_
+145-2	TOR001	145	bene	bene	linguistic	none	_	End=242.923	_	_	_	_
+146-0	TOR002	146	però	però	linguistic	none	_	Begin=242.923	_	_	_	_
+146-1	TOR002	146	non	non	linguistic	none	_	_	_	_	_	_
+146-2	TOR002	146	sei	sei	linguistic	none	_	_	_	_	_	_
+146-3	TOR002	146	di	di	linguistic	none	_	_	_	_	_	_
+146-4	TOR002	146	quelli	quelli	linguistic	none	_	_	_	_	_	_
+146-5	TOR002	146	che	che	linguistic	none	_	_	_	_	_	_
+146-6	TOR002	146	fan(no)	fanno	linguistic	none	_	_	_	_	3-5(0)	_
+146-7	TOR002	146	le	le	linguistic	none	_	_	_	_	_	_
+146-8	TOR002	146	perizie	perizie	linguistic	none	_	_	_	_	_	_
+146-9	TOR002	146	per	per	linguistic	none	_	_	_	_	_	_
+146-10	TOR002	146	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
+146-11	TOR002	146	assicurazione,	assicurazione	linguistic	none	Intonation=WeaklyRising	End=245.797	_	_	_	_
+147-0	TOI003	147	m:h	mh	linguistic	none	_	Begin=245.797	0x1	_	_	_
+147-1	TOI003	147	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+147-2	TOI003	147	MAGARI	magari	linguistic	none	Volume=High	End=248.21	_	_	_	_
+148-0	TOI003	148	sai	sai	linguistic	none	_	Begin=248.32	_	_	_	_
+148-1	TOI003	148	quanta	quanta	linguistic	none	_	_	_	_	_	_
+148-2	TOI003	148	corruzione	corruzione	linguistic	none	_	_	_	_	_	_
+148-3	TOI003	148	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+148-4	TOI003	148	sai	sai	linguistic	none	_	_	_	_	_	_
+148-5	TOI003	148	quanti	quanti	linguistic	none	_	_	_	_	_	_
+148-6	TOI003	148	soldi	soldi	linguistic	none	_	_	_	_	_	_
+148-7	TOI003	148	no	no	linguistic	none	_	_	_	_	_	_
+148-8	TOI003	148	purtroppo	purtroppo	linguistic	none	_	_	_	_	_	_
+148-9	TOI003	148	no	no	linguistic	none	_	_	_	_	_	_
+148-10	TOI003	148	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+148-11	TOI003	148	hanno	hanno	linguistic	none	_	_	_	_	_	_
+148-12	TOI003	148	provato	provato	linguistic	none	_	_	_	_	_	_
+148-13	TOI003	148	a	a	linguistic	none	_	_	_	_	_	_
+148-14	TOI003	148	corrompermi	corrompermi	linguistic	none	_	_	_	_	_	_
+148-15	TOI003	148	anche	anche	linguistic	none	_	_	_	_	_	_
+148-16	TOI003	148	lì	lì	linguistic	none	_	_	_	_	_	_
+148-17	TOI003	148	però,	però	linguistic	none	Intonation=WeaklyRising	End=254.96	_	_	_	_
+149-0	TOR003	149	((ride))	((ride))	nonverbalbehavior	none	_	Begin=248.322|End=248.714	_	_	_	_
+150-0	TOI002	150	((ride))	((ride))	nonverbalbehavior	none	_	Begin=248.322|End=248.714	_	_	_	_
+151-0	TOR002	151	((ride))	((ride))	nonverbalbehavior	none	_	Begin=248.322|End=248.714	_	_	_	_
+152-0	TOR001	152	((ride))	((ride))	nonverbalbehavior	none	_	Begin=248.322|End=248.714	_	_	_	_
+153-0	TOI003	153	avevi	avevi	linguistic	none	_	Begin=255.171	_	_	_	_
+153-1	TOI003	153	era	era	linguistic	none	_	_	_	_	_	_
+153-2	TOI003	153	più	più	linguistic	none	_	_	_	_	_	_
+153-3	TOI003	153	quello	quello	linguistic	none	_	_	_	_	_	_
+153-4	TOI003	153	che	che	linguistic	none	_	_	_	_	_	_
+153-5	TOI003	153	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+153-6	TOI003	153	che	che	linguistic	none	_	_	_	_	_	_
+153-7	TOI003	153	perdevi	perdevi	linguistic	none	_	_	_	_	_	_
+153-8	TOI003	153	che	che	linguistic	none	_	_	_	_	_	_
+153-9	TOI003	153	quello	quello	linguistic	none	_	_	_	_	_	_
+153-10	TOI003	153	che	che	linguistic	none	_	_	_	_	_	_
+153-11	TOI003	153	guadagnavi	guadagnavi	linguistic	none	_	_	_	_	_	_
+153-12	TOI003	153	perché	perché	linguistic	none	_	_	_	_	_	_
+153-13	TOI003	153	poi	poi	linguistic	none	_	_	_	_	_	_
+153-14	TOI003	153	venivano	venivano	linguistic	none	_	_	_	_	_	_
+153-15	TOI003	153	anche	anche	linguistic	none	_	_	_	_	_	_
+153-16	TOI003	153	gli	gli	linguistic	none	_	_	_	_	_	_
+153-17	TOI003	153	ispettori	ispettori	linguistic	none	_	_	_	_	_	_
+153-18	TOI003	153	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+153-19	TOI003	153	della	della	linguistic	none	_	_	_	_	_	_
+153-20	TOI003	153	regione	regione	linguistic	none	_	End=261.838	_	_	_	_
+154-0	TOR002	154	ah	ah	linguistic	none	_	Begin=261.841|End=262.542	_	_	_	_
+155-0	TOI003	155	eh	eh	linguistic	none	_	Begin=262.544	_	_	_	_
+155-1	TOI003	155	cammuffati	cammuffati	linguistic	none	_	_	_	_	_	_
+155-2	TOI003	155	da::	da	linguistic	none	_	_	1x2	_	_	_
+155-3	TOI003	155	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+155-4	TOI003	155	da	da	linguistic	none	_	_	_	_	_	_
+155-5	TOI003	155	un	un	linguistic	none	_	_	_	_	_	_
+155-6	TOI003	155	privato	privato	linguistic	none	_	End=266.126	_	_	_	_
+156-0	TOI003	156	ti	ti	linguistic	none	_	Begin=266.369	_	_	_	_
+156-1	TOI003	156	portavano	portavano	linguistic	none	_	_	_	_	_	_
+156-2	TOI003	156	una	una	linguistic	none	_	_	_	_	_	_
+156-3	TOI003	156	macchina	macchina	linguistic	none	_	_	_	_	_	_
+156-4	TOI003	156	con:	con	linguistic	none	_	_	2x1	_	_	_
+156-5	TOI003	156	una	una	linguistic	none	_	_	_	_	_	_
+156-6	TOI003	156	serie	serie	linguistic	none	_	_	_	_	_	_
+156-7	TOI003	156	di	di	linguistic	none	_	_	_	_	_	_
+156-8	TOI003	156	problemi	problemi	linguistic	none	_	End=269.576	_	_	_	_
+157-0	TOI003	157	e	e	linguistic	none	_	Begin=269.576	_	_	_	_
+157-1	TOI003	157	tu	tu	linguistic	none	_	_	_	_	_	_
+157-2	TOI003	157	(in~)	in~	linguistic	none	Interrupted=Yes	_	_	_	0-3(0)	_
+157-3	TOI003	157	non	non	linguistic	none	_	_	_	_	_	_
+157-4	TOI003	157	lo	lo	linguistic	none	_	_	_	_	_	_
+157-5	TOI003	157	sapevi	sapevi	linguistic	none	_	_	_	_	_	_
+157-6	TOI003	157	quindi:	quindi	linguistic	none	_	_	5x1	_	_	_
+157-7	TOI003	157	stavi	stavi	linguistic	none	_	_	_	_	_	_
+157-8	TOI003	157	facendo	facendo	linguistic	none	_	_	_	_	_	_
+157-9	TOI003	157	una	una	linguistic	none	_	_	_	_	_	_
+157-10	TOI003	157	revisione	revisione	linguistic	none	_	_	_	_	_	_
+157-11	TOI003	157	a:	a	linguistic	none	_	_	0x1	_	_	_
+157-12	TOI003	157	un	un	linguistic	none	_	_	_	_	_	_
+157-13	TOI003	157	cliente	cliente	linguistic	none	_	End=274.003	_	_	_	_
+158-0	TOI003	158	e	e	linguistic	none	_	Begin=274.749	_	_	_	_
+158-1	TOI003	158	se	se	linguistic	none	_	_	_	_	_	_
+158-2	TOI003	158	l~	l~	linguistic	none	Interrupted=Yes	_	_	_	_	_
+158-3	TOI003	158	eh	eh	linguistic	none	_	_	_	_	_	_
+158-4	TOI003	158	lui	lui	linguistic	none	_	_	_	_	_	_
+158-5	TOI003	158	era	era	linguistic	none	_	_	_	_	_	_
+158-6	TOI003	158	lì	lì	linguistic	none	_	_	_	_	_	_
+158-7	TOI003	158	pronto	pronto	linguistic	none	_	_	_	_	_	_
+158-8	TOI003	158	per:	per	linguistic	none	_	_	2x1	_	_	_
+158-9	TOI003	158	annotarsi	annotarsi	linguistic	none	_	_	_	_	_	_
+158-10	TOI003	158	tutto	tutto	linguistic	none	_	End=278.534	_	_	_	_
+159-0	TOI003	159	e	e	linguistic	none	_	Begin=278.555	_	_	_	_
+159-1	TOI003	159	se	se	linguistic	none	_	_	_	_	_	_
+159-2	TOI003	159	facevi	facevi	linguistic	none	_	_	_	_	_	_
+159-3	TOI003	159	delle	delle	linguistic	none	_	_	_	_	_	_
+159-4	TOI003	159	cagate	cagate	linguistic	none	_	_	_	_	_	_
+159-5	TOI003	159	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+159-6	TOI003	159	e::h	eh	linguistic	none	_	_	0x2	_	_	_
+159-7	TOI003	159	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+159-8	TOI003	159	ti	ti	linguistic	none	_	_	_	_	_	_
+159-9	TOI003	159	mandavano	mandavano	linguistic	none	_	_	_	_	_	_
+159-10	TOI003	159	dal(la)	dalla	linguistic	none	_	_	_	_	3-5(0)	_
+159-11	TOI003	159	corte	corte	linguistic	none	_	_	_	_	_	_
+159-12	TOI003	159	di	di	linguistic	none	_	_	_	_	_	_
+159-13	TOI003	159	lavoro	lavoro	linguistic	none	_	End=283.18	_	_	_	_
+160-0	TOR002	160	pensa	pensa	linguistic	none	_	Begin=283.18	_	_	_	_
+160-1	TOR002	160	[te]	te	linguistic	none	_	End=283.806	_	_	_	0-2(27)
+161-0	TOI003	161	[per]ché	perché	linguistic	none	_	Begin=283.525	_	_	_	0-3(27)
+161-1	TOI003	161	eri	eri	linguistic	none	_	_	_	_	_	_
+161-2	TOI003	161	punibile	punibile	linguistic	none	_	_	_	_	_	_
+161-3	TOI003	161	a	a	linguistic	none	_	_	_	_	_	_
+161-4	TOI003	161	livello	livello	linguistic	none	_	_	_	_	_	_
+161-5	TOI003	161	civile	civile	linguistic	none	_	_	_	_	_	_
+161-6	TOI003	161	e	e	linguistic	none	_	_	_	_	_	_
+161-7	TOI003	161	penale.	penale	linguistic	none	Intonation=Falling	End=286.35	_	_	_	_
+162-0	TOI003	162	sì	sì	linguistic	none	_	Begin=286.969	_	_	_	_
+162-1	TOI003	162	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+162-2	TOI003	162	(dopo	dopo	linguistic	none	_	_	_	_	0-4(0)	_
+162-3	TOI003	162	sì)	sì	linguistic	none	_	_	_	_	0-2(0)	_
+162-4	TOI003	162	metti	metti	linguistic	none	_	_	_	_	_	_
+162-5	TOI003	162	una	una	linguistic	none	_	_	_	_	_	_
+162-6	TOI003	162	firma	firma	linguistic	none	_	_	_	_	_	_
+162-7	TOI003	162	quindi	quindi	linguistic	none	_	_	_	_	_	_
+162-8	TOI003	162	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+162-9	TOI003	162	hai	hai	linguistic	none	_	_	_	_	_	_
+162-10	TOI003	162	la	la	linguistic	none	_	_	_	_	_	_
+162-11	TOI003	162	repsonsabilità	repsonsabilità	linguistic	none	_	_	_	_	_	_
+162-12	TOI003	162	totale	totale	linguistic	none	_	_	_	_	_	_
+162-13	TOI003	162	[sulla	sulla	linguistic	none	_	_	_	_	_	0-5(28)
+162-14	TOI003	162	circolaz]ione	circolazione	linguistic	none	_	_	_	_	_	0-8(28)
+162-15	TOI003	162	del	del	linguistic	none	_	_	_	_	_	_
+162-16	TOI003	162	veicolo	veicolo	linguistic	none	_	End=292.931	_	_	_	_
+163-0	TOR001	163	[certo]	certo	linguistic	none	_	Begin=291.209|End=291.89	_	_	_	0-5(28)
+164-0	TOR002	164	pensa	pensa	linguistic	none	_	Begin=293.13	_	_	_	_
+164-1	TOR002	164	te	te	linguistic	none	_	End=294.0	_	_	_	_
+165-0	TOI003	165	se	se	linguistic	none	_	Begin=294.926	_	_	_	_
+165-1	TOI003	165	io	io	linguistic	none	_	_	_	_	_	_
+165-2	TOI003	165	ti	ti	linguistic	none	_	_	_	_	_	_
+165-3	TOI003	165	faccio	faccio	linguistic	none	_	_	_	_	_	_
+165-4	TOI003	165	un	un	linguistic	none	_	_	_	_	_	_
+165-5	TOI003	165	esempio	esempio	linguistic	none	_	End=296.397	_	_	_	_
+166-0	TOR001	166	mh	mh	linguistic	none	_	Begin=296.397	_	_	_	_
+166-1	TOR001	166	mh	mh	linguistic	none	_	End=296.857	_	_	_	_
+167-0	TOI003	167	>eh	eh	linguistic	none	_	Begin=296.857	_	Fast=0-2	_	_
+167-1	TOI003	167	davo	davo	linguistic	none	_	_	_	Fast=0-4	_	_
+167-2	TOI003	167	una	una	linguistic	none	_	_	_	Fast=0-3	_	_
+167-3	TOI003	167	delibera	delibera	linguistic	none	_	_	_	Fast=0-8	_	_
+167-4	TOI003	167	a	a	linguistic	none	_	_	_	Fast=0-1	_	_
+167-5	TOI003	167	una	una	linguistic	none	_	_	_	Fast=0-3	_	_
+167-6	TOI003	167	macchina	macchina	linguistic	none	_	_	_	Fast=0-8	_	_
+167-7	TOI003	167	e	e	linguistic	none	_	_	_	Fast=0-1	_	_
+167-8	TOI003	167	dicevo	dicevo	linguistic	none	_	_	_	Fast=0-6	_	_
+167-9	TOI003	167	ah	ah	linguistic	none	_	_	_	Fast=0-2	_	_
+167-10	TOI003	167	per	per	linguistic	none	_	_	_	Fast=0-3	_	_
+167-11	TOI003	167	me	me	linguistic	none	_	_	_	Fast=0-2	_	_
+167-12	TOI003	167	a	a	linguistic	none	_	_	_	Fast=0-1	_	_
+167-13	TOI003	167	posto	posto	linguistic	none	_	_	_	Fast=0-5	_	_
+167-14	TOI003	167	facevo	facevo	linguistic	none	_	_	_	Fast=0-6	_	_
+167-15	TOI003	167	una	una	linguistic	none	_	_	_	Fast=0-3	_	_
+167-16	TOI003	167	revisione	revisione	linguistic	none	_	_	_	Fast=0-9	_	_
+167-17	TOI003	167	blanda<	blanda	linguistic	none	_	_	_	Fast=0-6	_	_
+167-18	TOI003	167	questo	questo	linguistic	none	_	_	_	_	_	_
+167-19	TOI003	167	usciva	usciva	linguistic	none	_	_	_	_	_	_
+167-20	TOI003	167	aveva	aveva	linguistic	none	_	_	_	_	_	_
+167-21	TOI003	167	un	un	linguistic	none	_	_	_	_	_	_
+167-22	TOI003	167	problema	problema	linguistic	none	_	_	_	_	_	_
+167-23	TOI003	167	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+167-24	TOI003	167	ai	ai	linguistic	none	_	_	_	_	_	_
+167-25	TOI003	167	freni	freni	linguistic	none	_	End=302.617	_	_	_	_
+168-0	TOR001	168	mh	mh	linguistic	none	_	Begin=302.612	_	_	_	_
+168-1	TOR001	168	[mh	mh	linguistic	none	_	_	_	_	_	0-2(29)
+168-2	TOR001	168	mh]	mh	linguistic	none	_	End=303.406	_	_	_	0-2(29)
+169-0	TOI003	169	[e	e	linguistic	none	_	Begin=302.825	_	_	_	0-1(30)
+169-1	TOI003	169	ti	ti	linguistic	none	_	_	_	_	_	0-2(30)
+169-2	TOI003	169	inves]tiva	investiva	linguistic	none	_	_	_	_	_	0-5(30)
+169-3	TOI003	169	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+169-4	TOI003	169	io	io	linguistic	none	_	_	_	_	_	_
+169-5	TOI003	169	andavo	andavo	linguistic	none	_	_	_	_	_	_
+169-6	TOI003	169	in	in	linguistic	none	_	_	_	_	_	_
+169-7	TOI003	169	galera.	galera	linguistic	none	Intonation=Falling	End=305.073	_	_	_	_
+170-0	TOR001	170	ma[(donna)]	madonna	linguistic	none	_	Begin=305.073|End=306.1	_	_	2-7(0)	2-7(31)
+171-0	TOI003	171	[il	il	linguistic	none	_	Begin=305.457	_	_	_	0-2(31)
+171-1	TOI003	171	primo]	primo	linguistic	none	_	_	_	_	_	0-5(31)
+171-2	TOI003	171	che	che	linguistic	none	_	_	_	_	_	_
+171-3	TOI003	171	andavano	andavano	linguistic	none	_	_	_	_	_	_
+171-4	TOI003	171	a	a	linguistic	none	_	_	_	_	_	_
+171-5	TOI003	171	acchippiare	acchippiare	linguistic	none	_	_	_	_	_	_
+171-6	TOI003	171	ero	ero	linguistic	none	_	_	_	_	_	_
+171-7	TOI003	171	io.	io	linguistic	none	Intonation=Falling	End=307.456	_	_	_	_
+172-0	TOI003	172	poi	poi	linguistic	none	_	Begin=308.277	_	_	_	_
+172-1	TOI003	172	ovviamente	ovviamente	linguistic	none	_	_	_	_	_	_
+172-2	TOI003	172	dopo:	dopo	linguistic	none	_	End=310.234	3x1	_	_	_
+173-0	TOI003	173	dopo:	dopo	linguistic	none	_	Begin=310.677	3x1	_	_	_
+173-1	TOI003	173	anni	anni	linguistic	none	_	_	_	_	_	_
+173-2	TOI003	173	di	di	linguistic	none	_	_	_	_	_	_
+173-3	TOI003	173	magari	magari	linguistic	none	_	_	_	_	_	_
+173-4	TOI003	173	di	di	linguistic	none	_	_	_	_	_	_
+173-5	TOI003	173	avvocati	avvocati	linguistic	none	_	_	_	_	_	_
+173-6	TOI003	173	e	e	linguistic	none	_	_	_	_	_	_
+173-7	TOI003	173	processi	processi	linguistic	none	_	_	_	_	_	_
+173-8	TOI003	173	magari	magari	linguistic	none	_	_	_	_	_	_
+173-9	TOI003	173	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+173-10	TOI003	173	però	però	linguistic	none	_	_	_	_	_	_
+173-11	TOI003	173	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+173-12	TOI003	173	sei	sei	linguistic	none	_	_	_	_	_	_
+173-13	TOI003	173	rovinato.	rovinato	linguistic	none	Intonation=Falling	End=315.4	_	_	_	_
+174-0	TOR003	174	nel	nel	linguistic	none	_	Begin=315.4	_	_	_	_
+174-1	TOR003	174	dubbio	dubbio	linguistic	none	_	End=316.359	_	_	_	_
+175-0	TOI003	175	meglio	meglio	linguistic	none	_	Begin=316.359	_	_	_	_
+175-1	TOI003	175	andare	andare	linguistic	none	_	_	_	_	_	_
+175-2	TOI003	175	in	in	linguistic	none	_	_	_	_	_	_
+175-3	TOI003	175	messico.	messico	linguistic	none	Intonation=Falling	End=317.606	_	_	_	_
+176-0	TOR003	176	((ride))	((ride))	nonverbalbehavior	none	_	Begin=317.747|End=318.295	_	_	_	_
+177-0	TOI002	177	((ride))	((ride))	nonverbalbehavior	none	_	Begin=317.747|End=318.295	_	_	_	_
+178-0	TOR002	178	((ride))	((ride))	nonverbalbehavior	none	_	Begin=317.747|End=318.295	_	_	_	_
+179-0	TOR001	179	((ride))	((ride))	nonverbalbehavior	none	_	Begin=317.747|End=318.295	_	_	_	_
+180-0	TOR001	180	(nel	nel	linguistic	none	_	Begin=319.78	_	_	0-3(0)	_
+180-1	TOR001	180	dubbio	dubbio	linguistic	none	_	_	_	_	0-6(0)	_
+180-2	TOR001	180	meglio)	meglio	linguistic	none	_	_	_	_	0-6(0)	_
+180-3	TOR001	180	il	il	linguistic	none	_	_	_	_	_	_
+180-4	TOR001	180	messico	messico	linguistic	none	_	End=321.732	_	_	_	_
+181-0	TOR001	181	tu	tu	linguistic	none	_	Begin=321.732	_	_	_	_
+181-1	TOR001	181	invece	invece	linguistic	none	_	_	_	_	_	_
+181-2	TOR001	181	hai	hai	linguistic	none	_	_	_	_	_	_
+181-3	TOR001	181	sempre	sempre	linguistic	none	_	_	_	_	_	_
+181-4	TOR001	181	fatto	fatto	linguistic	none	_	_	_	_	_	_
+181-5	TOR001	181	lo	lo	linguistic	none	_	_	_	_	_	_
+181-6	TOR001	181	[stesso	stesso	linguistic	none	_	_	_	_	_	0-6(32)
+181-7	TOR001	181	lavoro]?	lavoro	linguistic	none	Intonation=Rising	End=323.926	_	_	_	0-6(32)
+182-0	TOI002	182	[eh	eh	linguistic	none	_	Begin=322.799	_	_	_	0-2(32)
+182-1	TOI002	182	io	io	linguistic	none	_	_	_	_	_	0-2(32)
+182-2	TOI002	182	purtroppo]	purtroppo	linguistic	none	_	_	_	_	_	0-9(32)
+182-3	TOI002	182	un	un	linguistic	none	_	_	_	_	_	_
+182-4	TOI002	182	anno	anno	linguistic	none	_	_	_	_	_	_
+182-5	TOI002	182	ho	ho	linguistic	none	_	_	_	_	_	_
+182-6	TOI002	182	lavorato	lavorato	linguistic	none	_	_	_	_	_	_
+182-7	TOI002	182	((ride))	((ride))	nonverbalbehavior	none	_	End=324.84	_	_	_	_
+183-0	TOR003	183	((ride))	((ride))	nonverbalbehavior	none	_	Begin=325.034|End=325.712	_	_	_	_
+184-0	TOR002	184	((ride))	((ride))	nonverbalbehavior	none	_	Begin=325.034|End=325.712	_	_	_	_
+185-0	TOR001	185	((ride))	((ride))	nonverbalbehavior	none	_	Begin=325.034|End=325.712	_	_	_	_
+186-0	TOI002	186	no	no	linguistic	none	_	Begin=333.372	_	_	_	_
+186-1	TOI002	186	ho	ho	linguistic	none	_	_	_	_	_	_
+186-2	TOI002	186	fatto::	fatto	linguistic	none	_	_	4x2	_	_	_
+186-3	TOI002	186	mh	mh	linguistic	none	_	_	_	_	_	_
+186-4	TOI002	186	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+186-5	TOI002	186	pavimenti	pavimenti	linguistic	none	_	_	_	_	_	_
+186-6	TOI002	186	in	in	linguistic	none	_	_	_	_	_	_
+186-7	TOI002	186	resina	resina	linguistic	none	_	_	_	_	_	_
+186-8	TOI002	186	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+186-9	TOI002	186	da	da	linguistic	none	_	_	_	_	_	_
+186-10	TOI002	186	operaio	operaio	linguistic	none	_	_	_	_	_	_
+186-11	TOI002	186	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+186-12	TOI002	186	[in	in	linguistic	none	_	_	_	_	_	0-2(33)
+186-13	TOI002	186	una	una	linguistic	none	_	_	_	_	_	0-3(33)
+186-14	TOI002	186	ditta]:	ditta	linguistic	none	_	_	4x1	_	_	0-5(33)
+186-15	TOI002	186	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
+186-16	TOI002	186	che	che	linguistic	none	_	_	_	_	_	_
+186-17	TOI002	186	conoscevamo	conoscevamo	linguistic	none	_	End=339.26	_	_	_	_
+187-0	TOR001	187	[okay]	okay	linguistic	none	_	Begin=336.668|End=337.465	_	_	_	0-4(33)

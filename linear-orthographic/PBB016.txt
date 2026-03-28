@@ -1,93 +1,92 @@
 BOR006	eccoci qua
 BOR006	allora
 BOR006	eh la prima domanda è in che zona di bologna vivi
-BOI049	adesso
+BOR006	adesso
 BOI049	a adesso abito
-BOR006	in @nomeluogo e che è nel quartiere navile
+BOI049	in @nomeluogo e che è nel quartiere navile
 BOR006	mhmh
-BOI049	e hai sempre vissuto qui
+BOR006	e hai sempre vissuto qui
 BOI049	no
 BOI049	prima ho vissuto in via malvasia
 BOI049	che è vicino all'ospedale maggiore
 BOI049	eh mh
 BOI049	mi trovavo bene
-BOR006	una bella zona insomma sì
-BOI049	una zona tranquilla
+BOI049	una bella zona insomma sì
+BOR006	una zona tranquilla
 BOI049	sì sì
-BOR006	tranquilla
-BOI049	mh
-BOR006	poi dieci anni fa circa mi sono trasferito mh
-BOI049	
-BOR006	qui
+BOI049	tranquilla
+BOR006	mh
+BOI049	poi dieci anni fa circa mi sono trasferito mh
+BOI049	qui
 BOR006	mh okay
-BOI049	e hai frequentato le scuole in via malvasia
+BOR006	e hai frequentato le scuole in via malvasia
 BOI049	allora e le elementari le ho fatte alle de amicis
 BOI049	che è vicino sì
 BOI049	che sono mh sono vicino
 BOI049	e le medie invece alle rosa luxemburg e
 BOI049	eh che è vicino alla s~
-BOR006	era vicino alla stazione
-BOI049	mh
+BOI049	era vicino alla stazione
+BOR006	mh
 BOI049	adesso
-BOR006	le hanno spostate
-BOI049	ah ah sì le hanno trasferita in un altra zona
-BOR006	sì
+BOI049	le hanno spostate
+BOR006	ah ah sì le hanno trasferita in un altra zona
+BOI049	sì
 BOR006	e qiundi prima era una delle scuole medie
-BOI049	le le rosa luxemburg
-BOR006	sì
-BOI049	che adesso
+BOR006	le le rosa luxemburg
+BOI049	sì
+BOR006	che adesso
 BOI049	no
-BOR006	rosa luxemburg le superiori
-BOI049	okay
+BOI049	rosa luxemburg le superiori
+BOR006	okay
 BOI049	e le scuole medie mh
 BOI049	dove le ho fatte
 BOI049	dove le ho f~
-BOR006	non mi ricordo
-BOI049	mh okay
+BOI049	non mi ricordo
+BOR006	mh okay
 BOI049	in questo momento
-BOR006	mi sfugge
+BOI049	mi sfugge
 BOR006	non ti preoccupare
 BOR006	e mh
 BOR006	t~
 BOR006	ti piace
 BOR006	la zona
-BOI049	in cui vivi adesso
+BOR006	in cui vivi adesso
 BOI049	mh
 BOI049	era meglio
 BOI049	era meglio prima insomma dove dove stavo prima ecco mh
 BOI049	era una zona un po' migliore
 BOI049	qui è
-BOR006	molto in periferia ecco non mh
-BOI049	mhmh
+BOI049	molto in periferia ecco non mh
+BOR006	mhmh
 BOI049	non c'è quasi niente sì
 BOI049	c'è il centro commerciale
-BOR006	e basta ecco no
-BOI049	mh
+BOI049	e basta ecco no
+BOR006	mh
 BOI049	prima ero più vicino al centro e mh
 BOI049	quindi mh mi trovavo meglio
-BOR006	sicuramente
+BOI049	sicuramente
 BOR006	sì ti sentivi meno
-BOI049	fuori da
+BOR006	fuori da
 BOI049	meno in periferia sì meno
 BOI049	mh
 BOI049	ero più verso il centro dove c'è
 BOI049	mh
-BOR006	c'è più attività ecco c'è più cose da fare insomma
+BOI049	c'è più attività ecco c'è più cose da fare insomma
 BOR006	mh
 BOR006	e e quindi
 BOR006	eh magari per migliorare la zona
 BOR006	in cui sei adesso
-BOI049	eh cosa penseresti di fare
+BOR006	eh cosa penseresti di fare
 BOI049	oddio eh
-BOR006	x nella zona
+BOI049	x nella zona
 BOR006	x
 BOR006	cioè ad esempio esempio se mi hai detto che sei molto in periferia
-BOI049	magari s~ sulla questione trasporti
+BOR006	magari s~ sulla questione trasporti
 BOI049	beh gli autobus ci sono quello mh
 BOI049	non è un problema ecco mh
 BOI049	no beh ci sono i problemi di tutte le periferie insomma mh
 BOI049	che ci sono pochi servizi e
-BOR006	sono tutti verso il centro
+BOI049	sono tutti verso il centro
 BOR006	mhmh
 BOR006	sai che ehm
 BOR006	credo da quest'anno
@@ -97,85 +96,84 @@ BOR006	x proprio vicino
 BOR006	a qui
 BOR006	c'è il polo scientifico dell'unibo
 BOR006	e hanno trasferito molte facoltà
-BOI049	e scientifiche qua
-BOR006	sì
-BOI049	quindi adesso ci sono molti più studenti universitari che gravitano intorno alla zona
+BOR006	e scientifiche qua
+BOI049	sì
+BOR006	quindi adesso ci sono molti più studenti universitari che gravitano intorno alla zona
 BOI049	mh
-BOR006	ah prima c'era proprio uno studentato qui al e
-BOI049	giusto il battifero l~
-BOR006	al batti fero sì esatto al battifero
+BOI049	ah prima c'era proprio uno studentato qui al e
+BOR006	giusto il battifero l~
+BOI049	al batti fero sì esatto al battifero
 BOR006	mh
-BOI049	vie~
+BOR006	vie~
 BOI049	che c'è mh
 BOI049	adesso non c'è più
-BOR006	oppure
+BOI049	oppure
 BOR006	okay
 BOR006	ah io n~ non lo so non sapevo
-BOI049	che non ci fosse più
-BOR006	qui abitavano proprio gli studenti
-BOI049	mh
+BOR006	che non ci fosse più
+BOI049	qui abitavano proprio gli studenti
+BOR006	mh
 BOI049	invece so che adesso li hanno spostati da un'altra parte non so
-BOR006	x x
+BOI049	x x
 BOR006	e qui ci sono invece residenti
-BOI049	diciamo
-BOR006	sì
+BOR006	diciamo
+BOI049	sì
 BOR006	mhmh
-BOI049	capito infatti c'è c'è ancora la fermata del e dell'autobus che si chiama studentato battiferro però in realtà
-BOR006	non c'è più da qualche anno mh
+BOR006	capito infatti c'è c'è ancora la fermata del e dell'autobus che si chiama studentato battiferro però in realtà
+BOI049	non c'è più da qualche anno mh
 BOR006	mhmh
 BOR006	e e però hanno spostato molti a fare l'università qui
 BOR006	quindi
 BOR006	non so cioè io sinceramente penso che mh che sia un po' un problema appunto per quello che hai detto tu cioè per la mancanza di servizi
-BOI049	il fatto che sia una zona molto periferica
+BOR006	il fatto che sia una zona molto periferica
 BOI049	sì per le str~ proprio vicino alla tangenziale insomma siamo proprio
 BOI049	in periferia
-BOR006	periferia
+BOI049	periferia
 BOR006	mhmh
 BOR006	quindi
 BOR006	poi te l'avevo me l'hai detto un po' prima però insomma
 BOR006	trovi tutto nel tuo quartiere mh
-BOI049	non proprio
+BOR006	non proprio
 BOI049	mh
 BOI049	i c'è i servizi essenziali sì c'è c'è l'anagrafe c'è l e
 BOI049	centro commerciale
 BOI049	queste cose qui
 BOI049	per altre cose bisogna spostarsi invece
-BOR006	in altre zone
+BOI049	in altre zone
 BOR006	mhmh
 BOR006	e tu come ti muovi
-BOI049	personalmente
+BOR006	personalmente
 BOI049	io con l'autobus
 BOI049	non ho la macchina quindi
-BOR006	prendo l'autobus oppure vado a piedi
-BOI049	ti piace passesggiare
+BOI049	prendo l'autobus oppure vado a piedi
+BOR006	ti piace passesggiare
 BOI049	sì mi piace
 BOI049	camminare sì mh
-BOR006	è l'unica attività fisica
-BOI049	
-BOR006	che mi piace fare sì
+BOI049	è l'unica attività fisica
+BOI049	che mi piace fare sì
 BOR006	mhmh
-BOI049	x pensi ci siano dei posti carini in cui camminare in questo quartiere
+BOR006	x pensi ci siano dei posti carini in cui camminare in questo quartiere
 BOI049	oddio c'è il parco qui vicino e mh
 BOI049	poi
 BOI049	no
-BOR006	posti carini proprio
-BOI049	okay
-BOR006	a parte il parco non direi proprio di no
+BOI049	posti carini proprio
+BOR006	okay
+BOI049	a parte il parco non direi proprio di no
 BOR006	mhmh
 BOR006	e mh
 BOR006	quindi
 BOR006	più in generale sulla sulla città
-BOI049	cioè spostandoci da
-BOR006	mhmh
+BOR006	cioè spostandoci da
+BOI049	mhmh
 BOR006	e rispetto al quartiere
-BOI049	e trovi che bologna sia cambiata molto negli ultimi anni
+BOR006	e trovi che bologna sia cambiata molto negli ultimi anni
 BOI049	sì è cambiata mh
 BOI049	abbastanza sì sì prima era mh
 BOI049	un po' più
 BOI049	provinciale come città
 BOI049	anche più vivibile in un certo
-BOR006	in un certo senso
-BOI049	okay
+BOI049	in un certo senso
+BOR006	okay
 BOI049	adesso invece
 BOI049	cioè è aumentato molto
 BOI049	il traffico per esempio e
@@ -185,26 +183,26 @@ BOI049	ce n'era molto meno si poteva
 BOI049	per esempio noi andavam a scuola mh
 BOI049	a piedi mh
 BOI049	mh da bambini e non ci accompagnava nessuno ecco mh
-BOR006	adesso sarebbe impossibile
+BOI049	adesso sarebbe impossibile
 BOR006	mh
 BOR006	okay
-BOI049	e quindi dici è diventata un po' meno provinciale però forse un po' meno vivibile
+BOR006	e quindi dici è diventata un po' meno provinciale però forse un po' meno vivibile
 BOI049	sì
-BOR006	come tutte le grandi città insomma mh
+BOI049	come tutte le grandi città insomma mh
 BOR006	mh
-BOI049	trovi che sia una cosa mh più positiva o più negativa
-BOR006	oddio tutte le cose hanno un lato positivo e e uno negativo ecco
-BOI049	mhmh
+BOR006	trovi che sia una cosa mh più positiva o più negativa
+BOI049	oddio tutte le cose hanno un lato positivo e e uno negativo ecco
+BOR006	mhmh
 BOI049	quindi
 BOI049	come che adesso magari c'è
 BOI049	è migliorata in certe cose ma
 BOI049	mh
 BOI049	e
-BOR006	peggiorata in altro
+BOI049	peggiorata in altro
 BOR006	okay
 BOR006	e
 BOR006	però sei contento
-BOI049	della città
+BOR006	della città
 BOI049	sì è mh
 BOI049	io son sempre
 BOI049	son nato a bologna sono sempre vissuto
@@ -213,28 +211,28 @@ BOI049	mi trovo bene sì sì
 BOI049	mh e
 BOI049	non vorrei andare
 BOI049	da nessun'altra parte mh
-BOR006	in particolare sì
+BOI049	in particolare sì
 BOR006	x
 BOR006	e mh
 BOR006	vista
 BOR006	una ti faccio un'altra domanda sul cambiamento della città
-BOI049	però rispetto a quando eri giovane quindi non negli ultimi anni
-BOR006	sì
+BOR006	però rispetto a quando eri giovane quindi non negli ultimi anni
+BOI049	sì
 BOR006	penso che forse la risposta è un po' sempre la stessa
-BOI049	cioè che è diventata un po' più
-BOR006	mh
-BOI049	meno provinaciale
+BOR006	cioè che è diventata un po' più
+BOI049	mh
+BOR006	meno provinaciale
 BOI049	sì eh
-BOR006	sì quello che che ho detto prima ecco mh
+BOI049	sì quello che che ho detto prima ecco mh
 BOR006	mhmh
 BOR006	lì ci sono molti più magari studenti
 BOR006	che gravitano
-BOI049	x x
+BOR006	x x
 BOI049	beh studenti
 BOI049	c'erano anche
 BOI049	c'erano anche mh quando ero piccolo però mh
 BOI049	è sempre stata una città universitaria quindi
-BOR006	sì mh da quel punto di vista n non c'è una grande differenza ecco
+BOI049	sì mh da quel punto di vista n non c'è una grande differenza ecco
 BOR006	okay
 BOR006	e
 BOR006	sta~
@@ -247,7 +245,7 @@ BOR006	eh in città vivano
 BOR006	eh
 BOR006	la città allo stesso modo in cui lo facevi tu
 BOR006	oppure pensi che
-BOI049	x ci siano differenze in come si comportano
+BOR006	x ci siano differenze in come si comportano
 BOI049	mh oddio sicuramente una
 BOI049	cioè
 BOI049	ogni generazione
@@ -258,136 +256,129 @@ BOI049	mh di fare di di comportarsi mh
 BOI049	ehm
 BOI049	però alla fine mh
 BOI049	grandissime differenze n non credo che ce ne siano
-BOR006	mh
+BOI049	mh
 BOR006	okay
 BOR006	eh mi dice~
 BOR006	ci sono le
 BOR006	l~ solite differenze generazionali
-BOI049	sì magari e
-BOR006	sì
-BOI049	interagiscono di più con la tecnologia
-BOR006	ah beh quello sì
+BOR006	sì magari e
 BOI049	sì
+BOR006	interagiscono di più con la tecnologia
+BOI049	ah beh quello sì
+BOR006	sì
 BOI049	quando ero giovane non non c'erano i cellulari non
 BOI049	quindi e da quel punto di vista
-BOR006	è cambiato tutto sì sì
+BOI049	è cambiato tutto sì sì
 BOR006	mh
-BOI049	immagino
-BOR006	noi
-BOI049	x
+BOR006	immagino
+BOI049	noi
+BOR006	x
 BOI049	c'erano ancora le cabine telefoniche
-BOR006	e
-BOR006	
-BOI049	che ogni tanto ne vedo qualc~ cioè ci sono ancora un po' di cabine telefoniche
-BOR006	ah ancora ce ne sono sì
-BOI049	che è qua vicino
+BOI049	e
+BOR006	che ogni tanto ne vedo qualc~ cioè ci sono ancora un po' di cabine telefoniche
+BOI049	ah ancora ce ne sono sì
+BOR006	che è qua vicino
 BOI049	però mh
 BOI049	non c'eran proprio i cellulari quindi non
 BOI049	non si era reperibili
-BOR006	quando uno usciva di casa ecco
+BOI049	quando uno usciva di casa ecco
 BOR006	mh sì
 BOR006	quindi sì è cambiata questa cosa della della reperibilità
-BOI049	in generale
-BOR006	sì
+BOR006	in generale
+BOI049	sì
 BOR006	okay
 BOR006	allora
 BOR006	passiamo a delle domande un po' più su
 BOR006	luoghi di interesse
 BOR006	monumenti storici della città
 BOR006	e io inizierei dai
-BOI049	dai portici dal farti qualche domande sui portici
-BOR006	sì
+BOR006	dai portici dal farti qualche domande sui portici
+BOI049	sì
 BOR006	ad esempio se ti viene in mente qualche aneddoto
 BOR006	che è legato a
 BOR006	non lo so
-BOI049	il e qualcosa di particolare che hai visto camminando sotto i portici o un luogo che ti ricordi
+BOR006	il e qualcosa di particolare che hai visto camminando sotto i portici o un luogo che ti ricordi
 BOI049	allora eh mh
 BOI049	portico mh di san luca una volta c'è stato
-BOR006	il giro d'italia che è passato mh
-BOI049	mh
+BOI049	il giro d'italia che è passato mh
+BOR006	mh
 BOI049	da queste parti
 BOI049	è arrivato proprio
-BOR006	in cima a san luca
-BOI049	bello
+BOI049	in cima a san luca
+BOR006	bello
 BOI049	sì
-BOR006	è stata una cosa bella sì
+BOI049	è stata una cosa bella sì
 BOR006	mh immagino
 BOR006	e a proposito infatti
 BOR006	che ti ricordi
-BOI049	la prima volta che sei stato a san luca
-BOI049	
+BOR006	la prima volta che sei stato a san luca
 BOI049	sì
 BOI049	ero un bambino
-BOR006	
-BOI049	mh
+BOR006	mh
 BOI049	con e con i miei genitori
 BOI049	e mh
 BOI049	molto bello sì mh c'è tutta la
 BOI049	la salita da fare
 BOI049	mi ricordo che da bambino sembrava
-BOR006	interminabile
-BOR006	
-BOI049	sì anche per me non è me lo se~ me lo sembra ancora adesso
+BOI049	interminabile
+BOR006	sì anche per me non è me lo se~ me lo sembra ancora adesso
 BOI049	sì
-BOR006	ma adesso meno x
-BOR006	
-BOI049	e quindi hai dei ricordi legati alla prima volta di questa salita interminabile
+BOI049	ma adesso meno x
+BOR006	e quindi hai dei ricordi legati alla prima volta di questa salita interminabile
 BOI049	sì questo
 BOI049	poi quando arrivi su si vede
-BOR006	tutto un panorama molto bello sì
+BOI049	tutto un panorama molto bello sì
 BOR006	mh
-BOI049	e quindi è un ricordo positivo
-BOR006	sì
+BOR006	e quindi è un ricordo positivo
+BOI049	sì
 BOR006	onesto
-BOI049	poi ci sei più tornato
-BOR006	sì ci son stato diverse volte sì sì
+BOR006	poi ci sei più tornato
+BOI049	sì ci son stato diverse volte sì sì
 BOR006	caso con la scuola
-BOI049	è capitato
+BOR006	è capitato
 BOI049	con la scuola mi sembra una volta mh
 BOI049	sì
 BOI049	mi sembra di ricordare sì
-BOR006	che ci son stato anche con la scuola sì
+BOI049	che ci son stato anche con la scuola sì
 BOR006	cioè a me m~ portano
 BOR006	portavano
-BOI049	sempre a san luca quando non aveva
-BOR006	
-BOI049	voglia il professore di educazione fisica di fare lezione
-BOR006	ho capito
+BOR006	sempre a san luca quando non aveva
+BOR006	voglia il professore di educazione fisica di fare lezione
+BOI049	ho capito
 BOR006	e ci portava lì
-BOI049	e quello valeva come lezione di di educazione fisica
-BOR006	beh effettivamente sì
-BOI049	
-BOR006	è una bella scarpinata
+BOR006	e quello valeva come lezione di di educazione fisica
+BOI049	beh effettivamente sì
+BOI049	è una bella scarpinata
 BOR006	sì assolutamente una bella scarpinata
 BOR006	e invece tornando sempre mh sui portici
 BOR006	più in generale quelli del centro
 BOR006	e mh
-BOI049	ti sembrano cambiati oppure sono rimasti più o meno gli stessi
+BOR006	ti sembrano cambiati oppure sono rimasti più o meno gli stessi
 BOI049	no a me sembra che non siano cambiati cioè
 BOI049	almeno io
 BOI049	me li ricordo sempre così mh
 BOI049	non
-BOR006	non ho notato grandi differenze
-BOI049	mh
+BOI049	non ho notato grandi differenze
+BOR006	mh
 BOI049	da quando ero piccolo mh
 BOI049	adesso mh
-BOR006	direi proprio di no
+BOI049	direi proprio di no
 BOR006	okay
 BOR006	quindi
 BOR006	sono sempre stati un po'
-BOI049	diciamo imbrattati
-BOR006	ma quello per me non è un problema cioè le scritte sui muri non mi interessano proprio niente
-BOI049	n~ neanche per me
+BOR006	diciamo imbrattati
+BOI049	ma quello per me non è un problema cioè le scritte sui muri non mi interessano proprio niente
+BOR006	n~ neanche per me
 BOI049	cioè mh
 BOI049	anzi i graffiti mi piacciono quello
 BOI049	quello proprio
-BOR006	sì eviterei di farli sui monumenti ecco quello sicuramente però per il resto mh
+BOI049	sì eviterei di farli sui monumenti ecco quello sicuramente però per il resto mh
 BOR006	sì
 BOR006	però dai penso che
-BOI049	anche l'unesco sia d'accordo visto che li ha nominati patrimonio
+BOR006	anche l'unesco sia d'accordo visto che li ha nominati patrimonio
 BOI049	beh certo eh
 BOI049	sono i portici
-BOR006	più lunghi del mondo qui a bologna
+BOI049	più lunghi del mondo qui a bologna
 BOR006	mh
 BOR006	sì non è male
 BOR006	ma infatti
@@ -399,17 +390,15 @@ BOR006	quando
 BOR006	se ti è capitato quando vai in altre città
 BOR006	e
 BOR006	se ti
-BOI049	mh fa strano non vedere i portici
+BOR006	mh fa strano non vedere i portici
 BOI049	sì
-BOR006	
-BOI049	perché a me succede sempre
+BOR006	perché a me succede sempre
 BOI049	sì è vero sembra una cosa
 BOI049	eh così normale per noi che
 BOI049	che siamo qui a bologna che
 BOI049	effettivamente sì è strano non
-BOI049	
 BOI049	non vederli dappertutto ecco
-BOR006	sì
+BOI049	sì
 BOR006	vero
 BOR006	d'accordo
 BOR006	e
@@ -417,73 +406,72 @@ BOR006	questa invece
 BOR006	s~ restando sempre su sui portici
 BOR006	se sai per caso qual è l'origine o lo scopo
 BOR006	che avevano
-BOI049	eh in passato
+BOR006	eh in passato
 BOI049	allora so che sono mh risalgono mh
-BOR006	al medioevo cioè al basso medioevo mi sembra o qualcosa del genere
+BOI049	al medioevo cioè al basso medioevo mi sembra o qualcosa del genere
 BOR006	mh
-BOI049	sì
-BOR006	e avevano lo scopo di proteggere dalla pioggia e dal sole
+BOR006	sì
+BOI049	e avevano lo scopo di proteggere dalla pioggia e dal sole
 BOR006	mhmh
 BOR006	per esempio io non lo sapevo
-BOI049	quando risalissero
-BOR006	sì sì l'epoca è quella sì medioevo eh
+BOR006	quando risalissero
+BOI049	sì sì l'epoca è quella sì medioevo eh
 BOR006	mh
 BOR006	hanno
 BOR006	s~
-BOI049	per essere del medioevo secondo me si sono tenuti bene
+BOR006	per essere del medioevo secondo me si sono tenuti bene
 BOI049	sì
 BOI049	poi naturalmente
 BOI049	i primi sono del medioevo poi dopo anche
 BOI049	durante tutto il rinascimento eh
-BOR006	hanno continuato a costruirli
+BOI049	hanno continuato a costruirli
 BOR006	mhmh
 BOR006	e mh
 BOR006	magari
 BOR006	sì immagino
 BOR006	mi hai detto non ti importa anche se sono imbrattati
-BOI049	però secondo te sono ben tenuti
-BOR006	sì mh
-BOI049	e per me
-BOR006	x
-BOI049	fanno la loro
-BOR006	
-BOI049	fanno la loro figura comunque nonostante
+BOR006	però secondo te sono ben tenuti
+BOI049	sì mh
+BOR006	e per me
+BOI049	x
+BOR006	fanno la loro
+BOR006	fanno la loro figura comunque nonostante
 BOI049	sì ma son~ ho detto non mh
-BOR006	per me non mh le scritte sui muri neanche sono un problema
+BOI049	per me non mh le scritte sui muri neanche sono un problema
 BOR006	okay
 BOR006	va bene
 BOR006	allora
 BOR006	e io mi muoverei dall'argomento
-BOI049	monumenti
-BOR006	mhmh
+BOR006	monumenti
+BOI049	mhmh
 BOR006	eccetera ti farei qualche domanda sulla sul tempo libero
 BOR006	ad esempio
 BOR006	mh
-BOI049	prima direi sullo sport
-BOR006	mh
+BOR006	prima direi sullo sport
+BOI049	mh
 BOR006	hai detto prima
-BOI049	non fai attività fisica a parte la camminata
-BOR006	no mi piace camminare e basta
+BOR006	non fai attività fisica a parte la camminata
+BOI049	no mi piace camminare e basta
 BOR006	mh
 BOR006	okay ehm
 BOR006	più o meno
-BOI049	d~ quanto quanto lo fai a settimana
-BOR006	ah tutti i giorni
-BOI049	mh
-BOR006	tutti i giorni almeno un paio d'ore
+BOR006	d~ quanto quanto lo fai a settimana
+BOI049	ah tutti i giorni
+BOR006	mh
+BOI049	tutti i giorni almeno un paio d'ore
 BOR006	okay
 BOR006	mh ottimo
 BOR006	ehm
-BOI049	resti sempre più o meno qua nel quartiere oppure
+BOR006	resti sempre più o meno qua nel quartiere oppure
 BOI049	mh vado sempre verso il centro il centro
-BOR006	mi piace molto
+BOI049	mi piace molto
 BOR006	mh
 BOR006	se poi
 BOR006	sono cioè sono la cosa che bologna è un posto molto bello per camminare perché
 BOR006	eh
 BOR006	l~ l~ è a misura d'uomo come grandezza
-BOI049	quindi effettivamente da qui anche se siamo come hai detto mh abbastanza in periferia puoi arrivare
-BOR006	sì non è molto lontano che a piedi ci puoi arrivare sì sì
+BOR006	quindi effettivamente da qui anche se siamo come hai detto mh abbastanza in periferia puoi arrivare
+BOI049	sì non è molto lontano che a piedi ci puoi arrivare sì sì
 BOR006	x
 BOR006	mhmh
 BOR006	ehm
@@ -495,215 +483,210 @@ BOR006	to vabbé inizierei dal e calcio
 BOR006	che è
 BOR006	lo sport più popolare qui in italia penso
 BOR006	forse anche a bologna
-BOI049	e tu che squadra tifi
-BOR006	per il bologna
+BOR006	e tu che squadra tifi
+BOI049	per il bologna
 BOR006	mhmh okay
-BOI049	e come mai eh magari è legato a qualche episodio in particolare
+BOR006	e come mai eh magari è legato a qualche episodio in particolare
 BOI049	no fin da piccolo cioè mh la squadra della della mia città insomma e
 BOI049	per me è normale
 BOI049	so che molti tifano
-BOR006	le squadre che vincono
-BOI049	
+BOI049	le squadre che vincono
 BOI049	però
 BOI049	penso che sia più giusto mh
 BOI049	tifare per e
 BOI049	per la squadra del e della città
-BOR006	in cui sei nato
+BOI049	in cui sei nato
 BOR006	mh
 BOR006	d'accordo ma
 BOR006	mh
 BOR006	io penso che molti a bologna sono d'accordo con te perché comunque il tifo
-BOI049	per la squadra della città
+BOR006	per la squadra della città
 BOI049	beh qui a bologna però ci sono molti tifosi
-BOR006	della juventus per esempio
-BOI049	
+BOI049	della juventus per esempio
 BOI049	infatti quando c'è mh la partita mh si vede lo stadio che
 BOI049	ci sono quasi più tifosi del e
 BOI049	della juventus e
-BOR006	che del bologna
-BOR006	
+BOI049	che del bologna
 BOR006	mhmh
-BOI049	peccato forse
+BOR006	peccato forse
 BOI049	sì
 BOI049	beh com~ è normale perché vincono sempre quindi
 BOI049	quelli che vincono di solito
-BOR006	attirano di più
-BOI049	mhmh
+BOI049	attirano di più
+BOR006	mhmh
 BOI049	bologna è da
 BOI049	dal sessantaquattro che
 BOI049	che non vince più niente
 BOI049	quindi e
 BOI049	anche i bam~
-BOR006	per un bambino è più difficile ecco
-BOI049	sì
-BOR006	tifare per e per una squadra che non vince mai
+BOI049	per un bambino è più difficile ecco
+BOR006	sì
+BOI049	tifare per e per una squadra che non vince mai
 BOR006	mh
 BOR006	mh
-BOI049	è infatti è un peccato perché il bologna ha una storia gloriosa comunque
+BOR006	è infatti è un peccato perché il bologna ha una storia gloriosa comunque
 BOI049	è una storia sì però è
-BOR006	una storia molto remota
+BOI049	una storia molto remota
 BOR006	eh lo so
 BOR006	ma eh tu
-BOI049	cioè immagino che conosci arpad weisz
-BOR006	sì
+BOR006	cioè immagino che conosci arpad weisz
+BOI049	sì
 BOR006	l'allenatore
-BOI049	che avevo visto
-BOR006	ebreo che è finito sì mh
-BOI049	x
-BOR006	nei campi di concentramento
+BOR006	che avevo visto
+BOI049	ebreo che è finito sì mh
+BOR006	x
+BOI049	nei campi di concentramento
 BOR006	mh esatto
 BOR006	avevo visto a scuola un documentario su di lui me lo ricordo
 BOR006	de~ non non so
-BOI049	cioè immagino che il bologna abbia vinto degli scudetti con lui
+BOR006	cioè immagino che il bologna abbia vinto degli scudetti con lui
 BOI049	oddio
 BOI049	non mi ric~ mi sembra uno
-BOR006	mi sembra che abbia vinto uno scudetto sì
+BOI049	mi sembra che abbia vinto uno scudetto sì
 BOR006	mhmh
 BOR006	che io non so bene la storia calcistica so la storia personale sua
-BOI049	comunque è un grande allenatore
+BOR006	comunque è un grande allenatore
 BOI049	sì
 BOI049	sì sì
-BOR006	ha fatto una brutta fine
+BOI049	ha fatto una brutta fine
 BOR006	eh
 BOR006	purtroppo sì
 BOR006	e hm
-BOI049	poi ti piace andare allo stadio
-BOR006	sì
+BOR006	poi ti piace andare allo stadio
+BOI049	sì
 BOR006	e
-BOI049	quanto i~ adesso ovviamnete è più difficile però
-BOR006	adesso o
-BOR006	
+BOR006	quanto i~ adesso ovviamnete è più difficile però
+BOI049	adesso o
 BOR006	prima
-BOI049	quanto spesso ci andavi e se ci sei andato in passato
+BOR006	quanto spesso ci andavi e se ci sei andato in passato
 BOI049	beh ci son stato mh diverse volte sì
 BOI049	mh
 BOI049	di solito vado sempre in curva
-BOR006	e
-BOI049	mh
-BOR006	oppure mh nei distinti ecco sì
+BOI049	e
+BOR006	mh
+BOI049	oppure mh nei distinti ecco sì
 BOR006	mhmh
-BOI049	quindi comunque è vicino è tipo x x
-BOR006	sì sì
-BOI049	mh
-BOR006	è bello proprio vivere la partita con i tifosi
+BOR006	quindi comunque è vicino è tipo x x
+BOI049	sì sì
+BOR006	mh
+BOI049	è bello proprio vivere la partita con i tifosi
 BOR006	eh
-BOI049	mh lo preferisci rispetto a guardarla in tv
+BOR006	mh lo preferisci rispetto a guardarla in tv
 BOI049	beh s~ s~ allo~
 BOI049	in tv si vede meglio sicuramente tutto
-BOR006	lo svolgimento del gioco eccetera mh
+BOI049	lo svolgimento del gioco eccetera mh
 BOR006	mh
-BOI049	però
+BOR006	però
 BOI049	non è la stessa cosa che mh
 BOI049	essere presente
-BOR006	allo stadio
-BOI049	x
+BOI049	allo stadio
+BOR006	x
 BOI049	allo stadio ti senti partecipe ecco in tv u
-BOR006	molto meno
+BOI049	molto meno
 BOR006	già
 BOR006	e speriamo
-BOI049	si possa tornare
-BOR006	eh
-BOI049	con più facilità
-BOR006	sì
+BOR006	si possa tornare
+BOI049	eh
+BOR006	con più facilità
+BOI049	sì
 BOR006	e poi io finirei
 BOR006	magari con e
 BOR006	eh qualche domanda
 BOR006	su
 BOR006	eh la musica e il cinema perché so comunque
 BOR006	a te
-BOI049	interessano entrambe le cose
-BOR006	sì
+BOR006	interessano entrambe le cose
+BOI049	sì
 BOR006	magari
-BOI049	eh sulla musica
-BOR006	sì
-BOI049	se ci sono dei generi che preferisci
+BOR006	eh sulla musica
+BOI049	sì
+BOR006	se ci sono dei generi che preferisci
 BOI049	a me piace la musica rock
 BOI049	in generale ecco
 BOI049	e
 BOI049	tutta quella classica tipo non so
-BOR006	led zeppelin e mh
-BOI049	m mh
+BOI049	led zeppelin e mh
+BOR006	m mh
 BOI049	e doors e
 BOI049	poi neal young e bob dylan
 BOI049	però anche quella
 BOI049	più recente
 BOI049	mh tipo nirvana
-BOR006	rem
-BOI049	mh
+BOI049	rem
+BOR006	mh
 BOI049	e x x
 BOI049	quindi diciamo dai sessanta fino
 BOI049	ai novanta ecco
 BOI049	quest'è
-BOR006	è la musica che ascolto
+BOI049	è la musica che ascolto
 BOR006	ehm
-BOI049	più recente immagino non molto un po' di meno
-BOR006	oddio mh recente quanto cioè
-BOI049	diciamo dopo i novanta
+BOR006	più recente immagino non molto un po' di meno
+BOI049	oddio mh recente quanto cioè
+BOR006	diciamo dopo i novanta
 BOI049	mhmh
 BOI049	poco
 BOI049	conosco poco mh perché poi
 BOI049	uno rimane legato poi a alla musica con cui è cresciuto e
 BOI049	sì
-BOR006	mh
-BOI049	già
+BOI049	mh
+BOR006	già
 BOI049	cose nuove non
-BOR006	non so fammi qualche nome magari
+BOI049	non so fammi qualche nome magari
 BOR006	io pensavo
 BOR006	ad esempio a i cantautori
-BOI049	perché okay ci sono quelli degli anni settanta ottanta novanta quindi de andré guccini
-BOR006	cantautori italiani
-BOI049	sì
-BOR006	ah
+BOR006	perché okay ci sono quelli degli anni settanta ottanta novanta quindi de andré guccini
+BOI049	cantautori italiani
+BOR006	sì
+BOI049	ah
 BOR006	dico italiani
 BOR006	però ad esempio
 BOR006	secondo me
-BOI049	e segui bersani magari
+BOR006	e segui bersani magari
 BOI049	bersani lo conosco sì
 BOI049	anche se mh non sono proprio un fan però
 BOI049	eh beh
-BOR006	è un bravo cantautore secondo me
-BOI049	mhmh
-BOR006	preferisco non so mh lucio dalla oppure luca carboni così
-BOI049	okay
-BOR006	vasco rossi quello però degli anni settanta ottanta
-BOI049	sì il primo vasco
-BOR006	esatto sì
-BOI049	e cosa ne che cosa ne pensi invece di cremonini
-BOR006	mh non è il mio genere
-BOI049	sì
+BOI049	è un bravo cantautore secondo me
+BOR006	mhmh
+BOI049	preferisco non so mh lucio dalla oppure luca carboni così
+BOR006	okay
+BOI049	vasco rossi quello però degli anni settanta ottanta
+BOR006	sì il primo vasco
+BOI049	esatto sì
+BOR006	e cosa ne che cosa ne pensi invece di cremonini
+BOI049	mh non è il mio genere
+BOR006	sì
 BOI049	cioè lui è bravo eh per non mh
-BOR006	non lo ascolto
+BOI049	non lo ascolto
 BOR006	mhmh
 BOR006	poi e mi sono dimenticato di chiedertelo prima
 BOR006	e s~ se hai presente
 BOR006	le le luminarie
-BOI049	che mettono sempre in via d'azeglio da da qualche anno
-BOR006	sì
-BOI049	la parte con i testi delle dei cantautori bolognesi
-BOI049	ah
-BOR006	sì
-BOR006	x
-BOI049	li hai visti
-BOR006	sì sì
-BOI049	eh secondo me è molto carino mh
-BOI049	bello sì
-BOR006	poi so che mh quando è morto lucio dalla mandavano le sue canzoni
-BOR006	eh gia
-BOI049	io sono stato alla alla casa di lucio dalla
-BOR006	ah
-BOR006	to con la con la scuola abbiamo fatto un'uscita
-BOI049	è stato molto molto bello
-BOR006	sì
-BOI049	c'erano anche musicisti che suonavano proprio nel suo salotto
-BOR006	ah
-BOI049	molto
-BOR006	s~ sei stato proprio dentro
+BOR006	che mettono sempre in via d'azeglio da da qualche anno
 BOI049	sì
-BOR006	dentro a x
-BOI049	molto bello
-BOR006	ah io l'ho vista solo da fuori che dentro mh
-BOI049	
-BOR006	non ci sono mai stato
+BOR006	la parte con i testi delle dei cantautori bolognesi
+BOI049	ah
+BOI049	sì
+BOR006	x
+BOR006	li hai visti
+BOI049	sì sì
+BOR006	eh secondo me è molto carino mh
+BOI049	bello sì
+BOI049	poi so che mh quando è morto lucio dalla mandavano le sue canzoni
+BOR006	eh gia
+BOR006	io sono stato alla alla casa di lucio dalla
+BOI049	ah
+BOR006	to con la con la scuola abbiamo fatto un'uscita
+BOR006	è stato molto molto bello
+BOI049	sì
+BOR006	c'erano anche musicisti che suonavano proprio nel suo salotto
+BOI049	ah
+BOR006	molto
+BOI049	s~ sei stato proprio dentro
+BOR006	sì
+BOI049	dentro a x
+BOR006	molto bello
+BOI049	ah io l'ho vista solo da fuori che dentro mh
+BOI049	non ci sono mai stato
 BOR006	sai era cioè
 BOR006	l~ la casa era piccolina
 BOR006	tutto sommato però mh piena di oggetti strani
@@ -712,7 +695,7 @@ BOR006	cioè
 BOR006	x cimeli musicali oppure
 BOR006	maschere di altre culture
 BOR006	tutta una serie di cose molto bizzarre
-BOI049	a invece scusa tornando sulla musica se vai ai concerti o andavi prima
+BOR006	a invece scusa tornando sulla musica se vai ai concerti o andavi prima
 BOI049	andavo sì
 BOI049	x
 BOI049	son stato
@@ -720,125 +703,123 @@ BOI049	ho visto i rem alla e
 BOI049	eh allo stadio quando son venuti qua
 BOI049	ne~ nel e
 BOI049	qualche decennio fa mh nel e
-BOR006	negli anni novanta sì
+BOI049	negli anni novanta sì
 BOR006	ah
-BOI049	quello l'avrei voluto vedere sì
+BOR006	quello l'avrei voluto vedere sì
 BOI049	dato un bel concerto
 BOI049	poi altri concerti di di gruppi mh
-BOR006	sconosciuti
-BOI049	mh
+BOI049	sconosciuti
+BOR006	mh
 BOI049	non molto famo~
-BOR006	ah poi ho visto patty smith
-BOI049	ah
+BOI049	ah poi ho visto patty smith
+BOR006	ah
 BOI049	qui in piazza maggiore
 BOI049	e mh
-BOR006	sì nomi famosi questi
-BOI049	beh dai non
-BOR006	vasco rossi sì
-BOI049	solo a bologna
+BOI049	sì nomi famosi questi
+BOR006	beh dai non
+BOI049	vasco rossi sì
+BOR006	solo a bologna
 BOI049	a bologna
 BOI049	poi i gruppi che piacciono a me non sono molto famosi ecco mh
 BOI049	quindi e
-BOR006	però non direbbero non ti direbbero niente
-BOR006	
-BOI049	ah se vuoi puoi farmi anche dei nomi e
-BOR006	beh ho visto i lemon heads e
-BOI049	i lemon heads ho presente sì sì
+BOI049	però non direbbero non ti direbbero niente
+BOR006	ah se vuoi puoi farmi anche dei nomi e
+BOI049	beh ho visto i lemon heads e
+BOR006	i lemon heads ho presente sì sì
 BOI049	ah li conosci
 BOI049	ah
-BOR006	x junior
+BOI049	x junior
 BOR006	mh
-BOI049	nasor me li ricordo perché li avevi tu sul pc se non sbaglio quindi me li ricordo da te
-BOR006	sì questi gruppi qui indie rock
+BOR006	nasor me li ricordo perché li avevi tu sul pc se non sbaglio quindi me li ricordo da te
+BOI049	sì questi gruppi qui indie rock
 BOR006	mhmh
-BOI049	però dai come concerti un po' ne hai visti comunque
-BOR006	sì sì sì
+BOR006	però dai come concerti un po' ne hai visti comunque
+BOI049	sì sì sì
 BOR006	e va bene e~ allora chiudiamo con e con il cinema
 BOR006	anche
 BOR006	ehm
-BOI049	anzitutto che tipo di film ti piacciono
+BOR006	anzitutto che tipo di film ti piacciono
 BOI049	a ma piace
 BOI049	piacciono tutti i generi ehm quindi dall'horror fino alla commedia
-BOR006	non mi piacciono i film e romantici con i
-BOI049	
+BOI049	non mi piacciono i film e romantici con i
 BOI049	solo o i musical e mh
-BOR006	non mi piacciono tanto
+BOI049	non mi piacciono tanto
 BOR006	mh
 BOR006	e e magari preferisci
 BOR006	la fiction
-BOI049	tipo magari l'horror e la fantascienza
+BOR006	tipo magari l'horror e la fantascienza
 BOI049	sì horror fantascienza il thriller e
-BOR006	questi sono i miei preferiti secondo me
-BOI049	mh
+BOI049	questi sono i miei preferiti secondo me
+BOR006	mh
 BOI049	ehm poi mi piacciono anche
 BOI049	le commedie tipo woody allen e
 BOI049	monty python e
-BOR006	sì
-BOR006	e più o meno di che anni
-BOI049	quale
-BOR006	il mio periodo preferito sono il cinema italiano dei degli anni sessanta sicuramen~ sessanta settanta
-BOR006	mhmh
-BOI049	eh sì
-BOI049	che lì eravamo proprio dei maestri ci hanno copiato proprio
-BOR006	ancora oggi ci copiano
 BOI049	sì
+BOR006	e più o meno di che anni
+BOR006	quale
+BOI049	il mio periodo preferito sono il cinema italiano dei degli anni sessanta sicuramen~ sessanta settanta
+BOR006	mhmh
+BOR006	eh sì
+BOI049	che lì eravamo proprio dei maestri ci hanno copiato proprio
+BOI049	ancora oggi ci copiano
+BOR006	sì
 BOI049	e
 BOI049	poi nell'ottanta pupi avati e mh
-BOR006	però poi sempre meno almeno il cinema italiano poi è scaduto proprio
+BOI049	però poi sempre meno almeno il cinema italiano poi è scaduto proprio
 BOR006	mh
-BOI049	sì pr~ prima eravamo abbastanza invidiati e imita~
-BOR006	sì eravamo proprio dei maestri sì sì
+BOR006	sì pr~ prima eravamo abbastanza invidiati e imita~
+BOI049	sì eravamo proprio dei maestri sì sì
 BOR006	mh mh
 BOR006	e hm
-BOI049	vai spesso al cinema
-BOR006	adesso no
-BOI049	ovviamente
-BOR006	ma ci andavo spesso anche tutte le settimane sì sì
+BOR006	vai spesso al cinema
+BOI049	adesso no
+BOR006	ovviamente
+BOI049	ma ci andavo spesso anche tutte le settimane sì sì
 BOR006	ah
-BOI049	e magari hai un cinema preferito di bologna
+BOR006	e magari hai un cinema preferito di bologna
 BOI049	mh mh
 BOI049	son stato molte volte son stato mh
 BOI049	all'odeon
 BOI049	eh poi tanti cinema hanno chiuso poi che
-BOR006	adesso non ci sono più com
-BOI049	vero io mi ricordo che c'era il capitol e in via indipendenza
-BOR006	il capitol sì
-BOI049	quello ha chiuso
+BOI049	adesso non ci sono più com
+BOR006	vero io mi ricordo che c'era il capitol e in via indipendenza
+BOI049	il capitol sì
+BOR006	quello ha chiuso
 BOI049	mh li hanno chiusi quasi tutti poi adesso ci sono
-BOR006	le multisale
-BOI049	mhmh
-BOR006	quasi solo multisale
-BOI049	ah prima c'erano molti più cinema magari anche piccolini in centro
+BOI049	le multisale
+BOR006	mhmh
+BOI049	quasi solo multisale
+BOR006	ah prima c'erano molti più cinema magari anche piccolini in centro
 BOI049	sì
 BOI049	ce n'erano tanti qui
-BOR006	qui a bologna ce n'eranto tanti sì
+BOI049	qui a bologna ce n'eranto tanti sì
 BOR006	mh
 BOR006	io ne vedo ancora tanti
 BOR006	cioè per me sono tanti
-BOI049	perché comunque
-BOR006	ma ce n'erano di più una volta
+BOR006	perché comunque
+BOI049	ma ce n'erano di più una volta
 BOR006	mh
 BOR006	mh peccato
 BOR006	e diciamo
-BOI049	e secondo me si trovano più o meno tutti i film ch~ che uno vuole vedere a bologna anche grazie alla cineteca
+BOR006	e secondo me si trovano più o meno tutti i film ch~ che uno vuole vedere a bologna anche grazie alla cineteca
 BOI049	sì mh
-BOR006	a bologna è uno dei posti migliori sì sì perché per chi ama il cinema sì sì
+BOI049	a bologna è uno dei posti migliori sì sì perché per chi ama il cinema sì sì
 BOR006	mhmh son d'accordo
 BOR006	e ultima domanda che cosa ne pensi del cinema sotto le stelle
-BOI049	quello in piazza maggiore
+BOR006	quello in piazza maggiore
 BOI049	bello mh ci son stato qualche volta mh
-BOR006	molto bello sì
+BOI049	molto bello sì
 BOR006	mhmh
 BOR006	diciamo che in avevo letto in un articolo di recente che in modo forse un po' campanilistico però
-BOI049	comunque eh i bolognesi amano definirlo il cinema più bello del mondo
-BOR006	forse un po' esagera~
-BOI049	un po' esagerato sì però
-BOR006	però è suggestivo sì
-BOI049	mhmh
+BOR006	comunque eh i bolognesi amano definirlo il cinema più bello del mondo
+BOI049	forse un po' esagera~
+BOR006	un po' esagerato sì però
+BOI049	però è suggestivo sì
+BOR006	mhmh
 BOI049	ehm
-BOR006	molto suggestivo
-BOI049	sì s~ sono d'accordo specialmente cioè di notte è molto molto bello stare in piazza maggiore
-BOR006	sì
-BOI049	va bene grazie mille
-BOR006	finito
+BOI049	molto suggestivo
+BOR006	sì s~ sono d'accordo specialmente cioè di notte è molto molto bello stare in piazza maggiore
+BOI049	sì
+BOR006	va bene grazie mille
+BOI049	finito
 BOR006	finito finito

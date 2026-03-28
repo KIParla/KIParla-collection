@@ -1,35 +1,35 @@
 TO999	allora:: vincenzo.
 TO999	facciamo così e:::h,
-TO042	quanti anni hai?
-TO999	venti:sei.
-TO042	e: dove sei nato?
-TO999	nomepaese
-TO042	e: dove hai fatto le superiori?
-TO999	vercelli.
-TO042	okay e ora (lavori) a torino [gius]to?
-TO999	[sì].
-TO042	e:: fai altri lavori oltre a quello che fai a torino?
-TO999	u::h no.
+TO999	quanti anni hai?
+TO042	venti:sei.
+TO999	e: dove sei nato?
+TO042	nomepaese
+TO999	e: dove hai fatto le superiori?
+TO042	vercelli.
+TO999	okay e ora (lavori) a torino [gius]to?
+TO042	[sì].
+TO999	e:: fai altri lavori oltre a quello che fai a torino?
+TO042	u::h no.
 TO999	okay.
 TO999	e::h benissimo.
-TO042	che:: lingue parli oltre all'italiano?
+TO999	che:: lingue parli oltre all'italiano?
 TO042	e:h,
 TO042	inglese,
 TO042	francese,
 TO042	un po':: di tedesco,
 TO042	ho s~
 TO042	studiato pe:r,
-TO999	divertimento l'olandese ma >non so quasi niente vabbè latino il greco< perché li ho studiati (.) all'università e:h vabbè il mio dialetto.
-TO042	okay. che sarebbe di?
-TO999	di:: nomepaese. in provincia di: vercelli.
-TO042	okay. che è dove vivi adesso?
-TO999	i::o:: ogni tanto torno là ma vivo a torino più che altro.
+TO042	divertimento l'olandese ma >non so quasi niente vabbè latino il greco< perché li ho studiati (.) all'università e:h vabbè il mio dialetto.
+TO999	okay. che sarebbe di?
+TO042	di:: nomepaese. in provincia di: vercelli.
+TO999	okay. che è dove vivi adesso?
+TO042	i::o:: ogni tanto torno là ma vivo a torino più che altro.
 TO999	okay.
-TO042	e::h=mi racconti un momentino: dove abiti come è fatta casa tua da quanto ci vivi?
+TO999	e::h=mi racconti un momentino: dove abiti come è fatta casa tua da quanto ci vivi?
 TO042	sì,
 TO042	e:: io qui a torino abito,
-TO999	e:: in @nomeluogo,
-TO042	mhmh,
+TO042	e:: in @nomeluogo,
+TO999	mhmh,
 TO042	e:h casa mia (.) è un appartamento al,
 TO042	quarto piano.
 TO042	u:h,
@@ -39,20 +39,20 @@ TO042	ha una stanza grande che fa da cucina e,
 TO042	e::h salotto una camera da letto e: un bagno abbastanza piccolo.
 TO042	ha::,
 TO042	quattro balconi,
-TO999	e:d è abbstanza: spaziosa non troppo in real[tà].
-TO042	[o]kay. vivi solo?
-TO999	e::h sì praticamente sì.
-TO042	okay. da quanto tempo vivi in questa casa?
+TO042	e:d è abbstanza: spaziosa non troppo in real[tà].
+TO999	[o]kay. vivi solo?
+TO042	e::h sì praticamente sì.
+TO999	okay. da quanto tempo vivi in questa casa?
 TO042	da:::,
-TO999	due anni e mezzo.
+TO042	due anni e mezzo.
 TO999	okay.
-TO042	e::h qual è la tua stanza preferita della casa?
+TO999	e::h qual è la tua stanza preferita della casa?
 TO042	probabilmente::,
-TO999	probabilmente il soggiorno probabilme[nte].
-TO042	[mh] mh, come mai?
-TO999	perché ci passo più tempo (.) credo.
+TO042	probabilmente il soggiorno probabilme[nte].
+TO999	[mh] mh, come mai?
+TO042	perché ci passo più tempo (.) credo.
 TO999	mhmh.
-TO042	okay. e quindi quali sono le <caratteristiche> che: deve avere una casa perché sia veramente casa tua cioè cosa è veramente importante?
+TO999	okay. e quindi quali sono le <caratteristiche> che: deve avere una casa perché sia veramente casa tua cioè cosa è veramente importante?
 TO042	sì che sia::,
 TO042	comoda,
 TO042	anche come posizione.
@@ -62,20 +62,20 @@ TO042	e::h,
 TO042	che ci si possa affacciare fuori,
 TO042	e::h,
 TO042	sì che abbia un certo livello di:,
-TO999	di comodità.
-TO042	mhmh,
-TO999	essenzialmente questo.
-TO042	okay. e la zona ti piace?
-TO999	sì. sì sì è molto bella.
+TO042	di comodità.
+TO999	mhmh,
+TO042	essenzialmente questo.
+TO999	okay. e la zona ti piace?
+TO042	sì. sì sì è molto bella.
 TO999	mh.
-TO042	e: che zone hai conosciuto di torino?
-TO999	in cui ho abitato?
-TO042	m:h=ma che hai conosciuto vivendo qui an[che che non hai abitato].
+TO999	e: che zone hai conosciuto di torino?
+TO042	in cui ho abitato?
+TO999	m:h=ma che hai conosciuto vivendo qui an[che che non hai abitato].
 TO042	[sì (.) anche al di f]uori e::h=m:h bah e:h,
 TO042	quand'ero piccolo io venivo spesso a torino perché:: e::h,
 TO042	i miei nonni erano di torino anche mia madre.
-TO999	e quindi la zona:: vicino a corso casale (.) quel[la l'ho cono]sciuta per prima.
-TO042	[mhmh],
+TO042	e quindi la zona:: vicino a corso casale (.) quel[la l'ho cono]sciuta per prima.
+TO999	[mhmh],
 TO042	poi:: ho passato:::,
 TO042	beh prima dell'università e:h anche la zona dove lavora mia madre spesso mi capitava di andare lì e dove abita mia zia,
 TO042	e:h che sono (.) via giuria e::,
@@ -84,59 +84,59 @@ TO042	e:: via san donato più o meno.
 TO042	e poi:: da quando ho iniziato l'università: il ce:ntro: i dintorni dell'università e poi quando sono venuto ad abitare a torino,
 TO042	e:h=mh la parte di via:: parte finale di via::: sant'agostino.
 TO042	e::h,
-TO999	dove ho abitato per un [po'].
-TO042	[m]h mh. quindi tutto più o meno abbastanza centrale.
-TO999	e::h sì ab[bastanza sì].
+TO042	dove ho abitato per un [po'].
+TO999	[m]h mh. quindi tutto più o meno abbastanza centrale.
+TO042	e::h sì ab[bastanza sì].
 TO999	[mhmh mhmh].
-TO042	<via sant'agostino:> da che parte verso via garibal[di o:]?
-TO999	[no da]ll'altra [par]te.
+TO999	<via sant'agostino:> da che parte verso via garibal[di o:]?
+TO042	[no da]ll'altra [par]te.
 TO999	[mhmh],
 TO999	okay.
-TO042	e lì come::: insomma che: tipo di soluzione abitativa era?
-TO999	era: un monolocale.
+TO999	e lì come::: insomma che: tipo di soluzione abitativa era?
+TO042	era: un monolocale.
 TO999	mhmh.
-TO042	okay quindi vivevi solo [e],
-TO999	[sì].
-TO042	mhmh.
-TO999	sì sì sì.
-TO042	e come mai non ci vivi più?
-TO999	perché:::=m:h=non mi piaceva più era::=m::h diventato abbastanza scomodo volevo cambiare casa.
-TO042	mhmh.
-TO999	non era niente di che in effetti.
+TO999	okay quindi vivevi solo [e],
+TO042	[sì].
+TO999	mhmh.
+TO042	sì sì sì.
+TO999	e come mai non ci vivi più?
+TO042	perché:::=m:h=non mi piaceva più era::=m::h diventato abbastanza scomodo volevo cambiare casa.
+TO999	mhmh.
+TO042	non era niente di che in effetti.
 TO999	certo.
 TO999	ma invece potendo scegliere adesso cioè ovviamente con fondi:: illimitati o quasi,
-TO042	e:h in che zona di torino ti piacerebbe vivere?
+TO999	e:h in che zona di torino ti piacerebbe vivere?
 TO042	ma: e::h,
 TO042	è una bella domanda m:i piacerebbe:: u:na z~ zona::,
 TO042	ben servita dai mezzi pubblici,
 TO042	anche non necessariamente: troppo centrale,
 TO042	e:h anche come quella in cui vivo adesso.
 TO042	qualcosa del genere.
-TO999	che sia comoda: (e.) (.) facilmente raggiungibile.
+TO042	che sia comoda: (e.) (.) facilmente raggiungibile.
 TO999	mhmh.
 TO999	okay.
-TO042	ma vivresti volentieri in un posto come san salvario? cioè un po' caotico,
-TO999	e::h forse in certe zone sì.
-TO042	mh [mh].
-TO999	[in] altre di meno.
+TO999	ma vivresti volentieri in un posto come san salvario? cioè un po' caotico,
+TO042	e::h forse in certe zone sì.
+TO999	mh [mh].
+TO042	[in] altre di meno.
 TO999	okay.
 TO999	e::h=mh e invece,
 TO999	parliamo un po' della casa dove:: hai vissuto,
-TO042	penso fino a quando eri ragazzo a nomepaese.
-TO999	mhmh,
-TO042	che che tipo di casa è?
+TO999	penso fino a quando eri ragazzo a nomepaese.
+TO042	mhmh,
+TO999	che che tipo di casa è?
 TO042	è:: u::n (.) appartamento.
 TO042	e:::h,
 TO042	terzo piano.
 TO042	non grandissimo.
 TO042	e:h però comodo.
 TO042	io: avevo la mia stanza e:,
-TO999	sì.
+TO042	sì.
 TO999	mhmh.
-TO042	e lì qual era la tua stanza preferita?
-TO999	e::h la mia sicuramente.
+TO999	e lì qual era la tua stanza preferita?
+TO042	e::h la mia sicuramente.
 TO999	la tua.
-TO042	com'era fatta camera tua? x o come è fatta [xx] c'è ancora quella casa.
+TO999	com'era fatta camera tua? x o come è fatta [xx] c'è ancora quella casa.
 TO042	[sì].
 TO042	sì sì sì.
 TO042	ha:: una:::=m:::h,
@@ -145,42 +145,42 @@ TO042	e:::h,
 TO042	una <scrivania> u:::na:: mh televisione,
 TO042	un armadio molto grande,
 TO042	e c'era u:::n pianoforte digitale in mezzo che però poi è stato: è stato tolto (per)
-TO999	essere portato: qui a: torino.
-TO042	okay.
-TO999	[e::],
-TO042	[quindi suo]ni tu?
-TO999	sì.
+TO042	essere portato: qui a: torino.
+TO999	okay.
+TO042	[e::],
+TO999	[quindi suo]ni tu?
+TO042	sì.
 TO999	ah.
-TO042	non lo sapevo.
+TO999	non lo sapevo.
 TO042	sì sì ((ride))
 TO042	e:::h boh poi ha::,
-TO999	°insomma m:h°=muri bianchi e: e delle piastrelle un po' strane.
+TO042	°insomma m:h°=muri bianchi e: e delle piastrelle un po' strane.
 TO999	mhmh.
-TO042	cosa suoni per curios~ cioè che genere?
-TO999	e::h=ma io ho s[tudiato:],
-TO042	[questo non c'entra] c[on l'intervista eh però].
-TO999	[sì sì sì] ((ride)) io ho studiato pianoforte quindi bo[h mh] cose un po' a caso in realtà poi ho smesso e:,
+TO999	cosa suoni per curios~ cioè che genere?
+TO042	e::h=ma io ho s[tudiato:],
+TO999	[questo non c'entra] c[on l'intervista eh però].
+TO042	[sì sì sì] ((ride)) io ho studiato pianoforte quindi bo[h mh] cose un po' a caso in realtà poi ho smesso e:,
 TO999	[mhmh],
-TO042	il repertorio classico?
+TO999	il repertorio classico?
 TO042	sì essenzialmente sì. poi ho anche studiato flauto,
-TO999	ultimamente mi sono:: appassionato di flauti:: barocchi quindi mi son[o compra]to tipo delle <riproduzione:> insomma cose un po' così °xxx.°
+TO042	ultimamente mi sono:: appassionato di flauti:: barocchi quindi mi son[o compra]to tipo delle <riproduzione:> insomma cose un po' così °xxx.°
 TO999	[mhmh],
-TO042	quindi quello tipo il flauto delle medie però enorme?
-TO999	no no traverso t[raverso sì sì] sì.
-TO042	[ah okay].
+TO999	quindi quello tipo il flauto delle medie però enorme?
+TO042	no no traverso t[raverso sì sì] sì.
+TO999	[ah okay].
 TO042	sì sì.
 TO042	però di~ come quelli di oggi solo senza chiavi di legno son molto belli.
-TO999	°cioè,°
-TO042	°mhmh,°
+TO042	°cioè,°
+TO999	°mhmh,°
 TO042	mh (ne) ho comprato le riproduzioni in,
 TO042	in resina eh in realtà.
-TO999	non no~ non in legno da migliaia di euro.
-TO042	eh infatti immagino.
-TO999	sì sì sì.
-TO042	e comunque aspetta perché stavamo parlando di quello ah sì perché stavamo parlando di casa tua:: vecchia okay.
-TO999	ahah,
+TO042	non no~ non in legno da migliaia di euro.
+TO999	eh infatti immagino.
+TO042	sì sì sì.
+TO999	e comunque aspetta perché stavamo parlando di quello ah sì perché stavamo parlando di casa tua:: vecchia okay.
+TO042	ahah,
 TO999	e::h=m::h,
-TO042	ecco volevo chiederti se ti ricordi un episodio:: particolarmente: buffo diverte:nte o anche spiacevole che ti è capitato da quando vivi a torino insomma un qualcosa che ti è rimasto impresso.
+TO999	ecco volevo chiederti se ti ricordi un episodio:: particolarmente: buffo diverte:nte o anche spiacevole che ti è capitato da quando vivi a torino insomma un qualcosa che ti è rimasto impresso.
 TO042	da quando vivo a torino.
 TO042	e::h,
 TO042	°un episodio buffffo divertente o spiacevole,°
@@ -200,28 +200,28 @@ TO042	eh=mh,
 TO042	>e tipo questa ragazza con questi tacchi alti ha iniziato a traballare< e io la guardavo come dire (.) e::h,
 TO042	oddio questa cade.
 TO042	e::h però in realtà mh,
-TO999	si è destreggiata abbastanza ha continuato a camminare,
-TO042	((ride))
+TO042	si è destreggiata abbastanza ha continuato a camminare,
+TO999	((ride))
 TO042	e:h e poi a un certo punto è caduta.
 TO042	e la scena è stata molto bella perché questa vecchia e::h tipo,
-TO999	con pesante accento ha iniziato a dire eh ma guarda questi giovani di oggi mh insomma è stata una scena molto divertente perché poi si è protratta,
-TO042	((ride))
+TO042	con pesante accento ha iniziato a dire eh ma guarda questi giovani di oggi mh insomma è stata una scena molto divertente perché poi si è protratta,
+TO999	((ride))
 TO042	si è protratta per un po'.
 TO042	n~ non riesco a pensare:: ad altro di,
-TO999	di così:::,
-TO042	((ride))
-TO999	no perché era proprio mh assorta mh in una sorta di tempesta perfetta °no nel senso mh,°
-TO042	sì sì sì.
+TO042	di così:::,
+TO999	((ride))
+TO042	no perché era proprio mh assorta mh in una sorta di tempesta perfetta °no nel senso mh,°
+TO999	sì sì sì.
 TO042	>c'è stato molto<,
 TO042	molta: attesa per il momento in cui questa ragazza,
-TO999	questo.
-TO042	x scene che, ((ride))
-TO999	s[ì],
-TO042	[po]sson capitare sicuramente più facilmente in città che non ((ride)) in paese dove ci si conosce tutti. ((ride))
+TO042	questo.
+TO999	x scene che, ((ride))
+TO042	s[ì],
+TO999	[po]sson capitare sicuramente più facilmente in città che non ((ride)) in paese dove ci si conosce tutti. ((ride))
 TO042	sì sì sì.
 TO042	no no no ma poi sembrava proprio pronta a dire qualcosa di cattivo quella::,
-TO999	quella signora quindi sì sì.
-TO042	ascolta e quali sono gli aspetti:: (.) più negativi del vivere: a torino rispetto al vivere: insomma nel posto dove si è nati.
+TO042	quella signora quindi sì sì.
+TO999	ascolta e quali sono gli aspetti:: (.) più negativi del vivere: a torino rispetto al vivere: insomma nel posto dove si è nati.
 TO042	m::h=m::h,
 TO042	mma:h, ((soffia))
 TO042	essenzialmente:::: sì che: bah io ero abituato a::,
@@ -243,10 +243,10 @@ TO042	e poi una cosa che mi pesa di torino forse sono i mezzi pubblici che non s
 TO042	e::h,
 TO042	tropp (poco).
 TO042	insomma,
-TO999	adatti adeguati alla: situazione.
+TO042	adatti adeguati alla: situazione.
 TO999	effettivamente no.
 TO999	però tu condividi la posizione da classico fuorisede per cui si vive (.) in centro.
-TO042	vicino all'università.
+TO999	vicino all'università.
 TO042	m:::h,
 TO042	s::ì secondo me::: sì. (.) banalmente sì.
 TO042	sì sì sì non troppo lontano ecco >non troppo lontano dal luogo dove<,
@@ -255,45 +255,45 @@ TO042	e::h,
 TO042	eh dove (sai) e poi p~ p~ per carità e:::h se:::,
 TO042	se ci fossero cinque linee di metropolitana si potrebbe anche valutare di::,
 TO042	anzi sicuramente si valuterebbe di,
-TO999	abitare anche al capo opposto della:: città.
-TO042	(certo). milano.
-TO999	((ride))
+TO042	abitare anche al capo opposto della:: città.
+TO999	(certo). milano.
 TO042	((ride))
-TO999	eh sì.
-TO042	e una volta che finirai::: (.) l'assegno di dottorato pensi che tornerai a casa o rimarrai qua?
+TO999	((ride))
+TO042	eh sì.
+TO999	e una volta che finirai::: (.) l'assegno di dottorato pensi che tornerai a casa o rimarrai qua?
 TO042	m::h=ma::h,
-TO999	credo che rimarrò qua.
-TO042	comunque ti piacerebbe continuare a vivere a torino?
-TO999	sì >sì sì sì< certo.
-TO042	ma=e tu hai mai avuto esperienze tipo erasmu::s o comunque periodi all'estero,
+TO042	credo che rimarrò qua.
+TO999	comunque ti piacerebbe continuare a vivere a torino?
+TO042	sì >sì sì sì< certo.
+TO999	ma=e tu hai mai avuto esperienze tipo erasmu::s o comunque periodi all'estero,
 TO042	e:::h,
-TO999	s:ì ho fatto de:l~ mh una scuola estiva: ma::,
-TO042	mhmh,
-TO999	e (for~) poi e poi forse qualcos'altro: x~
-TO042	dove?
-TO999	scuola estiva a::: bellin[zona].
+TO042	s:ì ho fatto de:l~ mh una scuola estiva: ma::,
+TO999	mhmh,
+TO042	e (for~) poi e poi forse qualcos'altro: x~
+TO999	dove?
+TO042	scuola estiva a::: bellin[zona].
 TO999	[mh] mh,
-TO042	e come funziona lì?
+TO999	e come funziona lì?
 TO042	e:::h,
 TO042	quando l'ho fatto io era di una settimana e c'erano,
 TO042	lezioni pe:r,
 TO042	non mi ricordo quante ore al giorno sei ore al giorno sette ore al giorno,
 TO042	dal lunedì al sabato.
 TO042	e si stava in ostello,
-TO999	e::h,
-TO042	tutti insieme?
+TO042	e::h,
+TO999	tutti insieme?
 TO042	sì.
 TO042	°sì sì sì.°
-TO999	molto un'esperienza molto bella.
-TO042	sì sono quelle dinamiche un po' tipo classe: ((ride)) delle delle superiori::, ((ride))
+TO042	molto un'esperienza molto bella.
+TO999	sì sono quelle dinamiche un po' tipo classe: ((ride)) delle delle superiori::, ((ride))
 TO042	no no certo poi con studenti da ogni (.) svizzeri italiani: insomma=°m:h°,
-TO999	stranieri °anche a volte.°
-TO042	nel senso sia studenti:: che: dottorandi c[i sono]?
-TO999	[sì s]ì sì [certo].
+TO042	stranieri °anche a volte.°
+TO999	nel senso sia studenti:: che: dottorandi c[i sono]?
+TO042	[sì s]ì sì [certo].
 TO999	[mhmh].
 TO999	mhmh,
-TO042	ed è fatto abbastanza bene? cioè (no) sono tutti di solito contenti.
+TO999	ed è fatto abbastanza bene? cioè (no) sono tutti di solito contenti.
 TO042	certo.
-TO999	certo °(è) fatto molto bene.°
+TO042	certo °(è) fatto molto bene.°
 TO999	°okay° cosa ti posso ancora chiedere?
 TO999	°basta così. direi che siamo a posto.°

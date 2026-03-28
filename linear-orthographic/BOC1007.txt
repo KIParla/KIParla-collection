@@ -1,39 +1,39 @@
 BO104	avanti
-BO144	salve sì eh mh dunque la ragazza per le regstrazioni
-BO104	xxx il registratore e continuiamo
+BO104	salve sì eh mh dunque la ragazza per le regstrazioni
+BO144	xxx il registratore e continuiamo
 BO104	ah
-BO144	okay non abbiamo firmato nulla firmiamo dopo
-BO104	io ho già firmato
-BO144	ah okay du~ va beh firmerò dopo io va bene
-BO104	xxxxxxx okay
+BO104	okay non abbiamo firmato nulla firmiamo dopo
+BO144	io ho già firmato
+BO104	ah okay du~ va beh firmerò dopo io va bene
+BO144	xxxxxxx okay
 BO104	arrivo subito eh
-BO144	hai un documento
-BO104	sì
-BO104	grazie
-BO144	okay allora porti il programma dell'anno accademico duemilasedici duemiladiciassette sì da frequentante
+BO104	hai un documento
 BO144	sì
-BO104	sì
-BO144	da frequentante d'accordo hai frequentato anche il secondo modulo
-BO104	sì
-BO144	poi hai portato anche le slide
-BO104	no
-BO144	non hai fatto le slide
-BO104	cioè s~ sì le ho ma ho integrato con anche i libri
-BO144	no no certo dico hai fatto sia i libri che le slide tutt'e due
+BO104	grazie
+BO104	okay allora porti il programma dell'anno accademico duemilasedici duemiladiciassette sì da frequentante
+BO144	sì
+BO144	sì
+BO104	da frequentante d'accordo hai frequentato anche il secondo modulo
+BO144	sì
+BO104	poi hai portato anche le slide
+BO144	no
+BO104	non hai fatto le slide
+BO144	cioè s~ sì le ho ma ho integrato con anche i libri
+BO104	no no certo dico hai fatto sia i libri che le slide tutt'e due
 BO144	xx ah okay
-BO104	sì sì sì okay okay okay
-BO144	bene allora qua è l~ il tema che ti è interessato di più nel secondo modulo
+BO144	sì sì sì okay okay okay
+BO104	bene allora qua è l~ il tema che ti è interessato di più nel secondo modulo
 BO144	allora
 BO144	mh che mi ha
 BO144	che mi è particolarmente piaciuto
-BO104	mh la valutazione e il testing
-BO144	mh mh
+BO144	mh la valutazione e il testing
+BO104	mh mh
 BO144	e mh il discorso riguardante eh mh
 BO144	il laboratorio linguistico
 BO144	il passagggio da eh alt er
-BO104	er e il dalia
-BO144	ah il mio articolo quello ah d'accordo
-BO104	sì sì
+BO144	er e il dalia
+BO104	ah il mio articolo quello ah d'accordo
+BO144	sì sì
 BO104	va bene senti parliamo un attimo di valutazione
 BO104	che cosa si intende
 BO104	c'è questo concetto più recente
@@ -44,12 +44,12 @@ BO104	nel processo didattico
 BO104	e eh mh
 BO104	eh mh che cosa si intende
 BO104	con il concetto di utilità
-BO144	di un di un test
+BO104	di un di un test
 BO144	okayi allora innanzitutto un eh un eh
 BO144	un tes~ un language testing cioè una una valutazione di lingue
 BO144	è una mh
-BO104	una valutazione della competenza comunicativa che si è raggiunta in quella determinata lingua
-BO144	per forza la competenza comunicativa
+BO144	una valutazione della competenza comunicativa che si è raggiunta in quella determinata lingua
+BO104	per forza la competenza comunicativa
 BO144	no può essere anche la competenza linguistica solo che la competenza linguistica viene intesa proprio come l'apprendimento
 BO144	e delle regole grammaticali
 BO144	mentre la competenza comunicativa
@@ -72,24 +72,24 @@ BO144	quando si arriva all'università
 BO144	o si terminano le scuole superiori
 BO144	di si secondarie di secondo grado
 BO144	abbiamo le mh ad esempio il test di livello
-BO104	il quello che è cosiddetto
-BO144	il test di livello lo puoi fare anche alle scuole medie mh
+BO144	il quello che è cosiddetto
+BO104	il test di livello lo puoi fare anche alle scuole medie mh
 BO144	che è il cosiddetto mh il il placement che vuole
 BO144	mh diciamo valutare
 BO144	il livello linguistico prima di iniziare un determinato corso di studi
-BO104	mentre
-BO144	ma no non è detto che sia così il test di piazzamento lo fai anche banalmente se vai a fare un corso di lingue straniere all'etestero
-BO104	il
-BO144	è un test di posizionamento per creare dei gruppi classe
+BO144	mentre
+BO104	ma no non è detto che sia così il test di piazzamento lo fai anche banalmente se vai a fare un corso di lingue straniere all'etestero
+BO144	il
+BO104	è un test di posizionamento per creare dei gruppi classe
 BO144	all'interno di un determi~
 BO144	all'indet~ all'interno di un determinato livello
-BO104	in modo da indirizzare mh alla classe più appropriata
-BO144	mh
+BO144	in modo da indirizzare mh alla classe più appropriata
+BO104	mh
 BO144	il eh l'allievo che è so~ che è stato sottoposto a quel test e evitare di inserirlo magari all'interno di una classe dove il livello
 BO144	che viene trattato
-BO104	è troppo semplice o magari è troppo difficile per le sue competenze
+BO144	è troppo semplice o magari è troppo difficile per le sue competenze
 BO104	sì
-BO144	mh
+BO104	mh
 BO144	e poi abbiamo il eh mh il livello che mh il eh mh test che
 BO144	diciamo verifica le competenze
 BO144	proprio acquisite nel corso
@@ -103,19 +103,19 @@ BO144	e poi c'è il eh mh il livello il test di competenze
 BO144	invece che è proprio quello che mh solitamente
 BO144	si effettua
 BO144	quando si vuole mh
-BO104	iniziare un certo tipo di lavoro perché può essere richiesto di dimostrare di avere una certa competenza
-BO144	cioè il test di padronanza
+BO144	iniziare un certo tipo di lavoro perché può essere richiesto di dimostrare di avere una certa competenza
+BO104	cioè il test di padronanza
 BO144	sì
 BO144	di avere una determinata competenza
 BO144	a lavoro
 BO144	ti quindi devi proprio sottoporti a questo tipo di test
 BO144	che è è un test
-BO104	mh
-BO144	cioè banalmente sono le certificazioni linguistiche sì
+BO144	mh
+BO104	cioè banalmente sono le certificazioni linguistiche sì
 BO144	esatto
-BO104	esatto
+BO144	esatto
 BO104	comunque ritorna alla mia domanda la mia domanda era il concetto di utilità
-BO144	quello di bachman e palmer nel testing linguistico
+BO104	quello di bachman e palmer nel testing linguistico
 BO144	eh mh perché mh
 BO144	per essere
 BO144	un test
@@ -137,7 +137,7 @@ BO144	e le lezioni che sono state sostenute
 BO144	e che sono state svolte sono state comprese
 BO144	dagli dagli apprendenti
 BO144	ma al tempo stesso se il suo insegnamento è un insegnamento valido
-BO104	cioè si sta mh sta veramente facendo apprendere qualcosa agli allievi
+BO144	cioè si sta mh sta veramente facendo apprendere qualcosa agli allievi
 BO104	ma noi l'utilità noi l'abbiamo affrontata in modo abbastanza tecnico diciamo perché è un concetto tecnico
 BO104	nel testing si compone di diverse componenti no
 BO104	si compone di diverse parti
@@ -148,9 +148,9 @@ BO104	della valutazione no quindi abbiamo parlato dell'affidabilità della valid
 BO104	dell'autenticità
 BO104	eccetera eccetera
 BO104	quindi
-BO144	riesci ad argomentarmi questo concetto in modo
-BO104	sì allora eh per essere utile un test deve essere innanzitutto
-BO144	preciso
+BO104	riesci ad argomentarmi questo concetto in modo
+BO144	sì allora eh per essere utile un test deve essere innanzitutto
+BO104	preciso
 BO144	valido
 BO144	cioè deve mh mh misurare
 BO144	la compe~ mh quello che deve misurare e nulla di più
@@ -162,18 +162,18 @@ BO144	maggiormente sulla sua capacità
 BO144	eh di produzione scritta non è ritenuto un test valido
 BO144	perché non sta valutando quello che
 BO144	mh
-BO104	si era prefissato di valutare
-BO144	mh mh
+BO144	si era prefissato di valutare
+BO104	mh mh
 BO144	e poi deve essere anche un test affidabile
-BO104	eh mh
-BO144	ti ricordi qualche riferimento teorico per il concetto di validità
-BO104	mh
-BO144	chi l'ha studiato chi l'ha schematizzato
-BO104	mh
+BO144	eh mh
+BO104	ti ricordi qualche riferimento teorico per il concetto di validità
+BO144	mh
+BO104	chi l'ha studiato chi l'ha schematizzato
+BO144	mh
 BO104	abbiamo visto lo schema di wear
 BO104	nel duemila e sette sulla sulla validità poi abbiamo visto la validità nel ciclo del testing
 BO104	nel manuale alté
-BO144	va bene vai avanti
+BO104	va bene vai avanti
 BO144	e mh
 BO144	ah sì dev'essere affidabile
 BO144	mh perché
@@ -201,7 +201,7 @@ BO144	al nel risultato della della prova
 BO144	e quindi devono essere affidabili perché i dati che si riportano
 BO144	dovrebbero coincidere
 BO144	e soprattutto dovrebbero coincidere anche
-BO104	nel caso in cui un un test venga sottoposto in momenti differenti
+BO144	nel caso in cui un un test venga sottoposto in momenti differenti
 BO104	mh come si chiamano queste prove
 BO104	diciamo per verificare l'affidabilità
 BO104	quella che hai detto
@@ -209,40 +209,40 @@ BO104	quelle che hai descritto diciamo
 BO104	hanno dei dei nomi no
 BO104	l'affidabilità
 BO104	eh mh la terminologia che abbiamo visto era interrate reliability
-BO144	quindi l'affidabilità tra valutatori
+BO104	quindi l'affidabilità tra valutatori
 BO144	sì e tra mh
 BO144	e tra
 BO144	tra mh
-BO104	momenti di di
+BO144	momenti di di
 BO104	e l'altra era test retest
-BO144	reliability quindi l'affidabilità del test del
-BO104	esatto
+BO104	reliability quindi l'affidabilità del test del
+BO144	esatto
 BO104	del test
 BO104	e poi la quella tra
 BO104	forme parallele
 BO104	quindi pensa ai test certificativi che vengono diciamo somministrati in numerose migliaia centinaia eccetera
 BO104	quindi
-BO144	mh queste certificazioni devono essere comparabili fra loro
-BO104	sì
-BO144	mh
+BO104	mh queste certificazioni devono essere comparabili fra loro
+BO144	sì
+BO104	mh
 BO144	sì sì
 BO144	perché il livello di mh il livello di competenza che viene richiesto
 BO144	dev'essere
 BO144	cioè
 BO144	io come qualsiasi altro apprendente
-BO104	dobbiamo raggiungere lo stesso livello dal momento in cui raggiungiamo quel livello di competenza è riconoscibile
-BO144	no è molto più banale la cosa
-BO104	ovunque
-BO144	cioè io ho una certificazione che è il toefl no
-BO104	mh mh
+BO144	dobbiamo raggiungere lo stesso livello dal momento in cui raggiungiamo quel livello di competenza è riconoscibile
+BO104	no è molto più banale la cosa
+BO144	ovunque
+BO104	cioè io ho una certificazione che è il toefl no
+BO144	mh mh
 BO104	x certificazione ne avrò cento versioni
 BO104	la cer~ la certificazione toefl o un'altra certificazione pari ad un livello b due c uno eccetera
-BO144	queste diverse prove che sono in diverse centinaia perché vengono somministrate in tutto il mondo
-BO104	sì sì sì sì
-BO144	devono essere fra loro comparabili cioè produrre dei risultati comparabili
-BO104	okay
+BO104	queste diverse prove che sono in diverse centinaia perché vengono somministrate in tutto il mondo
+BO144	sì sì sì sì
+BO104	devono essere fra loro comparabili cioè produrre dei risultati comparabili
+BO144	okay
 BO104	bene quindi la allora l'affidabilità la validità
-BO144	e poi
+BO104	e poi
 BO144	eh mh e poi abbiamo la la pertinenza
 BO144	di un test
 BO144	è quello che mh porcelli sul manuale definiva con l'a mh l'acronimo di pace
@@ -259,27 +259,27 @@ BO144	di un test cioè
 BO144	la mh il rapporto tra
 BO144	quanto il testi mi risulta effettivamente utile
 BO144	e il tempo
-BO104	la fatica e l'impegno che il test eh mi richiede
-BO144	mh mh
+BO144	la fatica e l'impegno che il test eh mi richiede
+BO104	mh mh
 BO144	per realizzarlo sia proprio mh concretamente
-BO104	sia invece sottopon~ il tempo che invece mi richiede in classe per spiegarlo e poi sottoporlo
-BO144	mh
-BO104	agli mh agli mh allievi
+BO144	sia invece sottopon~ il tempo che invece mi richiede in classe per spiegarlo e poi sottoporlo
+BO104	mh
+BO144	agli mh agli mh allievi
 BO104	mh
 BO104	sì nella diciamo nella mh
-BO144	analisi di bachman e palmer si parla anche di autenticità e di interattività
+BO104	analisi di bachman e palmer si parla anche di autenticità e di interattività
 BO144	eh mh allora
 BO144	per quanto riguarda l'interattività
-BO104	eh mh
+BO144	eh mh
 BO104	è un termine un po' fuorivante interattività però è il termine che utilizzano loro
 BO104	cioè
 BO104	eh non non si non non non ci si riferisce alla valutazione delle capacità interazionali
-BO144	quindi
-BO104	sì sì s~
+BO104	quindi
+BO144	sì sì s~
 BO104	l'interazione orale dei candidati
 BO104	ci si riferisce alla
 BO104	eh come dire all'effi~ alla flessibilità
-BO144	delle domande delle caresti~ xxx caratteristiche del test rispetto alle caratteristiche del candidato
+BO104	delle domande delle caresti~ xxx caratteristiche del test rispetto alle caratteristiche del candidato
 BO144	perché soprattutto per i test
 BO144	eh mh
 BO144	che valutano la competenza raggiunta nel corso del eh mh
@@ -294,21 +294,21 @@ BO144	quali competenze ha effettivamente raggiunto quante ore ha dedicato allo s
 BO144	quel tipo di programma affrontato
 BO144	l'allievo
 BO144	e quindi
-BO104	mh non non c'è proprio questa interazione
+BO144	mh non non c'è proprio questa interazione
 BO104	mah nella visione di bachman e palmer
 BO104	è quel concetto di interattività è molto legato a quello di affidabilità
-BO144	sulle caratteristiche del candidato
-BO104	mh mh
+BO104	sulle caratteristiche del candidato
+BO144	mh mh
 BO104	cioè
 BO104	non dev'essere un test che in qualche modo discrimina
-BO144	eh tan~
+BO104	eh tan~
 BO144	o o favorisce magari
-BO104	mh n so un tipo di test
-BO144	candidati che abbiano delle caratteriatiche diverse sì
-BO104	esatto
+BO144	mh n so un tipo di test
+BO104	candidati che abbiano delle caratteriatiche diverse sì
+BO144	esatto
 BO104	eh mh senti rispetto invece a mh
 BO104	ai periodi eh storici
-BO144	quindi all'evoluzione del eh del call del computer assistent language learning
+BO104	quindi all'evoluzione del eh del call del computer assistent language learning
 BO144	sì
 BO144	eh mh
 BO144	allora innanzitutto bisogna dire che
@@ -342,9 +342,9 @@ BO144	che
 BO144	mh
 BO144	favorire
 BO144	un plurilinguismo autonomo di ogni cittadino
-BO104	eh mh
-BO144	eh mh proviamo a rimanere di più sui testi più mh allora ti ho la mia domanda era il call
-BO104	mh mh mh
+BO144	eh mh
+BO104	eh mh proviamo a rimanere di più sui testi più mh allora ti ho la mia domanda era il call
+BO144	mh mh mh
 BO104	computer assistent language learning
 BO104	eh
 BO104	trasformazioni
@@ -352,7 +352,7 @@ BO104	eh mh
 BO104	diversi periodi
 BO104	storici cioè come si è traformato ed evoluto
 BO104	il call quindi l'uso delle tecnologie
-BO144	nella didattica delle delle lingue
+BO104	nella didattica delle delle lingue
 BO144	ah eh allora quindi inizialmente mh
 BO144	ini~ mh
 BO144	inizialmente
@@ -369,16 +369,16 @@ BO144	anni
 BO144	essendo una la glottodidattica
 BO144	molto recente
 BO144	si parla proprio di un lasso temporale
-BO104	molto recente anche per noi ed è quindi quello in cui stiamo vivendo
-BO144	cioè molto recente in che senso
+BO144	molto recente anche per noi ed è quindi quello in cui stiamo vivendo
+BO104	cioè molto recente in che senso
 BO144	mh che è una che è una disciplina che si è
-BO104	sviluppata dalla metà del eh del del novecento
-BO144	mh
+BO144	sviluppata dalla metà del eh del del novecento
+BO104	mh
 BO144	e quindi è una vicinanza temporale a noi molto prossima
 BO144	e quindi mh abbiamo proprio vissuto questo sviluppo
 BO144	e questo eh e questa diffusione
-BO104	in questo caso del computer
-BO144	mh mh
+BO144	in questo caso del computer
+BO104	mh mh
 BO144	e che quindi ha favorito da una parte
 BO144	mh la la diversificazione degli strumenti e dall'altra
 BO144	invece
@@ -388,12 +388,12 @@ BO144	è diventato proprio un uno strumento esso stesso facente parte della dell
 BO144	perché se prima le tecnologie venivano viste con appunto quella diffidenza
 BO144	adesso
 BO144	mh
-BO104	è proprio uno degli strumenti che vengono utilizzati per
+BO144	è proprio uno degli strumenti che vengono utilizzati per
 BO104	mh eh però
 BO104	ritorno alla domanda
 BO104	quindi
-BO144	d'accordo tu mi stai parlando del eh come dire dell'impatto sociale che le tecnologie hanno avuto sull'insegnamento linguistico
-BO104	sì
+BO104	d'accordo tu mi stai parlando del eh come dire dell'impatto sociale che le tecnologie hanno avuto sull'insegnamento linguistico
+BO144	sì
 BO104	io però ti sto chiedendo concretamente
 BO104	come
 BO104	si sono trasformate queste tecnologie
@@ -410,13 +410,13 @@ BO104	anche proprio al
 BO104	ai diversi tipi di strumenti che venivano appunto proposti
 BO104	e anche all'evoluzione delle metodologie glottodidattiche
 BO104	quindi dagli approcci grammaticali traduttivi agli approcci
-BO144	eh comunicativi attuali azionali eccetera attuali
+BO104	eh comunicativi attuali azionali eccetera attuali
 BO144	okay allora eh mh
 BO144	negli anni ottanta e novanta
-BO104	eh mh
-BO144	premesso che negli anni ottanta in italia probabilmente nessuno aveva il computer quindi si parla degli stati uniti eccetera
-BO104	esatto
-BO144	okay
+BO144	eh mh
+BO104	premesso che negli anni ottanta in italia probabilmente nessuno aveva il computer quindi si parla degli stati uniti eccetera
+BO144	esatto
+BO104	okay
 BO144	eh mh
 BO144	al computer vengono vengono affiancati strumenti come la registrazione audio la registrazione video
 BO144	eh mh
@@ -442,33 +442,33 @@ BO144	crea~ si creano proprio dei siti
 BO144	in cui si possono
 BO144	fare questi esercizi
 BO144	che prima magari erano sottoposti
-BO104	mh in modo cartaceo
+BO144	mh in modo cartaceo
 BO104	ma dal punto di vista del processo didattico
 BO104	quindi appunto negli anni
 BO104	eh mh ottanta novanta così che tipo di attività venivano proposte
 BO104	con le tecnologie qual era il vantaggio delle tecnologie
-BO144	e quali s~ qual è invece lo stato dell'arte oggi
+BO104	e quali s~ qual è invece lo stato dell'arte oggi
 BO144	mh beh perquanto riguarda le mh le registrazioni soprattutto audio e video
 BO144	probabilmente favoriva eh una mh
-BO104	una mh un ascolto proprio della lingua
-BO144	mh
+BO144	una mh un ascolto proprio della lingua
+BO104	mh
 BO144	perché
 BO144	mh limitandosi alla grammatica e alla traduzione comunque
 BO144	ai testi cartacei
-BO104	il discente non ascoltava realmente la lingua
-BO144	mh
+BO144	il discente non ascoltava realmente la lingua
+BO104	mh
 BO144	se non tramite mh
-BO104	il lavoro del docente
-BO144	mh mh
+BO144	il lavoro del docente
+BO104	mh mh
 BO144	e quindi
 BO144	registrazioni
 BO144	eh film eh
-BO104	e esercizi di comprensione orale
-BO144	sì questo un po' prescindono il film dal computer eh cioè questo è l'utilizzo del video
+BO144	e esercizi di comprensione orale
+BO104	sì questo un po' prescindono il film dal computer eh cioè questo è l'utilizzo del video
 BO144	sì sì sì
-BO104	esatto sì della
-BO144	utilizzo del video eh
-BO104	de eh o anche degli ascolti orali esercizi proprio di ascolto orale
+BO144	esatto sì della
+BO104	utilizzo del video eh
+BO144	de eh o anche degli ascolti orali esercizi proprio di ascolto orale
 BO104	sì però allora quando si parla di call eh
 BO104	si parla di un primo periodo
 BO104	che era il periodo più strutturalista dove venivano proposte batterie di esercizi
@@ -486,24 +486,24 @@ BO104	quindi anche sull'autenticità dei materiali multimediali
 BO104	che si possono utilizzare attraverso i siti web
 BO104	fino ad arrivare al periodo attuale
 BO104	che è il cosiddetto periodo del call integrato o integrativo
-BO144	dove qual è il valore agiunto
+BO104	dove qual è il valore agiunto
 BO144	mh
 BO144	l'unione delle due
 BO144	proprio integrazione totale sia delle prove s~ diciamo più scritte
-BO104	sia appunto dei vantaggi che possono portare
+BO144	sia appunto dei vantaggi che possono portare
 BO104	sì però la diciamo ci sono delle
 BO104	mh
 BO104	delle novità molto forti e molto importanti
 BO104	nel negli ultimi dieci anni
-BO144	che sono che poi riflettono molto anche le metodologie glottodidattiche recenti
-BO104	mh
-BO144	e tutta la dimensione cooperativa e collaborativa
-BO104	all'interno dei tra gli studenti
-BO144	quindi
-BO104	o tra gli studenti e i
+BO104	che sono che poi riflettono molto anche le metodologie glottodidattiche recenti
+BO144	mh
+BO104	e tutta la dimensione cooperativa e collaborativa
+BO144	all'interno dei tra gli studenti
+BO104	quindi
+BO144	o tra gli studenti e i
 BO104	cioè il fatto che le tecnologie
-BO144	attuali
-BO104	xxx
+BO104	attuali
+BO144	xxx
 BO104	quindi le metdo~ le metodologie con le tecnologie attuali
 BO104	valorizzano
 BO104	lo scambio collaborativo e cooperativo
@@ -516,32 +516,32 @@ BO104	tecnologie più attuali
 BO104	che sono quelle appunto dello dello scambio a distanza
 BO104	della
 BO104	eh mh collaborazione nella redazione dei progetti
-BO144	nella
-BO104	ma eh ho una domanda
-BO144	sì
-BO104	ma anche il project work quindi può essere considerato all'interno di questa ultima
-BO144	mah il project
+BO104	nella
+BO144	ma eh ho una domanda
+BO104	sì
+BO144	ma anche il project work quindi può essere considerato all'interno di questa ultima
+BO104	mah il project
 BO144	perché sul sul libro non era molto chiaro
 BO144	e veniva semplicemente presentato come il eh
 BO144	il modo
 BO144	un modo
 BO144	per esercitare la lingua attraverso il lavoro di gruppo
 BO144	poi c'era un riferimento
-BO104	a appunto una un un una mh
-BO144	beh il project work è un lavoro di gruppo che puoi fare con o senza tecnologie
-BO104	ah okay
-BO144	cioè puoi fare un pro~ se tu pensa a un project work per esempio nell'ambito
-BO104	okay okay okay
-BO144	dell'interco~ della dei progetti di intercomprensione linguistica
-BO104	ah okay
+BO144	a appunto una un un una mh
+BO104	beh il project work è un lavoro di gruppo che puoi fare con o senza tecnologie
+BO144	ah okay
+BO104	cioè puoi fare un pro~ se tu pensa a un project work per esempio nell'ambito
+BO144	okay okay okay
+BO104	dell'interco~ della dei progetti di intercomprensione linguistica
+BO144	ah okay
 BO104	sono project work di gruppo
-BO144	che vengono svolti attraverso le tecnologie perché i gruppi sono distanti fra loro
-BO104	ah okay okay okay
+BO104	che vengono svolti attraverso le tecnologie perché i gruppi sono distanti fra loro
+BO144	ah okay okay okay
 BO104	e quindi
 BO104	collaborano alla creazione di un project work
-BO144	però poi fano un project work benissimo anche in aula in classe senza
+BO104	però poi fano un project work benissimo anche in aula in classe senza
 BO144	senza
-BO104	okay
+BO144	okay
 BO104	senti io per questa parte non riesco a darti più di ventitré
 BO104	perché hai una formaz~ una preparazione molto nebulosa e poi soprattutto
 BO104	non mi piace molto la modalità espressiva che utilizzi
@@ -563,21 +563,21 @@ BO104	nelle risposte quindi
 BO104	può dipendere da da più cose cioè
 BO104	può dipendere dal fatto che magari non hai studiato abbastanza
 BO104	o può dipendere dal fatto che non hai ripetuto non lo so
-BO144	insomma però io per questa parte più di di ventitré non riesco a darti
-BO104	okay okay
-BO144	la parte con la professoressa bianchi nello studio centoventiquattro
-BO104	quattro
+BO104	insomma però io per questa parte più di di ventitré non riesco a darti
+BO144	okay okay
+BO104	la parte con la professoressa bianchi nello studio centoventiquattro
+BO144	quattro
 BO104	mh
-BO144	e dopo lei farà la media tra le due
-BO104	ah okay
-BO144	va bene
+BO104	e dopo lei farà la media tra le due
+BO144	ah okay
 BO104	va bene
+BO144	va bene
 BO104	dai in bocca al lupo
-BO144	mh
-BO104	crepi
-BO144	arrivederci
+BO104	mh
+BO144	crepi
 BO104	arrivederci
+BO144	arrivederci
 BO104	sì avanti
-???	salve ecco abbiamo finito
-BO104	grazie mille per la disponibilità
+BO104	salve ecco abbiamo finito
+???	grazie mille per la disponibilità
 BO104	niente

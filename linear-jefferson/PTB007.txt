@@ -1,34 +1,34 @@
-TOI021	okay, via sta registrando
-TOR004	mh
+TOR004	okay, via sta registrando
+TOI021	mh
 TOR004	allo:ra
-TOI021	e::mh ciao
-TOR004	ciao
+TOR004	e::mh ciao
+TOI021	ciao
 TOR004	grazie per esserti fatta intervistare,
-TOI021	per avere accettato,
-TOR004	prego martina
+TOR004	per avere accettato,
+TOI021	prego martina
 TOR004	((ride)) allo:ra
 TOR004	ti faccio un po' di domande su::: la tua vita::,
 TOR004	su:: cose: anagrafiche,
 TOR004	come ti chiami::=e queste cose qui
-TOI021	e poi magari ci raccontiamo un po' di cose
-TOR004	mh (.) okay
-TOI021	allora, innanzitutto come ti chiami?
-TOR004	nome e cognome?
-TOI021	come vuoi
-TOR004	giuliana azzurri
-TOI021	oka:y e dove sei nata?
+TOR004	e poi magari ci raccontiamo un po' di cose
+TOI021	mh (.) okay
+TOR004	allora, innanzitutto come ti chiami?
+TOI021	nome e cognome?
+TOR004	come vuoi
+TOI021	giuliana azzurri
+TOR004	oka:y e dove sei nata?
 TOI021	a caltanissetta
-TOR004	°xxx°
-TOI021	eh? caltanissetta cosa dici?
-TOR004	a caltanissetta
-TOI021	in ita:lia (.) sì?
+TOI021	°xxx°
+TOR004	eh? caltanissetta cosa dici?
+TOI021	a caltanissetta
+TOR004	in ita:lia (.) sì?
 TOI021	eh beh
-TOR004	[no]
-TOI021	[in si]cilia?
+TOI021	[no]
+TOR004	[in si]cilia?
 TOI021	sì
 TOI021	no: no però vedi volevo dire::
-TOR004	se devo dire anche la data di nascita
-TOI021	a::h sì dimmela
+TOI021	se devo dire anche la data di nascita
+TOR004	a::h sì dimmela
 TOI021	eh
 TOI021	>allora< sono nata a caltanissetta il dodici cinque millenovecentoquarantotto
 TOI021	caltanissetta sicilia
@@ -38,36 +38,36 @@ TOI021	dal millenovece~
 TOI021	nel millenovecentocinquantuno io ero piccolissima
 TOI021	e i miei eh sono::: emigrati
 TOI021	a::: nel piemonte,
-TOR004	[e:]:
-TOI021	°[mh]°
+TOI021	[e:]:
+TOR004	°[mh]°
 TOI021	con precisione a venaria reale
 TOI021	a torino (.) provincia di torino venaria reale
-TOR004	ecco son partiti dalla sicilia con tre bimbe piccole
+TOI021	ecco son partiti dalla sicilia con tre bimbe piccole
 TOR004	mh
-TOI021	quindi tu hai due sorelle?
+TOR004	quindi tu hai due sorelle?
 TOI021	°due° no sorelle ne ho tre:
 TOI021	perché poi l'altra sorella è nata:
-TOR004	nel millenovecentosessantuno a venaria reale.
+TOI021	nel millenovecentosessantuno a venaria reale.
 TOR004	mh e le tue sorelle
 TOR004	sono nate quindi due in sicilia (.) e una invece in::
-TOI021	in piemonte
-TOR004	certo, sì.
-TOR004	eh
-TOI021	e abitavate a venaria quando è nata la sorella più piccola?
+TOR004	in piemonte
 TOI021	certo, sì.
-TOR004	certamente a venaria.
+TOR004	eh
+TOR004	e abitavate a venaria quando è nata la sorella più piccola?
+TOI021	certo, sì.
+TOI021	certamente a venaria.
 TOR004	mh
-TOI021	e invece i tuoi genitori dove sono nati?
+TOR004	e invece i tuoi genitori dove sono nati?
 TOI021	sono nati anche loro a caltanissetta,
 TOI021	e:::h
 TOI021	mia mamma era nata nel millenovecentoventicinque
-TOR004	e il mio papà nel millenovecentoventidue
-TOI021	mh
+TOI021	e il mio papà nel millenovecentoventidue
+TOR004	mh
 TOI021	e sono emigrati negli anni cinquantuno
-TOR004	negli anni cinquanta ecco.
+TOI021	negli anni cinquanta ecco.
 TOR004	mh
 TOR004	e::h sono emigrati perché?
-TOI021	>cioè< tu lo sai perché sono emigrati t~ o te lo immagini?
+TOR004	>cioè< tu lo sai perché sono emigrati t~ o te lo immagini?
 TOI021	no il mio papà lavorava in miniera
 TOI021	e il lavoro ce l'aveva
 TOI021	ma e::ra dopoguerra
@@ -82,30 +82,30 @@ TOI021	ecco.
 TOI021	portavano il sale dalla sicilia perché q~ in piemonte non non ne trovavano
 TOI021	portavano il sale nella a in sicilia,
 TOI021	e d~ dalla sicilia lo portavano in piemonte
-TOR004	e:: nel piemonte compravano le lampadine
-TOI021	mh
-TOR004	ecco è uno s~ come uno [scambio era] (.) ecco
-TOI021	[uno scambio]
+TOI021	e:: nel piemonte compravano le lampadine
+TOR004	mh
+TOI021	ecco è uno s~ come uno [scambio era] (.) ecco
+TOR004	[uno scambio]
 TOI021	e:::
 TOI021	quindi non è che sono venuti qua in piemonte perché non avesse il lavoro
 TOI021	certo un lavoro molto pericoloso perché lavorava
-TOR004	in una miniera di zolfo
-TOI021	ah
+TOI021	in una miniera di zolfo
+TOR004	ah
 TOI021	e quindi dove molte persone
 TOI021	quando scoppiava: adesso io non so come si chiamava
 TOI021	quello che c'era:::
 TOI021	e:::hm:
 TOI021	mio
-TOR004	mia mamma diceva sempre an~ l'antimonio
-TOI021	ah può esser[e sì] è un:: una roba
+TOI021	mia mamma diceva sempre an~ l'antimonio
+TOR004	ah può esser[e sì] è un:: una roba
 TOI021	[è un]
 TOI021	sì quando scoppiava quello magari
 TOI021	crollava anche la galleria e tanti morivano
 TOI021	e::hm
 TOI021	morivano in galleria
 TOI021	e infatti a me mi hanno sempre raccontato che anche un mio padrino
-TOR004	è morto così.
-TOI021	ah
+TOI021	è morto così.
+TOR004	ah
 TOI021	eh il padrino di battesimo
 TOI021	°ecco°.
 TOI021	e:::hm
@@ -119,29 +119,29 @@ TOI021	si erano poi trasferite a venaria reale
 TOI021	e allora eh hanno deciso insiem~
 TOI021	°diciamo così°
 TOI021	hanno deciso insieme
-TOR004	di::: insieme ai miei genitori di emigrare anche loro.
-TOI021	ah
+TOI021	di::: insieme ai miei genitori di emigrare anche loro.
+TOR004	ah
 TOI021	ecco.
 TOI021	non per necessità di lavoro ma forse per migliorare la situazione
 TOI021	e::h per paura anche
-TOR004	di non rimanere ma~ sotto la miniera
-TOI021	ah
-TOR004	ecco
-TOI021	e invece tua mamma lavorava?
+TOI021	di non rimanere ma~ sotto la miniera
+TOR004	ah
+TOI021	ecco
+TOR004	e invece tua mamma lavorava?
 TOI021	no:: mia mamma era una ragazza giovane, s'è sposata giovanissima
 TOI021	a::: ventidue anni ventitré anni
 TOI021	aveva già::
-TOR004	[e::h]
-TOI021	[tre figli]
+TOI021	[e::h]
+TOR004	[tre figli]
 TOI021	tre (.) tre figlie sì
 TOI021	e:::h lei si è ~posata a quindici anni e mezzo
 TOI021	e poi mio papà è partito per militare dove non è
 TOI021	non è tornato
 TOI021	perché po:i non è tornato subito perché poi è scoppiata la: seconda guerra mondiale
-TOR004	e quindi è stato deportato:: in germania ai campi di lavoro.
+TOI021	e quindi è stato deportato:: in germania ai campi di lavoro.
 TOR004	mh
 TOR004	e:::mh
-TOI021	va bene (.) e che lingua parlavano i tuoi genitori?
+TOR004	va bene (.) e che lingua parlavano i tuoi genitori?
 TOI021	ma quando:: q~
 TOI021	quando ero molto piccola non mi ricordo bene
 TOI021	e:: però i~ a~ a~
@@ -159,14 +159,14 @@ TOI021	e::h cap~ si capi~ loro:
 TOI021	c'erano i paesani che parlavano in piemontese noi capivamo tutto quanto
 TOI021	perché:: non c'era differenza
 TOI021	e:::h
-TOR004	un dialetto valeva l'altro
-TOI021	mh ma quin[di parla]vano sia dialetto sia italiano
+TOI021	un dialetto valeva l'altro
+TOR004	mh ma quin[di parla]vano sia dialetto sia italiano
 TOI021	[eh]
 TOI021	sì ma il dialetto poco come ho detto poco il dialetto
 TOI021	mia mamma poi ha=ini~ (.) ha:::::
 TOI021	ha iniziato a parlare il dialetto quando è diventata m::~
-TOR004	più=a::~ anziana
-TOI021	mh
+TOI021	più=a::~ anziana
+TOR004	mh
 TOI021	ecco
 TOI021	più anziana perché
 TOI021	e ha:::
@@ -187,34 +187,34 @@ TOI021	quando::
 TOI021	eravamo piccole noi ma adesso sti bambini sono piccoli
 TOI021	gli confondi le idee
 TOI021	e invece i miei nipoti si er~
-TOR004	si sono adattati a capirla benissimo.
+TOI021	si sono adattati a capirla benissimo.
 TOR004	eh infatti poi
-TOI021	[ad e]sempio parliamo tutti quanti un po' di dialetto
-TOR004	[eh]
-TOI021	magari non lo parliamo bene però cap[irlo lo capiamo]
-TOI021	[lo capi~ (.) e]cco
-TOR004	[eh]
+TOR004	[ad e]sempio parliamo tutti quanti un po' di dialetto
 TOI021	[eh]
+TOR004	magari non lo parliamo bene però cap[irlo lo capiamo]
+TOI021	[lo capi~ (.) e]cco
+TOI021	[eh]
+TOR004	[eh]
 TOI021	e:: adesso io diventando più anziana ho capito che mia mamma aveva ragione
 TOI021	perché le tradizioni
-TOR004	non si dovrebbero perdere
+TOI021	non si dovrebbero perdere
 TOR004	eh
 TOR004	e::mh
 TOR004	volevo chiederti
 TOR004	se siete mai tornati poi in sicilia dopo che::
 TOR004	che siete venuti insomma a venaria
 TOR004	e innanzitutto (.) tu non hai sempre abitato a venaria
-TOI021	nel senso che hai abitato a venaria ma adesso (.) non abiti più lì
+TOR004	nel senso che hai abitato a venaria ma adesso (.) non abiti più lì
 TOI021	no perché:: dunque
-TOR004	m::i hai chiesto se? (a)spetta
-TOI021	se siete mai tornati in sic[ilia]
+TOI021	m::i hai chiesto se? (a)spetta
+TOR004	se siete mai tornati in sic[ilia]
 TOI021	[sì] quando eravamo piccole
 TOI021	e::: mia mamma sì è venuta, è partita
 TOI021	e:: ed è arrivata in piemonte con tre pa~
 TOI021	la famiglia, queste tre bambine piccole, la più grande aveva cinque anni,
 TOI021	io ne avevo tre quasi tre
-TOR004	e:: l'altra piccola aveva:: (.) otto mesi
-TOI021	mh
+TOI021	e:: l'altra piccola aveva:: (.) otto mesi
+TOR004	mh
 TOI021	quindi lei::
 TOI021	quando è arrivata poi dalla:: dalla sicilia le mancavano i suoi genitori
 TOI021	perché i suoi genitori sono rimasti in sicilia a caltanissetta
@@ -226,8 +226,8 @@ TOI021	e:: finché poi::
 TOI021	dopo qualche anno che i miei genitori
 TOI021	e::h sono riusciti a mettere qualche soldo da parte
 TOI021	mio papà dice stavolta il viaggio lo vai a fare
-TOR004	ma per portarli qua i tuoi genitori
-TOI021	e quindi sono [venuti ad abitare con voi]
+TOI021	ma per portarli qua i tuoi genitori
+TOR004	e quindi sono [venuti ad abitare con voi]
 TOI021	[ecco (.) ecco]
 TOI021	sono venuti abitare qui:: a venaria anche loro
 TOI021	infatti sono morti, sepolti qua: a venaria
@@ -241,49 +241,49 @@ TOI021	era::
 TOI021	era a caltanissetta (.) ecco con:: il i suoi figli
 TOI021	ecco e::::
 TOI021	e mio papà mi aveva portato::
-TOR004	[per l'occasione] mi avev~ mi aveva portato
-TOI021	[a caltanisse~]
-TOR004	però poi non sono più tornata
+TOI021	[per l'occasione] mi avev~ mi aveva portato
+TOR004	[a caltanisse~]
+TOI021	però poi non sono più tornata
 TOR004	eh
 TOR004	e:::hm
-TOI021	com'era il viaggio quando andavate, te lo ricordi, ti ricordi qualcosa in particolare?
+TOR004	com'era il viaggio quando andavate, te lo ricordi, ti ricordi qualcosa in particolare?
 TOI021	eh sì mi ricordo mi ricordo tanto che io
 TOI021	ancora adesso non vado al mare va:do al mare ma non vado in acqua
 TOI021	perché (.) quell'immensità di di mare
 TOI021	e:::h mi faceva paura
 TOI021	perché:: per andare in sicilia una volta ci voleva:
-TOR004	ventiquattro ore
-TOI021	mh
+TOI021	ventiquattro ore
+TOR004	mh
 TOI021	non c'erano a:erei, non c'erano poi no o::~
 TOI021	anche che c'erano una non se lo poteva permettere,
 TOI021	i treni non c'erano i treni veloci,
-TOR004	frecciarosse non c'erano
-TOI021	((ride))
+TOI021	frecciarosse non c'erano
+TOR004	((ride))
 TOI021	e quindi:::
 TOI021	andavamo:: col treno normale
 TOI021	e ci metteva ventiquattro ore però poi
 TOI021	da:::=mh
 TOI021	a messina allo stretto di messina dovevi prendere
-TOR004	il traghetto per arrivare a caltanissetta (.) [per]ché
-TOI021	[eh già]
+TOI021	il traghetto per arrivare a caltanissetta (.) [per]ché
+TOR004	[eh già]
 TOI021	se no non (.) dovevi fare la traversata (.) ecco
 TOI021	e allora quando era quel momento
 TOI021	si andava con i treni si andava tutti dentro
 TOI021	e poi si scendeva dai treni e si andava su:::
 TOI021	m:::h
-TOR004	in=nave
-TOI021	sì sul traghetto
+TOI021	in=nave
+TOR004	sì sul traghetto
 TOI021	ecco si andava su:
 TOI021	e:: questa questo:: questo traghetto grandissimo
 TOI021	comunque immenso che ai miei occhi veramente:
 TOI021	faceva:: questa immensità di mare
-TOR004	che si vedeva mare all'ape~ aperto così faceva paura
-TOI021	poi tu eri pi:ccola
+TOI021	che si vedeva mare all'ape~ aperto così faceva paura
+TOR004	poi tu eri pi:ccola
 TOI021	poi: io ero molto piccola perché come dico:
 TOI021	e::h come ho detto già prima avevo:
 TOI021	fino a cinque sei anni siamo andati
-TOR004	due tre volte all'anno [con la mamma] per i genitori
-TOI021	[eh già]
+TOI021	due tre volte all'anno [con la mamma] per i genitori
+TOR004	[eh già]
 TOI021	e:: però la mamma ci faceva scendere,
 TOI021	ci andavamo tutti là ma ci faceva centomila raccomandazioni
 TOI021	state attenti non
@@ -291,20 +291,20 @@ TOI021	no:~ non vi allontanate, state attenti perché se cadete, no::~
 TOI021	non andate più
 TOI021	non affacciatevi di più di quello che potete
 TOI021	eh dal parapetto perché se andate giù vi annegate
-TOR004	e quindi tutte queste raccomandazioni nel
-TOI021	com'è che ti diceva?
-TOR004	e:::h
-TOI021	no no dimmi com'è che ti diceva?
+TOI021	e quindi tutte queste raccomandazioni nel
+TOR004	com'è che ti diceva?
+TOI021	e:::h
+TOR004	no no dimmi com'è che ti diceva?
 TOI021	eh
 TOI021	e:h no diceva che ci annegavamo:
-TOR004	ecco
-TOI021	no: ma com'è che vi diceva lei proprio?
-TOR004	eh
-TOI021	((ride))
-TOR004	non mi ricordo
-TOI021	no:: dai ((ride))
-TOR004	no comunque [che mo~]
-TOI021	#[che vi chia]mava, vi urlava, vi diceva caru::
+TOI021	ecco
+TOR004	no: ma com'è che vi diceva lei proprio?
+TOI021	eh
+TOR004	((ride))
+TOI021	non mi ricordo
+TOR004	no:: dai ((ride))
+TOI021	no comunque [che mo~]
+TOR004	#[che vi chia]mava, vi urlava, vi diceva caru::
 TOI021	eh no ah e~ sì lei è meridionale ci diceva
 TOI021	#sì caru:: state attente
 TOI021	#un ite e:h dda vicino::
@@ -312,8 +312,8 @@ TOI021	a::h la balaustra
 TOI021	la chiamavano loro il parapetto si chiamava bala~ loro la lei la chiamava così
 TOI021	perché: se no v'annegate
 TOI021	ecco e questa cosa io sto::
-TOR004	morite, vi annegate ho sempre avu[to paura]
-TOI021	[e certo]
+TOI021	morite, vi annegate ho sempre avu[to paura]
+TOR004	[e certo]
 TOI021	tanto che io
 TOI021	ho: ho sess~ settanta=anni adesso compiuti ma
 TOI021	e::h non riesco andare dentro l'acqua non riesco andare
@@ -321,24 +321,24 @@ TOI021	anzi a:: all'inizio quando:::
 TOI021	capivo così che e:::h
 TOI021	a~ a~ abbiamo avuto la vasca da bagno
 TOI021	per poterci fare il bagno perché una volta non è che c'era la vasca da bagno
-TOR004	[lo facevi in un] catino
-TOI021	[eh certo]
+TOI021	[lo facevi in un] catino
+TOR004	[eh certo]
 TOI021	e::h in un mastello ti facevi il bagno ecco
 TOI021	io avevo anche paura:: andare dentro la vasca del bagno
 TOI021	per farmi il bagno ecco
-TOR004	[poi] poi mi sono abituata a quello
-TOI021	[ah]
-TOR004	e:: è andata bene [così]
-TOI021	[e allora piano] piano
+TOI021	[poi] poi mi sono abituata a quello
+TOR004	[ah]
+TOI021	e:: è andata bene [così]
+TOR004	[e allora piano] piano
 TOI021	eh
 TOI021	però io al mare non vado ancora adesso
 TOI021	se sono da sola e::h
 TOI021	s~ anche solo in riva se non c'è qualcuno che mi tiene io
-TOR004	non vado.
-TOI021	e invece [de:l]::
-TOR004	[ah]
+TOI021	non vado.
+TOR004	e invece [de:l]::
+TOI021	[ah]
 TOR004	sempre del viaggio ce l'hai una raccor~ un ricordo divertente:
-TOI021	una cosa che: [di~ di]vertente o comunque una cosa che è successa che ti::
+TOR004	una cosa che: [di~ di]vertente o comunque una cosa che è successa che ti::
 TOI021	[ma]
 TOI021	se posso raccontare questo episodio che
 TOI021	il mese di agosto (.) tutti gli emigranti diciamo
@@ -366,12 +366,12 @@ TOI021	perché poi s~
 TOI021	si andavano i magari i parenti coi genitori::,
 TOI021	papà i papà magari andavano
 TOI021	e:h dentro i i vagoni
-TOR004	tenevo il posto e si mettev~ magari uno si metteva dal finestrino e uno fuori dal fine[strino]
-TOI021	[mh]
+TOI021	tenevo il posto e si mettev~ magari uno si metteva dal finestrino e uno fuori dal fine[strino]
+TOR004	[mh]
 TOI021	per caricare::
 TOI021	i bagagli
-TOR004	perché c'era tanta massa e:: se no non trov[avi:]
-TOI021	[tan]ta gente che tornava
+TOI021	perché c'era tanta massa e:: se no non trov[avi:]
+TOR004	[tan]ta gente che tornava
 TOI021	ecco non potevi:: (.) stare ventiquattro ore in piedi
 TOI021	quindi dovevi salvarti un poì i::
 TOI021	i scompartimenti ecco
@@ -382,18 +382,18 @@ TOI021	allora nella foga di caricare le valigie è stato passato questo baracchi
 TOI021	mio zio non se n'è accorto mentre m~ mio papà le passava il baracchino
 TOI021	non ha fatto caso le è caduto in m~ dalle mani
 TOI021	e questa minestra (.) mi ricordo questo episodio
-TOR004	che poi ci abbiamo negli anni ci abbiamo riso sopra comunque
-TOI021	e però all'epo[ca]
-TOR004	[eh] eh sì perché eravamo senza la minestra
-TOI021	((ride))
+TOI021	che poi ci abbiamo negli anni ci abbiamo riso sopra comunque
+TOR004	e però all'epo[ca]
+TOI021	[eh] eh sì perché eravamo senza la minestra
+TOR004	((ride))
 TOI021	e::: e questa minestra è andata a finire tutta tra::
 TOI021	tra la panchina:: dei binari (.) ecco
-TOR004	e tutta la gente lì anche che si è sporcata tutta per cui
-TOI021	((ride))
-TOR004	c'era tanta gente::
-TOI021	e tu ti sei sporcata anche?
-TOR004	ma io forse ero sopra il vago[ne]
-TOI021	[a:h] ec~
+TOI021	e tutta la gente lì anche che si è sporcata tutta per cui
+TOR004	((ride))
+TOI021	c'era tanta gente::
+TOR004	e tu ti sei sporcata anche?
+TOI021	ma io forse ero sopra il vago[ne]
+TOR004	[a:h] ec~
 TOI021	ecco
 TOI021	però:: e::h sopra:: eh nel
 TOI021	sì nel vagone giustamente
@@ -404,17 +404,17 @@ TOI021	questo mio zio antonio era un tipo abbastanza scherzoso
 TOI021	°il papà di mio cugino aldo°
 TOI021	e:::hm
 TOI021	e
-TOR004	raccontandola si rideva
-TOI021	eh [meno male]
-TOR004	[di tutto que]sto ((ride))
-TOI021	((ride)) [eh]
+TOI021	raccontandola si rideva
+TOR004	eh [meno male]
+TOI021	[di tutto que]sto ((ride))
+TOR004	((ride)) [eh]
 TOI021	[e]cco (.) eh
 TOI021	però il mangiare non ci mancava perché::
 TOI021	insomma mio papà ha sempre lavorato con onestà
 TOI021	e: quindi il lavoro
 TOI021	e:h anzi se voglio tornare un attimo indietro
-TOR004	quando mi hai chiesto: come mai siete venuti::
-TOI021	eh in piem[onte]
+TOI021	quando mi hai chiesto: come mai siete venuti::
+TOR004	eh in piem[onte]
 TOI021	[in] piemonte
 TOI021	sì ho detto che mio pa~ il lavoro ce l'aveva
 TOI021	era un lavoro pericoloso
@@ -443,15 +443,15 @@ TOI021	ha trovato persone::
 TOI021	che gli han voluto subito bene
 TOI021	e::: e anche la residenza una volta
 TOI021	a venaria
-TOR004	non te la davano come adesso::
-TOI021	certo
+TOI021	non te la davano come adesso::
+TOR004	certo
 TOI021	eh
 TOI021	e::h magari
 TOI021	dovevano passare più di due anni che tu abitavi già lì
 TOI021	e loro constatavo che eri una brava persona e te la davano
 TOI021	e infatti forse:
-TOR004	ai miei non è passato neanche un anno che già gliel'avevano da:ta
-TOI021	perché erano delle persone oneste [insomma]
+TOI021	ai miei non è passato neanche un anno che già gliel'avevano da:ta
+TOR004	perché erano delle persone oneste [insomma]
 TOI021	[ec]co:
 TOI021	il mio papà si è fatto conoscere per la persona umile che e:ra
 TOI021	e:: vogliosa di::
@@ -463,15 +463,15 @@ TOI021	il marito non tornava,
 TOI021	e:::: eh eh
 TOI021	e:ra molto giovane (.) e aveva visto tanti morti,
 TOI021	tante persone (.) morire
-TOR004	[e quindi poi è è]emigrata
-TOI021	[c'era rimasta ma~]
+TOI021	[e quindi poi è è]emigrata
+TOR004	[c'era rimasta ma~]
 TOI021	quindi quando è emigrata era senza la famiglia come ho già detto
 TOI021	e quindi lei si è esaurita un pochino
-TOR004	e::h
-TOI021	e quindi hanno cambiato tante case a venaria [per questo mo]tivo?
+TOI021	e::h
+TOR004	e quindi hanno cambiato tante case a venaria [per questo mo]tivo?
 TOI021	[s::~]
-TOR004	hanno cambiato tanto case perché le case non erano molto sane
-TOI021	mh
+TOI021	hanno cambiato tanto case perché le case non erano molto sane
+TOR004	mh
 TOI021	e:::h nonostante
 TOI021	e e:: grazie a dio che le trovavano spesso le trovavano sempre le case
 TOI021	cercavano sempre di migliorare di portarci n~ nelle: case
@@ -482,8 +482,8 @@ TOI021	scolava proprio l'acqua scolava giù:
 TOI021	ecco anche se non pioveva era
 TOI021	mh forse umida da sempre che::
 TOI021	però o trovavi quelle case o o o
-TOR004	o:: non c'era altro non potevi dormire per strada
-TOI021	eh no
+TOI021	o:: non c'era altro non potevi dormire per strada
+TOR004	eh no
 TOI021	ecco
 TOI021	e::: i miei infatti
 TOI021	prima di trovare quella giusta hanno cambiato::
@@ -491,48 +491,48 @@ TOI021	e:::h
 TOI021	sette case, sette alloggi
 TOI021	e poi l'ottava è stata qui che perché poi da venaria
 TOI021	siamo emigrati:: e::hm: diciamo
-TOR004	se si [può dire emigrati] ci siamo trasferiti
-TOI021	[siete trasferiti]
+TOI021	se si [può dire emigrati] ci siamo trasferiti
+TOR004	[siete trasferiti]
 TOI021	e:: e in periferia un pochino più::
 TOI021	in periferia in campagna diciamo in campagna
 TOI021	e::h i miei hanno costruito una casa
 TOI021	con sacrifici molti sacrifici hanno costruito una casa
-TOR004	e quindi io abito ancora qua:: in questa casa dei genitori
-TOI021	diciamo a fiano
+TOI021	e quindi io abito ancora qua:: in questa casa dei genitori
+TOR004	diciamo a fiano
 TOI021	a fiano torinese
 TOI021	ecco che è un:: una decina di chilometri da dove abitavo prima
-TOR004	ecco.
-TOI021	sì
-TOR004	mh
+TOI021	ecco.
+TOR004	sì
+TOI021	mh
 TOR004	e:::hm
 TOR004	sì tornando a venaria
-TOI021	[però]
-TOR004	[e comu]nque voglio ancora dire una cosa è che io
-TOI021	[dimmi]
+TOR004	[però]
+TOI021	[e comu]nque voglio ancora dire una cosa è che io
+TOR004	[dimmi]
 TOI021	[in ogni] casa che:: i miei genitori cambiavano
 TOI021	certo l'ho capito dopo quand'era grande
-TOR004	quando ero grande questo
-TOI021	mh
+TOI021	quando ero grande questo
+TOR004	mh
 TOI021	però io le lasciavo sempre un pezzettino del mio cuore
 TOI021	perché io sono una persona che::
 TOI021	si abitua alle cose le vive le cose
 TOI021	e quindi anche le cose belle poi mi fanno male
 TOI021	e:::
-TOR004	e quindi::
-TOI021	eh sì lasciare la: propria [casa comunque]
-TOR004	[eh era una so]fferenza
+TOI021	e quindi::
+TOR004	eh sì lasciare la: propria [casa comunque]
+TOI021	[eh era una so]fferenza
 TOR004	poi tu avevi tanti bei::
-TOI021	magari bei ricordi anche no?
-TOR004	sì
-TOI021	comunque voi frequentavate venaria quand'eri piccola?
+TOR004	magari bei ricordi anche no?
+TOI021	sì
+TOR004	comunque voi frequentavate venaria quand'eri piccola?
 TOI021	certo e:::h
 TOI021	una volta si usava non come adesso che i genitori magari:::
 TOI021	non vogliono neppure che:: i ragazzi frequentano l'oratorio,
 TOI021	frequentano: la chiesa,
 TOI021	e: noi avevamo: (.) abitavamo quasi sempre vicino
 TOI021	e:: nonostante tanti alloggi cambiati ma sempre tutti:::
-TOR004	nel centro di venaria
-TOI021	mh
+TOI021	nel centro di venaria
+TOR004	mh
 TOI021	e quindi andavamo: in parrocchia
 TOI021	anzi perché:: eravamo piccole veniva la suora
 TOI021	a prenderci a casa
@@ -543,15 +543,15 @@ TOI021	e io invece l'altra sorella: la più piccola
 TOI021	andavamo all'oratorio
 TOI021	dove queste suore ci facevano ricamare, ci davano le merende:,
 TOI021	e::h andavamo i funerali perché eravamo
-TOR004	quasi era quasi un obbligo
-TOI021	come andavate ai funerali?
+TOI021	quasi era quasi un obbligo
+TOR004	come andavate ai funerali?
 TOI021	eh sì doveva accompa~ tutti i funerali che c'erano:
 TOI021	le persone che morivano::
 TOI021	e::mh
-TOR004	che facevano parte di quella chiesa
-TOI021	ah
-TOR004	e li accompagnavamo (.) ecco con le suore
-TOI021	ah
+TOI021	che facevano parte di quella chiesa
+TOR004	ah
+TOI021	e li accompagnavamo (.) ecco con le suore
+TOR004	ah
 TOI021	e::h in processione
 TOI021	accompagnavamo perché poi
 TOI021	m:etti che sarà un chilometro da dov'era la chiesa dov'era
@@ -562,25 +562,25 @@ TOI021	e:::h a piedi
 TOI021	perché poi non c'erano le macchine comunque ce n'erano poche
 TOI021	e si faceva il corteo a piedi
 TOI021	e si accompagnava noi bambine
-TOR004	ci facevano mettere una mantellina (.) a lutto
-TOI021	mh
+TOI021	ci facevano mettere una mantellina (.) a lutto
+TOR004	mh
 TOI021	la mantellina nera col baschetto in testa
 TOI021	e::: segno di acco:~
 TOI021	che si accompagnava di rispetto per la persona
-TOR004	che era morta anche [se non] erano nostri parenti
-TOI021	[ah]
+TOI021	che era morta anche [se non] erano nostri parenti
+TOR004	[ah]
 TOI021	e li accompagnavamo fino al cimitero
 TOI021	quando poi il prete le dava la benedizione
 TOI021	la suora ci riaccompagnava all'oratorio
-TOR004	e andavamo a fare la merenda
-TOI021	ah ma cosa [faceva]te in oratorio di solito?
-TOR004	[eh]
-TOI021	vi piaceva stare lì vi [divertivate]?
+TOI021	e andavamo a fare la merenda
+TOR004	ah ma cosa [faceva]te in oratorio di solito?
+TOI021	[eh]
+TOR004	vi piaceva stare lì vi [divertivate]?
 TOI021	[s~ sì] certo si ricamava
 TOI021	intanto ci ha insegnato a ricamare
 TOI021	e io:: pochi
-TOR004	e ho imparato poco perché non avevo tanta voglia
-TOI021	((ride))
+TOI021	e ho imparato poco perché non avevo tanta voglia
+TOR004	((ride))
 TOI021	ecco
 TOI021	poi:: niente si si facevano
 TOI021	e:::hm dei lavoretti, delle cose insieme,
@@ -588,11 +588,11 @@ TOI021	però:: poi a un certo punto
 TOI021	magari io e mia sorella: mia sorella clara
 TOI021	ci guardavamo un po' negli occhi perché eravamo molto amiche
 TOI021	oltre che essere sorelle
-TOR004	e:::h [eh ecco]
-TOI021	[vi volevate bene proprio]
+TOI021	e:::h [eh ecco]
+TOR004	[vi volevate bene proprio]
 TOI021	eravamo facevamo magari delle marachelle
-TOR004	pensavamo di::: ehm
-TOI021	sì le cose che fanno i bamb[ini]
+TOI021	pensavamo di::: ehm
+TOR004	sì le cose che fanno i bamb[ini]
 TOI021	[ec]co
 TOI021	e allora:: dicevamo alla suora se ci dava il permesso di andare in bagno
 TOI021	lei ci diceva di sì
@@ -606,40 +606,40 @@ TOI021	a cinquecento metri era: dal~ dall'oratorio era la nostra casa
 TOI021	e::::
 TOI021	e andavamo a casa da mamma e dalla sorella
 TOI021	e e la mamma preoccupata ma la suora lo sa che:: sì sì ci ha accompagnato lei
-TOR004	ci dicevamo le bugie alla mamma
-TOI021	((ride))
+TOI021	ci dicevamo le bugie alla mamma
+TOR004	((ride))
 TOI021	e invece non non passava nemmeno cinque minuti
-TOR004	che la suora si era: si rendeva conto che noi
-TOI021	gliela gliel'avevate fatta sotto il naso
+TOI021	che la suora si era: si rendeva conto che noi
+TOR004	gliela gliel'avevate fatta sotto il naso
 TOI021	ecco e ci e ci veniva a riprendere
 TOI021	ecco e poi magari ci prendavamo la sgridata della mamma e::
 TOI021	e tornavamo all'oratorio
-TOR004	così ogni tanto capitava che facevamo sta marachella
-TOI021	ah
+TOI021	così ogni tanto capitava che facevamo sta marachella
+TOR004	ah
 TOI021	ecco
 TOI021	e quando chiedevamo il permesso alla suora di
 TOI021	di:: di andare in bagno
-TOR004	lei: diceva però mi raccomando perché se::
-TOI021	scappate
+TOI021	lei: diceva però mi raccomando perché se::
+TOR004	scappate
 TOI021	scappate di nuovo >cioè< diciamo scappate ma
 TOI021	se an~ e::h se andate via di nuovo
-TOR004	un'altra volta ve la fate addosso ma non vi lascio più andare
+TOI021	un'altra volta ve la fate addosso ma non vi lascio più andare
 TOR004	((ride))
-TOI021	[°madonna°]
+TOR004	[°madonna°]
 TOI021	[ecco]
 TOI021	e noi per due tre giorni:: magari una settimana
-TOR004	sì sì eravamo ubbidienti e poi gliela combinavamo di nuovo
-TOI021	quindi: ci provavate lo [stesso]?
+TOI021	sì sì eravamo ubbidienti e poi gliela combinavamo di nuovo
+TOR004	quindi: ci provavate lo [stesso]?
 TOI021	[sì::] sì sì
-TOR004	ecco
+TOI021	ecco
 TOR004	e::h ma tu hai lavorato anche a venaria facevi
-TOI021	insomma hai lavorato nella tua vita che lavoro facevi?
+TOR004	insomma hai lavorato nella tua vita che lavoro facevi?
 TOI021	e:: io::
 TOI021	sono a parte che mi sono sposata giovane
 TOI021	a diciotto anni e mezzo però
 TOI021	i miei avevano un banco:: in in in piazza di:::
-TOR004	ambulante di formaggi
-TOI021	ah
+TOI021	ambulante di formaggi
+TOR004	ah
 TOI021	salumi e formaggi
 TOI021	e quindi:: e::h come avevo già detto prima
 TOI021	siamo partite dalla sicilia che eravamo tre sorelle
@@ -650,8 +650,8 @@ TOI021	non avevo tanta voglia di studiare
 TOI021	l'ho capito dopo l'importanza del::
 TOI021	dello studio, della:: cultura,
 TOI021	lo capisci sempre dopo le cose comunque non mi pento di niente
-TOR004	non mi pento di questo perché
-TOI021	insomma hai lavorato non è che
+TOI021	non mi pento di questo perché
+TOR004	insomma hai lavorato non è che
 TOI021	e:: e quindi come dicevo nel millenovecentosessantuno
 TOI021	è: nata un'altra sorellina
 TOI021	ecco e quando è nata questa sorellina comunque i miei poi avevano preso
@@ -672,8 +672,8 @@ TOI021	eh
 TOI021	(niente) aiutava mia mamma al mercato
 TOI021	e poi per un po' di anni
 TOI021	finché:: non han pagato i debiti che si erano fatti per comprare la licenza
-TOR004	perché costava [comu]nque
-TOI021	[certo]
+TOI021	perché costava [comu]nque
+TOR004	[certo]
 TOI021	e poi mio papà si è licenziato a tempo pieno
 TOI021	aiutava la mamma, e io fino a tre anni che mia sorella non è andata all'asilo
 TOI021	e:::mh
@@ -689,8 +689,8 @@ TOI021	e quindi ho avuto questa esperienza di stare ai
 TOI021	in conta~ anche se qualche volta andavo a aiutare i miei al sabato
 TOI021	quando facevano il mercato tutto il giorno
 TOI021	andavo aiutare i miei:
-TOR004	qu[indi:]::
-TOI021	[eh]
+TOI021	qu[indi:]::
+TOR004	[eh]
 TOI021	sapevo già com'era mi piaceva stare in contatto con le persone
 TOI021	così
 TOI021	e::: anche se ero molto timida però io
@@ -701,17 +701,17 @@ TOI021	e:::h mi piaceva
 TOI021	comunque poi l'ho fatto volentieri questo negozio
 TOI021	fino:: a venti:::
 TOI021	a vent'anni
-TOR004	abbiamo avuto:: questo negozio p[oi mi so]no
-TOI021	[ah]
+TOI021	abbiamo avuto:: questo negozio p[oi mi so]no
+TOR004	[ah]
 TOI021	mi sono sposata
 TOI021	ho avuto:: due figlie
 TOI021	e:: quando mi sono sposata all'età di venti:::
 TOI021	ventidue anni son venuta abitare come ho detto prima
-TOR004	a fiano torinese.
-TOI021	eh però hai continuato comunque a lavorare anche:: [al:: al banco]
+TOI021	a fiano torinese.
+TOR004	eh però hai continuato comunque a lavorare anche:: [al:: al banco]
 TOI021	[sì andavo aiu~ (.) andavo aiu]tare poi quando abbiamo venduto poi il:::
-TOR004	[negozio]
 TOI021	[negozio]
+TOR004	[negozio]
 TOI021	e::h andavo aiutare i miei non non tutti i giorni
 TOI021	perché poi av~
 TOI021	e::h la è stata una scelta di:: di non lavorare
@@ -719,10 +719,10 @@ TOI021	perché
 TOI021	volevo allevarmi i miei figl~ le mie figlie ho avuto due bambine quindi
 TOI021	a::h ho fatto questa scelta proprio di proposito
 TOI021	volevo:: allevarmi le figlie ecco
-TOR004	e:::h volevo che non si sentissero sole, volevo
-TOI021	mh
-TOR004	che a scuola non avrebbe~ non::=mh
-TOI021	non avessero
+TOI021	e:::h volevo che non si sentissero sole, volevo
+TOR004	mh
+TOI021	che a scuola non avrebbe~ non::=mh
+TOR004	non avessero
 TOI021	non avessero::
 TOI021	avuto le difficoltà che avevo avuto i::o, perché:::
 TOI021	e::h eri segnata a dito
@@ -731,8 +731,8 @@ TOI021	e::::m::h
 TOI021	diciamo:: se vogliamo dirla::
 TOI021	chia~ più chiaramente l'ho capito poi negli anni
 TOI021	che c'era tanto razzismo
-TOR004	[ecco]
-TOI021	[eh sì]
+TOI021	[ecco]
+TOR004	[eh sì]
 TOI021	sia ne:::~
 TOI021	nelle maestre, negli insegnanti specialmente nelle=elementari
 TOI021	e sia:::
@@ -743,46 +743,46 @@ TOI021	piemontesi magari che loro erano del piemonte però magari sentivano
 TOI021	#a casa parlare ah cul lì a l'è n napuli cul lì chiel sì cul lì là
 TOI021	e::: quindi facevano::: del razzismo
 TOI021	però queste cose te ne accorgi
-TOR004	ti vengono in mente quando sei grande
-TOI021	però [quando sei: s]iete venuti a fiano
-TOR004	[(anche)]
+TOI021	ti vengono in mente quando sei grande
+TOR004	però [quando sei: s]iete venuti a fiano
+TOI021	[(anche)]
 TOR004	non era:: proprio così nel senso che ad esempio la zia si è sposata con un piemontese
-TOI021	zia sara ad esem~ [e anche] zia chiara in realtà [no]?
+TOR004	zia sara ad esem~ [e anche] zia chiara in realtà [no]?
 TOI021	[certo]
-TOR004	[cer]to ma
-TOI021	poi tu ti sei sposata con un trentino
+TOI021	[cer]to ma
+TOR004	poi tu ti sei sposata con un trentino
 TOI021	eh (.) no però voglio dire
 TOI021	e::h eh eh
 TOI021	questo b~ questo bullismo, questo razzismo
-TOR004	io l'ho l'ho s~ sempre sentito ma quand'[ero picco:la]
-TOI021	[quand'eri piccola]
+TOI021	io l'ho l'ho s~ sempre sentito ma quand'[ero picco:la]
+TOR004	[quand'eri piccola]
 TOI021	ma ma ma nessuno e::h delle persone che ti circondavano
-TOR004	diversamente nell'ambiente nessuno [te lo faceva] nota:re
-TOI021	[ti parlava]
+TOI021	diversamente nell'ambiente nessuno [te lo faceva] nota:re
+TOR004	[ti parlava]
 TOI021	queste cose solo quand'ero pi~
-TOR004	quando andavo a scuola nell'ambiente scolastico
-TOI021	soprattu[tto]
+TOI021	quando andavo a scuola nell'ambiente scolastico
+TOR004	soprattu[tto]
 TOI021	[ca]pitavano queste cose qua
 TOI021	altrimenti no
 TOI021	e::h però nell'ambito scolastico
 TOI021	non c'era nessuno che controllava
-TOR004	e quindi::
-TOI021	spesso t[i (.) trattavano male]
+TOI021	e quindi::
+TOR004	spesso t[i (.) trattavano male]
 TOI021	[s:ì sì sì:]
 TOI021	sì sì
 TOI021	poi: insomma l'insegnante non facevano proprio niente:
 TOI021	c'era qualcuno sì qualcuno che xx
-TOR004	ti prendeva a cuore sì (.) e capiva la situazione
-TOI021	mh
+TOI021	ti prendeva a cuore sì (.) e capiva la situazione
+TOR004	mh
 TOI021	ma c'erano proprio quelli che:: anzi
 TOI021	più magari non sapevi la lezione perché
 TOI021	io: era una ra~ una bambina molto timida
-TOR004	[e qui]ndi m::i vergognavo anche [se avevo studiato po:]co
+TOI021	[e qui]ndi m::i vergognavo anche [se avevo studiato po:]co
 TOR004	[eh]
-TOI021	[a parlare]
+TOR004	[a parlare]
 TOI021	però mi vergognavo a parlare non sapevo esprimermi neanche tanto bene
-TOR004	forse era la mia timidezza
-TOI021	eh sicuramente
+TOI021	forse era la mia timidezza
+TOR004	eh sicuramente
 TOI021	e allora capitava che:::
 TOI021	e:::h
 TOI021	magari s~ sembrava che non sapesse niente
@@ -801,21 +801,21 @@ TOI021	la prendo da una parte o anche davanti agli altri
 TOI021	e:: la interrogo dopo no
 TOI021	e così ero: abbastanza::
 TOI021	come si può dire
-TOR004	e::h
-TOI021	messa in soggezione [anche]
+TOI021	e::h
+TOR004	messa in soggezione [anche]
 TOI021	[messa in] soggezione dall'insegnante
 TOI021	e poi a un po' derisa anche dai compagni
 TOI021	perché se non sai la lezione
 TOI021	i tempi in cui erano
 TOI021	venivi anche derisa
 TOI021	e quindi l'insegnante proprio anzi
-TOR004	derideva anche lei
-TOI021	ah beh [invece] però i:::
-TOR004	[eh]
+TOI021	derideva anche lei
+TOR004	ah beh [invece] però i:::
+TOI021	[eh]
 TOR004	i clienti com'erano nel senso loro
-TOI021	venivano a comprare anche se eravate meridionali o:::
-TOR004	ma s~ non c'era più questa questione non c'era p[iù per]ché:::
-TOI021	[ah]
+TOR004	venivano a comprare anche se eravate meridionali o:::
+TOI021	ma s~ non c'era più questa questione non c'era p[iù per]ché:::
+TOR004	[ah]
 TOI021	a parte che io s~ e:::h
 TOI021	forse perché ho subito queste cose
 TOI021	da:::
@@ -825,32 +825,32 @@ TOI021	dico la verità mi sono sempre anche:: infatti mia mamma mi sgridava
 TOI021	perché io non accettavo
 TOI021	e::h perché sentivo che::
 TOI021	poi ho capito che i meridionali magari
-TOR004	alcuni: non so se lo posso dire magari
-TOI021	[non si comportavano tanto bene]
-TOR004	[dicevano che (.) ec]co
-TOI021	ecco
+TOI021	alcuni: non so se lo posso dire magari
+TOR004	[non si comportavano tanto bene]
+TOI021	[dicevano che (.) ec]co
+TOR004	ecco
 TOI021	eh eh
 TOI021	e:: e allora questa cosa a me dava fastidio
 TOI021	perché eh eh eh dico io non sono come loro
 TOI021	però questi non lo capiscono
 TOI021	e quindi io non mi sono mai sentita:
 TOI021	e::h io mi son sentita sempre
-TOR004	una:: di venaria
-TOI021	mh
+TOI021	una:: di venaria
+TOR004	mh
 TOI021	una (.) del piemonte
 TOI021	soprattutto di venaria anche se adesso abito a fiano
 TOI021	io (.) mi sento sempre una di venaria
 TOI021	perché:::
 TOI021	perché come ho:: ho detto prima
 TOI021	sentivo queste:: come dire
-TOR004	queste:::
-TOI021	queste voci, queste dicerie
+TOI021	queste:::
+TOR004	queste voci, queste dicerie
 TOI021	ecco e:::
-TOR004	e qua~ quasi che m::e ne br~ vergognavo anche un [pochi:no]
-TOI021	[se non le avevi fa]tte tu
+TOI021	e qua~ quasi che m::e ne br~ vergognavo anche un [pochi:no]
+TOR004	[se non le avevi fa]tte tu
 TOI021	ecco anche se non m~ io mi vergognavo per lo:ro
-TOR004	e quindi per me andava bene che io ero di venaria
-TOI021	non volevi essere associata a quelle [persone] ecco
+TOI021	e quindi per me andava bene che io ero di venaria
+TOR004	non volevi essere associata a quelle [persone] ecco
 TOI021	[ecco]
 TOI021	ecco anche se avevo i pare:nti,
 TOI021	che erano tutte persone oneste
@@ -861,20 +861,20 @@ TOI021	non mi importava che dire che io ero di caltanissetta per me io dico semp
 TOI021	perché lo devo dire quando:: vai a fare i documenti::
 TOI021	ti devi presentare così dov'è nata a caltanissetta
 TOI021	però io dico sempre però son cresciuta a venaria ci pe~
-TOR004	lo:: lo specifico sempre questa cosa
-TOI021	eh sì
+TOI021	lo:: lo specifico sempre questa cosa
+TOR004	eh sì
 TOI021	perché::
 TOI021	mi fa piacere così
-TOR004	e:::
-TOI021	no dicevo ma dei clienti c'era qualcuno più simpatico [più antipatico]?
+TOI021	e:::
+TOR004	no dicevo ma dei clienti c'era qualcuno più simpatico [più antipatico]?
 TOI021	[s::ì::=i] clienti erano molto simpatici
 TOI021	tanto che e:::m::h
 TOI021	e::h
 TOI021	quando poi è:: è mancato il mio papà
 TOI021	io e mia sorella loredana la più piccola
 TOI021	siamo andati avanti noi poi per::=e::mh
-TOR004	e::::h [io e le mie (.) le::] le mie bambine erano già
-TOI021	[il mercato]?
+TOI021	e::::h [io e le mie (.) le::] le mie bambine erano già
+TOR004	[il mercato]?
 TOI021	grandicelle nel millenovecentoottantaquattro
 TOI021	è:: venuto a mancare il mio papà
 TOI021	e quindi c'era ancora sto banco da portare avanti
@@ -885,8 +885,8 @@ TOI021	e:::hm
 TOI021	allora io e mia sorella abbiamo deciso di:::
 TOI021	di continuare noi, l'abbiamo portato avanti per un po' di anni:::
 TOI021	fino nel millenovecentonovantacinque l'abbiamo portato avanti noi
-TOR004	e i clienti avevano: anche le loro preferenze no?
-TOI021	((ride))
+TOI021	e i clienti avevano: anche le loro preferenze no?
+TOR004	((ride))
 TOI021	perché c'era quelli che magari volevano essere serviti da::::
 TOI021	da mia sorella, quelli invece che volevano essere serviti da me
 TOI021	e::: poi magari c'era quello che magari ti diceva::
@@ -895,14 +895,14 @@ TOI021	magari anche qualche persona un po' ignorantella
 TOI021	magari diceva signorina magari
 TOI021	e:::h ne ha prosciutto?
 TOI021	per esempio sì
-TOR004	allora mi dia due etti di salame [o a viceversa]
-TOI021	[ma co::me]
-TOR004	o a viceversa:: non so
-TOI021	((ride))
-TOI021	ne ha salame sì
-TOR004	lo facciamo vedere allora mi dia un etto di prosci[utto]
+TOI021	allora mi dia due etti di salame [o a viceversa]
+TOR004	[ma co::me]
+TOI021	o a viceversa:: non so
 TOR004	((ride))
-TOI021	[ma] no:: ((ride))
+TOI021	ne ha salame sì
+TOI021	lo facciamo vedere allora mi dia un etto di prosci[utto]
+TOR004	((ride))
+TOR004	[ma] no:: ((ride))
 TOI021	queste queste stupidaggine qua no?
 TOI021	o magari c'era quella persona che::
 TOI021	°e:::h°
@@ -910,16 +910,16 @@ TOI021	veniva e comprava
 TOI021	magari non compra~ comprava solo la maionese
 TOI021	e allora noi a ques~ la persona la chiamavamo
 TOI021	è venutà la signora della calvè la signora calvè
-TOR004	ec[co:]
-TOI021	[perc]hé era quella che comprava solo la maion[ese]
+TOI021	ec[co:]
+TOR004	[perc]hé era quella che comprava solo la maion[ese]
 TOI021	[ec]co:
 TOI021	magari veniva un'altra che comprava solo la robiola
 TOI021	e avevamo questi clienti affezionati che::
 TOI021	e allora li chiamavamo così no?
 TOI021	ecco queste:::
-TOR004	qua poi tanti episodi che s~ in questo momento
+TOI021	qua poi tanti episodi che s~ in questo momento
 TOR004	ma per esempio quello: c'è un
-TOI021	qualcuno che voleva essere servito più da te che da:: [tua sorella]?
+TOR004	qualcuno che voleva essere servito più da te che da:: [tua sorella]?
 TOI021	[sì:: c'era] una un'insegnante
 TOI021	e::h un po' anziana in riposo ormai
 TOI021	che ve~ erano due sorelle anche loro
@@ -936,18 +936,18 @@ TOI021	cosa desidera lei diceva no no no
 TOI021	#voglio nenti d~ x da lei
 TOI021	voglio che mi serve:::
 TOI021	perch~
-TOR004	era insegnante parlava un po' il siciliano
-TOI021	e un po' l'italiano
+TOI021	era insegnante parlava un po' il siciliano
+TOR004	e un po' l'italiano
 TOI021	ecco
 TOI021	eh (.) però noi
-TOR004	le nostre origini siciliani quindi capi[vamo]
-TOI021	[capivate cosa diceva]
+TOI021	le nostre origini siciliani quindi capi[vamo]
+TOR004	[capivate cosa diceva]
 TOI021	[cosa::] cosa diceva
 TOI021	ecco
-TOR004	[e:::h]
+TOI021	[e:::h]
 TOR004	[e poi ogni] tanto magari veniva anche qualcuno
 TOR004	che: nonostante:: il nonno fosse mancato da tanto tempo
-TOI021	voleva far le condogli[anze]
+TOR004	voleva far le condogli[anze]
 TOI021	[sì:] anche capitava anche questo che dopo due anni ancora che
 TOI021	mio papà era mancato questo
 TOI021	c'era un cliente che veniva tutti i sabati
@@ -962,28 +962,28 @@ TOI021	e la baciava mia mamma fino che a un certo punto mia mamma gli ha detto b
 TOI021	adesso ba::sta non si può che dopo due anni ancora mi fa le condoglia~
 TOI021	eh ma c~
 TOI021	è morto insomma mio marito è morto due anni fa::
-TOR004	adesso baci baci basta
-TOI021	((ride))
-TOR004	[ecco infatti]
-TOI021	[e quindi se l'è tolto]
-TOR004	a questo lo chiamavamo baci baci
-TOI021	((ride))
+TOI021	adesso baci baci basta
 TOR004	((ride))
+TOI021	[ecco infatti]
+TOR004	[e quindi se l'è tolto]
+TOI021	a questo lo chiamavamo baci baci
+TOR004	((ride))
+TOI021	((ride))
 TOR004	e invece è mai successo che qualcuno vi ha lasciato lì le cose senza pagarle oppure::
-TOI021	ha rubato qualcosa a qualcun a:ltro
+TOR004	ha rubato qualcosa a qualcun a:ltro
 TOI021	e::h sì
 TOI021	e::h mia mamma aveva un libro
-TOR004	un quaderno
-TOI021	ah
+TOI021	un quaderno
+TOR004	ah
 TOI021	che segnava
 TOI021	tutte le persone (.) che::
 TOI021	magari venivano a far la spesa
-TOR004	e dopo ti pagavano a fine mese
-TOI021	ah
+TOI021	e dopo ti pagavano a fine mese
+TOR004	ah
 TOI021	e e queste persone molto (.) serie
 TOI021	ogni fine mese ogni volta che prendevano lo stipendio venivano a pagare
-TOR004	e::h tanti
-TOI021	purtroppo invece
+TOI021	e::h tanti
+TOR004	purtroppo invece
 TOI021	no (.) e infatti lì ci faceva una croce
 TOI021	quando poi::
 TOI021	mia mamma ha lasciato che l'ha dato ci ha fatto una croce a::::
@@ -991,21 +991,21 @@ TOI021	a tutto l~ quaderno
 TOI021	e ha detto basta
 TOI021	adesso di sto quaderno non ne voglio più sapere perché è passato tan~ troppo tempo
 TOI021	e:::
-TOR004	[e i soldi::]
-TOI021	[e quindi non voleva] più chiedere niente a nes[su~]
+TOI021	[e i soldi::]
+TOR004	[e quindi non voleva] più chiedere niente a nes[su~]
 TOI021	[no] perché tanto s~ andavi a:: chiederglieli
 TOI021	e e e:: come se tu dovevi
 TOI021	dare tu dei soldi a loro e non che lo dovevano darli a te
 TOI021	allora mia mamma l'ha bruciato quel quaderno ha detto basta faccio finta di niente::
 TOI021	e c'ha perso tanti soldi
 TOI021	poi invece c'era:: era successo una: una volta questo episodio
-TOR004	e:::h che magari qualcuno faceva la spesa veniva
-TOI021	mh
+TOI021	e:::h che magari qualcuno faceva la spesa veniva
+TOR004	mh
 TOI021	faceva la spesa
 TOI021	le spese
 TOI021	e poi dice vado magari a comprare altro
-TOR004	[posso lasciare? (.) eh]
-TOI021	[sì: per tutto il mercato:: insomma]
+TOI021	[posso lasciare? (.) eh]
+TOR004	[sì: per tutto il mercato:: insomma]
 TOI021	o o vado a farmi un giro al mercato posso lasciare le borse qua
 TOI021	lasciavano le borse e poi quando finivano
 TOI021	e:::h di farsi il suo giro
@@ -1016,16 +1016,16 @@ TOI021	viene a fare la spesa
 TOI021	e::h
 TOI021	mentre c'erano
 TOI021	le borse in un angolo di di un'altra persona
-TOR004	di un'altra:: (.) cliente
-TOI021	mh
+TOI021	di un'altra:: (.) cliente
+TOR004	mh
 TOI021	e:::h s::~ si prende le sue borse
 TOI021	e prende anche una borsa dell'altra: persona che c'era
 TOI021	dell'uva dentro
 TOI021	e:::h mia mamma eh
-TOR004	e c~ se ne va questa cliente qua
-TOI021	quindi le ha preso la sua borsa [la borsa di un'altra]
-TOR004	[ha ha preso la] borsa di una di una persona
-TOI021	con l'uva
+TOI021	e c~ se ne va questa cliente qua
+TOR004	quindi le ha preso la sua borsa [la borsa di un'altra]
+TOI021	[ha ha preso la] borsa di una di una persona
+TOR004	con l'uva
 TOI021	eh
 TOI021	e::::
 TOI021	e quando torna questa persona a ritirarsi le sue borse dice
@@ -1035,8 +1035,8 @@ TOI021	dice sicuramente l'avrà dimentic~ l'avrà presa
 TOI021	per sbaglio quella signora di prima
 TOI021	dice stasera che vado a casa (.) la chiamo
 TOI021	e le dico::
-TOR004	e::h
-TOI021	le chiedo se: [l'ha presa lei]
+TOI021	e::h
+TOR004	le chiedo se: [l'ha presa lei]
 TOI021	[se ce l'ha le:i]
 TOI021	o se vuole portarmela o se no::
 TOI021	e::h gliela paga poi
@@ -1045,53 +1045,53 @@ TOI021	la sera mia mamma arriva a casa telefona alla signora
 TOI021	e questa signora quando
 TOI021	mia mamma le dice sono la signora del formaggio
 TOI021	la signora le dice subito
-TOR004	eh ma cos'è signora è per l'u:va?
+TOI021	eh ma cos'è signora è per l'u:va?
 TOR004	((ride))
-TOI021	quindi lo sapeva in realtà
+TOR004	quindi lo sapeva in realtà
 TOI021	eh
 TOI021	e mia mamma dice sì le telefono proprio per l'uva per dirle che
 TOI021	ha per sbaglio ha preso la borsa di un'altra signora
 TOI021	ah dice ma io non ho preso niente
 TOI021	beh come non ha preso niente se mi dice
 TOI021	ma è per l'u:va?
-TOR004	e allora se è per l'uva lei lo sa che si è portata a casa l'[uva]
-TOI021	[cer]to era l'uva di qualcun al[tro]
+TOI021	e allora se è per l'uva lei lo sa che si è portata a casa l'[uva]
+TOR004	[cer]to era l'uva di qualcun al[tro]
 TOI021	[e:]cco:
 TOI021	così mia mamma poi a quella persona ha dovuto rimborsargli i soldi
-TOR004	dell'uva
-TOI021	ma dai
-TOR004	eh certo
-TOI021	perché l'aveva lasciata sul vostro b[anco]
+TOI021	dell'uva
+TOR004	ma dai
+TOI021	eh certo
+TOR004	perché l'aveva lasciata sul vostro b[anco]
 TOI021	[eh sì]
 TOI021	perché poi aveva fatto nome e cognome di quella persona
-TOR004	eh per [forza]
-TOI021	[eh sì quindi s]apeva chi era stato
-TOR004	eh
-TOI021	ma da:i
+TOI021	eh per [forza]
+TOR004	[eh sì quindi s]apeva chi era stato
+TOI021	eh
+TOR004	ma da:i
 TOI021	eh ha fatto finta che quella gli ha dato i soldi
 TOI021	anche per non mette(re) a discredito le persone
-TOR004	[e:::h]
-TOI021	[eh] certo per mantenere i client[i an~]
-TOR004	[eh se no s:~] perdeva i clienti
+TOI021	[e:::h]
+TOR004	[eh] certo per mantenere i client[i an~]
+TOI021	[eh se no s:~] perdeva i clienti
 TOR004	ma pensa te
-TOI021	e quella signora lì l'avete più rivista?
-TOR004	sì:: veniva veniva [sorridente sì (.) sì]
+TOR004	e quella signora lì l'avete più rivista?
+TOI021	sì:: veniva veniva [sorridente sì (.) sì]
 TOR004	[senza senza problemi]
-TOI021	((ride))
-TOR004	abitava a robassomero lei
-TOI021	ah quindi pure dalle tue parti
+TOR004	((ride))
+TOI021	abitava a robassomero lei
+TOR004	ah quindi pure dalle tue parti
 TOI021	sì
-TOR004	sì sì sì veniva tutti i giovedì a comprare
-TOI021	ma da::i
-TOR004	mh mh
-TOI021	vabbè ha fatto un po' di beneficenza
-TOR004	eh
+TOI021	sì sì sì veniva tutti i giovedì a comprare
+TOR004	ma da::i
+TOI021	mh mh
+TOR004	vabbè ha fatto un po' di beneficenza
+TOI021	eh
 TOR004	e:: cosa ti volevo chiedere
 TOR004	che cosa facevi tu nel tuo tempo libero? quando non lavoravi no che::
 TOR004	m::h magari non eri non eri al ba:nco
-TOI021	o magari avevi degli ami::ci, vi piaceva ascoltare la musica,
-TOR004	quando ero ragazza?
-TOI021	s::ì::
+TOR004	o magari avevi degli ami::ci, vi piaceva ascoltare la musica,
+TOI021	quando ero ragazza?
+TOR004	s::ì::
 TOI021	quando ero ragazza magari:: una volta (ci) si riuniva:
 TOI021	che aveva magari::
 TOI021	un giradischi (.) e::::
@@ -1100,72 +1100,72 @@ TOI021	si si::
 TOI021	si andava nelle case di queste persone
 TOI021	e si::::=mh
 TOI021	si metteva musica ecco si ballavano i lenti
-TOR004	il twi::st
-TOI021	a tu sapevi ballare il twist?
+TOI021	il twi::st
+TOR004	a tu sapevi ballare il twist?
 TOI021	e::h ma::
 TOI021	io em:h se devo dire la verità non è che mi piaceva tanto ballare
-TOR004	perché mi vergognavo anche
-TOI021	ah quindi non è che ti piaces[se tanto::]
+TOI021	perché mi vergognavo anche
+TOR004	ah quindi non è che ti piaces[se tanto::]
 TOI021	[eh no no ero] quasi
 TOI021	quasi un pochino costretta andare a queste feste perché:::
 TOI021	mia sorella più gio~ più: vecchia di me di due anni
 TOI021	a lei gli piaceva
 TOI021	e quindi (.) poi as~ e::h.
-TOR004	aveva un po':::
-TOI021	era innamorata
+TOI021	aveva un po':::
+TOR004	era innamorata
 TOI021	eh si era un po' innamorata di un nostro vicino di casa che
-TOR004	poi infatti è diventato suo marito
-TOI021	ecco vedi
+TOI021	poi infatti è diventato suo marito
+TOR004	ecco vedi
 TOI021	eh
 TOI021	e quindi::
 TOI021	e::: con la scusa che andavamo insieme
-TOR004	poteva uscire anche lei così andavamo ma io
-TOI021	quindi non vi p~ non vi facevano uscire da sole >cioè< dovevi::
-TOR004	[no:: eravamo no erava]mo abbastanza liberi
-TOI021	[(le) accompagna~]
-TOR004	[perché]
-TOI021	[ah quindi]
+TOI021	poteva uscire anche lei così andavamo ma io
+TOR004	quindi non vi p~ non vi facevano uscire da sole >cioè< dovevi::
+TOI021	[no:: eravamo no erava]mo abbastanza liberi
+TOR004	[(le) accompagna~]
+TOI021	[perché]
+TOR004	[ah quindi]
 TOI021	i miei non avevano::=mh
-TOR004	mentalità meridionale ci [lasciavano libe]ri sì
-TOI021	[ecco]
+TOI021	mentalità meridionale ci [lasciavano libe]ri sì
+TOR004	[ecco]
 TOI021	no no è vero ci lasciavano libere
-TOR004	[io]
-TOI021	[ma per]ché
+TOI021	[io]
+TOR004	[ma per]ché
 TOI021	io non volevo perché io ero una timida
-TOR004	come ho già detto [prima no]?
-TOI021	[eh già]
+TOI021	come ho già detto [prima no]?
+TOR004	[eh già]
 TOI021	anche
-TOR004	a venaria per esempio in piazza c'erano quattro bar
-TOI021	ah
+TOI021	a venaria per esempio in piazza c'erano quattro bar
+TOR004	ah
 TOI021	gli uomini (.) si sedevano fuori coi tavolini sotto i portici
-TOR004	e io mi vergognavo anche a passare da lì
-TOI021	eh magari [perché ti] facevano dei commenti, del[le cose]
+TOI021	e io mi vergognavo anche a passare da lì
+TOR004	eh magari [perché ti] facevano dei commenti, del[le cose]
 TOI021	[eh]
 TOI021	[eh poi magari da] ragazza ero anche una bella raga:zza
 TOI021	avevo un po' il seno prosperoso così mi
 TOI021	magari fischiavano, facevano delle ava:nce
 TOI021	anche uomini sposati (.) perché erano un po'::
-TOR004	io mi vergognavo ancora di più
-TOI021	ah
-TOR004	eh
-TOI021	e quindi te ne [passavi velo]ce
+TOI021	io mi vergognavo ancora di più
+TOR004	ah
+TOI021	eh
+TOR004	e quindi te ne [passavi velo]ce
 TOI021	[(certo)]
 TOI021	sì cercavo di di di:::
 TOI021	di passare diversamente ecco
-TOR004	però quello era perché (.) i quattro punti erano quel[li::]
-TOI021	[poi c']erano anche le case:rme mili[ta:ri]
-TOR004	[eh eh] eh eh
-TOI021	quindi magari (.) e quindi andavate in a queste feste cosa si faceva a queste feste?
+TOI021	però quello era perché (.) i quattro punti erano quel[li::]
+TOR004	[poi c']erano anche le case:rme mili[ta:ri]
+TOI021	[eh eh] eh eh
+TOR004	quindi magari (.) e quindi andavate in a queste feste cosa si faceva a queste feste?
 TOI021	si ballava il lento, il twist, e:: gli anni sessanta erano quelli
-TOR004	comunque del [twi:st e::]
-TOI021	[quindi andavate dalla] parrucchiera [prima vi fac~]
+TOI021	comunque del [twi:st e::]
+TOR004	[quindi andavate dalla] parrucchiera [prima vi fac~]
 TOI021	[sì::]:: a
 TOI021	parrucchiera sì tutte le settimane
 TOI021	tutte le settimane
 TOI021	e::::h la parrucchiera,
 TOI021	e durante la settimana anche a fare un ripassino
-TOR004	perché::
-TOI021	il ripassino? [cos'è]
+TOI021	perché::
+TOR004	il ripassino? [cos'è]
 TOI021	[s:ì]
 TOI021	ripassino è la ripassata ecco i capelli s~ metterli di nuovo in piega
 TOI021	la pettinatrice te li faceva::
@@ -1176,41 +1176,41 @@ TOI021	beh che incominciavamo insomma
 TOI021	io e mia sorella a essere più ragazzine così magari
 TOI021	e:::m::h
 TOI021	vedendo come faceva la mia mamma
-TOR004	[si] metteva lei la carta stagnola,
-TOI021	[mh]
-TOR004	si faceva::
-TOI021	come i bigodi (.) i[nsomma]
+TOI021	[si] metteva lei la carta stagnola,
+TOR004	[mh]
+TOI021	si faceva::
+TOR004	come i bigodi (.) i[nsomma]
 TOI021	[ecco]
 TOI021	li facevamo anche noi poi
 TOI021	neanche che si poteva nemmeno comprare tanto la lacca
 TOI021	allora cosa facevamo
-TOR004	davamo acqua e zucchero
-TOI021	[a:h]
-TOR004	[pe]rché con la lacca i capelli stavano [più:: a posto]
-TOI021	[dritti sì >cioè< giusto]
+TOI021	davamo acqua e zucchero
+TOR004	[a:h]
+TOI021	[pe]rché con la lacca i capelli stavano [più:: a posto]
+TOR004	[dritti sì >cioè< giusto]
 TOI021	eh
 TOI021	allora si prendeva acqua e zucchero si metteva in uno spruzzino
 TOI021	e:::
-TOR004	e poi ti spruzzavi quello così: e::h
-TOI021	[stavano a posto]
+TOI021	e poi ti spruzzavi quello così: e::h
+TOR004	[stavano a posto]
 TOI021	[facevi le ecco] eh poi invece
 TOI021	iniziato andare:: quando andavo poi al mercato
 TOI021	insomma che c'era qualche soldo in più poi negli anni::
 TOI021	e::h sessanta dopo gli anni sessanta metà degli anni sessanta che
 TOI021	circolava un pochino più soldo
-TOR004	eh tutte le settimane si andava dalla: parrucchiera
-TOI021	ti piaceva [andare dalla parru]cchiera (.) sì
+TOI021	eh tutte le settimane si andava dalla: parrucchiera
+TOR004	ti piaceva [andare dalla parru]cchiera (.) sì
 TOI021	[eh (.) sì]
 TOI021	mi piaceva, mi piaceva
 TOI021	anche le persone (.) che:::=mh
-TOR004	che c'erano perché poi si: si
-TOI021	si chiac[cherava]
+TOI021	che c'erano perché poi si: si
+TOR004	si chiac[cherava]
 TOI021	[co~ si chia]ccherava come se fosse veramente una famiglia no?
 TOI021	poi c'era quell'attesa
 TOI021	o: magari s'andava il venerdì o=~l sabato
 TOI021	e::::h
-TOR004	qu~ il ritrovarsi lì ma[gari]
-TOI021	[per la fe]:sta domenica [inso~]
+TOI021	qu~ il ritrovarsi lì ma[gari]
+TOR004	[per la fe]:sta domenica [inso~]
 TOI021	[ecco] poi magari la parrucchiera
 TOI021	mandava la ragazza prendere il caffè chi voleva il caffè
 TOI021	ecco
@@ -1218,23 +1218,23 @@ TOI021	e::h si scambiavano=m::h
 TOI021	em::h
 TOI021	dei commenti, si scambiavano com'era andata la settimana, si condivideva
 TOI021	ecco si condivideva sia
-TOR004	e::h l~ ~l:: caffè e sia anche com'era andata la settimana
+TOI021	e::h l~ ~l:: caffè e sia anche com'era andata la settimana
 TOR004	e poi quando ti sei trasferita invece in campagna come com'è cambiata la tua vita?
-TOI021	cioè sei sempre:: non hai potuto mantere queste cose::
+TOR004	cioè sei sempre:: non hai potuto mantere queste cose::
 TOI021	eh no e infatti mi mancavano all'inizio io
-TOR004	mi son presa un esaurimento
-TOI021	[ah]
+TOI021	mi son presa un esaurimento
+TOR004	[ah]
 TOI021	[per]ché:: questo cambiamento:: radicale così
-TOR004	per me è stavo verament[e::]
-TOI021	[d]ifficile
+TOI021	per me è stavo verament[e::]
+TOR004	[d]ifficile
 TOI021	sì
-TOR004	perché:: come ho già detto son una persona
-TOI021	che si affezio:[na]
+TOI021	perché:: come ho già detto son una persona
+TOR004	che si affezio:[na]
 TOI021	[che s]i affeziona alle co:se,
 TOI021	abitudinaria,
 TOI021	e una una:: persona che anche le sorprese belle
-TOR004	non le piacciono
-TOI021	non ti piacciono le sorpre[se a te]
+TOI021	non le piacciono
+TOR004	non ti piacciono le sorpre[se a te]
 TOI021	[non mi pia]cciono le sorprese né belle né bru:tte
 TOI021	devo sempre sapere per tempo le cose perché:: eh
 TOI021	devo:::
@@ -1244,54 +1244,54 @@ TOI021	presa un po': di esaurimento tanto che quando
 TOI021	andamo con: i miei magari a venaria
 TOI021	per il mercato a fare il mercato io appena arrivavo sul ponte della
 TOI021	snia viscosa
-TOR004	a proprio alla periferia di venaria io già mi sentivo a casa
-TOI021	((ride))
+TOI021	a proprio alla periferia di venaria io già mi sentivo a casa
+TOR004	((ride))
 TOI021	a casa mi sentivo a casa
-TOR004	ecco ero per strada ma io mi sentivo a casa perché ero a venaria
+TOI021	ecco ero per strada ma io mi sentivo a casa perché ero a venaria
 TOR004	ma proprio vedere la snia viscosa o vedere il po:nte o::
-TOI021	c'eran dei posti che t[i::]
+TOR004	c'eran dei posti che t[i::]
 TOI021	[no:]: perché quello
-TOR004	mi faceva appartenenza l'appartenenza di ven[aria]
-TOI021	[ah sì] sa[pevi che or]mai eri
+TOI021	mi faceva appartenenza l'appartenenza di ven[aria]
+TOR004	[ah sì] sa[pevi che or]mai eri
 TOI021	[quindi]
 TOI021	ero:: ero a casa
 TOI021	in mezzo alla strada ma ero a casa
-TOR004	e:: questo è andato avanti per un bel po' di anni
-TOI021	ah
+TOI021	e:: questo è andato avanti per un bel po' di anni
+TOR004	ah
 TOI021	dopo (.) dopo m'è passato m'è passato:
 TOI021	e:h e infatti dicevo sempre se io muoio
 TOI021	mentre sono: adesso che sono giovane così che
 TOI021	e::h che abitiamo a fiano portatemi
-TOR004	al cimitero a venaria non voglio::
+TOI021	al cimitero a venaria non voglio::
 TOR004	((ride))
-TOI021	ma che pensieri
+TOR004	ma che pensieri
 TOI021	ecco pensavo anche questo invece adesso no assolutamente
-TOR004	se muoio voglio andare qui al cimitero di fiano
-TOI021	ecco speriamo che non succeda tanto presto
+TOI021	se muoio voglio andare qui al cimitero di fiano
+TOR004	ecco speriamo che non succeda tanto presto
 TOI021	un cimitero più tranqui:llo più:::
-TOR004	meno:: meno spaventos(i) dei cimiteri perché:: insomma i cimiteri
-TOI021	sì non sono [proprio]
-TOR004	[sono::] ecco
-TOI021	va [bene]
-TOR004	[xx]
+TOI021	meno:: meno spaventos(i) dei cimiteri perché:: insomma i cimiteri
+TOR004	sì non sono [proprio]
+TOI021	[sono::] ecco
+TOR004	va [bene]
+TOI021	[xx]
 TOR004	e::::mh
 TOR004	cosa ti volevo chiedere adesso che cosa ti piace fare
 TOR004	nel tuo tempo lib:ero
-TOI021	quando visto che adesso non lavori più che cosa fa:i che cosa ti piace fare
-TOR004	[xx]
-TOI021	[quali s]ono i tuoi hobby
+TOR004	quando visto che adesso non lavori più che cosa fa:i che cosa ti piace fare
+TOI021	[xx]
+TOR004	[quali s]ono i tuoi hobby
 TOI021	quando poi ho smesso:: di lavorare al mercato
 TOI021	e:::h
 TOI021	intanto le mie figlie che si erano sposate
-TOR004	hanno avuto i figli e quind[i ho fa]tto la nonna
+TOI021	hanno avuto i figli e quind[i ho fa]tto la nonna
 TOR004	[eh]
-TOI021	a tempo [pieno]
+TOR004	a tempo [pieno]
 TOI021	[a tempo pi]eno perché::
 TOI021	ho:: allevato martina,
 TOI021	giuliana,
-TOR004	greta e francesco.
+TOI021	greta e francesco.
 TOR004	anche se:: ogni tanto c'è c'era un po' di:: ((ride))
-TOI021	di turbolenza
+TOR004	di turbolenza
 TOI021	sì ma
 TOI021	l'ho sempre fatto volentieri anzi
 TOI021	e::::h
@@ -1303,20 +1303,20 @@ TOI021	prima all'asilo poi:
 TOI021	l'elementari poi le medie poi x iniziato le superiori
 TOI021	e certo che non ce l'avevo più tutti i giorni::
 TOI021	a pranzo da me tutti i giorni non li vedo più e quindi::
-TOR004	a una che queste sorprese non le [piacciono]
-TOI021	[ecco] ((ride)) abbiamo capito che
+TOI021	a una che queste sorprese non le [piacciono]
+TOR004	[ecco] ((ride)) abbiamo capito che
 TOI021	ecco
 TOI021	e:h ho patito di questo ho patito
-TOR004	ecco e quindi::
+TOI021	ecco e quindi::
 TOR004	e invece c'è una cosa che avresti sempre voluto fare non so un via::ggio,
 TOR004	una missio::ne, un::
 TOR004	m:::h
 TOR004	qualcosa di particolare che ti piacerebbe ancora realizzare
-TOI021	o
+TOR004	o
 TOI021	(sì)
 TOI021	mi sarebbe sempre piaciuto andare magari in qualche::
-TOR004	qualche:: tempo in brasile
-TOI021	mh
+TOI021	qualche:: tempo in brasile
+TOR004	mh
 TOI021	ecco
 TOI021	o::: in africa o ma più che a~ africa o brasile
 TOI021	perché (.) e::h perché::
@@ -1328,14 +1328,14 @@ TOI021	mi sembra io di::
 TOI021	di::: di averli già vissuti
 TOI021	queste cose di:: esserci già stata in quei posti lì
 TOI021	ma io non mi sono mai mossa da ve::~ da::
-TOR004	fuori l'italia sono andata a medjugorje
+TOI021	fuori l'italia sono andata a medjugorje
 TOR004	ma forse per il fatto che anche tu hai fatto dei viaggi lu:nghi
 TOR004	che comunque
 TOR004	magari sei passata da::
 TOR004	da un posto come::=era la sicilia a un posto come il piemonte
 TOR004	sono molto diversi
 TOR004	o comunque che quand'eri bambina ti sei dovuta adattare a delle situazioni
-TOI021	particolari magari ti sembra di riviverle per quel motivo no?
+TOR004	particolari magari ti sembra di riviverle per quel motivo no?
 TOI021	può darsi può darsi però io ho sempre avuto nel cuore questa cosa
 TOI021	di andare a fare:: una missione
 TOI021	così di di andare per un periodo in africa
@@ -1345,23 +1345,23 @@ TOI021	però una cosa anche perché
 TOI021	un motivo più::
 TOI021	più significante è quello che io son sempre stata con mia mamma
 TOI021	e quindi:::
-TOR004	[e::h]
-TOI021	[non] volevi lasciarla da sola [diciamo]
-TOR004	[ecco] (.) eccco perché:::
-TOI021	era importante
-TOR004	eh
+TOI021	[e::h]
+TOR004	[non] volevi lasciarla da sola [diciamo]
+TOI021	[ecco] (.) eccco perché:::
+TOR004	era importante
+TOI021	eh
 TOR004	e invece::=mh
 TOR004	che magari facevi spesso qu~ anche quando le tue figlie erano piccole o::
-TOI021	un viaggio che: avete fatto dove andavate in vacanza o queste storie
-TOR004	eh beh in vacanza si andava sempre a finale ligure
-TOI021	ah
+TOR004	un viaggio che: avete fatto dove andavate in vacanza o queste storie
+TOI021	eh beh in vacanza si andava sempre a finale ligure
+TOR004	ah
 TOI021	al mare finale ligure
 TOI021	e:::h
-TOR004	sempre con la pau:ra perché magari mio marito non gli piaceva a lui il mare
-TOI021	ah non era proprio uno da mare
+TOI021	sempre con la pau:ra perché magari mio marito non gli piaceva a lui il mare
+TOR004	ah non era proprio uno da mare
 TOI021	no lui gli piaceva più la montagna perché lui era un trentino
-TOR004	quin[di le sue monta]gne eh
-TOI021	[eh certo]
+TOI021	quin[di le sue monta]gne eh
+TOR004	[eh certo]
 TOI021	e allora magari io a giugno andavo al mare con le bambine
 TOI021	a finale ligure
 TOI021	e:: e poi quando tornavo a casa
@@ -1375,15 +1375,15 @@ TOI021	poi a prenderci
 TOI021	così passava del tempo coi suoi parenti,
 TOI021	i suoi genitori, le sue sorelle,
 TOI021	suo fratello e stavamo:::
-TOR004	[faceva]mo le vacanze così
-TOI021	[ah]
-TOR004	[prima::] finale (.) al mare
+TOI021	[faceva]mo le vacanze così
+TOR004	[ah]
+TOI021	[prima::] finale (.) al mare
 TOR004	[e:::h]
-TOI021	e poi in trentino
-TOR004	°poi in trentino°
+TOR004	e poi in trentino
+TOI021	°poi in trentino°
 TOR004	e senti invece come in trentino quando parlavi:
 TOR004	riuscivi a parlare vi capivate anche se erano due::
-TOI021	due:: dialetti un po':: un [po' diversi ad esempio]
+TOR004	due:: dialetti un po':: un [po' diversi ad esempio]
 TOI021	[sì:::]
 TOI021	ma come ho già detto prima a parte che io
 TOI021	forse mi sono più sentita::
@@ -1392,16 +1392,16 @@ TOI021	ma non perché mi son sentita io veneta
 TOI021	perché e~ la g~ la gente sempre mi diceva
 TOI021	ah ma tu sei ve~ sempre pensavano che io
 TOI021	fosse::
-TOR004	una ve~ una::: [una vene]ta e non::
-TOI021	[una veneta]
+TOI021	una ve~ una::: [una vene]ta e non::
+TOR004	[una veneta]
 TOI021	di origini meridionali
 TOI021	ecco
 TOI021	e:::mh
 TOI021	ma poi
 TOI021	sì perché
 TOI021	io mi son sempre adattata (.) alle persone
-TOR004	e quindi ci siamo sempre ben capiti
-TOI021	eh ma tu quindi lo capivi un po' il dialetto tren[tino lo parlavi]?
+TOI021	e quindi ci siamo sempre ben capiti
+TOR004	eh ma tu quindi lo capivi un po' il dialetto tren[tino lo parlavi]?
 TOI021	[sì certo]
 TOI021	certo
 TOI021	parlare non tanto posso dire non so
@@ -1412,8 +1412,8 @@ TOI021	e:h magari all'inizio ecco
 TOI021	#eh popa per dire bambina
 TOI021	#loro dicono popa
 TOI021	e:h beh all'inizio quando io l'ho conosciuti::
-TOR004	#certo mi dovevo far spiegare cosa voleva dire popa o mattelotto
-TOI021	eh
+TOI021	#certo mi dovevo far spiegare cosa voleva dire popa o mattelotto
+TOR004	eh
 TOI021	#o mattelotta perché
 TOI021	#per loro è bambino sia popa che:: popo
 TOI021	#o mattelotto mattelotto vuol dire bambino
@@ -1422,35 +1422,35 @@ TOI021	o: per esempio una volta mia suocera mi dice giuliana dice vuoi
 TOI021	che compro un po' di stracchino per le bambine oggi?
 TOI021	si andava a fare la spesa
 TOI021	e io dico sì sì compralo
-TOR004	poi (.) apriamo il formaggio e mi trovo la gorgonzola
-TOI021	ah ((ride))
+TOI021	poi (.) apriamo il formaggio e mi trovo la gorgonzola
+TOR004	ah ((ride))
 TOI021	eh e allora dico ma scusa non hai detto che compravi lo stracchino per le bambine
 TOI021	e qui c'è la gorgonzola
 TOI021	ah dice ma io
-TOR004	dice noi qui lo chiamia[mo::]
-TOI021	[stracchino]
-TOR004	stracchino ecco allora lì ho capito che lì la gorgonzola
-TOI021	[si chiamava stracchi~]
+TOI021	dice noi qui lo chiamia[mo::]
+TOR004	[stracchino]
+TOI021	stracchino ecco allora lì ho capito che lì la gorgonzola
+TOR004	[si chiamava stracchi~]
 TOI021	[si chiamava (.) e]cco
 TOI021	quelle cose così però poi:
 TOI021	e:::h
-TOR004	come per esempio le ciabatte loro le chiamano le pianelle
-TOI021	mh
-TOR004	ecco per me le pianelle erano
-TOI021	le matton[elle]
+TOI021	come per esempio le ciabatte loro le chiamano le pianelle
+TOR004	mh
+TOI021	ecco per me le pianelle erano
+TOR004	le matton[elle]
 TOI021	[le ma]ttonelle e::h e~ e~ ecco però poi
-TOR004	[capisci (.) ecco]
-TOI021	[sì una volta che avevi capito]
+TOI021	[capisci (.) ecco]
+TOR004	[sì una volta che avevi capito]
 TOI021	mi sono ambientata subito come loro:
 TOI021	come mio marito si è ambientato anche al nostro dialetto
 TOI021	anzi forse lo capiva più lui che era trentino
 TOI021	che io
 TOI021	perché io non parlavo in meridionale
-TOR004	[ecco]
+TOI021	[ecco]
 TOR004	[eh certo]
 TOR004	sì in siciliano ma::
 TOR004	ti piaceva stare a trento anche se magari ogni tanto c'erano::
-TOI021	terremo[ti o::]
+TOR004	terremo[ti o::]
 TOI021	[s:ì] certo mi piaceva andare
 TOI021	l'unica cosa che: a trento
 TOI021	d'estate faceva molto caldo e quindi:
@@ -1458,46 +1458,46 @@ TOI021	era un po' snervante io patisco il caldo era::
 TOI021	d'inverno fa troppo freddo e di d'estate fa:::
 TOI021	troppo caldo
 TOI021	ecco (.) infatti c'è un detto che dice se vuoi patire le pene dell'inferno
-TOR004	vai a trento d'estate e a feltre d'inverno
-TOI021	ah ecco ottimo
+TOI021	vai a trento d'estate e a feltre d'inverno
+TOR004	ah ecco ottimo
 TOI021	perché sono due cose confinanti
 TOI021	e::::
 TOI021	a feltre d'inverno si muore stecchite
 TOI021	e a trento
 TOI021	è dentro una conca quindi d'estate:
-TOR004	[fa cal]do ecco
-TOI021	[certo]
+TOI021	[fa cal]do ecco
+TOR004	[certo]
 TOI021	però:
 TOI021	per parlare della: della:
 TOI021	sicilia
 TOI021	tu mi stai di~ chiedendo di trento
-TOR004	e::h finale
-TOI021	[mh]
+TOI021	e::h finale
+TOR004	[mh]
 TOI021	[ec]co
 TOI021	e io dico::: mh
 TOI021	e se:: non so per qualche motivo verrebbe qualcuno e mi dicesse:
-TOR004	come direbbe?
-TOI021	mi dicesse
-TOR004	dicesse:
-TOI021	((ride))
+TOI021	come direbbe?
+TOR004	mi dicesse
+TOI021	dicesse:
+TOR004	((ride))
 TOI021	e:::hm
 TOI021	non so devi andare via del piemonte
 TOI021	devi andare via:: sei obbligata andare via dal piemonte
-TOR004	[vai do]ve vuoi
-TOI021	[eh]
-TOR004	[e:::h]
-TOI021	[ma non in piemonte]
+TOI021	[vai do]ve vuoi
+TOR004	[eh]
+TOI021	[e:::h]
+TOR004	[ma non in piemonte]
 TOI021	eh
 TOI021	ma non in piemonte
 TOI021	io (.) certo per me la sicilia non mi appartiene
 TOI021	non andrei sicilia dici sei nata in sicilia
-TOR004	è normale a dire vai in sicilia ma a me [la s~]
-TOI021	[ma eri] molto piccola
+TOI021	è normale a dire vai in sicilia ma a me [la s~]
+TOR004	[ma eri] molto piccola
 TOI021	eh
 TOI021	a me la sicilia non appartiene s~ non non la sento che mi appartiene quindi io
 TOI021	potrei andare o a trento (.) o a finale ligure
-TOR004	[in liguria]
-TOI021	[ah ecco]
+TOI021	[in liguria]
+TOR004	[ah ecco]
 TOI021	ecco
 TOI021	se proprio dovrei andare::
 TOI021	via dal piemonte se no io sto bene dove sono
@@ -1505,30 +1505,30 @@ TOI021	e:::mh
 TOI021	certo un paese vale l'altro
 TOI021	però:: io sono:: come ho già detto sono una che se:=e:h
 TOI021	è attaccata alle radici (.) e quindi
-TOR004	se (.) dovrei fare un cambiamento
-TOI021	cambieresti in quel senso
+TOI021	se (.) dovrei fare un cambiamento
+TOR004	cambieresti in quel senso
 TOI021	s~
-TOR004	se mi portassero via con la mia casa infatti [io di]co
-TOI021	[sì]
-TOR004	spero di andare via dalla mia casa quando sono morta
-TOI021	ecco ((ride))
-TOR004	((ride))
+TOI021	se mi portassero via con la mia casa infatti [io di]co
+TOR004	[sì]
+TOI021	spero di andare via dalla mia casa quando sono morta
+TOR004	ecco ((ride))
+TOI021	((ride))
 TOR004	e invece quando eri piccola
 TOR004	c'era qualche volta che magari andavi in vacanza senza i tuoi genitori::
-TOI021	che ne so:: organizzavano magari delle vacanze per i lavoratori
-TOR004	[s:::ì:] sì sì
-TOI021	[delle f~ sai c'erano]
-TOR004	in colonia
-TOI021	in co[lonia]?
+TOR004	che ne so:: organizzavano magari delle vacanze per i lavoratori
+TOI021	[s:::ì:] sì sì
+TOR004	[delle f~ sai c'erano]
+TOI021	in colonia
+TOR004	in co[lonia]?
 TOI021	[colo]:nia ma non mi piaceva per niente
-TOR004	[né a me nean]che mia sorella sara
-TOI021	[no]?
+TOI021	[né a me nean]che mia sorella sara
+TOR004	[no]?
 TOI021	la:: la:: la terza sorella
 TOI021	assolutamente
 TOI021	e ci mandavano se se andavamo a fare
 TOI021	tipo adesso la chiamano estate ragazzi
-TOR004	[che la fanno]:: ecco
-TOI021	[ah]
+TOI021	[che la fanno]:: ecco
+TOR004	[ah]
 TOI021	questo mi piaceva perché veniva fatto
 TOI021	vicino la fabbrica dove lavora:: mio papà
 TOI021	sarebbe (.) la snia viscosa che c'era un campo grande
@@ -1544,16 +1544,16 @@ TOI021	e::::h si faceva tutto quanto lì ma alla sera si andava a dormire a casa
 TOI021	allora questo mi piac~ ci piaceva a noi questo::
 TOI021	questa cosa
 TOI021	e invece quando ci mandavano::
-TOR004	a::: chiavari
-TOI021	mh
+TOI021	a::: chiavari
+TOR004	mh
 TOI021	in provincia di::: genova
 TOI021	ecco no.
 TOI021	non mi piaceva
 TOI021	non ci non mi piaceva per niente perché ero distante dai miei genitori
 TOI021	e mi mancavano i genito:ri
-TOR004	e:::::hm
+TOI021	e:::::hm
 TOR004	non ti trovavi con le signorine
-TOI021	((ride))
+TOR004	((ride))
 TOI021	no: ma erano brave erano brave le signorine perché
 TOI021	e le educatrici che ci guardavano le chiamavamo le signorine
 TOI021	mi ricordo di di una::
@@ -1561,10 +1561,10 @@ TOI021	di una che avevamo che ho anche una foto con questa::
 TOI021	signorina
 TOI021	che si chiamava:: verdi caterina
 TOI021	e:: me la mi ricordo nome e cognome e combinazione questa
-TOR004	questa:: signorina veniva da trento
-TOI021	ah ecco
-TOR004	e e senza:: volerlo poi ho sposato un trent[ino ec]co
-TOI021	[pensa]
+TOI021	questa:: signorina veniva da trento
+TOR004	ah ecco
+TOI021	e e senza:: volerlo poi ho sposato un trent[ino ec]co
+TOR004	[pensa]
 TOI021	eh
 TOI021	e::::h
 TOI021	eh però no:: no no non vie~
@@ -1572,11 +1572,11 @@ TOI021	anche che era bello si stava bene ci portavano in spiaggia
 TOI021	si::::
 TOI021	si facevano i bagni, ci portavano in passeggiata,
 TOI021	si cantava si era spensierati però
-TOR004	non mi piaceva [perché::]
-TOI021	[perché eri] lontano da casa?
+TOI021	non mi piaceva [perché::]
+TOR004	[perché eri] lontano da casa?
 TOI021	dai genitori
-TOR004	che i genitori noi avevamo una famiglia che ci voleva bene ci han sempre voluto bene e quindi::
-TOI021	poi vivevate [insieme coi cugini magari tutti]
+TOI021	che i genitori noi avevamo una famiglia che ci voleva bene ci han sempre voluto bene e quindi::
+TOR004	poi vivevate [insieme coi cugini magari tutti]
 TOI021	[eh (.) eh e bi~ sì]
 TOI021	tutti insieme, i natali tutti insieme, sempre le famiglie unite,
 TOI021	e::: e
@@ -1593,10 +1593,10 @@ TOI021	e:::h le mie nipoti siamo siamo a cena a casa mia
 TOI021	e preparo preparo
 TOI021	magari anche se sono impegnata magari la domenica preparo già il giorno prima,
 TOI021	proprio perché non venga mai a mancare questa unità della domenica sera
-TOR004	fare la cena insieme
+TOI021	fare la cena insieme
 TOR004	ci sono ancora dei parenti magari della:: della sicilia che poi si sono trasferiti qui:
 TOR004	che ogni tanto ti:: ti scrivono::=o ti vengono a trovare?
-TOI021	o che:
+TOR004	o che:
 TOI021	scrivere no ci però ci telefoniamo con alcuni::
 TOI021	che abitano a venaria
 TOI021	che poi son trasferiti a venaria
@@ -1605,10 +1605,10 @@ TOI021	e::::hm:
 TOI021	ci: ci frequentiamo anche lo vengono anche loro per esempio la::
 TOI021	la:: la domenica sera
 TOI021	e:: a volte si uniscono anche alla mia famiglia
-TOR004	s~ [loro] sono già molto anziani perché
-TOI021	[mh]
-TOR004	e::=il ehm::: l::~
-TOI021	il [marito]?
+TOI021	s~ [loro] sono già molto anziani perché
+TOR004	[mh]
+TOI021	e::=il ehm::: l::~
+TOR004	il [marito]?
 TOI021	[questi du]e coniugi
 TOI021	lui ha già compiuto:: ha compiuto: proprio quindi~
 TOI021	una settimana fa
@@ -1621,28 +1621,28 @@ TOI021	perché mio papà non aveva parenti
 TOI021	aveva come ho detto prima queste: questo fratello
 TOI021	che abitava ancora in sicilia che io
 TOI021	all'età di dieci anni ero andato:
-TOR004	a trovar[e co]:n mio papà
-TOI021	[mh]
+TOI021	a trovar[e co]:n mio papà
+TOR004	[mh]
 TOI021	che poi anche loro si son trasferiti a venaria
 TOI021	però questo fratello voglio dirvi l'umiltà
 TOI021	già che si aveva una volta
 TOI021	questo fratello di mio papà
-TOR004	era un fratello:: adottivo
-TOI021	ah
+TOI021	era un fratello:: adottivo
+TOR004	ah
 TOI021	ecco e noi noi figli:
 TOI021	e::::hm
 TOI021	non non lo sapevamo l'abbiamo scoperto
 TOI021	quando eravamo già grandi
-TOR004	[che eran]o fratelli adottivi perché
-TOI021	[eh]
+TOI021	[che eran]o fratelli adottivi perché
+TOR004	[eh]
 TOI021	talmente era l'amore che (.) ci univa a tutti
-TOR004	che i miei genitori non ce l' avevano mai detto
-TOI021	mh
-TOR004	noi l'abbiamo saputo da adulti [che::]
-TOI021	[quindi si vol]evano [così bene che non:]
+TOI021	che i miei genitori non ce l' avevano mai detto
+TOR004	mh
+TOI021	noi l'abbiamo saputo da adulti [che::]
+TOR004	[quindi si vol]evano [così bene che non:]
 TOI021	[s:::ì sì] sì ecco
-TOR004	non non era il caso di dire che era un fratello adottivo
-TOI021	eh
+TOI021	non non era il caso di dire che era un fratello adottivo
+TOR004	eh
 TOI021	ecco
 TOI021	eh
 TOI021	e:: e con questa cugini con questa cugina con questa figlia
@@ -1660,57 +1660,57 @@ TOI021	e::::h
 TOI021	il loro contributo anche nel senso di dire guarda non vengo a mani vuote
 TOI021	ma non preparare questa cosa perché
 TOI021	magari
-TOR004	faccio una bella pasta al forno questa sera la porto io [no]?
-TOI021	[m:h]
-TOR004	si condivi[de così]
-TOI021	[ogni tanto] fanno anche magari dolci sici[lia:ni]
+TOI021	faccio una bella pasta al forno questa sera la porto io [no]?
+TOR004	[m:h]
+TOI021	si condivi[de così]
+TOR004	[ogni tanto] fanno anche magari dolci sici[lia:ni]
 TOI021	[ecco] ecco quindi
 TOI021	eh l:ui questo mio cugino ha un fratello che è ancora in sicilia ogni tanto ne manda:
 TOI021	dei pacchi (.) dalla sicilia con dei biscotto, dolci,
 TOI021	perché l'usanza è que:lla
 TOI021	e loro la condividono anche con no:i
-TOR004	°ecco°
-TOI021	e tipo al: per natale fanno sempre i dolci maga[ri]
+TOI021	°ecco°
+TOR004	e tipo al: per natale fanno sempre i dolci maga[ri]
 TOI021	[sì] fanno i cannoli siciliani proprio lui perché lui
 TOI021	è proprio il tipico siciliano
-TOR004	comunque anche che: da tanti anni che anche lui è qui in piemonte
-TOI021	((ride))
+TOI021	comunque anche che: da tanti anni che anche lui è qui in piemonte
+TOR004	((ride))
 TOI021	e:::h però::
 TOI021	insomma le tradizioni non le hanno mai pe:rse
-TOR004	e anche parlare parlano quasi sempre il dialetto quindi::
+TOI021	e anche parlare parlano quasi sempre il dialetto quindi::
 TOR004	sì nonostante comunque leggano si
 TOR004	si tengono informati a loro piace parlare il dialetto
-TOI021	#cos'era che è successo un po' di tempo fa che ha chiesto cos'era un marruggiu
-TOR004	eh
-TOI021	((ride)) e nessuno lo sapeva
-TOR004	eh eh eh
-TOI021	eh sì un siciliano anche antico comunque non [è proprio]:
+TOR004	#cos'era che è successo un po' di tempo fa che ha chiesto cos'era un marruggiu
+TOI021	eh
+TOR004	((ride)) e nessuno lo sapeva
+TOI021	eh eh eh
+TOR004	eh sì un siciliano anche antico comunque non [è proprio]:
 TOI021	[eh]
 TOI021	sì appunto
 TOI021	sì infatti mia mamma parlava il siciliano poi come ho detto prima così
 TOI021	però un siciliano che
 TOI021	n::on
-TOR004	che non non si capiva che si faceva capire comunque
-TOI021	sì
+TOI021	che non non si capiva che si faceva capire comunque
+TOR004	sì
 TOI021	perché caltanissetta era già una cittadina non è come nei paesi
-TOR004	[e:::h]
-TOI021	[sì sì]
+TOI021	[e:::h]
+TOR004	[sì sì]
 TOI021	che si parla magari
-TOR004	patois e non capisci a volte quello che dicono
-TOI021	sì [fanno tutto] un miscuglio insomma
+TOI021	patois e non capisci a volte quello che dicono
+TOR004	sì [fanno tutto] un miscuglio insomma
 TOI021	[ecco]
 TOI021	eh e:::
-TOR004	niente
-TOI021	va [bene]
-TOR004	[ah] prima mi hai chiesto anche cosa:: faccio il mio tempo libero
-TOI021	mh
-TOR004	tempo libe[ro]
-TOI021	[ti] piace fare i lavori da uomo bisogna dire ((ride))
-TOR004	s:ì
-TOI021	((ride))
+TOI021	niente
+TOR004	va [bene]
+TOI021	[ah] prima mi hai chiesto anche cosa:: faccio il mio tempo libero
+TOR004	mh
+TOI021	tempo libe[ro]
+TOR004	[ti] piace fare i lavori da uomo bisogna dire ((ride))
+TOI021	s:ì
+TOR004	((ride))
 TOI021	sì sì
-TOR004	ecco ma[gari]
-TOI021	[taglia]re i ra::mi,
+TOI021	ecco ma[gari]
+TOR004	[taglia]re i ra::mi,
 TOI021	abbiamo qui abbiamo un giardino
 TOI021	quindi non avendo uomini in casa bisogna
 TOI021	tagliare l'erba,
@@ -1718,11 +1718,11 @@ TOI021	e lo faccio io
 TOI021	bisogna: tagliare certi ra:mi,
 TOI021	lo faccio io
 TOI021	e:::mh
-TOR004	e poi magari
-TOI021	pulire la calda[ia e lo fa]i tu
+TOI021	e poi magari
+TOR004	pulire la calda[ia e lo fa]i tu
 TOI021	[e:h]
-TOR004	ecco
-TOI021	((ride))
+TOI021	ecco
+TOR004	((ride))
 TOI021	e:::h
 TOI021	xx
 TOI021	per per per:: (.) per via::
@@ -1730,14 +1730,14 @@ TOI021	di forza di volontà e per
 TOI021	perché lo devo fare comunque ma poi comunque certi lavoretti mi piace anche farli
 TOI021	mi è sempre piaciuto farli infatti io
 TOI021	ho sempre detto peccato che non abbia mai fatto una scuola da
-TOR004	da muratore perché mi sarebbe anche piaciuto fare il muratore
-TOI021	ecco vedi
+TOI021	da muratore perché mi sarebbe anche piaciuto fare il muratore
+TOR004	ecco vedi
 TOI021	perché almeno qualche lavoretto
 TOI021	avrei potuto farmelo io perché
 TOI021	a volte mi: prodigo a fare magari dei rattoppi
 TOI021	per le cose ma sono solo dei rattoppi
-TOR004	se invece::
-TOI021	eh sì se invece avessi magari le conoscenze [dici]
+TOI021	se invece::
+TOR004	eh sì se invece avessi magari le conoscenze [dici]
 TOI021	[ecco]
 TOI021	avrei fatto di più
 TOI021	poi magari mi piace lavorare fare dei lavoretti manua:li, così
@@ -1749,13 +1749,13 @@ TOI021	la famiglia: che avevamo creato con mio marito
 TOI021	e:mh mi son dedicata alle mie figlie, ai miei nipoti
 TOI021	e anche a dio devo dire che:: una buona parte di me
 TOI021	e:::h
-TOR004	la dedico alla fede ecco perché::
-TOI021	sì
+TOI021	la dedico alla fede ecco perché::
+TOR004	sì
 TOI021	ho capito che::
 TOI021	che dio è quello che ama, quello che accoglie, quello che salva,
 TOI021	quello che perdona e quindi::
-TOR004	io:: faccio un cammino di fede
-TOI021	e ti sei trovata anche::
+TOI021	io:: faccio un cammino di fede
+TOR004	e ti sei trovata anche::
 TOI021	ecco vado in una comunità
 TOI021	e::h e quindi come dicevo prima
 TOI021	perché voglio proprio che le mie tradizioni,
@@ -1765,38 +1765,38 @@ TOI021	e:: quando:: quando so che devo andare
 TOI021	che va:do e vado sempre ben volentieri
 TOI021	e::: io preparo q~ la cena
 TOI021	per::r per i miei la preparo già il sabato pomeriggio
-TOR004	ecco tutto il pomeriggio lo dedico per [preparare]
-TOI021	[a cucinare]
+TOI021	ecco tutto il pomeriggio lo dedico per [preparare]
+TOR004	[a cucinare]
 TOI021	a cucinare perché eh non voglio che di::
 TOI021	e:h non voglio che perché io ho ho::
 TOI021	non voglio imporre la mia fede a nessuno innanzitutto ma poi
-TOR004	non voglio:: eh che: i miei dicono ecco lei perché
-TOI021	se ne va in giro
-TOR004	ecco e:::h non po~ eh
-TOI021	((ride))
+TOI021	non voglio:: eh che: i miei dicono ecco lei perché
+TOR004	se ne va in giro
+TOI021	ecco e:::h non po~ eh
+TOR004	((ride))
 TOI021	e non voglio:::=mh
-TOR004	che fa~ le manca niente ecco non le manchi questa cosa
-TOI021	senti ma tu [con la co]munità hai fatto anche un viaggio: a roma
+TOI021	che fa~ le manca niente ecco non le manchi questa cosa
+TOR004	senti ma tu [con la co]munità hai fatto anche un viaggio: a roma
 TOI021	[eh]
-TOR004	°sì° roma medjugorje anche
+TOI021	°sì° roma medjugorje anche
 TOR004	eh ma a roma c'è stato un episodio particolare
 TOR004	sei andata a vedere?
-TOI021	il papa?
+TOR004	il papa?
 TOI021	certo sono andata a vedere il papa sono andata più di una volta a roma
-TOR004	a [vedere il papa]
-TOI021	[però tu non am]i tanto il caldo non ti piacciono i posti caldi
-TOR004	eh
-TOI021	e quindi che cosa è successo?
+TOI021	a [vedere il papa]
+TOR004	[però tu non am]i tanto il caldo non ti piacciono i posti caldi
+TOI021	eh
+TOR004	e quindi che cosa è successo?
 TOI021	vabbè la prima:: quando siamo andati a p~ a pentecoste
 TOI021	siamo andati::
 TOI021	per la fiesta grande di:: di pentecoste
 TOI021	siamo andati: a
 TOI021	a:: circo massimo
 TOI021	che c'erano (.) p~ più di cinquantamila persone
-TOR004	e:::
-TOI021	sì ce n'erano tante c'erano
-TOR004	eh
-TOI021	insomma non erano quattro gat[ti]
+TOI021	e:::
+TOR004	sì ce n'erano tante c'erano
+TOI021	eh
+TOR004	insomma non erano quattro gat[ti]
 TOI021	[eh] eh e::
 TOI021	e io veramente perché:::
 TOI021	dico e::h
@@ -1806,30 +1806,30 @@ TOI021	e: ho fatto questo atto di fede sono andata
 TOI021	perché:::=mh
 TOI021	avevo piacere di fare questo viaggio ma se ascoltavo
 TOI021	io che non amo com~
-TOR004	mi hai detto il caldo e non sto in piedi veramente
-TOI021	non ci saresti a[ndata]
+TOI021	mi hai detto il caldo e non sto in piedi veramente
+TOR004	non ci saresti a[ndata]
 TOI021	[non s]arei andata però ho trovato
 TOI021	insomma delle persone, delle amiche, delle sorelle
 TOI021	che noi ci chiamiamo sorelle in cristo
 TOI021	e fratelli in cristo ecco in gesù
 TOI021	e:::mh che: comunque mi hanno supportata
-TOR004	°mi hanno supportata?°
-TOI021	sì
+TOI021	°mi hanno supportata?°
+TOR004	sì
 TOI021	eh (.) mi hanno::
-TOR004	aiuta[ta]
-TOI021	[ti] hanno sostenuta
+TOI021	aiuta[ta]
+TOR004	[ti] hanno sostenuta
 TOI021	sì mi hanno sostenu::ta
 TOI021	c'è stato un momento di smarrime:nto eh
 TOI021	e:: e io volevo andare anche in giro da sola non mi hanno lasciata
-TOR004	anzi volevano portarmi a misurare la pressione insomma si son presi cura di me
-TOI021	quindi è stato un bel viaggio [comunque]
+TOI021	anzi volevano portarmi a misurare la pressione insomma si son presi cura di me
+TOR004	quindi è stato un bel viaggio [comunque]
 TOI021	[s:ì]
 TOI021	certo una bellissima esperienza
 TOI021	e:: poi insomma viaggiare in
-TOR004	pullma con delle persone che ti capiscono che si parla delle stesse co:se
-TOI021	sicuramente non è come fare ventiquattro di treno per andare [in si]cilia
-TOR004	[no:]
-TOI021	[ecco]
+TOI021	pullma con delle persone che ti capiscono che si parla delle stesse co:se
+TOR004	sicuramente non è come fare ventiquattro di treno per andare [in si]cilia
+TOI021	[no:]
+TOR004	[ecco]
 TOI021	[no] no no
 TOI021	e anche quando son anda:~ abbiamo fatto::
 TOI021	e p:oi la cosa bella quando siamo andati::
@@ -1838,16 +1838,16 @@ TOI021	e:::h che siamo andati dal papa prima siamo andati a visitare anche::
 TOI021	e:::m:h
 TOI021	adesso in questo momento non mi ricordo come si chiama comunque
 TOI021	l~ la chiesa dov'è stato::
-TOR004	eh giustiziato:: paolo
-TOI021	mh
+TOI021	eh giustiziato:: paolo
+TOR004	mh
 TOI021	ecco
-TOR004	e::h [e x]
-TOI021	[l'apo]stolo quindi?
+TOI021	e::h [e x]
+TOR004	[l'apo]stolo quindi?
 TOI021	sì l'apostolo paolo
-TOR004	che gli hanno:: (.) tagliato l[a::]
-TOI021	[la] testa?
-TOR004	la testa le tre fontane
-TOI021	mh mh
+TOI021	che gli hanno:: (.) tagliato l[a::]
+TOR004	[la] testa?
+TOI021	la testa le tre fontane
+TOR004	mh mh
 TOI021	eh
 TOI021	adesso non mi ricordo bene come si chiama ecco
 TOI021	e lì::
@@ -1855,102 +1855,102 @@ TOI021	siamo andati a visitare questo posto
 TOI021	di culto, di fede e::: e:::mh
 TOI021	e ci sono proprio i::: i punti
 TOI021	dove: eh dove la testa di san paolo
-TOR004	è saltata per tre volte
-TOI021	mh
+TOI021	è saltata per tre volte
+TOR004	mh
 TOI021	ecco
-TOR004	e::h [è stata]
-TOI021	[ma quindi] c'è una: una: leggenda [una:]
+TOI021	e::h [è stata]
+TOR004	[ma quindi] c'è una: una: leggenda [una:]
 TOI021	[s::~ no]
 TOI021	una leggenda una cosa vera è successa al nostro apostolo:
-TOR004	nostro apostolo paolo?
-TOI021	eh
+TOI021	nostro apostolo paolo?
+TOR004	eh
 TOI021	pietro e paolo
 TOI021	e:::hm
 TOI021	e comunque è stata una bellissima esperienza
 TOI021	e poi siamo andati a:: castel gandolfo
-TOR004	alla domenica
-TOI021	ah
+TOI021	alla domenica
+TOR004	ah
 TOI021	a::: xx a::l
-TOR004	alla celebrazione [della messa del] papa la prima volta che sono andata
-TOI021	[del papa sì]
-TOR004	questa
-TOI021	ah
+TOI021	alla celebrazione [della messa del] papa la prima volta che sono andata
+TOR004	[del papa sì]
+TOI021	questa
+TOR004	ah
 TOI021	ecco
-TOR004	mh
-TOI021	va bene
-TOR004	eh
+TOI021	mh
+TOR004	va bene
+TOI021	eh
 TOR004	allora io ho finito con le domande ma se tu mi vuoi raccontare qualche cosa che:
 TOR004	che vuoi di:rmi
 TOR004	c'è qualche cosa che vuoi dirmi?
-TOI021	che magari ti sei dimenticata di di dirmi che:
-TOR004	°mi sono dimenticata di nuovo°
-TOI021	a:h ti sei dimenticata di nuovo
-TOR004	mi era venuto in mente qualche cosa me la son dimentic[ata]
+TOR004	che magari ti sei dimenticata di di dirmi che:
+TOI021	°mi sono dimenticata di nuovo°
+TOR004	a:h ti sei dimenticata di nuovo
+TOI021	mi era venuto in mente qualche cosa me la son dimentic[ata]
 TOR004	[ma che] riguarda la tua famiglia, che riguarda le cose che hai fatto
-TOI021	il tuo lavo::ro
+TOR004	il tuo lavo::ro
 TOI021	e:h lavoro lavoro::
 TOI021	il mercato queste cose qua:
 TOI021	eh da ragazzina avevo lavorato:
 TOI021	e::h
 TOI021	perché mi ero un po' ribellata:: che non volevo più fare tanto:
 TOI021	e:::mh
-TOR004	la baby sitter di mia sorella ma volevo (.) [rea]lizzarmi, così
-TOI021	[eh]
+TOI021	la baby sitter di mia sorella ma volevo (.) [rea]lizzarmi, così
+TOR004	[eh]
 TOI021	e: non volevo nemmeno andare: al mercato con i miei
-TOR004	perché: arriva quel m:omento magari che ti ribelli un pochino
-TOI021	vabbè eri giovane [insomma]
+TOI021	perché: arriva quel m:omento magari che ti ribelli un pochino
+TOR004	vabbè eri giovane [insomma]
 TOI021	[ecco]
 TOI021	e::: una mia amica lavorava in un'officina meccanica
-TOR004	e:: sono [anda~]
-TOI021	[e sei andata] a far la meccan[ica]?
-TOR004	[s::]ì
-TOI021	((ride)) ma davvero?
+TOI021	e:: sono [anda~]
+TOR004	[e sei andata] a far la meccan[ica]?
+TOI021	[s::]ì
+TOR004	((ride)) ma davvero?
 TOI021	eh
 TOI021	s:ì quella: così si chiamava:: qu~ quell
-TOR004	dove t'ho detto che c'era an[che:]
-TOI021	[a:]:h ma nella ah ho capito dove [alla c]romatura
+TOI021	dove t'ho detto che c'era an[che:]
+TOR004	[a:]:h ma nella ah ho capito dove [alla c]romatura
 TOI021	[eh]
 TOI021	alla cromatura ecco
-TOR004	che era un'officina mecca[nica comunque]
-TOI021	[no:: pensavo che] facessi [il meccani]co
+TOI021	che era un'officina mecca[nica comunque]
+TOR004	[no:: pensavo che] facessi [il meccani]co
 TOI021	[no::]
-TOR004	no:
-TOI021	infatti no:~
+TOI021	no:
+TOR004	infatti no:~
 TOI021	no quello è tuo nonno
-TOR004	e:::
-TOI021	però non ti era piaciuto tanto diciamo
+TOI021	e:::
+TOR004	però non ti era piaciuto tanto diciamo
 TOI021	no: no:
 TOI021	e:::h
 TOI021	diciamo che lì magari avevo incontrato il primo amoretto,
 TOI021	ero andata fuori di ca:sa e quindi
 TOI021	ho fatto delle conoscenze fuori del pae:se
-TOR004	dove mi vergognavo di più: (.) [e]cco e:::h
-TOI021	[ah]
+TOI021	dove mi vergognavo di più: (.) [e]cco e:::h
+TOR004	[ah]
 TOI021	così
-TOR004	e:::h
-TOI021	però eri piccola quanti anni avevi
+TOI021	e:::h
+TOR004	però eri piccola quanti anni avevi
 TOI021	eh beh una volta:
-TOR004	a quindici anni potevi già andare a lavorare ti facevano già i libretti di lavo:[ro]
-TOI021	[ah] addirittura?
+TOI021	a quindici anni potevi già andare a lavorare ti facevano già i libretti di lavo:[ro]
+TOR004	[ah] addirittura?
 TOI021	sì
-TOR004	[eh]
-TOI021	[ah]
-TOR004	e quind[i::]
+TOI021	[eh]
+TOR004	[ah]
+TOI021	e quind[i::]
 TOR004	[sì però]
-TOI021	sì [compara]ndo i termini: [>cioè< alle cose di adesso comunque eri giovane]
+TOR004	sì [compara]ndo i termini: [>cioè< alle cose di adesso comunque eri giovane]
 TOI021	[eh]
 TOI021	[eh eh eh però io quello che fa]cevo lo facevo benissimo
 TOI021	tanto che poi
 TOI021	i miei andavano a lavorare: (.) a a fare:
 TOI021	a comprare le robiole d'alba
 TOI021	e:::mh
-TOR004	a ve~ a:: a to~ a torino
-TOI021	ah
+TOI021	a ve~ a:: a to~ a torino
+TOR004	ah
 TOI021	e:::mh nel
-TOR004	nella: dove c'era la parte dell'ingrosso
-TOI021	il mercato di porta palazzo?
-TOR004	e:h no è il mercato coperto [dove c'è l'orologio]
-TOI021	[ah sì sì sì]
+TOI021	nella: dove c'era la parte dell'ingrosso
+TOR004	il mercato di porta palazzo?
+TOI021	e:h no è il mercato coperto [dove c'è l'orologio]
+TOR004	[ah sì sì sì]
 TOI021	ecco lì
 TOI021	e:: e lì cercavano una commessa
 TOI021	per:::
@@ -1963,50 +1963,50 @@ TOI021	e sono andata
 TOI021	però poi:: ehm mi piaceva anche comunque
 TOI021	perché:::
 TOI021	avevano questi due: banchetti:
-TOR004	e::h li chiamavano banchi ma erano negozi [perché:: s~]
-TOI021	[sì i negozie]tti
+TOI021	e::h li chiamavano banchi ma erano negozi [perché:: s~]
+TOR004	[sì i negozie]tti
 TOI021	ecco dentro
 TOI021	in uno c'era: il marito
 TOI021	con:: l'amica diciamo l'amica me lo ricordo sempre che
-TOR004	questa era l'amica::
-TOI021	l'amante quindi
+TOI021	questa era l'amica::
+TOR004	l'amante quindi
 TOI021	ecco
-TOR004	[eh e poi]
-TOI021	[quasi eh]
+TOI021	[eh e poi]
+TOR004	[quasi eh]
 TOI021	nell'altro dov'ero più io c'era la signora la moglie
 TOI021	che era una:: veramente una bravissima: persona
 TOI021	che mi voleva: un bene immenso perché poi io ero una ragazzina
-TOR004	loro non avevano figli [quindi]
-TOI021	[eh certo qui]ndi ti avevano un po' adottata
+TOI021	loro non avevano figli [quindi]
+TOR004	[eh certo qui]ndi ti avevano un po' adottata
 TOI021	ecco mi no l:ei lei ecco
 TOI021	e:: quindi mi voleva:: era una persona per molto per bene
-TOR004	ecco però poi i miei han preso il negozio e quindi io sono andata [a lavorare al nego]zio
-TOI021	[a lavorare al p~]
+TOI021	ecco però poi i miei han preso il negozio e quindi io sono andata [a lavorare al nego]zio
+TOR004	[a lavorare al p~]
 TOI021	eh (.) ma:
 TOI021	una cosa che magari potrei raccontarti
 TOI021	e:::h
 TOI021	quando::
 TOI021	e::h
 TOI021	quando:: mio papà quando noi eravamo piccole
-TOR004	mio papà ci raccontava sempre una storia ce lo faceva vivere come una storia
-TOI021	ah
+TOI021	mio papà ci raccontava sempre una storia ce lo faceva vivere come una storia
+TOR004	ah
 TOI021	a me e le mie sorelle
 TOI021	eh allora eravamo sempre in tre fino nel sessantuno ma
 TOI021	queste cose capitavano prima
 TOI021	e::h mio papà ci raccontava la sua storia no
-TOR004	ci raccontava la sua storia la storia dei suoi genitori
-TOI021	ah
+TOI021	ci raccontava la sua storia la storia dei suoi genitori
+TOR004	ah
 TOI021	ecco che la sua mamma e::h aveva sempre d~
 TOI021	rimaneva incinta, aveva dei figli,
 TOI021	nascevano, e poi sti bambini
 TOI021	o morivano mentre li aspettava o morivano::
 TOI021	quando::
-TOR004	quando avevano due anni magari
-TOI021	mh
+TOI021	quando avevano due anni magari
+TOR004	mh
 TOI021	ecco
 TOI021	e:: e poi eh succede che:
-TOR004	°xxx°
-TOI021	sì sì vai vai
+TOI021	°xxx°
+TOR004	sì sì vai vai
 TOI021	succede che::
 TOI021	e:::h
 TOI021	nasce il mio papà
@@ -2016,17 +2016,17 @@ TOI021	eh no
 TOI021	no (.) aspetta torno un attimo indietro
 TOI021	allora i miei nonni hanno deciso dice basta
 TOI021	m:::h
-TOR004	è inutile [cercare di avere un figlio]
-TOI021	[che ci proviamo]
+TOI021	è inutile [cercare di avere un figlio]
+TOR004	[che ci proviamo]
 TOI021	che tanto no:n non ci vivono farli morire ci dispiaceva anche
 TOI021	e hanno adottato questo: che poi noi sappiamo questo:
-TOR004	questo [fratello]
-TOI021	[fratello] adottivo di cui parlavamo prima
+TOI021	questo [fratello]
+TOR004	[fratello] adottivo di cui parlavamo prima
 TOI021	ecco
 TOI021	questo fratello
 TOI021	eh dopo che hanno adottato questo fratello nasce il mio papà
-TOR004	e mio papà vive
-TOI021	mh
+TOI021	e mio papà vive
+TOR004	mh
 TOI021	mia ma~ mia nonna lo teneva come un pregio questo figlio
 TOI021	tanto che le cantava sempre
 TOI021	e::h in:: dialetto mio papà diceva che mio mia nonna le cantava
@@ -2035,53 +2035,53 @@ TOI021	tiepida
 TOI021	cucito col filo doppio pinuzzo mio di zucchero
 TOI021	che voleva dire che e::hm
 TOI021	lei questo figlio l'aveva fatto con tanto amore
-TOR004	l'aveva impastato co:n acqua [e zucchero]
-TOI021	[e zucchero]
+TOI021	l'aveva impastato co:n acqua [e zucchero]
+TOR004	[e zucchero]
 TOI021	e l'aveva cucito piano piano col filo doppio perché:
 TOI021	non si fa no:::~
 TOI021	non non si sgualcisse no?
-TOR004	[per chiuderlo:] (.) eh ben coperto ecco
-TOI021	[sì lo tenesse:]
+TOI021	[per chiuderlo:] (.) eh ben coperto ecco
+TOR004	[sì lo tenesse:]
 TOI021	le cantava sempre questa::
 TOI021	questa canzoncina qua
 TOI021	e mio papà poi parte:
-TOR004	per a:: a diciotto anni si sposa con mia mamma a diciotto anni e mezzo
-TOI021	mh
-TOR004	e parte per militare lo chiamano militare
-TOI021	eh
+TOI021	per a:: a diciotto anni si sposa con mia mamma a diciotto anni e mezzo
+TOR004	mh
+TOI021	e parte per militare lo chiamano militare
+TOR004	eh
 TOI021	chiamano militare
 TOI021	e:: quando lui parte per militare lo portano:
 TOI021	dalla sicilia le portavano al nord
-TOR004	quindi lui ha fatto il militare a parma e a piacenza
-TOI021	ah
+TOI021	quindi lui ha fatto il militare a parma e a piacenza
+TOR004	ah
 TOI021	ecco ha fatto il (car~) da una parte e poi::
 TOI021	il militare: da una:: comunque tra parma e piacenza
 TOI021	un po' lì e un po' là
 TOI021	e::h però quando poi è fini~
-TOR004	una volta il militare si faceva per diciotto mesi
-TOI021	certo
+TOI021	una volta il militare si faceva per diciotto mesi
+TOR004	certo
 TOI021	quando:: sta per finire il militare scoppia la seconda guerra mondiale
 TOI021	e
 TOI021	e lì ci sono degli episodi comunque perché poi
 TOI021	i tedeschi invadono la città
-TOR004	e e::
-TOI021	e lo catturano prigionie[ro]
+TOI021	e e::
+TOR004	e lo catturano prigionie[ro]
 TOI021	[ec]co lo cattu~ non sto a raccontare l'episodio
 TOI021	precedentemente comunque lo catturano prigioniero lo portano
 TOI021	lo deportano in germania a (uperta)
 TOI021	e:::
-TOR004	e lo::: lo mettono nei campi: di lavoro
-TOI021	sì
+TOI021	e lo::: lo mettono nei campi: di lavoro
+TOR004	sì
 TOI021	un episodio solamente che voglio raccontare
 TOI021	che: i tede~ che mio papà raccontava sempre che::
 TOI021	adesso non sto a raccontare la storia della guerra però
 TOI021	insomma
 TOI021	e:::h
 TOI021	dice che al mattino chiamavano all'appello e guai se non parlati tedesco:
-TOR004	e rispondevi in tedesco: loro ti chiamavano in tedesco e tu dovevi [(rispettare)]
-TOI021	[anche se non lo sa]pevi
-TOR004	eh certo se no ti frustavano
-TOI021	ah bon così
+TOI021	e rispondevi in tedesco: loro ti chiamavano in tedesco e tu dovevi [(rispettare)]
+TOR004	[anche se non lo sa]pevi
+TOI021	eh certo se no ti frustavano
+TOR004	ah bon così
 TOI021	eh
 TOI021	e:: e però
 TOI021	passavano i giorni e il compagno magari perché dormivano in piedi
@@ -2089,15 +2089,15 @@ TOI021	o in un pezzo di tavola così svegliati svegliati
 TOI021	che ci chia:mano diceva mio papà:
 TOI021	o i compagni si chiamavano gli uni con gli altri perché se no:
 TOI021	te le prendevi
-TOR004	e::: e [e:]
-TOI021	[eh]
-TOR004	e: i compagni cadevano morti erano morti di freddo, erano morti di fame, perché::
-TOI021	non avevano [niente]
+TOI021	e::: e [e:]
+TOR004	[eh]
+TOI021	e: i compagni cadevano morti erano morti di freddo, erano morti di fame, perché::
+TOR004	non avevano [niente]
 TOI021	[e le le dava]no una broda:glia
 TOI021	e chi poteva andava nella spazzatura a mangiare le bucce di banane
 TOI021	ecco le davano un pezzettino di pane, un po' di brodo caldo:
-TOR004	[tutto il gior]no e poi andavano a lavorare:
-TOI021	[e fine]
+TOI021	[tutto il gior]no e poi andavano a lavorare:
+TOR004	[e fine]
 TOI021	in fa~ nelle fabbriche
 TOI021	e::::h
 TOI021	mio papà mi raccontava che: ci raccontava come una storia
@@ -2110,10 +2110,10 @@ TOI021	e:h prendendo un martello
 TOI021	perché u~ u~ u::n compagno non sapeva fare una cosa
 TOI021	questo tedesco stava: ha preso un martello voleva darglielo in testa:
 TOI021	a:::
-TOR004	al co~ a que[sto detenu]to
-TOI021	[al compagn~]
-TOR004	e e li chiamavano i detenuti [perché eh]
-TOI021	[eh quello è sì sì]
+TOI021	al co~ a que[sto detenu]to
+TOR004	[al compagn~]
+TOI021	e e li chiamavano i detenuti [perché eh]
+TOR004	[eh quello è sì sì]
 TOI021	e:::mh
 TOI021	e::h mio papà se n'è accorto è corso di corsa
 TOI021	l'ha po~ le ha spostato il braccio al tedesco
@@ -2121,33 +2121,33 @@ TOI021	e il tedesco:
 TOI021	si è arrabbiato tantissimo dice non uccido né a te neanche al tuo compagno
 TOI021	però sp~ togliti la:: casacca
 TOI021	e::h e non so non mi ricordo bene se gli han dato dodici frustate
-TOR004	nella schiena a mio papà per aver salva[to la vita]
-TOI021	[il suo compa]gno
+TOI021	nella schiena a mio papà per aver salva[to la vita]
+TOR004	[il suo compa]gno
 TOI021	a su~ al suo compagno si è preso le frustate lui nella schiena
 TOI021	infatti poi il mio papà è morto:
 TOI021	co::n
-TOR004	e::h i polmoni che aveva la cartina geografica l'hanno d~ de::~
-TOI021	gli hanno detto
+TOI021	e::h i polmoni che aveva la cartina geografica l'hanno d~ de::~
+TOR004	gli hanno detto
 TOI021	gli hanno diagnosticato
-TOR004	e:h ecco questo. poi quando è finita la guerra,
-TOI021	mh
+TOI021	e:h ecco questo. poi quando è finita la guerra,
+TOR004	mh
 TOI021	che sono arrivati gli americani a (salvarli) gli han portato da mangiare,
 TOI021	gli han portato: zucchero::,
-TOR004	[e:::h]
-TOI021	[cio]ccola[ta insomma]
+TOI021	[e:::h]
+TOR004	[cio]ccola[ta insomma]
 TOI021	[ecco]
 TOI021	intanto lui si era salvato già qualche volta da forni:
 TOI021	crematori
 TOI021	quando: poi sono arrivati
 TOI021	la facciamo un pochino più breve
-TOR004	sono arrivati:: (.) questi americani
-TOI021	eh
+TOI021	sono arrivati:: (.) questi americani
+TOR004	eh
 TOI021	e gli ha lasciato lì u~ ogni ben di dio
 TOI021	però
-TOR004	i tedeschi avevano bruciato tutto, avevano tutte le [carte]
-TOI021	[tutti i documenti]
-TOR004	[tutti i docu]me[nti], tutte le cose
-TOI021	[eh]
+TOI021	i tedeschi avevano bruciato tutto, avevano tutte le [carte]
+TOR004	[tutti i documenti]
+TOI021	[tutti i docu]me[nti], tutte le cose
+TOR004	[eh]
 TOI021	e infatti loro non capivano come mai stavano facendo questi
 TOI021	poi a loro l'han lasciati vivi lì
 TOI021	tanto che ta::nti sono riusciti a scappa:re
@@ -2156,49 +2156,49 @@ TOI021	mio papà e altre tre persone
 TOI021	in quattro
 TOI021	sono rimasti lì per
 TOI021	più di due mesi
-TOR004	calcolando poi quando son tornati in italia
-TOI021	sì
-TOR004	però:: loro dice cosa facciamo qua qui no~ [no:~ non c'era più] nessuno
-TOI021	[non c'era niente]
+TOI021	calcolando poi quando son tornati in italia
+TOR004	sì
+TOI021	però:: loro dice cosa facciamo qua qui no~ [no:~ non c'era più] nessuno
+TOR004	[non c'era niente]
 TOI021	loro avevano finito quasi i viveri
-TOR004	allora dice ma come facciamo andare via di qua perché erano in aperta campagna [dice]
-TOI021	[dovevano] tornare a casa [in qualche modo]
+TOI021	allora dice ma come facciamo andare via di qua perché erano in aperta campagna [dice]
+TOR004	[dovevano] tornare a casa [in qualche modo]
 TOI021	[come facciamo]
 TOI021	perché nessuno l'aveva caricati come l'avevano caricati prima in un carro merci
-TOR004	l'avevano portati lì
-TOI021	eh certo li avevano lasciati là
+TOI021	l'avevano portati lì
+TOR004	eh certo li avevano lasciati là
 TOI021	li han lasciati lì
 TOI021	allora cosa: le è venuto in mente
-TOR004	di camminare sulle rotaie del treno
-TOI021	ah [quindi hanno seguito] i binari
+TOI021	di camminare sulle rotaie del treno
+TOR004	ah [quindi hanno seguito] i binari
 TOI021	[perché erano]
 TOI021	hanno seguito i binari
 TOI021	cammi:na non so quanti mesi ci hanno messo
-TOR004	e sono arrivati a bolzano al confine di bolzano
-TOI021	ah
+TOI021	e sono arrivati a bolzano al confine di bolzano
+TOR004	ah
 TOI021	lì sono arrivati a bolzano e hanno detto da dove venivano
 TOI021	che erano stati là:: che e::h
 TOI021	allora ognuno
 TOI021	li hanno messi sui sui treni
-TOR004	e li hanno mandati ai paesi di origine
-TOI021	eh
+TOI021	e li hanno mandati ai paesi di origine
+TOR004	eh
 TOI021	ecco
-TOR004	adesso io non mi ricordo bene da dove venivano tutti quanti
-TOI021	no certo
+TOI021	adesso io non mi ricordo bene da dove venivano tutti quanti
+TOR004	no certo
 TOI021	però: mi ricordo benissimo::
 TOI021	che mio papà perché a me a noi interessava questa cosa
 TOI021	che aveva vissuto mio papà di persona
 TOI021	e lui
 TOI021	è arrivato al suo paese tanto che al suo paese
-TOR004	i suoi non l'aspettavano più perché la guerra era finita ormai [da più]
-TOI021	[cer]to
+TOI021	i suoi non l'aspettavano più perché la guerra era finita ormai [da più]
+TOR004	[cer]to
 TOI021	di tre me:si
 TOI021	eh e lui non arrivava
 TOI021	quindi non andavano più in stazione come facevano prima tutti i giorni
 TOI021	aspettare che arrivassero i militari
 TOI021	perché: questo non arrivava i militari erano arrivati tutti
-TOR004	questo fratello adottivo di mio papà vendeva l'olio in sicilia
-TOI021	le latte [proprio]
+TOI021	questo fratello adottivo di mio papà vendeva l'olio in sicilia
+TOR004	le latte [proprio]
 TOI021	[le la:]tte
 TOI021	per l~ per la strada
 TOI021	e::h
@@ -2211,24 +2211,24 @@ TOI021	da distante vede arrivare
 TOI021	un mili~ uno vestito da militare
 TOI021	e:: però non lo riconosce perché mio papà è partito dal dalla::
 TOI021	da da da quando è andato mi~ e::h militare
-TOR004	che era ottantaquattro chili
-TOI021	ah
-TOR004	è tornato che era quarantaquattro chili
-TOI021	sì quindi [quaranta chili in meno]
+TOI021	che era ottantaquattro chili
+TOR004	ah
+TOI021	è tornato che era quarantaquattro chili
+TOR004	sì quindi [quaranta chili in meno]
 TOI021	[quindi:: (.) qua]ranta chili in meno
 TOI021	quindi eh lui
 TOI021	mio zio non aveva riconosciuto mio papà guardava sto militare dice stra:no
 TOI021	però più ~l militare si avanzava più lui scendeva
-TOR004	si è reso conto della fisionomia che era suo fratello
-TOI021	mh
+TOI021	si è reso conto della fisionomia che era suo fratello
+TOR004	mh
 TOI021	e allora cosa succede che non ha visto più niente
 TOI021	ha lasciato andare queste latte
 TOI021	che l'olio si è sparso per tutta la discesa
-TOR004	è andato giù
-TOI021	ha perso un [carico di olio]
+TOI021	è andato giù
+TOR004	ha perso un [carico di olio]
 TOI021	[per tutto]
-TOR004	per tutta due carichi perché hanno due latte:
-TOI021	cer[to]
+TOI021	per tutta due carichi perché hanno due latte:
+TOR004	cer[to]
 TOI021	[eh]
 TOI021	e tutto l'olio per la strada
 TOI021	e lui a gridare fratello mio fratello mio fratello mio
@@ -2259,8 +2259,8 @@ TOI021	però passa del tempo mio papà dice
 TOI021	beh adesso è arrivato il momento di andare in campagna a trovare la mamma
 TOI021	salutarla
 TOI021	e:::mh
-TOR004	allora poi piangendo le raccontano che la sua mamma era morta di crepacuore
-TOI021	eh sì [perché lo as]pettava e non è mai [tornato]
+TOI021	allora poi piangendo le raccontano che la sua mamma era morta di crepacuore
+TOR004	eh sì [perché lo as]pettava e non è mai [tornato]
 TOI021	[ecco]
 TOI021	[eh e]cco
 TOI021	e allora mio papà poi: lì: il mio papà
@@ -2270,17 +2270,17 @@ TOI021	tutto il male che avevano fatto i tedeschi
 TOI021	m:a
 TOI021	perché mio papà ce lo raccontava come una storia questa cosa
 TOI021	però quando arrivava
-TOR004	a sua mamma piangeva
-TOI021	e quindi vi faceva stare molto male [insomma]
+TOI021	a sua mamma piangeva
+TOR004	e quindi vi faceva stare molto male [insomma]
 TOI021	[ecco]
 TOI021	eh e:: mio papà
 TOI021	è morto a sessantadue anni
-TOR004	e ancora ogni natale lui piangeva per sua mamma
-TOI021	ah
-TOR004	perché sua mamma gli hanno detto che era morta la vigilia di natale
-TOI021	oh mam[ma]
-TOR004	[e q]uindi lui
-TOI021	aveva questo ricordo [della:]
+TOI021	e ancora ogni natale lui piangeva per sua mamma
+TOR004	ah
+TOI021	perché sua mamma gli hanno detto che era morta la vigilia di natale
+TOR004	oh mam[ma]
+TOI021	[e q]uindi lui
+TOR004	aveva questo ricordo [della:]
 TOI021	[ecco e s]tava male stava male incominciava a star male la settimana prima
 TOI021	le veniva la febbre le veniva male dappertutto
 TOI021	e::h andava a lavorare perché xx si faceva il mercato però lui stava male
@@ -2289,10 +2289,10 @@ TOI021	ma ba:sta ogni anno così
 TOI021	ah eh piangere così per tua mamma ammalarti no?
 TOI021	perché erano passati tantissimi anni
 TOI021	però quella è stata la prima e l'ultima volta che gliel'ho detto
-TOR004	perché poi l'anno mo~ dopo lui è mancato
-TOI021	ecco
-TOR004	eh
-TOI021	ottim[o]
+TOI021	perché poi l'anno mo~ dopo lui è mancato
+TOR004	ecco
+TOI021	eh
+TOR004	ottim[o]
 TOI021	[e]cco
 TOI021	e::h e quindi questa:: questa cosa e:h
 TOI021	queste cosa da bambina che mi ricordo
@@ -2303,15 +2303,15 @@ TOI021	questi tedeschi:,
 TOI021	e tutto quanto perché dice
 TOI021	era la guerra
 TOI021	e loro si difendevano così lui li aveva perdonati
-TOR004	comunque aveva avuto l'umiltà di perdonare [queste per]sone
-TOI021	[certo]
+TOI021	comunque aveva avuto l'umiltà di perdonare [queste per]sone
+TOR004	[certo]
 TOI021	e:::hm
 TOI021	e:::h e:::h ~spetta perché
 TOI021	a volte magari dimentico
-TOR004	e::hm
-TOI021	e quindi dicevi che (.) lui aveva::
-TOR004	sì aveva avuto l'umiltà [di perdona~]
-TOI021	[di perdo]nare i tedeschi
+TOI021	e::hm
+TOR004	e quindi dicevi che (.) lui aveva::
+TOI021	sì aveva avuto l'umiltà [di perdona~]
+TOR004	[di perdo]nare i tedeschi
 TOI021	pe~ perdonare (.) le le questi tedeschi
 TOI021	però era un'altra cosa ah
 TOI021	e:::h
@@ -2319,47 +2319,47 @@ TOI021	e poi n::egli anni in cui c'era:
 TOI021	all'inizio che facevano in televisione i fatti vostri
 TOI021	che c'era magalli
 TOI021	che c'è ancora magalli in televisione
-TOR004	che ospitava delle persone che andavano e parlavano della guerra
-TOI021	mh [mh]
-TOR004	[di q]uelli d~ delle cose atroci che avevano fatto::
-TOI021	cert[o]
+TOI021	che ospitava delle persone che andavano e parlavano della guerra
+TOR004	mh [mh]
+TOI021	[di q]uelli d~ delle cose atroci che avevano fatto::
+TOR004	cert[o]
 TOI021	[i] tedes:chi
 TOI021	che avevano chi era vissuto nei campi di concentramento che avevano vissuto queste cose
 TOI021	e a tavola mio papà
 TOI021	quel giorno che è la prima volta che l'abbiamo sentita ha detto
 TOI021	ecco
-TOR004	finalmente qualcuno che ci crede
-TOI021	mh mh
+TOI021	finalmente qualcuno che ci crede
+TOR004	mh mh
 TOI021	perché noi quando siamo tornati
 TOI021	e abbiamo raccontato tutto quello che ci facevano
-TOR004	dicevano che noi eravamo
-TOI021	paz[zi]
+TOI021	dicevano che noi eravamo
+TOR004	paz[zi]
 TOI021	[la] guerra ci aveva fatto:: perdere ~l::: e::h
-TOR004	il lume::
-TOI021	della ragio[ne]
+TOI021	il lume::
+TOR004	della ragio[ne]
 TOI021	[della] ragione
 TOI021	e invece: era tutto vero perché eh e::h
 TOI021	qualcuno ha avuto il coraggio poi di
 TOI021	pubblicarli in di farlo dire in televisione
 TOI021	ecco (.) e:::h
 TOI021	mio papà si era preso una piccola rivincita che almeno no~
-TOR004	[non lo credevano:]
-TOI021	[qualcuno] eh
+TOI021	[non lo credevano:]
+TOR004	[qualcuno] eh
 TOI021	matto ecco che:
 TOI021	infatti adesso nonostante adesso
 TOI021	vanno per le scuo:le,
 TOI021	vanno da per tutto che il mio papà se era
 TOI021	se non era morto poi così giovane perché era morto a sessantadue anni
-TOR004	magari
-TOI021	avrebbe potuto [racconta~]
+TOI021	magari
+TOR004	avrebbe potuto [racconta~]
 TOI021	[avrebbe racco~] potuto raccontare come lo raccontava a noi
 TOI021	avrebbe potuto raccontarlo nelle scuole e:::h
 TOI021	eh ecco questo
 TOI021	e infatti poi quando c'era:
-TOR004	voglio ancora dire quando c'era porto bello che c'era:: enzo tortora
-TOI021	mh
-TOR004	che si vedevano le prime persone che andavano a cercare qualc[u::no]
-TOI021	[dispe]rsi e cose
+TOI021	voglio ancora dire quando c'era porto bello che c'era:: enzo tortora
+TOR004	mh
+TOI021	che si vedevano le prime persone che andavano a cercare qualc[u::no]
+TOR004	[dispe]rsi e cose
 TOI021	ecco
 TOI021	e io le dicevo sempre a mio pa~ papà guarda che se viene qualcuno che viene a cercare te:
 TOI021	qualche amico della guerra che si ricorda di te
@@ -2368,23 +2368,23 @@ TOI021	hanno preso solo te: l'altro è potuto scappare per~
 TOI021	perché tu hai avuto la bontà di farlo scappare no?
 TOI021	ecco di sacrificarti per lui anche
 TOI021	eh magari se v:iene vengono queste persone a cercarti
-TOR004	ti accompagno io [andia~ vengo] anch'io a portarti::
+TOI021	ti accompagno io [andia~ vengo] anch'io a portarti::
 TOR004	[ecco]
-TOI021	((ride))
+TOR004	((ride))
 TOI021	ecco eh
-TOR004	eh
-TOI021	va be[ne]
-TOR004	[ba]sta
-TOI021	grazie,
-TOR004	eh
+TOI021	eh
+TOR004	va be[ne]
+TOI021	[ba]sta
+TOR004	grazie,
+TOI021	eh
 TOR004	e::h grazie per avermi raccontato queste cose,
 TOR004	e:::
 TOR004	niente
-TOI021	((ride))
+TOR004	((ride))
 TOI021	ci sarebbero tante altre cose però
 TOI021	e:::h eh
-TOR004	maga[ri]
-TOI021	[vab]bè magari ce le studiamo per la pross[ima]
-TOR004	[e:]cco
-TOI021	gra°zie°
+TOI021	maga[ri]
+TOR004	[vab]bè magari ce le studiamo per la pross[ima]
+TOI021	[e:]cco
+TOR004	gra°zie°
 TOI021	°[eh] (.) prego°

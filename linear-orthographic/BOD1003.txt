@@ -369,24 +369,24 @@ BO092	ma se riferiamo tutto a una singola campana
 BO092	dopo possiamo utilizzare la singola campana per analizzare qualsiasi tipo di dati
 BO092	e quindi ci basta una tabella e con la tabella vediam tutta la realtà del mondo
 BO092	fate girar la tabella
-???	si
-BO092	nella funzione finale e z~ eh meno zeta
-???	meno zeta quadro mezzi
-BO092	grazie x
+BO092	si
+???	nella funzione finale e z~ eh meno zeta
+BO092	meno zeta quadro mezzi
+???	grazie x
 BO092	zeta quadro marinari è un mezzo perché
 BO092	fate girare
 BO092	allora il ragionamento prendetene ognuno ne deve averne una se non ce l'ha
 BO092	se xxxx
 BO092	finite
-???	voi siete senza
+BO092	voi siete senza
 ???	sì
 ???	no no x due copie lì o no
 ???	perfetto
-BO092	ci sono ci sono
-???	c'è
+???	ci sono ci sono
+BO092	c'è
 ???	ne manca una da sopra
 ???	ne manca una
-BO092	ne manca una x
+???	ne manca una x
 BO092	allora il ragionamento è questo
 BO092	noi partiamo da un campione
 BO092	partiamo da un campione misurato
@@ -454,15 +454,15 @@ BO092	non è nient'altro che zero cinque in verticale e zero quattro qua e quind
 BO092	di avere un valore compreso tra zero e
 BO092	zeta uguale zero cinquantaquattro è zero punto due zero cinque quattro capito
 BO092	qual è l'area compresa tra zero e zero settantatré
-???	niente
-BO092	è zero virgola due sei sette tre
+BO092	niente
+???	è zero virgola due sei sette tre
 BO092	sissignore
-???	tra zero e zeta uguale a uno e novantasette
-BO092	zero virgola quattro sette cinque sei
+BO092	tra zero e zeta uguale a uno e novantasette
+???	zero virgola quattro sette cinque sei
 BO092	sissignore
 BO092	tra zeta uguale zero e zeta uguale tre punto
-???	eh tre punto zero sei
-BO092	è zero x
+BO092	eh tre punto zero sei
+???	è zero x
 BO092	zero quarantanove ottantanove sissignore
 BO092	quando siete arrivati a tre punto zero nove vedete che la tabella si ferma perché si ferma
 BO092	si ferma semplicemente perchèsiamo arrivati a zero quattro nove nove cioè manca un millessimo a arrivare a zero cinque
@@ -476,24 +476,24 @@ BO092	quindi
 BO092	eh ci fermiamo e poi vi faccio fare un esercizio okay
 BO092	intanto guardate la tabella se vediamo ci prendiamo un quarto d'ora x
 BO092	avete problemi domande
-???	ha già registrato tutto
-BO092	eh sì
-???	questo è un bel registratore dopo me lo regala
-BO092	eh no non posso purtroppo
+BO092	ha già registrato tutto
+???	eh sì
+BO092	questo è un bel registratore dopo me lo regala
+???	eh no non posso purtroppo
 BO092	peccato perché questo è molto bello
 BO092	va bene ci vediamo tra un po'
-???	x subito vi firmo subito
-BO092	ah se non è un problema
+BO092	x subito vi firmo subito
+???	ah se non è un problema
 BO092	se vuole
 BO092	mi dà una penna che non ce l'ho
-???	il luogo in cui ha frequentato le superiori e che c'entra questo scusa
-BO092	eh serve x
+BO092	il luogo in cui ha frequentato le superiori e che c'entra questo scusa
+???	eh serve x
 BO092	data
 BO092	quanti ne abbiamo oggi
 BO092	nome
 BO092	cosa vuol dire codice di x
-???	ah va bene okay okay
-BO092	è è rintracciabile
+BO092	ah va bene okay okay
+???	è è rintracciabile
 BO092	certamente
 BO092	allora
 BO092	m avete problemi su questo
@@ -502,8 +502,8 @@ BO092	dunque a partir dalla tabella bisogna mh dobbiamo imparare a usar la tabel
 BO092	no no non ho bisogno di questo facciamo a memoria
 BO092	se mai dopo vediamo quelli più
 BO092	se se io vi chiedo qual è l'area compresa tra mh meno sigma e più sigma
-???	quant'è
-BO092	uno
+BO092	quant'è
+???	uno
 BO092	no
 BO092	uno è sbagliato
 BO092	uno perché se fosse uno vorrebbe dire che io siccome quell'area è una probabilità è la probabilità di avere
@@ -514,8 +514,8 @@ BO092	questo purtroppo è la cosa che dice io ho considerato l'errore trovo tutt
 BO092	sbagliato
 BO092	guardate un po' quanto viene fate un conticino su
 BO092	basta leggerla non è
-???	la tabella devi guardare eh bisogna guardar la tabella vien fuori dalla tabella quella domanda la risposta alla domanda che avevo fatto x
-BO092	zero novecentonovantotto
+BO092	la tabella devi guardare eh bisogna guardar la tabella vien fuori dalla tabella quella domanda la risposta alla domanda che avevo fatto x
+???	zero novecentonovantotto
 BO092	sbagliato
 BO092	non tirate a indovinare ragionate su cosa c'è scritto nella tabella
 BO092	quella tabella c'è scritto zeta
@@ -529,10 +529,10 @@ BO092	zero e tre
 BO092	ma tra x deviazione standard quindi
 BO092	quindi la colonna che dovete guardare e la casella che dovete guardare è una sola
 BO092	ditemi
-???	quant'è il numero
+BO092	quant'è il numero
 ???	zero sette quattro
 ???	due
-BO092	due
+???	due
 BO092	allora
 BO092	no è sbagliata anche questa
 BO092	noi stiam cercando i dati compresi tra zeta
@@ -544,8 +544,8 @@ BO092	zeta minore di uno
 BO092	guardate soltanto la parte destra
 BO092	zeta minore di uno che probabilità ho
 BO092	che zeta sia minore di uno
-???	è l'area compresa tra zero e
-BO092	zero e novantanove
+BO092	è l'area compresa tra zero e
+???	zero e novantanove
 BO092	no
 BO092	allora
 BO092	l'area
@@ -557,8 +557,8 @@ BO092	cioé dal punto di vista grafico
 BO092	è questo
 BO092	qui c'ho uno qui c'ho zero
 BO092	quant'è
-???	tra zero e uno
-BO092	zero trentaquattro tredici
+BO092	tra zero e uno
+???	zero trentaquattro tredici
 BO092	zero trentaquattro tredici x in tabella no
 BO092	cioé l'area vedete che è colorata in azzurro apposta
 BO092	l'area compresa tra zero e uno
@@ -568,8 +568,8 @@ BO092	devo andare a vedere qual è l'area compresa tra zero
 BO092	e il valore che sto prendendo come sigma che è uno
 BO092	okay
 BO092	mh
-???	questo però mi fa vedere la parte destra la parte sinistra
-BO092	è uguale
+BO092	questo però mi fa vedere la parte destra la parte sinistra
+???	è uguale
 BO092	sissignori quindi è il doppio di quello
 BO092	è sessantotto e ves~ sessantotto diciam sessantotto
 BO092	cioé tra
@@ -589,8 +589,8 @@ BO092	e tra il eh meno due sigma e più due sigma
 BO092	questo
 BO092	quant'è
 BO092	dite
-???	zero
-BO092	quattro sette sette due
+BO092	zero
+???	quattro sette sette due
 BO092	quattro sette sette due moltiplicato due
 BO092	quindi diventa nove cinque e qualcosa cioè praticamente quello che succede è che
 BO092	tra quel valore meno i due sigma e quel la media più quel i due sigma
@@ -611,8 +611,8 @@ BO092	tre sigma quant'è invece
 BO092	tra meno tre sigma e più tre sigma
 BO092	mh pochino di più
 BO092	quanto fa
-???	quant'è
-BO092	novantanove e settantaquattro
+BO092	quant'è
+???	novantanove e settantaquattro
 BO092	esattamente allora se noi andiamo a prendere il meno tre e il più tre vuol dire andare a prendere quattro zero punto quattro nove otto sette e moltiplicarlo per due
 BO092	quello che rimane è molto poco è un pochino il due per mille dai alla fine dei conti qualcosa del genere
 BO092	però anche lì se io mh
@@ -626,15 +626,14 @@ BO092	per esempio
 BO092	eh se io vi chiedo
 BO092	qual è la probabilità che
 BO092	ci siano dei valori compresi tra
-???	meno uno e due
-???	
-BO092	ottantuno per cento
+BO092	meno uno e due
+???	ottantuno per cento
 BO092	mh
-???	mh
-BO092	ottantuno per cento
+BO092	mh
+???	ottantuno per cento
 BO092	oddio
-???	come hai fatto a fare il conto ottantun~ a memoria come hai fatto a fare
-BO092	no sui valori di zero trentaquattro più tredici più zero quarantasette settantaré
+BO092	come hai fatto a fare il conto ottantun~ a memoria come hai fatto a fare
+???	no sui valori di zero trentaquattro più tredici più zero quarantasette settantaré
 BO092	più
 BO092	sì giusto
 BO092	a memoria mi viene diverso ma vabbè si è giusto
@@ -661,10 +660,10 @@ BO092	meno un sigma dove sta
 BO092	media meno un sigma
 BO092	a sinistra
 BO092	io voglio il valore che sia minore di quello
-???	quant'è
-BO092	zero virgola uno cinque otto sette
-???	mh come hai fatto
-BO092	ho tolto lo zero cinque però come
+BO092	quant'è
+???	zero virgola uno cinque otto sette
+BO092	mh come hai fatto
+???	ho tolto lo zero cinque però come
 BO092	sissignore cioè il ragionamento giusto è questo
 BO092	dovete andare a fare x zero cinque di quello che allora
 BO092	la vostra tabella sostanzialmente vi da la parte destra non vi da la parte sinistra ma potete ragionare come se foste allo specchio
@@ -691,11 +690,11 @@ BO092	un pochino di manualità sulla tabella dunque vediamo ehm
 BO092	qual è la probabilità di avere dei valori che siano
 BO092	superiori al doppio della deviazione standard cioè di andare la media
 BO092	oltre due sigma dalla media
-???	disegnino e il conto
-BO092	il due per cento
+BO092	disegnino e il conto
+???	il due per cento
 BO092	più o meno sì però più o meno
-???	il conto come si fa
-BO092	zero uno cinque meno zero quattro sette sette due
+BO092	il conto come si fa
+???	zero uno cinque meno zero quattro sette sette due
 BO092	esattamente una cosa del genere cioè
 BO092	voi dovete andare a prendere il due da zero anche qui per differenza
 BO092	cioè
@@ -706,16 +705,16 @@ BO092	il tutto è zero cinque qui ho due devo andare a fare
 BO092	dalla tabella leggo questo che è zero quattro
 BO092	sette sette due
 BO092	e il tutto è zero cinque meno questo
-???	qual è la probabilità di avere dei valori superiori alla media
-BO092	zero cinque
+BO092	qual è la probabilità di avere dei valori superiori alla media
+???	zero cinque
 BO092	zero cinque sissignore zero quello non c'è neanche bisogno di guardare la tabella
 BO092	la probabilità che io ho di avere valori superiori alla media è il cinquanta per cento
 BO092	inferiori alla media è il cinquanta per cento questo semplicemente perché è simmetrica
 BO092	superiori a un certo valore devo andarmi a guardar la tabella
 BO092	superiori a la media meno un sigma
 BO092	disegnino e e e lettura di tabella
-???	che mi dite
-BO092	x meno sigma
+BO092	che mi dite
+???	x meno sigma
 BO092	allora
 BO092	la superiore alla media
 BO092	meno sigma quindi
@@ -726,8 +725,8 @@ BO092	la media meno sigma qual è
 BO092	questa
 BO092	quindi a me interessa superiori alla media meno sigma devo andare a prendere
 BO092	tutto questo
-???	quant'è
-BO092	zero x
+BO092	quant'è
+???	zero x
 BO092	sissignore è zero cinque più zero tre quattro uno tre
 BO092	giusto
 BO092	allora eh
@@ -773,15 +772,15 @@ BO092	in zeta semplicemente utilizzando la standardizzazione e cioè
 BO092	il nostro zeta corrispondente a trenta che cos'è
 BO092	è zeta dobbiamo andare a mettere trenta qui
 BO092	perché il nostro valore di ics è questo meno la media che è quarantadue
-???	diviso esse che è sedici e ci viene
-BO092	meno zero settantacinque meno zero settantacinque
-???	meno
-BO092	zero settantacinque
+BO092	diviso esse che è sedici e ci viene
+???	meno zero settantacinque meno zero settantacinque
+BO092	meno
+???	zero settantacinque
 BO092	meno zero settantacinque
 BO092	allora adesso noi vogliamo sapere
 BO092	qual è la probabilità che
-???	ics sia maggiore di trenta e quindi tradotto in termini di zeta che la zeta sia maggiore di zero settantacinque che è
-BO092	zero virgola sette sette tre quattro
+BO092	ics sia maggiore di trenta e quindi tradotto in termini di zeta che la zeta sia maggiore di zero settantacinque che è
+???	zero virgola sette sette tre quattro
 BO092	perché zero settantacinque lo devo andare a leggere in tabella e diventa zero due sette tre quattro
 BO092	più ci devo aggiungere ovviamente
 BO092	zero cinque perché tutta la parte destra mi andrà bene
@@ -806,11 +805,11 @@ BO092	quant'è
 BO092	cioè la media delle temperature massime a bologna è trentasei gradi la deviazione standard è tre gradi qual è la probabilità che sia più di quaranta
 BO092	ci siete
 BO092	ci siete
-???	quant'è
-BO092	zero punto zero nove diciotto
+BO092	quant'è
+???	zero punto zero nove diciotto
 BO092	mh conto fatto come
-???	allora quanto viene zeta
-BO092	uno virgola trentatré
+BO092	allora quanto viene zeta
+???	uno virgola trentatré
 BO092	uno virgola trentatré quindi dobbiamo andare a vedere
 BO092	uno virgola trentatré in tabella che è
 BO092	zero virgola quattro zero otto due giusto
@@ -825,12 +824,12 @@ BO092	significa che bene o male è dell'ordine di una volta per secolo
 BO092	uno per cento vuol dire che per caso capita una volta per secolo
 BO092	allora uno dice ma noi non abbiamo le temperature han detto non capitava da duecento anni ci credo
 BO092	ma sicuramente anche peggio
-???	a parte il fatto che è una fluttuazione statistica e quindi il fatto che venga l'una volta su cento mh non è che uno su cento può essere anche sì
-BO092	non dovrebbe essere ventinove per cento
-???	come
+BO092	a parte il fatto che è una fluttuazione statistica e quindi il fatto che venga l'una volta su cento mh non è che uno su cento può essere anche sì
+???	non dovrebbe essere ventinove per cento
+BO092	come
 ???	non dovrebbe essere ventinove per cento
 ???	x
-BO092	zero virgola zero nove uno otto
+???	zero virgola zero nove uno otto
 BO092	avete ragione
 BO092	avete ragione
 BO092	nove per cento certo è quaranta non quarantotto

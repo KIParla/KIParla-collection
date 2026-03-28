@@ -1,488 +1,479 @@
 BO049	okay ora sta registrando
-BO052	allora ciao
-BO049	ciao
-BO052	come ti chiami
-BO049	mi chiamo roberto
-BO052	come stai
+BO049	allora ciao
+BO052	ciao
+BO049	come ti chiami
+BO052	mi chiamo roberto
+BO049	come stai
 BO052	bene
-BO049	grazie
+BO052	grazie
 BO049	bene allora inizierò con alcune domande
 BO049	ti vorrei chiedere intanto dove vivi in che città vivi cosa fai
-BO052	parlami pure di di dove vivi
-BO049	okay allora abito a @nomepaese
-BO052	okay
+BO049	parlami pure di di dove vivi
+BO052	okay allora abito a @nomepaese
+BO049	okay
 BO052	in una in una casa a due piani
-BO049	sopra abito io con la mia famiglia e sotto abita mia zia
-BO052	okay
-BO049	e mh
-BO052	è una casa grandeo
-BO049	sì è una casa abbastanza grande
-BO052	ma è tipo un condominio oppure una villetta che tipo di casa
-BO049	mmh no siamo io e mia zia
-BO052	okay quindi sono due appartamenti
-BO049	simh diciamo intorno agli ottanta metri quadrati per essere precisi
-BO052	la tua famiglia è grande è composta da molte persone
+BO052	sopra abito io con la mia famiglia e sotto abita mia zia
+BO049	okay
+BO052	e mh
+BO049	è una casa grandeo
+BO052	sì è una casa abbastanza grande
+BO049	ma è tipo un condominio oppure una villetta che tipo di casa
+BO052	mmh no siamo io e mia zia
+BO049	okay quindi sono due appartamenti
+BO052	simh diciamo intorno agli ottanta metri quadrati per essere precisi
+BO049	la tua famiglia è grande è composta da molte persone
 BO052	sì la mia famiglia è composta da cinque persone con me
-BO049	sono le mie due sorelle io sono sono quello sono il mediano
-BO052	okay
+BO052	sono le mie due sorelle io sono sono quello sono il mediano
+BO049	okay
 BO052	cioè sono sono fra le due sorelle infatti
-BO049	eh niente poi abbiamo anche un cane
-BO052	okay
-BO049	eh
-BO052	come si chiama
-BO049	si chiama mia
-BO052	mia che cane è
+BO052	eh niente poi abbiamo anche un cane
+BO049	okay
+BO052	eh
+BO049	come si chiama
+BO052	si chiama mia
+BO049	mia che cane è
 BO052	che è di mia sorella
-BO049	ah un barboncino nero
-BO052	okay
-BO049	io non lo considero neanche un cane perché
-BO052	
+BO052	ah un barboncino nero
+BO049	okay
+BO052	io non lo considero neanche un cane perché
 BO052	è veramente uno scricciolo
 BO052	ehm
-BO049	niente
-BO052	bene
-BO049	così
-BO052	con le tue sorelle ti trovi bene
-BO049	mh ma sì dai
-BO052	litigate spesso o
+BO052	niente
+BO049	bene
+BO052	così
+BO049	con le tue sorelle ti trovi bene
+BO052	mh ma sì dai
+BO049	litigate spesso o
 BO052	abbastanza
-BO049	con l'ultima cioè con quella più grande ormai il feeling~ il feeling c'è
-BO052	okay
+BO052	con l'ultima cioè con quella più grande ormai il feeling~ il feeling c'è
+BO049	okay
 BO052	con quella più piccola invece insomma
 BO052	mi trovo ancora male ma perché adesso insomma eh è un'adolescente quindi
 BO052	sicuramente deve un attimo
-BO049	imparare ancora un po' a gestirsi diciamo
-BO052	ah okay ma condividete la stanza oppure vivi in una stanza da solo
-BO049	no prima abitavo sì prima ero in camera con mia sorella
-BO052	okay
+BO052	imparare ancora un po' a gestirsi diciamo
+BO049	ah okay ma condividete la stanza oppure vivi in una stanza da solo
+BO052	no prima abitavo sì prima ero in camera con mia sorella
+BO049	okay
 BO052	eh quella piccola
 BO052	invece adesso per fortuna ho la camera da sol~ da quando ho diciott'anni
 BO052	finalmente ho guadagnato la la camera singola
 BO052	eh
-BO049	invece c'è mia sorella grande adesso con con mia sorella piccola
-BO052	okay
-BO049	com'è giusto che sia perché io sono il maschietto quindi
-BO052	e la tua camera com'è come la descriveresti
-BO052	
-BO049	eh la mia camera purtroppo è rosa perché
-BO049	
-BO052	ci sta
-BO049	non l'abbiamo ancora dipinta quindi è rimasto questo tocco femminile però in verità non mi dispiace perché c'è anche molto altro verde
-BO052	okay
+BO052	invece c'è mia sorella grande adesso con con mia sorella piccola
+BO049	okay
+BO052	com'è giusto che sia perché io sono il maschietto quindi
+BO049	e la tua camera com'è come la descriveresti
+BO052	eh la mia camera purtroppo è rosa perché
+BO049	ci sta
+BO052	non l'abbiamo ancora dipinta quindi è rimasto questo tocco femminile però in verità non mi dispiace perché c'è anche molto altro verde
+BO049	okay
 BO052	sono due eh due armadi verdi
-BO049	anche i cassetti sono tutti colorati quindi cioè alla fine la parete rosa non è
-BO052	abbastanza allegra
-BO049	sì esatto molto colorata
+BO052	anche i cassetti sono tutti colorati quindi cioè alla fine la parete rosa non è
+BO049	abbastanza allegra
+BO052	sì esatto molto colorata
 BO049	bene
-BO052	ehm qual è la tua stanza preferita della casa
-BO049	della casa beh su abbiamo una mansarda
-BO052	okay
-BO049	e lì diciamo che è un po' il mio~ il mio mondo
-BO052	sì
+BO049	ehm qual è la tua stanza preferita della casa
+BO052	della casa beh su abbiamo una mansarda
+BO049	okay
+BO052	e lì diciamo che è un po' il mio~ il mio mondo
+BO049	sì
 BO052	sì perché la camera in sé è abbastanza piccola
 BO052	è una camera da una persona
 BO052	eh l'altra dove ero prima era più grande perché era una camera da due persone ci stava anche mia sorella
-BO049	eh però si abbiamo su una una mansarda quindi se devo ritirarmi mi ritiro lì
-BO052	okay è dove passi
-BO049	quello lì è il mio regno
-BO052	okay passi il tempo coi tuoi amici anche lì
-BO049	esatto sì
-BO052	e cosa fai quando sei lì coi tuoi amici che tipo di attività fate
-BO049	facciamo cineforum alcune volte
-BO052	che cosa sarebbe
+BO052	eh però si abbiamo su una una mansarda quindi se devo ritirarmi mi ritiro lì
+BO049	okay è dove passi
+BO052	quello lì è il mio regno
+BO049	okay passi il tempo coi tuoi amici anche lì
+BO052	esatto sì
+BO049	e cosa fai quando sei lì coi tuoi amici che tipo di attività fate
+BO052	facciamo cineforum alcune volte
+BO049	che cosa sarebbe
 BO052	soprattutto nel passato
-BO049	sono dei film cioè guardiamo un film e poi facciamo un dibattito sullo stesso
-BO052	okay
+BO052	sono dei film cioè guardiamo un film e poi facciamo un dibattito sullo stesso
+BO049	okay
 BO052	ehm
 BO052	sì insomma ci ci piace questa attività
 BO052	eh poi vabbè c'ho la mh c'ho la console quindi c'ho l'xbox quindi giochiamo all'xbox
-BO049	giochiamo a giochi di società
-BO052	tu suoni qualche strumento suonate
-BO049	una volta abbiamo anche giocato a a calcio in soffitta
+BO052	giochiamo a giochi di società
+BO049	tu suoni qualche strumento suonate
+BO052	una volta abbiamo anche giocato a a calcio in soffitta
 BO049	ah in mansarda mi sembra ottimo
-BO052	tua madre sarà stata felice
+BO049	tua madre sarà stata felice
 BO052	un due contro due
-BO049	ovviamente non c'era nessuno a casa
-BO052	bene bene
+BO052	ovviamente non c'era nessuno a casa
+BO049	bene bene
 BO052	no sì poi suono uno strumento
 BO052	suono la chitarra infatti su c'ho anche l'amplificatore con la chitarra elettrica
-BO049	insomma è un po' un po' il mio regno
-BO052	okay
-BO049	quindi sì
-BO052	ehm che genere di musica ti piace
-BO049	eh prima suonavo punk
-BO052	xxx
+BO052	insomma è un po' un po' il mio regno
+BO049	okay
+BO052	quindi sì
+BO049	ehm che genere di musica ti piace
+BO052	eh prima suonavo punk
+BO049	xxx
 BO052	eh adesso però diciamo che ho smesso
 BO052	ascolto più alternative insomma
 BO052	cose meno
-BO049	
-BO052	beh xx più tranquillo
-BO049	cose più tranquille diciamo sì
-BO052	bene e i vicini si lamentano del rumore
-BO049	ma no perché il mio vicino è un batterista quindi anche lui lo sentiamo spesso suonare
-BO052	okay
-BO049	poi mia sorella quella più grande aveva eh ha preso il diploma lei quindi tutto il giorno sta a suonare il flauto traverso
-BO052	ah
+BO049	beh xx più tranquillo
+BO052	cose più tranquille diciamo sì
+BO049	bene e i vicini si lamentano del rumore
+BO052	ma no perché il mio vicino è un batterista quindi anche lui lo sentiamo spesso suonare
+BO049	okay
+BO052	poi mia sorella quella più grande aveva eh ha preso il diploma lei quindi tutto il giorno sta a suonare il flauto traverso
+BO049	ah
 BO052	e quindi insomma eh diciamo che io mi mi faccio sentire molto meno di di lei quando suono
+BO052	ehm
 BO049	ehm
-BO049	ehm
-BO052	nel nel tuo quartiere ci sono ci abitano anche dei i tuoi amici conosci bene i tuoi vicini che tipo di quartiere è
+BO049	nel nel tuo quartiere ci sono ci abitano anche dei i tuoi amici conosci bene i tuoi vicini che tipo di quartiere è
 BO052	sì ci abitano tantissimi amici ma perché è un quartiere un quartiere residenziale
-BO049	e cioè i miei amici molti amici sono abitano vicino a me ma anche a cinquanta metri da me
-BO052	quindi magari vi trovate
+BO052	e cioè i miei amici molti amici sono abitano vicino a me ma anche a cinquanta metri da me
+BO049	quindi magari vi trovate
 BO052	quindi si cioè eh quando ci troviamo la sera per dire basta scendere giù
 BO052	eh suonare alla porta e poi insomma
-BO049	con~ con alcuni poi chiaro che altri son dall'altra parte della città però
-BO052	sì sì
+BO052	con~ con alcuni poi chiaro che altri son dall'altra parte della città però
+BO049	sì sì
 BO052	il quartiere è un quartiere molto
 BO052	mh è un quartiere abbastanza mol~ cioè abbastanza nuovo perché
-BO049	ehm diciamo che @nomepaese è una città eh insomma dal punto di vista storico un quartiere abbastanza nuovo addirittura adesso hanno costruito tantissime case nuove si sta proprio espandendo
-BO052	okay
+BO052	ehm diciamo che @nomepaese è una città eh insomma dal punto di vista storico un quartiere abbastanza nuovo addirittura adesso hanno costruito tantissime case nuove si sta proprio espandendo
+BO049	okay
 BO052	il quartiere
-BO049	eh però sì i miei amici storici sono li ho conosciuti nel quartiere
-BO052	e tu come come ti muovi per @nomepaese
-BO049	eh
-BO052	che mezzi di trasporto utilizzi
+BO052	eh però sì i miei amici storici sono li ho conosciuti nel quartiere
+BO049	e tu come come ti muovi per @nomepaese
+BO052	eh
+BO049	che mezzi di trasporto utilizzi
 BO052	uso spesso la bici
 BO052	e oggi ho preso la macchina ma perché avevo vari giri da fare
-BO049	altrimenti sì
-BO052	ti sposti in bici
-BO049	uso spesso la bici sì sì sì
-BO052	sei vicino a tutto quindi
+BO052	altrimenti sì
+BO049	ti sposti in bici
+BO052	uso spesso la bici sì sì sì
+BO049	sei vicino a tutto quindi
 BO052	eh a tutto tutto no
-BO049	
-BO052	
 BO052	per esempio quando facevo atletica
 BO052	eh per i primi due anni sono venuto in bici però essendo dall'altra parte della città perché @nomeluogo è dalla parte opposta
-BO049	diciamo che sì facevo
-BO052	però comunque ti piace muoverti perché se vai in bici per andare al campo d'atletica
+BO052	diciamo che sì facevo
+BO049	però comunque ti piace muoverti perché se vai in bici per andare al campo d'atletica
 BO052	no no ma
 BO052	la la bicicletta mi piace tantissimo cioè
-BO049	è il me~ il mezzo preferito poi sì
-BO052	bene
+BO052	è il me~ il mezzo preferito poi sì
+BO049	bene
 BO052	chiaro che se devi fare degli spostamenti più lunghi prendi la macchina e
-BO049	e fine
-BO052	e quando vai a bologna per l'università come ci vai
-BO049	sempre in treno
-BO052	in treno quindi lasci la bici in stazione un posto molto sicuro
+BO052	e fine
+BO049	e quando vai a bologna per l'università come ci vai
+BO052	sempre in treno
+BO049	in treno quindi lasci la bici in stazione un posto molto sicuro
 BO052	mh
 BO052	esatto sì
-BO049	no vabbè per~ cioè quest'anno l'ho l'ho fatto e non me l'hanno rubata la bici quindi
-BO052	per ora
-BO049	per ora andiamo bene poi insomma vediamo
-BO052	e la tua casa è sempre stata così hai vissuto in hai altri posti oppure
-BO049	no son sempre sempre stato lì
-BO052	da quando sei nato
-BO049	mh mh sì
-BO052	e hai notato cambia~ cambiamenti in casa
-BO049	eh io diciamo che
-BO052	a parte la tua camera
-BO049	diciamo che io cerco di portar dei cambiamenti però la mia famiglia non è molto d'accordo con me
-BO052	è contraria
-BO049	cioè per esempio la la mansarda prima era uno scantinato praticamente
-BO052	ah okay
+BO052	no vabbè per~ cioè quest'anno l'ho l'ho fatto e non me l'hanno rubata la bici quindi
+BO049	per ora
+BO052	per ora andiamo bene poi insomma vediamo
+BO049	e la tua casa è sempre stata così hai vissuto in hai altri posti oppure
+BO052	no son sempre sempre stato lì
+BO049	da quando sei nato
+BO052	mh mh sì
+BO049	e hai notato cambia~ cambiamenti in casa
+BO052	eh io diciamo che
+BO049	a parte la tua camera
+BO052	diciamo che io cerco di portar dei cambiamenti però la mia famiglia non è molto d'accordo con me
+BO049	è contraria
+BO052	cioè per esempio la la mansarda prima era uno scantinato praticamente
+BO049	ah okay
 BO052	cioè la gente ci buttava ci buttava le cose e
 BO052	allora io ho deciso di insomma di metterla a posto e di farci una stanza
-BO049	per me per i miei amici adesso la usa anche molto anche mia sorella piccola con le sue amiche quindi
+BO052	per me per i miei amici adesso la usa anche molto anche mia sorella piccola con le sue amiche quindi
 BO049	ah
-BO052	è per quello che non vai d'accordo con lei perché ti ruba gli spazi
+BO049	è per quello che non vai d'accordo con lei perché ti ruba gli spazi
 BO052	no no no eh
 BO052	alla fine con le sue amiche cioè viene solo alcune volte non non viene sempre
 BO052	eh poi si cioè diciamo che anche
 BO052	anche l'arredamento~ cioè è una casa abbastanza vecchia perché oramai avrà trent'anni cioè bisgonerebbe un po' secondo me aggiornarla però insomma
-BO049	ai miei genitori piace piace ancora così quindi
-BO052	e tu sei contento di vivere coi tuoi o
+BO052	ai miei genitori piace piace ancora così quindi
+BO049	e tu sei contento di vivere coi tuoi o
 BO052	rimarrà così
-BO049	eh
-BO052	o vuoi vuoi andare a vivere via presto o
-BO049	mi piacerebbe vivere via
-BO052	dove ti piacerebbe vivere
-BO049	eh o a bologna dove studio
-BO052	okay
+BO052	eh
+BO049	o vuoi vuoi andare a vivere via presto o
+BO052	mi piacerebbe vivere via
+BO049	dove ti piacerebbe vivere
+BO052	eh o a bologna dove studio
+BO049	okay
 BO052	ehm
-BO049	si vabbè ho pensato anche di far l'erasmus tra l'altro anno scorso ci pensavo
+BO052	si vabbè ho pensato anche di far l'erasmus tra l'altro anno scorso ci pensavo
 BO049	sì dove
-BO052	hai fatto domanda per l'erasmus oppure
-BO049	volevo far domanda poi non l'ho fatta no
+BO049	hai fatto domanda per l'erasmus oppure
+BO052	volevo far domanda poi non l'ho fatta no
 BO049	poi non l'hai fatta
-BO052	come mai
-BO049	eeh ma perché alla fine con quello che cioè per quello che studio non insomma al mio curriculum non aggiungerà niente cioè
-BO052	perché cosa studi
-BO049	io voglio studiare letteratura italiana cioè studio lettere
-BO052	ah okay quindi
+BO049	come mai
+BO052	eeh ma perché alla fine con quello che cioè per quello che studio non insomma al mio curriculum non aggiungerà niente cioè
+BO049	perché cosa studi
+BO052	io voglio studiare letteratura italiana cioè studio lettere
+BO049	ah okay quindi
 BO052	e voglio studiare letteratura italiana quindi andare all'estero
 BO052	non penso sia la mossa più furba del mondo cioè
-BO049	cioè poi avendo bologna a un'ora di treno insomma
-BO052	okay e come mai
-BO049	però mi piacerebbe molto abitare a bologna quello sì
-BO052	eh esatto ti piacerebbe abitare a bologna e come mai non non vai a vivere a bologna
+BO052	cioè poi avendo bologna a un'ora di treno insomma
+BO049	okay e come mai
+BO052	però mi piacerebbe molto abitare a bologna quello sì
+BO049	eh esatto ti piacerebbe abitare a bologna e come mai non non vai a vivere a bologna
 BO052	quello si
-BO049	eh perché essendo un'ora di un'ora di treno i miei non mi lasciano
-BO052	eh giusto
+BO052	eh perché essendo un'ora di un'ora di treno i miei non mi lasciano
+BO049	eh giusto
 BO052	eh
-BO049	poi si sembra anche abbastanza cioè magari con mia sorella avrebbero cambiato idea però
-BO052	sì
+BO052	poi si sembra anche abbastanza cioè magari con mia sorella avrebbero cambiato idea però
+BO049	sì
 BO052	cioè io essendo abbastanza dinamico e essendo abbastanza sportivo ci fanno sempre andare in treno e
-BO049	e poi a piedi ovviamente
-BO052	e
-BO049	o a piedi o in bici xxx
+BO052	e poi a piedi ovviamente
+BO049	e
+BO052	o a piedi o in bici xxx
 BO049	eh beh
-BO052	se non sei lontano dalla stazione alla fine
-BO049	no no ma infatti cioè a piedi sono venti minuti a piedi si fa
-BO052	si risparmia anche
+BO049	se non sei lontano dalla stazione alla fine
+BO052	no no ma infatti cioè a piedi sono venti minuti a piedi si fa
+BO049	si risparmia anche
 BO052	insomma
 BO052	però sì ma io andrei a bologna soprattutto come città
-BO049	perché
-BO052	cosa ti piace di bologna
+BO052	perché
+BO049	cosa ti piace di bologna
 BO052	eh cioè bologna a me a parte la città che mi sembra cioè mi pare bellissima
 BO052	eh no cioè sicuramente a livello culturale è cioè è tutta un'altra cosa rispetto a @nomepaese che è che è in provincia
 BO052	eh cioè ci sono incontri ci sono cineforum molto più seri di quelli organizzati da noi
 BO052	insomma ci sono tantissimi
-BO049	ci possono essere talmente tanti spunti a bologna che
-BO052	sì
+BO052	ci possono essere talmente tanti spunti a bologna che
+BO049	sì
 BO052	cioè è proprio una città da vivere poi
 BO052	poi anche le persone che conosci là
-BO049	cioè all'università a lettere vengono siciliani quest'anno ho conosciuto dei dei ragazzi di arezzo toscani insomma eh
-BO052	anche studenti erasmus probabilmente
+BO052	cioè all'università a lettere vengono siciliani quest'anno ho conosciuto dei dei ragazzi di arezzo toscani insomma eh
+BO049	anche studenti erasmus probabilmente
 BO052	studenti erasmus si ma c'è una varietà ma anche solo da tutta italia cioè a me piace tantissimo conoscere persone che insomma
-BO049	possono raccontare una realtà diversa dalla mia quindi bologna secondo me è la città perfetta però insomma
-BO052	e se vivessi a bologna non ti dispiacerebbe condividere la camera con qualcuno ti darebbe da fare
-BO049	ma no guarda andrei anche cioè in due sì più di due è un po' un po' impegnativo forse
-BO052	eh sì
-BO049	però cioè anche stare a casa con altri non mi cioè nel senso se sono persone educate non mi darebbe troppo da fare cioè
-BO052	quindi tu mh ti consideri una persona eh ordinata educata rispettosa degli altri
+BO052	possono raccontare una realtà diversa dalla mia quindi bologna secondo me è la città perfetta però insomma
+BO049	e se vivessi a bologna non ti dispiacerebbe condividere la camera con qualcuno ti darebbe da fare
+BO052	ma no guarda andrei anche cioè in due sì più di due è un po' un po' impegnativo forse
+BO049	eh sì
+BO052	però cioè anche stare a casa con altri non mi cioè nel senso se sono persone educate non mi darebbe troppo da fare cioè
+BO049	quindi tu mh ti consideri una persona eh ordinata educata rispettosa degli altri
 BO052	sì
-BO049	ah la mia camera è la camera più in ordine della casa
-BO052	sì
+BO052	ah la mia camera è la camera più in ordine della casa
+BO049	sì
 BO052	sì
 BO052	se si può dire
-BO049	no perché con le mie cose cioè sono molto pignolo anche
-BO052	sì
+BO052	no perché con le mie cose cioè sono molto pignolo anche
+BO049	sì
 BO052	però cioè son le mie cose e quindi sono mie
 BO052	eh e si cioè diciamo che poi vabbè andare a vivere con altre persone cioè ognuno insomma deve fare le sue cose eh
 BO052	ha i suoi impegni e insomma deve pulire deve
-BO049	cioè quello secondo me è abbastanza basilare no cioè
-BO052	assolutamente
-BO049	se uno condivide la casa deve deve condividere le pulizie
-BO052	non ti dispiace quindi far le pulizie
-BO049	no no no anzi è giusto pulire
+BO052	cioè quello secondo me è abbastanza basilare no cioè
+BO049	assolutamente
+BO052	se uno condivide la casa deve deve condividere le pulizie
+BO049	non ti dispiace quindi far le pulizie
+BO052	no no no anzi è giusto pulire
 BO049	okay
 BO049	bene bene
 BO049	punti a tuo favore
-BO052	ehm quando un giorno vivrai da solo dove ti piacerebbe vivere
-BO049	ehm mi piacerebbe vivere
-BO052	proprio magari in futuro anche al di là dell'università
-BO049	no ma coi mieicoi miei amici stavamo pensando di andare a abitare cioè sempre qui a @nomepaese però in casa in casa per conto nostro
+BO049	ehm quando un giorno vivrai da solo dove ti piacerebbe vivere
+BO052	ehm mi piacerebbe vivere
+BO049	proprio magari in futuro anche al di là dell'università
+BO052	no ma coi mieicoi miei amici stavamo pensando di andare a abitare cioè sempre qui a @nomepaese però in casa in casa per conto nostro
 BO049	ah
-BO052	sì
-BO049	e perché alcuni già lavorano e comunque riescono a mantenersi cioè se l'affitto ovviamente non è non è altissimo
-BO052	okay
+BO049	sì
+BO052	e perché alcuni già lavorano e comunque riescono a mantenersi cioè se l'affitto ovviamente non è non è altissimo
+BO049	okay
 BO052	e xx son abituato ad avere abbastanza spazio perché anche in casa c'è ho una stanza mia poi volendo vado su in mansarda quindi
-BO049	e mi piacerebbe abitare in una casa larga cioè spaziosa comunque
-BO052	sì
+BO052	e mi piacerebbe abitare in una casa larga cioè spaziosa comunque
+BO049	sì
 BO052	eh quindi boh se fosse in centro non c'è magari ci sono case
-BO049	spaziose anche in centro però
-BO052	è più raro
-BO049	cioè andare in campagna coi miei amici insomma è un'idea che mi piacerebbe molto
+BO052	spaziose anche in centro però
+BO049	è più raro
+BO052	cioè andare in campagna coi miei amici insomma è un'idea che mi piacerebbe molto
 BO049	eh immagino
-BO052	feste tutte le sere
+BO049	feste tutte le sere
 BO052	però
-BO049	xxx tutte le sere
-BO052	bello
-BO049	no però insomma
-BO052	e com'è
-BO049	alla fine anche andare in una casa normale cioè
-BO052	si
-BO049	ci starebbe
-BO052	ma cosa intendi per casa larga casa normale cioè col gardino e cose così
+BO052	xxx tutte le sere
+BO049	bello
+BO052	no però insomma
+BO049	e com'è
+BO052	alla fine anche andare in una casa normale cioè
+BO049	si
+BO052	ci starebbe
+BO049	ma cosa intendi per casa larga casa normale cioè col gardino e cose così
 BO052	eh
 BO052	no vabò avere anche un living abbastanza abbastanza ampio cioè cioè non vorrei che ci fossero degli spazi angusti
-BO049	cioè per esempio lala casa di carlo cioè loro sono in due però la casa a me sembra mol~ cioè insomma mi ha dato un'impressione cioè è una casa col soffitto molto basso
+BO052	cioè per esempio lala casa di carlo cioè loro sono in due però la casa a me sembra mol~ cioè insomma mi ha dato un'impressione cioè è una casa col soffitto molto basso
 BO049	okay sì
 BO049	ah io non l'ho vista
-BO052	non ancora
-BO049	e insomma a me mi cioè ho bisogno che gli ambienti siano un po' larghi
-BO052	okay
-BO049	se no xxx
+BO049	non ancora
+BO052	e insomma a me mi cioè ho bisogno che gli ambienti siano un po' larghi
+BO049	okay
+BO052	se no xxx
 BO049	per respirare
-BO052	per xxx l'aria
-BO049	sì
-BO052	ehm quindi come zona ti piacerebbe più che altro la campagna lontano dal centro
-BO049	sì la campagna comunque è la periferia adesso insomma stan nascendo delle case in periferia che son bellissime eh
+BO049	per xxx l'aria
 BO052	sì
-BO049	ecco una casa così andrebbe bene
-BO052	ma vorresti vivere in una casa nuova moderna piena di comfort oppure una baracca gigante
+BO049	ehm quindi come zona ti piacerebbe più che altro la campagna lontano dal centro
+BO052	sì la campagna comunque è la periferia adesso insomma stan nascendo delle case in periferia che son bellissime eh
+BO049	sì
+BO052	ecco una casa così andrebbe bene
+BO049	ma vorresti vivere in una casa nuova moderna piena di comfort oppure una baracca gigante
 BO052	però
 BO052	eh
 BO052	xxx eh
-BO049	ma che domanda è scu~
-BO052	non lo so
-BO049	chi vorrebbe vivere mai una casa con dei~ cioè nel senso
-BO052	beh non è detto
-BO049	eh non è detto
-BO052	magari vorresti vivere in tenda o in camper
-BO049	no ma alla fine io m'adatto molto cioè alle situazioni quindi
-BO052	sì
-BO052	cioè è chiaro che insomma se devo stare se devo patire il freddo in inverno magari no però
-BO049	però si insomma
-BO052	però ti piacerebbe rimanere a @nomepaese nonostante sia una piccola città
-BO049	ma sì @nomepaese si vive bene alla fine
-BO052	non vuoi andare in una metropoli
-BO052	cioè ho ho i miei amici qui quindi
-BO049	no ma bologna appunto per~ più che altro per l'esperienza
+BO052	ma che domanda è scu~
+BO049	non lo so
+BO052	chi vorrebbe vivere mai una casa con dei~ cioè nel senso
+BO049	beh non è detto
+BO052	eh non è detto
+BO049	magari vorresti vivere in tenda o in camper
+BO052	no ma alla fine io m'adatto molto cioè alle situazioni quindi
 BO049	sì
-BO052	bologna per l'esperienz~
+BO052	cioè è chiaro che insomma se devo stare se devo patire il freddo in inverno magari no però
+BO052	però si insomma
+BO049	però ti piacerebbe rimanere a @nomepaese nonostante sia una piccola città
+BO052	ma sì @nomepaese si vive bene alla fine
+BO049	non vuoi andare in una metropoli
+BO052	cioè ho ho i miei amici qui quindi
+BO052	no ma bologna appunto per~ più che altro per l'esperienza
+BO049	sì
+BO049	bologna per l'esperienz~
 BO052	cioè poi magari e se riesci anche a trovarti il giro e anche il lavoro magari anche star là cioè nel senso
 BO052	non lo metto non lo do comunque per scontato però sì a @nomepaese insomma sto abbastanza bene dai
 BO052	c'ho gli amici
-BO049	c'ho mia nonna che mi fa da mangiare tutti i giorni
+BO052	c'ho mia nonna che mi fa da mangiare tutti i giorni
 BO049	ecco
-BO052	vai spesso da tua nonna o vive con te no
-BO049	si anche perché adesso si è insomma essendo venuto a mancare mio nonno adesso mia nonna è
-BO052	ah
-BO049	insomma è si sente che è spesso da s~ cioè insomma si sente sola quindi spesso vado là anche oggi sono andato là a mangiare
+BO049	vai spesso da tua nonna o vive con te no
+BO052	si anche perché adesso si è insomma essendo venuto a mancare mio nonno adesso mia nonna è
+BO049	ah
+BO052	insomma è si sente che è spesso da s~ cioè insomma si sente sola quindi spesso vado là anche oggi sono andato là a mangiare
 BO049	è spesso
-BO052	abita lontano da te
+BO049	abita lontano da te
 BO052	no abita abita molto vicino eh abita anche lei a cinquanta metri una nonna la nonna materna l'altra nonna invece
-BO049	sempre a @nomeluogo però un po' più lontano
-BO052	ah quindi abitate più o men~ comunque alla fine abitate tutti vicini anche se~ anche se è più lontana l'altra è sempre xxx stesso quartiere
+BO052	sempre a @nomeluogo però un po' più lontano
+BO049	ah quindi abitate più o men~ comunque alla fine abitate tutti vicini anche se~ anche se è più lontana l'altra è sempre xxx stesso quartiere
 BO052	sì cioè mia nonna in bici ci metto dieci minuti a andare
 BO052	però cioè @nomeluogo alla fine t'ho detto è un quartiere è un quartiere molto grande poi si è~ si è espanso ancora di più quindi
 BO052	eh sì insomma ci vuole un po' per girarlo anche anche in bici
-BO049	però sì mia nonna abita mia nonna materna abita molto vicina a me mh mh
-BO052	okay quindi la vedi spesso e e casa sua com'è ti piace casa sua
+BO052	però sì mia nonna abita mia nonna materna abita molto vicina a me mh mh
+BO049	okay quindi la vedi spesso e e casa sua com'è ti piace casa sua
 BO052	molto molto vicino sì
-BO049	eh no non molto
-BO052	come mai
+BO052	eh no non molto
+BO049	come mai
 BO052	ma
-BO049	
-BO052	
 BO052	ah boh così
-BO049	no perché è una casa un po' anche quella casa è a due piani
-BO052	okay
-BO049	c'è il piano terra~ io abito al secondo piano che non è piano terra
-BO052	okay
-BO049	eh insomma la casa a piano terra non so non mi piace troppo
-BO052	hai paura dei ladri
+BO052	no perché è una casa un po' anche quella casa è a due piani
+BO049	okay
+BO052	c'è il piano terra~ io abito al secondo piano che non è piano terra
+BO049	okay
+BO052	eh insomma la casa a piano terra non so non mi piace troppo
+BO049	hai paura dei ladri
 BO052	no non ho paura dei ladri
-BO049	no no cioè non so così sono abituato a vivere al secondo piano quindi
-BO052	quindi niente piano terra
-BO049	sì anche lì una casa a due piani perché sotto c'è mia nonna sopra c'è mio zio che è il fratello di mia mamma
-BO052	okay
-BO049	e anche lui c'ha la sua famiglia quindi abita lì
-BO052	e la zia che vive con te invece
-BO049	la zia che è sempre la sorella di mia mamma
-BO052	okay
-BO049	eh sì in verità lei adesso vive solo con il compagno
-BO052	okay
-BO049	eh perché i suoi due figli sono grandi xxx i miei cugini sono sono molto grandi quindi sono già andati via
-BO052	sono usciti di casa
-BO049	una addirittura ehm è sposata ha due figli e
-BO052	e e li vai a trovare ogni tanto sono anche loro a @nomepaese
-BO049	sì si no sono anche loro a @nomepaese
-BO052	tutti a @nomepaese bene
+BO052	no no cioè non so così sono abituato a vivere al secondo piano quindi
+BO049	quindi niente piano terra
+BO052	sì anche lì una casa a due piani perché sotto c'è mia nonna sopra c'è mio zio che è il fratello di mia mamma
+BO049	okay
+BO052	e anche lui c'ha la sua famiglia quindi abita lì
+BO049	e la zia che vive con te invece
+BO052	la zia che è sempre la sorella di mia mamma
+BO049	okay
+BO052	eh sì in verità lei adesso vive solo con il compagno
+BO049	okay
+BO052	eh perché i suoi due figli sono grandi xxx i miei cugini sono sono molto grandi quindi sono già andati via
+BO049	sono usciti di casa
+BO052	una addirittura ehm è sposata ha due figli e
+BO049	e e li vai a trovare ogni tanto sono anche loro a @nomepaese
+BO052	sì si no sono anche loro a @nomepaese
+BO049	tutti a @nomepaese bene
 BO052	sì pratic~
-BO049	è il quartiere xx con una casa nuova e il quartiere di @nomeluogo
+BO052	è il quartiere xx con una casa nuova e il quartiere di @nomeluogo
 BO049	tutti a @nomeluogo
-BO052	ah okay
+BO049	ah okay
 BO052	eh no sì insomma
 BO052	siamo molto vici~ cioè in linea d'aria siamo molto vicini poi è chiaro che trovarsi
 BO052	insomma ci vogliono i momenti cioè tutta la famiglia adesso ci troviamo una volta al mese to' se va bene
-BO049	mh non tanto di p~ cioè per le~ per i tempi forti diciamo pasqua natale così eh
+BO052	mh non tanto di p~ cioè per le~ per i tempi forti diciamo pasqua natale così eh
 BO049	per le
 BO049	okay
-BO052	e dove vi trovate
-BO049	ci troviamo spesso da mia nonna giù perché alla fine il piano terra è si abbastanza spazioso
+BO049	e dove vi trovate
+BO052	ci troviamo spesso da mia nonna giù perché alla fine il piano terra è si abbastanza spazioso
 BO049	okay
-BO052	xxx
-BO049	oppure oppure sì l'altro giorno siamo andati a casa mia perché a casa mia c'è fuori c'è una palidiana insomma c'è una una zona asfaltata davanti la casa dove dove ci sta
+BO049	xxx
+BO052	oppure oppure sì l'altro giorno siamo andati a casa mia perché a casa mia c'è fuori c'è una palidiana insomma c'è una una zona asfaltata davanti la casa dove dove ci sta
 BO049	okay
-BO052	ah quindi si magari in estate
-BO049	in estate sì infatti abbiam fatto l'ultima cena lì per i per i nostri compleanni di agosto
+BO049	ah quindi si magari in estate
+BO052	in estate sì infatti abbiam fatto l'ultima cena lì per i per i nostri compleanni di agosto
 BO049	se non c'è troppo caldo
-BO052	ah bene
+BO049	ah bene
 BO052	abbiamo mille compleanni ad agosto
-BO049	eh tra l'altro cioè io sono l'unico maschio tutte le altre son donne però l'unico maschio xxx
-BO052	
+BO052	eh tra l'altro cioè io sono l'unico maschio tutte le altre son donne però l'unico maschio xxx
 BO052	adesso sono sei donne xxx
-BO049	eh non lo so
-BO052	dai almeno ti faranno da mangiare per bene
-BO049	no no beh certo certo quello sì
-BO052	bene ehm hai mai passato del tempo in casa con degli amici solo voi non so anche in vacanza affittando case cose così e come ti sei trovato
+BO052	eh non lo so
+BO049	dai almeno ti faranno da mangiare per bene
+BO052	no no beh certo certo quello sì
+BO049	bene ehm hai mai passato del tempo in casa con degli amici solo voi non so anche in vacanza affittando case cose così e come ti sei trovato
 BO052	mh mh
-BO049	sì beh quest'anno ho fatto molte vacanze
-BO052	bene buon per te
-BO049	sono andato a budapest
-BO052	okay
-BO049	e lì si ho vissuto con i miei coi miei ex compagni di classe
-BO052	okay
-BO049	abbiamo vissuto in una casa áun airbnb abbiam fatto una settimana e poi che era la prima volta che andavamo via insieme eh
-BO052	e com'è andata la convivenza
+BO052	sì beh quest'anno ho fatto molte vacanze
+BO049	bene buon per te
+BO052	sono andato a budapest
+BO049	okay
+BO052	e lì si ho vissuto con i miei coi miei ex compagni di classe
+BO049	okay
+BO052	abbiamo vissuto in una casa áun airbnb abbiam fatto una settimana e poi che era la prima volta che andavamo via insieme eh
+BO049	e com'è andata la convivenza
 BO052	no è andata abbastanza bene dai
-BO049	subito c'erano c'era un po' di lott mh c'era una lotta per per accaparrarsi il letto più bello ovviamente però poi per il resto insomma ci siamo adattati comunque
+BO052	subito c'erano c'era un po' di lott mh c'era una lotta per per accaparrarsi il letto più bello ovviamente però poi per il resto insomma ci siamo adattati comunque
 BO049	ci son stati episodi strani
 BO049	ecco
-BO052	vi div~ dividevate per cucinare pulire o cose del genere oppure non c'era bisogno di far niente sempre fuori~ sempre fuori
-BO049	no risata no sempre fuori ma perché abbiamo girato budapest cioè tutto il giorno tutti i giorni quindi
-BO052	okay
-BO049	eh e poi siamo andati no invece poi siamo andati a crotone giù dal mio amico che insomma è originario di lì e c'ha la casa lì e lì invece eravamo in dodici
-BO052	in dodici in una casa una cas~
+BO049	vi div~ dividevate per cucinare pulire o cose del genere oppure non c'era bisogno di far niente sempre fuori~ sempre fuori
+BO052	no risata no sempre fuori ma perché abbiamo girato budapest cioè tutto il giorno tutti i giorni quindi
+BO049	okay
+BO052	eh e poi siamo andati no invece poi siamo andati a crotone giù dal mio amico che insomma è originario di lì e c'ha la casa lì e lì invece eravamo in dodici
+BO049	in dodici in una casa una cas~
 BO052	quindi non eravamo in cinque eravamo in dodici
-BO049	no una casa molto grande perché sì sì sì
-BO052	ah okay bene
-BO049	eh no però si l'unico problema è che c'era un bagno quindi lì c'era un attimo da fare i turni per le doccie cose così
-BO052	sì
-BO049	però alla fine noi siamo un gruppo abbastanza affiatato quindi insomma mentre c'è chi si lava gli altri cucinano apparecchiano
-BO052	okay
-BO049	e insomma xxxx si dà il cambio eh
-BO052	ci son stati dei litigi per gli spazi o
+BO052	no una casa molto grande perché sì sì sì
+BO049	ah okay bene
+BO052	eh no però si l'unico problema è che c'era un bagno quindi lì c'era un attimo da fare i turni per le doccie cose così
+BO049	sì
+BO052	però alla fine noi siamo un gruppo abbastanza affiatato quindi insomma mentre c'è chi si lava gli altri cucinano apparecchiano
+BO049	okay
+BO052	e insomma xxxx si dà il cambio eh
+BO049	ci son stati dei litigi per gli spazi o
 BO052	no è chiaro che
-BO049	litighiamo eh abbastanza perché dodici persone è impossibile che che non litighino però litigano più sulle cose da fare durante la giornata
-BO052	ah okay
+BO052	litighiamo eh abbastanza perché dodici persone è impossibile che che non litighino però litigano più sulle cose da fare durante la giornata
+BO049	ah okay
 BO052	più che su cosa mangiareo su cioè più o meno i gusti sono son gli stessi per tutti diciamo
-BO049	eh però si per organizzare diciamo le la giornata quello sì abbiamo un po' tribolato ma perché c'erano tante cose da fare c'avevamo le macchine
-BO052	avete preso delle macchine
+BO052	eh però si per organizzare diciamo le la giornata quello sì abbiamo un po' tribolato ma perché c'erano tante cose da fare c'avevamo le macchine
+BO049	avete preso delle macchine
 BO052	sì volevamo andare a tropea che da lì è cioè è due ore di macchina
 BO052	quindi oppure in spiagge ancora più lontane quindi cioè che sono belle da andare a vedere però
-BO049	eh non lo so abbiamo fatto molti briefing per decidere cosa fare dove andare eh
-BO052	riunioni
-BO049	eh insomma così però è stata una bella vacanza
-BO052	e non eravate tutti d'accordo sempre
-BO049	no no anzi abbiamo spesso dovuto fare votazioni per oh purtroppo xxx in dodici cioè insomma la gente lo sa che non è~ che non è facile
-BO052	ma eravate misti tra uomini e donne
+BO052	eh non lo so abbiamo fatto molti briefing per decidere cosa fare dove andare eh
+BO049	riunioni
+BO052	eh insomma così però è stata una bella vacanza
+BO049	e non eravate tutti d'accordo sempre
+BO052	no no anzi abbiamo spesso dovuto fare votazioni per oh purtroppo xxx in dodici cioè insomma la gente lo sa che non è~ che non è facile
+BO049	ma eravate misti tra uomini e donne
 BO052	si c'erano quattro donne e gli altri uomini otto uomini
-BO049	mh mh
+BO052	mh mh
 BO049	è successo qualche episodio boh
 BO049	imbarazzante o più divertente non lo so per quanto riguarda la convivenza xxx con degli amici con delle amiche
-BO052	qualcosa che ti è rimasto particolarmente impresso
-BO049	è stato imbarazzante
-BO052	come quello che non puliva ma
+BO049	qualcosa che ti è rimasto particolarmente impresso
+BO052	è stato imbarazzante
+BO049	come quello che non puliva ma
 BO052	un episodio imbarazzante vabbè a parte a parte mio cugino forse che faceva fatica ad alzarsi tutte le mattine
-BO049	anche lì cioè i problemi sono derivati anche da quello perché magari tu vuoi svegliarti presto per andare in spiaggia e poi c'è c'è della gente che insomma
-BO052	xxx
+BO052	anche lì cioè i problemi sono derivati anche da quello perché magari tu vuoi svegliarti presto per andare in spiaggia e poi c'è c'è della gente che insomma
+BO049	xxx
 BO052	che non si alza mai e fa tardi eh
-BO049	no però episodi eclatanti quest'anno no cioè
-BO052	altri anni sì invece perché
-BO049	no più che altro un mio amico guidava un molto forte questo sì á ma lui è fatto un po' così eh
+BO052	no però episodi eclatanti quest'anno no cioè
+BO049	altri anni sì invece perché
+BO052	no più che altro un mio amico guidava un molto forte questo sì á ma lui è fatto un po' così eh
 BO049	sì
-BO052	quindi vi ha spaventati
+BO049	quindi vi ha spaventati
 BO052	quindi no beh io cioè in senso a me non frega niente
 BO052	può andare anche forte e cioè io sono molto per la libertà
 BO052	cioè non mi piace la gente che ti dice quello che devi fare cioè almeno quando uno guida secondo me c'ha lui il controllo e fa cioè in senso
-BO049	vabbè si può discutere infatti abbiamo fatto una discussione incredibile per tutto questo tempo in vacanza
-BO052	anche su questo
-BO049	eh però sì lui andava abbastanza forte eh allora sì lì c'è stato un po' un litigio ma perché gli altri siccome lui insomma sapeva i posti dove andare gli altri non riuscivano a stargli dietro
-BO052	ah eh beh allora
+BO052	vabbè si può discutere infatti abbiamo fatto una discussione incredibile per tutto questo tempo in vacanza
+BO049	anche su questo
+BO052	eh però sì lui andava abbastanza forte eh allora sì lì c'è stato un po' un litigio ma perché gli altri siccome lui insomma sapeva i posti dove andare gli altri non riuscivano a stargli dietro
+BO049	ah eh beh allora
 BO052	xxx sono abbastanza sono abbastanza presi male un giorno
 BO052	no però sì per il resto dai
-BO049	per il resto no alla fine
+BO052	per il resto no alla fine
 BO049	va bene
-BO052	e c'è stato un momento più bello che hai condiviso con i tuoi compagni di viaggio
-BO049	quest'anno dici
-BO052	sì
+BO049	e c'è stato un momento più bello che hai condiviso con i tuoi compagni di viaggio
+BO052	quest'anno dici
+BO049	sì
 BO052	momento più bello è forse stato
-BO049	no secondo me è stata la giornata di di tropea
-BO052	ah quindi alla fine ci siete andati a tropea
+BO052	no secondo me è stata la giornata di di tropea
+BO049	ah quindi alla fine ci siete andati a tropea
 BO052	perché
 BO052	sì quindi siamo andati
 BO052	eh anche lì insomma è stato un po'
@@ -491,139 +482,135 @@ BO052	cioè siamo arrivati lì che la spiaggia era:: cioè non c'era ancora trop
 BO052	la mattina ci siam messi subito lì e la spiaggia era bellissima e quello secondo me è stato il momento più più bello della vacanza
 BO052	eh
 BO052	ma perché cioè la gente insomma
-BO049	era stanca però comunque insomma xxx dalla bellezza della spiaggia e del posto
-BO052	si è xxx
+BO052	era stanca però comunque insomma xxx dalla bellezza della spiaggia e del posto
+BO049	si è xxx
 BO052	si è
 BO052	era era molto positiva
 BO052	eh
 BO052	si insomma poi vabbè
 BO052	ci son stati altri momenti belli mh magari forse la serata quando siamo andati a ballare
 BO052	xx andati a ballare eh anche alla cena~ l'ultima cena che abbiam fatto è stata molto bella
-BO049	eh
-BO052	siete andati fuori a cena oppure avete mangiato in casa
+BO052	eh
+BO049	siete andati fuori a cena oppure avete mangiato in casa
 BO052	sì siamo andati fuori a cena ma perché insomma
 BO052	lì va abbastanza su raccomandazione e quindi
 BO052	siamo andati in questo posto che c'aveva consigliato la mamma di questo nostro amico
 BO052	cioè abbiamo pagato pochissimo e abbiamo mangiato come dei
 BO052	come degli~ eh no niente è stata una cena molto allegra quello sì
-BO049	
-BO049	
 BO049	bene
-BO052	e adesso inizi le leziono tra poco oppure
-BO049	adesso tra poco inizio le lezioni non ho molta voglia di studiare adesso dovrei studiare fare gli esami ma
-BO052	hai tanti esami che ti mancano per questa sessione
+BO049	e adesso inizi le leziono tra poco oppure
+BO052	adesso tra poco inizio le lezioni non ho molta voglia di studiare adesso dovrei studiare fare gli esami ma
+BO049	hai tanti esami che ti mancano per questa sessione
 BO052	dovrei darne due
-BO049	però comunque a lettere siamo un po' più fortunati perché riusciamo a darli anche durante l'anno cioè ho appelli a ottobre novembre
+BO052	però comunque a lettere siamo un po' più fortunati perché riusciamo a darli anche durante l'anno cioè ho appelli a ottobre novembre
 BO049	ah
-BO052	quindi puoi anche rimandare
+BO049	quindi puoi anche rimandare
 BO052	quindi alla fine se uno vuole impegnarsi riesce a darli
-BO049	cioè mi manc~ dopo se riesco a dare sti due qua a settembre dopo me ne mancano due quindi insomma mh
+BO052	cioè mi manc~ dopo se riesco a dare sti due qua a settembre dopo me ne mancano due quindi insomma mh
 BO049	bravo
 BO049	bravo
-BO052	poi tesi
-BO049	però sì ho fatto molte vacanze quest'anno
-BO052	eh beh dai ci sta va bene anche le vacanze
+BO049	poi tesi
+BO052	però sì ho fatto molte vacanze quest'anno
+BO049	eh beh dai ci sta va bene anche le vacanze
 BO052	essendo partito subito sì
 BO052	perché son partito subito a novembre
 BO052	dopo la triennale
-BO049	ho fatto subito la magistrale quindi
-BO052	eh oltre l'università lavori hai hobby fai del volontariato qualcosa
-BO049	ma adesso ho ripreso a correre
-BO052	sì
-BO049	eh
-BO052	corri vicino a casa oppure ci son dei posti
-BO049	sì corro sempre per @nomeluogo
-BO052	sempre @nomeluogo
-BO049	no però diciamo che siccome corro abbastanza riesco ad andare anche insomma fuori proprio dalla @nomeluogo residenziale
-BO052	okay
+BO052	ho fatto subito la magistrale quindi
+BO049	eh oltre l'università lavori hai hobby fai del volontariato qualcosa
+BO052	ma adesso ho ripreso a correre
+BO049	sì
+BO052	eh
+BO049	corri vicino a casa oppure ci son dei posti
+BO052	sì corro sempre per @nomeluogo
+BO049	sempre @nomeluogo
+BO052	no però diciamo che siccome corro abbastanza riesco ad andare anche insomma fuori proprio dalla @nomeluogo residenziale
+BO049	okay
 BO052	quasi verso la campagna
 BO052	cioè in zone dove
 BO052	son solo case di campagna sai quelle per
-BO049	dove ci mettono il grano e dove ci mettono il fieno mhmh
+BO052	dove ci mettono il grano e dove ci mettono il fieno mhmh
 BO049	dei contadini
-BO052	ah okay
-BO049	e lì cioè mi piace molto correre lì
-BO052	sì come mai
-BO049	eh perché ci sono~ cioè corro sugli argini
+BO049	ah okay
+BO052	e lì cioè mi piace molto correre lì
+BO049	sì come mai
+BO052	eh perché ci sono~ cioè corro sugli argini
 BO049	per la natura per~
-BO052	ma vai a correre di mattina di sera
-BO049	no sempre di sera
-BO052	ah non hai paura a correre in campagna di sera
-BO049	mh no cioè finché ci si vede come adesso no poi vabè insomma essendo uomo non ho tutta questa paura al massimo scappo via se mi insegue
+BO049	ma vai a correre di mattina di sera
+BO052	no sempre di sera
+BO049	ah non hai paura a correre in campagna di sera
+BO052	mh no cioè finché ci si vede come adesso no poi vabè insomma essendo uomo non ho tutta questa paura al massimo scappo via se mi insegue
 BO049	xxx
 BO049	per il più forte
-BO052	va bene
+BO049	va bene
 BO052	mh no però sì mh mi piace molto andare a correre lì ma perché mh
 BO052	cioè per un attimo
 BO052	cioè non sento i rumori delle macchine
 BO052	non sento i rumori della città
 BO052	cioè è brutto da dire ma anche nel mio quartiere quartiere residenziale cioè sono tutti molto operosi
-BO049	quindi tu alla mattina ti alzi e trovi o qualcuno che taglia la siepe del oppure qualcuno che lavora oppure qualcuno cioè insomma
-BO052	fan rumore
-BO049	c'è sempre un casino
-BO052	però non ci sono negozi o fabbriche vicino
-BO049	eh in verità sempre sotto casa mia c'è questo negoz~ mh questo negozio eh è un ambiente~ è una stanzona dove c'è una donna che lavora la maglieria
-BO052	ah
-BO049	fa dei anche lì insomma sono al secondo piano ma un po' si sente anche le macchine che vanno mh
-BO052	sì
-BO049	quindi insomma vado anche a correre fuori dalla città proprio per
-BO052	per cambiare spazio
-BO049	per rilassarmi anche un attimo sì
-BO052	ci sono dei posti che frequenti vicino casa tua non lo so una chiesa o
-BO049	certo
-BO052	sì
-BO049	vado vado spesso in~ cioè sì tutte le domeniche vado in chiesa sì sì
-BO052	e non è lontana da casa tua
-BO049	no è in fondo alla strada a cinquecento metri
-BO052	quindi senti anche le campane
+BO052	quindi tu alla mattina ti alzi e trovi o qualcuno che taglia la siepe del oppure qualcuno che lavora oppure qualcuno cioè insomma
+BO049	fan rumore
+BO052	c'è sempre un casino
+BO049	però non ci sono negozi o fabbriche vicino
+BO052	eh in verità sempre sotto casa mia c'è questo negoz~ mh questo negozio eh è un ambiente~ è una stanzona dove c'è una donna che lavora la maglieria
+BO049	ah
+BO052	fa dei anche lì insomma sono al secondo piano ma un po' si sente anche le macchine che vanno mh
+BO049	sì
+BO052	quindi insomma vado anche a correre fuori dalla città proprio per
+BO049	per cambiare spazio
+BO052	per rilassarmi anche un attimo sì
+BO049	ci sono dei posti che frequenti vicino casa tua non lo so una chiesa o
+BO052	certo
+BO049	sì
+BO052	vado vado spesso in~ cioè sì tutte le domeniche vado in chiesa sì sì
+BO049	e non è lontana da casa tua
+BO052	no è in fondo alla strada a cinquecento metri
+BO049	quindi senti anche le campane
 BO052	sento anche le campane sì sì eh però sì quelle cioè sono ogni ora alla fine non è
 BO052	eh no sì diciamo che è un quartiere sì è cresciuto molto negli ultimi anni
-BO049	io spero però che non diventi insomma che non diventi una metropoli
-BO052	xxx
-BO049	cioè stanno già facendo delle delle costruzioni abbastanza cioè hanno fatto un supermercato nuovissimo
-BO052	sì
-BO049	eh che però ha veramente ha
-BO052	beh è comodo per te no un supermercato
+BO052	io spero però che non diventi insomma che non diventi una metropoli
+BO049	xxx
+BO052	cioè stanno già facendo delle delle costruzioni abbastanza cioè hanno fatto un supermercato nuovissimo
+BO049	sì
+BO052	eh che però ha veramente ha
+BO049	beh è comodo per te no un supermercato
 BO052	anche
 BO052	no okay però a neanche duecento metri ce n'è un altro per dire
-BO049	stanno costruendo anche un'altra tipo pompa di benzina di fianco a un'altra che c'è a un chilometro dopo cioè ci sono delle cose un po'
-BO052	si sta allargando molto allora
-BO049	no sì sì quello sì
+BO052	stanno costruendo anche un'altra tipo pompa di benzina di fianco a un'altra che c'è a un chilometro dopo cioè ci sono delle cose un po'
+BO049	si sta allargando molto allora
+BO052	no sì sì quello sì
+BO049	però
+BO052	più che altro tra un po' arriva a inglobare anche gli altri paesini tipo @nomeluogo cioè pian piano
+BO049	in un quartiere unico
+BO052	mh
+BO049	quindi è un quartiere grande in espansione
+BO052	sì sì molto in espansione
+BO049	e ci sono anche dei locali che frequenìnti o con cui
+BO052	no ehm a @nomeluogo ce n'è uno didi pub diciamo
+BO049	e tu ci vai spesso oppure
 BO052	però
-BO049	più che altro tra un po' arriva a inglobare anche gli altri paesini tipo @nomeluogo cioè pian piano
-BO052	in un quartiere unico
-BO049	mh
-BO052	quindi è un quartiere grande in espansione
-BO049	sì sì molto in espansione
-BO052	e ci sono anche dei locali che frequenìnti o con cui
-BO049	no ehm a @nomeluogo ce n'è uno didi pub diciamo
-BO052	e tu ci vai spesso oppure
-BO052	però
-BO049	no è un pub che non mi piace molto no spesso quando esco vado in centro
-BO052	no
+BO052	no è un pub che non mi piace molto no spesso quando esco vado in centro
+BO049	no
 BO052	eh
-BO049	ma perché con i nostri amici ci troviamo o al corso o al xx quindi ci troviamo qua in centro diciamo
-BO052	bene dai
-BO049	che comunque non è lontano da casa mia perché sono comunque
+BO052	ma perché con i nostri amici ci troviamo o al corso o al xx quindi ci troviamo qua in centro diciamo
+BO049	bene dai
+BO052	che comunque non è lontano da casa mia perché sono comunque
 BO049	sì
-BO052	sempre in bici quindi
+BO049	sempre in bici quindi
 BO052	sempre in bici dieci minuti
-BO049	no da quel punto di vista lì @nomepaese è è una città dalledalle giuste grandezze secondo me
-BO052	sì
-BO049	anche se è in espansione
-BO052	quindi ti trovi bene a girare
+BO052	no da quel punto di vista lì @nomepaese è è una città dalledalle giuste grandezze secondo me
+BO049	sì
+BO052	anche se è in espansione
+BO049	quindi ti trovi bene a girare
 BO052	sì ci si trova molto bene comunque
-BO049	non hai lo stress delle grandi città e
-BO052	comunque c'è tutto
+BO052	non hai lo stress delle grandi città e
+BO049	comunque c'è tutto
 BO052	comunque sì hai c'è tutto abbastanza servizi
-BO049	cioè tutto tutto no perché culturalmente siamo un po' carenti però
-BO049	
-BO052	beh tra un po' c'è il festival della filosofia
+BO052	cioè tutto tutto no perché culturalmente siamo un po' carenti però
+BO049	beh tra un po' c'è il festival della filosofia
 BO052	tra un po' c'è il festival della filofosia è vero però sono tre giorni all'anno
-BO052	
 BO052	la restante parte dell'anno insomma
-BO049	poi chiaro vabbè chiaro che bologna è incomparabile sicuramente quindi
-BO052	va bene okay xx ti lascio andare
-BO049	okay
-BO052	grazie mille
+BO052	poi chiaro vabbè chiaro che bologna è incomparabile sicuramente quindi
+BO049	va bene okay xx ti lascio andare
+BO052	okay
+BO049	grazie mille
 BO052	grazie a te

@@ -1,450 +1,450 @@
-PKP128	buon appeti:to:
-PKP125	buon appetito
+PKP125	buon appeti:to:
+PKP128	buon appetito
 PKP125	m:h
-PKP128	ops
-PKP125	albe' sono buoni
-PKP128	sono buoni?
-PKP125	sì
-PKP128	mo li assa:ggio eh
+PKP125	ops
+PKP128	albe' sono buoni
+PKP125	sono buoni?
+PKP128	sì
+PKP125	mo li assa:ggio eh
 PKP128	mh
-PKP125	mi passi il parmigiano?
-PKP129	mh m:h
-PKP125	ti piacciono?
+PKP128	mi passi il parmigiano?
+PKP125	mh m:h
+PKP129	ti piacciono?
 PKP125	m:h
-PKP129	>buonissimi<
+PKP125	>buonissimi<
 PKP129	(forse dovevo:) le dovevo far cuocere un po' di più
-PKP125	°no°?
-PKP128	no:
+PKP129	°no°?
+PKP125	no:
 PKP128	forse un poco sì
-PKP125	perché per me so' un po' dure:tti [però sono] buoni
+PKP128	perché per me so' un po' dure:tti [però sono] buoni
 PKP125	[ma le]
-PKP128	LA PASTA?
-PKP129	[eh la] pasta
+PKP125	LA PASTA?
+PKP128	[eh la] pasta
 PKP129	[m:h]
-PKP125	a me [piace] così a marina no
+PKP129	a me [piace] così a marina no
 PKP125	[a me]
 PKP125	mh
-PKP128	a me piace così
-PKP125	a me non tanto
+PKP125	a me piace così
+PKP128	a me non tanto
 PKP125	appresso a matteo
-PKP129	sempre più cruda la mangia
-PKP125	pure [a me piace co]sì
+PKP125	sempre più cruda la mangia
+PKP129	pure [a me piace co]sì
 PKP125	[(cioè) matteo:]
 PKP125	proprio::
 PKP125	dura
-PKP128	al limite dell'indecente proprio
+PKP125	al limite dell'indecente proprio
 PKP128	gina appresso a me la mangia sempre più molla
-PKP125	((ride))
+PKP128	((ride))
 PKP125	(ma va)
 PKP125	sei illega:le
 PKP125	i miei sono molto buoni, sono perfe:tti
-PKP129	queste sono le melanzane del vostro giardino?
-PKP128	sì
-PKP129	sì:
-PKP125	una melanzana del nostro giardino
+PKP125	queste sono le melanzane del vostro giardino?
+PKP129	sì
+PKP128	sì:
+PKP129	una melanzana del nostro giardino
 PKP125	vabbè
-PKP129	((ride))
-PKP128	x
-PKP125	una soddisfazione immensa
-PKP128	è una sola ve n'è uscita?
-PKP129	n[o::]
-PKP125	[le zucchi]ne di più
-PKP128	m:h
-PKP129	ah vabbè ma noi le (ave[vamo) xxx]::
-PKP128	[le zucchine avevano i fiori]
-PKP129	per metterle [in xx]
-PKP125	[ho fatto un sacco di] fritte:lle
+PKP125	((ride))
+PKP129	x
+PKP128	una soddisfazione immensa
+PKP125	è una sola ve n'è uscita?
+PKP128	n[o::]
+PKP129	[le zucchi]ne di più
+PKP125	m:h
+PKP128	ah vabbè ma noi le (ave[vamo) xxx]::
+PKP129	[le zucchine avevano i fiori]
+PKP128	per metterle [in xx]
+PKP129	[ho fatto un sacco di] fritte:lle
 PKP125	(qua)
 PKP125	io sto pregando mia madre di fare::,
 PKP125	sto pregando mia ma:dre
 PKP125	le farò i:o
-PKP129	le zucchine:: m::h arrostite poi sott'olio
-PKP125	alla scapece?
+PKP125	le zucchine:: m::h arrostite poi sott'olio
+PKP129	alla scapece?
 PKP125	no
 PKP125	arrostita,
 PKP125	poi o:lio, sa:le,
 PKP125	e:: p~
-PKP129	ori:gano
-PKP128	alla scape:ce (.) °xxxx[x°]
-PKP125	[ma q]uello ci vuole la me:nta proprio
-PKP128	(al)la scapece n~ non sono fri:tte?
-PKP129	ma quando mai?
-PKP125	o fritte o arrosti:te
-PKP128	mh
-PKP129	lei le fa arrosti:te alla scapece
-PKP128	per[ò la rice][tta tradizio]nale è fri[tta]
-PKP125	[e sono buo][ni:ssime]
+PKP125	ori:gano
+PKP129	alla scape:ce (.) °xxxx[x°]
+PKP128	[ma q]uello ci vuole la me:nta proprio
+PKP125	(al)la scapece n~ non sono fri:tte?
+PKP128	ma quando mai?
+PKP129	o fritte o arrosti:te
+PKP125	mh
+PKP128	lei le fa arrosti:te alla scapece
+PKP129	per[ò la rice][tta tradizio]nale è fri[tta]
+PKP128	[e sono buo][ni:ssime]
 PKP125	[xx]
 PKP125	[è] fritta?
-PKP129	con la me:nta poi
-PKP125	mh
+PKP125	con la me:nta poi
+PKP129	mh
 PKP125	a me la menta: nella zucchina:
-PKP128	non fa impazzire
+PKP125	non fa impazzire
 PKP128	>però dipende pure come la metti< perché la menta se la spezzi diventa ama:ra
-PKP125	io l'ho imparato coi cocktail
-PKP128	m:h?
+PKP128	io l'ho imparato coi cocktail
+PKP125	m:h?
 PKP128	mhmh
-PKP129	infatti a lei non gliela faccio mai spezzare
-PKP125	la foglia è una intera poi beh io ce ne metto u:na però
-PKP129	vabbè
-PKP125	poi il giorno prima o il giorno dopo le faccio sono più buone
-PKP128	dev'essere una no:ta di menta
-PKP125	sì
-PKP128	non è che::
-PKP129	però le fa arrostite con (la griglia)
-PKP125	no mo fa troppo caldo ci vuole un sacco di tempo a farle
+PKP128	infatti a lei non gliela faccio mai spezzare
+PKP129	la foglia è una intera poi beh io ce ne metto u:na però
+PKP125	vabbè
+PKP129	poi il giorno prima o il giorno dopo le faccio sono più buone
+PKP125	dev'essere una no:ta di menta
+PKP128	sì
+PKP125	non è che::
+PKP128	però le fa arrostite con (la griglia)
+PKP129	no mo fa troppo caldo ci vuole un sacco di tempo a farle
 PKP125	infatti mamma ha detto
 PKP125	no le voglio fare: m::h
-PKP128	le voglio fare al forno
-PKP129	°>al forno<?°
-PKP125	però al forno vengono secche, se bruciano
-PKP129	mh
-PKP125	#e le devi taglia' un poco (.) più (doppie) però poi in mezzo so' crude e a me nun m' piac
-PKP128	ci sta
-PKP125	la prossima volta se vuoi te le facciamo trova'
-PKP128	((ride))
-PKP125	ottima idea ((ride))
-PKP125	ecco com'è
-PKP129	gina si libe~ si ribellerà a questa
-PKP125	no a me piace cucinare però devo avere tempo
-PKP129	eh
-PKP129	tipo se mi stressano come oggi
-PKP125	#mi stizz'utta quanta
-PKP128	[x]
-PKP129	[vabbè amo'] quand'è che non ti stizzi?
-PKP125	eh (.) vabbè va (.) non mi fare iniziare che sta pur' a' registrazione
+PKP125	le voglio fare al forno
+PKP128	°>al forno<?°
+PKP129	però al forno vengono secche, se bruciano
+PKP125	mh
+PKP129	#e le devi taglia' un poco (.) più (doppie) però poi in mezzo so' crude e a me nun m' piac
+PKP125	ci sta
+PKP128	la prossima volta se vuoi te le facciamo trova'
 PKP125	((ride))
-PKP128	novità dal bar celeste quindi?
-PKP129	[m:h]
-PKP125	[a par]te il bar: mh (.) vabbè il ba[r mi str]essa >(in) tutti i modi ma<
-PKP129	[ah oka(y)]
-PKP125	ma mo di me:no perché stiamo lavorando di meno
+PKP128	ottima idea ((ride))
+PKP125	ecco com'è
+PKP125	gina si libe~ si ribellerà a questa
+PKP129	no a me piace cucinare però devo avere tempo
+PKP125	eh
+PKP129	tipo se mi stressano come oggi
+PKP129	#mi stizz'utta quanta
+PKP125	[x]
+PKP128	[vabbè amo'] quand'è che non ti stizzi?
+PKP129	eh (.) vabbè va (.) non mi fare iniziare che sta pur' a' registrazione
+PKP125	((ride))
+PKP125	novità dal bar celeste quindi?
+PKP128	[m:h]
+PKP129	[a par]te il bar: mh (.) vabbè il ba[r mi str]essa >(in) tutti i modi ma<
+PKP125	[ah oka(y)]
+PKP129	ma mo di me:no perché stiamo lavorando di meno
 PKP125	m:h
-PKP129	vabbè c'è [meno gente a napoli]
+PKP125	vabbè c'è [meno gente a napoli]
 PKP129	[è ferrago:s]to
-PKP128	mh
+PKP129	mh
 PKP128	però: considera che oggi
-PKP129	i condizionatori si sono bloccati in continuazione,
-PKP128	mi sono pure fatta male non vedi il (.) ber[noccolo]?
-PKP125	[gina ha sba]ttuto la tes[ta]
-PKP128	[te lo] volevo chie:dere però ho detto forse sono fuori luogo se:
+PKP128	i condizionatori si sono bloccati in continuazione,
+PKP129	mi sono pure fatta male non vedi il (.) ber[noccolo]?
+PKP128	[gina ha sba]ttuto la tes[ta]
+PKP125	[te lo] volevo chie:dere però ho detto forse sono fuori luogo se:
 PKP128	no: ma quale fuori luogo quella sembra (.) come si chiama quel cartone animato?
-PKP125	>che prende sempre< le botte in testa non me lo ricordo
-PKP128	((ride))
-PKP125	e:: wi~ wi~
-PKP128	non lo so
+PKP128	>che prende sempre< le botte in testa non me lo ricordo
+PKP125	((ride))
+PKP128	e:: wi~ wi~
+PKP125	non lo so
 PKP128	quello con beep bee:p beep
-PKP125	willy il coyo[te]
-PKP128	[a::h wi]lly il coyote
-PKP125	hai presente quando: gl~ lo batte in testa e esce tipo::
-PKP128	((ride)) il bernoccolo
-PKP125	a monta:gna così (.) però non s'è sgonfia:to rispetto a stamattina
-PKP128	e come:: come ti sei fatta male?
+PKP128	willy il coyo[te]
+PKP125	[a::h wi]lly il coyote
+PKP128	hai presente quando: gl~ lo batte in testa e esce tipo::
+PKP125	((ride)) il bernoccolo
+PKP128	a monta:gna così (.) però non s'è sgonfia:to rispetto a stamattina
+PKP125	e come:: come ti sei fatta male?
 PKP128	no: alla fine è colpa mia
-PKP129	[ma figurati]
+PKP128	[ma figurati]
 PKP129	[no: non era colpa] tu:a no la roba di stamattina no
-PKP128	cioè questo no
-PKP129	dove (hai suonato) tu?
-PKP125	essendo che xx facendo forse sì
-PKP129	qua?
-PKP125	perché mentre stai pulendo il laboratorio devi: e:h ti suo:nano, devi fare la vetri:na, poi devi fare il ba:nco, devi fare hai capito,
-PKP129	mh m:h
+PKP129	cioè questo no
+PKP128	dove (hai suonato) tu?
+PKP129	essendo che xx facendo forse sì
+PKP125	qua?
+PKP129	perché mentre stai pulendo il laboratorio devi: e:h ti suo:nano, devi fare la vetri:na, poi devi fare il ba:nco, devi fare hai capito,
+PKP125	mh m:h
 PKP129	stavo finendo le mattonelle nel laboratorio,
 PKP129	ma lì c'abbiamo::
 PKP129	un mobile di accia:io sopra
 PKP129	mi stavo abbassar a aprire la mattonella, hanno suonato a questo campanello, che (.) quando suo:nano vuol dire che sta gente davanti alla vetri:na ma GUAI (.) quand~ che succede che sta sta gente davanti alla vetri:na
-PKP125	#mi so' alza:ta (.) °e agg chiavat l~ là sott'°
-PKP129	ops
+PKP129	#mi so' alza:ta (.) °e agg chiavat l~ là sott'°
+PKP125	ops
 PKP129	però all'inizio non mi sono fatta tanto male
-PKP125	non [sembra]va, ma poi [con il tempo] m'ha iniziato a far male assai (eh)
-PKP128	[x]
-PKP125	[poi tum]
-PKP128	[(immagino)]
+PKP129	non [sembra]va, ma poi [con il tempo] m'ha iniziato a far male assai (eh)
+PKP125	[x]
+PKP128	[poi tum]
+PKP125	[(immagino)]
 PKP128	[a un certo pun]to l'ho trovata seduta sul~ sull'arco della vetrina,
 PKP128	che faceva
 PKP128	x
 PKP128	amo' secondo me:
 PKP128	mi fa un poco male la tes:ta
 PKP128	mi sarò fatta ma:le si alza <il cappello>
-PKP125	#teneva 'na ca[pezza a sta mane:ra]
+PKP128	#teneva 'na ca[pezza a sta mane:ra]
 PKP125	[un ber(n)o:cco]
 PKP125	madonna
 PKP125	capita dai
-PKP128	ohi una bella botta però
-PKP129	però io [mi metto paura perché ques:to] è il lato dove lei: ha sbattuto la testa nell'incidente
-PKP125	[(perché non me n'ero accorta proprio)]
-PKP128	eh inf~
-PKP129	infatti le fa male la testa
+PKP125	ohi una bella botta però
+PKP128	però io [mi metto paura perché ques:to] è il lato dove lei: ha sbattuto la testa nell'incidente
+PKP129	[(perché non me n'ero accorta proprio)]
+PKP125	eh inf~
+PKP128	infatti le fa male la testa
 PKP129	poi stamattina mi girava proprio (.) dopo un po' mi gira:va
 PKP129	#perché all'inizio non non mi ha fatto male infatti son and~ (.) po' dopo un po:' m'è prop' girat a' capa
 PKP129	e mi faceva male
-PKP128	però (non è anda[ta)]
-PKP129	[sei a]ncora debole gi?
-PKP128	un po' de [meno]
+PKP129	però (non è anda[ta)]
+PKP128	[sei a]ncora debole gi?
+PKP129	un po' de [meno]
 PKP128	#[tu hai preso un]a bella botta nell'incidente t'e scurdat?
-PKP129	ha rotto il parabrezza
-PKP125	((ride))
-PKP129	con la testa?
-PKP128	ma [tu mi dovevi vedere] stavo tutta nera fino a qua
-PKP129	[con la testa]
+PKP128	ha rotto il parabrezza
+PKP129	((ride))
+PKP125	con la testa?
+PKP129	ma [tu mi dovevi vedere] stavo tutta nera fino a qua
+PKP128	[con la testa]
 PKP129	ogni (g~) (.) ogni mattina: mi svegliavo:
-PKP128	e l'ematoma scendeva sempre più giù
+PKP129	e l'ematoma scendeva sempre più giù
 PKP128	a tutt'e due i la:ti però ero
-PKP129	>(peraltro) dove la<
-PKP125	perché quello non s'è rotto se si rompeva: (.) era meglio
-PKP129	[mh]
-PKP125	[>perché< alme]no il sangue usci[va fuo:ri]
+PKP128	>(peraltro) dove la<
+PKP129	perché quello non s'è rotto se si rompeva: (.) era meglio
+PKP125	[mh]
+PKP129	[>perché< alme]no il sangue usci[va fuo:ri]
 PKP125	[usciva] fuori
-PKP129	non si coagulava
-PKP125	mh
-PKP128	x:::
-PKP125	(a[llora)]
-PKP128	[ma qua]ndo ci sei stata in 'st'incident[e]?
-PKP129	[il n][ove settembre]
+PKP125	non si coagulava
+PKP129	mh
+PKP125	x:::
+PKP128	(a[llora)]
+PKP125	[ma qua]ndo ci sei stata in 'st'incident[e]?
+PKP128	[il n][ove settembre]
 PKP129	[il n][ove settembre]
 PKP129	l'anno scors(o)
 PKP129	e là pure è stata::: all'improvviso
-PKP125	sembrava che non m'ero fatta niente (poi bell'e buon)
-PKP128	eh
-PKP129	all'incirca una settimana do:po gina sembrava proprio il panda, aveva gli occhi (t~) i cerchi perfetti neri:,
+PKP129	sembrava che non m'ero fatta niente (poi bell'e buon)
+PKP125	eh
+PKP128	all'incirca una settimana do:po gina sembrava proprio il panda, aveva gli occhi (t~) i cerchi perfetti neri:,
 PKP129	ma su:bito là però
-PKP128	l'o:cchio subito che s'è iniziato a gonfiare che: non ci vede[vo (proprio più)]
+PKP129	l'o:cchio subito che s'è iniziato a gonfiare che: non ci vede[vo (proprio più)]
 PKP128	[no: io parlo de]l: fatto che si fecero neri
-PKP129	proprio neri neri n[eri]
+PKP128	proprio neri neri n[eri]
 PKP129	[mh]
-PKP128	ogni gio:rno ogni mattina si gonfiava sempre di più (.) e l'ematoma secendeva sempre di più
-PKP129	poi n[on so per quale legge]
-PKP128	[mamma mia (che dolore)]
-PKP129	allora n[oi (.) facemmo l']incidente?
-PKP128	[x::]
+PKP129	ogni gio:rno ogni mattina si gonfiava sempre di più (.) e l'ematoma secendeva sempre di più
+PKP128	poi n[on so per quale legge]
+PKP129	[mamma mia (che dolore)]
+PKP128	allora n[oi (.) facemmo l']incidente?
+PKP129	[x::]
 PKP128	io mi girai e lei non aveva niente (.) alberto <non aveva niente>
-PKP125	<scendiamo dalla macchina tempo::> dieci minuti un quarto d'ora il tempo sai di renderti conto cosa sta succe[dendo]?
-PKP128	[mh]
-PKP129	mi gi:ro >gina teneva un [occhio< in questa m]aniera:
+PKP128	<scendiamo dalla macchina tempo::> dieci minuti un quarto d'ora il tempo sai di renderti conto cosa sta succe[dendo]?
+PKP125	[mh]
+PKP128	mi gi:ro >gina teneva un [occhio< in questa m]aniera:
 PKP129	[uè mo dovevi senti:re]
-PKP128	perché:: (.) [proprio l'occhio si ini]ziava a chiudere
+PKP129	perché:: (.) [proprio l'occhio si ini]ziava a chiudere
 PKP128	[gonfi:ssimo],
-PKP129	e [io per non farla spave]ntare lei faceva vicino a me dimmi la verità e io non:
-PKP128	[(io) non ci vede:vo]
-PKP129	mi se[nto che l'occhio <SI STA CHIUDE:]NDO> e io facevo ma quando ma:i non hai NIE:NTE x
-PKP125	[ma io non ci vede:vo eh eh]
-PKP128	((ride))
-PKP129	NO[N HAI NIEN~]
+PKP128	e [io per non farla spave]ntare lei faceva vicino a me dimmi la verità e io non:
+PKP129	[(io) non ci vede:vo]
+PKP128	mi se[nto che l'occhio <SI STA CHIUDE:]NDO> e io facevo ma quando ma:i non hai NIE:NTE x
+PKP129	[ma io non ci vede:vo eh eh]
+PKP125	((ride))
+PKP128	NO[N HAI NIEN~]
 PKP129	[x non ci vede]:vo xx non è nie:nte marina non ci ve:do
 PKP129	((ride))
-PKP128	diceva non hai niente e [io non ci ve:do]
-PKP129	[a~ aspe:tta] però (.) spiega questa cosa [perché] tu (.) quando inizi ad avere paura poi che cosa succede?
-PKP128	[mh]
+PKP129	diceva non hai niente e [io non ci ve:do]
+PKP128	[a~ aspe:tta] però (.) spiega questa cosa [perché] tu (.) quando inizi ad avere paura poi che cosa succede?
+PKP129	[mh]
 PKP128	eh si svie:ni
 PKP128	non potevo dirle sì effettivamente hai un occhio gonfiss:imo cioè:
-PKP125	sbatteva a terra in due secondi
-PKP129	e tu non ti eri fa~ non ti sei fatta niente i[n questa circostanza:]?
-PKP128	[(t~) per fortuna no:]
-PKP129	io per [fortuna::]
-PKP125	[xxxxxx] sì ma il giorno dopo [sì]
-PKP128	[e:]::h
+PKP128	sbatteva a terra in due secondi
+PKP125	e tu non ti eri fa~ non ti sei fatta niente i[n questa circostanza:]?
+PKP129	[(t~) per fortuna no:]
+PKP128	io per [fortuna::]
+PKP129	[xxxxxx] sì ma il giorno dopo [sì]
+PKP125	[e:]::h
 PKP128	(il) là per là non mi sono fatta niente
-PKP129	il giorno dopo non mi potevo alzare nemmeno dal le:tto dai dolori
-PKP125	è stata una brutta settima:na (.) veramente brutta
-PKP128	ma com'è successo quest'incidente? ho dimenticato la: m::h
-PKP125	[hai presente dove sta::]
-PKP128	[forse in realtà non me l'avete mai] x mai raccon[tato (bene)]
-PKP125	[hai presente dove s]ta il cimitero vecchio di castelvolturno?
-PKP128	m:hmh
-PKP125	dove sta la tua scuo:la
-PKP128	mhmh
-PKP125	okay quella curva
-PKP128	mhm:h
+PKP128	il giorno dopo non mi potevo alzare nemmeno dal le:tto dai dolori
+PKP129	è stata una brutta settima:na (.) veramente brutta
+PKP125	ma com'è successo quest'incidente? ho dimenticato la: m::h
+PKP128	[hai presente dove sta::]
+PKP125	[forse in realtà non me l'avete mai] x mai raccon[tato (bene)]
+PKP128	[hai presente dove s]ta il cimitero vecchio di castelvolturno?
+PKP125	m:hmh
+PKP128	dove sta la tua scuo:la
+PKP125	mhmh
+PKP128	okay quella curva
+PKP125	mhm:h
 PKP128	praticamente u~ u:no,
 PKP128	stava nella mia corsi:a,
 PKP128	#accindvind,
 PKP128	io stavo girando:::
-PKP125	la curva >e me lo sono trovato praticamente nella macchina<
-PKP129	mado:nna
-PKP128	stavo andando a lavoro (.) cioè stava accompagnando a me a lavoro
-PKP129	cioè non so se hai capito la dina[mica]
-PKP128	[alle otto] di mattina
+PKP128	la curva >e me lo sono trovato praticamente nella macchina<
+PKP125	mado:nna
+PKP129	stavo andando a lavoro (.) cioè stava accompagnando a me a lavoro
+PKP128	cioè non so se hai capito la dina[mica]
+PKP129	[alle otto] di mattina
 PKP128	io giravo la curva,
 PKP128	lui veni:va >però non stava nella corsia su:a< stava nella mi:a:
-PKP125	e quindi >praticamente< è stato un fronta:le
-PKP129	mado:[nna]
-PKP125	[lui cont]roma:no, senza assicurazio:ne
-PKP129	ma s'è fatto ma:le lui?
-PKP128	#n's'è fatt' nie:n[te]
-PKP125	[non] s'è fatto nie:nte >però dovevi vedere< quant'era bellino quando voleva scappare nella te:rra
-PKP128	a piedi?
-PKP129	vabbè non è che stava cercando di scappare però mano a mano: si allontanava poi secondo me si è reso con:to che c'era la sua macchina lì in mezzo distrutta peggio della nostra
+PKP128	e quindi >praticamente< è stato un fronta:le
+PKP125	mado:[nna]
+PKP129	[lui cont]roma:no, senza assicurazio:ne
+PKP125	ma s'è fatto ma:le lui?
+PKP129	#n's'è fatt' nie:n[te]
+PKP128	[non] s'è fatto nie:nte >però dovevi vedere< quant'era bellino quando voleva scappare nella te:rra
+PKP125	a piedi?
+PKP128	vabbè non è che stava cercando di scappare però mano a mano: si allontanava poi secondo me si è reso con:to che c'era la sua macchina lì in mezzo distrutta peggio della nostra
 PKP129	#(do' scappav') eh sì
-PKP128	scappa(va
+PKP129	scappa(va
 PKP128	cioè invece di chiedere co:::~ come sta::te, tutto a po::sto::
-PKP125	io non c'ho l'assicurazio:ne >e a me che me ne frega< se tu non c'hai l'assicurazio(ne)
-PKP129	il problema è che lo potevano indagare anche per omicid~ (.) cioè <tentato omicidio strada:le>
-PKP128	ma infatti
+PKP128	io non c'ho l'assicurazio:ne >e a me che me ne frega< se tu non c'hai l'assicurazio(ne)
+PKP125	il problema è che lo potevano indagare anche per omicid~ (.) cioè <tentato omicidio strada:le>
+PKP129	ma infatti
 PKP128	ma infatti è un attimo
-PKP129	lui [s'è (proprio) noi siamo sta]te:
-PKP128	[XX xxx]
+PKP128	lui [s'è (proprio) noi siamo sta]te:
+PKP129	[XX xxx]
 PKP128	noi siamo state fortunatiss:ime
 PKP128	perché per un fronta:le:: a quella velocità::
-PKP125	le cose dovevano andare un poco poco peggio
-PKP128	ma l'airbag tu ce l'avevi no?
+PKP128	le cose dovevano andare un poco poco peggio
+PKP125	ma l'airbag tu ce l'avevi no?
 PKP128	no: (.) perché era rotto (.) quindi a noi non sono scoppiati gli airbag
-PKP125	motivo per [cui]
-PKP128	[LA CINTU]RA?
-PKP129	no
-PKP128	però noi andavamo piani:ssimo
-PKP129	ma [lui andava]
-PKP128	[era lui che] stava come un pazzo
+PKP128	motivo per [cui]
+PKP125	[LA CINTU]RA?
+PKP128	no
+PKP129	però noi andavamo piani:ssimo
+PKP128	ma [lui andava]
+PKP129	[era lui che] stava come un pazzo
 PKP128	le fortune du:e erano
-PKP125	che io andavo a cinquanta all'ora perché stavo girando la curva:
-PKP128	m:h
+PKP128	che io andavo a cinquanta all'ora perché stavo girando la curva:
+PKP125	m:h
 PKP128	ma poi perché era presto, stavamo andando a(l) lavoro
 PKP128	e du:e::
-PKP129	non lo so qual è stata la seconda fortuna però siamo state fortuna:te
+PKP128	non lo so qual è stata la seconda fortuna però siamo state fortuna:te
 PKP129	che poi lui era
 PKP129	#di pozzuoli:, doveva andare ad aversa:, nun sacc' comm s' truav 'cca dret
-PKP125	s'era: s'era smarrito senza assicurazio:n(e)
-PKP129	sì ma andare contro mano::
+PKP129	s'era: s'era smarrito senza assicurazio:n(e)
+PKP125	sì ma andare contro mano::
 PKP129	ma l~ quel boh
-PKP128	ma lui non se n'era proprio accorto [albe':]
-PKP129	[ma lui non se n']era accorto
-PKP128	lui non se n'era proprio acco:r[to:]
+PKP129	ma lui non se n'era proprio accorto [albe':]
+PKP128	[ma lui non se n']era accorto
+PKP129	lui non se n'era proprio acco:r[to:]
 PKP128	[CIOÈ DELLA] SERIE tu scendi dalle ste:lle
-PKP129	io non avevo nemmeno cap[ito che stavo] controma:no ha detto capito?
+PKP128	io non avevo nemmeno cap[ito che stavo] controma:no ha detto capito?
 PKP129	[IO NON]
 PKP129	sì sì:
-PKP125	lui ha alzato proprio le [mani dal manubrio perché]: (.) sì:
-PKP129	[ma era lucido o era::]?
+PKP129	lui ha alzato proprio le [mani dal manubrio perché]: (.) sì:
+PKP125	[ma era lucido o era::]?
 PKP129	ma lui ha alzato proprio le mani dal manubrio io me lo ricordo ancora o:ggi perché lui non poteva fare più niente
 PKP129	non poteva fare niente più
-PKP128	ormai lui ci stava addosso io me lo ricordo ancora o:ggi [io se chiudo gl]i occhi (.) [me lo ricordo ancora]
+PKP129	ormai lui ci stava addosso io me lo ricordo ancora o:ggi [io se chiudo gl]i occhi (.) [me lo ricordo ancora]
 PKP128	[xxx]
-PKP125	[una frazione di secondo]
-PKP128	brutto
+PKP128	[una frazione di secondo]
+PKP125	brutto
 PKP128	veramente una frazione di secondo
-PKP129	e (u)na botta esagerata
+PKP128	e (u)na botta esagerata
 PKP129	#io me lo ricordo perfettamente pure a iss
-PKP125	#infatti sul ij che quacche vot' o uatt proprio
-PKP128	eh ma non avete fatto: niente all'assicur[azione denu]ncia::?
+PKP129	#infatti sul ij che quacche vot' o uatt proprio
+PKP125	eh ma non avete fatto: niente all'assicur[azione denu]ncia::?
 PKP128	[(appunto)]
-PKP125	come:?
+PKP128	come:?
 PKP125	ah già xx so
-PKP128	>non me lo diceste<
+PKP125	>non me lo diceste<
 PKP128	ma a lei la pratica ancora si deve chiudere è stata chiusa solo la pratica della mia macchina
-PKP125	e quelli mi sono arrivati quasi subbito i soldi e:h (.) [(solo)] [dopo cinque o s]ei mesi
+PKP128	e quelli mi sono arrivati quasi subbito i soldi e:h (.) [(solo)] [dopo cinque o s]ei mesi
+PKP125	[mh]
 PKP129	[mh]
-PKP128	[mh]
-PKP125	o [di me]no?
-PKP128	[però]
-PKP125	secondo me non mi ricor[do]
-PKP129	[la] macchina era da buttare a quanto::
-PKP128	x sì
+PKP128	o [di me]no?
+PKP125	[però]
+PKP128	secondo me non mi ricor[do]
+PKP125	[la] macchina era da buttare a quanto::
+PKP129	x sì
 PKP128	allora in realtà: l'(obelacchia) non è che era proprio da butta:re
-PKP125	teoricamente sì
-PKP129	un pezzettino di (pa:ne) è fuo:[ri]?
+PKP128	teoricamente sì
+PKP125	un pezzettino di (pa:ne) è fuo:[ri]?
 PKP129	[(fra) se] ne vuoi un altro po' ci stanno eh
-PKP125	li vuo:i?
-PKP129	°m:::h°
-PKP125	visto che ti sono piaciuti,
+PKP129	li vuo:i?
+PKP125	°m:::h°
+PKP129	visto che ti sono piaciuti,
 PKP125	(mi) sono molto piaciuti: sono molto soddisfatto se ci sono::
-PKP128	li prendo volentieri e mo::
+PKP125	li prendo volentieri e mo::
 PKP128	comunque:: >che stavo dicendo<?
 PKP128	ah sì (.) eh il problema è che comunque la macchina aveva già tanti chilometri
-PKP125	ti metti a aggiustare un danno d[i::: di] quasi mille euro per che cosa?
-PKP128	[e:h assa(ggio)]
+PKP128	ti metti a aggiustare un danno d[i::: di] quasi mille euro per che cosa?
+PKP125	[e:h assa(ggio)]
 PKP128	cioè non è una macchina::: nuova
-PKP125	che tu dici era una macchina nuova cioè alla fine era una fo[x del duemila]tre
-PKP128	[xxx]
+PKP128	che tu dici era una macchina nuova cioè alla fine era una fo[x del duemila]tre
+PKP125	[xxx]
 PKP128	°cioè°
 PKP128	prima o poi comunque l'avrei dovuta cambiare
 PKP128	a quel punto era mh ha ormai era distrutta avanti
 PKP128	poi un poco aveva toccato il moto:re,
 PKP128	eh eh quindi era:::
 PKP128	effettivamente sì da buttare
-PKP125	[e ho pr]eso quest'altra carretta
-PKP128	[ma]
+PKP128	[e ho pr]eso quest'altra carretta
+PKP125	[ma]
 PKP128	((ride))
-PKP129	<praticame:nte>
-PKP125	lavora alme:no
-PKP128	ho visto che c'è:: scuola guida: sopra affianco no:?
-PKP125	perché quella l'ha: me l'ha venduta ma:cello
-PKP128	ma c'ha anche i pedali::?
-PKP125	sì
-PKP128	quindi anche lei può guidare
+PKP128	<praticame:nte>
+PKP129	lavora alme:no
+PKP125	ho visto che c'è:: scuola guida: sopra affianco no:?
+PKP128	perché quella l'ha: me l'ha venduta ma:cello
+PKP125	ma c'ha anche i pedali::?
+PKP128	sì
+PKP125	quindi anche lei può guidare
 PKP128	mhmh
 PKP128	però è più le volte che litighiamo e la urlo in testa per colpa dei pedali
-PKP129	che le volte che facciamo scuola guida
-PKP128	non è ve:ro era perché: non [perché non vedevo be]:ne
+PKP128	che le volte che facciamo scuola guida
+PKP129	non è ve:ro era perché: non [perché non vedevo be]:ne
 PKP128	[adesso hai impara:to]
 PKP128	all'inizio è stato un trauma
 PKP128	poi dopo lui mi (l~)
-PKP129	andavo a abbassare la frizio:ne e gina aveva <il pie:de> sotto all'altro pe[dale],
-PKP128	[subito] ho impara:to
-PKP125	e quindi >praticamente< non si abba:ssa, e lei rimane col piede incastra:to e io bestemmio
+PKP128	andavo a abbassare la frizio:ne e gina aveva <il pie:de> sotto all'altro pe[dale],
+PKP129	[subito] ho impara:to
+PKP128	e quindi >praticamente< non si abba:ssa, e lei rimane col piede incastra:to e io bestemmio
 PKP125	beh
-PKP128	questo ti può (.) far fare un incidente eh [xx]
-PKP129	[e:h]
-PKP128	ma subito ho impara:to mo non lo faccio più
-PKP129	poi per esemp[io evito di portare persone] ava:nti:
-PKP125	[prima era l'abitudine]
-PKP128	e:h
-PKP125	ma lei va ben[e eh] (.) sale tutti i gio:rni con me quindi lo sa che non deve mettere i piedi
-PKP128	[ma]
+PKP125	questo ti può (.) far fare un incidente eh [xx]
+PKP128	[e:h]
+PKP129	ma subito ho impara:to mo non lo faccio più
+PKP128	poi per esemp[io evito di portare persone] ava:nti:
+PKP129	[prima era l'abitudine]
+PKP125	e:h
+PKP128	ma lei va ben[e eh] (.) sale tutti i gio:rni con me quindi lo sa che non deve mettere i piedi
+PKP125	[ma]
 PKP128	però::
 PKP128	un buon affare
-PKP125	e quindi è andata bene così
-PKP129	ma te l'ha regala:ta?
-PKP128	[xxxx]
+PKP128	e quindi è andata bene così
+PKP125	ma te l'ha regala:ta?
+PKP129	[xxxx]
 PKP128	[ah eh regala]:ta?
 PKP128	e che so'?
 PKP128	so' bell'?
 PKP128	((ride))
-PKP125	l'ho compra:ta
-PKP128	vabbè t'ha fatto uno sco:nt[o no:]?
+PKP128	l'ho compra:ta
+PKP125	vabbè t'ha fatto uno sco:nt[o no:]?
 PKP128	[ah v]abbè questo sì:
-PKP125	mh (hai i tuoi mille e vai)
+PKP128	mh (hai i tuoi mille e vai)
 PKP125	eh vabbè se::
 PKP125	quanti chilometri ha?
-PKP128	po:chi (.) quella è per la scuola guida
+PKP125	po:chi (.) quella è per la scuola guida
 PKP128	°no:°
-PKP125	una via di mezzo (.) mo di preciso non me li ricordo
-PKP128	ah
-PKP125	però comunque la macchina (.) ha: i suoi anni
-PKP128	m:h
-PKP125	non è una macchina che ti puoi tenere per altri vent'anni per farti capire
-PKP128	ma è a benzina?
+PKP128	una via di mezzo (.) mo di preciso non me li ricordo
+PKP125	ah
+PKP128	però comunque la macchina (.) ha: i suoi anni
+PKP125	m:h
+PKP128	non è una macchina che ti puoi tenere per altri vent'anni per farti capire
+PKP125	ma è a benzina?
 PKP128	no a diesel
-PKP125	>per esempio< quello che converrebbe è una bella panda a metano
-PKP128	mh
-PKP125	o una po:lo che io sono innamorata fo~ (.) [folleme]nte della po:lo
-PKP128	[mh]
-PKP125	(a) proposito tuo fratello ora che macchina c'ha?
+PKP128	>per esempio< quello che converrebbe è una bella panda a metano
+PKP125	mh
+PKP128	o una po:lo che io sono innamorata fo~ (.) [folleme]nte della po:lo
+PKP125	[mh]
+PKP128	(a) proposito tuo fratello ora che macchina c'ha?
 PKP125	<mio fratello ha una::: m:h>
-PKP128	#l'x tre °non lo sacc°
+PKP125	#l'x tre °non lo sacc°
 PKP128	ce lo vedo a tuo fratello nella polo
-PKP125	o forse te
-PKP128	a me piace camminare a piedi
-PKP129	((ride))
+PKP128	o forse te
+PKP125	a me piace camminare a piedi
 PKP128	((ride))
+PKP129	((ride))
 PKP128	vabbè dico
-PKP125	a parte questo piccolo dettaglio
+PKP128	a parte questo piccolo dettaglio
 PKP125	m:h
 PKP125	comunque pensavo
 PKP125	quando
 PKP125	a te ti capita mai che tipo c'è qualcuno che guida al posto tu~ cioè tu sei davanti, c'è qualcuno a fianco a te che guida:,
 PKP125	e magari è una situazione di:: così:
-PKP128	<premi: il freno inesistente dal tuo lato no>?
+PKP125	<premi: il freno inesistente dal tuo lato no>?
 PKP128	a volte mi è capita:to
-PKP125	[è una] cosa istinti[va di chi guida]
+PKP128	[è una] cosa istinti[va di chi guida]
 PKP125	[eh]
 PKP125	[istintiva]
-PKP128	che vai subito frizione
-PKP125	m:h
+PKP125	che vai subito frizione
+PKP128	m:h
 PKP125	fre:no no::?
 PKP125	frizione: cambio (mo)
 PKP125	freno
-PKP128	a me (.) sempre infatti secondo me in una macchina del genere
-PKP125	no non ti faccio sedere avanti ti faccio sedere die:tro
-PKP128	°infatti°
+PKP125	a me (.) sempre infatti secondo me in una macchina del genere
+PKP128	no non ti faccio sedere avanti ti faccio sedere die:tro
+PKP125	°infatti°
 PKP128	no sì (.) se ah (.) teoricamente albe' sì io non la potrei portare
 PKP128	dovrei smontare i peda:li
 PKP128	teoricamente (.) il problema è che smontare i peda:li
@@ -454,56 +454,56 @@ PKP128	crea:ta
 PKP128	per una scuola guida
 PKP128	e non è che <chiunque> può uscire con quella macchina >anche perché< ti porti un passeggero affianco
 PKP128	voglio dire c'ha i peda:li
-PKP129	cioè è una cosa pericolosissima (.) non si può fare
-PKP125	#e mo ne' mo arrivaci a centocinquanta euro
-PKP128	mh no
+PKP128	cioè è una cosa pericolosissima (.) non si può fare
+PKP129	#e mo ne' mo arrivaci a centocinquanta euro
+PKP125	mh no
 PKP128	sto co:vid
 PKP128	((ride))
-PKP125	c'ha stroncate
+PKP128	c'ha stroncate
 PKP125	però te l'ha potuta intestare:: passaggio >di proprietà< tutto a posto no?
 PKP125	>(è) intestata a lui<?
-PKP128	è venduta:: <informalmente> diciamo
+PKP125	è venduta:: <informalmente> diciamo
 PKP128	sì anche perché
 PKP128	dovrei partire dalla quattordicesima classe con l'assicurazione
 PKP128	i:::?
 PKP128	voglio dire
 PKP128	non è proprio il caso
-PKP125	mi hanno chiesto duemilaesettecento euro per assicurare una macchina
-PKP128	(una [papera)]
-PKP129	[poi però è] annu[a:le mi disse]
-PKP128	[sì ma uno come] deve fa:re?
+PKP128	mi hanno chiesto duemilaesettecento euro per assicurare una macchina
+PKP125	(una [papera)]
+PKP128	[poi però è] annu[a:le mi disse]
+PKP129	[sì ma uno come] deve fa:re?
 PKP128	ma hai capito che cosa mi disse?
-PKP125	no però è annua:le A:H GRA:ZIE me lo volevi far paga' ogni sei me:si?
+PKP128	no però è annua:le A:H GRA:ZIE me lo volevi far paga' ogni sei me:si?
 PKP125	però: io io che di:co
-PKP128	se le polizze sono (.) così altre (.) alte: (.) è proprio perché ci sono questi cazzoni che ti vengono addosso perché non sanno guida:re:, non hanno la patente, non hanno l'assicurazione si mettono alla guida:
-PKP125	in realtà io penso che qua siano sono così alte per tutti gli imbrogli che fanno
-PKP128	e anche perché ci sono <troppi incide::nti:, t[roppe:: ammaccatu:re::], tro[ppi::]>
+PKP125	se le polizze sono (.) così altre (.) alte: (.) è proprio perché ci sono questi cazzoni che ti vengono addosso perché non sanno guida:re:, non hanno la patente, non hanno l'assicurazione si mettono alla guida:
+PKP128	in realtà io penso che qua siano sono così alte per tutti gli imbrogli che fanno
+PKP125	e anche perché ci sono <troppi incide::nti:, t[roppe:: ammaccatu:re::], tro[ppi::]>
 PKP128	[(oh) troppi incide:nti:]
-PKP129	[tutta] una serie di cose poi fondamentalmente messe in[sie:me]
-PKP128	#[però comm'] s' po': po' duemilasettecento euro all'anno e' assicurazione al[be' e:h]?
-PKP125	[(chiaro)]
-PKP129	[per una] pan:da e:h
-PKP128	cioè [ma come si] [fa]?
-PKP125	[per una pan][da] [(fra)]
-PKP129	[non è] [una fe]rra:ri
-PKP128	ma una persona quanto dovrebbe guadagnare al mese?
+PKP128	[tutta] una serie di cose poi fondamentalmente messe in[sie:me]
+PKP129	#[però comm'] s' po': po' duemilasettecento euro all'anno e' assicurazione al[be' e:h]?
+PKP128	[(chiaro)]
+PKP125	[per una] pan:da e:h
+PKP129	cioè [ma come si] [fa]?
+PKP128	[per una pan][da] [(fra)]
+PKP125	[non è] [una fe]rra:ri
+PKP129	ma una persona quanto dovrebbe guadagnare al mese?
 PKP128	°ja:°
 PKP128	cioè hai capito quanto tempo ci metto io per guadagnare duemilasettecento euro?
 PKP128	#e ja t' vogl ben'
-PKP125	non li posso mai (.) e però è una cosa che poi io prima o poi dovrò pur fa:re perché non è che posso sempre tenere le mie macchine intestate agli a:ltri capito qual è il proble:ma?
-PKP128	ma quello
+PKP128	non li posso mai (.) e però è una cosa che poi io prima o poi dovrò pur fa:re perché non è che posso sempre tenere le mie macchine intestate agli a:ltri capito qual è il proble:ma?
+PKP125	ma quello
 PKP128	anche perché a me ma~ la macchina serve (.) cioè io lavoro a: (.) trenta chilometri da qua cioè
-PKP125	°a me la macchina serve°
+PKP128	°a me la macchina serve°
 PKP125	ma io sapevo che avevano cioè lo sapevo
-PKP128	come si chiama quella le:gge la legge bersa:ni
-PKP125	ma io non sto residente con papà
-PKP128	[ah]
+PKP125	come si chiama quella le:gge la legge bersa:ni
+PKP128	ma io non sto residente con papà
+PKP125	[ah]
 PKP128	[he: io] c'ho la residenza qua
 PKP128	s~ l'unico che potrebbe passarmela o è papà o è mamma
 PKP128	ma non ho la residenza né qua né là
 PKP128	ce l'ho a casa mi:a capito?
-PKP125	se sposto la residenza qua questa risulta come seconda ca:sa e quindi ne pago di tasse <e non pen:[so che] mi conven(ga)>
-PKP128	[mh]
+PKP128	se sposto la residenza qua questa risulta come seconda ca:sa e quindi ne pago di tasse <e non pen:[so che] mi conven(ga)>
+PKP125	[mh]
 PKP128	quindi ti devi mettere là: e devi sperare che fra un anno le cose un poco ca:mbiano e abbassano un poco queste assicurazio(ni)
 PKP128	è vero che tu dici:
 PKP128	prima ini:zi e prima te lo (.) te lo tro:vi poi fondamentalmente
@@ -511,71 +511,71 @@ PKP128	perché comunque poi col passare del tempo tu inizi
 PKP128	quella ascende sempre perché poi dalla quattordicesima passi alla tredice:sima e via dicendo
 PKP128	però:::
 PKP128	lo trovo veramente esagerato
-PKP125	cioè almeno io non me lo posso permette
-PKP128	ma è il motivo per cui ta:nti non se lo possono permettere è il motivo per cui tanta gente qua l'assicurazione non ce l'ha
+PKP128	cioè almeno io non me lo posso permette
+PKP125	ma è il motivo per cui ta:nti non se lo possono permettere è il motivo per cui tanta gente qua l'assicurazione non ce l'ha
 PKP128	no anche perché se vuoi ragiona:re che comunque un ragazzo
 PKP128	di dicio:tto diciannove anni perché la quattordicesima classe si presuppone che comunque tu
 PKP128	intorno a quegli a:nni hai la prima macchinetta fa' vent'a::nni ventu::no:
 PKP128	okay
-PKP129	non lu:i sto dicendo u::n ragazzo norma(le)
-PKP125	ah ((ride))
+PKP128	non lu:i sto dicendo u::n ragazzo norma(le)
+PKP129	ah ((ride))
 PKP125	qua la normalità è che la prima auto a trent'a:nni
-PKP129	FO:RSE
-PKP128	eh vabbè no:i (.) ma mo no albe'
-PKP129	mo non ta:nto albe'
-PKP125	#mo a diciott'anni già tenemm eh i' machin
-PKP128	°vabbè non so°
+PKP125	FO:RSE
+PKP129	eh vabbè no:i (.) ma mo no albe'
+PKP128	mo non ta:nto albe'
+PKP129	#mo a diciott'anni già tenemm eh i' machin
+PKP125	°vabbè non so°
 PKP128	io vedo tu~ tutti questi ragazzi con tutte macchine nuo:ve albe' ma chi le ha mai portat(e)?
-PKP125	cioè io::
-PKP128	io no
-PKP125	ti ti ricordi la pa:lio
-PKP128	bella
-PKP125	((ride))
-PKP128	con l'acqua ogni ta:nto
-PKP129	((ride))
-PKP128	L'A::CQUA:?
+PKP128	cioè io::
+PKP125	io no
+PKP128	ti ti ricordi la pa:lio
+PKP125	bella
+PKP128	((ride))
+PKP125	con l'acqua ogni ta:nto
+PKP128	((ride))
+PKP129	L'A::CQUA:?
 PKP128	vedi se lo rico:rda:
-PKP125	m[ado:nna cambiavo pos]izione ogni trenta seco:ndi in quella macc(hina)
-PKP128	[°che i:ncubo°]
-PKP125	#e papà: che diceva sempre ma quell'è bbo:n (ma quell')è bbo:n
-PKP128	beh tuo pa:dre poi
-PKP129	come c'era un po' di tra:ff:ico era pa:nico ((ride))
+PKP128	m[ado:nna cambiavo pos]izione ogni trenta seco:ndi in quella macc(hina)
+PKP125	[°che i:ncubo°]
+PKP128	#e papà: che diceva sempre ma quell'è bbo:n (ma quell')è bbo:n
+PKP125	beh tuo pa:dre poi
+PKP128	come c'era un po' di tra:ff:ico era pa:nico ((ride))
 PKP129	mari' perché questa qua com'è?
-PKP128	[che ti entra in x:x]
+PKP129	[che ti entra in x:x]
 PKP128	[vabbè ma questa noi l'abbiamo] aggiustata
-PKP125	#e poi chest s'è fuso il moto:re è diverso è un'altra co~
+PKP128	#e poi chest s'è fuso il moto:re è diverso è un'altra co~
 PKP125	x::
-PKP128	ma::: tuo padre ce l'ha ancora il camper?
+PKP125	ma::: tuo padre ce l'ha ancora il camper?
 PKP128	l'ha cambia:to se s~ se n'è preso un altro
 PKP128	cioè s'è venduto quello e se n'è preso un altro
-PKP125	che poi non lo usa ma:i
+PKP128	che poi non lo usa ma:i
 PKP125	no?
-PKP128	neanche d'esta:te mo: pe[r andare in vaca(nza]?
+PKP125	neanche d'esta:te mo: pe[r andare in vaca(nza]?
 PKP128	[vabbè mo c'è stato s~] questo co:vid qua
-PKP129	però::: no (per)ché ada si mette pau:ra non vuole: non vuole andare da nessuna parte
+PKP128	però::: no (per)ché ada si mette pau:ra non vuole: non vuole andare da nessuna parte
 PKP129	vabbè del co:vid c'ha pau:ra
-PKP128	#no(n du lu) camper
-PKP125	beh certo che del [co:][vid] sicurame[nte]
-PKP129	[mh]
-PKP125	[e:h]
-PKP129	[no av]evo capito la::
-PKP128	#mentre paur du lu camper è:: è un proble:m(a)
+PKP129	#no(n du lu) camper
+PKP128	beh certo che del [co:][vid] sicurame[nte]
+PKP125	[mh]
+PKP129	[e:h]
+PKP125	[no av]evo capito la::
+PKP129	#mentre paur du lu camper è:: è un proble:m(a)
 PKP128	((ride))
-PKP125	quindi quest'anno non l'ha proprio utilizzato
-PKP128	m:h
+PKP128	quindi quest'anno non l'ha proprio utilizzato
+PKP125	m:h
 PKP128	almeno gli altri anni d'estate va in vaca:nza
 PKP128	che poi io ho detto un sacco di volte ma allonta:nati un po':
-PKP125	c'hai il ca:mper ma chi te ferm(a)?
-PKP128	ma lui è: (.) proprio il tipico napoleta:no lui va a scale:a cap[ito? xx]
-PKP129	[e~ eh bra]vi:ss:[imo]
-PKP125	[mari' m]a quello c'ha una certa età ma lui deve guidare solo lu:i
-PKP129	però
-PKP128	non è che c'ha vent'a:nni e:h
-PKP125	°dai gi (ma hai [anche il ca][:m][per)°]
-PKP129	[ti pos][so dir~]
+PKP128	c'hai il ca:mper ma chi te ferm(a)?
+PKP125	ma lui è: (.) proprio il tipico napoleta:no lui va a scale:a cap[ito? xx]
+PKP128	[e~ eh bra]vi:ss:[imo]
+PKP129	[mari' m]a quello c'ha una certa età ma lui deve guidare solo lu:i
+PKP125	però
+PKP129	non è che c'ha vent'a:nni e:h
+PKP128	°dai gi (ma hai [anche il ca][:m][per)°]
+PKP125	[ti pos][so dir~]
 PKP129	<[mari'] [ma] tuo padre è sta:nco ma lo capisci che lavora di no:tte, di gio:rno (.) x>
 PKP129	beh non ce la fa:
-PKP128	#già sta sempre in una macchina avanti e indietro mitt't int' a nu camper e arriva:: [solo tu a x]
+PKP129	#già sta sempre in una macchina avanti e indietro mitt't int' a nu camper e arriva:: [solo tu a x]
 PKP128	[non è questo perché] papà quando andavo a vivere io lo conosco a mio padre e mio padre sai che cosa lo spaventa? il fatto di non poter essere:
 PKP128	non poter gestire il fatto che lui non sa parlare le lingue stranie:re capito?
 PKP128	se succede qualco:sa:,
@@ -583,7 +583,7 @@ PKP128	mio padre questo non lo fa andare (.) oltre l'italia
 PKP128	ed è sbagliati:ssimo perché tu ti metti un sacco di li:miti se non va:i non sa:i cioè alla fine devi stare una settima:na c'hai il camper, c'hai tutti i fatti tuo:i
 PKP128	quindi se hai pure il problema della lingua lo su:peri no? cioè non hai:::
 PKP128	certo forse se devi chiedere un'indicazione un poco più::: complicata chiaro che mo oggi con tutte ste tecnologie che ci stanno cioè voglio dire::
-PKP125	#°a:h° pure se proprio arronzatissimo vuoi usare google traduttore te ne e:sci
+PKP128	#°a:h° pure se proprio arronzatissimo vuoi usare google traduttore te ne e:sci
 PKP125	che è potenti:ssimo eh io mi ricordo quando fecevo:
 PKP125	<insegnavo: inglese:: sul lido vaccadoro>
 PKP125	°io (ho) insegna(to) inglese sul lido° vaccadoro raga' che è un lido: non so se te lo conosci::
@@ -600,8 +600,8 @@ PKP125	e mi pagava meglio euro:pa
 PKP125	cioè con fo:ndi fondamentalmente
 PKP125	quindi loro ne potevano solamente approfittare
 PKP125	invece ovviamente no:
-PKP129	noi dobbiamo lavora::re dobbiamo fare era febbraio (.) ma quale lido?
-PKP125	[(lavora?)]
+PKP125	noi dobbiamo lavora::re dobbiamo fare era febbraio (.) ma quale lido?
+PKP129	[(lavora?)]
 PKP125	[in zona a] febbraio a lavor~
 PKP125	quindi non sono venuti più
 PKP125	e SOPRATTUTTO PO:I ho capito il problema qual era il problema è che era tipo:
@@ -609,161 +609,161 @@ PKP125	il::: m::h
 PKP125	il ca:po
 PKP125	andava a dire no:: quello poi::
 PKP125	x: io che lo imparo a fare l'inglese tanto mo: c'è:: google traduttore
-PKP128	e:::h che effettivamente ti fa la tra[duzi]one <simulta:nea italia:no (e) ingle:se>
+PKP125	e:::h che effettivamente ti fa la tra[duzi]one <simulta:nea italia:no (e) ingle:se>
 PKP128	[e:h]
 PKP128	vabbè non esaggeriamo un conto è l:::~ l'età di mio pa:dre ((ride))
-PKP125	che [voglio d]ire
+PKP128	che [voglio d]ire
 PKP125	[però]
 PKP125	lui mi fece provare questo traduttore simultaneo italiano inglese
-PKP128	e obbiettivamen:te faceva pau:ra
+PKP125	e obbiettivamen:te faceva pau:ra
 PKP128	sì vabbè
-PKP125	ma puoi [non puoi mettere in d]ubbio che non vuoi imparare una lingua perché esiste::: il tradutto:re (.) così no (.) aspetta
-PKP128	[cioè io parlavo::]
+PKP128	ma puoi [non puoi mettere in d]ubbio che non vuoi imparare una lingua perché esiste::: il tradutto:re (.) così no (.) aspetta
+PKP125	[cioè io parlavo::]
 PKP128	non sono pienamente d'acco:rdo
-PKP125	perché un conto è conosc[ere la ling]ua, saper strutturare un argome:nto, una discussi[o::ne::], una fra::se::
+PKP128	perché un conto è conosc[ere la ling]ua, saper strutturare un argome:nto, una discussi[o::ne::], una fra::se::
 PKP125	[parte]
-PKP128	[°<ce:rto>°]
+PKP125	[°<ce:rto>°]
 PKP128	e:::h sentirsi padrone della lingua che stai:
 PKP128	parlando (.) un conto è::
 PKP128	avere l'età di mio padre:, andare in vacanza:, con una moglie, un figlio (.) IL CAMPER,
 PKP128	conoscendo mio padre poi tra l'altro
 PKP128	cioè
-PKP125	voglio dire a sessant'anni suona:ti non non non lo impa:ri l'ingl[e:se a meno che n]on ne hai proprio
-PKP128	[no:: infatti]
+PKP128	voglio dire a sessant'anni suona:ti non non non lo impa:ri l'ingl[e:se a meno che n]on ne hai proprio
+PKP125	[no:: infatti]
 PKP128	voglia insomma
-PKP125	ma non è il caso di papà
+PKP128	ma non è il caso di papà
 PKP125	beh
 PKP125	comunque i::o per esempio cioè se fossi
 PKP125	persona::le di una di una struttura alberghiera:
 PKP125	cioè io devo:
 PKP125	quando la gente viene devo stare io là col tradutto:re?
-PKP128	la co[sa proprio] è improponibile
-PKP125	[ma:]
-PKP128	secondo me:
-PKP125	eh (te lo sto) dicendo
-PKP129	cioè uno viene al bar lo parlo in inglese ogni tanto non penso ci siano tanti stranieri da voi mo
-PKP128	[mh]
+PKP125	la co[sa proprio] è improponibile
+PKP128	[ma:]
+PKP125	secondo me:
+PKP128	eh (te lo sto) dicendo
+PKP125	cioè uno viene al bar lo parlo in inglese ogni tanto non penso ci siano tanti stranieri da voi mo
+PKP129	[mh]
 PKP128	[sì:] io::: no ma capita spesso
-PKP125	>de[vi vede']< come mi la:ncio io
+PKP128	>de[vi vede']< come mi la:ncio io
 PKP125	[mh]
-PKP128	xx
-PKP125	x eh
-PKP128	perché no
+PKP125	xx
+PKP128	x eh
+PKP125	perché no
 PKP128	ho imparato money
 PKP128	((ride))
 PKP128	sto scherza::ndo però:
-PKP125	più meno me la cavicchio
-PKP128	ho impara:to
-PKP125	impara:to (bro)
+PKP128	più meno me la cavicchio
+PKP125	ho impara:to
+PKP128	impara:to (bro)
 PKP125	((ride))
-PKP128	<penso che già lo sape:vi money>
-PKP125	già lo sape:vo (.) però: sai a volte ti vergogni a:nche almeno questo è il mio caso mi ver[gogno un po'] anche perché non è che ne sono poi così sicura io non lo so parlare l'inglese
-PKP128	[certo]
-PKP129	xx nemmeno io che (vuotiamo) sto frigorifero però io ho an[cora fa:me]
+PKP125	<penso che già lo sape:vi money>
+PKP128	già lo sape:vo (.) però: sai a volte ti vergogni a:nche almeno questo è il mio caso mi ver[gogno un po'] anche perché non è che ne sono poi così sicura io non lo so parlare l'inglese
+PKP125	[certo]
+PKP128	xx nemmeno io che (vuotiamo) sto frigorifero però io ho an[cora fa:me]
 PKP129	[(piglia un po') (u)na s]igare(tta)
 PKP129	sì perché tu la pasta non te la ma:ngi
-PKP128	he
+PKP129	he
 PKP128	no:: perché vorrei un dolce:tto
-PKP129	tu hai ancora fa:me?
-PKP128	°mangiati:: stanno e' kinder fetta al la(tte)
+PKP128	tu hai ancora fa:me?
+PKP129	°mangiati:: stanno e' kinder fetta al la(tte)
 PKP128	e::h bra::va
-PKP125	alberto la vuoi una kinder fetta al la:tte?
-PKP128	m:a io dopo che mi sono mangiato questa pasta::: così: mi vuoi mettere il sapore della kinder fetta al latte in bocca?
+PKP128	alberto la vuoi una kinder fetta al la:tte?
+PKP125	m:a io dopo che mi sono mangiato questa pasta::: così: mi vuoi mettere il sapore della kinder fetta al latte in bocca?
 PKP128	non lo so ma io queste schifezze le fa:ccio
-PKP129	tu che vuoi? le sigarette?
-PKP128	mh
-PKP129	dove stanno?
-PKP125	non lo so (.) forse nel mio zaino
-PKP128	ma è una kinder [fetta al latte::]:?
-PKP129	[xxxxx]?
-PKP125	°pezzo~°
+PKP128	tu che vuoi? le sigarette?
+PKP129	mh
+PKP128	dove stanno?
+PKP129	non lo so (.) forse nel mio zaino
+PKP125	ma è una kinder [fetta al latte::]:?
+PKP128	[xxxxx]?
+PKP129	°pezzo~°
+PKP125	#[pezzo:tta]
 PKP129	#[pezzo:tta]
-PKP129	#[pezzo:tta]
-PKP128	((ride))
-PKP129	questa poi me la spiegherai
-PKP128	((ride))
-PKP129	di' a gi dove sono le sigare[(tte)]?
-PKP125	#[a]mò nello za:ino ja pigliamelle nu poco p' piacere
+PKP129	((ride))
+PKP128	questa poi me la spiegherai
+PKP129	((ride))
+PKP128	di' a gi dove sono le sigare[(tte)]?
+PKP129	#[a]mò nello za:ino ja pigliamelle nu poco p' piacere
 PKP125	m:h
 PKP125	ma il bar da quand'è che chiude?
 PKP125	va in ferie?
 PKP125	>non va in ferie<?
-PKP129	e voi quando andate in ferie?
-PKP128	io non vado pro:prio loro:: (vanno) [xx]
-PKP125	[lei non le ha mat]urate
-PKP128	°madonna°
-PKP129	le ho maturate solo io
+PKP125	e voi quando andate in ferie?
+PKP129	io non vado pro:prio loro:: (vanno) [xx]
+PKP128	[lei non le ha mat]urate
+PKP125	°madonna°
+PKP128	le ho maturate solo io
 PKP129	in realtà senza contra:tto sto
 PKP129	però
-PKP128	#dicimme che non le ho amaturat(e)
-PKP129	[gina le avr]esti maturate lo stesso
+PKP129	#dicimme che non le ho amaturat(e)
+PKP128	[gina le avr]esti maturate lo stesso
 PKP129	[(di nuovo)]
 PKP129	e n'dov'è l'accendi:no?
 PKP129	mari' non insistere che vuoi dare sempre ragione a alberta
 PKP129	non
 PKP129	<non le matura:vo>
 PKP129	se (.) avevo un contratto
-PKP128	#<visto che non ho il contra:tto (.) lei non può dire tu non hai maturato le ferie> perché io u cuntratt' nu teng(o) quindi:
-PKP129	(amo [beh che) non gliel'hai chie:sto da quello hai de:tto però]
+PKP129	#<visto che non ho il contra:tto (.) lei non può dire tu non hai maturato le ferie> perché io u cuntratt' nu teng(o) quindi:
+PKP128	(amo [beh che) non gliel'hai chie:sto da quello hai de:tto però]
 PKP129	[io po:sso prendermi QUATTRO O CINQUE GIOR]NI di:
-PKP128	di:: d[i fe:rie volendo]
-PKP129	[<ma non gliel'hai chies]:t[o:>]
+PKP129	di:: d[i fe:rie volendo]
+PKP128	[<ma non gliel'hai chies]:t[o:>]
 PKP129	[e]:h
-PKP128	allora no[n d]ire non le avresti maturate lo stesso
+PKP129	allora no[n d]ire non le avresti maturate lo stesso
 PKP128	[eh]
 PKP128	di:co
-PKP129	non sei stata messa in turnazione delle fe:rie perché di regola lei se non passa un anno le ferie non te le dà
-PKP128	eh
-PKP129	lei [lo fa con tu]tti
+PKP128	non sei stata messa in turnazione delle fe:rie perché di regola lei se non passa un anno le ferie non te le dà
+PKP129	eh
+PKP128	lei [lo fa con tu]tti
 PKP129	[di re:gola]
 PKP129	ma io non sto in regola
-PKP128	(a o) [fin di dire che con lei con me non può parlare]
+PKP129	(a o) [fin di dire che con lei con me non può parlare]
 PKP128	[beh però stai a regola due quattro cinque] giorni
-PKP129	alberta non verrà ma:i vicino a [te a d]irti (.) li vuoi cinque giorni di ferie?
+PKP128	alberta non verrà ma:i vicino a [te a d]irti (.) li vuoi cinque giorni di ferie?
 PKP129	[x]
 PKP129	oka::y
-PKP128	mo io non glieli ho chies:ti ma con me di regola non può parlare se non sto in regola
+PKP129	mo io non glieli ho chies:ti ma con me di regola non può parlare se non sto in regola
 PKP128	chiediglieli, e vedi che ti dice
 PKP128	non ti può dire di no
-PKP125	o no?
-PKP128	ma a te quanti giorni ti dà?
+PKP128	o no?
+PKP125	ma a te quanti giorni ti dà?
 PKP128	quindici all'anno
-PKP125	paga:ti
-PKP128	e tu te li prendi?
-PKP125	no
-PKP128	te li accumuli,
+PKP128	paga:ti
+PKP125	e tu te li prendi?
+PKP128	no
+PKP125	te li accumuli,
 PKP128	teoricamente me li prendo se~
 PKP128	°no teoricamente° me li prendo sempre
 PKP128	quest'anno ho deciso di prendermi cinque a sette:mbre:,
 PKP128	e dieci in inverno
 PKP128	anche perché sono paga:ti
 PKP128	quindi già lì
-PKP125	e non sono cumula:bili
+PKP128	e non sono cumula:bili
 PKP125	ma infatti lei ti dovrebbe dare i soldi se:::
-PKP128	se non fai: le fe:rie tipo
+PKP125	se non fai: le fe:rie tipo
 PKP128	sì però:
 PKP128	lei è fur:ba
 PKP128	prima che scade l'anno
 PKP128	si fa il resoconto?
-PKP125	se non vai in ferie ti manda le:i capito che fa?
-PKP128	ah
+PKP128	se non vai in ferie ti manda le:i capito che fa?
+PKP125	ah
 PKP128	perché poi a dice:mbre deve cacciare le tredice:sime
-PKP129	e già sta piangendo miseria per mo a dice::m[bre: e:::h]
+PKP128	e già sta piangendo miseria per mo a dice::m[bre: e:::h]
 PKP129	#[e::h que' chiagne] sempre
-PKP128	#chiagna sempre
+PKP129	#chiagna sempre
 PKP128	ha detto è il mese che non si lavora::
-PKP129	che io devo cacciare il doppio de[gli stipe:ndi]
-PKP125	#[non si lavor ma]:i arlora agosto non si lavo:ra, dicembre n'se lavo:ra, cioè >n'sacc' (per)ché nu chur u chiur u bar<
-PKP128	[forse perché]
-PKP125	[però sta a (vegli]arlo)
-PKP129	forse perché: s[ono:::]
+PKP128	che io devo cacciare il doppio de[gli stipe:ndi]
+PKP129	#[non si lavor ma]:i arlora agosto non si lavo:ra, dicembre n'se lavo:ra, cioè >n'sacc' (per)ché nu chur u chiur u bar<
+PKP125	[forse perché]
+PKP128	[però sta a (vegli]arlo)
+PKP125	forse perché: s[ono:::]
 PKP129	[non si la]vora mai:::,
-PKP128	siamo cinque di noi e non bastiamo:,
+PKP129	siamo cinque di noi e non bastiamo:,
 PKP128	che c'è albe'?
-PKP125	ti vedo perple:sso su quest'argomento
-PKP128	no no sono solo sconvolto
-PKP125	perché?
-PKP129	da come si comportano questi::: m:h
+PKP128	ti vedo perple:sso su quest'argomento
+PKP125	no no sono solo sconvolto
+PKP128	perché?
+PKP125	da come si comportano questi::: m:h
 PKP129	no ma per loro è tutto norma:le e:h
 PKP129	per lo:ro:: tu (.) sai come rispondi a lei e il padre?
 PKP129	allora la mamma no
@@ -772,8 +772,8 @@ PKP129	è una persona falsa pure la mamma eh perché non sono persone lea:li::
 PKP129	e persone di cuo:re:
 PKP129	non lo sono
 PKP129	però comunque:
-PKP128	ma [lei e il pa:dre]
-PKP129	[e chi lo è: non c'è] più
+PKP129	ma [lei e il pa:dre]
+PKP128	[e chi lo è: non c'è] più
 PKP129	lei e il pa:dre alberto mi devi credere
 PKP129	entrano non dicono nemmeno buongiorno
 PKP129	<niente>
@@ -781,9 +781,9 @@ PKP129	niente
 PKP129	lei e il padre se tu: gli fai un discorso del genere loro lo sai come ti dice?
 PKP129	#>e mic' tenimm ru post' ind'a' banc'<
 PKP129	cossì ti rispo:ndono
-PKP128	#e mic' e' pigliat ru post' ind'a' banc'
-PKP125	cosa che per e[sempio]
-PKP129	[quindi non] merito rispe:tto p[erché:: il mio lavoro è::]
+PKP129	#e mic' e' pigliat ru post' ind'a' banc'
+PKP128	cosa che per e[sempio]
+PKP125	[quindi non] merito rispe:tto p[erché:: il mio lavoro è::]
 PKP129	[non meriti rispe~ (.) per lei:] è il pa:dre no,
 PKP129	e::h stanno i tavolini là f(u)ori
 PKP129	allora a me <questi atteggiamenti danno fasti:dio>
@@ -801,25 +801,25 @@ PKP129	così fa
 PKP129	e tu devi stare zitta
 PKP129	poi (vai) vicino alla figlia,
 PKP129	gli dici oh (gu)ard(a) albe' io con cinquecento euro al me(se) io non ce la facc' a (scend~) °e lei ti° risponde eh io per questo mese è così
-PKP128	e non puoi farci nie:nte
-PKP129	no (lui t'ha ma tu fa) aspetta un a:ttimo:
-PKP128	x?
-PKP129	non puoi farci nie:nte non es[iste] né in cielo e né in te:[rra perché tu sei padrona della] tua vi:[ta]
+PKP129	e non puoi farci nie:nte
+PKP128	no (lui t'ha ma tu fa) aspetta un a:ttimo:
+PKP129	x?
+PKP128	non puoi farci nie:nte non es[iste] né in cielo e né in te:[rra perché tu sei padrona della] tua vi:[ta]
 PKP129	[no]
 PKP129	[no devi stare zi:tta:],
-PKP128	[sì] [se poi (parli)]
-PKP129	[no non devi stare] zitta tu vuoi [pure non sta:i zitta]
+PKP129	[sì] [se poi (parli)]
+PKP128	[no non devi stare] zitta tu vuoi [pure non sta:i zitta]
 PKP129	[nella mia condizio]:ne dico nella mia situazione (.) oggi
-PKP128	a[ttua:le mari']
+PKP129	a[ttua:le mari']
 PKP128	[perché ness:u::no] ma ma~ ma proprio in generale nella vi:ta potrà dirti quello che tu devi fa:re
-PKP129	[se non ti sta bene ti alzi e te ne va:i:]
-PKP128	[nella mia situazione oggi attu]a:le [dico:]
+PKP128	[se non ti sta bene ti alzi e te ne va:i:]
+PKP129	[nella mia situazione oggi attu]a:le [dico:]
 PKP128	[cioè lavorera]i lo stesso
 PKP128	perché a noi (.) è anche questa mentalità del dire:
 PKP128	#m' stong zitt' che ci ha rovina:ti
-PKP125	ed è così
-PKP128	però [purtroppo]
-PKP129	[perché voglio ved]ere se tutti qua:nti dicono io qua dentro non ci metto piede fino a quando tu a me (.) [non me fai il contra:tto]
+PKP128	ed è così
+PKP125	però [purtroppo]
+PKP128	[perché voglio ved]ere se tutti qua:nti dicono io qua dentro non ci metto piede fino a quando tu a me (.) [non me fai il contra:tto]
 PKP129	[marina ma (.) io non poss]:o fare un ragionamento così con le:i,
 PKP129	ch~ allora (.) è stata lei a chiamarmi,
 PKP129	io un lavoro ce l'ave:vo
@@ -841,11 +841,11 @@ PKP129	cioè nella mia te:sta: (.) settembre era settembre
 PKP129	invece nella sua testa
 PKP129	settembre è ottobre
 PKP129	cioè lei a ottobre: (.) mi pagherà lo stipendio: (.) intero: (.) del mese di settembre
-PKP128	[invece]
-PKP125	[ma non le]i e:h perché gina è finitura del me:se
-PKP129	[MA LE]I (.) lei paga a fine mese:? [o è]?
-PKP128	[(e inv~)]
-PKP129	[sì]
+PKP129	[invece]
+PKP128	[ma non le]i e:h perché gina è finitura del me:se
+PKP125	[MA LE]I (.) lei paga a fine mese:? [o è]?
+PKP129	[(e inv~)]
+PKP128	[sì]
 PKP129	#invece: per cume raggiona
 PKP129	cioè
 PKP129	per come eravamo rimaste io e le::i::
@@ -856,23 +856,23 @@ PKP129	#e invece n'i'aver
 PKP129	#OLTRETU:TTO mo m'ha luat pur CINQUANN'E:URO
 PKP129	#perché o' mes' scorso m'aveva rat i' 'cchiù
 PKP129	#e in più mi fa pure o' rimprovero (e sistem o' vassoio l'e mis tutt' occupatə)
-PKP125	#dopp tutt' chell' che facc là dint'
-PKP129	ma: lei si comporta così anche con te?
-PKP128	(siamo s[e:ri)]
-PKP125	[no: a m]e però >me non mi conta:te< perché io sono l'u:nica che n::~
-PKP128	x?
+PKP129	#dopp tutt' chell' che facc là dint'
+PKP125	ma: lei si comporta così anche con te?
+PKP129	(siamo s[e:ri)]
+PKP128	[no: a m]e però >me non mi conta:te< perché io sono l'u:nica che n::~
+PKP125	x?
 PKP128	tutti gli altri li tratta così
 PKP128	però:
-PKP129	[mi rendo co:nto che con me forse lo fa di me:no ma >sempli]cemente perché< io gli gestisco il bar inte:ro quindi non le convie:ne fare una cosa del ge[nere con me]
-PKP125	[ma non perché: ti maltratta o qualcosa eh]?
-PKP128	[beh sei la ma]:nager insomma del loca[le]
+PKP128	[mi rendo co:nto che con me forse lo fa di me:no ma >sempli]cemente perché< io gli gestisco il bar inte:ro quindi non le convie:ne fare una cosa del ge[nere con me]
+PKP129	[ma non perché: ti maltratta o qualcosa eh]?
+PKP125	[beh sei la ma]:nager insomma del loca[le]
 PKP128	[°e]::h°
-PKP129	anche perché per esempio lo::ro non lo rispondono a carlo io lo io litigo m::h mattina pomeriggio e se:[ra, un giorno sì e l'altro pu:re]
-PKP128	[ma io non mi po:sso permettere il] lusso di rispondere a una pers[ona da un me:se c]he sono entrata là den[tro:]
+PKP128	anche perché per esempio lo::ro non lo rispondono a carlo io lo io litigo m::h mattina pomeriggio e se:[ra, un giorno sì e l'altro pu:re]
+PKP129	[ma io non mi po:sso permettere il] lusso di rispondere a una pers[ona da un me:se c]he sono entrata là den[tro:]
 PKP128	[(SARÀ DA ALME:NO)]
 PKP128	[lo so]:
-PKP129	però per ese[mpio io] viene vicino a me stanno i tavolini là fuori e:h aspe:tti (.) tu, e pure i ta:voli
-PKP128	[eh eh]
+PKP128	però per ese[mpio io] viene vicino a me stanno i tavolini là fuori e:h aspe:tti (.) tu, e pure i ta:voli
+PKP129	[eh eh]
 PKP128	perché io non ho (gente a) lavorare
 PKP128	l'altra volta si prese il ragazzino delle consegne che: poi
 PKP128	in testa a lu:i: si doveva spostare l'ombrellone:, si è prelevato il ragazzo delle consegne, io avevo le consegne fino a in testa non so quante consegne avevo accumula:to,
@@ -886,9 +886,9 @@ PKP128	vado per ritornare da là dietro perché c'abbiamo un posto dove fumiamo,
 PKP128	e (.) lo vedo appresso a carlo (.) GIU:LIO
 PKP128	io c'ho le consegne fino in testa vuoi entrare dentro a fare le conse:gne:?
 PKP128	#e:h i po' l'agg chiammat ij carlo ma tu non m'e po' fa 'ste nzummat e' ca:p perché io sto lavora:ndo
-PKP129	cioè non posso buttare le consegne indie:tro perché tu devi spostare l'ombrellone e te chiama do voi (lui) delle consegne
-PKP125	no è tutto così là
-PKP129	ma è fuori di te:sta questo o è un anz[iano:::]
+PKP128	cioè non posso buttare le consegne indie:tro perché tu devi spostare l'ombrellone e te chiama do voi (lui) delle consegne
+PKP129	no è tutto così là
+PKP125	ma è fuori di te:sta questo o è un anz[iano:::]
 PKP129	[ma è un deficie]:nte
 PKP129	poi sai che fa? dice::
 PKP129	(non pren~)
@@ -900,15 +900,15 @@ PKP129	#ISS
 PKP129	CON LE SUE MANI:
 PKP129	#pigl'u cornett a in d'a vetrina e po' s'u mangia
 PKP129	#con 'na vet~ con un bar pin'i gent
-PKP128	così fa
-PKP129	>comunque< vabbè morale della sto:ria lui quando sto io: cerca sempre di svignarsela (.) >perché< [se no] litighiamo
-PKP128	[eh]
-PKP125	[e::h] io quando apro la bocca: tu:::
-PKP129	[x]
-PKP128	io che co:sa?
+PKP129	così fa
+PKP128	>comunque< vabbè morale della sto:ria lui quando sto io: cerca sempre di svignarsela (.) >perché< [se no] litighiamo
+PKP129	[eh]
+PKP128	[e::h] io quando apro la bocca: tu:::
+PKP125	[x]
+PKP129	io che co:sa?
 PKP128	cioè lo stoppo: a priori capito?
-PKP129	[e spesso e volentieri è capita]:to: (.) che io le ho detto carlo vedi di calmarti perché nemmeno mio padre mi parla così
-PKP128	[ma lei ha un altro cara:ttere:]
+PKP128	[e spesso e volentieri è capita]:to: (.) che io le ho detto carlo vedi di calmarti perché nemmeno mio padre mi parla così
+PKP129	[ma lei ha un altro cara:ttere:]
 PKP128	cioè io lo prendo proprio a: pesci in faccia ma proprio senza pietà
 PKP128	perché allora se tu vieni vicino a me e mi fai un discorso e mi dici guarda
 PKP128	come dobbiamo fare::
@@ -925,12 +925,12 @@ PKP128	cioè non lo po:sso fa:re capito?
 PKP128	allora tu non sei un tipo di persona così (.) tu vuoi fare l'arroga:nte:
 PKP128	okay? tu vuoi fare padre padro:ne e con me non vai d'accordo
 PKP128	però quando poi parlo con la fi:glia:
-PKP129	>la figlia dice tu a mio padre non lo devi pensa:re, tu devi stare a sentire solo a me:, tu non lo devi dare re:tta, quello che dice mio padre è nu:lla, solo quello che ti dico i:o< blu bu:, ba ba [ba:],
-PKP125	#[eh] (.) e po' sta ess (ch' fa) tutto chell' ca le ric o' pat
-PKP128	ma questo padre ha un ruolo:::?
-PKP129	pensiona:to
-PKP125	#ché tiene niente (d)a fa:re x::: ce l'ha solo lu bar capito?
-PKP128	<ma il ba:r era su:o: e poi l'h[a:::]>?
+PKP128	>la figlia dice tu a mio padre non lo devi pensa:re, tu devi stare a sentire solo a me:, tu non lo devi dare re:tta, quello che dice mio padre è nu:lla, solo quello che ti dico i:o< blu bu:, ba ba [ba:],
+PKP129	#[eh] (.) e po' sta ess (ch' fa) tutto chell' ca le ric o' pat
+PKP125	ma questo padre ha un ruolo:::?
+PKP128	pensiona:to
+PKP129	#ché tiene niente (d)a fa:re x::: ce l'ha solo lu bar capito?
+PKP125	<ma il ba:r era su:o: e poi l'h[a:::]>?
 PKP128	[e::h]
 PKP128	l'ha dato ai fi:gli
 PKP128	#come lo stesso fatto poi dice le stronza:te e ij vac ancora 'cchiù 'n frev
@@ -939,16 +939,16 @@ PKP128	però comunque quello che io ho imparato l'ho imparato be:ne
 PKP128	e so perfettamente di averlo imparato bene
 PKP128	se abbiamo un problema di pressione della ma:cchina (.) perché io prima di mettermi a fare il caffé ho studia:to
 PKP128	la macchina come funzio:na
-PKP125	e abbiamo un problema della pressio:ne okay che se perché quella macchina se non sta a pressione giusta il caffé esce acqua praticamente
-PKP128	m[a: voi c'avete] quella: a pistone [ancora]?
+PKP128	e abbiamo un problema della pressio:ne okay che se perché quella macchina se non sta a pressione giusta il caffé esce acqua praticamente
+PKP125	m[a: voi c'avete] quella: a pistone [ancora]?
 PKP128	[ovviamente]
 PKP128	[esa:tto] >quindi praticamente< non si riscalda l'acqua, l~ il caffé è freddo, esce: acqua praticamente proprio::
-PKP125	vomi[te:v]ole insomma
-PKP128	[mh]
+PKP128	vomi[te:v]ole insomma
+PKP125	[mh]
 PKP128	noi abbiamo un pro~ stamatti:na ci siamo svegliati la macchina sta dando questo problema succe:de perché comunque è una sca:tola con dei fusibili cioè succede che si rompe qualche volta okay?
 PKP128	io ti dico carlo (.) si abbassa la pressione non ti mettere a scaricare acqua
-PKP129	è peggio (.) me la fai scendere ancora di più la pressione
-PKP128	x [e:h]
+PKP128	è peggio (.) me la fai scendere ancora di più la pressione
+PKP129	x [e:h]
 PKP128	[cioè su] questo ci può arrivare anche qualcuno che non è del mestie:re:
 PKP128	i:o
 PKP128	#i:o a 'ccà dret c' so na:t
@@ -959,20 +959,20 @@ PKP128	>immediatamente<,
 PKP128	alberta mi asco:lta su questo capito?
 PKP128	però io sto pure da dieci a:nni
 PKP128	e ti ripe:to gli gestico u bar
-PKP129	manco fosse il mi:o
+PKP128	manco fosse il mi:o
 PKP129	mo no marina va in fe:ri(e)
 PKP129	#mo i: 'n cap a alberta ch'avessa fà
 PKP129	da preme:ttere che io sono andata a lavorare là (.) a patto che potevo scendere a lavoro solo con marina
 PKP129	perché (.) non ho la ma:cchina
 PKP129	#(guegn) cingcient' euro 'o me:s' no?
 PKP129	lei non sa (.) che io
-PKP125	vivo con mari:na e tutte queste situazio[ni qua]
-PKP129	[ah no]?
-PKP128	non le sa [xx]
-PKP125	[no e non le] saprà ma:i sinceramen(te)
-PKP129	a:h quindi vo[i sie]t[e:::]
-PKP128	[mo]
-PKP129	[ami]:che
+PKP129	vivo con mari:na e tutte queste situazio[ni qua]
+PKP125	[ah no]?
+PKP129	non le sa [xx]
+PKP128	[no e non le] saprà ma:i sinceramen(te)
+PKP125	a:h quindi vo[i sie]t[e:::]
+PKP129	[mo]
+PKP128	[ami]:che
 PKP129	<metti un pochino nella sua testa io che cosa dovrei fa:re:>
 PKP129	per questi cinquecento euro al mese che lei mi dà:
 PKP129	ora che marina andrà in ferie per cinque giorni, (.) mio padre,
@@ -981,10 +981,10 @@ PKP129	a lavo:ro
 PKP129	bra:va (bianchini)
 PKP129	perché per lei è giusto così
 PKP129	#p'cché ij ata scenn a' faticà
-PKP128	per cinquecento euro al mese
-PKP129	[che è giu:sto perché] >fondamentalmente<
+PKP129	per cinquecento euro al mese
+PKP128	[che è giu:sto perché] >fondamentalmente<
 PKP129	[è giusto così:]
-PKP128	è giusto
+PKP129	è giusto
 PKP128	per una perso:na:
 PKP128	che non ha preso un pa:tto dici è un problema tuo come vieni a lavo:ro non è un problema mi:o
 PKP128	però forse qua è un poco diverso perché comunque tu ti sei seduta a tavoli:no e stiamo perlando di una perso~ e io ti giu:ro alberto
@@ -1005,37 +1005,37 @@ PKP128	no:::
 PKP128	e:::h io ti do di più: (ch'io mo fa~) mo lascia stare che è successo il fatto della co:vid <nessuno poteva saperlo>
 PKP128	però >tu ti devi< pure ferma:re
 PKP128	sorella mia ca:ra
-PKP129	perché sulla faccia della terra non esisti solo tu
+PKP128	perché sulla faccia della terra non esisti solo tu
 PKP129	tu ti rendi conto che io x lascia stare però ti rendi conto che in quei cinque giorni
 PKP129	ci vogliono quindici euro al giorno e quattro euro di tangenziale al giorno?
-PKP125	in cinque giorni (.) calcola tu quanto sono?
+PKP129	in cinque giorni (.) calcola tu quanto sono?
 PKP125	il tuo stipendio
-PKP129	mens[i:le]
-PKP125	[dimmi tu] se è una cosa fatta (.) gius~ (.) per be:ne: (.) o no
-PKP128	no
+PKP125	mens[i:le]
+PKP129	[dimmi tu] se è una cosa fatta (.) gius~ (.) per be:ne: (.) o no
+PKP125	no
 PKP128	soprattutto venendo poi da un discorso che hai fatto la grande riempiendoti la bo:cca eh vabbè tu verrai sempre insieme a marina qual è il problema?
-PKP125	pur di farla scendere a lavora:re
-PKP128	eh [ma tu comunque glielo] devi d[i:re a que:sta]
-PKP129	[E IO presi albe~]
-PKP128	[QUI:NDI tu nei mi]ei confro:nti n[on stai i]n regola e nie:nte a me me stai sc~
-PKP129	[xx]
+PKP128	pur di farla scendere a lavora:re
+PKP125	eh [ma tu comunque glielo] devi d[i:re a que:sta]
+PKP128	[E IO presi albe~]
+PKP129	[QUI:NDI tu nei mi]ei confro:nti n[on stai i]n regola e nie:nte a me me stai sc~
+PKP128	[xx]
 PKP129	m::h
-PKP125	mh [mbè (si potrebbe stacca questa) xxxx]
-PKP128	[ma tu le puoi fare tranquillamente una:::]
-PKP125	((ride))
-PKP128	buo:no
+PKP129	mh [mbè (si potrebbe stacca questa) xxxx]
+PKP125	[ma tu le puoi fare tranquillamente una:::]
+PKP128	((ride))
+PKP125	buo:no
 PKP128	è (u)na cosa che mi fa innervosi:re:
 PKP128	che io presi alberta e le dissi alberta:,
-PKP129	ma (.) tu hai capi:to: (.) che può scendere solo con me?
-PKP128	e io l'altro gio[rno quando mi ha paga:(to)]
-PKP129	[in virtù del fa:]tto:
-PKP128	(gl[iel'ho)]
+PKP128	ma (.) tu hai capi:to: (.) che può scendere solo con me?
+PKP129	e io l'altro gio[rno quando mi ha paga:(to)]
+PKP128	[in virtù del fa:]tto:
+PKP129	(gl[iel'ho)]
 PKP128	[scus]ami se t'interrompo in virtù del fa:tto
 PKP128	che io sape:vo:
 PKP128	che non erano regole:
 PKP128	<fattibbili> fondamentalmente
 PKP128	però lei mise in mezzo tutto un progetto su:o:,
-PKP129	io gina la prendo come:: (.) e:::h persona in più, quindi poi diventiamo pa::ri:::, e tutti ste belle sto:rie insomma
+PKP128	io gina la prendo come:: (.) e:::h persona in più, quindi poi diventiamo pa::ri:::, e tutti ste belle sto:rie insomma
 PKP129	e io l'altro giorno glielo spiega:i (.) albe:'
 PKP129	io oltre a tutto que:st(o) io mi devo sentire anche mio pa:dre nel cerve:llo perché mio padre di:ce (.) te hai lasciato il lavo:ro (.) dove andavi a lavorare a pie:di
 PKP129	guadagnavi di più,
@@ -1050,10 +1050,10 @@ PKP129	du:e (.) perché (.) non mi voleva economicamente (.) non ce lo possiamo 
 PKP129	cioè (.) ti vuoi mettere pure tu ogni tanto nei panni delle perso:ne:
 PKP129	#o sull'io agg'a capi' a te?
 PKP129	da cinque mesi a questa parte?
-PKP128	[x~]
-PKP129	[anch]e perché voglio dire è un problema tu:o che [non (l'hai messa a posto)]
+PKP129	[x~]
+PKP128	[anch]e perché voglio dire è un problema tu:o che [non (l'hai messa a posto)]
 PKP129	#[cioè si vuless luà a ci]nquanta euro a p:ron a tutti chest ca tien accà dint' a me mu lo riss qualcosa di soldi chiù
-PKP128	cioè in cinque di no:i sempre io ti devo venire incontro?
+PKP129	cioè in cinque di no:i sempre io ti devo venire incontro?
 PKP128	anche perché io gliel'ho de:tto:
 PKP128	io che sono comunque la responsabile dei raga:zzi
 PKP128	ho detto albe:'
@@ -1071,13 +1071,13 @@ PKP128	io vo~ io ti voglio pure capi:re perché io li
 PKP128	io faccio i conti insieme a lei
 PKP128	quindi io so
 PKP128	che problemi ha:nno,
-PKP129	dove sba:gli[ano, dove guada:gnano]
-PKP125	[mari' allora ti metti da va~] v[icino a una perso]:na e gli dici guarda io non ti posso tenere a lavoro trovati un altro lavoro
-PKP129	[ma x:::]
+PKP128	dove sba:gli[ano, dove guada:gnano]
+PKP129	[mari' allora ti metti da va~] v[icino a una perso]:na e gli dici guarda io non ti posso tenere a lavoro trovati un altro lavoro
+PKP125	[ma x:::]
 PKP129	cioè
-PKP128	e scende le:i a lavorare
-PKP125	che c'è albe'?
-PKP128	no::: voglio (.) °vedere un attimo a che punto sia:mo,°
+PKP129	e scende le:i a lavorare
+PKP128	che c'è albe'?
+PKP125	no::: voglio (.) °vedere un attimo a che punto sia:mo,°
 PKP128	e comunque secondo me è un discorso che non sta né in cielo e né in te:rra non mi sta piacendo come si sta comportan(do)
 PKP128	anche perché io da responsa:bile:
 PKP128	la presi da parte e dissi guarda alberta arrivata a questo punto an~ (.) visto che anche due persone sono andate vi:a,
@@ -1087,49 +1087,49 @@ PKP128	soprattutto all'inizio che abbiamo aperto non veniva un'anima nemmeno a p
 PKP128	okay?
 PKP128	motivo per cui lei poi non fece scendere nemmeno lei e la fece scendere un mese do:po
 PKP128	perché non facevamo nie:nte la gente si metteva pau:ra, non entra:va,
-PKP129	oppure c'era col fatto che non potevi entra:re, dovevi stare sull'arco della po:rta, da por[ta::re]
-PKP128	[però il fa:tto] (.) è che lei mi vuole tenere: (.) perché le faccio co:modo
-PKP129	certo [che le fai co:modo:]:
+PKP128	oppure c'era col fatto che non potevi entra:re, dovevi stare sull'arco della po:rta, da por[ta::re]
+PKP129	[però il fa:tto] (.) è che lei mi vuole tenere: (.) perché le faccio co:modo
+PKP128	certo [che le fai co:modo:]:
 PKP129	[perché le (servo)]
 PKP129	per:
 PKP129	per come lavo:ro:,
-PKP128	perché comunque l~ una persona a lavorare (.) le se:rve è inutile che dice (.) di no perché (.) le se[rvo],
+PKP129	perché comunque l~ una persona a lavorare (.) le se:rve è inutile che dice (.) di no perché (.) le se[rvo],
 PKP128	[comu]nque resta di fon:do il pensiero che lei ha di te
-PKP129	che cioè: sei una persona che a [lei pia:ce]
+PKP128	che cioè: sei una persona che a [lei pia:ce]
 PKP129	[PERÒ lei >non mi vuo]le< non vuole cacciare i soldi
 PKP129	eh ma gesù ma io come devo fa:re ma nemmeno a dire che io abito là dietro e vengo a pie:di a lavorare
 PKP129	#ma i com'agg'a fa'?
 PKP129	ma poi anche per una questione di dignità
-PKP125	#ma i teng trent'ann ma io faccio questo lavoro da undici a:nni ma sti cingcient eur' a chi le ra:v
-PKP129	cinquecento euro è veramente:::
-PKP128	cioè ma non es[iste pro:prio ba:]sta cioè:
-PKP129	[è improponibbile (come co~)]
-PKP125	ma veramente tu [me stai (a fa') non ha: ca:pito che:] deve fa' [(qualche) xxx]
-PKP128	[vai a fare i (cantucci nei) xxx]
-PKP129	[è vero che (.) è] stato un pa:tto perché lei si è chiamata del tempo con questo cinquecento e:uro
-PKP128	però mar[ina:]
-PKP129	[lei non ha] detto per sempre
-PKP128	eh eh [stiamo (troppo) esagera:ndo]
-PKP125	[però mi sembra una presa per il culo lo] ste:s[so capito]?
-PKP128	[sì mari]na ma (.) <è un pa:tto> stipulato come? col san:gue?
-PKP129	ah no vabbè [questo che signi:fica]?
+PKP129	#ma i teng trent'ann ma io faccio questo lavoro da undici a:nni ma sti cingcient eur' a chi le ra:v
+PKP125	cinquecento euro è veramente:::
+PKP129	cioè ma non es[iste pro:prio ba:]sta cioè:
+PKP128	[è improponibbile (come co~)]
+PKP129	ma veramente tu [me stai (a fa') non ha: ca:pito che:] deve fa' [(qualche) xxx]
+PKP125	[vai a fare i (cantucci nei) xxx]
+PKP128	[è vero che (.) è] stato un pa:tto perché lei si è chiamata del tempo con questo cinquecento e:uro
+PKP129	però mar[ina:]
+PKP128	[lei non ha] detto per sempre
+PKP129	eh eh [stiamo (troppo) esagera:ndo]
+PKP128	[però mi sembra una presa per il culo lo] ste:s[so capito]?
+PKP125	[sì mari]na ma (.) <è un pa:tto> stipulato come? col san:gue?
+PKP128	ah no vabbè [questo che signi:fica]?
 PKP129	[CHE PO::I <A]D AGGIUNGERE SEMPRE> CHE LEI MI HA DETTO sperando che mi sbloccano la tabaccheri:a
-PKP125	#albe' ma tu co' chest' ch' m' vuò ric che se sta tabaccheria ta sbloccn a dice:mbre iss sti sett' ottanta quann' 'e vecn o' ruemilvintqua:ttr' e come funzio:na?
-PKP129	è questo quello che [sto dicendo] cioè è un patto stipulato co[n:::]
+PKP129	#albe' ma tu co' chest' ch' m' vuò ric che se sta tabaccheria ta sbloccn a dice:mbre iss sti sett' ottanta quann' 'e vecn o' ruemilvintqua:ttr' e come funzio:na?
+PKP125	è questo quello che [sto dicendo] cioè è un patto stipulato co[n:::]
 PKP129	[eh eh]
 PKP129	[perché] l'altro giorno lei sta xx albe::' s'era sperando che mi sbloccano la tabaccheri:a e albe' (ah sor~) ma allora sta tabaccheri:a? già stai appresso alla tabaccheri:a?
 PKP129	confusione
 PKP129	eh eh
-PKP128	(va)beh
-PKP125	ma tu hai fini:to no di farti la sigaretta?
-PKP128	sì
-PKP125	perché non ce l'andiamo a fumare fuo:ri?
-PKP128	>va bene<
-PKP125	no?
-PKP128	sì
-PKP125	secondo me è meglio
-PKP128	sì anche [x alziamoci],
-PKP125	[siamo anche più f]:reschi
+PKP129	(va)beh
+PKP128	ma tu hai fini:to no di farti la sigaretta?
+PKP125	sì
+PKP128	perché non ce l'andiamo a fumare fuo:ri?
+PKP125	>va bene<
+PKP128	no?
+PKP125	sì
+PKP128	secondo me è meglio
+PKP125	sì anche [x alziamoci],
+PKP128	[siamo anche più f]:reschi
 PKP125	da questa ta:vola:
 PKP125	(o)kay
 PKP125	°facciamo che per oggi abbiamo°

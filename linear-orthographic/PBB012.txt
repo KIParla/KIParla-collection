@@ -1,16 +1,16 @@
 BOR001	okay
-BOR006	dovremmo essere a posto
+BOR001	dovremmo essere a posto
 BOR006	okay
-BOI039	se volete iniziamo
-BOR001	sì sì va benissimo
-BOR006	mhmh
+BOR006	se volete iniziamo
+BOI039	sì sì va benissimo
+BOR001	mhmh
 BOR006	e come come le avevo detto
 BOR006	non non volevamo fare un'intervista troppo strutturata
 BOR006	in cui noi facciamo una serie di domande
 BOR006	c'interessa di più sen~
-BOI039	cioè lasciarla parlare fondamentalmente
-BOR006	sì
-BOI039	sentire il suo racconto
+BOR006	cioè lasciarla parlare fondamentalmente
+BOI039	sì
+BOR006	sentire il suo racconto
 BOI039	sì
 BOI039	e no praticamente
 BOI039	e partiamo partiamo dalla
@@ -36,8 +36,8 @@ BOI039	e
 BOI039	fu il giocatore
 BOI039	era apprezzato della nazionale ungherese insomma
 BOI039	era una persona
-BOR006	e un allenatore molt~ considerato un allenatore moderno
-BOI039	sì
+BOI039	e un allenatore molt~ considerato un allenatore moderno
+BOR006	sì
 BOI039	di fama
 BOI039	oltre che nazionale anche internazionale insomma
 BOI039	anche se a quei tempi magari
@@ -65,8 +65,8 @@ BOI039	e a causa poi delle leggi razziali
 BOI039	nel trentotto
 BOI039	essendo weisz di origine
 BOI039	e ebrea ungherese
-BOR006	anche se i figli erano stati battezzati secondo la religione cattolica
-BOI039	mh
+BOI039	anche se i figli erano stati battezzati secondo la religione cattolica
+BOR006	mh
 BOI039	e dovettero lasciare l'italia
 BOI039	e
 BOI039	ehm i miei genitori i miei nonni
@@ -92,8 +92,8 @@ BOI039	degli almanacchi del bologna
 BOI039	quando usciavan le
 BOI039	edizioni per gli anniversari che so il novantesimo
 BOI039	della fondazione del bologna e su arpad weisz nella pagina di arpad weisz c'era scritto
-BOR006	a malapena la data di nascita puntini di sospensione la data di mo~ di morte eventuale perché poi non si sapeva nulla
-BOI039	mh
+BOI039	a malapena la data di nascita puntini di sospensione la data di mo~ di morte eventuale perché poi non si sapeva nulla
+BOR006	mh
 BOI039	e finché un giorno mi chiese
 BOI039	mh
 BOI039	comprammo erano i primi anni duemila
@@ -113,8 +113,8 @@ BOI039	conosciuti dei morti diciamo ma
 BOI039	di weisz ce n'è un'infinità
 BOI039	e poi anche
 BOI039	non sapevo se erano stati magari eventualmente registrati con un nome col nome italianizzato
-BOR006	con la vu o con la vu doppia o era la moglie
-BOI039	sì
+BOI039	con la vu o con la vu doppia o era la moglie
+BOR006	sì
 BOI039	che si faceva chiamare elena ma
 BOI039	in realtà era il suo nome originario è ilona quindi
 BOI039	tante cose così quindi
@@ -133,8 +133,8 @@ BOI039	diciamo oltre
 BOI039	alla scomparsa diciamo del
 BOI039	del dell'amico d'infanzia
 BOI039	ma anche il padre lui è dispiaciuto anche
-BOR006	per il non riconoscimento sportivo del padre
-BOI039	mh
+BOI039	per il non riconoscimento sportivo del padre
+BOR006	mh
 BOI039	è stato completamente dimenticato
 BOI039	finché un giorno
 BOI039	era
@@ -142,8 +142,8 @@ BOI039	duemila
 BOI039	duemila e sei
 BOI039	e ricevetti una telefonata da
 BOI039	matteo marani
-BOR006	che all'epoca era
-BOI039	sì
+BOI039	che all'epoca era
+BOR006	sì
 BOI039	il direttore sportivo del guerin s~
 BOI039	il direttore editoriale del
 BOI039	guerin sportivo
@@ -196,28 +196,28 @@ BOI039	di calcio e allenatore
 BOI039	ehm
 BOI039	e questo infatti guarda
 BOI039	questo è il libro
-BOR001	matteo marani vi dico solo
-BOI039	mhmh
+BOI039	matteo marani vi dico solo
+BOR001	mhmh
 BOI039	cosa disse
 BOI039	enzo biagi
-BOR001	conoscete no enzo biagi
-BOR006	mhmh
-BOR001	sì sì
-BOI039	sì
+BOI039	conoscete no enzo biagi
+BOR001	mhmh
+BOR006	sì sì
+BOR001	sì
 BOI039	su weisz
 BOI039	disse mi sembra si chiamasse weisz
 BOI039	era molto bravo ma anche ebreo
 BOI039	chissà che fine ha fatto
 BOI039	ecco questo è quello che si sapeva di weisz detto da uno che insomma
 BOI039	da un giornalista già
-BOR001	abbastanza noto quindi
-BOI039	sì
+BOI039	abbastanza noto quindi
+BOR001	sì
 BOI039	e praticamente
 BOI039	e
-BOR001	vi ho fatto vedere quella foto no
-BOI039	mhmh
-BOR006	quella che è in ingresso
-BOI039	sì
+BOI039	vi ho fatto vedere quella foto no
+BOR001	mhmh
+BOI039	quella che è in ingresso
+BOR006	sì
 BOI039	quei quei bambini
 BOI039	ci sono quei bambini che sorridono sotto c'è una data che è millenovecentotrentotto
 BOI039	ehm
@@ -242,12 +242,12 @@ BOI039	perché loro erano di origine ebrea però
 BOI039	sorridenti questa qui~ quest'amicizia no
 BOI039	che smaschera
 BOI039	l'inganno delle leggi razziali no
-BOR006	questi bambini sorridenti
-BOI039	sì
+BOI039	questi bambini sorridenti
+BOR006	sì
 BOI039	quest'amicizia fra bambini
 BOI039	secondo me nella foto smaschera proprio quest'inganno
-BOR001	e dal quale poi è partito questo male terribile dell'olocausto
-BOI039	sì
+BOI039	e dal quale poi è partito questo male terribile dell'olocausto
+BOR001	sì
 BOI039	ma spesso il male nella storia si presenta
 BOI039	sempre con un inganno no
 BOI039	è sempre un po'
@@ -263,8 +263,8 @@ BOI039	eh
 BOI039	è stato tutto ben
 BOI039	organizzato
 BOI039	perché prima gli è stato
-BOR006	gli si sono gli è stato impedito non so di frequentar le scuole
-BOI039	sì
+BOI039	gli si sono gli è stato impedito non so di frequentar le scuole
+BOR006	sì
 BOI039	poi magari si sono organizzati c'erano la scuoletta ebraica qua all'interno del
 BOI039	quartiere saragozza poi dopo
 BOI039	e gli si è impedito di lavorare
@@ -274,12 +274,12 @@ BOI039	son andati in francia
 BOI039	ma anche lì poi c'è stata l'occupazione tedesca
 BOI039	poi in olanda
 BOI039	che era terreno era una ia~ emh
-BOR001	uno stato neutro
-BOI039	mh
+BOI039	uno stato neutro
+BOR001	mh
 BOI039	quindi loro sicuramente
 BOI039	avevano disappunto dispiacere
-BOR006	e s~ lo si lo si percepisce dalle lettere
-BOI039	mh
+BOI039	e s~ lo si lo si percepisce dalle lettere
+BOR006	mh
 BOI039	soprattutto
 BOI039	e i bambini
 BOI039	a scuola non capivano
@@ -289,8 +289,8 @@ BOI039	abbattuto
 BOI039	e quando sono in francia dicono appunto
 BOI039	ci stiamo trasferendo in olanda
 BOI039	per iniziare una nuova vita
-BOR006	quindi non avevano u~ una percezione diciamo di pericolo
-BOI039	mh
+BOI039	quindi non avevano u~ una percezione diciamo di pericolo
+BOR006	mh
 BOI039	se ce l'avessero avuta
 BOI039	weisz poteva aveva conoscenze in uruguay perché aveva
 BOI039	tra tra virgolette dei trascorsi
@@ -313,9 +313,9 @@ BOI039	di lavoro
 BOI039	e
 BOI039	resistette fino a la fine del
 BOI039	dunque dal gennaio del quarantadue poco prima della liberazione da parte dei russi del campo
-BOR006	ecco
+BOI039	ecco
+BOR006	ah
 BOR001	ah
-BOI039	ah
 BOI039	e tutto questo
 BOI039	e
 BOI039	diciamo grazie a matteo marani
@@ -324,9 +324,9 @@ BOI039	insomma grazie alla diffusione del libro
 BOI039	e altre iniziative da parte dell'anpi
 BOI039	anche associazioni lì del calcio
 BOI039	il comune raccolta firme da parte delle scuole gli è stata
-BOR001	intitolata la curva dello stadio
-BOR006	mhmh
-BOI039	sì sì
+BOI039	intitolata la curva dello stadio
+BOR001	mhmh
+BOR006	sì sì
 BOI039	san luca weisz
 BOI039	insomma tante iniziative quindi questa è una storia anche che
 BOI039	mh
@@ -334,8 +334,8 @@ BOI039	anche nelle scuole viene usata per siccome
 BOI039	e c'è il calcio
 BOI039	e
 BOI039	c'è la figura sportiva umana
-BOR006	quindi anche da parte dei ragazzi eh fa una certa presa diciamo ecco
-BOI039	eh anche a me era stata raccontata a scuola sì
+BOI039	quindi anche da parte dei ragazzi eh fa una certa presa diciamo ecco
+BOR006	eh anche a me era stata raccontata a scuola sì
 BOI039	eh
 BOI039	eh que~ sì mh
 BOI039	alcune professoresse
@@ -353,15 +353,15 @@ BOI039	nell'oblio
 BOI039	e
 BOI039	grazie a matteo marani è stata
 BOI039	è sta~ è stata scoperta ecco perché mio papà sì non
-BOR001	non er~ non non ne faceva mai menzione in casa
-BOI039	mh
+BOI039	non er~ non non ne faceva mai menzione in casa
+BOR001	mh
 BOI039	io le vedevo queste lettere in un cassetto
 BOI039	ogni tanto le guardavo
 BOI039	però anch'io non immaginavo dietro una cosa così cioè
 BOI039	non conoscevo le vicende sportive di weisz
 BOI039	neanche la fine perché potevo immaginarla anche mio papà se la poteva immaginare però
-BOR001	c'era addirittura chi diceva mah sarà tornato in ungheria
-BOI039	mh
+BOI039	c'era addirittura chi diceva mah sarà tornato in ungheria
+BOR001	mh
 BOI039	oppure magari si è persa la traccia non so
 BOI039	quindi era tutto così
 BOI039	quindi nonostante fosse un
@@ -375,10 +375,10 @@ BOI039	non solo
 BOI039	non solo ha
 BOI039	dato morte alla famiglia weisz ma anche
 BOI039	una morte storica
-BOR001	perché
-BOI039	mh
-BOR006	siete
-BOI039	sì
+BOI039	perché
+BOR001	mh
+BOI039	siete
+BOR006	sì
 BOI039	eh solo grazie a
 BOI039	a questo a matteo marani insomma
 BOI039	si è potuta conoscere ecco perché se no non c~
@@ -388,30 +388,30 @@ BOI039	lettere
 BOI039	con qua dentro al cassetto
 BOI039	e le foto
 BOI039	che furono scattate da
-BOR001	dal fratello di mio padre mio zio proprio nel nel cortile
-BOI039	mh
+BOI039	dal fratello di mio padre mio zio proprio nel nel cortile
+BOR001	mh
 BOI039	e insomma questo è
 BOI039	è un po' la sintesi ecco diciamo
-BOR001	della del della vicenda
+BOI039	della del della vicenda
 BOR001	ma ehm
-BOI039	in seguito all'interessamento di matteo marani
-BOR001	sì
+BOR001	in seguito all'interessamento di matteo marani
+BOI039	sì
 BOR001	suo padre poi le ha raccontato
 BOR001	cioè magari a lei privatamente
 BOR001	più nello specific~
 BOR001	dettagli più specifici
-BOI039	o comunque no
+BOR001	o comunque no
 BOI039	bah e eh
 BOI039	mh mio padre se n'è parlato poco
-BOR001	però
-BOI039	mh
+BOI039	però
+BOR001	mh
 BOI039	insomma poi dopo fu intervistato anche dai ragazzi da
 BOI039	ha avuto varie occasioni per
 BOI039	diciamo
 BOI039	incontri pubblici così
 BOI039	poi non mio padre
-BOR001	purtroppo dopo iniziò a perder la memoria
-BOI039	mh
+BOI039	purtroppo dopo iniziò a perder la memoria
+BOR001	mh
 BOI039	per problemi cognitivi era già anziano
 BOI039	però quello che che so è che
 BOI039	eh
@@ -431,14 +431,14 @@ BOI039	e in più anche verso il padre ha avuto sempre una
 BOI039	una una sorta di rispetto
 BOI039	eh sia come persona che anche come
 BOI039	come uomo sportivo diciamo
-BOR001	ecco lui ci teneva molto anche al riconoscimento come ho detto del
-BOI039	mh
+BOI039	ecco lui ci teneva molto anche al riconoscimento come ho detto del
+BOR001	mh
 BOI039	del suo valore sportivo e non capiva
 BOI039	questa
 BOI039	perché fosse stato dimenticato
 BOI039	poi io gli chiesi mh
-BOR001	ma delle leggi razziali quando uscirono cosa
-BOI039	mh
+BOI039	ma delle leggi razziali quando uscirono cosa
+BOR001	mh
 BOI039	spesso ma
 BOI039	anzi per loro una cosa
 BOI039	incomprensibi~ cioè una cosa
@@ -447,22 +447,21 @@ BOI039	cioè l'innocenza di un bambino smaschera spesso tutte queste ideologie n
 BOI039	ehm
 BOI039	poi magari fanno pre~ presa sugli adulti che sono più
 BOI039	hanno già un po' di ideo~ cioè insomma
-BOR001	già un po' contaminati da varie ideologie in giro no
-BOI039	
-BOR001	invece il bambino infatti in quella foto lì
-BOI039	mh
+BOI039	già un po' contaminati da varie ideologie in giro no
+BOI039	invece il bambino infatti in quella foto lì
+BOR001	mh
 BOI039	è bella proprio perché c'è il loro sorriso proprio
 BOI039	e fa contrasto con quell'anno il trentotto no
 BOI039	con quella
 BOI039	ideologia calata dall'alto eh
 BOI039	l'inganno delle leggi razziali di una razza superiore
-BOR001	e per loro è stata una cosa incomprensibile
-BOI039	mh
+BOI039	e per loro è stata una cosa incomprensibile
+BOR001	mh
 BOI039	ehm
 BOI039	infatti fino all'ultimo si sono scritti
-BOR001	adesso vabbè le cartoline originali sono al museo ebraico già da da un po' di tempo da più di
-BOR006	ah
-BOI039	ah ok
+BOI039	adesso vabbè le cartoline originali sono al museo ebraico già da da un po' di tempo da più di
+BOR001	ah
+BOR006	ah ok
 BOI039	e l'ultima s~ cartolina è mh
 BOI039	proprio eh arriva arriva dall'olanda nel quaranta
 BOI039	eh vi mando tanti auguri
@@ -474,8 +473,8 @@ BOI039	infatti lo dice sua mamma in una lettera
 BOI039	e sta iniziando a perdere diciamo
 BOI039	eh
 BOI039	il ricordo della lingua italiana diciamo
-BOR001	perché già
-BOI039	mh
+BOI039	perché già
+BOR001	mh
 BOI039	non frequentando più le scuole
 BOI039	già in un giro di due di mh due anni
 BOI039	ha visto che iniziava a perdere
@@ -483,8 +482,8 @@ BOI039	diciamo il ricordo della scrittura in lingua italiana
 BOI039	quindi
 BOI039	devono essere stati due anni terribili soprattutto per un bambino
 BOI039	e
-BOR001	fra l'a~ fra l'altro matteo marani poi andò anche in olanda
-BOI039	mh
+BOI039	fra l'a~ fra l'altro matteo marani poi andò anche in olanda
+BOR001	mh
 BOI039	eh a parlare dove incontrò anche
 BOI039	dei ex compagni di mh
 BOI039	emh dell'allenatore
@@ -499,37 +498,37 @@ BOI039	poi anche un po' magari di nascosto di
 BOI039	allenare la
 BOI039	la sqadra che gli era stat affida~ affidata
 BOI039	ehm
-BOR006	e fino all'ultimo praticamente sì
+BOI039	e fino all'ultimo praticamente sì
 BOR006	diciamo che
 BOR006	eh
 BOR006	sono sicuro che
 BOR006	probabilmente
 BOR006	quando sono stati costretti a lasciare l'italia i weisz
 BOR006	si sono sentiti più che altro
-BOI039	abbandonati
-BOR006	sì
-BOI039	e soli probabilmente perché avevano perso ogni contatto con
-BOR006	sì
+BOR006	abbandonati
+BOI039	sì
+BOR006	e soli probabilmente perché avevano perso ogni contatto con
+BOI039	sì
 BOR006	l'ambiente in cui si erano inseriti
 BOR006	e
 BOR006	tranne però quello con suo padre penso
-BOI039	che comunque è continuata questa corrispondenza che poi
-BOR006	sì
+BOR006	che comunque è continuata questa corrispondenza che poi
+BOI039	sì
 BOR006	anche se suo padre eh è rimasto sempre riservato a riguardo
-BOI039	però è stata fondamentale poi nel lavoro di ricostruzione storica
-BOR006	sì sì
+BOR006	però è stata fondamentale poi nel lavoro di ricostruzione storica
+BOI039	sì sì
 BOR006	quando matteo marani si è interessato alla vicenda
 BOR006	quindi
 BOR006	probabilmente senza questo scambio epistolare tra mh
 BOR006	il figlio di weisz e suo padre
-BOI039	mh sarebbe stato molto difficile poi
+BOR006	mh sarebbe stato molto difficile poi
 BOI039	sì
 BOI039	mh beh eh marani sicuramente
 BOI039	dopo
 BOI039	mh mh
 BOI039	cioè ha scoperto quasi subito
-BOR001	e la mh la fine diciamo
-BOI039	mh
+BOI039	e la mh la fine diciamo
+BOR001	mh
 BOI039	dei dei weisz
 BOI039	grazie al sito del memoriale della shoah
 BOI039	ehm
@@ -549,28 +548,28 @@ BOI039	diciamo la il giro per l'europa dei weisz la la fuga diciamo
 BOI039	noi adesso la chiamiamo fuga ma all'epoca si
 BOI039	era un modo di di riniziare la vita diciamo
 BOI039	eh perché no~ secondo me non avevano dalle lettere non non si dic~ non
-BOR006	non si presagisce diciamo la fine
-BOR001	mhmh
-BOI039	sì
-BOI039	eh sì c'è rammarico e delusione sicuramente ma come dicevo prima
-BOR001	non la percezione del perico~ della morte
-BOI039	mh
-BOR001	perché avrebbero scelto altre strade ecco sicuramente
+BOI039	non si presagisce diciamo la fine
+BOR006	mhmh
 BOR001	sì
-BOI039	a me colpisce tanto questa cosa
+BOI039	eh sì c'è rammarico e delusione sicuramente ma come dicevo prima
+BOI039	non la percezione del perico~ della morte
 BOR001	mh
-BOR001	cioè perché mi aspetto
-BOI039	che i bambini non potessero c~ cioè non potessero capire ovviamente sono bambini infatti come si vede anche giustamente nella foto
+BOI039	perché avrebbero scelto altre strade ecco sicuramente
+BOR001	sì
+BOR001	a me colpisce tanto questa cosa
 BOI039	mh
-BOR001	mh
+BOR001	cioè perché mi aspetto
+BOR001	che i bambini non potessero c~ cioè non potessero capire ovviamente sono bambini infatti come si vede anche giustamente nella foto
+BOI039	mh
+BOI039	mh
 BOR001	sono ignari di quello
-BOI039	cioè che sta succedendo o comunque che sarebbe successo no sono dei bambini normali felici cioè
-BOR001	mhmh
+BOR001	cioè che sta succedendo o comunque che sarebbe successo no sono dei bambini normali felici cioè
+BOI039	mhmh
 BOR001	però ehm
 BOR001	mi colpisce come i genitori comunque
 BOR001	nonostante le leggi razziali e tutto non pensassero a mh
 BOR001	mh
-BOI039	non avessero idea d~ d~ della grandezza della cosa ecco di del pericolo
+BOR001	non avessero idea d~ d~ della grandezza della cosa ecco di del pericolo
 BOI039	ah sì sì
 BOI039	sì
 BOI039	adesso sì purtroppo adesso anche i miei nonni
@@ -579,9 +578,9 @@ BOI039	addirittura eh sì
 BOI039	mio nonno paterno papà di gi~
 BOI039	di lorenzo morì eh
 BOI039	mio papà aveva otto anni proprio mentre erano
-BOR006	nel trentotto e quindi
-BOR001	mh
-BOI039	certo
+BOI039	nel trentotto e quindi
+BOR006	mh
+BOR001	certo
 BOI039	anche mia nonna angelica morì negli anni sessanta
 BOI039	e quindi non
 BOI039	non ho mh mai potuto chiedere come han vissuto quell'epoca così
@@ -595,20 +594,20 @@ BOI039	poi queste leggi razziali non non capite ma
 BOI039	quanto meno
 BOI039	così
 BOI039	accettate chi più chi meno ma sì non possono lavorare non possono andare lì vabbè andranno a lavorare da un'altra parte
-BOR006	aspettiam che passi sta situazione
-BOI039	mh
+BOI039	aspettiam che passi sta situazione
+BOR006	mh
 BOI039	poi la guerra
 BOI039	un disastro cioè
 BOI039	è stato una cosa
 BOI039	sì eh anche perché
 BOI039	se fosse stata subito manifesta
-BOR006	allora insomma eh magari eh
-BOI039	avrebbero cercato
-BOR006	sarebbe andata magari diversamente
-BOI039	un'altra strada
+BOI039	allora insomma eh magari eh
+BOR006	avrebbero cercato
+BOI039	sarebbe andata magari diversamente
+BOR006	un'altra strada
 BOI039	insomma magari la gente si sarebbe comportata in maniera diversa non avrebbe accettato la sit~
-BOR001	ci sarebbe stato poi più possi~ possibilità di fuga di
-BOI039	mh
+BOI039	ci sarebbe stato poi più possi~ possibilità di fuga di
+BOR001	mh
 BOI039	di agire in man~ maniera diversa ecco magari
 BOI039	un po' più di coraggio così è stato
 BOI039	mh
@@ -617,25 +616,25 @@ BOI039	sì quest'inganno
 BOI039	eh
 BOI039	sì spesso il m~ il male si maschera prima com~ co~ com~ come un inganno ecco diciamo poi
 BOI039	prima di
-BOR006	essere manifesto diciamo ecco
+BOI039	essere manifesto diciamo ecco
 BOR006	sì
-BOI039	a proposito di questo cioè una delle domande a cui avevo pensato prima di venire a fare l'intervista era
-BOR006	sì
+BOR006	a proposito di questo cioè una delle domande a cui avevo pensato prima di venire a fare l'intervista era
+BOI039	sì
 BOR006	se suo padre le aveva mai raccontato
 BOR006	com'era la vita quotidiana come se la ricorda
 BOR006	nella bologna di quel tempo però
-BOI039	eh mi ha in parte già risposto perché quando cioè ha parlato della foto
-BOR006	sì
+BOR006	eh mi ha in parte già risposto perché quando cioè ha parlato della foto
+BOI039	sì
 BOR006	ha detto che comunque sono
 BOR006	erano bambini
 BOR006	che giocavano
 BOR006	insieme
 BOR006	e
 BOR006	senza
-BOI039	i preconcetti senza che i preconcetti che il regime tentava di instaurare
-BOR006	sì
+BOR006	i preconcetti senza che i preconcetti che il regime tentava di instaurare
+BOI039	sì
 BOR006	mh
-BOI039	li sc~ li scalvi~ li scalfissero insomma
+BOR006	li sc~ li scalvi~ li scalfissero insomma
 BOI039	sì sì
 BOI039	mio papà lui sì
 BOI039	eh lui era
@@ -643,8 +642,8 @@ BOI039	era
 BOI039	un bambino era uno scout eh
 BOI039	per una parrocchia
 BOI039	cioè che poi er~ furono abolite le associazioni scoutistiche per esempio
-BOR006	e c'era l'obbligo del balilla no
-BOI039	sì
+BOI039	e c'era l'obbligo del balilla no
+BOR006	sì
 BOI039	quindi c'erano
 BOI039	c'era la divisa balilla e un
 BOI039	moschetto e c'erano delle specie di adunate insomma
@@ -656,8 +655,8 @@ BOI039	mhmh voluta dall'alto
 BOI039	che mio padre non
 BOI039	non l'ha mai accettata in senso mh
 BOI039	non
-BOR006	non l'ha mai fatta sua in senso ma perché è una cosa proprio calata dall'alto cioè
-BOI039	mh
+BOI039	non l'ha mai fatta sua in senso ma perché è una cosa proprio calata dall'alto cioè
+BOR006	mh
 BOI039	dice io la dovevo fare perché si fa ma
 BOI039	mh f~ finita lì cioè non
 BOI039	quasi incomprensibile un po' come le leggi razziali diciamo ecco
@@ -677,24 +676,23 @@ BOI039	e cioè sua sorella
 BOI039	scusate sua sorella maggiore era insegnante
 BOI039	insegnava
 BOI039	e nelle scuole in appennino qua
-BOR001	e tornava a casa alle volte neanche per le feste di natale quindi quando c'era la neve non riusciva neanche a venir giù dall'appennino
-BOI039	
+BOI039	e tornava a casa alle volte neanche per le feste di natale quindi quando c'era la neve non riusciva neanche a venir giù dall'appennino
 BOI039	e quindi eh
 BOI039	era in casa praticamente con coi genitori
-BOR001	con suo fratello maggiore paolo che era quello che scattò la foto
-BOI039	mh
+BOI039	con suo fratello maggiore paolo che era quello che scattò la foto
+BOR001	mh
 BOI039	e quindi la vita scorreva così in maniera molto semplice sì non
 BOI039	e
 BOI039	coi divertimenti dei bambini di quell'epoca diciamo
-BOR001	giochi da cortile diciamo ecco
-BOI039	e della guerra ha mai detto
-BOR001	ma mh
-BOI039	qualcosa
+BOI039	giochi da cortile diciamo ecco
+BOR001	e della guerra ha mai detto
+BOI039	ma mh
+BOR001	qualcosa
 BOI039	della guerra mio papà sì si ricorda
 BOI039	si ricordava sì della
 BOI039	dei bombardamenti
-BOR001	che mh
-BOI039	mhmh
+BOI039	che mh
+BOR001	mhmh
 BOI039	lui doveva andar da solo al rifugio
 BOI039	perché già i i genitori di mio papà cioè i miei nonni erano già anziani
 BOI039	erano così anche la mamma
@@ -708,9 +706,7 @@ BOI039	e suonavano il campanone del
 BOI039	del palazzo del centro quindi andò
 BOI039	andò di corsa da solo in centro
 BOI039	c'eran tutti gli americani sul crescentone in piazza maggiore coi mezzi
-BOR001	c'era il generale clark mi sembra che firmava gli autografi
-BOI039	
-BOI039	
+BOI039	c'era il generale clark mi sembra che firmava gli autografi
 BOI039	in san petronio mi sembra
 BOI039	disse sì
 BOI039	e
@@ -726,24 +722,22 @@ BOI039	casi della vita è
 BOI039	il figlio di
 BOI039	matteo marani
 BOI039	si è ritrovato in classe compagno di classe delle elementari
-BOR006	con mio figlio
-BOR001	
-BOI039	
+BOI039	con mio figlio
 BOI039	com'era
-BOR006	com'era lorenzo con con robert weisz
-BOR001	mhmh
-BOI039	sì
+BOI039	com'era lorenzo con con robert weisz
+BOR006	mhmh
+BOR001	sì
 BOI039	è stato anche lì un caso ma vabbè
 BOI039	particolare
-BOR006	e
-BOI039	molto bello
+BOI039	e
+BOR006	molto bello
 BOI039	lui insomma ha fatto in tempo a vedere uscire il libro mio papà
 BOI039	insomma quindi ecco diciamo è
 BOI039	è ha
 BOI039	anche l'intitolazione l'intitolazione della curva
 BOI039	ecco
-BOR001	poi è sempre stato invitato il giorno della memoria domani
-BOI039	mh
+BOI039	poi è sempre stato invitato il giorno della memoria domani
+BOR001	mh
 BOI039	ehm ricorre il giorno della memoria
 BOI039	e alla deposizione di una corona allo stadio
 BOI039	insomma quindi
@@ -769,21 +763,21 @@ BOI039	passano le scolaresche
 BOI039	ogni tanto vado con loro magari
 BOI039	se ho tempo eh
 BOI039	per dir due oparole su questa storia diciamo questi ragazzi sono anche
-BOR001	e come sto facendo con voi ecco un po'
-BOR006	mh
+BOI039	e come sto facendo con voi ecco un po'
+BOR001	mh
+BOR006	sì
 BOR001	sì
-BOR006	sì
-BOI039	e infatti volevamo chiederle proprio a proposito della delle iniziative
-BOR006	sì
+BOR006	e infatti volevamo chiederle proprio a proposito della delle iniziative
+BOI039	sì
 BOR006	a cui collabora
 BOR006	e innanzitutto se era una cosa c'è in cui era coinvolto già suo padre
-BOI039	penso con l'anpi ad esempio
-BOR006	sì
+BOR006	penso con l'anpi ad esempio
+BOI039	sì
 BOR006	eh magari
 BOR006	non lo so
-BOI039	magari dopo che è ritornata la memoria sulla vicenda weisz
-BOR006	sì
-BOI039	se già suo padre era stato coinvolto
+BOR006	magari dopo che è ritornata la memoria sulla vicenda weisz
+BOI039	sì
+BOR006	se già suo padre era stato coinvolto
 BOI039	ma mio padre
 BOI039	è sempre stato abbastanza schivo
 BOI039	su queste cose all'inizio era anche
@@ -794,11 +788,9 @@ BOI039	eh l'anpi gli chiese di mh
 BOI039	andare a conoscere fare
 BOI039	così du~ una una chiaccherata con i ragazzi per esempio delle elementari bombicci
 BOI039	su queste vicende così all'inizio era un po' titubante poi invece
-BOR006	dopo sai trovandosi davanti ai bambini
-BOI039	mh
+BOI039	dopo sai trovandosi davanti ai bambini
+BOR006	mh
 BOI039	e i bambini aveva era uscivano entusiasti
-BOR001	
-BOI039	
 BOI039	eh lorenzo lorenzo
 BOI039	e allora mio padre poi ha lavora~ era molto felice ma
 BOI039	mh
@@ -819,9 +811,9 @@ BOI039	infatti anche per quello che ho messo la foto perché
 BOI039	ho pensato
 BOI039	già magari uno che si interessa alla storia
 BOI039	mh legge il libro
-BOR006	vuole siccome è una vicenda di quartiere
+BOI039	vuole siccome è una vicenda di quartiere
+BOR006	mh
 BOR001	mh
-BOI039	mh
 BOI039	anche questo è una vicenda di quartiere
 BOI039	e quindi uno può
 BOI039	magari
@@ -832,19 +824,19 @@ BOI039	ma cos'è questo arpad weisz
 BOI039	magari
 BOI039	da lì poi
 BOI039	magari fa qualche ricerca adesso in internet si fa presto
-BOR001	e mi è capitato anche recentemente in occasione di mh bologna roma
-BOI039	mhmh
-BOR006	due tifosi della roma sono venuti prima da roma
-BOI039	ah
-BOR001	qualche ora prima
-BOI039	mh
-BOR006	perché avevano letto il libro e volevano vedere la zona
-BOI039	ah che bello
+BOI039	e mi è capitato anche recentemente in occasione di mh bologna roma
+BOR001	mhmh
+BOI039	due tifosi della roma sono venuti prima da roma
+BOR006	ah
+BOI039	qualche ora prima
+BOR001	mh
+BOI039	perché avevano letto il libro e volevano vedere la zona
+BOR006	ah che bello
 BOI039	dove era vissuto weisz
 BOI039	allora han citofonato han visto la foto
 BOI039	insomma
-BOR001	un una piccola pietra d'inciampo xx
-BOI039	mh
+BOI039	un una piccola pietra d'inciampo xx
+BOR001	mh
 BOI039	che ho messo lì alla casa ecco insomma
 BOI039	che serve poi anche a me perché ogni volta che entro
 BOI039	in casa guardando
@@ -868,33 +860,33 @@ BOI039	chissà non lo so quindi
 BOI039	ehm
 BOI039	è qualcosa insomma di particolare qualcosa che desideravo proprio
 BOI039	che si che
-BOR006	che chi è interessato potesse vedere questa cosa
-BOI039	mh
-BOR006	per la strada
-BOR006	sì
-BOI039	ah beh sono cioè secondo me funziona proprio perché è una storia di quartiere
+BOI039	che chi è interessato potesse vedere questa cosa
 BOR006	mh
+BOI039	per la strada
+BOR006	sì
+BOR006	ah beh sono cioè secondo me funziona proprio perché è una storia di quartiere
+BOI039	mh
 BOR006	quindi è è bello che
 BOR006	si possa vedere
 BOR006	eh la testimonianza della foto e della casa dove
-BOI039	suo padre e i weisz giocavano
-BOR006	sì sì
+BOR006	suo padre e i weisz giocavano
+BOI039	sì sì
 BOR006	e poi
 BOR006	secondo me cioè ha ragione che può essere
 BOR006	una storia molto diciamo
-BOI039	istruttiva anche per le nuove generazioni specialmente perché è una storia di sport anche
-BOR006	sì
+BOR006	istruttiva anche per le nuove generazioni specialmente perché è una storia di sport anche
+BOI039	sì
 BOR006	quindi magari è facile coinvolgere
 BOR006	i giovani nelle scuole
-BOI039	con l'aggancio del dello sport
-BOR006	sì
+BOR006	con l'aggancio del dello sport
+BOI039	sì
 BOR006	della squadra della città
 BOR006	perché mi ricordo comunque che quando appunto
-BOI039	eh ci hanno raccontato la storia a scuola ci hanno atto vedere un piccolo documentario
-BOR006	mhmh
-BOI039	cioè erano tutti interessati perché era il bologna
-BOR006	sì
-BOI039	quindi
+BOR006	eh ci hanno raccontato la storia a scuola ci hanno atto vedere un piccolo documentario
+BOI039	mhmh
+BOR006	cioè erano tutti interessati perché era il bologna
+BOI039	sì
+BOR006	quindi
 BOI039	sì sì poi weisz era un allenatore moderno
 BOI039	eh il primo che so che parlava di schemi
 BOI039	non so invitava
@@ -913,11 +905,11 @@ BOI039	quindi mh sì anche dal punto di vista sportivo insomma
 BOI039	se uno st~ mh studia uno po' della sua storia
 BOI039	è interessante insomma è
 BOI039	è particolare un po' perché
-BOR006	mh è stato poi uno scopritore anche di talenti meazza
-BOI039	mh
-BOR001	insomma di giocatori
+BOI039	mh è stato poi uno scopritore anche di talenti meazza
 BOR006	mh
-BOI039	è vero
+BOI039	insomma di giocatori
+BOR001	mh
+BOR006	è vero
 BOI039	e quindi fece sempre bene insomma
 BOI039	e
 BOI039	questo sì è strano perché
@@ -927,19 +919,19 @@ BOI039	che anche la sua figura
 BOI039	insomma la sua storia sportiva è stata dimenticata
 BOI039	mh evidentemente
 BOI039	eh
-BOR006	sì la vicenda umana si è portata via anche la la vicenda sportiva
-BOI039	mh
+BOI039	sì la vicenda umana si è portata via anche la la vicenda sportiva
+BOR006	mh
 BOI039	ma io questa è una cosa magari che io faccio più fatica
 BOI039	a comprenderla perché comunque
-BOR006	oh all'epoca c'erano le riviste c'era il calcio illustrato la radio
-BOI039	mh
+BOI039	oh all'epoca c'erano le riviste c'era il calcio illustrato la radio
+BOR006	mh
 BOI039	eh sì però eh beh
 BOI039	anche quello lì è una
 BOI039	non so darmi una risposta
 BOI039	perché evidentemente ne
 BOI039	queste leggi razziali sono
-BOR001	sono state anche non solo
-BOI039	mh
+BOI039	sono state anche non solo
+BOR001	mh
 BOI039	digerite da qualcuno nel senso
 BOI039	mass media e comunque si vede che erano
 BOI039	orientati anche loro
@@ -952,38 +944,38 @@ BOI039	erano
 BOI039	anche loro av~ hanno partecipato
 BOI039	a
 BOI039	a questa dittatura diciamo
-BOR006	e
-BOI039	sì
+BOI039	e
+BOR006	sì
 BOI039	e questa mania diciamo non parlando più di questo allenatore perché ebreo
-BOR001	ecco
-BOI039	sì
+BOI039	ecco
+BOR001	sì
 BOI039	solo perché è di origine ebrea
 BOI039	mh è bastato poco insomma
-BOR001	mh
+BOI039	mh
 BOR001	sì abbastanza strano anche in effetti che
-BOI039	non sia venuto fuori dopo
-BOR001	sì mh magari anche non so nelle epoche suc~ non so magari negli anni successivi magari
+BOR001	non sia venuto fuori dopo
+BOI039	sì mh magari anche non so nelle epoche suc~ non so magari negli anni successivi magari
 BOR001	c'è ecco
-BOI039	sì anche lei quando ha detto gli almanacchi
-BOR001	sì
+BOR001	sì anche lei quando ha detto gli almanacchi
+BOI039	sì
 BOR001	alla fine
-BOI039	cioè il bologna non ne ha vinti tantissimi di scudetti quindi
-BOR001	sì sì
+BOR001	cioè il bologna non ne ha vinti tantissimi di scudetti quindi
+BOI039	sì sì
 BOR001	dico quei
 BOR001	cioè sono due
-BOI039	dei pochi
-BOR001	sì due più
-BOI039	cioè
+BOR001	dei pochi
+BOI039	sì due più
+BOR001	cioè
 BOI039	all'epoca vinse quattro a uno col chelsea che era
-BOR006	il chelsea
-BOI039	eh sì sì
-BOR001	le squadre inglesi non non andavano oltremanica perché si ritenevano superiori erano loro i i fondatori del football fonda~
-BOI039	eh infatti
+BOI039	il chelsea
+BOR006	eh sì sì
+BOI039	le squadre inglesi non non andavano oltremanica perché si ritenevano superiori erano loro i i fondatori del football fonda~
+BOR001	eh infatti
 BOI039	e però mh
 BOI039	evidentemente
 BOI039	cadere anche per un personaggio famoso nell'oblio
-BOR001	se i mass media non non ne parl~ cioè insomma hanno un hanno una forza
-BOI039	mh
+BOI039	se i mass media non non ne parl~ cioè insomma hanno un hanno una forza
+BOR001	mh
 BOI039	i giornali e i mezzi di comunicazione
 BOI039	ti possono anche a una persona famosa
 BOI039	può esser dimenticata
@@ -994,13 +986,13 @@ BOI039	si è dovuto aspettare il nuovo secolo diciamo per
 BOI039	e anche perché vicenda sportiva
 BOI039	emergesse diciamo
 BOI039	mh
-BOR001	questo fa pensare anche questo sì
-BOR006	sì
+BOI039	questo fa pensare anche questo sì
 BOR001	sì
-BOI039	e poi perché c'è stato l'interessamento in particolare di una persona altrimenti eh
+BOR006	sì
+BOR001	e poi perché c'è stato l'interessamento in particolare di una persona altrimenti eh
 BOI039	eh sì
-BOR001	di una persona sì sì
-BOI039	cioè
+BOI039	di una persona sì sì
+BOR001	cioè
 BOI039	e
 BOI039	infatti matteo marani ha avuto queste capacità
 BOI039	mh in un'intervista si
@@ -1032,9 +1024,9 @@ BOI039	ha ha trovato
 BOI039	mamma di weisz la classe
 BOI039	ha cominciato a telefonare ai compagni di classe poi
 BOI039	i compagni di scuola
-BOR001	perché non erano in classe insieme lorenzo e robert
+BOI039	perché non erano in classe insieme lorenzo e robert
+BOR001	ah
 BOR006	ah
-BOI039	ah
 BOI039	e
 BOI039	quindi anche lui è stato
 BOI039	caparbio all'inizio
@@ -1053,15 +1045,15 @@ BOI039	dei giocatori allenati da weisz in olanda
 BOI039	e
 BOI039	poi dopo son nate anche altre associazioni anche in ungheria
 BOI039	dove hanno trovato il le foto della madre
-BOR001	cioè di della moglie
-BOI039	sì
+BOI039	cioè di della moglie
+BOR001	sì
 BOI039	di di weisz di arpad
 BOI039	ehm
 BOI039	c'erano foto anche
 BOI039	a
 BOI039	scattata in ospedale a milano in occasione della nascita di robert
-BOR001	perché nacque a milano
-BOI039	mh
+BOI039	perché nacque a milano
+BOR001	mh
 BOI039	mentre era mh
 BOI039	mentre
 BOI039	arpad era proprio per lavoro a milano
@@ -1070,8 +1062,8 @@ BOI039	addirittura l'ultima notizia
 BOI039	che ho avuto hanno
 BOI039	un'associazione
 BOI039	è venuta in contatto con un
-BOR001	compagno di scuola di robert in olanda
-BOI039	mh
+BOI039	compagno di scuola di robert in olanda
+BOR001	mh
 BOI039	compagno di scuola là
 BOI039	che eh intervistato questo signore disse che
 BOI039	lo difese
@@ -1081,17 +1073,16 @@ BOI039	ehm
 BOI039	insomma di un
 BOI039	gerarca
 BOI039	o un collaboratore mh
-BOR001	olandese dell'esercito naf~ nazista
-BOI039	mhmh
+BOI039	olandese dell'esercito naf~ nazista
+BOR001	mhmh
 BOI039	lo difese da un'aggressione fisica
 BOI039	e disse che
 BOI039	e siccome poi questo
 BOI039	questo ragazzo insomma quest'amico di
-BOR006	di robert e eh è ricercato lui scappò nei boschi
-BOI039	
+BOI039	di robert e eh è ricercato lui scappò nei boschi
 BOI039	e dice che probabilmente fu quello
-BOR006	diciamo la scintilla che fece poi catturare i weisz
-BOI039	ah cavolo
+BOI039	diciamo la scintilla che fece poi catturare i weisz
+BOR006	ah cavolo
 BOI039	perché dopo
 BOI039	e anche andarono a casa di la polizia
 BOI039	collaboratrice del regime nazista
@@ -1115,17 +1106,15 @@ BOI039	sono uscite poi anche le testimonianze
 BOI039	e successive diciamo grazie a questo interessamento
 BOI039	mh di varie enti di varie
 BOI039	associazioni anche estere insomma di
-BOR006	di appassionati di di weisz e quella sua vicenda sportiva ecco
-BOI039	molto bello sapere queste cose secondo me soprattutto le storie
+BOI039	di appassionati di di weisz e quella sua vicenda sportiva ecco
+BOR006	molto bello sapere queste cose secondo me soprattutto le storie
 BOI039	sì
-BOR006	che poi io non le so tutte perché
-BOI039	delle
+BOI039	che poi io non le so tutte perché
+BOR006	delle
 BOI039	questa l'ho ritrovata
 BOI039	leggendo
 BOI039	un
-BOR001	un notiziaro del quartiere savena mi sembra non so
-BOR006	
-BOI039	
+BOI039	un notiziaro del quartiere savena mi sembra non so
 BOI039	del q~ perchè c'era un'associazione
 BOI039	e poi chissà
 BOI039	se ogni tanto magari
@@ -1134,8 +1123,8 @@ BOI039	dell'anpi magari mi dice qualcosa
 BOI039	eh
 BOI039	sì alla fine anch'io
 BOI039	insomma mi fa piacere insomma che ci sia quest'interessamento perché
-BOR001	c'è ancora qualcosa da da da sapere ecco
-BOI039	mh
+BOI039	c'è ancora qualcosa da da da sapere ecco
+BOR001	mh
 BOI039	magari chissà eh
 BOI039	possono uscire anche altre notizie
 BOI039	eh sulla sulla famiglia
@@ -1145,26 +1134,26 @@ BOI039	anche quello è un mio cruccio la foto
 BOI039	e poi un giorno matteo marani mi ha girato la foto
 BOI039	di della moglie ritrovata da quest'associazione un ungherese mi sembra
 BOI039	e insomma quindi
-BOR001	e forse c'è ancora qulcosa da da scoprire
-BOR006	sì
-BOR001	mh
-BOR001	anche perché alla fine
-BOI039	col fatto che comunque prima arpad era famoso
+BOI039	e forse c'è ancora qulcosa da da scoprire
 BOR001	sì
+BOR006	mh
+BOR001	anche perché alla fine
+BOR001	col fatto che comunque prima arpad era famoso
+BOI039	sì
 BOR001	c'è stato qualcuno che si è interessato alla storia
 BOR001	e la s~ l'han fatto venir fuori e magari verrà fuori anche altro
 BOR001	però immagino che cioè ci saranno state
 BOR001	altre migliaia di storie
-BOI039	magari anche simili alla loro che però
+BOR001	magari anche simili alla loro che però
 BOI039	ah
-BOR001	certo
-BOI039	eh riguardavano persone
-BOR001	sì sì
-BOI039	mh comuni che non sono mai state famose e non ci sarebbe stato modo di
+BOI039	certo
+BOR001	eh riguardavano persone
+BOI039	sì sì
+BOR001	mh comuni che non sono mai state famose e non ci sarebbe stato modo di
 BOI039	ah
-BOR001	ah sì sì
+BOI039	ah sì sì
 BOR001	cioè
-BOI039	alla fine è un emblema questo
+BOR001	alla fine è un emblema questo
 BOI039	a
 BOI039	a migliaia
 BOI039	in europa a milioni
@@ -1176,36 +1165,36 @@ BOI039	un lavoratore in qualche altro settore normale non so
 BOI039	un impiegato
 BOI039	o mh
 BOI039	una persona diciamo con un lavoro normale fra virgolette cioè non
-BOR001	senza notorietà diciamo
-BOI039	mh
+BOI039	senza notorietà diciamo
+BOR001	mh
 BOI039	eh sarebbe sì eh
 BOI039	mio papà si è conservato le lettere ma
 BOI039	poi sì chissà quante famiglie storie di famiglie
 BOI039	ma questa sì è
-BOR001	è un esempio diciamo
-BOI039	sì
-BOR006	è esempio da
+BOI039	è un esempio diciamo
+BOR001	sì
+BOI039	è esempio da
 BOR006	okay
 BOR006	magari controlliamo
-BOR001	quant'abbiamo fatto
+BOR006	quant'abbiamo fatto
 BOR001	ah sì
 BOR001	sì sì
 BOR001	ma siamo già a tre quarti d'ora
-BOR006	ma io volevo chiedere però solamente un'altra cosa prima
-BOR001	vai pure vai pure
+BOR001	ma io volevo chiedere però solamente un'altra cosa prima
+BOR006	vai pure vai pure
 BOR001	un attimino
 BOR001	no ehm
 BOR001	prima diceva che con con anpi
-BOI039	eh appunto
-BOR001	sì
+BOR001	eh appunto
+BOI039	sì
 BOR001	anche suo padre già collab~
 BOR001	collaborava
 BOR001	e anche lei sta collaborando
 BOR001	ma principalmente quindi coi bambini o
 BOR001	però magari avete fatto anche altre iniziative
-BOI039	non dedicate solo
-BOR001	ma eh
-BOI039	per le scuole
+BOR001	non dedicate solo
+BOI039	ma eh
+BOR001	per le scuole
 BOI039	essenzialmente sì con
 BOI039	con i ragazzi
 BOI039	ragazzi delle scuole
@@ -1216,8 +1205,8 @@ BOI039	e anpi e l'associazione lì del calcio
 BOI039	si sono interessate per la raccolta firme
 BOI039	per la intitolazione della curva
 BOI039	insieme anche a la società del bologna
-BOR001	il bologna calcio il comune insomma è stato
-BOI039	mh
+BOI039	il bologna calcio il comune insomma è stato
+BOR001	mh
 BOI039	un'azione condivisa
 BOI039	e mh
 BOI039	in particolare sì per
@@ -1231,24 +1220,24 @@ BOI039	e
 BOI039	come iniziative
 BOI039	poi abbiamo partecipato come ospiti a
 BOI039	iniziative sì la rai
-BOR001	è venuta la rai qualche anno fa a fare un servizio
-BOI039	ah
+BOI039	è venuta la rai qualche anno fa a fare un servizio
+BOR001	ah
 BOI039	ehm
 BOI039	su weisz eh una trasmissione adesso non mi ricordo più che c'era della sera
-BOR001	qualche intervista non so anche alla televisione svizzera si è interessata all'inizio
-BOI039	mh
+BOI039	qualche intervista non so anche alla televisione svizzera si è interessata all'inizio
+BOR001	mh
 BOI039	ehm
 BOI039	varie cose però sì con anpi s~ eh
-BOR001	soprattutto con in ambito delle scuole
-BOI039	mhmh
+BOI039	soprattutto con in ambito delle scuole
+BOR001	mhmh
 BOI039	scuole
 BOI039	eh
-BOR001	sì
+BOI039	sì
 BOR001	sì e il bologna tipo non
-BOI039	non vi ha mai contattati per un'iniziativa
+BOR001	non vi ha mai contattati per un'iniziativa
 BOI039	il bologna calcio no
-BOR001	eh
-BOI039	mh
+BOI039	eh
+BOR001	mh
 BOI039	il bologna calcio no
 BOI039	eh
 BOI039	magari sì
@@ -1258,28 +1247,28 @@ BOI039	poi i dirigenti in occa~ in occasione della mh
 BOI039	giornata della memoria il ventisette
 BOI039	e quando
 BOI039	eh venne deposta una corona
-BOR001	alla
-BOI039	mhmh
-BOR001	alla lapide presente qua sotto la torre di maratona allo stadio c'è una lapide che ricorda weisz
-BOI039	sì
+BOI039	alla
+BOR001	mhmh
+BOI039	alla lapide presente qua sotto la torre di maratona allo stadio c'è una lapide che ricorda weisz
+BOR001	sì
 BOI039	in quell'occasione lì
 BOI039	o se no anche alla comunità ebraica
 BOI039	e il rappresentante della comunità ebraica
 BOI039	venne lì sempre
 BOI039	in quell'occasione oppure insieme nelle scuole
 BOI039	è capitato
-BOR001	ehm per cui sì
+BOI039	ehm per cui sì
 BOR001	sì
-BOR006	ok
-BOR001	secondo me
+BOR001	ok
+BOR006	secondo me
 BOR001	dici
-BOR006	possiamo
+BOR001	possiamo
 BOR006	eh
-BOR001	cioè secondo me siamo a posto è stato molto molto bello
-BOR006	sì anche
-BOI039	no è molto interessante
-BOR001	adesso sì io
-BOI039	anche per me
+BOR006	cioè secondo me siamo a posto è stato molto molto bello
+BOR001	sì anche
+BOR006	no è molto interessante
+BOI039	adesso sì io
+BOR001	anche per me
 BOI039	ho eh
 BOI039	ho ho molto
 BOI039	c'è ripreso quello che
@@ -1302,8 +1291,8 @@ BOI039	ma eh
 BOI039	sì c'è rammarico tanto rammarico dispiacere
 BOI039	difficoltà
 BOI039	ma sempre con una speranza
-BOR001	ecco eh
-BOI039	mh
+BOI039	ecco eh
+BOR001	mh
 BOI039	e
 BOI039	sempre una speranza di comunque di
 BOI039	farsi una nuova vita
@@ -1314,46 +1303,45 @@ BOI039	mh
 BOI039	nascosto fino alla fine in senso come
 BOI039	eh
 BOI039	mh
-BOR001	soluzione finale diciamo ecco
-BOI039	sì
+BOI039	soluzione finale diciamo ecco
+BOR001	sì
 BOI039	è stato tutto una
 BOI039	ben architet~ ben architettato ecco perché
 BOI039	infatti come sì
-BOR001	ripeto ancora come matteo marani ha detto è stato un lento scivolare diciamo
-BOI039	mhmh
+BOI039	ripeto ancora come matteo marani ha detto è stato un lento scivolare diciamo
+BOR001	mhmh
 BOI039	quasi
 BOI039	senza percepire
 BOI039	diciamo la fine ecco
-BOR001	quale sarebbe stata la fine
+BOI039	quale sarebbe stata la fine
 BOR001	mh
-BOI039	eh dov'è che sono conservate le lettere ha detto ah ok
+BOR001	eh dov'è che sono conservate le lettere ha detto ah ok
 BOI039	le lettere dunque sono a al museo ebraico
-BOR001	qua di bologna
-BOI039	sì
+BOI039	qua di bologna
+BOR001	sì
 BOI039	e so che
 BOI039	le hanno usate per
 BOI039	le hanno portate anche
 BOI039	in altri musei in giro per l'italia
 BOI039	poi
 BOI039	me le stavano ridando poi eh ehm
-BOR001	è scoppiato il covid
-BOI039	
+BOI039	è scoppiato il covid
 BOI039	eh ma comunque le sta~ le ha~ le conservano loro
-BOR001	adesso non credo le abbiano in esposizione
-BOI039	okay
+BOI039	adesso non credo le abbiano in esposizione
+BOR001	okay
 BOI039	ma le hanno le conservano loro ecco diciamo
 BOI039	sono queste sono solo le
 BOI039	delle fotocopie
 BOI039	delle lettere
 BOI039	tra l'altro qui si vede
-BOR001	ecco la prima è risultata intestata all'hotel di parigi
-BOR006	ah
-BOR001	mh
-BOI039	sì
+BOI039	ecco la prima è risultata intestata all'hotel di parigi
+BOR001	ah
+BOR006	mh
+BOR001	sì
 BOI039	e perché alloggiarono in hotel
 BOI039	era un hotel che non non c'è più
-BOR006	a parigi
-BOI039	ah questa è della della moglie
+BOI039	a parigi
+BOR006	ah questa è della della moglie
 BOI039	della moglie sì
 BOI039	eh questa è invece del
 BOI039	di robert

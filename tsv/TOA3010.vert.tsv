@@ -127,7 +127,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 22-1	TO086	22	piace	piace	linguistic	_	_	_	_	_	_
 22-2	TO086	22	°come	come	linguistic	Volume=Low	_	_	_	_	_
 22-3	TO086	22	abbinamento°	abbinamento	linguistic	Volume=Low	End=60.801	_	_	_	_
-23-0	TO085	23	sì,	sì	linguistic	Intonation=weakly_rising	Begin=61.058	_	_	_	_
+23-0	TO085	23	sì,	sì	linguistic	Intonation=WeaklyRising	Begin=61.058	_	_	_	_
 23-1	TO085	23	sì	sì	linguistic	_	_	_	_	_	_
 23-2	TO085	23	no	no	linguistic	_	End=61.909	_	_	_	_
 24-0	TO085	24	è	è	linguistic	_	Begin=61.933	_	_	_	_
@@ -222,7 +222,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 38-0	TO086	38	[e	e	linguistic	_	Begin=121.984	_	_	_	0-1(7)
 38-1	TO086	38	sugosa	sugosa	linguistic	_	_	_	_	_	0-6(7)
 38-2	TO086	38	da:]	da	linguistic	_	End=123.154	1x1	_	_	0-2(7)
-39-0	TO085	39	[mh,	mh	linguistic	Intonation=weakly_rising	Begin=121.988	_	_	_	0-2(7)
+39-0	TO085	39	[mh,	mh	linguistic	Intonation=WeaklyRising	Begin=121.988	_	_	_	0-2(7)
 39-1	TO085	39	mh]	mh	linguistic	_	End=123.154	_	_	_	0-2(7)
 40-0	TO086	40	perché	perché	linguistic	_	Begin=126.501	_	_	_	_
 40-1	TO086	40	è	è	linguistic	_	_	_	_	_	_
@@ -313,7 +313,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 54-7	TO086	54	chissà	chissà	linguistic	_	_	_	_	_	_
 54-8	TO086	54	che	che	linguistic	_	_	_	_	_	_
 54-9	TO086	54	co:sa	cosa	linguistic	_	End=176.5	1x1	_	_	_
-55-0	TO085	55	sì,	sì	linguistic	Intonation=weakly_rising	Begin=176.892	_	_	_	_
+55-0	TO085	55	sì,	sì	linguistic	Intonation=WeaklyRising	Begin=176.892	_	_	_	_
 55-1	TO085	55	sembra	sembra	linguistic	_	End=178.699	_	_	_	_
 56-0	TO086	56	la	la	linguistic	_	Begin=179.794	_	_	_	_
 56-1	TO086	56	persona	persona	linguistic	_	_	_	_	_	_
@@ -559,7 +559,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 103-8	TO085	103	per	per	linguistic	_	_	_	_	_	_
 103-9	TO085	103	lucia	lucia	linguistic	_	End=291.826	_	_	_	_
 104-0	TO085	104	sempre	sempre	linguistic	_	Begin=292.841|End=293.905	_	_	_	_
-105-0	TO085	105	boh,	boh	linguistic	Intonation=weakly_rising	Begin=296.232	_	_	_	_
+105-0	TO085	105	boh,	boh	linguistic	Intonation=WeaklyRising	Begin=296.232	_	_	_	_
 105-1	TO085	105	quindi	quindi	linguistic	_	_	_	_	_	_
 105-2	TO085	105	lo	lo	linguistic	_	_	_	_	_	_
 105-3	TO085	105	vedrai?	vedrai	linguistic	Intonation=Rising	End=298.079	_	_	_	_
@@ -1013,7 +1013,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 187-3	TO086	187	una	una	linguistic	_	_	_	_	_	_
 187-4	TO086	187	laurea	laurea	linguistic	_	_	_	_	_	_
 187-5	TO086	187	tipo	tipo	linguistic	_	_	_	_	_	_
-187-6	TO086	187	binazio[nale],	binazionale	linguistic	Intonation=weakly_rising	End=524.857	_	_	_	7-11(32)
+187-6	TO086	187	binazio[nale],	binazionale	linguistic	Intonation=WeaklyRising	End=524.857	_	_	_	7-11(32)
 188-0	TO085	188	[sì]	sì	linguistic	_	Begin=524.403|End=524.86	_	_	_	0-2(33)
 189-0	TO086	189	e:::hm	ehm	linguistic	_	Begin=526.726|End=528.579	0x3	_	_	_
 190-0	TO086	190	boh	boh	linguistic	_	Begin=528.609	_	_	_	_
@@ -1949,9 +1949,9 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 351-11	TO086	351	lo	lo	linguistic	_	_	_	_	_	_
 351-12	TO086	351	so:	so	linguistic	_	End=1093.642	1x1	_	_	_
 352-0	TO086	352	di	di	linguistic	_	Begin=1093.709	_	_	_	_
-352-1	TO086	352	indipendenza,	indipendenza	linguistic	Intonation=weakly_rising	_	_	_	_	_
+352-1	TO086	352	indipendenza,	indipendenza	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 352-2	TO086	352	di	di	linguistic	_	_	_	_	_	_
-352-3	TO086	352	libertà,	libertà	linguistic	Intonation=weakly_rising	_	_	_	_	_
+352-3	TO086	352	libertà,	libertà	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 352-4	TO086	352	[non	non	linguistic	_	_	_	_	_	0-3(57)
 352-5	TO086	352	so]	so	linguistic	_	_	_	_	_	0-2(57)
 352-6	TO086	352	quando	quando	linguistic	_	_	_	_	_	_
@@ -2408,7 +2408,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 437-1	TO086	437	non	non	linguistic	_	_	_	_	_	_
 437-2	TO086	437	meglio	meglio	linguistic	_	End=1364.102	_	_	_	_
 438-0	TO085	438	sì	sì	linguistic	_	Begin=1364.213	_	_	_	_
-438-1	TO085	438	as[solutamente,	assolutamente	linguistic	Intonation=weakly_rising	_	_	_	_	2-13(71)
+438-1	TO085	438	as[solutamente,	assolutamente	linguistic	Intonation=WeaklyRising	_	_	_	_	2-13(71)
 438-2	TO085	438	assolutamente]	assolutamente	linguistic	_	End=1366.458	_	_	_	0-13(71)
 439-0	TO086	439	[>cioè<	cioè	linguistic	_	Begin=1364.537	_	Fast=0-4	_	0-4(71)
 439-1	TO086	439	che	che	linguistic	_	_	_	_	_	0-3(71)
@@ -2446,9 +2446,9 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 445-3	TO085	445	lo]	lo	linguistic	_	_	_	_	_	0-2(73)
 445-4	TO085	445	dicevi	dicevi	linguistic	_	End=1379.096	_	_	_	_
 446-0	TO086	446	troppe	troppe	linguistic	_	Begin=1379.15	_	_	_	_
-446-1	TO086	446	energie::,	energie	linguistic	Intonation=weakly_rising	End=1380.905	6x2	_	_	_
+446-1	TO086	446	energie::,	energie	linguistic	Intonation=WeaklyRising	End=1380.905	6x2	_	_	_
 447-0	TO086	447	lezioni	lezioni	linguistic	_	Begin=1381.205	_	_	_	_
-447-1	TO086	447	saltate,	saltate	linguistic	Intonation=weakly_rising	_	_	_	_	_
+447-1	TO086	447	saltate,	saltate	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 447-2	TO086	447	quindi	quindi	linguistic	_	_	_	_	_	_
 447-3	TO086	447	proprio	proprio	linguistic	_	_	_	_	_	_
 447-4	TO086	447	no	no	linguistic	_	End=1383.79	_	_	_	_
@@ -2474,10 +2474,10 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 452-1	TO085	452	mi	mi	linguistic	_	_	_	_	_	_
 452-2	TO085	452	capita	capita	linguistic	_	_	_	_	_	_
 452-3	TO085	452	che	che	linguistic	_	_	_	_	_	_
-452-4	TO085	452	stu:dio,	studio	linguistic	Intonation=weakly_rising	_	2x1	_	_	_
+452-4	TO085	452	stu:dio,	studio	linguistic	Intonation=WeaklyRising	_	2x1	_	_	_
 452-5	TO085	452	mi	mi	linguistic	_	_	_	_	_	_
 452-6	TO085	452	metto	metto	linguistic	_	_	_	_	_	_
-452-7	TO085	452	lì:,	lì	linguistic	Intonation=weakly_rising	End=1406.932	1x1	_	_	_
+452-7	TO085	452	lì:,	lì	linguistic	Intonation=WeaklyRising	End=1406.932	1x1	_	_	_
 453-0	TO085	453	ripenso	ripenso	linguistic	_	Begin=1407.399	_	_	_	_
 453-1	TO085	453	a	a	linguistic	_	_	_	_	_	_
 453-2	TO085	453	l[ei]	lei	linguistic	_	End=1408.743	_	_	_	1-3(74)
@@ -2494,7 +2494,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 455-5	TO086	455	magari	magari	linguistic	_	_	_	_	_	_
 455-6	TO086	455	sei	sei	linguistic	_	_	_	_	_	_
 455-7	TO086	455	da	da	linguistic	_	_	_	_	_	_
-455-8	TO086	455	solo,	solo	linguistic	Intonation=weakly_rising	_	_	_	_	_
+455-8	TO086	455	solo,	solo	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 455-9	TO086	455	concentrato	concentrato	linguistic	_	End=1414.076	_	_	_	_
 456-0	TO086	456	mentre	mentre	linguistic	_	Begin=1415.003	_	_	_	_
 456-1	TO086	456	invece	invece	linguistic	_	_	_	_	_	_
@@ -2562,7 +2562,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 465-2	TO086	465	con	con	linguistic	_	_	_	_	_	0-3(76)
 465-3	TO086	465	qualcuno::	qualcuno	linguistic	_	_	7x2	_	_	0-8(76)
 465-4	TO086	465	che	che	linguistic	_	_	_	_	_	0-3(76)
-465-5	TO086	465	chiacchera:,	chiacchera	linguistic	Intonation=weakly_rising	_	9x1	_	_	0-10(76)
+465-5	TO086	465	chiacchera:,	chiacchera	linguistic	Intonation=WeaklyRising	_	9x1	_	_	0-10(76)
 465-6	TO086	465	che::]	che	linguistic	_	End=1438.276	2x2	_	_	0-3(76)
 466-0	TO086	466	°ce	ce	linguistic	Volume=Low	Begin=1451.43	_	_	_	_
 466-1	TO086	466	li	li	linguistic	Volume=Low	_	_	_	_	_

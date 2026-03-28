@@ -1,23 +1,23 @@
-???	sì no no lo so lo so che lei assiste ma lei si chiama?
+TO018	sì no no lo so lo so che lei assiste ma lei si chiama?
 ???	e::h
 ???	arancioni
-TO018	ales[sio]
+???	ales[sio]
 TO018	[ara]ncioni okay quindi ho,
-TO019	risolto il problema=lei ha ricevuto una serie di miei messaggi,
-???	okay.
-TO018	°no.°
+TO018	risolto il problema=lei ha ricevuto una serie di miei messaggi,
+TO019	okay.
+???	°no.°
 TO018	allora dopo ci rimettiamo d'accordo:
 TO018	perché le devo spiegare come funziona l'esame.
 TO018	per altro lei ri~ risulta immatricolato senza foto.
-???	già questa è una cosa strana per l'ateneo di torino.
-TO018	°sì?°
+TO018	già questa è una cosa strana per l'ateneo di torino.
+???	°sì?°
 TO018	sì.
-TO019	vabbè.
-TO018	e:: scu[si pe]r mandare avanti è questo di qua giusto?
+TO018	vabbè.
+TO019	e:: scu[si pe]r mandare avanti è questo di qua giusto?
 TO018	[allora],
-TO019	con questo le[i ma]nda avanti,
-TO018	[°okay.°]
-TO019	e la presentazione tornia[mo in]dietro (.) prego.
+TO018	con questo le[i ma]nda avanti,
+TO019	[°okay.°]
+TO018	e la presentazione tornia[mo in]dietro (.) prego.
 TO019	[°okay.°]
 TO019	allora,
 TO019	e: praticamente l'argomento che eh porto oggi in esame eh riguarda appunto la gestione dei suini,
@@ -98,48 +98,48 @@ TO019	e:h=somministrare degli antibiotici (a) disinfettare,
 TO019	le i capezzoli per prevenire eventuali diciamo,
 TO019	ipogalassia e quindi,
 TO019	problemi produttivi.
-TO018	e:h=mh
-TO019	si fermi un se[co]ndo.
-TO018	[sì].
-TO019	prenda fiato.
-TO018	((sospira))
+TO019	e:h=mh
+TO018	si fermi un se[co]ndo.
+TO019	[sì].
+TO018	prenda fiato.
+TO019	((sospira))
 TO018	prenda fiato non vada in apnea.
-TO019	[che non è] non è il caso.
-TO018	[okay].
+TO018	[che non è] non è il caso.
+TO019	[okay].
 TO018	senta tre tre aspetti che lei ha affrontato su questa prima:
-TO019	diapositiva che p[erò] richiedono un minimo di di:
-TO018	[sì].
-TO019	di approfondimen[to].
-TO018	[s]ì.
-TO019	perché riduce la: ha detto si riduce drasticamente la razione in corrispondenza del parto,
-TO018	[sì].
-TO019	[perch]é riduce la razione in corrispondenza del parto?
-TO018	allora riduco la ra[zione],
-TO019	[(dico xx)] e poi ha [sot]tolineato alle primipare.
+TO018	diapositiva che p[erò] richiedono un minimo di di:
+TO019	[sì].
+TO018	di approfondimen[to].
+TO019	[s]ì.
+TO018	perché riduce la: ha detto si riduce drasticamente la razione in corrispondenza del parto,
+TO019	[sì].
+TO018	[perch]é riduce la razione in corrispondenza del parto?
+TO019	allora riduco la ra[zione],
+TO018	[(dico xx)] e poi ha [sot]tolineato alle primipare.
 TO019	[sì].
 TO019	sì.
 TO019	per~
-TO018	no vabbè ma non è solo cioè ne~ nel senso la quantità che è intorno a un chilo atten[zione].
-TO019	°[mh] d'accor[do].°
+TO019	no vabbè ma non è solo cioè ne~ nel senso la quantità che è intorno a un chilo atten[zione].
+TO018	°[mh] d'accor[do].°
 TO019	[in que]l senso io intendevo primipara perché poi ovviamente,
 TO019	nelle diciamo secondipare,
-TO018	e così v[ia],
+TO019	e così v[ia],
 TO018	[no] ma (.) la riduzione a un chilo,
-TO019	m::h=va bene anche [se (vuole) non ha:]
+TO018	m::h=va bene anche [se (vuole) non ha:]
 TO019	[sì. quello è per tutte].
-TO018	[s]ì sì q[uello è per tutte].
+TO019	[s]ì sì q[uello è per tutte].
 TO018	[ma c'è una ragione],
 TO018	di di di igiene e profilassi del parto da questo punto di vista che giustifica,
-TO019	una riduzione della razione alimentare per un periodo di tempo decisamente breve questo è chiaro.
-TO018	sì.
+TO018	una riduzione della razione alimentare per un periodo di tempo decisamente breve questo è chiaro.
+TO019	sì.
 TO018	qual è la ragione per la quale si:
-TO019	si riduce così drasticamente la razione cioè drasticamente lei passa da due chili e mezz[o anzi di più] di due chili e mezzo perché:
-TO018	[sì esatto].
+TO018	si riduce così drasticamente la razione cioè drasticamente lei passa da due chili e mezz[o anzi di più] di due chili e mezzo perché:
+TO019	[sì esatto].
 TO018	in quella fase la scrofa può può ingerire anche:
 TO018	vabbè se è una primipara arriverà intorno ai:
 TO018	tre chili grosso modo due chili e otto tre chili se è una scrofa già di,
 TO018	che ha partorito più volte potrebbe anche ingerire una quantità di alimento:
-TO019	sui tre chili e due tre chili e tre.
+TO018	sui tre chili e due tre chili e tre.
 TO019	praticamente io vado a eh ridurre la quantità di alimento,
 TO019	proprio perché comunque la e:h la scrofa praticamente è più affaticata,
 TO019	in questa fase,
@@ -154,96 +154,96 @@ TO019	e:h in cui i livelli di insulina diciamo,
 TO019	e:h sono elevati,
 TO019	e per lunghi periodi.
 TO019	>e questo praticamente diciamo la diminuzione della razione in più permette comunque di prevenire diciamo questa sintomatologia<,
-TO018	che comunque (na~) determina una riduzione del~ delle produttività [in °aixx°]
-TO019	[e soprattutto] si cerca di stimolare l'appetito quindi affamando [tra] virgolette un po' l'animale nel giorno prima o:
-TO018	[sì].
-TO019	tenga anche presente che c'è un problema di ingombro evidentemente [per]ché in questa fase fin tanto che i: prodotti del concepimento premono sul diaframma.
-TO018	[sì].
-TO018	se premono sul diaframma,
-TO019	rendono più difficile la la in qualche modo la respirazione e anche lo spazio disponibile per l'ingestione alimentare,
-TO018	esatto.
-TO018	eh risulta essere ridotto quindi i:l tentativo è quello di favorire,
-TO019	eh l'ingestione nella fase (.) successiva all[a na]scita dei:
+TO019	che comunque (na~) determina una riduzione del~ delle produttività [in °aixx°]
+TO018	[e soprattutto] si cerca di stimolare l'appetito quindi affamando [tra] virgolette un po' l'animale nel giorno prima o:
 TO019	[sì].
-TO018	°durante la lattazione.°
+TO018	tenga anche presente che c'è un problema di ingombro evidentemente [per]ché in questa fase fin tanto che i: prodotti del concepimento premono sul diaframma.
+TO019	[sì].
+TO018	se premono sul diaframma,
+TO018	rendono più difficile la la in qualche modo la respirazione e anche lo spazio disponibile per l'ingestione alimentare,
+TO019	esatto.
+TO018	eh risulta essere ridotto quindi i:l tentativo è quello di favorire,
+TO018	eh l'ingestione nella fase (.) successiva all[a na]scita dei:
+TO019	[sì].
+TO019	°durante la lattazione.°
 TO018	e:h=m
-TO019	l'altra domanda di approfondimento lei ha messo di default l'impiego di antibiotici.
-TO018	sì.
+TO018	l'altra domanda di approfondimento lei ha messo di default l'impiego di antibiotici.
+TO019	sì.
 TO018	ora l'impiego degli antibiotici è proprio uno di quegli aspetti sui quali in questo momento c'è: ampia discussione.
 TO018	e ha senso per altro indipendentemente dalla discussione che l'opinione pubblica sta portando avanti in questi in questi ultimi mesi sull'utilizzo di antibiotici,
 TO018	ha senso fare un profilassi:
 TO018	antibioticoterapia,
-TO019	nella scrofa?
-TO018	m:::h
-TO019	cioè qual è l'effetto: sì diciamo così copro l'animale perché: da tutt~ mh da u[na serie di di] di,
+TO018	nella scrofa?
+TO019	m:::h
+TO018	cioè qual è l'effetto: sì diciamo così copro l'animale perché: da tutt~ mh da u[na serie di di] di,
 TO019	[in teoria alcuni:]
 TO019	e:h sostengono che comunque sia positiva diciamo una profilassi,
 TO019	e:h di quest~ diciamo di questo tipo perché comunque,
 TO019	va a prevenire la cioè l'allevatore va a prevenire eventuali ipogalassie quindi evitare,
 TO019	produ~ diciamo produttività negative successivamente.
-TO018	[però],
-TO019	[°adesso°] l~ l'ipogalassia è una <conseguenza> e[ven]tuale di una si[tuazione]: (.) fisiopatologica che si può sviluppare nell'animale,
+TO019	[però],
+TO018	[°adesso°] l~ l'ipogalassia è una <conseguenza> e[ven]tuale di una si[tuazione]: (.) fisiopatologica che si può sviluppare nell'animale,
 TO019	[sì].
-TO018	[di infezioni:]
-TO019	e:h=mh=non è che che sicuramente si possa prevenire: co:n=[e:h]
-TO018	[no va (bene)],
+TO019	[di infezioni:]
+TO018	e:h=mh=non è che che sicuramente si possa prevenire: co:n=[e:h]
+TO019	[no va (bene)],
 TO018	con l'uso:
 TO018	di antibiotici::
 TO018	che cos'è che è importante dal punto di vista della prevenzione dell'ipogalassia sostanzialmente nella,
-TO019	nell'insieme del d~ di questa fase,
-TO018	eh la prima: diciamo il primo intervento che devo (.) andare a effettuare è appunto la pulizia degli ambienti e la disinfezione degli ambienti[perché],
-TO019	[cercare di tenere ma]ntenere [il più ele]vato possibile,
-TO018	[esatto].
-TO019	i:l le [condizioni] igieniche sanitarie della sala parto nei limiti del po[ssi]bile.
+TO018	nell'insieme del d~ di questa fase,
+TO019	eh la prima: diciamo il primo intervento che devo (.) andare a effettuare è appunto la pulizia degli ambienti e la disinfezione degli ambienti[perché],
+TO018	[cercare di tenere ma]ntenere [il più ele]vato possibile,
+TO019	[esatto].
+TO018	i:l le [condizioni] igieniche sanitarie della sala parto nei limiti del po[ssi]bile.
 TO019	[la sala].
-TO018	[sì].
-TO019	poi?
+TO019	[sì].
+TO018	poi?
 TO019	e:::h=mh
 TO019	m::h=somministrare una alimentazione adeguata alla alla: alla scrofa perché comunque in caso di deficit e:h al~ diciamo nu~ dal punto di vista nutrizionale,
 TO019	possono determinare una riduzione del sistema immunitario e quindi possono andare a intaccare quindi eventuali infezioni.
-TO018	[e:::]h
+TO019	[e:::]h
 TO018	[°d'accordo.°]
 TO018	e poi qual è il ruolo dei suinetti da questo punto di vista?
 TO018	fisiologicamente la scrofa è una p~ un animale che ha una produzione lattea continua oppure:
-TO019	oppure no.
+TO018	oppure no.
 TO019	e:h durante la lattazione abbiamo d~ diciamo un picco,
-TO018	intorno: a: (.) più o meno tre settimane.
-TO019	beh questo è il picco di produzio[ne massima].
-TO018	[sì. massima].
-TO019	però ha una produzione lattea continua come possiamo riscontrare nei ruminanti,
+TO019	intorno: a: (.) più o meno tre settimane.
+TO018	beh questo è il picco di produzio[ne massima].
+TO019	[sì. massima].
+TO018	però ha una produzione lattea continua come possiamo riscontrare nei ruminanti,
 TO019	e::h=mh
 TO019	no.
 TO019	perché:=mh praticamente diciamo (.) la:=mh l'espulsione diciamo del latte avviene in più fasi.
-TO018	cioè nel senso per esempi[o durante la suzio]ne,
+TO019	cioè nel senso per esempi[o durante la suzio]ne,
 TO018	[e avviene quando],
-TO019	avviene durante la suzion[e].
-TO018	[e]satto. durante la suzi[one],
-TO019	[e la s]uzione come avviene?
-TO018	in cinque fasi più o meno.
-TO019	sono cinque momenti non f~ (.) però in realtà non è una sunzione continua quindi la [pro]duzione di latte è una produzione di latte a domanda in buona so[stanza].
+TO018	avviene durante la suzion[e].
+TO019	[e]satto. durante la suzi[one],
+TO018	[e la s]uzione come avviene?
+TO019	in cinque fasi più o meno.
+TO018	sono cinque momenti non f~ (.) però in realtà non è una sunzione continua quindi la [pro]duzione di latte è una produzione di latte a domanda in buona so[stanza].
 TO019	[no].
-TO018	[esa]tto. (.) perché: i: lattonzoli praticam[ente],
-TO019	[e quindi] se i suinetti non si attaccano che cosa succede?
-TO018	non abbiamo la secrezione del latte.
-TO019	e di [consegue]nza l'animale smette di prod[urre].
+TO019	[esa]tto. (.) perché: i: lattonzoli praticam[ente],
+TO018	[e quindi] se i suinetti non si attaccano che cosa succede?
+TO019	non abbiamo la secrezione del latte.
+TO018	e di [consegue]nza l'animale smette di prod[urre].
 TO019	[°perché:°]
 TO019	[esa]tto.
 TO019	perché appunto la secrezione del latte eh viene stimolata appunto dai da:i lattonzoli che eh stimolano appunto le mammelle proprio con dei colpi diciamo co:n la testa,
-TO018	questo determina quindi un impulso n[ervoso],
-TO019	[attraverso una s]erie di meccanis[mi:]:
+TO019	questo determina quindi un impulso n[ervoso],
+TO018	[attraverso una s]erie di meccanis[mi:]:
 TO019	[esatto].
-TO018	di [suzione:=mh]
-TO019	[comportamentali e di s]uzione ed or[monali ovviamente perché la suzione] stimola che cosa °nella scrofa°,
+TO019	di [suzione:=mh]
+TO018	[comportamentali e di s]uzione ed or[monali ovviamente perché la suzione] stimola che cosa °nella scrofa°,
 TO019	[anzi ne: esatto. eh]
-TO018	la?
-TO019	la sunzione del capezzolo cosa stimola?
-TO018	e:: [stimola l'impulso nervoso e] quindi il lo il [rilascio di ossit]ocina
+TO019	la?
+TO018	la sunzione del capezzolo cosa stimola?
+TO019	e:: [stimola l'impulso nervoso e] quindi il lo il [rilascio di ossit]ocina
 TO018	[nell'animale nella nella scrofa].
 TO018	[e quindi]?
-TO019	rilascio di ossitocina (sp[remitura degli acini) eccetera].
+TO018	rilascio di ossitocina (sp[remitura degli acini) eccetera].
 TO019	[s~ contrazione delle cellule degli ah deg]li alveoli eccetera eccetera.
-TO018	e::h=praticamente nella prima fase infatti durante la suzione (.) poi dopo diciamo lo descrivo si vede proprio (.) gli animali diciamo che si raccolgono,
-TO019	°va bene. andiamo [avanti.°]
+TO019	e::h=praticamente nella prima fase infatti durante la suzione (.) poi dopo diciamo lo descrivo si vede proprio (.) gli animali diciamo che si raccolgono,
+TO018	°va bene. andiamo [avanti.°]
 TO019	[okay].
 TO019	e::h=mh quindi a questo punto avvengono i parti,
 TO019	e::h i parti diciamo possono essere indotti l'induzione del parto può avvenire al centoquattordicesimo giorno di gestazione,
@@ -251,13 +251,13 @@ TO019	con la somministrazione di prostaglandine (.) intorno diciamo alle otto di
 TO019	e se possibile anche il pomeriggio.
 TO019	>e: sempre di prosta~ una iniezione di prostaglandina<.
 TO019	e poi al centoquindicesimo giorno praticamente vado a somministrare nelle prime ore diciamo del mattino ossitocina.
-TO018	e::h quindi allora,
-TO019	questo è uno dei protocolli di sincro[nizzazione del parto].
+TO019	e::h quindi allora,
+TO018	questo è uno dei protocolli di sincro[nizzazione del parto].
 TO019	[sì sì sì di sincronizza]zione del parto (e) induzione del parto.
 TO019	e:h=mh
 TO019	°(ho) bloccato°
-TO018	°perfett~°
-TO019	°beh adesso riparte va,°
+TO019	°perfett~°
+TO018	°beh adesso riparte va,°
 TO019	pe:rs~ okay.
 TO019	allora quindi e:h avvenuto il parto (.) praticamente e:h=mh le: le prime manovre diciamo da effettuare sono,
 TO019	per prima cosa eh verificare la completa espulsione degli invogli fetali,
@@ -276,14 +276,14 @@ TO019	e:h=il colostro viene rilasciato eh fino alle sei ore diciamo dopo dopo il
 TO019	eh e:h=m:h=e:h
 TO019	ed è comunque diciamo l'aspetto fondamentale in queste prime ore di vita dei piccoli.
 TO019	e:h=un altro aspetto uh,
-TO018	sì,
-TO019	il rilascio di colostro va anche oltre le sei o[re].
-TO018	[s]ì per[ò::]
-TO019	[che cos'è] che cambia?
-TO018	è la concentrazione praticamente delle immunoglobuline non abbiamo più le immunoglobuline presenti nel colo[stro],
+TO019	sì,
+TO018	il rilascio di colostro va anche oltre le sei o[re].
+TO019	[s]ì per[ò::]
+TO018	[che cos'è] che cambia?
+TO019	è la concentrazione praticamente delle immunoglobuline non abbiamo più le immunoglobuline presenti nel colo[stro],
 TO018	[no] nel colostro ci sono ancora è una,
-TO019	eh lei immagini cioè immagina.
-TO018	°sì.°
+TO018	eh lei immagini cioè immagina.
+TO019	°sì.°
 TO018	ll~ è sempre il~
 TO018	ll=il risultato dello svezza~ del parto in questo caso.
 TO018	e quindi delle prime ore.
@@ -294,71 +294,71 @@ TO018	allora il cambiamento non avviene tanto a livello,
 TO018	delle prime ore,
 TO018	a livello della scrofa.
 TO018	ma avviene piuttosto a livello,
-TO019	dei suinetti dei pi[ccoli che cos'è] che cambia al~ all'interno nei suinet[ti]?
+TO018	dei suinetti dei pi[ccoli che cos'è] che cambia al~ all'interno nei suinet[ti]?
 TO019	[esatto].
 TO019	[per]ché a livello dell'apparato digerente non riescono più ad assorbire,
-TO018	le immunoglobuline che sono essenziali per il sistema immuni[tario].
+TO019	le immunoglobuline che sono essenziali per il sistema immuni[tario].
 TO018	[le immun]oglobuline sono caratterizzate fondamentalmente da che cosa?
 TO018	dal punto di vista della struttura:: biochimica=e=chimica.
-TO019	sono composti,
-TO018	°[e::h°]
-TO019	[da elevat]o peso moleco[lare].
-TO018	[ah s]ì sì sì.
-TO019	e come tali,
+TO018	sono composti,
+TO019	°[e::h°]
+TO018	[da elevat]o peso moleco[lare].
+TO019	[ah s]ì sì sì.
+TO018	e come tali,
 TO019	e come tali quindi sono diciamo difficilmente assorbite.
-TO018	a livello uh a livello diciamo di[gerente].
-TO019	[perché la per]meabilità della parete intesti[nale si rid]uce progressiv[amente] quindi per non fare quindi ecco perché le prime ore so[no assolutame]nte::
+TO019	a livello uh a livello diciamo di[gerente].
+TO018	[perché la per]meabilità della parete intesti[nale si rid]uce progressiv[amente] quindi per non fare quindi ecco perché le prime ore so[no assolutame]nte::
 TO019	[diminuisce].
 TO019	[esatto].
-TO018	[sì sì sì].
-TO019	fondmentali da questo punto di vista.
+TO019	[sì sì sì].
+TO018	fondmentali da questo punto di vista.
 TO019	quindi allora eh successivamente,
 TO019	e:h effettuiamo praticamente il pareggioamento.
 TO019	eh=effettuiamo la pesatura dei piccoli.
 TO019	è: opportuno quindi e:h ottenere una nidiata.
 TO019	e::h=mh in cui i p~ diciamo il peso dei piccoli nei pesi <il peso dei piccoli> deve essere in media di circa un chilo un chilo e due.
 TO019	e::h=mh effettuiamo quindi il sessaggio andiamo quindi a valutare la percentuale di femmine e maschi ne~ delle nidiate.
-TO018	e:h somministriamo diciamo il f~ la >somministrazione del ferro entro le prime ventiquattro quarantott'[ore<].
+TO019	e:h somministriamo diciamo il f~ la >somministrazione del ferro entro le prime ventiquattro quarantott'[ore<].
 TO018	[nor]malmente il rapporto maschi femminine quant'è?
-TO019	°mediamente.°
-TO018	e::h=mh
-TO019	visto che mi dice che fa il sessaggio.
+TO018	°mediamente.°
+TO019	e::h=mh
+TO018	visto che mi dice che fa il sessaggio.
 TO019	s:ì.
-TO018	m::h=è una cosa anche che ho visto comuque al tirocinio m:h cioè durante il tirocinio per quello,
+TO019	m::h=è una cosa anche che ho visto comuque al tirocinio m:h cioè durante il tirocinio per quello,
 TO018	°ma,°
-TO019	durante il tirocinio: sicuramente lei ha visto tante cose non l[o metto] in dubbio compreso anche quella della carta no che poi sono pochissimi gli alle[vamenti]che utlizzano questo sistema.
+TO018	durante il tirocinio: sicuramente lei ha visto tante cose non l[o metto] in dubbio compreso anche quella della carta no che poi sono pochissimi gli alle[vamenti]che utlizzano questo sistema.
 TO019	[sì].
-TO018	[esatto].
+TO019	[esatto].
 TO018	non è che non si usi sono pochissimi.
 TO018	però nell'allevamento del suino,
 TO018	è importante: una:
 TO018	un sessaggio.
-TO019	°da questo di punto° di vista immediato cioè non~
+TO018	°da questo di punto° di vista immediato cioè non~
 TO019	m:h=no perché comunque alla fine,
 TO019	e::h=mh
-TO018	la:: cioè >pr~ la percentuale diciamo< di femmine viene po~ può essere utilizzata come riproduttrice oppure,
+TO019	la:: cioè >pr~ la percentuale diciamo< di femmine viene po~ può essere utilizzata come riproduttrice oppure,
 TO018	°vabbè°
-TO019	questo dipende dagli obiettivi del [m~ dell'allevame~ in un alle]vamento: tra virgolette convenzionale che non faccia della: della genetica,
+TO018	questo dipende dagli obiettivi del [m~ dell'allevame~ in un alle]vamento: tra virgolette convenzionale che non faccia della: della genetica,
 TO019	[°dell'allevament~°]
-TO018	okay.
-TO019	lei ha degli animali che sono tutti quanti destinati all'ingrasso f[onda]mentalmente.
-TO018	[sì].
+TO019	okay.
+TO018	lei ha degli animali che sono tutti quanti destinati all'ingrasso f[onda]mentalmente.
+TO019	[sì].
 TO018	ai maschi succede qualche cosa di estremamente particolare,
 TO018	e:::h=che evidentemente la::
-TO019	°cosa che succede ai ma[schi?°]
-TO018	[la ca]strazione,
-TO019	°castraz[ione,°]
-TO018	[quella è fonda]mentale per esempio in un allevamento di in[grasso],
-TO019	[e quindi a]lla fi[ne dal pu]nto di vista della:
-TO018	[°perché:°]
+TO018	°cosa che succede ai ma[schi?°]
+TO019	[la ca]strazione,
+TO018	°castraz[ione,°]
+TO019	[quella è fonda]mentale per esempio in un allevamento di in[grasso],
+TO018	[e quindi a]lla fi[ne dal pu]nto di vista della:
+TO019	[°perché:°]
 TO018	metodologia di ingrasso noi riconduciamo,
-TO019	gli alle~ gli animali allevati tutti quanti più vicini alla condizione ormonale femminile p[iuttosto che] maschile.
-TO018	[esatto].
+TO018	gli alle~ gli animali allevati tutti quanti più vicini alla condizione ormonale femminile p[iuttosto che] maschile.
+TO019	[esatto].
 TO018	e quindi il sessaggio sì ci interessa perché dobbiamo fare ma non è::
 TO018	non facciamo,
-TO019	un allevamento per sessi separati.
-TO018	sì sì no quello no [(°attenzione°)].
-TO019	[quindi lei conta] maschi e femmine fa la c[astrazione:]
+TO018	un allevamento per sessi separati.
+TO019	sì sì no quello no [(°attenzione°)].
+TO018	[quindi lei conta] maschi e femmine fa la c[astrazione:]
 TO019	[sì sì >no no no<] con questo cioè nel senso con questo fine con questo scopo esatto.
 TO019	e::h=mh
 TO019	allora poi successivamente effettuiamo la caudotomia,
@@ -368,9 +368,9 @@ TO019	e:h e la limatura dei denti. la limatura dei denti,
 TO019	viene effettuata diciamo può essere effettuata o meno però diciamo molti allevamenti,
 TO019	e:h=mh effettuano la limatura dei denti proprio per prevenire eventuali diciamo,
 TO019	e:h ah problemi gestionali come per esempio morsicatura delle orecchie dei fianchi oppure della coda che solitamente questa diciamo questa:
-TO018	questi comportamenti si presentano in svezzamento prec[oce].
-TO019	[ed i]n particolare sui capezzoli delle femmine.
-TO018	sì esatto.
+TO019	questi comportamenti si presentano in svezzamento prec[oce].
+TO018	[ed i]n particolare sui capezzoli delle femmine.
+TO019	sì esatto.
 TO018	però in realtà che cosa succede cioè che cosa è successo negli ultimi anni da questo nei confronti soprattutto della pra~ della pratica del taglio dei denti,
 TO018	ed è un aspetto che che che si lega anche a:lla,
 TO018	°in qualche modo all~=uh°
@@ -378,20 +378,20 @@ TO018	al l'ulteriore domanda che le faccio l'ulteriore approfondimento quand'è 
 TO018	entro quando noi dobbiamo fare,
 TO018	la caudotomia,
 TO018	e eventualmente la castrazione.
-TO019	e eventualmente il tatuaggio (poi sul) tatuaggio insomma c'è un obbligo di legge:
-TO018	allora [per quanto],
-TO019	[(perché mentre)] il taglio della coda e e la castrazione non sono un obbligo di legge.
-TO018	°no quelli no.°
-TO019	quindi gli altri: gli altri interventi::
+TO018	e eventualmente il tatuaggio (poi sul) tatuaggio insomma c'è un obbligo di legge:
+TO019	allora [per quanto],
+TO018	[(perché mentre)] il taglio della coda e e la castrazione non sono un obbligo di legge.
+TO019	°no quelli no.°
+TO018	quindi gli altri: gli altri interventi::
 TO019	quello è più: diciamo una scelta dell'allevatore ecco.
 TO019	pe: proprio diciamo per una facilità dal punto di vista gestionale.
 TO019	e:h per quanto riguarda la caudotomia e la castrazione,
 TO019	viene effettuata diciamo entro la prima settimana per esempio la castrazione può essere effettuata anche dal personale.
-TO018	però e:h dal personale diciamo entro la prima settimana perché comunque i testicoli sono più sottili più facili diciamo eh possono essere m::h
+TO019	però e:h dal personale diciamo entro la prima settimana perché comunque i testicoli sono più sottili più facili diciamo eh possono essere m::h
 TO018	anche su questo::
 TO018	le norme::
-TO019	le norme sono:: esistono sono [seve]re:
-TO018	[°sì.°]
+TO018	le norme sono:: esistono sono [seve]re:
+TO019	[°sì.°]
 TO018	e spesso disattese.
 TO018	e::h=mh
 TO018	nel senso che la castrazione può essere fatta soltanto o da personale medico veterinario,
@@ -400,10 +400,10 @@ TO018	la legge però risale al millenovecentotrentotto,
 TO018	u:h
 TO018	le asl non la::
 TO018	verificano.
-TO019	e quindi la castrazione è fatta da personale di allevamento che sicuramente ha esperienza però dovrebbe essere tra virgolette autorizzato,
-TO018	°da un me[dico.°]
-TO019	[da u]n medico veterina[rio],
-TO018	[sì].
+TO018	e quindi la castrazione è fatta da personale di allevamento che sicuramente ha esperienza però dovrebbe essere tra virgolette autorizzato,
+TO019	°da un me[dico.°]
+TO018	[da u]n medico veterina[rio],
+TO019	[sì].
 TO018	che lo:
 TO018	che ha,
 TO018	come dire attesta:
@@ -413,74 +413,74 @@ TO018	in questo pacchetto però di interventi::
 TO018	che sono come dire in quache modo fisiologicamente: necessari.
 TO018	eh come si regolano le norme: attuali su~ per il rispetto e il benessere dell'animale,
 TO018	perché poi è questo il vincolo importante sul quale con il quale noi ci confrontiamo.
-TO019	[lei qui ha messo una b]ella immagine un apparecchio di conte[nime]nto fatt[o:]
+TO018	[lei qui ha messo una b]ella immagine un apparecchio di conte[nime]nto fatt[o:]
 TO019	[°e:h per conto~°]
 TO019	[sì].
-TO018	[per la cas]traz[ione].
+TO019	[per la cas]traz[ione].
 TO018	[°per la c]astrazione.°
 TO018	però oltre ad avere l'apparecchietto di contenimento che cosa serve anche,
-TO019	°che venga fatto,°
+TO018	°che venga fatto,°
 TO019	e::h=mh
 TO019	per quanto riguarda per esempio la castrazione,
-TO018	e:: praticamente [e:h],
-TO019	[posso] farla così oppur[e:]
+TO019	e:: praticamente [e:h],
+TO018	[posso] farla così oppur[e:]
 TO019	[no] vabbè e::h nel senso::
 TO019	e:h per prima cosa vado a separare quindi i piccoli dalla madre,
 TO019	e: eh=m:h
 TO019	li diciamo vado a verificare appunto i maschi e le femmine,
-TO018	e e:[h]
-TO019	[(sì no)] castrano solo più i maschi e le femmine pe[r fo]rt[una non p]iù sì,
+TO019	e e:[h]
+TO018	[(sì no)] castrano solo più i maschi e le femmine pe[r fo]rt[una non p]iù sì,
 TO019	[sì].
 TO019	[sì vabbè].
 TO019	e:: e poi praticamente: e:=m:h
 TO019	posso essere in presenza: del medico veterinario ad esempio,
 TO019	e e: vado a:=m:h
 TO019	a: an~ anestetizzare diciamo l'aria,
-TO018	e:: prima di agire comunque e di effettuare il taglio attr~ con il bisturi.
-TO019	è obbligatorio adottare tutti quei sistemi che servono a diminuire la sofferenza e il dolore nel[l'animale].
+TO019	e:: prima di agire comunque e di effettuare il taglio attr~ con il bisturi.
+TO018	è obbligatorio adottare tutti quei sistemi che servono a diminuire la sofferenza e il dolore nel[l'animale].
 TO019	[esatto].
-TO018	[e successivamente::] successivamente infatti alla castrazione è necessario inoltre,
-TO019	[pre e post operatorio].
-TO018	e::h controllare l'animale (.) e:h=mh durante la giornata proprio per osservare e prevenire eventuali infezioni quindi disin[fettare l'a]ria eccetera eccetera.
+TO019	[e successivamente::] successivamente infatti alla castrazione è necessario inoltre,
+TO018	[pre e post operatorio].
+TO019	e::h controllare l'animale (.) e:h=mh durante la giornata proprio per osservare e prevenire eventuali infezioni quindi disin[fettare l'a]ria eccetera eccetera.
 TO018	[°okay.°]
-TO019	okay andiamo avanti.
+TO018	okay andiamo avanti.
 TO019	°e:h°
 TO019	okay e: a questo punto abbiamo quindi la produzione del latte,
 TO019	e:h la scrofa praticamente è:=mh
 TO019	produce il latte in base al numero dei suinetti ovvero,
 TO019	e: praticamente la e:h percentuale diciamo e::h=mh di latte prodotta dalla scrofa aumenta all'aumentare del numero dei piccoli presenti nel ni~ nella nidiata,
 TO019	e e: inoltre,
-TO018	la percentuale di latte e:h=mh prodotta dalla scrofa aumenta anche e:h=mh con l'aumento del numero dei parti.
-TO019	okay quindi la capacità di lattazione della [scro]fa è e::h in qualche modo influenzata positivamente.
+TO019	la percentuale di latte e:h=mh prodotta dalla scrofa aumenta anche e:h=mh con l'aumento del numero dei parti.
+TO018	okay quindi la capacità di lattazione della [scro]fa è e::h in qualche modo influenzata positivamente.
 TO019	[sì].
-TO018	°sì.°
-TO019	e dal numero di nati e dal nu[mero di parti].
-TO018	[che dal numero di p]arti.
-TO019	u:h sul numero di parti sappiamo quand'è che raggiungiamo la massima capacità produttiva?
-TO018	e:h di la~ di latte in[torno],
-TO019	[sì di la]tte.
+TO019	°sì.°
+TO018	e dal numero di nati e dal nu[mero di parti].
+TO019	[che dal numero di p]arti.
+TO018	u:h sul numero di parti sappiamo quand'è che raggiungiamo la massima capacità produttiva?
+TO019	e:h di la~ di latte in[torno],
+TO018	[sì di la]tte.
 TO019	e::h=mh
-TO018	[inteso diciamo]
-TO019	[a quale parto]?
+TO019	[inteso diciamo]
+TO018	[a quale parto]?
 TO019	ah a quale parto.
 TO019	e:h dopo::: il ter~ eh mh no.
 TO019	m::h eh dopo il quinto::
 TO019	°>già è tardi però.°<
-TO018	quindi dopo il terzo:: dopo il [terzo parto °più o meno°].
+TO019	quindi dopo il terzo:: dopo il [terzo parto °più o meno°].
 TO018	[fra il terzo e il quinto].
-TO019	quindi mediamente al quarto d[ive]nta: questa (è) [la la la:]
+TO018	quindi mediamente al quarto d[ive]nta: questa (è) [la la la:]
 TO019	[sì].
-TO018	[dopo il terzo par]to.
-TO019	nell'ordine di parto (.) perché poi non sono tantissime le scrofe che rimango in allevamento per più di cinque parti.
+TO019	[dopo il terzo par]to.
+TO018	nell'ordine di parto (.) perché poi non sono tantissime le scrofe che rimango in allevamento per più di cinque parti.
 TO019	sì.
-TO018	°esatto perché poi [vanno vengono xxate.°]
-TO019	[non sono tantissime poi dipende mo]lto da da: dall'azienda dipende da~ dagli standard dipende da tutta una serie di cose.
-TO018	°esatto.°
+TO019	°esatto perché poi [vanno vengono xxate.°]
+TO018	[non sono tantissime poi dipende mo]lto da da: dall'azienda dipende da~ dagli standard dipende da tutta una serie di cose.
+TO019	°esatto.°
 TO018	i::l,
-TO019	invece il numero dei suinetti che lei ha detto dunque la produzione di latte cresce con il numero dei suinetti,
-TO018	sì.
+TO018	invece il numero dei suinetti che lei ha detto dunque la produzione di latte cresce con il numero dei suinetti,
+TO019	sì.
 TO018	è un valore che cresce in modo::
-TO019	esponenziale oppure c'è un=e:h un tetto °perché se fosse così,°
+TO018	esponenziale oppure c'è un=e:h un tetto °perché se fosse così,°
 TO019	avviene in maniera::=m:h graduale cioè nel senso è un comunque una produzione di latte,
 TO019	e::h non diciamo con uh mh picchi diciamo,
 TO019	e::h improvvisi ma comunque in man~ avviene in maniera graduale quindi per esempio,
@@ -491,156 +491,156 @@ TO019	m:h=dodici suinetti,
 TO019	rispetto al terzo parto in cui avremo quattordici quindici suinetti,
 TO019	la produzione di latte sarà maggiore diciamo nella seconda scrofa.
 TO019	e quindi comunque (.) non sarà diciamo la differenza enorme però comunque sarà:
-TO018	e:h in base anche al numero dei suinetti e quindi alla prod~ all'a:limentazione che io devo andare che deve andare a:
+TO019	e:h in base anche al numero dei suinetti e quindi alla prod~ all'a:limentazione che io devo andare che deve andare a:
 TO018	di fatto qual è il fattore limitante da questo punto di vista,
 TO018	perché,
 TO018	se lei mi dice che la produzione di latte cresce in maniera:
 TO018	direttamente proporzionale al numero di suini,
 TO018	allora: sono contento cioè nel senso che se una scrofa che partorisce::
-TO020	diciotto suinetti,
-TO019	°tutti contenti.°
+TO018	diciotto suinetti,
+TO020	°tutti contenti.°
 TO019	vabbé eh comunque anche in base al~
 TO019	e:h=mh
 TO019	alla stimolazione che avviene da parte del suinetto perché più diciamo la scrofa viene stimolata,
-TO018	più diciamo viene prodotto latte e quindi abbiamo il rilascio di prolattina e lattazione.
+TO019	più diciamo viene prodotto latte e quindi abbiamo il rilascio di prolattina e lattazione.
 TO018	d'accordissimo però,
-TO020	qual è il fattore limitante,
-TO018	se ho ci[nque suini] ho tot di latte se ne ho dieci ne ho il doppio se sono quindici sono tre volte tanto,
+TO018	qual è il fattore limitante,
+TO020	se ho ci[nque suini] ho tot di latte se ne ho dieci ne ho il doppio se sono quindici sono tre volte tanto,
 TO018	[c'è un fattore cioè nel se~]
 TO018	non è sempre così non è così.
 TO018	perché se no avremmo una produzione illimitata.
-TO019	che [cos'è che],
+TO018	che [cos'è che],
 TO019	[no vabbè fino] a un certo punto diciamo c'è fino:
 TO019	a:=un un ordine di parto intorno a:l,
-TO018	e:h quarto p[arto],
-TO020	[la~] la~ lasci stare l'ordine di parto.
-TO019	numero di suinetti.
-TO018	okay.
+TO019	e:h quarto p[arto],
+TO018	[la~] la~ lasci stare l'ordine di parto.
+TO020	numero di suinetti.
+TO019	okay.
 TO018	stiamo parlando dei suinetti.
 TO018	i suinetti::
-TO019	possono essere in numero illimitato?
+TO018	possono essere in numero illimitato?
 TO019	no illimitato >no ovviamente no<.
-TO018	fino a un certo punto cioè ((ride)) che se n[o poi la povera scrofa],
+TO019	fino a un certo punto cioè ((ride)) che se n[o poi la povera scrofa],
 TO018	[fino a un certo punto. però],
 TO018	di fatti ma questo è uno dei problemi che incontriamo nell'allevamento:: attuale eh.
-TO019	che cosa abbiamo raggiunto dal punto di vista della genetica?
-TO018	e::h un au[mento della proli]ficità e del numero dei piccoli presenti nella [nidiata].
+TO018	che cosa abbiamo raggiunto dal punto di vista della genetica?
+TO019	e::h un au[mento della proli]ficità e del numero dei piccoli presenti nella [nidiata].
 TO018	[in questo momento].
-TO019	[e quindi un a]umento della prolificità,
-TO018	[però],
-TO019	[e questo s]i traduce poi in una effettiva capacità di svezzamen[to perché po]i questa è la cosa che che che conta.
+TO018	[e quindi un a]umento della prolificità,
+TO019	[però],
+TO018	[e questo s]i traduce poi in una effettiva capacità di svezzamen[to perché po]i questa è la cosa che che che conta.
 TO019	[sì].
-TO018	°esatto.°
+TO019	°esatto.°
 TO018	della s~ della femmina e quindi la capacità di svezzamento uguale produzione di latte ovviamente.
-TO019	se io ho una scrofa che partorisce diciotto::: suinetti,
-TO018	°mh°
+TO018	se io ho una scrofa che partorisce diciotto::: suinetti,
+TO019	°mh°
 TO018	e non sono così:::=mh ci sono.
-TO019	che cosa succede a questi diciotto suinetti?
-TO018	e::h=mh che e::h=mh
+TO018	che cosa succede a questi diciotto suinetti?
+TO019	e::h=mh che e::h=mh
 TO018	nei nelle nel materiale delle lezioni ci sono dei lucidi ci sono una serie di di di fotografie ci sono una serie di commenti,
-TO019	su questi aspetti.
+TO018	su questi aspetti.
 TO019	non tutti praticamente possono cioè nel senso hanno libero accesso alle mammelle,
-TO018	e quindi questo che cosa succede diciamo non tutti riescono a (.) assumere la quantità di latte eh idonea pe::r copr[ire i °fabbisogni.°]
-TO019	[eh ma perché non tutti hanno] libero lei ha detto hann[o libero a]ccesso alle mammelle,
+TO019	e quindi questo che cosa succede diciamo non tutti riescono a (.) assumere la quantità di latte eh idonea pe::r copr[ire i °fabbisogni.°]
+TO018	[eh ma perché non tutti hanno] libero lei ha detto hann[o libero a]ccesso alle mammelle,
 TO019	[perché la sc~]
 TO019	per la vitalità e: per e::h=mh
-TO018	e:[h allora],
-TO019	[(ma) guardi che] è banale eh.
-TO018	e[h no immagino] perché sono °sempre così purtroppo.°
-TO019	[°non è una cosa°],
+TO019	e:[h allora],
+TO018	[(ma) guardi che] è banale eh.
+TO019	e[h no immagino] perché sono °sempre così purtroppo.°
+TO018	[°non è una cosa°],
 TO019	e::h=mh
 TO019	perché comunque entro un certo limite diciamo la scrofa poi non riesce più a produrre latte,
-TO018	e [quindi non riesce a soddifare tutti],
+TO019	e [quindi non riesce a soddifare tutti],
 TO018	[e::h (.) non è non è s]olo una questione >non riesce più a produrre latte< d'accordo non produce più latte. ma,
 TO018	i suinetti::
 TO018	come fanno a::
-TO019	a assumere il latte?
+TO018	a assumere il latte?
 TO019	e::h=mh
 TO019	attraverso l'accesso,
-TO018	sì è mio purtroppo.
-TO019	[a::h]
+TO019	sì è mio purtroppo.
+TO018	[a::h]
 TO019	[eh attraverso l'ac]cesso: ((ride))
-TO018	attraverso l'a: l'accesso diciamo alle mammelle e l'ac[cesso al]le mammelle,
+TO019	attraverso l'a: l'accesso diciamo alle mammelle e l'ac[cesso al]le mammelle,
 TO018	[°bene.°]
 TO018	allora le mammelle,
-TO019	in realtà i capezzoli.
+TO018	in realtà i capezzoli.
 TO019	sì.
-TO018	capezzoli.
+TO019	capezzoli.
 TO018	allora i capezzoli,
-TO019	sono numero infinito o fi[nit]o?
+TO018	sono numero infinito o fi[nit]o?
 TO019	[no].
-TO018	dodici quattordici.
-TO019	e allora lei vede che più di quattordi~ adesso su certe scrofe si arriva anche a sedici.
-TO018	sì.
+TO019	dodici quattordici.
+TO018	e allora lei vede che più di quattordi~ adesso su certe scrofe si arriva anche a sedici.
+TO019	sì.
 TO018	ma?
 TO018	ma,
 TO018	quando ce ne sono così tanti molto spesso alcuni non sono funzionali.
 TO018	in particolare quelli,
-TO019	posti nella parte mh come dire più caudale dell'an[imale].
-TO018	[°esa]tto.°
+TO018	posti nella parte mh come dire più caudale dell'an[imale].
+TO019	[°esa]tto.°
 TO018	e:: questo diventa: questo diventa il problema perché se ho quattordici capezzoli funzionali,
 TO018	quattordici sono i suinetti che si possono allattare.
 TO018	per quella disc~ questione di prima in qua~ eh in cui abbiam visto che il suinetto: stimola l'animale (l)a produzione del latte non c'è una produzione continua a quelli che sono in sovannumero rispetto a quattordici,
-TO019	in questo caso l'esempio dei quattordici non avranno modo di: e quindi bisogna avere delle scrofe e metterle a balia [o adottar]e dei sistemi di alimentazione artificiale o: eccetera.
+TO018	in questo caso l'esempio dei quattordici non avranno modo di: e quindi bisogna avere delle scrofe e metterle a balia [o adottar]e dei sistemi di alimentazione artificiale o: eccetera.
 TO019	[sì sì].
-TO018	questo comunque grafico es~ eH cioè era stato effettuato su una nidiata di dodici piccoli no=non superiore [per quello comunque mi xx veniva da],
+TO019	questo comunque grafico es~ eH cioè era stato effettuato su una nidiata di dodici piccoli no=non superiore [per quello comunque mi xx veniva da],
 TO018	[no ma guardi il grafico i]:l grafico ha: (.) eh ha una sua::
 TO018	logicità non ci sono delle delle:: cose che non vanno cioè <no:n>
 TO018	°(adesso) poi devo poi mettermi,°
-TO020	è tutto quanto assolutame[nte: (.) proporziona~]
+TO018	è tutto quanto assolutame[nte: (.) proporziona~]
 TO020	[però si vede chiaramente nel gr]afico che (.) passare (.) da qui a qui è un conto,
-TO019	ma da qui a qui l'incremento è [decisame]nte minore.
-TO020	[sì sì sì sì].
+TO020	ma da qui a qui l'incremento è [decisame]nte minore.
+TO019	[sì sì sì sì].
 TO020	per cui che cosa vuol dire che abbiamo in pratica una curva più che una retta che va,
-TO019	quasi,
-TO020	sì sì sì ci [fosse una xx] esatto.
+TO020	quasi,
+TO019	sì sì sì ci [fosse una xx] esatto.
 TO020	[ad annullarsi].
-TO019	perché più di tanto non riesce a fare.
-TO018	sì.
-TO019	andiamo avanti vediamo u[n po' come è questa (.) eh].
+TO020	perché più di tanto non riesce a fare.
+TO019	sì.
+TO018	andiamo avanti vediamo u[n po' come è questa (.) eh].
 TO019	[quindi e::h questa è l'assunzione de]l latte che appunto avviene i:n cinque o sei fasi,
 TO019	e:h nella prima fase appunto abbiamo i piccoli che: eh inziano diciamo a ce~ a diciamo a cercare i capezzoli.
-TO018	e solitamente in questa fase diciamo la madre li e:h attira attraverso [un xx caratterisco],
-TO019	[dove ha preso questa questa d]iaposiva?
-TO018	[questa::]
-TO019	[cioè questa: quest]a cosa sì.
-TO018	e:h l'ho presa dal da un libro diciamo che ho trovato in biblioteca.
-TO019	è corretto parlare di cisterna del latte?
-TO018	in [realtà no].
-TO019	[°nella scrofa.°]
-TO018	però:: purtroppo::
-TO019	no no ma difatti le ho chiesto dove l'ha presa perché: (non è) c'è questa,
-TO018	no no l'ho presa dal l[ibro della biblioteca].
+TO019	e solitamente in questa fase diciamo la madre li e:h attira attraverso [un xx caratterisco],
+TO018	[dove ha preso questa questa d]iaposiva?
+TO019	[questa::]
+TO018	[cioè questa: quest]a cosa sì.
+TO019	e:h l'ho presa dal da un libro diciamo che ho trovato in biblioteca.
+TO018	è corretto parlare di cisterna del latte?
+TO019	in [realtà no].
+TO018	[°nella scrofa.°]
+TO019	però:: purtroppo::
+TO018	no no ma difatti le ho chiesto dove l'ha presa perché: (non è) c'è questa,
+TO019	no no l'ho presa dal l[ibro della biblioteca].
 TO018	[assunzione passiva] (.) delle cisterne.
 TO018	u::h
 TO018	in realtà n~ nella scrofa per tutto un discorso che abbiamo fatto prima questa cosa non c'è però il comportamento è quello e quindi,
-TO019	e [quindi],
-TO018	[eh purtroppo non so us]are photoshop perché altrime[nti l'avrei ((ride)) l'avrei:]
+TO018	e [quindi],
+TO019	[eh purtroppo non so us]are photoshop perché altrime[nti l'avrei ((ride)) l'avrei:]
 TO018	[no: no no no ma] ci ci macherebbe ancora basta basta che uno abbia la co:nsapevolezza di che cosa,
-TO019	di che cosa sta facendo allora,
+TO018	di che cosa sta facendo allora,
 TO019	allora e::h
 TO019	i principali diciamo problemi che si possono riscontrare in post partum e ch~ che riguardano la scrofa sono ad esempio le metriti.
 TO019	e:h le metriti sono dovute diciamo a infezioni:=i intrauterine,
 TO019	e:h solitamente diciamo:=i fattori e:h che infuenzano diciamo la comparsa di metriti sono essenzialmente e::h i microorganismi presenti appunto diciamo in ad esempio in sala parto.
 TO019	e:h i dati in italia:=eh relativi quindi ai casi di metriti risultano essere di sette capi su quattrocentocinquanta all'anno circa,
 TO019	e::h=mh e:h
-TO018	per,
-TO019	be(ne) [non glielo s]o dire cio[è i da~ i dati statistici da questo pu]nto di vista sono assolutamente:
+TO019	per,
+TO018	be(ne) [non glielo s]o dire cio[è i da~ i dati statistici da questo pu]nto di vista sono assolutamente:
 TO019	[pe:r]
-TO018	[no no è un dato che ho trovato:]
-TO019	dipende molto da cosa fondamentalmen[te],
-TO018	[da]l ti~ dall'allevam[ento e::h]
+TO019	[no no è un dato che ho trovato:]
+TO018	dipende molto da cosa fondamentalmen[te],
+TO019	[da]l ti~ dall'allevam[ento e::h]
 TO018	[dall'allevamento cioè so]no dati c~ allora i~ sicuramente i::
 TO018	quel dato è stato ottenuto in un allevamento o in più allevamenti controllati da qulcheduno cha fatto una ricerca di un certo tipo,
 TO018	noi dobbiamo essere come dire consapevoli del fatto che ci possano essere degli allevamenti in cui,
-TO019	i casi potrebbero anche essere il doppio.
-TO018	sì.
-TO019	dipende dalle condizioni igenico [sanitarie] dalla tecnicità che ha l'a[lleva~]
+TO018	i casi potrebbero anche essere il doppio.
+TO019	sì.
+TO018	dipende dalle condizioni igenico [sanitarie] dalla tecnicità che ha l'a[lleva~]
 TO019	[esatto].
-TO018	[dalla gestio]ne.
+TO019	[dalla gestio]ne.
 TO018	mh
-TO019	al di là di queste indicazioni mi dica una cosa,
-TO018	sì.
+TO018	al di là di queste indicazioni mi dica una cosa,
+TO019	sì.
 TO018	le metriti,
 TO018	da che cosa dipendono fondamentalmente,
 TO018	cioè quali sono le le::
@@ -649,142 +649,142 @@ TO018	attraverso le quali,
 TO018	può:
 TO018	e::h
 TO018	svilupparsi,
-TO019	m::h=in corrispondenza subito dopo il parto quindi nel peripartu:m un una metrite nella scrofa.
-TO018	allora [e::h]
-TO019	[quali sono l]e ragioni,
+TO018	m::h=in corrispondenza subito dopo il parto quindi nel peripartu:m un una metrite nella scrofa.
+TO019	allora [e::h]
+TO018	[quali sono l]e ragioni,
 TO019	prin~ principalmente diciamo: e::h allora si possono manifestare per,
 TO019	mancata evoluzione degli invogli fetali,
-TO018	che può determinare infezioni diciamo sub[ito dopo il parto].
-TO019	[quindi una ritenz]ione,
+TO019	che può determinare infezioni diciamo sub[ito dopo il parto].
+TO018	[quindi una ritenz]ione,
 TO019	sì.
 TO019	e::h oppure eh lesioni diciamo al livello dei capezzoli,
 TO019	e::h che può determinare anche a: a ipogalassia,
-TO018	[e quindi:]
+TO019	[e quindi:]
 TO018	[in questo caso l'ipog]alassia è di nuovo (è) il risultato finale di un percorso: u:h
 TO018	se la:l~ se la:
-TO019	les~ la la lesione primaria,
-TO018	°mh°.
+TO018	les~ la la lesione primaria,
+TO019	°mh°.
 TO018	parte dal capezzolo e dalla dalla: e quindi dalla mammella che tipo di e::h percorso abbiamo.
-TO019	noi la definiamo secondo un certo tipo di schema la la=a: metrite in questo caso è una metrite per via,
-TO018	(a)scendente,
-TO019	ascenden[te].
-TO018	[pe]rché praticamente eh risale attraverso diciamo (.) arriva fino all'utero dove poi porta diciamo le infezioni e quindi eh compor[ta l'emme emme] a ad esempio.
+TO018	noi la definiamo secondo un certo tipo di schema la la=a: metrite in questo caso è una metrite per via,
+TO019	(a)scendente,
+TO018	ascenden[te].
+TO019	[pe]rché praticamente eh risale attraverso diciamo (.) arriva fino all'utero dove poi porta diciamo le infezioni e quindi eh compor[ta l'emme emme] a ad esempio.
 TO018	[e quindi,
-TO019	eh l'emme emme a che è una:
-TO018	metrite mastite x ipogalassia agalassia.
-TO019	(e) agalassia.
+TO018	eh l'emme emme a che è una:
+TO019	metrite mastite x ipogalassia agalassia.
+TO018	(e) agalassia.
 TO019	che diciamo è un problema molto rilevante negli allevamenti.
 TO019	e:h perché determina quind~ anche una riduzione della produttività diciamo dei piccoli,
-TO018	e::h suc[cessivamente °(al parto)°]
-TO019	[e l'altra via di penetra]zione invece (.) dei germi,
-TO018	e::h
-TO019	parlando di metrite ovviamente,
-TO018	attraverso l'alimentazione micro tossine [°pro~°]
-TO019	[no]: n~ beh oddio bisogna proprio che che che:
-TO018	°sfigata.° ((ride))
+TO019	e::h suc[cessivamente °(al parto)°]
+TO018	[e l'altra via di penetra]zione invece (.) dei germi,
+TO019	e::h
+TO018	parlando di metrite ovviamente,
+TO019	attraverso l'alimentazione micro tossine [°pro~°]
+TO018	[no]: n~ beh oddio bisogna proprio che che che:
+TO019	°sfigata.° ((ride))
 TO018	no: non è tanto un anche perché cioè attraverso l'alimentazione prevalentemente noi possiamo portare sicuramente dei pro~ dei dei germi dei b~ (.) questo,
 TO018	ma che vengono comunque filtrati::
 TO018	a livello di di barriera gastrica.
-TO019	possono essere a meno che non ci sia un problema che ne so di salmonella [o: di] coli o::
-TO018	[°sì.°]
-TO019	nel caso poi delle afrotossine è ancora un discorso diverso perché non è il batterio u~ non è un il fungo direttamente ma è la tossina che svi[luppa],
-TO018	[sì].
+TO018	possono essere a meno che non ci sia un problema che ne so di salmonella [o: di] coli o::
+TO019	[°sì.°]
+TO018	nel caso poi delle afrotossine è ancora un discorso diverso perché non è il batterio u~ non è un il fungo direttamente ma è la tossina che svi[luppa],
+TO019	[sì].
 TO018	°quella che ci dà dei problemi quindi è difficile.°
 TO018	il percorso è un percorso in realtà che nasce da dove nasce:
 TO018	a(l) rovescio se vuole.
-TO019	quali sono le scrofe che più frequentemente possono:: (.) avere un problema di metrite,
+TO018	quali sono le scrofe che più frequentemente possono:: (.) avere un problema di metrite,
 TO019	e::h=mh
-TO018	mh
-TO019	non per via ascendente °da questo punto di vista.°
-TO018	le scrofe che hanno avuto problemi al parto ad esempio.
-TO019	problemi di che tipo?
+TO019	mh
+TO018	non per via ascendente °da questo punto di vista.°
+TO019	le scrofe che hanno avuto problemi al parto ad esempio.
+TO018	problemi di che tipo?
 TO019	e::h=mh per esempio,
 TO019	e::h=mh
-TO018	m::h
+TO019	m::h
 TO018	uno in particolare.
-TO019	poi è quello che vi~
-TO018	e::h
+TO018	poi è quello che vi~
+TO019	e::h
 TO018	i parti languidi,
-TO019	cosa le ricordano,
-TO018	m::h
+TO018	cosa le ricordano,
+TO019	m::h
 TO018	se io le dico (a) lei va in allevamento=e le dicono eh quella scrofa ha avuto un parto languido.
 TO018	parto languido perché: si: lei prima ha detto ma non mh
 TO018	una cosa non abbiamo:
 TO018	accennato. quanto dura mediamente un parto facciamo un passo indietro.
-TO019	in termini di di tempo.
+TO018	in termini di di tempo.
 TO019	allora l'espulsione dei feti è di circa: un'ora cinque ore.
-TO018	e::h quindi,
+TO019	e::h quindi,
 TO018	l'espulsione dei feti,
-TO019	comples[siva]mente [va da un min]imo di un'ora a (.) [cinque o]re.
+TO018	comples[siva]mente [va da un min]imo di un'ora a (.) [cinque o]re.
 TO019	[sì].
 TO019	[complessivamente].
-TO018	[cinque ore].
-TO019	nel caso delle cinque ore xx siamo di fronte a un parto languido.
-TO018	sì.
-TO019	perché a meno c[he],
-TO018	[pe]rch[é:]
-TO019	[a me]no che,
-TO018	°a meno c[he],°
+TO019	[cinque ore].
+TO018	nel caso delle cinque ore xx siamo di fronte a un parto languido.
+TO019	sì.
+TO018	perché a meno c[he],
+TO019	[pe]rch[é:]
+TO018	[a me]no che,
+TO019	°a meno c[he],°
 TO018	[a me]no che lei non abbia una scrofa che:: non iperprolifica iperprolifica al cubo.
-TO019	che ha una quantità di suinetti incredibile e quindi ne spara una quan[tità] veramente:
-TO018	[sì].
+TO018	che ha una quantità di suinetti incredibile e quindi ne spara una quan[tità] veramente:
+TO019	[sì].
 TO018	mh che cos'è che che che,
 TO018	direi atipico che caratterizza proprio la=la::
 TO018	la
 TO018	la nascita dei suinetti,
 TO018	rispetto ad altre:=mh
-TO019	non abbiamo molte altre specie che sono:
-TO018	e::h=mh
+TO018	non abbiamo molte altre specie che sono:
+TO019	e::h=mh
 TO018	che partoriscono tanti piccoli come le=le °come le scrofe.°
 TO018	abbiamo solo la coniglia.
-TO019	ad uso zo[otecnico ah beh i ca]ni volendo,
+TO018	ad uso zo[otecnico ah beh i ca]ni volendo,
 TO019	[praticamente:]
-TO018	ogni piccolo che: viene espulso ab~ viene espulso in teoria l~ diciamo gli invogli fetali,
-TO019	d'accordo.
-TO018	e::h=mh
+TO019	ogni piccolo che: viene espulso ab~ viene espulso in teoria l~ diciamo gli invogli fetali,
+TO018	d'accordo.
+TO019	e::h=mh
 TO018	e::h=con o senza ma: in un tempo molto regolare.
-TO019	se non x se il parto è un par[to regolare].
-TO018	[sì se è un parto re]golare sì [altrimenti],
+TO018	se non x se il parto è un par[to regolare].
+TO019	[sì se è un parto re]golare sì [altrimenti],
 TO018	[e qual è l~] qual è la cadenza?
-TO019	il [pa]sso con il quale nascono i suinett~ cioè il passo la cadenza non~=mh
+TO018	il [pa]sso con il quale nascono i suinett~ cioè il passo la cadenza non~=mh
 TO019	[il~]
-TO020	il tempo?
-TO018	o[gni quanto ne cresce u]no.
-TO019	[il tem~]
+TO019	il tempo?
+TO020	o[gni quanto ne cresce u]no.
+TO018	[il tem~]
 TO019	[e:::h]
 TO019	m:::h più o meno::
-TO018	ogni dieci minuti,
-TO019	dieci dodi[ci minuti].
-TO018	[dieci dodic]i mi[nuti].
+TO019	ogni dieci minuti,
+TO018	dieci dodi[ci minuti].
+TO019	[dieci dodic]i mi[nuti].
 TO018	[quest]o dice la la dice la teoria poi possono anche essere quindici minuti.
 TO018	quindi da questo punto di vista se io ho quattro suinetti l'ora,
 TO018	quattro suinetti l'ora lei vede che un parto di:
-TO019	quattordici suinetti dura sostanzialmente: quattro otto dodici:: tre [ore e mezza].
-TO018	[°tantissimo.°]
-TO019	no in tre ore e mezza l'animale parto[risce].
-TO018	[°vabbè=è] tantissimo sì.°
+TO018	quattordici suinetti dura sostanzialmente: quattro otto dodici:: tre [ore e mezza].
+TO019	[°tantissimo.°]
+TO018	no in tre ore e mezza l'animale parto[risce].
+TO019	[°vabbè=è] tantissimo sì.°
 TO018	quando si va oltre questa: questo tempo (.) si comincia a parlare di parti languidi,
 TO018	che durano molto nel tempo,
-TO019	che sono languidi perché non c'è una espulsione regolare o un suinet[to (in) ogni dod]ici minuti dieci minuti [(i) primi qua]ttro poi dopo la scrofa per questioni::
+TO018	che sono languidi perché non c'è una espulsione regolare o un suinet[to (in) ogni dod]ici minuti dieci minuti [(i) primi qua]ttro poi dopo la scrofa per questioni::
 TO019	[°a è irregolare°].
-TO018	[sì infatti].
-TO020	[e:]:[:h <particolari> cer]to anche affaticamento mancanza di contrazioni e quindi si deve intervenire.
-TO019	[°si xxx].
-TO018	[anche affaticamento ad esemp~]
+TO019	[sì infatti].
+TO018	[e:]:[:h <particolari> cer]to anche affaticamento mancanza di contrazioni e quindi si deve intervenire.
+TO020	[°si xxx].
+TO019	[anche affaticamento ad esemp~]
 TO018	in questo caso che cosa succede?
-TO019	il canale del parto rimane aperto.
-TO018	sì (.) e [può essere via:] di::
+TO018	il canale del parto rimane aperto.
+TO019	sì (.) e [può essere via:] di::
 TO018	[per molto tempo].
-TO019	e quindi è chiaro che r[imanendo aperto] per molto tempo è più facile che ci sia una penetra[zione] esterna e interna e quindi una metrite.
+TO018	e quindi è chiaro che r[imanendo aperto] per molto tempo è più facile che ci sia una penetra[zione] esterna e interna e quindi una metrite.
 TO019	[°dei batteri.°]
-TO018	[sì].
+TO019	[sì].
 TO018	°mh°
 TO018	dopodiché si può intervenire si può cercare di curare si possono vedere una serie di cose,
-TO019	non è sem[plicissimo °ma] comunq[ue.°]
+TO018	non è sem[plicissimo °ma] comunq[ue.°]
 TO019	[°il primo::°]
-TO018	[il pri]mo intervento comunque da effettuare appunto è l'igente quindi la pulizia (.) [pre partu]m,
+TO019	[il pri]mo intervento comunque da effettuare appunto è l'igente quindi la pulizia (.) [pre partu]m,
 TO018	[°assolutamente.°]
-TO019	°assolut[amente.°]
+TO018	°assolut[amente.°]
 TO019	[eh e]::h=mh alcuni interventi diciamo secondo: e:h alcuni studi effettuati per esempio in francia,
 TO019	prevedono la somministrazione di probiotici e:h co~ contenenti bacillus secerius.
 TO019	praticamente tale studio,
@@ -798,8 +798,8 @@ TO019	e::h=mh per esempio questo studio è stato effettuato in=negli stati uniti
 TO019	e::h in cui e:h=mh gli animali sono stati divisi in tre gruppi.
 TO019	eh e:h=mh a ciascun gruppo praticamente eh a ciascun gruppo veniva somministrata u:n valore diciamo di vitamina e diverso per esempio al primo gruppo avevamo un un livello >di vitamina e di ventidue unità internazionali su chilogrammo al secondo quarantaquattro nel terzo sessantasei<.
 TO019	e:h mentre diciamo il s~ il sxx di sodio era intorno a tre parti per milioni.
-TO018	l'ultimo,
-TO019	andiamo av[anti] (vediamo) un po' qui.
+TO019	l'ultimo,
+TO018	andiamo av[anti] (vediamo) un po' qui.
 TO019	[okay].
 TO019	eh=un altro pr~ problema::=mh diciamo nell'allevam~ m::h=nel post partum è appunto la mortalità neonatale.
 TO019	e:h soprattutto diciamo e:h nella prima n~=nei primi giorni di vita.
@@ -810,17 +810,17 @@ TO019	mentre i dati esteri risultano essere il >quattordici percento in francia 
 TO019	e::h=mh i possibili interventi possono essere diciamo secondo alcuni studi,
 TO019	e::h la selezione di scrove di moderno tipo e vecchio tipo,
 TO019	per esempio uno studio effettuato in francia ha rilevato praticamente che le scrove di vecchio tipo erano diciamo,
-TO018	e:h più attente quindi (.) con maggiore at[titudine a~]
-TO019	[che cos]a intende per vecchio tipo?
-TO018	e::h=m:h
-TO019	°e nuovo tipo ovviamente.°
+TO019	e:h più attente quindi (.) con maggiore at[titudine a~]
+TO018	[che cos]a intende per vecchio tipo?
+TO019	e::h=m:h
+TO018	°e nuovo tipo ovviamente.°
 TO019	che no:n siano ibridi.
 TO019	cioè nel senso,
 TO019	e::h=mh
 TO019	e::h ne:l nello studio praticamente,
 TO019	le scrofe di moderno tipo vengono:: eh >vengono diciamo considerate le scrofe ibride<.
-TO018	mentre e::h=mh l[e: vecc~]
-TO019	[quindi] caratterizzate da una maggior prolificità.
+TO019	mentre e::h=mh l[e: vecc~]
+TO018	[quindi] caratterizzate da una maggior prolificità.
 TO019	sì.
 TO019	però,
 TO019	eh=è stato rilevato che,
@@ -829,52 +829,52 @@ TO019	e:h=tendevano a diciamo a spaventarsi (.) e:h=maggiormente rispetto a quel
 TO019	proprio perché comunque quelle di vecchio tipo,
 TO019	e::h=mh
 TO019	tendevano a essere diciamo più,
-TO018	e:h t[ranquille],
-TO019	[con una maggiore] attitudine mat[erna].
-TO018	[esatto] (.) maggiore attitudine materna e più tranquille anche con la presenza del personale.
-TO019	°okay.°
+TO019	e:h t[ranquille],
+TO018	[con una maggiore] attitudine mat[erna].
+TO019	[esatto] (.) maggiore attitudine materna e più tranquille anche con la presenza del personale.
+TO018	°okay.°
 TO019	e:h=oppure un altro intervento può essere la somministrazione di: xxx intorno al quatto percento,
 TO019	e:h=attraverso la: diciamo attraverso l'alimentazione e già diciamo durante la gestazione.
-TO018	e:h=in cui è stato rilevato proprio che eh la somministrazione di (butadine) [tendeva],
-TO019	[ch]e cos'è il butadine,
+TO019	e:h=in cui è stato rilevato proprio che eh la somministrazione di (butadine) [tendeva],
+TO018	[ch]e cos'è il butadine,
 TO019	e::h praticamente=m:h
 TO019	una:=m:h
-TO018	e::h loro la somministravano praticamente in[torno al quattro percento della della nazione].
-TO019	((ride)) [xx dice somministrazione di butadiene però mi deve dire c]he cos'è a questo punto.
-TO020	e::h=[mh]
-TO018	[a che] grossa categoria di:: di compo[sti],
-TO019	[e q]ual è la ragione della somministrazione di quest~ di questa sostanza.
+TO019	e::h loro la somministravano praticamente in[torno al quattro percento della della nazione].
+TO018	((ride)) [xx dice somministrazione di butadiene però mi deve dire c]he cos'è a questo punto.
+TO019	e::h=[mh]
+TO020	[a che] grossa categoria di:: di compo[sti],
+TO018	[e q]ual è la ragione della somministrazione di quest~ di questa sostanza.
 TO019	e::h=m:h
 TO019	°io non non me lo ricordo.°
-TO018	m::h
-TO019	ci si è messa da sola eh su questa [xx]
-TO020	[lo so].
-TO018	((ride))
-TO019	e sai che l'appetito vien mangiando quindi se uno stimola u[na curiosità],
+TO019	m::h
+TO018	ci si è messa da sola eh su questa [xx]
+TO019	[lo so].
+TO020	((ride))
+TO018	e sai che l'appetito vien mangiando quindi se uno stimola u[na curiosità],
 TO019	[e::h]=m:h
-TO018	categoria dei grassi?
+TO019	categoria dei grassi?
 TO018	dal punto di vista chimico è u::n eh
 TO018	<buta di ene> non le dice niente?
 TO018	butandiolo,
 TO018	propandiolo,
 TO018	sono delle molecole che dovrebbero avere un effetto tranquillizzante.
-TO019	sugli animali.
-TO018	e:h=mh
+TO018	sugli animali.
+TO019	e:h=mh
 TO018	non sono degli anestetici ma sono in qualche modo delle sostanze che che limitano il livello di reattività del,
-TO019	tenga presente che tutto quello che ne: negli stati uniti c'è una sperimentazione perché poi sono d[ati sperimentali].
+TO018	tenga presente che tutto quello che ne: negli stati uniti c'è una sperimentazione perché poi sono d[ati sperimentali].
 TO019	[e::h=m]:h
-TO018	dei:=mh °or[moni,°]
-TO019	[sono dei] tranquillizzan[ti].
-TO018	[tra]nquillizzanti.
-TO019	molecole m:h=di tipo organico (con) un anello ciclico da questo punto di vista s[enza],
-TO018	[°xxx°]
+TO019	dei:=mh °or[moni,°]
+TO018	[sono dei] tranquillizzan[ti].
+TO019	[tra]nquillizzanti.
+TO018	molecole m:h=di tipo organico (con) un anello ciclico da questo punto di vista s[enza],
+TO019	[°xxx°]
 TO018	i i=la::=mh
 TO018	ma la funzione è quella di vedere se si può abbassare il livello di reattività della scrofa.
 TO018	cosa che i=i~ in realtà da noi poi,
 TO018	m::h l'uso del farmaco è::
 TO018	è particolarmente,
-TO020	eh come dire::
-TO018	°(controllato)°
+TO018	eh come dire::
+TO020	°(controllato)°
 TO018	controllato e non è una: c'è solo un momento in cui a livello di legislazione nazionale noi possiamo fare un utilizzo,
 TO018	e::h in questo caso di di di un farmaco tranquillante lo si fa solo in corrispondenza vera e propria del parto,
 TO018	con una sostanza che::
@@ -883,94 +883,94 @@ TO018	si ritrova con la sua nidiata e:=questo ridu:ce,
 TO018	in una qualch~ in qualche misura <l'aggressività>,
 TO018	in corrispondenza del parto e il cannibalismo in modo particolare.
 TO018	sulla:
-TO019	q[uesto] come consiglio quando mette delle cose:
+TO018	q[uesto] come consiglio quando mette delle cose:
 TO019	[m:h]
-TO018	[no eh no no:]
-TO019	[se se le met~ cioè non le met]tete c[he va bene lo stesso].
+TO019	[no eh no no:]
+TO018	[se se le met~ cioè non le met]tete c[he va bene lo stesso].
 TO019	[quando ho cercato quando ho] cercato: i:l,
-TO018	i:l l'articolo com[unque avevo fatto la traduzione però: non mi ricordavo questa co]sa.
+TO019	i:l l'articolo com[unque avevo fatto la traduzione però: non mi ricordavo questa co]sa.
 TO018	[e:::h °insomma° (.) e:::h]
 TO018	che se no diventa una:
 TO018	mh
 TO018	per altro non è una pratica zootecnica particolarmente:: consigliabile noi siamo in una fase nella quale siamo,
 TO018	come dire:: tutti insieme cerchiamo di ridurre: i:l,
 TO018	l'utilizzo per quanto possibile di sostanze::
-TO019	estranee cioè xenobiotici.
-TO018	°sì.°
-TO019	e invece che cosa mi dice sulle gabbie:
+TO018	estranee cioè xenobiotici.
+TO019	°sì.°
+TO018	e invece che cosa mi dice sulle gabbie:
 TO019	allora per quanto riguarda la: le gabbie e:h un intervento appunto può essere la sostituzione delle gabbie tradizionali,
 TO019	con delle gabbie sperimentali in pratica le gabbie sperimentali,
 TO019	e:h=erano eh costituite da dei pannelli coibentati,
 TO019	e:h questi pannelli praticamente erano (costituiti) in poli~ i~=in polistirene,
 TO019	ed erano rivestiti da vetroresina in pratica e:h la funzione diciamo di queste gabbie sperimentali è era quella di mantenere la temperatura diciamo costante,
 TO019	all'interno per esempio del nido del del box.
-TO018	e questo permetteva maggior vitalità de:i piccoli e quindi minor sch~ diciamo mortalità per schiacciamento.
+TO019	e questo permetteva maggior vitalità de:i piccoli e quindi minor sch~ diciamo mortalità per schiacciamento.
 TO018	e questo perché qual è la ragione per la quale i suinetti::: dice se miglioro le condizioni termiche.
-TO019	e::h dell'ambiente (.) <riduco la mortalità> da schiacciamento.
-TO018	essen[zialment~]
-TO019	[è giusto è questa] la riflessi[one] che:
+TO018	e::h dell'ambiente (.) <riduco la mortalità> da schiacciamento.
+TO019	essen[zialment~]
+TO018	[è giusto è questa] la riflessi[one] che:
 TO019	[sì].
-TO018	sì s[ì].
-TO019	[o]kay. e(d è) perché perché è così?
+TO019	sì s[ì].
+TO018	[o]kay. e(d è) perché perché è così?
 TO019	perché praticamente quando per esempio,
 TO019	in condizioni di eh temperatura diciamo o:=mh non ottimale e quindi diciamo al di sotto della: temperatura ottimale,
 TO019	cosa succede i piccoli praticamente: risultano essere ipovitali perché tendono diciamo ad assumere meno latte ad esempio,
 TO019	e quindi questo comporta e:h minor vitalità diciamo nei piccoli.
 TO019	e determina eh=minore assunzione di latte e quindi eh maggior eh espo~ diciamo maggiore suscettibilità alle malattie,
-TO018	eh e::h=[m:h]
-TO019	[alle basse te]mperat[ure quindi l]a madre diventa in qualche modo una::=mh
-TO018	[le bas~]
-TO019	una f[onte di erogazione] di calore no una min~ eh una fonte di rogazione di calore ma chiaramente,
+TO019	eh e::h=[m:h]
+TO018	[alle basse te]mperat[ure quindi l]a madre diventa in qualche modo una::=mh
+TO019	[le bas~]
+TO018	una f[onte di erogazione] di calore no una min~ eh una fonte di rogazione di calore ma chiaramente,
 TO019	[una minaccia].
-TO018	sì anche quello.
+TO019	sì anche quello.
 TO018	e:h=stanno lì s~ a ne stanno a ridosso quando si corica corrono il rischio di essere,
-TO019	come dire s[chiacciati].
-TO018	[e::]h=m:h u[n altro problema che può:]
-TO019	[le malformazioni],
+TO018	come dire s[chiacciati].
+TO019	[e::]h=m:h u[n altro problema che può:]
+TO018	[le malformazioni],
 TO019	esatto che si può riscontrare i:n in allevamento sono appunto le malformazioni,
 TO019	per esempio: diciamo un caso in~ mh che ho personalmente diciamo riscontrato è stato appunto l'artrogriposi multipla congenita.
-TO018	e:h=che consiste diciamo nella rigidità=[mh]
-TO019	[qui]?
-TO018	[<sì>].
-TO019	quante ne ha viste?
-TO020	e:h=due.
-TO018	eh.
-TO019	su due suinetti.
+TO019	e:h=che consiste diciamo nella rigidità=[mh]
+TO018	[qui]?
+TO019	[<sì>].
+TO018	quante ne ha viste?
+TO019	e:h=due.
+TO020	eh.
+TO018	su due suinetti.
 TO019	no no >no no no< (.) no cioè la percentuale era intorno al due percento attenzione: per quanto riguarda la nid~ cioè >per quanto riguarda le produzioni totali<.
-TO018	cioè era molto bassa però comunque mh determinava una: [perdita],
-TO019	[n~=no no] quanti quanti:: quante scrofe ci sono a:l al cisl?
-TO018	e::h=momentaneamente non ne ho idea però [nel momento in cui ho fatto il tirocinio e:]h erano quattro.
+TO019	cioè era molto bassa però comunque mh determinava una: [perdita],
+TO018	[n~=no no] quanti quanti:: quante scrofe ci sono a:l al cisl?
+TO019	e::h=momentaneamente non ne ho idea però [nel momento in cui ho fatto il tirocinio e:]h erano quattro.
 TO018	[no vabbè nel momento in cui lei ha fatto il tirocinio].
-TO019	quindi su quattro scrofe ce n'erano due che si por[tavano] dietro questo: questo problema.
-TO018	[sì].
-TO019	beh io le avrei cambiate da tempo però qu[esta è una mia questa è una mi]a ((ride)) [come dire personale riflessione].
+TO018	quindi su quattro scrofe ce n'erano due che si por[tavano] dietro questo: questo problema.
+TO019	[sì].
+TO018	beh io le avrei cambiate da tempo però qu[esta è una mia questa è una mi]a ((ride)) [come dire personale riflessione].
 TO019	[e::h]
-TO018	[infatti: appunto: le:] le possibili soluzioni potrebbero essere appunto la selezioni di delle madri,
-TO019	asso[lutamente.°]
+TO019	[infatti: appunto: le:] le possibili soluzioni potrebbero essere appunto la selezioni di delle madri,
+TO018	asso[lutamente.°]
 TO019	[e:h=mh e] quindi eh inoltre è stato effettuato diciamo uno studio in svizzera,
-TO018	che prevedeva proprio diciamo il riconoscimento del e:h del cromosoma responsabilità di tale: malat[tia],
+TO019	che prevedeva proprio diciamo il riconoscimento del e:h del cromosoma responsabilità di tale: malat[tia],
 TO018	[u::h] invece delle mal~ perché in allevamento non è molto frequente ma proprio perché c'è una profilassi::: di tipo:: radicale.
 TO018	e::h quali sono invece le le malformazioni che più frequentemente si trovano: che hanno una diffusione:
-TO019	°tutto sommato una,°
+TO018	°tutto sommato una,°
 TO019	allora,
-TO018	e::h nei suinetti [praticamente],
-TO019	[(una diffusione) abbastanza] comune,
+TO019	e::h nei suinetti [praticamente],
+TO018	[(una diffusione) abbastanza] comune,
 TO019	l~ m::h altre malformazioni possono essere ad esempio: l'ernia ombelicale,
 TO019	oppure: la palatoschisi (.) oppure criptorchidismo,
-TO018	e::h oppure ancora splay legs,
-TO019	°sì.°
+TO019	e::h oppure ancora splay legs,
+TO018	°sì.°
 TO019	eh che consiste praticamente nella divaricazione degli arti posteriori e questo può essere anche dovuto a:l res~ all'insulino resistenza.
-TO018	eh=m::h=che viene diciamo trasmessa ai piccoli con l'aumento di glicemia e carenza di insulina.
-TO019	che però si corregge abbastanza agevolmente con=[m:]h (ec)co.
+TO019	eh=m::h=che viene diciamo trasmessa ai piccoli con l'aumento di glicemia e carenza di insulina.
+TO018	che però si corregge abbastanza agevolmente con=[m:]h (ec)co.
 TO019	[sì].
-TO018	[co:n=m:h (.) esa]tto.
+TO019	[co:n=m:h (.) esa]tto.
 TO018	[con qualche giorno di tutore].
-TO019	okay queste sono comunque quelle più frequenti [che] che non sono <letali> tra [virgolette],
+TO018	okay queste sono comunque quelle più frequenti [che] che non sono <letali> tra [virgolette],
 TO019	[sì].
-TO018	[sì io: co]munque ho ripreso questo proprio perché [non era stato:]
-TO019	[certo >no no< m]a è una::
-TO018	°affrontato:°
-TO019	sì poi c'è c'è la no no ma ha fatto bene cioè da questo punto di vista.
+TO019	[sì io: co]munque ho ripreso questo proprio perché [non era stato:]
+TO018	[certo >no no< m]a è una::
+TO019	°affrontato:°
+TO018	sì poi c'è c'è la no no ma ha fatto bene cioè da questo punto di vista.
 TO019	e:h=quindi per concludere e::h uno diciamo m:h i: principali: mh le principali problematiche in sala parto sono appunto i casi di metriti >mortalità neonatale per schiacciamento e le malformazioni<.
 TO019	e:h=mh=le possi~ le possibili diciamo: i possibili interventi e:h=mh >per quanto riguarda un piano di miglioramento< potrebbero essere,
 TO019	>riconoscimento ed eliminazione dei capi suscettibili e quindi diciamo e:h=mh prevenire eventuali patologie che (.) determinano un aumento dei costi per (un) aumento dei trattamenti<.
@@ -979,12 +979,12 @@ TO019	>somministrare i probiotici o integratori come visto nelle metriti selezio
 TO019	e:liminare i capi portatori diciamo dell'artrogriposi,
 TO019	e: tutelare il benessere animale.
 TO019	eh quindi introdurre diciamo nei box comunque delle distrazioni,
-TO018	eh per prevenire eventuali diciamo disturbi comportamentali eh come morsicatura eccetera eccetera.
+TO019	eh per prevenire eventuali diciamo disturbi comportamentali eh come morsicatura eccetera eccetera.
 TO018	senta una cosa,
 TO018	e::h=m:h
 TO018	beh grazie a lei per la presentazione,
-TO019	i:l=m::h allora lei ha affrontato questi argomenti che sono legati: direi a: cioè sono una condizione intermedia tra la fisiologia e la fisiopatolo[gia n]o: dell'allevamento.
-TO018	[sì].
+TO018	i:l=m::h allora lei ha affrontato questi argomenti che sono legati: direi a: cioè sono una condizione intermedia tra la fisiologia e la fisiopatolo[gia n]o: dell'allevamento.
+TO019	[sì].
 TO018	dal punto di vista,
 TO018	invece delle normali:: attività::
 TO018	zootecniche che sono quelle che ci interessano ovviamente di più.
@@ -993,29 +993,29 @@ TO018	quali sono le gli aspetti che lei non ha affrontato ad esempio che sono as
 TO018	e deficienza riproduttiva,
 TO018	nella scrofa.
 TO018	è chiara la domanda?
-TO019	cioè quale quali sono le interazioni che esistono (.) [tra],
-TO018	[°mh°]
+TO018	cioè quale quali sono le interazioni che esistono (.) [tra],
+TO019	[°mh°]
 TO018	l'attuale (ci~=lei ha) x ha osservato dei cicli riproduttivi evidentemente dei parti ma,
-TO019	tra questi momenti che lei ha osservato e il ciclo successivo [che tipo] di interazione di rapporto c'è?
-TO018	[sì],
+TO018	tra questi momenti che lei ha osservato e il ciclo successivo [che tipo] di interazione di rapporto c'è?
+TO019	[sì],
 TO018	cioè sono legati?
 TO018	tra di loro oppure:::
 TO018	cioè pare~ mh mh
 TO018	se io ho una nidiata::
-TO019	molto numerosa.
-TO018	sì.
-TO019	come posso attendermi che sia il calore successivo ad esempio.
+TO018	molto numerosa.
+TO019	sì.
+TO018	come posso attendermi che sia il calore successivo ad esempio.
 TO019	e::h=l'intervallo diciamo e:h di di tempo tra il (.) parto in questo caso e=e i:l ritorno al calore sarà diciamo più prolungato.
 TO019	ne~=per esempio nel caso in cui di~ di problematiche come metriti eccetera eccetera possiamo avere e:h un aumento o=dell'intervallo appunto svezzamento u:h calore.
-TO020	e::h=mh questo può determinare diciamo un problema per e:h=mh per l'alle~
+TO019	e::h=mh questo può determinare diciamo un problema per e:h=mh per l'alle~
 TO020	al di là della metrite semplicemente numerosità della nidiata (.) e calore il calore successivo.
-TO018	perché se ci sarà un problema san[itario è logico che]: c[i sarà u]n allugamento del~
+TO020	perché se ci sarà un problema san[itario è logico che]: c[i sarà u]n allugamento del~
 TO018	[se io vado],
 TO018	[qui],
 TO018	se io vado qui,
 TO018	e prendo,
-TO020	°e prendo questo q~ vediamo se sono fortunato eh non è detto che lo sia subito al primo colpo.°
-TO018	°xxx°
+TO018	°e prendo questo q~ vediamo se sono fortunato eh non è detto che lo sia subito al primo colpo.°
+TO020	°xxx°
 TO018	sono fortunato.
 TO018	oppure ho studiato la lezione.
 TO018	((ride))
@@ -1023,105 +1023,105 @@ TO018	°allora,°
 TO018	questo grafico qui come lo lo:
 TO018	questo e anche quello successivo poi.
 TO018	mh perché sono due cose,
-TO019	°che fra di loro sono legate.°
+TO018	°che fra di loro sono legate.°
 TO019	eh=mh in pratica e:h=m:h afferma che,
 TO019	e:h=il il numero diciamo di di piccoli,
 TO019	e::h=presenti nella: nella nidiata comunque diciamo va influenzare appunto e:h=mh il ritorno diciamo dell'estro e quindi l'intervallo di tempo che intercorre tra lo svezzamento e l'estro.
 TO019	e::h=mh
-TO018	eh=mh
+TO019	eh=mh
 TO018	cioè qui in effetti vede che c'è,
-TO019	ci sono due entrate no in qualche mo[do].
-TO018	[sì].
+TO018	ci sono due entrate no in qualche mo[do].
+TO019	[sì].
 TO018	allora l'intervallo,
 TO018	di ritorno in calore da questo punto di vista,
 TO018	è influenzato da:
 TO018	e quindi poi anche la percentuale ovviamente di di di parto,
-TO019	in qualche modo dal numero di,
-TO018	sì dal numero di nati:=e:[h dal diciamo nella] nidiata.
+TO018	in qualche modo dal numero di,
+TO019	sì dal numero di nati:=e:[h dal diciamo nella] nidiata.
 TO018	[°di nati che ci sono.°]
-TO019	e questo è fondamentale.
-TO018	sì.
-TO019	questa cosa perché è fondamentale?
+TO018	e questo è fondamentale.
+TO019	sì.
+TO018	questa cosa perché è fondamentale?
 TO019	e:h perché comunque va a:
 TO019	a:=m:h a influenzare appunto l'intervallo,
 TO019	perché comunque la scrofa in questo caso,
 TO019	e:h con un aumento diciamo del numero dei piccoli tende a perdere più: più peso e quindi diciamo,
 TO019	a essere più: affaticata,
-TO018	e:h=mh e quindi il ritorno in calore diciamo è più risulta essere più tardivo.
+TO019	e:h=mh e quindi il ritorno in calore diciamo è più risulta essere più tardivo.
 TO018	può essere sicuramente rallentato i:n realtà esiste questa relazione che comunque d~ cioè (il) maggiore è il numero di di di: nati totali in qualche modo,
 TO018	e (.) più breve,
 TO018	è il tempo con cui poi la scrofa comunque ritornerà in calore nel momento in cui noi la svezziamo.
 TO018	e mediamente a che cosa tende l'allevatore?
-TO019	ad avere un ritorno in calore,
+TO018	ad avere un ritorno in calore,
 TO019	precoce.
-TO018	non tardivo.
-TO019	perché questo va a influenzare che [cosa]?
-TO018	[la pro]duttività.
+TO019	non tardivo.
+TO018	perché questo va a influenzare che [cosa]?
+TO019	[la pro]duttività.
 TO018	la produttività ma l~ quello che tecnicamente come definiamo,
-TO019	l'indice di parto.
-TO018	sì.
-TO019	e quindi:: noi eh sappiamo che l'indice di parto è costituito da quali:: da quali fattori?
+TO018	l'indice di parto.
+TO019	sì.
+TO018	e quindi:: noi eh sappiamo che l'indice di parto è costituito da quali:: da quali fattori?
 TO019	e:h=a=dal numero di piccoli.
-TO018	eh=d[all'inter~]
-TO019	[°no.°]
-TO018	m:h
+TO019	eh=d[all'inter~]
+TO018	[°no.°]
+TO019	m:h
 TO018	l'indice di parto (costitu~ cioè) sei lei mi deve descrivere l'indice di parto.
 TO018	che cosa metterà come:
-TO019	nella determinazione del numeratore e del denominatore.
-TO018	è l'[inter]vallo di tempo che: intercorre tra lo svezzamento e il parto,
+TO018	nella determinazione del numeratore e del denominatore.
+TO019	è l'[inter]vallo di tempo che: intercorre tra lo svezzamento e il parto,
 TO018	[mh]
-TO019	m[h mh]
-TO018	[eh e]:h=m:h
+TO018	m[h mh]
+TO019	[eh e]:h=m:h
 TO018	è una formula.
 TO018	è una formula matematica.
 TO018	che avrà,
 TO018	una frazione,
 TO018	in cui sotto c'è scritto trecentosessantacinque,
-TO019	e sopra?
-TO018	eh=il numero di scrof[e pre~]
+TO018	e sopra?
+TO019	eh=il numero di scrof[e pre~]
 TO018	[o me]glio scusi è il contrario (no)
-TO019	°(tre)centosessantacinque sotto e sopra.°
-TO018	praticamente so~ diciamo:: m::h=>rientra nel numero delle scrofe diciamo presenti nell'allevamento e il numero< di: di parti diciamo all'anno che avvengono,
-TO019	no [quello mi dà l]'indicazione di quan~ (.) del numero di parti però,
-TO018	[e:h]
+TO018	°(tre)centosessantacinque sotto e sopra.°
+TO019	praticamente so~ diciamo:: m::h=>rientra nel numero delle scrofe diciamo presenti nell'allevamento e il numero< di: di parti diciamo all'anno che avvengono,
+TO018	no [quello mi dà l]'indicazione di quan~ (.) del numero di parti però,
+TO019	[e:h]
 TO018	se lei,
 TO018	e::h=mh
 TO018	come descrive,
 TO018	mettendo insieme i vari momenti fisiologici,
 TO018	un interparto nella scrofa.
-TO019	sarà fatto dai giorni di gestazione,
-TO018	sì gestaz[ione].
-TO019	[più:]
-TO018	parto lattazione,
+TO018	sarà fatto dai giorni di gestazione,
+TO019	sì gestaz[ione].
+TO018	[più:]
+TO019	parto lattazione,
 TO018	più la lattazione,
-TO019	più?
-TO018	in~ l'interparto diciamo.
-TO019	non è l'interpa~=eh il ritorno al calore.
-TO018	be:h=sì scusi:: [il ritor~ esatto il ritorno in c]alore.
+TO018	più?
+TO019	in~ l'interparto diciamo.
+TO018	non è l'interpa~=eh il ritorno al calore.
+TO019	be:h=sì scusi:: [il ritor~ esatto il ritorno in c]alore.
 TO018	[cioè tutto insieme li tutto insieme li].
 TO018	tranquilla n~ n~
 TO018	tutto iniseme e sa,
-TO019	però io ho centoquattordici centoquindici giorni ch[e sono] costant[i d'accodo],
+TO018	però io ho centoquattordici centoquindici giorni ch[e sono] costant[i d'accodo],
 TO019	[sì].
-TO018	[gestazione].
-TO019	è la gestazione questi non possiamo mo[dificarli ce l]i teniamo come sono.
-TO018	[esatto].
-TO019	poi abbiamo la fase di lattazione,
+TO019	[gestazione].
+TO018	è la gestazione questi non possiamo mo[dificarli ce l]i teniamo come sono.
+TO019	[esatto].
+TO018	poi abbiamo la fase di lattazione,
 TO019	sì.
-TO018	che dura circa tre tre setti[mane].
-TO019	[questo è l'u]nic[o],
-TO018	[°tre] settiman[e (più di) tre settima~°]
+TO019	che dura circa tre tre setti[mane].
+TO018	[questo è l'u]nic[o],
+TO019	[°tre] settiman[e (più di) tre settima~°]
 TO018	[questo è l'unico fattore ch]e noi possiamo: sul quale possiamo esercitare un ruolo diretto.
 TO018	posso decidere di:
-TO019	e::h=allattare i suinetti per quattro settimane a ventotto giorni oppure per tre settimane a ventuno [o: a ven]ticinque a seconda dell[e mie scelte operative].
+TO018	e::h=allattare i suinetti per quattro settimane a ventotto giorni oppure per tre settimane a ventuno [o: a ven]ticinque a seconda dell[e mie scelte operative].
 TO019	[sì].
-TO018	[°poi in base all~ sce]lta (nutrizi[onale).°]
-TO019	[però] questo periodo è (.) insieme alla numerosità della nidiata è quello che influenze[rà il ritorno in calore].
-TO018	[°influenzerà° sì] °il ritorno in calore.°
-TO019	allora un conto è se la scrofa una volta slattata ritornerà in calore in cinque giorni un conto è se ci torna in quattordici.
-TO018	°ovviamente perché comunque determina una riduzione della produttività.°
-TO019	qual è l'indice di parto mediam~ medio che noi abbiamo?
-TO018	°due punto:: cinque più o meno.°
+TO019	[°poi in base all~ sce]lta (nutrizi[onale).°]
+TO018	[però] questo periodo è (.) insieme alla numerosità della nidiata è quello che influenze[rà il ritorno in calore].
+TO019	[°influenzerà° sì] °il ritorno in calore.°
+TO018	allora un conto è se la scrofa una volta slattata ritornerà in calore in cinque giorni un conto è se ci torna in quattordici.
+TO019	°ovviamente perché comunque determina una riduzione della produttività.°
+TO018	qual è l'indice di parto mediam~ medio che noi abbiamo?
+TO019	°due punto:: cinque più o meno.°
 TO018	due punto tre due punto quattro dipende a volte anche due punto cinque.
 TO018	okay.
 TO018	passiamo alla parte dei avicoli vuoi chiedergli qualche cosa sui suini?
@@ -1131,34 +1131,34 @@ TO018	e::h=mh
 TO018	negli avicoli,
 TO018	noi abbiamo visto diverse::
 TO018	diverse specie ci dice qualcosa sulla:
-TO019	lei è venuta n~ (.) nell'uscita a vedere i tacchini?
-TO018	e:h no.
-TO019	allora ci dica qualche cosa sull'allevamento dei tacchini.
+TO018	lei è venuta n~ (.) nell'uscita a vedere i tacchini?
+TO019	e:h no.
+TO018	allora ci dica qualche cosa sull'allevamento dei tacchini.
 TO019	allora, ((ride))
 TO019	°va bene.°
-TO018	allor[a e::h]
+TO019	allor[a e::h]
 TO018	[senza descrivere] l'all~=l'allevamento dove siamo andati no.
-TO019	ci descr[iva] in grandi linee come funziona l'allevamento,
+TO018	ci descr[iva] in grandi linee come funziona l'allevamento,
 TO019	[okay].
 TO019	allora e:h=praticamente in un allevamento di tacchini e:h=m:h
 TO019	e::h per prima cosa diciamo c'è da dire che comunque eh i tacchini sono animali che non prensentano:=m:h diciamo presetano una testa eh priva di e:h=mh nuda,
 TO019	eh=presentano diciamo delle carruncole e: delle verruche.
 TO019	e e poi hanno questa caratteristica diciamo u:h coda e:h=mh a forma di ruota.
 TO019	e::h=mh
-TO018	[il le~]
-TO019	[fanno la ru]ota i ma[schi].
+TO019	[il le~]
+TO018	[fanno la ru]ota i ma[schi].
 TO019	[a forma di] sì esatto fanno la ruota:
 TO019	e::h=mh praticamente eh i maschi raggiungono uh circa ventuno chili,
 TO019	mentre le femmine intorno ai dodici chili.
 TO019	e:h=nel tacchino viene effettuata praticamente l'inseminazione strumentale,
 TO019	e::h=mh e viene allevato special~ eh viene diciamo allevato soprattutto il tacchino eh per la carne diciamo pesante.
-TO018	e:h e quindi diciamo (è) il tacchino pesante.
+TO019	e:h e quindi diciamo (è) il tacchino pesante.
 TO018	°sì.°
-TO019	l[ei ha ma]i visto uova di tacchino [in giro per il me~]
+TO018	l[ei ha ma]i visto uova di tacchino [in giro per il me~]
 TO019	[eh]
 TO019	[no:] ((ride))
-TO018	no.
-TO019	per il supe[mercato per fare la frittata no non ce n'è s]i possono mangiare ma non ce ne son[o].
+TO019	no.
+TO018	per il supe[mercato per fare la frittata no non ce n'è s]i possono mangiare ma non ce ne son[o].
 TO019	[e::h=mh inoltre:]
 TO019	[i]noltre e:h=mh
 TO019	la caratteristica: proprio diciamo delle,
@@ -1170,14 +1170,14 @@ TO019	e::h=in allevamento che cosa succede io praticamente ho e:h=le diciamo le 
 TO019	che vengono poste i~ in nidi.
 TO019	e abbiamo o~ pe~ ogni nido per cinque femmine.
 TO019	e::h all'interno di questi nidi praticamente diciamo è presente una sorta di e:h pavimentazione in (grgliato),
-TO018	e:h=che permette poi diciamo la:=m:h
+TO019	e:h=che permette poi diciamo la:=m:h
 TO018	come si fa l'allevamento del tacchino?
-TO019	al di là dell'arrivar[e ai ni]di.
+TO018	al di là dell'arrivar[e ai ni]di.
 TO019	[può avve~]
 TO019	può avvenire diciamo sia dentro diciamo ne ne negli allevamenti al chiuso,
 TO019	oppure può avvenire diciamo o: in parchetti esterni.
 TO019	più o meno.
-TO018	però diciamo n[ei parchetti esterni],
+TO019	però diciamo n[ei parchetti esterni],
 TO018	[e:::h=s]sì è possib~ è è è possibile.
 TO018	è possibile ma,
 TO018	mh cioè deve deve::: come dire deve circostanziare questa affermazione.
@@ -1187,57 +1187,57 @@ TO018	<fuori>,
 TO018	dimostrano il contrario anzi.
 TO018	però la scelta dell'allevamento:::
 TO018	convenzionale intensivo,
-TO019	non è quella dell'allevamento all'aperto.
-TO018	no no ovviame[nte].
-TO019	[per] ragioni::=igenico sanitarie da qu[esto punt~ oltre che a] oltre che produttive.
-TO018	[anche economiche].
+TO018	non è quella dell'allevamento all'aperto.
+TO019	no no ovviame[nte].
+TO018	[per] ragioni::=igenico sanitarie da qu[esto punt~ oltre che a] oltre che produttive.
+TO019	[anche economiche].
 TO018	gli episodi anche recenti di di:: influenza aviaria,
-TO019	sono un problema p[er gli alle]vamenti di ordine di tipo biologico dove si fa un allevamento all'aperto.
-TO018	[sì].
+TO018	sono un problema p[er gli alle]vamenti di ordine di tipo biologico dove si fa un allevamento all'aperto.
+TO019	[sì].
 TO018	le voliere sono di nuovo come dire sotto osservazione:
 TO018	là dove ci sono tutta una serie di queste tend~ come dire,
 TO018	impostazioni di allevamento le attenzioni sono molteplici e questo vale soprattutto: anche per il tacchino.
-TO019	quindi l'allevamento è un allevamento in clausura è un allevamento però a terra o in gabbia?
+TO018	quindi l'allevamento è un allevamento in clausura è un allevamento però a terra o in gabbia?
 TO019	e::h=mh
-TO018	a terra.
-TO019	e:h pensi a [un tacchino da ventun chil]o messo messo in gabbia.
-TO018	[e:h utilizziamo],
-TO019	non è prorprio e[h]
-TO018	[si] utilizza infatti anche come lettiera per esempio la paglia macinata c[onn °truciolato°].
-TO019	[e e allora non c'è ta]nto un pavimento grigliato:: [o:: fes]surato,
+TO019	a terra.
+TO018	e:h pensi a [un tacchino da ventun chil]o messo messo in gabbia.
+TO019	[e:h utilizziamo],
+TO018	non è prorprio e[h]
+TO019	[si] utilizza infatti anche come lettiera per esempio la paglia macinata c[onn °truciolato°].
+TO018	[e e allora non c'è ta]nto un pavimento grigliato:: [o:: fes]surato,
 TO019	[no intendevo n~]
 TO019	sì sì sì sì.
-TO018	mi scusi.
-TO019	[no no no assolutamente xx]
+TO019	mi scusi.
+TO018	[no no no assolutamente xx]
 TO019	[cioè il grigliato intendevo per],
 TO019	e::h poi diciamo i:l le uova che poi verranno poi raccolte,
-TO018	e::h=mh
+TO019	e::h=mh
 TO018	ci sono fondamentalmente: dei da questo punto di vista e questa però è una questione di attrezzature per gli allevamenti dove si fa la riproduzione,
-TO019	e::h dei nidi trappola.
-TO018	sì
-TO019	che servono a:=mh
-TO018	°deposizion[e:°]
-TO019	[ca]tturare la femmi[na per il tempo neces]sario alla deposizione dell'uovo:
-TO018	[°catturare la femmina.°]
-TO019	per far raccogliere automaticamente le uova raccoglierle manualmente e: con sistemi [mis]ti eccetera.
-TO018	[sì].
+TO018	e::h dei nidi trappola.
+TO019	sì
+TO018	che servono a:=mh
+TO019	°deposizion[e:°]
+TO018	[ca]tturare la femmi[na per il tempo neces]sario alla deposizione dell'uovo:
+TO019	[°catturare la femmina.°]
+TO018	per far raccogliere automaticamente le uova raccoglierle manualmente e: con sistemi [mis]ti eccetera.
+TO019	[sì].
 TO018	ma questo riguarda solo e unicamente questa fase.
 TO018	e non sono comunque dei::
-TO019	e::h non sono delle postazioni sopraelevate piuttosto che sono dei nidi dove l'ani[male può] andare,
-TO018	[no no].
-TO019	e:::h [depone l'uovo] e poi con un sistema insomma o con sistem[i: a volte]sì automatici l'animale viene allontanato.
+TO018	e::h non sono delle postazioni sopraelevate piuttosto che sono dei nidi dove l'ani[male può] andare,
+TO019	[no no].
+TO018	e:::h [depone l'uovo] e poi con un sistema insomma o con sistem[i: a volte]sì automatici l'animale viene allontanato.
 TO019	[facilmente quindi °xxx.°]
-TO018	[°automatici.°]
+TO019	[°automatici.°]
 TO018	quindi questa è l'unica fase nella quale noi abbiamo una,
-TO019	per il resto l'allevamento è tutto a terra. quindi,
-TO018	sì.
+TO018	per il resto l'allevamento è tutto a terra. quindi,
+TO019	sì.
 TO018	essendo a terra,
 TO018	e questo vale anche per l'animale all'ingrasso,
 TO018	le condizioni di gestione de:l pavimento,
 TO018	mh
-TO019	diventano assolutamente importanti.
-TO018	certo.
-TO019	quindi il pavimento è un pavimento che è caratterizzato dall'impiego di lettiera:
+TO018	diventano assolutamente importanti.
+TO019	certo.
+TO018	quindi il pavimento è un pavimento che è caratterizzato dall'impiego di lettiera:
 TO019	sì infatti la lettiera deve essere intorno ai dodici centimetri di altezza.
 TO019	e:h=per esempio utilizziamo per il tacchino e:h=mh la paglia macinata più il truciolo,
 TO019	diciamo che è quella un po' più m:h diciamo utilizzata.
@@ -1277,96 +1277,96 @@ TO019	che possono diciamo determinare quindi una riduzione del valore della carc
 TO019	e:h=la resa diciamo oh=m:h per quanto riguarda il tacchino la resa di macellazione è intorno all'ottanta percento.
 TO019	più o meno.
 TO019	e::h=mh
-TO018	[m::h],
+TO019	[m::h],
 TO018	[qual è qual] è il taglio più:: più importante (.) quello che al quale bisogna prestare attenzione perché non venga::
-TO019	non venga danneggiato.
-TO018	°e:::h il [pe:~°]
-TO019	[nel] tacchino.
-TO018	°il petto.°
-TO019	direi proprio di sì.
-TO018	((ride))
+TO018	non venga danneggiato.
+TO019	°e:::h il [pe:~°]
+TO018	[nel] tacchino.
+TO019	°il petto.°
+TO018	direi proprio di sì.
+TO019	((ride))
 TO018	vada tranquilla su tutto il resto::
 TO018	perché,
-TO019	m::h=lei ha detto prima giustamente bisogna fare attenzione alla presenza di emorrargi[e spunta]ture sulle ali e così via.
-TO018	[sì].
+TO018	m::h=lei ha detto prima giustamente bisogna fare attenzione alla presenza di emorrargi[e spunta]ture sulle ali e così via.
+TO019	[sì].
 TO018	non è tanto un problema:
 TO018	legato al valore commerciale,
 TO018	di quelle:: di quelle porzioni di quei tagli,
 TO018	che comunque c'è.
 TO018	perché mal che vada se sono particolarmente::
 TO018	m::h come dire danneggiati o vengono eliminati o confluiscono a fare prodotti:::
-TO019	ricostituiti o cotti insomma vanno nei wuste[roni] da questo punto di vista.
+TO018	ricostituiti o cotti insomma vanno nei wuste[roni] da questo punto di vista.
 TO019	[°sì.°]
-TO018	[°xxx°]
+TO019	[°xxx°]
 TO018	[e quindi va xx qual è] l=l=l'aspetto importante per il quale=e::h si deve porre l'attenzione,
 TO018	e quindi fare attenzione che non ci siano danneggiamenti di quel tipo.
 TO018	è un indicatore complessivo del sistema dell'allevamento e quindi se io ho molti animali con delle ferite,
-TO019	a che cos'è che non ho prestato attenzione fondamentalmente,
-TO018	alla gestione per[ché non li ha gestiti in maniera corretta].
-TO019	[la gestione (ma) al benessere d]egli animali.
-TO018	esatto.
-TO019	e quindi da questo [punto di vista],
-TO018	[>°tutelare il benessere.°<]
+TO018	a che cos'è che non ho prestato attenzione fondamentalmente,
+TO019	alla gestione per[ché non li ha gestiti in maniera corretta].
+TO018	[la gestione (ma) al benessere d]egli animali.
+TO019	esatto.
+TO018	e quindi da questo [punto di vista],
+TO019	[>°tutelare il benessere.°<]
 TO018	non dimenticate che il macello è un momento di: è osservatorio importante,
-TO019	di quello che succede in allevamento e e e: dal macello possono partire tutta una serie di indicazioni di controlli da [fare],
-TO018	[°esatto.°]
+TO018	di quello che succede in allevamento e e e: dal macello possono partire tutta una serie di indicazioni di controlli da [fare],
+TO019	[°esatto.°]
 TO018	e e da ricontrollare n~
 TO018	non ci ha detto in questo rapidissimo excursus sull'allevamento del tacchino ad esempio però quanto dura l'allevamento del tacchino o per lo meno non l'ho colto.
-TO019	le mi ha detto si fanno maschi e femmine i maschi arrivano intorno ai venti ventun chi[li],
-TO018	[sì] ve:ntuno=[mh m]entre le femmine=m:h
-TO020	[°più o meno.°]
-TO019	nello stesso [periodo],
-TO020	[un po' meno].
-TO019	e quanto dura questo periodo questo ciclo di allevamento?
-TO018	e::h=m:h
-TO019	si ricordi quello che mi aveva detto del suinetto all'inizio,
-TO018	cosa le ho detto del suinetto all'inizio?
+TO018	le mi ha detto si fanno maschi e femmine i maschi arrivano intorno ai venti ventun chi[li],
+TO019	[sì] ve:ntuno=[mh m]entre le femmine=m:h
+TO018	[°più o meno.°]
+TO020	nello stesso [periodo],
+TO019	[un po' meno].
+TO020	e quanto dura questo periodo questo ciclo di allevamento?
+TO019	e::h=m:h
+TO018	si ricordi quello che mi aveva detto del suinetto all'inizio,
+TO019	cosa le ho detto del suinetto all'inizio?
 TO018	vede che poi d~ in qualche modo esiste sempre una un collegamento.
-TO020	lei all'inizio ha detto che nelle nidiate di suinetti si faceva un certo tipo di attività che è il sessaggio e io le ho detto ma nei suinetti tutto som[mato non] (.) invece,
-TO018	°[xxxx]°
-TO019	in queste specie?
-TO018	ah beh qu~ in q[ueste specie],
-TO019	[che sono] caratterizzate da un elevato dimorfismo sessua[le].
+TO018	lei all'inizio ha detto che nelle nidiate di suinetti si faceva un certo tipo di attività che è il sessaggio e io le ho detto ma nei suinetti tutto som[mato non] (.) invece,
+TO020	°[xxxx]°
+TO018	in queste specie?
+TO019	ah beh qu~ in q[ueste specie],
+TO018	[che sono] caratterizzate da un elevato dimorfismo sessua[le].
 TO019	[sì]:.
-TO018	[ah beh è necess~]
+TO019	[ah beh è necess~]
 TO018	[più che un sessaggio] puntuale al momento della nascita (.) si sa no ovviamente quanti se ne caricano sicuramente che anche:
 TO018	si fa.
 TO018	con dei sistemi::
 TO018	possiamo vedere qual è la ragione importante per la quale in questo ne nel caso dell'allevamento avicolo in generale,
-TO019	posso essere interessato a distinguere i due sessi,
+TO018	posso essere interessato a distinguere i due sessi,
 TO019	pe:r la qualità de~ della carne.
-TO018	va[do:]
+TO019	va[do:]
 TO018	[non è solo] non è solo per la qualità della carne poi le dirò che tutto sommato non è che ci sia tutta questa:::
 TO018	differenza forse le femmine sono un peli~
 TO018	forse:
-TO019	°neanche,°
-???	e:h=per il valore biologico della carne quindi diciamo il contenuto di prote[ine],
-TO019	[assoluta]mente no.
-TO018	e::h=mh
+TO018	°neanche,°
+TO019	e:h=per il valore biologico della carne quindi diciamo il contenuto di prote[ine],
+???	[assoluta]mente no.
+TO019	e::h=mh
 TO018	è molto più::
 TO018	zootecnica la motivazione.
-TO019	e quindi di ordine economico.
-TO018	perché le fem~ m::h le femmine: sono: di più facile gestione visto che hanno un peso diciamo inferiore rispetto ai [maschi].
-TO019	[lei ha detto] che i maschi diventano ventun chili,
+TO018	e quindi di ordine economico.
+TO019	perché le fem~ m::h le femmine: sono: di più facile gestione visto che hanno un peso diciamo inferiore rispetto ai [maschi].
+TO018	[lei ha detto] che i maschi diventano ventun chili,
 TO019	sì.
-TO018	[e le femmine dodici].
-???	[e le femmine dodi]ci.
-TO019	alla stessa età?
-TO018	sì.
-???	no.
-TO018	((ride))
+TO019	[e le femmine dodici].
+TO018	[e le femmine dodi]ci.
+???	alla stessa età?
+TO019	sì.
+TO018	no.
+???	((ride))
 TO018	beh, no.
-TO019	è lì la questione.
-TO018	[e::h],
-TO019	[quindi l'alle]vamento del maschio si protrae per (.) grosso modo: quanto tempo?
-TO018	e loro raggiungono eh loro raggiungono ventuno chili intorno a venti settimane.
-TO019	°no.°
-TO018	no che:
-TO019	>venti settimane aspetti che faccio il cont[o. venti settimane<],
-TO018	[~spetti sto andando in pa]lla.
-TO019	sono cin[que per quattro >cinque per quattro son] cinque mesi<.
-???	[allora e::h],
-TO018	°nì.°
+TO018	è lì la questione.
+TO019	[e::h],
+TO018	[quindi l'alle]vamento del maschio si protrae per (.) grosso modo: quanto tempo?
+TO019	e loro raggiungono eh loro raggiungono ventuno chili intorno a venti settimane.
+TO018	°no.°
+TO019	no che:
+TO018	>venti settimane aspetti che faccio il cont[o. venti settimane<],
+TO019	[~spetti sto andando in pa]lla.
+TO018	sono cin[que per quattro >cinque per quattro son] cinque mesi<.
+TO019	[allora e::h],
+???	°nì.°
 TO018	nì (.) cioè nel senso che si può anche essere una una:=e::h
 TO018	ci possono essere degli allevamenti di punta che forse riescono in cinque mesi: può darsi che si fermino,
 TO018	pelino in meno da questo punto di vista quindi su un peso comunque intorno ai venti chili però mediamente noi cioè mediamente in generale noi che cosa diciamo che nell'allevamento del tacchino facciamo del maschio due cicli per anno.
@@ -1375,109 +1375,109 @@ TO018	perché abbiamo anche la fase tutto pieno tutto vuoto::
 TO018	siamo sui sei mesi.
 TO018	quindi in sei mesi noi abbiamo l'animale pronto alla macellazione.
 TO018	poi possono essere cinque e mezzo,
-TO019	p[ossono anche essere cinq]ue e una settimana possono anche essere cinque facciamo un mese di tutto vuoto questo va: va bene.
-TO018	[possono anche essere],
-TO019	nelle femmine però non arriviamo a un periodo di tempo così lungo la femmina: ci impiega:,
-TO018	°di più?°
+TO018	p[ossono anche essere cinq]ue e una settimana possono anche essere cinque facciamo un mese di tutto vuoto questo va: va bene.
+TO019	[possono anche essere],
+TO018	nelle femmine però non arriviamo a un periodo di tempo così lungo la femmina: ci impiega:,
+TO019	°di più?°
 TO018	no:,
-???	alla fine la ma[celliamo prima].
-TO019	[per fare diec]i chili.
-TO018	[°xx xx sì sì sì no certo].
+TO018	alla fine la ma[celliamo prima].
+???	[per fare diec]i chili.
+TO019	[°xx xx sì sì sì no certo].
 TO018	[abbiam detto che la macelliamo a docici chili dieci dodici] chili.
-TO019	se la macelliamo a dieci dodici chili vuol dire c~ e tenendo conto che la femmina cresce un po' meno velocem[ente],
-TO018	[esa]tto.
-TO019	noi facciamo la femmina in circa quattro mesi.
-TO018	°sì più o meno sì.°
+TO018	se la macelliamo a dieci dodici chili vuol dire c~ e tenendo conto che la femmina cresce un po' meno velocem[ente],
+TO019	[esa]tto.
+TO018	noi facciamo la femmina in circa quattro mesi.
+TO019	°sì più o meno sì.°
 TO018	poi possono essere quattro e mezzo ma questo ci consente di lavorare come di lavorare,
 TO018	non per sessi separati volendo,
-TO019	e poi (.) separando i maschi dalle femmine su[perata la prima] fase iniziale in m[odo] tale da rispettare lo spazio pro capite,
+TO018	e poi (.) separando i maschi dalle femmine su[perata la prima] fase iniziale in m[odo] tale da rispettare lo spazio pro capite,
 TO019	[°è possibile,°]
-TO018	[sì].
+TO019	[sì].
 TO018	che man mano che gli animali crescono,
 TO018	le necessità diventano maggiori e: a un certo punto noi allontaniamo:: completamente i nostri,
 TO018	senta parlando invece di,
 TO018	da questo punto di vista poi:=e:h la lascio andare,
-TO019	e::h sessaggio,
-TO018	°sì.°
-TO019	nnella:=m::h quali sono i metodi di sessaggio non nel tacchino specificatamente °assolutamente in generale.°
+TO018	e::h sessaggio,
+TO019	°sì.°
+TO018	nnella:=m::h quali sono i metodi di sessaggio non nel tacchino specificatamente °assolutamente in generale.°
 TO019	allora i metodi di se~ di sessaggio possono essere ad esempio: e::h attraverso il colore del piumino,
 TO019	e:h=che viene effettuato diciamo u::h=mh
 TO019	m::h il colore del piumino perché prati~ perché praticamente il colore del piumino è legato al cromosoma zeta.
-TO018	e:h [per esem]pio e:h l'incrocio tra femmine di colore bianco e l'incrocio tra maschi di colore rosso,
-TO019	[mh=mh],
+TO019	e:h [per esem]pio e:h l'incrocio tra femmine di colore bianco e l'incrocio tra maschi di colore rosso,
+TO018	[mh=mh],
 TO019	può determinare la formazione di e::h cinquanta percento di maschi di colore bianco e cinquanta percento di femmine di colore (.) rosso
 TO019	questo perché perché comunque,
 TO019	essendo il colore legato a~ diciamo al cromosoma zeta,
-TO018	ed essendo il colore rosso diciamo red~ [e:::h]
-TO019	[in que]sto caso parliamo di,
-TO018	omozigote recessivo.
-TO019	sì d'accordo ma in questo [caso] parliamo di autosessaggio.
+TO019	ed essendo il colore rosso diciamo red~ [e:::h]
+TO018	[in que]sto caso parliamo di,
+TO019	omozigote recessivo.
+TO018	sì d'accordo ma in questo [caso] parliamo di autosessaggio.
 TO019	[sì].
-TO018	sì sì.
-TO019	[perché l'animale s]i sessa da s[é a se]conda del colore.
+TO019	sì sì.
+TO018	[perché l'animale s]i sessa da s[é a se]conda del colore.
 TO019	[autosessaggio].
-TO018	[esatto].
+TO019	[esatto].
 TO018	ed è estremamente utile estremamente funzionale perché in allevamento separiamo subito maschi e femmine.
-TO019	quand'è che è estremamente utile da questo punto di vista l'autosessaggio cioè su quale tipo di animali fondamentalemente.
-TO018	e:::h=mh
-TO019	cioè qual è la destinazione d'uso di questi animali che ci::,
-TO018	pe::r=e:h il consumo diciamo per la carne.
-TO019	se voglio individuare i maschi e:: [se no]n mi interessa individuare o meglio se voglio individuare i maschi perché non sono produttivi e quindi li allontano::
-TO018	[sì].
-TO019	rapidissimamente dall'allevamento,
-TO018	e:::h,
-TO019	qual è l'altra categoria di produ[zioni avi]cole?
+TO018	quand'è che è estremamente utile da questo punto di vista l'autosessaggio cioè su quale tipo di animali fondamentalemente.
+TO019	e:::h=mh
+TO018	cioè qual è la destinazione d'uso di questi animali che ci::,
+TO019	pe::r=e:h il consumo diciamo per la carne.
+TO018	se voglio individuare i maschi e:: [se no]n mi interessa individuare o meglio se voglio individuare i maschi perché non sono produttivi e quindi li allontano::
+TO019	[sì].
+TO018	rapidissimamente dall'allevamento,
+TO019	e:::h,
+TO018	qual è l'altra categoria di produ[zioni avi]cole?
 TO019	[per il riprod~]
-TO018	possono essere o riproduttori op[pure d]iciamo per la carne,
+TO019	possono essere o riproduttori op[pure d]iciamo per la carne,
 TO018	[oppure],
-TO019	oppure,
-TO018	oppure produzione delle uova.
+TO018	oppure,
+TO019	oppure produzione delle uova.
 TO018	alle uova,
-TO019	che ne faccio dei maschi se faccio uova da cons[umo]?
-TO018	[sì va]bbè certo.
-TO019	poco n[e faccio poco d'accordo].
-TO018	[eh ma vabbè ovvia]men~
-TO019	faccio i galletti amburghesi faccio di queste cose qui.
-TO018	[un'altro:::]
-TO019	[l'altro tipo di: sessa]ggio invec[e che non è]: non è quello sull'autosessaggio a colore ma è un sessaggio: più: tra virgolette morfologico chiamiamolo così.
+TO018	che ne faccio dei maschi se faccio uova da cons[umo]?
+TO019	[sì va]bbè certo.
+TO018	poco n[e faccio poco d'accordo].
+TO019	[eh ma vabbè ovvia]men~
+TO018	faccio i galletti amburghesi faccio di queste cose qui.
+TO019	[un'altro:::]
+TO018	[l'altro tipo di: sessa]ggio invec[e che non è]: non è quello sull'autosessaggio a colore ma è un sessaggio: più: tra virgolette morfologico chiamiamolo così.
 TO019	[un'altro:::]
 TO019	e::h e:h praticamente eh viene effettuato in base alla velocità di accrescimeto delle (.) penne remiganti,
 TO019	e::h (.) <questa ti~> questo tipo di tecnica inoltre viene utilizzata nel (boiler) appunto diciamo::=mh pe:r diciamo la carne,
 TO019	eh e viene os~ viene effettuata soprattutto diciamo per gli animali di colore m:h che sono di colore bianco,
-TO018	e quindi diciamo eh in base alla lunghezza praticamente de:l de::l diciamo dell'impiumamento de:l dell'impennamento del[le pinne remiganti],
-TO019	[alla velocità di sv]iluppo delle [piume remi]ganti cioè delle [piume dell'ala piumagg]io all'ala.
+TO019	e quindi diciamo eh in base alla lunghezza praticamente de:l de::l diciamo dell'impiumamento de:l dell'impennamento del[le pinne remiganti],
+TO018	[alla velocità di sv]iluppo delle [piume remi]ganti cioè delle [piume dell'ala piumagg]io all'ala.
 TO019	[esatto].
 TO019	[io vado a riconoscere],
-???	[le]: le femmine e i [maschi].
-TO018	[°il sesso] (diciamo).
-???	okay si fa un sessaggio in questo modo.
+TO019	[le]: le femmine e i [maschi].
+???	[°il sesso] (diciamo).
+TO018	okay si fa un sessaggio in questo modo.
 ???	c'è ancora (.) un sistema per sessare gli animali.
-TO019	(per) i polli,
-???	e:::h,
+???	(per) i polli,
+TO019	e:::h,
 ???	perché ci sono casi in cui,
 ???	il sessaggio col colore,
-TO019	o il sessaggio all'ala,
-TO018	non possono essere=eh suffic[ienti].
-???	[è il ter]zo caso.
-TO019	°manca uno.°
-TO018	e:::[h],
-TO019	[che è] quello più tradizionale se vuo[le].
+???	o il sessaggio all'ala,
+TO019	non possono essere=eh suffic[ienti].
+TO018	[è il ter]zo caso.
+???	°manca uno.°
+TO019	e:::[h],
+TO018	[che è] quello più tradizionale se vuo[le].
 TO019	[quel]lo individuale.
 TO019	nel senso andare a:=m:h individuare diciamo maschi e femmine in maniera eh nel senso manualmente,
 TO019	e andare a individuare manualmente diciamo la: la conformazione diciamo della::
 TO019	dell'eventuale (.) clor(o) comunque:
-TO018	de:l dell'eventuale diciamo apparato riproduttivo.
-TO019	>(abbozzo penial.)<
-TO018	esatt~
+TO019	de:l dell'eventuale diciamo apparato riproduttivo.
+TO018	>(abbozzo penial.)<
+TO019	esatt~
 TO018	°mh.°
-TO019	che è la papilla in buona sost[anza] che si può evidenziare,
-TO018	[sì].
+TO018	che è la papilla in buona sost[anza] che si può evidenziare,
+TO019	[sì].
 TO018	usato meno oramai perché: è più:: come dire >meno industrializzato< però assolutamente funzionale che è stato utilizzato fino a quando,
-TO019	la genetica ha messo a punto questi s[istemi:].
-TO018	[°xx xx°]
+TO018	la genetica ha messo a punto questi s[istemi:].
+TO019	[°xx xx°]
 TO018	va bene si accomodi.
 TO018	(ac)comodatevi pure.
-???	possiamo staccare?
-TO018	°sì sì°
+TO018	possiamo staccare?
+???	°sì sì°
 TO018	bellissimo registratore.
 TO018	glielo posso rubare questo registratore?

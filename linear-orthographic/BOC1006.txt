@@ -1,60 +1,60 @@
-BO092	eh posso entrare xx grazie
-BO143	prego prego si accomodi
-BO092	buongiorno
+BO143	eh posso entrare xx grazie
+BO092	prego prego si accomodi
+BO143	buongiorno
 BO092	buongiorno
 BO092	allora mh
-BO143	marta banchi
+BO092	marta banchi
+BO143	sì
 BO092	sì
-BO092	sì
-BO143	dunque marta tu porti il programma dell'anno accademico duemilasedici duemiladiciassette
-BO092	sì
+BO092	dunque marta tu porti il programma dell'anno accademico duemilasedici duemiladiciassette
+BO143	sì
 BO092	dell'anno scorso
 BO092	quindi fai la prima parte con me
-BO143	hai un documento
-BO092	sì
+BO092	hai un documento
+BO143	sì
 BO092	grazie
 BO092	okay perfetto
 BO092	allora
-BO143	sì dunque la tua tesina l'ho corretta io però te la commento dopo
-BO092	okay
+BO092	sì dunque la tua tesina l'ho corretta io però te la commento dopo
+BO143	okay
 BO092	alla fine dell'esame
-BO143	eh mh dunque della par~ tu dai l'esame da frequentante
-BO092	eh sì
+BO092	eh mh dunque della par~ tu dai l'esame da frequentante
+BO143	eh sì
 BO092	devi darlo da frequentante hai portato per la mia parte sia le slide che gli articoli teorici giusto
-BO143	gli articoli hai fatto anche le slide
-BO092	sì sì sì sì certo
+BO092	gli articoli hai fatto anche le slide
+BO143	sì sì sì sì certo
 BO092	okay okay
 BO092	bene
-BO143	qual è l'argomento che ti ha interessato maggiormente della seconda parte dell'esame
+BO092	qual è l'argomento che ti ha interessato maggiormente della seconda parte dell'esame
 BO143	eh beh allora eh beh mi è mi è interessato molto la parte relativa agli errori infatti non a caso dopo
 BO143	eh ho voluto concentrarmi appunto su quella parte per eh la stesura appunto della mia tesina
-BO092	e anche mi è mi è interessato molto il eh diciamo l'analisi che abbiamo fatto dell'intercomprensione fra lingue e affini
-BO143	mh mh
+BO143	e anche mi è mi è interessato molto il eh diciamo l'analisi che abbiamo fatto dell'intercomprensione fra lingue e affini
+BO092	mh mh
 BO143	quegli approcci appunto plurali
 BO143	e in particolare appunto l'intercomprensione
-BO092	e l'analisi di appunto di galanet e di euron cinque
-BO143	mh bene parliamo di questo allora
+BO143	e l'analisi di appunto di galanet e di euron cinque
+BO092	mh bene parliamo di questo allora
 BO143	sì
 BO143	allora
 BO143	per quanto riguarda gli approcci appunto plurali
 BO143	possiamo appunto abbiamo appunto la
 BO143	eh l'approccio interculturale
 BO143	la didattica eh integrata
-BO092	eh il eh appunto le xxx au langue che è una serie appunto di
-BO143	le vel le vel langue
-BO092	e e vel lel~ xx perdoni non so il francese
-BO143	xx xx
+BO143	eh il eh appunto le xxx au langue che è una serie appunto di
+BO092	le vel le vel langue
+BO143	e e vel lel~ xx perdoni non so il francese
+BO092	xx xx
 BO143	e il clicl appunto eh content and language integrated learning
 BO143	e appunto all'intercomprensione fra lingue e affini per intercomprensione o comprensione multilingue si intende l'apprendimento ricettivo
 BO143	eh di più lingue mediante lo sviluppo di strategie
 BO143	eh che consentono di traferire processi cognitivi
-BO092	eh conoscenze esprerienze abilità già acquisite da una lingua all'altra
-BO143	mh mh
-BO092	e in mo~
+BO143	eh conoscenze esprerienze abilità già acquisite da una lingua all'altra
+BO092	mh mh
+BO143	e in mo~
 BO092	perché xx facciamo un passo indietro perché si parla di approcci plurali
 BO092	perché si utilizza questa
 BO092	questo termine
-BO143	e qual è diciamo la filosofia in parte che accomuna tutte queste metodologie che hai menzionato
+BO092	e qual è diciamo la filosofia in parte che accomuna tutte queste metodologie che hai menzionato
 BO143	beh diciamo che eh m gli approcci plurali nascono comunque da nuove tendenze all'interno della didattica
 BO143	eh linguistica
 BO143	in particolar modo abbiamo appunto il eh carap che è appunto il quadro di riferimento per gli approcci plura~ plurali e il eh mh
@@ -71,13 +71,13 @@ BO143	eh e quin diciamo che mh lo scopo fondamentale è quello comunque di eh di
 BO143	una cultura del plurilinguismo appunto nel cittadino europeo quindi valorizzare la la dimensione interculturale della dell'apprendimento
 BO143	eh mh
 BO143	e mh
-BO092	quindi sì ecco
+BO143	quindi sì ecco
 BO092	sì sì sì sì bene molto bene
-BO143	e mh quindi dicevi dal punto di vista invece proprio del linguistico delle stratregie metalinguistiche
-BO092	sì
-BO143	il eh il caso specifico dell'intercomprensione
-BO092	sì
-BO143	su che cosa si basa
+BO092	e mh quindi dicevi dal punto di vista invece proprio del linguistico delle stratregie metalinguistiche
+BO143	sì
+BO092	il eh il caso specifico dell'intercomprensione
+BO143	sì
+BO092	su che cosa si basa
 BO143	e allora eh per quanto riguarda appunto l'intercomprensione
 BO143	e mh
 BO143	allora abbiamo appunto abbiamo visto noi abbiamo appunto in particolare analizzato appunto galanet ed euron quattro e cinque in particolare eh
@@ -86,12 +86,12 @@ BO143	che appunto lo s~ è mh diciamo mh il metodo appunto eurom è quello di eh
 BO143	per chi ne sa già una in particolar modo appunto italiano spagnolo francese catalano e portoghese
 BO143	in maniera eh ricettiva
 BO143	e eh il eh mh
-BO092	appunto il
+BO143	appunto il
 BO092	xxx in maniera ricettiva
-BO143	focalizzandosi in particolare sulle abilità ricettive
+BO092	focalizzandosi in particolare sulle abilità ricettive
 BO143	sì
-BO092	eh focali~ sì in maniera appunto sì esatto focalizzandosi sulle abilità mh ricettive
-BO143	okay
+BO143	eh focali~ sì in maniera appunto sì esatto focalizzandosi sulle abilità mh ricettive
+BO092	okay
 BO143	e eh quindi elaborando strategie di comprensione generali
 BO143	e eh in particolar modo i presupposti teorici sono appunto la comprensione del testo e quieta teoria dei sette setacci che sono appunto questi filtri o domini
 BO143	eh attraverso cui è possibile trasferire le eh le conoscenze da una lingua all'altra che sono appunto il lessico internazionale il lessico panromanzo quindi diciamo il lessico affine tra le varie
@@ -103,19 +103,19 @@ BO143	quin diciamo che
 BO143	ci si basa un po' su un'analisi comunque di quelle che sono le eh le analogie fra le lngue romanze
 BO143	naturalmente anche con molte generalizzazioni
 BO143	infatti diciamo che è un metodo che mi lascia un po' come dire
-BO092	mh non so sono un un po' perplessa sì non so effetttivamente quanto possa funzionare però l'ho trovato molto interessante perché è un approccio che non avevo mai
+BO143	mh non so sono un un po' perplessa sì non so effetttivamente quanto possa funzionare però l'ho trovato molto interessante perché è un approccio che non avevo mai
 BO092	perplessa
 BO092	ah ah
-BO143	ma quando abbiamo
-BO092	considerato diciamo
+BO092	ma quando abbiamo
+BO143	considerato diciamo
 BO092	conosxx ma quando abbiamo fatto la sperimentazione in classe c'eri
-BO143	eri presente
+BO092	eri presente
 BO143	eh
-BO092	oddio
-BO143	quando abbamo lavorato sui testi di eurom eh cinque
-BO092	sì sì sì sì sì sì sì sì sì sì sì sì
+BO143	oddio
+BO092	quando abbamo lavorato sui testi di eurom eh cinque
+BO143	sì sì sì sì sì sì sì sì sì sì sì sì
 BO092	abbiamo provato a fare la traduzione xxnta
-BO143	okay
+BO092	okay
 BO143	sì infatti il metodo appunto eurom
 BO143	diciamo che sono ab~ appunto nel metodo eurom si hanno appunto venti articoli per venti appunto lezioni di circa un'ora e mezza
 BO143	eh ciascuna
@@ -137,25 +137,25 @@ BO143	quindi appunto si adottano tutta una serie di strategie di comprensione qu
 BO143	amh diciamo che corrisponde a quelli che sono i propri obbiettivi
 BO143	si costruisce appunto un percorso di lettura
 BO143	eh mh
-BO092	e quindi insomma
-BO143	sì
+BO143	e quindi insomma
+BO092	sì
 BO143	e poi sì
 BO143	quindi ad esempio ci si focalizza a esempio sul si cerca appunto di capire il genere
-BO092	eh il formato magari il periodo appunto di pubblicazione del dell'articolo appunto in genere sono articoli tratti da settimanali o quotidiani
-BO143	mh mh
+BO143	eh il formato magari il periodo appunto di pubblicazione del dell'articolo appunto in genere sono articoli tratti da settimanali o quotidiani
+BO092	mh mh
 BO143	eh mh
 BO143	si individuano ad esempio le seguenze appunto discorsive o comunque i generi testuali
 BO143	eh mh
 BO143	e poi appunto ci si focalizza sugli aspetti appunto
 BO143	più legati maggiormente legati insomma alla lingua appunto come dicevo prima trovando appunto analogie
-BO092	e magari a volte anche insomma differenze
+BO143	e magari a volte anche insomma differenze
 BO092	certo
 BO092	sì sì
 BO092	va bene senti che cos'è il quadro comune europero di riferimento per le lingue
-BO143	qual è il suo valore
-BO092	allora il quadro
+BO092	qual è il suo valore
+BO143	allora il quadro
 BO092	linguistico
-BO143	politico educativo
+BO092	politico educativo
 BO143	allora il quadro comune europeo di riferimento per la conoscenza delle lingue
 BO143	è un documento importantissimo
 BO143	eh stilato appunto nel eh duemilaeuno
@@ -169,12 +169,12 @@ BO143	relative alle vare competenze ad esempio ci sono scale
 BO143	un una scala potrebbe essere ad esempio la comprensione di un'interazione fra parlanti nativi ad esempio
 BO143	e appunto è un documento importantissimo proprio perché per la prima volta si cerca di individuare una linea comune
 BO143	che possa andare bene per tutta europa per quanto riguarda
-BO092	appunto la
+BO143	appunto la
 BO092	proprio per la prima volta
 BO092	c'erano già stati dei tentativi precedenti che erano però
 BO092	eh diciamo forse più
 BO092	eterogenei fra loro
-BO143	però ti ricordi quando tutta la le pubblicazione sui livelli soglia
+BO092	però ti ricordi quando tutta la le pubblicazione sui livelli soglia
 BO143	eh
 BO143	ah beh sì appunto nel millenovecento e settantuno c'era stato il progetto lingue moderne
 BO143	che appunto si basava appunto sulle unità capitalizzabili e tui sui threshold level che appunto livello soglia che sarebbe appunto livello
@@ -182,42 +182,42 @@ BO143	di mh minimo diciamo a livello linguistico eh grazie a cui un apprendente 
 BO143	e instaurare e mantenere rapporti con i parlanti nativi
 BO143	e però sì
 BO143	diciamo che probabilmente questa è la prima volta in cui si ha un documento un po' più sistematico
-BO092	e
-BO143	unitario
+BO143	e
+BO092	unitario
 BO143	che f~
-BO092	sì unitario
-BO143	mh
+BO143	sì unitario
+BO092	mh
 BO143	che infatti viene tutt'ora insomma utilizzato naturalmente in riferimento appunto al quadro comune europeo
-BO092	mh cioè c'è sempre
-BO143	è stata pubblicata una versione aggiornata adesso nel duemiladiciassette
+BO143	mh cioè c'è sempre
+BO092	è stata pubblicata una versione aggiornata adesso nel duemiladiciassette
 BO143	sì
 BO143	sì sì sì
 BO143	infatti anche noi abbiamo visto appunto mi ricordo quando abbiamo appunto durante appunto il suo modulo analizzato la l'interazione
 BO143	fra due studentesse di italiano come lingua straniera di madrelingua francese julie e amelie mi pareva
 BO143	e avevamo usato appunto anche noi i descrittori naturalmente del quadro comune europeo proprio per attribuire
-BO092	il livello lin~ di padronanza linguistica
-BO143	mh mh
-BO092	quindi appunto avevamo visto l'esposizione appunto la correttezza quindi l'assenza
-BO143	mh
+BO143	il livello lin~ di padronanza linguistica
+BO092	mh mh
+BO143	quindi appunto avevamo visto l'esposizione appunto la correttezza quindi l'assenza
+BO092	mh
 BO143	o no di errori
-BO092	la la fluenza quindi comunque il ritmo dell'eloquio la velocità
-BO143	mh
-BO092	le false partenze
+BO143	la la fluenza quindi comunque il ritmo dell'eloquio la velocità
+BO092	mh
+BO143	le false partenze
 BO092	qual è qual è il rapporto tra
 BO092	eh il quadro diciamo i descrittori del quadro europeo di riferimento
-BO143	e gli studi nella linguistica acquisizionale
-BO092	e
-BO143	è una domanda di riflessione cioè una domanda dove ti chiedo di riflettere
+BO092	e gli studi nella linguistica acquisizionale
+BO143	e
+BO092	è una domanda di riflessione cioè una domanda dove ti chiedo di riflettere
 BO143	sì
 BO143	eh
 BO143	beh eh mh
 BO143	oddio
 BO143	eh mh
-BO092	non non so se ho capito bene la domanda
-BO143	allora nei n diciamo è anche una critica forse che possiamo portare nei confronti del eh del quadro
+BO143	non non so se ho capito bene la domanda
+BO092	allora nei n diciamo è anche una critica forse che possiamo portare nei confronti del eh del quadro
 BO143	sì
-BO092	sì
-BO143	mh quali sono le critiche che si avanzano nei confronti dei contenuti del eh del quadro comune eropeo di riferimento
+BO143	sì
+BO092	mh quali sono le critiche che si avanzano nei confronti dei contenuti del eh del quadro comune eropeo di riferimento
 BO143	beh eh
 BO143	beh che probabilmente comunque
 BO143	è un modello forse troppo rigido
@@ -233,50 +233,50 @@ BO143	quindi
 BO143	diciamo che probabilmente non eh non ci può essere un metodo che va bene per tutti
 BO143	perché appunto
 BO143	diverse s diversissime possono essere le situazioni che si incontrano nella prassi dell'insegnamento diversi sono gli attori che vi prendono parte
-BO092	le esigenze i bisogni e insomma tutta una serie insomma di fattori da tenere in conto
+BO143	le esigenze i bisogni e insomma tutta una serie insomma di fattori da tenere in conto
 BO092	mh
-BO143	quindi diciamo che questi descrittori tendono comunque a dare un'idea generale un quadro sulla progressione
+BO092	quindi diciamo che questi descrittori tendono comunque a dare un'idea generale un quadro sulla progressione
 BO143	sì
 BO143	probabilmente è un po' una
 BO143	sì probabilmente è un po' una generalizzazione che sicuramente è necessaria perché altrimenti
 BO143	non ci si potrebbe basare insomma su nulla
-BO092	ma però comunque rimane tale probabilmente
+BO143	ma però comunque rimane tale probabilmente
 BO092	mh
-BO143	quindi fisssano come un po' la parola chiave fissano degli standard
-BO092	sì degli standard esatto a cui appunto bisogna a cui appunto l'apprendente deve tentare di adattarsi
-BO143	generale
+BO092	quindi fisssano come un po' la parola chiave fissano degli standard
+BO143	sì degli standard esatto a cui appunto bisogna a cui appunto l'apprendente deve tentare di adattarsi
+BO092	generale
 BO143	ma naturalmente appunto diciamo che si sta andando nella direzione contro al metodo si parla addirittura di morte del metodo appunto
 BO143	eh
-BO092	proprio perché non può esistere un metodo che vada bene per tutti fondamentalmente
-BO143	mh
+BO143	proprio perché non può esistere un metodo che vada bene per tutti fondamentalmente
+BO092	mh
 BO143	e questo pro~ diciamo è un po' come dire
 BO143	il eh
 BO143	le la direzione che si sta prendendo ultimamente
 BO143	e quindi mentre prima avevamo proprio questa diciamo rigità assoluta del metodo soprattutto anche nei primi appunto approcci nei primi comunque metodi
-BO092	adesso invece sta andando appunto nella direzione proprio inversa
-BO143	mh
-BO092	diciamo che la glottodidattica è comunque appunto una disciplina molto permeabile anche a appunto cambiamenti sociali appunto politici culturali
+BO143	adesso invece sta andando appunto nella direzione proprio inversa
+BO092	mh
+BO143	diciamo che la glottodidattica è comunque appunto una disciplina molto permeabile anche a appunto cambiamenti sociali appunto politici culturali
 BO092	sì
-BO143	mh
+BO092	mh
 BO143	e anche
-BO092	mh per quanto riguarda le le idee comunque sulla ricerca linguistica in generale
+BO143	mh per quanto riguarda le le idee comunque sulla ricerca linguistica in generale
 BO092	mh
 BO092	un altro diciamo dei meriti del del quadro
 BO092	appunto come documento diciamo così divulgativo e ad ampia diffusione quindi un documento che arriva nelle mani anche degli insenganti
 BO092	nelle scuole medie inferiori nelle scuole medie superiori quindi che ha
 BO092	aiuta anche a redigere poi
 BO092	eh mh i manuali
-BO143	i testi eccetera
-BO092	sì
+BO092	i testi eccetera
+BO143	sì
 BO092	che è stato quello di mettere in evidenza
 BO092	la complessità
 BO092	eh delle abilità diciamo
 BO092	linguistico comunicative e di andare oltre
 BO092	all'abilità linguistico comunicativa
 BO092	quindi di parlare in generale di
-BO143	abilità dell'apprendente
-BO092	sì
-BO143	ecco in che modo in che senso
+BO092	abilità dell'apprendente
+BO143	sì
+BO092	ecco in che modo in che senso
 BO143	beh diciamo quelle che possiamo diciamo quelle che
 BO143	possono essere considerate le competenze generali dell'apprendente sono appunto sapere saper fare saper essere saper comprendere quindi non abbiamo più appunto solo
 BO143	quelle linguistico comunicative che erano appunto lessicale grammaticale semantica fonologica ortografica ortoepica
@@ -289,7 +289,7 @@ BO143	diciamo
 BO143	viene appunto valorizzato molto anche negli ultimi tempi anche l'autonomia comunque e l'autoapprendimento quindi appunto self learning che appunto è la modalità di studio
 BO143	quindi appunto il l'apprende anche grazie appunto all'intoduzione eh del eh delle tecnologie multimediali
 BO143	eh a supporto appunto della didattica
-BO092	eh riesce appunto a gestire in maniera più autonoma comunque il proprio processo di apprendimento
+BO143	eh riesce appunto a gestire in maniera più autonoma comunque il proprio processo di apprendimento
 BO092	sì
 BO092	sì sì sì
 BO092	senti ti faccio un'ultima domanda
@@ -299,7 +299,7 @@ BO092	eh mh
 BO092	ade~ prima di farti una domanda più puntuale intanto che eh apro le slide
 BO092	eh mh parlami
 BO092	della valutazione
-BO143	nel eh processo glottodidattico
+BO092	nel eh processo glottodidattico
 BO143	sì
 BO143	allora
 BO143	eh la appunto la mh
@@ -327,14 +327,14 @@ BO143	e quindi avevamo appunto visto la differenza fra materiale autentico appun
 BO143	eh
 BO143	e poi appunto i coefficienti mh con valore appunto come ad esempio quelli della validità
 BO143	e eh l'affidabilità o fedeltà
-BO092	eh mh
+BO143	eh mh
 BO092	sì eh mh
 BO092	quando si parla diciamo di questo concetto più globale più olistico più anche recente
-BO143	di utilità del del test emerge anche una dimensione etica e sociale
+BO092	di utilità del del test emerge anche una dimensione etica e sociale
 BO143	sì
 BO143	sì
-BO092	sì sì
-BO143	ecco
+BO143	sì sì
+BO092	ecco
 BO143	nel senso che appunto sì mh il eh il il testing deve essere appunto
 BO143	valido appunto deve essere appunto pertinente
 BO143	affidabile e utile quindi nel senso il testing comunque deve
@@ -344,10 +344,10 @@ BO143	di di acquisizione deve essere comunque un modo con cui l'apprendente
 BO143	si autovaluta anche possiamo dire
 BO143	nel senso che comunque
 BO143	mh diciamo che il testing nel per quanto riguarda le conoscenze linguistiche è inevitabile proprio perché
-BO092	io devo avere una cioè devo testare le mie abilità devo avere un riscontro pratico e concreto di quello che effettivamente so fare
-BO143	mh
-BO092	però naturalmente
-BO143	però gli aspe~ gli aspetti etico-sociali del testing vanno un po' oltre cioè si riferiscono per esempio anche all'impatto
+BO143	io devo avere una cioè devo testare le mie abilità devo avere un riscontro pratico e concreto di quello che effettivamente so fare
+BO092	mh
+BO143	però naturalmente
+BO092	però gli aspe~ gli aspetti etico-sociali del testing vanno un po' oltre cioè si riferiscono per esempio anche all'impatto
 BO143	sì diciamo che la il appunto il principio olistico dell'utilità è collegato ad altri fattori che sono appunto
 BO143	l'autenticità
 BO143	l'interattività
@@ -356,17 +356,17 @@ BO143	si collega alle caratteristiche eh socio-biografiche del candidato
 BO143	l'impatto appunto sulla società sui l ca~ sui candidati apppunto sui decisori
 BO143	e per questo si parla appunto di test appunto high stake test come ad esempio il test il proficency test il test di padronanza o di certificazione
 BO143	che dipende dal contesto
-BO092	e quello invece low stake a esempio il test diagnostico che invece è dipende dal contesto
+BO143	e quello invece low stake a esempio il test diagnostico che invece è dipende dal contesto
 BO092	mh
-BO143	mh mh
+BO092	mh mh
 BO143	e eh la fattibilità ossia appunto le concrete opportunità di finanziamento di gestione di amministrazione perché poi naturalmente ci sono tutta una serie di
-BO092	comunque componenti burocratiche e pre~ più molto più pratiche da tenere in considerazione naturalmente
-BO143	mh
-BO092	anche per quanto riguarda appunto il numero dei candi
+BO143	comunque componenti burocratiche e pre~ più molto più pratiche da tenere in considerazione naturalmente
+BO092	mh
+BO143	anche per quanto riguarda appunto il numero dei candi
 BO092	ma
-BO143	prima hai menzionato gli aspetti diciamo le caratteristiche socio-iografiche dei candidati nel test
-BO092	sì
-BO143	ecco perché le hai menzionate
+BO092	prima hai menzionato gli aspetti diciamo le caratteristiche socio-iografiche dei candidati nel test
+BO143	sì
+BO092	ecco perché le hai menzionate
 BO143	beh perché comnque
 BO143	sono fattori da tenere assolutamente in considerazione
 BO143	le caratteristiche socio-biografiche dei candidati
@@ -377,10 +377,10 @@ BO143	documenti come il portfo~ il eh portfolio appunto europeo per le lingue
 BO143	che appunto comprende
 BO143	eh la biografia
 BO143	il dossier appunto e il passaporto quindi
-BO092	che era xxxxxx diciamo di carta d'identità linguistica dell'apprendente
-BO143	mh mh mh mh
+BO143	che era xxxxxx diciamo di carta d'identità linguistica dell'apprendente
+BO092	mh mh mh mh
 BO143	e poi ci sono appunto altri fattori appunto a esempio appunto anche l'età
-BO092	perché che è una variabile appunto imprescindibile non solo per lo sviluppo neurologico ma anche per altre ipotesi
+BO143	perché che è una variabile appunto imprescindibile non solo per lo sviluppo neurologico ma anche per altre ipotesi
 BO092	sì
 BO092	sì sì
 BO092	va bene
@@ -393,10 +393,10 @@ BO092	la tesina è scritta abbstanza bene abbastanza approfondita
 BO092	però è piena di eh
 BO092	mh diciamo errori di punteggiatura
 BO092	di di forma di
-BO143	eh mh non so se per~ forse è una delle prime tesine che scrivi quindi non ti sono non ti sono mai state corrette
+BO092	eh mh non so se per~ forse è una delle prime tesine che scrivi quindi non ti sono non ti sono mai state corrette
 BO143	eh s
 BO143	sì mh
-BO092	sì non non ho non ho scritto molte tesine in effetti non non mi è mai capitato devo dire prima
+BO143	sì non non ho non ho scritto molte tesine in effetti non non mi è mai capitato devo dire prima
 BO092	perché
 BO092	eh
 BO092	perché per esempio lasci spesso uno o due spazi tra la parola e i due punti
@@ -406,54 +406,54 @@ BO092	uno spazio o due dopo la l'articolo con l'apostrofo
 BO092	prima della parola successiva
 BO092	eh mh
 BO092	le virgolette metti la virgoletta in apertura
-BO143	e lasci lo spazio e poi metti la virgole~ aspetta te li ho segnati xxxxx
-BO092	ah okay sì
-BO143	metti la virgoletta vedi così in chiusura
+BO092	e lasci lo spazio e poi metti la virgole~ aspetta te li ho segnati xxxxx
+BO143	ah okay sì
+BO092	metti la virgoletta vedi così in chiusura
 BO143	sì sì sì sì
-BO092	sì
+BO143	sì
 BO092	poi lasci lo spazio prima dei due punti lasci più spazi tra le parentesi
 BO092	eh quilasci lo spazio e qui no
-BO143	lo spazio prima della virgola non so come mai
+BO092	lo spazio prima della virgola non so come mai
 BO143	sì
-BO092	sì no mi dispiace non non sono molto pratica neanche del mie eh lo so mi dispiace
-BO143	eh no ma sono cose molto importanti
-BO092	no starò insomma più attenta sicuramente per le prossime occasioni
+BO143	sì no mi dispiace non non sono molto pratica neanche del mie eh lo so mi dispiace
+BO092	eh no ma sono cose molto importanti
+BO143	no starò insomma più attenta sicuramente per le prossime occasioni
 BO092	eh
 BO092	poi vabbè diciamo leggevo ieri su mh
 BO092	diciamo ma ma bensì o ma però è tollerato
 BO092	eh però in realtà è
 BO092	mh è tollerato ma
-BO143	mh se è possibile evitare l'utilizzo doppio del eh delle congiunzioni avversative è meglio farlo
-BO092	okay
+BO092	mh se è possibile evitare l'utilizzo doppio del eh delle congiunzioni avversative è meglio farlo
+BO143	okay
 BO092	e s~ poi soprattutto nei testi scritti
-BO143	eh sì anche qui
-BO092	ah okay sì
+BO092	eh sì anche qui
+BO143	ah okay sì
 BO092	okay no i riferimenti bibliograci vanno bene la bibliografia mi sembra formalmente corretta
 BO092	riguardo un attimo
-BO143	sì vedi qua per esempio hai lasciato due spazi e qui ne hai lasciato uno
-BO092	ah okay
+BO092	sì vedi qua per esempio hai lasciato due spazi e qui ne hai lasciato uno
+BO143	ah okay
 BO092	diventa anche difficile da leggere perché non si capisce se questo si riferisce
-BO143	cioè
-BO092	sì sì sì sì sì ho capito
+BO092	cioè
+BO143	sì sì sì sì sì ho capito
 BO092	no per il resto era standardizzata bene
-BO143	fai la triennale
-BO092	sì
+BO092	fai la triennale
+BO143	sì
 BO092	triennale
-BO143	okay senti io allora per questa parte ti do la parte che di questa parte di esame ti do ventotto
-BO092	grazie
-BO143	e poi vai allo studio centoventiquattro a fare l'altra parte dell'esame
-BO092	okay
-BO143	adesso un attimo solo che mi appunto
-BO092	sì
-BO143	le domande che ti ho fatto
-BO092	eh lo studio centoventiquattro è
-BO143	dovrebbe essere al primo piano
-BO092	okay
+BO092	okay senti io allora per questa parte ti do la parte che di questa parte di esame ti do ventotto
+BO143	grazie
+BO092	e poi vai allo studio centoventiquattro a fare l'altra parte dell'esame
+BO143	okay
+BO092	adesso un attimo solo che mi appunto
+BO143	sì
+BO092	le domande che ti ho fatto
+BO143	eh lo studio centoventiquattro è
+BO092	dovrebbe essere al primo piano
+BO143	okay
 BO092	sì
 BO092	eh mh
 BO092	bene
-BO143	allora in bocca al lupo per la prossima parte dell'esame
+BO092	allora in bocca al lupo per la prossima parte dell'esame
 BO143	grazie
-BO092	crepi grazie
-BO143	arrivederci
+BO143	crepi grazie
+BO092	arrivederci
 BO143	arrivederci

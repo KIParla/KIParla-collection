@@ -1,5 +1,5 @@
 TO999	<allora:::> carla ti chiedo,
-TO083	come è fatta casa tua.
+TO999	come è fatta casa tua.
 TO083	come è fatta casa mia, allora i miei sono divorziati quindi ti descrivo casa di mia madre va bene?
 TO083	è: al primo piano.
 TO083	l'entrata è piuttosto losca.
@@ -15,36 +15,36 @@ TO083	e::h=mh lievemente etnica.
 TO083	ma lievemente.
 TO083	e::h=m:h po:i: ci: sono,
 TO083	il mare non si vede ma si intravede un pezzettino piccolo piccolo che lascia intravedere la possibilità del mare.
-TO999	[e: quindi],
-TO083	[il mare lo] si vede perché sei di?
-TO999	sono di @nomepaese.
-TO083	ah o[kay].
+TO083	[e: quindi],
+TO999	[il mare lo] si vede perché sei di?
+TO083	sono di @nomepaese.
+TO999	ah o[kay].
 TO083	[cioè] se ne vede u:na strisciolina minuscola non posso dire che sia vista mare,
 TO083	però,
 TO083	ti lascia intravedere la possibilità di mare quindi c'è un'idea di apertura,
 TO083	e: poi c'è la stanza da letto di mia madre,
 TO083	la stanza da letto di mia sorella,
-TO999	e un bagnetto.
+TO083	e un bagnetto.
 TO999	okay.
-TO083	e::: come mai dici etnica?
+TO999	e::: come mai dici etnica?
 TO083	e:tnica perché: da qualche viaggio dei miei tipo in cambogia in tailandia abbiam portato magari::=m:h=un tappeto appeso al muro: oppure un quadro,
-TO999	qualche piccolo elemento ma non è troppo.
+TO083	qualche piccolo elemento ma non è troppo.
 TO999	okay.
-TO083	e ti piace quella casa?
+TO999	e ti piace quella casa?
 TO083	molto.
 TO083	molto purtroppo è in affitto quindi l'anno prossimo cambierà però sì.
-TO999	mi piace molto.
-TO083	ma:=m:h hai sempre: vissuto nella stanza da sola quindi sei abituata ad avere una tua stanz[a con le tue cose],
-TO999	[no in realtà] io ho sempre abitato a casa di mio padre.
-TO083	mhmh,
+TO083	mi piace molto.
+TO999	ma:=m:h hai sempre: vissuto nella stanza da sola quindi sei abituata ad avere una tua stanz[a con le tue cose],
+TO083	[no in realtà] io ho sempre abitato a casa di mio padre.
+TO999	mhmh,
 TO083	per questioni: (.) diplomatiche:,
 TO083	e::h conseguenti al divorzio però:: a casa di mia madre non ho una camera mia cioè c'è camera di mia sorella e io dormo lì.
-TO999	o con mia sorella o nel lettone con mia madre a seconda.
-TO083	ho capito. e la tua stanza quindi come è fatta?
+TO083	o con mia sorella o nel lettone con mia madre a seconda.
+TO999	ho capito. e la tua stanza quindi come è fatta?
 TO083	la mia a casa di mio padre,
 TO083	si vede il mare.
-TO999	è piuttosto etnica perché ai tempi ero molto presa bene.
-TO083	mhmh,
+TO083	è piuttosto etnica perché ai tempi ero molto presa bene.
+TO999	mhmh,
 TO083	e::h=m::h c'è u:n letto,
 TO083	con un copriletto che avevano con mhmh,
 TO083	un copriletto fatto della stoffa,
@@ -52,40 +52,40 @@ TO083	che avevano comprato i miei genitori vent'anni fa in viaggio di nozze in t
 TO083	molto molto bella blu e rossa.
 TO083	poi c'è una scrivania di legno,
 TO083	appeso al muro un tappeto,
-TO999	un armadio bianco sempre incasinato ed è sempre molto disordinata.
+TO083	un armadio bianco sempre incasinato ed è sempre molto disordinata.
 TO999	okay,
 TO999	e:: qual è la tua stanza preferita della casa?
-TO083	come tipo di ambiente non [m:h specif]ico su casa tua.
+TO999	come tipo di ambiente non [m:h specif]ico su casa tua.
 TO083	[e::h],
-TO999	la cucina perché si mangia.
+TO083	la cucina perché si mangia.
 TO999	okay,
-TO083	e quindi cosa deve avere per te una cucina: cioè [quali xx],
-TO999	[la luce],
-TO083	okay,
+TO999	e quindi cosa deve avere per te una cucina: cioè [quali xx],
+TO083	[la luce],
+TO999	okay,
 TO083	e:: il bollitore,
 TO083	perché: mi sfondo di tisane.
 TO083	e:::h,
-TO999	basta.
+TO083	basta.
 TO999	e (.) okay.
-TO083	quindi tu hai sempre vissuto a @nomepaese? non vivi a torino,
-TO999	no non è vero m:::h adesso a~ abito a torino solo c[he ho] cambiato tante case da studentessa quindi non ho un,
+TO999	quindi tu hai sempre vissuto a @nomepaese? non vivi a torino,
+TO083	no non è vero m:::h adesso a~ abito a torino solo c[he ho] cambiato tante case da studentessa quindi non ho un,
 TO999	[ah].
-TO083	ah okay e parlami un po' delle case dove hai vissuto [xx xx xxnte].
+TO999	ah okay e parlami un po' delle case dove hai vissuto [xx xx xxnte].
 TO083	[le case dove ho vissuto],
 TO083	allora,
 TO083	e: il primo anno,
 TO083	a torino ho vissuto in casa,
-TO999	e::h co:n m:h mh eh due ragazze di cu[neo che] erano due universitarie sorelle,
-TO083	[mhmh],
-TO999	loro erano le proprietarie della casa e mi affittavano una [camera].
-TO083	[mhmh],
+TO083	e::h co:n m:h mh eh due ragazze di cu[neo che] erano due universitarie sorelle,
+TO999	[mhmh],
+TO083	loro erano le proprietarie della casa e mi affittavano una [camera].
+TO999	[mhmh],
 TO083	la camera era già arredata con quadri di anne geddes abbastanza insopportabili.
-TO999	però: io vabbè,
-TO083	ma chi è quella dei bambi[ni]?
+TO083	però: io vabbè,
+TO999	ma chi è quella dei bambi[ni]?
 TO083	[s]ì quella dei bambini.
 TO083	era verde shocking co:n con=mh ste:: le mh questi bambini appesi,
-TO999	cioè cose che io non avrei scelto mai nella vita.
-TO083	beh,
+TO083	cioè cose che io non avrei scelto mai nella vita.
+TO999	beh,
 TO083	però però mi ero affezionata poi anche perché era la mia prima camera da universitaria quindi,
 TO083	mi emozionava l'idea.
 TO083	un materasso <scomossimo> una roba proprio illegale.
@@ -93,13 +93,13 @@ TO083	e::h=mh,
 TO083	ma quella casa in realtà ero stat~ cioè benissimo anche perché era il primo anno ero molto timida poi ripensandoci,
 TO083	per essere che comunque pagavo l'affitto della camera mi sentivo molto ospite.
 TO083	cioè: quando invitavo il fidanzato,
-TO999	mi veniva sempre da chiedere il permesso quasi come se lo chiedessi a dei genitori per il fatto che loro [erano] le proprietarie poi erano sorelle quindi mi sentivo sempre un po'
-TO083	[certo].
+TO083	mi veniva sempre da chiedere il permesso quasi come se lo chiedessi a dei genitori per il fatto che loro [erano] le proprietarie poi erano sorelle quindi mi sentivo sempre un po'
+TO999	[certo].
 TO083	poi invece il secondo anno,
 TO083	ero andata a vivere in una casa che ho amato alla follia,
 TO083	in corso regina,
-TO999	co:n la sorella del mio ex fidanzato.
-TO083	okay.
+TO083	co:n la sorella del mio ex fidanzato.
+TO999	okay.
 TO083	eravamo in due,
 TO083	c'e:ra:,
 TO083	e::h=mh la sala,
@@ -107,24 +107,24 @@ TO083	poi camera mia tutta gialla bella molto allegra.
 TO083	molto luminosa con un piccolo balcone,
 TO083	e poi la cosa che mi piaceva più di tutti,
 TO083	la sala,
-TO999	aveva un balconcino che dava sul cortile interno,
-TO083	mhmh,
+TO083	aveva un balconcino che dava sul cortile interno,
+TO999	mhmh,
 TO083	e io sono un'appassionata dei cortili interni perché mi piace::,
 TO083	quel sapore tipo di italianità che c'è quando senti:,
 TO083	i rumore dei piatti all'ora di pranzo dalle altre case,
-TO999	o magari senti la gente che litiga mi mette:,
-TO083	((ride))
-TO999	non so mi piace.
-TO083	certo certo.
+TO083	o magari senti la gente che litiga mi mette:,
+TO999	((ride))
+TO083	non so mi piace.
+TO999	certo certo.
 TO083	e::h e noi mangiavamo spesso d'estate su quel balconcino che in realtà era brutto e oggettivamente però io ero affezionata molto.
-TO999	e poi adesso abito da mia nonna è molto triste la cosa.
+TO083	e poi adesso abito da mia nonna è molto triste la cosa.
 TO999	capito.
-TO083	e sei lì tutt[o:::],
-TO999	[tutto perfetto] tutto ordinatissimo tutto bello però no non [mi sento a casa].
-TO083	[hai una tua stanza l]ì?
+TO999	e sei lì tutt[o:::],
+TO083	[tutto perfetto] tutto ordinatissimo tutto bello però no non [mi sento a casa].
+TO999	[hai una tua stanza l]ì?
 TO083	sì ho una mia stanza però non la sento camera mia cioè,
-TO999	è un posto dove posso dormire nessuno mi disturba però no:n non è camera mia.
-TO083	certo. e il posto più bello in cui hai vissuto?
+TO083	è un posto dove posso dormire nessuno mi disturba però no:n non è camera mia.
+TO999	certo. e il posto più bello in cui hai vissuto?
 TO083	e::h la casa:: dove abitavo: coi miei genitori quando eravamo::: prima del divorzio.
 TO083	era un appartamento,
 TO083	all'ultimo piano,
@@ -134,19 +134,19 @@ TO083	su tutta la città si vedeva il mare,
 TO083	poi essendo che @nomepaese è in collina da quasi tutte le case in realtà c'è una bella vista ma quella in particolare c'era un terrazzo,
 TO083	mangiavamo sempre sul terrazzo:,
 TO083	e mi ricordo proprio,
-TO999	la <luce> di quella casa le atmosfere per~ mh,
-TO083	(ti) [piace la liguria]?
+TO083	la <luce> di quella casa le atmosfere per~ mh,
+TO999	(ti) [piace la liguria]?
 TO083	[in realtà: sì].
 TO083	tanto.
 TO083	tanto.
 TO083	non mi piacciono i liguri,
-TO999	però mi piace la liguria.
-TO083	perché non ti piacciono?
+TO083	però mi piace la liguria.
+TO999	perché non ti piacciono?
 TO083	perché sono <chiusi> gli imperiesi son tremendi sono chiusi è quasi impossibile fare amicizia oppure,
 TO083	immettere qualcuno di nuovo nel gruppo.
 TO083	e:h=mh,
-TO999	hanno l'accento più noioso del mondo,
-TO083	((ride)) perché?
+TO083	hanno l'accento più noioso del mondo,
+TO999	((ride)) perché?
 TO083	sono di @nomepaese.
 TO083	na na na na na.
 TO083	poi cioè uno può essere anche il più brillante battutista della storia ma se ha l'accento ligure non può funziona~ cioè l'accento imperiese: sì smorza tutto.
@@ -155,57 +155,57 @@ TO083	e::h=m::h,
 TO083	però però la liguria è <magnifica> cioè propr~ forse,
 TO083	è una delle regioni più belle d'italia.
 TO083	dopo la sicilia.
-TO999	°per me.°
+TO083	°per me.°
 TO999	okay.
-TO083	senti ma e::: invece parlando di:: torino quindi hai vissuto in un po' di zone:: diverse. qual è quella che ti è piaciuta di più?
-TO999	beh la zona vanchiglia dell'università.
-TO083	mhmh,
+TO999	senti ma e::: invece parlando di:: torino quindi hai vissuto in un po' di zone:: diverse. qual è quella che ti è piaciuta di più?
+TO083	beh la zona vanchiglia dell'università.
+TO999	mhmh,
 TO083	se potessi comprarmi una casa a torino me la comprerei in vanchiglia senza dubbio (.) perché,
 TO083	e::h è vicinissima al centro però i prezzi delle cose tipo supermercati:: cibo eccetera,
 TO083	non è esagerato.
 TO083	è allegra: son tutti giovani,
 TO083	comodissima coi mezzi.
-TO999	meravigliosa.
-TO083	ti piace il fatto che sia una zona <viva:> dove c'è movimen[to],
+TO083	meravigliosa.
+TO999	ti piace il fatto che sia una zona <viva:> dove c'è movimen[to],
 TO083	[s]ì a~ io adoro torino per questo motivo anche perché appunto venendo da: la liguria in cui l'età media è novantacinque anni,
 TO083	e:h cioè qua è un'altra cosa.
 TO083	cioè all'inizio ero proprio emozionata cioè andare in giro (.) e vedere dei giovani,
-TO999	proprio,
-TO083	((ride))
+TO083	proprio,
+TO999	((ride))
 TO083	mh mi emoziona~ cioè non ero abitua~ era sconcer~ cioè (.) a @nomepaese davvero se tu prendi l'autobus e trovi uno della tua età,
 TO083	lo guardi come se fosse una bestia rara tipo hey,
-TO999	anche tu su questo pianeta.
+TO083	anche tu su questo pianeta.
 TO999	okay,
-TO083	quindi vi conoscete tutti diciamo quell[i più o meno della stessa: generazione].
+TO999	quindi vi conoscete tutti diciamo quell[i più o meno della stessa: generazione].
 TO083	[sì abbastanza sì abbastanza POI i]n realtà tipo della mia generazione adesso,
 TO083	non ce n'è a @nomepaese perché sono tutti sparsi all'università::,
 TO083	o: comunque a cercare lavoro da altre parti mediamente quindi,
-TO999	e:h a @nomepaese non c'è la popolazione dai diciotto ai venticinque.
+TO083	e:h a @nomepaese non c'è la popolazione dai diciotto ai venticinque.
 TO999	ho capito.
 TO999	e:h l'episodio più buffo che ti è capitato da quando vivi a torino?
-TO083	più buffo [più strano più]::,
+TO999	più buffo [più strano più]::,
 TO083	[o santo cielo].
-TO999	questa è una domanda difficile.
+TO083	questa è una domanda difficile.
 TO999	ma un episodio che ti è rimasto impresso una storia un po': bella diciamo xx,
-TO083	che ti ricordi. ((ride))
+TO999	che ti ricordi. ((ride))
 TO083	o:ddio mi cogli impreparata aspetta.
 TO083	e::h,
 TO083	oddio non l~ non lo so.
-TO999	difficile eh,
-TO083	quindi non ti succede niente [di particolare],
+TO083	difficile eh,
+TO999	quindi non ti succede niente [di particolare],
 TO083	[NO NO m]e ne succede in continuazione per non adesso detto così.
-TO999	e:h=mh,
+TO083	e:h=mh,
 TO999	non so situazioni di coinquilinaggio un po'::,
-TO083	così st[rane imbarazz~]
+TO999	così st[rane imbarazz~]
 TO083	[a:::h sì]:: o:h sì no ma non è un episodio buffo è stata una tragedia per me.
 TO083	allora,
 TO083	la mia:: ex coinquilina che era la fidanzata del mio,
 TO083	ex fidanzato,
-TO999	no no:n la fidanzata la sorella del mio ex fidanzato.
-TO083	la tua ex coinquilina che era la sorella del tuo ex fidanzato.
+TO083	no no:n la fidanzata la sorella del mio ex fidanzato.
+TO999	la tua ex coinquilina che era la sorella del tuo ex fidanzato.
 TO083	okay.
-TO999	era una super appassionata di gatti.
-TO083	mh.
+TO083	era una super appassionata di gatti.
+TO999	mh.
 TO083	quando siamo andate a vivere insieme io le ho detto guarda,
 TO083	io posso veni~ guarda giuli posso venire ad abitare con te,
 TO083	però io ho paura dei gatti quindi niente gatti se tu vuoi gatti,
@@ -227,10 +227,10 @@ TO083	e (.) visto che lei aveva il fidanzato a milano ai tempi,
 TO083	il weekend andava via e un weekend mi chiede se me lo può lasciare.
 TO083	io le dico di sì,
 TO083	tra l'altro (.) ero terrorizzata perché non avevo mai accurdito un animale manco un pesce rosso.
-TO999	mia madre l'unico animale che ha mai avuto nella sua vita è stato un pesce rosso è riuscita a bollirlo nell'acqua bollente pre~ per sbaglio mentre gli cambiava l'acqua,
-TO083	((ride))
-TO999	forse lì sarebbe l'episodio buffo.
-TO083	((ride))
+TO083	mia madre l'unico animale che ha mai avuto nella sua vita è stato un pesce rosso è riuscita a bollirlo nell'acqua bollente pre~ per sbaglio mentre gli cambiava l'acqua,
+TO999	((ride))
+TO083	forse lì sarebbe l'episodio buffo.
+TO999	((ride))
 TO083	buffo anche lì vabbè. ((ride))
 TO083	e::h=mh insomma avevamo sto gatto,
 TO083	e:,
@@ -248,8 +248,8 @@ TO083	ah io avevo lasciato aperta,
 TO083	la mia fine~ la mia porta finestra che da~ di camera mia,
 TO083	e avevo il dubbio di aver lasciato socchiusa,
 TO083	la: (.) <porta> di camera mia,
-TO999	e quindi che questo gatto fosse uscito dalla finestra era una roba impossibile conoscendo gli ani~ cioè (.) chiunque abbia un gatto ti [dice] che è impossibile.
-TO083	[mh],
+TO083	e quindi che questo gatto fosse uscito dalla finestra era una roba impossibile conoscendo gli ani~ cioè (.) chiunque abbia un gatto ti [dice] che è impossibile.
+TO999	[mh],
 TO083	però a me mi è venuta questa paranoia.
 TO083	perché mi sono messa a cercare sto gatto in casa lo cerco tra l'altro ho invitato anche una mia amica per cercarlo tipo pe::r,
 TO083	tre ore,
@@ -265,8 +265,8 @@ TO083	che dice,
 TO083	e:h=mh,
 TO083	aspetta adesso non mi ricordo testuali parole una roba tipo:,
 TO083	e:h=mh,
-TO999	[brutta str~]
-TO083	[che era la madre del tuo] fidan[zato]?
+TO083	[brutta str~]
+TO999	[che era la madre del tuo] fidan[zato]?
 TO083	[sì].
 TO083	brutta schifosa irresponsabile,
 TO083	poveri (.) i bambini.
@@ -274,10 +274,10 @@ TO083	i~ si~ intendendo gli eventuali flgli che avremmo avuto <io e suo figlio> 
 TO083	io crisi totale eccetera,
 TO083	poi ass~ faccio tutti i biglietti:: e:h=a:ppendo per tutta torino i biglietti con scrit~ e::h perso un gattino di nome dori bla bla bla,
 TO083	e poi alla fine,
-TO999	è venuto eh il mio: (.) quello che allora era già il mio ex fidanzato,
-TO083	ma perché [xxx],
-TO999	[che però eravam] rimasti amici.
-TO083	okay.
+TO083	è venuto eh il mio: (.) quello che allora era già il mio ex fidanzato,
+TO999	ma perché [xxx],
+TO083	[che però eravam] rimasti amici.
+TO999	okay.
 TO083	sì.
 TO083	è venuto anche lui a cercarlo in casa,
 TO083	e lo trova <nascosto> dentro il divano,
@@ -286,29 +286,29 @@ TO083	e nonostante io l'avessi chiamato per ore ore ore avessi(mo) assoldato una
 TO083	non >(l'avevam)< trovato. e quindi poi: è stato una storia a lieto fine.
 TO083	però:: cioè: mh e~ era stato una trage~ sì cioè nel senso non mi son mai sentita così accusata (.) giulia che mi dice,
 TO083	e::h=muori per me sei morta e:h=m:::h=insulti alla famiglia cioè delle robe:,
-TO999	pazzesche qu[esto è],
-TO083	[non siete] più rimasti amici poi?
+TO083	pazzesche qu[esto è],
+TO999	[non siete] più rimasti amici poi?
 TO083	allora per mesi no. cioè nel senso sono stati dei mesi di grossa tensione in casa.
 TO083	di: cioè: no all'inizio litigio non ci siam più parlate,
 TO083	e poi: abbiamo fatto pace e poi in realtà adesso siamo in buoni rapporti.
-TO999	((ride))
 TO083	((ride))
-TO999	però: (.) mh il terr~ mi ricordo il terrore di quella notte proprio.
 TO999	((ride))
-TO083	cioè vabbè rido perché è finita bene però cazzo immagino,
+TO083	però: (.) mh il terr~ mi ricordo il terrore di quella notte proprio.
+TO999	((ride))
+TO999	cioè vabbè rido perché è finita bene però cazzo immagino,
 TO083	se no finivo impiccata.
-TO999	penzolante in un albero di cors[o regina].
-TO083	[(no) io avrei fa]tto le valigie e me ne sarei andata.
-TO999	((ride))
-TO083	(a parte che),
-TO999	eh no ma la casa era quella che adoravo: che ho detto.
-TO083	cert[o].
-TO999	[co]n la camera gialla.
+TO083	penzolante in un albero di cors[o regina].
+TO999	[(no) io avrei fa]tto le valigie e me ne sarei andata.
+TO083	((ride))
+TO999	(a parte che),
+TO083	eh no ma la casa era quella che adoravo: che ho detto.
+TO999	cert[o].
+TO083	[co]n la camera gialla.
 TO999	io l'unica volta che ho vissuto con un animale ero,
-TO083	a gibilterra cioè anzi in [spagna].
-TO999	[era una sci]mmia,
-TO083	no no no era un cagnolino grosso così che puzzava come un camion dell'immondizia (.) ma piccolo così puzzava da schifo proprio.
-TO999	((ride))
+TO999	a gibilterra cioè anzi in [spagna].
+TO083	[era una sci]mmia,
+TO999	no no no era un cagnolino grosso così che puzzava come un camion dell'immondizia (.) ma piccolo così puzzava da schifo proprio.
+TO083	((ride))
 TO999	e::: niente <praticamente:> era l'unica compagnia del mio coinquilino che era un signore di,
 TO999	avrà avuto quarant'anni all'epoca.
 TO999	e:: e niente.
@@ -319,103 +319,103 @@ TO999	°adesso è tranquilla la cosa.°
 TO999	fa te lo lascio qua,
 TO999	basta che::: niente quando tu vuoi andare via la chiudi in balcone gli dici UP e lei sale su.
 TO999	la chiamo,
-TO083	manco per il cazzo si muove questa.
-TO999	((ride))
+TO999	manco per il cazzo si muove questa.
+TO083	((ride))
 TO999	((ride)) allora l'ho dovuta fregare in qualche modo, ((ride))
-TO083	però sì è un casino se non sai vivere con gli anim[ali].
-TO999	[eh no] quando non sei abituato:,
-TO083	quindi non ne prenderesti in una ipo[tetic]a tua casa.
+TO999	però sì è un casino se non sai vivere con gli anim[ali].
+TO083	[eh no] quando non sei abituato:,
+TO999	quindi non ne prenderesti in una ipo[tetic]a tua casa.
 TO083	[no].
 TO083	mai.
-TO999	mai io tra l'altro ho anche paura dei cani il mio fidanzato vorrebbe u:n canelupo cecoslovacco pensa un po'.
-TO083	(però occhio che) costa il lupo cecoslovacco. ((ride))
+TO083	mai io tra l'altro ho anche paura dei cani il mio fidanzato vorrebbe u:n canelupo cecoslovacco pensa un po'.
+TO999	(però occhio che) costa il lupo cecoslovacco. ((ride))
 TO083	sì infatti.
 TO083	per fortuna costa.
-TO999	poi non abbiamo una casa °ancora quindi,°
-TO083	e::: avete progetto di andare a convivere?
+TO083	poi non abbiamo una casa °ancora quindi,°
+TO999	e::: avete progetto di andare a convivere?
 TO083	sì.
-TO999	[l'an~]
-TO083	[dov]e vorreste andare?
+TO083	[l'an~]
+TO999	[dov]e vorreste andare?
 TO083	e bah adesso lui abita a genova,
 TO083	non so magari l'anno prossimo io vado a vivere a genova.
 TO083	se no in futuro solo che:,
-TO999	col lavoro che vorremmo fare non c'è mai una stabilità quindi,
-TO083	la stabilità non c'è mai punto. ((ride)) [è una cosa che a un certo punto],
-TO999	[sì però insomma in particola]:re,
-TO083	no no sì sì però cioè (.) se ti senti di farlo lo fai e basta.
-TO999	no comunque sì vorremmo andare a convivere: eh e da una parte o dall'altra.
-TO083	che bella cosa ma state già cercando?
+TO083	col lavoro che vorremmo fare non c'è mai una stabilità quindi,
+TO999	la stabilità non c'è mai punto. ((ride)) [è una cosa che a un certo punto],
+TO083	[sì però insomma in particola]:re,
+TO999	no no sì sì però cioè (.) se ti senti di farlo lo fai e basta.
+TO083	no comunque sì vorremmo andare a convivere: eh e da una parte o dall'altra.
+TO999	che bella cosa ma state già cercando?
 TO083	m::h no. no però:: adesso lui sta in una casa a genova dove abita <in una:> camera con un matrimoniale quindi,
 TO083	se andassi a vivere l'anno prossimo andrei vivere:,
-TO999	da lui.
-TO083	ma lui è anche attore?
+TO083	da lui.
+TO999	ma lui è anche attore?
 TO083	sì.
-TO999	più di me. ((ride))
-TO083	più di te perché?
-TO999	chè è più bravo.
-TO083	m:h non lo so ((ride)) cioè anche se io lo sapessi non lo saprei dire quindi,
-TO999	((ride))
+TO083	più di me. ((ride))
+TO999	più di te perché?
+TO083	chè è più bravo.
+TO999	m:h non lo so ((ride)) cioè anche se io lo sapessi non lo saprei dire quindi,
+TO083	((ride))
 TO999	e::h,
-TO083	senti e quindi la tua casa ideale come sarebbe cioè proprio (.) da: zo:na citt[à: come è f]atta dentro alle stan~ tutto.
+TO999	senti e quindi la tua casa ideale come sarebbe cioè proprio (.) da: zo:na citt[à: come è f]atta dentro alle stan~ tutto.
 TO083	[mhmh],
-TO999	praticamente è un'intervista per una rivista di architettura.
+TO083	praticamente è un'intervista per una rivista di architettura.
 TO999	sì.
-TO083	praticamente sì.
+TO999	praticamente sì.
 TO083	okay la mia casa ideale è così.
-TO999	vista mar~ allora sulla spiaggia.
-TO083	mh,
-TO999	enormi finestre,
-TO083	mh,
+TO083	vista mar~ allora sulla spiaggia.
+TO999	mh,
+TO083	enormi finestre,
+TO999	mh,
 TO083	tende bianche,
 TO083	che svolazzano col vento,
 TO083	e:: parquet.
 TO083	mobili:,
-TO999	prevalentemente di legno.
-TO083	mh,
-TO999	però:: leggero: no::n non tipo i mobiloni di legno anti~ cioè:=mh capito?
-TO083	sì sì sì.
+TO083	prevalentemente di legno.
+TO999	mh,
+TO083	però:: leggero: no::n non tipo i mobiloni di legno anti~ cioè:=mh capito?
+TO999	sì sì sì.
 TO083	e::h legno un po' rustico:: chiaro così,
 TO083	e::h=mh,
 TO083	non troppo piena di mobili,
 TO083	ogni tanto qualcosa di colorato preferirei,
-TO999	<preferibilmente> rosso.
-TO083	mhmh,
-TO999	e::h il giardino non ce n'è bisogno però m:h un terrazzo mi farebbe piacere.
-TO083	okay.
-TO999	non troppo grande.
-TO083	senza animali.
-TO999	no animale.
-TO083	((ride))
-TO999	piante solo grasse.
+TO083	<preferibilmente> rosso.
+TO999	mhmh,
+TO083	e::h il giardino non ce n'è bisogno però m:h un terrazzo mi farebbe piacere.
 TO999	okay.
-TO083	perché non hai il pollice verde.
-TO083	eh no temo proprio di no.
+TO083	non troppo grande.
+TO999	senza animali.
+TO083	no animale.
 TO999	((ride))
+TO083	piante solo grasse.
+TO999	okay.
+TO999	perché non hai il pollice verde.
+TO083	eh no temo proprio di no.
+TO083	((ride))
 TO999	((ride))
 TO999	<okay>,
 TO999	e:::h boh (la) possiamo chiudere qui ah no aspetta allora ti chiedo delle cose che non c'entrano niente con questo però così evito di scriverle,
-TO083	e:: allora carla quanti anni hai?
-TO999	ventitré.
-TO083	la tua prima occupazione?
+TO999	e:: allora carla quanti anni hai?
+TO083	ventitré.
+TO999	la tua prima occupazione?
 TO083	oddio e:::,
 TO083	ten~ (.) non lo so.
 TO083	studentessa.
-TO999	((ride)) [studentessa] di filosofia studentessa di recitazione.
+TO083	((ride)) [studentessa] di filosofia studentessa di recitazione.
 TO999	[la seconda]?
 TO999	okay.
-TO083	e::: quindi studentessa e attrice,
-TO999	sì.
-TO083	possiamo dire?
-TO999	diciamolo.
+TO999	e::: quindi studentessa e attrice,
+TO083	sì.
+TO999	possiamo dire?
+TO083	diciamolo.
 TO999	okay.
-TO083	e::h=m::h dove hai fatto le: dove sei nata?
-TO999	sono nata a @nomepaese.
-TO083	dove hai fatto le superiori?
-TO999	@nomepaese.
-TO083	quante lingue parli?
+TO999	e::h=m::h dove hai fatto le: dove sei nata?
+TO083	sono nata a @nomepaese.
+TO999	dove hai fatto le superiori?
+TO083	@nomepaese.
+TO999	quante lingue parli?
 TO083	parlo inglese francese e poco tedesco.
-TO999	molto poco.
-TO083	dialetto ligure no?
+TO083	molto poco.
+TO999	dialetto ligure no?
 TO083	no.
-TO999	zero. eh ma i miei non sono @abitantipaese.
+TO083	zero. eh ma i miei non sono @abitantipaese.
 TO999	okay va bene allora.

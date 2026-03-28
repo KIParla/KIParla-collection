@@ -1,631 +1,593 @@
-TOR001	per disturbarvi
-TOI001	ma io cioè per me figurati
-TOR001	sto tranquillo
-TOR002	okay
-TOR001	sì
-TOI001	ho xxxxxxx
-TOR001	scopone
-TOR002	
-TOI001	
-TOR001	a scopone ed esco con sette come prima carta
-TOI001	così
-TOR001	a sfregio
+TOI001	per disturbarvi
+TOR001	ma io cioè per me figurati
+TOI001	sto tranquillo
+TOR001	okay
+TOR002	sì
+TOR001	ho xxxxxxx
+TOI001	scopone
+TOI001	a scopone ed esco con sette come prima carta
+TOR001	così
+TOI001	a sfregio
 TOR001	bene
 TOR001	va bene
-TOR002	ah okay
+TOR001	ah okay
 TOR002	se devi fare le ignorantate le faccio anch'io
-TOR001	
-TOI001	dai
-TOR001	quanti ne vuoi c'ho il mazzo pieno
-TOI015	che lavoro fai
-TOR001	magazziniere
-TOI015	okay da quanto tempo
-TOR001	da sei anni
+TOR001	dai
+TOI001	quanti ne vuoi c'ho il mazzo pieno
+TOR001	che lavoro fai
+TOI015	magazziniere
+TOR001	okay da quanto tempo
+TOI015	da sei anni
 TOR001	okay in cosa consiste il tuo lavoro
 TOR001	cioè
 TOR001	praticamente
-TOI015	cosa fai com'è strutturata la tua giornata
+TOR001	cosa fai com'è strutturata la tua giornata
 TOI015	com'è strutturata la mia giornata allora io mi occupo di mh
-TOR001	spedire materiali in conto lavoro per fornitori e
-TOI015	mh mh
+TOI015	spedire materiali in conto lavoro per fornitori e
+TOR001	mh mh
 TOI015	per fornitori e clienti
-TOR001	in tutta la parte europea e tutta la parte fuori europa
+TOI015	in tutta la parte europea e tutta la parte fuori europa
 TOR001	okay
-TOI015	okay
+TOR001	okay
 TOI015	e
 TOI015	come consiste la mia giornata sostanzialmente
-TOR001	sono otto ore di la~ la mia giornata tipo
-TOI015	sì
-TOR001	supponiamo un mercoledì a caso all'interno della giornata
-TOI015	okay
-TOI015	sono
-TOR001	le otto nove ore di lavoro
-TOI015	mh mh
-TOI015	mh
-TOR001	esco da lavoro ci sarà allenamento in questo caso
-TOI015	e okay
-TOR001	allenamento e bon finito allenamento tutti a casa
+TOI015	sono otto ore di la~ la mia giornata tipo
+TOR001	sì
+TOI015	supponiamo un mercoledì a caso all'interno della giornata
 TOR001	okay
-TOI015	lavori qui a torino
-TOR001	lavoro a collegno sì
+TOI015	sono
+TOI015	le otto nove ore di lavoro
+TOR001	mh mh
+TOI015	mh
+TOI015	esco da lavoro ci sarà allenamento in questo caso
+TOR001	e okay
+TOI015	allenamento e bon finito allenamento tutti a casa
+TOR001	okay
+TOR001	lavori qui a torino
+TOI015	lavoro a collegno sì
 TOR001	ah okay
 TOR001	d'accordo
-TOI015	ehm lavori in proprio o sei un dipendente
-TOR001	sono un dipendente
-TOI015	okay hai sempre fatto lo stesso lavoro
+TOR001	ehm lavori in proprio o sei un dipendente
+TOI015	sono un dipendente
+TOR001	okay hai sempre fatto lo stesso lavoro
 TOI015	eh no
-TOR001	i primi due anni mi occupavo di acquisti in una azienda che produce capi di abbigliamento
-TOI015	okay
+TOI015	i primi due anni mi occupavo di acquisti in una azienda che produce capi di abbigliamento
+TOR001	okay
 TOI015	dal duemila
 TOI015	e otto
-TOR001	no dal duemiladieci al duemiladodici scusa
+TOI015	no dal duemiladieci al duemiladodici scusa
 TOR001	okay
-TOI015	e poi invece sei passato a quello attuale
-TOR001	esatto
+TOR001	e poi invece sei passato a quello attuale
+TOI015	esatto
 TOR001	okay
 TOR001	ehm
-TOI015	ti piacerebbe andare avanti a fare lo stesso lavoro oppure vorresti cambiare
-TOR001	no mi piace lo stesso lavoro sì
+TOR001	ti piacerebbe andare avanti a fare lo stesso lavoro oppure vorresti cambiare
+TOI015	no mi piace lo stesso lavoro sì
 TOR001	okay
 TOR001	ehm
 TOR001	mh
-TOI015	pensi che torino sia un buon posto per lavorare
-TOR002	attualmente
-TOI001	
-TOI015	cazzo ti ridi
-TOR001	attualmente sì ma dipende da che dinamica
-TOI015	okay cioè
+TOR001	pensi che torino sia un buon posto per lavorare
+TOI015	attualmente
+TOI001	cazzo ti ridi
+TOI015	attualmente sì ma dipende da che dinamica
+TOR001	okay cioè
 TOI015	cioè a seconda dell'azienda per cui si si può lavorare
-TOR001	sostanzialmente
-TOI015	okay
+TOI015	sostanzialmente
+TOR001	okay
 TOI015	se uno credo che se uno lavora in un posto in proprio un bar o può essere qualcosa di questo tipo ma
 TOI015	non credo abbia molta
-TOR001	molto futuro
-TOI015	a torino dici
-TOR001	esatto
-TOI015	okay
+TOI015	molto futuro
+TOR001	a torino dici
+TOI015	esatto
+TOR001	okay
 TOI015	e mentre se uno interagisce o lavora per aziende estere o meno
-TOR001	secondo me
-TOI015	okay
-TOR001	estere o qualsiasi qualcosa che non sia legata prettamente al commercio di torino
-TOI015	okay cioè non necessariamente alla città dici
-TOR001	esatto
+TOI015	secondo me
+TOR001	okay
+TOI015	estere o qualsiasi qualcosa che non sia legata prettamente al commercio di torino
+TOR001	okay cioè non necessariamente alla città dici
+TOI015	esatto
 TOR001	okay e perché
-TOI015	secondo te
-TOR001	perché io ho lavorato sia in una in una azienda che lavorava prettamente per torino e i numeri esattamente come i pagamenti venivano effettuati saltuariamente oppure tutti praticamente in ritardo
-TOI015	ah okay
+TOR001	secondo te
+TOI015	perché io ho lavorato sia in una in una azienda che lavorava prettamente per torino e i numeri esattamente come i pagamenti venivano effettuati saltuariamente oppure tutti praticamente in ritardo
+TOR001	ah okay
 TOI015	quindi
-TOR001	sei alla ricerca continua di recuperare ciò che è tuo
-TOI015	okay
-TOR001	sostanzialmente
-TOI015	okay
+TOI015	sei alla ricerca continua di recuperare ciò che è tuo
+TOR001	okay
+TOI015	sostanzialmente
+TOR001	okay
 TOI015	mentre lavorando adesso lavoro per eh aziende che
 TOI015	ehm
 TOI015	tipo che può essere spagna piuttosto che tunisia slovacchia o che
 TOI015	eh
 TOI015	sono tutti
-TOR001	svizzeri nei pagamenti
-TOI015	okay
-TOR001	e svizzeri in tutto quello in tutto ciò che fanno nella richiesta che fanno
+TOI015	svizzeri nei pagamenti
 TOR001	okay
-TOI015	quindi dici che sia un problema legato alla città o
-TOR001	credo che sia un problema legato all'italia in generale ma soprattutto alla nostra città
+TOI015	e svizzeri in tutto quello in tutto ciò che fanno nella richiesta che fanno
+TOR001	okay
+TOR001	quindi dici che sia un problema legato alla città o
+TOI015	credo che sia un problema legato all'italia in generale ma soprattutto alla nostra città
 TOR001	okay
 TOR001	okay d'accordo
 TOR001	ehm
-TOI015	quindi diciamo che non è tanto un problema di dove lavori ma con chi lavori
-TOR001	esatto
+TOR001	quindi diciamo che non è tanto un problema di dove lavori ma con chi lavori
+TOI015	esatto
 TOR001	okay
 TOR001	d'accordo
 TOR001	ehm
 TOR001	dove sarebbe meglio lavorare secondo te
 TOR001	cioè in alternativa a torino
-TOI015	
 TOI015	un'alternativa a torino
 TOI015	ehm
 TOI015	ti direi o in francia o
-TOR001	o in spagna
+TOI015	o in spagna
 TOR001	okay
-TOI015	ma per motivi economici o perché ti ispirerebbe come paese
-TOR001	no perché mi ispirerebbe a me
-TOI015	okay
-TOR001	ma io non
-TOR001	
-TOR002	va bene
-TOR001	
+TOR001	ma per motivi economici o perché ti ispirerebbe come paese
+TOI015	no perché mi ispirerebbe a me
+TOR001	okay
+TOI015	ma io non
+TOR001	va bene
 TOR001	ehm
-TOI015	hai mai vissuto fuori torino
-TOR001	ho mai vissuto fuori torino no
+TOR001	hai mai vissuto fuori torino
+TOI015	ho mai vissuto fuori torino no
 TOR001	okay
 TOR001	ehm
-TOI001	ti trasferiresti all'estero per lavorare
-TOI015	e s'è scoperto
+TOR001	ti trasferiresti all'estero per lavorare
+TOI001	e s'è scoperto
 TOI015	mi trasferirei all'estero per lavorare solo in determinate condizioni
-TOR001	economiche e determinate condizioni lavorative
+TOI015	economiche e determinate condizioni lavorative
 TOR001	okay
 TOR001	e
-TOI015	sarebbe anche legato anche dal posto che in cui dovresti andare
-TOR001	sì
+TOR001	sarebbe anche legato anche dal posto che in cui dovresti andare
+TOI015	sì
 TOR001	okay
 TOR001	quindi per esempio preferiresti in europa
-TOI015	piuttosto che lontano oppure
-TOR001	no no sostanzialmente poi il posto è indifferente credo
-TOI015	okay
-TOI001	ti dico spagna e francia perché
-TOI015	coglionazzo
-TOR001	andrei a vivere quella realtà in cui c'è da vivere quella realtà
-TOI015	mh mh mh mh
+TOR001	piuttosto che lontano oppure
+TOI015	no no sostanzialmente poi il posto è indifferente credo
+TOR001	okay
+TOI015	ti dico spagna e francia perché
+TOI001	coglionazzo
+TOI015	andrei a vivere quella realtà in cui c'è da vivere quella realtà
+TOR001	mh mh mh mh
 TOI015	però dipende molto il novanta per cento della mia scelta è dovuta proprio al tipo di lavoro che vado a fare
-TOR001	in proporzione agli stipendi
+TOI015	in proporzione agli stipendi
 TOR001	certo
 TOR001	okay
-TOR001	
 TOR001	ehmh
-TOI015	pensi che all'estero ci sia più lavoro
-TOR001	penso che all'estero ci sia più lavoro sì
+TOR001	pensi che all'estero ci sia più lavoro
+TOI015	penso che all'estero ci sia più lavoro sì
 TOR001	okay
 TOR001	in generale o
 TOR001	ah per il tavolo
 TOR001	scusa non capivo
 TOR001	e
-TOR002	sbatti pure eh vai proprio sereno
-TOI015	
-TOR002	adesso puoi
-TOR001	
-TOI001	non ti preoccupare
+TOR001	sbatti pure eh vai proprio sereno
+TOI015	adesso puoi
+TOR001	non ti preoccupare
 TOI001	xxx
-TOR001	xx xx stronzate così
-TOR002	
-TOR001	
-TOI001	ah
-TOR001	pensa che ho fatto un corso su questo
-TOI015	dicevamo pensi che all'estero esista più lavoro ovunque o solo in alcune parti
-TOR001	credo solo in alcune parti
-TOI015	okay
+TOI001	xx xx stronzate così
+TOR001	ah
+TOI001	pensa che ho fatto un corso su questo
+TOR001	dicevamo pensi che all'estero esista più lavoro ovunque o solo in alcune parti
+TOI015	credo solo in alcune parti
+TOR001	okay
 TOI015	eh
-TOR001	credo eh questa è è una sensazione dai numeri che vedo semplicemente tramite il mio lavoro
-TOI015	okay
+TOI015	credo eh questa è è una sensazione dai numeri che vedo semplicemente tramite il mio lavoro
+TOR001	okay
 TOI015	quindi in base alla richiesta e come si
 TOI015	cioè
-TOR001	trattando con varie mentalità quindi parli col tedesco reagisce in un modo parli con lo lo spagnolo e reagisce in un altro ancora
-TOI015	mh mh
+TOI015	trattando con varie mentalità quindi parli col tedesco reagisce in un modo parli con lo lo spagnolo e reagisce in un altro ancora
+TOR001	mh mh
 TOI015	eh
-TOR001	secondo me la richiesta che c'è è sicuramente fuori è sicuramente in altri paesi europei
-TOR001	
+TOI015	secondo me la richiesta che c'è è sicuramente fuori è sicuramente in altri paesi europei
 TOR001	oka~
-TOR001	
 TOR001	ma interagendo con persone di paesi diversi no
-TOI015	tu noti un modo diverso di lavorare
-TOR001	sì
+TOR001	tu noti un modo diverso di lavorare
+TOI015	sì
 TOR001	okay
-TOI015	in che termini
+TOR001	in che termini
 TOI015	e in termini di richiesta di materiale
 TOI015	nel senso in germania non bal~ cioè
-TOR001	per come la vivo io in germania non badano a spese su quello che può essere la spedizione più che piuttosto che può essere la qualità del prodotto
+TOI015	per come la vivo io in germania non badano a spese su quello che può essere la spedizione più che piuttosto che può essere la qualità del prodotto
 TOR001	mh mh
 TOR001	mh mh
-TOI015	okay
+TOR001	okay
 TOI015	mentre in germania a parte il prodotto scelgono magari
 TOI015	cioè
-TOR001	in spagna scusami
-TOI015	okay
-TOR001	scelgono magari quello che costa un pochino di meno o anche la spedizione deve essere più mirata
+TOI015	in spagna scusami
 TOR001	okay
-TOI015	mh mh
-TOR001	quindi anziché fare tre spedizioni da tot eh
-TOI015	mh
+TOI015	scelgono magari quello che costa un pochino di meno o anche la spedizione deve essere più mirata
+TOR001	okay
+TOR001	mh mh
+TOI015	quindi anziché fare tre spedizioni da tot eh
+TOR001	mh
 TOI015	tot scatole
 TOI015	l'una
-TOR001	si preferisce farne una
-TOI015	una
+TOI015	si preferisce farne una
+TOR001	una
 TOI015	a settimana più
-TOR001	più grossa
-TOI015	okay per risparmiare quindi
+TOI015	più grossa
+TOR001	okay per risparmiare quindi
 TOI015	esatto
-TOR001	essenzialmente quello
+TOI015	essenzialmente quello
 TOR001	e quindi oltre che
 TOR001	qu~ questo immagino sia
 TOR001	ah
-TOI015	connesso alla disponibilità economica che c'è in germania
-TOR001	esatto
-TOI015	piuttosto che in x che in spagna no
-TOR001	sì sì i capitali che hanno sono sono sicuramente diversi
+TOR001	connesso alla disponibilità economica che c'è in germania
+TOI015	esatto
+TOR001	piuttosto che in x che in spagna no
+TOI015	sì sì i capitali che hanno sono sono sicuramente diversi
 TOR001	okay
 TOR001	e come modalità proprio di
-TOI015	di relazione così tu noti differenze
-TOR001	mh
-TOI015	o no
-TOR001	ma no sostanzialmente no anche perché non è che ho un dialogo diretto ho tutto dietro tastiera quindi non ho un dialogo
+TOR001	di relazione così tu noti differenze
+TOI015	mh
+TOR001	o no
+TOI015	ma no sostanzialmente no anche perché non è che ho un dialogo diretto ho tutto dietro tastiera quindi non ho un dialogo
 TOR001	eh no certo
-TOI015	certo
-TOR001	da poterti dire guarda mi mi trasmette questa sensazione piuttosto che un'altra
+TOR001	certo
+TOI015	da poterti dire guarda mi mi trasmette questa sensazione piuttosto che un'altra
 TOR001	mh mh mh mh
-TOI001	d'accordo
-TOR001	sei una merda
-TOR002	eh
-TOR001	x potevi averne uno dei due
+TOR001	d'accordo
+TOI001	sei una merda
+TOR001	eh
+TOR002	x potevi averne uno dei due
 TOR001	po po po
-TOI015	dunque al lavoro mi hai detto che andresti avanti potendo scegliere andresti avanti a fare quello che fai giusto
-TOR001	sì
+TOR001	dunque al lavoro mi hai detto che andresti avanti potendo scegliere andresti avanti a fare quello che fai giusto
+TOI015	sì
 TOR001	okay
 TOR001	ehm
 TOR001	in che zona di torino vivi
 TOR001	o
-TOI015	vivi a torino intanto
-TOR001	collegno
+TOR001	vivi a torino intanto
+TOI015	collegno
 TOR001	okay
-TOI015	ah hai sempre vissuto lì
+TOR001	ah hai sempre vissuto lì
 TOI015	ho sempre vissuto lì no
-TOR001	prima vivevo a torino
-TOI015	okay in che zona di torino
-TOR001	e dove c'è
-TOR002	ah okay quindi qui vicino
-TOR001	a borgo san paolo
-TOR001	
-TOI015	eh
-TOI001	borgata lesna
-TOR002	borgaxxx
-TOI015	lì è lesna non è san paolo
-TOI001	no lì è lesna non ti sbaglia~ lì è lesna
-TOR001	xxxx minchia è il bowling
-TOI001	ma dove sono i confini perché non capisco mai dove sono i confini tra le zone di torino
-TOR002	perché tendenzialmenente non li tracciano in terra
-TOI015	
-TOR001	c'era la ri~ striscia ma poi l'hanno rubata
-TOI001	
-TOR001	davvero
-TOI001	no però vabbè lasciamo perdere
+TOI015	prima vivevo a torino
+TOR001	okay in che zona di torino
+TOI015	e dove c'è
+TOR001	ah okay quindi qui vicino
+TOR002	a borgo san paolo
+TOR001	eh
+TOI015	borgata lesna
+TOI001	borgaxxx
+TOR002	lì è lesna non è san paolo
+TOI015	no lì è lesna non ti sbaglia~ lì è lesna
+TOI001	xxxx minchia è il bowling
+TOR001	ma dove sono i confini perché non capisco mai dove sono i confini tra le zone di torino
+TOI001	perché tendenzialmenente non li tracciano in terra
+TOI015	c'era la ri~ striscia ma poi l'hanno rubata
+TOI001	davvero
+TOR001	no però vabbè lasciamo perdere
 TOI001	e praticamente via de sanctis
-TOI015	che separa i due quartie~
-TOR001	che taglia le due zone sì
-TOI001	okay
-TOR001	chiaramente c'è un corso grosso che spa~
-TOI001	mh
-TOR001	cioè sulle zone
-TOI015	eh immaginavo non ci fosse una linea con la matita però
-TOI015	sì ma via mongi~ può essere
-TOR001	via monginevro via de sanctis fino alla ferrovia dai
+TOI001	che separa i due quartie~
+TOI015	che taglia le due zone sì
 TOR001	okay
-TOI015	come confini dici
-TOR001	esa~
-TOI015	okay
-TOR001	più piccola di villarbasse dai
+TOI001	chiaramente c'è un corso grosso che spa~
+TOR001	mh
+TOI001	cioè sulle zone
+TOR001	eh immaginavo non ci fosse una linea con la matita però
+TOI015	sì ma via mongi~ può essere
+TOI015	via monginevro via de sanctis fino alla ferrovia dai
+TOR001	okay
+TOR001	come confini dici
+TOI015	esa~
+TOR001	okay
+TOI015	più piccola di villarbasse dai
 TOR001	infatti
-TOI015	
-TOI001	voi siete già piccoli eh già
-TOI015	però come popolazione siete più alta voi cioè in generale è più alta quella zona
-TOI001	ma c'è più delinquenza c'è più prostituzione c'è più tutto lì c'è anche più bar
+TOI015	voi siete già piccoli eh già
+TOI001	però come popolazione siete più alta voi cioè in generale è più alta quella zona
+TOI015	ma c'è più delinquenza c'è più prostituzione c'è più tutto lì c'è anche più bar
 TOI001	beh eh a~
-TOI015	aumentando la densità di popolazione
-TOI001	certo però sono quattro vie voi ne avete cinque
-TOI015	pensa che in quattro vie tu riesci a fare tutti gli abitanti di un paese
-TOR001	
-TOI001	
-TOR001	
-TOI015	e quindi scusami le scuole le hai frequentate qui a torino
-TOR001	le scuole le ho frequentate qui a torino
+TOI001	aumentando la densità di popolazione
+TOI015	certo però sono quattro vie voi ne avete cinque
+TOI001	pensa che in quattro vie tu riesci a fare tutti gli abitanti di un paese
+TOR001	e quindi scusami le scuole le hai frequentate qui a torino
+TOI015	le scuole le ho frequentate qui a torino
 TOR001	okay
 TOR001	e i tuoi diciamo vecchi compagni di scuola vivono ancora in quella zona si sono spostati
-TOI015	se li frequenti ovviamente
-TOR001	non ne ho la più pallida idea
+TOR001	se li frequenti ovviamente
+TOI015	non ne ho la più pallida idea
 TOR001	non ne hai idea d'accordo
-TOI015	ah ti piace il posto in cui vivi
-TOR001	sì
+TOR001	ah ti piace il posto in cui vivi
+TOI015	sì
 TOR001	okay
-TOI015	e invece il posto in cui stavi prima
-TOR001	mi piaceva di più sì
-TOI015	di più
-TOR001	mh mh
-TOR001	okay
-TOI015	ehm come mai per quali motivi
-TOR001	vabbè il primo era un legame più affettivo
-TOI015	okay
-TOR001	perché sono cresciuto in quella zona avevo tu~ avevo tutta la mia compagnia di amici lì però
+TOR001	e invece il posto in cui stavi prima
+TOI015	mi piaceva di più sì
+TOR001	di più
 TOI015	mh mh
-TOI015	per esigenze lavorative e calcistiche sono venuto via da
-TOR001	da tutta quella zona
 TOR001	okay
-TOI015	e come ti t~ dimmi
-TOR001	sono finito a collegno sono finito sono quasi a ridosso di pianezzo cioè gioco a villarbasse che è là dietro e gioco e lavoro a collegno che è a un minuto da lì sono finito a collegno sono finito sono quasi a ridosso di pianezza cioè gioco a villarbasse che è là dietro e gioco e lavoro a collegno che è a un minuto da lì
-TOI015	mh mh mh
-TOR001	per esigenze logistiche sono venuto lì
-TOI015	tutto più vicino
-TOR001	esatto
+TOR001	ehm come mai per quali motivi
+TOI015	vabbè il primo era un legame più affettivo
+TOR001	okay
+TOI015	perché sono cresciuto in quella zona avevo tu~ avevo tutta la mia compagnia di amici lì però
+TOR001	mh mh
+TOI015	per esigenze lavorative e calcistiche sono venuto via da
+TOI015	da tutta quella zona
+TOR001	okay
+TOR001	e come ti t~ dimmi
+TOI015	sono finito a collegno sono finito sono quasi a ridosso di pianezzo cioè gioco a villarbasse che è là dietro e gioco e lavoro a collegno che è a un minuto da lì sono finito a collegno sono finito sono quasi a ridosso di pianezza cioè gioco a villarbasse che è là dietro e gioco e lavoro a collegno che è a un minuto da lì
+TOR001	mh mh mh
+TOI015	per esigenze logistiche sono venuto lì
+TOR001	tutto più vicino
+TOI015	esatto
 TOR001	okay
 TOR001	ehm
-TOI015	ci sono cose che miglioreresti del posto in cui abiti
-TOR001	sicuramente i servizi che ha
-TOI015	okay
+TOR001	ci sono cose che miglioreresti del posto in cui abiti
+TOI015	sicuramente i servizi che ha
+TOR001	okay
 TOI015	perché abito tra
-TOR001	tra pianezza e collegno dove c'è il per intender~
-TOI015	okay
-TOR001	c'è un tabaccaio e basta
-TOI015	okay
-TOR001	e poi c'è il mercato ma è troppo distante quindi a piedi è irraggiungibile
-TOR001	
+TOI015	tra pianezza e collegno dove c'è il per intender~
+TOR001	okay
+TOI015	c'è un tabaccaio e basta
+TOR001	okay
+TOI015	e poi c'è il mercato ma è troppo distante quindi a piedi è irraggiungibile
 TOR001	d'accordo
-TOI015	quindi in termini di servizi proprio di offerta di cose da fare lì
-TOR001	sì esatto
+TOR001	quindi in termini di servizi proprio di offerta di cose da fare lì
+TOI015	sì esatto
 TOR001	okay
-TOR001	
 TOR001	eh
-TOI015	la domanda successiva era se trovi tutto nel tuo quartiere o devi spostarti spesso
-TOR002	devi spostarti spesso per fare qualsiasi cosa
-TOR001	
-TOR001	
-TOI015	e come ti muovi di solito
-TOR001	in macchina
+TOR001	la domanda successiva era se trovi tutto nel tuo quartiere o devi spostarti spesso
+TOI015	devi spostarti spesso per fare qualsiasi cosa
+TOR001	e come ti muovi di solito
+TOI015	in macchina
 TOR001	okay
-TOI001	e ti muovi solo nella zona in cui sei o ti mh vieni anche spesso a torino o
-TOI015	asso
+TOR001	e ti muovi solo nella zona in cui sei o ti mh vieni anche spesso a torino o
+TOI001	asso
 TOI015	no no no
-TOR001	io viaggio a torino a trecentosessanta gradi quindi
+TOI015	io viaggio a torino a trecentosessanta gradi quindi
 TOR001	ah okay
 TOR001	d'accordo
-TOR001	
 TOR001	mh
-TOI001	dunque invece la zona in cui stavi prima oltre al legame affettivo secondo te come zona della città
-TOR001	mi sono giocato xx xxx le carte
-TOI015	ah
+TOR001	dunque invece la zona in cui stavi prima oltre al legame affettivo secondo te come zona della città
+TOI001	mi sono giocato xx xxx le carte
+TOR001	ah
 TOI015	è ben servita mezzi pubblici e poi c'è la
 TOI015	ah v~ vabbè c'è il bowling può esserci altre mille
 TOI015	può essere
 TOI015	eh
-TOR001	dal tabaccaio al panettiere al macellaio era tutto comunque lì
-TOI015	mh mh mh
-TOI001	un piccolo un piccolo paesello dai se vogliamo proprio un bo~ un classico borgo
-TOR001	minchia
-TOI015	mh mh
-TOR001	quindi è una cosa di quetso tipo
-TOI001	okay
-TOR001	sono fottuto
-TOI015	quindi diciamo che nella zona in cui c'è in cui vivevi prima avevi più o meno tutto a portata di mano mentre adesso sei più costretto a cioè
+TOI015	dal tabaccaio al panettiere al macellaio era tutto comunque lì
+TOR001	mh mh mh
+TOI015	un piccolo un piccolo paesello dai se vogliamo proprio un bo~ un classico borgo
+TOI001	minchia
+TOR001	mh mh
+TOI015	quindi è una cosa di quetso tipo
+TOR001	okay
+TOI001	sono fottuto
+TOR001	quindi diciamo che nella zona in cui c'è in cui vivevi prima avevi più o meno tutto a portata di mano mentre adesso sei più costretto a cioè
 TOI015	esatto
 TOI015	dover prendere la macchina per sì che poi non è distante
-TOR001	detta così sembra che devo
+TOI015	detta così sembra che devo
 TOR001	mh mh mh mh
-TOI015	no vabbè
-TOR001	non scalavo il monte però
-TOI015	
-TOR001	sicuramente se uno vuole scendere a piedi a farsi due passi con il cane a prendere il pane lì non è una cosa fattibile
+TOR001	no vabbè
+TOI015	non scalavo il monte però
+TOI015	sicuramente se uno vuole scendere a piedi a farsi due passi con il cane a prendere il pane lì non è una cosa fattibile
 TOR001	okay
-TOI001	d'accordo
-TOR001	sono fottuto
-TOR001	
-TOI015	ah e quindi sei costretto a muoverti con i mezzi e cioè scusami con la macchina tua
-TOR001	sì
-TOI015	okay non ci sono mezzi non non è collegato
+TOR001	d'accordo
+TOI001	sono fottuto
+TOR001	ah e quindi sei costretto a muoverti con i mezzi e cioè scusami con la macchina tua
+TOI015	sì
+TOR001	okay non ci sono mezzi non non è collegato
 TOI015	no no ci sono
-TOR001	c'è il quarantaquattro mi pare
-TOI015	non saprei
-TOR001	credo
-TOI015	
-TOR001	credo ci sia il quarantaquattro e un altro pullman però non ti so dire di più
+TOI015	c'è il quarantaquattro mi pare
+TOR001	non saprei
+TOI015	credo
+TOI015	credo ci sia il quarantaquattro e un altro pullman però non ti so dire di più
 TOR001	okay
-TOI015	quindi comunque è più comodo in macchina
-TOR001	sì
+TOR001	quindi comunque è più comodo in macchina
+TOI015	sì
 TOR001	okay
-TOR001	
 TOR001	ehm
-TOI015	pensi che torino sia cambiata molto negli ultimi anni
-TOR001	in che termini
+TOR001	pensi che torino sia cambiata molto negli ultimi anni
+TOI015	in che termini
 TOR001	mh dimmi tu
 TOR001	nel senso
 TOR001	io non sono di qua
 TOR001	e però mi dicono spesso per esempio che a partire cioè che sia migliorata molto negli ultimi anni cioè che sia cambiata tanto
-TOR002	mh a quello gli fa schifo il san simone
-TOR001	sì
-TOR001	
-TOI015	tu hai questa sensazione oppure no
+TOR001	mh a quello gli fa schifo il san simone
+TOR002	sì
+TOR001	tu hai questa sensazione oppure no
 TOI015	che la trovo cambiata mah non saprei cioè non
-TOI001	non so sotto che punti di vista nel senso che ehm
-TOI015	sono fottuto
-TOR001	secondo me è cambiata la società
-TOI015	mh mh
-TOI015	quindi di conseguenza sono cambiate anche le città poi
-TOR001	ti posso dire torino secondo me è cambiata sull'evoluzione di quello che sono i giovani in questo momento
+TOI015	non so sotto che punti di vista nel senso che ehm
+TOI001	sono fottuto
+TOI015	secondo me è cambiata la società
 TOR001	mh mh
-TOI015	okay cioè
+TOI015	quindi di conseguenza sono cambiate anche le città poi
+TOI015	ti posso dire torino secondo me è cambiata sull'evoluzione di quello che sono i giovani in questo momento
+TOR001	mh mh
+TOR001	okay cioè
 TOI015	cioè sicuramente
-TOR001	chi usciva prima non fa le cose che fa adesso e
-TOI015	mh mh
+TOI015	chi usciva prima non fa le cose che fa adesso e
+TOR001	mh mh
 TOI015	e non c'era quel
-TOR001	quell'aspetto negativo della gioventù
-TOI015	adesso non c'è
+TOI015	quell'aspetto negativo della gioventù
+TOR001	adesso non c'è
 TOI015	sì
-TOR001	no adesso c'è rispetto a tipo alla nostra generazione
+TOI015	no adesso c'è rispetto a tipo alla nostra generazione
 TOR001	okay
 TOR001	okay cioè
-TOI001	perché mi guardi male
-TOR001	no
-TOI001	per le carte
-TOR001	sì
-TOI001	eh ma non ho seguito
-TOR001	e allora se luca è furbo
-TOI001	n~ no quindi
-TOR001	fa tre fa tre pun~ fa tre punti e io due
-TOR001	
-TOI001	ah
+TOR001	perché mi guardi male
+TOI001	no
+TOR001	per le carte
+TOI001	sì
+TOR001	eh ma non ho seguito
+TOI001	e allora se luca è furbo
+TOR001	n~ no quindi
+TOI001	fa tre fa tre pun~ fa tre punti e io due
+TOR001	ah
 TOI001	se luca ad un brocco riesce a non fare punti
-TOI001	
-TOR001	adesso vediamo
+TOI001	adesso vediamo
 TOR001	com~ aggiornami però su sull'evoluzione
-TOI001	scusami dicevi in che senso aspetti negativi
-TOI015	fondamentale sta mano
+TOR001	scusami dicevi in che senso aspetti negativi
+TOI001	fondamentale sta mano
 TOI015	aspetti negativi perché secondo me i
-TOR001	la nostra generazione no
-TOI015	mhmh
+TOI015	la nostra generazione no
+TOR001	mhmh
 TOI015	eh
 TOI015	non non aveva secondo me tutte le cose che ha in questo momento
-TOR002	cioè tutti i mezzi che ci sono in questo momento che possono essere dai social a
-TOI001	vedi che se ti stavi zitto e ti facevi i cazzi tuoi io facevo la mia giocata onestamente
-TOI015	lo dico apposta
-TOI001	al fattore di fare tante cose
-TOR001	se tu sei furbo poi sono a sette punti che esco
-TOI015	mh mh
-TOI001	quindi che possono essere tutte quelle discoteche tutti quel
-TOI015	se tu non sei xxx xxx xxxxx
-TOR001	tutti quegli stimoli vari che arrivano dal mondo di torino della movida
-TOI001	mh mh mh mh mh
-TOR001	se tu sei furbo
-TOI015	mh mh mh mh
-TOI001	e secondo me con l'andare di questa cosa sono cresciuti molto
-TOI015	e io neanc~
+TOI015	cioè tutti i mezzi che ci sono in questo momento che possono essere dai social a
+TOR002	vedi che se ti stavi zitto e ti facevi i cazzi tuoi io facevo la mia giocata onestamente
+TOI001	lo dico apposta
+TOI015	al fattore di fare tante cose
+TOI001	se tu sei furbo poi sono a sette punti che esco
+TOR001	mh mh
+TOI015	quindi che possono essere tutte quelle discoteche tutti quel
+TOI001	se tu non sei xxx xxx xxxxx
+TOI015	tutti quegli stimoli vari che arrivano dal mondo di torino della movida
+TOR001	mh mh mh mh mh
+TOI001	se tu sei furbo
+TOR001	mh mh mh mh
+TOI015	e secondo me con l'andare di questa cosa sono cresciuti molto
+TOI001	e io neanc~
 TOI015	cioè che è cresciuta quella che può essere mala~
 TOI015	ma no passami il termine delinquenza ma non è delinquenza
-TOR001	è semplicemente un modo diverso
-TOI015	mh mh
-TOI015	di divertirsi
-TOR001	quindi cambiando la generazione è cambiata anche questa
+TOI015	è semplicemente un modo diverso
 TOR001	mh mh
-TOI015	mh mh
+TOI015	di divertirsi
+TOI015	quindi cambiando la generazione è cambiata anche questa
+TOR001	mh mh
+TOR001	mh mh
 TOI015	mentre credo che alla nostra generazione bastasse una panchina e una birra
-TOR001	in questo momento a questa generazione la panchina e la birra non basta più quella sotto casa dove chiacchierare
+TOI015	in questo momento a questa generazione la panchina e la birra non basta più quella sotto casa dove chiacchierare
 TOR001	mh mh
 TOR001	e okay
 TOR001	cioè tu hai la sensazione che
-TOI015	avendo più stimoli in realtà sia una cosa
-TOR001	eh
-TOI015	cioè
-TOR001	controproducente con l'andare degli anni
+TOR001	avendo più stimoli in realtà sia una cosa
+TOI015	eh
+TOR001	cioè
+TOI015	controproducente con l'andare degli anni
 TOR001	okay
-TOI015	ah okay
-TOR001	sì sì io vedo anche solo mio nipote ha due anni e un tablet in mano
-TOI015	mh mh mh
-TOR001	per esempio
-TOI015	mh mh mh mh
-TOR001	adesso ne ha otto e è una che usa perfettamente il computer
-TOI015	mh mh mh mh
-TOR001	noi il computer lo abbiamo approcciato noi almeno sei o sette in più quindi
+TOR001	ah okay
+TOI015	sì sì io vedo anche solo mio nipote ha due anni e un tablet in mano
+TOR001	mh mh mh
+TOI015	per esempio
+TOR001	mh mh mh mh
+TOI015	adesso ne ha otto e è una che usa perfettamente il computer
+TOR001	mh mh mh mh
+TOI015	noi il computer lo abbiamo approcciato noi almeno sei o sette in più quindi
 TOR001	eh sì
 TOR001	sì sì sì sì
-TOI015	certo
+TOR001	certo
 TOI015	e sostanzialmente ste robe lì
 TOI015	cioè a noi a noi a diciassette diociotto anni ti
-TOR001	bastava la panchina la birretta e il pacchetto di sigarette andare avanti una notte a chiacchierare stu sta panchina
-TOI015	
-TOR001	in questa generazione qua serve sfasciarsi da qualche parte sostanzialmente
-TOI015	okay
-TOR001	rompere i coglioni al prossimo se voglia~
+TOI015	bastava la panchina la birretta e il pacchetto di sigarette andare avanti una notte a chiacchierare stu sta panchina
+TOI015	in questa generazione qua serve sfasciarsi da qualche parte sostanzialmente
+TOR001	okay
+TOI015	rompere i coglioni al prossimo se voglia~
 TOR001	okay
 TOR001	mh mh mh mh mh
 TOR001	beh però
 TOR001	anche
-TOR002	cioè il fatto di avere più input può avere anche risvolti positivi
-TOR001	due punti tutto il resto è tuo
-TOI001	cioè non so mi immagino a fare l'adolescenza con i social
-TOR001	io non è che ci ho
-TOI001	dev'essere molto difficile no cioè molto più
-TOR002	le carte sono le mie sì
-TOR001	certo
-TOI015	ah pesante di come può esse~ cioè io sono contenta di aver fatto l'adolescenza senza social network
-TOR001	anch'io
-TOI001	cioè dovendo scegliere pref~ fare a meno no
-TOI015	eravamo cinque a uno per te
-TOR001	sì sì sì ma anche perché ci sono cose tue che sono tue
-TOR002	mh mh mh mh
-TOR001	se volete apro qua
-TOI015	sì grazie
+TOR001	cioè il fatto di avere più input può avere anche risvolti positivi
+TOR002	due punti tutto il resto è tuo
+TOR001	cioè non so mi immagino a fare l'adolescenza con i social
+TOI001	io non è che ci ho
+TOR001	dev'essere molto difficile no cioè molto più
+TOI001	le carte sono le mie sì
+TOR002	certo
+TOR001	ah pesante di come può esse~ cioè io sono contenta di aver fatto l'adolescenza senza social network
+TOI015	anch'io
+TOR001	cioè dovendo scegliere pref~ fare a meno no
+TOI001	eravamo cinque a uno per te
+TOI015	sì sì sì ma anche perché ci sono cose tue che sono tue
+TOR001	mh mh mh mh
+TOR002	se volete apro qua
+TOR001	sì grazie
 TOI015	tu x prendi le siga solo l~ le ho nella tasca
-TOR001	nella tasca della giacca c'è un pacchetto pieno xxx
+TOI015	nella tasca della giacca c'è un pacchetto pieno xxx
 TOR001	cioè più che altro immagino che sia abituato a vivere
 TOR001	vai tranquillo
-TOI015	a vivere le tue esperienze in una maniera diversa
-TOR001	sì le esperienze tue sono tue
-TOI015	da come l'esperienza è tua
-TOR001	e non sono cazzi di tutto il mondo sostanzialmen~
+TOR001	a vivere le tue esperienze in una maniera diversa
+TOI015	sì le esperienze tue sono tue
+TOR001	da come l'esperienza è tua
+TOI015	e non sono cazzi di tutto il mondo sostanzialmen~
 TOR001	certo
-TOI001	questo sicuramen~
-TOI015	che schifo st'amaro
+TOR001	questo sicuramen~
+TOI001	che schifo st'amaro
 TOI015	cioè io ancora adesso non ho sono uno di quelli che non ha facebook usa instagram solo perché mi piace perché
 TOI015	eh
-TOR001	mentre tre anni fa instagram era solo una cosa prettamente di foto quindi qualsiasi cosa tu aprivi ti trasmetteva qualcosa una foto adesso ci sono anche i video
+TOI015	mentre tre anni fa instagram era solo una cosa prettamente di foto quindi qualsiasi cosa tu aprivi ti trasmetteva qualcosa una foto adesso ci sono anche i video
 TOR001	mh mh mh mh
-TOI015	mh mh mh mh
-TOR001	gente che racconta tutta la sua giornata che non te ne frega assolutamente niente
-TOI015	certo
-TOR001	è proprio
-TOI001	certo
-TOR001	come mai non te l'ha chiesto come ha fatto a perdere i capelli
+TOR001	mh mh mh mh
+TOI015	gente che racconta tutta la sua giornata che non te ne frega assolutamente niente
+TOR001	certo
+TOI015	è proprio
+TOR001	certo
+TOI001	come mai non te l'ha chiesto come ha fatto a perdere i capelli
 TOR001	e non può avere
+TOR001	è la domanda dopo
 TOI015	è la domanda dopo
-TOI015	è la domanda dopo
-TOI001	avevo già l'altra
-TOR001	è il lavoro che ti ha portato a perdere i capelli
-TOI015	
-TOR001	no è colpire la palla di testa
-TOI015	
+TOI015	avevo già l'altra
+TOI001	è il lavoro che ti ha portato a perdere i capelli
+TOI015	no è colpire la palla di testa
 TOI015	l'ho chiesta anche a mio padre e mi ha risposto colpire la palla di testa
-TOR001	però lui l'ha colpita
-TOI001	qua nessuno ha sentito
-TOI015	non ne hai mai colpita una di testa però per carità
-TOR001	lo so
-TOR001	
-TOI015	e dico non può avere anche dei risvolti positivi il fatto che abbiano così tanti input
+TOI015	però lui l'ha colpita
+TOR001	qua nessuno ha sentito
+TOI001	non ne hai mai colpita una di testa però per carità
+TOI015	lo so
+TOR001	e dico non può avere anche dei risvolti positivi il fatto che abbiano così tanti input
 TOI015	ehm
 TOI015	no
-TOR001	non credo
-TOI015	no
+TOI015	non credo
+TOR001	no
 TOI015	cioè
 TOI015	chi li sa utilizzare gli input li
-TOR001	li
-TOI015	mh mh mh mh
+TOI015	li
+TOR001	mh mh mh mh
 TOI015	li coglie e li coglie nel senso giusto
-TOR001	chi non li sa utilizzare prende secondo me
-TOI015	mh mh mh
+TOI015	chi non li sa utilizzare prende secondo me
+TOR001	mh mh mh
 TOI015	il
-TOR001	il marcio della cosa e vogliamo
-TOI001	okay
-TOR001	non trovo le cartine
-TOI001	vabbè ma
-TOR001	no è xxx che ho cercato le cartine xx
+TOI015	il marcio della cosa e vogliamo
+TOR001	okay
+TOI001	non trovo le cartine
+TOR001	vabbè ma
+TOI001	no è xxx che ho cercato le cartine xx
 TOR001	ma le nuove
 TOR001	se vuoi ce le ho
 TOR001	okay e quindi dici che
 TOR001	cioè che questa cosa
-TOI015	diciamo oggi c'è globalmente sulla generazione e di conseguenza sulla città cioè nello specifico
-TOR001	vabbè
-TOI015	su su torino
-TOR001	sì
+TOR001	diciamo oggi c'è globalmente sulla generazione e di conseguenza sulla città cioè nello specifico
+TOI015	vabbè
+TOR001	su su torino
+TOI015	sì
 TOR001	okay
 TOR001	e
 TOR001	quindi
 TOR001	sono aumentati i locali
 TOR001	rispetto a
-TOI015	sei dell'ottantanove
-TOR001	sì
+TOR001	sei dell'ottantanove
+TOI015	sì
 TOR001	okay anch'io
 TOR001	quindi rispetto a quando potevamo avere noi
 TOR001	gli anni
 TOR001	l'età dell'adolescenza
-TOI015	sono aumentati i locali è aumentata l'offerta anche nella città
-TOR001	sì secondo me sì
-TOI015	okay
+TOR001	sono aumentati i locali è aumentata l'offerta anche nella città
+TOI015	sì secondo me sì
+TOR001	okay
 TOI015	perché
 TOI015	sono è aumentata è cresciuta la popolazione che ha
 TOI015	frequenta più questi tipi di locali
-TOR001	e quindi è cresciuta l'offerta da parte della città
-TOR002	mh mh
-TOI015	posso fare io una domanda
-TOR001	xx
+TOI015	e quindi è cresciuta l'offerta da parte della città
+TOR001	mh mh
+TOR002	posso fare io una domanda
+TOI015	xx
 TOR001	sentiti libero
-TOI001	
 TOI001	secondo te
-TOI015	in confronto a dieci anni fa
-TOI001	mh
+TOI001	in confronto a dieci anni fa
+TOI015	mh
 TOI001	a oggi è più
 TOI001	perseguibile l'ipotesi di un sogno americano
 TOI001	cioè del realizzarsi dal nulla
 TOI001	in italia
 TOI001	ci sono più possibilità
 TOI001	partendo da zero di arrivare a un apice
-TOI015	in confronto a dieci venti scegli te gli anni
+TOI001	in confronto a dieci venti scegli te gli anni
 TOI015	non saprei
-TOI001	cioè non
-TOR001	xx che domandone che ho fatto
-TOI001	eh infatti
-TOR001	tesoro
-TOI015	stavo pensando io non saprei mica cosa rispondere
+TOI015	cioè non
+TOI001	xx che domandone che ho fatto
+TOR001	eh infatti
+TOI001	tesoro
+TOR001	stavo pensando io non saprei mica cosa rispondere
 TOI015	no sostanzialmente credo che mh
 TOI015	penso che nella società di oggi ci sia abbastanza tutto quello che può servire
 TOI015	quindi di arrivare e di partire da zero per arrivare lassù
@@ -633,18 +595,18 @@ TOI015	ci sarebbero troppi freni dovuti da t~
 TOI015	tante cose
 TOI015	può essere lo stato può essere
 TOI015	la poca voglia di lavorare da parte di qualcuno
-TOI001	cioè non so
+TOI015	cioè non so
 TOI001	beh però per dire con tutto questo qua
 TOI001	il gli youtubers
 TOI001	e
 TOI001	comunque è tutta gente che dal nulla in verità è in grado di
 TOI001	di portare a casa un alto fatturato
-TOI015	che poi è quello fondamentalmente un sogno americano no
+TOI001	che poi è quello fondamentalmente un sogno americano no
 TOI015	eh ma fatturato
 TOI015	dip~ dipende
 TOI015	mh
-TOI001	cioè d~
-TOI015	con fama e fatturato
+TOI015	cioè d~
+TOI001	con fama e fatturato
 TOI015	no okay
 TOI015	però è gente che xx
 TOI015	finirà nel dimenticatoio un giorno
@@ -655,56 +617,53 @@ TOI015	eh
 TOI015	ci sono persone che hanno secondo me il so~ il classico sogno america può essere quella persona che parte da zero e crea qualcosa diventa qualcosa
 TOI015	affermando un'idea affermando un
 TOI015	una qualsiasi cosa che può
-TOI001	che cosa stai dicendo
-TOR001	no xxxx ho lanciato tutte le carte che avevo e e tutte non posso fare niente
-TOI015	
-TOI001	allora lascia eh lascia
-TOI015	avevo una doppia avevo e
-TOI001	xx e lascia
-TOR002	avevo una doppia me l'ha presa
-TOI001	
+TOI015	che cosa stai dicendo
+TOI001	no xxxx ho lanciato tutte le carte che avevo e e tutte non posso fare niente
+TOI015	allora lascia eh lascia
+TOI001	avevo una doppia avevo e
+TOI015	xx e lascia
+TOI001	avevo una doppia me l'ha presa
 TOI001	e il resto sono tutte carte singole e le ho tirate tutte cosa devo fare
-TOI015	
-TOI001	comunque è gente che ve~ vedo che è gente che finirà nel dimenticatoio senza aver fatto nulla aver stretto nulla di concreto
+TOI015	comunque è gente che ve~ vedo che è gente che finirà nel dimenticatoio senza aver fatto nulla aver stretto nulla di concreto
 TOI001	quindi secondo te ad un certo punto ti sbatti sbatti contro un muro
-TOI015	almeno nei posti cardini non ti è concesso di arrivare poi se quello che è satellite si può fare
+TOI001	almeno nei posti cardini non ti è concesso di arrivare poi se quello che è satellite si può fare
 TOI015	mh mh
 TOI015	esatto
 TOI015	sì perché un youtuber o
 TOI015	questa gente qua non la vedo come gente che può
 TOI015	potrà far qualcosa
 TOI015	sarà gente che
-TOI001	è salita sull'onda del successo in questo momento e tra qualche mese ci scenderà
-TOI015	mh
-TOR002	ma esattamente
-TOI015	tanto su quanti lo fanno
-TOR002	appunto
+TOI015	è salita sull'onda del successo in questo momento e tra qualche mese ci scenderà
+TOI001	mh
+TOI015	ma esattamente
+TOR002	tanto su quanti lo fanno
+TOI015	appunto
 TOR002	ce n'è uno
-TOI015	che guadagna
+TOR002	che guadagna
 TOI015	no ma parti dal presupposto che rovazzi è uno dei più famosi e
-TOR001	e nonostante ciò lui ti dice io ho bisogno di fare le serate per campare
-TOI015	mh mh
-TOR001	per assurdo
-TOI001	certo
-TOI015	sì
+TOI015	e nonostante ciò lui ti dice io ho bisogno di fare le serate per campare
+TOR001	mh mh
+TOI015	per assurdo
+TOR001	certo
+TOI001	sì
 TOI015	e la ferragni ha iniziato a farlo però la ferragni secondo me non ha nemmeno bisogno di farlo
 TOI015	cioè ha iniziato a farlo così un po' per gioco e adesso si ritrova ad essere uno dei dei trender più
 TOI015	più seguiti delle persone più seguite
 TOI015	sul panorama di instagram quindi
-TOR001	e nonostante ciò ci campa con quello perché guadagni guadagni anche dei bei soldi
-TOI015	mh
+TOI015	e nonostante ciò ci campa con quello perché guadagni guadagni anche dei bei soldi
+TOR001	mh
 TOI015	però anche lei secondo me ben presto finirà nel dimenticatoio
-TOR001	perché comunque non offri di concreto non offri niente
-TOI015	mh mh
+TOI015	perché comunque non offri di concreto non offri niente
+TOR001	mh mh
 TOI015	appena uscirà magari un nuovo social network
-TOI001	sparisce anche da lì
+TOI015	sparisce anche da lì
 TOI001	sì però se uno è stato curato nelle sue cose ma eh
 TOI001	vale per quello come può valere su questioni economiche tipo i bitcoin no
-TOI015	sono la moneta
-TOI001	no okay però tu guarda
-TOI015	c'è chi ha cavalcato quell'onda
-TOI001	il
-TOI015	si è arrichito all'epoca adesso ci sta andando a perdere probabilmente
+TOI001	sono la moneta
+TOI015	no okay però tu guarda
+TOI001	c'è chi ha cavalcato quell'onda
+TOI015	il
+TOI001	si è arrichito all'epoca adesso ci sta andando a perdere probabilmente
 TOI015	il
 TOI015	il produttore di netlog
 TOI015	quello che ha generato netlog
@@ -712,127 +671,124 @@ TOI015	anche quello ha fatto i miliardi
 TOI015	i miliardi veri
 TOI015	dieci anni fa
 TOI015	dieci venti anni fa
-TOI001	poi anche questo è sparito
+TOI015	poi anche questo è sparito
 TOI001	però vedi
 TOI001	appunto
-TOI015	da
-TOR001	poi paragoniamo zuckerberg a uno che metlog magari lo ha
+TOI001	da
+TOI015	poi paragoniamo zuckerberg a uno che metlog magari lo ha
 TOR001	certo
-TOI001	
 TOI001	sì però vale lo stesso discorso su amazon
 TOI001	cioè che è stato creato dal nulla
 TOI001	e adesso vale mega mila miliardi
 TOI001	ed è l'azienda che vale di più tra tutti
 TOI001	in confronto a ventanni fa forse è più fattibile come questione
 TOI001	se tu hai una vera idea
-TOI015	riuscire a realizzarti
+TOI001	riuscire a realizzarti
 TOI015	eh però devi avere un'idea
 TOI015	un'idea concreta
-TOI001	e a questo punto
-TOI015	se
+TOI015	e a questo punto
+TOI001	se
 TOI015	cioè se hai un'idea concreta la puoi sostenere nel corso se inventi qualcosa che è
 TOI015	eh
 TOI015	modernizza o dà un passo in più a questa umanità è un discorso se inventi
 TOI015	una canzone con gianni morandi per farti vedere su instagram o su facebook
-TOR002	sì guadagni lì nel momento ma a lunga gittata è una cosa che non ti porta risultato
+TOI015	sì guadagni lì nel momento ma a lunga gittata è una cosa che non ti porta risultato
 TOR002	no
-TOI015	però sai cosa alla fine la nostra generazione secondo me è cresciuta molto di più con col concetto del cavarsela in qualche modo
-TOR002	bravo
+TOR002	però sai cosa alla fine la nostra generazione secondo me è cresciuta molto di più con col concetto del cavarsela in qualche modo
+TOI015	bravo
 TOR002	cioè il
 TOR002	non ho i fondi perché xxx
-TOI001	mi arrangio e qualcosa tiro fuori eh
-TOI015	mh ni non sono proprio d'accordo
-TOI001	forse forse è adesso più così
-TOI015	secondo me
-TOI001	rispetto alla nostra generazione
+TOR002	mi arrangio e qualcosa tiro fuori eh
+TOI001	mh ni non sono proprio d'accordo
+TOI015	forse forse è adesso più così
+TOI001	secondo me
+TOI015	rispetto alla nostra generazione
 TOI001	mah eh xx io non sono d'accordo neanche adesso
 TOI001	adesso
 TOI001	dicono bene non eh
 TOI001	non mi impegno particolarmente
 TOI001	provo a vendere fuffa
 TOI001	senza applicarmi realmente
-TOR001	cioè mentre prima eri costretto a imparare un mestiere o a saper fare qualcosa
-TOI001	mh mh
-TOI015	per poter campare adesso non sei più costretto a fare niente
+TOI001	cioè mentre prima eri costretto a imparare un mestiere o a saper fare qualcosa
+TOR001	mh mh
+TOI001	per poter campare adesso non sei più costretto a fare niente
 TOI015	appunto però prima investivi del tempo m~ ma la stessa cosa cioè
 TOI015	tu guarda ne parlavamo l'altra sera nel piccolo no nel mondo del pallone può essere che
 TOI015	tu vai a cercare uno di diciotto anni adesso che approda in prima squadra quindi che trovi gente tipo di
-TOR001	venticinque trenta padri di famiglia
-TOI015	mh mh mh
+TOI015	venticinque trenta padri di famiglia
+TOR001	mh mh mh
 TOI015	e
 TOI015	entrano
 TOI015	boh
 TOI015	si sentono al primo giorno di scuola non so come spiegare erano tutti spavaldi
-TOR001	tutti splendidi
-TOI015	mh mh
+TOI015	tutti splendidi
+TOR001	mh mh
 TOI015	cioè quando noi si andava
 TOI015	quando io avevo sedici anni esordivo in prima squarda io mi ricordo che
-TOR001	entravi testa bassa
-TOI015	mh
-TOR001	posto vuoto nell'angolo lì belli in cantina senza
-TOI015	
-TOR001	perché eri l'ultimo arrivato
-TOI015	certo
+TOI015	entravi testa bassa
+TOR001	mh
+TOI015	posto vuoto nell'angolo lì belli in cantina senza
+TOI015	perché eri l'ultimo arrivato
+TOR001	certo
 TOI015	adesso c'è più c'è più di tutto secondo me
-TOR001	quindi si sentono molto più sicuri sotto tanti punti di vista ma in concreto meno fuffa
-TOI015	mh mh mh mh
+TOI015	quindi si sentono molto più sicuri sotto tanti punti di vista ma in concreto meno fuffa
+TOR001	mh mh mh mh
 TOI015	vendono proprio niente vendono un'idea secondo me che non regge
-TOR001	e e lo vedi anche nel lavoro sostanzialmente
-TOI015	mh mh
+TOI015	e e lo vedi anche nel lavoro sostanzialmente
+TOR001	mh mh
 TOI015	e c'è un tasso di disoccupazione
 TOI015	alle stelle ma non tanto secondo me
-TOR001	il lavoro se uno vuole lavorare il lavoro c'è
-TOI015	mh mh
+TOI015	il lavoro se uno vuole lavorare il lavoro c'è
+TOR001	mh mh
 TOI015	perché comunque
-TOR001	io vedo anche solo da noi continui a cercare cercare per quanto tu ne inserisca trovi sempre quello che arriva a una settimana dopo quattro giorni ti fa il quinto giorno di ritardo
-TOI015	mh
+TOI015	io vedo anche solo da noi continui a cercare cercare per quanto tu ne inserisca trovi sempre quello che arriva a una settimana dopo quattro giorni ti fa il quinto giorno di ritardo
+TOR001	mh
 TOI015	il sesto il settimo l'ottavo
-TOR001	la voglia di lavorare un'altra
-TOI015	certo certo
-TOR001	la fame secondo me di di avere di arrivare è un'altra non è questa
+TOI015	la voglia di lavorare un'altra
+TOR001	certo certo
+TOI015	la fame secondo me di di avere di arrivare è un'altra non è questa
 TOR001	mh mh mh mh
-TOI015	e pensi e tu hai la sensazione che sia generazionale quindi
+TOR001	e pensi e tu hai la sensazione che sia generazionale quindi
 TOI015	penso sia generazionale anche perché vedo da come si
-TOR001	si comportano i ragazzini rispetto alla nostra generazione è quella
-TOI015	mh mh mh mh
-TOR001	se tu vai in centro il sabato sera per assurdo è più difficile trovare ti faccio un esempio una rissa tra due che hanno trentanni
-TOI015	ah ma certo
-TOR001	ma è più semplice trovarne di due che ne hanno diciotto diciannove
+TOI015	si comportano i ragazzini rispetto alla nostra generazione è quella
+TOR001	mh mh mh mh
+TOI015	se tu vai in centro il sabato sera per assurdo è più difficile trovare ti faccio un esempio una rissa tra due che hanno trentanni
+TOR001	ah ma certo
+TOI015	ma è più semplice trovarne di due che ne hanno diciotto diciannove
 TOR001	mh mh mh
-TOI015	beh però tipo quello dieci anni fa non era uguale
-TOI001	non credo no non cre~
-TOI015	secondo me sì
+TOR001	beh però tipo quello dieci anni fa non era uguale
+TOI015	non credo no non cre~
+TOI001	secondo me sì
 TOI015	ma io quello non credo
-TOR001	forse perché nella mia nella mia compagnia o nel tutto il taglio di persone che ho frequentato io era era più difficile trovare quel~ quella tipologia di persone
+TOI015	forse perché nella mia nella mia compagnia o nel tutto il taglio di persone che ho frequentato io era era più difficile trovare quel~ quella tipologia di persone
 TOR001	mh
 TOR001	mh mh mh
-TOI015	no però dico se è una situazione in cui c'è un po' di macello così è più facile che siano ragazzini piuttosto che persone di trenta anni che insomma cioè
+TOR001	no però dico se è una situazione in cui c'è un po' di macello così è più facile che siano ragazzini piuttosto che persone di trenta anni che insomma cioè
 TOI015	sì
 TOI015	sì sì sì
-TOR001	esatto
-TOR001	un certo punto
-TOI015	cioè ti diverti in altri modi no non hai bisogno di di disfarti
 TOI015	esatto
-TOR001	vie sì esatto
+TOR001	un certo punto
+TOR001	cioè ti diverti in altri modi no non hai bisogno di di disfarti
+TOI015	esatto
+TOI015	vie sì esatto
 TOR001	necessariamente
 TOR001	però è vero anche secondo me anche quello che dicevi tu
 TOR001	cioè che
 TOR001	n~ non lo so eh però anche io ho un po' la sensazione che quelle cioè che ci sia
-TOI001	più la possibilità di
-TOR001	perché il numero di mestieri era più limitato
-TOI001	eh quello sì
-TOR001	e di conseguenza eri obbligato a rimboccarti le maniche per imparare a farne uno di quelli
-TOI001	mh
-TOR001	ed erano quelli i mes~
-TOI001	però restando in uno schema chiuso no eh
-TOR001	sì sì erano quelli i mestieri
-TOI001	mh mh
+TOR001	più la possibilità di
+TOI001	perché il numero di mestieri era più limitato
+TOR001	eh quello sì
+TOI001	e di conseguenza eri obbligato a rimboccarti le maniche per imparare a farne uno di quelli
+TOR001	mh
+TOI001	ed erano quelli i mes~
+TOR001	però restando in uno schema chiuso no eh
+TOI001	sì sì erano quelli i mestieri
+TOR001	mh mh
 TOI001	a oggi
 TOI001	non sono
-TOR001	o un talento qualsi~ che poi definirlo talento e sarebbe
-TOI001	
-TOR002	però so fare una cosa in particolare tipo so fare il cubo di rubik e bene o male
-TOI001	esatto
+TOI001	o un talento qualsi~ che poi definirlo talento e sarebbe
+TOI001	però so fare una cosa in particolare tipo so fare il cubo di rubik e bene o male
+TOR002	esatto
 TOI001	eh riesco
 TOI001	a tirare avanti a campare
 TOI001	cercando
@@ -840,129 +796,126 @@ TOI001	porcheria
 TOI001	cranfani per creare un nuovo cubo
 TOI001	x cagate del genere
 TOI001	senza mai veramente applicarsi in qualcosa
-TOI015	ehm
-TOI001	a lunga gittata dove ti porterà un discorso di questo tipo quello ti dico
-TOI015	ma c'è chi riesce
+TOI001	ehm
+TOI015	a lunga gittata dove ti porterà un discorso di questo tipo quello ti dico
+TOI001	ma c'è chi riesce
 TOI015	tutti questi
 TOI015	tutti questi y~ youtuber
 TOI015	piuttosto che quelli che
-TOI001	campano facendo i social o che arriverà il nuovo social
-TOI015	beh ma
-TOI001	cambierà la genera~ cambierà la tipologia di persone
+TOI015	campano facendo i social o che arriverà il nuovo social
+TOI001	beh ma
+TOI015	cambierà la genera~ cambierà la tipologia di persone
 TOI001	sì però i
 TOI001	si spostano un blocco di soldi talmente tanto grosso
 TOI001	no
 TOI001	che se tu sei bravo a entrarci dentro in quel momento
 TOI001	ne fai talmente tanti da non dover più far niente per il resto della vita
 TOI001	c'è chi
-TOR001	a ventuno anni veramente tira fuori il pulcino pio
-TOI001	
+TOI001	a ventuno anni veramente tira fuori il pulcino pio
 TOI001	no
 TOI001	che okay
 TOI001	che non vale assolutamente niente
 TOI001	chi ha inventato il pulcino pio e si è fatto i e si è preso i diritti
 TOI001	eh
-TOR002	può non fare più niente per tutti il resto della vita
-TOI001	il pulcino
+TOI001	può non fare più niente per tutti il resto della vita
+TOR002	il pulcino
 TOI001	e
 TOI001	ed è pieno di gente
 TOI001	che inventa una cagata una moda
 TOI001	e probabilmente riesce a incassare abbastanza per non fare niente altro
-TOR002	se poi ha una gestione oculata di quello che ha guadagnato
-TOR001	beh comunque deve avere una testa imprenditoriale
-TOI001	beh ma poi dipende se fai il pulcino pio o sei bill gates
-TOR001	certo però con
-TOI015	cioè nel senso
-TOI001	vabbè però questo qui non lo definisco un mio sogno americano eh
+TOI001	se poi ha una gestione oculata di quello che ha guadagnato
+TOR002	beh comunque deve avere una testa imprenditoriale
+TOR001	beh ma poi dipende se fai il pulcino pio o sei bill gates
+TOI001	certo però con
+TOR001	cioè nel senso
+TOI015	vabbè però questo qui non lo definisco un mio sogno americano eh
 TOI001	ti dico ti dico
-TOR001	però hai una
-TOI001	no no
-TOR001	hai
-TOI015	sono d'accordo
-TOI001	oggettivamente
-TOI015	però riesci
-TOI001	cioè tiri a campare
+TOI001	però hai una
+TOR001	no no
+TOI001	hai
+TOR001	sono d'accordo
+TOI015	oggettivamente
+TOI001	però riesci
+TOI015	cioè tiri a campare
 TOI001	beh
-TOI015	ma il sogno ameri~
-TOI001	come se apro una pizzeria e poi faccio un'altra roba
+TOI001	ma il sogno ameri~
+TOI015	come se apro una pizzeria e poi faccio un'altra roba
 TOI001	il sogno americano
-TOR001	il sogno americano è arrivare a avere il tuo attimo di fama di notorietà
-TOI001	noi andiamo in pizzeria forse
+TOI001	il sogno americano è arrivare a avere il tuo attimo di fama di notorietà
+TOR001	noi andiamo in pizzeria forse
 TOI001	ed arrivare a guadagnare in nel nano secondo
 TOI001	una cifra astronomica che poi tu non sia in grado
 TOI001	di ribadire quel nano secondo nel tempo tu in quel nano secondo
-TOI015	sei stato un qualcuno per il mondo e hai guadagnato tanto
+TOI001	sei stato un qualcuno per il mondo e hai guadagnato tanto
 TOI015	ma va bene
-TOR001	però non è io non lo definisco un sogno americano
+TOI015	però non è io non lo definisco un sogno americano
 TOR001	eh forse è anche un problema di aspettative
 TOR001	cioè di
 TOR001	n~ non lo so
 TOR001	cioè a me non interess~
-TOI001	cioè se potessi scegliere il mio sogno non sarebbe andare x xxxx in
-TOR001	beh allora cambiamo la domanda secondo te negli ultimi anni
-TOI001	
-TOR001	l'idea del sogno americano è cambiato
-TOI001	sempre più profondo xx
-TOI015	eh l'ho eh l'ho messa da un altro punto di vista
-TOI001	qual è il tuo sogno americano
+TOR001	cioè se potessi scegliere il mio sogno non sarebbe andare x xxxx in
+TOI001	beh allora cambiamo la domanda secondo te negli ultimi anni
+TOI001	l'idea del sogno americano è cambiato
+TOR001	sempre più profondo xx
+TOI001	eh l'ho eh l'ho messa da un altro punto di vista
+TOI015	qual è il tuo sogno americano
 TOI001	eh
 TOI001	eh appunto
-TOI015	e allora vabbè
-TOR001	per capire la tipologia di sogno americano che che hai te
-TOI001	eh sì
+TOI001	e allora vabbè
+TOI015	per capire la tipologia di sogno americano che che hai te
+TOR001	eh sì
 TOI001	beh
 TOI001	quello che è classico
 TOI001	cioè il bill gates che dal suo scantinato
 TOI001	riesce a tirare su un impero di per sé quella è la classica idea
-TOI015	di sogno americano
+TOI001	di sogno americano
 TOI015	okay
 TOI015	però lui l'ha protratta nel tempo quella cosa
 TOI015	cioè un sogno americano più sogni americani li ha vissuti steve jobs
 TOI015	che è morto due volte ed è ripartito da zero due volte
 TOI015	quello può essere una persona che
-TOR001	vende qualcosa perché sa qualcosa di onestame~
-TOI015	mh mh
+TOI015	vende qualcosa perché sa qualcosa di onestame~
+TOR001	mh mh
 TOI015	cioè il pulcino pio si hai vis~
 TOI015	vivi di rendita ma non vivi
 TOI015	cioè non fai
 TOI015	così tanti soldi da poter camparci tutta la vita
 TOI015	facendo sentire sto cazzo di pulcino che canta tutti i giorni perché ci ha rotto un po' i tre quarti
 TOI015	però ti dico
-TOR001	hai messo dei soldi d~ cioè è più un colpo di culo lo vedo io quello cioè è come fare
-TOI015	mh
+TOI015	hai messo dei soldi d~ cioè è più un colpo di culo lo vedo io quello cioè è come fare
+TOR001	mh
 TOI015	prendere tre colpi al bingo non so
-TOI001	io la vedo così
+TOI015	io la vedo così
 TOI001	sì però ormai è passata nella nel~ nella mente delle persone soprattutto i giovani
 TOI001	dove io provo
 TOI001	a fare cento cose di quelle cento cose probabilmente tutte e cento non valgono niente
 TOI001	però nella statistica una di quelle cento varrà qualcosa
 TOI001	e quindi è una
-TOI015	cerco la botta di culo allora probabilmente
+TOI001	cerco la botta di culo allora probabilmente
 TOI015	no no no però l'unica che si può mantenere cioè di tutti i social trender che ci sono in questo momento l'unica che si può mantenere è chiara ferragni
 TOI015	che ha un impero
-TOR002	a livello mediatico
-TOI015	vedi però
+TOI015	a livello mediatico
+TOR002	vedi però
 TOI015	quindi che se lei scoreggia tira
-TOR002	tira dentro un sacco di persone
-TOI015	secondo me la differenza di una chiara ferragni che lei è partita già a una condizione medio alta
-TOR002	sì è già partita là sopra ha dovuto fare
-TOI015	cioè lei è partita da
-TOR002	sì
-TOI015	famiglia piena di soldi con business attivo
+TOI015	tira dentro un sacco di persone
+TOR002	secondo me la differenza di una chiara ferragni che lei è partita già a una condizione medio alta
+TOI015	sì è già partita là sopra ha dovuto fare
+TOR002	cioè lei è partita da
+TOI015	sì
+TOR002	famiglia piena di soldi con business attivo
 TOI015	appunto
-TOR002	no allora ti facevo
-TOI015	senz'altro un business attivo
+TOI015	no allora ti facevo
+TOR002	senz'altro un business attivo
 TOI015	un esempio gli autogol
 TOI015	gli autogol no
 TOI015	questi ragazzi qua sono
 TOI015	tre ragazzi no due studiano uno fa il magazziniere a pavia
 TOI015	e questi tre cosa
 TOI015	non hanno fatto nientaltro che inventarsi una canzone sul papu gomez
-TOR002	ha trovato un calciatore che più scemo di loro gli è andato dietro
-TOI015	
+TOI015	ha trovato un calciatore che più scemo di loro gli è andato dietro
 TOI015	e secondo me hanno avuto un'idea geniale
-TOR001	però questi tre quando fanno le interviste fa~ sì sì però noi dobbiamo lavorare lo stesso per campare
-TOI015	eh certo
+TOI015	però questi tre quando fanno le interviste fa~ sì sì però noi dobbiamo lavorare lo stesso per campare
+TOR001	eh certo
 TOI015	quindi per quanti soldi tu possa tirare su
 TOI015	e e hanno magari
 TOI015	trenta quaranta cinquanta mila persone che li seguono
@@ -970,24 +923,22 @@ TOI015	devi comunque la~
 TOI015	adottarti in altro modo per tirare a campare
 TOI015	quello non è
 TOI015	cioè quello è sopravvivere
-TOR002	non è il sogno americano
-TOI015	beh ma perché non hai un vero talento
+TOI015	non è il sogno americano
+TOR002	beh ma perché non hai un vero talento
 TOI015	beh
-TOR002	ma no ma no figura~
+TOI015	ma no ma no figura~
 TOR002	cioè voglio dire hai imbroccato quella giusta
-TOI015	ma il talento è mantere
-TOR002	sicuramente
-TOR001	cioè io posso essere un pul~ il xx cioè posso inventarmi il pulcino pio e
-TOI001	posso essere il pulcino pio
-TOR001	
-TOI001	
-TOR002	tu potresti esserlo il pulcino pio
+TOR002	ma il talento è mantere
+TOI015	sicuramente
+TOR002	cioè io posso essere un pul~ il xx cioè posso inventarmi il pulcino pio e
+TOR001	posso essere il pulcino pio
+TOI001	tu potresti esserlo il pulcino pio
 TOR002	cioè capisci che io mi invento il pulcino pio okay
 TOR002	magari per
-TOI015	tre anni vivo di rendita di quello
-TOI001	eh però non è un s~ un sogno americano è una cosa che ti porta
-TOR002	no tre anni hai gli incassi di quello
-TOI001	tre anni ho gli incassi di quella
+TOR002	tre anni vivo di rendita di quello
+TOI015	eh però non è un s~ un sogno americano è una cosa che ti porta
+TOI001	no tre anni hai gli incassi di quello
+TOR002	tre anni ho gli incassi di quella
 TOI001	la la rendita se è un botto secco perché se quella roba lì
 TOI001	come poteva essere la stronzata del
 TOI001	t~ ti sparo gente a caso il powerbar
@@ -1000,8 +951,8 @@ TOI001	rendita
 TOI001	per tre anni
 TOI001	però tu ci vivi molto di più perché quello magari ci hai tirato dentro cinque o sei milioni
 TOI001	per aver tirato fuori un power barars
-TOR002	e con cinque sei milioni
-TOI001	certo
+TOI001	e con cinque sei milioni
+TOR002	certo
 TOI001	al sulla vita di un operaio medio
 TOI001	che non arriva al milione all'a~ al nel termine della carriera lavorativa
 TOI001	eh
@@ -1012,44 +963,43 @@ TOI001	ti danno la possibilità di
 TOI001	partire
 TOI001	no
 TOI001	sì
-TOI015	tirarti su un tuo impero alla bill gates o a qualsiasi altra cosa se hai le capacità
-TOI001	bravo
+TOI001	tirarti su un tuo impero alla bill gates o a qualsiasi altra cosa se hai le capacità
+TOI015	bravo
 TOI001	però intanto se tu quei cinque sei milioni li metti
 TOI001	nel fondo
 TOI001	che cappero ne so
 TOI001	che ti fruttano il due per cento
 TOI001	io
-TOI015	che non ho avuto quei cinque sei milioni devo lavorare lui probabilmente no
-TOI001	no no ma sicuro non ti sto dicendo questo
+TOI001	che non ho avuto quei cinque sei milioni devo lavorare lui probabilmente no
+TOI015	no no ma sicuro non ti sto dicendo questo
 TOI001	e penso che siano in tanti
 TOI001	chi ha investito nel bitcoin in quel momento buono
-TOI015	da cento euro si è fatto milioni
+TOI001	da cento euro si è fatto milioni
 TOI015	sì
-TOI001	mah sì
+TOI015	mah sì
 TOI001	quindi è un momento dove se tu sei buono ad a trovare l'onda giusta è più facile probabilmente arrivare a un sogno americano
 TOI001	cioè nel
 TOI001	nel
 TOI001	ho fatica a portare il pane a tavola a non averlo più
 TOI001	e nel frattempo oltrettutto contando che è tutto online
-TOI015	ho anche i miei quindici minuti di notorietà
+TOI001	ho anche i miei quindici minuti di notorietà
 TOI015	ma sicuramente però non lo definisco un sogno americano
 TOI015	cioè
 TOI015	va bene fer~ per quanti soldi puoi ma che poi soldi puoi fare
 TOI015	eh
 TOI015	tu hai tirato fuori degli esempi degli esempi già già troppo avanti secondo me
 TOI015	cioè quello del power bank e quel~
-TOR001	ha avuto immagini forti dietro di lui ha avuto messi ronaldo ha avuto
-TOI015	mh
+TOI015	ha avuto immagini forti dietro di lui ha avuto messi ronaldo ha avuto
+TOR001	mh
 TOI015	c'era ancora batistuta che era
-TOR001	si faceva ancora vedere in giro
-TOI015	
+TOI015	si faceva ancora vedere in giro
 TOI015	cioè
 TOI015	hai avuto gente importante dietro
 TOI015	quindi soldi ne avrai cacciati per
 TOI015	tirare dentro sponsor del genere
 TOI015	sicuramente poi li hai rispresi tutti e ci hai anche mangiato sopra eh
-TOI001	non dico quello
-TOR001	ce le ha tutte le mie ce le ha
+TOI015	non dico quello
+TOI001	ce le ha tutte le mie ce le ha
 TOR001	beh ma poi scusa
 TOR001	cosa cambia tra
 TOR001	il pulcino pio
@@ -1058,61 +1008,61 @@ TOR001	e un
 TOR001	qualunque gruppo del cazzo che fa il successo dell'estate e poi sparisce
 TOR001	cioè te la ricordi asereje
 TOR001	che fine hano fatto quelle
-TOI001	la fine di c~ di che farà il pulcino pio tra dieci anni
-TOR002	eh ma quello
-TOR001	che ha già fatto probabilmente
+TOR001	la fine di c~ di che farà il pulcino pio tra dieci anni
+TOI001	eh ma quello
+TOR002	che ha già fatto probabilmente
 TOR001	ho capi~ non so
-TOI015	si troveranno in rehab tutte e quattro
-TOI001	no magari dureranno i so~ io dico hanno messo tutti i soldi da parte sicuramente vivono di rendita oggi
-TOR001	eh ce~
+TOR001	si troveranno in rehab tutte e quattro
+TOI015	no magari dureranno i so~ io dico hanno messo tutti i soldi da parte sicuramente vivono di rendita oggi
+TOI001	eh ce~
 TOR001	ah
-TOI001	non lo so
-TOI015	è impossibile cioè io non so quanto a quanto ammontano i guadagni
+TOR001	non lo so
+TOI001	è impossibile cioè io non so quanto a quanto ammontano i guadagni
 TOI015	non xxxrai la vita magari
 TOI015	hai investito in e comprato
 TOI015	faccio un esempio
-TOR001	cento gelaterie in tutto il mondo e tu campi di quello può essere
+TOI015	cento gelaterie in tutto il mondo e tu campi di quello può essere
 TOR001	ma quando ti arriva un botta di soldi così alta così all'improvviso
 TOR001	a meno che tu non sia già
 TOR001	in alto e quindi d'accor~ cioè insomma sei abituato ad avere soldi che ti girano e quindi okay ma
 TOR001	nel momento in cui fai il botto partendo non dico da zero ma quasi
-TOI015	cioè quanti di questi hanno
-TOR001	la freddezza di di avere il mestiere
-TOI001	sì
-TOR001	ma eh però
-TOR002	cioè
-TOR001	più che la freddezza secondo me è la bravura
+TOR001	cioè quanti di questi hanno
+TOI015	la freddezza di di avere il mestiere
+TOR001	sì
+TOI001	ma eh però
+TOR001	cioè
+TOR002	più che la freddezza secondo me è la bravura
 TOR001	eh ma la la longimiranza di dire abbiamo avuto la botta di culo
 TOR001	adesso calma
 TOR001	e non
-TOI001	se li strafottono
-TOR001	ma sai non è detto
+TOR001	se li strafottono
+TOI001	ma sai non è detto
 TOR001	no
-TOI015	cioè però
+TOR001	cioè però
 TOI015	vabbè poi dipende anche quanti ne fai eh
-TOI001	se ci xxxx
-TOI015	perché
+TOI015	se ci xxxx
+TOI001	perché
 TOI015	farli fuori tutti diventa anche
-TOR001	per te che magari non hai
-TOI015	impegnativo
-TOI001	hai pensato anche cose che neanche esistono
-TOI015	no più che altro che dagli errori degli altri impari
-TOI001	o ne sei a conoscenza o xxx
+TOI015	per te che magari non hai
+TOR001	impegnativo
+TOI015	hai pensato anche cose che neanche esistono
+TOI001	no più che altro che dagli errori degli altri impari
+TOI015	o ne sei a conoscenza o xxx
 TOI001	è sempre più noto cioè voglio dire ormai
 TOI001	e
 TOI001	si sa sempre di più di quello che è andato in malora o in rovina perché
-TOR001	da il calciatore al giocatore di basket a qualsiasi altro personaggio
+TOI001	da il calciatore al giocatore di basket a qualsiasi altro personaggio
 TOR001	ma pensa
-TOI001	però ah
+TOR001	però ah
 TOI001	che
 TOI001	quindi quelle cose lì che ormai
 TOI001	ti martellano su queste cose perché sei pieno di notizie e pubblicità fuffa in giro
 TOI001	e
 TOI001	se guardi due telegiornali
-TOI015	ti raccontano sempre di uno che è caduto in malora e che prima era un qualcuno
+TOI001	ti raccontano sempre di uno che è caduto in malora e che prima era un qualcuno
 TOI015	no ma vabbe
-TOI001	però comunque
-TOI015	e quindi a quel punto lì tu stesso dici io non voglio finire come quello e quindi impari una gestione diversa
+TOI015	però comunque
+TOI001	e quindi a quel punto lì tu stesso dici io non voglio finire come quello e quindi impari una gestione diversa
 TOI015	il sogno americano cioè
 TOI015	secondo me la differenza tra il sogno americano che hai descritto te no
 TOI015	è un sogno americano che vendi un'idea all'interno della società
@@ -1120,143 +1070,134 @@ TOI015	poi
 TOI015	giusta o non giusta perché lì il power il braccialettino lì non serviva a una minchia
 TOI015	eppure l'hai venduta e ci hai fatto i miliardi
 TOI015	però tutti quest~ tutta questa gente che fa i video su youtube mette e canta
-TOR001	cioè canti anche male oltretutto eh
-TOI015	
+TOI015	cioè canti anche male oltretutto eh
 TOI015	nessuno glielo dice
 TOI015	sei bellissima
 TOI015	cioè
-TOR001	uno come rovazzi onestamente mi sta un sacco simpatico
-TOI015	
+TOI015	uno come rovazzi onestamente mi sta un sacco simpatico
 TOI015	però
-TOI001	lascial~ non farlo cantare cioè fagli mettere la musica piuttosto
-TOI015	sì poi siamo d'accordi
-TOI001	però questo è
-TOI015	d'accordo che non possono uscire fuori tutti okay perché non c'è spazio per tutti
+TOI015	lascial~ non farlo cantare cioè fagli mettere la musica piuttosto
+TOI001	sì poi siamo d'accordi
+TOI015	però questo è
+TOI001	d'accordo che non possono uscire fuori tutti okay perché non c'è spazio per tutti
 TOI015	no no no no ma di fatti non c'è spazio per tutti ma soprattutto non vendi niente
-TOI001	cioè non vendi
+TOI015	cioè non vendi
 TOI001	però come si chiama quell'imbecille che è in giro con bisio
 TOI001	che ci ha la risata stupida
 TOI001	che faceva
 TOI001	mh
 TOI001	eh
-TOI015	dai italia's got talent
-TOI001	chi è frank matano
+TOI001	dai italia's got talent
+TOI015	chi è frank matano
 TOI001	eh
 TOI001	è un a~
-TOI015	è un altro che
+TOI001	è un altro che
 TOI015	cazzo ma quello ha fatto le iene
 TOI015	quello cioè quello ne sa
-TOI001	non è non è
+TOI015	non è non è
 TOI001	sì ma fondam~
-TOR001	fondamentalmente nasce come youtuber
-TOI001	eh certo sì
-TOR002	anche lui eh
-TOI015	sì
-TOI001	sì ma nasce anche come pirla xx
-TOI015	e quindi
-TOI001	quello là poi fatto tante altre c~
-TOI015	quindi
-TOI001	quello si è reinventato attore che non aveva mai fatto la cosa x
+TOI001	fondamentalmente nasce come youtuber
+TOR001	eh certo sì
+TOI001	anche lui eh
+TOR002	sì
+TOI015	sì ma nasce anche come pirla xx
+TOI001	e quindi
+TOI015	quello là poi fatto tante altre c~
+TOI001	quindi
+TOI015	quello si è reinventato attore che non aveva mai fatto la cosa x
 TOI001	ma sì
 TOI001	perché
 TOI001	perché non possono usc~ non c'è spazio per tutti okay
-TOI015	soprattutto negli altri settori
+TOI001	soprattutto negli altri settori
 TOI015	sì
-TOI001	sì sì sì
+TOI015	sì sì sì
 TOI001	perché usciti fuori da quello che è online
-TOR001	la tivù ha spazio per cinque persone non può averne spazio per un miliardo
-TOI001	certo
+TOI001	la tivù ha spazio per cinque persone non può averne spazio per un miliardo
+TOR001	certo
 TOI001	no
 TOI001	quindi poi solamente i pochi che
 TOI001	e risultano essere
 TOI001	fisicamente accettabili
 TOI001	simpatici o chissà che cos'altro
 TOI001	eh
-TOI015	usciranno fuori
-TOI001	tagliano lo schermo
+TOI001	usciranno fuori
+TOI015	tagliano lo schermo
 TOI001	beh
 TOI001	però lì è una questione di casistica di momento però in verità
-TOI015	quanta gente esce fuori così dal nulla a oggi
-TOI001	sì
-TOI015	senza senza avere un curriculum particola~
+TOI001	quanta gente esce fuori così dal nulla a oggi
+TOI015	sì
+TOI001	senza senza avere un curriculum particola~
 TOI015	però quanta gente
 TOI015	però quanta gente poi ci rimane effettivamente
 TOI015	cioè anche uno come costantino
 TOI015	vitagliano che ha fatto il cretino per anni in televisione
 TOI015	in tutti i
 TOI015	in tutti i salotti di maria de filippi poi è andato a
-TOI001	svariati
+TOI015	svariati
 TOI001	però
 TOI001	costantino negli anni che si faceva
 TOI001	tre serate il sabato sera in tre posti diversi
 TOI001	si prendevva quindici mila euro in tre posti diversi lui il sabato sera mentre io spendevo cento euro per una bottiglia di coca e jack
-TOI015	lui si prendeva trenta mila euro per fare tre comparsate
-TOI001	no ma sicuro eh
+TOI001	lui si prendeva trenta mila euro per fare tre comparsate
+TOI015	no ma sicuro eh
 TOI001	eh
 TOI001	ha fatto quattro cinque anni così
-TOR001	eh voglio dire
+TOI001	eh voglio dire
 TOR001	ha fatto anche un film eh
-TOI001	protagonista
-TOR001	ha fatto anche un film
-TOI001	
-TOI015	eh
+TOR001	protagonista
 TOI001	ha fatto anche un film
-TOR001	eh sì
-TOI015	una roba trashissima
+TOI001	eh
+TOI015	ha fatto anche un film
+TOI001	eh sì
+TOR001	una roba trashissima
 TOI015	non sapevo sapesse anche leggere pazzesco
-TOR001	
-TOI001	
-TOR001	quel suo amico com'era daniele interrante
+TOI001	quel suo amico com'era daniele interrante
 TOR001	chi è quell'altro scemo ah sì
-TOI015	sì sì sì
-TOR001	dio fa
-TOI001	ma è una robaccia
-TOI015	ragazzi
-TOI001	abbiamo preso il xxx
-TOI015	platone ho tirato fuori
-TOI001	abbiamo preso il preso xx eh
+TOR001	sì sì sì
+TOI015	dio fa
+TOR001	ma è una robaccia
+TOI001	ragazzi
+TOI015	abbiamo preso il xxx
+TOI001	platone ho tirato fuori
+TOI015	abbiamo preso il preso xx eh
 TOI001	platone
-TOR002	eh
-TOI001	toccava a te
-TOR001	mi fai scopa con tutto te lo dico
-TOR002	madre di dio
-TOR001	o di quattro
-TOI001	allora andiamo avanti
-TOR001	sì lì fai scopa con tutto
-TOI001	ehm cosa fai durante il tempo libero
+TOI001	eh
+TOR002	toccava a te
+TOI001	mi fai scopa con tutto te lo dico
+TOR001	madre di dio
+TOR002	o di quattro
+TOR001	allora andiamo avanti
+TOI001	sì lì fai scopa con tutto
+TOR001	ehm cosa fai durante il tempo libero
 TOI001	poi ci ho anche un' evolu~
-TOR001	un'altra domanda
-TOI001	eh no mo falla però ti prego s~
-TOR001	no vai vai fai fai
-TOI001	eh ma sempre xxx
-TOR001	dopo eh no adesso devo finire sta mano che mi fa scopa con tutto
-TOI001	
-TOR002	
-TOR001	no lì quelle lì è un peccato
-TOI015	a~ allora cosa fai durante il tempo libero
+TOI001	un'altra domanda
+TOR001	eh no mo falla però ti prego s~
+TOI001	no vai vai fai fai
+TOR001	eh ma sempre xxx
+TOI001	dopo eh no adesso devo finire sta mano che mi fa scopa con tutto
+TOR002	no lì quelle lì è un peccato
+TOR001	a~ allora cosa fai durante il tempo libero
 TOI015	cosa faccio durante il tempo libero
 TOI015	e gioco a pallone esco con gli amici e
-TOR001	e basta
+TOI015	e basta
 TOR001	ah okay
-TOI015	quindi fai attività sportiva
-TOI001	gioco all'xbox volevo dirlo ma
-TOR001	bravo
-TOR001	
-TOI015	quindi giochi a calcio
-TOR001	sì
+TOR001	quindi fai attività sportiva
+TOI015	gioco all'xbox volevo dirlo ma
+TOI001	bravo
+TOR001	quindi giochi a calcio
+TOI015	sì
 TOR001	giochi con lui
 TOR001	mh
 TOR001	okay
-TOI001	
 TOI001	qui
-TOR001	eh
-TOR001	eh
-TOI015	quante volte a settimana
-TOI001	l'ho fatto anch'io sì
 TOI001	eh
-TOR001	t~ t~ no no più che altro
+TOR001	eh
+TOR001	quante volte a settimana
+TOI015	l'ho fatto anch'io sì
+TOI001	eh
+TOI001	t~ t~ no no più che altro
 TOR001	no ho detto sol~
-TOI001	me ne sono accorta mentre parlavo
+TOR001	me ne sono accorta mentre parlavo
 TOI001	t~ t~
 TOI001	dovrei
 TOI001	dovresti chiedere
@@ -1264,336 +1205,298 @@ TOI001	appunto
 TOI001	tu giochi ancora a calcio
 TOI001	perché tra i due mi sa che è lui quello che gioca e io quello che
 TOI001	xxx
-TOR001	tu hai una donna in mano
-TOR002	quindi fai calcio quante volte a settimana
-TOI001	bho
-TOI015	o hai un tre
-TOR002	tre
-TOR001	non te lo dico
+TOI001	tu hai una donna in mano
+TOR001	quindi fai calcio quante volte a settimana
+TOR002	bho
+TOI001	o hai un tre
+TOI015	tre
+TOR002	non te lo dico
 TOR001	okay
-TOI001	che ruolo hai
-TOI015	tu mi hai preso il tre di cuori
-TOR002	centro campista
-TOR001	ci avevo due carte
-TOI001	okay
-TOR001	ah tu hai due m~ ah e ma allora
-TOR002	sempre lo stesso ruolo o hai cambiato ne~ negli anni
-TOI001	eh sì
-TOI015	e quindi sì hai sia la donna che il tre
-TOI001	sono passato da giocare da dietro
-TOI015	sei uno stronzo
-TOR002	a in mezzo al campi
-TOR001	sì
+TOR001	che ruolo hai
+TOI001	tu mi hai preso il tre di cuori
+TOI015	centro campista
+TOR002	ci avevo due carte
 TOR001	okay
-TOI001	okay quindi prima stavi in difesa
-TOI015	eh ma tieniteli tutti
-TOR001	sì
+TOI001	ah tu hai due m~ ah e ma allora
+TOR001	sempre lo stesso ruolo o hai cambiato ne~ negli anni
+TOR002	eh sì
+TOI001	e quindi sì hai sia la donna che il tre
+TOI015	sono passato da giocare da dietro
+TOI001	sei uno stronzo
+TOI015	a in mezzo al campi
+TOR002	sì
 TOR001	okay
-TOI001	dove
-TOR001	vai a fanculo
-TOI015	in mezzo o ai lati
-TOR001	in mezzo
+TOR001	okay quindi prima stavi in difesa
+TOI001	eh ma tieniteli tutti
+TOI015	sì
 TOR001	okay
-TOR001	
-TOI015	ehm dove preferisci giocare
-TOI001	in mezzo al campo
-TOR001	metti il rincone
-TOR002	dove sei adesso quindi
-TOI015	sedici
-TOR001	sì
+TOR001	dove
+TOI001	vai a fanculo
+TOR001	in mezzo o ai lati
+TOI015	in mezzo
+TOR001	okay
+TOR001	ehm dove preferisci giocare
+TOI015	in mezzo al campo
+TOI001	metti il rincone
+TOR001	dove sei adesso quindi
+TOR002	sedici
+TOI015	sì
 TOR001	okay d'accordo
-TOI001	ehm quindi mi hai detto già quante volte a settimana
-TOR001	ho fatto la primiera
-TOI001	ehm
+TOR001	ehm quindi mi hai detto già quante volte a settimana
+TOI001	ho fatto la primiera
+TOR001	ehm
 TOI001	basta
 TOI001	due punti
-TOR001	scopa e primiera
-TOR002	ti piace anche guardarlo
-TOR001	io ho fatto napoli fino quattro
+TOI001	scopa e primiera
+TOR001	ti piace anche guardarlo
+TOR002	io ho fatto napoli fino quattro
 TOR001	il calcio
-TOI015	o lo ti piace solo giocarci
-TOR001	eh no mi piace solo giocarci
-TOI015	okay quindi non segui il calcio
+TOR001	o lo ti piace solo giocarci
+TOI015	eh no mi piace solo giocarci
+TOR001	okay quindi non segui il calcio
 TOI015	no non seguo
 TOI015	no vabbè
-TOI001	le partite
-TOR001	mortacci
-TOI001	ma dai non fare sta faccia
-TOI015	no no
-TOR002	seguo le partite di cartello cioè quando c'è magari le semifinali di champions league quelle mi piace vedere perché sono partite belle da vedere
-TOR001	xx quattro cinque sei sette otto nove
-TOI015	okay
+TOI015	le partite
+TOI001	mortacci
+TOR001	ma dai non fare sta faccia
+TOI001	no no
+TOI015	seguo le partite di cartello cioè quando c'è magari le semifinali di champions league quelle mi piace vedere perché sono partite belle da vedere
+TOR002	xx quattro cinque sei sette otto nove
+TOR001	okay
 TOI015	perché non trovo interessante vedere
-TOI001	juventus cioè l'evento
-TOR001	posso mettere un puntino sulla i
-TOI001	ho una domanda sì
-TOR001	no no il puntino sulla i era
-TOI001	intervieni
+TOI015	juventus cioè l'evento
+TOI001	posso mettere un puntino sulla i
+TOR001	ho una domanda sì
+TOI001	no no il puntino sulla i era
+TOR001	intervieni
 TOI001	era
-TOR001	vedi il calcio o guardi il calcio o segui il calcio
-TOI001	mh mh vanno bene entrambe
-TOR001	giochi alla snai per caso
-TOR002	
-TOI015	
-TOI001	mi stai seguendo
-TOI015	ecco x
+TOI001	vedi il calcio o guardi il calcio o segui il calcio
+TOR001	mh mh vanno bene entrambe
+TOI001	giochi alla snai per caso
+TOI015	mi stai seguendo
+TOI001	ecco x
 TOI015	anche se segue~
-TOR001	o ma non stavate dicendo ragaz~ ragazzi
-TOI001	
+TOI015	o ma non stavate dicendo ragaz~ ragazzi
 TOI001	con che frequenza
 TOI001	perché
-TOI015	è sottile eh
-TOI001	ha chiesto se
-TOI015	guardare è un conto seguire
-TOI001	gioca nel fa~ la domanda è
-TOI015	se ti chiedo il risultato della spal di due anni fa in serie b
+TOI001	è sottile eh
+TOI015	ha chiesto se
+TOI001	guardare è un conto seguire
+TOI015	gioca nel fa~ la domanda è
+TOI001	se ti chiedo il risultato della spal di due anni fa in serie b
 TOI015	no
-TOI001	
-TOI015	tu me lo tiri fuori
+TOI001	tu me lo tiri fuori
 TOI015	eh
-TOI001	mi ha chiesto se guardo il calcio
+TOI015	mi ha chiesto se guardo il calcio
 TOI001	eh
 TOI001	ah ah okay
-TOR002	no di fatti io ho messo un puntino piccolo
-TOI015	vabbè vabbè
-TOR002	ha chiesto se guardo il calcio
-TOI001	ti volevo quanto eravamo
-TOI015	eravamo sette a tre per me
+TOI001	no di fatti io ho messo un puntino piccolo
+TOR002	vabbè vabbè
+TOI015	ha chiesto se guardo il calcio
+TOR002	ti volevo quanto eravamo
+TOI001	eravamo sette a tre per me
 TOI015	ecco
-TOI001	non ti distrarre q~
+TOI015	non ti distrarre q~
 TOI001	sette a me tre xx xxx
-TOR002	lui non se lo ricorda io lo so sette a tre per me
-TOI001	quindi siamo quindici a otto per me
-TOR001	
-TOI001	
-TOR001	ecco
-TOI015	quindi segui comunque eh
-TOR001	sì seguo il calcio
+TOI001	lui non se lo ricorda io lo so sette a tre per me
+TOR002	quindi siamo quindici a otto per me
+TOI001	ecco
+TOR001	quindi segui comunque eh
+TOI015	sì seguo il calcio
 TOR001	ah okay d'accordo
-TOI015	ma non tifi una squadra
+TOR001	ma non tifi una squadra
 TOI015	no
-TOR001	a parte per xxxx
+TOI015	a parte per xxxx
 TOR001	nien~
-TOI001	ma è xx
+TOR001	ma è xx
 TOI001	sì no troppe delusioni
-TOI015	vabbene ci sta
-TOI001	
+TOI001	vabbene ci sta
 TOI001	io lo appoggio va bene
-TOI015	troppe delusioni
-TOR001	quest'anno spal e benevento mi hanno dato delle soddisfazioni
-TOI001	xx
-TOI015	
-TOR001	non indifferenti
-TOI015	che squadra tifi
+TOI001	troppe delusioni
+TOI015	quest'anno spal e benevento mi hanno dato delle soddisfazioni
+TOR001	xx
+TOI015	non indifferenti
+TOR001	che squadra tifi
 TOI015	ma no non è che tifo una squadra se ti devo dire una squadra inter
-TOR001	ma non è che tifo una squadra
-TOI001	ah
+TOI015	ma non è che tifo una squadra
+TOR001	ah
 TOI001	eh
-TOR001	troppe delusioni
-TOI015	perché l'inter
-TOR001	perché mio padre tifava inter xxxxx
-TOI001	ah okay
-TOR001	perché c'ha un tecnico che è pelato pure lui
-TOI015	
-TOI001	
-TOI015	
-TOR001	xx xxx spalletti per farci i capelli così per quello
-TOI015	ah è un omaggio
-TOR001	speriamo non arrivi tipo gullit se no siamo fottuti
-TOI015	è un disatro eh certo
-TOR001	prossimo anno è già con
+TOI001	troppe delusioni
+TOR001	perché l'inter
+TOI015	perché mio padre tifava inter xxxxx
+TOR001	ah okay
+TOI001	perché c'ha un tecnico che è pelato pure lui
+TOI015	xx xxx spalletti per farci i capelli così per quello
+TOR001	ah è un omaggio
+TOI015	speriamo non arrivi tipo gullit se no siamo fottuti
+TOR001	è un disatro eh certo
+TOI015	prossimo anno è già con
 TOR001	ehm
 TOR001	va bene
 TOR001	ah
 TOR001	dunque
 TOR001	e hai detto che esci con gli amici
-TOI015	che posti frequenti
+TOR001	che posti frequenti
 TOI015	che posti frequento
-TOI001	
-TOI015	oh non guardare me eh non è che stavo con lui tutto il giorno
-TOR001	il traballo
-TOI015	okay
-TOR002	il traballo è
-TOI001	il traballo è rino xx
-TOR001	rino
+TOI001	oh non guardare me eh non è che stavo con lui tutto il giorno
+TOI015	il traballo
 TOR001	okay
-TOI015	
+TOI015	il traballo è
+TOR002	il traballo è rino xx
+TOI001	rino
+TOR001	okay
 TOI015	vabbè rino e
 TOI015	e piazza vittorio
-TOR001	poi può essere san salvario
-TOI001	okay
-TOI001	dimmi
-TOR001	bowling
-TOR001	e
-TOI015	
-TOR001	tipo il bowling sì
-TOI001	okay
-TOI001	un posto vale l'altro
-TOR001	punto
-TOI001	e esci anche in settimana o preferisci uscire il fine settimana
-TOI001	eh
-TOI015	ei
-TOR001	no esco anche in settimana
+TOI015	poi può essere san salvario
 TOR001	okay
-TOI015	eh d'accordo ascolti musica
-TOR001	sì
-TOI015	cosa
+TOI001	dimmi
+TOI001	bowling
+TOR001	e
+TOI015	tipo il bowling sì
+TOR001	okay
+TOI001	un posto vale l'altro
+TOI001	punto
+TOR001	e esci anche in settimana o preferisci uscire il fine settimana
+TOI001	eh
+TOI001	ei
+TOI015	no esco anche in settimana
+TOR001	okay
+TOR001	eh d'accordo ascolti musica
+TOI015	sì
+TOR001	cosa
 TOI015	eh
-TOR001	
-TOI015	
-TOI001	stai zitto
-TOI015	eh dammi un indirizzo generico
+TOI015	stai zitto
+TOI001	eh dammi un indirizzo generico
 TOI015	stai zitto
 TOI015	eh
+TOI015	italiane
 TOI001	italiane
-TOI015	italiane
 TOI015	non si x
-TOR001	non si chiede quali
-TOI015	italiane
-TOI001	canzoni italiane
-TOI015	per caso ascolti l'amoroso
-TOI001	sì anche
-TOI015	mh
-TOR001	ascolto anche ho anche le sigle della disney
-TOI015	oka~ anche qui
-TOR001	sono bellisimi
-TOI001	sì sì anche lui apprezza il xx
-TOR002	cantate dalla moroso anche quelle
-TOI015	
-TOR001	no non le canta le sigle
-TOI001	la amoroso canta le sigle della disney
-TOR001	no però
-TOI015	cioè
-TOI001	quella potrebbe cantare anche i canti in chiesta te l'ho sempre detto
+TOI015	non si chiede quali
+TOR001	italiane
+TOI015	canzoni italiane
+TOI001	per caso ascolti l'amoroso
+TOI015	sì anche
+TOI001	mh
+TOI015	ascolto anche ho anche le sigle della disney
+TOR001	oka~ anche qui
+TOI015	sono bellisimi
+TOR001	sì sì anche lui apprezza il xx
+TOI001	cantate dalla moroso anche quelle
+TOI015	no non le canta le sigle
+TOR001	la amoroso canta le sigle della disney
+TOI001	no però
+TOR001	cioè
+TOI015	quella potrebbe cantare anche i canti in chiesta te l'ho sempre detto
 TOI001	xxx
-TOR001	
-TOI001	
-TOI015	e lui l'ascolta
+TOI001	e lui l'ascolta
 TOI015	ovunque cioè
 TOI015	una così può cantare anche sotto casa mia
-TOI001	dal balcone va bene uguale
-TOR001	pensa che farò scopa con il sei
-TOI015	
-TOR001	
+TOI015	dal balcone va bene uguale
+TOI001	pensa che farò scopa con il sei
 TOR001	e il nesso con la amoroso qual è che ve la scopa~
 TOR001	vabbè
-TOI001	eh
+TOR001	eh
 TOI001	che faccio scopa con sei
-TOR002	cazzo
-TOR001	
-TOI001	gné
+TOI001	cazzo
+TOR001	gné
 TOI001	che c'è eh
-TOR001	un bel pallo ti ho preso
-TOI015	okay dove ascolti la musica solitamente
-TOR001	eh o sul telefono
-TOI015	okay
-TOR001	o in macchina
+TOI001	un bel pallo ti ho preso
+TOR001	okay dove ascolti la musica solitamente
+TOI015	eh o sul telefono
+TOR001	okay
+TOI015	o in macchina
 TOR001	in macchina
 TOR001	vai ai concerti anche
-TOI015	o preferisci solo ascoltarla
-TOR001	no penso solo ascoltarla
+TOR001	o preferisci solo ascoltarla
+TOI015	no penso solo ascoltarla
 TOR001	okay
-TOI015	quasi finito eh
-TOR001	concerti poco e niente
-TOI015	okay
+TOR001	quasi finito eh
+TOI015	concerti poco e niente
+TOR001	okay
 TOI015	quelli belli gigi d'agostino
 TOI015	quello vero
-TOR001	antonello venditti cioè
-TOR001	
-TOR002	guarda lui che apprezza
-TOR001	venditti è bello
-TOI001	ah è contento
-TOR001	a~ antonello come no
-TOR002	ma gigi d'agostino quanti anni ha adesso
-TOI015	si è divertito
-TOI001	ma era in mezzo ad una strada quando ho visto al xxx
-TOR001	ma secondo me lo hanno imbalsamato
-TOR002	
-TOI015	
-TOI001	due o tre settimane fa
-TOR001	tirano i cordini e lui muove il piatto
-TOI015	vero
-TOR001	due o tre settimane fa si erano xx xx
-TOR002	
-TOI001	
+TOI015	antonello venditti cioè
+TOR001	guarda lui che apprezza
+TOR002	venditti è bello
+TOR001	ah è contento
+TOI001	a~ antonello come no
+TOR001	ma gigi d'agostino quanti anni ha adesso
+TOR002	si è divertito
+TOI015	ma era in mezzo ad una strada quando ho visto al xxx
+TOI001	ma secondo me lo hanno imbalsamato
+TOI015	due o tre settimane fa
+TOI001	tirano i cordini e lui muove il piatto
+TOR001	vero
+TOI015	due o tre settimane fa si erano xx xx
 TOI001	come eh
-TOI015	e i mama xxx
-TOR001	no ma lo hanno portato su in due sul palco
-TOI001	minchia
-TOI015	
-TOI001	te lo giuro
-TOI015	sì
+TOI001	e i mama xxx
+TOI015	no ma lo hanno portato su in due sul palco
+TOR001	minchia
+TOI015	te lo giuro
+TOI001	sì
 TOI015	quello con l'xx mi faceva
-TOI001	mi fa speriamo che non muoia qua mentre xx
-TOI015	lui es~ lui e fa la squadra
-TOI001	sai se ci interrogano anche xxx
-TOR002	ingaggiato lentural di gente che port~ i barellisti
-TOR001	
-TOI015	ma scusa ma va ancora in giro
-TOR001	sì
-TOI015	davvero
-TOR002	ma non qua per io s~ loro mi dicevano
-TOI015	cioè lo ha suonato due volte a bologna quando ci stavo io
+TOI015	mi fa speriamo che non muoia qua mentre xx
+TOI001	lui es~ lui e fa la squadra
+TOI015	sai se ci interrogano anche xxx
+TOI001	ingaggiato lentural di gente che port~ i barellisti
+TOR001	ma scusa ma va ancora in giro
+TOI015	sì
+TOR001	davvero
+TOI015	ma non qua per io s~ loro mi dicevano
+TOR002	cioè lo ha suonato due volte a bologna quando ci stavo io
 TOI015	un amico di
-TOR001	eh
-TOI015	davvero
-TOI001	ma fa fa non in italia
-TOI015	fa molto più lombardia in verità
-TOI001	no fa molto più fuori italia
-TOI015	beh sì anche
+TOI015	eh
+TOR001	davvero
+TOI015	ma fa fa non in italia
+TOI001	fa molto più lombardia in verità
+TOI015	no fa molto più fuori italia
+TOI001	beh sì anche
 TOI015	tipo al momento che è in ucraina
-TOI001	c'ha
-TOR001	eh eh
-TOI015	
-TOI001	porta
-TOI015	sì sì
-TOI015	
-TOI001	ma lui secondo te raglia ancora come faceva q~ quando veniva qua
+TOI015	c'ha
+TOI001	eh eh
+TOI015	porta
+TOI001	sì sì
+TOI015	ma lui secondo te raglia ancora come faceva q~ quando veniva qua
 TOI001	eh
 TOI001	ma xx non smette più ormai
 TOI001	xxx da fa~
-TOR002	
 TOR002	sarà in piedi grazie a quello
 TOR002	più che altro
-TOI015	eh secondo me sì
+TOR002	eh secondo me sì
 TOI015	no no
-TOI001	ho iniziato a pensare che gli occhiali e il cappello fossero incollato
+TOI015	ho iniziato a pensare che gli occhiali e il cappello fossero incollato
 TOI001	no guarda che
-TOR001	
-TOI015	
-TOI001	guarda che cinque anni che
-TOR002	se tu spegni la luce e lui è nella stanza il naso e i polmoni si illuminano eh
-TOR001	
-TOI001	
-TOI015	te che cosa hai fa~
-TOR002	dai però risparmio l'abatjour ma vabbè aspetto dai aspetto dai
-TOR001	un cazzo tocca ancora a me
-TOI015	tutto sommato vedi
-TOI001	risparmio sulle abatjour quindi
-TOI015	ti devo fare un'altra domanda
-TOR001	del cazzo no mi xxx grazie
-TOI001	vai vai fai tanto tranqui~ io ho quasi finito
-TOR001	no allora fai fai pure
-TOR002	niente in realtà altri interessi tipo cinema
-TOI015	ho fatto una mossaccia a xxx
-TOR001	no
+TOI015	guarda che cinque anni che
+TOI001	se tu spegni la luce e lui è nella stanza il naso e i polmoni si illuminano eh
+TOI001	te che cosa hai fa~
+TOI015	dai però risparmio l'abatjour ma vabbè aspetto dai aspetto dai
+TOR002	un cazzo tocca ancora a me
+TOR001	tutto sommato vedi
+TOI015	risparmio sulle abatjour quindi
+TOI001	ti devo fare un'altra domanda
+TOI015	del cazzo no mi xxx grazie
+TOR001	vai vai fai tanto tranqui~ io ho quasi finito
+TOI001	no allora fai fai pure
+TOR001	niente in realtà altri interessi tipo cinema
+TOR002	ho fatto una mossaccia a xxx
+TOI015	no
 TOR001	niente
-TOI001	okay puoi fare la domanda allora io ho fatto
-TOR002	okay io ora io no
-TOI001	io ho fatt~
+TOR001	okay puoi fare la domanda allora io ho fatto
+TOI001	okay io ora io no
+TOR002	io ho fatt~
 TOI001	cazzo
 TOI001	prima sentivo
 TOI001	che tu parlavi
-TOR002	eh
-TOI015	minchia guarda che ce l'ha pronta eh
+TOI001	eh
+TOR002	minchia guarda che ce l'ha pronta eh
 TOI015	pare
-TOR002	sì
-TOI015	
-TOI001	sì sì
+TOI015	sì
+TOI015	sì sì
 TOI001	e dice~ e dicevi che
 TOI001	se con le giuste proposte estere
-TOI015	ci saresti andato cioè quindi ape~ apertura a
-TOI001	ah sì
+TOI001	ci saresti andato cioè quindi ape~ apertura a
+TOI015	ah sì
 TOI001	mh
 TOI001	porco duez
 TOI001	ehm
@@ -1608,70 +1511,68 @@ TOI001	cioè
 TOI001	per me oggi andare via da
 TOI001	da qui
 TOI001	vorrebbe dire
-TOI015	mi sposto e vado in brasile a lavorare a fare un lavoro meccanico fondamentalmente no
-TOI001	mh
+TOI001	mi sposto e vado in brasile a lavorare a fare un lavoro meccanico fondamentalmente no
+TOI015	mh
 TOI001	perché tutto il resto si può fare anche già di qua
 TOI001	cioè non credi che siano limitate le scelte i i settori lavorativi
 TOI001	per qual~ per il motivo
-TOR001	per cui andarsene all'estero
-TOI001	mh
-TOI015	sto face~ xx xx troppe cose insieme sto andando in pappa
+TOI001	per cui andarsene all'estero
+TOR001	mh
+TOI001	sto face~ xx xx troppe cose insieme sto andando in pappa
 TOI015	ma io
 TOI015	no io credo tutti i
-TOI001	credo
-TOI015	
+TOI015	credo
 TOI015	credo che se
 TOI015	lavori prettamente
 TOI015	metti i fisici di rior~
 TOI015	cioè
 TOI015	per quanto riguarda me sono le organizzazioni di di spazi di
 TOI015	sistemi di lavoro
-TOI001	quindi non puoi farli prettamente
-TOR001	non lo so
-TOI001	certo
-TOI015	conta
+TOI015	quindi non puoi farli prettamente
+TOI001	non lo so
+TOR001	certo
+TOI001	conta
 TOI015	bisogna star lì
-TOI001	capire chi hai davanti
-TOR001	conta prima di guardarle
-TOI015	certo
-TOR001	capire gli spazi da gestire come gestirli
-TOI015	dipende dal lavoro
-TOR001	esatto dipende anche dal xxx xx
-TOI001	sono d'accordo
+TOI015	capire chi hai davanti
+TOI001	conta prima di guardarle
+TOR001	certo
+TOI015	capire gli spazi da gestire come gestirli
+TOR001	dipende dal lavoro
+TOI015	esatto dipende anche dal xxx xx
+TOR001	sono d'accordo
 TOI001	no dammene una
 TOI001	ne ho sparate troppe
-TOI015	
-TOR001	dipende dalla tip~ dalla tipologia di lavoro piccolo xx
-TOI001	no
-TOR002	no perché in un periodo storico dove siamo tutti migranti verso chissà quali direzioni alla fine
-TOI001	ma guarda che bucio di culo questo
+TOI015	dipende dalla tip~ dalla tipologia di lavoro piccolo xx
+TOR001	no
+TOI001	no perché in un periodo storico dove siamo tutti migranti verso chissà quali direzioni alla fine
+TOR002	ma guarda che bucio di culo questo
 TOI001	molte delle cose sono
 TOI001	globali con un click
-TOR002	poche cose sono veramente da spostarsi e andare in un posto a farle
+TOI001	poche cose sono veramente da spostarsi e andare in un posto a farle
 TOR002	scusa
-TOI015	time out
-TOI001	però dipende ti ripeto che
-TOR002	cioè lo fai solamente perché ci sono i i paradisi fiscali dove pagano di più fondamentalmente okay
+TOR002	time out
+TOI015	però dipende ti ripeto che
+TOI001	cioè lo fai solamente perché ci sono i i paradisi fiscali dove pagano di più fondamentalmente okay
 TOR002	pesca carte
-TOI015	xxx tipo asso di quadri per prenderlo lui
-TOI001	ma quadri cosa hai
-TOR002	per fare la tua stessa mansione vieni solamente pagato di più
-TOI015	sì
+TOR002	xxx tipo asso di quadri per prenderlo lui
+TOI015	ma quadri cosa hai
+TOI001	per fare la tua stessa mansione vieni solamente pagato di più
+TOR002	sì
 TOI015	eh
-TOR001	sento paura di sfiga qua
+TOI015	sento paura di sfiga qua
 TOR001	eh
 TOR001	ma
-TOR002	dipende da cosa fai
-TOI001	hai fatto la napoli
+TOR001	dipende da cosa fai
+TOR002	hai fatto la napoli
 TOI001	io non ho ancora fatto nien~ tu prima hai fatto otto scope ma che f~
-TOI015	hai fatto carte a caso mi hai fatto otto scope
-TOI001	in faccia così
+TOI001	hai fatto carte a caso mi hai fatto otto scope
+TOI015	in faccia così
 TOI001	avevo dieci carte in mano me ne ha prese otto su dieci
-TOR001	pre~ n~ non ti dico x uno era un asso non poteva prenderlo
-TOI001	ride è contento vedi
-TOR001	sì sì
-TOR002	no comunque sono d'accordo dipende da cosa fai
-TOI001	non sento perché
+TOI001	pre~ n~ non ti dico x uno era un asso non poteva prenderlo
+TOR001	ride è contento vedi
+TOI001	sì sì
+TOR001	no comunque sono d'accordo dipende da cosa fai
+TOR002	non sento perché
 TOI001	cioè
 TOI001	cioè
 TOI001	ti sposti
@@ -1681,20 +1582,20 @@ TOI001	riesci a spostarti
 TOI001	in maniera seria per giusti compensi
 TOI001	e spost~
 TOI001	molti adesso si spostano e vanno in giro in cerca di fortuna
-TOI015	per scappare da dove stanno
+TOI001	per scappare da dove stanno
 TOI015	sì sì
-TOI001	quello sicuramente
-TOR002	hai preso il kappa
-TOI001	sì
-TOR001	che cazzo me ne faccio del x xx
-TOI001	hai altre domande molto profonde
+TOI015	quello sicuramente
+TOI001	hai preso il kappa
+TOR002	sì
+TOI001	che cazzo me ne faccio del x xx
+TOR001	hai altre domande molto profonde
 TOI001	in questo momento mi è andato in coppa il cervello
-TOR001	ci penseròe
+TOI001	ci penseròe
 TOR001	va bene dai
-TOI001	caso
-TOI015	xxx
-TOI001	ci farai sapere
-TOR001	sì
-TOI001	grazie mille
-TOR001	figurati per così poco
+TOR001	caso
+TOI001	xxx
+TOI015	ci farai sapere
+TOI001	sì
+TOR001	grazie mille
+TOI001	figurati per così poco
 TOR001	ringraziavo lui però va bene grazie anche a te

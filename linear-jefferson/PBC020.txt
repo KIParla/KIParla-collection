@@ -5,31 +5,31 @@ BOR006	ad esempio mi
 BOR006	e:h mi interessava sapere
 BOR006	(arrivo)
 BOR006	e:h da quanto vivete (.) se vivete nel quartiere bolognina,
-BOI047	da: da quanto vivete qua?
+BOR006	da: da quanto vivete qua?
 BOI047	io dal: e:h
-BOR006	millenovecentonovanta
+BOI047	millenovecentonovanta
 BOR006	mh
-BOI047	però
-BOR006	[(anc~)] sì
+BOR006	però
+BOI047	[(anc~)] sì
 BOR006	[e:]
-BOI048	e lei?
-BOR006	devo: (.) a[ndare io]?
+BOR006	e lei?
+BOI048	devo: (.) a[ndare io]?
 BOR006	[sì sì]
-BOI048	parlate: liberamente non c(io)è non è un'intervista: a [turni]
-BOR006	[ci si pre]senta?
-BOI048	sì sì
+BOR006	parlate: liberamente non c(io)è non è un'intervista: a [turni]
+BOI048	[ci si pre]senta?
+BOR006	sì sì
 BOI048	(mi) chiamo luciano
 BOI048	visto che c'è il nome solo come hai detto ((ride)) (.) e:hm
-BOR006	abito (.) a corticella non in bolognina
-BOI048	(mhmh)
-BOR006	attualmente l'unico è il quartiere navile
-BOI048	mhmh sì
-BOR006	e::h dal settantuno
-BOI048	ah [(però)]
-BOR006	[abi]to a corticella
+BOI048	abito (.) a corticella non in bolognina
+BOR006	(mhmh)
+BOI048	attualmente l'unico è il quartiere navile
+BOR006	mhmh sì
+BOI048	e::h dal settantuno
+BOR006	ah [(però)]
+BOI048	[abi]to a corticella
 BOR006	(eh)
 BOR006	volevo: chiedervi come (.) trovate che sia cambiato il quartiere nel corso degli anni
-BOI047	e:h se secondo voi è rimasto: la vita nel quartiere è rimasta più o meno la stessa oppure: (.) qualcosa è cambiato
+BOR006	e:h se secondo voi è rimasto: la vita nel quartiere è rimasta più o meno la stessa oppure: (.) qualcosa è cambiato
 BOI047	ma i i:: i mutamenti maggiori: e:h si registrano si: (.) si sono registrati (.) rispetto: agli anni sessanta eccetera (.) per cui
 BOI047	io qui ancora non c'ero (.) so
 BOI047	per (.) e:h per studi e per (.) racconti altrui eh cosa è successo la bolognina era
@@ -53,33 +53,33 @@ BOI047	che sono state dismesse e ancora adesso molti di loro rappresentano (.) u
 BOI047	e:: sono stati sono e nel futuro saranno eh riconvertiti per spazi pubblici per edilizia: privata e così via
 BOI047	ma che rappresentano ancora (.) un e:h problema
 BOI047	(è) inutile continuare si può parlare fino a domattina ma fondamentalmente attualmente quindi come dicevo è un quartiere (.) chiamiamolo popolare per semplificare (.) le cose
-BOR006	e:hm:: (.) e basta
-BOI047	m:h
-BOR006	c[o]n un'amministrazione
-BOI047	[s~]
+BOI047	e:hm:: (.) e basta
+BOR006	m:h
+BOI047	c[o]n un'amministrazione
+BOR006	[s~]
 BOI047	ovviamente (.) e:h (.) di sinistra
-BOR006	e per >amministrazione di sinistra< intendo (e:h) il quartiere: il consiglio del quartiere il presidente del quartiere (.) E e:h (.) i risultati elettorali
-BOI047	mh diciamo che il quindi il cambiamento principale nel quartiere è stata l'immigrazione
-BOR006	no è [stata] la <deindustrializzazione>
+BOI047	e per >amministrazione di sinistra< intendo (e:h) il quartiere: il consiglio del quartiere il presidente del quartiere (.) E e:h (.) i risultati elettorali
+BOR006	mh diciamo che il quindi il cambiamento principale nel quartiere è stata l'immigrazione
+BOI047	no è [stata] la <deindustrializzazione>
 BOR006	[ehm]
 BOR006	quindi adesso è diciamo un quartiere più residenziale
-BOI047	c(io)è meno: non più adibito all'industria ma più:
-BOR006	come dicevo sì
+BOR006	c(io)è meno: non più adibito all'industria ma più:
+BOI047	come dicevo sì
 BOR006	chiaro >sì sì<
-BOI048	e:h luciano lei (.) mh dica quello [che vuole]
-BOR006	[io ho detto] che venivo qui solo se mi davate del tu
-BOI048	mh okay ((ride))
-BOR006	vado via ((ride)) [scusa]
-BOI047	no no (.) [ti] do del tu ((ride)) certo
-BOI048	però hai la v~ hai la voce bassa bisogna
-BOR006	sì eh io infatti cantavo in un coro ed ero un basso ((ride))
+BOR006	e:h luciano lei (.) mh dica quello [che vuole]
+BOI048	[io ho detto] che venivo qui solo se mi davate del tu
+BOR006	mh okay ((ride))
+BOI048	vado via ((ride)) [scusa]
+BOR006	no no (.) [ti] do del tu ((ride)) certo
+BOI047	però hai la v~ hai la voce bassa bisogna
+BOI048	sì eh io infatti cantavo in un coro ed ero un basso ((ride))
 BOR006	((ride))
-BOI048	vero (.) eh me ne puoi parlare se vuoi ((ride))
-BOR006	no (.) preferisco al[tro]
-BOI048	[ok]ay okay ((ride))
+BOR006	vero (.) eh me ne puoi parlare se vuoi ((ride))
+BOI048	no (.) preferisco al[tro]
+BOR006	[ok]ay okay ((ride))
 BOI048	((ride)) è un'esperienza passata
-BOR006	di che: io purtroppo non son di bolognina nel senso che no[n ho mai] abitato qui
-BOI048	[sì]
+BOI048	di che: io purtroppo non son di bolognina nel senso che no[n ho mai] abitato qui
+BOR006	[sì]
 BOI048	è quartiere navile e quindi abito nel quartiere navile dall'ottantacinque in poi si son costituiti i nuovi quartieri
 BOI048	e e in cui eh il navile eh è stato composto da tre vecchi quartieri (.) corticella bolognina lame
 BOI048	che hanno composto dall'ottantacinque in poi prima io abitando a corticella (.) facevo militanza politica (.) a corticella
@@ -88,17 +88,17 @@ BOI048	e:h
 BOI048	io eh mh e e la l~ la mia (.) attività prevalente al di là del lavoro (.) è stata l'attività politica per cui (.) ho molto più
 BOI048	conoscenze in quel campo che magari in quelli (.) sociali più specifici oppure in senso lato quelli culturali
 BOI048	e::h
-BOR006	per cui e~ (.) ero circa un ventenne nel sessantotto quindi ho fatto il sessantotto a [bologna] sulle barricate
-BOI048	[okay]
+BOI048	per cui e~ (.) ero circa un ventenne nel sessantotto quindi ho fatto il sessantotto a [bologna] sulle barricate
+BOR006	[okay]
 BOI048	settantasette e e:h la tutta la la vicenda lorusso (.) con quello che a~ e ieri cadeva l'anniversario
 BOI048	della della morte con tutte le conseguenze relative (.) terrorismo brigate rosse
 BOI048	la nascita di questi (.) fenomeni anche nelle fabbriche dove lavoravo (.) fra l'altro
-BOR006	per cui (.) ho questa mia impostazione
-BOI048	mh
-BOR006	su più sul piano politico che (.) per il resto
-BOI048	no allora direi: che possiamo parlare più del lato politico
-BOR006	ma [anche] anche roberto eh se è per quello che:
-BOI048	[ma non]
+BOI048	per cui (.) ho questa mia impostazione
+BOR006	mh
+BOI048	su più sul piano politico che (.) per il resto
+BOR006	no allora direi: che possiamo parlare più del lato politico
+BOI048	ma [anche] anche roberto eh se è per quello che:
+BOR006	[ma non]
 BOI048	forse dal punto di vista politico aveva fatto esperienze di grande livello
 BOI048	no punto di vista politico dicevo io avevo fatto il sessantotto a bologna
 BOI048	ovviamente schierato da nessuna parte perché i sessantottini allora non è che fossero
@@ -106,8 +106,8 @@ BOI048	sono entrato successivamente: nel partito comunista
 BOI048	e::h da lì nacquero tutti i vari gruppi lotta continua potere operaio tutta quella fase politica cara~ che ha ca~ caratterizzato gli anni settanta
 BOI048	fino al settantasette in cui
 BOI048	da lì in poi c'è stata la svolta con la nascita delle brigate rosse
-BOR006	svolta politica
-BOI048	(sì)
+BOI048	svolta politica
+BOR006	(sì)
 BOI048	e:h importante
 BOI048	eh e:hm per certi punti di vista (.) (il) settantasette a difendere il sindaco zangheri davanti al comune (.) con gli operai con: e:h
 BOI048	le fabbriche che uscivano per eh difendere la democrazia (.) a bologna
@@ -116,23 +116,23 @@ BOI048	e per difendere l'università (.) gli attacchi che gli studenti avevano (
 BOI048	gli operai riuscivano a dar man forte e ad aiutare (.) studenti compresi
 BOI048	perché a loro volta nel sessantotto sessantanove (.) famoso autunno caldo (.) le fabbriche furono (.) aiutate dagli studenti (.) che andavano davanti alle fabbriche a fare i picchetti
 BOI048	i: picchetti (.) assieme agli operai (.) nel famoso autunno caldo del sessantanove
-BOR006	c'è stata una sorta di e:h come dire, (.) di aiuto successivo degli operai agli studenti
-BOI048	mh
-BOR006	a bologna (.) questa è una vicenda importante negli anni settanta
-BOI048	eh [sì]
-BOR006	[(ecco)] qua]
-BOI048	quindi (.) lei c(io)è ha vissuto in prima persona
-BOR006	molte [cose] (.) non tutt(o)
+BOI048	c'è stata una sorta di e:h come dire, (.) di aiuto successivo degli operai agli studenti
+BOR006	mh
+BOI048	a bologna (.) questa è una vicenda importante negli anni settanta
+BOR006	eh [sì]
+BOI048	[(ecco)] qua]
+BOR006	quindi (.) lei c(io)è ha vissuto in prima persona
+BOI048	molte [cose] (.) non tutt(o)
 BOR006	[questi sì]
 BOR006	(que)sti sviluppi
 BOR006	magari (.) e:h (.) (scusa) ti do del tu
 BOR006	è più interessante: chiederti
 BOR006	eh se pensi che questo tipo di lotta abbia lasciato un segno (.) importante sia sulla città (.) sia magari (.) sul quartiere (.) in cui: hai sempre vissuto oppure, (.) se pensi che: m:h
 BOR006	un po' la forza di: m:h
-BOI048	(propulsice) di quel movimento si sia persa ormai
+BOR006	(propulsice) di quel movimento si sia persa ormai
 BOI048	ha lasciato un segno forte
-BOR006	nei partiti tradizionali
-BOI048	m:h
+BOI048	nei partiti tradizionali
+BOR006	m:h
 BOI048	si son sciolti i movimenti
 BOI048	quelli che citavo prima (.) lotta continua potere operaio (.) c'erano tante sigle
 BOI048	che e::h successivamente una parte di loro entraron nei partiti (.) democrazia proletaria fondazione comuniste e poi il pi ci e poi eccetera
@@ -146,20 +146,20 @@ BOI048	quindi veniva attaccato direttamente
 BOI048	e a:~ proprio per questa difesa (.) pur anche in disaccordo a volte però la democrazia si difendeva (.) scendendo in piazza (.) andando a::
 BOI048	quando passavano (.) diciamo i leader del~ de~ degli allora partiti (.) e le istituzioni (.) i cittadini gli operai in particolare ma un po' tutti e:h facevano i cordoni per difenderli
 BOI048	questa era un po' il segnale il clima che si viveva in quel periodo quindi
-BOR006	credo che questo abbia lasciato un segno anche nella crescita politica e culturale delle persone
-BOI048	m:h
+BOI048	credo che questo abbia lasciato un segno anche nella crescita politica e culturale delle persone
+BOR006	m:h
 BOI048	e oggi se
 BOI048	continuiamo ad avere una città (.) di questo tipo (.) io credo che e:h (.) aperta democratica
 BOI048	sia anche grazie a che (.) allora quei movimenti (.) hanno avuto quel ruolo (.) hanno svolto quel ruolo
-BOR006	io poi vengo da una zona il mio ex quartiere allora si chiamava quartiere (.) corticella come dicevo prima confluito
-BOI048	sì
+BOI048	io poi vengo da una zona il mio ex quartiere allora si chiamava quartiere (.) corticella come dicevo prima confluito
+BOR006	sì
 BOI048	in cui la sinistra aveva l'ottanta per cento
-BOR006	per cui (.) un humus (.) for(te)
+BOI048	per cui (.) un humus (.) for(te)
 BOR006	mhmh
 BOR006	e
 BOR006	pensi (.) è una curiosità mia (.) che e:h (.) questo tipo d~ di ambiente diciamo democratico aperto che caratterizza: la città di bologna
 BOR006	eh si vede più (.) e:h nell'azione: del singolo cittadino della singola persona,
-BOI048	o (.) è anche eh diciamo (.) eh (il) contribuisce a crearlo anche: la politica l'amministrazione della città attuale diciamo
+BOR006	o (.) è anche eh diciamo (.) eh (il) contribuisce a crearlo anche: la politica l'amministrazione della città attuale diciamo
 BOI048	io credo che in passato i partiti abbiano avuto un ruolo determinante per arrivare a questo
 BOI048	poi le pubbliche amministrazioni hanno preso in mano questo: (.) valore
 BOI048	che gli è stato (.) dato e difeso
@@ -172,35 +172,35 @@ BOI048	che e:h >eh eh< si organizza in modo tale che la pubblica amministrazione
 BOI048	poi dopo arrivano magari le associazioni i cittadin~ i: partiti e:h
 BOI048	e questo uso democratico che è rimasto (.) dà la possibilità al cittadino di organizzarsi (.) di costituire associazione
 BOI048	di esser protagonista in prima persona in tanti eventi anche singolarmente
-BOR006	e io credo questo sia: (.) un fatto importante a seguito di quei eh meccanismi del passato che rac[contavo] prima
+BOI048	e io credo questo sia: (.) un fatto importante a seguito di quei eh meccanismi del passato che rac[contavo] prima
 BOR006	[mh]
 BOR006	(eh) ti ringrazio molto
-BOI047	e:hm
-BOI048	comunque luciano (.) le brigate rosse son nate nel settanta eh non non dopo non nel settantasette
-BOI047	negli anni settanta sì s[ì]
-BOI048	[a]ll'inizio s~ no avevi det[to se]ttantasette >no no vabbè<
+BOR006	e:hm
+BOI047	comunque luciano (.) le brigate rosse son nate nel settanta eh non non dopo non nel settantasette
+BOI048	negli anni settanta sì s[ì]
+BOI047	[a]ll'inizio s~ no avevi det[to se]ttantasette >no no vabbè<
 BOI048	[sì:]
-BOI047	nel settantasette lorusso e lì ci f[u e:h la roba (.) te]rribile proprio perché il terrorismo
-BOI048	[ah sì sì lo so lo so lo so >sì sì sì<]
-BOI047	e:h noi dovevam combattere sia il terrorismo che quelli ch[e]
-BOI048	[loru]sso col terrorismo non c'entra niente
-BOR006	centra niente ma utilizzando queste c[ose] [e:h]
-BOI047	[>sì sì sì<]
-BOR006	[certo]
+BOI048	nel settantasette lorusso e lì ci f[u e:h la roba (.) te]rribile proprio perché il terrorismo
+BOI047	[ah sì sì lo so lo so lo so >sì sì sì<]
+BOI048	e:h noi dovevam combattere sia il terrorismo che quelli ch[e]
+BOI047	[loru]sso col terrorismo non c'entra niente
+BOI048	centra niente ma utilizzando queste c[ose] [e:h]
+BOR006	[>sì sì sì<]
+BOI047	[certo]
 BOR006	e ho capito:
-BOI048	diciamo l'attività (.) delle: delle bi erre si intensifica (.) a [seguito]
-BOR006	[ah beh fo]rtemente fino agli anni ottanta
-BOI047	mh
+BOR006	diciamo l'attività (.) delle: delle bi erre si intensifica (.) a [seguito]
+BOI048	[ah beh fo]rtemente fino agli anni ottanta
+BOR006	mh
 BOI047	beh però °momento° se parliamo di bologna
-BOR006	le attività della delle bi erre a bologna (.) non hanno mai avuto
-BOI047	mh
-BOR006	uno sviluppo
-BOI047	sì
+BOI047	le attività della delle bi erre a bologna (.) non hanno mai avuto
+BOR006	mh
+BOI047	uno sviluppo
+BOR006	sì
 BOI047	pur essendo parecchi e:h brigatisti provenienti da ambienti di sinistra: (.) a:h
 BOI047	emiliano roma~ emiliana soprattutto ma (.) bologna non ha mai attecchito molto
 BOI047	e:::h
-BOR006	anche se qui le organizzazioni di sinistra erano forti
-BOI047	sì
+BOI047	anche se qui le organizzazioni di sinistra erano forti
+BOR006	sì
 BOI047	vabbè non dimentichiamo che >vabbè< curcio aveva un'origine di destra se dicia~ diciamo così non era (.) però °insomma°
 BOI047	e:h (.) alla fine i movimenti a~ per dire i movimenti del settantasette per dire (.) e:h <furono portati avanti> >da da da< quella
 BOI047	da (.) da quei gruppi di studenti in particolare (.) che: sfuggivano alla alla logica delle: istituzioni e dei partiti della sinistra eccetera insomma (ecco)
@@ -211,52 +211,52 @@ BOI047	dopo aver buttato delle molotov e:h su una camionetta dei carabinieri che
 BOI047	e::h dopo (.) (per s~) per strada ovviamente: (.) manifestazioni radio alice eccetera
 BOI047	eh noi venivamo dalla romagna per difendere le sedi (.) del pi ci (.) e dell'anpi
 BOI047	dagli assalti di questi teppisti
-BOR006	quindi ecco voglio dire (.) e:h (.) >la la< (.) l~ la favola per cui questi era un movimento di sinistra va un po' va un po' (.) va un po' ridimensionata (.) [] a bologna in particola(re)
+BOI047	quindi ecco voglio dire (.) e:h (.) >la la< (.) l~ la favola per cui questi era un movimento di sinistra va un po' va un po' (.) va un po' ridimensionata (.) [] a bologna in particola(re)
 BOR006	[m:h]
-BOI047	pe[rò x]
-BOR006	[parlo] di bologna ovviament[e]
+BOR006	pe[rò x]
+BOI047	[parlo] di bologna ovviament[e]
 BOR006	[s]ì
 BOR006	però e:h (.) opinione mia poi v~ vi chiedo anche la vostra opinione su questa cosa
 BOR006	il fatto che eh l'attività delle bi erre c(io)è le bi erre in sé non abbiano mai attecchito così tanto eh (.) a bologna magari nel: (.) in emilia romagna
 BOR006	e e si trattasse più dell'azione di (.) cani sciolti o (.) teppisti diciamo
 BOR006	e:h (.) ha contribuito a mantenere forte l'identità di sinistra (.) e:h della città?
-BOI047	rispetto: ad altre realtà
+BOR006	rispetto: ad altre realtà
 BOI047	a lume di naso direi che è rilevante la co(sa)
 BOI047	anzi sì (.) direi che è rilevante proprio
-BOR006	non c'erano con~ da questo punto di vista non è che (.) abbia influito sul tessuto politico e sociale bolognese in modo diverso (.) che su quello di: (.) di altre città del centro nord in[somma (ecco)]
-BOI047	[mhmh]
-BOR006	per il sud il discorso cambia (.) ed è tutto diverso
+BOI047	non c'erano con~ da questo punto di vista non è che (.) abbia influito sul tessuto politico e sociale bolognese in modo diverso (.) che su quello di: (.) di altre città del centro nord in[somma (ecco)]
+BOR006	[mhmh]
+BOI047	per il sud il discorso cambia (.) ed è tutto diverso
 BOR006	mhmh
 BOR006	grazie
 BOR006	e: scusate se cambio: argomento bruscamente
 BOR006	però e:h per il nostro progetto ci interessa (.) eh anche parlare (.) dei monumenti della città
 BOR006	xamo: (.) s~ solo: un breve cenno
-BOI047	su: (.) visto che tu augusto hai sempre: germano scusa ((ride)) chiedo scu[sa]
-BOI048	[ci]ttà [o quartie]re?
-BOR006	[graz(ie)]
+BOR006	su: (.) visto che tu augusto hai sempre: germano scusa ((ride)) chiedo scu[sa]
+BOI047	[ci]ttà [o quartie]re?
+BOI048	[graz(ie)]
 BOR006	e:h città (.) città in generale (.) solo due domande e:h di rito che devo fare (.) su: (.) i portici
 BOR006	a bologna lo chiedo soprattutto a te (.) perché (.) siccome hai vissuto tanto tempo qua
 BOR006	e:h una cosa che (.) io (.) essendo giovane (.) e:h noto avendo sempre vissuto a bologna è che (.) quando mi sposto in altre città in qualunque altro posto (.) d'italia o all'estero
 BOR006	e:h (.) mi sen~ mi fa molto strano c(io)è (.) è una cosa particolare non vedere i portici per le vie del centro
 BOR006	e:hm sembra sempre un ambiente un po' spoglio
-BOI048	e:h >tu cosa< quando tu (.) e:h vai in altri posti noti (.) che mancano i portici,
+BOR006	e:h >tu cosa< quando tu (.) e:h vai in altri posti noti (.) che mancano i portici,
 BOI048	ma io apprezzo (.) mi piace visitare altre città e apprezzo quello che vedo
-BOR006	se quello che vedo corrisponde con le mie aspettati[ve ovvia]men(te)
-BOI048	[sì]
+BOI048	se quello che vedo corrisponde con le mie aspettati[ve ovvia]men(te)
+BOR006	[sì]
 BOI048	e:: e abbiamo notevoli:
 BOI048	strutture da visitare °insomma° (.) (importantissime) (.) s~ anche in centri minori (.) quindi (.) e:h
 BOI048	essendo abituato a v~ a vivere sotto il portico infatti io vivo (.) nel mio nella mia zona c'è il portico ((ride)) (a) corticella dove abito io (.) quindi e
 BOI048	e apprezzo molto
 BOI048	ovviamente la mia città i portici trentotto chilometri di portici che (.) attualmente son stati anche riconosciuti (.) e:h
 BOI048	internazionalmente insomma
-BOR006	eh come patrimonio dell'umanità
-BOI048	sì (.) sì
+BOI048	eh come patrimonio dell'umanità
+BOR006	sì (.) sì
 BOI048	e:h (.) e quindi i portici sono una caratteristica fondamentale per me e: (.) il por~ i~ bologna è: è un teatro
 BOI048	se si va in piazza maggiore (.) si gira come (.) si potesse essere su un (.) in un teatro (.) in cui io sono una comparsa di questo
 BOI048	mondo che mi circonda
 BOI048	a differenza di roma o altre città che sono <grandi città> ovviamente
-BOR006	ma roma con: (.) sembra più una (.) prostituta barocca (.) nei confronti della signoria di bologna
-BOI048	mh
+BOI048	ma roma con: (.) sembra più una (.) prostituta barocca (.) nei confronti della signoria di bologna
+BOR006	mh
 BOI048	questa è un po' la mia visione delle città (.) pur con tutte le le ricchezze (.) che ci sono (.) eh sparse (è) che bologna è concentrata
 BOI048	roma è molto distribuita
 BOI048	per vedere roma devi spostarti far dei chilometri per vedere una cosa un'altra un'altra (.) a bologna (.) è tutto molto più raccolto
@@ -269,74 +269,74 @@ BOI048	fortemente caratterizzata
 BOI048	caduto un po' (.) eh negli ultimi periodi (.) e::h però mi pare che ci sia una spinta per farla rinascere (.) dal punto di vista culturale
 BOI048	è stata sempre una fucina oltre l'università
 BOI048	quella nota (.) eh in tutto il mondo per la sua storia ma è una fucina di talenti di menti di: intellettuale non a caso pasolini voglio dire è nato qui anche lui ((ride))
-BOR006	per per fare un nome ma insomma tanti alt(ri)
+BOI048	per per fare un nome ma insomma tanti alt(ri)
 BOR006	grazie è stata una riposta molto bella (.) °m:h alla mia domanda°
 BOR006	e:h (.) se ti va possiamo parlare anche di: di bologna dal punto di vista culturale visto che hai (.) introdotto l'argomento
 BOR006	più in particolare la situazione del presente tu dicevi che (.) mh vedi un movimento di rinascita (.) e:h della cultura bolognese che
-BOI048	sì forse è stata molto (.) una fucina di talenti (.) molto prominente negli scorsi decenni però poi ha un po' perso la sua spinta però tu vedi: diciamo una rinascita, un tentativo di rinascita
-BOR006	sì e: in particolare con i presupposti della nuova amministrazione ch[e:] gli obiettivi che si danno li vedremo
-BOI048	[xx]
-BOR006	nel passato bologna ha avuto degli alti e bassi (.) in [que]sto settore (.) a seconda anche del tipo di amministrazione che aveva degli interessi che aveva
-BOI048	[mh]
+BOR006	sì forse è stata molto (.) una fucina di talenti (.) molto prominente negli scorsi decenni però poi ha un po' perso la sua spinta però tu vedi: diciamo una rinascita, un tentativo di rinascita
+BOI048	sì e: in particolare con i presupposti della nuova amministrazione ch[e:] gli obiettivi che si danno li vedremo
+BOR006	[xx]
+BOI048	nel passato bologna ha avuto degli alti e bassi (.) in [que]sto settore (.) a seconda anche del tipo di amministrazione che aveva degli interessi che aveva
+BOR006	[mh]
 BOI048	(ne)l periodo (i~) (.) che io considero migliori fu quando ci fu grande decentramento culturale
-BOR006	quella cosa che non avviene più
-BOI048	mh
+BOI048	quella cosa che non avviene più
+BOR006	mh
 BOI048	c'è stato un periodo di decentramento un periodo di accentramento adesso c'è un ulteriore tentativo (.) di ri~ ricominciare a decentrare
 BOI048	cosa vuol dire questo?
 BOI048	vuol dire che per un: un periodo parecchi anni (.) negli anni novanta
-BOR006	tutt~ e:h bologna era più decentrata dal punt~ avvenivano degli degli eventi culturali (.) anche nelle periferie
-BOI048	mh
+BOI048	tutt~ e:h bologna era più decentrata dal punt~ avvenivano degli degli eventi culturali (.) anche nelle periferie
+BOR006	mh
 BOI048	di grande importanza (.) voluti programmati (.) dall'amministrazio(ne)
-BOR006	poi dopo si è <andato a> ricondurre al centro (.) [i g]randi eventi lasciando le periferie
-BOI048	[sì]
+BOI048	poi dopo si è <andato a> ricondurre al centro (.) [i g]randi eventi lasciando le periferie
+BOR006	[sì]
 BOI048	e:h alla mercé (.) fra virgolette ovviamente di associazioni (.) culturali
 BOI048	non in grado (.) di riprendere i temi e poterli (.) e:h proporre alla popolazione (.) al dovuto livello
-BOR006	per cui (.) in periferia il livello culturale è fortemente calato
-BOI048	sì
+BOI048	per cui (.) in periferia il livello culturale è fortemente calato
+BOR006	sì
 BOI048	poi c'è una ripresa oggi c'è un'intenzione più che una ripresa
-BOR006	ar~ e::h (.) in maggio avremo: la fiera dell'arte
-BOI048	mh
+BOI048	ar~ e::h (.) in maggio avremo: la fiera dell'arte
+BOR006	mh
 BOI048	e: m:h per dire no, (.) nel passato ((colpo_di_tosse))
 BOI048	quella manifestazione che dura durava e dura tre giorni
-BOR006	a bologna tutte le gallerie erano aperte anche di notte (.) di se[ra le] famose notti bianche dell'arte
-BOI048	[sì]
+BOI048	a bologna tutte le gallerie erano aperte anche di notte (.) di se[ra le] famose notti bianche dell'arte
+BOR006	[sì]
 BOI048	e:: e i portici si ri~ i negozi dei poi si riempivano di opere d'arte di quadri che venivano esposti
 BOI048	ciò avveniva nel centro storico
-BOR006	per un periodo è avvenuto anche nelle periferie quella cosa che a me piacerebbe la sto stiam discutendo adesso se è possibile rilanciarla
-BOI048	mh
+BOI048	per un periodo è avvenuto anche nelle periferie quella cosa che a me piacerebbe la sto stiam discutendo adesso se è possibile rilanciarla
+BOR006	mh
 BOI048	in quei giorni lì (.) i negozi di de~ delle periferie possono ospitare delle opere d'arte nelle loro vetrine
 BOI048	occupare dei e:h in bolognina c'è: in via matteotti un portico dove si posson fare delle installazioni (.) artistiche (.) con dei gruppi di e:h artisti che a bologna ci sono (.) sono anche già interessati
-BOR006	è importante ritornare a pensare che i grandi eventi non possano essere solo (.) arte fiera (.) essere rinchiusi là ma possono essere (.) distribuiti sul territorio
-BOI048	sono molto d'accordo sì c(io)è (.) m:h ess[endo]
-BOR006	[questo vale] per il teatro l'altro eh
-BOI048	mh
-BOR006	ho fatto esempio della dell'arte figurativa ma vale (.) per la musica vale per il teatro vale per (.) un po' per tutto
+BOI048	è importante ritornare a pensare che i grandi eventi non possano essere solo (.) arte fiera (.) essere rinchiusi là ma possono essere (.) distribuiti sul territorio
+BOR006	sono molto d'accordo sì c(io)è (.) m:h ess[endo]
+BOI048	[questo vale] per il teatro l'altro eh
+BOR006	mh
+BOI048	ho fatto esempio della dell'arte figurativa ma vale (.) per la musica vale per il teatro vale per (.) un po' per tutto
 BOR006	io sono molto d'accordo perché (.) sono nato nel novantotto (.) e mi sono trasferito in: bolognina nel duemilaquattro se non sbaglio
 BOR006	x nel navile in realtà
 BOR006	e:h (.) c(io)è ho sempre notato che (.) dal: punto di vista culturale (.) il quartiere è stato sempre molto
 BOR006	spoglio
 BOR006	c(io)è m:h eh secondo me (.) (beh) il navile in particolare è un quartiere (.) residenziale anche (.) tranquillo c(io)è
-BOI048	carino però: (.) è vero che: ultimamente c(io)è ho notato che la [m:h]
+BOR006	carino però: (.) è vero che: ultimamente c(io)è ho notato che la [m:h]
 BOI048	[bi]sogna valorizzarli queste cose (.) è questo che manca
-BOR006	il navile è ricco (.) c'è un: un cinema teatro che [è il g]alliera c'è il teatro testoni (.) c'è un museo (.) un museo d'arte che è chiuso
-BOI048	[sì]
-BOR006	là vicino alla casa della (.) della salute (.) [eh e:] e è dedicato un museo con quattro sculture di fontanesi
-BOI048	[eh sì sì]
-BOR006	e viene che è chiuso non si può andarlo a vedere se non in orari programmati da altri
-BOI048	m:h
+BOI048	il navile è ricco (.) c'è un: un cinema teatro che [è il g]alliera c'è il teatro testoni (.) c'è un museo (.) un museo d'arte che è chiuso
+BOR006	[sì]
+BOI048	là vicino alla casa della (.) della salute (.) [eh e:] e è dedicato un museo con quattro sculture di fontanesi
+BOR006	[eh sì sì]
+BOI048	e viene che è chiuso non si può andarlo a vedere se non in orari programmati da altri
+BOR006	m:h
 BOI048	quindi:: (.) >vabbè< insomma poi tanti altri elementi ci sono dei laboratori:
-BOR006	interessantissimi da vedere (e) visitare si tratta di valorizzarli
+BOI048	interessantissimi da vedere (e) visitare si tratta di valorizzarli
 BOR006	sì son d'accordo perché l~ le cose ci sarebbero se venissero valorizzate
-BOI048	io controllo: un secondo a quanto siamo arrivati che m:h
+BOR006	io controllo: un secondo a quanto siamo arrivati che m:h
 BOI048	io vado un po' che:
-BOI047	devo andare nell'orto io (insomma)
-BOI048	cadria[no]?
-BOI047	[no] no no (.) xx
-BOI048	passo di lì ogni tanto (.) [se] è tu~ tutto chiuso ci vai poco
+BOI048	devo andare nell'orto io (insomma)
+BOI047	cadria[no]?
+BOI048	[no] no no (.) xx
+BOI047	passo di lì ogni tanto (.) [se] è tu~ tutto chiuso ci vai poco
 BOI048	[eh]
-BOR006	ah beh soprattutto d'inverno
-BOI048	vi va se vi tengo altri cinque dieci minuti?
-BOR006	prego certo
+BOI048	ah beh soprattutto d'inverno
+BOR006	vi va se vi tengo altri cinque dieci minuti?
+BOI048	prego certo
 BOR006	grazie mille
 BOR006	e::h (.) volevo chiedere a te
 BOR006	e:h (.) visto che c(io)è abbiamo parlato della situazione: politica della città diciamo (.) e:h successiva a quando tu sei arrivato
@@ -344,13 +344,13 @@ BOR006	precedente
 BOR006	e::hm e di cosa pensi invece della situazione politica attuale
 BOR006	diciamo della corrente amministrazione
 BOR006	e::h visto che luciano parlava di (.) un a~ tentativo di e:h rinascita culturale anche delle periferie
-BOI048	e:h se c'è (.) qualcos'altro: di: di questa amministrazione che ti sembra positivo (.) finora o anche (.) negativo
-BOR006	è presto
-BOI047	è presto o[kay]
+BOR006	e:h se c'è (.) qualcos'altro: di: di questa amministrazione che ti sembra positivo (.) finora o anche (.) negativo
+BOI048	è presto
+BOR006	è presto o[kay]
 BOI047	[no:] non è presto è un'amministrazione che è della mia parte e:h politica che io apprezzo e:h che ha un programma che io condivido:
 BOI047	spero (.) eh che ci siano le forze necessarie per e:::h per realizzarlo
-BOR006	e:h più di questo non saprei proprio ((ride)) [cosa dir]e
-BOI047	[(va bene cioè)]
+BOI047	e:h più di questo non saprei proprio ((ride)) [cosa dir]e
+BOR006	[(va bene cioè)]
 BOI047	eh sono un tantino preoccupato
 BOI047	per e::h delle (.) eh presenze all'interno di queste amministrazioni non proprio >di questa amministrazione comunale< di quella eh metropolitana e di quelle di quartiere
 BOI047	alcune presenze non proprio in sintonia (.) perfetta con e:::h la forza politica cioè il pi di che ha la: la (.) la maggioranza e che qualche problemino
@@ -362,10 +362,10 @@ BOI047	e::h ha avuto la la la sventura (.) di avere dei periodi di amministrazio
 BOI047	>eh eh< demenziali: (o) di amministrazioni (.) che vedevano i fascisti fare il saluto e:h romano e:h davanti al palazzo del comune che vedevano
 BOI047	eh personaggi piuttosto squallidi che poi han dovuto lasciare per per vicende eh giudiziare:: ECCETERA
 BOI047	e:h >eh eh< (.) passati questi (.) per fortuna (.) brevi momenti
-BOR006	continuiamo ad avere una delle amministrazioni dal mio punto di vista (.) più valide e più: promettenti d'italia insomma
+BOI047	continuiamo ad avere una delle amministrazioni dal mio punto di vista (.) più valide e più: promettenti d'italia insomma
 BOR006	sì
 BOR006	mh grazie
-BOI047	[e xx]
+BOR006	[e xx]
 BOI047	[a~] anche perché la storia politica di bologna il suo passato la resistenza eccetera eccetera c(io)è hanno lasciato ovviamente (.) dei segni perché non dimentichiamo (.) che bologna
 BOI047	e questo è un aspetto abbastanza importante la bolognina in particolare ma bologna nel suo complesso (.) ha avuto una una una eh
 BOI047	come dire eh delle vicende storiche una una e::h
@@ -383,11 +383,11 @@ BOI047	dove poi vennero anche raccolti: i carabinieri che si erano rifiutati a r
 BOI047	e che poi fu chiuso bombardato:
 BOI047	e:h dagli alleati che lo credevano non un lager ma una caserma (.) e:h
 BOI047	che in effetti era una caserma prima di diventare (.) era una caserma di ufficiali di:: sanità
-BOR006	prima di diventare appunto un un un lager
-BOI047	grazie (.) quindi c(io)è (.) a(vve~) (.) il quartiere bolognina in particolare (.) è stato ricco di avvenimenti storici
-BOR006	certo
-BOI047	e che magari hanno anche un (.) un influsso diciamo lasciano una traccia anche nella vita politica attuale nella coscienza (.) [cittadina]
-BOR006	[un ricordo] un ricordo
+BOI047	prima di diventare appunto un un un lager
+BOR006	grazie (.) quindi c(io)è (.) a(vve~) (.) il quartiere bolognina in particolare (.) è stato ricco di avvenimenti storici
+BOI047	certo
+BOR006	e che magari hanno anche un (.) un influsso diciamo lasciano una traccia anche nella vita politica attuale nella coscienza (.) [cittadina]
+BOI047	[un ricordo] un ricordo
 BOR006	sì
 BOR006	e:hm a proposito diciamo della: (.) dell'azione (.) del singolo cittadino (.) mi interessava avere una vostra opinione
 BOR006	e:h c~ come ultima domanda (.) per chiudere
@@ -399,65 +399,65 @@ BOR006	mi a me sembra mia opinione che (.) abbiano perso un po' la loro forza: m
 BOR006	populs(r)ice di
 BOR006	diciamo (.) che e:h la: l'attivismo giovanile (.) eh in quel momento era in~ più incentrato sul (.) combattere contro un nemico
 BOR006	e:h rispetto: ad essere una forza propositiva questa è la mia opinione
-BOI047	non so cosa ne pensate voi
+BOR006	non so cosa ne pensate voi
 BOI047	sì in effetti: è così nel senso che
 BOI047	e::h fu un eh
 BOI047	chiamiamolo movimento comunque
 BOI047	che si che è nato e si è sviluppato (.) contro il il il rischio (.) di una vittoria: di una certa destra:: in italia a livello elettorale
 BOI047	questa: chiamiamola battaglia e così
-BOR006	è (.) è stata vinta (.) [s]ia pure con e:h (.) qualche: diciamo così limite
-BOI047	[mh]
+BOI047	è (.) è stata vinta (.) [s]ia pure con e:h (.) qualche: diciamo così limite
+BOR006	[mh]
 BOI047	e::h loro per~ (.) però queste sardine come si sono volute chiamare
-BOR006	e:h a parte il fatto che poi:: il il il leader chiamiamolo così è entrato poi: (.) in nell'amministrazione comunal[e qui]ndi è
-BOI047	[sì]
-BOR006	può può far valere la sua e la loro voce (.) ma poi hanno qui di fianco la sede (.) proprio qui di fronte
-BOI047	(mh)
+BOI047	e:h a parte il fatto che poi:: il il il leader chiamiamolo così è entrato poi: (.) in nell'amministrazione comunal[e qui]ndi è
+BOR006	[sì]
+BOI047	può può far valere la sua e la loro voce (.) ma poi hanno qui di fianco la sede (.) proprio qui di fronte
+BOR006	(mh)
 BOI047	e: svolgono attività: di vario genere con con
 BOI047	un po' rarefatte perché adesso è inverno e così via poi il covid ha voluto dire molto
 BOI047	però attività >di di< incontro coi giovani coi ragazzi
 BOI047	sia a livello ludico chiamiamolo così vedere la partita okay ma anche (.) eh incontrarsi per discutere eccetera cioè non è che sia un chiamiamolo movimento che sia morto
 BOI047	però ripeto (.) il suo obiettivo il suo (.) il suo la sua mission la sua missione principale
-BOR006	era quella di combattere questo tipo >di di di< (.) di apatia: verso la possibile vittoria di una brutta destra in italia e quella è una battaglia che hanno vinto
-BOI047	mh[mh]
+BOI047	era quella di combattere questo tipo >di di di< (.) di apatia: verso la possibile vittoria di una brutta destra in italia e quella è una battaglia che hanno vinto
+BOR006	mh[mh]
 BOI047	[poi] nel quartiere si son sviluppati anche altri movimenti (.) che però non hanno questa positività
 BOI047	pensiamo ai gruppetti eh che lav~ che (.) bazzica~, bazzica~ >che che< gravitano attorno all'ics emme ventiquattro poi (.) e:h sgombrato: e così via al di fuori di ogni
 BOI047	magari in certi casi avevano anche un ruolo positivo >di aggregazione dei giovani eccetera però< totalmente e:h i:~ in~ indifferenti a: ogni a ogni come dire regola >di di di< di legalità >di di di< ecce~
 BOI047	però vabbè questo è un discorso (.) un po' più complicato e::h e così
 BOI047	poi e::h poi
 BOI047	ci sono: (.) diversi gruppi che di giovani che s~ che si aggregano che hanno e:h attività diverse a livello sportivo: eccetera insomma (.) culturale per cui
-BOR006	c'è (.) anche in campo giovanile una certa (.) vivacità anche se non è quella che noi vorremmo so~ sogneremmo e [vorre]mmo vedere realizzata
-BOI047	[mh]
-BOR006	o no?
-BOI048	mh e: se vuoi darmi al tua opinione ascolto volentieri
+BOI047	c'è (.) anche in campo giovanile una certa (.) vivacità anche se non è quella che noi vorremmo so~ sogneremmo e [vorre]mmo vedere realizzata
+BOR006	[mh]
+BOI047	o no?
+BOR006	mh e: se vuoi darmi al tua opinione ascolto volentieri
 BOI048	le sardine oggi sono in piazza
-BOR006	per la prima volta dopo tanto tem[po] (.) per la pace
+BOI048	per la prima volta dopo tanto tem[po] (.) per la pace
 BOR006	[ah però]
-BOI048	mh
+BOR006	mh
 BOI048	assieme ad altre associazioni
 BOI048	le sardine: hanno avuto un ruolo importante roberto ha già descritto molto bene
 BOI048	il fatto che oggi non siano più
-BOR006	così (.) attive e presenti (.) io penso sia un po' colpa loro
-BOI048	mh
+BOI048	così (.) attive e presenti (.) io penso sia un po' colpa loro
+BOR006	mh
 BOI048	e un po' anche degli altri (.) che non sono state molto aiutate nel loro
 BOI048	movimento
 BOI048	io e:h apprezzo molto e sempre i movimenti spontanei giovanili che crescono e che costruiscono come han costruito le (.) le sardine (.) per un periodo
 BOI048	addirittura diventando un movimento nazionale
 BOI048	e::h (.) quindi: mi piace molto questa cosa che i giovani e:h
 BOI048	il tema è che l'unico vero movimento che negli ultimi tempi si è espresso è quello
-BOR006	[un]a volta c'erano movimenti studenteschi molto agguerriti molto forti (.) distribuiti su tutto il paese
-BOI048	[s~]
+BOI048	[un]a volta c'erano movimenti studenteschi molto agguerriti molto forti (.) distribuiti su tutto il paese
+BOR006	[s~]
 BOI048	oggi purtroppo ci son qua e là delle situazioni (.) che rimangono isolate ma non sono non si aggregano
-BOR006	e questo secondo me i giovani ne pagheranno dazio
-BOI048	sì
+BOI048	e questo secondo me i giovani ne pagheranno dazio
+BOR006	sì
 BOI048	di questo loro modo di essere
 BOI048	a differenza di quegli anni di cui parlavam prima (.) che c'erano pur nelle diversità delle grandi (.) aggregazioni
 BOI048	e e:h per le sardine::
-BOR006	io la vedo quasi una: (.) una stagione f~ conclusa
-BOI048	mh
+BOI048	io la vedo quasi una: (.) una stagione f~ conclusa
+BOR006	mh
 BOI048	DOVRANNO (.) questi giovani se han voglia compreso quello che è stato eletto e i suoi
 BOI048	e:h dovranno ridisegnarsi un futuro se vorranno a~ continuare ad essere (.) un movimento
-BOR006	oppure ognuno va per i fatti propri trova l'opportunità della propria vita e [(imb]occano) altre cose
-BOI048	[sì]
+BOI048	oppure ognuno va per i fatti propri trova l'opportunità della propria vita e [(imb]occano) altre cose
+BOR006	[sì]
 BOI048	questo è <per> quanto riguarda le sardine (.) per il resto dei giovani
 BOI048	roberto ha già detto (.) buona parte io credo comunque che
 BOI048	come come tutte le persone i giovani in particolare hanno bisogno di elementi di aggregazione
@@ -482,78 +482,78 @@ BOI048	e siccome la politica non non è un mestiere (.) lo dicon tutti ma lo fan
 BOI048	non dovrebbe essere un mestiere è più una missione è più una passione (.) più un momento della tua vita
 BOI048	(eh) rimane il fatto che gente per quarant'anni fa solo quello
 BOI048	perché ha fatto solo quello
-BOR006	a bologna è bello parlare in dialetto quella cosa che tu non hai accennato io sono un cultore del dialetto bolognese
-BOI048	((ride))
-BOR006	[insomma mi piace pa]rlare in dialetto son nato col dialetto (.) ho imparato l'italiano più avanti
-BOI048	[eh parliamo x]
-BOR006	[casa] mia si parlava solo dialetto (.) per cui
-BOI048	[mh]
+BOI048	a bologna è bello parlare in dialetto quella cosa che tu non hai accennato io sono un cultore del dialetto bolognese
+BOR006	((ride))
+BOI048	[insomma mi piace pa]rlare in dialetto son nato col dialetto (.) ho imparato l'italiano più avanti
+BOR006	[eh parliamo x]
+BOI048	[casa] mia si parlava solo dialetto (.) per cui
+BOR006	[mh]
 BOI048	mi piace molto è una: espressione anche questa di: grande cultura
-BOR006	e si fa fatica a bologna a conservarla
-BOI048	sì
+BOI048	e si fa fatica a bologna a conservarla
+BOR006	sì
 BOI048	in passato c'era il festival di dialetto bolognese in piazza maggiore
 BOI048	per alcuni anni diversi anni
 BOI048	proprio un festival in cui (.) cantori cantautori e musicisti si esprimevano in dialetto bolognese era un festival vero e poi
 BOI048	arrivava il vincitore si ritirava
 BOI048	tutto concentrato sulla lingua del dialetto bolognese
-BOR006	[cioè] per dire
+BOI048	[cioè] per dire
 BOR006	[eh]
 BOR006	sarebbe stato bello andarci
 BOR006	purtroppo (.) c(io)è non avendo i genitori che lo parlano (.) poi non mi è stato trasmesso quindi
-BOI048	c[(io)è non conosco il dialett~]
+BOR006	c[(io)è non conosco il dialett~]
 BOI048	[eh capisco perfetta]men~
-BOR006	invece è bellissimo son delle parole incredibili poi è simpatico
-BOI048	[sì è simpa~]
+BOI048	invece è bellissimo son delle parole incredibili poi è simpatico
+BOR006	[sì è simpa~]
 BOI048	[e poi è] più: (.) c(io)è ti metti a parlare in dialetto è: (.) la stessa cosa la si esprime: con una certa brillantezza (.) e:h
 BOI048	invece l'italiano lingua italiana è molto più severa (.) o meglio deve essere
-BOR006	cioè la stessa cosa detta in b~ in dialetto bolognese insomma molte volte pare molto più accettabile e leggera
+BOI048	cioè la stessa cosa detta in b~ in dialetto bolognese insomma molte volte pare molto più accettabile e leggera
 BOR006	((ride))
-BOI048	e e:hm (.) cioè puoi dire cose con più: leggerez[za con più naturalezza]
-BOR006	[certo certo] (.) certo e poi riassumi è un po' come mi vien da dire la lingua inglese [che] e:h sintetizza
-BOI048	[mh] ((ride))
+BOR006	e e:hm (.) cioè puoi dire cose con più: leggerez[za con più naturalezza]
+BOI048	[certo certo] (.) certo e poi riassumi è un po' come mi vien da dire la lingua inglese [che] e:h sintetizza
+BOR006	[mh] ((ride))
 BOI048	in dialetto bolognese un termine: arrivi subito ((ride)) con certe parole arriva subito (.) all'obiettivo
 BOI048	#e:h e purtroppo questo andrebbe (.) andrebbe mantenuto un po' di più c'è qualcuno qualche associazione la fameja bulgneisa e:h l'archiginesi
 BOI048	che provano (.) a mantenere vivo un po' (.) e:h questo: questa lingua
 BOI048	ci sono dei singoli personaggi luigi lepri carpani ed altri che scrivono (.) in dialetto bolognese
-BOR006	e:h però si va via via (.) mh nell'esercizio comune quotidiano si va perdendo
+BOI048	e:h però si va via via (.) mh nell'esercizio comune quotidiano si va perdendo
 BOR006	sì (.) c(io)è dev~ dovrebbe essere trasmesso perché rimanga (.) il dialetto deve essere trasmesso cioè (.) secondo me mia opinione
-BOI048	il lavoro delle associazioni culturali o degli autori: eh che scrivono in dialetto è (.) ammirevole (.) e aiuta sicuramente alla preservazione però se non viene trasmesso nelle famiglie non: c(io)è non rimane
+BOR006	il lavoro delle associazioni culturali o degli autori: eh che scrivono in dialetto è (.) ammirevole (.) e aiuta sicuramente alla preservazione però se non viene trasmesso nelle famiglie non: c(io)è non rimane
 BOI048	teatro dialettale
 BOI048	stanno chiudendo quelle c'era un mucchio di compagnie (.) a bologna che (.) facevan teatro dialettale
-BOR006	son rimaste due o tre e non riescono a vivere (.) [fra l'a]ltro
-BOI048	[mh]
+BOI048	son rimaste due o tre e non riescono a vivere (.) [fra l'a]ltro
+BOR006	[mh]
 BOI048	i burattini (.) che ancora a bologna qualcosa c'è ce (ne) sono in due che fanno i burattini
 BOI048	una volta c'eran tante compagnie (.) di burattinai
 BOI048	questo la lingua le compa~ era il dialetto (.) in teatro nelle piazze (.) e:h dov'erano presentate queste situazioni
 BOI048	interi autori nell'ottocento soprattutto ma anche all'inizio del novecento scrivevano commedie in dialetto bolognese
 BOI048	quelle che rappresentano oggi le compagnie che son rimaste (.) c'è più nessuno che scrive in dialetto bolognese
-BOR006	scrive e:h qualcuno scrive le canzoni eh [ma] una commedia un dramma un libro (.) no non sono aiutati
-BOI048	[sì]
+BOI048	scrive e:h qualcuno scrive le canzoni eh [ma] una commedia un dramma un libro (.) no non sono aiutati
+BOR006	[sì]
 BOI048	c(io)è gli mancano noi abbiamo qui nel nostro quartiere una xx fausto campani (.) che tutti gli anni programma una rassegna nel (.) in >in un< lungo il navile
 BOI048	una una rassegna teatrale: °di° di eh
 BOI048	lui è un culture è un cantautore: dialettale un cultore di queste è da solo
 BOI048	nel senso che ha un gruppo un'associazione (.) ma non è aiutato dal comune a fare questa iniziative ci mette (.) del del delle sue risorse
-BOR006	il comune ogni tanto l'aiuta (.) ma: ra~ x con degli spiccioli mi vien da di[re]
-BOI048	[sì]
+BOI048	il comune ogni tanto l'aiuta (.) ma: ra~ x con degli spiccioli mi vien da di[re]
+BOR006	[sì]
 BOI048	eh e invece questi andrebbero aiutati massicciamente affinché potessero loro che hanno la qualità per farlo diffondere
-BOR006	il dialetto anziché restringersi nei loro (.) nei loro orticelli
-BOI047	sì c(io)è
+BOI048	il dialetto anziché restringersi nei loro (.) nei loro orticelli
+BOR006	sì c(io)è
 BOI047	comunque: il dialetto: bolognese come tanti altri è destinato a morire non c'è niente da fare
 BOI047	è come se noi pensassimo >che che< che pote~ si poteva evitare di passare a~ a~ a~ all'italiano dal latino insomma ecco non
 BOI047	il dialetto continua a rimanere in ambienti ristretti in paesini e così via
-BOR006	[e:h] nelle nelle città come bologna che ha: e:h apporti culturali etnici eccetera asso~ c(io)è
-BOI047	[sì]
+BOI047	[e:h] nelle nelle città come bologna che ha: e:h apporti culturali etnici eccetera asso~ c(io)è
+BOR006	[sì]
 BOI047	ORMAI (.) dico a bologna di origine bolognese x (.) non c~ non (.) ci sarà la metà della popolazione (.) [poi puoi pensare
-BOR006	[ma come puoi pensa]re che >si si eh che che che< un un eh un romagnolo come me o: un un
-BOI047	[x x x io non sono di origine bolognese]
+BOI047	[ma come puoi pensa]re che >si si eh che che che< un un eh un romagnolo come me o: un un
+BOR006	[x x x io non sono di origine bolognese]
 BOI047	e:h un eritreo: un cinese o che parlino: i:l dialetto in famiglia o coi vicini di casa insomma non è non è assolutamente pensabile (.) è: una una
 BOI047	ancora lo trovi e:h in certe realtà: piccole in campagna magari
 BOI047	in certe case di contadini fra di loro si parlano ancora in dialetto così come io parlavo in dialetto con mio nonno e: mia nonna e molti parlavano in dialetto col marito e così via ma insomma
 BOI047	no non: non: è destinato (.) a morire a breve
 BOI047	è inutile non puoi fare fai scuole dialetto c(io)è (.) l'esercizio (.) è un esercizio: sì può essere (.) simpatico però
 BOI047	e::h eh io però prima di chiudere questa e:h (.) questa chiacchierata vorrei e:h ricordare anche un'altra cosa che è (.) molto importante per la bolognina
-BOR006	ed è il posto in cui siamo
-BOI047	mh
+BOI047	ed è il posto in cui siamo
+BOR006	mh
 BOI047	il posto in cui siamo è: una casa del popolo che fu e::h costruita
 BOI047	e:h <con> e:h i soldi derivanti dalla vendita di una precedente casa del popolo che era qui di fianco
 BOI047	che era stata costruita con l'apporto il lavoro eccetera di e::h operai di persone eh del del partito comunista il cui elenco è ancora appeso là fuori in un
@@ -563,23 +563,23 @@ BOI047	dico perché è importante per il quartiere,
 BOI047	perché da sede
 BOI047	del pi ci di allora e poi >di di esse eccetera<
 BOI047	è diventato un un un un eh (.) un luogo di ritrovo di vita e~ e:h bol~ e:h del quartiere in particolare
-BOR006	allora (.) prima di questa pandemia e così (.) questo era il posto in cui vista la disponibilità di sale eccetera
-BOI047	mh
+BOI047	allora (.) prima di questa pandemia e così (.) questo era il posto in cui vista la disponibilità di sale eccetera
+BOR006	mh
 BOI047	e:h si ritrovavano e::h (.) oltre (.) naturalmente alle attività del pi di e così
 BOI047	si ritrova~ era un punto di riferimento per le comunità in particolare straniere (.) e:::h presenti nel territorio
-BOR006	cioè nel senso che ad esempio (.) muore un eritreo la comunità eritrea veniva a far le loro veglie qui per [di]re no?
-BOI047	[mh]
+BOI047	cioè nel senso che ad esempio (.) muore un eritreo la comunità eritrea veniva a far le loro veglie qui per [di]re no?
+BOR006	[mh]
 BOI047	e::h l(i)~ l~ eh l'associazione sonrisas andinas (.) del perù aveva la sua sede qui
 BOI047	e:h come dicevo prima le le >le le< badanti ucraine eccetera che facevano i compleanni eh li venivano a fare qui (.) e::h
 BOI047	una chiesa nigeriana che faceva qui (.) tutte le settimane le loro funzioni religiose una chiesa evangelica so cavolo cosa non me ne intendo
 BOI047	una chiesa filippina pure
 BOI047	e:::h (.) e poi vabbè a parte che era anche la sede di sagre di cene di pranzi che coinvolgevano un po' tutti però
-BOR006	tutto questo con e:h la pandemia (.) che [è so]pravvenuta
-BOI047	[mh]
+BOI047	tutto questo con e:h la pandemia (.) che [è so]pravvenuta
+BOR006	[mh]
 BOI047	s~ s~ si è ovviamente fermato
 BOI047	anche se adesso piano piano si sta riprendendo però in modo molto molto più limitato
-BOR006	e poi (.) fenomeno più rilevante qui sono nate le cucine popolari
-BOI047	sì
+BOI047	e poi (.) fenomeno più rilevante qui sono nate le cucine popolari
+BOR006	sì
 BOI047	che poi dopo hanno avuto uno sviluppo anche nel resto: della città per cui da da una che era questa sono diventate poi tre o quattro
 BOI047	e eh eh eh e questo
 BOI047	per il quartiere (.) è un fatto assolutamente fondamentale
@@ -589,16 +589,16 @@ BOI047	da chi ha: inventato le le cucine popolari
 BOI047	ed è stato messo a disposizione perché altrimenti loro senza (.) questa disponibilità
 BOI047	all'inizio quasi gratuita
 BOI047	adesso: con qualche rimborso spese non avrebbero potuto nascere né svilupparsi
-BOR006	°(c(io)è)° questo credo che vada tenuto (.) presente
+BOI047	°(c(io)è)° questo credo che vada tenuto (.) presente
 BOR006	e:hm (.) sì no non lo sapevo che que~ c(io)è questo posto questo circolo avesse questa storia: (.) di accoglienza di tutte le comunità della città (.) molto bello
-BOI048	[bene]
-BOR006	[abbiam] finito? [o: (pensi)]
-BOI048	[abbiam fini]to ((ride)) vi lascio an[dare non vi] voglio rapire [assolutame~]
-BOI047	[ciao (gianni)]
-BOR006	[gli unici] che non siam mai riusciti a coinvolgere sono i cinesi perché i [cines]i sono una comunità assolutamente chiusa e::
-BOI047	[mh]
-BOR006	e fantasmi da questo punto di vista
-BOI047	è un peccato (.) (fin)ché sono:
-BOR006	>tutto qua< (.) bene
-BOI047	grazie mil[le]
+BOR006	[bene]
+BOI048	[abbiam] finito? [o: (pensi)]
+BOR006	[abbiam fini]to ((ride)) vi lascio an[dare non vi] voglio rapire [assolutame~]
+BOI048	[ciao (gianni)]
+BOI047	[gli unici] che non siam mai riusciti a coinvolgere sono i cinesi perché i [cines]i sono una comunità assolutamente chiusa e::
+BOR006	[mh]
+BOI047	e fantasmi da questo punto di vista
+BOR006	è un peccato (.) (fin)ché sono:
+BOI047	>tutto qua< (.) bene
+BOR006	grazie mil[le]
 BOI047	[x]

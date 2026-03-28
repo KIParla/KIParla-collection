@@ -1,7 +1,7 @@
 token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO026	0	prego.	prego	linguistic	Intonation=Falling	Begin=4.0|End=4.396	_	_	_	_
 1-0	BO036	1	allora	allora	linguistic	_	Begin=7.08	_	_	_	_
-1-1	BO036	1	io,	io	linguistic	Intonation=weakly_rising	End=7.756	_	_	_	_
+1-1	BO036	1	io,	io	linguistic	Intonation=WeaklyRising	End=7.756	_	_	_	_
 2-0	BO026	2	c'	c'	linguistic	SpaceAfter=No	Begin=7.84	_	_	_	_
 2-1	BO026	2	è	è	linguistic	_	_	_	_	_	_
 2-2	BO026	2	solo	solo	linguistic	_	_	_	_	_	_
@@ -11,7 +11,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 2-6	BO026	2	non	non	linguistic	_	_	_	_	_	_
 2-7	BO026	2	ci	ci	linguistic	_	_	_	_	_	_
 2-8	BO026	2	sono	sono	linguistic	_	_	_	_	_	_
-2-9	BO026	2	[altre],	altre	linguistic	Intonation=weakly_rising	End=10.07	_	_	_	0-5(0)
+2-9	BO026	2	[altre],	altre	linguistic	Intonation=WeaklyRising	End=10.07	_	_	_	0-5(0)
 3-0	BO036	3	[(loro)	loro	linguistic	_	Begin=9.585	_	_	0-4(0)	0-4(0)
 3-1	BO036	3	so]no	sono	linguistic	_	_	_	_	_	0-2(0)
 3-2	BO036	3	altre	altre	linguistic	_	_	_	_	_	_
@@ -31,7 +31,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 5-10	BO036	5	ho	ho	linguistic	_	_	_	_	_	_
 5-11	BO036	5	mandato	mandato	linguistic	_	_	_	_	_	_
 5-12	BO036	5	la	la	linguistic	_	_	_	_	_	_
-5-13	BO036	5	mail,	mail	linguistic	Intonation=weakly_rising	End=16.451	_	_	_	_
+5-13	BO036	5	mail,	mail	linguistic	Intonation=WeaklyRising	End=16.451	_	_	_	_
 6-0	BO036	6	tempo	tempo	linguistic	_	Begin=16.885	_	_	_	_
 6-1	BO036	6	fa	fa	linguistic	_	_	_	_	_	_
 6-2	BO036	6	perché	perché	linguistic	_	_	_	_	_	_
@@ -58,7 +58,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 10-7	BO036	10	se]	se	linguistic	_	_	_	_	_	0-2(2)
 10-8	BO036	10	è	è	linguistic	_	_	_	_	_	_
 10-9	BO036	10	ancora:	ancora	linguistic	_	_	5x1	_	_	_
-10-10	BO036	10	disponibile,	disponibile	linguistic	Intonation=weakly_rising	End=27.618	_	_	_	_
+10-10	BO036	10	disponibile,	disponibile	linguistic	Intonation=WeaklyRising	End=27.618	_	_	_	_
 11-0	BO026	11	[°come	come	linguistic	Volume=Low	Begin=25.22	_	_	_	0-4(2)
 11-1	BO026	11	si	si	linguistic	Volume=Low	_	_	_	_	0-2(2)
 11-2	BO026	11	chiama	chiama	linguistic	Volume=Low	_	_	_	_	0-6(2)
@@ -128,7 +128,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 25-3	BO036	25	per	per	linguistic	_	_	_	_	_	0-3(8)
 25-4	BO036	25	questo	questo	linguistic	_	_	_	_	_	0-6(8)
 25-5	BO036	25	che	che	linguistic	_	_	_	_	_	0-3(8)
-25-6	BO036	25	io],	io	linguistic	Intonation=weakly_rising	End=45.08	_	_	_	0-2(8)
+25-6	BO036	25	io],	io	linguistic	Intonation=WeaklyRising	End=45.08	_	_	_	0-2(8)
 26-0	BO026	26	e:h	eh	linguistic	ProsodicLink=Yes	Begin=46.806	0x1	_	_	_
 26-1	BO026	26	mh	mh	linguistic	_	End=47.771	_	_	_	_
 27-0	BO036	27	sì	sì	linguistic	_	Begin=47.756	_	_	_	_
@@ -140,7 +140,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 27-6	BO036	27	sì].	sì	linguistic	Intonation=Falling	End=49.771	_	_	_	0-2(9)
 28-0	BO026	28	[(qualcosa)	qualcosa	linguistic	_	Begin=47.88	_	_	0-8(0)	0-8(10)
 28-1	BO026	28	dell'	dell'	linguistic	SpaceAfter=No	_	_	_	_	0-5(10)
-28-2	BO026	28	indice],	indice	linguistic	Intonation=weakly_rising	End=49.763	_	_	_	0-6(10)
+28-2	BO026	28	indice],	indice	linguistic	Intonation=WeaklyRising	End=49.763	_	_	_	0-6(10)
 29-0	BO036	29	no	no	linguistic	_	Begin=50.686	_	_	_	_
 29-1	BO036	29	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 29-2	BO036	29	indice	indice	linguistic	_	_	_	_	_	_
@@ -168,7 +168,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 33-0	BO036	33	[sì].	sì	linguistic	Intonation=Falling	Begin=58.925|End=59.231	_	_	_	0-2(12)
 34-0	BO036	34	sì	sì	linguistic	_	Begin=59.526	_	_	_	_
 34-1	BO036	34	sì.	sì	linguistic	Intonation=Falling	End=60.045	_	_	_	_
-35-0	BO026	35	mh,	mh	linguistic	Intonation=weakly_rising	Begin=60.045|End=60.183	_	_	_	_
+35-0	BO026	35	mh,	mh	linguistic	Intonation=WeaklyRising	Begin=60.045|End=60.183	_	_	_	_
 36-0	BO026	36	q[uindi	quindi	linguistic	_	Begin=60.925	_	_	_	1-6(13)
 36-1	BO026	36	lo	lo	linguistic	_	_	_	_	_	0-2(13)
 36-2	BO026	36	deve	deve	linguistic	_	_	_	_	_	0-4(13)
@@ -179,7 +179,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 36-7	BO026	36	caricare:	caricare	linguistic	_	_	7x1	_	_	_
 36-8	BO026	36	a	a	linguistic	_	_	_	_	_	_
 36-9	BO026	36	metà	metà	linguistic	_	_	_	_	_	_
-36-10	BO026	36	giugno,	giugno	linguistic	Intonation=weakly_rising	End=64.881	_	_	_	_
+36-10	BO026	36	giugno,	giugno	linguistic	Intonation=WeaklyRising	End=64.881	_	_	_	_
 37-0	BO036	37	[°quindi	quindi	linguistic	Volume=Low	Begin=61.083	_	_	_	0-6(13)
 37-1	BO036	37	le	le	linguistic	Volume=Low	_	_	_	_	0-2(13)
 37-2	BO036	37	mando	mando	linguistic	Volume=Low	_	_	_	_	0-5(13)
@@ -187,7 +187,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 37-4	BO036	37	lavoro.°]	lavoro	linguistic	Intonation=Falling|Volume=Low	End=62.29	_	_	_	0-6(13)
 38-0	BO036	38	mh	mh	linguistic	_	Begin=64.879	_	_	_	_
 38-1	BO036	38	mh.	mh	linguistic	Intonation=Falling	End=65.26	_	_	_	_
-39-0	BO026	39	no,	no	linguistic	Intonation=weakly_rising	Begin=65.471|End=65.781	_	_	_	_
+39-0	BO026	39	no,	no	linguistic	Intonation=WeaklyRising	Begin=65.471|End=65.781	_	_	_	_
 40-0	BO036	40	okay.	okay	linguistic	Intonation=Falling	Begin=66.125|End=66.48	_	_	_	_
 41-0	BO026	41	e::	e	linguistic	_	Begin=66.48	0x2	_	_	_
 41-1	BO026	41	me	me	linguistic	_	_	_	_	_	_
@@ -196,7 +196,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 41-4	BO026	41	adesso	adesso	linguistic	_	_	_	_	_	_
 41-5	BO026	41	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 41-6	BO026	41	ha	ha	linguistic	_	_	_	_	_	_
-41-7	BO026	41	concluso,	concluso	linguistic	Intonation=weakly_rising	_	_	_	_	_
+41-7	BO026	41	concluso,	concluso	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 41-8	BO026	41	quasi	quasi	linguistic	_	_	_	_	_	_
 41-9	BO026	41	con[cluso]?	concluso	linguistic	Intonation=Rising	End=70.511	_	_	_	3-8(15)
 42-0	BO036	42	[sì]	sì	linguistic	_	Begin=70.172	_	_	_	0-2(15)
@@ -216,7 +216,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 43-0	BO026	43	[sì	sì	linguistic	_	Begin=72.423	_	_	_	0-2(16)
 43-1	BO026	43	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(16)
 43-2	BO026	43	consideri:	consideri	linguistic	_	_	8x1	_	_	0-9(16)
-43-3	BO026	43	che],	che	linguistic	Intonation=weakly_rising	End=74.11	_	_	_	0-3(16)
+43-3	BO026	43	che],	che	linguistic	Intonation=WeaklyRising	End=74.11	_	_	_	0-3(16)
 44-0	BO026	44	[sì]	sì	linguistic	_	Begin=74.47	_	_	_	0-2(17)
 44-1	BO026	44	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 44-2	BO026	44	sì.	sì	linguistic	Intonation=Falling	End=75.216	_	_	_	_
@@ -239,7 +239,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 47-5	BO026	47	saremo	saremo	linguistic	_	_	_	_	_	_
 47-6	BO026	47	molto	molto	linguistic	_	_	_	_	_	_
 47-7	BO026	47	impegnate	impegnate	linguistic	_	_	_	_	_	_
-47-8	BO026	47	quindi,	quindi	linguistic	Intonation=weakly_rising	End=84.606	_	_	_	_
+47-8	BO026	47	quindi,	quindi	linguistic	Intonation=WeaklyRising	End=84.606	_	_	_	_
 48-0	BO026	48	o	o	linguistic	_	Begin=85.06	_	_	_	_
 48-1	BO026	48	prima	prima	linguistic	_	_	_	_	_	_
 48-2	BO026	48	del	del	linguistic	_	_	_	_	_	_
@@ -279,7 +279,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 50-22	BO026	50	alla:	alla	linguistic	_	_	3x1	_	_	_
 50-23	BO026	50	collega	collega	linguistic	_	_	_	_	_	_
 50-24	BO026	50	per	per	linguistic	_	_	_	_	_	_
-50-25	BO026	50	cui,	cui	linguistic	Intonation=weakly_rising	End=97.503	_	_	_	_
+50-25	BO026	50	cui,	cui	linguistic	Intonation=WeaklyRising	End=97.503	_	_	_	_
 51-0	BO036	51	[sì].	sì	linguistic	Intonation=Falling	Begin=91.958|End=92.263	_	_	_	0-2(20)
 52-0	BO036	52	°okay.°	okay	linguistic	Intonation=Falling|Volume=Low	Begin=97.893|End=98.27	_	_	_	_
 53-0	BO026	53	però	però	linguistic	_	Begin=99.845	_	_	_	_
@@ -298,7 +298,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 56-3	BO026	56	settimana	settimana	linguistic	_	_	_	_	_	_
 56-4	BO026	56	di	di	linguistic	_	_	_	_	_	_
 56-5	BO026	56	luglio	luglio	linguistic	_	_	_	_	_	_
-56-6	BO026	56	no,	no	linguistic	Intonation=weakly_rising	_	_	_	_	_
+56-6	BO026	56	no,	no	linguistic	Intonation=WeaklyRising	_	_	_	_	_
 56-7	BO026	56	[la]:	la	linguistic	_	_	1x1	_	_	0-2(21)
 56-8	BO026	56	q[uella	quella	linguistic	_	_	_	_	_	1-6(22)
 56-9	BO026	56	della:]	della	linguistic	_	End=112.055	4x1	_	_	0-5(22)
@@ -314,7 +314,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 60-1	BO026	60	ho	ho	linguistic	_	_	_	_	_	_
 60-2	BO026	60	già	già	linguistic	_	_	_	_	_	_
 60-3	BO026	60	comunicato	comunicato	linguistic	_	_	_	_	_	_
-60-4	BO026	60	che,	che	linguistic	Intonation=weakly_rising	End=118.503	_	_	_	_
+60-4	BO026	60	che,	che	linguistic	Intonation=WeaklyRising	End=118.503	_	_	_	_
 61-0	BO026	61	ci	ci	linguistic	_	Begin=120.669	_	_	_	_
 61-1	BO026	61	sono	sono	linguistic	_	_	_	_	_	_
 61-2	BO026	61	solo	solo	linguistic	_	_	_	_	_	_
@@ -348,7 +348,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 65-4	BO036	65	forza	forza	linguistic	Volume=Low	_	_	_	_	_
 65-5	BO036	65	[(adesso)].°	adesso	linguistic	Intonation=Falling|Volume=Low	End=130.648	_	_	0-6(0)	0-6(24)
 66-0	BO026	66	[quindi	quindi	linguistic	_	Begin=129.826	_	_	_	0-6(25)
-66-1	BO026	66	comunicher]ò,	comunicherò	linguistic	Intonation=weakly_rising	End=130.779	_	_	_	0-10(25)
+66-1	BO026	66	comunicher]ò,	comunicherò	linguistic	Intonation=WeaklyRising	End=130.779	_	_	_	0-10(25)
 67-0	BO026	67	però	però	linguistic	_	Begin=130.811	_	_	_	_
 67-1	BO026	67	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 67-2	BO026	67	nel	nel	linguistic	_	_	_	_	_	_

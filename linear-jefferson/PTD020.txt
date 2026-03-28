@@ -1,488 +1,488 @@
-TOR001	[~rato]
+TOI008	[~rato]
 TOR001	[~rato]
 TOR001	sì
-TOI008	cioè mi sono laureata::: sempre qui a [torino] e adesso sto facendo il dottorato a bergamo diciamo (più o meno)
-TOR001	[mhmh]
-TOI008	allo::ra metto solo questo [qua] se no non ci sentiamo, allo:ra che lavoro fai?
+TOR001	cioè mi sono laureata::: sempre qui a [torino] e adesso sto facendo il dottorato a bergamo diciamo (più o meno)
+TOI008	[mhmh]
+TOR001	allo::ra metto solo questo [qua] se no non ci sentiamo, allo:ra che lavoro fai?
 TOI008	[sì]
 TOI008	allora io sono libero professionista
-TOR001	e:::h ho:: due società.
-TOI008	okay
+TOI008	e:::h ho:: due società.
+TOR001	okay
 TOI008	quindi:: mi mi occupo soprattutto di::: mh
-TOR001	diciamo di innovazione tecnologica
-TOI008	mh mh
+TOI008	diciamo di innovazione tecnologica
+TOR001	mh mh
 TOI008	eh a:h sono il punto di raccordo diciamo tra chi mette i contenuti
-TOR001	e il committente [mi occupo] di:: eh
-TOI008	[okay]
+TOI008	e il committente [mi occupo] di:: eh
+TOR001	[okay]
 TOI008	diciamo
 TOI008	eh di andare::: a trovare la soluzione tecnologica
-TOR001	m~ migliore per il contenuto che si vuole veicolare [in sosta]nza
+TOI008	m~ migliore per il contenuto che si vuole veicolare [in sosta]nza
 TOR001	[okay]
-TOI008	quindi in pratica?
-TOR001	allora in pratica:: ah per una società che si chiama [facciamo] eh ci occupiamo di innovazione nel campo dei beni culturali.
+TOR001	quindi in pratica?
+TOI008	allora in pratica:: ah per una società che si chiama [facciamo] eh ci occupiamo di innovazione nel campo dei beni culturali.
 TOR001	[mh mh]
-TOI008	mh mh
+TOR001	mh mh
 TOI008	e quindi: eh=mh
-TOR001	di solito ci chiamano dei musei, delle [fondazioni:]
-TOI008	[mh mh]
+TOI008	di solito ci chiamano dei musei, delle [fondazioni:]
+TOR001	[mh mh]
 TOI008	eh e::h=mh
-TOR001	ci espongono la loro esigenza
-TOI008	mh mh
-TOR001	e noi troviamo appunto eh la soluzione migliore per veicolare il loro contenuto, [ad esempio] ci sono::
-TOI008	[okay]
-TOR001	l'ultimo progetto che abbiamo fatto a campobasso
-TOI008	mh mh
-TOR001	a::h il museo voleva attivare dei servizi per a:h i non vedenti
-TOI008	[mh mh]
+TOI008	ci espongono la loro esigenza
+TOR001	mh mh
+TOI008	e noi troviamo appunto eh la soluzione migliore per veicolare il loro contenuto, [ad esempio] ci sono::
+TOR001	[okay]
+TOI008	l'ultimo progetto che abbiamo fatto a campobasso
+TOR001	mh mh
+TOI008	a::h il museo voleva attivare dei servizi per a:h i non vedenti
+TOR001	[mh mh]
 TOI008	[o comunque] tutti i portatori dis~ di disabilità
 TOI008	eh a:h=mh
-TOR001	abbiamo eh fatto una scansione e stampa tre di di un di un reperto archeologico, e abbiamo inserito all'interno dei sensori collegati con un arduino che è un mini com[puter],
-TOI008	[okay]
-TOR001	questo arduino è collegato tramite bluetooth al cellulare della persona [non vedente], e facendo in questo modo
-TOI008	[okay]
-TOR001	e:::h quando il non vedente tocca [la statua] i sensori rilevano il tocco e fa partire un'audioguida [sul cellulare del]
+TOI008	abbiamo eh fatto una scansione e stampa tre di di un di un reperto archeologico, e abbiamo inserito all'interno dei sensori collegati con un arduino che è un mini com[puter],
+TOR001	[okay]
+TOI008	questo arduino è collegato tramite bluetooth al cellulare della persona [non vedente], e facendo in questo modo
+TOR001	[okay]
+TOI008	e:::h quando il non vedente tocca [la statua] i sensori rilevano il tocco e fa partire un'audioguida [sul cellulare del]
 TOR001	[okay]
 TOR001	[ah che meraviglia]
-TOI008	ok[ay]
+TOR001	ok[ay]
 TOI008	[del] non vedente
-TOR001	in più abbiamo: sparso dei sensori su tutto il museo in modo che il il non vedente è accompagnato [nel percorso che deve fare] eh per scoprire appunto la storia di:: in questo caso era una biga del seicento avanti [cristo più o me]no
+TOI008	in più abbiamo: sparso dei sensori su tutto il museo in modo che il il non vedente è accompagnato [nel percorso che deve fare] eh per scoprire appunto la storia di:: in questo caso era una biga del seicento avanti [cristo più o me]no
 TOR001	[ah ah ah ah]
 TOR001	[okay]
-TOI008	meraviglia
-TOR001	sì è molto interessante.
-TOI008	molto [bello]
-TOR001	[altre] volte invece facciamo delle mh più semplici e classiche [applicazioni::]
-TOI008	[mh] mh
-TOR001	quindi:: audioguide [anche lì] diciamo sempre con sensori che accompagnano il visitatore all'interno del museo.
+TOR001	meraviglia
+TOI008	sì è molto interessante.
+TOR001	molto [bello]
+TOI008	[altre] volte invece facciamo delle mh più semplici e classiche [applicazioni::]
+TOR001	[mh] mh
+TOI008	quindi:: audioguide [anche lì] diciamo sempre con sensori che accompagnano il visitatore all'interno del museo.
 TOR001	[okay]
-TOI008	mh mh mh
-TOR001	con l'altra società invece e::h abbiamo (.) lanciato:: da poco una piattaforma online
-TOI008	mh mh
-TOR001	e l'obiettivo è quello di mettere in comunicazione a:h i comunicatori con i giornalisti,
-TOI008	okay
-TOR001	e: quindi diciamo di solito ci sono:: i piccoli comunicatori con le associaz~ [eh sì] le associazioni o eh=mh
-TOI008	[mh mh]
-TOR001	anche i privati
-TOI008	mh mh
-TOR001	che:: magari fanno, hanno un evento
-TOI008	mh mh
-TOR001	e:h=mh e non sanno:: come [raggiunger] la stampa
+TOR001	mh mh mh
+TOI008	con l'altra società invece e::h abbiamo (.) lanciato:: da poco una piattaforma online
+TOR001	mh mh
+TOI008	e l'obiettivo è quello di mettere in comunicazione a:h i comunicatori con i giornalisti,
+TOR001	okay
+TOI008	e: quindi diciamo di solito ci sono:: i piccoli comunicatori con le associaz~ [eh sì] le associazioni o eh=mh
+TOR001	[mh mh]
+TOI008	anche i privati
+TOR001	mh mh
+TOI008	che:: magari fanno, hanno un evento
+TOR001	mh mh
+TOI008	e:h=mh e non sanno:: come [raggiunger] la stampa
 TOR001	[okay]
-TOI008	[mh mh mh]
-TOR001	[allora] loro possono caricarle: sulla nostra piattaforma il comunicato
-TOI008	okay
+TOR001	[mh mh mh]
+TOI008	[allora] loro possono caricarle: sulla nostra piattaforma il comunicato
+TOR001	okay
 TOI008	noi gli insegniamo come si scrive un comunicato ci son già tutti i campi,
-TOR001	[e loro] compilano il comunicat~ eh compilano i campi,
+TOI008	[e loro] compilano il comunicat~ eh compilano i campi,
 TOR001	[okay]
-TOI008	mh mh mh [mh]
-TOR001	viene creato il comunicato e ci occupiamo noi a di mand~ mandarlo ai giornalisti [e::h] interessati a quel [tipo] di notizia.
+TOR001	mh mh mh [mh]
+TOI008	viene creato il comunicato e ci occupiamo noi a di mand~ mandarlo ai giornalisti [e::h] interessati a quel [tipo] di notizia.
 TOR001	[okay]
 TOR001	[okay]
-TOI008	ma quindi fate voi tipo la selezione:?
-TOR001	no (.) [è tutto:] funziona tutto in automatico, [c'è un algoritmo], che vede la [notizia], capisce di cosa sta parlando, il giornalista intanto ci ha detto [io mi occupo di questo argomento piuttosto di quest'altro], mi serve ricevere la notizia:: ics giorni prima che questo accada,
+TOR001	ma quindi fate voi tipo la selezione:?
+TOI008	no (.) [è tutto:] funziona tutto in automatico, [c'è un algoritmo], che vede la [notizia], capisce di cosa sta parlando, il giornalista intanto ci ha detto [io mi occupo di questo argomento piuttosto di quest'altro], mi serve ricevere la notizia:: ics giorni prima che questo accada,
 TOR001	[cioè come funziona]
 TOR001	[ah okay okay okay]
 TOR001	[mh mh]
 TOR001	[ah okay okay okay okay okay]
-TOI008	mh mh mh [mh]
+TOR001	mh mh mh [mh]
 TOI008	[per] i tempi editoriali
-TOR001	e noi in automatico le smistiamo le notizie [ai giornalisti].
+TOI008	e noi in automatico le smistiamo le notizie [ai giornalisti].
 TOR001	[okay]
 TOR001	beh ottimo.
-TOI008	anche immagino anche per i giornalisti che anziché (.) [smazza]rsi:
+TOR001	anche immagino anche per i giornalisti che anziché (.) [smazza]rsi:
 TOI008	[sì]
-TOR001	esatto così il giornalista sa che quando gli scriviamo noi sono tutte notizie che gli possono [interessare].
-TOI008	[ah ah ah] e già. con una struttura:, con tutti i [dati che:] eh
+TOI008	esatto così il giornalista sa che quando gli scriviamo noi sono tutte notizie che gli possono [interessare].
+TOR001	[ah ah ah] e già. con una struttura:, con tutti i [dati che:] eh
 TOI008	[sì esatto].
-TOR001	segue tutti i canoni della:: diciamo della notiziabilità
-TOI008	mh mh mh beh (.) da quanto tempo fai questo lavoro?
-TOR001	allo:ra al~ sono socio di queste due società da più o meno un anno
-TOI008	mh mh
-TOR001	sia una che l'altra, invece: li~ sono libero professionista da ormai nove anni più o meno.
-TOI008	un sac[co].
+TOI008	segue tutti i canoni della:: diciamo della notiziabilità
+TOR001	mh mh mh beh (.) da quanto tempo fai questo lavoro?
+TOI008	allo:ra al~ sono socio di queste due società da più o meno un anno
+TOR001	mh mh
+TOI008	sia una che l'altra, invece: li~ sono libero professionista da ormai nove anni più o meno.
+TOR001	un sac[co].
 TOI008	[sì]
-TOR001	[dal du]emilanove
+TOI008	[dal du]emilanove
 TOR001	[eh]
-TOI008	okay e hai sempre fatto questo lavoro [o::]?
+TOR001	okay e hai sempre fatto questo lavoro [o::]?
 TOI008	[sì]
-TOR001	più o meno:: sì.
+TOI008	più o meno:: sì.
 TOR001	okay
 TOR001	va bene.
-TOI008	e::h=mh ti piacerebbe andare avanti a fare lo stesso lavoro?
+TOR001	e::h=mh ti piacerebbe andare avanti a fare lo stesso lavoro?
 TOI008	e::h sì:
-TOR001	sì e no.
-TOI008	o[kay]
+TOI008	sì e no.
+TOR001	o[kay]
 TOI008	[cioè] nel senso
-TOR001	ho de~ cioè ti ho detto che ho fatto sempre lo stesso lavoro però in realtà son diverse sfaccettature dello stesso [lavoro] perché diciamo l'ambito è sempre quello però:
-TOI008	[mh mh]
-TOR001	ho iniziato:: prima come::: grafico,
-TOI008	mh mh
-TOR001	poi come web designer,
-TOI008	o[kay]
-TOR001	[e adesso] mi occupo soprattutto della parte di: gestione del progetto, ideazione, progettazione, quindi sì mi piacerebbe sempre stare sempre su [quest'ambito]
-TOI008	[okay]
-TOR001	cambierò sicuramente ancora:: diecimila volte però sì l'ambito:: [in cui vorrei stare] è sempre [questo].
+TOI008	ho de~ cioè ti ho detto che ho fatto sempre lo stesso lavoro però in realtà son diverse sfaccettature dello stesso [lavoro] perché diciamo l'ambito è sempre quello però:
+TOR001	[mh mh]
+TOI008	ho iniziato:: prima come::: grafico,
+TOR001	mh mh
+TOI008	poi come web designer,
+TOR001	o[kay]
+TOI008	[e adesso] mi occupo soprattutto della parte di: gestione del progetto, ideazione, progettazione, quindi sì mi piacerebbe sempre stare sempre su [quest'ambito]
+TOR001	[okay]
+TOI008	cambierò sicuramente ancora:: diecimila volte però sì l'ambito:: [in cui vorrei stare] è sempre [questo].
 TOR001	[okay]
 TOR001	[o]kay
-TOI008	e::h=mh hai sempre lavorato qui a torino?
-TOR001	sì (.) [sempre] sì (.) [da quando ho iniziato] eh
+TOR001	e::h=mh hai sempre lavorato qui a torino?
+TOI008	sì (.) [sempre] sì (.) [da quando ho iniziato] eh
 TOR001	[okay]
 TOR001	[e pensi::]
-TOI008	pensi sia un buon posto per lavorare torino?
+TOR001	pensi sia un buon posto per lavorare torino?
 TOI008	sì.
-TOR001	secondo [me sì], perché:: eh=mh
-TOI008	[ti piace]?
-TOR001	diciamo offre molte possibilità,
-TOI008	mh mh
-TOR001	e:: non è così grande come un'altra città come ad esempio roma e milano,
-TOI008	mh [mh]
-TOR001	[do]ve: comunque il mercato è parecchio saturo
-TOI008	mh mh
+TOI008	secondo [me sì], perché:: eh=mh
+TOR001	[ti piace]?
+TOI008	diciamo offre molte possibilità,
+TOR001	mh mh
+TOI008	e:: non è così grande come un'altra città come ad esempio roma e milano,
+TOR001	mh [mh]
+TOI008	[do]ve: comunque il mercato è parecchio saturo
+TOR001	mh mh
 TOI008	tutti vanno a milano, tutti vanno a roma e invece torino::
 TOI008	diciamo::
 TOI008	c'è un::
-TOR001	ci sono parecchie: possibilità
-TOI008	mh mh
-TOR001	quindi:
-TOI008	e comunque dicevi prima riuscite a lavorare anche cioè non necessariamente su torino, [cioè avete::]
-TOR001	[no no] sì abbiamo clienti in tutta italia [più o me]no
-TOI008	[mh mh mh mh]
-TOR001	diciamo quelli: a::h quelli che mi porto dietro dal~ dalla libera professione dove (son) progetti più piccoli sono soprattutto su torino, milano.
-TOI008	okay
-TOR001	invece con le due società lavoriamo con tutta italia
+TOI008	ci sono parecchie: possibilità
+TOR001	mh mh
+TOI008	quindi:
+TOR001	e comunque dicevi prima riuscite a lavorare anche cioè non necessariamente su torino, [cioè avete::]
+TOI008	[no no] sì abbiamo clienti in tutta italia [più o me]no
+TOR001	[mh mh mh mh]
+TOI008	diciamo quelli: a::h quelli che mi porto dietro dal~ dalla libera professione dove (son) progetti più piccoli sono soprattutto su torino, milano.
+TOR001	okay
+TOI008	invece con le due società lavoriamo con tutta italia
 TOR001	okay
 TOR001	va bene.
 TOR001	e:: quindi, cioè comunque anche potendo scegliere rimarresti a torino?
-TOI008	cioè pensi [sia il posto ideale] per a::h
+TOR001	cioè pensi [sia il posto ideale] per a::h
 TOI008	[dipende]
 TOI008	per il momento sì
-TOR001	cioè [non ho intenzione] di cambiare.
-TOI008	[okay]
-TOR001	se dovessero venire fuori:: delle possibilità:: non mi precludo nulla.
+TOI008	cioè [non ho intenzione] di cambiare.
+TOR001	[okay]
+TOI008	se dovessero venire fuori:: delle possibilità:: non mi precludo nulla.
 TOR001	okay
-TOI008	sia in italia sia all'[estero]?
-TOR001	[sì]
-TOI008	[ma]
-TOR001	[domani] mi chiama google e dice vie~ [vieni] qui:::
-TOI008	[okay]
-TOR001	non ci penso due volte
-TOI008	in qualunque sede andresti?
-TOR001	sì, sì, [penso] di sì
+TOR001	sia in italia sia all'[estero]?
+TOI008	[sì]
+TOR001	[ma]
+TOI008	[domani] mi chiama google e dice vie~ [vieni] qui:::
+TOR001	[okay]
+TOI008	non ci penso due volte
+TOR001	in qualunque sede andresti?
+TOI008	sì, sì, [penso] di sì
 TOR001	sì?
 TOR001	okay
-TOI008	a::h=mh quindi mi hai detto non hai mai vissuto fuori torino giusto?
-TOR001	e::h oh vivevo, prima vivevo in provincia di [torino]
-TOI008	[ok]ay
-TOR001	quindi non proprio torino città però comunque [qui] vicino.
+TOR001	a::h=mh quindi mi hai detto non hai mai vissuto fuori torino giusto?
+TOI008	e::h oh vivevo, prima vivevo in provincia di [torino]
+TOR001	[ok]ay
+TOI008	quindi non proprio torino città però comunque [qui] vicino.
 TOR001	[okay]
-TOI008	mh mh e adesso vivi in città [invece]?
-TOR001	[sì] (.) mi sono [trasferito] cinque anni fa [più o meno].
+TOR001	mh mh e adesso vivi in città [invece]?
+TOI008	[sì] (.) mi sono [trasferito] cinque anni fa [più o meno].
 TOR001	[okay]
-TOI008	[ah beh quindi]
-TOR001	sì.
+TOR001	[ah beh quindi]
+TOI008	sì.
 TOR001	okay
-TOI008	e::h quindi dicevi all'estero:: sì ti trasferiresti ma::: mh solo per qualcosa dicevi, facevi esempio di google no? quindi solo per ah
+TOR001	e::h quindi dicevi all'estero:: sì ti trasferiresti ma::: mh solo per qualcosa dicevi, facevi esempio di google no? quindi solo per ah
 TOI008	sì dipende, dipende dalla: da cosa mi può offrire:: sia il posto di lavoro che
 TOI008	alla fine anche la città.
-TOR001	[cioè nel senso] effettivamente se è un posto di lavoro molto interessante ma in una città che
-TOI008	[okay]
-TOR001	non offre chissà che cosa::
-TOI008	mh mh
-TOR001	ci penserei due [volte], cioè diciamo che:: la:: deve superare quello che ho qua
-TOR001	[mh mh]
-TOI008	in tutto.
-TOR001	sì.
-TOR001	sì hai ragione (.) cioè
-TOI008	in che zona di torino vivi?
-TOR001	io in centro, in e::h sono qui in via
-TOI008	okay quindi super vicino (.) eh però mi hai detto che ti sei trasferito qui cinque anni [fa:]
-TOR001	[sì]
-TOI008	sempre lì? o hai cambiato casa? hai cambiato zona?
-TOR001	no prima abitavo: a san benigno canavese
-TOI008	okay
-TOR001	che è un paesino a trenta chilometri più o meno da torino.
-TOI008	okay
-TOR001	e:h=mh ho vissuto lì per ventisette anni [e poi] dopo mi sono::
-TOI008	[okay]
-TOR001	quando ho iniziato a lavorare come libero professionista mi son trasferito qui a torino perché ero più comodo
-TOR001	okay
-TOI008	e quando ti sei trasferito a torino sei sempre stato in via
-TOR001	sì.
-TOI008	okay
-TOR001	sì sì.
+TOI008	[cioè nel senso] effettivamente se è un posto di lavoro molto interessante ma in una città che
+TOR001	[okay]
+TOI008	non offre chissà che cosa::
 TOR001	mh mh
-TOI008	le scuole però le hai frequentate non qui giusto?
-TOR001	le ho fatte sempre qui a torino sì [cioè]
-TOI008	[ah okay]
-TOR001	e:h elementari e medie a san benigno [canavese], [poi il liceo l'ho fatto qua a torino].
+TOI008	ci penserei due [volte], cioè diciamo che:: la:: deve superare quello che ho qua
+TOR001	[mh mh]
+TOR001	in tutto.
+TOI008	sì.
+TOR001	sì hai ragione (.) cioè
+TOR001	in che zona di torino vivi?
+TOI008	io in centro, in e::h sono qui in via
+TOR001	okay quindi super vicino (.) eh però mi hai detto che ti sei trasferito qui cinque anni [fa:]
+TOI008	[sì]
+TOR001	sempre lì? o hai cambiato casa? hai cambiato zona?
+TOI008	no prima abitavo: a san benigno canavese
+TOR001	okay
+TOI008	che è un paesino a trenta chilometri più o meno da torino.
+TOR001	okay
+TOI008	e:h=mh ho vissuto lì per ventisette anni [e poi] dopo mi sono::
+TOR001	[okay]
+TOI008	quando ho iniziato a lavorare come libero professionista mi son trasferito qui a torino perché ero più comodo
+TOR001	okay
+TOR001	e quando ti sei trasferito a torino sei sempre stato in via
+TOI008	sì.
+TOR001	okay
+TOI008	sì sì.
+TOR001	mh mh
+TOR001	le scuole però le hai frequentate non qui giusto?
+TOI008	le ho fatte sempre qui a torino sì [cioè]
+TOR001	[ah okay]
+TOI008	e:h elementari e medie a san benigno [canavese], [poi il liceo l'ho fatto qua a torino].
 TOR001	[okay]
 TOR001	[e poi il liceo l'hai fatto qui]
 TOR001	okay
-TOI008	e i tuoi amici vivono qui a torino? [o::]
-TOR001	[sì].
-TOI008	sì la [maggior parte] sì
+TOR001	e i tuoi amici vivono qui a torino? [o::]
+TOI008	[sì].
+TOR001	sì la [maggior parte] sì
 TOI008	[sì]
-TOR001	ormai praticamente tutti: quelli che vedo: più frequentemente son tutti [qua a torino] sì.
+TOI008	ormai praticamente tutti: quelli che vedo: più frequentemente son tutti [qua a torino] sì.
 TOR001	[son tutti qua]
-TOI008	ti piace la zona in cui vivi?
-TOR001	sì molto.
+TOR001	ti piace la zona in cui vivi?
+TOI008	sì molto.
 TOR001	okay
-TOI008	cos'ha di positivo?
-TOR001	e che è:: una zona tranquilla,
-TOI008	mh mh
+TOR001	cos'ha di positivo?
+TOI008	e che è:: una zona tranquilla,
+TOR001	mh mh
 TOI008	lì c'è c'è tutto quello che mi serve e:::h=mh cioè zona tranquilla
-TOR001	mi è molto comoda per m~ gli spostamenti che faccio solita[mente], e::h
-TOI008	[mh mh mh]
-TOR001	essendo: in pieno centro comunque posso spostarmi a piedi, in bicicletta:: o::: senza dover [prender la macchina], quindi
-TOI008	[certo]
-TOR001	l'ho usata per troppi anni e quindi
-TOI008	((ride))
-TOR001	ne ho la nausea
-TOI008	ma quindi tu sei, mh vivi qui senza macchina?
-TOR001	no (.) ce l'ho la [macchina]
-TOI008	[ce l'ha]i
-TOR001	sì.
-TOI008	okay
-TOR001	e la uso per andare a trovare i miei
-TOI008	mh
-TOR001	o la usavo per andare:: a [prendere] anna quando viveva: a volpiano
+TOI008	mi è molto comoda per m~ gli spostamenti che faccio solita[mente], e::h
+TOR001	[mh mh mh]
+TOI008	essendo: in pieno centro comunque posso spostarmi a piedi, in bicicletta:: o::: senza dover [prender la macchina], quindi
+TOR001	[certo]
+TOI008	l'ho usata per troppi anni e quindi
+TOR001	((ride))
+TOI008	ne ho la nausea
+TOR001	ma quindi tu sei, mh vivi qui senza macchina?
+TOI008	no (.) ce l'ho la [macchina]
+TOR001	[ce l'ha]i
+TOI008	sì.
+TOR001	okay
+TOI008	e la uso per andare a trovare i miei
+TOR001	mh
+TOI008	o la usavo per andare:: a [prendere] anna quando viveva: a volpiano
 TOR001	[eh]
-TOI008	adesso vive anche lei qua? ah [a quindi]
+TOR001	adesso vive anche lei qua? ah [a quindi]
 TOI008	[sì (.) si] è trasferita:::
 TOI008	eh da poco
-TOR001	da qualche mese si è trasferita qui a torino.
-TOI008	quindi
-TOR001	sì.
-TOI008	beh però vivendo così in centro della macchina appunto puoi farne a meno, cioè puoi usarla [proprio solo::]
+TOI008	da qualche mese si è trasferita qui a torino.
+TOR001	quindi
+TOI008	sì.
+TOR001	beh però vivendo così in centro della macchina appunto puoi farne a meno, cioè puoi usarla [proprio solo::]
 TOI008	[sì] la uso solo appunto fuori torino
-TOR001	per andar da qualche [cliente lontano], quindi quindi:: la uso per quello diciamo, non ne posso fare a meno, mi piacerebbe non averla però non ne posso fare a meno soprattutto [per lavo]ro::
+TOI008	per andar da qualche [cliente lontano], quindi quindi:: la uso per quello diciamo, non ne posso fare a meno, mi piacerebbe non averla però non ne posso fare a meno soprattutto [per lavo]ro::
 TOR001	[okay]
-TOI008	[no certo]
-TOR001	ma anche semplicemente per andare a trovare i miei
+TOR001	[no certo]
+TOI008	ma anche semplicemente per andare a trovare i miei
 TOR001	sì, no certo
-TOI008	se no ti muovi comunque coi mezzi dicevi?
-TOR001	no sempre a piedi
-TOI008	a piedi?
-TOR001	se posso a piedi
-TOI008	okay
+TOR001	se no ti muovi comunque coi mezzi dicevi?
+TOI008	no sempre a piedi
+TOR001	a piedi?
+TOI008	se posso a piedi
+TOR001	okay
 TOI008	avevo una bicicletta, adesso non so se c'è ancora
 TOI008	e::::h
-TOR001	però sì cioè i mezzi pubblici non li uso quasi mai
+TOI008	però sì cioè i mezzi pubblici non li uso quasi mai
 TOR001	okay
 TOR001	quindi fai tutto a piedi?
-TOI008	cioè potendo scegliere ti muovi a piedi?
-TOR001	sì.
-TOI008	okay
-TOR001	sì.
-TOI008	va bene
-TOR001	ma è un'avversione per i mezzi pubblici
+TOR001	cioè potendo scegliere ti muovi a piedi?
+TOI008	sì.
+TOR001	okay
+TOI008	sì.
+TOR001	va bene
+TOI008	ma è un'avversione per i mezzi pubblici
 TOR001	eh no ti capisco
 TOR001	no però per esempio dalla zona in cui sto io devo prenderli per forza no e quindi sono:: vincolata
-TOI008	a prendere i mezzi e in effetti muoversi a piedi
-TOR001	sì
+TOR001	a prendere i mezzi e in effetti muoversi a piedi
+TOI008	sì
 TOR001	potendo
-TOI008	eh=mh ci sono cose che miglioreresti della tua zona?
+TOR001	eh=mh ci sono cose che miglioreresti della tua zona?
 TOI008	della mia zona::::
 TOI008	abbasserei i prezzi dei supermercati,
 TOI008	mah eh=mh
 TOI008	no ti dico sinceramente no
-TOR001	per quello che mi ha tutto quello che mi serve.
-TOI008	mh [mh]
+TOI008	per quello che mi ha tutto quello che mi serve.
+TOR001	mh [mh]
 TOI008	[quindi sì] la trovo solo estremamente cara:::
 TOI008	a::h
-TOR001	sì (.) per diciamo per far la spesa, [poi per il res]to
-TOI008	[okay]
-TOR001	va [bene, cioè]
-TOI008	[quindi solo per] quello?
-TOR001	sì.
+TOI008	sì (.) per diciamo per far la spesa, [poi per il res]to
+TOR001	[okay]
+TOI008	va [bene, cioè]
+TOR001	[quindi solo per] quello?
+TOI008	sì.
 TOR001	okay
-TOI008	mh quindi trovi tutto nel tuo quartiere mi dicevi no? quindi non è necessario che tu ti sposti spesso a parte per lavoro [eccetera]
+TOR001	mh quindi trovi tutto nel tuo quartiere mi dicevi no? quindi non è necessario che tu ti sposti spesso a parte per lavoro [eccetera]
 TOI008	[sì]
 TOI008	sì anche perché:: tipo per le spese quelle più grosse le faccio online
 TOI008	e quindi me le portano a casa e::h
-TOR001	[ho eliminato anche quello spostamento] sì:
+TOI008	[ho eliminato anche quello spostamento] sì:
 TOR001	[hai risolto il problema]
-TOI008	eh pensi che torino sia molto cambiata negli ultimi anni oppure no?
+TOR001	eh pensi che torino sia molto cambiata negli ultimi anni oppure no?
 TOI008	allo::ra negli ultimi anni non ho visto così grandi cambiamenti
-TOR001	rispetto a come me la ricordavo:: quando facevo il liceo sì.
-TOI008	mh mh
+TOI008	rispetto a come me la ricordavo:: quando facevo il liceo sì.
+TOR001	mh mh
 TOI008	sì
 TOI008	mi sembra::
 TOI008	allora ho trovato che comun
 TOI008	que rispetto al passato ci fosse (.) mh ci sia più offerta:::
 TOI008	no
-TOR001	è una cazzata quella che sto di[cendo]
+TOI008	è una cazzata quella che sto di[cendo]
 TOR001	[no no] ma io
-TOI008	((ride))
+TOR001	((ride))
 TOI008	no stavo pensando un po' perché
-TOR001	ti dico io non è che faccio molta vita:::: sociale in giro per: locali: ho quei quattro o cinque che mi piacciono, in cui vado spesso e poi per il resto cerco sempre di uscire e [andare fuori quindi]
-TOI008	[mh mh]
+TOI008	ti dico io non è che faccio molta vita:::: sociale in giro per: locali: ho quei quattro o cinque che mi piacciono, in cui vado spesso e poi per il resto cerco sempre di uscire e [andare fuori quindi]
+TOR001	[mh mh]
 TOI008	non so è una domanda:::
 TOI008	appunto non uso i mezzi pubblici, non: e::::h
-TOR001	le varie cose che che facevo prima le faccio ancora adesso tranquillamente:: direi sì forse sotto: l'aspetto:: come offerta culturale:
-TOI008	mh mh
+TOI008	le varie cose che che facevo prima le faccio ancora adesso tranquillamente:: direi sì forse sotto: l'aspetto:: come offerta culturale:
+TOR001	mh mh
 TOI008	pubblica questo sì.
-TOR001	[io ero affezionatissimo] ai festival in piazza di musica classica che non ci sono [più: o altri:]
+TOI008	[io ero affezionatissimo] ai festival in piazza di musica classica che non ci sono [più: o altri:]
 TOR001	[mh mh]
-TOI008	[e ma da qua~] perché ti dico io mi son trasferita qui fai settembre duemiladodici, quindi ho in mente solo l'ultimissima [parte no]?
-TOR001	[sì]
+TOR001	[e ma da qua~] perché ti dico io mi son trasferita qui fai settembre duemiladodici, quindi ho in mente solo l'ultimissima [parte no]?
+TOI008	[sì]
 TOR001	eh e:::h però in tanti mi dicono appunto che sia cambiata
 TOR001	fino a un certo periodo mi dicono in bene
-TOI008	e poi in realtà appunto:: come offerta culturale sembra sia [andata::]
-TOR001	[quello sì, quello sì] ed è la grossa polemica che c'è adesso, [ma nell'ultimo anno questo] eh proprio eh da quando c'è stata la:::
-TOI008	[okay]
-TOR001	ci son [state le elezioni] poi ci sono stati: i cinque stelle sono andati: al governo di torino
-TOI008	[le elezioni]
-TOR001	diciamo è anche una facile polemica [da fare] questa
-TOI008	[mh mh mh]
+TOR001	e poi in realtà appunto:: come offerta culturale sembra sia [andata::]
+TOI008	[quello sì, quello sì] ed è la grossa polemica che c'è adesso, [ma nell'ultimo anno questo] eh proprio eh da quando c'è stata la:::
+TOR001	[okay]
+TOI008	ci son [state le elezioni] poi ci sono stati: i cinque stelle sono andati: al governo di torino
+TOR001	[le elezioni]
+TOI008	diciamo è anche una facile polemica [da fare] questa
+TOR001	[mh mh mh]
 TOI008	è facile attaccare su questo punto qua effettivamente prima ci sono stati degli anni, io mi ricordo quando mi son trasferito qui a torino, adesso son cinque anni
-TOR001	il primo anno non c'era un granché, gli anni dopo effettivamente ogni:: d'estate ogni weekend c'era [qualcosa in piazza] adesso l'ultimo anno effettivamente non c'è stato più nulla
+TOI008	il primo anno non c'era un granché, gli anni dopo effettivamente ogni:: d'estate ogni weekend c'era [qualcosa in piazza] adesso l'ultimo anno effettivamente non c'è stato più nulla
 TOR001	[mh mh]
-TOI008	mh mh [mh]
+TOR001	mh mh [mh]
 TOI008	[questo è vero] è da:: è da dire
-TOR001	poi per il resto io non ho notato così gr~ così g~ così tanti [cambiamenti]
+TOI008	poi per il resto io non ho notato così gr~ così g~ così tanti [cambiamenti]
 TOR001	[okay]
 TOR001	ma pensi che sia::
 TOR001	adesso e::h nell'ultimo anno pensi sia responsabilità dell'amministrazione
-TOI008	oppure
-TOR001	[questo sicuramente sì]
-TOI008	[cioè è il capro espiatorio] che?
-TOR001	sicuramente sì e comunque essendo anche un po' die~ vedendo un po' dietro le quinte so che [ci so~], ci son stati anche tanti tanti [errori da parte dell'amministrazio]ne
+TOR001	oppure
+TOI008	[questo sicuramente sì]
+TOR001	[cioè è il capro espiatorio] che?
+TOI008	sicuramente sì e comunque essendo anche un po' die~ vedendo un po' dietro le quinte so che [ci so~], ci son stati anche tanti tanti [errori da parte dell'amministrazio]ne
 TOR001	[okay]
-TOI008	[mh mh mh]
-TOR001	non so nei prossimi anni se miglioreranno o peggioreranno [so che] ci sono stati.
-TOI008	[mh mh]
+TOR001	[mh mh mh]
+TOI008	non so nei prossimi anni se miglioreranno o peggioreranno [so che] ci sono stati.
+TOR001	[mh mh]
 TOI008	o:::h
-TOR001	per il resto torino:: il grosso cambiamento ce l'ha avuto effettivamente dopo le [olimpiadi]
-TOI008	[ok]ay
+TOI008	per il resto torino:: il grosso cambiamento ce l'ha avuto effettivamente dopo le [olimpiadi]
+TOR001	[ok]ay
 TOI008	che da lì c'è stato il eh
-TOR001	subito tant~ si vedeva proprio la differenza di turismo: [da prima a dopo]
-TOI008	[mh mh mh]
-TOR001	e poi questi ultimi anni invece mi è sembrato sempre stabile
+TOI008	subito tant~ si vedeva proprio la differenza di turismo: [da prima a dopo]
+TOR001	[mh mh mh]
+TOI008	e poi questi ultimi anni invece mi è sembrato sempre stabile
 TOR001	okay
-TOI008	anche bah pensavo:: che come sia peggiorato ulteriormente riguardo a quello che dicevi, cioè riguardo agli eventi in piazza cioè pensavo al capodanno io non l'ho fatto qui quest'anno però gli ultimi anni [sì:]
-TOR001	[sì]
+TOR001	anche bah pensavo:: che come sia peggiorato ulteriormente riguardo a quello che dicevi, cioè riguardo agli eventi in piazza cioè pensavo al capodanno io non l'ho fatto qui quest'anno però gli ultimi anni [sì:]
+TOI008	[sì]
 TOR001	e la festa di capodanno in piazza è stata fatta:::
-TOI008	al pala alpitour
-TOR001	sì
-TOI008	((ride))
-TOR001	ma c'è stato quello, san [giovanni:],
-TOI008	[eh sì sì sì sì sì è vero]
+TOR001	al pala alpitour
+TOI008	sì
+TOR001	((ride))
+TOI008	ma c'è stato quello, san [giovanni:],
+TOR001	[eh sì sì sì sì sì è vero]
 TOI008	[san giovanni] che:: io ho trovato incredibile perché:: eh=mh
-TOR001	appunto io abito vicino al [po] (.) quindi: ci metto cinque minuti ad andare lì
-TOI008	[mh mh]
-TOR001	e tutti gli anni sempre andato, tantissima gente, sempre strapieno, quest'anno eh=mh ho detto non vado nemmeno perché ci avevano messo i [tornelli] i:l
-TOI008	[no certo]
-TOR001	tutti i vari controlli e ho detto non ci vado nemmeno
-TOI008	per [forza]
+TOI008	appunto io abito vicino al [po] (.) quindi: ci metto cinque minuti ad andare lì
+TOR001	[mh mh]
+TOI008	e tutti gli anni sempre andato, tantissima gente, sempre strapieno, quest'anno eh=mh ho detto non vado nemmeno perché ci avevano messo i [tornelli] i:l
+TOR001	[no certo]
+TOI008	tutti i vari controlli e ho detto non ci vado nemmeno
+TOR001	per [forza]
 TOI008	[perché] ci sarà la coda,
-TOR001	poi alla fine ho detto ma sì dai [usciamo], vado
-TOI008	[mh mh]
-TOR001	effettivamente è proprio vicino sono andato, non c'era nessuno ai controlli, cioè era vuoto, deserto
-TOI008	mh mh mh
+TOI008	poi alla fine ho detto ma sì dai [usciamo], vado
+TOR001	[mh mh]
+TOI008	effettivamente è proprio vicino sono andato, non c'era nessuno ai controlli, cioè era vuoto, deserto
+TOR001	mh mh mh
 TOI008	sono entrato subito senza nessun problema e poi::: c'era
 TOI008	c'era:
 TOI008	un terzo della gente eh io di solito no~ a~ mi ricordo che arrivavo
-TOR001	e c'era:, non riuscivo a arrivare vicino al fiume,
-TOI008	mh mh
-TOR001	dovevo stare dietro agli alberi e mi coprivano la visuale
-TOI008	((ride))
-TOR001	quest'anno invece ero proprio davanti
-TOI008	mh mh mh [mh]
-TOR001	[non] c'era nessuno
-TOI008	mamma mia
+TOI008	e c'era:, non riuscivo a arrivare vicino al fiume,
+TOR001	mh mh
+TOI008	dovevo stare dietro agli alberi e mi coprivano la visuale
+TOR001	((ride))
+TOI008	quest'anno invece ero proprio davanti
+TOR001	mh mh mh [mh]
+TOI008	[non] c'era nessuno
+TOR001	mamma mia
 TOI008	sì, queste cose si fanno:::
-TOR001	sì fanno un po' pensare che si potrebbero gestire meglio [le cose] poi capisco sicurezza, non sicurezza,
-TOI008	[mh mh mh]
+TOI008	sì fanno un po' pensare che si potrebbero gestire meglio [le cose] poi capisco sicurezza, non sicurezza,
+TOR001	[mh mh mh]
 TOI008	però::: mh confrontando con altre città in cui son stato, eventi analoghi sono più grandi:
-TOR001	la gestione totalmente [diversa],
-TOI008	[e certo]
+TOI008	la gestione totalmente [diversa],
+TOR001	[e certo]
 TOI008	son stato::
 TOI008	cos'era dicembre?
-TOR001	sì. l'otto dicembre [alla:] festa delle luci a lione
+TOI008	sì. l'otto dicembre [alla:] festa delle luci a lione
 TOR001	[mh mh]
-TOI008	bello:
-TOR001	stupendo [bellissimo] (una festa) [dieci] volte più grande:,
+TOR001	bello:
+TOI008	stupendo [bellissimo] (una festa) [dieci] volte più grande:,
 TOR001	[sì]?
-TOI008	[mh mh]
+TOR001	[mh mh]
 TOI008	controlli anche lì dalle: sei del pomeriggio fino::: alle due di notte::,
-TOR001	però mh
-TOI008	mh mh mh
+TOI008	però mh
+TOR001	mh mh mh
 TOI008	sì era proprio: l'accesso era più semplice, tutto gestito molto molto meglio di quello che si poteva fare.
-TOR001	per carità era una cosa nuova per tutti [quindi::]
-TOI008	[no no] sì
+TOI008	per carità era una cosa nuova per tutti [quindi::]
+TOR001	[no no] sì
 TOI008	i francesi sono abituati
-TOR001	ci abitueremo anche noi: e::h boh
+TOI008	ci abitueremo anche noi: e::h boh
 TOR001	((ride))
 TOR001	mh mh
-TOI008	sì dici magari col tempo? sì ma già ora:
+TOR001	sì dici magari col tempo? sì ma già ora:
 TOI008	sì sicuramente.
-TOR001	((ride))
-TOI008	speriamo
-TOR001	spero almeno
 TOI008	((ride))
+TOR001	speriamo
+TOI008	spero almeno
 TOR001	((ride))
-TOI008	comunque globalmente sei soddisfatto della tua città? cioè [sei contento]?
-TOR001	[sì, torino] mi piace molto.
-TOI008	okay
-TOR001	per quello dovrei:: quello che dicevo, dovrei trovare una città che mi offre molto più di [torino], perché comunque un po' sono affezionato un po' mi piace:
-TOI008	[okay]
-TOR001	sia [come::]
-TOI008	[cosa] sono le cose che ti piacciono di torino?
-TOR001	mi piace molto la conformazione di torino, quindi proprio proprio com'è fatta la città
+TOI008	((ride))
+TOR001	comunque globalmente sei soddisfatto della tua città? cioè [sei contento]?
+TOI008	[sì, torino] mi piace molto.
+TOR001	okay
+TOI008	per quello dovrei:: quello che dicevo, dovrei trovare una città che mi offre molto più di [torino], perché comunque un po' sono affezionato un po' mi piace:
+TOR001	[okay]
+TOI008	sia [come::]
+TOR001	[cosa] sono le cose che ti piacciono di torino?
+TOI008	mi piace molto la conformazione di torino, quindi proprio proprio com'è fatta la città
 TOR001	nel senso che è quadrata?
-TOI008	((ride))
-TOI008	eh sì.
-TOR001	io ho detto conformazione ma in realtà proprio la:::: [l'architettura]
-TOI008	[okay]
-TOI008	a me piace tantissimo perché io:
-TOR001	allora ti dico per tre anni son passato tutti i giorni in piazza [san carlo::], in piazza castello per andare al lavoro
-TOI008	[okay]
-TOR001	ogni volta che ci passo mi piace un sacco cioè::
 TOR001	((ride))
-TOI008	okay
-TOR001	e ma questa forse è una cosa mia personale che in tutte le città forse mi:::
-TOI008	((ride))
+TOI008	eh sì.
+TOI008	io ho detto conformazione ma in realtà proprio la:::: [l'architettura]
+TOR001	[okay]
+TOI008	a me piace tantissimo perché io:
+TOI008	allora ti dico per tre anni son passato tutti i giorni in piazza [san carlo::], in piazza castello per andare al lavoro
+TOR001	[okay]
+TOI008	ogni volta che ci passo mi piace un sacco cioè::
+TOR001	((ride))
+TOR001	okay
+TOI008	e ma questa forse è una cosa mia personale che in tutte le città forse mi:::
+TOR001	((ride))
 TOI008	mi capiterebbe la stessa cosa no (.) mi piace perché appunto come dicevo prima non è t~ o::h
-TOR001	non è troppo grossa non è troppo piccola, [quindi] la trovo a misura d'uomo proprio:
-TOI008	[mh mh]
-TOR001	infatti un'altra città che a me piace tantissimo è monaco di baviera, [che::] è molto molto simile a [torino], mi piace tantissimo siviglia che pure quella l'ho trovata veramente stupenda
+TOI008	non è troppo grossa non è troppo piccola, [quindi] la trovo a misura d'uomo proprio:
 TOR001	[mh mh]
-TOI008	[mh mh mh mh]
+TOI008	infatti un'altra città che a me piace tantissimo è monaco di baviera, [che::] è molto molto simile a [torino], mi piace tantissimo siviglia che pure quella l'ho trovata veramente stupenda
+TOR001	[mh mh]
+TOR001	[mh mh mh mh]
 TOI008	e quindi sono queste le cose che mi piacciono di torino, un po' proprio come: beh
 TOI008	a cui sono anche affezionato perché::
 TOI008	sempre stato qui:
-TOR001	e:::h=mh
-TOI008	siviglia scusami l'hai trovata simile: a: torino?
-TOR001	sì, non so il perché
+TOI008	e:::h=mh
+TOR001	siviglia scusami l'hai trovata simile: a: torino?
+TOI008	sì, non so il perché
 TOR001	okay
-TOI008	((ride))
-TOR001	però::: ma forse anche lì perché c'era questo centro molto piccolo
-TOI008	mh mh
+TOR001	((ride))
+TOI008	però::: ma forse anche lì perché c'era questo centro molto piccolo
+TOR001	mh mh
 TOI008	quindi un centro storico piccolo mh a::h
-TOR001	me lo ricordo comunque abbastanza [pedonale::] e::h mh e comunque come qui, qui a torino c'è il centro piccolo puoi girare tutto a piedi, siviglia mh era:::
-TOI008	[mh mh]
-TOR001	m'era risultata non so familiare mettiamola così
+TOI008	me lo ricordo comunque abbastanza [pedonale::] e::h mh e comunque come qui, qui a torino c'è il centro piccolo puoi girare tutto a piedi, siviglia mh era:::
+TOR001	[mh mh]
+TOI008	m'era risultata non so familiare mettiamola così
 TOR001	((ride))
 TOR001	okay
-TOI008	cosa fai durante il tuo tempo libero?
+TOR001	cosa fai durante il tuo tempo libero?
 TOI008	e:::h è una bella domanda
 TOI008	diciamo che::: mh
 TOI008	allora
-TOR001	io lavoro tantissimo, [quindi] ho pochissimo tempo libero
-TOI008	[okay]
+TOI008	io lavoro tantissimo, [quindi] ho pochissimo tempo libero
+TOR001	[okay]
 TOI008	ma perché il lavoro è la mia passione quindi:: quando non lavoro in realtà faccio:
-TOR001	a:::h delle cose che sono molto simili [al mio lavoro]
-TOI008	[okay]
+TOI008	a:::h delle cose che sono molto simili [al mio lavoro]
+TOR001	[okay]
 TOI008	e quindi::: mh al posto di::: non lo so al posto di dire:: mh
-TOR001	vado:: a prendermi:: una birra così [o:] altre cose di questo genere o tipo mi guardo un film
+TOI008	vado:: a prendermi:: una birra così [o:] altre cose di questo genere o tipo mi guardo un film
 TOR001	[mh]
-TOI008	mh
-TOR001	mi metto a programmare o a sviluppare qualcosa
-TOI008	((ride))
+TOR001	mh
+TOI008	mi metto a programmare o a sviluppare qualcosa
+TOR001	((ride))
 TOI008	ma perché appunto è la mia passione quindi è::=mh
-TOR001	sì il tempo libero lo uso per fare quello che mi piace fare.
-TOI008	okay
+TOI008	sì il tempo libero lo uso per fare quello che mi piace fare.
+TOR001	okay
 TOI008	ah poi il resto del tempo lo passo appunto
 TOI008	a:::h=mh
 TOI008	con anna cerchiamo di: di viaggiare:: parecchio, quindi è soprattutto lei che, che spinge sempre per, per viaggiare
@@ -490,184 +490,184 @@ TOI008	e:::h=mh
 TOI008	e la e l'assecondo molto volentieri
 TOI008	e::: poi niente
 TOI008	di solito:: comunque sì, cerco sì di passare il tempo::: appunto un po' con anna, quindi andiamo in giro, magari facciamo qualche giro nel e:::h
-TOR001	in zona
-TOI008	mh mh
+TOI008	in zona
+TOR001	mh mh
 TOI008	nel e::h, (tipo) nei weekend
-TOR001	oppure:::
-TOI008	che viaggi avete fatto di recente?
-TOR001	ma di recente siamo stati a::: siamo stati a parigi
-TOI008	mh mh
-TOR001	a:: a capodanno, poi prima a lione, poi siamo: adesso stiamo, andremo a copenhagen fra poco,
-TOI008	mh mh
-TOR001	poco prima siamo stati:::: in svizzera, ti dicevo tre o quattro [viaggi:]
-TOI008	[è vero, a berna] vero?
-TOR001	siamo passati sì, [siamo stati:]
-TOI008	[eh mi ricordavo] che me lo diceva
-TOR001	un giorno siamo passati:: siamo passati da berna
-TOI008	((ride))
-TOR001	e:::h=mh e a vedere gli orsi
-TOI008	[e no:: mh] mh io ero lì a fare il periodo all'estero e mi ricordo che era un weekend che io non c'ero e mi aveva scritto anna.
-TOR001	[bellissimo]
-TOI008	vi è piaciuta?
-TOR001	sì::: [l'ho trovata] molto carina sì.
-TOI008	[carina]
-TOR001	sì sì siamo stati una giornata, [proprio:] di passaggio
+TOI008	oppure:::
+TOR001	che viaggi avete fatto di recente?
+TOI008	ma di recente siamo stati a::: siamo stati a parigi
+TOR001	mh mh
+TOI008	a:: a capodanno, poi prima a lione, poi siamo: adesso stiamo, andremo a copenhagen fra poco,
+TOR001	mh mh
+TOI008	poco prima siamo stati:::: in svizzera, ti dicevo tre o quattro [viaggi:]
+TOR001	[è vero, a berna] vero?
+TOI008	siamo passati sì, [siamo stati:]
+TOR001	[eh mi ricordavo] che me lo diceva
+TOI008	un giorno siamo passati:: siamo passati da berna
+TOR001	((ride))
+TOI008	e:::h=mh e a vedere gli orsi
+TOR001	[e no:: mh] mh io ero lì a fare il periodo all'estero e mi ricordo che era un weekend che io non c'ero e mi aveva scritto anna.
+TOI008	[bellissimo]
+TOR001	vi è piaciuta?
+TOI008	sì::: [l'ho trovata] molto carina sì.
+TOR001	[carina]
+TOI008	sì sì siamo stati una giornata, [proprio:] di passaggio
 TOR001	[beh ma tanto è::]
-TOI008	piccolina però poi comunque, [cioè] il grosso lo vedi in un giorno
+TOR001	piccolina però poi comunque, [cioè] il grosso lo vedi in un giorno
 TOI008	[sì]
 TOI008	sì sì
-TOR001	poi siamo andati su::: alle::: l'obiettivo era arrivare alle cascate del reno.
-TOI008	mh mh
-TOR001	anche quelle [son bellissime, proprio belle]
+TOI008	poi siamo andati su::: alle::: l'obiettivo era arrivare alle cascate del reno.
+TOR001	mh mh
+TOI008	anche quelle [son bellissime, proprio belle]
 TOR001	[eh immagino, non son mai andata]
-TOI008	((ride))
-TOR001	quindi sì tre o quattro viaggi [all'anno li facciamo sì].
+TOR001	((ride))
+TOI008	quindi sì tre o quattro viaggi [all'anno li facciamo sì].
 TOR001	[beh è un sacco, buono]
-TOI008	e copenhagen siete già stati [o::]?
+TOR001	e copenhagen siete già stati [o::]?
 TOI008	[no] è la prima volta, ci andiamo:: ci andiamo per la prima volta
-TOR001	e sfruttiamo l'occasione che anna:: ha degli amici anche lì
-TOI008	mh
-TOR001	dopo che ha fatto lo sve adesso ha amici in tutto il mondo e quindi li possiamo sfruttare per
+TOI008	e sfruttiamo l'occasione che anna:: ha degli amici anche lì
+TOR001	mh
+TOI008	dopo che ha fatto lo sve adesso ha amici in tutto il mondo e quindi li possiamo sfruttare per
 TOR001	((ride))
 TOR001	beh ottimo
 TOR001	((ride))
 TOR001	molto bella copenhagen
-TOI008	e quindi mi dicevi però attività nel tempo libero non so fai attività sportiva?
-TOR001	no nulla assolutamente nulla
-TOI008	okay uscite mi dicevi::::
-TOR001	poco
-TOI008	okay
+TOR001	e quindi mi dicevi però attività nel tempo libero non so fai attività sportiva?
+TOI008	no nulla assolutamente nulla
+TOR001	okay uscite mi dicevi::::
+TOI008	poco
+TOR001	okay
 TOI008	esco magari::: aperitivi, qualcosa del genere,
-TOR001	[cinema],
-TOI008	[okay]
+TOI008	[cinema],
+TOR001	[okay]
 TOI008	al eh ogni tanto andiamo al cinema,
-TOR001	[poi se] no:::
-TOI008	[okay]
-TOR001	sì la mia vita sociale è molto [limitata].
+TOI008	[poi se] no:::
+TOR001	[okay]
+TOI008	sì la mia vita sociale è molto [limitata].
 TOR001	((ride))
 TOR001	[okay]
-TOI008	che film ti piacciono?
+TOR001	che film ti piacciono?
 TOI008	mh
 TOI008	un po' di tutto
 TOI008	nel senso::: mh
-TOR001	dai film d'azione a quelli un po' più impegnati,
-TOI008	mh
-TOR001	diciamo non, non mi precludo nulla
-TOI008	ma andate spesso al cinema?
+TOI008	dai film d'azione a quelli un po' più impegnati,
+TOR001	mh
+TOI008	diciamo non, non mi precludo nulla
+TOR001	ma andate spesso al cinema?
 TOI008	al~ ultimamente non, c'è stato un periodo: che andavamo: parecchio
-TOR001	però comunque::: uh=mh di film ne guardo: abbastanza soprattutto [quando]
+TOI008	però comunque::: uh=mh di film ne guardo: abbastanza soprattutto [quando]
 TOR001	[okay]
-TOI008	((ride))
-TOR001	nei giorni in cui soffro d'insonnia e [quindi:::] di notte:: per passare il tempo ci sono i film
+TOR001	((ride))
+TOI008	nei giorni in cui soffro d'insonnia e [quindi:::] di notte:: per passare il tempo ci sono i film
 TOR001	[okay]
-TOI008	film o serie tv?
-TOR001	tutt'e due
+TOR001	film o serie tv?
 TOI008	tutt'e due
-TOR001	tutt'e due, ultimamente molto più serie tv
-TOI008	okay
-TOR001	c'è molta [più offerta] che con il e:h
+TOR001	tutt'e due
+TOI008	tutt'e due, ultimamente molto più serie tv
+TOR001	okay
+TOI008	c'è molta [più offerta] che con il e:h
 TOR001	[eh sì]
 TOR001	((ride))
-TOI008	[tipo che serie tv] guardi?
+TOR001	[tipo che serie tv] guardi?
 TOI008	[quelle su netflix]
 TOI008	tutte quelle di netflix,
-TOR001	((ride))
-TOR001	tutte?
 TOI008	((ride))
+TOR001	tutte?
+TOR001	((ride))
 TOI008	tutte
-TOR001	[no vabbè e::h=mh]
-TOI008	[tutto il catalogo netflix]
-TOR001	dalle più famose game [of thrones], o:::h=mh
-TOI008	[mh]
+TOI008	[no vabbè e::h=mh]
+TOR001	[tutto il catalogo netflix]
+TOI008	dalle più famose game [of thrones], o:::h=mh
+TOR001	[mh]
 TOI008	silicon valley,
 TOI008	ho visto::: breaking bad eh,
-TOR001	sì le più famose e::h
-TOI008	okay
-TOR001	sì
-TOI008	va bene
-TOR001	le più famose sì.
-TOI008	musica?
-TOR001	musica anche lì ascolto di tutto
-TOI008	okay
-TOI008	da quando c'è spotify
-TOR001	è molto più semplice quindi lascio andare a random le::: le playlist di spotify: [e ascolto] quello che [arriva]
-TOR001	[ah sì]?
-TOI008	[okay]
-TOR001	di solito scelgo un genere e poi vado avanti da lì.
-TOI008	e lasci andare la [playlist] a oltranza
-TOR001	[sì].
+TOI008	sì le più famose e::h
 TOR001	okay
-TOI008	quindi preferisci ascoltarla o::: cioè così oppure vai anche a concerti:,
-TOR001	allora io ho suonato per tantissimi anni
-TOI008	okay
+TOI008	sì
+TOR001	va bene
+TOI008	le più famose sì.
+TOR001	musica?
+TOI008	musica anche lì ascolto di tutto
+TOR001	okay
+TOI008	da quando c'è spotify
+TOI008	è molto più semplice quindi lascio andare a random le::: le playlist di spotify: [e ascolto] quello che [arriva]
+TOR001	[ah sì]?
+TOR001	[okay]
+TOI008	di solito scelgo un genere e poi vado avanti da lì.
+TOR001	e lasci andare la [playlist] a oltranza
+TOI008	[sì].
+TOR001	okay
+TOR001	quindi preferisci ascoltarla o::: cioè così oppure vai anche a concerti:,
+TOI008	allora io ho suonato per tantissimi anni
+TOR001	okay
 TOI008	quindi e:::h=mh
 TOI008	facevo
-TOR001	facevo parecchi concerti
+TOI008	facevo parecchi concerti
 TOR001	okay
-TOI008	((ride))
-TOR001	e:::h e andavo a sentire parecchi concerti ultimamente un po' di meno.
-TOI008	okay
-TOR001	facevo uno o due all'anno
-TOI008	mh mh
+TOR001	((ride))
+TOI008	e:::h e andavo a sentire parecchi concerti ultimamente un po' di meno.
+TOR001	okay
+TOI008	facevo uno o due all'anno
+TOR001	mh mh
 TOI008	poi per il resto invece la musica ce l'ho nelle orecchie tutto il giorno
-TOR001	tutti i giorni perché mentre lavoro mi piace ascoltar la [musica]
+TOI008	tutti i giorni perché mentre lavoro mi piace ascoltar la [musica]
 TOR001	[okay]
-TOI008	cosa suonavi?
-TOR001	suonavo le tastiere e i sintetizzatori
-TOI008	wow ((ride)) okay e che genere [facevate]?
-TOR001	[facevamo::] pop, pop rock.
-TOI008	okay
-TOR001	pezzi nostri:
+TOR001	cosa suonavi?
+TOI008	suonavo le tastiere e i sintetizzatori
+TOR001	wow ((ride)) okay e che genere [facevate]?
+TOI008	[facevamo::] pop, pop rock.
+TOR001	okay
+TOI008	pezzi nostri:
 TOR001	ah
-TOI008	bello
-TOR001	sì sì sì eh
-TOI008	e [come mai] poi hai smesso?
+TOR001	bello
+TOI008	sì sì sì eh
+TOR001	e [come mai] poi hai smesso?
 TOI008	[molto divert~]
 TOI008	perché::: mh
 TOI008	eravamo arrivati a un livello
 TOI008	in cui o facevamo i musicisti o
-TOR001	[o:::] iniziavamo:: a far le persone:::
-TOI008	[okay]
+TOI008	[o:::] iniziavamo:: a far le persone:::
+TOR001	[okay]
 TOI008	serie no non siamo seri nemmeno adesso
 TOI008	no più che tutto eravamo tutti liberi professionisti
 TOI008	e:::h quindi tre liberi professionisti, a:::h=mh e::h e invece l'altro ragazzo era mh e:
-TOR001	era stato assunto
-TOI008	mh mh
-TOR001	quindi diventava::: [problematico] andare a fare il [soundcheck] alle quattro del [pomeriggio]
+TOI008	era stato assunto
+TOR001	mh mh
+TOI008	quindi diventava::: [problematico] andare a fare il [soundcheck] alle quattro del [pomeriggio]
 TOR001	[complicato]
 TOR001	[certo]
-TOI008	[giustamente] ((ride))
+TOR001	[giustamente] ((ride))
 TOI008	e quindi abbiam detto lasciamo perdere:::
-TOR001	è stato molto molto molto bello siamo arrivati a un livello semiprofessionale
-TOI008	eh [buono casp]ita
+TOI008	è stato molto molto molto bello siamo arrivati a un livello semiprofessionale
+TOR001	eh [buono casp]ita
 TOI008	[e poi siamo]
-TOR001	sì sì
-TOI008	((ride))
-TOR001	è stato molto molto interessante
+TOI008	sì sì
+TOR001	((ride))
+TOI008	è stato molto molto interessante
 TOR001	va bene io ho quasi finito eh
 TOR001	sport?
-TOI008	ti piace guardarlo:::
-TOR001	m::::::::h non sono un grande amante dello [sport, cio]è
+TOR001	ti piace guardarlo:::
+TOI008	m::::::::h non sono un grande amante dello [sport, cio]è
 TOR001	[niente]
-TOI008	((ride))
+TOR001	((ride))
 TOI008	andavo a sciare
-TOR001	con [mio papà]
-TOI008	[okay]
+TOI008	con [mio papà]
+TOR001	[okay]
 TOI008	adesso è un bel po' che non vado più
 TOI008	e:::h
-TOR001	ogni tanto mi piace guardarlo::: non so le olimpiadi mi piacciono [un sacco]
-TOI008	[okay]
-TOR001	mi piace guardar le [olimpiadi]
-TOI008	[quindi] quando capitano le [olimpiadi] okay però tipo il calcio no
+TOI008	ogni tanto mi piace guardarlo::: non so le olimpiadi mi piacciono [un sacco]
+TOR001	[okay]
+TOI008	mi piace guardar le [olimpiadi]
+TOR001	[quindi] quando capitano le [olimpiadi] okay però tipo il calcio no
 TOI008	[sì]
-TOR001	no
+TOI008	no
 TOR001	okay
-TOI008	va [bene]
+TOR001	va [bene]
 TOI008	[adesso] sono di notte le olimpiadi
-TOR001	eh no di mattina
-TOI008	((ride))
+TOI008	eh no di mattina
+TOR001	((ride))
 TOI008	è ancora peggio
-TOR001	[di notte si] potevano ancora guardare
+TOI008	[di notte si] potevano ancora guardare
 TOR001	[è complicato]
-TOI008	va bene a posto così grazie mille
+TOR001	va bene a posto così grazie mille
 TOI008	adesso ti faccio io stesso una domanda che
