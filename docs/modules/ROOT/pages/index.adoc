@@ -1,0 +1,92 @@
+= KIParla-collection
+
+The KIParla-collection aggregates all available KIParla corpus modules into a single repository.
+It is rebuilt automatically whenever any module publishes a new release.
+
+This is a *read-only reference repository* — do not edit files here directly.
+If you find an inconsistency in the data, correct it in the xref:collection::index.adoc#modules[originating module].
+
+[WARNING]
+====
+Due to GDPR restrictions, pseudo-anonymized audio files (MP3) are available under a restricted-access license.
+To request access, contact the corpus coordinators through the KIParla website.
+====
+
+[#modules]
+== Included modules
+
+[cols="1,3", options="header"]
+|===
+| Module | Repository
+
+| xref:KIP::index.adoc[KIP]
+| https://github.com/KIParla/KIP
+
+| xref:KIPasti::index.adoc[KIPasti]
+| https://github.com/KIParla/KIPasti
+
+| xref:ParlaBO::index.adoc[ParlaBO]
+| https://github.com/KIParla/ParlaBO
+
+| xref:ParlaTO::index.adoc[ParlaTO]
+| https://github.com/KIParla/ParlaTO
+|===
+
+== Repository organization
+
+[cols="1,3", options="header"]
+|===
+| Path | Contents
+
+| `metadata/participants.tsv`
+| Speaker metadata merged across all modules
+
+| `metadata/conversations.tsv`
+| Conversation metadata merged across all modules
+
+| `eaf/`
+| Time-aligned Jefferson-style transcriptions (open with https://archive.mpi.nl/tla/elan[ELAN])
+
+| `linear-jefferson/`
+| Linearized Jefferson-style transcriptions, one TU per line
+
+| `linear-orthographic/`
+| Linearized transcriptions retaining orthographic words only
+
+| `tsv/`
+| Verticalized, token-level data with Jefferson features as columns
+|===
+
+See xref:KIP::index.adoc[KIP documentation] for a full description of the metadata schema and TSV format.
+
+== How it is built
+
+The collection is rebuilt automatically via GitHub Actions whenever a module publishes a new release.
+The build workflow:
+
+. Clones the latest `main` of all four modules.
+. Syncs TSV and EAF files.
+. Regenerates linear formats using `tools/tsv2formats.py`.
+. Merges metadata using `tools/merge_metadata.py`.
+. Bumps the collection patch version and publishes a new GitHub Release.
+
+See xref:portal:collection-automation.adoc[Collection automation] for technical details.
+
+== How to cite
+
+To cite the full KIParla collection:
+
+[source,bibtex]
+----
+@article{Caterina_KIParla_corpus_a_2019,
+  author  = {Mauri, Caterina and Ballarè, Silvia and Cerruti, Massimo
+             and Goria, Eugenio and Suriano, Francesco},
+  journal = {Proceedings of the 6th Italian Conference on Computational Linguistics CLiC-it.},
+  title   = {{KIParla corpus: a new resource for spoken Italian}},
+  year    = {2019}
+}
+----
+
+== License
+
+This work is licensed under a https://creativecommons.org/licenses/by-nc-sa/4.0/[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License].
