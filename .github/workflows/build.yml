@@ -67,15 +67,63 @@ jobs:
             --modules /tmp/KIP /tmp/KIPasti /tmp/ParlaBO /tmp/ParlaTO \
             --output-dir metadata/
 
+      - name: Bump collection version
+        id: bump
+        run: |
+          # Increment the patch segment of the version in CITATION.cff
+          CURRENT=$(grep '^version:' CITATION.cff | awk '{print $2}')
+          MAJOR=$(echo "$CURRENT" | cut -d. -f1)
+          MINOR=$(echo "$CURRENT" | cut -d. -f2)
+          PATCH=$(echo "$CURRENT" | cut -d. -f3)
+          NEW_VERSION="$MAJOR.$MINOR.$((PATCH + 1))"
+          sed -i "s/^version:.*/version: $NEW_VERSION/" CITATION.cff
+          sed -i "s/^date-released:.*/date-released: $(date +%Y-%m-%d)/" CITATION.cff
+          echo "version=$NEW_VERSION" >> "$GITHUB_OUTPUT"
+
       - name: Commit and push
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add tsv/ eaf/ linear-jefferson/ linear-orthographic/ metadata/
+          git add tsv/ eaf/ linear-jefferson/ linear-orthographic/ metadata/ CITATION.cff
           if ! git diff --cached --quiet; then
             TRIGGER="${{ github.event.client_payload.module || github.event.inputs.module || 'manual' }}"
-            git commit -m "chore: rebuild collection (trigger: $TRIGGER)"
+            git commit -m "chore: rebuild collection v${{ steps.bump.outputs.version }} (trigger: $TRIGGER)"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Tag and create GitHub Release
+        if: steps.commit.outputs.changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const version = '${{ steps.bump.outputs.version }}';
+            const trigger = '${{ github.event.client_payload.module || github.event.inputs.module || 'manual' }}';
+            const releaseUrl = '${{ github.event.client_payload.release_url || '' }}';
+
+            // Create the tag
+            const sha = context.sha;
+            await github.rest.git.createRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: `refs/tags/v${version}`,
+              sha: sha,
+            });
+
+            // Create the release
+            const body = releaseUrl
+              ? `Rebuilt from module release: ${releaseUrl}`
+              : `Rebuilt manually.`;
+            await github.rest.repos.createRelease({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              tag_name: `v${version}`,
+              name: `v${version}`,
+              body: body,
+              draft: false,
+              prerelease: false,
+            });
