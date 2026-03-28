@@ -9,6 +9,9 @@ on:
         description: 'Module that triggered the build (optional, informational)'
         required: false
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
