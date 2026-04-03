@@ -45,7 +45,7 @@ Metadata is to be interpreted as follows:
 	 to conversations are associated with a special `???` code.
 	- `gender`: either `M` for masculine or `F` for feminine
 	- `age-range`: 5 years range including the participant’s age.
-	- `birth-region`: Italian region[^1] where the participant was born. If outside Italy, the label `estero` is used.
+	- `birth-region`: Italian region[^1] where the participant was born. If outside Italy, the label `estero` is used. For modules that only had `school-region` as a field, the available information is used as `birth-region`.
 	- `occupation`: occupation of the participant, according to [ISTAT categories](https://professioni.istat.it/). For more information see [occupation label](./occupation-levels.md)
 	- `study-level`: highest completed level of education[^3]
 	- Additionally, the [`metadata/participants.tsv`](metadata/participants.tsv) also contains a `conversations` colum that summarizes the conversations in which the participant appears.
