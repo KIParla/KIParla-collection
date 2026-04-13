@@ -1,191 +1,191 @@
 code	occupation	gender	conversations	birth-region	age-range	study-level
-BO002	0-Students	F	BOA3001	toscana	21-25	
-BO003	0-Students	F	BOA3001	emilia-romagna	21-25	
-BO005	0-Students	F	BOA1025	estero	21-25	
-BO007	0-Students	F	BOA3002	toscana	21-25	
-BO008	0-Students	M	BOA3002	puglia	21-25	
-BO009	0-Students	F	BOA3002	emilia-romagna	21-25	
-BO010	0-Students	F	BOA3002	emilia-romagna	21-25	
-BO013	2-Professionals	M	BOD1001	emilia-romagna	51-55	
-BO014	0-Students	F	BOD2001	emilia-romagna	21-25	
-BO016	0-Students	F	BOA3003	emilia-romagna	21-25	
-BO017	0-Students	F	BOA3003	emilia-romagna	21-25	
-BO018	0-Students	F	BOA3003	toscana	21-25	
-BO019	0-Students	F	BOA3003	lombardia	21-25	
-BO020	0-Students	F	BOA1001	campania	21-25	
-BO021	0-Students	F	BOA3004;BOA3006;BOD2005;BOA3007	campania	21-25	
-BO026	2-Professionals	F	BOA1001;BOA1002;BOA1003;BOA1004;BOA1005;BOA1006;BOA1007;BOA1008;BOA1009;BOA1010;BOA1011;BOA1012;BOA1013;BOA1014;BOA1015	basilicata	56-60	
-BO027	0-Students	F	BOA1004	marche	26-30	
-BO028	0-Students	F	BOA1002	molise	21-25	
-BO029	0-Students	F	BOA1002	sicilia	21-25	
-BO030	0-Students	F	BOA1002	sicilia	21-25	
-BO031	0-Students	F	BOA1002	sicilia	21-25	
-BO032	0-Students	F	BOA1002;BOA1003	emilia-romagna	21-25	
-BO033	0-Students	F	BOA1005	lazio	21-25	
-BO034	0-Students	F	BOA1006	veneto	21-25	
-BO035	0-Students	F	BOA1007	emilia-romagna	21-25	
-BO036	0-Students	M	BOA1008	calabria	26-30	
-BO037	0-Students	F	BOA1009	trentino-alto-adige	21-25	
-BO038	0-Students	F	BOA1010	campania	21-25	
-BO039	0-Students	F	BOA1010	marche	21-25	
-BO040	0-Students	F	BOA1011	basilicata	21-25	
-BO041	0-Students	F	BOA1011	puglia	26-30	
-BO042	0-Students	F	BOA1012	veneto	21-25	
-BO043	0-Students	F	BOA1013	abruzzo	21-25	
-BO044	0-Students	F	BOA1014	sicilia	26-30	
-BO045	0-Students	F	BOA1015	sardegna	26-30	
-BO046	0-Students	F	BOA3004	trentino-alto-adige	21-25	
-BO047	0-Students	M	BOA3004	puglia	21-25	
-BO048	0-Students	F	BOA3004;BOA3006;BOA3007	piemonte	21-25	
-BO049	0-Students	F	BOD2006;BOD2007;BOD2008;BOD2010;BOD2011	emilia-romagna	21-25	
-BO051	0-Students	M	BOD2006	emilia-romagna	26-30	
-BO052	0-Students	M	BOD2007	emilia-romagna	21-25	
-BO053	0-Students	M	BOD2008	emilia-romagna	21-25	
-BO054	0-Students	F	BOD2009	emilia-romagna	21-25	
-BO056	0-Students	M	BOD2009	emilia-romagna	21-25	
-BO057	0-Students	F	BOD2003	calabria	21-25	
-BO070	0-Students	F	BOD2003	N/A	N/A	
-BO071	0-Students	M	BOA3006;BOA3007	lombardia	21-25	
-BO072	0-Students	M	BOD2005;BOA3006;BOA3007	calabria	21-25	
-BO073	0-Students	F	BOD2005	basilicata	21-25	
-BO074	0-Students	M	BOD2010	emilia-romagna	21-25	
-BO075	0-Students	M	BOD2011	emilia-romagna	21-25	
-BO082	2-Professionals	M	BOA1016;BOA1017;BOA1018	emilia-romagna	41-45	
-BO083	0-Students	F	BOA1016	emilia-romagna	21-25	
-BO084	0-Students	F	BOA1017	veneto	21-25	
-BO085	0-Students	F	BOA1018	lombardia	21-25	
-BO086	0-Students	F	BOA3015	estero	21-25	
-BO087	2-Professionals	M	BOC1001;BOC1002;BOC1003;BOC1004	emilia-romagna	41-45	
-BO088	0-Students	F	BOC1001	emilia-romagna	21-25	
-BO089	0-Students	F	BOC1002	marche	21-25	
-BO090	0-Students	M	BOC1003	sicilia	21-25	
-BO091	0-Students	M	BOC1004	emilia-romagna	21-25	
-BO092	2-Professionals	M	BOC1006;BOD1003	emilia-romagna	61-65	
-BO093	2-Professionals	F	BOD1004	emilia-romagna	41-45	
-BO094	2-Professionals	F	BOD1005	toscana	66-70	
-BO095	0-Students	F	BOA3010;BOA3011;BOA3012;BOA3013	sicilia	21-25	
-BO096	0-Students	F	BOA3010	sicilia	21-25	
-BO097	0-Students	F	BOA3011;BOA3012;BOA3013	lombardia	21-25	
-BO098	0-Students	M	BOD2013	emilia-romagna	21-25	
-BO099	2-Professionals	F	BOD1006	emilia-romagna	66-70	
-BO100	2-Professionals	M	BOD1007	piemonte	31-35	
-BO102	2-Professionals	M	BOD1009	estero	31-35	
-BO103	2-Professionals	M	BOD1010	lazio	51-55	
-BO104	2-Professionals	F	BOC1005;BOC1007	emilia-romagna	36-40	
-BO105	0-Students	F	BOC1005	emilia-romagna	21-25	
-BO112	2-Professionals	F	BOD1011	emilia-romagna	51-55	
-BO113	0-Students	M	BOD2014	emilia-romagna	21-25	
-BO114	0-Students	F	BOD2015	veneto	21-25	
-BO115	0-Students	M	BOA3015;BOD2013;BOD2014;BOD2015	emilia-romagna	21-25	
-BO117	2-Professionals	F	BOC1008;BOC1009;BOA1025	lombardia	36-40	
-BO118	0-Students	F	BOD2018	marche	21-25	
-BO119	0-Students	F	BOD2016;BOD2017;BOD2019	umbria	21-25	
-BO120	0-Students	M	BOD2016	puglia	26-30	
-BO121	0-Students	M	BOD2017	abruzzo	21-25	
-BO122	0-Students	M	BOD2019	umbria	21-25	
-BO139	0-Students	M	BOA3016;BOA3017;BOA3018	emilia-romagna	21-25	
-BO140	0-Students	F	BOD2018	marche	26-30	
-BO141	0-Students	F	BOC1008	emilia-romagna	21-25	
-BO142	0-Students	F	BOC1009	toscana	21-25	
-BO143	0-Students	F	BOC1006	N/A	N/A	
-BO144	0-Students	F	BOC1007	emilia-romagna	21-25	
-BO145	0-Students	F	BOA3017;BOA3018	emilia-romagna	21-25	
-BO146	0-Students	M	BOA3017	marche	21-25	
-BO147	0-Students	M	BOA3017	marche	21-25	
-BO148	0-Students	F	BOA3016	lombardia	21-25	
-BO149	0-Students	M	BOA3019	emilia-romagna	21-25	
-BO150	0-Students	M	BOA3019	emilia-romagna	21-25	
-BO151	0-Students	M	BOA3019	emilia-romagna	21-25	
-BO152	0-Students	F	BOA3019;BOA3020	emilia-romagna	21-25	
-BO153	0-Students	F	BOA3020	emilia-romagna	21-25	
-BO154	0-Students	M	BOA3020	veneto	21-25	
-BO155	0-Students	F	BOA3021	emilia-romagna	21-25	
-BO156	0-Students	M	BOA3021	emilia-romagna	21-25	
-BO157	0-Students	M	BOA3021	emilia-romagna	21-25	
-BO158	0-Students	M	BOA3021	emilia-romagna	21-25	
-T0032	0-Students	M	TOA3005	piemonte	21-25	
-TO002	2-Professionals	M	TOC1001	toscana	46-50	
-TO003	0-Students	M	TOC1001	piemonte	21-25	
-TO004	2-Professionals	M	TOD1002	N/A	N/A	
-TO006	2-Professionals	M	TOC1002;TOC1003	piemonte	56-60	
-TO007	0-Students	M	TOC1002	piemonte	21-25	
-TO008	0-Students	M	TOC1003	piemonte	31-35	
-TO017	2-Professionals	M	TOD1005;TOD1005bis	piemonte	31-35	
-TO018	2-Professionals	M	TOC1004	piemonte	61-65	
-TO019	0-Students	F	TOC1004	sicilia	21-25	
-TO020	2-Professionals	F	TOC1004	piemonte	41-45	
-TO021	0-Students	F	TOC1005	piemonte	21-25	
-TO022	0-Students	F	TOC1006	campania	21-25	
-TO023	0-Students	M	TOC1007	piemonte	21-25	
-TO024	2-Professionals	F	TOC1005;TOC1006;TOC1007	piemonte	56-60	
-TO026	2-Professionals	M	TOA1001;TOA1002	piemonte	41-45	
-TO027	0-Students	M	TOA1001	piemonte	21-25	
-TO028	0-Students	F	TOA1002	piemonte	21-25	
-TO029	0-Students	F	TOA3001;TOA3002;TOA3003	piemonte	21-25	
-TO030	0-Students	F	TOA3005;TOA3006	liguria	21-25	
-TO031	0-Students	M	TOA3004	piemonte	21-25	
-TO033	0-Students	F	TOA3001	piemonte	21-25	
-TO034	0-Students	F	TOA3001	puglia	26-30	
-TO035	0-Students	M	TOA3002	piemonte	21-25	
-TO036	0-Students	F	TOA3003	lombardia	21-25	
-TO037	0-Students	F	TOA3003	piemonte	21-25	
-TO038	0-Students	M	TOA3004	piemonte	21-25	
-TO039	0-Students	M	TOA3004	piemonte	21-25	
-TO040	0-Students	F	TOA3004	piemonte	21-25	
-TO041	0-Students	F	TOD2005	piemonte	21-25	
-TO042	0-Students	M	TOD2006	piemonte	21-25	
-TO043	0-Students	F	TOD2007	piemonte	21-25	
-TO044	0-Students	F	TOD2008	piemonte	21-25	
-TO045	0-Students	F	TOD2009	piemonte	21-25	
-TO046	0-Students	M	TOD2010	piemonte	21-25	
-TO047	0-Students	F	TOD2011	piemonte	21-25	
-TO048	0-Students	F	TOA3007;TOA3008;TOA3009	sicilia	21-25	
-TO050	0-Students	M	TOA3007;TOA3008	campania	21-25	
-TO051	0-Students	F	TOA3008	calabria	26-30	
-TO052	0-Students	M	TOA3008;TOA3009	sicilia	26-30	
-TO053	0-Students	F	TOA3009	sicilia	21-25	
-TO054	0-Students	F	TOA3006	N/A	N/A	
-TO055	0-Students	F	TOD2005;TOD2007;TOD2008;TOD2009;TOD2010;TOD2011	piemonte	21-25	
-TO056	0-Students	F	TOD2012	piemonte	31-35	
-TO057	0-Students	F	TOD2013	calabria	26-30	
-TO058	0-Students	F	TOD2013	lombardia	21-25	
-TO059	0-Students	F	TOD2014	umbria	21-25	
-TO060	0-Students	F	TOD2014	marche	21-25	
-TO061	0-Students	F	TOA1003	valle-d-aosta	21-25	
-TO062	2-Professionals	F	TOD1008	valle-d-aosta	51-55	
-TO065	2-Professionals	M	TOA1003	piemonte	51-55	
-TO068	2-Professionals	F	TOD1014	sicilia	36-40	
-TO069	2-Professionals	M	TOD1015	calabria	46-50	
-TO070	2-Professionals	F	TOD1016	piemonte	46-50	
-TO071	0-Students	M	TOD2012;TOD2013;TOD2014;TOD2015;TOD2016;TOA1003	abruzzo	31-35	
-TO072	0-Students	F	TOA1004	piemonte	21-25	
-TO073	0-Students	F	TOD2015;TOA1004;TOD2015	piemonte	21-25	
-TO074	2-Professionals	M	TOA1004;TOA1006	piemonte	41-45	
-TO075	2-Professionals	M	TOA1005	friuli-venezia-giulia	41-45	
-TO076	0-Students	F	TOA1005	liguria	21-25	
-TO077	2-Professionals	M	TOD1017	piemonte	61-65	
-TO078	0-Students	F	TOA1006	piemonte	21-25	
-TO079	0-Students	M	TOA1006	piemonte	21-25	
-TO080	0-Students	F	TOD2016	lombardia	21-25	
-TO081	0-Students	F	TOD2002	piemonte	21-25	
-TO082	0-Students	F	TOD2001	piemonte	21-25	
-TO083	0-Students	F	TOD2003	piemonte	21-25	
-TO084	0-Students	F	TOD2004	piemonte	21-25	
-TO085	0-Students	F	TOA3010;TOA3011;TOA3012;TOA3013;TOA3014	lombardia	21-25	
-TO086	0-Students	F	TOA3010;TOA3011	piemonte	21-25	
-TO087	0-Students	F	TOA3011	piemonte	21-25	
-TO088	0-Students	F	TOA3011	piemonte	21-25	
-TO089	0-Students	F	TOA3012	piemonte	21-25	
-TO090	0-Students	F	TOA3012	piemonte	21-25	
-TO091	0-Students	F	TOA3014;TOA3012	umbria	21-25	
-TO092	0-Students	F	TOA3013	lombardia	21-25	
-TO093	0-Students	M	TOA3013	puglia	21-25	
-TO094	0-Students	F	TOA3013	lombardia	21-25	
-TO095	0-Students	F	TOA3014	umbria	21-25	
-TO999	2-Professionals	M	TOD2001;TOD2002;TOD2003;TOD2004;TOD2006;BOD2001;BOA1025;BOD1001	piemonte	26-30	
+BO002	0-Students	F	BOA3001	toscana	21-25
+BO003	0-Students	F	BOA3001	emilia-romagna	21-25
+BO005	0-Students	F	BOA1025	estero	21-25
+BO007	0-Students	F	BOA3002	toscana	21-25
+BO008	0-Students	M	BOA3002	puglia	21-25
+BO009	0-Students	F	BOA3002	emilia-romagna	21-25
+BO010	0-Students	F	BOA3002	emilia-romagna	21-25
+BO013	2-Professionals	M	BOD1001	emilia-romagna	51-55
+BO014	0-Students	F	BOD2001	emilia-romagna	21-25
+BO016	0-Students	F	BOA3003	emilia-romagna	21-25
+BO017	0-Students	F	BOA3003	emilia-romagna	21-25
+BO018	0-Students	F	BOA3003	toscana	21-25
+BO019	0-Students	F	BOA3003	lombardia	21-25
+BO020	0-Students	F	BOA1001	campania	21-25
+BO021	0-Students	F	BOA3004;BOA3006;BOD2005;BOA3007	campania	21-25
+BO026	2-Professionals	F	BOA1001;BOA1002;BOA1003;BOA1004;BOA1005;BOA1006;BOA1007;BOA1008;BOA1009;BOA1010;BOA1011;BOA1012;BOA1013;BOA1014;BOA1015	basilicata	56-60
+BO027	0-Students	F	BOA1004	marche	26-30
+BO028	0-Students	F	BOA1002	molise	21-25
+BO029	0-Students	F	BOA1002	sicilia	21-25
+BO030	0-Students	F	BOA1002	sicilia	21-25
+BO031	0-Students	F	BOA1002	sicilia	21-25
+BO032	0-Students	F	BOA1002;BOA1003	emilia-romagna	21-25
+BO033	0-Students	F	BOA1005	lazio	21-25
+BO034	0-Students	F	BOA1006	veneto	21-25
+BO035	0-Students	F	BOA1007	emilia-romagna	21-25
+BO036	0-Students	M	BOA1008	calabria	26-30
+BO037	0-Students	F	BOA1009	trentino-alto-adige	21-25
+BO038	0-Students	F	BOA1010	campania	21-25
+BO039	0-Students	F	BOA1010	marche	21-25
+BO040	0-Students	F	BOA1011	basilicata	21-25
+BO041	0-Students	F	BOA1011	puglia	26-30
+BO042	0-Students	F	BOA1012	veneto	21-25
+BO043	0-Students	F	BOA1013	abruzzo	21-25
+BO044	0-Students	F	BOA1014	sicilia	26-30
+BO045	0-Students	F	BOA1015	sardegna	26-30
+BO046	0-Students	F	BOA3004	trentino-alto-adige	21-25
+BO047	0-Students	M	BOA3004	puglia	21-25
+BO048	0-Students	F	BOA3004;BOA3006;BOA3007	piemonte	21-25
+BO049	0-Students	F	BOD2006;BOD2007;BOD2008;BOD2010;BOD2011	emilia-romagna	21-25
+BO051	0-Students	M	BOD2006	emilia-romagna	26-30
+BO052	0-Students	M	BOD2007	emilia-romagna	21-25
+BO053	0-Students	M	BOD2008	emilia-romagna	21-25
+BO054	0-Students	F	BOD2009	emilia-romagna	21-25
+BO056	0-Students	M	BOD2009	emilia-romagna	21-25
+BO057	0-Students	F	BOD2003	calabria	21-25
+BO070	0-Students	F	BOD2003	N/A	N/A
+BO071	0-Students	M	BOA3006;BOA3007	lombardia	21-25
+BO072	0-Students	M	BOD2005;BOA3006;BOA3007	calabria	21-25
+BO073	0-Students	F	BOD2005	basilicata	21-25
+BO074	0-Students	M	BOD2010	emilia-romagna	21-25
+BO075	0-Students	M	BOD2011	emilia-romagna	21-25
+BO082	2-Professionals	M	BOA1016;BOA1017;BOA1018	emilia-romagna	41-45
+BO083	0-Students	F	BOA1016	emilia-romagna	21-25
+BO084	0-Students	F	BOA1017	veneto	21-25
+BO085	0-Students	F	BOA1018	lombardia	21-25
+BO086	0-Students	F	BOA3015	estero	21-25
+BO087	2-Professionals	M	BOC1001;BOC1002;BOC1003;BOC1004	emilia-romagna	41-45
+BO088	0-Students	F	BOC1001	emilia-romagna	21-25
+BO089	0-Students	F	BOC1002	marche	21-25
+BO090	0-Students	M	BOC1003	sicilia	21-25
+BO091	0-Students	M	BOC1004	emilia-romagna	21-25
+BO092	2-Professionals	M	BOC1006;BOD1003	emilia-romagna	61-65
+BO093	2-Professionals	F	BOD1004	emilia-romagna	41-45
+BO094	2-Professionals	F	BOD1005	toscana	66-70
+BO095	0-Students	F	BOA3010;BOA3011;BOA3012;BOA3013	sicilia	21-25
+BO096	0-Students	F	BOA3010	sicilia	21-25
+BO097	0-Students	F	BOA3011;BOA3012;BOA3013	lombardia	21-25
+BO098	0-Students	M	BOD2013	emilia-romagna	21-25
+BO099	2-Professionals	F	BOD1006	emilia-romagna	66-70
+BO100	2-Professionals	M	BOD1007	piemonte	31-35
+BO102	2-Professionals	M	BOD1009	estero	31-35
+BO103	2-Professionals	M	BOD1010	lazio	51-55
+BO104	2-Professionals	F	BOC1005;BOC1007	emilia-romagna	36-40
+BO105	0-Students	F	BOC1005	emilia-romagna	21-25
+BO112	2-Professionals	F	BOD1011	emilia-romagna	51-55
+BO113	0-Students	M	BOD2014	emilia-romagna	21-25
+BO114	0-Students	F	BOD2015	veneto	21-25
+BO115	0-Students	M	BOA3015;BOD2013;BOD2014;BOD2015	emilia-romagna	21-25
+BO117	2-Professionals	F	BOC1008;BOC1009;BOA1025	lombardia	36-40
+BO118	0-Students	F	BOD2018	marche	21-25
+BO119	0-Students	F	BOD2016;BOD2017;BOD2019	umbria	21-25
+BO120	0-Students	M	BOD2016	puglia	26-30
+BO121	0-Students	M	BOD2017	abruzzo	21-25
+BO122	0-Students	M	BOD2019	umbria	21-25
+BO139	0-Students	M	BOA3016;BOA3017;BOA3018	emilia-romagna	21-25
+BO140	0-Students	F	BOD2018	marche	26-30
+BO141	0-Students	F	BOC1008	emilia-romagna	21-25
+BO142	0-Students	F	BOC1009	toscana	21-25
+BO143	0-Students	F	BOC1006	N/A	N/A
+BO144	0-Students	F	BOC1007	emilia-romagna	21-25
+BO145	0-Students	F	BOA3017;BOA3018	emilia-romagna	21-25
+BO146	0-Students	M	BOA3017	marche	21-25
+BO147	0-Students	M	BOA3017	marche	21-25
+BO148	0-Students	F	BOA3016	lombardia	21-25
+BO149	0-Students	M	BOA3019	emilia-romagna	21-25
+BO150	0-Students	M	BOA3019	emilia-romagna	21-25
+BO151	0-Students	M	BOA3019	emilia-romagna	21-25
+BO152	0-Students	F	BOA3019;BOA3020	emilia-romagna	21-25
+BO153	0-Students	F	BOA3020	emilia-romagna	21-25
+BO154	0-Students	M	BOA3020	veneto	21-25
+BO155	0-Students	F	BOA3021	emilia-romagna	21-25
+BO156	0-Students	M	BOA3021	emilia-romagna	21-25
+BO157	0-Students	M	BOA3021	emilia-romagna	21-25
+BO158	0-Students	M	BOA3021	emilia-romagna	21-25
+T0032	0-Students	M	TOA3005	piemonte	21-25
+TO002	2-Professionals	M	TOC1001	toscana	46-50
+TO003	0-Students	M	TOC1001	piemonte	21-25
+TO004	2-Professionals	M	TOD1002	N/A	N/A
+TO006	2-Professionals	M	TOC1002;TOC1003	piemonte	56-60
+TO007	0-Students	M	TOC1002	piemonte	21-25
+TO008	0-Students	M	TOC1003	piemonte	31-35
+TO017	2-Professionals	M	TOD1005;TOD1005bis	piemonte	31-35
+TO018	2-Professionals	M	TOC1004	piemonte	61-65
+TO019	0-Students	F	TOC1004	sicilia	21-25
+TO020	2-Professionals	F	TOC1004	piemonte	41-45
+TO021	0-Students	F	TOC1005	piemonte	21-25
+TO022	0-Students	F	TOC1006	campania	21-25
+TO023	0-Students	M	TOC1007	piemonte	21-25
+TO024	2-Professionals	F	TOC1005;TOC1006;TOC1007	piemonte	56-60
+TO026	2-Professionals	M	TOA1001;TOA1002	piemonte	41-45
+TO027	0-Students	M	TOA1001	piemonte	21-25
+TO028	0-Students	F	TOA1002	piemonte	21-25
+TO029	0-Students	F	TOA3001;TOA3002;TOA3003	piemonte	21-25
+TO030	0-Students	F	TOA3005;TOA3006	liguria	21-25
+TO031	0-Students	M	TOA3004	piemonte	21-25
+TO033	0-Students	F	TOA3001	piemonte	21-25
+TO034	0-Students	F	TOA3001	puglia	26-30
+TO035	0-Students	M	TOA3002	piemonte	21-25
+TO036	0-Students	F	TOA3003	lombardia	21-25
+TO037	0-Students	F	TOA3003	piemonte	21-25
+TO038	0-Students	M	TOA3004	piemonte	21-25
+TO039	0-Students	M	TOA3004	piemonte	21-25
+TO040	0-Students	F	TOA3004	piemonte	21-25
+TO041	0-Students	F	TOD2005	piemonte	21-25
+TO042	0-Students	M	TOD2006	piemonte	21-25
+TO043	0-Students	F	TOD2007	piemonte	21-25
+TO044	0-Students	F	TOD2008	piemonte	21-25
+TO045	0-Students	F	TOD2009	piemonte	21-25
+TO046	0-Students	M	TOD2010	piemonte	21-25
+TO047	0-Students	F	TOD2011	piemonte	21-25
+TO048	0-Students	F	TOA3007;TOA3008;TOA3009	sicilia	21-25
+TO050	0-Students	M	TOA3007;TOA3008	campania	21-25
+TO051	0-Students	F	TOA3008	calabria	26-30
+TO052	0-Students	M	TOA3008;TOA3009	sicilia	26-30
+TO053	0-Students	F	TOA3009	sicilia	21-25
+TO054	0-Students	F	TOA3006	N/A	N/A
+TO055	0-Students	F	TOD2005;TOD2007;TOD2008;TOD2009;TOD2010;TOD2011	piemonte	21-25
+TO056	0-Students	F	TOD2012	piemonte	31-35
+TO057	0-Students	F	TOD2013	calabria	26-30
+TO058	0-Students	F	TOD2013	lombardia	21-25
+TO059	0-Students	F	TOD2014	umbria	21-25
+TO060	0-Students	F	TOD2014	marche	21-25
+TO061	0-Students	F	TOA1003	valle-d-aosta	21-25
+TO062	2-Professionals	F	TOD1008	valle-d-aosta	51-55
+TO065	2-Professionals	M	TOA1003	piemonte	51-55
+TO068	2-Professionals	F	TOD1014	sicilia	36-40
+TO069	2-Professionals	M	TOD1015	calabria	46-50
+TO070	2-Professionals	F	TOD1016	piemonte	46-50
+TO071	0-Students	M	TOD2012;TOD2013;TOD2014;TOD2015;TOD2016;TOA1003	abruzzo	31-35
+TO072	0-Students	F	TOA1004	piemonte	21-25
+TO073	0-Students	F	TOD2015;TOA1004;TOD2015	piemonte	21-25
+TO074	2-Professionals	M	TOA1004;TOA1006	piemonte	41-45
+TO075	2-Professionals	M	TOA1005	friuli-venezia-giulia	41-45
+TO076	0-Students	F	TOA1005	liguria	21-25
+TO077	2-Professionals	M	TOD1017	piemonte	61-65
+TO078	0-Students	F	TOA1006	piemonte	21-25
+TO079	0-Students	M	TOA1006	piemonte	21-25
+TO080	0-Students	F	TOD2016	lombardia	21-25
+TO081	0-Students	F	TOD2002	piemonte	21-25
+TO082	0-Students	F	TOD2001	piemonte	21-25
+TO083	0-Students	F	TOD2003	piemonte	21-25
+TO084	0-Students	F	TOD2004	piemonte	21-25
+TO085	0-Students	F	TOA3010;TOA3011;TOA3012;TOA3013;TOA3014	lombardia	21-25
+TO086	0-Students	F	TOA3010;TOA3011	piemonte	21-25
+TO087	0-Students	F	TOA3011	piemonte	21-25
+TO088	0-Students	F	TOA3011	piemonte	21-25
+TO089	0-Students	F	TOA3012	piemonte	21-25
+TO090	0-Students	F	TOA3012	piemonte	21-25
+TO091	0-Students	F	TOA3014;TOA3012	umbria	21-25
+TO092	0-Students	F	TOA3013	lombardia	21-25
+TO093	0-Students	M	TOA3013	puglia	21-25
+TO094	0-Students	F	TOA3013	lombardia	21-25
+TO095	0-Students	F	TOA3014	umbria	21-25
+TO999	2-Professionals	M	TOD2001;TOD2002;TOD2003;TOD2004;TOD2006;BOD2001;BOA1025;BOD1001	piemonte	26-30
 PKP001	0-Students	F	KPS006;KPS005	basilicata	21-25	university-degree-ongoing
 PKP003	0-Students	M	KPS005;KPS006	basilicata	16-20	university-degree-ongoing
-PKP004	2-Professionals	F	KPS005;KPS006	puglia	51-55	tecnical-vocational-diploma
+PKP004	2-Professionals	F	KPS005;KPS006	puglia	51-55	technical-vocational-diploma
 PKP005	4-Clerical-Workers	M	KPS005;KPS006	basilicata	56-60	liceo-diploma
 PKP006	2-Professionals	F	KPS006	basilicata	81-85	university-degree
 PKP007	2-Professionals	F	KPN001	piemonte	26-30	phd
@@ -197,26 +197,26 @@ PKP012	N/A	F	KPN002	veneto	21-25	N/A
 PKP013	0-Students	F	KPN003;KPN004;KPN005;KPN007	emilia-romagna	21-25	university-degree-ongoing
 PKP014	0-Unemployed	F	KPN003;KPN005;KPN006	emilia-romagna	21-25	university-degree
 PKP015	3-Technicians	F	KPN003;KPN005	emilia-romagna	21-25	university-degree
-PKP016	4-Clerical-Workers	F	KPN004;KPN007	emilia-romagna	51-55	tecnical-vocational-diploma
+PKP016	4-Clerical-Workers	F	KPN004;KPN007	emilia-romagna	51-55	technical-vocational-diploma
 PKP017	4-Clerical-Workers	M	KPN004;KPN007	emilia-romagna	51-55	phd
-PKP018	3-Technicians	F	KPN005	emilia-romagna	51-55	tecnical-vocational-diploma
+PKP018	3-Technicians	F	KPN005	emilia-romagna	51-55	technical-vocational-diploma
 PKP019	0-Retired	M	KPN006	emilia-romagna	81-85	primary-school
 PKP020	0-Students	M	KPN006	emilia-romagna	16-20	university-degree-ongoing
-PKP021	3-Technicians	M	KPN006	emilia-romagna	51-55	tecnical-vocational-diploma
-PKP022	0-Retired	F	KPN007	emilia-romagna	76-80	tecnical-vocational-diploma
+PKP021	3-Technicians	M	KPN006	emilia-romagna	51-55	technical-vocational-diploma
+PKP022	0-Retired	F	KPN007	emilia-romagna	76-80	technical-vocational-diploma
 PKP023	0-Students	M	KPN009	sicilia	16-20	university-degree-ongoing
 PKP024	0-Students	F	KPC003;KPN010	toscana	21-25	university-degree-ongoing
 PKP025	0-Students	F	KPC001	marche	21-25	university-degree-ongoing
-PKP026	4-Clerical-Workers	F	KPC001	marche	51-55	tecnical-vocational-diploma
+PKP026	4-Clerical-Workers	F	KPC001	marche	51-55	technical-vocational-diploma
 PKP027	4-Clerical-Workers	M	KPC004	lazio	26-30	university-degree
 PKP028	0-Students	F	KPC004	lazio	26-30	university-degree-ongoing
 PKP029	0-Students	F	KPN010	toscana	21-25	university-degree-ongoing
 PKP030	0-Students	M	KPN019;KPN020	veneto	21-25	university-degree-ongoing
 PKP031	0-Students	M	KPN002	veneto	21-25	university-degree-ongoing
-PKP032	4-Clerical-Workers	M	KPN020	estero	56-60	tecnical-vocational-diploma
+PKP032	4-Clerical-Workers	M	KPN020	estero	56-60	technical-vocational-diploma
 PKP033	2-Professionals	F	KPN031;KPS004	emilia-romagna	26-30	university-degree
-PKP034	0-Retired	F	KPS004	puglia	81-85	tecnical-vocational-diploma
-PKP035	0-Retired	M	KPS004	puglia	over 85	tecnical-vocational-diploma
+PKP034	0-Retired	F	KPS004	puglia	81-85	technical-vocational-diploma
+PKP035	0-Retired	M	KPS004	puglia	over 85	technical-vocational-diploma
 PKP036	2-Professionals	F	KPN031	lazio	26-30	university-degree
 PKP037	2-Professionals	M	KPN031	lazio	26-30	university-degree
 PKP038	2-Professionals	F	KPN002	veneto	21-25	university-degree
@@ -230,23 +230,23 @@ PKP045	2-Professionals	M	KPN012	puglia	21-25	university-degree
 PKP046	2-Professionals	F	KPN012	puglia	16-20	liceo-diploma
 PKP047	2-Professionals	M	KPS010	puglia	21-25	phd
 PKP048	0-Unemployed	F	KPS011	veneto	81-85	primary-school
-PKP049	0-Unemployed	F	KPS012	puglia	51-55	tecnical-vocational-diploma
+PKP049	0-Unemployed	F	KPS012	puglia	51-55	technical-vocational-diploma
 PKP050	2-Professionals	F	KPS012	puglia	21-25	liceo-diploma
 PKP051	0-Students	F	KPS012	puglia	16-20	middle-school
 PKP052	2-Professionals	F	KPS013	puglia	51-55	university-degree
 PKP053	0-Students	F	KPS013	puglia	16-20	middle-school
 PKP054	0-Students	F	KPN009	friuli-venezia-giulia	21-25	university-degree-ongoing
-PKP055	5-Service-Workers	M	KPN009	toscana	21-25	tecnical-vocational-diploma
+PKP055	5-Service-Workers	M	KPN009	toscana	21-25	technical-vocational-diploma
 PKP056	2-Professionals	F	KPC002	toscana	51-55	university-degree
 PKP057	0-Students	F	KPN013;KPN014;KPN015;KPN016;KPN017	emilia-romagna	21-25	university-degree-ongoing
 PKP058	0-Students	F	KPN013	emilia-romagna	21-25	university-degree-ongoing
 PKP059	0-Students	F	KPN013	emilia-romagna	21-25	university-degree-ongoing
 PKP060	0-Students	M	KPN014	emilia-romagna	26-30	university-degree-ongoing
-PKP061	8-Elementary	F	KPN015;KPN016;KPN017	emilia-romagna	56-60	tecnical-vocational-diploma
+PKP061	8-Elementary	F	KPN015;KPN016;KPN017	emilia-romagna	56-60	technical-vocational-diploma
 PKP062	3-Technicians	M	KPN015	emilia-romagna	56-60	university-degree
 PKP063	0-Students	M	KPC005;KPC006;KPC007;KPC008	marche	21-25	university-degree-ongoing
 PKP064	6-Craft-Workers	M	KPC005	marche	56-60	middle-school
-PKP065	4-Clerical-Workers	F	KPC005	calabria	56-60	tecnical-vocational-diploma
+PKP065	4-Clerical-Workers	F	KPC005	calabria	56-60	technical-vocational-diploma
 PKP066	0-Retired	F	KPC006	marche	76-80	primary-school
 PKP067	0-Students	F	KPC007	marche	16-20	university-degree-ongoing
 PKP068	0-Students	F	KPC007	marche	21-25	university-degree-ongoing
@@ -262,7 +262,7 @@ PKP077	6-Craft-Workers	M	KPN022	veneto	56-60	middle-school
 PKP078	0-Students	F	KPN023	veneto	21-25	university-degree-ongoing
 PKP079	0-Students	F	KPN023	veneto	21-25	university-degree-ongoing
 PKP080	0-Students	F	KPN024	veneto	21-25	university-degree-ongoing
-PKP081	0-Retired	M	KPS015	campania	81-85	tecnical-vocational-diploma
+PKP081	0-Retired	M	KPS015	campania	81-85	technical-vocational-diploma
 PKP082	0-Retired	F	KPS015	campania	76-80	university-degree
 PKP083	0-Students	F	KPS015;KPS016;KPS017	sardegna	21-25	university-degree-ongoing
 PKP084	3-Technicians	M	KPS016	sardegna	51-55	phd
@@ -270,7 +270,7 @@ PKP085	0-Students	M	KPS016;KPS017	sardegna	16-20	university-degree-ongoing
 PKP086	0-Retired	M	KPS017	sardegna	81-85	middle-school
 PKP087	0-Retired	F	KPS017	sardegna	81-85	middle-school
 PKP088	0-Students	F	KPC009	umbria	21-25	university-degree-ongoing
-PKP089	6-Craft-Workers	F	KPC009	umbria	21-25	tecnical-vocational-diploma
+PKP089	6-Craft-Workers	F	KPC009	umbria	21-25	technical-vocational-diploma
 PKP090	0-Students	F	KPC009	umbria	21-25	university-degree-ongoing
 PKP091	0-Students	F	KPN010	veneto	16-20	university-degree-ongoing
 PKP092	0-Students	F	KPN010	toscana	21-25	university-degree-ongoing
@@ -281,11 +281,11 @@ PKP096	2-Professionals	F	KPS014	puglia	61-65	university-degree
 PKP097	2-Professionals	M	KPS014	puglia	26-30	university-degree
 PKP100	0-Students	F	KPS001	calabria	21-25	university-degree-ongoing
 PKP101	2-Professionals	F	KPS001	lazio	56-60	phd
-PKP102	3-Technicians	M	KPS001	campania	61-65	tecnical-vocational-diploma
+PKP102	3-Technicians	M	KPS001	campania	61-65	technical-vocational-diploma
 PKP103	0-Students	F	KPS001;KPS002	calabria	21-25	university-degree-ongoing
 PKP104	0-Students	F	KPS002	calabria	21-25	university-degree-ongoing
 PKP105	2-Professionals	F	KPS002	calabria	51-55	phd
-PKP106	4-Clerical-Workers	F	KPN018	sicilia	51-55	tecnical-vocational-diploma
+PKP106	4-Clerical-Workers	F	KPN018	sicilia	51-55	technical-vocational-diploma
 PKP107	0-Students	F	KPN025;KPN026	emilia-romagna	21-25	university-degree-ongoing
 PKP108	2-Professionals	F	KPN025	marche	81-85	university-degree
 PKP109	2-Professionals	F	KPN025	marche	51-55	university-degree
@@ -301,16 +301,16 @@ PKP119	5-Service-Workers	M	KPN028	sicilia	51-55	middle-school
 PKP120	0-Students	F	KPN011	emilia-romagna	26-30	university-degree-ongoing
 PKP121	0-Students	M	KPN011	emilia-romagna	31-35	university-degree-ongoing
 PKP122	2-Professionals	M	KPN011	estero	71-75	phd
-PKP123	0-Unemployed	F	KPN011	estero	61-65	tecnical-vocational-diploma
+PKP123	0-Unemployed	F	KPN011	estero	61-65	technical-vocational-diploma
 PKP124	0-Students	F	KPN002	veneto	21-25	university-degree-ongoing
 PKP125	0-Students	M	KPS021;KPS022;KPS023;KPS024;KPS025	campania	26-30	university-degree-ongoing
 PKP126	0-Unemployed	M	KPS021	campania	26-30	university-degree
 PKP127	0-Students	F	KPS021	campania	26-30	university-degree-ongoing
-PKP128	5-Service-Workers	F	KPS022	campania	26-30	tecnical-vocational-diploma
-PKP129	5-Service-Workers	F	KPS022	campania	26-30	tecnical-vocational-diploma
+PKP128	5-Service-Workers	F	KPS022	campania	26-30	technical-vocational-diploma
+PKP129	5-Service-Workers	F	KPS022	campania	26-30	technical-vocational-diploma
 PKP130	2-Professionals	F	KPS023	campania	31-35	university-degree
-PKP131	0-Unemployed	F	KPS024	campania	21-25	tecnical-vocational-diploma
-PKP132	0-Retired	F	KPS025	campania	61-65	tecnical-vocational-diploma
+PKP131	0-Unemployed	F	KPS024	campania	21-25	technical-vocational-diploma
+PKP132	0-Retired	F	KPS025	campania	61-65	technical-vocational-diploma
 PKP133	0-Retired	M	KPS025	campania	71-75	primary-school
 PKP134	2-Professionals	F	KPS007	abruzzo	26-30	university-degree
 PKP135	2-Professionals	F	KPS007;KPS003;KPN001	abruzzo	21-25	liceo-diploma
@@ -324,7 +324,7 @@ PKP142	0-Students	F	KPN030	basilicata	21-25	university-degree-ongoing
 PKP143	0-Students	F	KPN019	veneto	16-20	middle-school
 PKP144	2-Professionals	M	KPN019	veneto	61-65	university-degree
 PKP145	0-Students	F	KPN018	veneto	21-25	university-degree-ongoing
-PKP146	3-Technicians	M	KPN018	veneto	56-60	tecnical-vocational-diploma
+PKP146	3-Technicians	M	KPN018	veneto	56-60	technical-vocational-diploma
 PKP147	0-Students	F	KPC011	umbria	21-25	university-degree-ongoing
 PKP148	0-Retired	M	KPC011	toscana	81-85	primary-school
 PKP149	0-Retired	F	KPC011	toscana	76-80	primary-school
