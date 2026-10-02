@@ -127,3 +127,23 @@ jobs:
               draft: false,
               prerelease: false,
             });
+
+      # Required secret: NOSKETCH_DATA_TOKEN — a GitHub PAT with `repo` scope
+      # on KIParla/KIParla-NoSketch-Data (Settings → Secrets and variables →
+      # Actions → New repository secret). Rebuilds the aggregated `KIParla`
+      # NoSketch corpus from this release's tsv/ + metadata/ — see
+      # KIParla-NoSketch-Data/.github/workflows/regenerate-on-release.yml.
+      - name: Notify NoSketch Data on new collection release
+        if: steps.commit.outputs.changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.NOSKETCH_DATA_TOKEN }}
+          script: |
+            await github.rest.repos.createDispatchEvent({
+              owner: 'KIParla',
+              repo: 'KIParla-NoSketch-Data',
+              event_type: 'collection-released',
+              client_payload: {
+                version: 'v${{ steps.bump.outputs.version }}',
+              },
+            });
