@@ -34,10 +34,13 @@ jobs:
           git clone --depth 1 https://github.com/KIParla/KIPasti.git  /tmp/KIPasti
           git clone --depth 1 https://github.com/KIParla/ParlaBO.git  /tmp/ParlaBO
           git clone --depth 1 https://github.com/KIParla/ParlaTO.git  /tmp/ParlaTO
+          git clone --depth 1 https://github.com/KIParla/ParlaBZ.git  /tmp/ParlaBZ
+          git clone --depth 1 https://github.com/KIParla/Stra-ParlaBO.git /tmp/Stra-ParlaBO
+          git clone --depth 1 https://github.com/KIParla/Stra-ParlaTO.git /tmp/Stra-ParlaTO
 
       - name: Sync TSV files
         run: |
-          for module in KIP KIPasti ParlaBO ParlaTO; do
+          for module in KIP KIPasti ParlaBO ParlaTO ParlaBZ Stra-ParlaBO Stra-ParlaTO; do
             if [ -d "/tmp/$module/tsv" ]; then
               cp /tmp/$module/tsv/*.tsv tsv/ 2>/dev/null || true
             fi
@@ -45,7 +48,7 @@ jobs:
 
       - name: Sync EAF files
         run: |
-          for module in KIP KIPasti ParlaBO ParlaTO; do
+          for module in KIP KIPasti ParlaBO ParlaTO ParlaBZ Stra-ParlaBO Stra-ParlaTO; do
             if [ -d "/tmp/$module/eaf" ]; then
               cp /tmp/$module/eaf/*.eaf eaf/ 2>/dev/null || true
             fi
@@ -65,7 +68,11 @@ jobs:
         run: |
           python /tmp/tools/merge_metadata.py \
             --modules /tmp/KIP /tmp/KIPasti /tmp/ParlaBO /tmp/ParlaTO \
+                      /tmp/ParlaBZ /tmp/Stra-ParlaBO /tmp/Stra-ParlaTO \
             --output-dir metadata/
+
+      - name: Regenerate CSVW metadata
+        run: python /tmp/tools/csvw/generate_csvw.py .
 
       - name: Bump collection version
         id: bump
@@ -85,7 +92,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add tsv/ eaf/ linear-jefferson/ linear-orthographic/ metadata/ CITATION.cff
+          git add tsv/ eaf/ linear-jefferson/ linear-orthographic/ metadata/ csv-metadata.json CITATION.cff
           if ! git diff --cached --quiet; then
             TRIGGER="${{ github.event.client_payload.module || github.event.inputs.module || 'manual' }}"
             git commit -m "chore: rebuild collection v${{ steps.bump.outputs.version }} (trigger: $TRIGGER)"
