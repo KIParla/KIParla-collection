@@ -59,6 +59,8 @@ To request access, contact the corpus coordinators through the KIParla website.
 
 See xref:KIP::index.adoc[KIP documentation] for a full description of the metadata schema and TSV format.
 
+All transcriptions follow the xref:portal:transcription-conventions.adoc[KIParla transcription conventions].
+
 == How it is built
 
 The collection is rebuilt automatically via GitHub Actions whenever a module publishes a new release.
