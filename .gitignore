@@ -1,0 +1,5 @@
+.DS_Store
+.vscode/
+*.xlsx
+*.eaf.001
+*.pfsx
