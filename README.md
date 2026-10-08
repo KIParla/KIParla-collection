@@ -55,9 +55,6 @@ Metadata is to be interpreted as follows:
    - `type`: type of interaction, for this module all conversation are `semistructured-interview`
    - `duration`: duration of the conversation, expressed in `hh:mm:ss` format
    - `participants-number`: number of participants in the conversation
-   - `participants-relationship`: relation, asymmetric for this module
-   - `moderator`: presence of a moderator
-   - `topic`: fixed for this module
    - `year`: year of collection
    - `collection-point`: two-letter code of the collection area: `BO` for Bologna for this module.
    - Additionally, the [`metadata/conversations.tsv`](metadata/conversations.tsv) also contains a `participants` field that recaps the codes of the participants to that conversation
