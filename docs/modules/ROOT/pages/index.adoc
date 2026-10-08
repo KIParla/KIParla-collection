@@ -45,16 +45,16 @@ To request access, contact the corpus coordinators through the KIParla website.
 | Conversation metadata merged across all modules
 
 | `eaf/`
-| Time-aligned Jefferson-style transcriptions (open with https://archive.mpi.nl/tla/elan[ELAN])
+| Time-aligned enriched transcriptions (open with https://archive.mpi.nl/tla/elan[ELAN])
 
-| `linear-jefferson/`
-| Linearized Jefferson-style transcriptions, one TU per line
+| `linear-enriched/`
+| Linearized enriched transcriptions, one TU per line
 
 | `linear-orthographic/`
 | Linearized transcriptions retaining orthographic words only
 
 | `tsv/`
-| Verticalized, token-level data with Jefferson features as columns
+| Verticalized, token-level data with enriched features as columns
 |===
 
 See xref:KIP::index.adoc[KIP documentation] for a full description of the metadata schema and TSV format.

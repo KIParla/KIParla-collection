@@ -61,7 +61,7 @@ jobs:
         run: |
           python /tmp/tools/tsv2formats.py \
             -i tsv/ \
-            --out_jefferson linear-jefferson \
+            --out_enriched linear-enriched \
             --out_orthographic linear-orthographic
 
       - name: Merge metadata
@@ -92,7 +92,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add tsv/ eaf/ linear-jefferson/ linear-orthographic/ metadata/ csv-metadata.json CITATION.cff
+          git add tsv/ eaf/ linear-enriched/ linear-orthographic/ metadata/ csv-metadata.json CITATION.cff
           if ! git diff --cached --quiet; then
             TRIGGER="${{ github.event.client_payload.module || github.event.inputs.module || 'manual' }}"
             git commit -m "chore: rebuild collection v${{ steps.bump.outputs.version }} (trigger: $TRIGGER)"
