@@ -97,6 +97,7 @@ jobs:
             TRIGGER="${{ github.event.client_payload.module || github.event.inputs.module || 'manual' }}"
             git commit -m "chore: rebuild collection v${{ steps.bump.outputs.version }} (trigger: $TRIGGER)"
             git push
+            echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
             echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "No changes to commit."
@@ -112,8 +113,9 @@ jobs:
             const trigger = '${{ github.event.client_payload.module || github.event.inputs.module || 'manual' }}';
             const releaseUrl = '${{ github.event.client_payload.release_url || '' }}';
 
-            // Create the tag
-            const sha = context.sha;
+            // Create the tag on the commit this build just pushed. context.sha is the commit
+            // that triggered the workflow, i.e. the collection *before* the rebuild.
+            const sha = '${{ steps.commit.outputs.sha }}';
             await github.rest.git.createRef({
               owner: context.repo.owner,
               repo: context.repo.repo,
