@@ -46,7 +46,7 @@ BO049	bene bene.
 BO049	e attualmente dove vivi?
 BO051	attualmente vivo con i miei genitori.
 BO049	[okay]
-BO051	[mia madre è] a @nomepaese
+BO051	[mia madre è] a
 BO049	okay e il luogo dove non so vivi in un palazzo [in una villa]
 BO051	[sí, abit]iamo al primo piano di un condominio:
 BO049	okay
@@ -68,8 +68,8 @@ BO049	((ride))
 BO049	e::::hm:
 BO049	hai sempre vissuto in quella casa:? é la casa della tua infanzia oppur[e::? xx]
 BO051	[m:: non esa]ttamente
-BO051	[perché]:: ci siamo trasferiti lí:::
 BO049	[okay]
+BO051	[perché]:: ci siamo trasferiti lí:::
 BO051	ehm con anche mio padre nel: novantasette.
 BO051	e: prima abitavamo:
 BO051	in una casa piú ampia::, in centro, in aff[itto].
@@ -153,7 +153,7 @@ BO051	[sí].
 BO051	[sí].
 BO049	[ah] puoi descrivermi questa tua esperienza:: [di vita] a bologna::
 BO051	[sí].
-BO051	sí, beh la~ la mia:: m vita a bologna é stata semplicemente dettata da necessitá di:: essenzialmente di lim~ di limitare: gli spostamenti e:: e non é stata:: continua.
+BO051	sí, beh la~ la mia:: mh vita a bologna é stata semplicemente dettata da necessitá di:: essenzialmente di lim~ di limitare: gli spostamenti e:: e non é stata:: continua.
 BO051	quindi:::: e::h capitava che:: rientrassi anche:: di frequente che essenzialmente lo utilizzassi solo come pied à terre [pe::r] per per limitare: per ridurre gli spostamenti in tr[eno, essenzialmente].
 BO049	[ah].
 BO049	[sí quindi:] durante la settimana nei periodi di lezione principal[mente, quindi penso],
@@ -246,7 +246,7 @@ BO051	capita: capita a volte non di vedersi non per non per uscite di coppia, di
 BO049	bene.
 BO049	e la sala in cui fate le prove dove si trova?
 BO051	m.
-BO051	é un:n casolare, in campagna, e::h fuori @nomepaese, quindi nella campagna:: corregese.
+BO051	é un:n casolare, in campagna, e::h fuori quindi nella campagna:: corregese.
 BO051	[e::]
 BO049	[ma é] in una stanza piccola? é in uno studio di piú sale::?
 BO051	no é una grande sala prova.
@@ -323,7 +323,7 @@ BO051	mah, direi:::, forse anche la stanchezza [dopo]: dopo tanto tempo in viagg
 BO049	[ah].
 BO051	e anche perché::: (.) diciamo che le persone:: (.) i:n vietnam hanno:: non so questa: quest'atteggiamento un po'::: aggressivo. [nei confronti degli altri].
 BO049	[in che senso aggressivo]?
-BO051	mah m sono persone:: molto:::: (.) molto orgogliose,
+BO051	mah mh sono persone:: molto:::: (.) molto orgogliose,
 BO051	e:::::::: che tendono:: a imporsi sugli altri. quindi::: diciamo che:: sì, dal punto di vista umano dell'accoglienza:: è stato: meno gradevole che: in cambogia però diciamo un paese bellissimo. ugualmente.
 BO051	più più difficile perché si sente meno l~ forse l'appoggio del della della popolazione locale. ecco che: che un po' insomma (.) ha un certo tono di:: alterigia no? nei confronti dei dei turisti sì sì. Sono un po' alteri ecco.
 BO049	e per quanto ri[guarda il cibo]? cosa::
@@ -350,7 +350,7 @@ BO049	[(ah quelle importanti)]
 BO049	beh siete tornati sani e salvi: è già qual[cosa]. ((ride))
 BO051	[sì sì] sì sì non ci è successo [niente].
 BO049	[come mai avete deciso] questo:: di fare questo viaggio? (.) era::,
-BO051	no m (.) venivamo tutti da un perio~ tutti e due da un periodo impegnativo,
+BO051	no mh (.) venivamo tutti da un perio~ tutti e due da un periodo impegnativo,
 BO051	e:::::m sapevamo che avremmo avuto:: molto tempo: a disposizione
 BO051	e un paio di soldini da parte. perché avendo lavorato quest'anno poi lei questi problemi non ce li ha.
 BO051	[chiaramente] perché (.) lavorando molto possiamo (.) >quindi< avevamo tempo:: (.) avevamo un po' di denaro da parte=e: abbiamo deciso di (.) premiarci: per l'anno passato e: e viverla in questa maniera.
@@ -359,7 +359,7 @@ BO049	bene. siete soddifatti:: [della va~ (.) sì]?
 BO051	[moltissimo]. andrei via subito di nuovo.
 BO049	avete progettato altre:: vacanze: [da fare? (.) sì]?
 BO051	[sì. sì sì]. ma ne abbiam progettate giá altre nel passato adesso, c'è nel passato ne:: (.) nei mesi precedenti e: (.) e fra due settimane: andiamo a Budapest.
-BO049	ecco. (.) [] bravi. e come mai budapest?
+BO049	ecco. (.) bravi. e come mai budapest?
 BO051	[(così)].
 BO051	mah perche io rompevo: la palle.
 BO049	io son stata è molto bello.
@@ -367,8 +367,8 @@ BO051	eh infa~ io [rompevo le] (.) rompevo le palle per andarci, e::: (.) e lei 
 BO049	[bella bella].
 BO049	eh ma che bello
 BO051	sì sì.
-BO051	[>per me e per lei<]sì].
 BO049	[bello].
+BO051	[>per me e per lei<]sì].
 BO049	be[ne]. dai
 BO051	[sì].
 BO049	dai io direi:: (.) siamo a posto così. non ti disturbo=oltre,

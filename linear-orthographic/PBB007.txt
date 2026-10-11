@@ -142,7 +142,7 @@ BOR005	le discoteche riaprono oggi
 BOI025	oggi
 BOR005	mhmh
 BOI025	cazzo facciamo noi qua
-BOI025	xxx ballare
+BOI025	ride xxx ballare
 BOR005	fare la baldoria
 BOI025	a fare esa~
 BOI025	vabbè comunque so' state chiuse fino adesso hanno riaperto chiuso quindi cioè insomma eh
@@ -178,7 +178,7 @@ BOI024	per fare serata ci va più di rado som~ insomma
 BOI024	sta nella sua zona
 BOI025	anche perché negli ultimi due anni la gente non ha neanche magari affittato l'appartamento
 BOI024	ma questa è una cosa che è successa anche prima amo cioè
-BOI024	veniamo da diec'anni di crisi economica cioè e hm
+BOI024	veniamo da diec'anni di crisi economica cioè e mh
 BOI024	che che bologna si sia svuotata
 BOI024	eh che mh i prezzi siano inavvicinabili in centro è così da diec'anni non è il covid
 BOI024	secon~ io la penso così
@@ -402,8 +402,8 @@ BOI025	il parcheggio x problema più grosso di bologna è il parcheggio sì
 BOR005	ma solo in centro o in generale
 BOI025	comune di bologna secondo me
 BOR005	mh
-BOI025	secondo me proprio com~
 BOI024	sì in generale è è una criticità
+BOI025	secondo me proprio com~
 BOI025	comune di bologna quindi anche la prima periferia di bologna quindi zona di corticella zone limitrofe
 BOI025	è è un problema perché non si trova se si trova
 BOI025	hanno aumentato nell'ultimo periodo anche i prezzi quindi insomma è sempre più difficoltoso non c'è il culto del parcheggio
@@ -431,8 +431,8 @@ BOI024	dove chi viene dalla non dalla periferia ma dalla provincia
 BOI024	può arrivare con la sua macchina
 BOI024	lasciarla in una zona sicura
 BOI024	e prendere il mezzo pubblico per raggiungere il centro non ci sono queste zone di interscambio mo me ne viene in mente una che la stanno abbattendo adesso
-BOI025	il giuriolo
 BOI024	lì dietro al cadoro
+BOI025	il giuriolo
 BOI025	il giuriolo
 BOI024	eh il giuriolo lì cioè
 BOI024	in teoria quelli dovevano essere dovevano essere dei
@@ -506,7 +506,7 @@ BOI025	xxx
 BOI024	sì p~ poverini
 BOI024	che vita orribile
 BOI025	eh e quindi secondo me mh
-BOI024	cioè subito sgamati proprio
+BOI024	# cioè subito sgamati proprio
 BOI025	eh
 BOI024	io che io che avevo la la la la firma falsa di mamma
 BOI025	xxxxxx
@@ -517,9 +517,9 @@ BOI024	ah è vero andavamo al bowling noi
 BOI025	cioè noi si faceva fuga c'era il bowling
 BOR005	dove
 BOI024	andavamo al bowling
-BOI025	bowling di @nomeluogo
+BOI025	bowling di
 BOR005	era in centro
-BOI024	in @nomeluogo
+BOI024	in
 BOR005	ah vicino casa mia
 BOI024	sì non girava bella gente al bowling
 BOI025	no bruttissima
@@ -583,7 +583,7 @@ BOI024	è ovvio che
 BOI024	la smorzi la vita notturna per quello ti sto dicendo che il centro è vuoto
 BOI024	perché se tu all'una in centro in via del pratello
 BOI024	tiri giù le serrande la gente non ci va
-BOI024	non noi io mi ricordo che
+BOI024	nonnoi io mi ricordo che
 BOI024	quando
 BOI024	xx quando uscivo il sabato sera
 BOI024	a volte mangiavo
@@ -725,8 +725,8 @@ BOI024	tutti ricchi
 BOI024	c'era anche quello che ti diceva aiutami che sono messo male
 BOI024	questo in via ugo bassi
 BOI025	c'era la controlla
-BOI025	xxx
 BOI024	c'era la donna dei fiori
+BOI025	xxx
 BOR005	lo sai che la controlla è in carcere
 BOI024	perché
 BOI025	come è in carcere
@@ -739,8 +739,8 @@ BOI025	ma tu mi hai detto che frequentavi il centro
 BOI024	ma io non me la ricordo
 BOR005	fabrizia la controlla
 BOI025	è una che è un po squilibrata
-BOI025	ti veniva a fissare a due centimetri dal volto
 BOI024	non me la ricordo
+BOI025	ti veniva a fissare a due centimetri dal volto
 BOI024	no non me la ricordo
 BOR005	e xxx~ mh
 BOI024	c'era questo qui questo artista di strada che suonava in via ugo bassi
@@ -936,8 +936,8 @@ BOI024	l'unica città che c'ha i portici
 BOI024	simili a bologna ma non belli come i nostri torino
 BOR005	mhmh
 BOI024	torino ha anche è una città di portici anche torino
-BOI025	però
 BOI024	però
+BOI025	però
 BOI024	la quantità di portici che ci sono a bologna è
 BOI024	cioè la rende proprio speciale
 BOI024	e quando vai da un'altra parte ti rendi conto che per dire noi quando andiamo in centro d'inverno
@@ -965,7 +965,7 @@ BOI025	vivendoli tutti i giorni ti sembra normale dici beh è normale
 BOI025	come è giusto che sia poi quando vai effettivamente in un'altra città dici ma ma come
 BOI025	incredibile che non ci siano
 BOI025	quanto sono comodi quelli che abbiamo a bologna
-BOI024	oi
+BOI024	# oi
 BOR005	bene allora
 BOR005	noi abbiamo finito vi ringrazio molto per la disponibilità
 BOI025	grazie a te

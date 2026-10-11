@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:37:10+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:55:49+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="PBC002.mp3" RELATIVE_MEDIA_URL="PBC002.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -1923,7 +1924,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1918" TIME_VALUE="1938810" />
 		<TIME_SLOT TIME_SLOT_ID="ts1919" TIME_VALUE="1939253" />
 		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BOR003" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -3849,7 +3849,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a240" TIME_SLOT_REF1="ts478" TIME_SLOT_REF2="ts479">
-				<ANNOTATION_VALUE>#adesso il clima è cambia:[to dappper] tutto: i bolognesi: son sempre stati chiamati biassanot cioè quelli che vivono anche di notte tranquillo potevi uscire:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># adesso il clima è cambia:[to dappper] tutto: i bolognesi: son sempre stati chiamati biassanot cioè quelli che vivono anche di notte tranquillo potevi uscire:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5521,7 +5521,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a201" TIME_SLOT_REF1="ts400" TIME_SLOT_REF2="ts401">
-				<ANNOTATION_VALUE>#tanti: son nati e si sono inseri:ti però poc poc mel</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># tanti: son nati e si sono inseri:ti però poc poc mel</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5551,7 +5551,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a214" TIME_SLOT_REF1="ts426" TIME_SLOT_REF2="ts427">
-				<ANNOTATION_VALUE>#&gt;(beh so)&lt; centomila studenti universita:ri</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># &gt;(beh so)&lt; centomila studenti universita:ri</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5596,7 +5596,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a243" TIME_SLOT_REF1="ts484" TIME_SLOT_REF2="ts485">
-				<ANNOTATION_VALUE>#[tu sai come sono] gl~ gli umare:l</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [tu sai come sono] gl~ gli umare:l</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5606,7 +5606,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a248" TIME_SLOT_REF1="ts494" TIME_SLOT_REF2="ts495">
-				<ANNOTATION_VALUE>#gli umarel sono quelli che si mettono</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># gli umarel sono quelli che si mettono</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5621,7 +5621,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts504" TIME_SLOT_REF2="ts505">
-				<ANNOTATION_VALUE>#gli umarel</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># gli umarel</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6661,7 +6661,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a885" TIME_SLOT_REF1="ts1768" TIME_SLOT_REF2="ts1769">
-				<ANNOTATION_VALUE>#[(se voi xx a ma so bri:sa)]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [(se voi xx a ma so bri:sa)]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

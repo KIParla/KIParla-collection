@@ -662,8 +662,8 @@ PKP111	alla vesuviana do otto
 PKP111	[a (totò)]
 PKP114	[è una pizza da die~]
 PKP113	[e a] questa sette?
-PKP111	[esatto]
 PKP114	[eh]
+PKP111	[esatto]
 PKP113	°napoli°
 PKP107	eh a napoli devi dare una passo
 PKP111	((ride))
@@ -787,8 +787,8 @@ PKP114	vabbè abbiamo fatto sto gioco
 PKP114	in questo:
 PKP114	si chiamava il labirinto com'è che si dice in francese
 PKP107	il labyrinthe?
-PKP111	[devi dire tipo le la~ le labyrinthe]
 PKP114	[eh si una roba così era]
+PKP111	[devi dire tipo le la~ le labyrinthe]
 PKP114	[ma era un gio]co bellissimo perché [praticamente]
 PKP107	[non si dice l]a t finale o sì?
 PKP114	no sì lì sì
@@ -1394,8 +1394,8 @@ PKP114	che ore erano
 PKP111	se~ se~
 PKP107	[cosa t'han fa]tto che [xxx]
 PKP111	[sei arrivata lì che erano le un]di~ (.) n~ no
-PKP111	[a che ora (chiamavo)]?
 PKP114	[no no alle dieci e m]ezza °secondo me°
+PKP111	[a che ora (chiamavo)]?
 PKP113	mh
 PKP111	sì hai (.) erano (mi sa) l'una passata
 PKP113	dio bo

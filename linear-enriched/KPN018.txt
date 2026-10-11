@@ -2,10 +2,10 @@ PKP145	bene
 PKP145	sì sulla carne secca
 PKP106	°brava°
 PKP145	eh
-PKP145	#va:ra
+PKP145	# va:ra
 PKP146	e insomma sai com'è fatta questa carne secca sì o no?
 PKP145	sì perché no aspetta [DEVE STARE ALL'ARIA]
-PKP146	((ride)) []
+PKP146	((ride))
 PKP145	deve stare all'aria
 PKP145	[non ricordo più]
 PKP146	[eh] (.) e te pareva
@@ -31,8 +31,8 @@ PKP145	l'abbiamo ordinato alle (.) <sei>
 PKP145	e ci fa >gli facciamo< eh sì volevo ordinare ehm lo veniamo a prendere
 PKP145	lei fa sì sì tra un quarto d'ora alle sei e un quarto?
 PKP145	cioè >secondo te vengo a prendere cinese< alle sei e un quarto devo cenare (.) non lo so,
-PKP145	#vara
-PKP145	e:: >siamo andati< a prenderlo e fatalità hm poi mi ha scritto marco
+PKP145	# vara
+PKP145	e:: >siamo andati< a prenderlo e fatalità mh poi mi ha scritto marco
 PKP145	non mi ricordo::
 PKP146	°che sta sta facendo (dopo)?°
 PKP145	eh niente lavora poi vede la morosa (.) [che la~]
@@ -116,7 +116,7 @@ PKP106	[se ha delle scadenze],
 PKP106	((taglia)) delle scad[enze le scadenze vanno rispettate]. ((taglia)) °no no non mi faccio (male)°
 PKP145	[MAMMA (.) non ti far male]
 PKP146	[°io oggi ho par]lato con maria°
-PKP106	((schiarisce_la_voce)) []
+PKP106	((schiarisce_la_voce))
 PKP106	di cosa?
 PKP146	°solite cose (lavoro)°
 PKP106	ma non xxx andare?
@@ -167,11 +167,11 @@ PKP145	tanto ti era rimasto un po' di bonus giusto?
 PKP145	dovrei riuscire a co~ a coprirne almeno uno perché,
 PKP106	a:h che rottura [di scatole]
 PKP145	[ANCHE QUELLO] e:h [allora]
-PKP146	((tossisce)) []
+PKP146	((tossisce))
 PKP145	cioè io credo che lo farò da non frequentante (.) perché?
 PKP106	ben fai tutto quello [che puoi fare]
-PKP146	[(e come farai)] a farlo da frequentante se non vai?
 PKP145	[no: ma è]
+PKP146	[(e come farai)] a farlo da frequentante se non vai?
 PKP145	non è que~ NO lo farò da <non frequentante>
 PKP146	eh e intanto cosa cambia?
 PKP145	no la questione è questa che loro volevano fare laboratorio
@@ -224,7 +224,7 @@ PKP145	°>e cosa vuoi fare< papà? cioè°
 PKP146	>potrebbe essere< un'idea
 PKP145	°eh°
 PKP145	tipo videogame (.) individua il rischio <bravo> ottimo lavo~ ((ride))
-PKP146	((tossisce)) []
+PKP146	((tossisce))
 PKP145	[eh]
 PKP146	[il problema è che] (.) bisognerebbe fare (.) i video e darglielo a ciascuno perché diventano pesanti i video
 PKP145	[°alla fine°]
@@ -233,7 +233,7 @@ PKP146	°non xxxxx (.) però°
 PKP145	NO però puoi sem~ puoi tenerlo tu e condividi lo schermo condividi il video
 PKP145	apri il video dal desktop,
 PKP145	>e poi< finito il video <e[sci> (.) e ritorni sulla presentazione]
-PKP146	((tossisce)) []
+PKP146	((tossisce))
 PKP146	[ma (siamo) son divisi] di solito in gruppi da due tre persone e
 PKP146	vanno in giro per i laboratori una volta gli porto in quelli di chimica una volta [in officina meccanica]
 PKP145	[vabbé ma visto che non puoi fare] questa cosa fai vedere dei video: (.) a tutti quanti [e poi:]
@@ -296,7 +296,7 @@ PKP106	bisogna essere anche realisti
 PKP145	°boh°
 PKP146	>per esempio da noi< è è è un casino d~ in questo momento
 PKP146	ti faccio leggere le circolari,
-PKP146	((tossisce)) []
+PKP146	((tossisce))
 PKP145	[infatti] per quello che dico che: non credo di riuscire era più semplice coi professori
 PKP145	facevo i professori di eh psicologia
 PKP145	e poi dopo facevo i professori di:
@@ -345,7 +345,7 @@ PKP146	[(>e allora<) devo continuare a paga]re il pizzo? fammi capire
 PKP145	[purtroppo]
 PKP146	(da te) è uguale eh
 PKP106	°non so°
-PKP146	#bisogna che capiscano quelli che l'assumono che uno ga studià da una parte uno ha studiato dall'altra
+PKP146	# bisogna che capiscano quelli che l'assumono che uno ga studià da una parte uno ha studiato dall'altra
 PKP145	ma non è che che funziona solo se assumono di la eh
 PKP106	no: (.) [xxxxxx]
 PKP145	[AH EH che non pensi che]
@@ -370,7 +370,7 @@ PKP145	[(finita) xxvare],
 PKP106	no::: [m:::h] (.) [ma no]: ((ride))
 PKP145	[°dai mamma°]
 PKP145	[((°ride°))]
-PKP145	°domani la vuoi la pa~° domani io al <pomeriggio> (.) finita la: le lezioni (.) [] <fuggiamo>
+PKP145	°domani la vuoi la pa~° domani io al <pomeriggio> (.) finita la: le lezioni (.) <fuggiamo>
 PKP106	[fuggiamo]?
 PKP145	andiamo a pendere le palline (.) [di na]tale
 PKP106	[di natale]?
@@ -393,12 +393,12 @@ PKP106	beppe,
 PKP145	sei stru:sciato (su)
 PKP146	°eh° vabbè
 PKP145	sono ste palline verde bot[tiglia],
-PKP146	((tossice)) [] dove la hai viste?
+PKP146	((tossice)) dove la hai viste?
 PKP145	a lero~ a leroy (.) verde:: mhmh
 PKP146	°>verde bottiglia<?
 PKP145	si ma:: (.) non questo.
 PKP145	quello [scuro delle] bottiglie di vino
-PKP146	((tossisce)) []
+PKP146	((tossisce))
 PKP145	e ha: al centro (.) non mi ricordo se un cuoricino o un fiocco
 PKP145	o forse solo u:n patchwork [non lo so]
 PKP146	[°ma scusa x]xxxxxx ma sono illumi~ si illuminano?°

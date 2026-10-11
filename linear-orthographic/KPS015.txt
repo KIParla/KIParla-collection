@@ -2,13 +2,13 @@ PKP081	non ho capito
 PKP082	no è pronto eh
 PKP082	e xx quanta pasta metti
 PKP082	eh
-PKP082	quanta n'aggia fa
+PKP082	# quanta n'aggia fa
 PKP083	vabbè tanto adesso stiamo facendo l'aperitivo qua
 PKP082	eh
 PKP082	un po' in più un po' in meno che ci importa
-PKP081	giorgi' nun to mangi nu poc i pane giorgi'
-PKP082	m
-PKP082	stammattina avimm accattat i luci
+PKP081	# giorgi' nun to mangi nu poc i pane giorgi'
+PKP082	mh
+PKP082	# stammattina avimm accattat i luci
 PKP082	ecco fatto
 PKP083	tra laltro questo prosciutto è buonissimo
 PKP081	sì sì
@@ -60,10 +60,10 @@ PKP082	mettilo a tavola quello là
 PKP083	metto a tavola
 PKP082	xx
 PKP081	xx
-PKP081	giorgi' u mierico che te ritt u mierico
+PKP081	# giorgi' u mierico che te ritt u mierico
 PKP082	il medico ha detto che da da
 PKP082	da~ ne~ con la medicina che ti ha messo nella cosa
-PKP082	t tessa passà
+PKP082	# t tessa passà
 PKP081	ah
 PKP082	e poi ha detto ti ha dato pure delle
 PKP082	eh pastigliette
@@ -84,14 +84,14 @@ PKP081	io avevo detto
 PKP081	a x
 PKP081	proprio la gamba non la posso neanche poggiare a terra
 PKP081	speriamo che passi perché se no
-PKP082	m'ha fatto una mezza cantata ha ritt voi voi fate
+PKP082	# m'ha fatto una mezza cantata ha ritt voi voi fate
 PKP082	se voi se voi volete fare
 PKP082	oi~ cioè i pazienti vogliono fare i medici
 PKP081	no
 PKP083	davvero
 PKP082	eh
 PKP083	ma perché che cosa gli hai detto tu
-PKP082	eh che cegg ritt
+PKP082	# eh che cegg ritt
 PKP082	no perché lui sa che
 PKP081	ahia
 PKP082	sa che il nonno non vuole prendere medicine
@@ -100,9 +100,9 @@ PKP083	ah
 PKP082	e io le l~
 PKP082	gli ho detto
 PKP082	e~ in verità
-PKP082	è una persona nu poc
+PKP082	# è una persona nu poc
 PKP082	particolare che è molto se~
-PKP082	è molto sensibile insomma appena si piglia una medicina eggi ritt avimm vist ch'i~ chegg combinato con lantibiotico
+PKP082	# è molto sensibile insomma appena si piglia una medicina eggi ritt avimm vist ch'i~ chegg combinato con lantibiotico
 PKP083	mh capito
 PKP083	sì ho capito
 PKP081	giorgia vieni a mangia'
@@ -122,16 +122,16 @@ PKP082	non ti preoccupare
 PKP082	tranquilla
 PKP081	ma avete fatto pure la spesa avete
 PKP082	mangia tu mangiati un altru poco di salame
-PKP082	x
 PKP083	ma no io ho mangiato perché altrimenti poi non mangio e mi mi appesantisco
+PKP082	x
 PKP082	nonno ne vuoi più x
 PKP081	no
 PKP082	va bene
 PKP083	è buonissimo sì sì
-PKP082	cheggia fa io mo eh
+PKP082	# cheggia fa io mo eh
 PKP082	ah il coperchio xx
 PKP082	ah
-PKP081	add'a fa solo il piatto lì
+PKP081	# add'a fa solo il piatto lì
 PKP081	u' formaggio
 PKP081	sta qua
 PKP083	tranquilla
@@ -213,8 +213,8 @@ PKP081	ah ah
 PKP083	di zia
 PKP083	poi il giorno do~ la la volta scorsa
 PKP082	che ha vinto
-PKP082	che ha vinto
 PKP083	che ha vinto
+PKP082	che ha vinto
 PKP083	perché abbiamo fatto la sai la cosa
 PKP081	eh eh
 PKP083	che abbiamo fatto la la gara
@@ -247,8 +247,8 @@ PKP083	e quindi la prossima la volta dopo che sono venuti
 PKP081	col latte
 PKP081	eh
 PKP083	ho fatto la panna cotta
-PKP082	è venuta buona
 PKP083	ed è piaciuta anche quella
+PKP082	è venuta buona
 PKP083	sì sì sì è piaciuta anche que~
 PKP082	è venuta buo~
 PKP082	ah ma allora ti stai specializzando
@@ -305,8 +305,8 @@ PKP083	e quindi no tra l'altro con la panna cotta avevo aggiunto anche
 PKP083	una
 PKP083	tipo una confettura
 PKP083	di frutti di frutti rossi
-PKP082	mh
 PKP083	che se la sono finiti proprio a cucchiaiate
+PKP082	mh
 PKP083	quindi
 PKP083	era proprio buona
 PKP082	con la cheesecake
@@ -557,14 +557,14 @@ PKP083	scusate posso fare un colloquio per un'intervista
 PKP081	ah ah
 PKP081	ah
 PKP083	non m'hanno risposto
-PKP082	e allora
 PKP083	e quindi ho un po' paura
+PKP082	e allora
 PKP083	e perché cioè se non mi rispondono loro non so come fare
 PKP081	eh
 PKP083	infatti
 PKP083	avevo chiesto alla professoressa ma non è che conviene mandare una mail
-PKP082	dalla scuola stessa
 PKP081	ah
+PKP082	dalla scuola stessa
 PKP082	cioè che è a torino
 PKP083	allo~ no no
 PKP083	no
@@ -637,8 +637,8 @@ PKP082	guarda
 PKP083	sì sì sì ma f~ x prima a nonno scusa
 PKP082	va bene così
 PKP081	basta
-PKP082	xxx
 PKP081	no no a me poco poco no no lo sa già
+PKP082	xxx
 PKP082	che te lo devo fare pieno di sugo no
 PKP083	eh sì mi conosci
 PKP083	grazie nonna
@@ -675,8 +675,8 @@ PKP083	saluto ai nonni che ci guardano
 PKP082	tutti quanti e chiedono come si chiamano i nonni
 PKP081	eh
 PKP082	eh eh
-PKP082	guarda che è vero
 PKP083	eh ma perché i nonni sono importanti nella vita
+PKP082	guarda che è vero
 PKP082	sono importanti sono importanti
 PKP083	eh
 PKP082	son tornati
@@ -819,9 +819,9 @@ PKP081	no piglia u' pullman è quello
 PKP083	infatti di solito prende il pullman
 PKP083	oppure il monopattino
 PKP081	ah
-PKP082	mhmh
 PKP081	ah ah
-PKP082	non sedda piglià u' monopattino però
+PKP082	mhmh
+PKP082	# non sedda piglià u' monopattino però
 PKP083	eh lo so però comunque a torino come fai a
 PKP083	girare è tutta grande l'uni~ la città
 PKP082	mhmh
@@ -842,7 +842,7 @@ PKP083	cioè i marciapiedi sono tenuti bene no quindi sono larghi
 PKP083	e quindi ci puoi passare anche con con la bici e con il monopattino
 PKP081	mh
 PKP082	perché quando vai sui sui monopattini là
-PKP082	non è a dire che puot frenà puoi
+PKP082	# non è a dire che puot frenà puoi
 PKP082	qua~ qua~ se se ti vengono addosso ti vengono addosso non
 PKP083	eh quello sì
 PKP083	lo sapete che io son caduta dal monopattino
@@ -852,8 +852,8 @@ PKP083	però è stata una scena divertentissima
 PKP081	eh eh
 PKP082	ma dove s~ dov'è successo
 PKP083	a torino
-PKP082	ah
 PKP083	perché sono andata a trovare marco
+PKP082	ah
 PKP083	ehm
 PKP083	allora abbiamo preso il monopattino per andare in centro no
 PKP083	e mi ha detto
@@ -931,7 +931,7 @@ PKP082	ho capito
 PKP083	però
 PKP083	poi mi è arrivata la febbre
 PKP082	e tu sei stata una nottata ni~ intera dove ti è salita la febbre no
-PKP083	n~ ih non una nottata più
+PKP083	n~ hi non una nottata più
 PKP082	madonna mia
 PKP083	perché in realtà allora i primi due giorni stavo bene poi il terzo giorno
 PKP083	siamo usciti
@@ -965,8 +965,8 @@ PKP083	così capito
 PKP082	er
 PKP083	sì
 PKP081	ah
-PKP082	stev~ stavi male
 PKP083	cioè
+PKP082	stev~ stavi male
 PKP083	sì e quindi l'unico modo per respirare era seguire
 PKP082	era tornare nel sogno
 PKP083	esa~
@@ -1032,8 +1032,8 @@ PKP083	hai avuto questo effetto allora è mononucleosi capito
 PKP082	mh
 PKP082	ah niente meno
 PKP083	e poi abbiamo fatto le analisi
-PKP082	eh è vero
 PKP083	quindi
+PKP082	eh è vero
 PKP082	hai fatto le analisi
 PKP083	mhmh
 PKP083	però
@@ -1081,8 +1081,8 @@ PKP081	ah
 PKP083	a papà e mamma che l'hanno avuta
 PKP082	eh
 PKP081	ah no
-PKP082	mh
 PKP083	quindi
+PKP082	mh
 PKP082	mamma l'ha avuta
 PKP082	mamma e pure papà
 PKP083	sì lo so
@@ -1118,8 +1118,8 @@ PKP083	sono andata a casa di
 PKP083	in camera
 PKP082	lo vuoi il sughetto c'è
 PKP083	sì sì
-PKP082	prenditelo tu stessa
 PKP083	ma infatti mi sa che me lo prendo
+PKP082	prenditelo tu stessa
 PKP081	i~ il pane forse vuole il pane no non c'è
 PKP083	no
 PKP082	il sughetto la pasta c'è quello che vuoi
@@ -1145,7 +1145,7 @@ PKP082	oh
 PKP083	così
 PKP082	è brutta la mononucleosi
 PKP083	sì non l'ho non l'ho non l'ho mai sentito come una cosa del ge~
-PKP082	chill' na compagna i' alessandro rossett' ca m~ ca mononucleosi
+PKP082	# chill' na compagna i' alessandro rossett' ca m~ ca mononucleosi
 PKP083	cosa
 PKP082	una compagna di alessandro è morta mi pare ca mononu~
 PKP083	davvero
@@ -1157,7 +1157,7 @@ PKP082	mo non ti voglio dicere fesserie ma a me mi pare che proprio è così
 PKP081	ah no
 PKP081	a me è dispiaciuto che è morto l'avvocato
 PKP082	mh
-PKP081	e i mierici chelli là hanno ucciso a iss'
+PKP081	# e i mierici chelli là hanno ucciso a iss'
 PKP081	a lui
 PKP081	ne hanno ucciso i medici
 PKP081	mh per un poco di gas per niente
@@ -1178,8 +1178,8 @@ PKP083	ehm
 PKP082	ti devi lavare i denti
 PKP083	sì
 PKP082	ti faccio il caffè
-PKP082	non lo vuoi
 PKP083	ma in realtà
+PKP082	non lo vuoi
 PKP083	no vabbè non lo prendo tranquilla
 PKP082	non lo vuoi
 PKP083	più che altro devo decidere che cosa dire al parrucchiere
@@ -1187,8 +1187,8 @@ PKP082	li devi lavare i denti no
 PKP083	sì sì adesso me li lavo i denti
 PKP081	vuoi a~
 PKP082	ma ce l'ha~
-PKP082	ce l'hai lo spazzolino qua
 PKP081	ar~ arrivi in ritardo
+PKP082	ce l'hai lo spazzolino qua
 PKP083	sì sì
 PKP082	lo sai dove sta
 PKP081	arrivi in ritardo
@@ -1202,8 +1202,8 @@ PKP083	da qua
 PKP083	all'una l'una e cinque
 PKP081	meno cinque
 PKP081	mh
-PKP082	ah da qua devi uscire all'u~
 PKP083	no l'una l'una e cinque
+PKP082	ah da qua devi uscire all'u~
 PKP081	ah ah
 PKP082	ah va bene
 PKP082	io stavo guardando l~ l'orologio
@@ -1237,8 +1237,8 @@ PKP081	no
 PKP081	xx
 PKP083	ah ma ve l'hanno data la la
 PKP083	l'ha presa la medicina
-PKP081	io agg' ritt' dottò non mi inguaiare che m'ha mis' sta medicina indu cà
-PKP081	non m'aumentà u' pies'
+PKP081	# io agg' ritt' dottò non mi inguaiare che m'ha mis' sta medicina indu cà
+PKP081	# non m'aumentà u' pies'
 PKP081	eh dice così eh
 PKP082	e vabbuò ma quanto quanto pot'essere quanto pot'essere
 PKP081	e poteva essere a~ cinque cinquanta duecento grammi
@@ -1255,7 +1255,7 @@ PKP083	buonissimo
 PKP082	mh
 PKP082	mo se ti mangi n'at' poco di formaggio ti faccio la
 PKP081	lucì
-PKP082	e~ ti faccio u': mh
+PKP082	e~ ti faccio u mh
 PKP081	un altro po' di formaggio
 PKP081	quale vuoi
 PKP083	mh mhmh
@@ -1265,8 +1265,8 @@ PKP081	no un biscotto xx
 PKP082	no
 PKP083	ma aspetta adesso adesso tolgo tutto tanto
 PKP082	no no
-PKP082	no
 PKP081	no non ti preoccupare eh tanto devi
+PKP082	no
 PKP082	io non devo fare niente
 PKP081	non ti preoccupare
 PKP083	okay ma io vi aiuto
@@ -1321,8 +1321,8 @@ PKP083	lo stesso di marco
 PKP082	ah ah ah ah
 PKP083	sì
 PKP082	e che devi fare tu li tieni
-PKP082	nun ti taglià
 PKP083	allora i~
+PKP082	# nun ti taglià
 PKP083	e io me li devo un po' tagliare perché sono troppo pesanti secondo me
 PKP081	eh eh eh eh
 PKP083	e poi sono rovinatis~ cioè le punte sono
@@ -1415,8 +1415,8 @@ PKP083	e poi metto un po' di gel pochiss~ un goccino g~ di gel
 PKP081	eh
 PKP083	poi li asciugo
 PKP081	no ma
-PKP082	e~ e lasci il gel s~
 PKP081	e che è
+PKP082	e~ e lasci il gel s~
 PKP081	è un ricamo così
 PKP083	e poi dopo per togliere il gel
 PKP082	mh
@@ -1460,7 +1460,7 @@ PKP082	vabbè però non lo devi fare sempre
 PKP082	o lo devi fare sempre
 PKP083	allora no
 PKP083	in realtà
-PKP081	vabbè quando si fa la doccia adda fa'
+PKP081	# vabbè quando si fa la doccia adda fa'
 PKP083	sì esatto ogni volta che faccio la doccia
 PKP081	eh
 PKP083	però in teoria è b~ eh fa male ai capelli
@@ -1476,8 +1476,8 @@ PKP082	due volte a settimana
 PKP083	sì due tre volte a settimana sì
 PKP083	mo poi dipende da quello che devo fare no~
 PKP083	perché altrimenti s~ non lo so che cosa succede ai capelli però
-PKP082	eh vabbè si xx con lo shampoo
 PKP083	si fanno brutti non lo so
+PKP082	eh vabbè si xx con lo shampoo
 PKP083	son delicatissimi questi capelli
 PKP083	vabbè
 PKP082	eh
@@ -1497,8 +1497,8 @@ PKP083	aspetta un attimo
 PKP083	okay
 PKP081	grazie tante
 PKP082	che bell'
-PKP082	io allora io quando ero ragazza volevo
 PKP083	ah
+PKP082	io allora io quando ero ragazza volevo
 PKP082	pure c'avevo i ricci ma non così no
 PKP081	no guarda un po'
 PKP083	ah no
@@ -1544,8 +1544,8 @@ PKP081	non ho capito
 PKP083	ah viene stasera
 PKP082	ha detto che ci viene a trovare a salutare poi non lo so
 PKP083	ah aspe~
-PKP082	xx non voglio
 PKP083	ah io non posso
+PKP082	xx non voglio
 PKP081	no ma chill' qua~ evidentemente quando arriva
 PKP082	no no non ti preoccupare
 PKP083	no perché io adesso
@@ -1594,15 +1594,15 @@ PKP081	e va bene va bene
 PKP081	io vorrei portare la macchina
 PKP081	a fare la revisione
 PKP083	ah scusa
-PKP082	ah eh eh o' vero ce limma ricere a marco
+PKP082	# ah eh eh o' vero ce limma ricere a marco
 PKP081	mh
 PKP083	ah c'è un cucchiaino in più nonna
 PKP082	ecco qua
 PKP083	questo è tuo
 PKP082	e lascialo là xxx
 PKP081	io
-PKP082	lo vuoi un biscottino che
 PKP083	un buon pranzo nonna
+PKP082	lo vuoi un biscottino che
 PKP082	ah
 PKP082	esagera~ mo
 PKP083	no no io te l'ho detto questo sugo è buonissimo
@@ -1626,7 +1626,7 @@ PKP082	se lo trovo
 PKP083	ah ma non mi ser~
 PKP083	ah mo devo anche andare tra l'altro eh
 PKP083	sono e cinquantaquattro
-PKP082	fa ampress' ampress'
+PKP082	# fa ampress' ampress'
 PKP083	sì sì
 PKP083	anche il caffè è diverso da tutti
 PKP082	il caffè n~ il caffè u' faccio leggero
@@ -1636,8 +1636,8 @@ PKP082	ah sì
 PKP083	sì perché di solito lei prendeva sempre la moka
 PKP082	e tanto lei prende nel latte
 PKP083	sì
-PKP082	pure a me
 PKP083	però anche solo per il
+PKP082	pure a me
 PKP083	per il latte lei voleva la moka
 PKP082	ah sì
 PKP083	e invece adesso si è convertita
@@ -1663,7 +1663,7 @@ PKP081	qua come sta sta bene
 PKP083	sì sta bene
 PKP083	l'ho vista ieri
 PKP081	ah ah
-PKP082	e si trova bon' a scola sì
+PKP082	# e si trova bon' a scola sì
 PKP083	sì in realtà le mh le sta piacendo quest'anno le sta piacendo quello che sta facendo
 PKP082	ah meno male
 PKP083	tipo che mh

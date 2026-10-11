@@ -28,7 +28,7 @@ TO999	okay
 TO999	eh mi racconti un momentino dove abiti come è fatta casa tua da quanto ci vivi
 TO042	sì
 TO042	e io qui a torino abito
-TO042	e in @nomeluogo,
+TO042	e in
 TO999	mhmh
 TO042	eh casa mia è un appartamento al
 TO042	quarto piano

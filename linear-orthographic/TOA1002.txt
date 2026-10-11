@@ -4,7 +4,7 @@ TO026	sì grazie
 TO028	permesso
 TO026	buongiorno prego
 TO028	buongiorno
-TO026	ha già incontrato @nomepersona
+TO026	ha già incontrato
 TO028	sì e mi ha detto tutto si si si apposto
 TO026	sì che le ha detto benissimo
 TO028	già ho compilato tutto

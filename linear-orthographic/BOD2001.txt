@@ -1,9 +1,8 @@
 TO999	okay allora
 TO999	eh livia tu sei di
-BO014	@nomepaese
-TO999	sei di @nomepaese e vivi a @nomepaese o vivi a bologna
-BO014	sì vivo a @nomepaese
-TO999	vivi a @nomepaese okay e dove vivi con chi
+TO999	sei di e vivi a o vivi a bologna
+BO014	sì vivo a
+TO999	vivi a okay e dove vivi con chi
 BO014	vivo a casa con i miei
 TO999	vi~ vivi a casa con tuoi okay hai sempre vissuto in quella casa lì
 BO014	sì
@@ -14,16 +13,16 @@ BO014	e mh abbastanza vicino al centro nel senso che
 BO014	ci metto venti minuti a piedi a andare in centro insomma cinque minuti con la macchina
 BO014	è anche abbastanza vicino alla stazione per questo posso fare la pendolare insomma facilmente
 TO999	certo quindi non hai mai vissuto a bologna
-BO014	no proprio perché diciamo che @nomepaese bologna sono mezz'oretta di treno quindi ho preferito risparmiare
+BO014	no proprio perché diciamo che bologna sono mezz'oretta di treno quindi ho preferito risparmiare
 TO999	certo e la zona dove vivi
 BO014	è un quartiere residenziale tranquillo
 TO999	okay e quindi per non so per uscire la sera per fare cose che non siano studiare o andare a lavorare è una zona comoda secondo te o
 BO014	sì perché più o meno
-BO014	@nomepaese è una città piccola quindi diciamo che quando con amiche amici ci troviamo principalmente in centro
+BO014	è una città piccola quindi diciamo che quando con amiche amici ci troviamo principalmente in centro
 BO014	e quindi sì è facilmente raggiungibile
 BO014	ehm
 BO014	mh n~ non non non ci sono locali nel mio quartiere però appunto essendo vicino al centro non
-TO999	certo certo eh cosa si fa quando si esce a @nomepaese
+TO999	certo certo eh cosa si fa quando si esce a
 BO014	allora
 BO014	ehm
 BO014	io
@@ -44,7 +43,7 @@ BO014	e quindi sì mh io non mi lamento secondo me va bene
 BO014	è ovvio che non è una città magari così grande come bologna bologna sicuramente offre di più la sera
 TO999	mhmh quindi vi capita spesso non so di prendere la macchina magari andare in altri posti per un concerto un evento che c'è fuori
 BO014	mh sì è capitato qualche volta in anni passati soprattutto con i ragazzi che ho conosciuto qua a bologna ci mh magari se eravamo molti da modena o parma o altre zone eh diciamo dell'emilia abbiamo fatto una macchina e siamo venute a bologna sì per qualche cosa sì
-TO999	capito e tu hai detto hai sempre vissuto nella casa di cui mi hai parlato a @nomepaese non periodi all'estero o altre cose
+TO999	capito e tu hai detto hai sempre vissuto nella casa di cui mi hai parlato a non periodi all'estero o altre cose
 BO014	sì
 BO014	eh sì ho vissuto un anno a salisburgo in austria per un progetto erasmus e poi eh un'estate quindi sì tre o quattro mesi a in irlanda come ragazza alla pari
 TO999	mh

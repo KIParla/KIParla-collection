@@ -1283,7 +1283,7 @@ TOR001	mhmh
 TOI010	ehm però penso che adesso insomma ci siamo
 TOI010	ha rallentato parecchio nel senso che adesso
 TOI010	c'è stato quell'impennata
-TOI010	e poi quella cosa lì mantenuta stabile alla torinese alla anzi alla bugia nen
+TOI010	# e poi quella cosa lì mantenuta stabile alla torinese alla anzi alla bugia nen
 TOR001	mhmh
 TOI010	piemontese esattamente così lo status quo perenne
 TOR001	mhmh

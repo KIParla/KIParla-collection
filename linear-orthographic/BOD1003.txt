@@ -884,7 +884,7 @@ BO092	da delle probabilità che per una persona sana sono molto basse e quindi s
 BO092	oppure viceversa che per una persona malata siano troppo
 BO092	diverse da quello che i malati hanno e quindi che venga definito sano che sia definibile sano
 BO092	eh la mh
-BO092	la logica è semplicemente questa non non è molto dive~ cè
+BO092	la logica è semplicemente questa non non è molto dive~ cioè
 BO092	mh eh non non c'è mai una certezza ma c'è sempre una probabilità
 BO092	molto bassa di sbagliare questo è quello che che si cerca di fare nella teoria statistica delle decisioni
 BO092	eh mh cos'è che volevo dirvi come ultima cosa
@@ -915,7 +915,7 @@ BO092	mh secondo me anche diecimila è un po' basso
 BO092	quanti aerei ci sono in volo non so se avete mai visto quelle applicazioni che fan vedere quanti voli ci sono
 BO092	ci sono grosso modo dieci alla cinque centomila voli in in tutto il mondo in giro in ogni giorno
 BO092	quindi centomila voli vuol dire se ne fosse la probabilità uno centomila ci sarebbe un aereo che cade ogni giorno
-BO092	secondo me dev'essere più bassa di così perché ci fosse ogni giorno un aereo che cade in aereo non ci andremmo di sicuro cè proprio io per primo
+BO092	secondo me dev'essere più bassa di così perché ci fosse ogni giorno un aereo che cade in aereo non ci andremmo di sicuro cioè proprio io per primo
 BO092	quindi
 BO092	vedete che lì si va a guardare la coda della distribuzione ma la coda per cui alla fine questa tabella non basta
 BO092	lì bisogna usare una tabella di~ diciamo le tabelle non comuni cioè le ca~ le tablle in cui si va avanti a cinque a sei sigma cioè si va son più lunghe le tabelle che usano lì

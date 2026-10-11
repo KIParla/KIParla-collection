@@ -16,7 +16,7 @@ BOI081	ci mh mi dice dai andiamo ci sono gli amici che mangiano in montagnola
 BOI081	no in montagnola
 BOI080	no eravamo in parco del guasto
 BOI081	parco del guasto del guasto proprio brutto parco
-BOI080	sì smarzissimo
+BOI080	# sì smarzissimo
 BOI081	mamma mia
 BOI080	praticamente le nostre morose rispettive sono compagne di corso e quindi
 BOI081	ancora non all'inizio
@@ -225,22 +225,22 @@ BOI080	tra l'altro
 BOI081	mh bene a parte che sta sclerando l'anima perché gli hanno dato un'ora in più anche oggi
 BOI080	va bene
 BOI080	uh sai che invece a me hanno messo gli straordinari e son contentissimo
-BOI081	sì è perché son più schei
+BOI081	# sì è perché son più schei
 BOI080	sì
 BOI080	anche
 BOI080	e in più sono straordinari di domenica quindi
-BOI081	doppio di schei
+BOI081	# doppio di schei
 BOI080	sì esatto
 BOI080	no però ehm
 BOI080	come dire tipo hanno dato cinque ore di straordinario
-BOI080	all' eh cioè tipo la x la l'azienda ha concesso cinque ore al negozio
+BOI080	all~ eh cioè tipo la x la l'azienda ha concesso cinque ore al negozio
 BOI080	tutte e cinque sono state assegnate a me
 BOI080	quindi è una buona cosa
 BOI081	ottimo
 BOI080	perché comunque mh vuol dire che tra tutto lo staff eh
 BOI081	eh
 BOI080	hanno scelto me
-BOI081	dai di schei
+BOI081	# dai di schei
 BOI080	yuhu
 BOI081	poi ovviamente venti minuti li perderai in bagno perché insomma c'hai un po' di mal di stomaco e cose x
 BOI080	no mai
@@ -295,7 +295,7 @@ BOI080	eh se conosci qualcuno
 BOI081	e che negozio è cos'è che vende
 BOI080	si può dire
 BOR022	vai vai
-BOI080	ah @nomeazienda
+BOI080	ah
 BOI080	vintage
 BOI081	ah
 BOR022	ah okay
@@ -442,8 +442,8 @@ BOI081	c'è una ventotto
 BOI081	una
 BOI080	eh si potrebbe pensa
 BOI081	son cento'euro eh
-BOI081	è na piotta
-BOI081	è na piotta
+BOI081	# è na piotta
+BOI081	# è na piotta
 BOI080	non lo facciamo
 BOI081	però il quindici arriva lo stipendio
 BOI080	a me è già arrivato arriva il ventisette
@@ -904,7 +904,7 @@ BOI081	ovvio
 BOI080	cioè siamo in italia ce ne laviamo le mani sempre cazzo
 BOI080	figurati
 BOI080	quelli son viscidi come la merda
-BOI081	tasi va là
+BOI081	# tasi va là
 BOI080	no qua invece sono super fiscalissimi
 BOR022	okay
 BOI080	su ste cose qua
@@ -915,7 +915,7 @@ BOI080	ma posso dirli i nomi
 BOR022	sì sì puoi dirli xxxx
 BOI080	ah ok vabbè xxx perché non sapevo se
 BOR022	puoi puoi dire tutto ciò che vuoi
-BOI080	okay okay no prima ero da @nomeazienda e adesso sono da @nomeazienda
+BOI080	okay okay no prima ero da e adesso sono da
 BOR022	ah okay okay
 BOI080	e quindi cioè sono proprio due aziende
 BOI080	anche proprio di cioè
@@ -998,8 +998,8 @@ BOI080	intendi di mh
 BOI081	chi fa la produzione cioè poi alla fine
 BOI080	ah
 BOI080	sì sicuramente
-BOI081	non fanno solo @nomeazienda ma faranno anche altri marchi che tipo
-BOI080	però il la pelle @nomeazienda viene comunque comprata
+BOI081	non fanno solo ma faranno anche altri marchi che tipo
+BOI080	però il la pelle viene comunque comprata
 BOI080	e lavorata
 BOI080	quella sì in inghilterra
 BOI080	perché hanno proprio una serie di trattamenti specifici
@@ -1041,7 +1041,7 @@ BOI081	e sì
 BOI081	piuttosto
 BOI081	meglio prendere da un'azienda piccola
 BOI080	chiaro
-BOI081	che da una grande cioè poi alla fine sì @nomeazienda è grande
+BOI081	che da una grande cioè poi alla fine sì è grande
 BOI080	sì sì dai xxx sì
 BOI081	però nel collettivo è piccola
 BOI081	cioè xxxx macchine

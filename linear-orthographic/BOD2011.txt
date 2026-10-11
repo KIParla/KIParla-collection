@@ -52,7 +52,7 @@ BO075	sono saltati fuori altri autori straordinari però i primi sono loro non c
 BO049	okay perfetto
 BO075	mh eh eh
 BO049	eh mh al momento dove vivi
-BO075	vivo a @nomepaese
+BO075	vivo a
 BO049	okay vivi da solo vivi con la tua famiglia
 BO075	vivo con la mia famiglia
 BO049	in una casa o
@@ -60,7 +60,7 @@ BO075	in una casa
 BO049	okay
 BO049	mi puoi parlare un po' della tua casa della zona in cui vivi
 BO075	ah okay eh vivo a mh
-BO075	vivo a @nomepaese eh in una casa famigliare
+BO075	vivo a eh in una casa famigliare
 BO075	ci stiamo eh beh oh per ora io mio padre e mia madre
 BO075	prima vivevo con gli altri mie fratelli ma ora si sono tutti sposati e mh
 BO075	e quant'altro a parte uno
@@ -81,7 +81,7 @@ BO049	e quindi vivon da soli e ti hanno abbandonato coi tuoi
 BO075	e vivono da soli
 BO075	e mi hanno abbandonato maledizione e
 BO075	e eh mh
-BO075	e sì eh mh da~ nella zona ospedaliera di @nomepaese eh zona straordinaria
+BO075	e sì eh mh da~ nella zona ospedaliera di eh zona straordinaria
 BO049	ah
 BO075	e davanti alla camera mortuaria e
 BO075	e è proprio di fronte io non so s~ tra l'altro s~ mi sono sempre chiesto se mi ha influenzato in qualche modo cioè stilisticamente per quanto riguarda il disegno ma
@@ -603,7 +603,7 @@ BO049	vai tranquillo
 BO049	xx
 BO075	tutto questo eh mh
 BO075	eh mh
-BO075	sì @nomepaese eh @nomepaese eh io spero
+BO075	sì eh eh io spero
 BO075	di levarmi di torno il prima possibile
 BO049	non ma non ti piace star qua oppure dici solo per un bisogno lavorativo
 BO075	più più per un bisogno lavorativo ma anche perché
@@ -621,7 +621,7 @@ BO049	ah nel senso di non sì
 BO075	eh sì
 BO049	sbandare un po'
 BO075	eh mh
-BO075	e poi e poi in realtà mi ca~ mi piace @nomepaese perché
+BO075	e poi e poi in realtà mi ca~ mi piace perché
 BO075	è una città a misura d'uomo
 BO075	c'è tutto quello che serve
 BO075	solo che

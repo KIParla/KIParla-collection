@@ -9,7 +9,7 @@ PKP006	improvvisamente era ammala'
 PKP006	e lei dice a me che mi considera una di famiglia a voi lo posso dir'
 PKP006	eh
 PKP006	mia madre le ha dato una spinta
-PKP006	l'a dat c'accett sach m'ha m'ha m'ha detto delle cose dopo di che
+PKP006	# l'a dat c'accett sach m'ha m'ha m'ha detto delle cose dopo di che
 PKP004	addirittura
 PKP006	eh
 PKP006	è che loro sono stati zitti
@@ -170,11 +170,11 @@ PKP006	incominciano a lavorare alle cinque fanno qualche ora in più
 PKP001	sì
 PKP006	eh
 PKP006	hai capito
-PKP001	mhmh
 PKP006	pure giulia fa
+PKP001	mhmh
 PKP004	non possono
-PKP004	alzarsi e andare a prendere la figlia
 PKP006	xx
+PKP004	alzarsi e andare a prendere la figlia
 PKP006	siccome lei ha la patente
 PKP006	xx stavamo dicendo
 PKP006	con mio marito che forse una macchinetta usata
@@ -235,7 +235,7 @@ PKP001	eh certo
 PKP005	x la suocera
 PKP006	la figlia
 PKP004	no ma quella parla di suocera anche il giorno dopo
-PKP001	a socra mej
+PKP001	# a socra mej
 PKP004	infatti
 PKP001	grazie
 PKP006	eh
@@ -554,8 +554,8 @@ PKP003	lui è duemiladue
 PKP004	che poi è andato
 PKP004	ha festeggiato
 PKP003	l'ha fatto in tre tappe
-PKP004	al cinetics
 PKP006	xxx
+PKP004	al cinetics
 PKP004	quest'estate xx
 PKP001	ah okay
 PKP003	quello a casa poi
@@ -564,7 +564,7 @@ PKP005	e allora
 PKP001	sì sì
 PKP001	quello al cinetics eh
 PKP004	eh
-PKP004	nu xx
+PKP004	# nu xx
 PKP006	li metto là io
 PKP005	no stavo pensando di spostare la s~
 PKP005	ap~
@@ -596,7 +596,7 @@ PKP003	e io xxxxx non so se lo vuoi tu
 PKP006	no quello è mio
 PKP003	a te niente
 PKP003	ha preso lei
-PKP001	no voglio chesto
+PKP001	# no voglio chesto
 PKP004	puoi prendere un altro xx
 PKP004	sto mangiando la pasta
 PKP003	ah
@@ -818,8 +818,8 @@ PKP001	ho chiesto il ventiquattro e ha detto sì un posto
 PKP006	mh
 PKP005	mh
 PKP006	certe vo
-PKP004	xxxx
 PKP005	beh sarebbe stato il venticinque
+PKP004	xxxx
 PKP005	spero
 PKP004	boh
 PKP001	che ne so
@@ -1003,7 +1003,7 @@ PKP001	eh sti cazzi xx
 PKP005	quello che c'è
 PKP004	non si pescano con le canne da pesca le rane
 PKP005	quello che c'è
-PKP006	anche una suricchia
+PKP006	# anche una suricchia
 PKP001	cos'è una suricchia
 PKP004	una lucertola
 PKP001	ah

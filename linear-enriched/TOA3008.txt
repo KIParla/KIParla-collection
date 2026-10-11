@@ -66,7 +66,7 @@ TO048	[<es]a[tto>].
 TO052	[è brava] che non significa che faccia ridere cioè: michela murgia è l'unica che mi fa:: [(ridere)],
 TO050	[ma (perché)] la conosci bene (secondo me.)
 TO050	°xxxx xxxx°
-TO048	°((ride))°
+TO048	((ride))
 TO048	proprio inquietante, ((ride)) xx xx ((ride))
 TO052	perxxzione, ((ride))
 TO048	o mio xx xx ((ride))
@@ -1279,7 +1279,7 @@ TO048	pazienza.
 TO052	è una giornata che sono fuori a parlare di bourdieu.
 TO048	((ride))
 TO050	ma poi si pronuncia davvero bourdieu?
-TO052	<bourdieu.>
+TO052	<bourdieu>.
 TO050	non burdie?
 TO052	è tipo: è una (.) [u]na specie di ou (come in) out.
 TO050	[bourdieu].
@@ -1313,7 +1313,7 @@ TO050	ma che cazzo di nome c'hanno sti francesi xx sen~ e::h antoine:: de seint~
 TO052	come cazzo io non ho mai capito co[me si pronuncia].
 TO048	[de saint]-exupéry.
 TO050	eh?
-TO048	<de saint-exupéry.>
+TO048	<de saint-exupéry>.
 TO050	perché io ho sempre detto con una specie di disles~ di dislessia <e:uxperie>.
 TO050	invece exupéry.
 TO048	sì,
@@ -1639,7 +1639,7 @@ TO048	no perché secondo me se io dovessi poi impiantare una critica,
 TO048	su questo genere di poetica,
 TO048	cioè sareste tutti disoccupati se già non lo siete (voglio dire) perché non ci sarebbe secondo me veramente niente,
 TO048	di trop[po::],
-TO050	[°un buon lavo]ro insomma xxx. ((ride))°
+TO050	[°un buon lavo]ro insomma xxx.° ((ride))
 TO048	cioè non lo so veramente non capisco proprio la mh secondo me c'è una vuotezza di contenuti che anche a livello teorico sarebbe evidente.
 TO048	però boh,
 TO048	io lo leggo sono su facebook davvero ma il fatto che io le legga su facebook la dice lunga su che genere (.) cioè non per (.) bistrattare facebook è carino che forse l'idea di fare la poesia pop,
@@ -1996,7 +1996,7 @@ TO052	siamo ancora separati.
 TO052	chiaramente.
 TO052	°però per la bambina è stato bello.°
 TO052	chiama <papà:>,
-TO052	<papà,>
+TO052	<papà>,
 TO052	ridendo, ((ride))
 TO052	(mi) incontra e:,
 TO052	viene in braccio e mi sbaciucchia.

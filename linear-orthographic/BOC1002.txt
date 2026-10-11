@@ -35,8 +35,8 @@ BO089	direttamente il documento
 BO087	mh mh
 BO089	mentre la secondaria si fonda su al~ mh si basa su altre eh bibliografie o cataloghi di di bilbioteche per mh per la stesura del repertorio
 BO087	per raccogliere notizie
-BO087	indirette
 BO089	e infatti qua c'è scritto
+BO087	indirette
 BO089	io poi
 BO089	se ho sbagliato non lo so
 BO089	dice nella compilazione di questo lavoro sono state consultate le bibliografie di studi sinologi a cura di
@@ -251,7 +251,7 @@ BO087	cioè s in un libro cinese nel frontespizio di un libro cinese io trovo sc
 BO087	gou morou
 BO089	sì
 BO087	sì
-BO087	quindi trovo scritto prima il congome e poi il nome
+BO087	quindi io trovo scritto prima il congome e poi il nome
 BO089	mh mh
 BO087	uno si scri~ non si presentano così
 BO089	sì anche mh an~ quando si chiamano non è che si chiamano per nome si chiamano per nome della famiglia
@@ -345,8 +345,8 @@ BO087	quando si cita un periodico noi dobbiamo sapere
 BO087	qual è l'anno solare in cui il periodico è uscito novantase~ ottantasei
 BO089	ah okay
 BO087	qual è l'annata
-BO087	il periodo di dodici mesi
 BO089	in numero romano
+BO087	il periodo di dodici mesi
 BO087	in cui tutti i fascicoli di quel periodico usciti si raccolgono idealmente in un unico volume fisico
 BO087	questo si chiama annata che non coincide con l'anno
 BO087	può essere diversa
@@ -483,12 +483,12 @@ BO089	ah mia zia faceva la tipografa tra l'altro
 BO087	pure
 BO089	sì
 BO087	maledetta rossi tipografo dove
-BO089	a @nomeluogo
+BO089	a
 BO087	ah stupenda c'è una tradizione eccezionale
 BO089	mh mh
 BO089	sì perché io sono di là vicino
-BO087	nella bella la calcografia di @nomeluogo è
-BO089	non proprio a @nomeluogo però
+BO087	nella bella la calcografia di è
+BO089	non proprio a però
 BO089	sì sì siamo
 BO087	è una scuola del li~ c'era la scuola del libro più importante d'italia
 BO089	mh mh
@@ -507,8 +507,8 @@ BO087	e i materiali xx no ma i materiali di tipografia dove sono finiti
 BO089	non non ne ho idea
 BO087	adesso lei si informa e mi sscrive una mail per favore
 BO089	mi infor~ va bene
-BO087	si informa dalla zia
 BO089	va bene va bene
+BO087	si informa dalla zia
 BO087	e dice che il bianchi che è un'appassionato di tipografia
 BO089	che comunque è
 BO087	eh mh vuol sapere dove son finite le sue i suoi materiali
@@ -716,7 +716,7 @@ BO087	sì
 BO087	perfetto
 BO089	andata
 BO087	sì
-BO087	andata
 BO089	okay
+BO087	andata
 BO089	arrivederci grazie
 BO087	grazie arrivederci

@@ -42,7 +42,7 @@ BOI026	ehm
 BOI026	e quindi poi sono rimasta da allora sono rimasta sempre a bologna
 BOI026	per
 BOI026	mh
-BOI026	insomma ho abitato dove magari interessa anche dove ho abitato mh non lo so
+BOI026	insomma ho abitatodove magari interessa anche dove ho abitato mh non lo so
 BOR004	se lo vuole dire sì sì sì
 BOR006	sì sì sì
 BOI026	da studentessa allora mentre da bimba abitavo in periferia
@@ -50,7 +50,7 @@ BOI026	la prima periferia eh poi invece da studentessa ho sempre abitato in cent
 BOR004	mhmh
 BOI026	e anche dopo da non studentessa non sono più riuscita ad uscire dal centro voglio dire
 BOR004	sì
-BOI026	e infatti adesso ci troviamo in @nomeluogo
+BOI026	e infatti adesso ci troviamo in
 BOI026	dove abito a~ ancor'oggi perché poi dopo
 BOI026	e una volta che uno si abitua male eh
 BOI026	ad avere tutto a portata di dieci minuti soprattutto i consumi culturali che
@@ -63,7 +63,7 @@ BOI026	poi dopo invece no un anno in periferia per pochi mesi e poi sempre in un
 BOR004	mhmh
 BOI026	in un piccolo monolocale per dodic'anni
 BOI026	e poi invece ho comprato casa qui mh
-BOI026	a v~ in via del in @nomeluogo
+BOI026	a v~ in via del in
 BOR004	quindi sei affezionata comunque alla città
 BOI026	sì
 BOI026	non potrei abitare
@@ -73,7 +73,7 @@ BOI026	a a bologna non è più un po' la bologna del
 BOI026	eh di bologna città della musica del duemila quell'esplosione culturale che c'è stata in quegli anni lì
 BOI026	con quel dove si faceva musica dappertutto locali ovun~ dove ovunque si faceva musica
 BOR004	mh
-BOI026	si consumava musica teatro veramente ovunque
+BOI026	si consumava musicateatro veramente ovunque
 BOI026	però comunque ancora
 BOI026	ancora c'è molto teatro ancora c'è molta musica anche se non più a quei a quei livelli è un po' più triste a p~
 BOI026	covid a parte ecco al netto del covid eh
@@ -124,7 +124,7 @@ BOR006	invece
 BOR006	eh per quanto riguarda magari eh cioè a noi interessa il
 BOR006	l'ambito dei quartieri dei posti di bologna
 BOR006	ad esempio cioè mia curiosità personale eh il fatto di aver scelto
-BOR006	eh casa in in @nomeluogo
+BOR006	eh casa in in
 BOR006	cioè la una delle vie clou diciamo della città è capitato oppure
 BOI026	allora quello è capitato
 BOI026	per puro caso nel senso che cercavo casa veramente da tanto tempo
@@ -207,8 +207,7 @@ BOR004	sì
 BOI026	che ab~ mh con tutti i bar della zona siamo d'accordo perché di qua c'era stato un
 BOI026	open space technology diversi anni fa
 BOI026	per appunto cercare di dirimere i contrasti tra
-BOI026	ehm i condomini soprattutto del crusel che è l'incrocio tra @nomeluogo e via mh
-BOI026	@nomeluogo.
+BOI026	ehm i condomini soprattutto del crusel che è l'incrocio tra e via mh
 BOR004	mhmh
 BOI026	che sono qu~ che erano due condomini che
 BOI026	chiamavano la polizia ogni sera per le
@@ -246,7 +245,7 @@ BOR006	sì infatti non è molto meglio
 BOI026	davanti a una casa signori~ cioè mh io non ci~ non credevo alle mie orecchie al m~ mh
 BOR004	sì
 BOR004	sì
-BOI026	a quello che i miei occhi vedevano il portiere anche lui era fuori dai coppi
+BOI026	# a quello che i miei occhi vedevano il portiere anche lui era fuori dai coppi
 BOI026	perché naturalmente
 BOI026	tocca a lui pulire perché il portico
 BOI026	i portici a bologna sono
@@ -335,8 +334,8 @@ BOI026	me l'aveva chiesto il comitato il mh
 BOI026	e l~ il comitato donne anpi del di bologna
 BOI026	e l'avevamo fatto su a villa spada
 BOR004	mhmh
-BOI026	e
 BOR004	e c'è il monumento giusto
+BOI026	e
 BOI026	lì a~ al monumento delle partigiane
 BOR004	eh mhmh
 BOI026	e eccola qua
@@ -764,7 +763,7 @@ BOR004	sì sì sì sì
 BOI026	ciao la parola ciao
 BOR004	mhmh mh
 BOI026	dai da da venezia dai veneziani che l'hanno portata in giro per il mondo
-BOI026	sciavo vostro signor paron
+BOI026	# sciavo vostro signor paron
 BOI026	e ciao
 BOR004	mhmh mh
 BOI026	adesso anche a sanremo di nuovo ciao ciao

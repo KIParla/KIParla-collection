@@ -11,7 +11,7 @@ PKP033	grazie grazie
 PKP033	con voi c'abbiamo una foto: tipo ah scusami
 PKP036	no no ((ride))
 PKP033	((ride))
-PKP037	((ride)) []
+PKP037	((ride))
 PKP033	xxx quella faccia
 PKP033	con voi credo che abbiamo solo una foto di [gruppo]
 PKP036	[sì]
@@ -28,14 +28,14 @@ PKP033	abbiamo (.) l'inchnusa nuova che mi piace m[olto]
 PKP036	[co]s'è?
 PKP033	che è: tipo:: [scura cioè non scu]ra rossa
 PKP036	[a:: sì::]
-PKP037	[ah]: carina
 PKP036	[ah]
+PKP037	[ah]: carina
 PKP033	poi c'è un'ichnusa normale e una corona: (.) normale
 PKP033	e poi in frigo in realtà ho delle birre di quelle tipo la poretti da sessantasei ma mi sembrava un [po' meno:]
 PKP036	[no:: voglio provare ques:~]
 PKP033	°un p~ un po' meno chic°
-PKP033	[e::]
 PKP036	[questa non l'ho mai pro]vata
+PKP033	[e::]
 PKP033	esatto (.) e vabbè (.) e basta
 PKP033	però ci son solo delle birre c(io)è nel senso che io [non ho da far dello spritz] così
 PKP036	[sì sì va bene]
@@ -57,8 +57,8 @@ PKP037	qu[esta x]
 PKP037	mhmh è molto comoda
 PKP036	infatti potevamo prenderla oggi
 PKP037	e sì e: per dove?
-PKP033	[ma siete andati a ike]a?
 PKP036	[xxx]
+PKP033	[ma siete andati a ike]a?
 PKP036	sì [a]::
 PKP037	[mhmh]
 PKP036	siamo saliti in macchina da roma
@@ -124,8 +124,8 @@ PKP033	[non so se le macchine saltano] fuori ((ride))
 PKP037	[no no no]
 PKP036	no no ovvia[mente no]
 PKP037	[ehm]: mi hanno detto di no
-PKP033	[che di solito non saltano fuori]
 PKP036	[xxxxxxxxxxxxxx]
+PKP033	[che di solito non saltano fuori]
 PKP037	[che di solito non sa]ltano fuori
 PKP036	ah [ti hanno detto xxx]
 PKP037	[ho fatto la denuncia]
@@ -419,7 +419,7 @@ PKP036	[eh sì:]
 PKP036	[°ordinare°]
 PKP033	eh
 PKP036	c(io)è c'era: (.) [(u)na cosa del] (.) di gente così lasciavi lì
-PKP037	((ride)) []
+PKP037	((ride))
 PKP036	°sconvolgente°
 PKP037	è molto x c(io)è: [sì (.) sicuro]
 PKP036	[sì molto sicuro]
@@ -711,7 +711,7 @@ PKP033	[ah okay okay okay]
 PKP036	[quindi ci vedi:] tutti i templi eccetera
 PKP036	però la città in sè (.) non è tanto bella
 PKP037	mh
-PKP036	#un po' un ammacco di cose
+PKP036	# un po' un ammacco di cose
 PKP036	mh
 PKP033	ma è sempre: una metropoli
 PKP036	no
@@ -770,7 +770,7 @@ PKP037	[tipo il polpo]
 PKP037	[il polpo fr]itto lo fanno mol[to]
 PKP036	un sacco di pesce in generale
 PKP037	eh:m:
-PKP037	gli s~ (.) ~paghetti di soia m
+PKP037	gli s~ (.) ~paghetti di soia mh
 PKP036	mh
 PKP037	mangiano sempre molto scomposto quindi c'è sempre una ciotolina di riso,
 PKP036	sì tante ciotoline: e poi (le met[tono tutte così)]
@@ -910,8 +910,8 @@ PKP033	[okay]
 PKP037	°eh vabbè°
 PKP037	dettagli
 PKP037	c'è l'edificio: (.) eh sopra il quale sco~ è scoppiata la bomba
-PKP033	[mh]
 PKP037	[perché la bo]mba è scoppiata: in aria
+PKP033	[mh]
 PKP037	mi pare di ricordare
 PKP037	quindi ha fatto: un'onda d'urto:
 PKP037	che (.) è arri~ che ha distrutto tutti: i piani: (.) orizzontali
@@ -1079,7 +1079,7 @@ PKP037	[no è vero è vero è vero]
 PKP033	[eh ecco]
 PKP037	[però xxx]
 PKP037	sì sì sì (.) [ci ha visto (avere un colpo)]
-PKP036	[vah vah vah] ((ride))
+PKP036	[vah va vah] ((ride))
 PKP037	[poi ha fatto] o::h
 PKP036	((ride))
 PKP033	((ride))
@@ -1307,8 +1307,8 @@ PKP033	e invece d'estate lavori di p[iù sì ci s~ giusto? nel senso]
 PKP036	[xxxx]
 PKP036	[no d'inver]no non:
 PKP036	°non ci caga nessuno°
-PKP033	((ride))
 PKP036	((ride))
+PKP033	((ride))
 PKP037	((ride))
 PKP036	perché le scuole so' chiuse quindi
 PKP033	gius[to]
@@ -1462,8 +1462,8 @@ PKP036	e: però sì appunto (vediamo)
 PKP036	°un po:' variabile°
 PKP033	belle neuroscienze
 PKP036	[xx]
-PKP033	[molto interessante]
 PKP036	[ma infatti io ero contenta] che le studia
+PKP033	[molto interessante]
 PKP033	eh
 PKP033	no ma p~ c(io)é potrà fa:rlo
 PKP036	ah sì [penso di sì]
@@ -1531,8 +1531,8 @@ PKP037	xxxx
 PKP036	proprio qualsiasi [cosa]
 PKP033	[mh] (.) [c(io)é avete (.) buttato (.) delle cose]
 PKP036	[c(io)é c'era xxxxxxxxx]
-PKP033	[mh]
 PKP036	[sì e] ancora c'è [xxxx]
+PKP033	[mh]
 PKP037	[sta carta smeral]do: e: si è consumata
 PKP036	((ride))
 PKP033	mh io la devo andare a ritirare (.) sapete che non ce l'ho
@@ -1588,8 +1588,8 @@ PKP033	ah o non (.) o: s' è rotta e io penso sia per quello
 PKP037	no mi sa che da noi ancora non hanno fatto: la voltura
 PKP033	ah non l'han~ non l'avete fatta?
 PKP036	no sì l'abbiamo fatta
-PKP037	[no eh]m: mi sa che ancora non l'abbiamo registrata
 PKP036	[no]?
+PKP037	[no eh]m: mi sa che ancora non l'abbiamo registrata
 PKP037	non lo so
 PKP036	xxx
 PKP033	c(io)è la deve chiudere lui: e: dovete aprirla voi
@@ -1800,7 +1800,7 @@ PKP036	michi se n'è andata °la mia coinquilina°
 PKP037	s'è licenziata
 PKP036	xx
 PKP033	ah (.) e per: (.) perché ha trovato altro o:?
-PKP036	sì ha trovato un altro lavoro: m
+PKP036	sì ha trovato un altro lavoro: mh
 PKP036	ha detto: vabbè
 PKP036	°me ne vado°
 PKP033	ma m:
@@ -1889,8 +1889,8 @@ PKP037	te fai licenziare
 PKP036	°eh sì°
 PKP033	no è dove [an]date oh
 PKP037	[no]
-PKP037	[no infa~] ((ride))
 PKP036	[infat~]
+PKP037	[no infa~] ((ride))
 PKP033	((ride))
 PKP036	prendo e vado tanto ((ride))
 PKP033	mhmh

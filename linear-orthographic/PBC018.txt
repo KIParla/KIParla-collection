@@ -1,6 +1,6 @@
 BOR010	okay è partita
 ???	xx ragazzi
-BOI043	vieni pure anche vieni pure anche te che dopo al toca anche a te
+BOI043	# vieni pure anche vieni pure anche te che dopo al toca anche a te
 ???	basta ragazzi ragazzi è qui la festa
 BOI043	è qui la festa
 ???	oh meno male cercavo una festa io
@@ -84,7 +84,7 @@ BOR010	ah beh si anche per immagino sono anche cambiati un po' i tempi
 BOI043	i tempi
 BOI043	quali erano i luoghi di ritrovo più frequentati
 BOI043	ah essendo un tramviere
-BOI043	un luogo più frequentato è qui al circolo @nomeluogo
+BOI043	un luogo più frequentato è qui al circolo
 BOI043	poi dopo quando si dato che qui ci sono tutte le sezioni noi facciamo parte come detto prima della sezione ciclismo
 BOI043	siamo in venticinque nuovamente quando andiamo fuori la domenica che ci troviamo durante la settimana
 BOI043	siamo sempre in cinque o sei perché quegli altri
@@ -99,7 +99,7 @@ BOI043	mi ritengo ancora giovane anche se xxxxxx sessantasette anni ma quando ab
 BOR010	xxxxxxx
 BOI043	vedo che s molte attività salteranno perché purtroppo i giovani non hanno
 BOI043	non hanno interesse a venir dentro io poi che
-BOI043	sono faccio parte come giudice dell'@nomesocietà di bologna
+BOI043	sono faccio parte come giudice dell' di bologna
 BOI043	vedo che anche nelle società
 BOI043	e dei giovani che entrano non se ne trova fanno fatica a entrare perché purtroppo io parlo a livello di ciclismo
 BOI043	andare in bicicletta se vuoi fare
@@ -111,7 +111,7 @@ BOI043	perché se tu vai
 BOI043	come qua io vado e durante la settimana per dire
 BOI043	lavoran tutti e due io vado come si chiama in bicicletta poi la domenica io prendo su e vado a fare
 BOI043	una gran fondo e la moglie rimane a casa
-BOI043	una due o tre volte el ge me du era la dmanga
+BOI043	# una due o tre volte el ge me du era la dmanga
 BOI043	cosa facciamo la domenica tu vai via e io resto a casa
 BOI043	va bene se un è come sono io che sono rimasto vedovo vabbè
 BOR010	xxx mi dispiace
@@ -134,7 +134,7 @@ BOR010	mamma mia poco un pochino molto attivo
 BOR010	accidenti
 BOI043	le viene in mente un bel ricordo legato alla sua casa di allora
 BOI043	quando son nati è nato il figlio e poi quando son nati i nipoti
-BOI043	che abitavo in @nomeluogo,
+BOI043	che abitavo in
 BOI043	xxx quando ci siam sposati dopo simone è nato lì
 BOI043	abbiam vissuto lì poi dopo quando lui si è sposato è venuto in casa e abbiam visto nascere i nipoti
 BOR010	xx bel momento dev'essere
@@ -170,7 +170,7 @@ BOR010	ma infatti so che è molto famo~ ah no scusi stava dicendo qualcosa
 BOI043	x
 BOI043	i luoghi che siamo più legati io
 BOI043	vivendo fuori bologna
-BOI043	il luogo in cui son più aggregato è praticamente il circolo @nomeluogo praticamente
+BOI043	il luogo in cui son più aggregato è praticamente il circolo praticamente
 BOR010	ah beh x
 BOI043	perché col fatto che abitando fuori
 BOR010	ah beh si non c'è più un luogo
@@ -194,7 +194,7 @@ BOR010	ah beh si ci sta se
 BOR010	cioè se non abita più ne~ nella città
 BOR010	cioè non più continuamente diciamo ci sta
 BOR010	ah si e
-BOI043	bologna per i suoi figli e nipoti
+BOI043	bologna per i suoi figli e nipoti sbuffa
 BOI043	penso che ci sia troppa troppo casino a bologna
 BOI043	per i nipo~ per i figli figli ne ho uno solo vabbè i nipoti
 BOI043	adesso quando verranno a bologna a studiare dopo lo saprò
@@ -238,8 +238,8 @@ BOI043	no c'è un bel vento oggi
 BOR010	infatti sentivo fuori
 BOR010	avevo una paura a venire in autobus
 BOI043	no in autobus sei chiuso non è mica un problema
-BOI043	cos'abbiamo dopo cosa si dice di bello
 BOR010	xxxxx
+BOI043	cos'abbiamo dopo cosa si dice di bello
 BOI043	lavoro per quanto tempo ha lavorato nell'azienda dei trasporti
 BOR010	xxxxx non so se
 BOI043	ottantuno fino al duemila e undi~ eh duemila e dieci sono ventinove ventinove anni
@@ -260,14 +260,14 @@ BOI043	il discorso è
 BOI043	chiudi e riparti
 BOI043	la strada è quella
 BOR010	ah beh
-BOI043	ero già dipendente dell'@nomeazienda prima di diventare @nomeazienda si perché
+BOI043	ero già dipendente dell' prima di diventare si perché
 BOI043	ho fatto gli ultimi anni e
 BOR010	ah beh si giusto
 BOI043	è cambiato qualcosa dal passaggio
 BOI043	non lo dico sto zitto
 BOR010	xxxxx
 BOI043	mi avvalgo della facoltà di non rispondere
-BOR010	oh se vuole cioè non non mandiamo la registrazione a @nomeazienda quindi se vuole dire
+BOR010	oh se vuole cioè non non mandiamo la registrazione a quindi se vuole dire
 BOI043	non rispondo a questa se no dopo
 BOI043	te lo dico poi in separata sede quando hai spento quello lì
 BOR010	ah okay capito
@@ -306,8 +306,8 @@ BOI043	devo dire io mi sono sempre come t'ho detto mi son sempre trovato bene
 BOI043	ho avuto un buon rapporto con i colleghi così
 BOR010	ah beh io non so perché con gli autisti mi immaginavo fosse un lavoro davvero difficile per quello chiedevo
 BOI043	no ci vuol pazienza a far gli autisti
-BOI043	circolo @nomeluogo
-BOI043	quando ha incominciato a frequentare il circolo @nomeluogo:?
+BOI043	circolo
+BOI043	quando ha incominciato a frequentare il circolo
 BOR010	se vuole le giro
 BOI043	nono ma io ci vedo
 BOI043	da da vicino ho bisogno dei binocoli per leggere
@@ -332,7 +332,7 @@ BOR010	ah eh
 BOI043	che tipo xx ha
 BOI043	sono responsabile della sezione cicismo dei ciclisti che han voglia di pedalare se qualcuno vuol venire lo prendiamo
 BOI043	organizzaimo eventi sportivi sì noi
-BOI043	aiutiamo il circolo @nomeluogo
+BOI043	aiutiamo il circolo
 BOI043	nella nello svolgimento della die~
 BOI043	della dieci colli come ciclisti
 BOI043	aiutiamo gli altri eventi quando tipo l'orienteering quando fanno
@@ -416,7 +416,7 @@ BOR010	a non so eh a dopo sì abbiamo cambiato
 BOI043	abitualmente parla in dialetto o in italiano in quale contesto parla in dialetto e in
 BOI043	io purtroppo in italiano quando andavo a scuola ero molto scarso e alterno da italiano e dialetto
 BOR010	ah sì beh ci sta non mi è mai capitat~
-BOI043	dipende dipende come quando prendi a parlare se parli in italiano o se scor in dialàt
+BOI043	# dipende dipende come quando prendi a parlare se parli in italiano o se scor in dialàt
 BOR010	ah quindi cambia anche dalla persona che ha davanti immagino
 BOI043	si come quando si parla con le persone
 BOI043	ci sono espressioni tipiche bolognesi che trova difficile esprimere in italiano
@@ -597,7 +597,7 @@ BOI043	un punto di ritrovo come il circolo praticamente
 BOR010	ah beh sì se no stare lì tre ore a girare xxxx
 BOI043	se no cosa fai vai sempre dentro cioè vai in un bar e ricominci
 BOI043	sì non puoi mica star dentro tre ore
-BOI043	e consumare un caffè perché se no xx ben fora
+BOI043	# e consumare un caffè perché se no xx ben fora
 BOR010	e mamma mia es~ io avrei la nausea anche di girare bologna dopo un po'
 BOR010	quindi
 BOI043	no oltretutto che ci sei già
@@ -702,8 +702,8 @@ BOI043	delle volte può succedere come si diceva prima
 BOI043	ti attravers~ una bicicletta ti passa
 BOI043	cacci un'inchiodata fai cader della gente s~ sei tu il responsabile
 BOR010	se poi si fanno anche male
-BOI043	ancora peggio
 BOR010	xxxxx
+BOI043	ancora peggio
 BOI043	ancora peggio
 BOR010	ecco adesso capisco perché c'è scritto di non parlare all'autista
 BOR010	mi sento in colpa per tutte le volte che l'ho fatto
@@ -711,7 +711,7 @@ BOI043	no ma ma uno qualcuno puoi chiedere
 BOI043	un'informazione sai viene della gente han fatto
 BOI043	so che han fatto dei corsi anche di inglese agli autisti perché sai quando vengon gli stranieri
 BOI043	diventa problematico se
-BOI043	io io parlo in in italiano o in bolognese lui là parla in inglese as capèm brisa
+BOI043	# io io parlo in in italiano o in bolognese lui là parla in inglese as capèm brisa
 BOI043	non ci capiamo per niente
 BOR010	ah beh giustamente
 BOI043	xxx

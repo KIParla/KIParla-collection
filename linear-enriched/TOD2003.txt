@@ -17,7 +17,7 @@ TO083	e::h=m:h po:i: ci: sono,
 TO083	il mare non si vede ma si intravede un pezzettino piccolo piccolo che lascia intravedere la possibilità del mare.
 TO083	[e: quindi],
 TO999	[il mare lo] si vede perché sei di?
-TO083	sono di @nomepaese.
+TO083	sono di
 TO999	ah o[kay].
 TO083	[cioè] se ne vede u:na strisciolina minuscola non posso dire che sia vista mare,
 TO083	però,
@@ -67,7 +67,7 @@ TO083	perché: mi sfondo di tisane.
 TO083	e:::h,
 TO083	basta.
 TO999	e (.) okay.
-TO999	quindi tu hai sempre vissuto a @nomepaese? non vivi a torino,
+TO999	quindi tu hai sempre vissuto a non vivi a torino,
 TO083	no non è vero m:::h adesso a~ abito a torino solo c[he ho] cambiato tante case da studentessa quindi non ho un,
 TO999	[ah].
 TO999	ah okay e parlami un po' delle case dove hai vissuto [xx xx xxnte].
@@ -128,10 +128,10 @@ TO999	certo. e il posto più bello in cui hai vissuto?
 TO083	e::h la casa:: dove abitavo: coi miei genitori quando eravamo::: prima del divorzio.
 TO083	era un appartamento,
 TO083	all'ultimo piano,
-TO083	a @nomepaese con una vista bellissima.
+TO083	a con una vista bellissima.
 TO083	la cosa più bella era la vista.
 TO083	su tutta la città si vedeva il mare,
-TO083	poi essendo che @nomepaese è in collina da quasi tutte le case in realtà c'è una bella vista ma quella in particolare c'era un terrazzo,
+TO083	poi essendo che è in collina da quasi tutte le case in realtà c'è una bella vista ma quella in particolare c'era un terrazzo,
 TO083	mangiavamo sempre sul terrazzo:,
 TO083	e mi ricordo proprio,
 TO083	la <luce> di quella casa le atmosfere per~ mh,
@@ -147,7 +147,7 @@ TO083	immettere qualcuno di nuovo nel gruppo.
 TO083	e:h=mh,
 TO083	hanno l'accento più noioso del mondo,
 TO999	((ride)) perché?
-TO083	sono di @nomepaese.
+TO083	sono di
 TO083	na na na na na.
 TO083	poi cioè uno può essere anche il più brillante battutista della storia ma se ha l'accento ligure non può funziona~ cioè l'accento imperiese: sì smorza tutto.
 TO083	tutto calante proprio.
@@ -172,15 +172,15 @@ TO083	e:h cioè qua è un'altra cosa.
 TO083	cioè all'inizio ero proprio emozionata cioè andare in giro (.) e vedere dei giovani,
 TO083	proprio,
 TO999	((ride))
-TO083	mh mi emoziona~ cioè non ero abitua~ era sconcer~ cioè (.) a @nomepaese davvero se tu prendi l'autobus e trovi uno della tua età,
+TO083	mh mi emoziona~ cioè non ero abitua~ era sconcer~ cioè (.) a davvero se tu prendi l'autobus e trovi uno della tua età,
 TO083	lo guardi come se fosse una bestia rara tipo hey,
 TO083	anche tu su questo pianeta.
 TO999	okay,
 TO999	quindi vi conoscete tutti diciamo quell[i più o meno della stessa: generazione].
 TO083	[sì abbastanza sì abbastanza POI i]n realtà tipo della mia generazione adesso,
-TO083	non ce n'è a @nomepaese perché sono tutti sparsi all'università::,
+TO083	non ce n'è a perché sono tutti sparsi all'università::,
 TO083	o: comunque a cercare lavoro da altre parti mediamente quindi,
-TO083	e:h a @nomepaese non c'è la popolazione dai diciotto ai venticinque.
+TO083	e:h a non c'è la popolazione dai diciotto ai venticinque.
 TO999	ho capito.
 TO999	e:h l'episodio più buffo che ti è capitato da quando vivi a torino?
 TO999	più buffo [più strano più]::,
@@ -291,8 +291,8 @@ TO999	[non siete] più rimasti amici poi?
 TO083	allora per mesi no. cioè nel senso sono stati dei mesi di grossa tensione in casa.
 TO083	di: cioè: no all'inizio litigio non ci siam più parlate,
 TO083	e poi: abbiamo fatto pace e poi in realtà adesso siamo in buoni rapporti.
-TO083	((ride))
 TO999	((ride))
+TO083	((ride))
 TO083	però: (.) mh il terr~ mi ricordo il terrore di quella notte proprio.
 TO999	((ride))
 TO999	cioè vabbè rido perché è finita bene però cazzo immagino,
@@ -334,8 +334,8 @@ TO083	per fortuna costa.
 TO083	poi non abbiamo una casa °ancora quindi,°
 TO999	e::: avete progetto di andare a convivere?
 TO083	sì.
-TO083	[l'an~]
 TO999	[dov]e vorreste andare?
+TO083	[l'an~]
 TO083	e bah adesso lui abita a genova,
 TO083	non so magari l'anno prossimo io vado a vivere a genova.
 TO083	se no in futuro solo che:,
@@ -390,8 +390,8 @@ TO083	piante solo grasse.
 TO999	okay.
 TO999	perché non hai il pollice verde.
 TO083	eh no temo proprio di no.
-TO083	((ride))
 TO999	((ride))
+TO083	((ride))
 TO999	<okay>,
 TO999	e:::h boh (la) possiamo chiudere qui ah no aspetta allora ti chiedo delle cose che non c'entrano niente con questo però così evito di scriverle,
 TO999	e:: allora carla quanti anni hai?
@@ -409,13 +409,12 @@ TO999	possiamo dire?
 TO083	diciamolo.
 TO999	okay.
 TO999	e::h=m::h dove hai fatto le: dove sei nata?
-TO083	sono nata a @nomepaese.
+TO083	sono nata a
 TO999	dove hai fatto le superiori?
-TO083	@nomepaese.
 TO999	quante lingue parli?
 TO083	parlo inglese francese e poco tedesco.
 TO083	molto poco.
 TO999	dialetto ligure no?
 TO083	no.
-TO083	zero. eh ma i miei non sono @abitantipaese.
+TO083	zero. eh ma i miei non sono
 TO999	okay va bene allora.

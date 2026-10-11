@@ -69,8 +69,8 @@ PKP013	doc doc
 PKP018	no
 PKP018	cioè non ho mai guardato anche perché perché mi addormento guarda
 PKP018	il telecomando è vostro fate come volete buon appetito
-PKP014	buon appetito
 PKP015	buon appetito
+PKP014	buon appetito
 PKP013	buon appetito
 PKP018	ah argentero
 PKP018	è molto carino
@@ -81,8 +81,8 @@ PKP018	la sposto
 PKP014	inutili sì
 PKP018	ok
 PKP018	no io guardo cortesie per gli ospiti
-PKP013	mh anch'io sempre
 PKP015	mh
+PKP013	mh anch'io sempre
 PKP018	lui è è è veramente fine
 PKP015	con csaba
 PKP013	mhmh
@@ -819,8 +819,8 @@ PKP018	tirami su quell'albero dico soccia dici questi fanno voce grossa
 PKP014	sì
 PKP018	poi vengo a sapere dalla caterina due settimane fa dalla nonna
 PKP018	che loro non hanno ancora fatto il compromesso
-PKP018	perché lei le ha detto ah non so quando andiamo via
 PKP014	mh
+PKP018	perché lei le ha detto ah non so quando andiamo via
 PKP018	dobbiam vedere quanto dobbiam~ spenderemo a ristrutturare quella catapecchia
 PKP018	che è una casa disabitata da cinquant'ann in sasso non c'è il cesso
 PKP013	ma loro vogliono
@@ -1109,7 +1109,7 @@ PKP015	più che altro sei completamente xx
 ???	anche da cese da lassù in cima da casa
 ???	là vai ai fienili e alla stalla
 ???	ah è un bel sasso questo
-PKP014	ah par furz
+PKP014	# ah par furz
 PKP018	allora
 PKP014	è abitata dai cerbiatti
 PKP018	io ho saputo
@@ -1146,8 +1146,8 @@ PKP015	ma sì tanto se ne andranno
 PKP018	tanto questi se stan male si fan male sai chi chiamano
 PKP013	ma sì
 PKP015	l'ambulanza
-PKP013	chiamano lei
 PKP015	arrivi tu
+PKP013	chiamano lei
 PKP018	arriviam sempre noi
 PKP018	e gira che ti giri
 PKP015	ah mamma
@@ -1475,7 +1475,7 @@ PKP018	fa ma insomma la solita storia di marzo
 PKP018	dico sì la gente è disperata vuole una risposta
 PKP018	io gli dò il numero verde
 PKP018	dico però il medico di base o il sostituto che è non può dire chiami il centodiciotto per andare a fare il tampone non funziona così
-PKP018	cioè hm
+PKP018	cioè mh
 PKP018	e quindi capito ci mancherebbe figurati
 PKP013	sì sì è che la gente sì si impanica perché poi appunto non hanno risposte precise
 PKP018	e hanno ragione dice ma scusi ma se io sono c'è

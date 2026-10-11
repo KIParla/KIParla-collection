@@ -359,7 +359,7 @@ TOI070	si bollava la cartolina anche al sabato mattina
 TOI070	e si faceva mh quelle quattro ore mh
 TOI070	del sabato
 ???	nonna mi é caduta la mia maglia
-TOI070	oh signur e come facciamo adesso
+TOI070	# oh signur e come facciamo adesso
 TOI069	cosa gli ha detto
 TOR009	niente
 TOR009	ehm e invece quando proprio non lavorava il sabato e la domenica
@@ -758,7 +758,7 @@ TOI069	eh
 TOI069	eh
 TOI069	eh eh eh
 TOI069	eh
-TOR009	eh faccia
+TOR009	eh certo faccia
 TOI069	dove stai anna dove sei
 TOI069	che stai facendo
 TOI069	no non tirare fuori ti ho detto quando arriva xxx vieni andiamo di là sentiamo cosa ci vuole dire la signorina
@@ -892,13 +892,13 @@ TOR009	sì
 TOI069	eh spesso ci ritrovavamo a cena con lui magari i miei suoceri erano fuori
 TOI069	eh e lui leggeva la stampa all'ora purtroppo all'ora come sempre non é che sia il mondo tutto il mondo é paese penso
 TOI069	e leggeva magari che era successo qualcosa
-TOI069	eh e diceva oh questi napuli
+TOI069	# eh e diceva oh questi napuli
 TOI069	e poi si rivolgeva a me
 TOI069	e diceva ah scusa scusa non ce l'ho con te
 TOI069	per esempio
 TOR009	ma tanto lei non era di napoli quindi
 TOI069	no ma eh per loro da genova in giù
-TOI069	erano napuli
+TOI069	# erano napuli
 TOR009	é vero
 TOI069	tutti
 TOI069	non é

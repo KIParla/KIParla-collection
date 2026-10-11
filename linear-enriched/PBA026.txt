@@ -447,8 +447,8 @@ BOI105	quindi
 BOR034	vabbè dai però ce l'hai fatta comunque ((ride)) [sei arrivato in fondo] no?
 BOI105	[ah sì sì sì]
 BOI105	no assolutamente
-BOI105	[e comunque]
 BOR034	[ma e:]
+BOI105	[e comunque]
 BOR034	dimmi no no scusa dimmi
 BOI105	dicevo: il mio motto a scuola era
 BOI105	finché è sei va bene tutto
@@ -525,7 +525,7 @@ BOI105	a me non mi va
 BOR034	mhmh
 BOI105	nel frattempo mentre: mentre facevo anche queste cose qui
 BOI105	la m:h
-BOI105	la @nomesocietà
+BOI105	la
 BOI105	ginnastica mi ha offerto (.) un lavoro
 BOI105	come allenatore
 BOI105	inizialmente avevo (.) solamente
@@ -644,8 +644,8 @@ BOI105	però (.) ahm:
 BOI105	quando avevo circa undici anni
 BOI105	la società stava fallendo
 BOR034	ma dove andavi tu?
-BOR034	andavi sempre [alla @nomesocietà]?
-BOI105	[alla @nomesocietà]
+BOR034	andavi sempre [alla
+BOI105	[alla
 BOI105	sì [sì sì sì]
 BOR034	[okay]
 BOR034	mh[mh]
@@ -799,9 +799,9 @@ BOR034	comunque poi [hai ripreso ginnastica]
 BOI105	[era (.) bellissimo]
 BOI105	sì
 BOI105	dopo: m:h
-BOI105	dopo un po' di litigi diciamo col dirigente (.) della @nomesocietà
+BOI105	dopo un po' di litigi diciamo col dirigente (.) della
 BOI105	no è: eh lì: è su~ sono (.) andato ai campionati: italiani di squadra
-BOI105	okay quindi: la squadra della @nomesocietà la squadra
+BOI105	okay quindi: la squadra della la squadra
 BOI105	del sa~ del salerno [virtus] per (dire [c(io)è)]
 BOR034	[mhmh]
 BOR034	[mh]mh
@@ -821,7 +821,7 @@ BOI105	a me è venuta la tendinite
 BOI105	quindi c(io)è ma che facevo fatica a camminare
 BOI105	io mi son svegliato il giorno dopo mi sono alzato
 BOI105	e sono caduto perché non riuscivo a stare in piedi
-BOI105	lo dissi al dirigente della @nomesocietà che era lì
+BOI105	lo dissi al dirigente della che era lì
 BOI105	perché (insomma) ap[passionato] di atletica faceva atletica anche lui
 BOR034	[mhmh]
 BOI105	glielo dissi
@@ -1043,7 +1043,7 @@ BOI105	faceva le cotolette
 BOR034	sto pensando a natale io soprattutto sì sì le co[tolette (.) okay]
 BOI105	[cotolette:] pomodori grati[nati:]
 BOR034	[anche] quello lo faceva anche la mia sì
-BOI105	#e:: e bona e: no anche il bollito
+BOI105	# e:: e bona e: no anche il bollito
 BOR034	mh
 BOI105	mangiava[mo il] bollito perché quello che fa il brodo a casa mia (.) è babbo
 BOR034	[mhmh]
@@ -1071,7 +1071,7 @@ BOR034	[mhmh]
 BOI105	le cotolett[e:] qualche ver[durina] il bollito: (.) di babbo
 BOR034	[beh]
 BOR034	[sì sì sì]
-BOI105	#e: bona dolce
+BOI105	# e: bona dolce
 BOI105	dol[ce] tanto dolce
 BOR034	[dolce]?
 BOR034	mh
@@ -1185,7 +1185,7 @@ BOI105	((schiocco_con_lingua))
 BOI105	[no]
 BOI105	[io:] l'ultimo dell'anno sono stato qui a far festa con con i miei amici
 BOR034	mhmh
-BOI105	#e: e bona
+BOI105	# e: e bona
 BOI105	ehm: anche gli anni scorsi:
 BOI105	o amici o comunque stavo con
 BOI105	con mamma e [papà e] i miei fratelli

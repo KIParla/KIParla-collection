@@ -2,14 +2,14 @@ BOR025	okay
 BOR025	allora (aspe lo) metto qua,
 BOR025	eh in che zona di bologna vivi?
 BOI102	e:h vivo: qui vicino: ((ride)) dopo il ponte mazzini,
-BOI102	e: quindi vicino al lunetta gamberini in una traversa di @nomeluogo
+BOI102	e: quindi vicino al lunetta gamberini in una traversa di
 BOI102	e:
 BOI102	basta: mh
 BOR025	e è una zona che ti piace?
 BOI102	è molto bella è molto tranquilla non: ci sono un sacco di servizi
 BOI102	quindi: c'è il supermercato (.) qua
 BOI102	<e: anche parruchieri>
-BOI102	e::h il panificio che è buonissimo: in via @nomeluogo quindi: sì [è molto] bella come zona
+BOI102	e::h il panificio che è buonissimo: in via quindi: sì [è molto] bella come zona
 BOR025	[sì]
 BOR025	ehm:: pen~ cioè è collegata bene con il centro alla fine [xxxx]
 BOI102	[è collegata ben]e perché c'hai via emilia dove passano praticamente i principali il ventisette, [il novanta]cin~ il novantaquattro, il quindici, il diciannnove,
@@ -483,8 +483,8 @@ BOR035	[°od~°]
 BOI102	[poi non so] se siete vegetariane qu[indi]
 BOR025	[no]
 BOR035	no
-BOI102	((ride)) così evito di di [xx]
 BOR035	((ride))
+BOI102	((ride)) così evito di di [xx]
 BOR025	((ride))
 BOR035	[sì]
 BOI102	però
@@ -584,8 +584,8 @@ BOI102	>vabbè<
 BOR025	[e:h]
 BOR035	[altri pos]ti dove vai a mangiare invece?
 BOI102	[xx]
-BOI102	[altri po]sti dove vado a mangiare del cuore beh c'è è cucina leopardi,
 BOR035	[°del cuore?°]
+BOI102	[altri po]sti dove vado a mangiare del cuore beh c'è è cucina leopardi,
 BOR035	[mhmh]
 BOI102	[che mi pia]ce molto
 BOI102	perché fa:: tutto cibo molto biologico poi è sempre strano
@@ -1008,7 +1008,7 @@ BOI102	è che appunto c~ cerco (.) cioè io di solito la (.) agosto me lo faccio
 BOR035	eh no:
 BOI102	è (.) [un'agonia]
 BOR035	[parte che si svuota] la città
-BOI102	#è tutto chiuso, non c'è nessuno, c'è un caldo della madonna, però tanto devo lavorare quindi mi chiudo in ospedale e bona lì
+BOI102	# è tutto chiuso, non c'è nessuno, c'è un caldo della madonna, però tanto devo lavorare quindi mi chiudo in ospedale e bona lì
 BOI102	e però se scendo giù (.) ad agosto:,
 BOI102	e:h c(io)è per me è peggio perché non mi godo casa ze[ro]
 BOR025	[eh] im[magino]
@@ -1330,8 +1330,8 @@ BOI102	c(io)è mi mi guardate ma
 BOI102	non:
 BOI102	>cioè< sono molto pi[ù:]
 BOR025	[più] distaccati
-BOI102	[sì]
 BOR035	[non] non ti approcia[no]
+BOI102	[sì]
 BOI102	[z]ero
 BOR025	sai che anche la mia amica di roma dice sempre cos[ì]
 BOI102	[s]ì [sì sì sì]
@@ -1508,8 +1508,8 @@ BOI102	la differenza vera è che a bologna
 BOI102	bologna è più aperta è più accogliente e c'hai veramente tanto tanto tanto da fare
 BOI102	vivere a ferrara vivere a modena penso perché poi non ho
 BOI102	c(io)è (.) però
-BOI102	[vivere a fe]rrara era un po' come
 BOR035	[sì sì sì]
+BOI102	[vivere a fe]rrara era un po' come
 BOI102	vivere (.) giù
 BOI102	però con (.) le tradizioni del nord
 BOR035	esatto
@@ -1621,7 +1621,7 @@ BOI102	però::
 BOI102	però abbiam trent'anni la società ci impone dei cam[biamen]ti
 BOR025	[eh sì]
 BOI102	ora li vogliamo accettare? no io voglio ritornare in viaggio
-BOR025	#tomo
+BOR025	# tomo
 BOI102	((ride))
 BOR035	°brava°
 BOR025	((ride))

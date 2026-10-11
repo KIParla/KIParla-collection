@@ -116,7 +116,7 @@ TOR001	certo
 TOI073	anche perché ese~ i mie nonni avevano una drogheria in zona di mh
 TOI073	corso peschiera
 TOR001	mh mh
-TOI073	quando sono arrivati e hanno aperto passavano davanti e dicevano no no custi si sun napuli
+TOI073	# quando sono arrivati e hanno aperto passavano davanti e dicevano no no custi si sun napuli
 TOI073	eh e non entravamo poi col tempo insomma
 TOR001	certo
 TOI073	per cui se la sono scollata di dosso credo
@@ -568,8 +568,8 @@ TOI074	no va bene
 TOI072	peró una pizza tipo l'hamburger di chianina con le patatine insomma sui dodici euro quindici euro cioé abbastanza
 TOI074	ah che fame
 TOR001	cambiamo argomento
-TOI073	basta
 TOI072	no
+TOI073	basta
 TOI072	poi ci sono i tartufi i formaggi i vini
 TOI073	xxx
 TOI072	un sacco di cose
@@ -714,7 +714,7 @@ TOI073	decisamente una bella zona ma dal punto di vista della vita
 TOI073	eh serale o così non é
 TOI073	non c'é non c'era granché non ancora anche adesso non c'é granché in realtà cioé é attaccata a san salvario
 TOR001	mh mh
-TOI073	peró all' epoca san salvario scappa da sotto ecco
+TOI073	peró all'epoca san salvario scappa da sotto ecco
 TOI072	peró all'epoca san salvario esatto
 TOI074	cioé
 TOI073	era un quartieraccio il bronx tipo porta palazzo
@@ -1283,8 +1283,8 @@ TOR001	beh é molto bella come zona
 TOI073	é bellissimo il sermig
 TOI073	sei stata mai
 TOI074	no
-TOI073	andiamo
 TOI072	eh
+TOI073	andiamo
 TOI072	vai
 TOI073	andiamo
 TOR001	va bene

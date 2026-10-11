@@ -521,13 +521,13 @@ TOI005	io sono un po' nel limbo
 TOR001	beh però tipo
 TOR001	certo
 TOI005	di pensieri eh
-TOR001	mh mh mh hm certo
+TOR001	mh mh mh mh certo
 TOR001	però tipo rispetto ad altri lavori fare un lavoro come il tuo
 TOR001	cioè s~ hai in mano un mestiere
 TOI005	ma io son fiero di q~
 TOR001	eh cioè
 TOI005	ti dico io a differenza dei miei io~ dei miei operai non so un cazzo
-TOR001	mh mh mh hm
+TOR001	mh mh mh mh
 TOI005	io quello che so comunque sia
 TOI005	vede me quando non ci sono io magari dormono su certe cose
 TOR001	mh mh mh mh
@@ -1100,8 +1100,8 @@ TOR002	e adesso la vai a ricomprare la birra
 TOR001	vai a cagare va
 ???	beh comunque noi da quando viviamo insieme alla fine
 ???	beviamo birra praticamente a ogni cena
-???	xxxxx
 TOI005	oh birra e vivo in continuazio~
+???	xxxxx
 TOR002	ma io ultimamente bevo molto più vino che birra
 TOI005	anch'io
 TOR002	per un po' perché la birra mi gonfia
@@ -1167,8 +1167,8 @@ TOR001	cos'ha scoperto fichissimo
 TOI005	eh
 TOI005	però
 TOR002	ma quello a gettoni quello grosso
-???	sì sì
 TOI005	sì sì
+???	sì sì
 TOR001	beh figo aver la roba già asciugata
 TOI005	eh ma soprattutto per la mia roba di lavoro che lovi~ rovina la lavatrice vabbè
 TOR001	la lavatrice
@@ -1626,7 +1626,7 @@ TOI005	la differenza che ha è che
 TOR001	mi sa che ti ho fatto addormentare la gamba
 TOR002	si è tipo addormentata
 TOR001	sì
-TOI005	infatti l'ho visto con un' espressione di
+TOI005	infatti l'ho visto con un'espressione di
 TOI005	ho detto a questo gli sta venendo un ictus
 TOI005	minchia ma che cazzo s~ scusa fra
 TOI005	beh totalmente in negativo
@@ -2286,8 +2286,8 @@ TOI005	di un discorso che a me non piace
 TOI005	è un film di droga io no
 TOI005	vabbè ho dei problemi non riesco a guardarli dopo un po' mi
 TOR001	eh ma dai ma better call saul non è sulla droga
-???	no ma l'ho visto solo io lui non l'ha visto
 TOI005	no non lo so no quello quello non l'ho visto
+???	no ma l'ho visto solo io lui non l'ha visto
 TOR001	a me è piaciuto più better call saul
 TOI005	ah io sono da vikings
 ???	no io ne ho vista una
@@ -2353,8 +2353,8 @@ TOI005	quindi non è che fanno chissà
 TOI005	beh racconta anche bene
 TOR002	ma
 TOR002	ma a me dopo un po' cioè trovo sempre le solite
-???	sì ma noi xxxx
 TOI005	eh lo so però big bang theory è già
+???	sì ma noi xxxx
 TOI005	allora gli alti e bassi dopo nove anni di serie ci sta
 TOR001	eh certo
 TOI005	però big bang theory è un'opera d'arte
@@ -2428,8 +2428,8 @@ TOI005	però io tutti quelli che guardo sono della dc o della marvel
 TOI005	a me piacciono i super eroi
 ???	eh
 TOR002	vabbè xx
-???	poi ti chiede xxxxx xx
 TOI005	ma guarda punisher
+???	poi ti chiede xxxxx xx
 TOI005	ma guardati punisher è fighissimo è sanguinario
 TOR001	xxxx
 ???	xxxx
@@ -2551,8 +2551,8 @@ TOR002	ah thor
 ???	tre ore cioè
 ???	non so
 TOI005	se vieni a vedere fast and furious
-???	sì ma anche lì fast and furious sì ma
 TOI005	lo guardi fa c'è una tamarraggine da paura
+???	sì ma anche lì fast and furious sì ma
 ???	i primi an~ ancora ancora
 ???	ma dai questi ultimi porca troia cioè
 ???	e la macchina che salta nel vuoto con il fuoco no
@@ -2608,7 +2608,7 @@ TOI005	perché ci hanno messo becco
 TOI005	quelli della disney o chissà chi cazzo scrive
 TOI005	cioè guarda che l'attore di
 TOI005	che faceva luke
-TOI005	in un' intervista fa
+TOI005	in un'intervista fa
 TOI005	io in questo star wars non mi sono rispecchiato
 TOI005	in luke dei veri vecchi star wars
 TOR001	mh mh mh
@@ -2688,8 +2688,8 @@ TOI005	sono andato
 TOI005	dovevo andare ai linkin park la volta prima
 TOI005	ma qualcuno ha sbagliato i biglietti
 TOR001	come ha fatto a sbagliare i biglietti
-???	non lo so ho preso i green day
 TOI005	lasciam perdere
+???	non lo so ho preso i green day
 TOI005	le son piaciuti eh
 ???	stavamo anche da neanche un anno
 ???	ma io cioè fino al momento in cui glieli ho dati ero convinta
@@ -2751,8 +2751,8 @@ TOI005	perché n~ n~ ripeto la gente che gli suona intorno
 TOI005	sono artisti
 TOI005	e poi cosa eh poi
 ???	e poi
-???	eh tipo a marzo dell'anno scorso
 TOI005	xx siamo andati ai xx
+???	eh tipo a marzo dell'anno scorso
 ???	two cel~ cellos
 TOI005	two two cella~ two cellos
 TOI005	fanno schifo
@@ -2809,8 +2809,8 @@ TOR001	e dove han suonato
 TOI005	milano sempre
 TOR001	ah
 ???	sì
-???	non mi ricordo dov'era
 TOI005	tanto è tutto là
+???	non mi ricordo dov'era
 TOR001	ma un teatro o
 TOI005	no no no era il palazzetto
 TOR001	palazzetto
@@ -2875,8 +2875,8 @@ TOI005	era pieno come
 TOR001	era bello pieno
 TOR001	mh mh
 TOI005	però come canta ma va
-???	cantava è morto
 TOI005	allora
+???	cantava è morto
 TOI005	eh infatti eh
 TOR001	ma però tipo due mie amiche sono andate a vederlo l'ultima volta
 TOR001	cos'era monza o milano
@@ -2990,7 +2990,7 @@ TOI005	perché un vero cantante come loro loro han creato
 TOI005	quindi
 TOI005	eh ciò che
 TOI005	le can~ e te guardi le canzoni del cantante dei linkin park sono depres~
-TOI005	cioè cioè se le traduci ti suicidi
+TOI005	cioècioè se le traduci ti suicidi
 TOI005	però poi prima di giocare mi danno un bel caricato
 TOR001	le ultime domande son sul calcio segui il calcio
 TOI005	no cioè

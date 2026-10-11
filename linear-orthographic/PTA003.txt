@@ -95,8 +95,8 @@ TOI003	sì perché oggi c'è anche da affrontare
 TOI003	il cliente che non paga o ti paga quando può
 TOR001	certo
 TOI003	e tu se hai dei dipendenti
-TOI002	è un problema xxxxx
 TOR001	eh no certo
+TOI002	è un problema xxxxx
 TOI003	si fa si fa triste
 TOI003	io ho degli amici che eh a lavoro non è la prima che succede che prendono lo stipendio dopo tre mesi
 TOR001	mh mh mh mh mh
@@ -120,8 +120,8 @@ TOI002	ah ma quello xxxxxxx
 TOI003	questo per esperienza perché mi sono devastato il corpo praticamente
 TOI003	avrei voluto intraprende l'università
 TOR001	mh mh
-TOI003	per un periodo
 TOI002	no questa è più bella del fisioterapista però
+TOI003	per un periodo
 TOI003	cosa
 TOI003	guarda che io gli ultimi anni di scuola che avevo messo la testa a posto assolutamente io ho detto boh
 TOI002	xxx
@@ -139,26 +139,26 @@ TOR001	mh mh mh
 TOI003	non s~ passano dei decenni passano
 TOI003	i miei amici che dopo l'isef hanno finito
 TOI003	sono a lavorare nove ore nelle palestre
-TOI003	chi è fortunato a ottocento euro al mese
 TOR001	mh mh mh
+TOI003	chi è fortunato a ottocento euro al mese
 TOR001	eh sì
 TOI003	nove ore
-TOI002	se sei fortunato in palestra ottocento euro al mese
 TOR001	mh mh mh mh mh
+TOI002	se sei fortunato in palestra ottocento euro al mese
 TOR001	mh mh
 TOI003	io quando andavo c'avevo un mio aico che faceva personal trainer era
 TOI003	scandaloso
 TOR001	no certo
 TOI003	stare nove ore lì dentro
 TOI003	e prendere una paga simile
-TOI003	dopo
 TOR001	mh mh mh mh
+TOI003	dopo
 TOI003	tutti gli anni di di studi e soldi che hai speso perché oggi
 TOI003	basta avere
 TOI003	una famiglia che porta due stipendi a casa
 TOI003	la tua tassa scolastica
-TOI003	va alle stelle
 TOR001	mh mh
+TOI003	va alle stelle
 TOI003	io quando
 TOI003	quando ho fatto la cosa per iscrivermi all'un~ all'università io pagavo qualcosa come
 TOI003	avrei dovuto pagare
@@ -231,8 +231,8 @@ TOI002	minchia uno opposto all'altro
 TOR003	che tra l'altro
 TOR003	scoperto che i nostri siamo dello staeeso paesino della lucania di cinquecento abitanti sia mio nonno era di lì
 TOR001	mh
-TOR003	e anche tua mamma
 TOR001	sia mia nonna
+TOR003	e anche tua mamma
 TOI002	dov'è che era
 TOR001	di nomepaese
 TOR003	nomepaese
@@ -265,42 +265,42 @@ TOR001	a bergamo e pavia
 TOI003	ah a bergamo
 TOI003	ho capito
 TOR001	sì
-TOI002	a nomepaese studiavo
 TOR001	dimmi
+TOI002	a nomepaese studiavo
 TOR001	anche
 TOI003	ma una persona che intraprende i tuoi studi
 TOR001	sì
-TOI002	che lavoro vuole fare
 TOR001	che problemi ha ah
+TOI002	che lavoro vuole fare
 TOI002	inerente allo studio ovviamente
 TOR001	eh sì
 TOR001	mah possiamo chiederlo anche a andrea perché tanto anche lui
+TOI002	esatto
 TOR003	beh sì anche io
 TOI002	esatto
-TOI002	esatto
 TOR003	vabbè in teoria dopo ci carriera accademica e andare avanti però non è che sia
-TOR003	vabbè faccio quello ho deciso via e insomma
 TOI002	sempre in università
+TOR003	vabbè faccio quello ho deciso via e insomma
 TOR003	bello complicato
 TOR003	se si riesce bene se no
 TOR003	ci si inventerà qualcos'altro
 TOR003	non lo so neanch'io cosa quindi siamo
 TOR001	mh
 TOI002	ti assumo io andre
-TOR003	vai x
 TOI002	basta che rimani qua a torino
+TOR003	vai x
 TOR003	x un posto ce l'ho
 TOI003	io noto una confusione generale in tutte le persone che finiscono di laurearsi
 TOR001	eh sì sì sì no ma è vero
 TOI003	una confusione generale
-TOI003	capisco poi quelli che poi magari vanno all'estero perché magari
 TOR001	sì sì sì
+TOI003	capisco poi quelli che poi magari vanno all'estero perché magari
 TOI003	gli altri paesi offriranno d~ dei posti di lavoro che noi magari n~ non conosciamo neanche l'esistenza e
 TOR001	mh mh mh mh
-TOI003	perché se no veramente al mcdonald vedi i laureati come la leggenda dice che i laureati vanno al mcdonald
 TOI002	xxx xxx
-TOI003	perché alla fine mcdonald paga
+TOI003	perché se no veramente al mcdonald vedi i laureati come la leggenda dice che i laureati vanno al mcdonald
 TOR001	mh mh mh mh
+TOI003	perché alla fine mcdonald paga
 TOR001	eh sì infatti
 TOI003	neanche poco
 TOR001	sì sì
@@ -330,16 +330,16 @@ TOI002	eh là diventi professionista là diventi professionista
 TOI003	seguono i ragazzi dal college una cazzata nel calcio
 TOI003	nel calcio in inghilterra c'è la cultura che le squadre professionistiche
 TOI003	si appoggiano ai college
-TOI002	sì ma x
 TOR001	mh mh
+TOI002	sì ma x
 TOI003	quindi tu mentre stai studiando e stai facendo
 TOI003	pallavolo o cacio o basket
 TOI003	loro hanno gli occhi lì
-TOI003	infatti c'è una cultura devastante che noi non vediamo neanche
 TOR001	mh mh
+TOI003	infatti c'è una cultura devastante che noi non vediamo neanche
 TOI002	ma è quello il problema l'italia è formata malissimo per quello
-TOI003	si sono persi i valori secondo me
 TOI002	x
+TOI003	si sono persi i valori secondo me
 TOI002	poi se tu a tipo in america cazzo n~ non hai studiato non hai fatto niente quello fai non è che ti puoi inventare eh in ital~ noi siam troppo
 TOI002	il nostro è un paese dei furbi
 TOI002	cioè sei tu sei furbo anche non hai studiato non hai fatto un cazzo vai avanti
@@ -367,8 +367,8 @@ TOI002	michia frank matano è diventato famoso così fedez è diventato famoso c
 TOI003	eh fare il coglione le visualizzazioni tutto gira intorno alle visualizzazioni
 TOI002	tutti youtuber c'è un cazzo da fare
 TOR002	eh però di quelli c'è chi ne fa proprio un lavoro
-TOI003	ah ma lo youtuber oggi oggi è un lavoro eh lo youtuber
 TOI002	sì xxx
+TOI003	ah ma lo youtuber oggi oggi è un lavoro eh lo youtuber
 TOR002	ci guadagna anche
 TOR002	cioè poi secondo me c'hai diecimila coglioni che non ci guadagnano un euro e perdono tempo
 TOI002	eh però chi becca
@@ -416,14 +416,14 @@ TOR001	adesso lo cerco su google per fare questo
 TOI003	ma chi chi chi frank matano non sai chi sia
 TOR001	sì eh no
 TOI002	non sai chi è x
-TOR003	x
 TOI003	ma l'avrai visto alle iene l'avrai visto a italia's got talent
+TOR003	x
 TOR001	adesso lo cerco
 TOI003	ma figurati eh
 TOR001	ah no non
 TOI003	è un volto noto ormai della televisione
-TOR002	x i video vecchi
 TOR001	cercamelo tu
+TOR002	x i video vecchi
 TOR003	te lo c~ te lo cerco io
 TOI002	minchia frank matano cacchio
 TOI002	vedi che siamo vecchi noi
@@ -444,8 +444,8 @@ TOI003	lo conosce mia mamma che ha sessant'anni
 TOR001	certo
 TOI003	e fa l'opinionista a italia's got ha contratto
 TOI002	no no lui sce~ sce sceglie i talenti non fa l'opinionista
-TOI003	quelli lì che d~ quelli lì che decidono eh ho cap~ un giudice chiamalo come vuoi opinio~
 TOI002	lui è x
+TOI003	quelli lì che d~ quelli lì che decidono eh ho cap~ un giudice chiamalo come vuoi opinio~
 TOI002	eh il giudice xxx un giudice frank matano
 TOI003	è un giudice xxx un giudice
 TOI002	infatti una volta è arrivato uno per cantare gli fa ma tu mi devi giudicare che
@@ -453,8 +453,8 @@ TOI003	lui si è sempre presentato come youtuber
 TOI003	non è che dici
 TOI002	però ha fatto un botto di film eh
 TOI003	gli altri sono veramente cantanti attori
-TOI003	no
 TOR001	mh mh
+TOI003	no
 TOR001	sì han fatto x
 TOI003	youtuber
 TOI003	tu non sei nessuno domani io mi iscrivo a youtube incomincio a fare il coglione sono youtuber ecco
@@ -492,8 +492,8 @@ TOR001	allora eh non c'entra niente con
 TOI002	prima di tutto un'intervista spettacolare
 TOI002	quand'è triste se la sente tutti i giorni
 TOI002	è come il tuo video del mio compleanno che io mi guardo quando sono triste
-TOI003	io io so già
 TOI002	quello della macchina
+TOI003	io io so già
 TOI003	io so già che quella roba lì va su internet e io devo querelare qualcuno pesantemente
 TOI003	perché
 TOI002	quello del tu~ del mio compleanno del tuo video xx
@@ -556,8 +556,8 @@ TOR001	mh mh
 TOI002	e molto
 TOI002	come dire crollo del lavoro dopo e poi ripresa dopo
 TOR001	dopo
-TOI003	c'è stata anche la gestione poi de~ d~
 TOI002	o comunque x
+TOI003	c'è stata anche la gestione poi de~ d~
 TOI002	sì
 TOI003	di torino che
 TOI003	ha fatto un po' di buchi nell'acqua
@@ -570,15 +570,15 @@ TOI002	no però si è arricchita parecchio con le olimpiadi a pa~ guarda prima n
 TOI003	a partire da esperimenta
 TOI003	a partire da un macello di cose che io mi ricordo quando andavo a scuola potevi fare
 TOI003	un casi~ era diventata la città delle delle mh
-TOI003	del libro e poi l'ha spostata a milano
 TOI002	madò ma prima tu vede~ madò ma tu prima vedevi turismo a torino
+TOI003	del libro e poi l'ha spostata a milano
 TOI002	quando eri piccolo
 TOI003	era pieno
 TOI002	prima
-TOI003	guarda che
 TOI002	prima delle olimpiadi
-TOI003	no prima delle olimpiadi no
+TOI003	guarda che
 TOI002	vuoi scherzare minchia dopo le olimpiadi
+TOI003	no prima delle olimpiadi no
 TOI002	io l'altro giorno passeggiavo via po per lavoro
 TOR001	mh mh
 TOI003	sì da dopo le olimpiadi è x
@@ -601,8 +601,8 @@ TOI002	minchia togli quel cazzo di no ma x x
 TOR001	sono di milano
 TOI002	ah sei di milano
 TOI002	sei di milano
-TOI003	io ci vado due volte al mese
 TOI002	no fa caga~ sinceramente sei a torino
+TOI003	io ci vado due volte al mese
 TOI002	non è più bello il ce~ non è più bello il centro di torino di quello di milano
 TOR003	infatti si è trasferita a torino
 TOR001	no è molto bella torino
@@ -614,19 +614,19 @@ TOR001	eh lo so
 TOI002	no scherz~ ma poi proprio togli che
 TOI002	traffico cose tutto e cazzate va~ ma è proprio cioè brutta
 TOI002	c'è un cazzo
-TOI002	cioè c'è via montenapoleone eh que~ io non capisco veramente milano non non la co~ concepisco come città
 TOR001	vabbè
+TOI002	cioè c'è via montenapoleone eh que~ io non capisco veramente milano non non la co~ concepisco come città
 TOI003	piazza duomo
 TOI002	poi sai torino cos'ha di positivo
 TOR001	mh
 TOI002	tu che sei di mi~ milano è fatta a cerchio no
 TOR001	sì
 TOI002	minchia giraci
-TOI002	torino è spo~
 TOR001	eh per me è più facile
+TOI002	torino è spo~
 TOI002	più fa~ minchia torino è quadrata cazzo come fai a torino non ti puoi mai perdere
-TOI003	xx quadra~ un quadrato
 TOR001	xxx
+TOI003	xx quadra~ un quadrato
 TOI002	no se non sei di torino non ti perdi mai eh
 TOR001	no io mi perdo sempre a torino
 TOI002	cioè torino
@@ -636,13 +636,13 @@ TOI002	ah eh
 TOI002	no però capisco
 TOI003	noi noi siamo schiavi della tecnologia quindi anch'io giro solo col navigatore giro
 TOI002	no io io non ho mai usato il navigatore in vita
-TOI003	quindi n~ no~ non si sviluppa poi il senso
 TOI002	lo uso come un xxx tipo casa tua non la conoscevo ho messo il navigatore però ho visto dov'era ho detto boh ci arrivo in due minuti capito lo metto poi quando sono
+TOI003	quindi n~ no~ non si sviluppa poi il senso
 TOR001	più o meno
 TOI002	però io non uso mai il navigatore minchia torino
 TOI002	è quadrata cioè dal centro alla periferia è tutto qudrato non ti puoi mai perdere è impossibile perde~ cioè se hai un po' di intelligenza
-TOI002	eh sì di come si dice di toponomastica
 TOR001	spaziale
+TOI002	eh sì di come si dice di toponomastica
 TOR001	sì sì x
 TOI003	no di orientamento
 TOI003	vabbé ovvio anch'io
@@ -652,15 +652,15 @@ TOI003	loro erano obbligati a sviluppare quel senso di orientamento
 TOI002	ah se tu parti da piazza castello così
 TOI002	così sono i corsi princi~ le vie principali e poi da là si fa tutto così con le è tutto quadrato non puoi perderti
 TOI002	minchia milano prendi il duomo
-TOI002	tutto a cerchio
 TOR001	eh son due giri
+TOI002	tutto a cerchio
 TOR001	due cerchi sono la circonvallazione interna e quella esterna
 TOI002	eh ma valla a trovare x uno stronzo mi~ vuoi mettere un quadrato o un cerchio michia
 TOI002	non ce n'è cacchio è quadrato è quatrato è quello
 TOI003	no comunque non ho capito che cosa ti rimane in mano
 TOR001	da davanti
-TOI003	dal~ dalla nostra intervista
 TOR001	di questo
+TOI003	dal~ dalla nostra intervista
 TOR001	questo non c'entra col col mio lavoro che faccio di solito stiamo raccogliendo dati con l'università di torino
 TOR001	cioè stiamo intervistando lavoratori torinesi
 TOR001	per cui mi interessano informazioni relative al lavoro
@@ -703,8 +703,8 @@ TOI003	peggiorerà la situazione da fare schifo
 TOI003	io sono il primo a usufruire di amazon eh
 TOR001	mh mh
 TOI003	alla fine ognuno guarda le proprie tasche
-TOI003	però chi viene penalizzato
 TOR001	eh sì
+TOI003	però chi viene penalizzato
 TOI003	è il commerciante
 TOR001	certo
 TOI003	eh
@@ -763,8 +763,8 @@ TOI003	no no no non la lascerei mai troppo innamorato
 TOR001	ma neanche per un periodo appunto
 TOI003	mh mah po~
 TOI003	non c'ho mai pensato
-TOI003	forse perché
 TOR001	ma
+TOI003	forse perché
 TOI003	non mi si è mai presentata l'occasione
 TOR001	l'occasione certo
 TOR001	ehm beh la domanda dopo era ti trasferiresti all'estero per lavorare ma mi sa che mi avete già risposto
@@ -781,16 +781,16 @@ TOI003	io praticamente sì da venticinque anni
 TOI003	prima anch'io
 TOI003	ero in barriera di milano ma ero piccolo quindi
 TOR001	mh mh
-TOI003	vaghi vaghi ricordi
 TOR001	e ades~ poi ti sei okay
+TOI003	vaghi vaghi ricordi
 TOR002	che parte di barriera
-TOI002	io piazzale @nomeluogo
+TOI002	io piazzale
 TOI003	via
 TOR002	noi stavamo in via luogo prima
 TOI002	ah okay aspetta dov'è già
 TOR002	via è dove c'è af~ v~ attaccata al lidl praticamente
-TOI002	ah ho capito sì sì sì sì sì sì sì sì sì sì sì
 TOR001	è la prima traversa di via aosta
+TOI002	ah ho capito sì sì sì sì sì sì sì sì sì sì sì
 TOI003	dalle parti del centro xx
 TOI002	sì più o meno sì
 TOI002	corso novara
@@ -813,8 +813,8 @@ TOR001	avete frequentato le scuole nel quartiere in cui vivete
 TOI002	sì
 TOI002	chi cazzo c'aveva voglia di
 TOI003	sì e~ elementa~ elementari e medie sì
-TOI002	io ho fatto ragioneria solo per quello
 TOR001	tutto lì
+TOI002	io ho fatto ragioneria solo per quello
 TOI002	perché era vicino casa
 TOI003	sì è vero anch'io scuole sempre vicine meraviglioso
 TOR001	e i vostri amici della scuola vivono sempre lì intorno
@@ -823,8 +823,8 @@ TOR001	si son spostati tutti
 TOI003	alle a
 TOI003	i miei compagni alle alle superiori gente che veniva dal canavese anche
 TOR001	mh
-TOI003	ah no
 TOR001	da fuori
+TOI003	ah no
 TOI003	quello sì sì
 TOR001	ehm vi piace la zona in cui vivete
 TOI003	la migliore di torino secondo me
@@ -912,8 +912,8 @@ TOR003	adesso
 TOI002	eh minchia è tre anni che c'è la metro a rebaudengo
 TOI002	cioè si chiama rebaudengo ma è praticamente
 TOR003	ah no nel senso che è xxx
-TOR003	cioè di cioè
 TOI002	sì è dietro
+TOR003	cioè di cioè
 TOI002	c'hai presente corso grosseto
 TOR003	eh
 TOI002	e via breglio
@@ -927,8 +927,8 @@ TOI002	vabbò tanto a me cazzo me ne frega devo andare in macchina quindi
 TOI002	non è che mi cambia
 TOI002	eh
 TOR001	e quindi cosa miglioreresti del tuo quartiere
-TOI002	eh
 TOR001	a parte la la la bomba in corso giulio
+TOI002	eh
 TOI002	no la metro la metro
 TOI002	quello sì
 TOR001	la metro
@@ -943,8 +943,8 @@ TOI003	anche quello se vuoi se vuoi
 TOI003	anche quello basta conoscere
 TOI003	sì
 TOI003	tutto tutto
-TOI003	trovi tutto
 TOR001	okay
+TOI003	trovi tutto
 TOI002	ah sì trovi tutto
 TOI002	ma penso che in quasi tutte le zone di torino trovi tutto
 TOR001	mh mh mh
@@ -977,8 +977,8 @@ TOI003	stabilito un campo rom
 TOR001	mh mh
 TOI003	eh ovviamente quando fai i reclami al comune
 TOI003	sì sì
-TOI003	va bene
 TOR001	mh mh
+TOI003	va bene
 TOI003	quindi c'è molto fai da te
 TOR001	mh mh
 TOI003	quindi
@@ -990,7 +990,7 @@ TOR001	il quartiere stesso
 TOI003	sì sì sì il quartiere stesso sì sì
 TOR001	come ha fatto
 TOI003	eh
-TOI002	mazzete
+TOI002	# mazzete
 TOI003	con eh con brutti gesti
 TOI003	con brutti gesti
 TOI003	andavano c'era
@@ -1005,8 +1005,8 @@ TOR001	ad andarsene
 TOI003	era l'unico modo per fare le cose in fretta
 TOR001	mh mh
 TOR001	torino è cambiata molto negli ultimi anni
-TOI002	sì
 TOR001	secondo voi
+TOI002	sì
 TOR001	in bene o in male
 TOR001	cioè che impressioni avete
 TOI002	ma io sempre in bene
@@ -1016,8 +1016,8 @@ TOR001	mh mh
 TOR001	mh mh
 TOI003	la movida si è dimezzata
 TOI002	la movida sì
-TOI003	perché con i murazzi
 TOI002	x
+TOI003	perché con i murazzi
 TOR001	mh mh
 TOI003	come ti dicevo che veniva gente da fuori
 TOI003	murazzi era una zona spettacolare perché eri
@@ -1025,12 +1025,12 @@ TOI003	in piazza vittorio scendevi
 TOI003	avevi
 TOI003	dodici locali da sceglierti
 TOI003	dove non pagavi l'ingresso ti
-TOI003	bevevi quello che volevi c'era la musica
 TOR001	mh mh
+TOI003	bevevi quello che volevi c'era la musica
 TOI003	eh adesso non c'è più niente
 TOI003	due locali su dodici
-TOI003	ne han tenuti aperti
 TOR001	mh mh
+TOI003	ne han tenuti aperti
 TOI003	quindi quella roba lì ha perso tanto
 TOR002	adesso dicono che diventerà la zona di lusso quella
 TOI002	x
@@ -1040,8 +1040,8 @@ TOI003	però
 TOI002	eh dai x
 TOR002	no in realtà si son lamentati per il casino secondo me
 TOI002	vabbò ma c'è casino in piazza vittorio là sotto mica si sente
-TOI003	mh
 TOR001	mh mh
+TOI003	mh
 TOI002	ma è più che altro x
 TOI003	che poi
 TOI003	non era discoteche che uno dici si sente vibrare sei sotto
@@ -1066,13 +1066,13 @@ TOR001	mh mh mh
 TOI003	quando io sono andato c'era una zona che m~ non non mi ricordo come si chiamava
 TOI003	era uguale ai murazzi
 TOR001	mh mh
-TOI003	entravi locali
 TOI002	non è piazza x
+TOI003	entravi locali
 TOI002	pi~ piazza dei fiori là sotto vero
 TOI002	non mi ricordo
 TOI003	e anche là sono vicini al tevere quindi potrebbe capitare anche a loro
-TOI003	solo che là non hanno mai chiuso
 TOR001	mh mh
+TOI003	solo che là non hanno mai chiuso
 TOI003	quella è una zona di roma che devi per forza frequentare quando la vai a vedere
 TOR001	mh mh mh
 TOI003	ed è bellissima
@@ -1114,15 +1114,15 @@ TOI003	giochiamo a ca~ x
 TOI002	io ho ta~ io ho tanto tempo libero
 TOI003	tu conosci la x
 TOI002	io ho tanto tempo libero
-TOI003	giochiamo a calcio
 TOR001	gio~ giocate a calcio
+TOI003	giochiamo a calcio
 TOI002	calcio io faccio palestra anche
 TOI003	giochiamo a calcio
 TOR001	okay
 TOI003	giochiamo a calcio e se~ il tempo libero cosa potrebbe essere il weekend e fine fine settimana
 TOI002	ci ubriachiamo
-TOI003	magari vai in qualche locale
 TOI002	ci devastiamo
+TOI003	magari vai in qualche locale
 TOI003	fai un po' di festa
 TOI003	tempo libero è ben poco
 TOI003	io sto fuori dodici ore di casa
@@ -1150,8 +1150,8 @@ TOR003	ormai neanch'io
 TOI003	sono il tappabuchi
 TOI002	andre è il tappab~ andre xxx
 TOI003	anche andre
-TOI002	minchia è devastante
 TOR001	x poveretto
+TOI002	minchia è devastante
 TOI002	io portiere quindi io solo quello posso fare
 TOR001	ah quindi sei sei tranquillo
 TOI002	io sono tranquillo
@@ -1180,8 +1180,8 @@ TOI003	x
 TOR003	col centrocampo in coppa
 TOI002	ah in coppa
 TOR002	minchia esiste ancora il centrocampo
-TOR003	sì sì
 TOI003	sì sì sì
+TOR003	sì sì
 TOI002	io ci giocavo
 TOI003	è in terza è retrocesso noi siamo in seconda
 TOI002	da piccolino
@@ -1202,8 +1202,8 @@ TOR001	vivendo a torino
 TOI003	assolutamente
 TOR001	è una vita difficile vero
 TOI003	no ne~
-TOI002	cazzo a lui glielo dici minchia a me x più difficile a me porca troia
 TOR001	ma insomma
+TOI002	cazzo a lui glielo dici minchia a me x più difficile a me porca troia
 TOI003	eh
 TOI002	minchia a lui glielo dici
 TOI003	noi abbiamo il milan club che parte da moncalieri
@@ -1219,8 +1219,8 @@ TOI003	ti pare che ho una faccia da tribuna io
 TOI003	gol
 TOI003	no no
 TOI003	il cannone più piccolo è lungo così
-TOI003	sì sì sì
 TOR001	e dov'è la parte de~ del del del torino
+TOI003	sì sì sì
 TOR001	cioè da
 TOR001	mh in quale parte della curva ci sono i tifosi di torino
 TOI003	allora
@@ -1230,11 +1230,11 @@ TOI003	hai un bandierone gigantesco
 TOR001	mh
 TOI003	con scritto
 TOI003	eh in giallo in giallo e nero in mezzo alle
-TOI003	le righe rossonere
 TOR001	mh
+TOI003	le righe rossonere
 TOI003	torino
-TOI003	scritto sempre in giallo
 TOR001	mh mh
+TOI003	scritto sempre in giallo
 TOI003	e quello lì praticamente hanno
 TOI003	s~ hanno occupato una transenna che saranno
 TOI003	penso
@@ -1295,25 +1295,25 @@ TOI002	non vivrei mai a napoli non scherzare
 TOI002	cioè napoli o ci nasci o non ci puoi vivere
 TOR001	ah ah
 TOI002	quindi
-TOI002	la fede calcistica
 TOR001	beh eh e il napoli lo vedi quando viene qua quindi
+TOI002	la fede calcistica
 TOI002	eh poche volte quando x quando c'era il no quando c'è il toro vado quando c'è la juve è quasi impossibile
 TOI003	neanche
-TOI003	come milano
-TOI002	il juventus sta~
 TOR001	mh
+TOI002	il juventus sta~
+TOI003	come milano
 TOI003	come eh è tempestata di gobbi
 TOR001	mh
-TOI003	a milano è piena di gobbi eh
 TOR001	piena piena piena
+TOI003	a milano è piena di gobbi eh
 TOI002	l'ultimo juve napoli che ho visto era allo stadio vecchio
 TOR001	ah figurati certo infatti
 TOI002	eh perché dopo non trovi più i bi~ minchia a torino a allo juventus stadium non trovi mai i biglietti
 TOR002	con lo stadio nuovo è un casino
 TOI002	non trovi mai i biglietti
 TOR002	xxx
-TOI003	che non è grossissimo
 TOI002	quasi tutte le volte le volte che sono andato allo stadio ho preso le bo~ ho quasi rischiato di prendere le botte io ho abbandonato tutto
+TOI003	che non è grossissimo
 TOR001	e come mai tifi napoli tu
 TOI002	e siam tutti na so~
 TOR001	ah sei non ho guardato
@@ -1337,13 +1337,13 @@ TOR001	ehm
 TOR001	non lo so a cui associate
 TOR001	la scelta della vostra squadra
 TOI002	guarda ti sembra una cazzata
-TOI003	io ho iniz~ io ho iniziato a tifare che il milan faceva schifo
 TOI002	ma
+TOI003	io ho iniz~ io ho iniziato a tifare che il milan faceva schifo
 TOR001	mh mh
 TOI003	faceva proprio schifo
 TOI002	tu
-TOI003	come adesso
 TOI002	minchia io che cazzo devo dire
+TOI003	come adesso
 TOI003	come ade~ come adesso come adesso
 TOI003	poi c'è stato quel gol leggendario di shevchenko alla juve
 TOR001	mh mh
@@ -1354,8 +1354,8 @@ TOI003	gente come josè mari e javi moreno
 TOR001	josè mari cazzo
 TOI002	oh ma allora minchia
 TOI003	quindi
-TOI002	cazzo
 TOR001	beh ma non era così male
+TOI002	cazzo
 TOI002	eh
 TOI002	no ma non eri neanche così non erano neanche non eri neanche così piccolo
 TOI003	quindi sesti in campionato
@@ -1374,10 +1374,10 @@ TOI002	eh cazzo infatti
 TOI003	una
 TOR001	eh anc~ eh perché nel frat~
 TOR003	ma anche mio fratello ha fatto così
-TOR003	lui a fino a
 TOR001	più tardi
-TOR003	quattordici quindici anni seguiva il calcio gli chiedevo che squadra sei
+TOR003	lui a fino a
 TOI003	sì è vero
+TOR003	quattordici quindici anni seguiva il calcio gli chiedevo che squadra sei
 TOI003	sì sì sì anch'io non è non è che
 TOR003	diceva ah non lo so non mi interessa poi
 TOI003	sì
@@ -1394,8 +1394,8 @@ TOI002	in centro a torino
 TOR001	minchia
 TOI002	in centro a torino eravamo andati a festeggiare
 TOI003	eh tanto minchia è pieno
-TOI003	ho visto minchia
 TOI002	eh infatti era strapie~ sembrava napoli x
+TOI003	ho visto minchia
 TOI003	milan napoli mi sembrava di essere al san paolo ha segnato il napoli minchia tutti t~
 TOI003	siamo rimasti eh giochiamo fuori casa per caso tut~
 TOI003	tutto il
@@ -1410,11 +1410,11 @@ TOI002	anzi è anche il primo anzi un altro ricordo che ho è taglialatela che p
 TOI003	e bene
 TOI003	sì
 TOR001	e tu invece tardi
-TOI003	mh
 TOR001	dicevi quattordici anni
+TOI003	mh
 TOI003	sì sa~ eh quegli anni lì dove c'erano josè mari e javi moreno
-TOI003	avrò
 TOR001	javi moreno cazzo
+TOI003	avrò
 TOR001	avevo rimosso dalla mia memoria
 TOI003	eh invece no
 TOI002	che squadra di merd~ chi c'era terim c'era
@@ -1433,8 +1433,8 @@ TOI003	la juve dell'epoca
 TOI003	un po' come adesso
 TOR001	madonna non lo so com'è adesso
 TOI003	mh
-TOI003	x
 TOI002	poi io mi guardavo napoli lanciano in c uno
+TOI003	x
 TOI002	non andavo allo stadio ma la guardavo in tivù
 TOI002	minchia la prima la prima di campionato napoli lanciano
 TOI003	bene
@@ -1476,8 +1476,8 @@ TOI003	eh con la radiolina minchia
 TOI003	clamoroso
 TOI002	na~
 TOI003	xxx perché ovviamente lo spogliatoio
-TOI003	formato da ottanta per cento di gobbi
 TOR001	certo
+TOI003	formato da ottanta per cento di gobbi
 TOI003	ah eh allenamento si fa mercoledì non giove~
 TOI003	ma vaffanculo
 TOI002	vero
@@ -1492,8 +1492,8 @@ TOR003	no ah una una sola volta l'abbiam guardata insieme
 TOI002	l'abbiam guardata insieme forse una vo~
 TOI002	giacomo è dell'inter
 TOR003	giacomo è dell'inter
-TOI003	ma veramente
 TOI002	ho capito tutto adesso
+TOI003	ma veramente
 TOI003	ma veramente
 TOI002	giacomo è interi~
 TOR003	ma giacomo non li sposta gli allenamenti li li cancella direttamente
@@ -1514,24 +1514,24 @@ TOI002	la maggior parte cioè la maggior parte il novanta per cento le ho viste 
 TOR001	mh mh mh
 TOI003	io se riesco a trovare lo spazio tra
 TOI003	calcio e ragazza ci ficco lo stadio
-TOR003	xxxx
 TOI003	se poi
+TOR003	xxxx
 TOR003	che è proprio diverso cioè se vai allo stadio non ci vai neanche tanto per vedere la partita in sé
 TOR003	cioè se devo vedere la partita alla fine la capisco di più dal
-TOR003	dalla tivù io però lo stadio è proprio un'altra cosa cioè è proprio
 TOI003	vabbè da casa sì ovviamente eh sì è più
-TOR003	cioè così
+TOR003	dalla tivù io però lo stadio è proprio un'altra cosa cioè è proprio
 TOI002	il gol allo stadio è un'emozione capito non è che
+TOR003	cioè così
 TOR001	certo
 TOR003	io ho visto milan barça dove abbam visto due a zero in curva
 TOI003	madonna
 TOI002	io ho visto l~ l'ultimo juve napoli che ho visto è finito
 TOI002	due a zero per loro o tre a due per noi son dovuto scappare che mi arrivava una coltellata
 TOR002	ma adesso l'hanno proprio tolta la tessera del tifoso
-TOI003	c'è la
 TOI002	no c'è ancora
-TOI003	c'è l'intenz~ eh c'è l'intenzione però è ancora valida
+TOI003	c'è la
 TOI002	fidelitiy card cosa c'è
+TOI003	c'è l'intenz~ eh c'è l'intenzione però è ancora valida
 TOI003	è ancora valida tu i biglietti
 TOI003	i biglietti per acquistarli
 TOI003	c'è ancora
@@ -1608,8 +1608,8 @@ TOR001	no no infatti
 TOI003	certo che se io ero tifoso della juve e là in curva mi fai pagare cinquecento euro col cazzo vado
 TOR001	così tanto
 TOI003	sì
-TOI003	prima
 TOI002	no quattro no però x cinquecento no
+TOI003	prima
 TOI003	cosa
 TOI003	cinque l~ è aumentato di cent~
 TOI002	tre e ottanta
@@ -1689,8 +1689,8 @@ TOI002	poi gestiscono tutto però
 TOI003	eh lo so
 TOI003	il servizio eh per carità
 TOI002	hanno un rientro da paura eh
-TOI003	il servizio è bello
 TOI002	hanno un rientro da paura
+TOI003	il servizio è bello
 TOI003	bisognerebbe poi vedere
 TOR002	il vecchio delle alpi era più bello però
 TOI002	eh
@@ -1710,8 +1710,8 @@ TOI002	vai a vedere adesso
 TOR001	mh mh
 TOI002	minchia adesso
 TOI003	porco giuda binocolo
-TOI003	è un po' come il nostro terzo anello
 TOI002	adesso è sfruttato
+TOI003	è un po' come il nostro terzo anello
 TOI003	però c'è da dire che il terz~ eh milano
 TOI003	è fatto proio b~ eh è fatto tipo a teatro non è che si allarga sei lì
 TOI002	vabbò io l'ho vista x
@@ -1786,8 +1786,8 @@ TOI002	adesso xx
 TOI003	dietro le porte dio fa minchia
 TOI002	ah dietro le porte sì ma x la pista minchia la pista
 TOI003	oh
-TOI003	no sì no non è propio pista
 TOI002	ti piglia un botto che cazzo minchia la pista è la peggio x
+TOI003	no sì no non è propio pista
 TOI003	però le curve tutto quello spazio là dove c'è il toro animale quando vanno a segnare vanno sotto la curva e vanno
 TOI002	sì che c'è in mezzo in mezzo sì
 TOI003	prendono il pullman
@@ -1810,8 +1810,8 @@ TOI003	godo
 TOI003	tutte le volte che m'hanno lasciato fuori
 TOI002	cacao pick up
 TOI003	minchia era la era un'umiliazione andare al cacao
-TOI003	arrivavi e c'era
 TOI002	entro
+TOI003	arrivavi e c'era
 TOI003	dopo tutta la coda che ti facevi
 TOI003	dritto per l'ingresso sinistra per per i balzati no
 TOI003	ciao
@@ -1864,16 +1864,16 @@ TOI002	il cacao eh il pick up è più bello
 TOI003	non scherzare
 TOI002	qual è il più bello
 TOI003	white moon d'estate è molto bello
-TOI003	è tutto all'aperto
 TOI002	eh sì ma eh mo è nata white moon
+TOI003	è tutto all'aperto
 TOI002	minchia il pick up c'era sessa~ c'ha settant'anni cazzo
 TOI003	il big è una bella discoteca
 TOI002	ma vaffanculo
 TOI003	bella su sue piani
 TOR002	il big è dove stavamo noi
 TOI003	mh corso brescia
-TOR002	corso brescia
 TOR001	mh mh
+TOR002	corso brescia
 TOI002	mah fa cagare il big
 TOR001	ah sì
 TOI003	no invece è una bella struttura
@@ -1896,21 +1896,21 @@ TOI003	tipo moviement
 TOR001	mh mh
 TOI003	il kappa future festival
 TOR001	mh mh
-TOI003	questi qua
 TOI002	che non vai a ascoltare musica alla fine
+TOI003	questi qua
 TOI003	certo x
 TOI002	n~ non ascolti
 TOI003	una volta all'anno due volte all'anno
 TOI003	sì que~ quegli eventi lì
-TOI003	comunque
 TOR001	mh mh
+TOI003	comunque
 TOI003	elettronica techno
 TOR001	mh mh
 TOI002	no io zero proprio
 TOI002	solo musica italiana
 TOR001	mh
-TOI003	e il kappa non lo conoscete
 TOR001	tipo
+TOI003	e il kappa non lo conoscete
 TOR001	no io no
 TOR002	sì
 TOI003	perché a milano lo conoscono un mace~ è pieno di gente di milano che viene al kappa
@@ -1937,8 +1937,8 @@ TOI003	mamma mia
 TOI003	sto come schumacher finito il kappa ogni volta
 TOR001	e tu invece che musica ascolti
 TOI002	italiana
-TOI002	tutta
 TOR001	okay
+TOI002	tutta
 TOI002	anche perché stando in macchina
 TOI002	eh radio italia
 TOI003	neomelodico
@@ -1962,8 +1962,8 @@ TOI003	eh max pezzali anch'io
 TOI003	max pezzali anch'io
 TOI002	io son cresciuto con gli ottoottotre quindi
 TOI003	sì
-TOI003	quello anch'io c'avevo le cassette di max pezzali
 TOI002	di conseguenza
+TOI003	quello anch'io c'avevo le cassette di max pezzali
 TOI002	minchia la cassette nord sud ovest est io avevo la cassetta rossa di nord sud ovest est
 TOI003	esatto
 TOI002	esatto
@@ -1972,8 +1972,8 @@ TOI002	io a volte sì
 TOI003	devo devo accon~
 TOI002	ah l'ultimo che sono andato è max pezzali tra l'altro
 TOI003	devo accontentare la mia ragazza prima o poi
-TOI003	gli dico sempre sì sì poi non mi faccio vedere
 TOI002	x tiziano ferro
+TOI003	gli dico sempre sì sì poi non mi faccio vedere
 TOI002	vuoi portarla a tiziano f~
 TOI003	spengo il telefono x addormentato
 TOR001	e cosa piace a lei
@@ -2003,8 +2003,8 @@ TOI003	certo
 TOI003	niente
 TOI003	nie~ io devo arrivare a settant'anni con la musica techno secondo te
 TOI002	ma come ti piace
-TOI003	eh sì
 TOI002	ma fra tutti quelli che potevi dire adriano celentano hai detto
+TOI003	eh sì
 TOI003	eh sì adriano celentano mi piace
 TOI002	sei sicuro ma sai chi è ad~
 TOI003	ma vai a cagare va ti canto a memoria l'emozione non ha voce
@@ -2028,8 +2028,8 @@ TOR003	film di alieni
 TOR001	okay
 TOI003	ogni film di alieno che esce sono in prima fila vestito da alieno
 TOI003	con la bandierina
-TOI003	ah ci credo
 TOI002	gli hai rubato il palloncino di it diglielo
+TOI003	ah ci credo
 TOI003	io ci credo ah sì eh
 TOI003	la sicurezza mi ha inseguito
 TOI003	minchia che irruzione ho detto madonna per un palloncino
@@ -2074,8 +2074,8 @@ TOI003	se no non le faccio ste co~ se no non le faccio ste cose
 TOI003	se non lo faccio
 TOI002	x l'intervista
 TOR001	va bene grazie mille
-TOI003	grazie a te
 TOI002	figurati
+TOI003	grazie a te
 TOI003	è stato bello
 TOI002	gli altri saranno più noiosi x
 TOI002	siam venuti noi perché eravamo i più divertenti

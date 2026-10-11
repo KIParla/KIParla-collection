@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:16+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:56:57+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="BOA3001.mp3" RELATIVE_MEDIA_URL="BOA3001.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -109,7 +110,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="110948" />
 		<TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="112539" />
 		<TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="113761" />
-		<TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="117088" />
+		<TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="117086" />
 		<TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="117086" />
 		<TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="118579" />
 		<TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="118693" />
@@ -709,8 +710,8 @@
 		<TIME_SLOT TIME_SLOT_ID="ts704" TIME_VALUE="678013" />
 		<TIME_SLOT TIME_SLOT_ID="ts705" TIME_VALUE="678801" />
 		<TIME_SLOT TIME_SLOT_ID="ts706" TIME_VALUE="680307" />
-		<TIME_SLOT TIME_SLOT_ID="ts707" TIME_VALUE="686176" />
-		<TIME_SLOT TIME_SLOT_ID="ts708" TIME_VALUE="686173" />
+		<TIME_SLOT TIME_SLOT_ID="ts707" TIME_VALUE="686174" />
+		<TIME_SLOT TIME_SLOT_ID="ts708" TIME_VALUE="686174" />
 		<TIME_SLOT TIME_SLOT_ID="ts709" TIME_VALUE="687016" />
 		<TIME_SLOT TIME_SLOT_ID="ts710" TIME_VALUE="687144" />
 		<TIME_SLOT TIME_SLOT_ID="ts711" TIME_VALUE="688241" />
@@ -3491,8 +3492,8 @@
 		<TIME_SLOT TIME_SLOT_ID="ts3486" TIME_VALUE="3950107" />
 		<TIME_SLOT TIME_SLOT_ID="ts3487" TIME_VALUE="3951321" />
 		<TIME_SLOT TIME_SLOT_ID="ts3488" TIME_VALUE="3952708" />
-		<TIME_SLOT TIME_SLOT_ID="ts3489" TIME_VALUE="3954543" />
-		<TIME_SLOT TIME_SLOT_ID="ts3490" TIME_VALUE="3954499" />
+		<TIME_SLOT TIME_SLOT_ID="ts3489" TIME_VALUE="3954520" />
+		<TIME_SLOT TIME_SLOT_ID="ts3490" TIME_VALUE="3954520" />
 		<TIME_SLOT TIME_SLOT_ID="ts3491" TIME_VALUE="3955982" />
 		<TIME_SLOT TIME_SLOT_ID="ts3492" TIME_VALUE="3956056" />
 		<TIME_SLOT TIME_SLOT_ID="ts3493" TIME_VALUE="3957183" />
@@ -3525,13 +3526,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts3520" TIME_VALUE="3989829" />
 		<TIME_SLOT TIME_SLOT_ID="ts3521" TIME_VALUE="3992538" />
 		</TIME_ORDER>
-	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a324" TIME_SLOT_REF1="ts646" TIME_SLOT_REF2="ts647">
-				<ANNOTATION_VALUE>scusate posso chiedervi una cosa? [ho sentito] che voi fate linguistica genera:[le con] la verdi (.) [] ma oggi c'era? (.) [] [ah okay] grazie.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		</TIER>
 	<TIER TIER_ID="BO002" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -3880,7 +3874,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a126" TIME_SLOT_REF1="ts250" TIME_SLOT_REF2="ts251">
-				<ANNOTATION_VALUE>sì (.) quando s'è lasciata col mio ragazzo (.) [] se li è fatti &lt;tutti&gt;.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì (.) quando s'è lasciata col mio ragazzo (.) se li è fatti &lt;tutti&gt;.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4000,7 +3994,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts340" TIME_SLOT_REF2="ts341">
-				<ANNOTATION_VALUE>((ride)) [</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6010,7 +6004,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1008" TIME_SLOT_REF1="ts2014" TIME_SLOT_REF2="ts2015">
-				<ANNOTATION_VALUE>col suo scudo lo lancia, (.) [] s~ giù dalla scali[nata],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>col suo scudo lo lancia, (.) s~ giù dalla scali[nata],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6795,7 +6789,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1346" TIME_SLOT_REF1="ts2690" TIME_SLOT_REF2="ts2691">
-				<ANNOTATION_VALUE>ah ecco un'a:ltra &gt;ora xxx di&lt; (.) [] emma watson</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ah ecco un'a:ltra &gt;ora xxx di&lt; (.) emma watson</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10477,7 +10471,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1075" TIME_SLOT_REF1="ts2148" TIME_SLOT_REF2="ts2149">
-				<ANNOTATION_VALUE>[ah sì. quello me l'a]vevi detto. che anche lì (.) ti sciogli ((ride)) []</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ah sì. quello me l'a]vevi detto. che anche lì (.) ti sciogli ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10762,7 +10756,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1187" TIME_SLOT_REF1="ts2372" TIME_SLOT_REF2="ts2373">
-				<ANNOTATION_VALUE>che anche [lì sta con] penelope cruz (.) [] nel film</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che anche [lì sta con] penelope cruz (.) nel film</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11442,7 +11436,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1434" TIME_SLOT_REF1="ts2866" TIME_SLOT_REF2="ts2867">
-				<ANNOTATION_VALUE>anche &gt;lui&lt; &gt;è p~&lt; non &lt;poteva&gt; fare altro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>anche &gt;luiè p~&lt; non &lt;poteva&gt; fare altro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11852,7 +11846,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1581" TIME_SLOT_REF1="ts3160" TIME_SLOT_REF2="ts3161">
-				<ANNOTATION_VALUE>bianca, &gt;e adess~ non è che io sia abbron~&lt; &gt;non è che io sia&lt; mulatta però così.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>bianca, &gt;e adess~ non è che io sia abbron~non è che io sia&lt; mulatta però così.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12328,6 +12322,13 @@
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1761" TIME_SLOT_REF1="ts3520" TIME_SLOT_REF2="ts3521">
 				<ANNOTATION_VALUE>scusa, (.) noi dovremmo anda:re ora (.) ((ride))</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a324" TIME_SLOT_REF1="ts646" TIME_SLOT_REF2="ts647">
+				<ANNOTATION_VALUE>scusate posso chiedervi una cosa? [ho sentito] che voi fate linguistica genera:[le con] la verdi (.) ma oggi c'era? (.) [ah okay] grazie.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>

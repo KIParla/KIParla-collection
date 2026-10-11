@@ -1,6 +1,6 @@
 BOR009	bene allora eh non siete tutti e due di bologna quindi
-BOI046	n~ no solo lui
 BOI045	solo io
+BOI046	n~ no solo lui
 BOR009	di bologna
 BOI046	napoli
 BOR009	okay e attualmente però dove vivete
@@ -107,15 +107,15 @@ BOI046	ho delle prospettive future
 BOI046	col senno di poi sarei salito prima
 BOI046	però ognuno nella vita ha i suoi tempi quindi i miei son stati lunghi
 BOR009	eh
-BOR009	e quindi tutti e due che avete iniziato recentemente siete entrati nell'azienda che già era @nomeazienda
+BOR009	e quindi tutti e due che avete iniziato recentemente siete entrati nell'azienda che già era
 BOR009	giusto perché so che prima era
 BOI045	sì sì sì
 BOI046	atc
 BOI045	atc
-BOR009	@nomeazienda quindi non avete vissuto il cambiamento
+BOR009	quindi non avete vissuto il cambiamento
 BOI045	no non no
 BOI046	no io ne ho sentito parlare ma n~ non so neanche di cosa parla'
-BOI046	quindi alla fine per me io ho cominciato con @nomeazienda in questo
+BOI046	quindi alla fine per me io ho cominciato con in questo
 BOI046	non so prima qual era la situazione loro
 BOR009	e ora com'è
 BOI046	ma oddio io mi trovo bene
@@ -230,8 +230,8 @@ BOI045	non deve passare col rosso
 BOI046	quando è rosso non deve passare deve mantenere la destra
 BOI045	non deve superare a destra
 BOI046	non deve superare non deve superare a destra eh ci butto un occhio perché se si fa male muore lui
-BOI046	però
 BOI045	però sono diciamo che sono quando entriamo in centro insomma eh un occhio rimane su di loro perché
+BOI046	però
 BOI045	comunque
 BOI045	sbucano fuori poi l'autobus non è che frena immediatamente cioè
 BOI045	in pochi lo sanno ma tu quando freni col col'autobus non non inchioda
@@ -390,8 +390,8 @@ BOI045	e poi comunque
 BOI045	svegliarsi alle quattro non è proprio
 BOR009	ci si abitua a fare questi orari
 BOI045	nel
-BOI046	no perché poi va a finire che il mese pr~ il mese dopo fai il pomeriggio quindi puoi andare a dormire più tardi ti svegli più tardi e quando ti sei abituato ti devi riabituare
 BOI045	io no
+BOI046	no perché poi va a finire che il mese pr~ il mese dopo fai il pomeriggio quindi puoi andare a dormire più tardi ti svegli più tardi e quando ti sei abituato ti devi riabituare
 BOI045	sì
 BOR009	e certo
 BOI045	ti devi riabituare esatto
@@ -421,8 +421,8 @@ BOI046	sì sì
 BOI046	poi comunque io venendo dal dal vecchio lavoro della ristorazione comunque so' abituato il sab~ beh anche tu come me il sabato e la domenica
 BOR009	eh
 BOI045	eh io facevo ho fatto dieci anni di di cuoco
-BOR009	ah quindi è proprio un rito di passaggio cioè si passa dal settore alberghiero a quello dei trasporti
 BOI045	matrimoni
+BOR009	ah quindi è proprio un rito di passaggio cioè si passa dal settore alberghiero a quello dei trasporti
 BOI045	no però siamo in tanti
 BOI046	quindi eravamo abituati ai sacrifici del sabato e la domenica però fortunatamente
 BOI045	sì
@@ -438,8 +438,8 @@ BOR009	spero
 BOR009	passeggiare non lo so godervi i portici della città
 BOI046	sì
 BOI045	sì
-BOR009	vabbè
 BOI045	io s~ io molto sì
+BOR009	vabbè
 BOR009	tipo tu che sei bolognese li li senti nel cuore i portici proprio come mh
 BOI045	sì molto sì sì sì io no
 BOR009	visto che sono tratto distintivo della città

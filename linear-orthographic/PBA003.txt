@@ -76,7 +76,6 @@ BOI056	sì
 BOI056	poi mi rilasso quando arrivo
 BOR015	eh in che area vivi a bologna
 BOI056	centro
-BOI056	@nomeluogo
 BOI056	praticamente sono stata sempre al centro
 BOR015	mhmh
 BOI056	son stata fortunata
@@ -94,7 +93,7 @@ BOI056	ma mi son trovata un po' cioè
 BOI056	è stato un po' d~ complicato all'inizio
 BOI056	quindi ci siamo subito affidati ad una agenzia
 BOI056	eh niente quindi grazie a quell'agenzia diciamo che ho trovato
-BOI056	quell'appartamento in @nomeluogo che
+BOI056	quell'appartamento in che
 BOI056	era carino comunque grande
 BOR015	mhmh
 BOI056	e~
@@ -110,8 +109,8 @@ BOI056	e abbiamo visto diverse case anche con agenzie
 BOR015	mhmh
 BOI056	e anche questa l'abbiamo presa con un'agenzia quindi alla fine
 BOI056	sì
-BOR015	invece
 BOI056	però non è semplice
+BOR015	invece
 BOR015	mh al secondo anno invece avevi fatto tipo i casting
 BOI056	diciamo di sì cioè nel senso alla fine
 BOI056	essendo riuscita ad ottenere solo un appuntamento fa~ fatto bene nel senso con le coinquiline le coinquiline non è che mi hanno proprio mh
@@ -160,10 +159,10 @@ BOI056	ehm
 BOI056	però sì qualcosa ho imparato
 BOI056	ho preso la ts
 BOI056	ehm
-BOI056	sì no il rusco il tiro
+BOI056	# sì no il rusco il tiro
 BOI056	ehm
 BOR015	dammi il tiro
-BOI056	soccia
+BOI056	# soccia
 BOI056	sì però qualcosa sì
 BOR015	e invece prima mi dicevi del cibo che è che preferisci del cibo bolognese
 BOI056	mi piacciono i dolci
@@ -193,8 +192,8 @@ BOI056	mh un periodo dell'anno
 BOI056	mh
 BOI056	direi forse la primavera
 BOI056	l'inverno non molto e neanche l'autunno perché fa molto freddo ed è molto umido
-BOR015	la nebbia
 BOI056	e
+BOR015	la nebbia
 BOI056	la nebbia
 BOI056	e quindi
 BOI056	sì autunno e inverno no la primavera mi piace l'estate è molto caldo ed è molto umido
@@ -215,8 +214,8 @@ BOR015	le scampagnate
 BOR015	ehm poi anche perché te cammini tanto per la città cioè anche per
 BOI056	anche per andare all'università sì
 BOI056	una mezz'oretta di camminata però la faccio volentieri
-BOR015	m~
 BOI056	qualche volta ho provato con la bici
+BOR015	m~
 BOI056	ma
 BOI056	dipende
 BOI056	cioè per andare da casa all'università
@@ -363,7 +362,7 @@ BOI056	una volta pure io ho fatto una prova
 BOI056	d'improvvisazione
 BOR015	non lo sapevo
 BOI056	sì
-BOI056	perché a settembre dello scorso anno organizzavano delle lezioni di prova gratuite
+BOI056	perché a settembre dello scorso anno organizzavano delle lezionidi prova gratuite
 BOR015	mhmh
 BOI056	e quindi mi son segnata giusto per provare
 BOI056	e è stato molto carino
@@ -389,8 +388,8 @@ BOI056	no
 BOI056	imparerò
 BOI056	no però il pianoforte mi è sempre piaciuto come strumento solo che
 BOI056	cioè a casa non ho mai avuto una pianola
-BOR015	mhmh
 BOI056	almeno
+BOR015	mhmh
 BOI056	mia mamma mi ricordo mi ha sempre voluto segnare
 BOI056	a fare lezioni di pianoforte ma boh tra una cosa e un'altra non
 BOI056	non lo ha mai fatto anche perché durante il liceo ad esempio ho anche smesso di fare sport
@@ -613,8 +612,8 @@ BOI056	come dire più mh
 BOI056	non mi viene il termine
 BOI056	più
 BOR015	soddisfacente
-BOR015	no
 BOI056	sì
+BOR015	no
 BOR015	appagante
 BOI056	più appagante
 BOI056	perché comunque lei cioè diceva alla fine il dottorato dura tre anni quindi tu hai un unico progetto
@@ -683,8 +682,8 @@ BOI056	la mattina
 BOR015	mhmh
 BOI056	e poi
 BOI056	una volt~ una mattina a settimana
-BOR015	perché
 BOI056	e poi non mi ric~
+BOR015	perché
 BOI056	eh perché il cioè
 BOI056	in realtà
 BOI056	il responsabile del laboratorio

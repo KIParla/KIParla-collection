@@ -125,7 +125,7 @@ PKP035	[lì] e un po' alla nonna
 PKP035	mett~
 PKP035	no mettilo tutto così lo vuotiamo
 PKP033	eh ma volevo misurare
-PKP035	#tu ne vuoi nu pocu?
+PKP035	# tu ne vuoi nu pocu?
 PKP033	un: goccio
 PKP035	eh allora mettilo pure per te e così e versa tutto ver[sa]
 PKP033	[m]h
@@ -932,7 +932,7 @@ PKP034	°stai buono siamo andati in (perio[di) diversi° andiamo sempre [da part
 PKP035	[eh vabbè eh eh sì]
 PKP035	[sì quando] vedi eh u~
 PKP035	una fotografia la vedi si che disgraziati
-PKP035	#seduti tutti e tre come scemiceddri
+PKP035	# seduti tutti e tre come scemiceddri
 PKP035	sotto un albero
 PKP035	che ho qualche volta ti cadeva un cocco in testa
 PKP033	[ma le fotografie chi le ha fatte]?
@@ -1203,8 +1203,8 @@ PKP035	dalla: cent~ [dall'a]bitazione tutti (.) pastori
 PKP033	[mh]
 PKP035	e ah e
 PKP034	i [masai]
-PKP035	[mucchie mucchie cose]
 PKP033	[di cose di cosa]?
+PKP035	[mucchie mucchie cose]
 PKP034	sempre se: del [kenya sempre xxxxx]
 PKP035	[sì beh vestiti]
 PKP033	[no no ma pastori di co]sa?
@@ -1313,16 +1313,16 @@ PKP034	eh quello mi è rimasto questi bambini piccoli tanto non c'avevano niente
 PKP035	ci mangiamo un mandarino?
 PKP033	sì vado in bagno un attimo arrivo
 PKP035	a:hi ahi
-PKP035	#a:hi ahi ce passamu
+PKP035	# a:hi ahi ce passamu
 PKP035	°ahi ahi ahi°
 PKP035	°la luce°
 PKP035	xxx giusta via
 PKP035	°ecco°
 PKP035	ohimmena ohimmena ohimmena
-PKP035	#allora stavo guardando xxxx ce suntu queste cose quai che me l'aggiu mangiate [xx]
+PKP035	# allora stavo guardando xxxx ce suntu queste cose quai che me l'aggiu mangiate [xx]
 PKP034	[no]: [xxx]
 PKP035	[me lo mangio io] puru xx
-PKP035	#tu non sai proprio comu se mancia
+PKP035	# tu non sai proprio comu se mancia
 PKP034	no: sai tutto te sai
 PKP035	questo forse è brutto proprio ma [questi due]
 PKP034	[tuttologo] sei
@@ -1342,7 +1342,7 @@ PKP035	xxxxx
 PKP034	io sempre in xx (°se[mpre]°)
 PKP035	[mh]mh
 PKP034	stai tirando tutta la cosa di là devi sbuccia'
-PKP035	#puru quiddra tira
+PKP035	# puru quiddra tira
 PKP033	allora cosa prendo?
 PKP035	man[darino]
 PKP034	[il vassoio] della
@@ -1370,8 +1370,8 @@ PKP033	guarderan delle cose s[pecifiche]
 PKP035	[però]
 PKP035	un u~ un detto è da dire però
 PKP033	mh
-PKP035	#siamo leccesi cuore preciatu
-PKP035	#sona maestru arcu de' pratu
+PKP035	# siamo leccesi cuore preciatu
+PKP035	# sona maestru arcu de' pratu
 PKP033	[ma a me non] dovete pensarci
 PKP035	[ecco]
 PKP035	dir~ eh [questo sì]
@@ -1738,7 +1738,7 @@ PKP034	m:h
 PKP034	però non sento che va in °sempre a fa'° giri che piacciono a me
 PKP033	le ho detto che
 PKP034	ognuno c'ha il suo carattere no è logico
-PKP035	#menu male ((ride)) che no simu tutti xxx
+PKP035	# menu male ((ride)) che no simu tutti xxx
 PKP034	EH VABBè que[sto è vero o no]?
 PKP035	[fossero stati] buoni per [xx]
 PKP034	[ma tu pe]ns[a ma tu pe~] ((ride)) ma tu pensa
@@ -1821,7 +1821,7 @@ PKP033	((ride))
 PKP034	[m::h non è ve:ro]
 PKP035	[qui me~ da do~ da quale par]te viene il vento
 PKP034	m:::h >non è vero<
-PKP035	#ahi mamma mia ca santo umberto
+PKP035	# ahi mamma mia ca santo umberto
 PKP034	tu pensa
 PKP034	con la nonna
 PKP035	eh alt~ (.) [altra vi]ttima
@@ -1860,8 +1860,8 @@ PKP034	abbiamo ordinato l'albergo vicino alla stazione
 PKP034	lì vicino
 PKP034	che poi ho detto guarda pigliamo l'abergo lì perché da piazza
 PKP034	es~ eh da piazza esedra possiamo andare dappertutto perché è vicino no?
-PKP034	#quella che non ha non è uscita da casa ma solo per andare a insegnare è uscita pensa da lu paese di gallipoli
-PKP034	#è andata a insegnare alli paesini ch[e sta:~]
+PKP034	# quella che non ha non è uscita da casa ma solo per andare a insegnare è uscita pensa da lu paese di gallipoli
+PKP034	# è andata a insegnare alli paesini ch[e sta:~]
 PKP033	[ma loro sono] gallipolini?
 PKP034	lei è gallipolina sì or[igini] genitori che
 PKP033	[°okay°]
@@ -1885,7 +1885,7 @@ PKP033	[ah i]n gita
 PKP034	in gi:ta
 PKP034	ma [in gita da: orga]nizzata [da me non io non]
 PKP035	[ma ma che]
-PKP035	#[i~ innanzitutto quiddra cristiana è stata presa alla s[provvista]
+PKP035	# [i~ innanzitutto quiddra cristiana è stata presa alla s[provvista]
 PKP033	[ma quan]do poi?
 PKP034	ma: mh pochi [anni fa]
 PKP035	[no~ non molti pochi anni fa]
@@ -1969,7 +1969,7 @@ PKP034	dico andiamo
 PKP034	se era una chiesa era chiusa
 PKP034	dopo due secondi si tira giù
 PKP033	((ride))
-PKP034	#<UN TEMPORALE DI QUELLI> che lu sacerdote ha dovuto aprire perché c'erano tutti i turisti a fontana di trevi stavano tutti disperati così
+PKP034	# <UN TEMPORALE DI QUELLI> che lu sacerdote ha dovuto aprire perché c'erano tutti i turisti a fontana di trevi stavano tutti disperati così
 PKP034	quel poveretto il c~ sacerdote xxx ma [era aperta] la porta?
 PKP033	[xx bussa]
 PKP034	sì la gente bussava apri apri qua che stiamo morendo
@@ -2019,7 +2019,7 @@ PKP035	arrivammo alla meta agognata la cogna[ta]
 PKP033	[ah] sì me l'hai già [detto sì sì]
 PKP035	[ah okay e cos]ì tutti quanti con la non[na]
 PKP034	[o:]h
-PKP035	#(ce ne parli ce ne)
+PKP035	# (ce ne parli ce ne)
 PKP034	[no]
 PKP034	stavamo a via veneto
 PKP034	e io ho detto
@@ -2048,7 +2048,7 @@ PKP034	con delle strade che io conoscevo facciamo quella strada arriviamo a piaz
 PKP034	e quella xxxx quando sono entrata in camera lì dell'albergo non voleva più uscire
 PKP034	dico no a volte ti ti riposi e poi x[xxxx]
 PKP035	[ma tu ti stai mentre racco]nta queste cose
-PKP035	#ma tu te la stai immagini che sta a fianco così
+PKP035	# ma tu te la stai immagini che sta a fianco così
 PKP034	lì la tina poi che non usciva mai [da casa]
 PKP035	[lei fa no] ma pure stanca
 PKP033	saran stati almeno dieci anni fa
@@ -2100,7 +2100,7 @@ PKP034	l~ la: ristorante appena aperto
 PKP034	mangiammo l~ benissimo tutte e due facemmo una passeggiata poi tornavamo
 PKP034	poi ho detto guarda già che stiamo qui andiamo
 PKP034	x[x intorno]
-PKP035	#[abbiamo xxto] la melunceddra
+PKP035	# [abbiamo xxto] la melunceddra
 PKP033	e[h ne è rimas]to un pe[zzo]
 PKP034	[vabbè]
 PKP034	[un altro gio]rno dico an[diamo]
@@ -2112,15 +2112,15 @@ PKP035	[xx e]cco
 PKP034	usciamo un'altra volta perché amalfi siamo a[ndati]
 PKP035	[questo sai come] si dice?
 PKP033	mh
-PKP035	#menescia
+PKP035	# menescia
 PKP033	mh
-PKP035	#menescia dentro
+PKP035	# menescia dentro
 PKP035	cioè la minestra
-PKP035	#°lì° rovesciata menescia
+PKP035	# °lì° rovesciata menescia
 PKP033	ah dici che è la [stessa parola]?
 PKP035	[sì questa sì]:
 PKP034	poi un'altra volta sia[mo andati:]
-PKP035	#[menescia è quando scolavi] la pasta
+PKP035	# [menescia è quando scolavi] la pasta
 PKP034	a sorre~ a:: <sorrento era>
 PKP033	((ride))
 PKP034	sorre[nto]

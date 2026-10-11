@@ -737,7 +737,7 @@ BOI112	sì
 BOI112	certo san petronio in piazza in centro ci sono
 BOI112	delle iniziative organizzate dal comune
 BOR025	mhmh
-BOI112	san petronio è sempre stata la nostra festa perché ovviamente san ptroni
+BOI112	# san petronio è sempre stata la nostra festa perché ovviamente san ptroni
 BOI112	eh è nostro
 BOI112	però è anche san francesco patrono d'italia il quattro ottobre
 BOR025	è vero il quattro sì
@@ -792,9 +792,9 @@ BOI112	ma oltre a questo c'è la torre prendiparte
 BOR025	eh me l'han detto sì
 BOR035	ah sì l'avr- sì
 BOI112	in piazza sant'alò
-BOI112	che da noi si dice o' san'alò che prem murì poi s' ammalò
+BOI112	# che da noi si dice o' san'alò che prem murì poi s' ammalò
 BOI112	no
-BOI112	che premma al mors po' s'ammalò
+BOI112	# che premma al mors po' s'ammalò
 BOI112	eh quella anche bellissima
 BOR025	eh
 BOI112	quella è bellissima lì fanno anche le cene costa un po' fare questa gita
@@ -996,13 +996,13 @@ BOR025	mh
 BOI112	tanti libri su bologna tanti perciò io
 BOI112	ho assorbito
 BOR025	mh
-BOI112	so anche certe zirudelle in bolognese
-BOR025	zirudelle sono
-BOI112	le zirudelle sono
+BOI112	# so anche certe zirudelle in bolognese
+BOR025	# zirudelle sono
+BOI112	# le zirudelle sono
 BOI112	dei canti
 BOR025	ah
 BOI112	con delle rime
-BOI112	adesso non so in italiano come si può dire la zirudella per noi è
+BOI112	# adesso non so in italiano come si può dire la zirudella per noi è
 BOR025	eh e ci sono cose che non sono traducibili
 BOR035	eh
 BOI112	eh mh
@@ -1016,16 +1016,16 @@ BOR025	capito
 BOR035	ma un'altra cosa tipica bolognese che ho visto è quel sa~ ha detto che bologna è un cantiere sempre
 BOI112	mh
 BOR035	quella mh
-BOR035	mh l'uomo umarel allora
-BOI112	l'umarel
-BOR035	l'umarel è tipico bolognese ho scoperto io non lo sapevo
-BOI112	sì l'umarel
+BOR035	# mh l'uomo umarel allora
+BOI112	# l'umarel
+BOR035	# l'umarel è tipico bolognese ho scoperto io non lo sapevo
+BOI112	# sì l'umarel
 BOR025	ah ah viene da bologna
 BOR035	sì sì viene da bologna il termine è in bolognese
 BOR025	ah non sapevo
-BOI112	sì sì han fatto anche piazza umarels
+BOI112	# sì sì han fatto anche piazza umarels
 BOR035	eh infatti infatti sì sì sì
-BOI112	gli umarel sono quelli
+BOI112	# gli umarel sono quelli
 BOR025	e sì ho presente non sapevo fosse di bologna però
 BOR035	sì
 BOI112	però devono avere le mani dietro eh
@@ -1037,10 +1037,10 @@ BOI112	sì
 BOR025	è vero
 BOR025	simpatici
 BOR035	sì
-BOI112	gli umarel
+BOI112	# gli umarel
 BOI112	infatti quando noi ci prendiamo in giro fra di noi
-BOI112	gli uomini diciamo dai mò umarel
-BOI112	va mò a fer l'umarel da metraper
+BOI112	# gli uomini diciamo dai mò umarel
+BOI112	# va mò a fer l'umarel da metraper
 BOR025	ehm mh
 BOR035	magari possiamo fare la domanda su ma sec~ com'è secondo te la sicurezza a bologna com'è ci si
 BOR025	soprattutto in queste volte con questi eventi magari il venticinque aprile se ah comunque

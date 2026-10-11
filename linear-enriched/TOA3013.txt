@@ -1,7 +1,7 @@
 TO085	io ci provo (.) va bene?
 TO094	cosa?
-TO092	[a registrare]
 TO085	[a registra]re
+TO092	[a registrare]
 TO093	c'è la schedina piena?
 TO085	no ho cancellato due file
 TO085	cosa fai?
@@ -59,8 +59,8 @@ TO094	[è stupendo]
 TO094	tu hai presente m::h
 TO094	la giamaica? [la s]piaggia?
 TO092	[sì]
-TO092	[ma io c'andavo:] ci sono andata un po' di anni fa
 TO094	[xxx]
+TO092	[ma io c'andavo:] ci sono andata un po' di anni fa
 TO092	che non c'era ancora nessuno
 TO092	>cioè< che passavo proprio in mezzo al lago per arrivare in giamaica
 TO094	[e::h infatti] mi hanno raccontato che una volta era molto più:: [xxxxx]
@@ -93,8 +93,8 @@ TO094	[mh]
 TO094	tu l'hai visto mai?
 TO085	boh
 TO092	è bella sirmione a me piace un sacco
-TO092	[è un po' è un po' ci so~ ci sono un sacco di tedeschi]
 TO094	[be::llo]
+TO092	[è un po' è un po' ci so~ ci sono un sacco di tedeschi]
 TO085	[secondo me (.) ma dov'è]?
 TO094	[allora]
 TO085	como lago di [como]
@@ -112,8 +112,8 @@ TO092	e di qua c'è milano
 TO085	no:: non credo di esserci mai stata
 TO085	però [lo conos]co
 TO094	[va~ vabbè]
-TO094	[allora in real]tà::
 TO085	[°di nome°]
+TO094	[allora in real]tà::
 TO094	mi piace sì e no
 TO094	per~ >cioè< adesso è proprio tanto
 TO094	>cioè< se tu giri proprio [lì a s]irmione
@@ -124,19 +124,19 @@ TO094	[>cioè< mega]
 TO094	brava
 TO094	gelaterie, tutti:
 TO094	mh come dire souvenir cose::
-TO094	[per i turi]sti
 TO085	[m::h]
+TO094	[per i turi]sti
 TO092	però vabbè:: comunque è piacevole andare.
 TO094	certo
 TO094	>cioè< lì anche il lago è spettacola[re]
 TO092	[sì]
 TO085	[ma la] spiaggia è libera?
-TO092	[sì]
 TO094	[s::ì]
+TO092	[sì]
 TO092	c'è sia la [spiaggia delle bionde]
 TO085	[almeno quella dai]
-TO092	[che si chia~ s]ì
 TO085	[delle bionde]?
+TO092	[che si chia~ s]ì
 TO092	si chiama così perché all'epoca andavan' tutte le tedesche eran' tutte bionde
 TO085	[a:::h]
 TO092	[come si chiamava la spiaggia delle bionde]
@@ -176,8 +176,8 @@ TO094	no
 TO094	dico:: [alle sette:: o alle:::] otto?
 TO085	[diciotto? (.) va bene::]
 TO092	io credo che lo prenderò verso le se::::i
-TO094	[>cioè< più altro boh vedo un a]ttimo come s~ son messa [coi te~]
 TO085	[xxx]
+TO094	[>cioè< più altro boh vedo un a]ttimo come s~ son messa [coi te~]
 TO092	[xxxx]
 TO092	[vado in b]agno e poi vado
 TO092	mamma mia l'idea di (.) arrivare fino là mi mi spezza
@@ -198,8 +198,8 @@ TO085	vero xx? anche tu che hai il treno alle sette
 TO093	e come faccio?
 TO085	a cosa a lavare i piat[ti]?
 TO093	[ah] ma a lavare i piatti sì
-TO093	[(il minimo)]
 TO085	[la ca:::sa::],
+TO093	[(il minimo)]
 TO093	[la casa] no la casa l'abbiamo l'avete lavata ieri
 TO094	((ride))
 TO085	bravo
@@ -228,8 +228,8 @@ TO085	[la mia lam]pada la vediamo tra un me::se
 TO093	la vediamo tra una set~ ma è ve::ro
 TO093	ma [perché sono un idiota]
 TO085	[no vabbè ma non è un pr]oblema
-TO093	[me ne ero com~ (.) eh no:]::
 TO085	[però io te lo ricordo]
+TO093	[me ne ero com~ (.) eh no:]::
 TO093	sì x[xx]
 TO085	[così]
 TO085	[non rimane] lì
@@ -300,8 +300,8 @@ TO085	[sì::]?
 TO094	poi son stata lì a ballar[mela proprio]
 TO085	[che cos'è che han fatto]?
 TO094	ma era tipo elettronica
-TO094	[però]
 TO085	[a:::h]
+TO094	[però]
 TO085	ma io avevo letto::: [indie, po]p, ro[ck],
 TO094	[n::o]
 TO094	[boh] magari pri[ma]
@@ -318,7 +318,7 @@ TO094	>cioè::< vabbè eravamo lì tranquil~ no poi abbiamo ballato un po' sì d
 TO085	luogo e data di nascita dove hai frequentato le superiori
 TO092	luogo di cosa della data [di]
 TO085	[di na]scita
-TO085	@nomeluogo non l'avrei mai indovinato
+TO085	non l'avrei mai indovinato
 TO092	e luogo di e::h
 TO085	data e:: [xxx]
 TO092	[data l'ho già messa dietro]
@@ -358,8 +358,8 @@ TO094	((ride))
 TO092	[(ciò) è vero]
 TO085	e ti dirà vai nel mio letto
 TO085	che io voglio cucinare
-TO092	((ride))
 TO094	((ride))
+TO092	((ride))
 TO085	mi fumo u[na pa::glia]::
 TO094	[ma infa~]
 TO094	infatti per fortuna che:: eravate tutti su [se~]
@@ -385,8 +385,8 @@ TO094	ciao:
 TO093	[ciao]
 TO092	[ciao]::
 TO085	ciao ciao
-TO092	[xxxxxxx]
 TO094	[okay]
+TO092	[xxxxxxx]
 TO094	[mi ricordo il] momento in cui ho fatto [così]
 TO092	[xxxx]
 TO085	[sì] (.) sì
@@ -396,8 +396,8 @@ TO092	e dicevo mah
 TO092	chissà vuol dire xxx detto
 TO085	no
 TO092	ciao
-TO093	[ciao]
 TO085	[ciao eli]:
+TO093	[ciao]
 TO085	buon ritorno
 TO092	gra~
 TO092	grazie per l'affetto

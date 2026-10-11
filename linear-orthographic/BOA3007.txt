@@ -130,8 +130,8 @@ BO072	in napoletano
 BO071	no in senso eh in senso di eh in siciliano xx
 BO071	a caso
 BO071	proprio buttata a caso ma in bresciano
-BO071	in bresciano
 BO072	in bresciano
+BO071	in bresciano
 BO072	com'è successo
 BO071	è successo coi miei nonni sì
 BO071	coi miei amici no
@@ -174,8 +174,8 @@ BO021	pu zittà u velen come variante di pu zit o sang
 BO072	io mi xxx
 BO021	ma pu zittà u blen è proprio quella bleno
 BO072	da piccolo a xxx un vecchietto napoletano mi ha bestemmiato i morti per quindici minuti
-BO072	avevo sette anni
 BO021	ah eh s~ è perché noi ce l'abbiamo molto coi morti
+BO072	avevo sette anni
 BO071	eh ma perché proprio coi morti
 BO072	avevo sette anni era cattivissimo dovevi sentirlo
 BO072	mi stavo mettendo giù con la bici mi sa roba del genere
@@ -256,8 +256,8 @@ BO071	si
 BO071	xxx
 BO071	però ci mancava poco
 BO021	io vado a posare un attimo questa
-BO071	attento alla attenta alla barricata
 BO021	ah ma forse si è già liberato un tavolo
+BO071	attento alla attenta alla barricata
 BO071	uh ma si è liberato un tavolo
 BO071	yuppi
 BO071	ecco l'amigo

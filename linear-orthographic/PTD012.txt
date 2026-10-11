@@ -7,7 +7,7 @@ TOR001	sì
 TOI068	solo perché è più visibile
 TOI068	però l'altro giorno appunto che
 TOI068	sul giornale sul settimanale della chiesa
-TOI068	mi ha detto dai ma fai un articolo su questa cosa della criminalizzazione del buon samaritano del x ho scritto poi ho scritto una serie di cose e ho detto queste non le posso scrivere se no m' arestano pure a me
+TOI068	mi ha detto dai ma fai un articolo su questa cosa della criminalizzazione del buon samaritano del x ho scritto poi ho scritto una serie di cose e ho detto queste non le posso scrivere se no m'arestano pure a me
 TOI068	perché ho detto qua gli han dato vent'anni perché ha raccattato qualche centinaio di persone in mare
 TOI068	io dico eh e qua
 TOI068	la stessa cosa
@@ -211,8 +211,8 @@ TOI068	da due tre cinque sei mesi in qualche hot spot
 TOI068	nessuno in realtà gli aveva iniziato veramente la pratica per la richiesta d'asilo stavano lì ma nessuno se li filava
 TOI068	quindi molti di loro non avevano neanche una vera domanda d'asilo fatta magari avevano solo il modulo del ci tre ma poi rimaneva lì in stand by per cui si rompevano le palle non sapevano che cazzo fare stavano in postacci
 TOI068	dopo un po'
-TOI068	ciao
 TOR001	ciao
+TOI068	ciao
 TOI068	molti di loro magari erano anche gente che aveva sentito parlare di ventimiglia per cui partivano per andare a ventimiglia poi a ventimiglia si rendevano conto che dovevi pagare che era difficile e qualcuno xxxxx più facile
 TOI068	e quindi molti sono arrivati così
 TOI068	poi a un certo punto si sono uniti anche
@@ -327,7 +327,7 @@ TOR001	certo
 TOI068	quindi io gli posso anche dire guarda che c'è meno venti
 TOI068	infatti un ragazzo che è finito nel film di gallianone che è quello che si è congelato i piedi per tre mesi e poi se l'è tenuto una nostra amica a casa a oulx
 TOI068	questo qua è uno che l'abbiamo perscato in mezzo alla neve francois
-TOI068	piciu eh piciu lui però
+TOI068	# piciu eh piciu lui però
 TOI068	fa caldo mi bruciano i piedi
 TOI068	mi si gonfiano
 TOI068	nessuno gli ha mai spiegato che quello è il principio del congelamento quando ti si gonfiano i piedi e lui che cosa fa
@@ -401,8 +401,8 @@ TOI068	in realtà il confine loro lo attraversavano su questo
 TOI068	questi campi di neve che d'estate sono campi da golf e d'inverno è una pista di fondo per cui tu puoi
 TOI068	da claviere andare al monginevro
 TOI068	con gli sci di fondo
-TOI068	infatti
 TOR001	mhmh
+TOI068	infatti
 TOI068	e loro passano da lì
 TOI068	oppure da altri sentieri ma
 TOI068	comunque circostanti la zona
@@ -454,8 +454,8 @@ TOR001	certo
 TOI068	non si lascia la gente in montagna
 TOI068	fuori
 TOI068	mai
-TOI068	chiunque sia
 TOR001	mhmhmh
+TOI068	chiunque sia
 TOI068	che è una roba non scritta che chiunque abbia vissuto in montagna lo sa cioè voglio dire io
 TOI068	ho abitato sei anni a prali
 TOI068	se c'è un escursionista che non è tornato a casa la sera e la gente lo sa
@@ -688,14 +688,14 @@ TOI068	in realtà cos'è successo loro loro lo fanno da un anno xx
 TOI068	in realtà la
 TOI068	per le frontiere
 TOI068	le due polizie hanno una reciproca collaborazione da sempre
-TOI068	per cui
 TOR001	mhmh
+TOI068	per cui
 TOI068	che la gente venga fermata a xx e riportata a bardonecchia o viceversa
 TOI068	quello non è mai stato una cosa strana
 TOI068	se tu invece mi prendi la gente da pian del colle e me la molli in piazza in stazione
 TOI068	non lo puoi fare tu dovresti consegnare le persone alle forze dell'ordine
-TOI068	non è che puoi arrivare lì e me le butti per strada
 TOR001	certo certo
+TOI068	non è che puoi arrivare lì e me le butti per strada
 TOI068	così come
 TOI068	da su non me le puoi portare giù tu
 TOI068	invece la polizia francese spesso lo faceva
@@ -857,7 +857,7 @@ TOI068	sovrappone sotto ci scrive claviere
 TOI068	no
 TOI068	minchia lui mi ha guardato e fa e tu sei più figlio di puttana di me
 TOI068	faccio sai dopo un anno che faccio sta roba
-TOI068	du' cose le ho imparate tanto voi che cazzo dovete fare
+TOI068	# du' cose le ho imparate tanto voi che cazzo dovete fare
 TOI068	sessanta secondi potete metter dentro
 TOR001	certo
 TOI068	qua~ qua~ quanto ci mettete di schermata di montagna
@@ -1056,8 +1056,8 @@ TOR001	mhmhmhmh
 TOI068	eh qualcuno arriva con una giacca a vento decente
 TOI068	sanno molto meglio l'italiano
 TOI068	ed è anche gente che magari è stata un anno e mezzo due in italia
-TOI068	ha fatto tutto il la il percorso poi si è reso conto che tanto l'umanitario non lo daranno
 TOR001	mhmhmh
+TOI068	ha fatto tutto il la il percorso poi si è reso conto che tanto l'umanitario non lo daranno
 TOI068	e tenta di andare di là
 TOR001	mhmhmhmhmh
 TOI068	o magari che ha fatto il ricorso e han detto di no
@@ -1170,8 +1170,8 @@ TOI068	sfruttando questa cosa
 TOI068	sfruttando il fatto che la casa occupata è ancora lì infatti noi a un certo punto abbiamo pensato questi qua la casa occupata non la stanno sgomberando
 TOR001	mhmhmhmh
 TOI068	proprio per continuare a
-TOI068	poter dire ecco vedi il vecchio sindaco la tiene lì no lui è stato più volte anche accusato di non essere andato abbastanza a battere i pugni in questura eccetera
 TOR001	certo
+TOI068	poter dire ecco vedi il vecchio sindaco la tiene lì no lui è stato più volte anche accusato di non essere andato abbastanza a battere i pugni in questura eccetera
 TOI068	invece sono riusciti a vincere lo stesso adesso c'è un nuovo sindaco giovane bravo che fa anche il vigile del fuoco che l'altra sera era su a
 TOI068	a recuperarsi la gente in mezzo ai boschi
 TOI068	quindi boh vediamo la speranza è che un minimo qualcuno a forza di averci a che fare
@@ -1226,8 +1226,8 @@ TOI068	due tre quattro cinquecento euro in più al mese garantite
 TOI068	per alloggi che erano sfitti e che
 TOI068	probabilmente non avresti affittato perché non ti fidi di uno che non c'ha lavoro
 TOI068	invece a una cooperativa
-TOI068	ti paga
 TOR001	certo
+TOI068	ti paga
 TOI068	e quindi quello è stato una grossa ricchezza
 TOI068	e poi vuol dire dare da lavorare a
 TOI068	trenta quaranta persone della valle
@@ -1240,7 +1240,7 @@ TOI068	però secondo me non è tanto per quello che è successo in questo territ
 TOI068	è per quello che
 TOR001	certo
 TOI068	voglio dire passa il convento generale dei media nel senso che poi
-TOI068	quelli che ce l'hanno coi moru ce l'han coi moru comunque
+TOI068	# quelli che ce l'hanno coi moru ce l'han coi moru comunque
 TOI068	per cui quando c'è l'articoletto ah minchia perché non ve li pigliate a casa vos~ bam
 TOI068	io ogni tanto mi ci faccio le chiacchiere in giro cose
 TOI068	quello è l'italia cioè non credo che qua

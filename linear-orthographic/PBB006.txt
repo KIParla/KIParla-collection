@@ -1,28 +1,27 @@
 BOI020	xxxxxxx sulla mia vita intima personale
 BOR002	allora questo
 BOR002	ma sì dai se
-BOI020	xxxx io sono il responsabile della biblioteca @nomebiblioteca
+BOI020	xxxx io sono il responsabile della biblioteca
 BOR002	io lo avvicino un attimo di più
 BOR002	così si sente meglio lei
 BOR002	allora
 BOI020	x
 BOR002	ehm che lavoro fa
-BOI020	che lavoro faccio allora io sono il responsabile della biblioteca @nomebiblioteca
-BOI020	la biblioteca del quartiere porto saragozza e si trova a @nomeluogo
-BOI020	e sono arrivato nel duemiladiciassette alla biblioteca @nomebiblioteca
+BOI020	che lavoro faccio allora io sono il responsabile della biblioteca
+BOI020	la biblioteca del quartiere porto saragozza e si trova a
+BOI020	e sono arrivato nel duemiladiciassette alla biblioteca
 BOI020	in precedenza lavoravo
 BOI020	come bibliotecario per l'università di bologna
 BOR002	ah in che sede
-BOI020	ah ho lavorato per~ presso la scuola di @nomefacoltà, la biblioteca del dipartimento di @nomedipartimento,
-BOI020	e ho lavorato per molti anni a @nomeluogo appunto
+BOI020	ah ho lavorato per~ presso la scuola di la biblioteca del dipartimento di
+BOI020	e ho lavorato per molti anni a appunto
 BOR002	ah
-BOI020	@nomedipartimento
 BOR002	ah okay
 BOI020	e sono arrivato direi per caso
 BOI020	nel senso che
 BOI020	sono arrivato come tutti tramite concorso pubblico
 BOI020	ma io ho fatto un concorso pubblico per le biblioteche del'uni~ unione reno galliera
-BOI020	è stato abbastanza casuale nel senso che una collega m' ha detto
+BOI020	è stato abbastanza casuale nel senso che una collega m'ha detto
 BOI020	guarda che c'è vicino a casa tua s'è liberato un posto presso la biblioteca di credo pieve di cento
 BOI020	perché non studiamo insieme questo prova concorsuale poi se andiamo bene vinciamo xxx
 BOI020	è andata bene solamente che non mi hanno chiamato
@@ -43,7 +42,7 @@ BOI020	in qualche maniera l'idea di diventare responsabile di una biblioteca
 BOI020	era anche l'idea di avere maggiore autonomia nel mio lavoro quindi
 BOR002	ehm in cosa consiste il tuo lavoro quali sono le tue mansioni e se magari sono cambiate da sede a sede
 BOI020	beh io in questo momento mi trovo in mezzo a un guado
-BOI020	perché sono arrivato alla biblioteca @nomebiblioteca
+BOI020	perché sono arrivato alla biblioteca
 BOI020	e
 BOI020	c'è il covid poi ci sono stati dei lavori di ristrutturazione quindi in questo momento la sede
 BOI020	è chiusa da aprile di anno scorso e io mi ritrovo in una situazione un po' anomala nel senso che sono
@@ -95,18 +94,17 @@ BOI020	molto gradevoli giovani e motivate insomma era un bel lavoro
 BOI020	però ecco non sono il tipo di persona
 BOI020	che vuole iperspecializzarsi in una cosa e continuare a farla
 BOI020	d'altronde io ho fatto dei concorsi quando ho fatto il concorso per l'università
-BOI020	sono stato mandato ai tempi alla biblioteca @nomebiblioteca
+BOI020	sono stato mandato ai tempi alla biblioteca
 BOI020	a fare il perito e finire a ingegneria ecco
 BOR002	mh
 BOI020	e quando ho fatto il concorso per l'unione reno galliera sono finito a bologna
 BOI020	e c'erano in quel momento tre biblioteche dove fare il responsabile questa
-BOI020	@nomeluogo,
 BOI020	e spina
 BOI020	questa al pilastro è adesso
 BOR002	mhmh
 BOI020	x dove mi mandano cerco di fare il mio lavoro
 BOI020	ma non c'è un legame diciamo mio personale
-BOI020	o di formazione del personale o di legame col territorio che mi ha portato a @nomeluogo e poi a @nomeluogo
+BOI020	o di formazione del personale o di legame col territorio che mi ha portato a e poi a
 BOR002	okay
 BOI020	nel futuro non lo so io penso che cambiare sia
 BOI020	cambiare organizzazione quindi cambiare posti di lavoro anche nei termini di
@@ -150,12 +148,11 @@ BOI020	era una situazione di caos di traffico
 BOI020	e per non dire diciamo altre
 BOI020	situazioni legate a
 BOI020	c'era gente che urlava di notte nel parco m insomma una vita più confortevole sono contento di essermi spostato
-BOI020	a san giovanni però ho continuato a lavorare a bologna quindi prima in @nomeluogo,
-BOI020	@nomeluogo,
+BOI020	a san giovanni però ho continuato a lavorare a bologna quindi prima in
 BOR002	mh
-BOI020	quando sono arrivato in @nomeluogo io sapevo molto poco di questa roba qua
+BOI020	quando sono arrivato in io sapevo molto poco di questa roba qua
 BOI020	la mia prima impressione sono arrivato nell'inverno del duemiladiciassette
-BOI020	passare da @nomeluogo
+BOI020	passare da
 BOI020	quindi comunità di studenti bar no mi sembrava nell'inverno
 BOR002	mh
 BOI020	l'impressione di entrare in una cosa gotica ecco
@@ -188,7 +185,7 @@ BOI020	totalmente aspetto certo all'impatto iniziale di una mattina uggiosa no i
 BOI020	e sembrava di stare nella carica dei centouno perché c'erano tutte queste
 BOI020	persone con i cani bambini che giocavano e quindi
 BOI020	la biblioteca nel parco è una biblioteca più stagionale di una biblioteca
-BOI020	che si trova in @nomeluogo ecco questa è l'impressione che ho avuto
+BOI020	che si trova in ecco questa è l'impressione che ho avuto
 BOR002	ehm
 BOR002	secondo te bologna è un buon posto per lavorare
 BOR002	xxxxx
@@ -276,7 +273,7 @@ BOI020	di una piccola xxxtà
 BOI020	sembra una cazzata però
 BOI020	sicuramente non ha gli svantaggi di una grande città
 BOR002	ehm quando sei arrivato
-BOR002	mh alla biblioteca @nomebiblioteca
+BOR002	mh alla biblioteca
 BOR002	conoscevi chi lavorava prima
 BOI020	ma mh no conoscevo la responsabile della biblioteca
 BOI020	perché era
@@ -290,16 +287,16 @@ BOI020	nell'ambiente delle biblioteche del comune di bologna
 BOI020	conoscevo molte persone perché
 BOI020	ho iniziato a lavorare dopo dopo la laurea e servizio civile ho iniziato a lavorare per alcune cooperative che svolgevano
 BOI020	per mansioni soprattutto di catalogazione nel mio caso all'interno del sistema bilbiotecario del comune
-BOI020	quindi ho lavorato per per @nomebiblioteca, ancora prima dell'apertura di @nomebiblioteca eravamo a @nomeluogo a catalogare questa
+BOI020	quindi ho lavorato per per ancora prima dell'apertura di eravamo a a catalogare questa
 BOI020	immensa e meravigliosa quantità di libri fumetti e
 BOI020	e quindi poi ho lavorato per altre biblioteca di quartiere insomma quella cooperativa lì
 BOI020	ho conosciuto delle persone ho fatto uno stage all'archiginnasio quindi conoscevo un po' l'ambiente
 BOI020	era un non a quello della biblioteca xxxx
-BOR002	di @nomeluogo
+BOR002	di
 BOR002	x x x x x
 BOI020	sì
 BOI020	tutti gli studenti cioè tutti adesso tutti è un'esagerazione ma
-BOI020	e @nomeluogo: e è è tutt'ora un luogo di frequentazione degli studenti
+BOI020	e e è è tutt'ora un luogo di frequentazione degli studenti
 BOI020	il parco
 BOI020	soprattutto nel periodo primaverile inizio dell'estate
 BOI020	ci muova~
@@ -313,8 +310,8 @@ BOI020	questo me lo ricordate
 BOI020	la mia stag~ della biblioteca
 BOI020	no
 BOI020	la biblioteca
-BOI020	ehm di @nomeluogo non ha mai xxxx xonti le altre biblioteche del quartiere sì perché le ho frequentate perché abitavo nei pressi ma
-BOI020	@nomeluogo no
+BOI020	ehm di non ha mai xxxx xonti le altre biblioteche del quartiere sì perché le ho frequentate perché abitavo nei pressi ma
+BOI020	no
 BOI020	però il parco sì
 BOR002	mhmh
 BOR002	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -323,7 +320,7 @@ BOI020	un po' si vive bologna però si vive a volte in una bolla da studenti qui
 BOI020	senza
 BOI020	senza porsi no senza chiedersi
 BOI020	però c'è anche il problema che se adesso tu parli del
-BOI020	@nomeluogo vera e propria e quindi quella lì anch'io quando studiavo
+BOI020	vera e propria e quindi quella lì anch'io quando studiavo
 BOI020	non c'era nulla ancora lì quindi è stata adibita al museo de~ della tappezzeria un bellissimo museo
 BOI020	poi sul museo a un certo punto è stato chiuso naturalmente si è trovato chiuso anche il museo quindi
 BOI020	era anche difficile beh
@@ -341,7 +338,7 @@ BOI020	non mi ricordo se parigi molto probabilmente parigi
 BOI020	mi manda un suo romanzo tra l'altro edito da
 BOI020	rusconi rizzoli quindi un editore importante
 BOI020	e mi spedisce questo romanzo con una lettera chiusa dove dice gentile direttore io
-BOI020	ho studiato a bologna al tempo frequentavo il parco di @nomeluogo e la biblioteca
+BOI020	ho studiato a bologna al tempo frequentavo il parco di e la biblioteca
 BOI020	e quindi alcune delle cose che sono oggetto diciamo
 BOI020	dei miei anni universitari di questo mio romanzo di formazione
 BOI020	sono legati alla sua biblioteca quindi se gliene spedisce una copia
@@ -359,7 +356,7 @@ BOI020	l'ho conosciuto attraverso un mio amico che lavora come progettista in la
 BOI020	che
 BOI020	vorrebbe donarti un libro perché gli ho detto che tu lavoravi in biblioteca e anche questo libro aveva come oggetto diciamo i suo~ i suoi anni di studio presso
 BOI020	la
-BOI020	allora facoltà di ingegneria la frequentazione del parco di @nomeluogo e quindi
+BOI020	allora facoltà di ingegneria la frequentazione del parco di e quindi
 BOR002	mh
 BOR002	certo xx vicinissimo
 BOI020	sì beh gli ingegneri hanno un bellissimo parco in via del risorgimento
@@ -393,19 +390,18 @@ BOI020	io studiavo anche infatti io mi son laureato spero anche tu
 BOR002	xxx verissimo è così
 BOI020	quindi te lo auguro
 BOR002	xxxxxxxxxxx
-BOR002	m'è venuto in mente adesso ehm se per caso sai come mai la biblioteca è intitolata a @nomebiblioteca e se è xxx io non l'ho mai sentito nominare
-BOI020	@nomebiblioteca
+BOR002	m'è venuto in mente adesso ehm se per caso sai come mai la biblioteca è intitolata a e se è xxx io non l'ho mai sentito nominare
 BOI020	era uno studioso di storia locale è stato un insegnante di bologna
 BOI020	e quindi il comune ha deciso di intitolare la biblioteca adesso penso che sia
 BOI020	dal novantotto mah quindi abbastanza recentemente perché
 BOI020	xx del quartiere ex quartiere saragozza
 BOI020	credo nasca nel millenovecentosettanta in quegli anni lì
-BOI020	è arrivata a @nomeluogo a metà degli anni novanta alla fine degli anni novanta è stata intitolata @nomebiblioteca studioso di storia locale
+BOI020	è arrivata a a metà degli anni novanta alla fine degli anni novanta è stata intitolata studioso di storia locale
 BOI020	e insegnante ecco
 BOI020	una figura diciamo
 BOI020	di cultura bolognese
 BOR002	ehm
-BOI020	io non so dirti se @nomebiblioteca avesse un legame particolare con la biblioteca
+BOI020	io non so dirti se avesse un legame particolare con la biblioteca
 BOI020	non è non è necessario
 BOR002	mhmh
 BOR002	e invece cambiando argomento
@@ -422,7 +418,7 @@ BOI020	molte di queste persone poi non sono solo
 BOI020	e in~ individui che vengono a studiare e a leggere in biblioteca ma rappresentano associazioni attive nel territorio
 BOI020	scuole insegnanti
 BOI020	quindi sì si entra in una rete di relazioni
-BOI020	ho conosciuto queste persone quando sono andato a lavorare come responsabile nella biblioteca @nomebiblioteca
+BOI020	ho conosciuto queste persone quando sono andato a lavorare come responsabile nella biblioteca
 BOI020	l'impressione è estremamente positiva devo dire
 BOI020	ehm perché
 BOI020	non è solo uno spazio diciamo amministrativo
@@ -496,7 +492,7 @@ BOR002	xxxxxxxxxxx
 BOI020	eh certamente sì
 BOR002	xxxxxxxxxxxxx
 BOR002	xxxxxxxxxxxxxxxx
-BOI020	penso sia lei una persona che ha m un'intelligenza che ha lucidità e ha la memoria di e la capacità di ricordare quindi
+BOI020	penso sia lei una persona che ha mh un'intelligenza che ha lucidità e ha la memoria di e la capacità di ricordare quindi
 BOI020	nell'accoglienza che mi ha fatto
 BOI020	a parte che ci teneva a dire ma fai il mestiere diceva fai il mestiere più bello del mondo
 BOI020	no
@@ -613,7 +609,7 @@ BOI020	xxxxxxxxxxxxxxxx raccontare questa storia quindi
 BOI020	ma è xxx faccioni che è ha scritto i testi per questo grafic novel
 BOI020	e serpenti che è xxxxxx ricostruito questo itinerario un libro di scuole
 BOI020	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-BOI020	con anpi è stato subito all'inizio della mia del mio arrivo a @nomeluogo
+BOI020	con anpi è stato subito all'inizio della mia del mio arrivo a
 BOI020	grazie alla questa collaborazione xxxxxxxxxxxxx
 BOI020	poi dopo abbiamo fatto molte cose
 BOI020	ad esempio xxxxxxxxxxxxxxxxxxxxx questo progetto di anpi con xxxxxxx
@@ -621,7 +617,7 @@ BOR002	xxxx
 BOI020	l'accademia delle belle arti
 BOR002	xxxxxxxxxxx
 BOI020	xxxxxxx nei luoghi in cui il progetto è stato presentato xxxxx accademia di belle arti e anpi
-BOI020	naturalmente la biblioteca @nomebiblioteca
+BOI020	naturalmente la biblioteca
 BOI020	poi loro mi hanno invitato e io ero un po' titubante xxx pubblico
 BOI020	che a ogni anno mh
 BOI020	xxx
@@ -666,7 +662,7 @@ BOI020	mh
 BOI020	questo sentiero affianca tutto il lato della sala studio della biblioteca e arriva al monumento
 BOI020	cosa quella divisione lì non è naturale neanche dal punto di vista della dell'occhio umano
 BOI020	oppure potrebbe essere
-BOI020	potrebbe essere lei e m xxxxxxxxxx di unire
+BOI020	potrebbe essere lei e mh xxxxxxxxxx di unire
 BOI020	la biblioteca al monumento
 BOI020	già l'idea del monu~ del monumento era un'idea di arte pubblica
 BOI020	fatta insieme alle scuole insieme al luogo di lavoro ehm
@@ -690,7 +686,7 @@ BOI020	x x x
 BOI020	quando tu sei in un'altra città
 BOI020	ti accorgi che non ci sono xx anche io ho avuto questa esperienza
 BOI020	abbiamo una scrittrice
-BOI020	che non solo è una scrittrice che frequenta la biblioteca e @nomebiblioteca
+BOI020	che non solo è una scrittrice che frequenta la biblioteca e
 BOI020	ma è una persona che anima il gruppo di lettura
 BOI020	x x x
 BOR002	sì

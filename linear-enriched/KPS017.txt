@@ -1,8 +1,8 @@
-PKP083	[è un piace]re
 PKP085	[x]
+PKP083	[è un piace]re
 PKP085	[mio]
-PKP083	((ride))
 PKP085	tanto che mi mancavate son mi~ s[ono contento che:]
+PKP083	((ride))
 PKP086	[gra:zie grazie]
 PKP087	[veramente ci] mancate TANTISSIMO quando siete fuori
 PKP085	((ride))
@@ -30,8 +30,8 @@ PKP087	e:h [vabbè vab]b[è vabbè comunque]
 PKP085	[ci fac~]
 PKP086	[ieri sai que]st~
 PKP086	ieri siamo stati al mare con nonna
-PKP083	[ah sì]?
 PKP085	[ah]
+PKP083	[ah sì]?
 PKP086	[tutto] il giorno
 PKP083	°che b[e:llo°]
 PKP086	[a puli]re tutto per::
@@ -307,8 +307,8 @@ PKP087	[pa]zzesco guarda ((ride))
 PKP087	brava brava verament[e]
 PKP086	[t]u come sei messo marco?
 PKP085	co~?
-PKP086	[x]?
 PKP085	[io sono m]esso: m:h
+PKP086	[x]?
 PKP085	vabbè io gli esami li inizio a: metà giugno
 PKP083	aiuto che ansia
 PKP083	((ride))
@@ -539,8 +539,8 @@ PKP086	[l'importante è andare avanti]
 PKP087	[esa:tto esatto esa]tto esatto
 PKP085	l'importante sarà (.) se se a qualcuno interessa del voto è quello della magistrale
 PKP085	ma comunque
-PKP083	[magari per entrare in] qualche: m:h
 PKP085	[non è quello che:]
+PKP083	[magari per entrare in] qualche: m:h
 PKP083	università magistrale
 PKP083	possono richiedere un punteggio alto
 PKP083	però in realtà [penso che si sta anche alzando il punte]ggio mini[mo: per entrare]
@@ -707,8 +707,8 @@ PKP083	n:el coso dell[e:]
 PKP086	[n~] ne~ ne~
 PKP083	delle fo~ ((ride))
 PKP087	il computer? quando mh passa:
-PKP083	((ride))
 PKP085	((ride))
+PKP083	((ride))
 PKP086	sì son piccoline poi
 PKP085	((ride))
 PKP087	quella è bella comunque come fotografia è molto bella quella eh? la come riproduzione è bellissima
@@ -1089,8 +1089,8 @@ PKP086	((ride))
 PKP085	[poi cosa si mangia]
 PKP083	((ride))
 PKP085	cioccolato vabbè
-PKP086	[(eh vabbè:)]
 PKP085	[c'è il cioccolato]
+PKP086	[(eh vabbè:)]
 PKP083	[cioccolato]
 PKP087	[eh]
 PKP085	buonissimo
@@ -1135,8 +1135,8 @@ PKP083	((ride))
 PKP083	[le bruci sempre]
 PKP083	((ride))
 PKP083	le <brucia> sempr~
-PKP083	[sì invece
 PKP085	[non è ver~]
+PKP083	[sì invece
 PKP083	s[ì::]
 PKP086	[la] cotoletta è la cosa più [semplice da fa~]
 PKP085	[sai che la cotole]tta (.) alla milanese non si fa come la facciamo solitamente?
@@ -1173,8 +1173,8 @@ PKP085	due volte
 PKP086	due vo[lte ve~]
 PKP085	[però si fa far]i:na e pangrattato (.) e poi e [poi non] si frigge nell'olio si frigge nel burro
 PKP087	[bravo]
-PKP086	[nel burro]
 PKP085	[ho scoperto questa cosa]
+PKP086	[nel burro]
 PKP087	[e::h ma nel ma nel burro]
 PKP083	[e:bbè ce:rto]
 PKP086	[nel burro]
@@ -1193,8 +1193,8 @@ PKP085	[esatto tutt~ tutt~ n~ n~
 PKP086	[no::]
 PKP083	[no e devi semplice]mente mettere [su] con [xx]
 PKP085	[devi]
-PKP086	[e io guarda l'ho visto (.) io] l'ho visto
 PKP085	[tu prendi l'olietto e metti sopra]
+PKP086	[e io guarda l'ho visto (.) io] l'ho visto
 PKP086	non la devi girare
 PKP087	però col burro è molto pe[sa:nte]
 PKP086	[no:] vabbè [il burr~ no~]
@@ -1286,8 +1286,8 @@ PKP085	[a:h ok]ay
 PKP086	[(la parte eh)]
 PKP086	e la mangiavi co[sì]
 PKP087	[l'o]ss[o certo la pa]rte dell'osso
-PKP083	[sì è vero è vero]
 PKP085	[a::h okay]
+PKP083	[sì è vero è vero]
 PKP087	e:h mela? banana?
 PKP083	ah u::h uh marco
 PKP085	io pro~ un un attimo io so~ io sono
@@ -1361,8 +1361,8 @@ PKP083	[<assolutamente>]
 PKP085	[oste]rie che a [t~] che a torino si chiamano:
 PKP083	[sì]
 PKP087	[s]econdo me
-PKP083	[piole]
 PKP085	[piole]
+PKP083	[piole]
 PKP086	no
 PKP086	[piol]a in sardegna [a cagliari]
 PKP087	[eh]?
@@ -1501,8 +1501,8 @@ PKP085	[sì la la pasta tra]
 PKP087	[sì l'ha fat]to lui tutto questo [pia~]
 PKP085	[la pa]sta l'ho [l'ho l'ho finit~]
 PKP086	[ma: e questa pa]sta?
-PKP086	[cosa sono]?
 PKP085	[sono pacch]eri
+PKP086	[cosa sono]?
 PKP085	però (.) >praticamente< ho fatto così
 PKP085	ho fatto:
 PKP085	eh ho messo il guanciale in padella così suda bene e esce tutto il grasso
@@ -1587,8 +1587,8 @@ PKP083	[certo sì]
 PKP083	mhmh
 PKP086	[beh eh]
 PKP085	[ah nonna e]cco cosa ti devo chiedere la fregola
-PKP086	[a:h]
 PKP085	[come si] fa?
+PKP086	[a:h]
 PKP086	[fregola]
 PKP085	[si fa risott]are? perché io l'ho prova~ l'ho provata sia come se fosse::
 PKP083	((ride))
@@ -1701,14 +1701,14 @@ PKP086	[sì]:
 PKP087	[io l'ho]
 PKP085	[è] è farina e acqua no?
 PKP087	e no è:: [è semola]
-PKP086	[no è semola]
 PKP085	[è è semola di grano du]ro e acqua
+PKP086	[no è semola]
 PKP087	e la [semola]
 PKP086	[semola e la] devi sempre gi[rare girare girare]
 PKP085	[così così va]
 PKP087	[sì]
-PKP086	[in qualsiasi re~ x]
 PKP085	[io pensavo fosse::]
+PKP086	[in qualsiasi re~ x]
 PKP087	[in una: in un]a: i[n qualsi]asi reci[piente]
 PKP086	[no]
 PKP085	[in base a quanto la giri ti vie]ne più piccola o più [grossa]
@@ -1767,8 +1767,8 @@ PKP085	ah ah
 PKP087	non [è::]
 PKP086	[a te] non piacciono le le: le vongole?
 PKP085	come no?
-PKP086	le vendono a torino le vongole [al market]
 PKP085	((ride))
+PKP086	le vendono a torino le vongole [al market]
 PKP085	[e però i~ no]n le ho mai comprate perché no[n::] m:h
 PKP086	[allora]
 PKP085	cioè non so se:
@@ -1790,15 +1790,15 @@ PKP083	((ride))
 PKP086	((ride))
 PKP083	((ride))
 PKP085	se
-PKP086	[bologna] ugualmente:
 PKP085	[allora]
+PKP086	[bologna] ugualmente:
 PKP083	((ride))
 PKP086	vengono da lì vengono
 PKP085	se le fa~ allo~ stavo pens[ando di farle]
 PKP086	[perché non ci so]no quelle grandi che abbiamo noi nere nere [nere lo]ro hanno quelle più bianche piccoline
 PKP085	[ah ah]
-PKP083	[mhmh]
 PKP085	[ah okay]
+PKP083	[mhmh]
 PKP086	quelle là
 PKP085	che chiamano i lupini
 PKP085	non so
@@ -1828,26 +1828,26 @@ PKP086	[stria]ta
 PKP085	[esattamente]
 PKP087	[e le altre sono] vongol[e]
 PKP086	[eh]
-PKP086	#[i]n sardo di dice cocciula
+PKP086	# [i]n sardo di dice cocciula
 PKP085	o[kay]
 PKP083	[goc]ciola o [co]
 PKP087	[co]
-PKP086	#[co]cciul[a]
+PKP086	# [co]cciul[a]
 PKP087	[co]
 PKP083	[co]
 PKP083	[co]
-PKP087	#[cocciula]
-PKP086	#[cocciula]
+PKP087	# [cocciula]
+PKP086	# [cocciula]
 PKP085	[e l'ars]e~ però l'[arsella]
-PKP086	#[cocciula] cao
+PKP086	# [cocciula] cao
 PKP086	è la q~
 PKP086	quelle arselle NERE belle grandi
 PKP086	capito?
 PKP085	okay
 PKP083	[mhmh]
 PKP086	[eh]
-PKP086	#e cocciula imbriaga
-PKP086	#imbriaga
+PKP086	# e cocciula imbriaga
+PKP086	# imbriaga
 PKP086	lo s[ai perché]?
 PKP083	[ubriaca]
 PKP086	era
@@ -1867,7 +1867,7 @@ PKP083	((ride))
 PKP085	[a:h] okay
 PKP086	((ride))
 PKP083	((ride))
-PKP086	#poi ti umbriaga
+PKP086	# poi ti umbriaga
 PKP085	è perché invece ca~ cau o cao?
 PKP086	cau (.) cocciola cau era [era quelle gra]ndi
 PKP085	[cos~ vuol dire cau]
@@ -2152,8 +2152,8 @@ PKP087	((ride))
 PKP085	[eh m]a ci pas[sa più tempo]
 PKP086	[siccome è stata aperta]
 PKP087	[eh sì (.) certo]
-PKP086	[poi io]
 PKP085	[e io ne ho grattu]giata u[na simile a quella li:]
+PKP086	[poi io]
 PKP086	[ce n'erano due]
 PKP087	[queste] eh
 PKP087	no: [questa è questa è vec]chia diciamo]
@@ -2403,8 +2403,8 @@ PKP086	[ma] guarda che queste cose qua generalmente vengono già confezionate in
 PKP085	[okay]
 PKP085	ah ah?
 PKP086	come la trovi in pescheria CHIUSA così la trovi al mercato
-PKP086	[perché anche in pesche]ria sono in quel modo là
 PKP085	[sì però non so]
+PKP086	[perché anche in pesche]ria sono in quel modo là
 PKP086	giustamente sono pacchetti da un [chilo]
 PKP087	[che non do]vrebbero essere [sfuse]
 PKP086	[o da mezzo] chilo

@@ -41,7 +41,7 @@ PKP133	((rutta))
 PKP133	che è?
 PKP133	ah sta::
 PKP125	((ride))
-PKP133	#e chest fa part pur: ((ride))
+PKP133	# e chest fa part pur: ((ride))
 PKP132	vabbè ci voleva
 PKP132	comunque
 PKP125	((ride))
@@ -49,7 +49,7 @@ PKP132	cinque giorni sono stati [(confort)]
 PKP133	[xxxx] che che non faceva faceva caldo però non s~ non si sudava perché era secco
 PKP125	m[h]
 PKP132	[e]h (.) [(non era)]
-PKP133	#[appena arrivati] accà
+PKP133	# [appena arrivati] accà
 PKP133	ho inizia[to a sudare]
 PKP132	[veramente] eh
 PKP133	asciutto proprio
@@ -108,14 +108,14 @@ PKP133	[siamo stati fortunati perché sta]vamo proprio nella prima ca:mera [c~ c
 PKP132	[la prima camera è vicinissimo]
 PKP133	(tieni) il più vicino
 PKP132	un paio di metri eh
-PKP133	#xxx a mamm't lì è un po' vecchiott c'itt (issa c'ha mal' a' gamba) non ce la fà a cammin[à]
+PKP133	# xxx a mamm't lì è un po' vecchiott c'itt (issa c'ha mal' a' gamba) non ce la fà a cammin[à]
 PKP132	[n]o
 PKP125	mhmh,
-PKP132	#chill' quand'verett' a me
+PKP132	# chill' quand'verett' a me
 PKP132	poi andai là
-PKP132	#chell' subito attaccò: attaccò bottone tu non c'eri proprio
+PKP132	# chell' subito attaccò: attaccò bottone tu non c'eri proprio
 PKP125	((ride))
-PKP133	#(e che è) n'attacca bottone chillo?
+PKP133	# (e che è) n'attacca bottone chillo?
 PKP132	da me hann' su[bito incominciat]o a attaccare bottone
 PKP125	[ma chi è]?
 PKP132	p[oi avevi (s]ti du~)
@@ -131,7 +131,7 @@ PKP132	cinquantadue anni
 PKP125	ah
 PKP132	no ma non ti sembra ve~?
 PKP132	sembra più giovane
-PKP133	#(s'è viaggia~) tutto il mo~ tutto o munn' amer[ica:]
+PKP133	# (s'è viaggia~) tutto il mo~ tutto o munn' amer[ica:]
 PKP125	[m:h],
 PKP133	a:frica [(india) ci:na tutto]
 PKP132	[ha girato (e tiene) due figli stupe]ndi come i suoi sono bellissimi i due figli
@@ -139,7 +139,7 @@ PKP132	due maschi,
 PKP125	[x] l'eden è un bel lido però [eh] (il) più bello
 PKP132	[mh]
 PKP132	che lavorano ta:nto ta:nto tanto pure la moglie lavora (mo ci) stava sempre alla cassa
-PKP132	#però: sai che era? la moglie si dava un po' di arie >era nu poco presuntuosa< però: è stat~ sempre gentile con noi
+PKP132	# però: sai che era? la moglie si dava un po' di arie >era nu poco presuntuosa< però: è stat~ sempre gentile con noi
 PKP133	eh
 PKP125	mh
 PKP132	ho fatt~ (le) ho fatto tre caffè p[o~]
@@ -149,7 +149,7 @@ PKP125	ma: sono di formia?
 PKP132	di gae:ta
 PKP125	°gaet~°?
 PKP132	no vabbè
-PKP133	#essa era figl' i' pa~ u pat' era (un certo) banchiere (la gente) stavano a posto
+PKP133	# essa era figl' i' pa~ u pat' era (un certo) banchiere (la gente) stavano a posto
 PKP125	m:h
 PKP133	[(eh)]
 PKP132	[pa]dre della moglie
@@ -173,7 +173,7 @@ PKP133	[xx]
 PKP132	che oggi vale un patrimonio ma all'epoca no[n valeva niente]
 PKP133	[non valeva niente]
 PKP132	allora:
-PKP133	#ma quello fece scena copp' là
+PKP133	# ma quello fece scena copp' là
 PKP133	er~ [era u]na tragedia
 PKP132	[ah]
 PKP132	ah come (i gatt~)
@@ -202,7 +202,7 @@ PKP132	e quindi a questa donna pia:que quel po:sto e lui restò là
 PKP132	incominciò a coltivare un pezzo di te:rra
 PKP132	incominciò: a mettere: un ombrello:ne:
 PKP132	qualcuno che: della zona che scendeva al m[a:re e cos:ì]
-PKP133	#[ma nun c' stev a' cu]ltura come a [mo che] eran' [tutt' quant'] ma era tutta gente così normale
+PKP133	# [ma nun c' stev a' cu]ltura come a [mo che] eran' [tutt' quant'] ma era tutta gente così normale
 PKP132	[eh]
 PKP125	[m:h]
 PKP125	[nel]lo stabilimen[to],
@@ -213,7 +213,7 @@ PKP132	(da: e:h) [non tien~ non c'è: EH] BRA:vo non c'è il negozio non ci s[ta
 PKP125	[una città di mare no]?
 PKP125	[non c'è niente]
 PKP125	strada e montagna monta[gna e ma:re]
-PKP133	#[che po' là già] c' stev xxxx più avanti come si chiama lu pos[t]
+PKP133	# [che po' là già] c' stev xxxx più avanti come si chiama lu pos[t]
 PKP132	[l]a fla:cca
 PKP133	no: più avanti a gae[ta]
 PKP125	[xxx] (piana) di sant'ago[stino]?
@@ -221,7 +221,7 @@ PKP133	[capito]? no
 PKP132	la pian~
 PKP133	dove sta xxxxxx
 PKP132	(SErapon)
-PKP133	#già ci stava (serapon) loro eran ['cchiù:] ['cchiù] nominat allor' [xxxxx]
+PKP133	# già ci stava (serapon) loro eran ['cchiù:] ['cchiù] nominat allor' [xxxxx]
 PKP125	[ah]
 PKP125	[ah]
 PKP132	[e::h ma] non c'e:ra: c'era c'era il ma:re sta la spiaggia di (sera~)
@@ -229,14 +229,14 @@ PKP132	ma non c'era niente là c'erano tutti vigneti diceva [questo: roberto
 PKP133	[xxxxx] pur' a' gente vien tutta quanta a' sera (vestititi) un [po' ex: fuori mano]
 PKP132	[A:H EH eh perché c'era]
 PKP133	non (ci [andavano) proprio]
-PKP132	#[non ci anda:]vano e (chilli) giù alla montagna come si faceva a scendere?
+PKP132	# [non ci anda:]vano e (chilli) giù alla montagna come si faceva a scendere?
 PKP132	comunque (chill) dice che il padre: e:hm
 PKP132	incominciò a vendere un po' di vi:no che là era tutti vigneti vino buono
 PKP132	>incominciò a mettere qualche ombrellone< loro: poi da ragazzini
 PKP132	disse che avevano fatto la fa:me
 PKP133	ci stava nu lido più avanti
 PKP133	e:ra nu campo (nudisti)
-PKP133	#ievn là raccuglievan tutt' e:' bottiglie poi se ne andavano (a gaeta) a fare qualche cosa di soldi
+PKP133	# ievn là raccuglievan tutt' e:' bottiglie poi se ne andavano (a gaeta) a fare qualche cosa di soldi
 PKP125	mh
 PKP132	vendevano: le bottiglie là a (coccun)
 PKP132	comunque
@@ -254,11 +254,11 @@ PKP132	era una spiaggiante ja una turista: de:~ di quel >perché lui poi aveva s
 PKP132	andava al li:do
 PKP132	e quindi si sono conosciuti >si sono< sposa:ti sono [nat]i due figli due bellissimi ragazzi
 PKP125	[mh]
-PKP132	#>a mugliera tiene< un poco gli occhi a mandorla e i figli tale e quale gli stess[i occhi]
+PKP132	# >a mugliera tiene< un poco gli occhi a mandorla e i figli tale e quale gli stess[i occhi]
 PKP133	[ma che è: ch~] che cosa xxxxx (cosa)?
-PKP132	#e:h iss' i' ten lui ce li ha chiari
-PKP133	#che è a' moglie ten un poco di xx
-PKP132	#scu:ri te~ i~ e:hm un poco gli occhi come marce:lla accussì
+PKP132	# e:h iss' i' ten lui ce li ha chiari
+PKP133	# che è a' moglie ten un poco di xx
+PKP132	# scu:ri te~ i~ e:hm un poco gli occhi come marce:lla accussì
 PKP132	a: belli lu~ allungati
 PKP133	però: so:~ molto chiari xxx
 PKP125	ma secondo me quando ho c:hiamato mi hanno risposto loro
@@ -277,15 +277,15 @@ PKP125	[ci vorrebbe uno] fi:sso che risponde prende [le p]renotazi[oni]
 PKP132	[eh]
 PKP132	[ti (ce]rchi) una ragazza x
 PKP132	la [ragazze sono più sve:glie]
-PKP133	#[sì tenen a lavurà quarantaseu pers]o:ne là [eh]
+PKP133	# [sì tenen a lavurà quarantaseu pers]o:ne là [eh]
 PKP125	[m]hmh
 PKP133	eh eh
 PKP133	xxx
 PKP133	tra bagni:n(o) ch' e' cuoc(o)
 PKP133	ca~ cameriere interna barista
 PKP133	(chill internamen[t~])
-PKP132	#ten a' cent' [persone]
-PKP133	#[chell' ch~ (.) qua]nt'?
+PKP132	# ten a' cent' [persone]
+PKP133	# [chell' ch~ (.) qua]nt'?
 PKP132	cento pers[one]
 PKP125	[qua]ranta[due (metri)]
 PKP133	[quaranta]tre persone
@@ -298,12 +298,12 @@ PKP132	ah è nu lido?
 PKP132	no::
 PKP125	[ah m]a è un villa[ggio ora]
 PKP133	[xxxx]
-PKP132	#chell è nu villa:g[gio]
+PKP132	# chell è nu villa:g[gio]
 PKP133	[tu q]uando affi::tti i cosi i matrimo:ni (.) piglia anche un altro personale x,
 PKP125	mh
 PKP132	quello mo: [tiene tiene quaran]ta [bu~ ehm quaranta tra camere e bungalow]
 PKP125	[ah fa anche i matrimoni]?
-PKP133	#['azz (.) tenen:] tenen a' sa:la xxx [(veramente)]
+PKP133	# ['azz (.) tenen:] tenen a' sa:la xxx [(veramente)]
 PKP132	[bellissima]
 PKP133	(u)na cosa spettacolare
 PKP125	mh
@@ -317,7 +317,7 @@ PKP133	una sembra una specie (di fi:~ i fichi so~)
 PKP132	[NO È UG]UA~ NO
 PKP132	è: quella che mi diede gigi
 PKP132	quella che cresce
-PKP132	#se vedi il ramo giù è identica stessa pianta infatti: gigi (dice~) chesta diventa un albero immenso
+PKP132	# se vedi il ramo giù è identica stessa pianta infatti: gigi (dice~) chesta diventa un albero immenso
 PKP132	e comunqu[e:]
 PKP125	[tu] hai detto io ti ho portato una composizione di piante grasse
 PKP132	la FO:to
@@ -358,12 +358,12 @@ PKP132	do:po >quando venne papà disse paghiamo dopo< sì: non vi preoccupate pa
 PKP132	po(i):
 PKP132	ma questo già prima di: di: prendere intraprendere delle conversazio:ni eh
 PKP132	po(i): m:h
-PKP132	#issa: ha detto vabbè: robe' paghiamo sabato sera
+PKP132	# issa: ha detto vabbè: robe' paghiamo sabato sera
 PKP132	se va bene madame come vuoi tu
 PKP132	po(i): (qua~) la sera
 PKP132	prima di pra:nzo ci ha dett~ vabbè potete anche cenare e poi pagare >gli ho dett~< vabbè no:
 PKP125	mh
-PKP132	#paghiam' e:h >agg ritt<
+PKP132	# paghiam' e:h >agg ritt<
 PKP132	paghiamo dopo cena >ci ha dett~< vabbè tanto io vi tengo sotto controllo
 PKP125	((ride))
 PKP132	comunque:
@@ -372,14 +372,14 @@ PKP125	ma (.) (quello) in genere così si f[a]
 PKP132	[n]o
 PKP125	che [appena arrivi paghi]
 PKP132	(non è vero albe']
-PKP132	#chist' c'ate pavà:
+PKP132	# chist' c'ate pavà:
 PKP132	subito attaccò [bottone]
-PKP125	#[vabbuò ha detto] sti du' viecchj arò fujn
-PKP132	#no:: eh sì sti du' viecchj steven atri più viecchj e nuje vafangul
+PKP125	# [vabbuò ha detto] sti du' viecchj arò fujn
+PKP132	# no:: eh sì sti du' viecchj steven atri più viecchj e nuje vafangul
 PKP125	((ride))
 PKP125	dove scappano (questi)?
 PKP132	no: xx tant~ io vi tengo sotto controllo perché
-PKP132	#a' copp' arò s'assittav iss' o bungalow nostro s' vedeva
+PKP132	# a' copp' arò s'assittav iss' o bungalow nostro s' vedeva
 PKP125	((ride))
 PKP125	ma quindi non c'era distinzione tra camere e bungalow,
 PKP132	stessa cosa
@@ -408,13 +408,13 @@ PKP132	io non ho r~ messo nemmeno fuori xx (mano mano)
 PKP125	perché?
 PKP132	perché lui venne:
 PKP125	e come hai fatto il caffè
-PKP132	#no:: ma chill è nu caffè: che ci piglia:v'n
+PKP132	# no:: ma chill è nu caffè: che ci piglia:v'n
 PKP125	non lo facevi il caffè?
 PKP132	no: io [non l]o prendevo al mattino mi piace di pomeriggio
 PKP125	[ah],
 PKP125	mh,
-PKP132	#pat't manc:
-PKP132	#pat't i' vot manc' u' pomeriggio
+PKP132	# pat't manc:
+PKP132	# pat't i' vot manc' u' pomeriggio
 PKP125	la mattina al bar, no? al buffet
 PKP132	no
 PKP132	ah lui sì i' no
@@ -456,7 +456,7 @@ PKP132	[x] il diciannove settembre di tutti i napolet[ani vanno a]
 PKP125	[san genn]aro eh
 PKP132	>è san gennaro< c'è la tradizione di andare al ma:re
 PKP125	e:h si fa ne~ v~ eh il bagno [eh]
-PKP132	#[il] BAgno ricett te vuless fa v'ré qua
+PKP132	# [il] BAgno ricett te vuless fa v'ré qua
 PKP132	il diciannove settembre quan[ta gente vie]:ne
 PKP125	[quanta gente c'è]
 PKP132	di: napoletani
@@ -473,9 +473,9 @@ PKP125	[new york]
 PKP125	mh
 PKP132	perché a lui piace vedere:
 PKP125	mh
-PKP132	#ricett ma cume te n' tene si pazz' ricett no io sono [sempre s~]
+PKP132	# ricett ma cume te n' tene si pazz' ricett no io sono [sempre s~]
 PKP125	[vien](i) a castel volturno
-PKP132	#eh ha itt c'u conusc xx
+PKP132	# eh ha itt c'u conusc xx
 PKP125	[(n]o il bronx)
 PKP125	le favelas
 PKP132	lo conosce
@@ -483,7 +483,7 @@ PKP132	>ha detto che lui< ama:
 PKP132	è curioso da giovane:
 PKP132	da giovane ha girato il mondo
 PKP125	(stu) roberto?
-PKP132	#u frate mo se ne va
+PKP132	# u frate mo se ne va
 PKP125	dove?
 PKP132	va alle maldive (.) e torna: ad aprile
 PKP125	perché?
@@ -496,12 +496,12 @@ PKP132	EH
 PKP132	è quello è [(l~ d~) suo e del fratello]
 PKP125	[e che è millionario], sto
 PKP125	quant~ sold~ fa stu: lido?
-PKP132	#o:: assai ricett io i: soldi li guadagno ma li spendo anche
+PKP132	# o:: assai ricett io i: soldi li guadagno ma li spendo anche
 PKP132	me li mangio an~
 PKP132	comunque:
 PKP132	lui
 PKP132	quando vanno in vacanza (van~) vanno in un posto:
-PKP132	#è stat pur' 'ngopp i' vel a: dubai
+PKP132	# è stat pur' 'ngopp i' vel a: dubai
 PKP132	cioè va in un alBErgo super alb~ super lussuoso
 PKP132	però poi lui gira non ho capito se pure i figli e la moglie non ci ho chie~ o: solo lui
 PKP132	perché lui è curioso pia:ce:
@@ -546,7 +546,7 @@ PKP125	in cambio del favore
 PKP132	mh
 PKP132	l'apparecchio: acustico?
 PKP125	mh
-PKP125	#ma a' machina e' papà (e') purtat a accuncia'?
+PKP125	# ma a' machina e' papà (e') purtat a accuncia'?
 PKP132	eh la: fa: marco ma marco dice che non c'è niente po:(i)
 PKP132	e:hm:
 PKP132	questa macchina
@@ -588,16 +588,16 @@ PKP125	[(ah s:ì?)]
 PKP132	[non cr]edo proprio
 PKP132	perché là: infatti le recensioni dicono non c'è organizzazione perché ci vuole uno solTAnto per le pre[notazioni]
 PKP125	[per le prenotazio]ni è ve[ro]
-PKP132	#[in]fatti dice che prima aveva ua raGAzza e ci ha combinato nu maciello
-PKP132	#ricett l'hanno scorso m'ha combinato nu maciello che magari non prendeva bene le prenotaZIOni
-PKP132	#tu po' (i:va)
+PKP132	# [in]fatti dice che prima aveva ua raGAzza e ci ha combinato nu maciello
+PKP132	# ricett l'hanno scorso m'ha combinato nu maciello che magari non prendeva bene le prenotaZIOni
+PKP132	# tu po' (i:va)
 PKP132	>hai capito perché a me< prima secondo me ha risposto: i:~ il figlio
 PKP132	no
 PKP125	o abbiamo parlato con: qu~ quattro per[sone diverse nessuno ci ha dato la cosa poi per darmi la conferma di prenotazione]
 PKP132	[era la voce di un ragazzo EH nisciun~ eh hai capi~ no gliel'ho detto gliel'ho] detto ho detto da m~ a pure a me così è successo eh
 PKP125	cioè voglio dire tutto sommato però
 PKP125	non propr[io:]
-PKP132	#[>agg ritt< c]i vuole una ra[gazza]
+PKP132	# [>agg ritt< c]i vuole una ra[gazza]
 PKP125	[per un li]do del ge~ p[er un] villaggio del genere
 PKP132	[eh]
 PKP132	bravo
@@ -630,23 +630,23 @@ PKP132	mh
 PKP125	non potevi farla tu
 PKP132	allora quando arrivai lui iniziò la colazione (c'ha itt~) compilate (c'ha itt~ eh)
 PKP132	(c'ha itt~) voi la potete prendere
-PKP132	#e consumarla in camera io agg itt guardi che è troppo triste consumare la colazione in camera
-PKP132	#ricett se: hai raggione
-PKP132	#ricett PERÒ:
+PKP132	# e consumarla in camera io agg itt guardi che è troppo triste consumare la colazione in camera
+PKP132	# ricett se: hai raggione
+PKP132	# ricett PERÒ:
 PKP132	è BEllo che maGAri: tu resti a letto tuo marito: ti porta: [(no no)]
 PKP125	[non te la pote]vi portare su ((ride)) tuo marito sì sì
-PKP132	#NO ricett no no [no no]
+PKP132	# NO ricett no no [no no]
 PKP125	((ride)) non il tuo nello spe[ci~]
-PKP132	#[no] no e infatti accà accumincebban:
+PKP132	# [no] no e infatti accà accumincebban:
 PKP132	po' (venette) luca
-PKP132	#e:: agg itt no no no agg itt e poi sinceramente devo dirti la verità non mi piace
+PKP132	# e:: agg itt no no no agg itt e poi sinceramente devo dirti la verità non mi piace
 PKP132	(n'ato poco) x
-PKP132	#non mi piace >agg ritt< è triste:
+PKP132	# non mi piace >agg ritt< è triste:
 PKP125	e sotto all'ombrellone non potevate portare no?
 PKP132	no no
 PKP132	ma c'erano: a:~ noi fuori avevamo il tavolino con le sedie tutto bello si poteva: consumare anche fuori
 PKP132	e:hm: NO in CAmera nel senso proprio in camera
-PKP132	#vabbè lui per [sfo]ttere ricett poi t~ la port~ te la porta a letto no no ricett a parte il fatto che a me non piace
+PKP132	# vabbè lui per [sfo]ttere ricett poi t~ la port~ te la porta a letto no no ricett a parte il fatto che a me non piace
 PKP125	(eh)
 PKP132	e poi mio marito ((ride)) non è proprio: ((ride))
 PKP125	((ride))
@@ -656,10 +656,10 @@ PKP132	mh
 PKP125	buono eh?
 PKP132	buono
 PKP125	xxx
-PKP132	#a' nonn i' matteo c'ha ritt b:on i' c:arote xx
+PKP132	# a' nonn i' matteo c'ha ritt b:on i' c:arote xx
 PKP125	mhm:h
 PKP125	m:h
-PKP132	#che se li cungel pop' i' c:arote
+PKP132	# che se li cungel pop' i' c:arote
 PKP125	ma non so se lei li ma:ngia o li ha comprati solo per me
 PKP125	perché la confezione era piena
 PKP125	può essere anche che lei non li ma:ngia quando sta da so[°la°]
@@ -683,7 +683,7 @@ PKP125	speciale (stu gela~)
 PKP125	xxxxx
 PKP125	ma ilaria a che ora viene?
 PKP132	eh,
-PKP132	#chi a' sap ilaria
+PKP132	# chi a' sap ilaria
 PKP132	ilaria mo viene sempre verso le quattro
 PKP125	le quattro?
 PKP132	eh
@@ -709,16 +709,16 @@ PKP132	[mo chiamo a fabriz~]
 PKP125	tu che sei un po' più persuasiva vuoi chiedere se me lo:
 PKP132	ho dett~ [che x]
 PKP125	[(>chiedi<) se c'è] questa possibilità che loro me lo FAcciano o mi fa l'impegnati:va
-PKP132	#riman' chiamm a fabriz~
+PKP132	# riman' chiamm a fabriz~
 PKP125	boh
-PKP132	#fabriz~ ch' t' ricett?
+PKP132	# fabriz~ ch' t' ricett?
 PKP125	io non c'ho parlato con fabrizia marcella a ha parlato con fabrizia
 PKP125	e lei aveva fatto(mi) intendere che stefano forse avrebbe potuto farmelo
 PKP125	ma stefano non c'era
 PKP125	io poi non l'ho chiam~ non sono anda[to LÀ perché n~]
 PKP132	[(mo io chiam~) a fabriz~]
-PKP125	#io non avevo la macchina perché la mattina marCElla mi va a scola (i' com~ esc~),
-PKP125	#o pome[rigg~ xx]
+PKP125	# io non avevo la macchina perché la mattina marCElla mi va a scola (i' com~ esc~),
+PKP125	# o pome[rigg~ xx]
 PKP132	[no domani mat]tina chiamo fabrizia
 PKP132	stefano è torna:to
 PKP132	(tar~ è) tornato
@@ -731,7 +731,7 @@ PKP132	e::hm farà l'estate di san martino un'estat~ un'estate bellissima
 PKP125	beh settembre è sempre stato x ma mo è ma è troppo caldo mo è proprio caldo: ano[malo]
 PKP132	[è trop]po caldo è ano:[malo]
 PKP125	[(non è)] mai stato così
-PKP132	#c'è trentuno gradi ma (st[amm~ a pazzià)]?
+PKP132	# c'è trentuno gradi ma (st[amm~ a pazzià)]?
 PKP125	[ma è propr~ af]os~ ma xxxxxxx
 PKP132	[ma po' di SE:ra]
 PKP132	io di sera mi sò d[ovuta togliere la ca]micia stavo morendo qua
@@ -753,7 +753,7 @@ PKP132	non va bene non va bene troppo caldo
 PKP125	no
 PKP132	caldissimo
 PKP132	non va bene
-PKP125	#sparecchiam' ja
+PKP125	# sparecchiam' ja
 PKP125	xxxx
 PKP132	mhmh
 PKP125	(non lo so vedi?) (.) trentacinque minu~

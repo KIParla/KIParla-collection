@@ -28,10 +28,10 @@ TO091	stava [parlando al telefono xx]
 TO090	[scusami, hai una penna]?
 TO090	sono proprio stupida
 TO090	registralo
+TO085	((ride))
 TO091	((ride))
 TO090	((ride))
 TO089	((ride))
-TO085	((ride))
 TO090	(i posteri) lo sanno
 TO089	però devo far la pipì prima di andare:
 TO091	eh ma ades(so) tant(o) dobbiamo sali'
@@ -151,8 +151,8 @@ TO089	no::
 TO091	devo scrivere [data di nascita e luogo di nascita],
 TO090	[e prova, (.) e prova]
 TO091	giusto?
-TO090	[eh]
 TO085	[sì].
+TO090	[eh]
 TO090	an[che il luogo]?
 TO085	[comunque è assurdo]
 TO090	ah io ho scritto il liceo leopardi, torino.
@@ -168,13 +168,12 @@ TO090	sono la patrona di torino, santa roberta
 TO085	ma dove abiti? abiti con i tuoi a torino,
 TO090	sì.
 TO085	dove?
-TO090	@nomeluogo
 TO090	e::h dati sensibili
 TO090	cancellare.
+TO085	((ride))
 TO091	((ride))
 TO090	((ride))
 TO089	((ride))
-TO085	((ride))
 TO085	i dati sensibili [vengono bippati] e cancellati, l'hai letto? brava
 TO090	[l'ho letto]
 TO089	fammi copiare aspetta [xxx]
@@ -237,10 +236,10 @@ TO089	c(io)è quindi (de)scrivo torino?
 TO091	brava
 TO090	no [scusa mi sono] persa.
 TO085	[sì sì]
+TO085	((ride))
 TO091	((ride))
 TO090	((ride))
 TO089	((ride))
-TO085	((ride))
 TO091	xxxx [sfasata. mamma mia] (.) ripigliati:
 ???	[così]
 TO085	[è giustissimo]
@@ -321,8 +320,8 @@ TO090	[volevo] praticamente, ((ride))
 TO091	questo [è xxx]
 TO090	[niente, a scendere]
 TO085	come vi ho detto prima c'è un corpus,
-TO090	[non fà la figa che xxx corpus]
 TO085	[con dentro tutte queste conversazioni]
+TO090	[non fà la figa che xxx corpus]
 TO085	corpus?
 TO085	si chiama così
 TO091	((ride))
@@ -335,8 +334,8 @@ TO089	[declinazione:::]
 TO085	[no, ((ride)) però vab]bè
 TO090	['na sega]
 TO090	registra, 'na sega.
-TO090	[xxx castra castrorum xxx]
 TO085	[vabbè no, comunque c'è un corpus],
+TO090	[xxx castra castrorum xxx]
 TO085	no
 TO085	praticamente i linguisti, che sono quelli, che, (.) hanno (cioè) studiato quello che sto studiando [io, ma poi sono diventati qualcuno],
 TO089	[quindi tipo rossi era:]::
@@ -469,9 +468,9 @@ TO091	sì (ma) [capito (non gli poi dà] i contatti), [scusami eh] per farli [am
 TO090	[vabbè ma]
 TO089	[no infatti]
 TO090	[trascrivete bene], instangram
+TO085	((ride))
 TO091	((ride))
 TO089	((ride))
-TO085	((ride))
 TO090	se no xxx s'(offende
 TO090	perch'erano umbriachi
 TO090	scrivi
@@ -542,9 +541,9 @@ TO090	ma come stanno le tue oche?
 TO085	n[o:::] ((ride))
 TO089	forse era riferito a noi due ((ride))
 TO089	forse xxx
+TO085	((ride))
 TO091	((ride))
 TO090	((ride))
-TO085	((ride))
 TO090	io gli ho detto, BENE
 TO090	però non ho capito il perché
 TO090	ma vabbè, cioè mi sono adattata a lei
@@ -644,10 +643,10 @@ TO091	[costa l'ira di] dio
 TO090	MA COSA::,
 TO091	più grande di quello non c'è
 TO089	lo zaino
-TO091	[quello mi sa che è la taglia più grande]
 TO085	[anche secondo me]
-TO091	[ce n'è uno ancora più piccolo]
+TO091	[quello mi sa che è la taglia più grande]
 TO085	[gli altri sono tipo quelli],
+TO091	[ce n'è uno ancora più piccolo]
 TO085	ma secondo me quelli più grandi sono tipo quelli però diversi
 TO085	cioè con una roba davanti e le fibbie
 TO091	sei sicura?

@@ -2,7 +2,7 @@ PKP050	buon appetito
 PKP051	buon appetito
 PKP050	((canticchia)
 PKP051	secondo me
-PKP050	#secondo me: quiddru (.) è proprio un 'esplosione (.) è popo bueno
+PKP050	# secondo me: quiddru (.) è proprio un 'esplosione (.) è popo bueno
 PKP049	non ti stare a lamentare poi alla sera:: quando te faccio un solo hamburger
 PKP051	no vabbè
 PKP051	cos'è l'esplosione
@@ -27,7 +27,7 @@ PKP049	è è un piatto che già il volume dà la sua sazietà
 PKP051	>menomale<
 PKP049	°forse non xxxx°
 PKP051	meno male che c'è volume
-PKP051	#se no (.) stamu misi fiacchi
+PKP051	# se no (.) stamu misi fiacchi
 PKP049	comunque pure maurizia ha detto che:: l'hamburger di antonio è piccola
 PKP050	mo tu t'ha saziata?
 PKP050	ah [no perché] ieri mi hai fatto passare per [la::]
@@ -39,13 +39,13 @@ PKP051	TU SI
 PKP049	[no:: ti ho detto]
 PKP050	[tu::i]
 PKP049	ti ho detto sono soltanto du::e
-PKP049	#l'altro ti ho detto non te lo posso dare pircè xxxxxx pure gli ho detto che dovevo fare l'hamburger
+PKP049	# l'altro ti ho detto non te lo posso dare pircè xxxxxx pure gli ho detto che dovevo fare l'hamburger
 PKP049	ti ho detto questo
-PKP050	#poi col purè ne ho mangiato poco [che so io del xxx] se no ca ci stava da mangiare mai niente mi avevi detto glielo devo lasciare
+PKP050	# poi col purè ne ho mangiato poco [che so io del xxx] se no ca ci stava da mangiare mai niente mi avevi detto glielo devo lasciare
 PKP049	[che so io del xxx]
 PKP049	veramente giacomo si è mangiato il carciofo ripieno
 PKP049	si è mangiato i carciofi quelli che ho fatti io
-PKP050	#e si è mangiato pure [lu purè]
+PKP050	# e si è mangiato pure [lu purè]
 PKP049	[e c'era] pure il purè per giacomo
 PKP049	come fa~ come fai a dire che non si stava mangiando niente
 PKP050	ha mangiato poco ieri
@@ -62,7 +62,7 @@ PKP049	eh e io che sapevo
 PKP050	si perché ho sentito che era pesce ho detto il pesce solitamente giacomo [non lo man~]
 PKP049	[e che sa]pevo io io pure
 PKP049	invece ha detto che il baccalà non lo mangia proprio non l'ha mai mangiato quindi
-PKP050	#(figuriti)
+PKP050	# (figuriti)
 PKP051	quindi con tanti ristoranti n::on mangiano il baccalà
 PKP050	perché il baccalà è un piatto da ristorante?
 PKP051	beh (.) certo
@@ -70,16 +70,16 @@ PKP049	xxxxx
 PKP051	certo che è un piatto da ristorante
 PKP050	io se vado al ristorante di certo non ordino il baccalà
 PKP051	be::h in realtà
-PKP049	#io secondo me si si mangiava quiddru ca faceva cu le patate
+PKP049	# io secondo me si si mangiava quiddru ca faceva cu le patate
 PKP051	mamma che buo[no]
 PKP049	[e:h che] si mangiava maurizia
-PKP049	#ti faccio vedere io comu si mangia il baccalà manco se ne accorge che era baccalà
+PKP049	# ti faccio vedere io comu si mangia il baccalà manco se ne accorge che era baccalà
 PKP050	forse n::~ non gli è piaciuto quello della nonna
 PKP049	eh
 PKP050	infatti anche papà ha detto che era brutto
 PKP051	ma perché come l'aveva fatto la nonna,
 PKP049	col sugo e lesso
-PKP049	#ma: tre pizzetti erano tutti
+PKP049	# ma: tre pizzetti erano tutti
 PKP050	m::h infatti (.) era poco
 PKP049	pochissimo
 PKP051	strano
@@ -103,7 +103,7 @@ PKP051	[nessuno va dalla nonna per stare dalla nonna]
 PKP050	si però:: cioè l'altr~ ieri mi avevate detto che dovevi passare e cos~
 PKP051	[e poi e poi e poi la mamma mi ha detto di no perché] e:::h per lui
 PKP050	[si ma ma non puoi passare]
-PKP049	#ha deciso di (strissarla) di fare la doccia
+PKP049	# ha deciso di (strissarla) di fare la doccia
 PKP051	eh
 PKP051	non è un'ora:: (.) mettiamo che non puoi andare:: tu: perché guarda ci siamo xxx un sacco di occasioni:
 PKP050	ma quando? (.) [ma:: nessuno ti chiede niente::]
@@ -126,7 +126,7 @@ PKP049	andiamo dai n[onni::]
 PKP051	[non succede mai]
 PKP049	eh allora vedi hai avuto sempre sindacare
 PKP051	xxxxx è peggio da xxxx da sola::
-PKP049	#eh visto che il pomeriggio ti vedi col ragazzo (.) ce sacciu
+PKP049	# eh visto che il pomeriggio ti vedi col ragazzo (.) ce sacciu
 PKP050	ma non è che mi vedo solo: col ragazzo (.) m:h vado a fare i compiti vado in palestra:
 PKP049	A:PPUNTO:: ma nessuno ti sta incolpando (.) sei tu che stai dicendo ste cose
 PKP049	nessuno sta dicendo niente
@@ -144,7 +144,7 @@ PKP049	okay perfetto [basta]
 PKP050	[però] A ME NON VIENE DA CHIAMARE LE PERSONE LO SO BENISSIMO::
 PKP050	IO NON CHIAMO NESSU[NO]
 PKP049	[si]ccome:: non ci si può vedere purtroppo
-PKP049	#ogni tanto magari fatti venire una cosa mettiti una sveglia ce sacciu
+PKP049	# ogni tanto magari fatti venire una cosa mettiti una sveglia ce sacciu
 PKP049	l'altra mattina: il nonno pure è passato
 PKP049	lui non c'era tu stavi dentro la stanza che stavi facendo le videolezioni (.) che cosa dovevo fare
 PKP049	ti dovevo chiamare?
@@ -182,13 +182,13 @@ PKP051	se no::: dovrò scegliere ((ride)) una::
 PKP051	una facoltà che non riguarda le materie scienti[fiche]
 PKP050	[esatto]
 PKP051	però
-PKP050	#pegiu
+PKP050	# pegiu
 PKP051	((ride)) che piglio poi:: ((ride))
 PKP051	diciamo che la scuola che ho preso non::
-PKP051	#mado tingu fame::
+PKP051	# mado tingu fame::
 PKP049	ah?
-PKP051	#ninte
-PKP051	#tingu fame
+PKP051	# ninte
+PKP051	# tingu fame
 PKP049	eh eh xxxxxxxxxxx
 PKP051	sempre [settanta grammi di pasta è:]
 PKP049	[xxxxxxxxxxxxx ma come il verme solitario tiene]
@@ -199,8 +199,8 @@ PKP051	non è che se in preciclo però
 PKP050	°si°
 PKP051	no no si si ((ride)) (.) [che stronza::]
 PKP050	[guarda che pure pure io ho più fame]
-PKP051	#e::::::h sta bono c'è il preciclo tra una settimana esatta con la pillola il pre ciclo una settimana prima inizia
-PKP049	#quiddru è::
+PKP051	# e::::::h sta bono c'è il preciclo tra una settimana esatta con la pillola il pre ciclo una settimana prima inizia
+PKP049	# quiddru è::
 PKP049	[il preciclo]
 PKP051	[ma:: veramente sa::]
 PKP051	((ride)) non ci crede::: perché gli [hai dett~]
@@ -209,7 +209,7 @@ PKP050	ma' sei una stronza
 PKP049	[fa::i] attenzione
 PKP050	veh a bugia lascialo stare l'amore mio::
 PKP050	guarda ieri sera::: una figura::: (.) di merda
-PKP049	#oh bella è gia tanto che c'aggiu acchitt~ xx (aggiu) misu la cena sai ieri sera e::h? (.) eh
+PKP049	# oh bella è gia tanto che c'aggiu acchitt~ xx (aggiu) misu la cena sai ieri sera e::h? (.) eh
 PKP049	dalle tre che mancavo di [casa]
 PKP050	[e:h] non fare:: e::::::::::hm
 PKP050	m::h
@@ -226,7 +226,7 @@ PKP049	[xxxxxx] dicci dicci che cosa stavi dicendo mo
 PKP050	che::: mi hai lasciato a digiuno
 PKP049	[mh]
 PKP050	mi hai detto pure parole di sopra
-PKP051	#io ieri lo (staccavo) (.) io e tei
+PKP051	# io ieri lo (staccavo) (.) io e tei
 PKP050	io no (.) perché ho mangiato quello
 PKP050	e poi ho un po' assaggiato il panettone:: e poi ci ho messo un pochino di crema
 PKP051	e:::h vabbè ma quello è [mica uno scarto]
@@ -239,7 +239,7 @@ PKP050	il barattolo intero non c'era
 PKP051	io sono due giorni che non lo tocco eh
 PKP050	mh
 PKP051	quindi se sta finendo NON SO::NO IO:::
-PKP050	#e come [riesci avere lu ciclo::]?
+PKP050	# e come [riesci avere lu ciclo::]?
 PKP051	[ieri l'ho mangiata]
 PKP051	ieri io l'ho mangiata
 PKP049	cosa gli hai detto allora
@@ -247,7 +247,7 @@ PKP051	la verità mamma è che:::
 PKP049	mh
 PKP051	io proprio le (pringles)
 PKP051	sì però
-PKP051	#ieri pomeriggio non c'ho fatto mancu lu panino
+PKP051	# ieri pomeriggio non c'ho fatto mancu lu panino
 PKP049	xx hai detto hai detto
 PKP049	hai detto che:: ((ride)) la crostata
 PKP049	con ricotta e cioccolato se la mangia
@@ -255,10 +255,10 @@ PKP050	embè allora
 PKP049	ah si?
 PKP049	te la mangi la ricotta?
 PKP051	non la ricotta della sicilia quella non di certo
-PKP050	#va bene le ricotte e xxxxxxxx ((ride)) ricotta quidda eia
+PKP050	# va bene le ricotte e xxxxxxxx ((ride)) ricotta quidda eia
 PKP051	la ricotta di capra intendo::
 PKP050	[no:: (si compra quella di capra)]
-PKP050	#che cazzo facciamo la ricotta di mucca intru a lu dolce? (.) per favore:: eh
+PKP050	# che cazzo facciamo la ricotta di mucca intru a lu dolce? (.) per favore:: eh
 PKP051	[xx xxx xxx]
 PKP050	[non la fare non fa niente]
 PKP049	posso non prendere proprio quella di pecorino posso prenderle la mista perché a volte io faccio le faccio [xx xx]
@@ -304,11 +304,11 @@ PKP049	è una torta fatta::: (.) col pesce
 PKP050	((ride))
 PKP051	[(MA COS'E'?)]
 PKP050	[xxANDO:::]
-PKP050	#a muni' (.) che passa scherzo:::
+PKP050	# a muni' (.) che passa scherzo:::
 PKP051	fatto
 PKP050	è fatta con un pan di spagna rosso:::
 PKP051	e la crema: al burro
-PKP049	#embè ma a me ste cose (.) a me nun me piace
+PKP049	# embè ma a me ste cose (.) a me nun me piace
 PKP051	no io xxxxx
 PKP050	[xxxxxxxxxx]
 PKP049	[xxxxxxxxx]
@@ -327,7 +327,7 @@ PKP049	((ride))
 PKP051	ELEGANTE:: UNA PERSONA PROPRIO RAFFINATA ((RIDE))
 PKP050	ma chi è?
 PKP049	è il tipo che vende arance e clementine
-PKP051	#siamo andate alla chiazza:: (.) no non [proprio alla chiazza::]
+PKP051	# siamo andate alla chiazza:: (.) no non [proprio alla chiazza::]
 PKP049	[oggi ho portato] maria a piano poi c'e piazz~
 PKP051	no ma xxxx lo faccio [fuori]
 PKP050	[fuori]
@@ -342,7 +342,7 @@ PKP049	la signorina
 PKP049	e poi tenevo tutte delle robe da scaricare che erano anche sue
 PKP049	e quindi è dovuta venire con me che xxxx una mano
 PKP049	alla fine della fiera:: sai che ha fatto ((ride))
-PKP050	#c'ha [aggia fatt]
+PKP050	# c'ha [aggia fatt]
 PKP049	intro alla macchina ha detto maria abbassa mi stai esaurendo zitta
 PKP049	((ride)) (perché) ha sbagliato strada cinquanta volte
 PKP051	°e io pure°
@@ -358,7 +358,7 @@ PKP049	la buccia
 PKP051	verame:::::
 PKP049	sto venendo
 PKP049	per me con questo u:n pezzetto di panettone non xxx
-PKP051	#senti guarda a me quel panettone mi faci schifo (.) io non so che dirt~
+PKP051	# senti guarda a me quel panettone mi faci schifo (.) io non so che dirt~
 PKP049	allora la pancetta ti rovina
 PKP051	[mangiatelo]
 PKP049	madonna mia
@@ -455,7 +455,7 @@ PKP049	cos~ sta facendo
 PKP051	giacomo va al liceo serebello
 PKP049	xxx lo so pure io però quando sono girate tutte le fa online (.) e le collegata con la palestra
 PKP049	che (caccata)
-PKP051	#io mi sono allenata puru cu la pioggia
+PKP051	# io mi sono allenata puru cu la pioggia
 PKP049	ma ci stai riparata
 PKP049	grazie
 PKP050	xxxxxxxxxxx
@@ -478,9 +478,9 @@ PKP051	non mi crede
 PKP051	vedi che ieri i genitori di giacomo ci avevano proposto di mangiare l'hamburger e io non l'ho mangiato
 PKP051	io e giacomo abbiamo detto no dai andiamo a mangiare a casa dei miei così guardiamo
 PKP049	((ride)) e c'era hamburger
-PKP051	#sì ma mica l'hamburger cussì
+PKP051	# sì ma mica l'hamburger cussì
 PKP049	e quale:::::
-PKP051	#l'hamburger un paninu propia co con le patatine l'hamburger con
+PKP051	# l'hamburger un paninu propia co con le patatine l'hamburger con
 PKP050	[e non lo avete mangiato che scemi]
 PKP049	[A::H ((ride)) ADDIRITTURA]
 PKP051	[questo fine settimana io mi devo mangiare il sushi]
@@ -529,7 +529,7 @@ PKP051	MA::: LUI INTENDEVA NON è CHE MANGIAMO POCO CHE MANGIAMO SALUTARE::
 PKP050	sì infatti infatti è vero
 PKP051	comunque noi mangiamo sempre::::: verdure xxxxx
 PKP049	infatti (.) [xxx] ma:: tu stessa mi chiedi di contorno pure lei xxxx hamburger xxxxxxx e poi mi dite di contorno
-PKP050	#è normale che l'aggiu ditto sci~
+PKP050	# è normale che l'aggiu ditto sci~
 PKP049	no
 PKP049	di contorno aria::::::
 PKP051	vabbè il purè di certo non è verdura:::
@@ -548,10 +548,10 @@ PKP051	semplicemente che non c'era il cibo che io mangiavo perché c'erano i car
 PKP051	non ti preoccupare
 PKP049	il cavolo l'altro giorno
 PKP051	no l'ho mangiato e invece non è vero che (non) l'ho mangiato vedi vedi non te ne sei accorta forse
-PKP049	#(picchi picchi)
+PKP049	# (picchi picchi)
 PKP051	l'ho:: mangiato::
-PKP050	#(picchi picchi)
-PKP049	#picchi perché tanto c'era altro che mangiava e ((ride)) sorseggiava xxxx ((ride)) poi xxxxx
+PKP050	# (picchi picchi)
+PKP049	# picchi perché tanto c'era altro che mangiava e ((ride)) sorseggiava xxxx ((ride)) poi xxxxx
 PKP050	e vabbè comunque questo è (papà)
 PKP050	cioè proprio
 PKP049	vabbè mo voglio sapere per esempio per stasera no::
@@ -606,7 +606,7 @@ PKP051	sì::: ma infatti poi:: parlerò:: con luca perché luca mi ha detto che 
 PKP049	e allora (.) parla con luca se ti permette di contattare sto professore
 PKP049	è capace [pure di dirti se:: vieni:::]
 PKP051	[ma lui pure è più bravo capito::::]
-PKP049	#e ti faci far perdere tiempo poi
+PKP049	# e ti faci far perdere tiempo poi
 PKP051	eh?
 PKP051	no lui non mi fa perdere tempo me lo disse proprio l'anno scorso
 PKP049	se ti trovi bene con lui:::
@@ -614,7 +614,7 @@ PKP049	mascherina contro mascherina xxxxx
 PKP051	embè
 PKP050	xx il sette lo sai che cosa ho scritto
 PKP050	con la giunta abbiamo deciso di non rinunciare al simbolo del natale in città::
-PKP050	tra pochi giorni verrà allestito all' incrocio dei corsi:: un albero composto da luci xx xx xx ((ride))
+PKP050	tra pochi giorni verrà allestito all'incrocio dei corsi:: un albero composto da luci xx xx xx ((ride))
 PKP050	cin[quanta]
 PKP051	[xx xx] in che senso qual è
 PKP050	quella che sta:::: u::hm
@@ -654,7 +654,7 @@ PKP050	sì cioè capito sta passan~ stiamo passando noi come pa::zzi
 PKP050	gli stupidi che rompono le sca[tole]
 PKP049	[eh beh sì] perché tanto a casa sua a casa di luciana sicuramente la sorella non glie sta' a fotte niente perché la sorella sta mandando il bambino a scuola
 PKP050	quindi guarda pro[prio]
-PKP049	#quindi sicuramente la sorella ha detto quillu ciacci che cacchio doveva fa stu xxxx ci vulu qua laura va a scuola
+PKP049	# quindi sicuramente la sorella ha detto quillu ciacci che cacchio doveva fa stu xxxx ci vulu qua laura va a scuola
 PKP049	no a noi alla fine non ce ne può importare di meno
 PKP049	ce lo prenderemo
 PKP049	se ce lo prenderemo ce lo prenderemo
@@ -665,7 +665,7 @@ PKP049	eh che vabbè ho capito ma se lor~ per loro non ci sono:::: grandi:::::: 
 PKP049	lei dice una volta mo che vengo comunque
 PKP049	tra supermercati e le uscite che si faranno perché sotto natale
 PKP049	dice comunque non è che pure anche se mi faccio il tampone non è che xxxx non lo posso utilizzare a prendere [pure xx xx]
-PKP050	#[(abbuecchi) perché] an capo sua andare a scuola una bambinella delle elementari che va a scuola è la stessa cosa di andare al supermercato
+PKP050	# [(abbuecchi) perché] an capo sua andare a scuola una bambinella delle elementari che va a scuola è la stessa cosa di andare al supermercato
 PKP050	ma chi ti crede ma scusa
 PKP049	io ho detto si fabiana però ho detto la scuola è scuola dai diciamoci la verità
 PKP049	e quindi cioè non è come andare in un super[mercato] che esci dopo [mezz'ora]
@@ -682,12 +682,12 @@ PKP050	mi interessa soltanto dei [nonni miei]
 PKP049	[ecco quindi] loro::: stavano andando a spendere soldi (.) pe::r (.) poi
 PKP049	[poi xx xx]
 PKP050	[loro ti fanno] nu contentino un ti fanno nu contentino
-PKP051	#nu contentino certo
+PKP051	# nu contentino certo
 PKP050	perché è capace che quell~ pensi
 PKP049	[perché dovrebbe xxxxxxx così]
 PKP050	CERTO (.) perche è capace che quello il venti prima di farsi il tampone si vedranno pure con i nonni
 PKP050	te lo dico io perché
-PKP049	#il problema è che vanno con la mascherina non glielo puoi nemmeno proibire ca puru tu sta xxxxx du tampone::
+PKP049	# il problema è che vanno con la mascherina non glielo puoi nemmeno proibire ca puru tu sta xxxxx du tampone::
 PKP050	ci credi perché tu ci credi che la ros~
 PKP051	andranno a mangiare:::
 PKP050	allora oggi oggi la nonna
@@ -711,12 +711,12 @@ PKP049	eh io poi ho detto ho detto guarda vedi che non stiamo non si sta scherza
 PKP049	ti ho anche perché fino a quando non è capitato a noi
 PKP049	a me è capitato a casa di mio fratello ho detto
 PKP050	a::h?
-PKP049	#là si sono tutte NO: non si sono pigghiate niente m:::a
+PKP049	# là si sono tutte NO: non si sono pigghiate niente m:::a
 PKP049	no ho detto non è vero
 PKP049	ah no::? dico no
 PKP050	no vabbè [poi sta] cosa
 PKP049	[NO]
-PKP050	#che quasi che io ho sentito che loro stanno bene allora si pensa che in capo soa non succede [niente]
+PKP050	# che quasi che io ho sentito che loro stanno bene allora si pensa che in capo soa non succede [niente]
 PKP049	[eh (.) ho] detto mio fratello per fortuna non se l'è preso non so perché
 PKP049	forse perché hanno gli anticorpi alti
 PKP049	e non se lo sono preso

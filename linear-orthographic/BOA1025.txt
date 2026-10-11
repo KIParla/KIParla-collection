@@ -41,8 +41,8 @@ BO005	okay
 BO117	no
 BO117	mh secondo me una analisi sociolinguistica non riesce tanto a farla
 BO005	no
-BO005	okay
 BO117	forse un pochettino sulla situazione riesce ad avere qualche informazione ma
+BO005	okay
 BO005	okay
 BO117	eh no
 BO005	nemmeno
@@ -85,8 +85,8 @@ BO005	cioè non so se le sto~ sicuramente lo sto facendo
 BO005	male
 BO117	perché ha messo lemma
 BO117	è un word
-BO005	ah
 BO117	non lemma
+BO005	ah
 BO117	perché il lemma è poder
 BO005	quindi
 BO005	okay

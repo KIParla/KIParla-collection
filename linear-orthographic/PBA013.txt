@@ -71,7 +71,7 @@ BOI074	esatto
 BOI075	una piazza verdi magari
 BOI074	esatto ah è è poco probabile che tu trovi una situazione caotica in piazza san francesco rispetto a una piazza verdi
 BOI075	mhmh
-BOR018	sì sono son più polleg
+BOR018	# sì sono son più polleg
 BOI074	esatto lì maga~ ecco lì magari ecco se piazza verdi eh
 BOI075	sì esatto
 BOI074	piazza aldrovandi zona universitaria è molto più per fuori sede
@@ -254,9 +254,9 @@ BOR018	x
 BOI074	perché non è b~ la colla non l'hai attaccata bene quindi
 BOR018	okay io che mangio brodo un giorno sì e un giorno no però va bene
 BOI075	io pure
-BOI074	eh quindi tor~ tutl~ turtlein
+BOI074	# eh quindi tor~ tutl~ turtlein
 BOR018	xx fare una xx
-BOI074	an brod
+BOI074	# an brod
 BOI074	xx siamo a posto
 BOI074	e
 BOI074	vabbè le classiche tagliatelle ma queste son cose
@@ -805,27 +805,27 @@ BOR018	ma infatti non ce l'ho presente
 BOI074	quindi qua ascoltare mh
 BOI074	mh andrea mingardi lo fai magari in gag tra amici per mh
 BOI074	mh non so tipo c'è la canzone di una canzone di andrea mingardi che fa
-BOI074	mh che si chiama socc'mel
+BOI074	# mh che si chiama socc'mel
 BOI074	che in dialetto bolognese vuol dire vabbè
 BOI074	letteralmente vuol dire succhiamelo ma dive~ diventa più un'espressione di
 BOI074	mh come dire di
-BOI074	così di impressione di di stupore tipo socc'mel cioè wow
+BOI074	# così di impressione di di stupore tipo socc'mel cioè wow
 BOR018	ah xxx
 BOR018	ah
 BOR018	x sì
 BOI074	tanta roba oppure
 BOR018	sì
 BOI074	oppure diventa anche tipo
-BOI074	mh una sco~ anche di scocciatura xx socc'mel
+BOI074	# mh una sco~ anche di scocciatura xx socc'mel
 BOI074	dipende anche da come lo poni dal punto
 BOI075	è da li che xxxx
 BOR018	tutto il s~ tono
 BOR018	tutte l~ le gesta
-BOI074	ecco quando dici mo socc'mel vuol dire che la persona che
+BOI074	# ecco quando dici mo socc'mel vuol dire che la persona che
 BOI074	o la situazione in cui sei è è scocciante stressante e quindi così esclami
-BOI074	invece se c'è qualcosa di sorprendente oh socc'mel che
-BOR018	tipo mi sa anche soccia
-BOI074	sì sì dipende cosa aggiungi davanti mo lo oppure solamente socc'mel
+BOI074	# invece se c'è qualcosa di sorprendente oh socc'mel che
+BOR018	# tipo mi sa anche soccia
+BOI074	# sì sì dipende cosa aggiungi davanti mo lo oppure solamente socc'mel
 BOR018	bellissi~ e visto che parlavamo anche prima di queste espressioni bolognesi poi tu avevi detto
 BOR018	che non è
 BOR018	bolognese dialetto ma è gergo
@@ -888,8 +888,8 @@ BOR018	eh
 BOI074	è
 BOI074	comunque è un gergo
 BOR018	miscuglio bolognese e altro
-BOI074	bologn~ ecco è bolognese perché anche polleg
-BOI074	viene preso da da da fuori come vez da bologna passa da altre parti cioè
+BOI074	# bologn~ ecco è bolognese perché anche polleg
+BOI074	# viene preso da da da fuori come vez da bologna passa da altre parti cioè
 BOI074	comunque c'è una comunicazione in entrata e in uscita
 BOI074	e il gergo bolognese riguarda più che altro
 BOI074	attività
@@ -930,21 +930,21 @@ BOI074	ha un origine autoctona
 BOI075	mh
 BOR018	mh
 BOI074	queste si sono istituzionalizzate come parole però tipo
-BOI074	nelle conversazioni tra tra miei amici co~ tipo vez
-BOI074	c'è vez
+BOI074	# nelle conversazioni tra tra miei amici co~ tipo vez
+BOI074	# c'è vez
 BOI074	oppure
 BOI074	mh
-BOI074	me la gubbio
+BOI074	# me la gubbio
 BOR018	mh
-BOI074	me la gubbio
+BOI074	# me la gubbio
 BOR018	quello è bellissimo a me piace proprio lo voglio acquisire
-BOI074	oh eh ecco ma me la gubbio anche lì vuol dire tu te la dormi di gusto
+BOI074	# oh eh ecco ma me la gubbio anche lì vuol dire tu te la dormi di gusto
 BOI075	xxx
 BOI074	okay proprio dormi profondamente
 BOI075	è tipo un purtroppo a me
 BOI074	sì è una una una eh una del~ della famiglia semantica della purtropperia
-BOI074	del pecca~ ecco sì io m~ io me la gubbio cioè uno ti dice io me la gubbio come dire mo vado a dormire
-BOR018	ha un significato simile cioè non significato simile però come essenza mi ricorda lo scialare
+BOI074	# del pecca~ ecco sì io m~ io me la gubbio cioè uno ti dice io me la gubbio come dire mo vado a dormire
+BOR018	# ha un significato simile cioè non significato simile però come essenza mi ricorda lo scialare
 BOI075	ah sì io mi scialo
 BOR018	mi scialo
 BOR018	eh è bellissimo questo è calabrese
@@ -953,13 +953,13 @@ BOR018	ti diverti però anche ti rilassi quando qualcosa prende tutti i sensi
 BOI074	mhmh
 BOI075	okay
 BOR018	e sei in questo momento di estasi
-BOR018	e xx ah mi scialo
-BOI075	mi mi sto sc~ mi sto scialando
+BOR018	# e xx ah mi scialo
+BOI075	# mi mi sto sc~ mi sto scialando
 BOR018	eh che può essere anche tipo che ti fai una doccia rilassante ah mi scialo
 BOI074	ah
-BOI074	che può essere che può essere simile al polleggiarsi
+BOI074	# che può essere che può essere simile al polleggiarsi
 BOR018	po~ mh no
-BOI075	no polleg secondo me è più
+BOI075	# no polleg secondo me è più
 BOR018	rilassarsi
 BOI075	sì esatto
 BOI074	ah
@@ -967,20 +967,20 @@ BOI074	invece sciala~ è un po' più
 BOR018	s~ è più mh
 BOI074	è però qu~ da voi è un po' più astratto
 BOI075	comprende
-BOI075	s~ no no perché c'è la scialata
+BOI075	# s~ no no perché c'è la scialata
 BOR018	ah vero
-BOI075	che mi sa che viene dalla scialata che è tipo una scampagnata in montagna
+BOI075	# che mi sa che viene dalla scialata che è tipo una scampagnata in montagna
 BOI074	ah
 BOR018	questo non lo so precisamente
 BOI075	una roba del genere se non sbaglio
-BOR018	scialare mi sa di cosa molto divertente perché xxx
+BOR018	# scialare mi sa di cosa molto divertente perché xxx
 BOI075	e quindi da
-BOI075	da scialata
-BOI075	c'è il verbo scialare o scialarsi
+BOI075	# da scialata
+BOI075	# c'è il verbo scialare o scialarsi
 BOI074	mhmh
-BOI075	dire tipo cioè rilassarsi quindi divertirsi mi sto scialando oppure
+BOI075	# dire tipo cioè rilassarsi quindi divertirsi mi sto scialando oppure
 BOI075	che so
-BOI075	ti fai la doccia met~ ti metti a letto nelle lenzuola pure x dici ah mi sto scialando
+BOI075	# ti fai la doccia met~ ti metti a letto nelle lenzuola pure x dici ah mi sto scialando
 BOR018	sì
 BOI075	cioè eh
 BOI074	ah
@@ -990,18 +990,18 @@ BOR018	è tipo un modo generico per qualsiasi cosa bella
 BOR018	però
 BOR018	non qualsiasi perché per esempio
 BOR018	eh mh non lo so
-BOR018	leggi un un libro che ti può scialare però se è qualcosa di impegnativo
+BOR018	# leggi un un libro che ti può scialare però se è qualcosa di impegnativo
 BOI074	mh
-BOI075	non ti stai scialando
-BOR018	non ti stai scialando eh
-BOI074	non ti stai scialando okay
+BOI075	# non ti stai scialando
+BOR018	# non ti stai scialando eh
+BOI074	# non ti stai scialando okay
 BOR018	ti piace il libro però c'è impegno quindi non direi
 BOI074	ah okay
-BOR018	wow mi sto scialando a leggere
+BOR018	# wow mi sto scialando a leggere
 BOI074	quindi è proprio
 BOR018	cime tempestose
-BOI075	lo scialarsi è una cosa
-BOI074	okay quindi è più lo scialare è tipo mi svincolo anche da tutta
+BOI075	# lo scialarsi è una cosa
+BOI074	# okay quindi è più lo scialare è tipo mi svincolo anche da tutta
 BOI074	mh non so da tutto
 BOR018	sì sì
 BOI074	è tipo
@@ -1013,31 +1013,31 @@ BOI075	x non te ne~ non ti impegna mh
 BOI074	non devi nen~ niente a nessuno in quel momento
 BOI074	c'è solo una cosa solo per te
 BOR018	sì
-BOI075	è solo lo scialamento
-BOI074	hai solo lo scialamento okay
+BOI075	# è solo lo scialamento
+BOI074	# hai solo lo scialamento okay
 BOR018	simile
-BOI074	e ritornando a noi oltre al gubbio
+BOI074	# e ritornando a noi oltre al gubbio
 BOI074	eh vabbè mh
 BOI074	mh
-BOI074	taffiare
+BOI074	# taffiare
 BOR018	oddio che è
 BOI075	no questo non l'ho mai sentito
-BOI074	il taffiare è il mangiare
+BOI074	# il taffiare è il mangiare
 BOI074	ma anche lì di gusto
 BOI075	ah okay
 BOI075	buono
 BOI074	quindi tipo tipo la sera con gli amici dopo aver fatto una bella bevu~ bevuta
-BOI075	imbuddarsi
+BOI075	# imbuddarsi
 BOI075	ah
 BOI075	pizza casa
-BOI074	andiamo a farci una bella taff~ daf~ taffiata da pizza casa
+BOI074	# andiamo a farci una bella taff~ daf~ taffiata da pizza casa
 BOI075	xxxx
 BOR018	ahi sarebbe il
 BOI074	oppure oppure quello lì
-BOI074	o quella lì è una gran cartola
+BOI074	# o quella lì è una gran cartola
 BOI074	cosa vuol dire
 BOR018	oh questa mi è nuova
-BOI074	quella lì o quello lì è una gran cartola che è una bella persona da vedere
+BOI074	# quella lì o quello lì è una gran cartola che è una bella persona da vedere
 BOI075	fico
 BOI075	attraente
 BOR018	perché carola
@@ -1045,14 +1045,14 @@ BOI074	perché in dialetto la cartola è la cartolina
 BOI074	e le cartoline solitamente son belle da vedere
 BOI075	ah
 BOI074	capito
-BOR018	questo mi sa proprio di napoletano però cioè una bella cartola
+BOR018	# questo mi sa proprio di napoletano però cioè una bella cartola
 BOI075	xx questo
-BOI075	bella cartola uagliò
+BOI075	# bella cartola uagliò
 BOI075	oh
 BOR018	sì
 BOI074	no no è è una gran cartola
-BOI074	o un è un gran cartola sì è un una persona
-BOI075	quindi non è cartolo è cartola
+BOI074	# o un è un gran cartola sì è un una persona
+BOI075	# quindi non è cartolo è cartola
 BOI074	cartola sempre
 BOR018	perché cartolina
 BOI074	è unisex
@@ -1061,7 +1061,7 @@ BOI074	è un~ è ca~ no no è unisex solo quella forma lì
 BOI075	o cartolax
 BOI075	no cartolx
 BOI074	oppure
-BOI074	quando vuoi dare un pugno dici do un cartone
+BOI074	# quando vuoi dare un pugno dici do un cartone
 BOI075	perché il cartone nel pres~
 BOR018	eh
 BOI074	no no no no no nel s~
@@ -1071,10 +1071,10 @@ BOI074	no no non non penso vengano dalla stessa cosa non avrebbe senso
 BOR018	no
 BOI074	no no però tipo do un cartone come d~ do un pugno però già questo è un po' un po' su un'altra andiamo su altri livelli
 BOR018	come si dice da noi
-BOI075	dare un pugno ti no ti ietto
+BOI075	# dare un pugno ti no ti ietto
 BOR018	eh
-BOR018	ti iett~ t'inde ietto uno
-BOI075	t'in~ ti ietto uno sì un
+BOR018	# ti iett~ t'inde ietto uno
+BOI075	tin~ ti ietto uno sì un
 BOI074	oddio
 BOI075	è proprio
 BOI074	ecco
@@ -1082,7 +1082,7 @@ BOR018	uno e tu capisci che
 BOI075	o è pugno o è schiaffo sempre qualcosa in dialetto
 BOI074	sì comunque
 BOI074	mh sì
-BOI074	mh cartone può essere anche divertente però il vostro è molto
+BOI074	# mh cartone può essere anche divertente però il vostro è molto
 BOI075	no il nostro è proprio violento
 BOI074	molto indicativo molto
 BOR018	no da noi uno
@@ -1219,12 +1219,12 @@ BOI074	eh più che altro è la motor valley cioè
 BOI075	mhmh
 BOI074	con la ducati qua a bologna la lamborghini a sant'agata bolognese
 BOI074	quindi
-BOI074	c'è anche questo
 BOI075	ce le avete tutte
+BOI074	c'è anche questo
 BOI074	sì c~ tutt~ è vero tutte le macchi~ la motor valley qua in emilia romagna
 BOI074	le altre città reggio emilia è fatta lo~ con lo e poi le altre città son fatte con lo stampino
 BOI074	perché da m~ eh reggio emilia è uguale sembra un po' modena vai a parma e dici mh
-BOI074	già è un po' diverso vai a piacenza è le~ le~ le ugue~ è ug~
+BOI074	# già è un po' diverso vai a piacenza è le~ le~ le ugue~ è ug~
 BOR018	piacenza me n'ero dimenticata
 BOI074	eh
 BOI074	quindi sì mh
@@ -1246,7 +1246,7 @@ BOI075	è bella a me eh ce l'ha consigliata l'altra volta pif
 BOI074	mh no è una bella serie
 BOI074	adesso che è arrivata la seconda me la guardo di gusto
 BOI074	poi dipende cioè mh
-BOR018	ti sciali
+BOR018	# ti sciali
 BOI075	ti sciali a guardarla
 BOI074	si ma a me esatto esatto eh mh
 BOI074	dipende perché anche lì non è che c'ho
@@ -1482,18 +1482,18 @@ BOR018	lui odiando qualsiasi cosa fanno
 BOI074	sì sì no no
 BOI075	sì
 BOI074	e infatti mi chiedo ma perché vendi i diritti di autore per farteli fare no cioè
-BOI075	eh eh i sord
+BOI075	# eh eh i sord
 BOI074	eh ho capit però se devi lamentarti delle schifezze
-BOI075	dai te lo stai guardando mar for
+BOI075	# dai te lo stai guardando mar for
 BOI074	no
 BOR018	comunque io ci volevo arrivare a questa xxx
 BOI074	no perché diciamolo no vo~ non lo guarderei per la trama
 BOR018	dai
 BOI074	non sarebbe molto etico
-BOI074	lo guarderei solo per il chiattil
-BOI075	no non per il chiatti~ po pieghere
-BOR018	po pieghere
-BOI074	non so chi siano però so solo che il chiattil è quell'attore che ha fatto un professore
+BOI074	# lo guarderei solo per il chiattil
+BOI075	# no non per il chiatti~ po pieghere
+BOR018	# po pieghere
+BOI074	# non so chi siano però so solo che il chiattil è quell'attore che ha fatto un professore
 BOR018	vero sì anch'io l'avevo visto già
 BOI074	eh quindi
 BOI075	nicolas maupas
@@ -1560,9 +1560,9 @@ BOI075	a caso
 BOR018	sì
 BOI074	magari veramente dal carcere
 BOI075	cioè comunque ti fanno
-BOR018	oh chiatti' c'hanno fottut 'o piez
-BOI075	xx 'o piez
-BOR018	c'hanno fottut piez chiatti'
+BOR018	# oh chiatti' c'hanno fottut 'o piez
+BOI075	# xx 'o piez
+BOR018	# c'hanno fottut piez chiatti'
 BOI075	cioè
 BOI075	e quindi cioè
 BOI074	che poi cosa vuol dire
@@ -1615,10 +1615,10 @@ BOI074	sì
 BOR018	dice ah sentitemi alla radio lui è in cella mette la radio sente la sua canzone
 BOR018	cantata dall'altra e dice
 BOR018	o chiatti'
-BOR018	perché il chiattillo suonava il pianoforte quindi hanno fatto la canzone insieme
+BOR018	# perché il chiattillo suonava il pianoforte quindi hanno fatto la canzone insieme
 BOI074	ah
-BOR018	o chiatti' c'hann fottut 'o piez chiatti'
-BOI075	c'hann fottut o piez
+BOR018	# o chiatti' c'hann fottut 'o piez chiatti'
+BOI075	chann fottut o piez
 BOR018	lui con il xx che arriva alle ginocchia
 BOI074	terribile
 BOI074	mamma mia
@@ -1771,7 +1771,7 @@ BOR018	ah
 BOI074	se tu sei una brava persona lo sei a prescindere
 BOR018	esatto
 BOR018	va bene
-BOI074	se sei unu chiattil
+BOI074	# se sei unu chiattil
 BOR018	se sei un chiattil aliora sei buono a prescindere
 BOI074	eh capito sei buono
 BOI075	infatti lui del nord vien chiuso nel carcere a napoli

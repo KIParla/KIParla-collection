@@ -1,5 +1,5 @@
-TO088	[ma è un pataccone sto coso]
 TO086	[mettila sulla lavastoviglie]
+TO088	[ma è un pataccone sto coso]
 TO087	ma quello è quello di carlo?
 TO087	>si chiama carlo<?
 TO085	no è mio
@@ -189,7 +189,7 @@ TO086	ma come hai fatto a fare::
 TO086	c'avevi un insegnante:: o:: studiavi da [sola]?
 TO088	[studiavo] da sola
 TO085	no:: si è amm>azzata di stu~<
-TO088	[si è ammazzata] >no non è vero non mi sono ammazzata per no< >cioè< è stato fatico:so [però]
+TO088	[si è ammazzata] >no non è vero non mi sono ammazzata per nocioé< è stato fatico:so [però]
 TO087	[porca miseria]
 TO088	[a un certo punto me ne so~ un po' x] fottuta le palle
 TO087	no ma lara >cioè< nel senso
@@ -588,8 +588,8 @@ TO085	[non è bello]
 TO087	ma no::: [lì eravamo nei castelli della loira ma figurte]
 TO088	[le piste ciclabili che non esistevano ma che]
 TO087	no no
-TO088	[attrezzati solo sul ci]glio della strada con le vecchie che ti passavano ai cento all'ora di lato
 TO086	°[secondo me::]°
+TO088	[attrezzati solo sul ci]glio della strada con le vecchie che ti passavano ai cento all'ora di lato
 TO088	[e con il bagaglio che] faceva [così]
 TO087	[col tandem]
 TO085	[a::h lei è l'a]mica [che non peda:la]
@@ -793,7 +793,7 @@ TO086	povera patina
 TO086	dovevo tipo inventare tutti degli stratagemmi [la infilavo in] bagno
 TO087	°[mado~]°
 TO086	con la porta socchiusa ma non troppo perché lei sapeva poi aprire la porta
-TO086	e quindi m i serviva il tempo per scappare vi:a
+TO086	e quindi mh i serviva il tempo per scappare vi:a
 TO085	((ride))
 TO088	no ma tu non hai idea io faccio la dogsitter al cane di suo:::~ dei suoi zii
 TO088	minchia per rinchiuderla in ba:gno

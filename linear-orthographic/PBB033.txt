@@ -113,7 +113,7 @@ BOR037	mhmh
 BOR037	mhmh
 BOI119	dove ci sono alcuni racconti proprio in bolognese
 BOI119	per cui non so c'è un racconto famoso e anche l'inizio di sto libro
-BOI119	dice proprio esattamente mi peder amgeva sampar le megl ot ve fer al taxist ed not o la guer in africa
+BOI119	# dice proprio esattamente mi peder amgeva sampar le megl ot ve fer al taxist ed not o la guer in africa
 BOI119	diceva mio padre mi diceva sempre o vai a fare la guerra in africa o fai il taxista di notte
 BOR037	sì
 BOI119	io poi non facevo il taxista facevo il centralinista però
@@ -586,7 +586,7 @@ BOR037	sì
 BOI119	ci son dei locali cult a bologna che io ho frequentato
 BOR037	ad esempio qua eh
 BOI119	ah i nei locali fra i più famosi non so ci so~ c'erano
-BOI119	se vuoi che ti racconti qualcosa su~ sulle osterie su queste cose qui meravigliose ecco quando l'osteria più famosa era il sevano a bologna andà a magner i fasù da ghitton
+BOI119	# se vuoi che ti racconti qualcosa su~ sulle osterie su queste cose qui meravigliose ecco quando l'osteria più famosa era il sevano a bologna andà a magner i fasù da ghitton
 BOR037	mhmh
 BOR037	sì sì
 BOI119	ghitton
@@ -599,7 +599,7 @@ BOR037	sì
 BOI119	xx è una cosa un po' particolare
 BOR037	è molto particolare sì sì
 BOI119	era molto famoso
-BOI119	mangiare i fasoi da ghitton poi c'era
+BOI119	# mangiare i fasoi da ghitton poi c'era
 BOI119	altre osterie una che è ancora visibile
 BOI119	l'osteria del sole nel quadrilatero che era la vera osteria di bologna che è ancora la vera osteria di bologna
 BOI119	tu andavi dentro
@@ -680,7 +680,7 @@ BOR037	ah
 BOI119	il mio amico rossi che è il professore di bolognese di san giovanni in persiceto
 BOI119	eh dove porta su a vedere la torre prendiparte e quando tornano giù fanno
 BOR037	mhmh
-BOI119	la cena di tagliatelle dalla zdaura che ha fatto le tagliatelle lì per cui è una visita un po' particolare fatta in dialetto bolognese
+BOI119	# la cena di tagliatelle dalla zdaura che ha fatto le tagliatelle lì per cui è una visita un po' particolare fatta in dialetto bolognese
 BOI119	con la l~ la cena delle tagliatelle dopo tutti insieme hai capito per cui ci son delle cose ancora delle tradizioni particolari a bologna che sono molto piacevoli
 BOR037	sì
 BOR037	una persona si può totalmente immergere nella cultura con questa visita
@@ -736,7 +736,7 @@ BOI119	c'è san marino lì vicino insomma c'è
 BOI119	insomma la riviera è comunque uno dei post~
 BOR037	sì
 BOI119	allora io da bolognese dico che la riviera è uno dei posti più belli del mondo nel senso
-BOI119	quando dicono ah voglio andare a divertirmi vado qui vado là vado cià io gli dico la capitale del divertimento
+BOI119	# quando dicono ah voglio andare a divertirmi vado qui vado là vado cià io gli dico la capitale del divertimento
 BOI119	come hanno fatto i romagnoli la riviera non non c'è da nessuna parte nel mondo perché in riviera c'è tutto
 BOI119	per cui c'è tutto quello che è divertimento nella vita dal gioco
 BOI119	ah dalle sale da ballo più belle dalle spiagge più belle dopo ques~
@@ -778,7 +778,7 @@ BOI119	teniam presente che queste cose sono ancora gradevoli insomma
 BOR037	sì sì sì sì ci sono anche a~ altre tradizioni particolari bolognesi che magari si sono un po' perse
 BOR037	nel tempo oppure
 BOI119	mh ma no diciamo che il bolognese come dicevo ospitale cordiale
-BOI119	le fat axè se non ci infili un bel soccmel che bolognese è dice questo era
+BOI119	# le fat axè se non ci infili un bel soccmel che bolognese è dice questo era
 BOI119	la canzone di dino sarti che era molto bella
 BOI119	per cui il bolognese è una persona molto ospitale hai capito molto ospitale gli piace stare in baracca gli piace divertirsi
 BOR037	mhmh
@@ -787,22 +787,22 @@ BOR037	mhmh
 BOI119	di fatti già quando si incontravano dicevano sempre
 BOR037	mhmh
 BOI119	questa ti dire ti regalo anche questa chicchina qui stasera
-BOI119	dicevano sempre c'sa ied nov
+BOI119	# dicevano sempre c'sa ied nov
 BOR037	cosa c'è di nuovo
 BOI119	ecco in in bolognese
-BOI119	e cosa vuol dire c'sa ied nov e quell'altro rispondeva
-BOI119	i graden ed san ptroni
+BOI119	# e cosa vuol dire c'sa ied nov e quell'altro rispondeva
+BOI119	# i graden ed san ptroni
 BOR037	i gradini di san petronio
-BOI119	esatto perché nov in bolognese vuol dire nuovo ma anche nove
+BOI119	# esatto perché nov in bolognese vuol dire nuovo ma anche nove
 BOI119	e i gradini di san petronio sono nove
 BOR037	ah
 BOI119	hai capito
 BOR037	sì
 BOI119	tu vai in piazza maggiore e li conti sono nove i gradini di san petronio
-BOR037	è vero ro~ anche in modenese direi che sed nov
+BOR037	# è vero ro~ anche in modenese direi che sed nov
 BOI119	hai capito e loro
 BOI119	avevano questo modo delle volte di incontrarsi così per un pochino
-BOI119	ironico per dire beh c'sa ied nov oh e diceva i graden ed san ptroni cioè nel senso non è cambiato niente no
+BOI119	# ironico per dire beh c'sa ied nov oh e diceva i graden ed san ptroni cioè nel senso non è cambiato niente no
 BOI119	però eh sono cose particolari che
 BOI119	non sono s~
 BOR037	sì sono perso

@@ -77,8 +77,8 @@ BOI061	vabbè c'è sempre stata quella:
 BOI061	quel fascino no che [tipo:] (.) ci sono gli amici stretti:
 BOI060	[sì]
 BOI060	esatto
-BOI060	[è un~ è un] posto molto: (.) solo per pochi: (.) eletti ((ride))
 BOI061	([vedervi bassi:])
+BOI060	[è un~ è un] posto molto: (.) solo per pochi: (.) eletti ((ride))
 BOR018	no bello così
 BOR018	e nien~ della zona: in cui hai detto che vivi
 BOR018	mh cosa ne pensi
@@ -116,8 +116,8 @@ BOI060	[ah:]
 BOR018	del tipo che (.) attraverso la strada con (.) il giallo e mi mettono sotto quasi
 BOI060	okay >vabbè< quello (.) è prassi (.) quella è la prassi un po' ovunque
 BOR018	°ah va bene allora°
-BOI060	però:
 BOI061	((ride))
+BOI060	però:
 BOI060	non per essere cattivo
 BOI060	mentre vai
 BOI060	vai al sud (.) questa cosa:
@@ -181,9 +181,9 @@ BOR018	hai detto che lavori (.) [o l'ho] inteso che lavoro fai
 BOI060	[sì]
 BOI060	allora
 BOI060	e: faccio:
-BOI060	l'azienda è: @nomeazienda
+BOI060	l'azienda è:
 BOI060	e: sta lì a borgo panigale
-BOI060	non è @nomeazienda sempre lì di fianco
+BOI060	non è sempre lì di fianco
 BOI060	sono: (.) cugini alla lontana definiamoli così
 BOI060	e: hanno solo il nome in comune attualmente all'inizio erano due fratelli
 BOI060	poi: si sono separati
@@ -215,8 +215,8 @@ BOR018	ferrovie della calabria
 BOR018	((ride))
 BOI060	sì
 BOR018	tanti problemi
-BOI060	[ehm:]
 BOR018	[ehm:]
+BOI060	[ehm:]
 BOI060	°(ah scusa non era niente di:°
 BOR018	delle città che hai visitato:
 BOR018	c'è qualcuna che ti piace
@@ -372,8 +372,8 @@ BOR018	e dura poco (.) cioè magari tipo mh
 BOR018	ci urliamo per una cosa poi il secondo dopo:
 BOR018	che mangi per cena amo (.) che: insomma
 BOI061	((ride))
-BOI060	[però] è comunque tua sorella quindi: è una
 BOR018	[xx]
+BOI060	[però] è comunque tua sorella quindi: è una
 BOI060	[è un] contesto completamente diverso da dire (.) il primo che trovo: (.) entra in casa
 BOR018	[sì]
 BOI062	poi io che cambio coinquilina ogni: (.) sei mesi
@@ -387,8 +387,8 @@ BOI062	quando pensi di averle viste tutte: si aggiunge sempre: [°qualcosa°]
 BOI060	[qualcosa]
 BOR018	e sono quelle americane (.) sempre le strane
 BOI060	((ride))
-BOI062	[non per] ess~ non per avere il pregiudizio però sono quelle che cambiamo sempre
 BOR018	[eh]
+BOI062	[non per] ess~ non per avere il pregiudizio però sono quelle che cambiamo sempre
 BOI062	e fino ad ora (.) c'è [stato sempre:]
 BOI060	[c'è un motivo] ((ride))
 BOR018	no e tu ne hai cose da raccontare sulle esperienze con ((ride)) [le coinquiline]
@@ -399,7 +399,7 @@ BOR018	u[na delle ultime]
 BOI062	[ehm:]
 BOI062	<una delle ultime:>
 BOI062	m::h
-BOI062	<più che altro:> <una cosa più o meno comune (.) a tutte:>
+BOI062	<più che altro:una cosa più o meno comune (.) a tutte:>
 BOI062	le coinquiline (.) che abbiamo avu~ >ora non perché siano americane però< (.) perché e:
 BOI062	[succe~ perché] erano tutte americane ma è successo è stata cosa comune
 BOI060	[erano vegane]
@@ -460,8 +460,8 @@ BOR018	°infatti mia sorella deve pulire°
 BOI062	((ride))
 BOI061	((ride))
 BOI061	amio?
-BOI062	((ride))
 BOR018	((ride))
+BOI062	((ride))
 BOR018	beh dai poverina sta studiando
 BOR018	e: allora
 BOR018	tornando a bologna
@@ -485,7 +485,7 @@ BOI060	ehm:
 BOI060	per:
 BOI060	conoscenze perché lei ha lavorato fino a poco tempo fa
 BOI060	a un locale lì: in via del pratello
-BOI060	al @nomeluogo
+BOI060	al
 BOR018	>°non lavori più?°<
 BOR018	>°ti hanno spostata°<
 BOI061	no no no ho cambiato: lavoro
@@ -505,12 +505,12 @@ BOI061	[sì esatto] ((ride))
 BOR018	[e li minacci]
 BOI062	[li mina]cci
 BOI061	°spaco botilia amazo familia°
-BOI062	((ride))
 BOI061	((ride))
-BOR018	io trascrivendo questa parte
 BOI062	((ride))
+BOR018	io trascrivendo questa parte
 BOI061	((ride))
 BOR018	((ride))
+BOI062	((ride))
 BOI062	tagliamo ((ride))
 BOI061	[eh]
 BOR018	[e:]
@@ -639,8 +639,8 @@ BOI061	°trecento scalini [xxxx]°
 BOI062	[tre]cento scalini
 BOI060	ah okay
 BOR018	per me so la stessa cosa [scusate]
-BOI062	((ride))
 BOI061	((ride))
+BOI062	((ride))
 BOI060	[ma no]
 BOR018	non so[no:]
 BOI061	[er]etica
@@ -727,7 +727,7 @@ BOI060	lì >ovviamente< si riempie:
 BOR018	>sì [era]< (.) pieno pienissimo in questi gi[orni]
 BOI060	[e:]
 BOI060	[pieni]ssimo
-BOI060	l'unico vantaggio che c'è stato nell'ultimo periodo è stato che pri~ >perché< io faccio l'esempio per esempio da (.) da @nomeluogo da lei
+BOI060	l'unico vantaggio che c'è stato nell'ultimo periodo è stato che pri~ >perché< io faccio l'esempio per esempio da (.) da da lei
 BOI060	ehm:
 BOI060	prima del covid
 BOI060	ehm:
@@ -767,7 +767,7 @@ BOR018	>avere<
 BOR018	a contatto tanta gente
 BOI061	ma (.) bene bene
 BOI061	cioè nel senso: la maggior parte delle~ >vabbè<
-BOI061	@nomeluogo: è una mh °non riesco più a parlare°
+BOI061	è una mh °non riesco più a parlare°
 BOI061	dicevo è un'isola felice ((ride))
 BOI061	è un'isola felice perché comunque
 BOI061	e: no~ non ci~ cioè sì
@@ -810,7 +810,7 @@ BOR018	[no] sì sì
 BOI060	[x]
 BOI061	[però] s~ se menano (.) però [in realtà] il pratello ultimamente è diventato molto più sicuro
 BOI060	[x x]
-BOI061	#>cioè< m:~ mia nonna: quando >ho detto vado a lavorare in pratello< ha detto °ma come lì è brutto p~° brutto pustaz diceva no (.) bolognese e: invece:
+BOI061	# >cioè< m:~ mia nonna: quando >ho detto vado a lavorare in pratello< ha detto °ma come lì è brutto p~° brutto pustaz diceva no (.) bolognese e: invece:
 BOI061	è: °mh adesso:°
 BOI061	>cioè< l'hanno ribaltato nel senso [eh]
 BOI060	°[sì è] ricambiato°
@@ -836,8 +836,8 @@ BOR018	>boh< (.) vari tipi di persone cioè (.) gira qualcosa
 BOR018	ehm:
 BOR018	>ma anche tipo< la gente che piscia per strada a me da mh
 BOI061	°e sì no°
-BOI060	[xx xx]
 BOR018	[cioè forse mi dà] più fastidio quello che vedere la gente che fuma ecco (.) a (.) ssolutamente
+BOI060	[xx xx]
 BOR018	però:
 BOI061	esci la domenica mh °che buon profumo di pi[scio]°
 BOR018	((ride))
@@ -882,8 +882,8 @@ BOI060	il mio:
 BOI060	mio hobby
 BOI060	perché mh giocavo a basket
 BOI060	e:
-BOI060	[poi:]
 BOR018	[>si vede<] (.) posso dirlo
+BOI060	[poi:]
 BOI061	((ride))
 BOI062	((ride))
 BOI060	poi per motivi:
@@ -1156,11 +1156,11 @@ BOI060	vero (.) [aper~ a~ a~ apriamo una pare]nte[si]
 BOI061	[vero] ((ride))
 BOR018	[vero] ((ride))
 BOI060	[tutto ciò che com]porta io e: (.) farmi male è iniziato da lei
-BOI060	[nel senso]
 BOI061	[noi ci siamo cono]sciuti in montagna ((ride))
+BOI060	[nel senso]
 BOI060	sì
 BOR018	fiera ((ride)) di ques[to]
-BOI061	#[no] no no fiera no puvrat ((ride))
+BOI061	# [no] no no fiera no puvrat ((ride))
 BOI060	avevamo:
 BOI060	allora io: ha~ ho un anno più di lei
 BOI060	ehm:
@@ -1351,7 +1351,7 @@ BOI061	a te invece cosa piace (.) cioè proprio veramente qualsiasi cosa l'impor
 BOR018	[no sì] io non mi sono mai focalizzata troppo su un genere
 BOI061	mh
 BOR018	e:
-BOR018	devo dire che non m i piace il rap e adesso lo posso dire perché tipo
+BOR018	devo dire che non mh i piace il rap e adesso lo posso dire perché tipo
 BOR018	[eh] alle medie o al liceo tutti che ascoltavano rap dice[vano oddio]
 BOI060	[mh]
 BOI060	[quello anch'io] effet[tivamente:]
@@ -1459,13 +1459,13 @@ BOI062	[io] ho visto: il cantante dello stato sociale
 BOR018	il pedofilo
 BOI062	non so ((ride)) non lo so ((ride)) è un pedof~ ((ride))
 BOR018	((ride))
-BOI062	[xxxxxxxxxx]
 BOR018	[no ma l'ho sentito dire io non] ((ride))
+BOI062	[xxxxxxxxxx]
 BOI062	non lo so non: lo conoscevo di: di faccia
 BOI062	mh me l'hanno detto e anche
 BOI061	((ride))
 BOR018	no ma davvero non avete mai incontrato nessuno
-BOI061	no [io sì] io al @nomeluogo: quelli tutti quelli indie venivano a bere da me
+BOI061	no [io sì] io al quelli tutti quelli indie venivano a bere da me
 BOI060	[no]
 BOR018	ah beh
 BOI061	bene (.) cioè nel senso:
@@ -1604,7 +1604,7 @@ BOI062	((ride))
 BOI060	((ride)) [(è vero)]
 BOI061	[io da mas]carella bassa purtroppo [(non ci sono dalla tua par]te)
 BOR018	[e qua non ci sono]
-BOR018	#io ero andata in aula studio a berti pichat vabbè su:~ sui viali là non ci sono (.) inizia a piovere ovviamente senza ombrello mi sono (.) posso dirlo mi sono presa una cula
+BOR018	# io ero andata in aula studio a berti pichat vabbè su:~ sui viali là non ci sono (.) inizia a piovere ovviamente senza ombrello mi sono (.) posso dirlo mi sono presa una cula
 BOI061	cosa vuol dire
 BOR018	e:hm:
 BOR018	dialetto m~ m~ mi sono bagnata fradicia
@@ -1648,8 +1648,8 @@ BOI060	agosto penso eh due settimane ho fatto due settimane il massimo credo sia
 BOR018	((ride))
 BOI060	quindi normalmente in agosto vado sempre su in montagna al fresco
 BOI060	e: sì
-BOI060	[ho detto io] non so come fanno le persone a starci qua tutto l'anno agosto compreso eh
 BOR018	[xxx]
+BOI060	[ho detto io] non so come fanno le persone a starci qua tutto l'anno agosto compreso eh
 BOI060	invivibile
 BOR018	no vero perché vabbè non c'è:
 BOR018	il mare ehm:

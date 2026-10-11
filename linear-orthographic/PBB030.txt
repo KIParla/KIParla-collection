@@ -2,14 +2,14 @@ BOR025	okay
 BOR025	allora aspe lo metto qua
 BOR025	eh in che zona di bologna vivi
 BOI102	eh vivo qui vicino dopo il ponte mazzini
-BOI102	e quindi vicino al lunetta gamberini in una traversa di @nomeluogo
+BOI102	e quindi vicino al lunetta gamberini in una traversa di
 BOI102	e
 BOI102	basta mh
 BOR025	e è una zona che ti piace
 BOI102	è molto bella è molto tranquilla non ci sono un sacco di servizi
 BOI102	quindi c'è il supermercato qua
 BOI102	e anche parruchieri
-BOI102	eh il panificio che è buonissimo in via @nomeluogo quindi sì è molto bella come zona
+BOI102	eh il panificio che è buonissimo in via quindi sì è molto bella come zona
 BOR025	sì
 BOR025	ehm pen~ cioè è collegata bene con il centro alla fine xxxx
 BOI102	è collegata bene perché c'hai via emilia dove passano praticamente i principali il ventisette il novantacin~ il novantaquattro il quindici il diciannnove
@@ -538,8 +538,8 @@ BOI102	vabbè
 BOR025	eh
 BOR035	altri posti dove vai a mangiare invece
 BOI102	xx
-BOI102	altri posti dove vado a mangiare del cuore beh c'è è cucina leopardi
 BOR035	del cuore
+BOI102	altri posti dove vado a mangiare del cuore beh c'è è cucina leopardi
 BOR035	mhmh
 BOI102	che mi piace molto
 BOI102	perché fa tutto cibo molto biologico poi è sempre strano
@@ -927,7 +927,7 @@ BOI102	è che appunto c~ cerco cioè io di solito la agosto me lo faccio sempre 
 BOR035	eh no
 BOI102	è un'agonia
 BOR035	parte che si svuota la città
-BOI102	è tutto chiuso non c'è nessuno c'è un caldo della madonna però tanto devo lavorare quindi mi chiudo in ospedale e bona lì
+BOI102	# è tutto chiuso non c'è nessuno c'è un caldo della madonna però tanto devo lavorare quindi mi chiudo in ospedale e bona lì
 BOI102	e però se scendo giù ad agosto
 BOI102	eh cioè per me è peggio perché non mi godo casa zero
 BOR025	eh immagino
@@ -1232,8 +1232,8 @@ BOI102	cioè mi mi guardate ma
 BOI102	non
 BOI102	cioè sono molto più
 BOR025	più distaccati
-BOI102	sì
 BOR035	non non ti approciano
+BOI102	sì
 BOI102	zero
 BOR025	sai che anche la mia amica di roma dice sempre così
 BOI102	sì sì sì sì
@@ -1401,8 +1401,8 @@ BOI102	la differenza vera è che a bologna
 BOI102	bologna è più aperta è più accogliente e c'hai veramente tanto tanto tanto da fare
 BOI102	vivere a ferrara vivere a modena penso perché poi non ho
 BOI102	cioè però
-BOI102	vivere a ferrara era un po' come
 BOR035	sì sì sì
+BOI102	vivere a ferrara era un po' come
 BOI102	vivere giù
 BOI102	però con le tradizioni del nord
 BOR035	esatto
@@ -1513,7 +1513,7 @@ BOI102	però
 BOI102	però abbiam trent'anni la società ci impone dei cambiamenti
 BOR025	eh sì
 BOI102	ora li vogliamo accettare no io voglio ritornare in viaggio
-BOR025	tomo
+BOR025	# tomo
 BOR035	brava
 BOR035	brava
 BOR025	mh

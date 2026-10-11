@@ -19,8 +19,8 @@ BOI013	però è quartiere corticella
 BOI012	no
 BOR005	ah okay
 BOR005	e le scuole le avete frequentate qui o in altri quartieri in altre città
-BOI012	altri quartieri
 BOI013	altri quartieri
+BOI012	altri quartieri
 BOR005	ah okay
 BOR005	e i vostri amici vivono ancora nei quartieri dove abitavate voi o si sono spostati
 BOI013	no
@@ -100,7 +100,7 @@ BOI013	usciva di più
 BOI013	in strada adesso no
 BOI012	ma e dopo due anni di covid non è che tutti vanno all'este~ e la gente che esce cioè gina
 BOI013	mh
-BOI013	ma non c'entra u covid
+BOI013	# ma non c'entra u covid
 BOI012	ah eh
 BOI013	non centra
 BOI012	ah centra c'entra
@@ -143,7 +143,7 @@ BOI013	che
 BOI013	che trovi sempre spacciatori che ti ve~
 BOI013	che ti danno della
 BOI013	uh vuole qualcosa signora
-BOI013	ne vuole ma ma sa vut dalla vita
+BOI013	# ne vuole ma ma sa vut dalla vita
 BOI013	cioè cio~ enrico tu il problema è che tu prendi là la macchina e non gir~
 BOI012	mh
 BOI013	io prendo la corriera l'autostazione
@@ -409,10 +409,10 @@ BOI013	ma mica ti dovevi laureare tu
 BOI012	sì ma vabbè ma infatti non mi son laureato ma non credo che sia per quello
 BOI013	perché sei ciuccio
 BOI013	oh
-BOI013	eh beh che bo'
+BOI013	# eh beh che bo'
 BOI012	tu hai visto
-BOR005	che bo'
-BOI013	che bo'
+BOR005	# che bo'
+BOI013	# che bo'
 BOI012	sto sto ridendo
 BOR005	quindi
 BOR005	quindi cioè soprattutto tu a san luca ci sei andato parecchie volte
@@ -970,7 +970,7 @@ BOR005	mhmh
 BOI012	eh li lo conosco è un mio amico
 BOR005	mhmh
 BOI012	poi altri cioè michael brusha cioè tutta
-BOI012	la balotta dei musicisti jazz di bologna li conosco tutti
+BOI012	# la balotta dei musicisti jazz di bologna li conosco tutti
 BOI013	mhmh
 BOI012	praticamen~
 BOR005	e di di solito che m~ che tipo di musica ascoltate qualche volta vi capita

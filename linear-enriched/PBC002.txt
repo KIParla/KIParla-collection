@@ -197,7 +197,7 @@ BOI008	in visita due tre giorni o un gio:rno
 BOI008	ma
 BOI008	dobbiamo di:re anche un po' purtroppo ci sono nella città di bologna tanti stranie:ri
 BOR003	mhmh
-BOI008	#tanti: son nati e si sono inseri:ti però poc poc mel
+BOI008	# tanti: son nati e si sono inseri:ti però poc poc mel
 BOR003	[mhmh]
 BOI008	[>cioè<]
 BOI008	ma:le
@@ -210,7 +210,7 @@ BOI007	risente molto della presente degli studenti [>cioè<]
 BOR003	[sì]
 BOI008	ecco c'è una città universitaria che ha circa
 BOI008	centomila
-BOI008	#>(beh so)< centomila studenti universita:ri
+BOI008	# >(beh so)< centomila studenti universita:ri
 BOI008	capisci che
 BOI008	genera un po' di proble:mi
 BOR003	è ve[ro]
@@ -236,20 +236,20 @@ BOI007	per cui tu capisci che la città
 BOI007	è veramente frequenta:ta da persone che non sono reside:nti
 BOI007	c'è molto movime:nto
 BOI007	è anche sempre piaciuta per quello poi
-BOI007	#adesso il clima è cambia:[to dappper] tutto: i bolognesi: son sempre stati chiamati biassanot cioè quelli che vivono anche di notte tranquillo potevi uscire:
+BOI007	# adesso il clima è cambia:[to dappper] tutto: i bolognesi: son sempre stati chiamati biassanot cioè quelli che vivono anche di notte tranquillo potevi uscire:
 BOR003	[mhmh]
 BOI007	[senza proble:mi]
-BOI008	#[tu sai come sono] gl~ gli umare:l
+BOI008	# [tu sai come sono] gl~ gli umare:l
 BOR003	sì e: quelli dei: no
 BOR003	quelli dei cantie:ri
 BOI008	e:[satto]
 BOR003	[okay]
-BOI008	#gli umarel sono quelli che si mettono
+BOI008	# gli umarel sono quelli che si mettono
 BOI008	[al bo]rdo con le mani dietro la schie:na
 BOR003	[sì] ((ride))
 BOI008	a guarda:re cosa fanno cosa non fanno
 BOR003	sì
-BOI008	#gli umarel
+BOI008	# gli umarel
 BOR003	((ride)) [è vero] è vero
 BOI008	[xxxxxxx]
 BOR003	e quindi tra gli aspetti più negativi della città potremmo dire un po' questo:
@@ -881,7 +881,7 @@ BOR003	parlano mai
 BOI008	qualc~ qu[alche battu:ta:]
 BOI007	[son proprio due di no]:i
 BOI008	io xx
-BOI008	#[(se voi xx a ma so bri:sa)]
+BOI008	# [(se voi xx a ma so bri:sa)]
 BOR003	((ride))
 BOR003	((ride))
 BOR003	e pensate che

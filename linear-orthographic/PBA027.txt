@@ -11,8 +11,8 @@ BOR036	sugli abitanti della città no
 BOI107	mhmh
 BOR036	voi comunque siete di qui
 BOR036	o no
-BOI107	nati qui
 BOI106	provincia cioè nel comune di bologna
+BOI107	nati qui
 BOI106	cioè proprio provincia di bologna
 BOR036	provincia di bologna
 BOI106	perché io abito a granarolo
@@ -56,8 +56,8 @@ BOI107	della casa dei suoi genitori che si era liberata
 BOI106	sì
 BOI107	perché prima era in affitto
 BOR036	ah okay
-BOI107	e quindi
 BOI106	sì prima era in affitto poi col covid
+BOI107	e quindi
 BOI106	questa coppia che era dentro era venuta a abitare a bologna
 BOI106	e io mi sono invece spostato lì perché col covid poi sempre in casa con i miei
 BOI106	stava diventando abbastanza
@@ -149,7 +149,7 @@ BOI107	non so anche solo pensare di spostarsi e andare a lavoro
 BOI107	poi adesso lavoro in due ospedali diversi quindi
 BOI107	ehm
 BOI107	se devo andare
-BOI107	per dire al @nomeluogo so che ci metterò quaranta minuti se devo andare al @nomeluogo
+BOI107	per dire al so che ci metterò quaranta minuti se devo andare al
 BOI107	non è pensabile andare
 BOR036	no il bellaria è lontano
 BOI107	eh
@@ -235,12 +235,12 @@ BOI107	e quindi ho continuato a fare in realtà l'attività che facevo
 BOI107	e in un ambulatorio
 BOI107	mh di neuropsichiatria infantile
 BOI107	ehm
-BOI107	adesso col fatto che quest'ambulatorio dal @nomeluogo si è spostato al @nomeluogo,
+BOI107	adesso col fatto che quest'ambulatorio dal si è spostato al
 BOI107	e mi hanno splittato su due xxx e quindi da un lato c'è
 BOR036	okay
-BOI107	quest'ambulatorio al @nomeluogo
+BOI107	quest'ambulatorio al
 BOI107	e dall'altro invece ambulatorio obesità mh diabete
-BOI107	eh altre patologie xx sidrome me~ di sindrome metabolica è al @nomeluogo
+BOI107	eh altre patologie xx sidrome me~ di sindrome metabolica è al
 BOI107	quindi sono xx lì da una parte xx dall'altra
 BOI107	ehm motivo per cui mh
 BOI107	adesso sarebbe utile trovare un
@@ -263,8 +263,8 @@ BOR036	tu quindi hai lavorato e fatto la magistrale
 BOI107	è stata lunga
 BOR036	perché io pensavo che tu stessi
 BOR036	che tu stessi già lavorando e basta
-BOI107	no no no ho fatto entrambi
 BOR036	cioè le mh
+BOI107	no no no ho fatto entrambi
 BOI107	che poi mh
 BOI107	per fortuna che x lavorando
 BOI106	prima la magistrale
@@ -333,7 +333,7 @@ BOI106	sia scriverlo che
 BOR036	io non so proprio cosa fai
 BOI106	io lavoro in un'azienda di macchine automatiche
 BOI106	a rastignano
-BOI106	si chiama @nomeazienda,
+BOI106	si chiama
 BOI106	e faccio il tecnico commerciale
 BOR036	ah
 BOI106	da circa due anni
@@ -546,8 +546,8 @@ BOI106	eh se ci fosse
 BOR036	la si potrebbe fare sì
 BOR036	sì sì sì
 BOR036	quindi comunque il piatto forte è quello sì
-BOI107	sì
 BOI106	sì
+BOI107	sì
 BOR036	sì sì e anche da x
 BOI106	ma il tortellino è il piatto forte forse un po'
 BOI106	in tutti i mesi dell'anno perché anche a ferragosto li facciamo i tortellini in brodo
@@ -984,8 +984,8 @@ BOI107	però ogni tanto
 BOI107	eh si riusciva anche a organizzare per ah
 BOI107	non so fare una sera abbiam fatto una cena insieme italiana
 BOI107	e gli ho cucinato io qualcosa
-BOI107	e gli avevo fatto la cotoletta alla bolognese
 BOI106	cos'avevi fatto
+BOI107	e gli avevo fatto la cotoletta alla bolognese
 BOI107	che poi non è vero era solo cotoletta non era col prosciutto perché non potevo
 BOI106	addirittura
 BOR036	cioè hai impanato proprio
@@ -1066,8 +1066,8 @@ BOI107	va un po' a mode magari c'è la cosa che va tantissimo in quel momento l�
 BOI107	e allora la propone anche lui
 BOR036	beh sì x giusto
 BOI107	ed effettivamente è molto
-BOI107	molto buono
 BOR036	giusto giusto
+BOI107	molto buono
 BOR036	e invece mi dicevate che nel insomma
 BOR036	vi piace viaggiare mi sembra di di aver capito
 BOR036	che che viaggi avete fatto che vi son piaciuti particolarmente
@@ -1109,8 +1109,8 @@ BOR036	ed è visibile
 BOI107	mhmh
 BOI106	oddio visibile
 BOI106	visibile per me no
-BOI107	eh
 BOI106	nel senso che cioè c'hanno poi quando tu gli abbiam fatto domande spiegato un po' questa casta non può ricevere cibo fatto magari da una casta inferiore eh ci sono i bramini che mh
+BOI107	eh
 BOI106	fanno po~ determinate cose eh mh vivono di questo vivono di donazioni
 BOI107	mhmh
 BOI106	eh ci sono i l'ultima casta che non può muoversi non può diciamo sposare una casta inferiore
@@ -1258,18 +1258,18 @@ BOR036	n~ non sono cioè non non sono musulmani però non c'entra
 BOI107	no sono indù
 BOR036	sì
 BOR036	infatti
-BOI107	ce ne sono ce ne sono anche di musulmani
 BOI106	però ci sono anche i musulmani eh
+BOI107	ce ne sono ce ne sono anche di musulmani
 BOI106	ci sono anche i cristiani
-BOI107	sì esatto c'è una minoranza cristiana e una musulmana
 BOI106	x
+BOI107	sì esatto c'è una minoranza cristiana e una musulmana
 BOI107	la maggior parte però sono indù almeno in quella in quello stato lì
 BOI106	però sono indù
 BOI106	anche un po' buddisti credo siano verso la cina
 BOR036	mh sì beh sì ci sta sìsì
 BOI106	nord est no
-BOI107	sì
 BOI106	però la maggioranza è indù sì
+BOI107	sì
 BOR036	però ev~ evidentemente è lo stesso
 BOI107	sì sì sì
 BOR036	e in marocco no invece non è lì
@@ -1329,8 +1329,8 @@ BOI107	sì
 BOI107	sì
 BOR036	perché io
 BOI107	non ci fai
-BOI107	caso
 BOR036	sì
+BOI107	caso
 BOI107	non ci fai caso e dici beh tanto è fa caldo nel senso okay mi metto una maglietta ma poi non era sta cosa che
 BOR036	sìsì
 BOR036	no no
@@ -1358,16 +1358,16 @@ BOR036	come in marocco
 BOI106	come in marocco è vero
 BOR036	sìsì
 BOR036	tantissimo
-BOI107	ecco in effetti sia in marocco
 BOI106	sì ti~ ti aggrediscono purtroppo sì è ve~ sia in marocco che in india è pesante questa cosa
+BOI107	ecco in effetti sia in marocco
 BOI107	che in india cioè le occhiate sono sono continue continue
 BOI106	difficilmente ti riesci a integrare nella nelle persone che hai intorno resti comunque
 BOI107	eh mh
 BOI107	perché non non riesci
-BOI107	esterno sì
 BOI106	diverso esterno
-BOI107	eh
+BOI107	esterno sì
 BOI106	sanno già cosa sei e quindi
+BOI107	eh
 BOI106	s~ cioè pensano solamente a poter ricavare qualcosa da te nel senso quindi
 BOR036	qualcosa
 BOI107	sì
@@ -1379,8 +1379,8 @@ BOI106	sì e molto faticoso per me
 BOI107	mh
 BOI106	mamma mia
 BOR036	in india
-BOI107	sì
 BOI106	in india
+BOI107	sì
 BOI107	in marocco sì ma meno
 BOI106	secondo me siamo anche cascati
 BOR036	ah io non mi immagino allora perché già in marocco io l'avevo un po' sofferto
@@ -1443,15 +1443,15 @@ BOI107	mh
 BOR036	eh
 BOI107	sì non siamo abituati a questo
 BOI106	te lo fai te lo fai andare giù
-BOI107	si anche perché non è che puoi chiedere scusi si si tolga sta a me
 BOR036	x
+BOI107	si anche perché non è che puoi chiedere scusi si si tolga sta a me
 BOI106	no come glielo dici come glielo dici
 BOI107	come glielo dici
 BOI107	infatti
 BOR036	no la cosa del pacchetto mi è piaciuta
 BOI107	ma tra l'altro eh non mi ricordo chi ci ha raccontato
-BOI107	che
 BOI106	perché sia quello che ci ha fermato il primo e il secondo che quello del tuctuc l'autista
+BOI107	che
 BOI107	eh
 BOI106	lavoravano tutti per questo questa agenzia
 BOR036	eh certo sìsì
@@ -1484,8 +1484,8 @@ BOI107	no alla fine abbiamo trovato una soluzione alternativa
 BOI106	no
 BOI106	abbiamo chiamato eh ci siamo fatti spostare in una sorta di villaggio
 BOI106	che però era in una situazione veramente
-BOI107	inabi~ l'abi per i locals
 BOI106	cioè fuori
+BOI107	inabi~ l'abi per i locals
 BOI106	il villaggio per i locali per gli indiani
 BOR036	sì
 BOI107	esatto esatto
@@ -1512,8 +1512,8 @@ BOI106	oh che bello
 BOI106	due indiani che passavano mi fa mh non ti conviene forse
 BOI106	poi dopo andando un po' avanti ho visto vetri plastica carta
 BOR036	tosto
-BOI107	in quel senso è disorganizzato cioè non disorganizzato sporco nel senso che comunque loro non hanno nessun tipo di cura del del luogo
 BOI106	sì
+BOI107	in quel senso è disorganizzato cioè non disorganizzato sporco nel senso che comunque loro non hanno nessun tipo di cura del del luogo
 BOI106	sì pure
 BOR036	sìsì
 BOI106	vabbè
@@ -1524,14 +1524,14 @@ BOI107	infatti c'è una campagna che stavano portando avanti
 BOI107	che stava portando avanti il governo non so il presidente
 BOI106	il presidente sì il governo
 BOI107	per tenere le città e cioè i luoghi più puliti perché loro non hanno
-BOI107	non hanno un pattume un rusco dove mettere le cose cioè eh
+BOI107	# non hanno un pattume un rusco dove mettere le cose cioè eh
 BOI106	non hanno un pattume
 BOI106	non ce l'hanno
 BOI107	buttano tutto così
 BOI107	incredibile
 BOI106	tutto così
-BOI107	sì
 BOR036	però comunque a proposito della mh
+BOI107	sì
 BOI107	x
 BOR036	gente che è d'accordo
 BOI106	mh
@@ -1557,8 +1557,8 @@ BOI106	ah lì cercano x ognuno deve dare lavoro all'altro anche lì in india
 BOR036	sì sì sì
 BOR036	sì esatto esatto esatto sì sì
 BOI106	ognuno deve avere il suo spaziettino la sua fetta
-BOI107	che ridere
 BOR036	eh beh
+BOI107	che ridere
 BOI106	è vero anche questo
 BOR036	e è una cosa fantastica
 BOI107	già
@@ -1584,8 +1584,8 @@ BOR036	cioè proprio a vivere
 BOR036	cioè più di di qua perché secondo me in italia c'è abbastanza
 BOI107	secondo me sì
 BOI107	mh
-BOI107	sì però lì secondo me di più cioè non lo so beh un po' anche
 BOR036	o no
+BOI107	sì però lì secondo me di più cioè non lo so beh un po' anche
 BOI106	eh lì è proprio
 BOI106	sì di più
 BOI107	non so dalle persone a cui abbiamo parlato alla fine mh

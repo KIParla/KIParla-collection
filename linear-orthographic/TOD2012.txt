@@ -237,7 +237,7 @@ TO056	poi mh
 TO056	non lo so m~ mi piacciono i quartieri multiculturali sono sono più colorati ci sono
 TO056	eh
 TO056	più profumi mh
-TO056	non lo so seco~ secondo me danno danno un qualcosa in più
+TO056	non lo so secosecondo me danno danno un qualcosa in più
 TO056	poi alla fine non è che c'è successo mai mai niente voglio dire non è che xx
 TO071	ma infatti cioè in in linea teorica sono anche i i più pericolosi
 TO071	però non è il ca non è il caso di san donato almeno non di quella zona diciamo xxx
@@ -490,7 +490,7 @@ TO056	è la città dello studente
 TO056	finto rosso che fa la rivoluzione alle diciannove dopo
 TO071	l'aperitivo durante l'aperitivo eh eh
 TO056	l'aperitivo all you can eat a diciotto euro con eh il tavolo di patatine
-TO071	s'(è imborghesizzata insomma
+TO071	s'è imborghesizzata insomma
 TO056	si è imborghesizzata però
 TO056	come dire gli studenti lo
 TO071	non non la percepiscono come cosa c'hanno sempre ancora come
@@ -568,7 +568,7 @@ TO056	e e quindi e e quando cominci a studiare ingegneria diventi ancora più sf
 TO071	eh
 TO056	pensa le ingegneresse
 TO071	ecco
-TO056	poracce quindi x va lì tanto insomma la tipa un po' alternativa del dams un po' più spigliata che che te la fila 'n'attimo te la trovi
+TO056	poracce quindi x va lì tanto insomma la tipa un po' alternativa del dams un po' più spigliata che che te la fila nattimo te la trovi
 TO071	mh
 TO071	e le ingegneresse addo' vanno invece
 TO056	mah no le ingegneresse
@@ -639,13 +639,11 @@ TO071	dalle origini finché non te ne sei andata
 TO056	allora sono stata concepita
 TO071	eh
 TO056	in una via dall'orribile nome
-TO056	@nomeluogo
 TO071	eh
-TO071	@nomeluogo
 TO071	che era la un'agenzia del lavoro in abruzzo
 TO071	a palermo evidentemente è qu~ eh è qualcosa di
-TO056	ma no @nomeluogo
-TO071	che è @nomeluogo
+TO056	ma no
+TO071	che è
 TO071	addis abeba quelle cose fasciste lì xx ah okay
 TO056	esatto
 TO056	quelle cose fasciste
@@ -659,7 +657,7 @@ TO056	cioè sono ritornata in questo quartiere dopo altre case esatto
 TO071	dopo tanti giri ah
 TO056	ma ora c'arriveremo
 TO071	mh
-TO056	quindi via @nomeluogo,
+TO056	quindi via
 TO056	eh traversa di via con tutti i vari nomi di tutte
 TO056	di tutta la gloriosa storia coloniale italiana
 TO071	delle co~ ex ex colonie
@@ -698,7 +696,7 @@ TO056	praticamente c'erano questi tre condomini
 TO056	cioè era un condominio unico però diviso in tre portoni
 TO071	mh mh
 TO056	eh sotto c'era un piazzale mh
-TO056	eh pedonale diciamo ecco le macchine non potevano
+TO056	eh pedonale diciamoecco le macchine non potevano
 TO056	eh entrare
 TO056	e quindi tutti noi bambini dei palazzi
 TO056	tut~ cioè già già da aprile fino a ottobre inoltrato
@@ -1086,7 +1084,7 @@ TO056	d~ dall'esterno
 TO071	mi
 TO071	da fuori
 TO056	da fuori
-TO056	e quindi sono sono entrata
+TO056	e quindi sonosono entrata
 TO071	e l'hai fatta uscire
 TO056	e l'ho dovuta l'ho dovuta fare uscire io perché lei è entrata in panico
 TO056	cioè c'era la chiave dentro

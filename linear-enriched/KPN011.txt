@@ -77,7 +77,7 @@ PKP120	[proprio (.) non è mai a]cca[duto]
 PKP123	[che fami]glia sia[mo]
 PKP122	[mado]nna ma ma scusa [i piatti veramente son piccol]i
 PKP123	[siamo una famiglia (un po' così)]
-PKP121	[fatto apposta perché così.]
+PKP121	[fatto apposta perché così].
 PKP120	[EH MA (.) bisogna lavare più velo]ce qua eh
 PKP122	così sembra grande la pi[zza]?
 PKP121	[e sì]
@@ -95,14 +95,14 @@ PKP120	buon appetai[t]
 PKP121	[ved]i che non si è attaccata a sto giro la pizza?
 PKP120	°spetta eh°
 PKP122	ma (.) l'altra l'hai già messa dent[ro]?
-PKP121	[eh] no perché abbiamo solo [<un> coso.]
+PKP121	[eh] no perché abbiamo solo [<un> coso].
 PKP122	[elama]dosca
 PKP121	e:h mi dispiace (.) ne comprate [un altro]
 PKP120	[quindi questo] PEzzo te lo devi godere proprio perché se n[o:]
 PKP123	[mh] (.) eh [eh si eh (.) perché:]
-PKP120	#[è un casein]
+PKP120	# [è un casein]
 PKP121	[il tuo turno]
-PKP120	#[in romagna si dice l]'è un case[in]
+PKP120	# [in romagna si dice l]'è un case[in]
 PKP122	[è veramente buona]
 PKP121	[no no] no
 PKP122	lo devo mettere adesso?
@@ -463,8 +463,8 @@ PKP120	n[on ha detto niente e secondo me] questo è proprio:
 PKP123	[vedi? (.) xx]
 PKP123	[è chiaro]
 PKP120	[lavarsene le] mani cioè non è proprio il lavoro di un medico
-PKP123	[no certo]
 PKP120	[non lo so poi cosa deve fare un medico]
+PKP123	[no certo]
 PKP122	[come non ha risposto nean[che]?
 PKP120	[no]
 PKP122	davvero?
@@ -684,8 +684,8 @@ PKP123	[sì:]
 PKP123	[è] il secondo sì
 PKP120	ah vabbè quanti anni ha?
 PKP123	non è grande
-PKP123	[vabbè non so quanti] x ha quindi x
 PKP120	[vabbè va bene]
+PKP123	[vabbè non so quanti] x ha quindi x
 PKP123	eh non lo so quanti anni ha
 PKP123	quanti anni ha (.) può avere
 PKP123	sì sì va bene
@@ -1150,8 +1150,8 @@ PKP120	[o:h]
 PKP120	anche questo?
 PKP122	[mh]
 PKP120	[mad]onna
-PKP123	[(ela:)]
 PKP120	[vai]
+PKP123	[(ela:)]
 PKP120	[dicevo sto coltello è] innocuo tanto non avrò rovinato sotto perché è innocuo
 PKP123	[xx]
 PKP123	sì infatti
@@ -1204,8 +1204,8 @@ PKP120	[è buona]?
 PKP122	mh
 PKP121	è buona cazzo
 PKP120	mh
-PKP121	[brava]
 PKP120	[io adoro] questa torta è molto semplice
+PKP121	[brava]
 PKP123	mhmh
 PKP120	[è molto molto semplice] c'è solo un po' da smadonn~
 PKP123	[bella da vedere]

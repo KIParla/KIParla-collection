@@ -8,8 +8,8 @@ BOI099	((ride))
 BOR036	di sapere tipo: (.) da quanto vi conoscete, se avete fatto delle cose insieme da picco[li o:]
 BOI099	[io e lui]?
 BOR036	sì
-BOI099	[no io e lui no]
 BOR036	[e::hm]
+BOI099	[no io e lui no]
 BOI100	da quando ha fatto:: [la piscina massi]
 BOR036	[quand'è che c(io)è]
 BOI099	no
@@ -57,8 +57,8 @@ BOI099	>c(io)è praticamente<, andavi A LAVORARE ancora prima di:
 BOI099	di iniziar[e:]
 BOR036	[mh]mh
 BOI099	il lavoro.
-BOI100	#°sciappinare°
-BOI099	#sì. s~ sciappi~ sì: (.) facevi i tuoi lavore:tti, i ciappini, °ma°
+BOI100	# °sciappinare°
+BOI099	# sì. s~ sciappi~ sì: (.) facevi i tuoi lavore:tti, i ciappini, °ma°
 BOR036	ma la progettazione del carro?
 BOI100	xxx
 BOI100	si parlava si faceva una mezza riunione e poi dopo::
@@ -81,7 +81,7 @@ BOI100	°sì°
 BOI099	e:h
 BOI099	ma più che altro perché noi volevamo:: c(io)è dai,
 BOI099	se eravam giovani xx
-BOI100	#prender la balla la domenica
+BOI100	# prender la balla la domenica
 BOI099	no::
 BOI099	alla fine a me non m'è mai piaciuto il carnevale, (.) come sfilata
 BOI100	°ancora una [x]°
@@ -114,7 +114,7 @@ BOI100	con la compagnia
 BOI100	diciamo dei carri perché in genere, (.) vabbè la nostra: è mischiata
 BOI099	sì
 BOI100	PARTE ANCHE della compagnia con cui si esce
-BOI100	#°eh insomma fare balotta là°
+BOI100	# °eh insomma fare balotta là°
 BOR036	però due tre volte a settimana riuscivate con la scuola?
 BOI100	SOLO QUELLO ((ride))
 BOI099	era per [non studiare a casa]
@@ -239,8 +239,8 @@ BOI100	[UN PO' SENTONO] bologna,
 BOI099	[sì: di calcio] lo sentono, tipo tifosissimi tutti alla baracchina a vedere le partite
 BOI100	[xxx]
 BOI099	però non sei influenzato, (.) dallo stile di vita di bologna ecco
-BOI099	[capito]?
 BOR036	[quindi un:]
+BOI099	[capito]?
 BOR036	c(io)è non lo sentite voi di essere::
 BOI100	cittadini? a[ssolutamente no]
 BOR036	[cittadini]?
@@ -250,8 +250,8 @@ BOI099	s[ì:]
 BOR036	[per] qualche motiv~ n[o quello sì]
 BOI099	[no di bologna] sì sì sì
 BOI099	per carità
-BOI099	[perché è poi molto] sentito, (.) il confine con il fiume reno (.) che di là c'è cento, di là c'è ferrara:
 BOR036	[ma vabbè a parte]
+BOI099	[perché è poi molto] sentito, (.) il confine con il fiume reno (.) che di là c'è cento, di là c'è ferrara:
 BOI099	perché pieve è sotto bolo[gna]
 BOI100	[xx] è dalla parte buona del re[no:]
 BOI099	[è] dalla parte buon[a:]
@@ -355,8 +355,8 @@ BOI100	[mhmh]
 BOI100	alcune robe sono uguali, a~ come: giù tra pieve e cento son diverse
 BOI099	sì:
 BOI099	che poi sono più termini eh, (.) no:n:
-BOI100	[c(io)è xx parola]
 BOI099	[xxx che la fras]e è uguale, puoi costruirla allo stesso modo,
+BOI100	[c(io)è xx parola]
 BOI100	cambian gli accent[i, cambia:: la parola] è proprio diver[sa]
 BOI099	[xxxxx]
 BOI099	[°sì°] o qualche lettera (°anche a volte°)
@@ -378,7 +378,7 @@ BOR036	MA VOI DA m:h
 BOR036	c(io)è comunque da ragazzini insomma, (.) difficilmente uscivate a bologna?
 BOI100	da ragazzini io venivo a bologna quando venivo a salutar te
 BOR036	però [e:h]
-BOI100	#[da pivezzant]
+BOI100	# [da pivezzant]
 BOR036	[eh sì] (.) però se no?
 BOI099	[no: bologna è sempre stat(a):]
 BOI100	[xxx]x
@@ -466,7 +466,7 @@ BOI099	e uno in spagna, [a:]
 BOI100	[lui ha fa]tto l'alberghiero
 BOI099	lui ha fatto l'alberghiero PERÒ aveva già fatt(o) tipo: la stagione invernale e quella estiva via
 BOI099	quindi un po' era già inquadrato
-BOI100	#°e p~° e poi è uno scapadizza
+BOI100	# °e p~° e poi è uno scapadizza
 BOI099	sì era un po': u::n
 BOI100	È
 BOI099	[scapestrato eh]
@@ -586,8 +586,8 @@ BOI100	il terremoto ti[po]?
 BOR036	[eh n]o io ero a casa ma:h [mi son svegli]ata io
 BOI100	[e::h]
 BOI100	eh son venuti i miei a chiamarmi:: OU
-BOI100	#livét bein
-BOI100	#e: c'è venuto il terremoto A::H io devo ander a sunér ad maténa
+BOI100	# livét bein
+BOI100	# e: c'è venuto il terremoto A::H io devo ander a sunér ad maténa
 BOI100	ho risposto così ((ride))
 BOI100	VIENI FUO:RI x ((ride))
 BOI100	ci siam vestiti siam andati fuori
@@ -718,8 +718,8 @@ BOI100	vuoi venir di qua che (c'è il telefono [al centro])?
 BOR036	[no no no]
 BOR036	io stavo facendo un esame all'università quello che c'è stato la mattina
 BOI099	alle nove?
-BOI100	[c(io)è il vent]inove? maggio
 BOR036	[sì]
+BOI100	[c(io)è il vent]inove? maggio
 BOR036	e::hm
 BOR036	e ci avevan fatto tutti uscire,
 BOR036	e poi dopo non succedeva niente ci han fatto rientrare,
@@ -753,8 +753,8 @@ BOR036	però n:~ non come qua insomma non:: non che la gente dormiva fuori dopo
 BOI100	beh tipo pieve: ha: il venti in realtà ha fatto praticamente niente
 BOI100	il ventinove è venutà giù una xx
 BOI099	i danni
-BOI100	[i danni li ha fatti il ventinove]
 BOI099	[più che altro] i danni dopo
+BOI100	[i danni li ha fatti il ventinove]
 BOI100	°mh°
 BOR036	eh sì c'erano delle m~ (.) (in)somma delle amichette di mia sorella che: di mirandola,
 BOI099	(sì) li è venuto:
@@ -786,8 +786,8 @@ BOR036	qualche storia del genere di persone mh vicino a v[oi:]
 BOI100	[m:h] no
 BOR036	no
 BOI099	del terremoto?
-BOI100	[da te a finale forse]
 BOI099	[xx] (.) i~ no: io son stato:
+BOI100	[da te a finale forse]
 BOI099	inondato di chiamate a casa
 BOI099	perché alle ceramiche x uno dei: decessi che c'eran stati era un ragazzo,
 BOI099	più o meno della mia età
@@ -848,7 +848,7 @@ BOI100	no no proprio: l'opposto
 BOR036	eh quindi se vuoi raccontare un po' così quello che [ti viene] in mente
 BOI100	[x]
 BOI100	mio padre abitava in piazza
-BOI100	#°da cinno°
+BOI100	# °da cinno°
 BOI100	e::h aveva sempre avuto il sogno di andare:
 BOI100	diventare campanaro, perché una volta era: quasi un mestiere
 BOI100	perché pagavano,
@@ -859,7 +859,7 @@ BOI099	[una nicchia]
 BOR036	[BEH SÌ U]NA SETTA SÌ
 BOI099	[xxxx]
 BOI100	sì non è che andava su:: chi voleva così oppure
-BOI100	#potevi andare su: però prima di iniziare a suona:re mah sô brisa perché::
+BOI100	# potevi andare su: però prima di iniziare a suona:re mah sô brisa perché::
 BOI099	eh beh rubavi il lavoro dai rubavi:
 BOI099	°(il soldo)°
 BOI100	ma:h non lo so: se era anche quello
@@ -873,11 +873,11 @@ BOI100	XXX: ((ride)) loro bevevan vino
 BOI099	((ride))
 BOI100	con (.) non so erano in nove o dieci (.) con
 BOI100	quattro bicchieri quindi per tre giorni sciacquavano i bicchieri nell(a) stess(a) secchi(a) d'acqua
-BOI100	((ride))
-BOI099	((ride))
 BOR036	((ride))
+BOI099	((ride))
+BOI100	((ride))
 BOI100	e::h
-BOI100	#e niente dopo: (.) °u~° del gnocco unto diceva mò trést mò trést,
+BOI100	# e niente dopo: (.) °u~° del gnocco unto diceva mò trést mò trést,
 BOI100	e: niente quindi io da:
 BOI100	da cinque anni che:: mio padre mi ha portato su
 BOI100	°e° mi mettevo là in un angolino
@@ -1030,7 +1030,7 @@ BOI100	DICEVAMO CHE C'ERA L~ (.) c'era una di c~ c'era fede,
 BOI099	x
 BOI100	x che suonava anche lui
 BOI100	aveva fatto: la festa della scimmia
-BOI100	#chi la ciapa l'è la só
+BOI100	# chi la ciapa l'è la só
 BOI100	°hai capito?°
 BOI100	e::h
 BOI100	si era fatto tipo male a una gamba ma perché diceva che mentre camminava una panchina gli aveva ATTRAVERSATO LA STRADA ((ride))
@@ -1296,8 +1296,8 @@ BOR036	((ride))
 BOI100	dopo ho cambiato squadra perché in due:: smettevano di venire: son andato con due di san:
 BOI100	sant'agosti~ no di san carlo,
 BOI100	e::hm
-BOI100	[xx]
 BOI099	[(in confronto a)] bianchi?
+BOI100	[xx]
 BOI100	°con bianchi e albi era la nostra squadra°
 BOI100	>non mi ricordo< se abbiamo fatto una gara in terza,
 BOI100	°poi dopo (non:) siam mai andati oltre°

@@ -10,12 +10,12 @@ TO029	eh cla ha deciso che il bicarbonato è la svolta
 TO037	cos'è che devo me[ttere]?
 TO036	[l'ace]:to
 TO029	non bals[amico però eh]
-TO036	((ride)) [non l'aceto] balsa~
 TO037	((ride))
+TO036	((ride)) [non l'aceto] balsa~
 TO037	non ce la faccio xx ((ride))
 TO029	no metti il bicarbonato che funziona
-TO036	[se no puoi mettere lo sciroppo d'ac]ero::
 TO037	[dopo una volta che ho messo il bicarbonato]?
+TO036	[se no puoi mettere lo sciroppo d'ac]ero::
 TO029	eh ci (sta)
 TO037	no:: è cariss::imo lo sciroppo d'acero ((ride))
 TO037	è oro
@@ -49,10 +49,10 @@ TO036	cla, elii?
 TO029	(no grazie ce l'ho)
 TO029	no forse non ci sta a casa mia usava bollirla
 TO036	a parte secondo me (.) nonna lo farebbe bollire
-TO029	[xxxxxxx] bollire prima
 TO037	[xxxxxx bollire col bicarbonato]?
-TO036	[xxx]
+TO029	[xxxxxxx] bollire prima
 TO037	[bollire col bicarbonato]?
+TO036	[xxx]
 TO029	no no
 TO036	sì sì mettile lì sul fuoco
 TO037	guarda che ci intossichiamo col bicarbonato
@@ -171,8 +171,8 @@ TO029	xxxxxxx ma è possibile che si sia xx [xx no no perché casa mia è umida]
 TO037	[è possibile ma meno male::]
 TO036	[faceva troppo freddo]
 TO029	perché casa mia è umida e l'incenso si è umidificato e secondo me non brucia
-TO036	((ride))
 TO037	((ride))
+TO036	((ride))
 TO037	nico eh eli comunque no (.) [non farlo più]
 TO036	[xxxx io] lo [faccio sempre]
 TO029	[ma no:: l'incenso non succede] niente di gra~
@@ -230,11 +230,11 @@ TO029	(fuori) vanchiglia
 TO037	oltre palazzo nuovo ormai::
 TO036	e basta ma non esiste più
 TO037	anche se è proprio la via dopo
-TO029	((ride))
 TO037	((ride))
+TO029	((ride))
 TO036	qual è la strada più comoda per andare al campus?
-TO036	[xxxx]
 TO037	[xxxx]
+TO036	[xxxx]
 TO029	no tu devi fare via bava tutta
 TO029	[e passare da dietro] no
 TO036	[via santa giulia]?
@@ -341,8 +341,8 @@ TO036	e poi lei mi ha risposto visto che eh hai risposto per prima vinci ((ride)
 TO036	il pacco della locandina
 TO029	cavolo eh no che [la locandina] dovrebbe farlo qualcuno con
 TO036	[oka:y]
-TO036	[xxx]
 TO037	[eh infatti perché davvero è diff]icilissimo da fare secondo me
+TO036	[xxx]
 TO036	ma dite? una locandina [così difficile]?
 TO029	[xxxx] xxx a chi gli poteva sbolognare la locandina ma
 TO036	ma così difficile dite la locandina?
@@ -388,8 +388,8 @@ TO036	io l'ho comprato ((ride)) alla brico e sembra un finto kalke come si chi[a
 TO037	[no papà l'ha] comprato in messico credo [questo tappeto]
 TO036	[e quindi] è ve:ro infatti
 TO036	molto bello
-TO036	[come si chiamano] i tappeti di giulia?
 TO037	[(ma vexx no?)]
+TO036	[come si chiamano] i tappeti di giulia?
 TO029	e::h non lo [so xx]
 TO037	[<belli que::lli be]llissimi> [quei tappeti sono bellissimi]
 TO036	[avete visto la foto di] paola vesitita da suora per carne~ ((ride))
@@ -460,9 +460,9 @@ TO037	((ride))
 TO036	((ride))
 TO029	xxxxxx tutte e due in silenzio
 TO036	((ride)) che brutta situazione
+TO037	((ride))
 TO036	((ride))
 TO029	vabbè xxx (il registratore è lontano però non potevo)
-TO037	((ride))
 TO029	xxx me lo passi per favore?
 TO036	non lo so se te lo passerò
 TO036	no mi spiace tantissimo xxx
@@ -586,12 +586,12 @@ TO037	abbiamo:::
 TO036	comunque hai la presa della corrente, il bagno
 TO037	beh
 TO029	dici che serve al~?
-TO036	[xxx]
 TO037	[dici che serve altro]? no
-TO036	[no xxxx caldo non piove]
+TO036	[xxx]
 TO037	[poi ogni tanto hai xxxxx mh mh]
-TO036	[una cosa xxx]
+TO036	[no xxxx caldo non piove]
 TO037	[mh mh una xxx tipo]
+TO036	[una cosa xxx]
 TO036	e poi: hai un sacco di scarti di cibo in realtà
 TO029	eh sì
 TO036	tantissimi perché le [person~]
@@ -620,8 +620,8 @@ TO037	(cioè) gente che dormiva~ quando mi son' svegliata c'era gente che dormiv
 TO036	sì
 TO037	sui tavoli [dei ba:r],
 TO029	[xx]xxx?
-TO036	[sì]
 TO037	[sì] sì
+TO036	[sì]
 TO037	davvero tanto tanto disa~ >cioè< più disagio che in a~ in altri aeroporti che boh
 TO029	è un aeroporto gra:nde shönefeld no? più di::
 TO037	ma non tanto
@@ -638,20 +638,20 @@ TO037	[xx caselle è piccolissimo]
 TO036	sì::
 TO037	sì:: shönefeld vabbè cazzo è l'aeroporto di berlino
 TO029	sì no però è in centro
-TO036	[però ci sono tanti gate]
 TO037	[xxxxxx]
+TO036	[però ci sono tanti gate]
 TO036	comunque tipo:: e::h trenta
 TO037	dici?
 TO036	sì::: noi eravamo al quindici >cioè< comunque >cioè<
 TO037	sì però è ch~ col c~ non è boh non lo tipo [quando entri a malpensa] è enorme no?
 TO029	[xxxxx]
-TO029	[xxxx] malpensa
 TO037	[anche quando entri]
+TO029	[xxxx] malpensa
 TO036	sì
 TO037	eh
 TO029	io non ce l'ho tanto in mente
-TO036	[xx]
 TO037	[xx]
+TO036	[xx]
 TO036	è un openspace
 TO029	un openspace
 TO037	e::h sì >cioè< entri [e:: ci sono tu]tti i ga~ ci sono tutti::

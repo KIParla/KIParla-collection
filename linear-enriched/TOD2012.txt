@@ -244,7 +244,7 @@ TO056	poi=m:h
 TO056	>non lo so< m~ mi piacciono i quartieri: multiculturali sono: sono più colorati, ci sono:
 TO056	e::h
 TO056	più profumi, m::h
-TO056	non lo so >seco~< >secondo me dann<o: danno un qualcosa in più
+TO056	non lo so >seco~secondo me dann<o: danno un qualcosa in più
 TO056	poi >alla fine non è che c'è successo mai< (.) mai [niente voglio dire non è che xx]
 TO071	[ma infatti cioè in in linea te]orica sono anche: i i più pericolosi
 TO071	però [non è il ca non è il caso di san] donato [almeno non] di quella zona [(diciamo) °xxx°]
@@ -386,7 +386,7 @@ TO056	[sì sì ma ci sono] un sacco: tra l'altro
 TO071	ma senza (tocchi) della grazia per la vista o no=mh?
 TO056	sì perché [mi so' spa~]
 TO071	[ma come sì]
-TO056	((ride)) [] sì ((ride))
+TO056	((ride)) sì ((ride))
 TO056	sì mi passa l'ateismo quando sto ma[le perché ero stata] ((ride))
 TO071	[ah] ((ride))
 TO056	((ride)) ero stata molto male con=eh con l'occhio mettevo antibiotici:,
@@ -654,13 +654,11 @@ TO056	[allora sono s]tata concepita
 TO071	eh
 TO056	((ride))
 TO056	in una:: via dall'orribile nome
-TO056	@nomeluogo
 TO071	[eh]
-TO071	@nomeluogo
 TO071	che era la: un'agenzia del lavoro in abruzzo
 TO071	(a) palermo [evidentemente è qu~=eh è qualcosa di:]
-TO056	[ma no @nomeluogo]
-TO071	che è @nomeluogo
+TO056	[ma no
+TO071	che è
 TO071	addis abeba quelle cose fasciste [lì xx ah okay]
 TO056	[esatto] ((ride))
 TO056	quelle cose fasciste
@@ -674,7 +672,7 @@ TO056	cioè sono RItornata in questo quartiere do[po: altre case esatto]
 TO071	[dopo tanti giri a::h]
 TO056	ma ora c'arriverem(o)
 TO071	mh
-TO056	quindi via @nomeluogo,
+TO056	quindi via
 TO056	e:h traversa: di <via> con tutti i vari <nomi> di tutte:
 TO056	[di tutta la gloriosa sto:r]ia: coloniale ((ride)) [i]taliana
 TO071	[>(°delle co~°)< (ex) ex colonie]
@@ -713,7 +711,7 @@ TO056	>praticamente< c'erano questi tre condomini
 TO056	cioè >era un condominio unico però diviso in< tre porto[ni]
 TO071	[mh] mh
 TO056	e:h sotto c'era un piazzale:=°m::::h°
-TO056	e::h pedonale >diciamo< >ecco< le macchine non potevano:
+TO056	e::h pedonale >diciamoecco< le macchine non potevano:
 TO056	e::h entrare,
 TO056	e quindi tutti noi bambini dei palazzi
 TO056	tut~ cioè già già da aprile fino a ottobre inoltrato
@@ -1103,7 +1101,7 @@ TO056	d~ dall'esterno
 TO071	mi
 TO071	da fuori
 TO056	da fuori
-TO056	e quindi sono> sono entrata
+TO056	e quindi sono>sono entrata
 TO071	e l'hai: fatta u[scire]
 TO056	[e l'ho do]vuta: l'ho dovuta fare uscire io perché lei è entrata in panico
 TO056	cioè c'era la chiave dentro

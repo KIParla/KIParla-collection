@@ -137,8 +137,8 @@ TOI059	e poi a grugliasco
 TOR001	okay
 TOI059	e poi siam tornati di nuovo qua
 TOR001	okay
-TOR001	quindi
 TOI059	sì
+TOR001	quindi
 TOR001	tanti
 TOR001	posti comunque diversi
 TOI059	sì
@@ -440,8 +440,8 @@ TOR001	a meno che di andare al cinema o così
 TOR001	però
 TOR001	m~ mi sposterei
 TOI059	sì
-TOI058	ah sì
 TOI059	sì è vero
+TOI058	ah sì
 TOR001	xxx
 TOI059	sì sì sì vita notturna no qua no
 TOR001	cioè senza poi ripeto non non che voglia andare a ballare e tornare alle quattro sbronza però
@@ -473,8 +473,8 @@ TOI059	mh
 TOI058	eh
 TOI059	quello però è sciccoso
 TOI058	è un
-TOI058	è un pub gourmet
 TOR001	un pochino
+TOI058	è un pub gourmet
 TOR001	eh vero
 TOI059	eh
 TOI058	siamo andat~
@@ -486,8 +486,8 @@ TOI059	eh
 TOI059	sì non
 TOI058	non fa per noi
 TOI059	è un è un ristorante travestito da pub
-TOI058	sì
 TOR001	sì
+TOI058	sì
 TOI058	sì sì
 TOR001	sì
 TOI059	mh
@@ -576,16 +576,16 @@ TOI058	qualsiasi attraversamento è devastante
 TOR001	sì
 TOI059	mh
 TOR001	sì sì sì
-TOI058	o o che arrivano o che escono dalla rotonda
 TOR001	ma anche tutto
+TOI058	o o che arrivano o che escono dalla rotonda
 TOR001	sì
 TOI059	sì vanno sparati eh
 TOR001	mh mh mh
 TOI058	quindi io li metterei ovunque
 TOR001	anche tutto corso francia no è un po' selvaggio riuscire a attraversare indenni cioè
 TOI058	mh
-TOI058	eh
 TOI059	mh
+TOI058	eh
 TOI058	sì sì
 TOI059	mh
 TOI059	mh
@@ -628,8 +628,8 @@ TOR001	e dove passava in mezzo o ai lati
 TOI058	ah
 TOI058	passava di lato
 TOI059	ai lati
-TOI058	cioè
 TOI059	mh
+TOI058	cioè
 TOI058	tra
 TOI058	tra met~
 TOI058	tra la metà
@@ -679,8 +679,8 @@ TOI059	eh sì
 TOI059	però qua ce ne erano tanti
 TOI058	anche lì a~ anche lì non è una prerogativa della zona
 TOI059	no no
-TOR001	no no
 TOI059	però è cambiato in questo senso prima era molto più commerciale
+TOR001	no no
 TOI058	mh mh
 TOR001	okay
 TOI059	adesso è rimasta commerciale magari la piazza
@@ -691,8 +691,8 @@ TOR001	sì sì
 TOI058	come i supermercati bon
 TOI058	cioè una volta c'era a~ il il continente di corso monte cucco
 TOR001	sì sì
-TOI058	e bon
 TOR001	mh mh
+TOI058	e bon
 TOI058	adesso eh
 TOI058	pieno pieno
 TOR001	però è vero no che cambia tanto poi la faccia del quartiere
@@ -825,8 +825,8 @@ TOR001	mh mh
 TOI059	sì
 TOR001	mh mh
 TOI059	sì sì sì
-TOR001	okay
 TOI059	la maggior parte sì
+TOR001	okay
 TOI058	sì
 TOR001	okay
 TOR001	d'accordo
@@ -1082,8 +1082,8 @@ TOI058	corso racconigi corso svizzero
 TOI059	sì
 TOR001	frequentate
 TOI059	tantissimo
-TOI058	sì sì
 TOI059	sì sì
+TOI058	sì sì
 TOR001	okay
 TOI059	sì sì
 TOR001	quindi andate regolarmente a fare la spesa al mercato
@@ -1205,7 +1205,7 @@ TOI058	quando non vuoi più la lasci lì arriva un altro se la prende
 TOR001	mh mh
 TOR001	okay
 TOR001	d'accordo
-TOR001	vi faccio le ultime domande cambio:: argomento
+TOR001	vi faccio le ultime domande cambio argomento
 TOR001	che lavoro fate
 TOI059	io sono impiegata
 TOR001	okay

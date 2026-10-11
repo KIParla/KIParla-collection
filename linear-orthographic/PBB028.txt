@@ -7,8 +7,8 @@ BOR036	per cui ero un po' curiosa di
 BOR036	di sapere tipo da quanto vi conoscete se avete fatto delle cose insieme da piccoli o
 BOI099	io e lui
 BOR036	sì
-BOI099	no io e lui no
 BOR036	ehm
+BOI099	no io e lui no
 BOI100	da quando ha fatto la piscina massi
 BOR036	quand'è che cioè
 BOI099	no
@@ -56,8 +56,8 @@ BOI099	cioè praticamente andavi a lavorare ancora prima di
 BOI099	di iniziare
 BOR036	mhmh
 BOI099	il lavoro
-BOI100	sciappinare
-BOI099	sì s~ sciappi~ sì facevi i tuoi lavoretti i ciappini ma
+BOI100	# sciappinare
+BOI099	# sì s~ sciappi~ sì facevi i tuoi lavoretti i ciappini ma
 BOR036	ma la progettazione del carro
 BOI100	xxx
 BOI100	si parlava si faceva una mezza riunione e poi dopo
@@ -80,7 +80,7 @@ BOI100	sì
 BOI099	eh
 BOI099	ma più che altro perché noi volevamo cioè dai
 BOI099	se eravam giovani xx
-BOI100	prender la balla la domenica
+BOI100	# prender la balla la domenica
 BOI099	no
 BOI099	alla fine a me non m'è mai piaciuto il carnevale come sfilata
 BOI100	ancora una x
@@ -112,7 +112,7 @@ BOI100	con la compagnia
 BOI100	diciamo dei carri perché in genere vabbè la nostra è mischiata
 BOI099	sì
 BOI100	parte anche della compagnia con cui si esce
-BOI100	eh insomma fare balotta là
+BOI100	# eh insomma fare balotta là
 BOR036	però due tre volte a settimana riuscivate con la scuola
 BOI100	solo quello
 BOI099	era per non studiare a casa
@@ -234,8 +234,8 @@ BOI100	un po' sentono bologna
 BOI099	sì di calcio lo sentono tipo tifosissimi tutti alla baracchina a vedere le partite
 BOI100	xxx
 BOI099	però non sei influenzato dallo stile di vita di bologna ecco
-BOI099	capito
 BOR036	quindi un
+BOI099	capito
 BOR036	cioè non lo sentite voi di essere
 BOI100	cittadini assolutamente no
 BOR036	cittadini
@@ -245,8 +245,8 @@ BOI099	sì
 BOR036	per qualche motiv~ no quello sì
 BOI099	no di bologna sì sì sì
 BOI099	per carità
-BOI099	perché è poi molto sentito il confine con il fiume reno che di là c'è cento di là c'è ferrara
 BOR036	ma vabbè a parte
+BOI099	perché è poi molto sentito il confine con il fiume reno che di là c'è cento di là c'è ferrara
 BOI099	perché pieve è sotto bologna
 BOI100	xx è dalla parte buona del reno
 BOI099	è dalla parte buona
@@ -350,8 +350,8 @@ BOI100	mhmh
 BOI100	alcune robe sono uguali a~ come giù tra pieve e cento son diverse
 BOI099	sì
 BOI099	che poi sono più termini eh non
-BOI100	cioè xx parola
 BOI099	xxx che la frase è uguale puoi costruirla allo stesso modo
+BOI100	cioè xx parola
 BOI100	cambian gli accenti cambia la parola è proprio diversa
 BOI099	xxxxx
 BOI099	sì o qualche lettera anche a volte
@@ -373,7 +373,7 @@ BOR036	ma voi da mh
 BOR036	cioè comunque da ragazzini insomma difficilmente uscivate a bologna
 BOI100	da ragazzini io venivo a bologna quando venivo a salutar te
 BOR036	però eh
-BOI100	da pivezzant
+BOI100	# da pivezzant
 BOR036	eh sì però se no
 BOI099	no bologna è sempre stata
 BOI100	xxxx
@@ -459,7 +459,7 @@ BOI099	e uno in spagna a
 BOI100	lui ha fatto l'alberghiero
 BOI099	lui ha fatto l'alberghiero però aveva già fatto tipo la stagione invernale e quella estiva via
 BOI099	quindi un po' era già inquadrato
-BOI100	e p~ e poi è uno scapadizza
+BOI100	# e p~ e poi è uno scapadizza
 BOI099	sì era un po' un
 BOI100	è
 BOI099	scapestrato eh
@@ -577,8 +577,8 @@ BOI100	il terremoto tipo
 BOR036	eh no io ero a casa mah mi son svegliata io
 BOI100	eh
 BOI100	eh son venuti i miei a chiamarmi ou
-BOI100	livét bein
-BOI100	e c'è venuto il terremoto ah io devo ander a sunér ad maténa
+BOI100	# livét bein
+BOI100	# e c'è venuto il terremoto ah io devo ander a sunér ad maténa
 BOI100	ho risposto così
 BOI100	vieni fuori x
 BOI100	ci siam vestiti siam andati fuori
@@ -707,8 +707,8 @@ BOI100	vuoi venir di qua che c'è il telefono al centro
 BOR036	no no no
 BOR036	io stavo facendo un esame all'università quello che c'è stato la mattina
 BOI099	alle nove
-BOI100	cioè il ventinove maggio
 BOR036	sì
+BOI100	cioè il ventinove maggio
 BOR036	ehm
 BOR036	e ci avevan fatto tutti uscire
 BOR036	e poi dopo non succedeva niente ci han fatto rientrare
@@ -742,8 +742,8 @@ BOR036	però n~ non come qua insomma non non che la gente dormiva fuori dopo
 BOI100	beh tipo pieve ha il venti in realtà ha fatto praticamente niente
 BOI100	il ventinove è venutà giù una xx
 BOI099	i danni
-BOI100	i danni li ha fatti il ventinove
 BOI099	più che altro i danni dopo
+BOI100	i danni li ha fatti il ventinove
 BOI100	mh
 BOR036	eh sì c'erano delle m~ insomma delle amichette di mia sorella che di mirandola
 BOI099	sì li è venuto
@@ -775,8 +775,8 @@ BOR036	qualche storia del genere di persone mh vicino a voi
 BOI100	mh no
 BOR036	no
 BOI099	del terremoto
-BOI100	da te a finale forse
 BOI099	xx i~ no io son stato
+BOI100	da te a finale forse
 BOI099	inondato di chiamate a casa
 BOI099	perché alle ceramiche x uno dei decessi che c'eran stati era un ragazzo
 BOI099	più o meno della mia età
@@ -831,7 +831,7 @@ BOI100	no no proprio l'opposto
 BOR036	eh quindi se vuoi raccontare un po' così quello che ti viene in mente
 BOI100	x
 BOI100	mio padre abitava in piazza
-BOI100	da cinno
+BOI100	# da cinno
 BOI100	eh aveva sempre avuto il sogno di andare
 BOI100	diventare campanaro perché una volta era quasi un mestiere
 BOI100	perché pagavano
@@ -842,7 +842,7 @@ BOI099	una nicchia
 BOR036	beh sì una setta sì
 BOI099	xxxx
 BOI100	sì non è che andava su chi voleva così oppure
-BOI100	potevi andare su però prima di iniziare a suonare mah sô brisa perché
+BOI100	# potevi andare su però prima di iniziare a suonare mah sô brisa perché
 BOI099	eh beh rubavi il lavoro dai rubavi
 BOI099	il soldo
 BOI100	mah non lo so se era anche quello
@@ -856,7 +856,7 @@ BOI100	xxx loro bevevan vino
 BOI100	con non so erano in nove o dieci con
 BOI100	quattro bicchieri quindi per tre giorni sciacquavano i bicchieri nella stessa secchia d'acqua
 BOI100	eh
-BOI100	e niente dopo u~ del gnocco unto diceva mò trést mò trést
+BOI100	# e niente dopo u~ del gnocco unto diceva mò trést mò trést
 BOI100	e niente quindi io da
 BOI100	da cinque anni che mio padre mi ha portato su
 BOI100	e mi mettevo là in un angolino
@@ -1001,7 +1001,7 @@ BOI100	dicevamo che c'era l~ c'era una di c~ c'era fede
 BOI099	x
 BOI100	x che suonava anche lui
 BOI100	aveva fatto la festa della scimmia
-BOI100	chi la ciapa l'è la só
+BOI100	# chi la ciapa l'è la só
 BOI100	hai capito
 BOI100	eh
 BOI100	si era fatto tipo male a una gamba ma perché diceva che mentre camminava una panchina gli aveva attraversato la strada
@@ -1078,7 +1078,7 @@ BOI100	sì perché è capitato che uno è venuto via un pezzo di ferro dalla cam
 BOI100	è arrivata in faccia a un campanaro
 BOI100	che ha rotto zigomo ha fatto due interventi e
 BOR036	brutto
-BOI100	e quindi per un PO' la gente che saliva doveva firmare se non avevi le assicurazioni non potevi andar su
+BOI100	e quindi per un po' la gente che saliva doveva firmare se non avevi le assicurazioni non potevi andar su
 BOI099	xxx
 BOI100	e dopo hanno iniziato a integrare le assicurazioni e tutto che prima sì c'era ma era un po'
 BOR036	perché non è che si può visitare il campanile così
@@ -1251,8 +1251,8 @@ BOR036	una carriera bruciata
 BOI100	dopo ho cambiato squadra perché in due smettevano di venire son andato con due di san
 BOI100	sant'agosti~ no di san carlo
 BOI100	ehm
-BOI100	xx
 BOI099	in confronto a bianchi
+BOI100	xx
 BOI100	con bianchi e albi era la nostra squadra
 BOI100	non mi ricordo se abbiamo fatto una gara in terza
 BOI100	poi dopo non siam mai andati oltre

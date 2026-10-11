@@ -630,8 +630,8 @@ BOR036	ah ah bene
 BOI098	[come fanno i ra]gazzini adesso
 BOI097	[>comunque<]
 BOI097	comun[que]
-BOI098	[non è che posso dire che]
 BOR036	[quindi: è uguale sì]
+BOI098	[non è che posso dire che]
 BOI097	[è è è sem]pre così cio[è:] quando:
 BOI098	[io ero perfetto e]
 BOI098	[sì]
@@ -642,11 +642,11 @@ BOI098	[certo]
 BOI098	[si no no ma infa~ no ma infatti (.) pro]prio per quello (.) cioè
 BOI098	io che li allenavo e ho avuto un po' più di contatti vicini
 BOI098	posso dire che
-BOI098	#io sicuramente a quattordic'anni quind~ a diciassette anni, sedic'anni, quindic'anni quando ero cinno io
+BOI098	# io sicuramente a quattordic'anni quind~ a diciassette anni, sedic'anni, quindic'anni quando ero cinno io
 BOI098	e:h
 BOI098	facevo (.) schifo cioè ero imbarazzante per quanto vedo imbarazzante >per quanto vedo imbarazzante< e mi faccia schifo un ragazzino di quindic'anni vederlo adesso
-BOI097	((ride))
 BOR036	((ride))
+BOI097	((ride))
 BOI098	cioè se prima c'era: °io° c(io)è c'era prima c'ero io che avevo sedic'anni e facevo schifo
 BOI098	adesso devo vedere c'è fresco di zona
 BOI098	okay [sono luc]a fresco di zona mi è imbarazzante per me è imbarazzante allo stesso modo però con la sua ignoranza
@@ -760,8 +760,8 @@ BOI097	no::: >merda< questa (.) questa sarebbe da raccontare però eh [perché]
 BOR036	[si può ra]ccontare
 BOI097	si può [raccontare]
 BOI098	[no: no] non si può raccon[tare perché]
-BOI097	[xx]
 BOR036	[non si può raccontare]
+BOI097	[xx]
 BOI097	[no beh]
 BOI098	[è una b]rutta fine che ha fatto don bicicletta [qua] si sta parlando di una morte [anche perché]
 BOI097	[beh però è dive~]
@@ -864,7 +864,7 @@ BOI097	°[vali]do°
 BOI098	>cioè<
 BOI098	fischiato il gol l'ha fischiato il problema è che don bicicletta prendendosi
 BOI097	((ride))
-BOI098	#sta sbalinata in faccia
+BOI098	# sta sbalinata in faccia
 BOI097	((ride))
 BOI098	c(io)è è cascato
 BOI098	penso che prima sia svenuto dalla botta del pallone
@@ -1057,8 +1057,8 @@ BOI097	mh
 BOR036	perché
 BOR036	ci siamo creati così tante
 BOR036	cose apposta per ehm il turismo
-BOI097	[mhmh]
 BOR036	[che (.) no]n so più che cosa è inventato per il turismo e che cosa no
+BOI097	[mhmh]
 BOI097	è per i bolognesi dici
 BOR036	però poi certe volte vado fuori da qui e
 BOR036	alcune cose
@@ -1099,14 +1099,14 @@ BOI097	a me [mi vie~]
 BOI098	[a bolo]gna [cioè s~]
 BOI097	[mi]
 BOI098	eh dì [no]
-BOI097	#[no] mi viene in ment[e:] mi vie~ eh esatto [mi viene in me]nte il [tiro:, eh] il rusco:, cioè [noi abbiamo] a[bbiamo dei]
-BOI098	#[il tiro]
-BOI098	#[il tiro]
-BOR036	#[<il tiro>],
-BOI098	#[cioè il tiro]
-BOI098	#[si sa perché] si chiama tiro no
-BOR036	#non so (.) perché si chiama tiro
-BOI098	#si chiama tiro perché una volta
+BOI097	# [no] mi viene in ment[e:] mi vie~ eh esatto [mi viene in me]nte il [tiro:, eh] il rusco:, cioè [noi abbiamo] a[bbiamo dei]
+BOI098	# [il tiro]
+BOI098	# [il tiro]
+BOR036	# [<il tiro>],
+BOI098	# [cioè il tiro]
+BOI098	# [si sa perché] si chiama tiro no
+BOR036	# non so (.) perché si chiama tiro
+BOI098	# si chiama tiro perché una volta
 BOI097	°s[i:]°
 BOI098	[era:]
 BOI097	[da] c~ dalla cas[a]
@@ -1125,14 +1125,14 @@ BOI098	che faceva si che a te tirando su la leva anche se stavi al terzo pia[no]
 BOI097	[il po]rtone [sotto s~]
 BOI098	[si apriva ti apri]va il portone
 BOI098	e quindi si chiama tiro perché dicevano tira
-BOR036	#mhmh ma altre: cose tipo il tiro eccetera di proprio di parole che si [dicono] s[olo qui (.) il rusco]
+BOR036	# mhmh ma altre: cose tipo il tiro eccetera di proprio di parole che si [dicono] s[olo qui (.) il rusco]
 BOI097	[beh]
-BOI098	#[il rusco]?
-BOI097	#[il ru]sc[o: il rusco::] ch[e non] abbiamo mai capito esattamente
-BOI098	#[il rusco so]
+BOI098	# [il rusco]?
+BOI097	# [il ru]sc[o: il rusco::] ch[e non] abbiamo mai capito esattamente
+BOI098	# [il rusco so]
 BOI098	[x]
 BOI097	quale [sia]
-BOI098	#[no rusco n]on so >da [dove deriva]<
+BOI098	# [no rusco n]on so >da [dove deriva]<
 BOI097	[il signifi]cato
 BOI098	però si parla di parole qua eh non si par[la di:]
 BOR036	[eh no (.) vabbè ma ma (.) se vi vengono in mente delle parole:]
@@ -1142,20 +1142,20 @@ BOR036	[eh]
 BOI097	nel gergo (.) bolognese cio[è::]
 BOR036	[ci son~] ci sono altre parole che vi è capitato di usare magari con degli es~
 BOR036	foresti e [non vi hanno capito]
-BOI097	#[ma si <bazza>] abbiamo bazza che non [non:: e]sci da bolo[gna non]
+BOI097	# [ma si <bazza>] abbiamo bazza che non [non:: e]sci da bolo[gna non]
 BOR036	[mhmh]
 BOI098	[ah vabbè] (.) però sempre parole stiam parla[ndo]
-BOI097	[eh eh mi viene in mente delle parole mi viene in mente]
 BOR036	[vabbè già che stia~ già che è venuto in fuori:]
+BOI097	[eh eh mi viene in mente delle parole mi viene in mente]
 BOI098	[(sì sì)]
 BOI097	[sai uno] slang bolognese che magari: dà a me anche: anche
 BOI097	con con altri fuori da da bologna
 BOI097	lo dico così come se fosse normale ma invece magari non capiscono (ca[pi'])
 BOI098	[ce]rto
-BOI097	[il ba~]
 BOR036	[non so anche: mh
-BOR036	#burazzo
-BOI097	#bura[zzo]
+BOI097	[il ba~]
+BOR036	# burazzo
+BOI097	# bura[zzo]
 BOI098	[#bu]razzo
 BOI098	[e:h]
 BOR036	[però voi] invece nelle vostre famiglie però il dialetto non non so i vostri non[ni:] [parlavano dia]letto con voi o n[o]
@@ -1194,8 +1194,8 @@ BOI098	e poi i dialetti son diversi a bologna non è che c'è un dialetto
 BOI098	voglio dire c'è la [parte di mia madre] (.) nel senso il dialetto è un dialetto bolognese
 BOR036	[ah dimmi dimmi dimmi]
 BOI098	però rimixato
-BOI098	[e:h il f]errarese
 BOR036	[con]
+BOI098	[e:h il f]errarese
 BOR036	[perché di dov'è] (.) tua mamm~
 BOI098	[e quindi (eh)]
 BOI098	perché no mia mamma è di bologna però [mia no]nna è stata tanti anni a ferrara
@@ -1244,7 +1244,7 @@ BOI098	[no neanch'io]
 BOI098	[ehm]
 BOI098	no non lo parliamo nean[che]
 BOI097	[magar]i (.) ripeto diciamo delle parole
-BOI097	#soccia che zagno::::
+BOI097	# soccia che zagno::::
 BOI097	ma così (.) cioè buttate lì::::
 BOI097	ma perché poi sappiamo cosa vuol dire: noi però:
 BOI098	sì no fare degli esempi mi è difficile [anche a me per~]

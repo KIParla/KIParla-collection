@@ -16,7 +16,7 @@ PKP012	no no è che
 PKP031	i i miei possono vedere se c'è l'allarme o no a casa se stiamo via dovremo mettere l'allarme
 PKP012	l'ha~ l'hai fatto
 PKP031	non abbiamo messo l'allarme
-PKP031	però abbiamo chiuso anche l'altra porticina a chiave e serà tutto
+PKP031	# però abbiamo chiuso anche l'altra porticina a chiave e serà tutto
 PKP012	okay
 PKP031	xxxxx non vengono mai i ladri xxxx
 PKP012	come se foste via eh no vabbé ma non puoi scongiurare che non vengano mai e proprio quella volta là vengono
@@ -32,7 +32,7 @@ PKP031	tornano adesso qua
 PKP031	no no mia mamma ha lezione
 PKP012	eh
 PKP012	in didattica a distanza
-PKP031	sì ara beppe
+PKP031	# sì ara beppe
 PKP012	eh alleluia
 PKP038	dov'è
 PKP012	in fondo
@@ -136,7 +136,7 @@ PKP031	eh un sacco di gente c'era la coda che arrivava fin fuori
 PKP031	tutti quanti hanno pensato è una bella giornata andiamo invece di andare in centro vado al parco e
 PKP012	io io pagherei oro per andare in montagna a farmi una camminata ma non posso farlo perché sono fuori comune
 PKP031	perché no
-PKP031	ma vara che ci si può spostare fuori comune
+PKP031	# ma vara che ci si può spostare fuori comune
 PKP012	non posso andare
 PKP012	sì
 PKP031	non siamo nella zona e però diciamo sì scusate ragazzi qua
@@ -176,7 +176,7 @@ PKP038	sì
 PKP011	quale canzone
 PKP031	michi or~ fra poco è ora di venire a vedere sanremo a casa tua
 PKP011	sì
-PKP031	cioè no ze che manca tanto
+PKP031	# cioè no ze che manca tanto
 PKP012	non credo che si possa fare sai
 PKP011	beh dai
 PKP031	eh bisogna vedere ormai non si sa
@@ -206,7 +206,7 @@ PKP012	eh
 PKP031	boh
 PKP011	xxpoggiare
 PKP012	eh no poteva appoggiare là
-PKP031	x posa eà
+PKP031	# x posa eà
 PKP012	a questo punto anche il mio compagno era autistico
 PKP038	comunque si è laureata con cento e nove mi sembra
 PKP011	se
@@ -271,14 +271,14 @@ PKP031	an michi michely cucciola
 PKP012	eh
 PKP012	cucciola prendilo
 PKP011	cucciola
-PKP031	ma va' in mosca va'
+PKP031	ma va in mosca va'
 PKP038	non c'erano questi qua allora
 PKP031	eh ma no ma è una carta vabbè
 PKP012	e come
 PKP031	faccio così guarda guarda
 PKP012	to'
 PKP011	che disastro
-PKP038	ara che è sporca
+PKP038	# ara che è sporca
 PKP031	vabbè di di di crema
 PKP038	hanno sempre gli stessi modi di tenere le dita le mani
 PKP012	sì hanno come se fossero spastici
@@ -408,7 +408,7 @@ PKP031	cioè anche mia cugina è in quinta ma è una santa
 PKP012	uhm
 PKP011	che xx che è
 PKP038	però cioè c'era una sì ehm che la chiamerò xxxx
-PKP012	anca massa
+PKP012	# anca massa
 PKP031	eh
 PKP011	ottimo
 PKP011	xx
@@ -451,11 +451,11 @@ PKP038	cioè non è un bel modo poi quando spiegavo le cose lei era sempre che a
 PKP012	laura laura
 PKP011	laura
 PKP038	eh
-PKP011	laura laura so fia so bea
+PKP011	# laura laura so fia so bea
 PKP012	laura
 PKP038	e la prendono tutti in giro e non ha amici ma ci credo se hai un atteggiamento così
-PKP031	so fiha
-PKP011	so fiha
+PKP031	# so fiha
+PKP011	# so fiha
 PKP011	poverina aiutala
 PKP031	eh
 PKP031	comunque queste queste persone con la flavia hanno vita breve abbiamo capito
@@ -541,7 +541,7 @@ PKP031	è bellissimo
 PKP012	ah
 PKP038	è il xxx
 PKP012	guarda guarda guarda
-PKP124	ma costerà dosento euro
+PKP124	# ma costerà dosento euro
 PKP011	io ho paura
 PKP038	è bellissimo lo voglio michela
 PKP124	ah comunque pensavo di prendermi un'altra gatta per o o natale o il mio compleanno
@@ -554,7 +554,7 @@ PKP031	xxxxx rossetto
 PKP124	così no è troppo viziata la mia ha bisogno di un po' di
 PKP011	così una te la tieni a verona una te la tieni a casa
 PKP124	grazie
-PKP124	a verona go massa da fare
+PKP124	# a verona go massa da fare
 PKP012	madonna è gi~ è gigante è pieno di pelo dovresti no è qua
 PKP011	no no che paura x
 PKP124	sì che poi lo dovresti lavare ogni tanto non è che lo puoi tenere
@@ -635,7 +635,7 @@ PKP124	due euro e cinquanta xxx minchia io vengo qua eh
 PKP031	no sto scherzando
 PKP038	a parte che giù te la regalano
 PKP011	si fatto sempre
-PKP124	ara gianni che ze tutto mio questo vero
+PKP124	# ara gianni che ze tutto mio questo vero
 PKP038	e comunque dicevo che volevo fare sto calendario dell'avvento ma non sapevo come farlo quindi mia mamma mi ha dato uno spunto e penso f~ che farò proprio così
 PKP011	ma era suo
 PKP011	ma come xx fai a mangiare xx xxxxx
@@ -671,7 +671,7 @@ PKP038	esatto
 PKP011	quando ti vediamo xx
 PKP038	quindi è zona rossa praticament~
 PKP031	sì praticamente
-PKP124	bisogna no go neanca a cittadinanza
+PKP124	# bisogna no go neanca a cittadinanza
 PKP031	cioè se lui fosse eh no ma perché se era a lecce la puglia è arancione niente in ogni in ogni caso c'è sempre qualcosa di
 PKP124	no non è un mio obiettivo però sai che ci sono xxxxxx
 PKP038	beh x
@@ -686,7 +686,7 @@ PKP031	non ti convince neanche
 PKP031	eh vabbé ma i voti sono quelli
 PKP038	e adesso melania se ne torna in slovenia
 PKP011	ma più che xx
-PKP124	no gavemo soldi però
+PKP124	# no gavemo soldi però
 PKP031	ma finalmente raga un po' di fiducia nell'umanità la dobbiamo avere allora
 PKP011	vabbè
 PKP038	poi altra cosa io ho visto un video tiktokay c'è un ragazzo cinese che parla benissimo l'italiano che è stato in italia che adesso è in cina ha fatto un video ha raccontato com'è in cina in questo momento
@@ -752,8 +752,8 @@ PKP011	un euro e cinquanta
 PKP012	comunque non so se avete visto ma c'erano due in ciabatte sono passati per strada in ciabatte
 PKP038	hanno aumentato anche là
 PKP124	ma dove
-PKP011	anca mi quando vado a buttar la spazzatura
 PKP124	eh vabbè avranno caldo
+PKP011	# anca mi quando vado a buttar la spazzatura
 PKP031	vabbè
 PKP012	posso farti un video quando vieni
 PKP011	va ben

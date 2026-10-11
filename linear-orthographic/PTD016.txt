@@ -20,8 +20,8 @@ TOI076	creo complementi d'arredo
 TOR004	okay
 TOI076	e oltre che fare anche la casalinga e la moglie
 TOI076	faccio la nipote quindi mi occupo di mia nonna
-TOI076	e tutta casa di mia nonna quindi anche il prato
 TOR004	okay
+TOI076	e tutta casa di mia nonna quindi anche il prato
 TOI077	mh mh
 TOI076	eh mi occupo del prato e del giardino
 TOR004	e cosa
@@ -108,7 +108,7 @@ TOI076	fino alle fino a quando c'era luce
 TOI076	in realtà
 TOR004	madonna santa che caldo
 TOI076	mh
-TOR004	va bin e invece tu che lavoro fai
+TOR004	# va bin e invece tu che lavoro fai
 TOI077	e io faccio
 TOI077	x x
 TOI077	cioè gestisco un'azienda di stampaggio articoli tecnici di silicone
@@ -298,7 +298,7 @@ TOR004	mh
 TOI077	che
 TOR004	ma qui in italia
 TOI077	sì sì qui di torino
-TOI076	di turin
+TOI076	# di turin
 TOR004	ah
 TOI077	e lui si è diciamo
 TOI077	assisteva dei ragazzi che facevano palestra xx per i denti quindi faceva le
@@ -621,8 +621,8 @@ TOI077	sì quando abbiamo il dubbio
 TOI076	quando abbiamo il dubbio ecco chiediamo
 TOR004	e quindi tuo papà sta in
 TOI076	xx
-TOI077	mio papà vive sopra
 TOR004	in ditta
+TOI077	mio papà vive sopra
 TOI077	xx i miei vivono sopra l'azienda perché cioè presi poi la ditta con la sì fanno tutto
 TOR004	ah okay
 TOR004	quindi fanno anche i custodi diciamo
@@ -638,8 +638,8 @@ TOI076	ma sì no non pe~
 TOI076	lui so diverte quando gli chiediamo le cose
 TOR004	sì
 TOI076	sì sì
-TOI077	sempre
 TOR004	e invece
+TOI077	sempre
 TOR004	l'officina di tuo nonno perché tuo nonno faceva
 TOI076	il fabbro
 TOR004	okay
@@ -673,8 +673,8 @@ TOI076	eh sì
 TOI076	io in realtà ehm
 TOR004	ma io non lo sapevo sta cosa
 TOI077	al colloquio
-TOI076	sì sì sì sì sì
 TOR004	veramente
+TOI076	sì sì sì sì sì
 TOI076	come non la sapevi sta cosa
 TOI077	era venuta a fare il colloquio eh
 TOR004	ma a me non me l'ha mai detto nessuno scusate
@@ -780,8 +780,8 @@ TOR004	cioè tu sei anda~ fammi capire lei è andata dal tuo
 TOR004	tu sei andata dal tuo capo
 TOR004	che era andrea
 TOI076	allora
-TOI077	sì no vabbè ma dopo questo dopo
 TOR004	e gli hai detto senti accompagnami a xx
+TOI077	sì no vabbè ma dopo questo dopo
 TOI076	aspetta in realtà c'era un rapporto appunto ci davamo del tu perché c'era anche un'altra ragazza che lavorava con noi lara la figlia di ginala x la vicina di casa di mia nonna
 TOR004	sì
 TOI076	quella
@@ -915,8 +915,8 @@ TOI077	eh il l'ha segnata
 TOR004	sì sì
 TOR004	no ma il mi han detto che è un posto assurdo
 TOI076	no nel io sono pochi anni che ci ho messo di nuovo piede
-TOI076	se no avevo il terrore solo a nominarlo
 TOR004	ma a me all'
+TOI076	se no avevo il terrore solo a nominarlo
 TOR004	ma sì a me all' mi avevano fatto un una proposta cioè per per l'università per pagare l'università
 TOR004	mi han fatto una proposta io mai fatto mai visto cucina niente mi avevan proposto di andare in pasticceria
 TOR004	e di prendere le commesse delle torte di fare le torte zia ma io non so neanche montare la panna cioè
@@ -1019,7 +1019,7 @@ TOI076	eh ma ti davano un borsellino piccolino
 TOR004	sì
 TOR004	sì
 TOR004	eh e comunque vi siete conosciuti così insieme
-TOI076	eh ci siamo conosciuti accussì
+TOI076	# eh ci siamo conosciuti accussì
 TOR004	e poi
 TOR004	quanto siete stati insieme
 TOI077	mh mh
@@ -1129,11 +1129,11 @@ TOR004	te lo lascio
 TOI077	cioè tutti quelli che hanno l'azienda come la mia
 TOI077	nel senso del mio settore
 TOI077	per andare a guadagnare bene devi andare al nell'est europa
-TOI077	cioè che tu hai dipendenti che paghi poco
 TOR004	sì
+TOI077	cioè che tu hai dipendenti che paghi poco
 TOR004	mh
 TOI077	quindi tu ti raddoppi i dipendenti
-TOR004	un cineis
+TOR004	# un cineis
 TOI077	eh eh raddoppi quindi eh quasi la produzione puoi quasi raddoppiarla
 TOI076	cin ciun wan
 TOI077	avendo quindi le spese
@@ -1148,8 +1148,8 @@ TOI077	si sa
 TOI077	parlando nel mio settore si sa
 TOR004	mh mh
 TOR004	sì
-TOI077	cioè senti di aziende
 TOR004	ma tu hai concorrenti
+TOI077	cioè senti di aziende
 TOR004	qui in italia che che ehm
 TOR004	boh non lo so che ti fanno pensare di andare all'estero anche magari
 TOI077	ma no l~ cioè la concorrenza da noi è abbastanza
@@ -1507,8 +1507,8 @@ TOI076	eh
 TOI076	sì
 TOR004	sì è vero no sì beh
 TOR004	certo
-TOI076	eh
 TOR004	ovvio
+TOI076	eh
 TOR004	e invece altri
 TOI076	la prima vacanza in francia
 TOR004	mh
@@ -1748,8 +1748,8 @@ TOI076	no è un'altra pa~ mh è
 TOI076	tutto diverso anzì sono lisci bianchi grigini
 TOI077	rocce rosse sì
 TOI077	c'eravamo minchia andati a baia cea
-TOI076	eh
 TOR004	e
+TOI076	eh
 TOR004	dove zia non ti sei beccata i ricci di mare nei piedi
 TOI076	non lo so
 TOI077	poi siam stati ad alghero
@@ -1846,8 +1846,8 @@ TOI077	prima di partire eh
 TOI076	madonna
 TOI076	questa si è persa il viaggio poi
 TOI077	eh s'è persa
-TOI076	col marito
 TOR004	e come fa
+TOI076	col marito
 TOI077	eh s'è persa il viaggio eh è rimasta lì
 TOI076	te lo ripaghi perché avevamo chiesto
 TOI076	sì sì sì
@@ -2007,7 +2007,7 @@ TOI077	eh vai a monaco di baviera
 TOR004	mia sorella lo guarda per imparare il tedesco
 TOI076	ecco
 TOI076	quei posti lì
-TOR004	va bin
+TOR004	# va bin
 TOI076	invece in italia mi piacerebbe andare in trentino proprio farmi una cavalcata
 TOR004	eh in trentino ci abbiamo i parenti
 TOI076	eh
@@ -2015,8 +2015,8 @@ TOI076	a farmi la cavalcata in mezzo a tutti gli alberi così
 TOI077	arriviamo
 TOR004	va bene
 TOR004	grazie per questa intervista
-TOI076	arvetse
-TOR004	arvetse
-TOI077	arvetse
+TOI076	# arvetse
+TOR004	# arvetse
+TOI077	# arvetse
 TOI076	in gamba
 TOR004	mi hai saluta~

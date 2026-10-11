@@ -362,8 +362,8 @@ PKP017	si chiama cant~
 PKP016	io ce l'ho lì che sto scaldando i pezzi rotti
 PKP017	si chiama cantina pinchiorri
 PKP016	questo è quello di pollo
-PKP017	che credo sia in toscana credo a firenze
 PKP016	è cotto in xx
+PKP017	che credo sia in toscana credo a firenze
 PKP022	eh
 PKP017	la cantina pinchiorri
 PKP017	c'hanno una cantina
@@ -405,8 +405,8 @@ PKP016	perché hai preso tu il maccallan dodic'anni
 PKP022	dodic'anni
 PKP013	ma l'hai pagata novantacinque
 PKP016	tra l'altro
-PKP022	l'ho pagata n~
 PKP016	continua ad invecchiare
+PKP022	l'ho pagata n~
 PKP022	sì
 PKP016	lui ha detto
 PKP013	e l'hai regalato al medico
@@ -478,8 +478,8 @@ PKP017	terra eh
 PKP013	eh
 PKP017	ehm no
 PKP017	è così insomma quello scozzese è più
-PKP017	mi puoi dare una fet~ una fettina di
 PKP016	è un po' insipida questa
+PKP017	mi puoi dare una fet~ una fettina di
 PKP013	piadina o crescentina
 PKP017	di piadina
 PKP017	ma me la puoi prender tu eh
@@ -599,15 +599,15 @@ PKP022	ci sono
 PKP017	volevo
 PKP022	le frattaglie
 PKP017	sentir no quel qu~ quel s~ rag~ quel arrosto con quel sughino al all'arancio
-PKP013	arrosto
 PKP016	xxx
+PKP013	arrosto
 PKP013	ragù
 PKP013	ah
 PKP013	tanto ne è rimasto un sacco
 PKP016	soppa che sugo che ti è venuto mamma
 PKP017	vuoi provare a sentirlo
-PKP013	no
 PKP017	con col
+PKP013	no
 PKP016	ti piace questo pane
 PKP022	è quello alla zucca
 PKP016	mh
@@ -632,8 +632,8 @@ PKP013	irlanda
 PKP022	grazie
 PKP017	mh
 PKP013	in irlanda
-PKP013	no
 PKP017	mh
+PKP013	no
 PKP022	xxx lì dietro
 PKP016	ma tienili tu
 PKP022	no xxxx
@@ -651,8 +651,8 @@ PKP017	l'abbiamo aperto nel
 PKP013	mh
 PKP022	lo metti solo nel dolce
 PKP013	mhmh
-PKP022	e allora
 PKP016	ah l'avete aperto là
+PKP022	e allora
 PKP016	e qua che e poi l'hai portato a casa aperto
 PKP017	mh
 PKP017	ce l'ho
@@ -750,10 +750,10 @@ PKP017	in sudamericano è ron
 PKP013	ah
 PKP017	prendo un'altra di quelli lì
 PKP013	lo posso mettere via
-PKP013	prima che cade e si
 PKP017	m~ mi danno tutt~
-PKP013	sporca tutto
+PKP013	prima che cade e si
 PKP017	mettilo lì
+PKP013	sporca tutto
 PKP016	gua' si tiene tutto lì vicino a lui
 PKP017	no io ve lo dò indietro ma poi dopo lo lo richiamo allora ilaria me l'ha già dato dieci volte il
 PKP013	perché tu me l'hai chiesto dieci volte
@@ -778,12 +778,12 @@ PKP013	di poten~
 PKP017	perdono
 PKP013	finché diventa analcolica la teniamo
 PKP022	no no beh io non bevo ila
-PKP013	eh quando diventa analcolica te la bevi
 PKP017	cioè o è come u~
+PKP013	eh quando diventa analcolica te la bevi
 PKP017	dipende come è fatto il tappo se è completamente sigillato
 PKP022	sì mi sembra che sia un tappo a vite mi sembra
-PKP013	perché hai portato via
 PKP017	se è completamente sigillato non perde niente se se invece
+PKP013	perché hai portato via
 PKP016	il formaggio
 PKP016	ah lo porto
 PKP013	no no vabbè non lo voglio ma volevo sapere perché l'hai portato via
@@ -926,8 +926,8 @@ PKP013	sì sì
 PKP016	sì
 PKP022	ecco quelle erano piccole piccole
 PKP022	e lui la faceva così
-PKP022	se no
 PKP016	le dà un buon sapore però tipo di legno
+PKP022	se no
 PKP022	se no la faceva a con la con la ruta
 PKP017	mh
 PKP013	di pino
@@ -1066,8 +1066,8 @@ PKP017	che è quel~ che cos'è quello un whiskey
 PKP022	ehm un uno whiskey
 PKP017	un whiskey
 PKP016	uno whiskey
-PKP013	pregiato
 PKP017	scozzese
+PKP013	pregiato
 PKP017	scozzese
 PKP017	scozzese
 PKP022	b~ ehm io non me ne intendo
@@ -1078,8 +1078,8 @@ PKP022	è c~ è come ieri quando abbiamo aperto il nocino che ho detto è meglio
 PKP017	o se no c'è scritto american
 PKP013	beh
 PKP022	se no ho detto con matteo portatelo via perché
-PKP022	evapora
 PKP016	no quello quello fatto in casa
+PKP022	evapora
 PKP013	forse anche la vale quello lo voleva assaggiare
 PKP017	io no~ n~
 PKP013	che l'ha fatto lo zio carlo
@@ -1182,7 +1182,7 @@ PKP013	eh che è diverso però non è il brandy
 PKP017	il cognac è francese
 PKP022	allora il co~ però se tu vai in certi bar che dice un come abbiamo detto la parola prima
 PKP017	il brandy
-PKP013	boh oh oh oh
+PKP013	ridendo boh oh oh oh
 PKP017	e ti~ ehm vecchia romagna
 PKP022	no
 PKP013	brandy
@@ -1312,8 +1312,8 @@ PKP016	sì in effetti è cotta bene ilaria tieni
 PKP013	fattele prima te
 PKP017	qualcuno vuol sentire il rum
 PKP016	io
-PKP017	allora prendo un altro bicchiere
 PKP016	così dormo oggi pomeriggio
+PKP017	allora prendo un altro bicchiere
 PKP017	oh così ti mettiamo a letto
 PKP013	ma posso tagliar solo il bordo
 PKP016	sì
@@ -1348,10 +1348,10 @@ PKP022	no me~ macken allora come si chiamava lisa quel cesso
 PKP016	macallan
 PKP017	no ma c'è anche il macallan
 PKP016	macallan
-PKP013	quel cesso
 PKP017	macallan diciotto
-PKP022	diciott'anni
+PKP013	quel cesso
 PKP016	docic'anni
+PKP022	diciott'anni
 PKP017	ce l'abbiamo
 PKP016	dodici
 PKP017	d~ dodici
@@ -1489,8 +1489,8 @@ PKP017	aprire una bottiglia
 PKP022	ce l'hai lo zucchero a velo
 PKP017	apr~
 PKP016	non ne ho
-PKP017	aprire una bottiglia
 PKP016	abbiamo lo zucchero a velo
+PKP017	aprire una bottiglia
 PKP017	unica al mondo
 PKP016	lo vuoi di qua o di qua
 PKP022	sì
@@ -1632,8 +1632,8 @@ PKP013	dai mangia
 PKP013	tanto va anche nei dolci è come mangiare un po' di
 PKP013	pesca all'alchermes
 PKP016	e invece quando si fa il roast beef ehm scusa
-PKP013	il roast beef
 PKP016	che liquore ci va
+PKP013	il roast beef
 PKP016	sì
 PKP013	dai mangia la torta
 PKP016	non la xxxxxxx piatto
@@ -1689,8 +1689,8 @@ PKP017	si chiama bourbon
 PKP022	ah
 PKP016	barbou
 PKP017	bourbon
-PKP022	ila
 PKP016	ma ba~ ah
+PKP022	ila
 PKP022	diluito è molto più buono
 PKP017	bourbon
 PKP013	più buono
@@ -1767,13 +1767,13 @@ PKP022	il barolo è un vino pregiato
 PKP013	mh mh
 PKP017	il barolo costa mh ehm ho visto
 PKP022	eh
-PKP013	pensa la grappa allora
 PKP017	al supermercato pensavo di prendere una bottiglia di barolo
+PKP013	pensa la grappa allora
 PKP017	ho detto lo prendo la prossima volta
 PKP022	quanto costa
 PKP017	ah van dai tren~ venticinque trenta euro in su
-PKP017	è è
 PKP016	il barolo è un vino rosso vero
+PKP017	è è
 PKP017	sì del piemonte
 PKP013	pensa quanto costa la grappa
 PKP013	perché per far la grappa
@@ -1848,8 +1848,8 @@ PKP013	eh perché prende anche un po' quello
 PKP016	mh
 PKP017	perché il legno si impregna de~ de~ de~ delle sostanze del dell'alcol e poi lo rilascia
 PKP017	nel liquido nuovo che viene messo dentro
-PKP013	mh
 PKP016	mh
+PKP013	mh
 PKP022	comunque l'hanno gradito ha detto che era buono speriamo che sia vero
 PKP013	se se la son bevuta tutta
 PKP022	no no tutta no
@@ -1922,10 +1922,10 @@ PKP016	il cent'erbe
 PKP017	e questo è porto
 PKP013	ah questo buono questo vorrei provare
 PKP017	xxxx questo qui è vino portoghese porto
-PKP013	non c'è
 PKP016	non c'è
-PKP022	ila ce n'ho una bott~
+PKP013	non c'è
 PKP016	hai hai hai usato tutti e due tu
+PKP022	ila ce n'ho una bott~
 PKP016	questo no
 PKP017	no credo di aver usato solo questo
 PKP022	toni siete andati voi per caso una volta i~ in spagna e avete portato a casa

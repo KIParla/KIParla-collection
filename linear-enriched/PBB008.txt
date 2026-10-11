@@ -44,7 +44,7 @@ BOI026	e:::hm:::
 BOI026	e quindi poi sono rimasta da allora sono rimasta sempre:: a bologna.
 BOI026	per:: ((sospira))
 BOI026	m::h
-BOI026	(in)somma ho <abitato> <DOVE> magari interessa anche DOVE ho abitato m::h >non lo so< ((ride))
+BOI026	(in)somma ho <abitatoDOVE> magari interessa anche DOVE ho abitato m::h >non lo so< ((ride))
 BOR004	se lo vuole di:re [sì sì sì]
 BOR006	[sì sì sì] ((ride))
 BOR004	((ride))
@@ -53,7 +53,7 @@ BOI026	la prima <PERIFERIA> e::h poi invece da studentessa ho sempre abitato in 
 BOR004	mhmh
 BOI026	e anche <dopo> da non studentessa non sono più riuscita ad uscire dal <centro> [voglio dire] ((ride))
 BOR004	[sì:]
-BOI026	e infatti adesso ci troviamo in @nomeluogo
+BOI026	e infatti adesso ci troviamo in
 BOI026	dove abito:: a~ ancor'<oggi> perché: poi dopo
 BOI026	e:: una volta che uno si abitua <MALE> °eh°
 BOI026	ad avere <tutto a portata di dieci minuti> soprattutto i consumi <CULTURA[LI> che]
@@ -67,7 +67,7 @@ BOI026	poi <DOPO> invece: NO un anno in periferia: per <pochi mesi> e poi sempre
 BOR004	mhmh
 BOI026	in un piccolo monolocale per <dodic'anni>
 BOI026	e poi invece ho comprato casa qui::: mh
-BOI026	a v~ in via del in @nomeluogo ((ride))
+BOI026	a v~ in via del in ((ride))
 BOR004	quindi sei affezionata comunque: alla città:
 BOI026	sì:
 BOI026	non potrei abitare
@@ -77,7 +77,7 @@ BOI026	a:: a bologna non è più un po' la bologna:: del:
 BOI026	eh di bologna: città della musica del DUEMI:LA. quell'esplosione culturale che c'è <stata>. in quegli anni LÌ:
 BOI026	con quel:: dove si faceva musica dappertu[tto] <locali> ovun~ dove <ovunque> si faceva <musica>.
 BOR004	[m:h]
-BOI026	si consumava <musica> <TEATRO> veramente ovunque.
+BOI026	si consumava <musicaTEATRO> veramente ovunque.
 BOI026	>PERÒ< comunque ancora::
 BOI026	ancora c'è molto TEATRO ancora c'è molta mu:sica. anche se non più a quei: a quei <livelli> è un po' più tri:ste a p~
 BOI026	COVID a <parte> [ecco] [al ne]tto del <covid> [e::h]
@@ -129,7 +129,7 @@ BOR006	invece
 BOR006	eh per quanto riguarda magari e:h >cioè< a noi interessa il::
 BOR006	l'ambito dei <quartieri> dei posti di <bologna>.
 BOR006	ad esempio >c(io)è< mia curiosità personale e:h il fatto di aver <scelto>
-BOR006	e:h casa in: in <@nomeluogo>
+BOR006	e:h casa in: in
 BOR006	c(io)è la una delle vie: clou diciamo:: della città è capitato oppure::
 BOI026	allora quello è capitato
 BOI026	per puro caso nel senso che cercavo casa veramente da <tanto tempo>
@@ -180,8 +180,8 @@ BOI026	le mie <torri> [il mio:] ((ride))
 BOR004	[mhmh]
 BOI026	e quindi::
 BOI026	alla fine:: >vabbè< POI solo l'idea di affrontare un trasloco potrei morire.
-BOR006	ci sta ((ride))
 BOR004	((ride))
+BOR006	ci sta ((ride))
 BOI026	e quindi alla fine:
 BOI026	rimango lì
 BOI026	con le mie micie.
@@ -217,8 +217,7 @@ BOR004	[(sì)]
 BOI026	che ab~ m:h con tutti i bar della <zona> siamo d'accordo perché di qua c'era stato un:.
 BOI026	open space technology diversi anni fa.
 BOI026	per (.) appunto:: cercare di dirimere i <contrasti tra>.
-BOI026	ehm:: i <condomini> soprattutto del crusel che è l'incrocio tra @nomeluogo e via mh
-BOI026	@nome[luogo].
+BOI026	ehm:: i <condomini> soprattutto del crusel che è l'incrocio tra e via mh
 BOR004	[mhmh]
 BOI026	che sono qu~ che erano: (.) due condomini che.
 BOI026	chiamavano la polizia ogni: sera per le::.
@@ -258,7 +257,7 @@ BOR006	((ride))
 BOI026	DAVANTI a una casa: signori~ cioè m:h [io non ci~] non credevo alle [mie] orecchie al m~ m::h.
 BOR004	((ride)) [sì:]
 BOR004	[sì:]
-BOI026	#a quello che i miei occhi >vedevano< il <portiere> anche lui era fuori dai (.) coppi ((ride))
+BOI026	# a quello che i miei occhi >vedevano< il <portiere> anche lui era fuori dai (.) coppi ((ride))
 BOR004	((ride))
 BOR006	((ride))
 BOI026	perché (.) naturalmente
@@ -358,8 +357,8 @@ BOI026	me l'aveva <chiesto> il <comitato> il:: m::h
 BOI026	e:: l~ il comitato <donne anpi> del:: di <BOLOGNA>.
 BOI026	e:: l'avevamo fatto su a <villa SPADA>.
 BOR004	mhmh
-BOI026	[e:]
 BOR004	[e c'è] il <monumento> gius[to]?
+BOI026	[e:]
 BOI026	[LÌ A~] (.) [al <monumento>] delle <partigiane>
 BOR004	[eh (.) mhmh]
 BOI026	e (.) eccola qua
@@ -805,7 +804,7 @@ BOR004	sì: sì sì sì
 BOI026	<ciao> la parola ci[ao]
 BOR004	[mhmh mh]
 BOI026	dai da: da <VENEZIA> dai VENEZIANI che l'hanno portata in giro per il mondo
-BOI026	#sciavo vostro signor paron.
+BOI026	# sciavo vostro signor paron.
 BOI026	e:: ciao
 BOR004	[mhmh mh]
 BOI026	[adesso anche:] a sanremo di nuovo ciao ciao:.

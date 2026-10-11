@@ -10,9 +10,9 @@ BO095	xxxx non lo conosco
 BO095	xx era un libro
 BO097	xxxx xxx
 BO095	un libro che ha vinto il premio strega che volevo leggere era acciaio credo
-BO097	sì l'ho sentito no io non lo voglio leggere secondo me non mi ispira quel libro là
-BO095	qual è che ti piace
+BO097	sì l'ho sentito no io non lo voglio leggere secondo me non mi ispira quel libro lì
 BO097	cioè l'ha letto una mia amica e
+BO095	qual è che ti piace
 BO097	boh credo sia bello pesantino
 BO097	no magari è bello poi eh
 BO095	è pesantino pure questo
@@ -66,7 +66,7 @@ BO097	e poi ha uno stile
 BO097	è un po' ricercato
 BO097	vabbè
 BO095	e ti piace
-BO097	xxx letteratura mi piace
+BO097	xxx lettteratura mi piace
 BO095	e sì
 BO097	e vabbè
 BO095	mi sa che è un po' un xxx
@@ -159,8 +159,8 @@ BO095	sì sì
 BO097	e di fianco c'era una specie di
 BO095	che dopo un po' c'è la piazzetta quella dedicata alla shoa mi pare non so se ce l'hai presente
 BO097	no non ho presente
-BO095	è vicino a una specie di ponte diciamo
 BO097	però può darsi
+BO095	è vicino a una specie di ponte diciamo
 BO095	no una specie è un ponte
 BO097	comunque vabbè
 BO097	va bene grazie per questa

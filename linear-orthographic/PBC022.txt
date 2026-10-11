@@ -11,7 +11,7 @@ BOR014	andavi a lavorare
 BOI055	mh sì
 BOR014	mh
 BOR014	dove andavi a lavorare
-BOI055	alla @nomeazienda,
+BOI055	alla
 BOI055	e poi mi alzavo la mattina alle cinque e mezzo e tornavo a casa la sera alle otto
 BOR014	mh
 BOI055	questo però non è ade~ e non è dei tempi eh
@@ -168,7 +168,7 @@ BOI055	e andai a banco
 BOI055	presi la mia roba feci la mia spesa il mio scontrino con la borsa p~ aperta mi a~
 BOI055	mi avviai a~ alla cassa
 BOI055	e il cassiere mi disse signora chiuda quella borsa
-BOI055	dig e beh cos'è successo a bologna
+BOI055	# dig e beh cos'è successo a bologna
 BOI055	no deve chiuderla quella borsa
 BOI055	ma dico siam dentro a un negozio non è vero bisogna far così adesso
 BOI055	ed era cambiata molto eh
@@ -183,7 +183,7 @@ BOI055	già allora eh
 BOR014	eh
 BOI055	e andavo da rossini rossini cos'era
 BOI055	dottor rossini quando c'andavo
-BOI055	oh bembè
+BOI055	oh bembè sospira
 BOR014	ah eh c'andavi da tanto perché ci venivo anch'io quand'ero piccolina
 BOI055	mh ma s'anda~ sì son sempre andata da rossini
 BOI055	fin quando non
@@ -191,10 +191,10 @@ BOI055	ho dovuto dir no perché gli impegni non me lo permettevano
 BOI055	il tempo non c'era andare a bologna ci voleva tanto in treno finché son stata
 BOI055	che potevo ci sono andata
 BOI055	e mi piaceva moltissimo
-BOR014	ma e ti e senti te hai detto che lavoravi alla @nomeazienda no
+BOR014	ma e ti e senti te hai detto che lavoravi alla no
 BOI055	mh
 BOR014	eh
-BOR014	ma c'hai qualche bel ricordo legato alla @nomeazienda
+BOR014	ma c'hai qualche bel ricordo legato alla
 BOI055	sì tanta tanta tanta cordialità tanto divertimento
 BOI055	perché s'andava a lavorare ma con le ragazze si era perché era poi un posto dove c'eran le raga~
 BOI055	e ci si divertiva si era fatto delle amicizie poi le hai viste le foto no che non ci si
@@ -267,7 +267,7 @@ BOI055	e devo dir la verità adesso che è tanto che non ci sono andata poi sent
 BOR014	anche il carattere diciamo
 BOI055	beh il carat~ e l'età aiuta a cambiare il carattere eh
 BOR014	mh
-BOI055	eh un bel po' perché quella sverzura che avevi
+BOI055	# eh un bel po' perché quella sverzura che avevi
 BOI055	allora adesso non ce l'hai più davvero no no
 BOI055	mh
 BOI055	però oh
@@ -279,15 +279,15 @@ BOI055	c'era la vitto~ ma la vittoria però veniva poco la maria rita
 BOR014	rossi
 BOI055	no no no anche la la rossi lavorava con me
 BOR014	eh
-BOR014	con lei ancora sei in contatto però
 BOI055	intellige~
+BOR014	con lei ancora sei in contatto però
 BOI055	ah però siam stati un bel po' senza riconoscerci eh
 BOI055	e lavoravamo nello stesso posto
 BOR014	ma quand'è che vi siete riconosciute
 BOI055	a a calvigi
 BOR014	sì
-BOI055	a calvigi ch'al dis quando andavo a lavorare
-BOI055	dig ascolta
+BOI055	# a calvigi ch'al dis quando andavo a lavorare
+BOI055	# dig ascolta
 BOI055	ma allora lavoravamo assieme
 BOI055	sì io lavora~ eh sì allora eh ci siam riconosciute così
 BOI055	perché i temp~ il tempo era passato
@@ -303,7 +303,7 @@ BOR014	eh ma te in mensa però cos'è che ti facevano in mensa
 BOI055	oh la minestra e il secondo
 BOR014	no ma dico c'era quella signora che che ti chiamava no
 BOI055	beh
-BOI055	no quello era il bar all'angolo di @nomeluogo
+BOI055	no quello era il bar all'angolo di
 BOR014	ah
 BOI055	che andavamo giù
 BOI055	e quando mi vedeva
@@ -312,11 +312,11 @@ BOI055	ed era chiamata borelli
 BOI055	bolelli
 BOI055	il bar
 BOI055	c'era marito e moglie
-BOI055	mi vedevano arrivare e mi chiamavano dietro dal banco vieni mo fangeina in bolognese
+BOI055	# mi vedevano arrivare e mi chiamavano dietro dal banco vieni mo fangeina in bolognese
 BOR014	come ti dicevano
-BOI055	mi diceva lei vieni fangeina
+BOI055	# mi diceva lei vieni fangeina
 BOI055	perché
-BOI055	bambina era fangi~ era una fangina
+BOI055	# bambina era fangi~ era una fangina
 BOI055	e poi dopo mh
 BOI055	mi dava il cappuccino
 BOI055	subito
@@ -333,7 +333,7 @@ BOR014	no ma dico con i tuoi a~ cioè erano gente che conoscevi
 BOI055	certo certo certo beh ma scherzi
 BOI055	eh
 BOR014	mh
-BOI055	poi ce n'eran tanti che la ad esempio la mirella bianchi anche lei veniva alla @nomeazienda
+BOI055	poi ce n'eran tanti che la ad esempio la mirella bianchi anche lei veniva alla
 BOI055	ma ce n'eran parecchi
 BOI055	adesso tutti non me li ricordo però ce n'è ce n'era ce n'era
 BOR014	mh
@@ -363,7 +363,7 @@ BOI055	poi stavo da mia sorella a porretta
 BOR014	mh
 BOI055	a dormire
 BOI055	ma mica sempre eh
-BOI055	oh non come adesso che si gnin in gir
+BOI055	# oh non come adesso che si gnin in gir
 BOI055	non stanno bene
 BOI055	no
 BOI055	no ma il divertimento a me è una cosa che non non
@@ -392,7 +392,7 @@ BOI055	mi dispiace per loro che vengan via dal suo paese
 BOI055	però anche loro s'arrangiano e s'arrangiano anche in malo modo
 BOR014	eh poverini sono
 BOI055	eh lo so simo però cate però non puoi pretendere che uno
-BOI055	ti metta le mani addosso ti ti strappi la borsa beh ma dig
+BOI055	# ti metta le mani addosso ti ti strappi la borsa beh ma dig
 BOR014	ah
 BOI055	eh
 BOI055	una volta
@@ -407,7 +407,7 @@ BOI055	no no
 BOR014	ma c'andavi anche con il nonno a bologna
 BOI055	sì eh
 BOR014	insieme
-BOI055	ma rare volte perché lui al sabato steva a ca' dlontera eh
+BOI055	# ma rare volte perché lui al sabato steva a ca' dlontera eh
 BOR014	sì eh
 BOI055	eh
 BOR014	che era stanco
@@ -428,7 +428,7 @@ BOI055	di più
 BOI055	eh guarda anche qui adesso anche co~ con quel fatto lì anche su in filatura
 BOI055	ah dice ho la febbre co~
 BOI055	e la mariaelena me l'ha detto
-BOI055	dis pensa ha telefonato u~ uno e ha dettomio marito e mio figlio han la febbre cosa faccio io vengo a lavorare
+BOI055	# dis pensa ha telefonato u~ uno e ha dettomio marito e mio figlio han la febbre cosa faccio io vengo a lavorare
 BOI055	beh se non hai niente andrai a lavorare no
 BOR014	ti fai un tampone e vai a lavorare
 BOI055	eh
@@ -545,7 +545,7 @@ BOI055	era la
 BOI055	era il mare più vicino a noi
 BOI055	però andavamo in compagnia eh
 BOI055	con quelle che lavoravo eh
-BOR014	eh con i tuoi colleghi della @nomeazienda
+BOR014	eh con i tuoi colleghi della
 BOR014	mh
 BOI055	ci andavamo noi
 BOI055	poi mia sorella mi dava poi dietro la pina e le mie nipoti
@@ -646,7 +646,7 @@ BOI055	ma quante ce n'erano
 BOR014	ti piaceva ballare
 BOI055	eh andavamo in compagnia così
 BOI055	ma
-BOI055	ah i'era po' il ballo eh an ghera mìa gnint d'eter eh
+BOI055	# ah i'era po' il ballo eh an ghera mìa gnint d'eter eh
 BOR014	beh oddio
 BOR014	stare insieme
 BOI055	certo mhmh cinema ma non
@@ -658,8 +658,8 @@ BOI055	no siamo andati anche a rimini sì a rimini miramare anche miramare non s
 BOI055	eh che mi ricordi no
 BOI055	che anche miramare era bellino
 BOI055	mh
-BOR014	mh
 BOI055	basta
+BOR014	mh
 BOR014	ehm
 BOR014	quindi ti piaceva andare al mare quando avevi tempo libero quando avevi le ferie
 BOI055	sì poi dopo abbiam sempre fatto le le vacanze dopo che mi son sposata
@@ -706,7 +706,7 @@ BOI055	che quando uno poi si impone
 BOI055	o no
 BOR014	ah concordo concordo
 BOI055	poi io ne ho fatte tante da mangiare eh
-BOI055	al v'ariva a borg panighel
+BOI055	# al v'ariva a borg panighel
 BOR014	eh raccontaci un po' di quando andavi a borgo panigale
 BOI055	e a marmorta
 BOR014	però secondo me lavoravi più a borgo panigale
@@ -746,7 +746,7 @@ BOR014	no dici dico però
 BOR014	cioè te hai detto hai fatto tanto da mangiare
 BOR014	però te ti piace far da mangiare
 BOI055	ah per forza eh
-BOI055	ti parevi ench
+BOI055	# ti parevi ench
 BOI055	eh
 BOI055	però s~
 BOR014	eh ma poi te c'avevi il sangue di chef nelle vene eh
@@ -772,7 +772,7 @@ BOI055	adesso però mh
 BOI055	anche d'andare a bologna perché mh
 BOI055	ne sento troppe per televisione quelle robe lì forse anche una volta non si sapevano non lo so
 BOI055	ma non era così no perché andavi a bologna tranquilla
-BOI055	guardavi le tue vetrine ade' al vegna fer acsè mo vaf~
+BOI055	# guardavi le tue vetrine ade' al vegna fer acsè mo vaf~
 BOI055	mah
 BOR014	eh no adesso bisogna stare un po' attenti ma
 BOI055	molto attenti
@@ -812,14 +812,14 @@ BOI055	poi io
 BOI055	posso dire che non so le cose come sono
 BOI055	io parlo per quel che
 BOI055	che ragiono
-BOI055	e lè e lì mi sembra che
+BOI055	# e lè e lì mi sembra che
 BOR014	che cosa
 BOI055	che sia un po' esagerata la cosa
 BOR014	mh
 BOR014	nonna ma te lo parli il dialetto
 BOI055	adesso
 BOR014	eh
-BOI055	perché io de ciacar el dialet
+BOI055	# perché io de ciacar el dialet
 BOR014	te lo parli sei contenta di conoscerlo
 BOI055	io sì anche perché io con i miei parlo il dialetto eh non è che
 BOR014	e ti dispiace un po' che i giovani d'oggi non lo sappiano tanto bene
@@ -866,7 +866,7 @@ BOI055	beh un pochino sì
 BOI055	perché deve andar perduto
 BOR014	perché nessuno lo parla
 BOR014	poi vedi anche federico no quando viene su
-BOR014	prova a parlarlo te gli dici fai pena smettila
+BOR014	prova a parlarlo te gli dici fai penasmettila
 BOI055	ma sì ma anche lì c'è una bella differenza perché anche il toscano ha il suo dialetto eh
 BOR014	sì è un dialetto diciamo molto simile all'italiano però perché
 BOI055	mh

@@ -28,7 +28,7 @@ BO115	ehm
 BO115	sì sono stato per natale un paio di giorni
 BO115	comunque no parlami
 BO115	do~ dov'è che stavi a casa in 'sti giorni
-BO113	a @nomepaese
+BO113	a
 BO115	che situa c'è lì
 BO115	no a casa qui a bolo
 BO113	ah
@@ -75,10 +75,10 @@ BO113	siamo arrivati io e luca alla fine
 BO113	e invece che lottare uno dei due che prendeva dodici abbiam detto dai smezziamo
 BO113	sei sei a posto
 BO113	li ho usati per la colazione
-BO115	e a @nomepaese invece com'è
-BO113	@nomepaese ci sta
+BO115	e a invece com'è
+BO113	ci sta
 BO113	cioè e
-BO113	a me piace un sacco a @nomepaese in sto periodo
+BO113	a me piace un sacco a in sto periodo
 BO113	cioè piace un sacco
 BO113	m
 BO113	dopo un po' mi è mi sta stretta
@@ -230,7 +230,7 @@ BO113	però
 BO115	e~ e~ il tuo cane mi sta leccando la suola della ciabatta m buono
 BO113	buona
 BO113	e
-BO113	a @nomepaese quindi dai alla fine quello
+BO113	a quindi dai alla fine quello
 BO113	non è
 BO113	ci sta perché sono in campagna non ci sta perché mi mancate voi mi manca
 BO113	far cose fighe poter chiacchiera~ cioè
@@ -303,7 +303,7 @@ BO115	ma no in realtà no cioè risultati pochi però
 BO115	boh adesso m non è proprio il momento
 BO113	e
 BO113	poi
-BO113	a @nomepaese
+BO113	a
 BO113	suono
 BO115	mh
 BO113	un po' la batte~ ria
@@ -439,7 +439,7 @@ BO113	il messicano mario
 BO113	con la porta
 BO115	ah sì
 BO113	eh
-BO115	ma no m sì bisogna parlar con nico lui ha detto che metteva una buona parte
+BO115	ma no mh sì bisogna parlar con nico lui ha detto che metteva una buona parte
 BO113	eh lo so però nico ogni volta sparisce
 BO115	eh sì
 BO113	con 'sta storia

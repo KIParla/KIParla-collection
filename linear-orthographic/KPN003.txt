@@ -29,8 +29,8 @@ PKP014	si
 PKP015	in teoria si però
 PKP014	okay abbiamo una settimana
 PKP013	no no no no dobbiamo ordinare subito però per capire
-PKP013	xxx
 PKP014	sì
+PKP013	xxx
 PKP014	e perché tra il ventisette e il du~ xx
 PKP013	secondo me l'idea della scritta personalizzata potrebbe piacerle tantissimo
 PKP015	sì sì perché poi è una cosa che si appende in camera ma poi anche se cambia arredamento se cambia casa ce l'ha eh
@@ -109,16 +109,16 @@ PKP014	ciao
 ???	i jalapeños
 PKP014	ciao sì grazie
 PKP013	grazie
-PKP013	xx
 PKP014	xx
+PKP013	xx
 ???	la ipa
 PKP014	qua
 PKP014	grazie
 PKP014	grazie
 ???	prego
 PKP014	cheers
-PKP013	cheers
 PKP015	cheers
+PKP013	cheers
 PKP015	ha sentito
 PKP014	ok
 PKP013	uh ma quanto è carino sto padellino
@@ -266,8 +266,8 @@ PKP013	è piccolina sì sì
 PKP013	veniva al sabin
 PKP013	io ci ho giocato per un po' insieme a pallavolo
 PKP015	ah ma lì al sa~
-PKP013	ai salesiani
 PKP015	ai salesiani
+PKP013	ai salesiani
 PKP015	quando ero ancora con xxx e company
 PKP014	okay questo
 PKP015	xxxx
@@ -364,7 +364,7 @@ PKP015	beh se qualcuno vuole assaggiare
 PKP015	è sempre
 PKP014	buon appetito
 PKP015	il benvenuto
-PKP014	mmh
+PKP014	mhmh
 PKP013	occhei azzanniamo sta bestia
 PKP014	azzanniam~
 PKP013	anche questo andrà azzannato
@@ -495,8 +495,8 @@ PKP014	facciamo dei magheggi e sentiamo
 PKP015	no abbiamo detto che
 PKP013	in realtà
 PKP015	se nell'ordinanza dicono che bisogna fare il lockdown
-PKP013	andiamo lì
 PKP015	lo facciamo lì
+PKP013	andiamo lì
 PKP014	c'è la tavernetta
 PKP014	tessuto
 PKP015	poi la tipa per cui devi far la babysitter
@@ -649,8 +649,8 @@ PKP013	sì perché mia nonna è sempre mhmh mia nonna è sempre lì a bazzicare 
 PKP014	ah no al minganti
 PKP014	ha pensato
 PKP013	e ha beccato questa qua che era la mamma di una compagna di classe di lara
-PKP013	e fa
 PKP015	lì da dada
+PKP013	e fa
 PKP013	sì che ci lavorava
 PKP013	e fa ah guarda che stan cercando comunque un'altra un'altra commessa
 PKP013	non so se qualche tua nipote è interessata
@@ -985,8 +985,8 @@ PKP013	apprezziamo infatti
 PKP014	mhmh
 PKP014	poi comunque vabbè son veloci
 PKP015	mh
-PKP013	è molto veloce
 PKP014	location
+PKP013	è molto veloce
 PKP014	giusto per
 PKP015	che poi non si sentirà una minchia
 PKP014	xxxx
@@ -1275,7 +1275,7 @@ PKP014	sì sì
 PKP015	vabbè che secondo me avevam caldo perché stavam camminando un sacco
 PKP015	io ho la pancia divisa in due
 PKP014	anch'io
-PKP015	una qua e una è qua
+PKP015	una qua e una è qua ride
 PKP013	e via
 PKP014	e via
 PKP015	se
@@ -1349,7 +1349,7 @@ PKP015	già fatto
 PKP015	e ci facciamo gli spazi con i numeri
 PKP014	sì
 PKP014	sì
-PKP015	e poi stampiamo su carta fotograf~ f~ emh carta adesiva
+PKP015	e poi stampiamo su carta fotograf~ f~ ehm carta adesiva
 PKP014	adesiva
 PKP015	e le foto
 PKP014	tanto lo f~ ce l'hanno
@@ -1435,7 +1435,7 @@ PKP013	sì
 PKP015	e poi c'era in più stra ruota che girava con i tre giochi esatto
 PKP014	che era una cosa sì
 PKP015	che poi lì i giochi erano
-PKP014	però l' avevam fatto settemila giochi cioè nel senso
+PKP014	però l'avevam fatto settemila giochi cioè nel senso
 PKP015	mh
 PKP015	erano il memory il quello dello yoga e
 PKP015	un altro

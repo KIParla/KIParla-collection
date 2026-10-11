@@ -488,14 +488,14 @@ BOI054	d'impianti
 BOR010	oka~ oka~
 BOI054	elettricista
 BOI053	fai
-BOI054	collaudatore
 BOI053	okay
+BOI054	collaudatore
 BOR010	ah okay
 BOI054	per grandi aziende
 BOR010	che quindi immagino
 BOR010	sia un po' di tempo anche perché
-BOR010	x xx
 BOI053	lui sì
+BOR010	x xx
 BOI054	sì lavorerò tipo
 BOI054	da
 BOI054	una decina d'anni
@@ -547,8 +547,8 @@ BOI053	no
 BOI053	sì cioè lavorare no
 BOI053	a studiare sì
 BOR010	ah ecco immaginavo
-BOR010	immagino
 BOI053	in cina ovviamente
+BOR010	immagino
 BOR010	non avevo dubbi
 BOR010	ma cioè perché ti t'ispira proprio la cultura
 BOI053	anche anche ma anche per imparare un po' meglio il cinese perché stando qua
@@ -661,8 +661,8 @@ BOR010	ho detto come come han fatto
 BOR010	e invece voi siete riusciti
 BOR010	beh dai cioè se~ bene comunque
 BOI053	sì perché se stai un po'
-BOI054	beh sì cas~
 BOI053	più in campagna diciamo
+BOI054	beh sì cas~
 BOI054	castel san pietro è un po'
 BOR010	ah beh giusto è vero
 BOI053	è molto periferica

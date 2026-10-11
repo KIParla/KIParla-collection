@@ -9,7 +9,7 @@ PKP006	improvvisamente era ammala'
 PKP006	e lei dice a me che mi considera una di famiglia (.) a voi lo posso dir'
 PKP006	e:::h
 PKP006	mia madre le ha dato (u)na spinta
-PKP006	#l'a dat c'accett sach >m'ha m'ha< m'ha detto delle cose dopo di che
+PKP006	# l'a dat c'accett sach >m'ha m'ha< m'ha detto delle cose dopo di che
 PKP004	addirittu[ra]?
 PKP006	[e]:h
 PKP006	è che loro so(no) stati zitti
@@ -172,11 +172,11 @@ PKP006	incominciano a lavorare alle cinque (.) fanno qualche ora in più:
 PKP001	sì?
 PKP006	e:h
 PKP006	hai capi(to)?
-PKP001	[mhmh]
 PKP006	[pure] giulia fa
+PKP001	[mhmh]
 PKP004	(non) possono::
-PKP004	[alza]rsi e and[are a prendere la figlia]
 PKP006	[xx]
+PKP004	[alza]rsi e and[are a prendere la figlia]
 PKP006	[siccome lei ha la pat]ente
 PKP006	xx stavamo dicendo
 PKP006	>con mio marito< che forse una macchinetta usata:
@@ -237,7 +237,7 @@ PKP001	[eh cer(to)]
 PKP005	[x la s]uocera
 PKP006	(l)a [fi(glia)]
 PKP004	[no ma que]lla parla di suocera anche il giorno dopo
-PKP001	#a socra mej
+PKP001	# a socra mej
 PKP004	((ride)) [inf]atti
 PKP001	[grazie]
 PKP006	e::h
@@ -570,8 +570,8 @@ PKP003	[lui è duemiladue]
 PKP004	che poi è andato:
 PKP004	ha festeggiat[o:]
 PKP003	[l'ha f]atto in tre ta[(ppe)]
-PKP004	[al (cinetics)]
 PKP006	[xxx]
+PKP004	[al (cinetics)]
 PKP004	(que)st'[estate xx]
 PKP001	[A:H OKAY:]
 PKP003	[quello a ca]:sa poi:
@@ -580,7 +580,7 @@ PKP005	[(e allora)]
 PKP001	[sì sì:]
 PKP001	[que]:llo al cinetics [e:h]
 PKP004	[e]:h
-PKP004	#nu [xx]
+PKP004	# nu [xx]
 PKP006	[li me]tto là i:o
 PKP005	no stavo pensando di spostare la s~
 PKP005	(ap~)
@@ -612,7 +612,7 @@ PKP003	e io xxxxx non so se lo vuoi t[u]
 PKP006	[n]o >(quello è mi:o)<
 PKP003	A TE NIENT(E)
 PKP003	ha preso le:i
-PKP001	#no voglio [chesto]
+PKP001	# no voglio [chesto]
 PKP004	[puoi pre]ndere un altro xx
 PKP004	sto [man]giando la pa:sta
 PKP003	[°ah°]
@@ -837,8 +837,8 @@ PKP001	ho chiesto il ventiquattro e ha detto sì (.) un posto
 PKP006	m:h
 PKP005	mh
 PKP006	(ce[rte vo)]
-PKP004	[xxxx]
 PKP005	[beh sarebbe stato il] venticinque
+PKP004	[xxxx]
 PKP005	sp[e:ro]
 PKP004	[bo]:h
 PKP001	che ne so:
@@ -1031,7 +1031,7 @@ PKP001	e:h sti cazzi x[x]
 PKP005	[quello che c'è]
 PKP004	[non si pesca]no con le (.) canne da pesca le rane
 PKP005	quello che c'è
-PKP006	#anche una suricchia
+PKP006	# anche una suricchia
 PKP004	((ride))
 PKP001	>cos'è una:< suricchia?
 PKP004	una lucertola

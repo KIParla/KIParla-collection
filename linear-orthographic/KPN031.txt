@@ -25,14 +25,14 @@ PKP033	abbiamo l'inchnusa nuova che mi piace molto
 PKP036	cos'è
 PKP033	che è tipo scura cioè non scura rossa
 PKP036	a sì
-PKP037	ah carina
 PKP036	ah
+PKP037	ah carina
 PKP033	poi c'è un'ichnusa normale e una corona normale
 PKP033	e poi in frigo in realtà ho delle birre di quelle tipo la poretti da sessantasei ma mi sembrava un po' meno
 PKP036	no voglio provare ques~
 PKP033	un p~ un po' meno chic
-PKP033	e
 PKP036	questa non l'ho mai provata
+PKP033	e
 PKP033	esatto e vabbè e basta
 PKP033	però ci son solo delle birre cioè nel senso che io non ho da far dello spritz così
 PKP036	sì sì va bene
@@ -54,8 +54,8 @@ PKP037	questa x
 PKP037	mhmh è molto comoda
 PKP036	infatti potevamo prenderla oggi
 PKP037	e sì e per dove
-PKP033	ma siete andati a ikea
 PKP036	xxx
+PKP033	ma siete andati a ikea
 PKP036	sì a
 PKP037	mhmh
 PKP036	siamo saliti in macchina da roma
@@ -120,8 +120,8 @@ PKP033	non so se le macchine saltano fuori
 PKP037	no no no
 PKP036	no no ovviamente no
 PKP037	ehm mi hanno detto di no
-PKP033	che di solito non saltano fuori
 PKP036	xxxxxxxxxxxxxx
+PKP033	che di solito non saltano fuori
 PKP037	che di solito non saltano fuori
 PKP036	ah ti hanno detto xxx
 PKP037	ho fatto la denuncia
@@ -677,7 +677,7 @@ PKP033	ah okay okay okay
 PKP036	quindi ci vedi tutti i templi eccetera
 PKP036	però la città in sè non è tanto bella
 PKP037	mh
-PKP036	un po' un ammacco di cose
+PKP036	# un po' un ammacco di cose
 PKP036	mh
 PKP033	ma è sempre una metropoli
 PKP036	no
@@ -735,7 +735,7 @@ PKP037	tipo il polpo
 PKP037	il polpo fritto lo fanno molto
 PKP036	un sacco di pesce in generale
 PKP037	ehm
-PKP037	gli s~ ~paghetti di soia m
+PKP037	gli s~ ~paghetti di soia mh
 PKP036	mh
 PKP037	mangiano sempre molto scomposto quindi c'è sempre una ciotolina di riso
 PKP036	sì tante ciotoline e poi le mettono tutte così
@@ -867,8 +867,8 @@ PKP033	okay
 PKP037	eh vabbè
 PKP037	dettagli
 PKP037	c'è l'edificio eh sopra il quale sco~ è scoppiata la bomba
-PKP033	mh
 PKP037	perché la bomba è scoppiata in aria
+PKP033	mh
 PKP037	mi pare di ricordare
 PKP037	quindi ha fatto un'onda d'urto
 PKP037	che è arri~ che ha distrutto tutti i piani orizzontali
@@ -1020,7 +1020,7 @@ PKP037	no è vero è vero è vero
 PKP033	eh ecco
 PKP037	però xxx
 PKP037	sì sì sì ci ha visto avere un colpo
-PKP036	vah vah vah
+PKP036	vah va vah
 PKP037	poi ha fatto oh
 PKP037	xxxxxxx
 PKP037	i versi da anime
@@ -1375,8 +1375,8 @@ PKP036	e però sì appunto vediamo
 PKP036	un po' variabile
 PKP033	belle neuroscienze
 PKP036	xx
-PKP033	molto interessante
 PKP036	ma infatti io ero contenta che le studia
+PKP033	molto interessante
 PKP033	eh
 PKP033	no ma p~ cioé potrà farlo
 PKP036	ah sì penso di sì
@@ -1443,8 +1443,8 @@ PKP037	xxxx
 PKP036	proprio qualsiasi cosa
 PKP033	mh cioé avete buttato delle cose
 PKP036	cioé c'era xxxxxxxxx
-PKP033	mh
 PKP036	sì e ancora c'è xxxx
+PKP033	mh
 PKP037	sta carta smeraldo e si è consumata
 PKP033	mh io la devo andare a ritirare sapete che non ce l'ho
 PKP033	non ce l'ho
@@ -1489,8 +1489,8 @@ PKP033	ah o non o s' è rotta e io penso sia per quello
 PKP037	no mi sa che da noi ancora non hanno fatto la voltura
 PKP033	ah non l'han~ non l'avete fatta
 PKP036	no sì l'abbiamo fatta
-PKP037	no ehm mi sa che ancora non l'abbiamo registrata
 PKP036	no
+PKP037	no ehm mi sa che ancora non l'abbiamo registrata
 PKP037	non lo so
 PKP036	xxx
 PKP033	cioè la deve chiudere lui e dovete aprirla voi
@@ -1680,7 +1680,7 @@ PKP036	michi se n'è andata la mia coinquilina
 PKP037	s'è licenziata
 PKP036	xx
 PKP033	ah e per perché ha trovato altro o
-PKP036	sì ha trovato un altro lavoro m
+PKP036	sì ha trovato un altro lavoro mh
 PKP036	ha detto vabbè
 PKP036	me ne vado
 PKP033	ma m
@@ -1765,8 +1765,8 @@ PKP037	te fai licenziare
 PKP036	eh sì
 PKP033	no è dove andate oh
 PKP037	no
-PKP037	no infa~
 PKP036	infat~
+PKP037	no infa~
 PKP036	prendo e vado tanto
 PKP033	mhmh
 PKP036	no però

@@ -47,7 +47,7 @@ BOI084	possiamo dirlo?
 BOI083	possiamo dirlo [forse]
 BOR022	[vai vai]
 BOI084	e::h vabbè
-BOI084	#diciamo per (.) per alzarci qualche soldo noi il venticinque aprile siamo venuti in stile bira bira tra virgolette
+BOI084	# diciamo per (.) per alzarci qualche soldo noi il venticinque aprile siamo venuti in stile bira bira tra virgolette
 BOR022	okay okay
 BOI084	con carrelletto pieno di birre ((ride))
 BOR022	((ride))
@@ -118,7 +118,7 @@ BOI083	innazitutto non ci sono queste cose qua, manifestazioni, altre cose
 BOR022	°mh°
 BOI083	non c'hai modo di:: esprimerti in nessuna maniera
 BOI083	qualsiasi cosa fai:
-BOI083	#eh noi diciamo vieni scheggiato nel senso::
+BOI083	# eh noi diciamo vieni scheggiato nel senso::
 BOI084	non c'è attenzione alle idee
 BOI084	dei [ragazzi sopra]ttutto e noi siamo tanti ragazzi
 BOR022	[<°okay°>]
@@ -277,8 +277,8 @@ BOR022	((ride)) [chiaro]
 BOI083	[cioè:]
 BOI084	[purtroppo]
 BOR023	((ride))
-BOI083	[cresc]i: cresci con un vocabolario molto: pesante
 BOI084	[(vero)]
+BOI083	[cresc]i: cresci con un vocabolario molto: pesante
 BOI083	quindi:
 BOI084	e anche con una mentali~ cioè non °con [una mentalità°]
 BOI083	[e anche eh sì] no no no [è vero è ve~]
@@ -408,7 +408,7 @@ BOI084	[a:h] okay [ah. per i prezzi] dicevi per i prez[zi]
 BOR022	[fors~] ((ride))
 BOR023	((ride))
 BOI083	[oppure]:::
-BOI083	fa piccoli furti alla @nomeazienda
+BOI083	fa piccoli furti alla
 BOI084	no:, [ci dissociamo] è illegale
 BOR022	[e::h no] ((ride))
 BOI083	dissocio completamente quello che ho detto anche perché sono anche un ex dipendente
@@ -456,8 +456,8 @@ BOI083	[ventotto]
 BOI084	[no, ventisei]? ah ventotto cazzo
 BOI084	quindi vabbè [siamo là comunque]
 BOR022	[ti ha fatto un complimento]
-BOI083	[sì sì] sì sì
 BOI084	[esatto]
+BOI083	[sì sì] sì sì
 BOI084	quindi il pratello diciamo è frequentato da persone:
 BOI084	che l'età appunto varia che ne so dai venticinque ai trenta o: di più o di me[no]
 BOR022	[mh]
@@ -726,8 +726,8 @@ BOR022	tipo una roba tipo bologna la rossa:
 BOI084	la dotta: [e:: la la grassa]
 BOR022	[la grassa] >cioè< (u)na cosa così
 BOI084	sì sì sì
-BOI083	[°che cazzo di segreto è?°]
 BOI084	[no ma quello è per] ((ride))
+BOI083	[°che cazzo di segreto è?°]
 BOR022	non è un segreto [però] ((ride))
 BOI084	[no no] è che lo dicono così (u)n'altro sai qual è mi sa il
 BOR023	((ride))
@@ -882,8 +882,8 @@ BOI083	mi dissocio com[pletame]nte
 BOI083	e:::h vabbè è questo
 BOR022	esatto
 BOI083	forse anch~ forse ci perdiamo un po' con le domande eh
-BOR022	[va bene va] bene
 BOI084	[eh un po']
+BOR022	[va bene va] bene
 BOR022	e:::h
 BOR022	quindi nel senso questa tua passione:: col e:h del cinema
 BOR022	e:h che ne so ile:h
@@ -925,8 +925,8 @@ BOI083	e:h ((ride)) allora io purtroppo non e:h non ci sono stati tanto dietro a
 BOR022	((ride))
 BOI084	io sergio leone de di quest'anno che hanno rifatto parecchi film di sergio leone verso la fine se non sbaglio
 BOI084	e::h (.) vabbè
-BOI083	[no io:] assente
 BOI084	[x x]
+BOI083	[no io:] assente
 BOI083	no quest'anno mi so' divertito che hanno fatto casinò di [scorsese]
 BOI084	[a:h bello] sì molto figo [ce sì ce siamo] ah ecco quello pure da (°andare°)
 BOI083	[l'abbiamo visto insieme]
@@ -1021,8 +1021,8 @@ BOI084	[sì]
 BOI083	>[cioè]< (.) io
 BOI083	domani
 BOI083	molto probabilmente vado lì
-BOI083	[perché è giusto andare] lì
 BOI084	[(sì ma anche io)]
+BOI083	[perché è giusto andare] lì
 BOI083	per me
 BOI083	però se vado lì mi devo sentir dire eh (è) colpa vostra è colpa tua
 BOI083	non ti posso menare, però
@@ -1038,14 +1038,14 @@ BOI084	sì dici finché è uno che ragiona non [succede niente (però) sì sì]
 BOI083	[finché è uno che ragiona non succede niente ma uno che n]on ragiona poi inizierà a diventa' ovviamente
 BOI083	se c'è una piccola percentuale di misoginia in lui poi diventa ancora più misogino se
 BOI084	sì è vero, gli accendi qualcosa, quello sì.
-BOI083	°siamo (noi che)°
 BOI084	[vabbè poi e:h] (.) è soggettivo °secondo me°.
+BOI083	°siamo (noi che)°
 BOI083	soggettivo.
 BOR022	e tipo (nel senso) tutto: il dibattito che si sta scatenando: dietro la morte di quella ragazza,
 BOI083	mhmh
 BOR022	cioè voi come lo state vivendo?
-BOR022	[da >cioè< nel senso da r]agazzi [che:]?
 BOI084	[ma:::]
+BOR022	[da >cioè< nel senso da r]agazzi [che:]?
 BOI084	[tipo:] (.) [sì di]mmi scusa
 BOR022	[tipo:]?
 BOI084	da ragazzi che:?
@@ -1130,8 +1130,8 @@ BOI083	[poi tutto so]mmato
 BOI083	e::h
 BOI083	>cioè< per me hanno ragione entrambi, nel senso
 BOI083	non si può colpa~ colpevolizza'
-BOI083	[ogni uo]mo
 BOI084	[(u)na categoria]
+BOI083	[ogni uo]mo
 BOI083	però neanche (.) oggi ho visto un bruttissimo tik tok
 BOI083	dove un mongoloide di ragazzino
 BOI083	ha messo: tipo una decina di:: e:hm
@@ -1212,7 +1212,7 @@ BOI083	[e quindi se sì]
 BOI083	perché ho litigato con troppe persone co~ ho fatto proprio una gra~ stronzata perché ho perso solo tempo
 BOR022	t'hanno bannato? che è suc[cesso]?
 BOI083	[sì no] m'hanno bannato (.) e comunque so' stato calmo con i termini.
-BOI083	anche se io ho ricevuto pure minacce: su:: in privato da persone che m'hanno chiesto x e dico °ho detto° via @nomeluogo, nessuno s'è mai presentato.
+BOI083	anche se io ho ricevuto pure minacce: su:: in privato da persone che m'hanno chiesto x e dico °ho detto° via nessuno s'è mai presentato.
 BOI084	°menomale°
 BOI083	>vabbè< tralasciando questo,
 BOI083	>cioè< per me
@@ -1277,8 +1277,8 @@ BOI084	[non so] chi è però: >sì sì sì sì<
 BOI083	vabbè questo sono cazzi suoi
 BOI083	però
 BOI083	non e::h
-BOI083	[>cioè< che che] cazzo scrivi perdono ti perdono dopo quello che mi hai fatto >cioè<
 BOR022	[°>no ce~ certo<°]
+BOI083	[>cioè< che che] cazzo scrivi perdono ti perdono dopo quello che mi hai fatto >cioè<
 BOI083	non è u[no scherzo::]
 BOI084	[sarà stato pure lo shock], ha cavalcato l'onda, cioè non sai mai °quello che:°
 BOI083	eh oddio ha cavalcato l'onda mi sembra un po' too much.
@@ -1367,12 +1367,12 @@ BOI083	[>cioè< tu ma] tu pure ammesso e non concesso che a scuola riesci a inse
 BOI083	[una un'ora] eh esatto di argomenti sensibili riguardo a questi argomenti qua,
 BOI084	[questi argomenti]
 BOI083	quello poi va a casa, il padre pi~ picchia la mamma
-BOI083	[che hai risolto fra']?
 BOI084	[vabbè capisce, vabbè]
+BOI083	[che hai risolto fra']?
 BOI084	già [la scuola t'ha fatto capi'] eh (no) vabbè
 BOI083	ma che cazzo capisce?
-BOI083	[cioè alle:]
 BOI084	[la scuola gli] fa' capi' cose e quelle che vedi poi:: °cioè° (.) reagisci in un modo diverso
+BOI083	[cioè alle:]
 BOI083	non lo so fra' (.) secondo me:: è un problema veramente troppo radicato.
 BOI084	e allora dobbiamo aspe[tta' che muore] [la generazione passata >cioè<]
 BOI083	[non dico che]
@@ -1397,8 +1397,8 @@ BOI084	è un po' vabbè [un agglomerato di cose sì sì sì]
 BOI083	[ma chi frequenti da:]
 BOI084	un po' la società, un po' i tuoi, un po' gli amici, un po' quello che vedi, un po' [tante cose tu]tto fra' tutto °sì sì sì°
 BOI083	[un po' i social pure]
-BOI083	[eh si ogg]ettifica parecchio la donna sui social se mi posso permette
 BOR022	[a:hm]
+BOI083	[eh si ogg]ettifica parecchio la donna sui social se mi posso permette
 BOI084	(>cioè<) ma ovunque purtro[ppo]
 BOI083	[m]o:::
 BOI083	non p~ cerchiamo di distingue gli argomenti eh
@@ -1433,8 +1433,8 @@ BOI083	no nel senso mi rode il culo quando io passo per un
 BOI083	tra virgolette nemico quando in realtà non lo sono, sono molto rispettoso
 BOI083	però per colpa degli altri ci passo di mez[zo io]
 BOI084	[sì idem] uguale
-BOR022	[okay]
 BOI084	[>°po' po' uguale°], cioè<
+BOR022	[okay]
 BOI083	una cosa che accuso è che magari
 BOI083	ho
 BOI083	timore, paura
@@ -1491,8 +1491,8 @@ BOI084	poi con calma mano a mano poi questa è una visione mia di come
 BOI084	dovrebbero esse risolte le cose in generale dalla più grande piano piano si scende
 BOI084	però boh >cioè< pure che faccio io è sbagliato quindi °è giusto: che venga educato anch'io, non lo so°
 BOI084	quindi questo, dà fastidio.
-BOR022	[ci sta]
 BOI084	[così è]
+BOR022	[ci sta]
 BOI084	°cioè così la penso°
 BOI083	x la ragazza sola la notte: ti ti xx
 BOI083	cioè tipo a me mette ansia perché non so che devo fa'
@@ -1521,8 +1521,8 @@ BOI083	anzi, tant'è vero ti ricordi:?
 BOI083	proprio
 BOI083	un botto di tempo fa, all'inizio proprio
 BOI083	io ho conosciuto una ragazza perché lei aveva paura
-BOI083	[c'era un gruppo di persone] lei er~ era ritornata indietro,
 BOI084	ah [sì è vero >sì sì sì sì<]
+BOI083	[c'era un gruppo di persone] lei er~ era ritornata indietro,
 BOI083	c'aveva sentito parla', aveva capito che eravamo tranquilli,
 BOI083	e l'ho accompagnata fino a sotto casa
 BOI083	però vabbè lei vabbè paracula e tutto ha capito che eravamo tranquilli, però un'altra che: che cazzo ne [so]

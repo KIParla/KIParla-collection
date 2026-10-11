@@ -59,7 +59,7 @@ BOR011	per come la vivo io non noto molte differenze
 BOI050	no no no no
 BOR011	perché lavori fuori perché
 BOI050	no~ mhm
-BOI050	perché non mhm
+BOI050	perché non mhmh
 BOI050	perché uhm
 BOI050	in realtà quando sono arrivata magari ecco la cosa che poteva sembrar brutta e che ora non vivo più
 BOI050	è che frequentavo molto la zona dell'univ~ di san donato e la zona universitaria
@@ -292,10 +292,10 @@ BOI050	i tempi poi non erano neanche i migliori e quindi
 BOI050	ho cambiato spesso
 BOI050	a volte adattandomi a cose non proprio mie però
 BOR011	del tipo
-BOI050	beh per esempio ho avuto una brevissima espas~ esperienza come dada
+BOI050	# beh per esempio ho avuto una brevissima espas~ esperienza come dada
 BOI050	in una scuola
 BOR011	che cos'è
-BOI050	eh qui le dade sono quelle
+BOI050	# eh qui le dade sono quelle
 BOI050	persone che nelle scuole o negli asili
 BOI050	curano i bambini nel senso gli danno da mangiare li assistono se hanno problemi aiutano gli insegnanti
 BOI050	non proprio gli insegnanti gli educatori
@@ -304,18 +304,18 @@ BOR011	sì ne~ nelle scuole dell'infanzia sì
 BOI050	sì
 BOR011	ma è bolognese
 BOR011	cioè la parola
-BOI050	non so se è bolognese o dada no~ cioè da noi~ a no~ ah no allora vedi da noi non c'è in effetti da noi non c'è
+BOI050	# non so se è bolognese o dada no~ cioè da noi~ a no~ ah no allora vedi da noi non c'è in effetti da noi non c'è
 BOR011	io non l'ho mai sentito
 BOR011	no
 BOR011	ma non esiste la figura
 BOR011	o
 BOI050	no no esiste la figura
-BOI050	adesso non so nel contratto non mi ricordo se c'era scritto non credo ci fosse scritto dada però ti chiamano così
+BOI050	# adesso non so nel contratto non mi ricordo se c'era scritto non credo ci fosse scritto dada però ti chiamano così
 BOR011	ma tu la vuoi frizzante forse sì
 BOI050	sì grazie frizzante
 BOI050	e
 BOI050	ehm
-BOI050	sì la dada i bambini ti chiamano dada anche i genitori vai dalla dada
+BOI050	# sì la dada i bambini ti chiamano dada anche i genitori vai dalla dada
 BOR011	e oltre a questo
 BOR011	perché secondo me è bolognese questo dopo
 BOI050	ah
@@ -326,10 +326,10 @@ BOI050	ah qualche termine ah a proposito di cose divertenti allora
 BOR011	qualcos'altro de~ del dialetto
 BOI050	i primi tempi a bologna devi capire che hanno certi
 BOI050	ehm per esempio quando lavoravo in gelateria mh dovevo consegnare per esempio la vaschetta del gelato e io chiedevo alla mia titolare che mi insegnava un paio di cose
-BOI050	eh sì lo incarti così poi gli dai la sportina e io eh la sportina qui è la busta il sacchettino di plastica o di carta o quel che è
-BOI050	e lei continuava a dire sportina e io
-BOI050	ma sportina e non gli do il sacchetto e sì gli dai la sportina e sì ma il sacchetto non glielo do e conti~ abbiamo continuato così per un po'
-BOI050	e questo è per la sportina poi per la minestra
+BOI050	# eh sì lo incarti così poi gli dai la sportina e io eh la sportina qui è la busta il sacchettino di plastica o di carta o quel che è
+BOI050	# e lei continuava a dire sportina e io
+BOI050	# ma sportina e non gli do il sacchetto e sì gli dai la sportina e sì ma il sacchetto non glielo do e conti~ abbiamo continuato così per un po'
+BOI050	# e questo è per la sportina poi per la minestra
 BOI050	sai che la minestra eh da noi è il brodo
 BOR011	sì
 BOI050	la minestrina okay
@@ -367,7 +367,7 @@ BOI050	eh aprimi la porta da~
 BOI050	in effetti non lo più come si può dire in italia~ mi apri la porta che ne so a casa suonano il cancello sono io
 BOI050	e ti apro
 BOI050	è proprio un'usanza che c'è qua mi dai il tiro
-BOI050	e anche nei campanelli c'è scritto tiro
+BOI050	# e anche nei campanelli c'è scritto tiro
 BOR011	sì infatti anche a casa mia
 BOI050	hai presente
 BOI050	e invece a casa no~ cioè da noi in sardegna c'è semplice si capisce
@@ -396,8 +396,8 @@ BOR011	così ha aperto la porta e io son sgattaiolato fuori
 BOI050	è vero me l'hai ricordato
 BOR011	ma perché a casa mia
 BOR011	il camp~ il il tiro sta affianco alla porta invece qui sta
-BOR011	tu~ da tutt'altra parte
 BOI050	un po' prima sì
+BOR011	tu~ da tutt'altra parte
 BOR011	cioè ti devi ricordare prima di
 BOI050	ah è vero
 BOR011	quando stai arrivando alla porta
@@ -411,7 +411,7 @@ BOR011	no no ma perché era la prima prima volta che sono stato solo due giorni
 BOI050	ah
 BOI050	mamma mia
 BOR011	e quindi avevo anche da fare perché ti ricordi ho dato quell'esame così meno male che mi sono svegliato molto presto
-BOI050	scusi prof arrivo in ritardo perché non ho trovato il tiro
+BOI050	# scusi prof arrivo in ritardo perché non ho trovato il tiro
 BOR011	poi cos'è che altre parole ci sono
 BOR011	che
 BOI050	ehm rusco
@@ -456,14 +456,14 @@ BOI050	cioè non non sono sta~ cresciuta proprio ascoltandolo
 BOR011	anch'io bevo un po' d'acqua
 BOI050	però certe esclamazioni son carine bolognesi tipo
 BOR011	ma sentiamo sentiamo
-BOI050	tipo sorbole
+BOI050	# tipo sorbole
 BOR011	come
 BOI050	sorbole
 BOI050	non l'hai mai sentita
 BOR011	no
 BOR011	ma io non sto a~ non sto a contatto con bolognesi in realtà
 BOI050	giura
-BOI050	no io in sì in effetti sorbole
+BOI050	# no io in sì in effetti sorbole
 BOI050	quando uno si
 BOI050	come dire si sorprende di qualcosa eh che bella questa cosa sorbole che bella
 BOI050	sì
@@ -538,8 +538,8 @@ BOI050	ho detto io da qui vado in centro a piedi mezz'oretta e arrivo no
 BOI050	mi sono~ ho detto vabbè faccio un giro
 BOI050	poi son salita in quella terrazza ti ricordi quella terrazza con l'ascensore dietro la chiesa quella che mi troppo simpatica
 BOR011	sì
-BOR011	lo vogliamo raccontare questa cosa
 BOI050	ho detto
+BOR011	lo vogliamo raccontare questa cosa
 BOI050	allora è una terrazza e un ascensore
 BOI050	ehm
 BOI050	fatto di metallo
@@ -610,8 +610,8 @@ BOR011	quindi ci dobbiamo andare
 BOI050	eh sì
 BOR011	e io la prima volta me la ricorderò perché son qui da da quanto
 BOI050	eh s~
-BOR011	parecchio
 BOI050	ci sei già da un po'
+BOR011	parecchio
 BOI050	sai che poi c'è un~ c'è un
 BOI050	quel modo di
 BOI050	mh
@@ -789,8 +789,8 @@ BOR011	quindi non hai avuto neanche troppo supporto più
 BOI050	no da dire da distrarmi no no no no no
 BOR011	emotivo
 BOI050	nessuno mi ha distratto
-BOR011	ci son state reazioni
 BOI050	nessuno
+BOR011	ci son state reazioni
 BOI050	delle persone
 BOI050	lo capivano nessuno ha riso per fortuna ma
 BOI050	ma se anche fosse tanto no~ che importanza ha
@@ -905,8 +905,8 @@ BOI050	e c'è anche il museo ecco il museo egizio non ci sono mai andata forse m
 BOI050	chi è interessato po~ mh potrei portarlo
 BOI050	così lo vedo anch'io per la prima volta
 BOI050	c'è il museo anatomico
-BOR011	mhmh
 BOI050	quello lo conosci
+BOR011	mhmh
 BOR011	quello ci dovevo andare da poco
 BOI050	è caratteristico bello
 BOI050	e
@@ -1074,8 +1074,8 @@ BOI050	però ci sono molti animali anche esotici
 BOI050	sì tipo oddio è esotico lo gnu
 BOI050	comunque non
 BOR011	no
-BOR011	mi cogli impreparato
 BOI050	o tipo i camme~
+BOR011	mi cogli impreparato
 BOI050	oppure i i ca~ i dromedari o i cammelli non lo so insomma no no non
 BOI050	no è proprio lo gnu mi sa
 BOI050	sai quell'animale un po'
@@ -1301,8 +1301,8 @@ BOI050	dai bombo crêpes è storico
 BOR011	a proposito dobbiamo andare in quel alle stanze
 BOI050	io ho gir~ anche alle stanze era un posto che frequentavo tanto è bellissimo vero
 BOR011	x x
-BOR011	eh è sembrato un po' un po' blasfemo stare lì dentro a
 BOI050	le stanze chiara~
+BOR011	eh è sembrato un po' un po' blasfemo stare lì dentro a
 BOI050	no
 BOR011	a sorseggiare però bellissimo
 BOI050	no
@@ -1516,8 +1516,8 @@ BOI050	bene davvero
 BOR011	ai tuoi aneddoti
 BOI050	dai bene
 BOR011	ma sì
-BOR011	lei ade~
 BOI050	andrai a fare la spesa con la sportina
+BOR011	lei ade~
 BOI050	butterai il rusco
 BOI050	e suo~ e chie~ e chiederai il tiro al tuo coinquilino
 BOR011	e non andrò uhm in diagonale in piazza maggiore

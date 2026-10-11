@@ -7,8 +7,8 @@ TOR006	che lavoro fai
 TOI033	faccio il carrozziere
 TOR006	okay e da quanto tempo
 TOI033	sono ho iniziato il quinto anno
-TOI033	quinto anno di carrozzeria
 TOR006	okay
+TOI033	quinto anno di carrozzeria
 TOR006	okay mi puoi spiegare qualcosa sul tuo lavoro cosa fai
 TOI033	sì assolutamente la mia mansione è detta montaggio e smontaggio
 TOR006	mhmh
@@ -24,8 +24,8 @@ TOR006	eh quindi cinque anni quindi in pratica
 TOR006	tu che che superiore hai fatto
 TOI033	io ho frequentato istituto vittone ho fatto cinque anni di geometra
 TOR006	okay
-TOI033	sono uscito col diploma da geometra
 TOR006	okay
+TOI033	sono uscito col diploma da geometra
 TOR006	okay
 TOI033	e poi non ho poi non ho continuato quegli studi
 TOR006	okay
@@ -60,8 +60,8 @@ TOI033	quello che che svolgo all'interno dell'officina
 TOR006	mhmh
 TOR006	mhmh
 TOI033	di poter essere in grado io un giorno di essere autonomo
-TOI033	per quanto riguarda
 TOR006	tipo ti piacerebbe aprire un'officina
+TOI033	per quanto riguarda
 TOI033	esatto una carrozzeria o anche solo portare avanti questa assolutamente
 TOR006	come si
 TOR006	okay
@@ -100,8 +100,8 @@ TOI033	pro~ per lavoro che svolgo io
 TOR006	okay
 TOI033	sono due realtà molto diverse preferisco quella che
 TOI033	che c'è a chieri
-TOI033	assolutamente in provincia
 TOR006	come mai preferisci più chi~ più la provincia
+TOI033	assolutamente in provincia
 TOI033	ma diciamo che nella grande città
 TOI033	xx sempre per il lavoro che svolgo io è un altro
 TOR006	mhmh
@@ -150,8 +150,8 @@ TOI033	alcune cose quindi
 TOI033	sì assolutamente
 TOR006	e qua invece non ci sono percorsi di di formazione
 TOI033	sì ci sono dei percorsi di formazione ci sono i percorsi di formazione classici
-TOI033	quelli che cui devi
 TOR006	mhmh
+TOI033	quelli che cui devi
 TOI033	diciamo per forza aderire
 TOI033	e se no ci sono anche corsi a pagamento
 TOR006	mhmh
@@ -181,8 +181,8 @@ TOR006	okay
 TOI033	per fortuna
 TOR006	anche ah quindi ti piace questa zona
 TOI033	sì un sacco
-TOI033	xx tantissimo
 TOR006	cosa ti piace
+TOI033	xx tantissimo
 TOI033	che non siamo né troppo in centro né troppo fuori diciamo mettiamola così siamo in una zona neutra dove però siamo vicini a tutto
 TOR006	mhmh
 TOR006	mhmh
@@ -193,8 +193,8 @@ TOI033	mi trovo stra bene qua
 TOR006	okay
 TOR006	e quindi hai frequentato anche le scuole qua sempre
 TOI033	sì
-TOI033	da asilo elementari medie superiori
 TOR006	okay
+TOI033	da asilo elementari medie superiori
 TOR006	okay
 TOR006	eh i tuoi amici eh vivono vicino a te oppure si sono spostati per esigenze varie
 TOI033	mh no la maggior parte dei miei amici vivono qua
@@ -217,8 +217,8 @@ TOI033	qua in zona
 TOR006	sì
 TOI033	ma sinceramente ti dico
 TOI033	no
-TOI033	nel senso l'unica giustamente è un paesino
 TOR006	okay
+TOI033	nel senso l'unica giustamente è un paesino
 TOI033	per le mie esigenze per quello che devo fare qua sto
 TOI033	sto benissimo assolutamente vicino a mezzi pubblici a tutto quindi
 TOR006	stai bene qui
@@ -326,14 +326,14 @@ TOI033	sì
 TOI033	no è impossibile
 TOR006	no
 TOI033	è sbagliato
-TOI033	no beh sì a volte però facciamo
 TOR006	pensaci ben~
+TOI033	no beh sì a volte però facciamo
 TOR006	quindi due volte a settimana
 TOI033	facciamo anche due volte a settimana sì
 TOI033	ah a volte sì
 TOR006	o mio dio è bellissimo
-TOI033	no sì sì
 TOR006	perché ti piace andare a ballare
+TOI033	no sì sì
 TOI033	beh allora ballare mi piace semplicemente perché io suonavo
 TOI033	quindi lavorando nei locali
 TOR006	okay
@@ -341,8 +341,8 @@ TOI033	sono sempre rimasto affezionato xx
 TOR006	ma quindi aspetta
 TOR006	hai avevi già fatto un lavoro
 TOI033	se si può chiamare lavoro
-TOI033	non è proprio un lavoro
 TOR006	vabbè dai raccontami qualcosa
+TOI033	non è proprio un lavoro
 TOI033	nel senso beh io quando ero ragazzino quando avevo quindici anni ho iniz~ x mi sono appassionato appunto a suonare come come dj
 TOR006	mhmh
 TOR006	mhmh
@@ -352,8 +352,8 @@ TOR006	mhmh
 TOI033	a fare giocare un pochettino così
 TOR006	mhmh
 TOI033	e poi niente suoni~ ho iniziato a suona~ suonicchiare in un locale qua a chieri
-TOI033	il eh il pickwick
 TOR006	mhmh
+TOI033	il eh il pickwick
 TOR006	okay
 TOI033	il vecchio pickwick
 TOI033	ehm
@@ -381,8 +381,8 @@ TOR006	cioè perché ti pia~ cosa ti piace~ cioè quando eri tipo il dj di una s
 TOI033	sì
 TOI033	ma in realtà mi piaceva veramente tantissimo far divertire la gente
 TOR006	cos'è che ti piace
-TOI033	poter eh vedere anche che la gente potesse apprezzare la musica
 TOR006	mhmh
+TOI033	poter eh vedere anche che la gente potesse apprezzare la musica
 TOI033	quello che suonavo
 TOR006	mhmh
 TOI033	e quello sì mi è rimasto
@@ -464,8 +464,8 @@ TOR006	cioè i tuoi momenti di gloria li hai avuti dai
 TOI033	ma assolutamente sì sì eh qualche soddisfazione me la son tolta
 TOR006	che bello
 TOI033	piccole cose però
-TOI033	ne vado fiero
 TOR006	bello
+TOI033	ne vado fiero
 TOR006	ma mh volevo chiedere questi pezzi che avete prodotto quindi
 TOR006	cioè non avete mai pensato di tipo pubblicarli su internet o farci qualcosa
 TOI033	ma no li abbiamo sempre pubblicati a livello molto amatoriale
@@ -631,8 +631,8 @@ TOR006	quello che si può raccontare raccontalo
 TOI033	okay le mie problematiche e poi diciamo che i nostri ritmi di ibiza erano mol~ ho visto ben poco di ibiza cioè ho visto giusto qualche spiaggia
 TOI033	e e poi
 TOI033	diciamo che noi ci svegliavamo di media alle due tre di pomeriggio
-TOI033	eh
 TOR006	mhmh
+TOI033	eh
 TOI033	x x x giusto ti mangi fai u~ un accenno di ba~ di bagno qualcosa
 TOI033	e poi dalle dieci di sera alle dieci di mattina è un non stop per cui
 TOI033	xx tutto così là hanno questi ritmi quindi è una figata
@@ -657,8 +657,8 @@ TOI033	eh sì ho fatto questo errore sono andato con i miei amici e la mia ex fi
 TOI033	e quindi
 TOI033	però ho conosciuto un sacco di ragazze spagnole nonostante ciò
 TOI033	e mi sono divertito
-TOI033	non abbastanz~ cioè x
 TOR006	va bene
+TOI033	non abbastanz~ cioè x
 TOI033	tantissimo eh
 TOI033	però sotto un certo punto di vista non abbastanza mettiamola così
 TOR006	vabbè ma
@@ -667,8 +667,8 @@ TOI033	assolutamente sì
 TOI033	è che ibiza è tanto costosa quello lo devo ammettere quindi
 TOR006	però tu lavori
 TOI033	sì però diciamo che proprio andarli a spendere tutti in
-TOI033	preferirei anche tenermeli un po'
 TOR006	va bene
+TOI033	preferirei anche tenermeli un po'
 TOR006	giusto
 TOI033	sì sì sì
 TOR006	ehm che ridere
@@ -740,8 +740,8 @@ TOI033	eh no queste qua ci han chiesto di salire volevano i soldi
 TOI033	xx ci hanno ci hanno chiuso lì volevano non volevano xx farci andare via tutta una roba del genere
 TOI033	e poi bon siamo scappati e
 TOI033	sono andato a scuola in fin dei conti quindi sono andato a scuola con
-TOI033	questa
 TOR006	con l'ansia
+TOI033	questa
 TOI033	questa palpitazione
 TOI033	sì sì da diciamo da dalle escort a scuola
 TOR006	oh mio dio
@@ -772,8 +772,8 @@ TOI033	in tutto questo xxx
 TOI033	tutto xxx che poi la macchina è della mamma di un nostro amico per cui dovevamo anche fare attenzione alla macchina
 TOR006	quindi
 TOI033	è stata una cosa meravigliosa
-TOI033	bellissimo
 TOR006	e però son quelle cose che poi ti ric~ cioè che poi
+TOI033	bellissimo
 TOI033	sì ti rimangono assolutamente
 TOR006	racconterai no forse non racconterai ai tuoi nipoti o sì
 TOI033	ma neanche ai miei figli
@@ -798,8 +798,8 @@ TOI033	tre ragazze erano
 TOI033	credo russe russe bielorusse una cosa del genere
 TOI033	sì sì sì e poi
 TOR006	ho capito
-TOI033	vabbè
 TOR006	molto interessante
+TOI033	vabbè
 TOI033	sì sì in questa xx xx xxx
 TOR006	qualcos'altro di un po' più l~
 TOR006	in cui non hai rischiato la vita
@@ -840,8 +840,8 @@ TOI033	sì
 TOR006	e cosa si fa
 TOI033	sono andato a sentire david guetta
 TOI033	sono andato a sentire
-TOI033	eh sì sì ero andato a sentire david guetta alla fiera di milano dove han fatto mh l'expo
 TOR006	o mio dio
+TOI033	eh sì sì ero andato a sentire david guetta alla fiera di milano dove han fatto mh l'expo
 TOI033	a rho
 TOI033	eh niente gli si è spenta la musica niente
 TOI033	parte un sacco di imbarazzo
@@ -921,8 +921,8 @@ TOI033	ah
 TOI033	no ma ha sempre fatto un genere
 TOI033	dutch si chiama xx xx dutch house eh
 TOR006	mhmh
-TOI033	ste cose qua
 TOR006	ma non è un po' simile all'hip hop
+TOI033	ste cose qua
 TOI033	la dutch
 TOR006	no cioè io lo ascoltavo quando faceva hip hop diplo
 TOI033	sì
@@ -981,16 +981,16 @@ TOR006	sì
 TOI033	perché
 TOI033	funziona perché è commerc~ ma anche d'inverno cioè ce lo stanno smaronando vermamente tutto l'anno
 TOR006	d'estate
+TOR006	okay
 TOI033	e quindi bon han capito che funziona e bon
 TOR006	okay
 TOI033	se tra un anno andrà di moda
-TOR006	okay
 TOI033	un altro un altro genere
 TOR006	mhmh
 TOI033	il il prog reggaeton
 TOI033	xx sarà xx non so qualcosa
-TOI033	l'estate prossima sentiremo canzoni con un'impronta prog reggaeton
 TOR006	okay
+TOI033	l'estate prossima sentiremo canzoni con un'impronta prog reggaeton
 TOR006	cosa pensi della trap music
 TOI033	allora
 TOI033	trap music
@@ -1039,8 +1039,8 @@ TOI033	si chiama illenium
 TOR006	mhmh
 TOI033	quel genere lì mi piace a me quella trap lì
 TOR006	okay
-TOI033	molto più
 TOR006	che è meno commerciale
+TOI033	molto più
 TOI033	molto meno commerciale
 TOI033	molto meno commerciale
 TOR006	okay
@@ -1167,8 +1167,8 @@ TOR006	ho capito
 TOI033	quindi cioè
 TOI033	ma tante persone sono convinte di questa cosa
 TOI033	e quindi ti diranno non è razzismo io non sono razzista
-TOI033	io lo faccio per
 TOR006	mhmh
+TOI033	io lo faccio per
 TOR006	conosci willie peyote
 TOI033	willie il coyote
 TOR006	willie peyote
@@ -1178,8 +1178,8 @@ TOI033	ah
 TOR006	ascoltati
 TOR006	eh non sono razzista ma
 TOI033	ah
-TOI033	okay
 TOR006	cercala su spotify
+TOI033	okay
 TOI033	okay assolutamente
 TOR006	parla di questo
 TOR006	volevo chiederti ultime domande
@@ -1194,8 +1194,8 @@ TOR006	mh
 TOI033	un mattone
 TOI033	mia mamma era incredula fa ah sai leggere quindi sì mamma x xx
 TOI033	però in realtà vado a vedere un po' tutti i generi
-TOI033	appassionati del eh genere marvel eh x cose molte molto commerciali
 TOR006	mhmh
+TOI033	appassionati del eh genere marvel eh x cose molte molto commerciali
 TOR006	okay
 TOI033	però ogni tanto andavo a vedere anche film più
 TOI033	diciamo
@@ -1233,12 +1233,12 @@ TOI033	le partite
 TOR006	no oltre alle partite cioè guardi la tv
 TOI033	ah oltre le partite
 TOI033	sì
-TOI033	cioè
 TOR006	cosa guardi
+TOI033	cioè
 TOI033	una volta tan~
 TOI033	tanta adesso in realtà la guardo veramente poco
-TOI033	perché in settimana la guardo
 TOR006	mhmh
+TOI033	perché in settimana la guardo
 TOI033	uscendo di casa sette e mezza
 TOI033	entrando a casa praticamente alle nove
 TOR006	mhmh

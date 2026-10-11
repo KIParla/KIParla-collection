@@ -11,7 +11,7 @@ BOR014	andavi a lavorare?
 BOI055	(m:h) sì
 BOR014	mh
 BOR014	dove andavi a lavorare?
-BOI055	alla @nomeazienda,
+BOI055	alla
 BOI055	e <po:i>, (.) mi alzavo la matti:na alle cinque e me:zzo, e tornavo a casa la se:ra alle <o:tto>,
 BOR014	m:h
 BOI055	questo però non è ade~ e non è dei tempi eh,
@@ -171,7 +171,7 @@ BOI055	((schiocca_la_lingua)) e: andai a ba:nco,
 BOI055	presi la mia roba, feci la mia spesa il mio scontrino con la borsa p~ (.) aperta mi a:~
 BOI055	mi avviai a~ alla cassa,
 BOI055	e il cassiere mi disse >°signora chiuda quella borsa°<
-BOI055	#dig e beh cos'è successo a bologna?
+BOI055	# dig e beh cos'è successo a bologna?
 BOI055	no (.) deve chiuderla quella borsa
 BOI055	ma dico >siam dentro< a un negozio (.) °non è vero bisogna far così adesso°
 BOI055	ed era cambiata molto eh,
@@ -194,10 +194,10 @@ BOI055	ho dovuto dir no perché: gli impegni, non me lo permette:vano,
 BOI055	il tempo non c'era andare a bologna ci voleva tanto in treno finché son stata:
 BOI055	che potevo ci sono andata
 BOI055	e mi piaceva moltissimo
-BOR014	ma e ti e: senti te hai detto che lavoravi alla @nomeazienda no?
+BOR014	ma e ti e: senti te hai detto che lavoravi alla no?
 BOI055	mh
 BOR014	eh
-BOR014	ma c'hai qualche bel rico:rdo <lega:to alla @nome[azienda>]
+BOR014	ma c'hai qualche bel rico:rdo <lega:to alla
 BOI055	[sì] tanta tanta tanta cordialità (.) tanto divertimento
 BOI055	perché s'andava a lavorare ma con le ragazze si era (.) perché era poi un posto dove c'eran le raga~ ((inspira))
 BOI055	e: ci si divertiva, si era fatto delle amicizie, >poi le hai viste< le foto no, (che no[n ci si)]
@@ -272,7 +272,7 @@ BOI055	e devo dir la verità, (.) adesso che è tanto che non ci sono andata poi
 BOR014	anche il CARATTERE, diciamo
 BOI055	beh (.) il carat~ (.) e l'età aiuta a cambiare il carattere eh,
 BOR014	°mh°
-BOI055	#e:h un bel po' (.) perché quella sverzura che avevi:,
+BOI055	# e:h un bel po' (.) perché quella sverzura che avevi:,
 BOI055	allora adesso (.) non ce l'hai più davvero (.) no no
 BOI055	°mh°
 BOI055	°però oh°
@@ -285,15 +285,15 @@ BOR014	rossi?
 BOI055	no no no anche la (.) la rossi lavorava con me
 BOR014	eh
 BOI055	((inspira))
-BOR014	[con lei anco]ra sei in contatto, per[ò],
 BOI055	[intellige~]
+BOR014	[con lei anco]ra sei in contatto, per[ò],
 BOI055	[ah] però >siam stati< un bel po' senza riconoscerci eh,
 BOI055	e lavoravamo nello stesso posto
 BOR014	ma quand'è che vi siete riconosciute?
 BOI055	a:: (.) a calvigi
 BOR014	sì?
-BOI055	#a calvigi ch'al dis °quando andavo a lavora:re,°
-BOI055	#>dig< asco:lta,
+BOI055	# a calvigi ch'al dis °quando andavo a lavora:re,°
+BOI055	# >dig< asco:lta,
 BOI055	ma allora lavoravamo assieme,
 BOI055	°sì io lavora~° eh sì allora, (.) eh (.) ci siam riconosciute così
 BOI055	perché i temp~ (.) il tempo era passa:to,
@@ -309,7 +309,7 @@ BOR014	eh ma te in mensa però, (.) cos'è che ti facevano in mensa?
 BOI055	o:h la mine:stra e il secondo
 BOR014	no: ma dico c'era quella signora che (.) che ti chiamava no?
 BOI055	beh
-BOI055	no (.) quello era il bar all'angolo di: @nomeluogo
+BOI055	no (.) quello era il bar all'angolo di:
 BOR014	°ah°
 BOI055	che andavamo giù
 BOI055	e qua:ndo mi vede:va,
@@ -318,12 +318,12 @@ BOI055	ed era chiamata borelli
 BOI055	bole:lli
 BOI055	il bar
 BOI055	c'era marito e moglie
-BOI055	#mi vedevano arriva:re, e mi chiamavano dietro dal ba:nco, ((sospira)) vieni mo fangeina in bologn[e:se]
+BOI055	# mi vedevano arriva:re, e mi chiamavano dietro dal ba:nco, ((sospira)) vieni mo fangeina in bologn[e:se]
 BOR014	[c]ome ti dice:vano?
-BOI055	#mi diceva lei vieni fange:ina
+BOI055	# mi diceva lei vieni fange:ina
 BOR014	((ride))
 BOI055	perché:
-BOI055	#bambina era fangi~ era (u)na fangi:na
+BOI055	# bambina era fangi~ era (u)na fangi:na
 BOI055	e: (.) poi do:po: mh
 BOI055	mi da:va (.) il cappuccino:
 BOI055	subit[o]
@@ -340,7 +340,7 @@ BOR014	NO ma dico (.) con i tuoi a~ (.) cioè erano gente che conoscevi?
 BOI055	certo certo certo beh ma scherzi?
 BOI055	°eh°
 BOR014	mh
-BOI055	poi ce n'eran ta:nti che la (.) ad esempio la mirella bia:nchi anche lei veniva alla @nomeazienda
+BOI055	poi ce n'eran ta:nti che la (.) ad esempio la mirella bia:nchi anche lei veniva alla
 BOI055	°ma ce n'eran (.) parecchi°
 BOI055	°adesso° (.) tutti non me li rico:rdo, però ce n'è (.) ce n'era ce n'era
 BOR014	mh
@@ -371,7 +371,7 @@ BOI055	poi stavo da mia sorella (.) °a porretta°
 BOR014	mh
 BOI055	a dormire
 BOI055	ma mica se:mpre eh,
-BOI055	#oh non come ade:sso (.) che si gnin in gir
+BOI055	# oh non come ade:sso (.) che si gnin in gir
 BOI055	non stanno bene
 BOR014	((ride))
 BOI055	°no°
@@ -401,7 +401,7 @@ BOI055	mi dispiace per loro che vengan via dal suo paese,
 BOI055	pe:rò, anche loro s'arrangiano, e s'arrangiano anche in malo modo
 BOR014	eh poverini °son[o°]
 BOI055	[EH] lo so, simo però (.) cate però non puoi pretendere che uno
-BOI055	#ti metta le mani addosso, ti ti strappi la bo:rsa, beh ma dig
+BOI055	# ti metta le mani addosso, ti ti strappi la bo:rsa, beh ma dig
 BOR014	[°ah°]
 BOI055	[eh]
 BOI055	(u)na volta:,
@@ -416,7 +416,7 @@ BOI055	no no
 BOR014	ma c'andavi anche con il nonno, a bologna?
 BOI055	°sì [eh,°]
 BOR014	[ins]ieme?
-BOI055	#ma rare volte perché lui: al sabato °steva >a ca' dlontera< eh°,
+BOI055	# ma rare volte perché lui: al sabato °steva >a ca' dlontera< eh°,
 BOR014	sì eh?
 BOI055	°eh°
 BOR014	che era stanco
@@ -438,7 +438,7 @@ BOI055	di più
 BOI055	eh guarda anche qui (.) adesso anche co~ con quel fatto lì anche su: in filatu:ra,
 BOI055	ah dice ho la fe:bbre co~
 BOI055	e >la mariaelena me l'ha detto<
-BOI055	#dis pensa °ha telefonato u~ (.) uno e ha detto°mio marito e mio figlio han la febbre cosa faccio io vengo a lavorare?
+BOI055	# dis pensa °ha telefonato u~ (.) uno e ha detto°mio marito e mio figlio han la febbre cosa faccio io vengo a lavorare?
 BOI055	beh se non hai nie:nte, andrai a lavora:re no?
 BOR014	ti fai un tampone, e [vai a la]vora:re,
 BOI055	[°eh°]
@@ -556,7 +556,7 @@ BOI055	era la:
 BOI055	era il mare più vicino a noi,
 BOI055	però andavamo in compagnia, eh
 BOI055	con quelle (.) che lavoravo eh
-BOR014	EH (.) con i tuoi colleghi della @nomeazienda
+BOR014	EH (.) con i tuoi colleghi della
 BOR014	m:h
 BOI055	ci andavamo no:i
 BOI055	poi mia sorella mi dava poi dietro la pina: e: le mie nipoti
@@ -662,7 +662,7 @@ BOI055	°ma quante ce n'erano°
 BOR014	ti piaceva ballare,
 BOI055	eh andava:mo, in compagni:a, così,
 BOI055	°ma°
-BOI055	#ah i'era po' il ballo eh an ghera mìa gnint d'eter eh
+BOI055	# ah i'era po' il ballo eh an ghera mìa gnint d'eter eh
 BOR014	°beh° >oddio<,
 BOR014	stare insie:me:
 BOI055	CERTO m:hmh cinema:: °ma non°
@@ -674,8 +674,8 @@ BOI055	no siamo andati anche a rimini °sì a rimini° MIRAMARE anche, miramare 
 BOI055	eh che mi ricordi no.
 BOI055	che anche miramare era °bellino°
 BOI055	mh
-BOR014	[mh]
 BOI055	basta?
+BOR014	[mh]
 BOR014	e:hm:
 BOR014	quindi ti piaceva andare al ma:re, quando avevi tempo li:bero, quando avevi le [fe:rie],
 BOI055	[sì poi dopo abbia]m SEMPRE fatto le: le: vacanze dopo che mi son °sposata°
@@ -723,7 +723,7 @@ BOI055	che quando uno poi si impo:ne,
 BOI055	o no?
 BOR014	a:h concordo concordo
 BOI055	poi io ne ho fatte tante da mangiare °eh°
-BOI055	#al (v')ariva a borg panighel
+BOI055	# al (v')ariva a borg panighel
 BOR014	eh (.) raccontaci un po' di quando andavi a borgo panigal[e]
 BOI055	[e] a marmorta?
 BOR014	però secondo me lavoravi più a borgo >paniga:[le]<
@@ -763,14 +763,14 @@ BOR014	no (.) >dici< dico però
 BOR014	cioè te hai detto hai fatto tanto da mangiare,
 BOR014	PERò te ti PIACE far da mangiare,
 BOI055	ah per forza eh,
-BOI055	#ti parevi ench
+BOI055	# ti parevi ench
 BOI055	eh
 BOI055	però, [s~]
 BOR014	[EH] ma poi te c'avevi il sangue di chef nelle v[e]ne [eh]
 BOI055	[eh]
 BOI055	[ce]rto sì eh e::h,
 BOR014	COME certo sì? >non avevi< tua zia non aveva il ristorante a porretta?
-BOI055	no. due ne ave~ ah sì mia zia aveva il ristorante (.) [] °sì°
+BOI055	no. due ne ave~ ah sì mia zia aveva il ristorante (.) °sì°
 BOR014	[eh]
 BOI055	lì dove c'è::
 BOI055	((sbuffa)) in piazza delle tele dove c'è la cesarina,
@@ -789,7 +789,7 @@ BOI055	adesso però m:::h,
 BOI055	anche d'andare a bologna perché mh,
 BOI055	ne sento troppe per televisione quelle robe lì forse anche una volta °non si sape:vano, non lo so°
 BOI055	ma non era così. >no< perché andavi a bologna tranquilla,
-BOI055	#guardavi le tue vetrine ade' al vegna fer acsè (.) mo vaf~
+BOI055	# guardavi le tue vetrine ade' al vegna fer acsè (.) mo vaf~
 BOR014	((ride))
 BOI055	mah
 BOR014	eh no adesso bisogna stare un po' attenti m[a:]
@@ -830,14 +830,14 @@ BOI055	POI IO
 BOI055	posso dire che: non so le cose come so:no,
 BOI055	io PARLO per quel che:,
 BOI055	che ragiono.
-BOI055	#e lè (.) e lì mi sembra che:
+BOI055	# e lè (.) e lì mi sembra che:
 BOR014	che cosa?
 BOI055	che sia un po' esagerata la cosa.
 BOR014	mh
 BOR014	nonna ma te lo parli il dialetto?
 BOI055	adesso?
 BOR014	e:h
-BOI055	#perché io de ciacar el dialet
+BOI055	# perché io de ciacar el dialet
 BOR014	te lo pa:rli, sei contenta di conoscerlo?
 BOI055	IO Sì anche perché io con i miei parlo il dialetto eh. °non è che°
 BOR014	e ti dispiace un po', che i giovani d'oggi non lo sappiano tanto bene?
@@ -886,7 +886,7 @@ BOI055	beh un pochino sì.
 BOI055	perché deve andar perduto?
 BOR014	perché nessuno lo pa:rla.
 BOR014	poi vedi anche federico no? quando viene su,
-BOR014	prova a parlarlo te gli dici <fai pena> <smettila>
+BOR014	prova a parlarlo te gli dici <fai penasmettila>
 BOI055	ma sì: ma anche lì: c'è una bella differenza perché anche il toscano ha il su:o dialetto eh,
 BOR014	sì. è un dialetto: diciamo mol[to si]mile all'italia:no però, per[ché]
 BOI055	[mh]

@@ -1,5 +1,5 @@
 PKP089	mangiate bevete
-PKP089	magnete
+PKP089	# magnete
 PKP089	patrizia si tu vuoi apri' la coca cola la apri e anche tu michi
 PKP090	no grazie
 PKP088	grazie grazie
@@ -17,18 +17,18 @@ PKP090	eh vabbè ma adesso c'eron le feste ci sta
 PKP089	c'ho na trippa che sembro incinta
 PKP089	eh
 PKP089	non ci siamo
-PKP089	infatti guarda so' artornata l'altra settimana
+PKP089	# infatti guarda so' artornata l'altra settimana
 PKP089	manco sta settimana
-PKP089	in palestra ci so' ita due volte e bastai
+PKP089	# in palestra ci so' ita due volte e bastai
 PKP089	el mio allenatore che si chiama tom me fa co~ comunque m'ha detto tre settimane che non ci vieni in palestra è tanto eh me fa
 PKP090	eh vabbè ma se c'avevi el covid
 PKP089	me fa eh perché gli ho detto guarda c'ho avuto el covid me fa davvero eh gli ho detto e no pensa quanto so' fortunata gli ho detto
-PKP090	c'andavi sicuro
+PKP090	non c'andavi sicuro
 PKP089	ma pu el bello en sé che m'ha detto perché comunque gli avevo detto che a pasqua xxx comunque la settimana de pasqua insomma non ci sarei andata comunque no
 PKP090	mh
-PKP089	perché gli ho detto che artornava stefano e io gli ho detto che insomma e~ non era italiano era albanese
+PKP089	# perché gli ho detto che artornava stefano e io gli ho detto che insomma e~ non era italiano era albanese
 PKP089	e insomma sarei stata con lui perché sono un paio de me~ un paio più de un paio de mesi che non el vedevo
-PKP089	allora gli ho detto e poi è artornato el mio citto ah se è vero com'è ita gli ho fatto eh si si tutto bene m'ha detto ma è arpartito
+PKP089	# allora gli ho detto e poi è artornato el mio citto ah se è vero com'è ita gli ho fatto eh si si tutto bene m'ha detto ma è arpartito
 PKP089	gli ho detto se è~ è ritornato a casa insomma ha fatto una settimana e basta
 PKP089	emh e me fa ma scusa ma
 PKP089	ma non ve stancate
@@ -60,8 +60,8 @@ PKP089	seh
 PKP090	eh
 PKP089	eh insomma
 PKP089	volevo di'
-PKP089	dice de me quando lu insomma c'ha la su età e ancora gli è ariuscito a trova una a parte che per sta con lui ci vuole perché no perché cioé nel senso anche io me piaceribbe sta a dieta e tutto
-PKP089	però tipo ogli tanto da quando sto con stefano ho capito che devo ogli tanto a volte anche mangia' putinicci
+PKP089	# dice de me quando lu insomma c'ha la su età e ancora gli è ariuscito a trova una a parte che per sta con lui ci vuole perché no perché cioé nel senso anche io me piaceribbe sta a dieta e tutto
+PKP089	però tipo ogli tanto da quando sto con stefano ho capito che devo ogli tanto a volte anche mangia putinicci
 PKP089	eh quindi tipo l'altra settimana ho mangiato male perché tipo mangiav~ andavo al mc el sushi la pizza tutto
 PKP089	anche a casa della valeria cioé quando pranzano cenano non è che mangiano
 PKP089	faccio la~ la fettina de pollo con l'insalata
@@ -82,12 +82,12 @@ PKP090	no a casa mia non se butta in padella
 PKP089	o comunque vabbè su un piatto che poi dopo ci metti il sugo o quel che te pare el pesto no
 PKP090	se
 PKP089	eh invece lei mh tipo me sa che scola la pasta
-PKP089	ar~ l'ar~ l'armette sulla marmitta e ci butta tutto me dè
+PKP089	# ar~ l'ar~ l'armette sulla marmitta e ci butta tutto me dè
 PKP089	non so el condimento la pancetta dell~ la panna qu~ quel ch~ che ci metti quel che te pare
 PKP088	che vuol di' condisce la pasta direttamente su su~
 PKP089	io non faccio così
 PKP089	su la su la marmitta
-PKP090	vabbè xxx anche oggi xxx s'arcondiva
+PKP090	# vabbè xxx anche oggi xxx s'arcondiva
 PKP088	ah anche anche anche la mia mamma
 PKP089	no io non c'ho mai fatto
 PKP088	anche la mia mamma
@@ -143,8 +143,8 @@ PKP088	ah l'tuo fratello fa l'orto
 PKP090	se
 PKP088	ah
 PKP090	el mio fratello è in gamba per l'orto
-PKP089	non ha preso da n~ non ha preso da te
 PKP090	per la scuola un po' meno
+PKP089	non ha preso da n~ non ha preso da te
 PKP088	ma deve fa la terz~ no che fa
 PKP090	mh la prima superiore
 PKP088	fa le superiori
@@ -166,11 +166,11 @@ PKP088	male
 PKP088	mh
 PKP090	cioè praticamente allora all'inizio male poi tipo un po' aveva recuperato
 PKP088	mh
-PKP090	poi però ha detto la mia mamma che era tipo due mesi che non è che l' vedeva tanto studia' ste cose così
+PKP090	poi però ha detto la mia mamma che era tipo due mesi che non è che l' vedeva tanto studia ste cose così
 PKP090	perché gli diceva che non c'aveva i compiti e tutto il resto
 PKP088	mh
 PKP090	eh dopo quindi niente un po' de giorni fa me c'ha fatto vede' eh ha visto che c'aveva tipo mh a matematica aveva preso quattro e mezzo non so a cosa due e mezzo
-PKP090	poi così e quindi dopo s'è incazzata e adesso l'ha arfatto mette giù
+PKP090	# poi così e quindi dopo s'è incazzata e adesso l'ha arfatto mette giù
 PKP090	però deve recuperarle perché comunque cioé la mia mamma vorrebbe che perlomeno st'anno non lo perdesse perché almeno anche se cambia
 PKP090	scuola e dall'itis va all'ipsia comunque non perde un anno cioè all'ipsia va subito in seconda
 PKP089	no eh
@@ -178,7 +178,7 @@ PKP090	quindi cioè tanto sicuramente i cre~ i i debiti sicuramente st'estate ce
 PKP089	madonna
 PKP090	sicuro
 PKP090	eh madonna se c'ha i ehm~ ehm~
-PKP089	non gli ariesce a recupera' in qualche modo
+PKP089	# non gli ariesce a recupera' in qualche modo
 PKP090	materie cioè se c'hai tipo cinque materie sotto ci sta che magari due te ne abbonano però comunque eh poi te li danno i debiti
 PKP088	ma qual è la differenza fra ipsia e itis
 PKP090	eh l'itis mh tutt'altro
@@ -198,8 +198,8 @@ PKP088	cambi
 PKP090	che va~ invece vai subito sul nullafacente eh e poi te mh
 PKP090	t'abitui in quel modo cioè tipo marco penso che sia stato l'unico che dal dal più basso è passato a una scuola de livello superiore
 PKP089	da eh
-PKP089	ma infatti io lì mai capito come mai avrà fatto cosé stu salto
-PKP090	ma perché gli era presa la voglia de studia' tutta insieme
+PKP089	# ma infatti io lì mai capito come mai avrà fatto cosé stu salto
+PKP090	ma perché gli era presa la voglia de studia tutta insieme
 PKP089	perché ha detto
 PKP089	no perché lui non era cioè io sapevo che lo pigliavan in giro a scuola
 PKP088	no
@@ -210,13 +210,13 @@ PKP088	io penso de si
 PKP090	io no
 PKP089	secondo me è venuta la no n~
 PKP090	perché comunque è passato dall'ipsia all'ipsia non fai niente eh
-PKP090	cioè è passato dall'ipsia a ragioneria dai
-PKP089	no el s'è secondo me perché lui è ito lì perché magari
+PKP090	cioè è passato dall'ipsia a ragioneria cioè dai
+PKP089	# no el s'è secondo me perché lui è ito lì perché magari
 PKP088	ma non andava all'itis
 PKP090	ts
 PKP088	ah l'ipsia
 PKP089	no ipsia
-PKP089	secondo me è ito
+PKP089	# secondo me è ito
 PKP090	o l'ipsia l'itis no sicuro
 PKP089	no ipsia l'it~ eh
 PKP090	o ipsia mh o scuola no alberghiero no
@@ -245,7 +245,7 @@ PKP090	eh vedi
 PKP089	ah vedi
 PKP090	te l'ho detto eh
 PKP089	e c'è
-PKP090	infatti ho detto alberghiero ma volevo di' agraria e non m'artornava infatti ho detto ipsia no però è simile
+PKP090	# infatti ho detto alberghiero ma volevo di' agraria e non m'artornava infatti ho detto ipsia no però è simile
 PKP088	non è ipsia agraria
 PKP090	cioè non è simile ma son le scuole che fai meno comunque
 PKP088	si
@@ -257,16 +257,16 @@ PKP090	i pomodori l'insalata insomma tutto cosé
 PKP089	mhmh
 PKP089	e io te dicevo la vale la~ sto pesce che l'em preso dell'eurospin che era anche buono che era pulito
 PKP088	mh
-PKP089	dopo quando semo artornati su sta casa a sangiustino l'ha
+PKP089	# dopo quando semo artornati su sta casa a sangiustino l'ha
 PKP090	ma che pesce era
 PKP089	gli ha~
 PKP089	c'aveva la testa una coda e due occhi
 PKP090	anche le gambe
 PKP090	lau
-PKP089	no non lo so mo' il nome de preciso non me li ricordo però so che stefano eh semo iti~ perché semo iti a fa' la spesa tutti insieme gli ha fatto voglio questo
+PKP089	# no non lo so mo' il nome de preciso non me li ricordo però so che stefano eh semo iti~ perché semo iti a fa' la spesa tutti insieme gli ha fatto voglio questo
 PKP090	mhmh
-PKP089	gli ho fatto scusa ma come fai a saperlo se te piace oppure no e si eh va bene ha preso questo cioè alla fine era buono però t'ho detto dopo semo artornati a casa
-PKP089	la valeria gli ha tolto come se dice quell'affare che c'ha el pesce
+PKP089	# gli ho fatto scusa ma come fai a saperlo se te piace oppure no e si eh va bene ha preso questo cioè alla fine era buono però t'ho detto dopo semo artornati a casa
+PKP089	# la valeria gli ha tolto come se dice quell'affare che c'ha el pesce
 PKP088	le lische
 PKP088	no
 PKP089	quell'affare sopra
@@ -332,8 +332,8 @@ PKP088	che m'ha fatto la mia mamma c'era il rosmarino
 PKP089	eh se
 PKP088	però se vedeva e lo scartavo
 PKP089	se
-PKP089	mh se perché dopo dopo quand'el mangi eh c'armane xxx
-PKP090	preferisci quando c'è l'odore ma te piace mangiarlo
+PKP089	# mh se perché dopo dopo quand'el mangi eh c'armane xxx
+PKP090	preferisci quando c'è l'odore ma non te piace mangiarlo
 PKP088	non me piace da mangiarlo
 PKP088	si
 PKP089	se che te~ eh se
@@ -343,7 +343,7 @@ PKP089	macinato fino fino
 PKP088	macinato
 PKP090	no ma io se c'è l'mangio cioè non me f~ cioè tipo oggi sulla pasta uno mangia eh e lo sente de meno però
 PKP089	no anch'io
-PKP089	però certo quando dopo lo sento che a volte me armane incastrato fra i denti me dà fastidio
+PKP089	# però certo quando dopo lo sento che a volte me armane incastrato fra i denti me dà fastidio
 PKP090	oggi che c'è mischiato con lo spritz questo
 PKP088	prosecchino
 PKP089	prosecco è spritz e sprite tonica come si chiama
@@ -356,8 +356,8 @@ PKP089	però quel vinello oggi m'ha portato un po'
 PKP090	non è bevuto uno spritz e ba~ ah a arezzo anche lì era buono un sacco
 PKP089	quello ah el s'è che s~ su pel corso in piazza grande
 PKP090	su
-PKP089	ci so' andata con stefano e la valeria ho preso lo spritz pink pink spritz
 PKP090	s
+PKP089	ci so' andata con stefano e la valeria ho preso lo spritz pink pink spritz
 PKP090	lì lo fan buono eh
 PKP090	se ma comunque
 PKP090	no io spritz e basta
@@ -375,7 +375,7 @@ PKP089	io ascolta la mh el stefano ha preso mh el negroni
 PKP089	m~ scusa no el negroni el montenegro
 PKP090	mh
 PKP089	c~ costa tre o quattr'euro
-PKP089	massimo cinque to'
+PKP089	massimo cinque to
 PKP089	la valeria ha preso el sex on the beach
 PKP090	ma voi siete andati a oddio come sichiama
 PKP089	quello che ci siete andate voi
@@ -444,7 +444,7 @@ PKP089	però è fortino me sa perché la mia collega a parte che lei n'beve tant
 PKP089	lei
 PKP089	era andata a fa' l'aperitivo quindi sei sette che ore era
 PKP089	con le su~ con la sua amica ha preso un hu~ ugo
-PKP089	e gli ha detto alla sua collega guarda non lo finisco tutto che doppo c'ho da gi' al lavoro
+PKP089	# e gli ha detto alla sua collega guarda non lo finisco tutto che doppo c'ho da gi' al lavoro
 PKP089	parte che lei non beve
 PKP090	vabbè anche noi adesso semo fatte
 PKP089	quindi
@@ -452,8 +452,9 @@ PKP089	ambé
 PKP090	se beve tutto
 PKP089	ah e io con stefano
 PKP088	tu
-PKP090	vabbè anche voi cioè tu m'arcordo dalla spagna c~ che è bevuto de tutto e de più mo niente
+PKP090	# vabbè anche voi cioè tu m'arcordo dalla spagna c~ che è bevuto de tutto e de più mo niente
 PKP089	io con stefano tanto
+PKP089	infatti
 PKP090	eh
 PKP088	no adesso so' diventata astemia
 PKP088	s~
@@ -482,7 +483,7 @@ PKP088	alla colazione cioè
 PKP089	eh guarda che anche stefano gli ha detto se prendem~ fagl~ fa~ famogli prende quello
 PKP089	posso prende ha detto ah guardate che mo' se non me piace dopo me incazzo invece ha detto ah buono ah 'l mirtillo
 PKP090	vabbè ma quella è tutta frutta ci sta che è buono
-PKP089	eh insomma pu' dopo en de~ gli ho detto prendemo anche qualcosa da mangia'
+PKP089	eh insomma pu' dopo en de~ gli ho detto prendemo anche qualcosa da mangia
 PKP090	sempre alle logge vasari
 PKP089	se em preso c'era tipo el tagliere co~ c'era scritto che c'era la ciaccia
 PKP089	e un po' d'affetato la ciaccia erano quattro pezzetti de ciaccia
@@ -492,14 +493,14 @@ PKP090	un pati' io quando l'ho visto
 PKP089	e due fettine de capocollo dieci euro
 PKP090	me costava
 PKP089	ma diec'euro se v'è a mangia' da qualche parte ma magli de brutto eh cioè
-PKP089	eh so' ita~ so' ita a paghe' gli ho fatto no dai pago io perché se no pagate sempre voi m'avete fatto veni' a cena a pranzo eh
+PKP089	# eh so' ita~ so' ita a paghe gli ho fatto no dai pago io perché se no pagate sempre voi m'avete fatto veni' a cena a pranzo eh
 PKP088	mh
-PKP089	so ita a paghe' citti quanto
+PKP089	# so ita a paghe' citti quanto
 PKP090	eh ci credo
 PKP089	trenta trenta euro
 PKP088	io pure
 PKP089	madonna un colpo m'è preso
-PKP090	eh ci credo noi difatti non ci sè~ non s'è preso niente per accompagna' da bere però c'han portato c'han portato non so se è visto la storia le patatine ma poi quei cosini
+PKP090	eh ci credo noi difatti non ci sè~ non s'è preso niente per accompagna da bere però c'han portato c'han portato non so se è visto la storia le patatine ma poi quei cosini
 PKP089	eh xxx che è un po' de patatine
 PKP089	arancioni che te piaciono a te
 PKP090	che adoro che esatto che quelli non m~ me li portavano mai da nessuna parte e poi c'erano tipo m
@@ -517,7 +518,7 @@ PKP090	ah
 PKP089	uhm
 PKP089	no dai voi ridete ma anche voi lo fate semo italiane voglio di' ma anche non italiani a parte che stefano m'ha detto che lui non li piglia mai gli ho fatto tu s'è gran un gran stupido
 PKP088	dai se fa tutti così mo dai diciamo la verità
-PKP090	oh ma noi s'avev~ no a noi ce l'avevon dati quando s'era andati in francia t'arcordi quella quella ce l'aveva regalati però
+PKP090	# oh ma noi s'avev~ no a noi ce l'avevon dati quando s'era andati in francia t'arcordi quella quella ce l'aveva regalati però
 PKP089	eh quelli eron buoni eh eron de~ eron de quella marca famosa che fanno loro eh
 PKP088	che è
 PKP088	i campioncini
@@ -532,7 +533,7 @@ PKP090	poi l'avei detto
 PKP088	non la conosco poi non el so
 PKP089	è una una no noné una catena è un negozio che fa i profumi bagnoschiuma ma cioè roba
 PKP089	ehm che fanno loro che è buona te li fan paga' però è buona c~
-PKP090	no comunque volevo di'
+PKP090	no comunque che volevo di'
 PKP090	ah io l'unica volta che eh cioè io
 PKP090	le uniche volte che non tocco cibo è se magari
 PKP090	esco con uno che so' in imbarazzo
@@ -577,14 +578,14 @@ PKP090	era in sintesi amorosa
 PKP089	eh e noi che semo è detto che me vu sposa' prima
 PKP088	che vuol di sintesi amoro~
 PKP090	niente vuol di' che non c'ho
-PKP089	si ma prima m'è detto che me volevi sposa' mo' non me vu' sposa' più
 PKP090	xxx
+PKP089	si ma prima m'è detto che me volevi sposa mo' non me vu' sposa' più
 PKP088	che non c'hai
 PKP090	non c'ho lo spasimante
 PKP088	ah ah
 PKP090	eh
 PKP089	eh prima m'è detto che me volei sposa' perché te faccio le cose che te piacciono tanto xxx
-PKP090	no ma non è capito io non è che te voleo sposa'
+PKP090	no ma non è capito io non è che te voleo sposa
 PKP090	io te volevo assume come cuoca
 PKP089	a me me l'ha detto tipo de serviz~ xxx
 PKP088	eh
@@ -600,12 +601,12 @@ PKP090	però
 PKP090	probabile
 PKP088	in futuro
 PKP088	te paga
-PKP089	no me so' offesa
 PKP090	oppure fai il pranzo fai il pranzo per te
+PKP089	no me so' offesa
 PKP090	e mentre cucini per te cucini anche per me e la mi famiglia però te pago lo stesso
 PKP089	e gli avanzi li dò a te
-PKP089	allora prendemo una ascolta me que vicino a casa nostra fan le case quando qualcuno compra la terra che non so chi la comprerà
 PKP090	vabbè
+PKP089	allora prendemo una ascolta me que vicino a casa nostra fan le case quando qualcuno compra la terra che non so chi la comprerà
 PKP089	o se compra la casa se fa se divide in due che dici
 PKP090	infatti
 PKP090	eh infatti non la pigliamo tanto lontano perché se no
@@ -639,19 +640,19 @@ PKP088	non lo so
 PKP088	e quindi ho detto pel momento porta solo
 PKP090	da bere
 PKP089	le patatine
-PKP088	da bere le patatine ste robe qua e poi nel caso 'insomma te s'archiama
+PKP088	# da bere le patatine ste robe qua e poi nel caso 'insomma te s'archiama
 PKP089	vediamo
 PKP090	eh
 PKP088	emh e infatti me va via me fa io t'ho detto fa come te pare perché non ho capito nient~
 PKP088	mh eh
 PKP088	insomma gli ho detto eh se~ senti però ho capito che non è capito niente però devi dimme qualcosa perché io non è che posso decide il tu cibo
-PKP089	eh come stefano s'era a mangia' alla pieve vecchia e gli dico che che vuoi mangia' quel che vuoi tu ma come quel che voglio io
+PKP089	eh come stefano s'era a mangia alla pieve vecchia e gli dico che che vuoi mangia' quel che vuoi tu ma come quel che voglio io
 PKP089	se non te piace la pasta che ne so io te posso prende le tagliatelle ai funghi e a te non te piace che ne so io mica so' te
 PKP088	eh
 PKP089	eh me fa incazza' dopo
 PKP088	quindi
-PKP088	niente archiamo quello lì eh me fa no io volevo el tagliere va bene
-PKP088	allora archiamo quello lì e gli faccio ah oltre le patatine xxx e le olive porta anche il tagliere
+PKP088	# niente archiamo quello lì eh me fa no io volevo el tagliere va bene
+PKP088	# allora archiamo quello lì e gli faccio ah oltre le patatine xxx e le olive porta anche il tagliere
 PKP088	quindi ci portano sto tagl~ è quello che è vis~
 PKP090	le patatine e le olive te le avrebbero portate comunque o gliele avete chieste voi
 PKP088	mh no chiesto io
@@ -661,7 +662,7 @@ PKP088	no
 PKP088	no eh si
 PKP088	ehm allora mh
 PKP088	che poi è quello che ho messo su su la storia
-PKP090	ah io nm'arcordo n'è messe tante
+PKP090	# ah io nm'arcordo n'è messe tante
 PKP089	ah xxx
 PKP088	vabbè comunque c'era il salame prosciutto formaggio cioè non è che c'era tanto eh
 PKP089	ah ho capito quale se
@@ -688,7 +689,7 @@ PKP088	spendi una quarantina
 PKP089	no infatti
 PKP088	eh
 PKP088	eh ma infatti se spendeva meno a pranzo che a fa' l'aperitivo
-PKP089	ma io noi s'enniti a firenze do~ ah quel giorno ha pagato lui quando s'enniti a fa' l'aperitivo
+PKP089	# ma io noi s'enniti a firenze do~ ah quel giorno ha pagato lui quando s'enniti a fa' l'aperitivo
 PKP090	ora è vero che adesso con l'aperitivo mangi abbastanza che ci ceni anche eh però
 PKP089	em preso uno spritz
 PKP088	si ma uno con quello non ci cenavi
@@ -715,7 +716,7 @@ PKP089	ma la salsa tartufata a lui non gli piace tanto
 PKP090	madonna io prendo sempre quella salsa tartufata crudo
 PKP088	eh io ho preso
 PKP089	le~ c~ ho visto che a roma fanno la carbonara tipo el panino con la carbonara non el so c'è l~ l'ovo ho visto
-PKP090	me ricordo
+PKP090	non me ricordo
 PKP088	mhmh
 PKP088	si ma non me ispira un gran~
 PKP090	quella che è preso tu michi a me non me ispirava perché a me quella carne
@@ -738,8 +739,8 @@ PKP088	sì carpaccio
 PKP090	però nonlo sapevo che la facessero anche in quel modo
 PKP090	xxx
 PKP088	no il mio fratello ne ha presa una che io non l'ho presa perché c'era i carciofi
-PKP089	mh
 PKP090	mh
+PKP089	mh
 PKP088	era
 PKP088	emh mh 'sper~ come si chiama
 PKP088	l~ col f~ la finocchiona
@@ -756,11 +757,11 @@ PKP088	non lo so era buona comunque eh poi un'antra cosa non me ricordo no quell
 PKP089	mh
 PKP088	mhmh
 PKP090	più della tua
-PKP088	no eh non me sarebbe piaciuta perché c'era la crema de carciofi quindi non l'avrei mangiata
+PKP088	no eh non me sarebbe piaciuta perché c'era la crema de carciofi quindi non l'avrei mangiata però
 PKP088	cioè la mia me piaceva tanto
 PKP090	però a me me piacciono più quelle del cassero
 PKP090	mh
-PKP089	eh insomma te dicevo s'enniti su sto bar che è vicino al ponte vecchio emo preso uno spritz lui ha preso sempre mh un bicchiere de sto montenegro che è così
+PKP089	# eh insomma te dicevo s'enniti su sto bar che è vicino al ponte vecchio emo preso uno spritz lui ha preso sempre mh un bicchiere de sto montenegro che è così
 PKP089	però eh s~ fan tutti cosè
 PKP090	poco
 PKP089	eh e col ghiaccio sempre
@@ -770,7 +771,7 @@ PKP088	io non ho idea
 PKP090	cioè son simili io cioè ne ho sentito uno dei due ma non me ricordo manco quale dei due ho assaggiato
 PKP089	eh e insomma dopo niente emo ordinato ste cose c'han portato ma cosè
 PKP089	una ciotolina con le patatine cosè e basta
-PKP089	so ita al bagno gli ho detto me raccomando non pagare me raccomando non pagare so' ita al bagno ha pagato
+PKP089	# so ita al bagno gli ho detto me raccomando non pagare me raccomando non pagare so' ita al bagno ha pagato
 PKP090	lo sai no
 PKP089	gli ho fatto quando è pagato gli ho detto perché so' curiosa diciott'euro quanto gli ho detto diciotto euro non em preso niente eh
 PKP089	diciotto euro
@@ -782,9 +783,9 @@ PKP090	a arezzo è visto 'ndo c'è zara
 PKP089	mh
 PKP090	visto che c'è un barrettino davanti lì accanto lì c'ero andata con la paola
 PKP089	un bar lì accanto
-PKP088	si si s'era andati a fa'
-PKP089	io no
+PKP088	si si s'era andati a fa
 PKP090	io me sa che avevo preso uno spritz la paola aveva preso un analcolico che me sembra che era tutto verde e non gli riusciva a berlo perché diceva che mh era tristo eh quindi l'ho b~ ho bevuto anche il suo
+PKP089	io no
 PKP089	ah
 PKP090	perché era un sacco buono cioè me l'ha fatto senti' era bonissimo se tanto el doveva butta'
 PKP089	se no è fatto bene
@@ -798,8 +799,8 @@ PKP089	mh
 PKP088	hanno snocciolato un albero
 PKP090	xxx cioè è vero tipo una busta intorno alle noccioline c'è chi te ne porta troppe e chi poche ma tante
 PKP089	mh
-PKP089	eh le patatine
-PKP090	mh un po' de xxx e le patatine però nel senso de quanTITÀ tante che in due non le finisci sicuro
+PKP089	eh insomma le patatine
+PKP090	mh un po' de xxx e le patatine però nel senso de quantità tante che in due non le finisci sicuro
 PKP089	tante
 PKP089	come per esempio al caffè delle stanze te portono tipo io quando c'ero andata con stefano ha portato un coso de patatine bel~ grande e poi ci ha portato anche i taralli
 PKP090	mhmh
@@ -820,9 +821,9 @@ PKP090	a me solo se so' a stomaco vuoto
 PKP090	e se bevo tanti bicchieri se no zero
 PKP090	ecco la mia mamma aveva bevuto un goccio de vino subito gli veva fatto perché mh ci sta non è abituata ma
 PKP088	giu dopo mangio vedi io
-PKP089	eh ma devi mangia'
+PKP089	eh ma devi mangia
 PKP088	vedi che mangio no
-PKP090	eh ma infatti se son portate giù per boh in realta' eron gia' GIÙ però nel senso da mangia' cioè io so' piena da oggi quindi non è che non è questione
+PKP090	eh ma infatti se son portategiù perboh in realta' eron gia' giù però nel senso da mangia cioè io so' piena da oggi quindi non è che non è questione
 PKP089	io b~ no io veramente
 PKP088	per me io ho anch'io mangiato però io
 PKP088	anch'io ho mangiato oggi
@@ -836,7 +837,7 @@ PKP088	oh
 PKP090	non porta' viaogli cosa
 PKP089	l'apro tutto
 PKP088	se sta' a fulmina'
-PKP088	ma io il giorno anche se mangio poi la sera dopo m'arviene fame
+PKP088	# ma io il giorno anche se mangio poi la sera dopo m'arviene fame
 PKP090	no a me dipende
 PKP089	ma no a me
 PKP090	cioè tipo per natale
@@ -844,7 +845,7 @@ PKP089	no io devo mangia' meno assolutamente che da qui a estate
 PKP090	ho mangiato
 PKP090	per cioè nonostante avevo mangiato tanto
 PKP089	la prova costume proprio se fa direttamente a inverno un'antra volta perché
-PKP090	no per natale nonostante il giorno avevo mangiato tanto la sera ho armangiato tipo un po' de carne un po' d'avanzi ma per pasquetta cioè ap~ penso che parte che va beh mh
+PKP090	# no per natale nonostante il giorno avevo mangiato tanto la sera ho armangiato tipo un po' de carne un po' d'avanzi ma per pasquetta cioè ap~ penso che parte che va beh mh
 PKP090	s'è preso forse troppe robe perché s'è preso vabbè un piatto de mh
 PKP090	tagliolini tipo con xxx eh si
 PKP088	eh racconta de la mh del papeete
@@ -861,7 +862,7 @@ PKP090	che erono poche invece c'han portato ste due fritture piene d'animali inc
 PKP088	scusa una cosa
 PKP090	cioè perché
 PKP090	e quindi cioè ce n'era tantissimi io tipo già ero un po' fuori
-PKP090	eh niente dopo so' andata al bagno me so' svotata so' artornata ma c'era sta frittura che per finira quindi ho mangiato cosi' tanto che la sera non ho toccato cibo so' andata a letto e ero cotta
+PKP090	# eh niente dopo so' andata al bagno me so' svotata so' artornata ma c'era sta frittura che per finira quindi ho mangiato cosi' tanto che la sera non ho toccato cibo so' andata a letto e ero cotta
 PKP090	e niente a pasquetta è andata bene semo arivati mh non tanto presto semo and~ avem fatto un giro
 PKP088	mh
 PKP090	e s'è beccato la michela mh mariachiari tutto el gruppo loro
@@ -880,7 +881,7 @@ PKP088	un'altro
 PKP089	vicino al papeete
 PKP088	vicino a quello de prima se
 PKP090	eh e tra l'altro lì c'era alessio tutti loro su quello stesso bagno
-PKP090	e dopo niente c'era uno che fissava in una maniera impressionante tipo io quando so' artornata dal bagno questo rideva ma io ero sul mi mondo quindi non è che ho capito tanto
+PKP090	# e dopo niente c'era uno che fissava in una maniera impressionante tipo io quando so' artornata dal bagno questo rideva ma io ero sul mi mondo quindi non è che ho capito tanto
 PKP090	poi dopo niente semo andati a fa' le foto ni spiaggia
 PKP090	ma ci semo stati pochissimo perché non se son guardate manco se venivono bene o no
 PKP090	poi dopo semo andate al papeete e niente era pieno de gente c'era s'è visto max bianchini si chiama cosé
@@ -890,7 +891,7 @@ PKP090	ehm con la giulia neri insommaci sem fermati
 PKP088	boh non so chi sia
 PKP090	come no l'amica dell'alessia e de la marcella
 PKP088	boh
-PKP090	vabbè ci sem fermati a parla':, poi dopo boh s'è vista la gente c'era tutto il gruppo pieve c'era francesco che ogli tanto passavon lì davanti eh e niente la musica
+PKP090	vabbè ci sem fermati a parla poi dopo boh s'è vista la gente c'era tutto il gruppo pieve c'era francesco che ogli tanto passavon lì davanti eh e niente la musica
 PKP090	rivedibile
 PKP088	brutta
 PKP090	brut~
@@ -901,8 +902,8 @@ PKP088	boh non lo so
 PKP088	riempibile non lo so
 PKP090	no
 PKP090	boh vabbè
-PKP090	non so quel che volevo di' ribevo eh emh però eh niente vabbè dai ci sem divertiti poi dopo semo artornati
-PKP088	ma a che ora sete arvenuti
+PKP090	# non so quel che volevo di ribevo eh emh però eh niente vabbè dai ci sem divertiti poi dopo semo artornati
+PKP088	# ma a che ora sete arvenuti
 PKP090	ehm non tanto presto verso le nove
 PKP090	verso le nove più o meno se
 PKP088	a casa
@@ -925,7 +926,7 @@ PKP088	ah allora
 PKP090	ma magari perché inizion prima per ste feste così
 PKP088	io me ricordo che quand'era
 PKP088	quando era tanto checi s'era andate
-PKP090	comunque solo noi se va al papeete e non s'arcatta nessuno
+PKP090	# comunque solo noi se va al papeete e non s'arcatta nessuno
 PKP090	solo noi
 PKP088	vabbè
 PKP089	ma perché voi
@@ -936,7 +937,7 @@ PKP090	esatto
 PKP090	è vero non ci s'è avvicinato nessuno
 PKP089	io e la martina se fa come da veri umbrish che non ci frega niente
 PKP090	amò
-PKP090	st'estate eri con me e non ho arcattato nessun xxx quindi
+PKP090	# st'estate eri con me e non ho arcattato nessun xxx quindi
 PKP089	no
 PKP090	al papeete eri tu
 PKP089	come no
@@ -969,7 +970,7 @@ PKP090	eh niente che se festeggia
 PKP089	no perché scusa tu stè parlando con me e la michela che io sto con un ragazzo che è fuori dall'italia fuori dall'unione europea e lei sta con un ragazzo sempre fuori dall'italia
 PKP090	si ma amò
 PKP090	io non li trovo neanche nella zona pensa se me cacano fuori dall'unione europea
-PKP089	patti se vieni in albania arcatti come un coso guarda che me là è vero eh me l'ha detto anche la vittoria
+PKP089	# patti se vieni in albania arcatti come un coso guarda che me là è vero eh me l'ha detto anche la vittoria
 PKP090	fuori dall'europa
 PKP090	da~
 PKP089	ha detto che a la valeria c'han provato tanto con lei cioè voglio di' la valeria è grande eh
@@ -1030,8 +1031,8 @@ PKP090	vabbè io non li conosco però da quello che c'è raccontato
 PKP088	no no 'infatti
 PKP090	filip me sembra tutt'altro tipo d~ de rossi
 PKP088	mh
-PKP090	cioè comunque magari c'avevi meno fiducia de rossi che il vedevi de PIÙ che con filip eh dipende anche dalla persona con cui te ci rapporti
-PKP088	che con lui s~ no è vero ma infattit~ te volevo di'
+PKP090	cioè comunque magari c'avevi meno fiducia de rossi che il vedevi de più che con filip eh dipende anche dalla persona con cui te ci rapporti
+PKP088	che con lui s~ no è vero ma infattit~ te volevo di
 PKP088	sta cosa che prima non l'avrei fatta
 PKP090	xxx
 PKP088	una roba simile
@@ -1054,7 +1055,7 @@ PKP089	no però per esempio
 PKP089	rossi vero portava avanti la relazione e tutto però cioè nel senso non è che gli dava tante
 PKP089	sicurezze
 PKP088	nie~ niente
-PKP089	perché comunque quando artornava giù
+PKP089	# perché comunque quando artornava giù
 PKP090	eh appunto
 PKP090	cioè nel senso già come quando il chiamavi e lui te diceva non posso parla' perché c'ho i muri
 PKP088	fini
@@ -1081,7 +1082,7 @@ PKP089	eh es~ eh capito
 PKP090	vabbè tanto xxx
 PKP089	però dopo nien~ dopo m'ha detto che era in casa e c'ho avuto le conferme e tutto perché ho chiamato anche la valeria perché insomma io voglio saper peròinsomma
 PKP090	comunque tanto quella la pol trova dappertutto
-PKP089	co~ se però come per esempio lui quela volta che so' ita a ballè con la la monica s'è incazzato perché era geloso non del fatto che un po' anche quello che aveva paura che io gissi a balla' perché almeno conoscevo altri
+PKP089	# co~ se però come per esempio lui quela volta che so' ita a ballè con la la monica s'è incazzato perché era geloso non del fatto che un po' anche quello che aveva paura che io gissi a balla' perché almeno conoscevo altri
 PKP090	xxx
 PKP089	ma a parte quello aveva paura che magari qualcuno cioè me dava noia
 PKP090	si ma tanto quello sta
@@ -1099,11 +1100,11 @@ PKP089	no io ho fatto el a te te l'ho detto no
 PKP089	a le~ no a lei sì perché s'e~ semo andati venerdì sera a mangia' il gelato ma tu non c'eri
 PKP090	quale cosa cioè
 PKP089	a quell'altre la monica sì che me l'aveva chiesto e poi basta
-PKP089	emh praticamente visto che quelle citte a pasqua sono andate a balla' no
+PKP089	# emh praticamente visto che quelle citte a pasqua sono andate a balla' no
 PKP090	mhmh
 PKP089	allora io a balla' c'avrei avuto voglia de andarci però non ci sarei andata per stefano
 PKP090	tu ma tu non eri con stefano al mare
-PKP089	se però a quelle citte gli ho detto ve faccio sapere
+PKP089	# se però a quelle citte gli ho detto ve faccio sapere
 PKP089	in caso ci vengo
 PKP090	ci andavi da te
 PKP089	perché insomma te l'ho detto la voglia ce l'avevo però dopo me dispiaceva per stefano perché comunque dopo tutti quei mesi che non ci se vedeva
@@ -1114,7 +1115,7 @@ PKP089	aspetta
 PKP089	aspetta
 PKP090	tu no
 PKP089	famme fini' de parla'
-PKP088	certo io ci volevo anda' a roma
+PKP088	certo io ci volevo anda a roma
 PKP090	cioè alla fine se è uno de~ se è uno de vita de mondo
 PKP090	cioè ci se diverte cioè ora ovviamente con le amiche te diverti de più
 PKP089	se
@@ -1136,7 +1137,7 @@ PKP090	no è vero io me dive~ però va beh se s~ fossi fidanzata e le mie amiche
 PKP089	no io te dico insomma io do~ dopo no
 PKP089	io non ci sarei andata
 PKP088	no ma che controlli
-PKP089	non ci sarei andata perché stefano era tanto tempo che non l'arvedevo e volevo sta' magari più con lui che con ste citte però ho l'ho buttata là sullo scherzo gli ho detto a lui che ci andavo
+PKP089	# non ci sarei andata perché stefano era tanto tempo che non l'arvedevo e volevo sta' magari più con lui che con ste citte però ho l'ho buttata là sullo scherzo gli ho detto a lui che ci andavo
 PKP090	eh appunto ci dovevi anda' con lui
 PKP089	gli ho fatto guarda vado a ballare gli ho detto poi quando ero arivata a casa sua che era per pasqua però ero vestita comunque elegante ma ero a casa
 PKP089	cioè nel senso non è che me so' cambiata a posta per fagli vede' cioè ero già cambiata in quel modo
@@ -1148,26 +1149,26 @@ PKP089	e gli ho detto perché gli ho detto
 PKP089	perché a me a balla' non me piace
 PKP090	ma che dice' triste
 PKP089	non me piace perché c'è troppa musica alta
-PKP089	che gli ho detto s'è solo to gli ho fatto tu comunque da picino ci gii e facevi cose che meglio che n'se dice
-PKP089	perché è meglio che non se dice gli ho detto quindi vedi de sta' zitto
+PKP089	# che gli ho detto s'è solo to gli ho fatto tu comunque da picino ci gii e facevi cose che meglio che n'se dice
+PKP089	perché è meglio che non se dice gli ho dettoquindi vedi de sta' zitto
 PKP089	poi gli ho fatto punto due scusame ma tanto s'è con me
 PKP089	eh ma a me non me piace
 PKP089	gli ho fatto se gli ho fatto va bene io comunque non ci sarei andata a prescinde' perché volevo sta' più con te
-PKP089	essendo che comunque a te a balla' non te piaceva bene gli ho detto però gli ho detto arcordate
+PKP089	# essendo che comunque a te a balla' non te piaceva bene gli ho detto però gli ho detto arcordate
 PKP089	che quando vieni
-PKP089	a estate gli ho fatto non te pensa' che io sto sto s~ a casa eh gli ho detto perché se quelle citte el venerdì
+PKP089	# a estate gli ho fatto non te pensa' che io sto sto s~ a casa eh gli ho detto perché se quelle citte el venerdì
 PKP090	festa grande
 PKP089	insomma vedemo anche che turni che faccio gli ho detto se loro vano a ballè ci vado anch'io gli ho dettoeh
 PKP089	e non me devi rompe
 PKP090	festa grande
 PKP090	io spero che st'estate li facciano i nu il mamacita
 PKP089	le scatole
-PKP089	oddio
 PKP090	alle piscine
+PKP089	oddio
 PKP090	de solito el fanno là d'estate
 PKP089	anche lì
-PKP090	pero' a balla' alle piscine non è che me diverte tanto troppo dispersivo
-PKP089	io ci volevo anda'
+PKP090	pero' a BALLA alle piscine non è che me diverte tanto troppo dispersivo
+PKP089	io ci volevo anda
 PKP088	eh
 PKP090	non se vede niente
 PKP089	no bello
@@ -1175,7 +1176,7 @@ PKP090	preferisco il green
 PKP088	non se vede niente
 PKP090	è vero
 PKP088	che vu vede'
-PKP090	cioè metti che te interessa uno non el becchi mai perché
+PKP090	cioè metti che te interessa uno non el becchi mai perché cioè
 PKP089	eh
 PKP090	no è troppo dispersivo non è che me piace ta~ cioè preferisco el green ma che pericoloso
 PKP089	no lì è pericoloso
@@ -1185,8 +1186,8 @@ PKP089	con le tue amiche non da sola
 PKP090	vabbè n quando mai s'è andata a balla' da sola
 PKP089	mai
 PKP090	appunto
-PKP089	perché è rischioso me chiudo anche in macchina
 PKP090	no vabbè però preferisco il green
+PKP089	perché è rischioso me chiudo anche in macchina
 PKP090	ve ricordate que veglioni del green
 PKP089	se
 PKP089	oddio belli
@@ -1196,13 +1197,13 @@ PKP089	ma quanto semo vecchi
 PKP088	gabry ponte
 PKP089	gabry ponte
 PKP090	madonna lì tanta roba eh
-PKP089	emh c'arpensi che mh c'era quella cazzo de
+PKP089	# emh c'arpensi che mh c'era quella cazzo de
 PKP090	avevono aperto anche la parte de là
 PKP090	ah poi quella xxx
 PKP089	se
-PKP088	che nl'anno riaperta mai PIÙ
-PKP089	tu c'arpensi
-PKP089	se ma tu c'arpensi che quella sera s'era noi
+PKP088	che nl'anno riaperta mai più
+PKP089	# tu c'arpensi
+PKP089	# se ma tu c'arpensi che quella sera s'era noi
 PKP090	ridi
 PKP089	più la maddalena
 PKP089	che c'erano quei tardoni che m'avevon messo le cannucce sula testa
@@ -1212,14 +1213,14 @@ PKP089	che xxx
 PKP090	io gli avevo detto che ero fidanzata con la maddalena una roba del genere a qualcuno
 PKP088	xxx
 PKP090	io e la madda s'era fidanzate
-PKP090	comunque è vero oh io e la ma~ io devo usci' con la madda perché con la madda arcatto sempre
+PKP090	# comunque è vero oh io e la ma~ io devo usci' con la madda perché con la madda arcatto sempre
 PKP088	eh ma in due
 PKP089	grazie
 PKP090	eh ma con voi no
 PKP089	grazie
 PKP090	solo con la madda
 PKP090	cioè è vero tipo quello dei coltelli ci s'è avvicinato a me e alla maddalena
-PKP088	coltel
+PKP088	i coltel
 PKP090	quei due tardoni perché voi non avete ascoltato gli audio ci sono avvicinati non l'avete ascoltati vero
 PKP088	no
 PKP090	venerdì sera a me e alla maddalena ci se sono avvicinati due tardoni
@@ -1238,7 +1239,7 @@ PKP090	e che nerini xxx
 PKP088	eh aaaaahhh
 PKP089	olé olé olé olé
 PKP090	poi ho detto mh ah de un'antro tardone
-PKP089	scusa me poi prendere un foglio e una penna che segno perché se no non me l'arcordo tutte
+PKP089	# scusa me poi prendere un foglio e una penna che segno perché se no non me l'arcordo tutte
 PKP090	no
 PKP088	no no
 PKP090	eh ne ho dette tante ho detto tutto quello che è capitato ieri sera eh
@@ -1254,7 +1255,7 @@ PKP090	se era a mangia' le piadine e m'ha fatto così
 PKP089	se
 PKP089	ma non è che ha salutava ma~ magari qualcuno
 PKP090	m'ha sorriso con la bocca ma non ero sicura cioè nel senso ho detto boh magari cioè saluterà un'antra anche se non salutava
-PKP089	ah come quella volta quando s'enniti a castello
+PKP089	# ah come quella volta quando s'enniti a castello
 PKP090	anche se me sembrava anche se me sembrava che me guardasse
 PKP090	poi dopo me sembra che un'altra volta uguale el venerdì sera ha fissato tutto el tempo
 PKP089	mh
@@ -1267,8 +1268,8 @@ PKP089	è certo che la gente è strana
 PKP090	che poi xxx
 PKP088	sempre quello
 PKP090	mh
-PKP089	coi tua
 PKP090	m'ha detto ciao
+PKP089	coi tua
 PKP090	mh
 PKP089	coi tua
 PKP090	no l'ho detto che ero con la maddalena
@@ -1280,9 +1281,9 @@ PKP089	te l'ho chie~
 PKP090	davvero c'avevo el c'avevo el muro quindi per forza ha salutato a me era davanti e m'ha fatto ciao
 PKP090	eh xxx salutato
 PKP088	a te te salutano tutti comunque
-PKP089	e dopo dice che non arcatta
+PKP089	# e dopo dice che non arcatta
 PKP090	eh
-PKP089	non lo vedi quanto arcatta
+PKP089	# non lo vedi quanto arcatta
 PKP090	ma poi fissava tutta la sera la maddalena m'ha detto che è anche fidanzato che sta con quella che lavora alla farmacia a sangiustino
 PKP089	però gente un po' strana
 PKP089	ah
@@ -1293,7 +1294,7 @@ PKP090	un po' bionda
 PKP089	ci n'è tante me lè
 PKP088	che ne so
 PKP089	eh ma comunque ho capito
-PKP090	eh me sa che non so se è la citta de xxx
+PKP090	# eh me sa che non so se è la citta de xxx
 PKP089	mh se va alla grande
 PKP088	a te te l'aveva raccontato no tu c'eri
 PKP090	xxx
@@ -1315,7 +1316,7 @@ PKP088	fè le finte
 PKP088	fé le finte
 PKP088	oh non fé le finte
 PKP088	com'era giu
-PKP089	ma tu t'aarcordi 'gli cosa
+PKP089	# ma tu t'aarcordi 'gli cosa
 PKP090	decisamente
 PKP089	perfetto
 PKP090	poi tipo
@@ -1387,7 +1388,7 @@ PKP089	quindi avevo fatto che avevo fatto la treccia
 PKP089	che avevo detto eh le li mh come si dice le mh
 PKP089	cioè non li lascio sciolti perché si vede di più e quindi o faccio la coda o fatto la o f~ o faccio la treccia ho fatto la treccia poi ero struccata tutto il giorno ho detto vabbè
 PKP089	oggi non mi trucco trucco e l'unica cosa che metto è il mascara
-PKP089	oh madonna ho detto ma proprio oggi dovevi venirmi no a di' ma sei la sorella della matilde venivi il giorno prima almeno ero un pochino arleccata
+PKP089	# oh madonna ho detto ma proprio oggi dovevi venirmi no a di' ma sei la sorella della matilde venivi il giorno prima almeno ero un pochino arleccata
 PKP090	tanto se è fidanzato anzi siete fidanzati entrambi
 PKP089	sì no vabbè niente non mi frega
 PKP089	cioè eh lui eh c'ha l'età di giammarco non è n~
@@ -1415,7 +1416,7 @@ PKP089	eh io non ci son mai uscita io non ce la farei cioè boh
 PKP088	ah
 PKP090	ma io preferisco
 PKP089	no
-PKP089	io boh gliela faccio
+PKP089	# io boh gliela faccio
 PKP090	sì perché la gente così grande
 PKP089	cioè nel senso dipende
 PKP088	è più matura
@@ -1424,8 +1425,8 @@ PKP089	ma non penso
 PKP088	no
 PKP090	cioè dipende cioè allora
 PKP088	dalla persona
-PKP089	allora
 PKP090	apriamo una parentesi
+PKP089	allora
 PKP089	chiudiamola subito
 PKP090	solitamente dovrebbero essere più maturi
 PKP088	eh
@@ -1511,8 +1512,8 @@ PKP089	eh lui ce n'ha trentacinque la mia sorella st'anno ne finisce
 PKP090	tua sorella ce n'ha cinque in più di noi
 PKP089	uh le scarpe
 PKP089	sì
-PKP089	quindi in teoria c'ha ventisette
 PKP090	quindi c'ha ventisette
+PKP089	quindi in teoria c'ha ventisette
 PKP088	eh ma a quell'età lì non si vede
 PKP089	otto
 PKP088	cioè quando c'hanno l'età tipo così no
@@ -1621,8 +1622,8 @@ PKP089	rari rari eh
 PKP089	tipo anche la collega di mia sorella che stava con il fratello
 PKP089	eh del calciatore vede'
 PKP089	eh sono stati sedici anni
-PKP089	considera che s'eran messi insieme sono non so quant'ann~ non so quant'anni c'ha lei ma saràun anno meno della matilde o un anno più non mi ricordo
 PKP090	porca troia
+PKP089	considera che s'eran messi insieme sono non so quant'ann~ non so quant'anni c'ha lei ma saràun anno meno della matilde o un anno più non mi ricordo
 PKP089	eh si sono sposati dopo un mese sono divorziati che bella cosa vero
 PKP090	cioè va beh perché lei
 PKP088	un po' superficiale
@@ -1703,7 +1704,7 @@ PKP089	ma infatti quello non glielo dovevi di' perché gliel'hai detto
 PKP088	cioè infatti mi sembra che cioè sembra che ti condanni da sola
 PKP090	non lo so ma perché mh cioè nel senso
 PKP088	ma perché ti condanni da sola agli occhi di quello
-PKP089	infatti porinno pure quello gli hai detto
+PKP089	# infatti porinno pure quello gli hai detto
 PKP090	no ma perché lui lo considero come un amico come se parlassi con voi
 PKP089	ma sì infatti eh verame~ ma infatti guarda questo
 PKP090	cioè non c'ho per esempio di lui
@@ -1718,7 +1719,7 @@ PKP089	guarda questo l'abbiamo capito quando già uscivi con elio
 PKP090	non so perché
 PKP089	che quando l'hai visto oh oh ha incominciato a sbracciare questa
 PKP090	quando
-PKP089	ma come n'ci arpensi quella sera davanti al ristoran~ eh
+PKP089	# ma come n'ci arpensi quella sera davanti al ristoran~ eh
 PKP090	a marzo
 PKP089	hai capito
 PKP090	sì ma cioè no veramente sembravo caso umano anch'io
@@ -1735,7 +1736,7 @@ PKP088	è più caso umano lui
 PKP090	mica son passata da una che ci voleva provare
 PKP088	ts macchè
 PKP090	no tu m'hai detto provocante x
-PKP088	no c he un po' lo gli rispondevi un po' a battutina
+PKP088	no c eh un po' lo gli rispondevi un po' a battutina
 PKP090	sì quello sempre
 PKP088	eh
 PKP090	ma appunto con lui lo faccio perché

@@ -75,8 +75,8 @@ PKP070	salute
 PKP073	che ho cominciato a studiare ho detto cacchio se è di storia dell'arte il mio alpha test comincia dal~ dalla preistoria e io ho iniziato a studiare storia dell'arte dalla preistoria quindi ho detto vabbè facciamo un riepilogo generale però ho detto cacchio mi sembra troppa roba perché comunque
 PKP073	in cinque anni in un liceo artistico fai tanta roba rispetto a chi fa tre anni storia dell'arte in tutti gli altri licei
 PKP072	guarda come ci addita schifato
-PKP070	sì infatti
 PKP072	l'hai visto
+PKP070	sì infatti
 PKP074	che hai da dire tu la mamma l'ha chiamato in mille lingue
 PKP073	no
 PKP072	mh
@@ -138,7 +138,7 @@ PKP073	a marzo
 PKP072	quando
 PKP073	mamma non fare xx
 PKP072	mamma non sta suggerir guardami me guardami me guardam~
-PKP074	no no no no no non glielo dico perché vara veramente sono s~
+PKP074	# no no no no no non glielo dico perché vara veramente sono s~
 PKP073	diciotto
 PKP073	cinque marzo
 PKP072	mh
@@ -171,7 +171,7 @@ PKP074	infatti me li faccio tagliare
 PKP074	no lunghi no
 PKP074	domani faccio tagliare da papi
 PKP074	no pa~ appena sta bene papà
-PKP073	area sono i miei capelli ho fatto diciannove anni
+PKP073	# area sono i miei capelli ho fatto diciannove anni
 PKP074	hai visto
 PKP074	avevi avuto sempre senza brufoli e cose da quando tieni i capelli qua guard~ guarda che fronte che hai fatto
 PKP070	eh normale
@@ -352,7 +352,7 @@ PKP072	acqua frizzi
 PKP070	sì grazie
 PKP072	ma non è questo
 PKP073	e quindi sì è stato xxx
-PKP072	tu areo vuoi bere
+PKP072	# tu areo vuoi bere
 PKP073	no
 PKP073	oddio
 PKP073	ma guarda che puoi dire a ale che c'è c'è il succo o alla pera o all'ace
@@ -461,8 +461,8 @@ PKP070	no no quelle no
 PKP072	non le voglio
 PKP070	no
 PKP072	no no no
-PKP070	sintetiche sì
 PKP072	no no no no ma su tante foto mettono sai la pelliccia dell'anima~
+PKP070	sintetiche sì
 PKP070	sì fanno un po' s~ ansia
 PKP072	che
 PKP072	no non fa per me
@@ -584,8 +584,8 @@ PKP072	scusate ma
 PKP072	adesso che c'è la doccia vuoi che non uso la doccia
 PKP070	ma cos'è
 PKP073	c'è sta qua fa tipo tutte le grafiche con il no~ i nomi
-PKP070	ah ah
 PKP073	tipo
+PKP070	ah ah
 PKP070	okay
 PKP073	ma è stra figo
 PKP070	sì sì
@@ -597,7 +597,7 @@ PKP070	ah beh sì l'altra volta a casa mia tipo
 PKP072	era un po'
 PKP073	cioè è stra figo tipo
 PKP072	de bojo
-PKP072	de boja
+PKP072	# de boja
 PKP072	vabbè
 PKP070	boia
 PKP072	in italiano
@@ -767,8 +767,8 @@ PKP073	mile millesettecentosei
 PKP073	diciassette zero sei milesettecentosei
 PKP070	eh millesettecentosei
 PKP073	è since millesettecentosei
-PKP070	vabbè non ho capito lasciamo stare non ce la faccio
 PKP073	ce la puoi fare
+PKP070	vabbè non ho capito lasciamo stare non ce la faccio
 PKP070	comunque scotta lo stesso eh cioè nel senso per me tipo quando metti l'acqua dentro al boiler
 PKP070	xxx è è già sì boiler
 PKP073	al boiler
@@ -916,8 +916,8 @@ PKP073	questi qua sono so~
 PKP072	dagli zii
 PKP070	ma sono delle pers~ cioè nel senso sì okay sono delle persone
 PKP072	sì son delle persone vere
-PKP070	ma tipo verdi sono cioè è il cognome
 PKP073	sì ma
+PKP070	ma tipo verdi sono cioè è il cognome
 PKP072	sono quelli che abitano qua in fondo
 PKP073	sì ma hanno cioè sono strani
 PKP073	come tutta la nostra famiglia
@@ -1053,8 +1053,8 @@ PKP070	e l'ilaria una mia amica
 PKP070	eh lei ha duecentoventi o duecentoquaranta una roba del genere
 PKP073	poi mi ricordo che tipo la sara ancora l'anno scorso al grest forse fa ragazzi se io perd~ se se vedete che ho la clessidra voi s~ voi chiamatemi cioè voi mandatemi un messaggio su whatsapp e tutto
 PKP070	sì sì sì
-PKP070	ma anch'io tipo
 PKP072	un mio compagno di classe manda i meme di questa pagina qua sul gruppo della classe
+PKP070	ma anch'io tipo
 PKP070	sto male sto male
 PKP070	stra da boomer
 PKP073	è del vabbè è del settantuno quindi
@@ -1107,8 +1107,8 @@ PKP070	no wikipedia dice
 PKP073	ma non è non c'è tipo generazione ipsilon e generazione ics
 PKP072	divisione gene~
 PKP070	diversamente
-PKP070	eh sì sì sì no sì infa~ allora
 PKP072	anche io ho sentito una roba del genere di generazione
+PKP070	eh sì sì sì no sì infa~ allora
 PKP073	cioè io pensavo che gene~ che generazione zeta fosse tipo quella da
 PKP070	adess~ no zeta
 PKP072	mh xx
@@ -1236,8 +1236,8 @@ PKP070	o duemilasette una roba del genere comunque verso i duemiladieci
 PKP073	verso fini
 PKP073	boia mamma mia raga
 PKP073	cioè voi duemila~ nel duemiladieci sembra stra tardi per fare un figlio
-PKP070	cosa vuol di~
 PKP073	cioè s~ cioè nel senso mi se~ diciamo come lo spiego
+PKP070	cosa vuol di~
 PKP070	c~ c'è gente che fa figli nel duemilaeventi
 PKP072	le peculiarità per la mia generazione è ricettivi aperti poco interessati alla politica pigri attenti all'immagine e alla gloria tolleranti lasciano la casa in tarda età e non tagliano il cordone ombelicale
 PKP073	tu hanno ragione proprio tu
@@ -1254,11 +1254,11 @@ PKP073	e co
 PKP072	sono iperconnessi sono multimediali sono autonomi mirano alla rapidità più che all'accuratezza sono attenti ai problemi globali riescono a gestire il flusso continuo di informazioni
 PKP073	sono credo entropi
 PKP073	ah sì sono prop~ sono proprio io
-PKP070	okay va beh ci sta
+PKP070	okay vabbè ci sta
 PKP072	cioè io praticamente son una merda
 PKP070	sì praticamente
-PKP073	ne laura ma va beh non s~ n~ il n~ l'importante non è esserlo è s~ è sentirselo
-PKP070	poi va beh ci sono le eccezioni
+PKP073	ne laura ma vabbè non s~ n~ il n~ l'importante non è esserlo è s~ è sentirselo
+PKP070	poi vabbè ci sono le eccezioni
 PKP073	sì infatti c'è la laura che
 PKP073	mh interferenza raga scusate
 PKP072	le generazioni spiegate
@@ -1458,8 +1458,8 @@ PKP072	perché quando io avevo quindici anni il tempo non passava mai
 PKP070	mh
 PKP072	cioè
 PKP070	cioè non vedevi l'ora che passasse
-PKP070	invece adesso vorrei tipo tornare indietro nel tempo
 PKP072	eh ed eri tipo
+PKP070	invece adesso vorrei tipo tornare indietro nel tempo
 PKP072	a me sembra assurdo che stia già per ritornare il mio compleanno
 PKP070	mh
 PKP072	cioè una volta era tipo madonna mancano ancora tre mesi
@@ -1521,8 +1521,8 @@ PKP070	xx xx però
 PKP070	sì sì sì
 PKP072	che ho sempre mangiato
 PKP070	sì sì sì
-PKP070	salute
 PKP072	salute
+PKP070	salute
 PKP073	grazie
 PKP072	mh se mangio qualcosa la sera che anche se l'ho sempre mangiato okay
 PKP072	adesso è un terno al lotto
@@ -1544,7 +1544,7 @@ PKP072	e che tu sei uno e tu sei uno che mangia tutto
 PKP070	sì
 PKP070	tu infatti ancora meno robe
 PKP072	cioè io mangio dieci robe bon se tutto va ben
-PKP072	cioè dies robe xxx cavarne sinque ciao basta
+PKP072	# cioè dies robe xxx cavarne sinque ciao basta
 PKP072	trovami che non mangio più niente bevo acqua e neanche tutte le acque perché non tutte le acque mi piacciono
 PKP072	quindi è abbastanza c~ complex come situazione
 PKP070	come vita la vita in generale

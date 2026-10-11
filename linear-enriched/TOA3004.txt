@@ -45,8 +45,8 @@ TO031	dai fighissimo qui. cinque euro e venti, tre panini.
 TO040	è possibile che io senta un retrogusto di peperone?
 TO031	no.
 TO038	forse anche a carla è caduto per terra.
-TO040	((ride))
 TO031	((ride))
+TO040	((ride))
 TO038	credo che sia tra l'altro più pulito il mio caduto per terra, che=carla in quel negozio.
 TO040	((ride))
 TO031	beh (di sicuro) qua,
@@ -56,11 +56,11 @@ TO038	cioè se il pavimento fosse stato sopra la pizza sarebbe stato peggio.
 TO031	beh sì. (.) per tutti noi tra l'altro.
 TO039	poi l'olio è protettivo.
 TO038	m:h,
-TO039	[x che i batteri ci sguisciano sopra e scivolano via].
 TO038	[no comunque i peperoni non mi sembra. (.) forse nelle olive],
+TO039	[x che i batteri ci sguisciano sopra e scivolano via].
 TO040	mh?
-TO040	[le oli]ve sanno di peperone.
 TO031	[forse],
+TO040	[le oli]ve sanno di peperone.
 TO038	sì?
 TO040	vero?
 TO040	((ride))
@@ -162,8 +162,8 @@ TO040	[e di tutta la droga che hai addosso marchino]
 TO040	((ride))
 TO038	ma soprattutto sarebbe interessante, siccome è un lavoro per l'università dire chi sono i componenti di questo (.) bellissimo pran[zo].
 TO031	[no no].
-TO039	[no].
 TO040	[sì].
+TO039	[no].
 TO031	assolutamente.
 TO040	sì.
 TO039	no.
@@ -258,8 +258,8 @@ TO031	[s:pa]gnolo, sparito?
 TO038	spagnolo:, non so dove sia la spagna.
 TO031	((ride))
 TO038	euskal herria.
-TO039	((ride))
 TO031	((ride))
+TO039	((ride))
 TO038	gora euskal herria askatuta.
 TO031	non esiste. non esiste la spagna.
 TO038	no vabbè adesso a parte le battute non lo so dove:: però,
@@ -270,8 +270,8 @@ TO031	tu sei ca~ saresti ca=[xx],
 TO040	[occhio] che vi sgubbano l'idea.
 TO038	pro[vaci].
 TO031	[xx]xx.
-TO039	((ride))
 TO040	((ride))
+TO039	((ride))
 TO038	provaci prof
 TO031	try.
 TO040	((ride))
@@ -302,7 +302,7 @@ TO038	se ti va,
 TO038	apposta del posto
 TO038	con prodotti magari anche non super conosciuti perché c'è soltanto una una stato una fase in cui si usava il vino,
 TO038	che richiamava il periodo futurista anzi che era il periodo futurista che oggi è tornata un pochettino minorissima, mh minoritaria,
-TO038	che chiamava i cocktail le polibibite, perché nel futurismo non si poteva (.) [] utilizzare una parola straniera come cocktail. non avrebbe funzionato ovviamente in quel contesto culturale,
+TO038	che chiamava i cocktail le polibibite, perché nel futurismo non si poteva (.) utilizzare una parola straniera come cocktail. non avrebbe funzionato ovviamente in quel contesto culturale,
 TO031	[mh=mh],
 TO038	e tipo c'è il giostra e c'è della roba fatta col barbe:ra, la cedrata tassoni, ah secondo me quelli là:,
 TO038	buh non hanno troppo senso. però, una roba un po' più riflettuta:: (.) si potrebbe pensare.
@@ -313,16 +313,16 @@ TO038	ma, effettivamente, quando uno ha un'idea commer~ non è un'idea particola
 TO031	[però dici che proprio xx],
 TO031	qual era il tuo ultimo lavo~, ((ride)) sei (.) è un'idea un po' di tutte le:: (.) le cose che non si possono dire di:: mariolino.
 TO039	ma la cosa più importante è, (.) ce l'abbiamo sto scontrino?
-TO039	[quel]lo dei caffè.
 TO038	[sì].
+TO039	[quel]lo dei caffè.
 TO031	caffettino,
 TO039	[mh].
 TO038	[ce l'ho], e ce l'ho separato dalla pizza.
 TO038	[così non ci son già] strappi che torni dipo mezz'o:ra,
 TO039	[molto bene].
 TO031	che gen[te].
-TO039	[ah bravissimo. gliel'hai chiesto tu]?
 TO038	[siamo a~ (.) eh sì]. (.) sì sì. dico per favore me li può soltanto fare separati, perché (.) se no tutte le volte c'è la scenetta che io devo rimanere lì a mangiare la pizza come se fossi un bo:a,
+TO039	[ah bravissimo. gliel'hai chiesto tu]?
 TO038	nel frattempo io sono io quello del caffè che hai appena strappato il biglietto.
 TO031	va bene.
 TO031	an[diamo di] caffè.
@@ -332,8 +332,8 @@ TO039	[(yeah.)]
 TO040	sì.
 TO031	tu hai mangiato? hai finito?
 TO040	sì.
-TO039	[ti ha fatto] schifo.
 TO031	[tu pure]?
+TO039	[ti ha fatto] schifo.
 TO040	no. era buonis[simo].
 TO038	[c'è una] peperonata ancora da finire::,
 TO040	((ride))
@@ -351,7 +351,7 @@ TO038	solo (un po',) solo [mozzarel~].
 TO040	[mangia] solo la mo~. ma marci [non mangia niente].
 TO038	[ma tipo ricotta, ze]ro?
 TO039	nelle torte salate.
-TO040	marci dei ((nome_band)) []
+TO040	marci dei ((nome_band))
 TO039	[allora. dicia]mo una cosa. crudo, niente.
 TO031	((ride))
 TO039	cioè crudo, solo mozza.
@@ -590,8 +590,8 @@ TO039	[il] figlio [di zucchero].
 TO040	[perché lei è bravis]sima.
 TO040	anche tu.
 TO040	((ride))
-TO039	[il figlio di succhero],
 TO040	[avete sentito] la nostra [conversazione]?
+TO039	[il figlio di succhero],
 TO031	[lei xxx le] faccio minchia,
 TO038	[sì. scusate. avevo promes]so che l'avrei riportato ma,
 TO040	[sì grazie mille].
@@ -629,8 +629,8 @@ TO038	ti sta mettendo paura eh,
 TO040	((ride))
 TO038	NO. NON È VERO,
 TO031	al muro.
-TO039	[grazie a me].
 TO038	[ma no::].
+TO039	[grazie a me].
 TO038	ma poi adesso tu vai a valencia,
 TO038	ti fermerai lì di più. non dovevi prendere il biglietto di ritorno.
 TO031	pensa che ho preso prima il biglietto di ritor[no].
@@ -642,7 +642,7 @@ TO031	buono.
 TO031	poi tutti e due da torino. magni:fico.
 TO031	mi accompagni a casel[le]?
 TO038	[è come] un medico che chiama già il carro funebre prima di curarti comunque non è giusto.
-TO031	beh. se sai che costa poco::: il carro funebre, dici vabbè dai muoio:: nel [duemila=e:::h,]
+TO031	beh. se sai che costa poco::: il carro funebre, dici vabbè dai muoio:: nel [duemila=e:::h],
 TO038	[ti porto a caselle? sì].
 TO038	a cena: o a:: pre~ ((ride))
 TO031	no no. la mattina.
@@ -660,8 +660,8 @@ TO031	ecco questa è una:: bella [notizia].
 TO040	[credo].
 TO031	devo pagarla.
 TO038	possiamo pensare a cose diverse dato che ci sta:, queste cose le sa già il professore
-TO039	((ride))
 TO040	((ride))
+TO039	((ride))
 TO031	professorone.
 TO031	ma::=m:h (.) il quattordici aprile?
 TO031	qualcosa della rivoluzione francese.

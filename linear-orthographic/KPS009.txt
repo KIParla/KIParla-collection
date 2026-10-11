@@ -1,5 +1,5 @@
 PKP039	posso salutare
-PKP041	mena
+PKP041	# mena
 PKP041	ma cos'è iceberg
 PKP040	yesice berg come dice la nonna
 PKP040	io mi compro sempre la ice berg
@@ -19,7 +19,7 @@ PKP040	che scemo con la biada
 PKP039	biano biano con la biada
 PKP040	questo è aceto balsamico quello è olio il sale lo volete o anche no
 PKP042	sisi
-PKP039	ca cierto
+PKP039	# ca cierto
 PKP040	tu si
 PKP041	no io no
 PKP042	che insalata è senza sale
@@ -65,7 +65,7 @@ PKP041	non parlare sott~
 PKP042	mh
 PKP040	che hai detto
 PKP042	forse lo mangerò a parte
-PKP039	ei pensaci sa fani comu la nonna clara
+PKP039	# ei pensaci sa fani comu la nonna clara
 PKP041	mamma mia che stress pranzare con papà e la nonna clara
 PKP040	si
 PKP041	quando hai lezione alle tredici e quaranta cinque
@@ -77,7 +77,7 @@ PKP039	ca scusa
 PKP039	anna se non hai le prove taci
 PKP040	lau
 PKP041	un po' troppo no
-PKP039	be ca alla fine olio è
+PKP039	# be ca alla fine olio è
 PKP041	eh no mi stava prendendo
 PKP040	piacendo
 PKP041	che manca no sale no
@@ -101,7 +101,7 @@ PKP041	vuol dire che c'è gente che sta molto peggio di lui
 PKP040	no la madre magari basta
 PKP042	vuol dire anche che c'è gente fa
 PKP040	basta che ha preso qualche compenso in più la madre e è scattata di di gradone eh
-PKP041	sangu però
+PKP041	# sangu però
 PKP039	carlomonte il figlio è scalato in dietro di cento
 PKP041	si però voglio dire papà è un disabilee mo non so quan~ se ha il monoreddito
 PKP039	eh no non sono monoreddito
@@ -114,7 +114,7 @@ PKP041	ah già
 PKP042	mhmh
 PKP040	ha preso i compensi purtroppo devi farti bene i conti
 PKP039	anna come puoi aver pensato che io non abbia messo i tovaglioli nel tavolo
-PKP040	pà vi ci la spicci sa
+PKP040	# pà vi ci la spicci sa
 PKP040	mi passi~ ah poi poi me la passi
 PKP042	mh
 PKP040	poco poco
@@ -165,9 +165,9 @@ PKP039	mh
 PKP040	ma comunque
 PKP040	non è che nelle altre ore si può uscire
 PKP040	bisogna comunque motivare pure gli spostamenti
-PKP040	non è ca
+PKP040	# non è ca
 PKP041	beh
-PKP040	vanno a passeggio li cristiani
+PKP040	# vanno a passeggio li cristiani
 PKP041	dal parrucchiere
 PKP040	al parrucchiere si può andare
 PKP039	il problema è che lo devi tenere scritto sopra l'autocertificazione quello è xx
@@ -178,7 +178,7 @@ PKP041	no perché non è vietato
 PKP040	x tu gli dici solo che xxx
 PKP041	è sconsigliato ma non è vietato
 PKP041	non cominciamo eh
-PKP040	sini lau ca tu a do vai
+PKP040	# sini lau ca tu a do vai
 PKP040	arrivi a casa di marco xxx
 PKP041	ho capito però se ti fermano per andare a casa di xx
 PKP040	puoi andare
@@ -188,8 +188,8 @@ PKP042	cosa cartolinea
 PKP040	eh
 PKP042	sta lavorando proprio assai cartoinea eh mamma mia
 PKP040	certi stanno lavorando sta quello che fa i computer a noi
-PKP039	quelli pazienti mia sono
-PKP040	ha detto sto nfucato di lavoro
+PKP039	# quelli pazienti mia sono
+PKP040	# ha detto sto nfucato di lavoro
 PKP040	i computer il prezzo dei computer sono schizzati
 PKP039	ci credo
 PKP041	eh ma già che gli universitari sono rimasti giù
@@ -214,7 +214,7 @@ PKP042	che proprio al decathlon non ce ne sono
 PKP040	mi passi un pochino di tonno per favore scusami ti sei messo là
 PKP039	domani vuoi fare ginnastica
 PKP042	cosa
-PKP040	no non deve fare sforzi lu piccinnu
+PKP040	# no non deve fare sforzi lu piccinnu
 PKP042	mh
 PKP040	allora vieni pres~ no deve studiare
 PKP041	domani c'ho l'esposizione io
@@ -223,7 +223,7 @@ PKP041	dei gruppi di francese ma non so se sto
 PKP040	comunque abbiamo detto che li mettiamo nella macchina e li scendiamo con la macchina
 PKP039	domani arrivano settanta sacchi di pellet da quindici chili l'uno
 PKP040	si ha pensato bene di farsi piglia~ portare la cosa poi n~ na non ha pensato
-PKP039	marce' non solo lo faccio di sobbra p~ pure tu m'ha rimproverari che non lo faccio bene
+PKP039	# marce' non solo lo faccio di sobbra p~ pure tu m'ha rimproverari che non lo faccio bene
 PKP040	non c'hai pensato x che sarebbe stato difficile portare giù
 PKP039	ho pensato
 PKP040	comunque nella macchina almeno cinque ce ne stanno
@@ -242,7 +242,7 @@ PKP042	io potrei esserci comunque se serve eh
 PKP042	domani perché io ho lezione soltanto
 PKP040	devi studiare
 PKP042	beh vabbè
-PKP040	vabbe vieni a studiare qua
+PKP040	vabbè vieni a studiare qua
 PKP042	mh a memoria me lo sono imparato un altro poco il programma
 PKP040	embeh
 PKP039	avrei dovuto far trovare il bancale fuori quando abbiamo preso così con la
@@ -270,12 +270,12 @@ PKP041	buonissimo
 PKP042	io ho preferito mangiarlo
 PKP041	eh si alla fine
 PKP039	ma oggi fanno
-PKP039	vattela a pesca addai
+PKP039	# vattela a pesca addai
 PKP041	x factor
 PKP039	mh
 PKP042	roccuzzo
 PKP040	poi è ritornata all'asilo
-PKP040	ma quisto fa lu mangiafuoco no
+PKP040	# ma quisto fa lu mangiafuoco no
 PKP041	mangiafuoco
 PKP040	secondo te lau
 PKP042	no questo qua ce l'ha la faccia da uno che fa divani per i cani cioè
@@ -295,7 +295,7 @@ PKP042	no è un mestiere
 PKP041	eh lo so ma eri ironico
 PKP042	è certo che ero ironico
 PKP041	e allora e ci che vuoi da me
-PKP041	ti ttacchi
+PKP041	# ti ttacchi
 PKP040	finite quella finite quella cosa
 PKP042	io ho tempo ancora
 PKP041	cioè sono sazia eh ho mangiato giusto perché c'è
@@ -317,17 +317,17 @@ PKP039	potrebbe essere stato quello ad avermi dato dolore l'altro giorno
 PKP039	ico scusi ma il dolore adesso ce l'ha
 PKP039	no mi è passato
 PKP039	e allora cioè ho detto le ho tolto quello là di dietro che si muoveva di più le è passato il dolore
-PKP039	ciononostante qua~ tu mi dici può darsi che quello che c'ho mo era quello che mi aveva fatto male perciò lo dobbiamo togliere ma allora si fessa propria
+PKP039	# ciononostante qua~ tu mi dici può darsi che quello che c'ho mo era quello che mi aveva fatto male perciò lo dobbiamo togliere ma allora si fessa propria
 PKP040	marce' vedi male che vada fai questo della vita
 PKP039	dici che non era quello là che mi aveva fatto male
 PKP040	dici che ti mangi tutto
-PKP040	ti puè mangià puru lu fuecu no
-PKP040	puru li calabbresi si mangiano il fuoco
+PKP040	# ti puè mangià puru lu fuecu no
+PKP040	# puru li calabbresi si mangiano il fuoco
 PKP042	mh comunque mio cugino lo fa questo
 PKP040	davvero
-PKP041	buscia
+PKP041	# buscia
 PKP042	mio cugino marco tondo
-PKP041	ce faci
+PKP041	# ce faci
 PKP041	no non lo voglio vedere non lo voglio vedere
 PKP042	non ci sono i video ci sono le foto
 PKP039	chi è marco tondo fammi capire
@@ -415,7 +415,7 @@ PKP041	allora posso arrivare a duecento
 PKP040	che ogni volta io mi porto l'orzo dico cla no l'orzo non lo posso mangiare
 PKP040	perché si sta ce~ togliendo tutto il frumento che forse c'ha un'intolleranza al frumento
 PKP039	xxx
-PKP040	poi stavano li pasticcini e si ndé mangiati tre
+PKP040	# poi stavano li pasticcini e si ndé mangiati tre
 PKP040	no no questo io no devo comprare la rosa canina perché la rosa canina è una vitamina c
 PKP041	tu non ti prendevi la~ la rosa canina
 PKP040	xxx
@@ -448,4 +448,4 @@ PKP039	passiamo al dolce passiamo al dolce
 PKP042	mi è piaciuta molto questa
 PKP041	no basta fine io mi alzo
 PKP039	allora i liquori
-PKP040	none io vado a farmi una doccia
+PKP040	# none io vado a farmi una doccia

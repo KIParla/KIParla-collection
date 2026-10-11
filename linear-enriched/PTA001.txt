@@ -30,7 +30,7 @@ TOI001	son dipendente
 TOR001	okay
 TOI001	per adesso
 TOR001	((ride)) hai mire future?
-TOI001	°((ride))°
+TOI001	((ride))
 TOI001	be:h son lavori che da far da dipendente a lungo non si (possono)
 TOR001	è pesante
 TOI001	no, è che: (.) come: i mestieri
@@ -62,8 +62,8 @@ TOI001	[e]: quindi:
 TOI001	tutto ciò che comporta essere un libero professionista
 TOI001	che può essere anche un gestore di un'attività (.) tipo una pizzeria d'asporto [insomma]
 TOR001	[mh]mh
-TOI001	[che] °mhmh°
 TOR001	[okay]
+TOI001	[che] °mhmh°
 TOR001	va bene
 TOR001	ehm: pensi che torino sia un buon posto per lavorare?
 TOI001	((sospira)) credo che sia=un buon posto per lavorare
@@ -253,8 +253,8 @@ TOR001	e:h a=parte il lavoro >trovi tutto<, in zona dove abiti o comunque anche 
 TOR001	cioè tipo spesa: o::
 TOR001	boh
 TOI001	è un comune di quattromila abitanti
-TOI001	c(io)è:
 TOR001	((ride))
+TOI001	c(io)è:
 TOI001	sì: trovi: bene o male di tutto
 TOI001	non c'è una lavanderia per d[ire]
 TOR001	[mh]
@@ -312,7 +312,7 @@ TOI001	e c'hanno messo seimila anni per fare una linea finché gli agnelli >non 
 TOI001	e adesso (.) aspetteremo altri seimila anni in qualche altra linea
 TOR001	((ride))
 TOI001	mh >quindi in verità< le cose non son cambiate (.) tanto
-TOR001	°((ride))°
+TOR001	((ride))
 TOR002	ma è in costruzione però la due vero?
 TOI001	no
 TOI001	adesso fa~ hanno:: hanno appena approvato i fon[di (.) dopo]: undic'anni
@@ -347,8 +347,8 @@ TOI001	è: una bella città (.) piena di storia::
 TOI001	e::h se vuoi divertirti: (.) ci son divertimenti:
 TOI001	e::h se invece vuoi stare tranquillo puoi anche tranquillamente riuscirci insomma:
 TOI001	credo che:: in confronto a molte altre città ci sia molto verde,
-TOI001	[a tori]no
 TOR001	[mhmh]
+TOI001	[a tori]no
 TOI001	e::hm
 TOI001	quindi sì (.) in generale mi piace come città
 TOR001	sei legato anche tu a torino come: marco e come tutti i torinesi che ho conosciuto?
@@ -422,7 +422,7 @@ TOR001	((ride))
 TOI001	xx sogno (.) sogno ad occhi aperti xx
 TOR001	((ride))
 TOI001	siccome non riesco a sognare mentre dormo sogno durante il giorno
-TOR001	°((ride))° cosa devi fare per tenere: curata casa?
+TOR001	((ride)) cosa devi fare per tenere: curata casa?
 TOR001	dicevi dalla parte esterna no?
 TOI001	sì (.) be::h essendo una casa grossa ha anche la parte interna
 TOR001	((ride))
@@ -430,7 +430,7 @@ TOI001	solo che ((ride)) penso che
 TOI001	se (.) eh trecento metri quadri da solo da pulire sono difficili comunque
 TOI001	e:hm::
 TOI001	m:=>mi è sempre piaciuta l'attività sportiva quindi faccio attività sportiva<
-TOR001	mhmh (.) [] cosa fai?
+TOR001	mhmh (.) cosa fai?
 TOI001	[e:]
 TOI001	adesso in questo mome~
 TOR001	((ride))
@@ -467,7 +467,7 @@ TOI001	c(io)è (.) oh
 TOR002	xx[x]
 TOI001	[vi]vi a torino e sei della juve
 TOR001	((ride))
-TOR002	°((ride))°
+TOR002	((ride))
 TOI001	ma sei pazza
 TOR001	ti ricordi come hai scelto la tua squadra?
 TOI001	e::h beh tutto è nato da bambino quando mia madre mi disse un giorno che se tifavo juve mio padre non sarebbe più tornato a casa
@@ -475,14 +475,14 @@ TOR001	((ride))
 TOI001	((ride))
 TOI001	poi da lì: >eh< (.) è un po':: e=loro sono gli sfigati di turno gli altri vincono sempre: quindi fan tenerezza: (.) e allora
 TOI001	e::
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	diciamo che
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	xxx
 TOI001	sei condannato a non veder mai una coppa alza~ ar~ alzata però
 TOI001	per carità
-TOI001	[son sim]pati[ci]
 TOR001	[beh però]
+TOI001	[son sim]pati[ci]
 TOR001	[son] più simpatici (.) [infatti]
 TOI001	[sì: chiarame]n~
 TOR001	c(io)è
@@ -492,7 +492,7 @@ TOI001	[sì:: sì: (.) non ti fai] il sangue amaro
 TOR001	((ride))
 TOI001	e se non giochi la finale di champions non rischi di vincerla
 TOR001	((ride))
-TOR002	°((ride))°
+TOR002	((ride))
 TOI001	quindi va bene anche così (x)
 TOR001	ascolti musica?
 TOI001	sì:: (.) sì sì
@@ -559,9 +559,9 @@ TOR001	dimmi dimmi
 TOR002	no volevo fare una domanda [io appena fini]sci [quelle serie]
 TOR001	[vai vai]
 TOR001	[no: no va]i vai f[ai]
-TOR002	#[no] cazzo >la domanda è< spiega il papocc giulio
+TOR002	# [no] cazzo >la domanda è< spiega il papocc giulio
 TOI001	((ride)) #ah il papocc
-TOI001	#e:h il papocc è::
+TOI001	# e:h il papocc è::
 TOR002	ma proprio l'origine::
 TOI001	vabbè diciamo che::
 TOI001	è il nome di un personaggio: de de=delle mie parti
@@ -575,11 +575,11 @@ TOR002	((ride))
 TOI001	e siccome: è un cocktail che: è fresco
 TOI001	e::h
 TOI001	il primo neanche lo senti (.) comunque va giù: abbastanza velocemente
-TOR002	°((ride))°
+TOR002	((ride))
 TOI001	finché a un certo punto non ti alzi più dalla sedia o non ti metti a ridere
-TOR001	°((ride))°
-TOR002	°((ride))°
-TOI001	#papocc più o meno era la stessa cosa (.) insomma non te ne accorgevi però non si alzava più dalla sedia a un certo punto
+TOR001	((ride))
+TOR002	((ride))
+TOI001	# papocc più o meno era la stessa cosa (.) insomma non te ne accorgevi però non si alzava più dalla sedia a un certo punto
 TOR001	((ride))
 TOR002	((ride))
 TOR001	ma non sapevo che era una persona io
@@ -589,7 +589,7 @@ TOI001	papocc
 TOR001	((ride))
 TOR002	((ride))
 TOI001	abita vicino a casa mia
-TOR001	°((ride))°
+TOR001	((ride))
 TOR001	tu mi avevi portato vero?
 TOR001	cioè [io l'ho assaggiato]
 TOR002	[certo (.) è sta]ta una delle nostre prime uscite
@@ -652,16 +652,16 @@ TOR001	dunque
 TOR001	che tipo di film ti piacciono?
 TOI001	o:h oh oh=ehi eh
 TOI001	qui proprio
-TOR002	°((ride))°
+TOR002	((ride))
 TOR001	((ride))
 TOI001	c(io)è spaziamo su qualsiasi cosa
 TOI001	e::h
 TOI001	sicuramente ti posso dire che non mi piacciono le: vacanze di natale boldi e de sica:
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	no
 TOI001	e::hm:
 TOI001	che film mi piacciono? o:h=m::h
-TOI001	se vado da solo: >vado a vedermi se c'è un film francese vado a vedermi un film francese< >(mi son sempre stati) i film francesi< (.) fanno ridere:
+TOI001	se vado da solo: >vado a vedermi se c'è un film francese vado a vedermi un film francese(mi son sempre stati) i film francesi< (.) fanno ridere:
 TOI001	hanno uno humor tutto loro
 TOI001	°e quindi°
 TOR001	tipo?
@@ -671,7 +671,7 @@ TOI001	°e:h come si chiamava?° eh adesso ti devo andare a cercare il titolo du
 TOI001	se no:::
 TOI001	°qualsiasi roba°
 TOI001	spesso non scelgo io (.) faccio scegliere
-TOR001	°((ride))°
+TOR001	((ride))
 TOR002	>(allora)< l'ultimo che ho visto con te mi sa che è dragon trainer ((ride))
 TOI001	è possibile
 TOR001	((ride))
@@ -684,7 +684,7 @@ TOR002	sì
 TOR002	xxx sarà una cacata
 TOI001	sì probabile
 TOI001	ultimamente: molto:: supereroi:: <della minchia> (.) però: >mi portano a vedere quello< e io alla fine: accetto vado insomma
-TOR002	°((ride))°
+TOR002	((ride))
 TOR001	oka:~
 TOR001	((ride))
 TOR001	piacciono dico,
@@ -730,7 +730,7 @@ TOR001	[e:h]
 TOI001	[mi fa]ccio io la do[manda da] so[lo]
 TOR001	[vai]
 TOR001	[e] datti una risposta ((ride))
-TOI001	°((ride))°
+TOI001	((ride))
 TOI001	e::h il contro è che: sei destinato: a::
 TOI001	non avere orari
 TOI001	okay?
@@ -764,7 +764,7 @@ TOI001	anche il fuoco::
 TOR002	anche [il fuoco] ((ride))
 TOI001	[il forne]llo
 TOR001	(il) fornello
-TOR002	ma no: la presa era bella perché °((ride))°
+TOR002	ma no: la presa era bella perché ((ride))
 TOR002	tu non lo sai questo
 TOR001	io non lo so?
 TOI001	no
@@ -777,7 +777,7 @@ TOI001	[mhmh]
 TOR002	finché al mattino lei si sveglia:, xxx
 TOR002	poi faccio guarda cosa abbiamo fatto io e giulio?
 TOR002	o::h, minchia, avete lasciato il frigo staccato:,
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	((ride))
 TOR001	((ride)) (.) ((ride))
 TOR002	o::h, adesso è tutto da buttare,
@@ -848,7 +848,7 @@ TOI001	glielo attacchi sui fili sopra
 TOR002	c(io)è non ho capito
 TOI001	dopo te lo faccio vedere
 TOR001	((ride))
-TOR002	°((ride))°
+TOR002	((ride))
 TOR001	eh però mi sa che è quello
 TOR002	mhmh
 TOR001	no,
@@ -904,7 +904,7 @@ TOR002	((ride))
 TOI001	((ride))
 TOI001	a sedic'anni tu hai presente un sedicienne che entra a casa di uno a far suonare la chitarra la domenica mattina alle otto,
 TOR001	((ride))
-TOR002	(direi di no) °((ride))°
+TOR002	(direi di no) ((ride))
 TOI001	mamma mia (.) gli ho fatto delle cose in quella casa che
 TOR002	((ride))
 TOR001	((ride))
@@ -935,8 +935,8 @@ TOI001	[quindi]::
 TOI001	chi lo sa,
 TOI001	magari a trentatré anni anch'io:
 TOI001	>prenderò di nuovo< il flauto in mano
-TOR002	°((ride))°
-TOR001	°((ride))°
+TOR002	((ride))
+TOR001	((ride))
 TOR001	e calcio che ruolo hai?
 TOI001	e::h a oggi sono un centrocampista centrale
 TOR001	mhmh
@@ -946,7 +946,7 @@ TOI001	e:h ero::
 TOI001	un interno di centro campo
 TOR001	mh,
 TOI001	ho fatto anche la fascia: una volta ma
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	(poi)
 TOI001	lasciam stare
 TOI001	>quando ero più piccolo< facevo il difensore
@@ -968,7 +968,7 @@ TOI001	ma figurati
 TOR001	((ride)) [ma:h scu]sa?
 TOI001	[sparano]
 TOI001	sparano: dietro la porta >xx e fanno solo quello<
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	sono [allucina~]
 TOR002	[xx da cu]i il termine terzinaccio (.) c(io)è:,
 TOI001	sì sei un terzinaccio vuol dire che: tanta corsa
@@ -978,7 +978,7 @@ TOI001	quelli: sono i [brasiliani]
 TOR001	[oh io so]n[o:]
 TOI001	[c(io)è] s[on quattro al mondo che]
 TOR001	[mah ma io sono cresciu]ta amando maldini non mi puoi dir (que)ste robe
-TOI001	°beh°=e::h °((ride))°
+TOI001	°beh°=e::h ((ride))
 TOR001	((ride))
 TOI001	però:,
 TOI001	mi dispiace
@@ -988,14 +988,14 @@ TOI001	verrà ricordato per la storia (.) per i grandi piedi
 TOI001	c(io)è se mi dici un terzino con grandi piedi ti dico cafù
 TOI001	okay,
 TOR001	cafù::?
-TOR002	°((ride))°
+TOR002	((ride))
 TOI001	e:h cafù raga[zzi]
 TOR001	[gr]andi piedi?
 TOI001	eh [°eh°]
 TOR001	[però in effe]tti crossava un sacco (.) [hai ragione: hai ragione]
 TOI001	[e:h (.) ma faceva anche i sombre]ro della gente
 TOR001	((ride)) <[som]b[rero]>
-TOR002	°((ride))°
+TOR002	((ride))
 TOI001	vedi [nedved]
 TOI001	[e::h (.) che] s'è che un pallone d'oro che se n'è presi un paio di fila: in un derby roma lazio
 TOI001	e:h maicon:
@@ -1036,7 +1036,7 @@ TOR002	vabbè tipo chiellini non aveva iniziato esterno:?
 TOI001	>ho capito< (.) ma lui difatti giocava prima:::
 TOI001	ha fatto:
 TOI001	prima di finire adesso che adesso giocano a quattro (.) e difatti adesso >xx< quante cappelle che non fa chiellini
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	okay
 TOI001	però (.) fino all'anno scorso: (.) che son stati anni vincenti loro giocavano in difesa a tre
 TOR001	mh mh
@@ -1049,11 +1049,11 @@ TOI001	che=è [più:]
 TOR001	[mhmh]mh
 TOI001	alla taddei:: quella gente lì insomma
 TOR002	mh
-TOR002	c(io)è <taddei> °((ride))°
+TOR002	c(io)è <taddei> ((ride))
 TOR001	°niente°
-TOR002	°((ride))°
+TOR002	((ride))
 TOR002	chiedigli qual è la sua mossa preferita a calcio e:~=ecco
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	la mia mossa è la rovesciata chiaramente io vi[vo per le rovescia~]
 TOR002	((ride))
 TOR001	[chiara]men[te] ((ride))
@@ -1074,11 +1074,11 @@ TOR002	((ride))
 TOI001	mai vista una cosa del ge~
 TOR001	((ride))
 TOI001	ero <veramente tanto lungo>
-TOR002	((ride)) comunque io c'ero °((ride))°
+TOR002	((ride)) comunque io c'ero ((ride))
 TOI001	>che ne so se quell'anno lì c'eri<
 TOR002	sì sì sì:=ero andato a dormire presto diciamo [ma c]'ero
 TOI001	[°ah°]
-TOI001	°((ride))° ah okay
+TOI001	((ride)) ah okay
 TOR001	((ride))
 TOR002	((ride))
 TOR001	eh ma la rovesciata quante te ne capitano scusa?
@@ -1095,8 +1095,8 @@ TOR001	((ride))
 TOI001	non faccio nulla in velocità (.) okay?
 TOI001	e::
 TOI001	quindi tendo=a fare:: >la mossa kansas city<
-TOR002	°((ride))°
-TOR002	°((ride))°
+TOR002	((ride))
+TOR002	((ride))
 TOR002	((ride))
 TOI001	finta a destra (.) e poi vado a sinistra
 TOI001	>anche perché spesso< mi mettono in galera con dei palloni imbarazzanti quindi
@@ -1106,8 +1106,8 @@ TOI001	e vai da una parte
 TOI001	oppure glielo fai a rientrare con il tunnel
 TOR001	°eh°
 TOR002	°no° in realtà (è) giulio che c'ha i piedi buoni io l'ho visto ((ride)) aspettare ((ride)) il tunnel tornando indietro
-TOI001	°((ride))°
-TOR001	°((ride))°
+TOI001	((ride))
+TOR001	((ride))
 TOR002	e poi ritornare indietro dove doveva [andare]
 TOI001	[vabbè (.) lì] però giocavo con i tuoi amici
 TOI001	e se lo provo a fare in un campo da calcio di seconda o prima categoria,
@@ -1119,7 +1119,7 @@ TOI001	[mi rec]uperano la gamba,
 TOR002	((ride))
 TOR001	((ride))
 TOI001	in un altro stadio
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	°mh eh°
 TOI001	diciamo che: se sali di livello col gioco è più facile per tu~ c(io)è per gente come me è più facile
 TOI001	c(io)è: (.) finche giochi in campi come questi (.) co:n gentaglia che da i palloni male
@@ -1147,7 +1147,7 @@ TOR002	[in e]ccellenza mille[cinque duemi]la?
 TOI001	[sì::]
 TOI001	c'era uno che fa[ceva >xxxx<]
 TOR002	[(beh certo) (.) (magari arriva) dalla ci u]no o ci due
-TOI001	beh ma e:h >xx< >il mio preparatore atletico di una volta< quando ero più piccolo
+TOI001	beh ma e:h >xxil mio preparatore atletico di una volta< quando ero più piccolo
 TOI001	lui che giocava nella prima squadra che era in promozione
 TOI001	lui prendeva milledue in promozione
 TOR002	°<okay>°
@@ -1179,8 +1179,8 @@ TOI001	e::h
 TOI001	>dipende da dove giocavo:< (.) c(io)è:: (.) l'anno scorso ne facevamo tre di allenamenti a settimana
 TOI001	quest'anno: (.) >abbiamo iniziato con tre< fino a settem~ metà ottobre >poi son diventati due<
 TOR001	°mhmh°
-TOI001	[eh=e]:hm:
 TOR001	[eh]
+TOI001	[eh=e]:hm:
 TOI001	(beh) tu guarda già solo::
 TOI001	quello che era mio compagno di squadra (.) ale (.) il biondino
 TOR002	mhmh
@@ -1260,10 +1260,10 @@ TOI001	oltre a lavorare da me
 TOI001	fai anche allenamenti
 TOR001	a::h
 TOI001	mh
-TOI001	però: >quelle cose lì< >anche lì< (.) poi appena cambi squadra però ti fan [fuori eh:], [anche da dipen]dente non credere
+TOI001	però: >quelle cose lìanche lì< (.) poi appena cambi squadra però ti fan [fuori eh:], [anche da dipen]dente non credere
 TOR001	[ciao]
 TOR001	[certo]
-TOR002	°((ride))°
+TOR002	((ride))
 TOR001	eh e rimani a piedi del tut[to a quel] punto
 TOI001	[mh mh]
 TOI001	sì sì
@@ -1311,7 +1311,7 @@ TOI001	[qua a torino], <poco> in verità
 TOR001	eh certo (.) quindi di conseguenza poi chiudono (.) perché una volta che lo sponsor ti taglia i fondi
 TOI001	sì: (.) o comunque=e sei costretto ad avere più sponsor
 TOI001	c(io)è vedi: noi: abbiamo: rino che ci fa le magliette
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	e:h poi abbiamo: quell'altro che:
 TOI001	>che cacchio ne so< che ha: l'autoscuola (.) che mette qualc[osa:]
 TOR001	[°mhmh°]
@@ -1418,7 +1418,7 @@ TOR001	[qui a:] torino c'era il mazdapalace?
 TOR002	sì
 TOR001	davvero?
 TOR002	cert[o]
-TOR001	[c]'era anche a milano °((ride))°
+TOR001	[c]'era anche a milano ((ride))
 TOR002	((ride)) sì: ((ride))
 TOR001	((ride))
 TOI001	beh sì
@@ -1442,8 +1442,8 @@ TOI001	sì
 TOR002	dov'è?
 TOI001	c'era
 TOI001	l'han(no) chiuso quel[lo perché hanno ape]rto l'altro
-TOR001	°((ride))°
-TOR002	°((ride))° [ah appun~]
+TOR001	((ride))
+TOR002	((ride)) [ah appun~]
 TOI001	prima (.) che aprissero l'altro
 TOI001	c'era quello lì aperto
 TOR002	bah
@@ -1470,7 +1470,7 @@ TOI001	>ha cambiato ben poco<
 TOI001	eh
 TOR002	che giochiamo?
 TOR001	>quello che vuoi<
-TOR002	>quello che vuoi< >quello che< vuoi:
+TOR002	>quello che vuoiquello che< vuoi:
 TOI001	>diciamo che< (.) l'unica città che cambia realmente forse è milano
 TOI001	altre città: (.) >eh da noi (è sempre) molto conservatore<
 TOI001	che cosa [cambia],
@@ -1543,8 +1543,8 @@ TOR001	[okay quindi]
 TOI001	[no]
 TOR001	n[o]
 TOI001	[o] peschi
-TOI001	[o giochi]
 TOR001	[o giochi]
+TOI001	[o giochi]
 TOR001	o[kay]
 TOR002	[ah ok]a[y]
 TOR001	[va] [bene]
@@ -1595,8 +1595,8 @@ TOR002	a no aspetta cazzo
 TOR002	e::h=ah
 TOR002	vai
 TOI001	(eh in culo) xx
-TOR002	°((ride))°
-TOR001	°((ride))°
+TOR002	((ride))
+TOR001	((ride))
 TOI001	m:h s[icura]mente è andata un po' avanti: ma non credo: in maniera così folle
 TOR001	[vai]
 TOI001	la città di torino
@@ -1641,7 +1641,7 @@ TOR001	[beh però sono]: vanno insieme no?
 TOR002	[(dov'è) xx]
 TOR002	<un minimo più internazionale lo è> (.) eh
 TOI001	mah internazionale (.) na:h
-TOR001	°((ride))° c(io)è international
+TOR001	((ride)) c(io)è international
 TOI001	n:[on credo]
 TOR001	[tocca a me o tocca a] te?
 TOR002	no ho detto vai tocca a te
@@ -1659,7 +1659,7 @@ TOI001	[eh]
 TOR001	[lui ha detto mila]no eh,
 TOI001	anche
 TOR002	m:h=mila[no]
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	[pe]rché la gente ci va a milano
 TOR001	e perché invece dicevi che milano: ti sembra sempre in evoluzione?
 TOI001	perché hanno un'altra mentalità:
@@ -1678,7 +1678,7 @@ TOR001	[mhmh]
 TOI001	e:hm:
 TOI001	altre città >come ti dico<
 TOI001	parigi:
-TOI001	eh=non >è come milano< >è più come torino< (.) [insomma]
+TOI001	eh=non >è come milanoè più come torino< (.) [insomma]
 TOR001	[mhmh]
 TOI001	e:hm:
 TOI001	è più: residenziale torino in confronto [a milano]
@@ -1694,7 +1694,7 @@ TOR002	eh. secondo me a te
 TOR001	mhmh
 TOI001	ah
 TOI001	°(prenditeli questi x così impari) x°
-TOR001	°((ride))°
+TOR001	((ride))
 TOR001	non lo so è che io a milano conosco di fatto solo persone di lì
 TOR001	c(io)è
 TOR001	no anche persone che vengono da fuori però molte meno
@@ -1715,8 +1715,8 @@ TOR001	che invece ho più su milano ma per
 TOR002	((sbadiglia))
 TOI001	sì
 TOR001	c(io)è
-TOI001	[certo]
 TOR001	[m:h sol]o per (.) >per per caso< (.) non perché perché sia veram[ente così]
+TOI001	[certo]
 TOI001	[però:]
 TOI001	c(io)è se non ci fosse il politecnico a torino
 TOI001	di università (.) chi parte da qualsiasi posto in italia per venire a fare un'università a torino (.) oltre al politecnico,
@@ -1731,8 +1731,8 @@ TOR001	[sicurame][nte]
 TOI001	[sì (.) però obiettivamen]te::
 TOR001	[sicuramente]
 TOI001	c(io)è
-TOI001	[quello è un s]uo caso partico~ r[aro]
 TOR001	[xxx]?
+TOI001	[quello è un s]uo caso partico~ r[aro]
 TOR002	[x]x[x]
 TOI001	[inso]mma
 TOR001	>e scusa quando la facevi tu eravate tutti di torino<?
@@ -1767,8 +1767,8 @@ TOR002	[vai]
 TOI001	[sì=sì]:
 TOR001	[c(io)è]
 TOI001	[e:]
-TOI001	[xx (mi sa)]
 TOR001	[ce n'è sei da fuo]ri e sembra che sono tutti da fuori invece sei: veramente due sfigati
+TOI001	[xx (mi sa)]
 TOR002	mh=e:h (.) cazzo faccio con (que)ste cart[acce]?
 TOR001	[beh tan]to hai pescato
 TOI001	eh
@@ -1839,7 +1839,7 @@ TOR001	mol~
 TOR001	~to meno rispetto che ad altri posti cosa stai face~?
 TOR002	eh e:h
 TOR001	((ride)) va tutto bene ((ride))
-TOR002	°((ride))°
+TOR002	((ride))
 TOI001	(marcione)
 TOR002	((ride)) (è vero) ((ride))
 TOR002	e:h x[xxx]
@@ -1868,11 +1868,11 @@ TOI001	e quindi:
 TOI001	tendiamo a rimanere molto:
 TOI001	dove siam(o) sicur~ ma anche perché
 TOI001	quella però è una questione di genitori come=im:postano le cose
-TOI001	<allora> <potremmo fare>
+TOI001	<allorapotremmo fare>
 TOI001	tavatà tarà ((canticchia))
 TOI001	tararà ta ta ((canticchia))
 TOI001	ta ta ta tarà ta tatà ((canticchia))
-TOR001	°((ride))°
+TOR001	((ride))
 TOR001	ma mi ha morso una zanzara
 TOR001	a dicem[bre]
 TOR002	[ma] son quei moscerini di merda delle pian[te non son le zan]zare
@@ -1882,7 +1882,7 @@ TOR002	sì?
 TOR001	eh
 TOR002	eh ma perché c'è gli alberi
 TOI001	°<che stronzo x:>°
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	(vai)
 TOI001	vai
 TOI001	non me ne faccio niente ma vai
@@ -1917,8 +1917,8 @@ TOR001	però questo vale per tutto >non è che vale per< solo per torino
 TOR002	no no [ma infa]tti
 TOI001	[vai]
 TOR002	sicuro
-TOI001	[ma difa]tti in generale c'è un immobilismo:
 TOR001	[cer~]
+TOI001	[ma difa]tti in generale c'è un immobilismo:
 TOR001	sì abbastanza
 TOI001	°eh°
 TOI001	ci si [sposta solo quando ha la] ha si ha la certezza di andarsene
@@ -1963,10 +1963,10 @@ TOI001	[no: anche per]ché non hai l'urgenza di fa[rlo]
 TOR001	[vai s]cusami
 TOI001	tu sai che:
 TOI001	ippi ippi ya yeu
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	<lì>,
 TOI001	°ma quella, (.) manca (que)sta cippa (.) xxxx (della cippa) (e questo) ques~ cicì papà°
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	vai
 TOR002	°(chi c'è)°?
 TOI001	c'ho=un doppione in mano che non metterò (.) c(io)è
@@ -1982,7 +1982,7 @@ TOR002	aspe::tta eh
 TOR002	boh proviamoci
 TOI001	xx[x ricorda]ti un po' come hai fatto le cose
 TOR001	[siamo a posto]
-TOR001	°((ride))°
+TOR001	((ride))
 TOR002	no vabbè ma vado per gradi
 TOI001	°eh (.) non esagerare°
 TOR002	°xx (.) (così)°
@@ -2014,7 +2014,7 @@ TOI001	potevi farti una porzione di cazzi tuoi una volta
 TOR002	((ride))
 TOR001	vai
 TOI001	°(grande scandalo)°
-TOR002	°((ride))°
+TOR002	((ride))
 TOR002	vai
 TOI001	m:h >xx così<
 TOR002	((ride)) n:on l'ho neanche guardata e avevo già detto vai
@@ -2249,7 +2249,7 @@ TOI001	ma=a: brescia bergamo sono molto più inseriti
 TOR002	mh=be:h (.) >perché c'è più soldo<
 TOR002	>secondo me<
 TOI001	eh
-TOI001	>eh eh=sì sì< >e quindi è come dire< che comunque fronte a u:na=migrazione straniera loro hanno reagito meglio in confronto a noi
+TOI001	>eh eh=sì sìe quindi è come dire< che comunque fronte a u:na=migrazione straniera loro hanno reagito meglio in confronto a noi
 TOI001	v[ai pu]re
 TOR001	[o:h]
 TOR001	eh bergamo è ricca ricca ricca eh (.) co[me] città
@@ -2277,13 +2277,13 @@ TOI001	vai
 TOR002	la metti così
 TOR002	°(no aspetta)°
 TOI001	eh
-TOR002	°no aspe~° °((ride))°
+TOR002	°no aspe~° ((ride))
 TOI001	bravo
-TOR002	°((ride))°
+TOR002	((ride))
 TOR001	((ride)) [è co]nfuso ((ride))
 TOI001	bell[a roba]
 TOR002	((ride))
-TOR002	°((ride))° vai
+TOR002	((ride)) vai
 TOR001	vai
 TOI001	vai
 TOR002	vai
@@ -2295,10 +2295,10 @@ TOR002	no:
 TOI001	xxx >°e è ancora li che pensa°<
 TOR001	((ride))
 TOR002	mh=ma tocca a me?
-TOI001	°[m:h]°
 TOR001	[e:h]
+TOI001	°[m:h]°
 TOR002	ah non ho sentito:
-TOR001	e cosa [dovevi senti][re]? °((ride))°
+TOR001	e cosa [dovevi senti][re]? ((ride))
 TOI001	[xx]
 TOR002	[il] vai non ho sentito vai
 TOR001	vai
@@ -2324,10 +2324,10 @@ TOI001	°bravo bravo°
 TOI001	adesso metterò
 TOI001	incomincio con le tecniche
 TOI001	guarda qua
-TOR002	°((ride))°
-TOR001	°((ride))°
-TOR002	°((ride))°
-TOR001	°((ride))° vai
+TOR002	((ride))
+TOR001	((ride))
+TOR002	((ride))
+TOR001	((ride)) vai
 TOI001	(guarda) qua (.) adesso io ti <marmellazzo proprio>
 TOI001	uff (.) vai
 TOR002	vai
@@ -2346,7 +2346,7 @@ TOR002	((ride))
 TOI001	>vai=vai=vai=vai=vai<
 TOI001	vai tranquillo >vai=vai=vai=vai=vai=vai=[vai=vai]<
 TOR002	[non] te lo faccio
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	>[vai=vai=vai]<
 TOR002	[faccio que]sto
 TOI001	°bra:[vo bra]vo bra:vo°
@@ -2414,9 +2414,9 @@ TOI001	sì sì
 TOR002	((ride))
 TOR001	((ride))
 TOI001	tutto per un tre lo fa
-TOR002	°((ride))°
-TOR002	°((ride))° <tutto>
-TOR002	°((ride))° [no non mi s]erve il tre ((ride)) giulio te lo dico
+TOR002	((ride))
+TOR002	((ride)) <tutto>
+TOR002	((ride)) [no non mi s]erve il tre ((ride)) giulio te lo dico
 TOI001	[c(io)è]
 TOI001	°m:h°
 TOR002	no [xx]
@@ -2441,8 +2441,8 @@ TOR001	((ride))
 TOI001	ti prendi questo
 TOI001	dammi:
 TOI001	ma guarda lì xx (.) c(io)è
-TOR002	°((ride))°
-TOR001	((ride)) °((ride))°
+TOR002	((ride))
+TOR001	((ride)) ((ride))
 TOI001	°tu: tu:°
 TOI001	°tu tu: malefico tu:°
 TOI001	>prendiamola di cuori e non di picche<
@@ -2472,14 +2472,14 @@ TOR001	((ride))
 TOI001	prenderai questa adesso imma[gino]
 TOR002	[e:]:h
 TOI001	e:h
-TOR002	((ride)) uguale in realtà °((ride))°
+TOR002	((ride)) uguale in realtà ((ride))
 TOI001	a::h
 TOR002	e::h così è quindi ne posso prendere una a cas[o]
 TOI001	[mh]
 TOR002	e::h
 TOR002	>vedi che ce l'avevo<
 TOI001	te l'ho detto che c'ha il jack di fiori
-TOR002	°((ride))°
+TOR002	((ride))
 TOI001	ma guarda che ((ride))
 TOR002	[eh]
 TOI001	>([tutt]o)<
@@ -2515,8 +2515,8 @@ TOI001	beh (.) prendi il jolly puoi fare quel che vuoi
 TOR001	sì
 TOI001	eh quindi è cuori
 TOR001	>aspetta è cuore se lo metti qua<
-TOI001	sì
 TOR001	ma se avessi: >l~ quello di picche< te lo prendi lo stesso e lo giochi
+TOI001	sì
 TOR002	((sbadiglia))
 TOI001	ah
 TOI001	okay non distingui te il concetto il concetto è un altro nove
@@ -2529,14 +2529,14 @@ TOI001	<[m]a[mma mia]>
 TOR002	[mh mh] m:h
 TOI001	che lupo alberto (.) vai
 TOR001	((ride))
-TOR002	°((ride))°
+TOR002	((ride))
 TOR002	<mh che [mode~]>
 TOI001	<[ma]mma mia> che roba che ho pescato
 TOR001	addirittura,
 TOI001	sì: sì sì sì
 TOR001	((ride))
 TOI001	credi nel cuore delle carte dissero un giorno
-TOR001	°((ride))°
+TOR001	((ride))
 TOR002	m:h
 TOI001	sì sì sì sì
 TOI001	adesso mi serve solo un altro::
@@ -2557,23 +2557,23 @@ TOR002	[v]a[i]
 TOI001	[qu]elle che son buone
 TOR001	vai
 TOI001	°<puttana eva>°
-TOI001	#vacca logia
+TOI001	# vacca logia
 TOI001	°xxxx°
 TOI001	((sbuffa))
 TOR001	((ride))
-TOI001	che palo che ho preso °((ride))° vai
+TOI001	che palo che ho preso ((ride)) vai
 TOR002	vai
 TOR001	>arrivo<
 TOR002	°(no (.) è strano eh)°
 TOI001	°mister fantastico ho pescato una carta di merda mister fantastic
 TOR001	vai
 TOI001	<che tigna polacca>
-TOR001	°((ride))°
-TOR002	°((ride))°
+TOR001	((ride))
+TOR002	((ride))
 TOI001	minchia ho pescato <un palo d~ (.) clamoroso> che adesso è un <casino> se no (avrei chiuso)
 TOI001	((sospira))
 TOI001	tu tutu=tu tutu=tu tututu=tutututu tu tu tu ((canticchia))
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	°>per la domenica< sportiva°
 TOR001	fallo ancora
 TOR001	la ds?
@@ -2586,7 +2586,7 @@ TOR001	°minchia°
 TOI001	>e:h allora<
 TOR001	((sbadiglia))
 TOR001	((ride))
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	tutu tu=tututu=tutututu tu tu tum ((canticchia))
 TOR001	((sbadiglia))
 TOI001	((sospira))
@@ -2604,13 +2604,13 @@ TOI001	<quello anche>
 TOI001	no
 TOR001	((ride))
 TOI001	mh=eh (.) c'ho un punto morto
-TOR001	°((ride))°
+TOR001	((ride))
 TOR002	(o)kay?
 TOI001	>no=no tocca a me tocca a me<
 TOR001	no=no [sì lo so]
 TOR002	[a:h]
 TOI001	vacca al tram <vacca>
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	NEANCHE STA CARTA
 TOI001	una carta neanche o::h
 TOI001	non esiste:
@@ -2623,21 +2623,21 @@ TOI001	no
 TOI001	non credo più nel cuore delle carte
 TOI001	mi conviene:
 TOI001	sì: sì=sì=sì
-TOR002	°((ride))°
+TOR002	((ride))
 TOI001	>guarda un attimo le carte<
 TOR002	le mie,
 TOI001	mhmh
 TOR001	((ride))
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	e::h quella carta lì ho capito qual è è difficile per te da mettere ti aiuto io adesso eh
 TOR001	((ride))
 TOI001	però (.) però (.) tu mi devi fare un favore eh poi dopo
 TOI001	allora
-TOR002	°((ride))°
+TOR002	((ride))
 TOR001	((ride))
 TOI001	t(e l)o: dico
 TOI001	io ti ho aiutato eh
-TOR002	°((ride))° ((ride)) guarda questo
+TOR002	((ride)) ((ride)) guarda questo
 TOI001	>te lo dico eh< (.) >te lo metto già qua<
 TOI001	passo
 TOR002	((ride))
@@ -2653,7 +2653,7 @@ TOI001	e:h ma: te ne avanza una poi (.) te lo dico
 TOR001	((ride))
 TOI001	eh lo so lo so
 TOI001	lo so lo so
-TOR002	°((ride))°
+TOR002	((ride))
 TOI001	te ne avanza una
 TOR002	°eh°,
 TOR002	°eh=sì che ne avanza una [xxx]°
@@ -2678,7 +2678,7 @@ TOR002	[ah] sì vai
 TOI001	<che testa di testicolo porca miseria>
 TOR001	((ride))
 TOR002	qual era l'altra tua?
-TOR002	°((ride))° era la mia questa
+TOR002	((ride)) era la mia questa
 TOI001	>era più facile da sistemare quella<
 TOR001	dai comunque due su due eh
 TOR002	[e:h]
@@ -2690,9 +2690,9 @@ TOR002	((ride))
 TOR002	ma come c[azzo hai fatto a capire? ch]e avevo l'otto <di picche in mano>
 TOI001	[mi serviva un tre]
 TOI001	perché era una carta impossibile da mettere
-TOR002	°((ride))°
+TOR002	((ride))
+TOR001	((ride))
 TOI001	e quando tu mi dici eh (.) xxx (.) la carta è impossibile
-TOR001	°((ride))°
 TOI001	i nove li sistemavi (.) i dieci bene o male
 TOR002	questo volevo togliere io
 TOI001	°eh: >ho capito<°
@@ -2741,7 +2741,7 @@ TOI001	sistemavi il tuo cazzo di sette: con il sette di quadri che riuscivo anco
 TOI001	e tu prendevi il quattro demolendo il tris di quattro che c'era il cinque come attacco e facevi il tre e il due (.) dai s[u >ma anche te]<
 TOR001	[si è pers]o credo [un quarto d'ora fa] ((ride)) però va be[ne] ((ride))
 TOI001	[porca va:~]
-TOR002	°((ride))° xx[xx farci la] spesa [va]
+TOR002	((ride)) xx[xx farci la] spesa [va]
 TOI001	[c(io)è (hai perso)],
 TOI001	[t]e lo sistemavo io quel sette
 TOI001	(dreamer)
@@ -2749,7 +2749,7 @@ TOI001	invece ti sei fatto prendere un po' da::
 TOR002	((sbadiglia))
 TOI001	>ti sei fatto prendere da (que)sta cosa che non sei riuscito ad attaccare (u)na carta<
 TOR002	((sbadiglia))
-TOR001	°((ride))°
+TOR001	((ride))
 TOI001	>sei (andato)< in crisi
 TOI001	e:h
 TOR002	<che abbiocco>

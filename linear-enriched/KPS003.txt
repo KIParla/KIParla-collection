@@ -354,8 +354,8 @@ PKP010	da dove: vengono gli arrosticini?
 PKP135	grazi[e]
 PKP010	[a]h?
 ???	sono di villa celiera
-PKP010	[a:h ah ok]
 PKP135	[a:h vabbè sì]
+PKP010	[a:h ah ok]
 PKP010	oka:y ((ride))
 PKP135	((ride))
 PKP135	e:hm

@@ -14,13 +14,13 @@ BOI113	((ride))
 BOI114	ma mettilo lì mettilo [x]
 BOI113	[scusa mettilo giù:]
 BOR028	ma qui è (perché) x vedi è la cover che è scivolosa
-BOI113	comunque [me fa ridere] che questa registrazione [si chiama @nomeluogo]
+BOI113	comunque [me fa ridere] che questa registrazione [si chiama
 BOR028	[x]
 BOI114	[x]
 BOR028	[no x] non vi preoccupate
 BOI113	[no:]
-BOI113	[mi fa] ridere che è @nomeluogo la registrazione
 BOR028	[cit]
+BOI113	[mi fa] ridere che è la registrazione
 BOR028	eh amo [la miglior] via
 BOI113	[vabbè]
 BOI113	dove vivo ma e:h residenza o domicilio? qui dobbiamo scindere
@@ -52,8 +52,8 @@ BOI113	anche il fatto di: vivere sempre tutto a piedi
 BOI113	[e non avere mai] la macchina che per noi è: paradossale (.) cioè
 BOR028	[eh sì]
 BOR028	impensabile
-BOI113	[totale]
 BOR028	[assoluta]mente
+BOI113	[totale]
 BOI113	invece vedere qui che puoi vivere dei mesi
 BOI113	a piedi è assurdo folle
 BOI114	eh perché i tuoi interessi sono diversi qua
@@ -67,8 +67,8 @@ BOI114	[sì]
 BOR028	io non ho mai: cioè non ho mai sentito il bisogno di averla per [esempio]
 BOI113	((schiarisce_la_voce))
 BOI113	[io] il bisogno sì
-BOI113	[perché] secondo me so abituata troppo a averla giù e quindi poi tutti i ragionamenti ma anche sulle tempistiche
 BOR028	[mhmh]
+BOI113	[perché] secondo me so abituata troppo a averla giù e quindi poi tutti i ragionamenti ma anche sulle tempistiche
 BOI113	allora a me quello che a me qua me sembra di non avere mai il tempo per fare le cose
 BOI113	perché tutto il tempo ci devi sempre togliere quei venti minuti quel quarto d'ora che ci devi mettere per arrivare nel posto
 BOI113	A PIEDI
@@ -76,8 +76,8 @@ BOI113	o comunque con spostamenti: e il fatto che sei in città ecco sui tempi d
 BOI113	noi è tutto a tre minuti
 BOR028	eh sì
 BOI113	qualunque cosa è a tre minuti
-BOI113	[qua:] qua no
 BOR028	[decisamente]
+BOI113	[qua:] qua no
 BOI113	e:h però che bello perché: veramente a me mi ricord~ allora una cosa che mi fa un sacco impressione è che poi c'è just eat cioè ndo si vive noi just eat non esiste
 BOI114	((ride))
 BOR028	eh ma esisterà tra poco secondo me e:h
@@ -132,8 +132,8 @@ BOI114	per[ò:]
 BOR028	[mh]
 BOI113	vabbè nessuno pense[rebbe mai]
 BOI114	[milano non mi fa] gola
-BOI114	[per niente]
 BOR028	[sì]?
+BOI114	[per niente]
 BOI114	no no per niente [non mi fa gola]
 BOR028	[ah non] ti fa gola
 BOI114	no
@@ -154,8 +154,8 @@ BOI113	zero [sinceramente infatti son qui da] poco m:h
 BOR028	[è ancora presto eh cioè sei sei qui da poco]
 BOI113	è una roba che: quando c'ho da andare da qualche parte e ci sono li odio però ((ride))
 BOI114	((ride))
-BOI113	[però] no cioè non non lo so
 BOR028	[mh]
+BOI113	[però] no cioè non non lo so
 BOI113	questa è una parte proprio che mi manca cioè la parte: e:h attiva
 BOR028	mh ma cosa cosa ne pensi lo trovi (.) giusto o sbagliato [x]?
 BOI113	[io] penso che sia bello cioè è una cosa che
@@ -191,12 +191,12 @@ BOI114	di di esser dentro a un corteo di vederlo sì magari però capito? una vo
 BOI114	cioè eravamo in tanti ma tanti
 BOI114	cioè tanti anche di bologna io non lo so onestamente una percentuale di fuorisede ci sarà stata sicuramente [però] era quasi un luogo di ritrovo a un certo punto
 BOR028	[mh]
-BOI114	[andare al corteo]
 BOR028	[ma quando sono] arrivati i fuorisede ad assediare proprio bologna?
+BOI114	[andare al corteo]
 BOI114	ma io: [l'ho sentita l'ho sentita] pesante negli ultimi anni ti devo dire onesto
 BOR028	[di evidente cioè oggi: negli ultimi]
-BOI113	[prima non era così]
 BOR028	[ultimi ci]nque dici o [ultimi di più]
+BOI113	[prima non era così]
 BOI114	[sì sì] tipo: sì fai m:h
 BOI114	cinque sei [anni]
 BOI113	[a parte] che (no)n'è male sta xx
@@ -206,12 +206,12 @@ BOI114	cinque sei anni e: l'ho: l'ho iniziato a accusare
 BOR028	mh
 BOI114	prima: oggettivamente: cioè se ti devo dire
 BOI114	n: non è quasi qualcosa che avevo mai: pensato: ci fosse
-BOI114	#perché oltretutto io da piccolo quegli anni lì io giravo: insieme ai miei amici insieme anche a~ alle balotte al ai gruppi
+BOI114	# perché oltretutto io da piccolo quegli anni lì io giravo: insieme ai miei amici insieme anche a~ alle balotte al ai gruppi
 BOI114	alle compagnie scusami di: di ragazzi
 BOI114	eh mh del~ della mia cerchia: del del di casalecchio: di bologna eccetera
 BOI114	ci si ritrovava in luoghi che ora son di ritrovo per i fuorisede
-BOI114	[e] e in cui ora non riesco più a andare
 BOR028	[m:h]
+BOI114	[e] e in cui ora non riesco più a andare
 BOI114	e:h [ca~] tipo via irnerio noi eravam sempre in via irnerio noi andavamo sempre in via irnerio in piazza verdi
 BOR028	[tipo]?
 BOR028	mh
@@ -259,7 +259,7 @@ BOI113	[e:h]
 BOR028	[mh]
 BOI113	e è il bello questo quello che x alla città che noi al borgo non si x
 BOI113	che è sempre uno schema è uno schema ripetitivo
-BOI113	#ma che lo cambi a una certa perché il borgo il problema de quei citti che so rimasti al borgo
+BOI113	# ma che lo cambi a una certa perché il borgo il problema de quei citti che so rimasti al borgo
 BOI113	giovanni ti faccio dei nomi che vabbè non si possono dire ma m:h hai capito chi
 BOR028	sì: avoglia te
 BOI113	è tutta gente che non cambia cioè frequentava quel bar a a: tredici anni lo frequenta anche adesso che ce n'ha ventotto lo frequenterà per tutta la vita la sua vita è lì
@@ -280,13 +280,13 @@ BOI113	in realtà n: non è vera
 BOI113	cioè in realtà io non esco mai forse uscivo più quando: [stavo] al borgo cioè
 BOR028	[sì:]
 BOR028	anch'io
-BOI113	[non esci] mai vai all'universtà c'hai le tue quattro cinque amiche: il tuo amico:
 BOR028	[sì]
+BOI113	[non esci] mai vai all'universtà c'hai le tue quattro cinque amiche: il tuo amico:
 BOI113	cioè fai quello che fai: che avresti fatto: a casa tua alla fine (te ricrei) semplicemente altre persone
 BOR028	sì
 BOR028	vero
-BOI114	((ride))
 BOR028	((ride))
+BOI114	((ride))
 BOR028	assoluta[mente]
 BOI113	[poi] per alcuni fuorisede è diverso eh cioè perché io c'ho dei compagni di corso miei che: la fanno la vita:
 BOI114	dipende dalla facoltà dici ((ride))
@@ -294,15 +294,15 @@ BOI113	[fanno una vita bohémien]
 BOR028	[x]
 BOR028	sì
 BOI113	la fanno la vita bohémien perché se la vuoi fare la puoi fare
-BOI113	la puoi fare [ma la puoi fare] anche al borgo perché prendi: il pizzaiolo: del @nomeluogo
+BOI113	la puoi fare [ma la puoi fare] anche al borgo perché prendi: il pizzaiolo: del
 BOR028	[x]
 BOR028	((ride))
-BOI113	#eh e:h prendi: cioè: citti
+BOI113	# eh e:h prendi: cioè: citti
 BOI114	((ride))
-BOI113	[la puoi] fare anche lì
 BOR028	[eh sì]
-BOI113	[eh]
+BOI113	[la puoi] fare anche lì
 BOR028	[sì] è il fatto è che a bologna
+BOI113	[eh]
 BOR028	se decidi di fare quella vita lì poi (.) devi
 BOR028	m:h necessariamente tralasciare lo studio cioè io mi sono accorta di sta cosa cioè se vuoi studiare non puoi: [fare balotta]
 BOI113	((ride))
@@ -331,14 +331,14 @@ BOI114	[mhmh]
 BOI113	vorrei stare a casa (.) dalla mamma che mi fa [il pranzo]
 BOI114	[no però in generale] tornate spesso: a: arezzo quindi forse è anche [quello]
 BOR028	[mh]
-BOI114	[però ci sta]
 BOI113	[allora lei torna] meno ad esempio di quanto torno io
+BOI114	[però ci sta]
 BOR028	ma io so qua da di più
 BOR028	cioè m:h è stata una cosa graduale comunque anche abituare [i: tuoi]
 BOI113	[ti dico]
 BOI113	eh no allora vabbè i miei io essendo figlia del mi fra~ f~ figlia del mi fratello?
-BOI114	((ride))
 BOR028	sì: ((ride))
+BOI114	((ride))
 BOI113	sorella del mi(o) fratello e:h i secondigeniti sono molto più: cioè
 BOI113	se il mi(o) fratello prende il cellulare a quindici anni io l'ho preso a dieci cioè capito?
 BOI113	sei già abituata ((ride)) all'idea [del] del fratello più grande
@@ -403,8 +403,8 @@ BOR028	((ride))
 BOI114	non non credo poi anche il mondo fuorisede e:h
 BOI114	e autoctoni diciamo si è poco: si è poco mischiato [forse] anche quello
 BOR028	[mh]
-BOI114	[è anche quello]
 BOI113	[voi siete:] molto (.) giudiconi verso i fuorisede
+BOI114	[è anche quello]
 BOI114	no non è quello è che comunque [se devi pensare]
 BOI113	[ma io ve capisco] perché io sarei come voi totale eh
 BOR028	((ride))
@@ -450,8 +450,8 @@ BOI114	però è una realtà che così adesso m:h
 BOI114	quando quando l'ha detto ti giuro ci ho pensato sarà passato un anno c~ ci penso ogni volta che vado in centro e dico è netta la linea
 BOI113	netta
 BOR028	sì:
-BOI114	[non c'è nessun] locale che sia: cioè pure che capisci m:h non so vai:
 BOI113	[è netta]
+BOI114	[non c'è nessun] locale che sia: cioè pure che capisci m:h non so vai:
 BOI114	pure che la prosegui questa linea proprio ai limiti (.) [resta comunque] così
 BOI113	[è così]
 BOI114	io ho amici: che: con cui faccio m:h difficoltà diciamo a usci~ che esc~ con cui esco sempre
@@ -459,8 +459,8 @@ BOI114	però faccio difficoltà magari a non a uscire a a trovare un posto un lo
 BOI113	((ride))
 BOI114	a: in centro a bologna perché magari loro ti dicono sì ma io
 BOI114	oltre cioè di là a sinistra non ci vado cioè inteso (.) via zamboni quelle parti lì
-BOI114	[locali] fuorise~ po~ parti in cui son frequentate dal cioè posti in cui son frequentati da da fuorisede non ci va lui capito
 BOR028	[m:h]
+BOI114	[locali] fuorise~ po~ parti in cui son frequentate dal cioè posti in cui son frequentati da da fuorisede non ci va lui capito
 BOI114	e:h m:h
 BOR028	troppi ricordi non ce la [faccio] ((ride))
 BOI114	((ride)) [x]
@@ -474,8 +474,8 @@ BOI114	sono ambienti [diversi]
 BOI113	[però ecco] quello che un pochino lo paragono a loro che lo vedo è totale quando castello viene al borgo il borgo va a castello
 BOR028	m:h
 BOI113	o un borghese doc non ci va al gerasmo non ci mette piede °x°
-BOI113	[ultimamente]
 BOR028	[m:h no io questa cosa] non l'ho mai sentita
+BOI113	[ultimamente]
 BOI113	lately eh ti dico
 BOR028	no: [saranno x]
 BOI113	[perché la cartom~] la cartomante ha detto che il gerasmo c'ha energie negative
@@ -494,8 +494,8 @@ BOI113	((ride))
 BOR028	perché si lega molto alla tradizione bolognese no?
 BOI113	((ride))
 BOR028	quindi qui s~ la domanda va diretta a lui ma se te sai qualcosa poi ti infili tanto vedo che ((ride))
-BOI114	((ride))
 BOI113	((ride))
+BOI114	((ride))
 BOR028	che: tradizioni: av~ cioè se [se avete] tradizioni in casa: le seguite:
 BOI114	[no sai che]
 BOI114	beh m:h non lo so io credo che m:h
@@ -545,11 +545,11 @@ BOI114	((ride))
 BOI113	((ride))
 BOI114	dai ci son le tradizioni culinarie lì [no]?
 BOR028	[eh] sì
-BOI114	[qui da noi] abbiamo anche la sfiga di avere: la sfortuna di avere: modena di fianco
 BOI113	[tradizioni culinarie:]
+BOI114	[qui da noi] abbiamo anche la sfiga di avere: la sfortuna di avere: modena di fianco
 BOR028	ecco
-BOI114	[e a modena se] se sembra che si sia inventata tutto noi ci siamo inventati noi e se lo chiedi a un modenese ti dice uguale pari
 BOI113	[eh la rivalità:]
+BOI114	[e a modena se] se sembra che si sia inventata tutto noi ci siamo inventati noi e se lo chiedi a un modenese ti dice uguale pari
 BOI113	no:
 BOI114	a quello che ti ho detto [io]
 BOI113	[i] modenesi ammettono tipo che il tortellino è di bologna secondo me lo [ammettono]
@@ -561,8 +561,8 @@ BOI114	gnocco fritto e crescentina è una guerra tra mondi cioè tipo avengers (
 BOR028	eh ma io questa cosa non l'ho mai capita perché qui è crescentina è [una cosa]
 BOI114	[qui si è] crescentina e: c'è la crescentina e la tigella qua
 BOI113	però c'è anche la crescenta che è una cosa diversa
-BOI114	[beh totale] diverso sì
 BOR028	[ah e:h]
+BOI114	[beh totale] diverso sì
 BOI113	però è totale di~ [è quella tipo] con
 BOI114	[no no]
 BOI114	hai presente sei mai andata a mangiare: [le] tigelle [coi] salumi?
@@ -573,9 +573,9 @@ BOI114	ti portano la tigella che è è quella m:h [da] da una forma precisa
 BOI113	[tonda]
 BOR028	mhmh
 BOI114	e la crescentina che è m:h diciamo insomma un capannone ((ride)) non lo so come ((ride)) [non so spiegare]
-BOI113	#la ciaccina fritta [nostra] la ciaccina fritta
-BOI114	esatto
+BOI113	# la ciaccina fritta [nostra] la ciaccina fritta
 BOR028	((ride))
+BOI114	esatto
 BOI114	e:h e là invece si chiama gnocco fritto là a modena poi
 BOI113	là ((ride))
 BOI114	si si chiama il gnocco fritto e la crescentina che è la vera:
@@ -593,8 +593,8 @@ BOR028	certo
 BOI113	la cosa che mi fa: ridere è che eh tutti: i primi tipici bolognesi sono la tradizione anche nostra
 BOI113	perché le tagliatelle al ragù:
 BOR028	sì eh vabbè ma è italia~ cioè
-BOI114	[da voi il ragù al] cinghiale per dire
 BOI113	[è italiana allora]
+BOI114	[da voi il ragù al] cinghiale per dire
 BOR028	sì e:h [da noi cinghiale sì]
 BOI113	[da noi: cinghiale]
 BOI114	[vedi]? con una parola poi dopo: ((ride)) trasformi [x]
@@ -633,16 +633,16 @@ BOI114	ho più lo sguardo sul mondo cioè [capito]
 BOI113	[ma lui è come] se fosse della provincia eh alla [fine]
 BOI114	[sì] ma non credere nel senso cioè ti dico questo per dirvi che alla fine bologna che voi considerate come magari una grande città in realtà ha un sacco di: [(mentalità) da piccola da] da città da città: chiusa capito cioè
 BOI113	[x]
-BOI114	[quindi] quindi quello
 BOR028	[sì]
+BOI114	[quindi] quindi quello
 BOI113	secondo me alla fine anche qui ci entri dentro conosci uno schema conosci un giro ne conosci un altro vedi che qualche linea per forza si ricongiunge perché
 BOI113	già milano forse è più: o una città veramente grande tipo roma penso che sia veramente molto più difficile però bologna alla fine te dà: te dà controlli quasi
 BOI114	no ma fidati fidati ((ride)) fidati nessuna città potrai [mai avere il controllo di città perché] alla fine m:h inizi a girare con la stessa compagnia [e tutta la] gente che comunque conosci magari ha altri amici che alla lunga [vai a conoscere anche te]
 BOI113	[vabbè chiaro chiaro]
 BOI113	[chiaro]
 BOI113	[però per me cioè] io perché ti ti arrivo a dire >che sicuramente x< ti arrivo a dire la controlli? perché per me dalla concezione che c'avevo io era una roba impensabile anche il fatto che due persone si potessero conoscere (.) a bologna
-BOI113	[cioè che due] bolognesi si potessero conoscere tra di loro perché io c'avevo proprio una concezione del chissà dove vado tipo los angeles io non lo so cioè pensavo tipo: anche le strade la città cioè il centro a me all'inizio me sembrava tanto grande: tanto: in realtà è una stronzata è facilissmo è piccoli[ssimo]
 BOR028	[mhmh]
+BOI113	[cioè che due] bolognesi si potessero conoscere tra di loro perché io c'avevo proprio una concezione del chissà dove vado tipo los angeles io non lo so cioè pensavo tipo: anche le strade la città cioè il centro a me all'inizio me sembrava tanto grande: tanto: in realtà è una stronzata è facilissmo è piccoli[ssimo]
 BOI114	((ride))
 BOR028	((ride))
 BOI114	[però] come ti ho detto prima [del vi raccontavo] di via irnerio che si trovavano tutte le balotte tutte le compagnie [di:] di una parte di bologna alcuni di quelli non li conoscevi neanche cioè li iniziavi a conoscere dopo un po' ma eravamo ti [parlo di] non lo so percepiti da me ((ride)) che ricorda il ludovico di qua~ di diec'anni fa: ti dico di no di più di tredici anni fa ti dico eravamo in cento?
@@ -654,8 +654,8 @@ BOI114	forse eravamo in venti però non so
 BOR028	mhmh
 BOI114	m:h mi sembran tanti comunque per dire che alla fine indipendentemente da dove vieni bologna magari siamo anche un milione di abitanti come dicono e forse è vero però e:h la realtà è che inizi a girare comunque nei soliti posti
 BOI114	perché i posti belli non sono un milione
-BOI113	[no]
 BOR028	[esatto]
+BOI113	[no]
 BOI114	di modo da: dividere tutte le [persone]
 BOI113	[secondo] me tipo zona fuorisede zona (marcia) zozza c'ha molti più posti
 BOI114	eh però vedi quella già in quella non ci vanno i bolognesi [quindi] restringi ancora [il campo]
@@ -719,8 +719,8 @@ BOI113	[il sodapops adesso va un sacco]?
 BOR028	dai: [sì] cioè? ci andavano: i: [trentenni? no (okay)]
 BOI114	[sì]
 BOI114	[m:h no sìsìsì] del tutto
-BOI114	sìsì ((ride)) vabbè ma guarda che (poi) i trentenni per me erano:
 BOR028	((ride))
+BOI114	sìsì ((ride)) vabbè ma guarda che (poi) i trentenni per me erano:
 BOI113	((ride))
 BOR028	eh
 BOI114	no io ne ho ventisette ancora
@@ -754,8 +754,8 @@ BOR028	mh
 BOI113	cioè tipo se te non vuoi fare sto stile di vita: cioè noi che si fa?
 BOR028	eh se sta in [casa]
 BOI113	[x]
-BOI114	((ride))
 BOR028	eh sì
+BOI114	((ride))
 BOR028	sìsì anche perché sei troppo stanca per uscire quindi [x]
 BOI113	[esatto] magari io sto più fuori durante il giorno però la sera: cioè non può esistere che io mi vedo con te la sera non esiste mai
 BOR028	eh
@@ -811,8 +811,8 @@ BOI114	e:h passava: a mezzanotte: e tipo trenta una roba del genere cioè nel se
 BOI114	eh m:h e poi e:h se volevi andare a casa l'ultimo autobus l'ultimo venti
 BOI114	perché m:h è diventato anche quasi un modo di dire: nel ((ride)) nel circondario bolognese perché è l'autobus che alla fine porta quasi tutti ovunque se abiti nella zona ovest di bologna
 BOI114	e:h dal centro o verso il centro e:h passava a: anche lì mezzanotte e quaranta una cosa del genere
-BOI114	[e] la tua serata finiva il tuo sabato sera finiva per forza lì altrimenti te non puoi avere un'idea di quanti quante volte io mi son fatto un~ un'ora un'ora e mezza a piedi [per] tornare a casa non hai idea proprio
 BOR028	[mhmh]
+BOI114	[e] la tua serata finiva il tuo sabato sera finiva per forza lì altrimenti te non puoi avere un'idea di quanti quante volte io mi son fatto un~ un'ora un'ora e mezza a piedi [per] tornare a casa non hai idea proprio
 BOI113	[°folle°]
 BOR028	pesante:
 BOI114	magari anche volte in cui eravamo in non lo so in dieci? quindici? a fare questa tratta qua verso la [croce] di casalecchio?
@@ -828,22 +828,22 @@ BOI114	se perdevi uno e non ti andava di andare a piedi eh dovevi trovarti quatt
 BOI113	[ecco] noi questo non si è mai vissu[to]
 BOR028	[no:] solo per andare al concerto
 BOI113	((ride))
-BOI114	[perché era a casalecchio no]?
 BOR028	[madonna:]
+BOI114	[perché era a casalecchio no]?
 BOR028	[eh] sìsì no infatti [sempre a bologna] noi
 BOI114	[eh infatti x] ((ride))
 BOI113	ah ma te che dici calcutta
 BOR028	sì o venerus [comunque]
 BOI113	[vabbè] venerus venerus è stato
-BOI114	[era anche lui all'unipol]?
 BOR028	[terrificante]
+BOI114	[era anche lui all'unipol]?
 BOI113	no venerus era all'[estragon]
 BOR028	[era] all'[estragon]
 BOI114	[ah] okay
 BOI113	l'estragon che ti dicevo google maps ci ha portato nel retro tipo dell'estragon
 BOI114	((ride))
-BOI113	[non] ci ha [portato] ((ride)) all'estragon
 BOR028	[sì]
+BOI113	[non] ci ha [portato] ((ride)) all'estragon
 BOI114	[mhmh]
 BOR028	sì
 BOI113	noi abbiamo scavalcato per vedere venerus
@@ -857,12 +857,12 @@ BOI113	e a me se c'è una cosa che me dà fastidio è essere stipato nei pullman
 BOR028	mhmh
 BOI113	non lo sopporto
 BOI113	e poi: tutto il panico però anche per calcutta tipo per calcutta peggio che mai
-BOI113	[se tu] dicevi ci ci vado: ci vado: con l'autobus non ci vai con l'autobus perché io ci ho provato
 BOR028	[eh già]
+BOI113	[se tu] dicevi ci ci vado: ci vado: con l'autobus non ci vai con l'autobus perché io ci ho provato
 BOR028	((ride))
 BOI113	era talmente tanto pieno che tipo si è fermato alla fermata non si aprivano le porte per tutta le gente che era [dentro]
 BOI114	[io mi ricordo] c'era:
-BOI113	se io non avevo il fratello qui che diceva oh noleggiamo l'enjoy e si va con l'enjoy che poi anche trovare l'enjoy [ci è voluto] per trovare quell' enjoy abbiamo faticato parecchio
+BOI113	se io non avevo il fratello qui che diceva oh noleggiamo l'enjoy e si va con l'enjoy che poi anche trovare l'enjoy [ci è voluto] per trovare quell'enjoy abbiamo faticato parecchio
 BOR028	[eh già]
 BOI114	però avete l'enjoy cioè ((ride))
 BOI113	però c'era il mi fratello che dice prendo l'enjoy ci vado io da sola non me sarei mai presa l'enjoy cioè
@@ -880,19 +880,19 @@ BOR028	mhmh
 BOI113	che si faceva?
 BOR028	no ecco [qui] mi si mi: si riaccende una cosa che: si co~ si connette a quello che dicevi tu prima cioè che voi comunque sì facevate un'ora a piedi però eravate probabilmente o tutti uomini o comunque prevalentemente
 BOI113	[e:h]
-BOI114	[tutti uomini]
 BOR028	[poi eravate] in gruppo: cioè [non c'era] tanto rischio
+BOI114	[tutti uomini]
 BOI114	[sìsì]
-BOI114	[no però posso dirti era]
 BOR028	[se lo dovessimo fare io] e lei un'ora di camminata alle [cinque di mattina]
+BOI114	[no però posso dirti era]
 BOI114	[chiaro chiaro]
-BOI113	[da da] da: [via] irnerio a casalecchio
 BOR028	[eh]
+BOI113	[da da] da: [via] irnerio a casalecchio
 BOI114	[x]
 BOR028	ciao [cioè]
 BOI114	[no]no ovvio ovvio
-BOI114	[però:] considera che una volta anche la criminalità era un sacco diversa cioè non che non ci fosse [ma] era un sacco diversa ora quella che c'è mh per me non è tangibile nel senso per i giri che faccio io: [per] quello che è cioè non non è tangibile intendo non non la riesco a toccare non la riesco a percepire
 BOR028	[ci perdiamo]
+BOI114	[però:] considera che una volta anche la criminalità era un sacco diversa cioè non che non ci fosse [ma] era un sacco diversa ora quella che c'è mh per me non è tangibile nel senso per i giri che faccio io: [per] quello che è cioè non non è tangibile intendo non non la riesco a toccare non la riesco a percepire
 BOR028	[mh]
 BOR028	[mh]
 BOI114	cioè leggo: di cose: a bologna leggo di statistiche m:h imbarazzanti [per] quanto è grave ma: non è che ho mai sentito di nessuno che cioè è la classica: storia lo so però cioè effettivamente anche se interpreto un luogo comune ora ti dico che: effettivamente io non ho mai sentito di m:h persone derubate: o peggio
@@ -925,7 +925,7 @@ BOR028	mh
 BOI113	mh? però io non ci credo veramente cioè io penso sempre che siano cose che succedono agli altri capito?
 BOR028	e:h [eh eh]
 BOI113	[cioè a me] fa morire questo fatto nonostante poi ho avuto nella vita cose assurde che eh son successe a me non agli altri però è proprio io sul
-BOI113	l' essere violentata su ste cose qui sempre: cioè non non penso che tipo a me non me possa succedere
+BOI113	l'essere violentata su ste cose qui sempre: cioè non non penso che tipo a me non me possa succedere
 BOR028	ma perché te pensi al caso estremo forse
 BOI113	sì
 BOR028	non pensi al caso:
@@ -982,8 +982,8 @@ BOI113	che dici:
 BOR028	ma capiterai te se se se succede davvero
 BOI113	°esatto°
 BOR028	al lupo al lupo e poi
-BOI113	[tipo la] mamma che ti dice vestiti che: che è freddo fuori °sì: va bene°
 BOR028	[mh]
+BOI113	[tipo la] mamma che ti dice vestiti che: che è freddo fuori °sì: va bene°
 BOR028	eh però dopo il raffreddore lo becchi eh
 BOI114	((ride))
 BOI113	e:h
@@ -1002,12 +1002,12 @@ BOR028	[tantissimo]
 BOI113	[ma quando] torno a casa io lo sento lo potrei sentire anche se facessi tutto il viaggio a occhi chiusi perché l'aria è diversissima
 BOR028	sì
 BOI114	no sì cioè più che altro è viaggiare in toscana eccetera cioè non è che me la stai [raccontando (in un modo)]
-BOI113	((ride))
 BOR028	((ride))
+BOI113	((ride))
 BOI113	[vabbè ma te vai a firenze] firenze è:
 BOR028	uguale
-BOI114	[no ma] sono andato un sacco: mh nelle parti vostre comunque non a arezzo però: ci vado ci vado spesso a [firenze]
 BOI113	[ma sì]
+BOI114	[no ma] sono andato un sacco: mh nelle parti vostre comunque non a arezzo però: ci vado ci vado spesso a [firenze]
 BOI113	[che c'è] a arezzo oltre petrarca scusa
 BOI114	[no nel senso:] val d'elsa quei posti lì:
 BOR028	[il vasari]
@@ -1032,8 +1032,8 @@ BOR028	certo
 BOI114	cioè da me [ai viali e:h]
 BOI113	[raga io non lo] percepisco
 BOI114	ma perché te ci sei dentro invece ((ride))
-BOI113	[capito io]
 BOR028	[a:h ecco]
+BOI113	[capito io]
 BOI114	te sei in via san felice sei dentro
 BOI114	ma guarda che ad esempio il paradosso è che magari il centro dentro il [centro]
 BOI113	[ma] perché io apro la finestra vedo tipo quell'aiuola lì verde me sembra d'essere [in amazzonia] tipo bonjour in realtà: no

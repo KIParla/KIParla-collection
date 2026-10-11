@@ -362,8 +362,8 @@ PKP017	[si chiama cant~]
 PKP016	io ce l'[ho lì che sto scaldando i pezzi rotti]
 PKP017	[si chiama cantina pinchiorri]
 PKP016	[questo] è quello (.) di pollo
-PKP017	[che credo sia: in tosc]ana credo a firenze
 PKP016	[è cotto (in) xx]
+PKP017	[che credo sia: in tosc]ana credo a firenze
 PKP022	eh
 PKP017	la cantina pinchiorri
 PKP017	c'hanno una can[tina]
@@ -405,8 +405,8 @@ PKP016	[perché hai pres]o tu: il maccallan dodic'ann[i]
 PKP022	[d]odic'an[ni]
 PKP013	[ma l'hai pagat]a novantacinque?
 PKP016	[(tra l'altro)]
-PKP022	[l'ho pagata n~]
 PKP016	[continua ad inve]cchiare
+PKP022	[l'ho pagata n~]
 PKP022	sì
 PKP016	lui ha [detto]
 PKP013	[e l'hai r]egalato al medico?
@@ -478,8 +478,8 @@ PKP017	terra eh?
 PKP013	eh
 PKP017	e:hm no
 PKP017	è così (.) insomma quello scozzese è più:
-PKP017	[mi puoi dare una fet~ (.) una fetti]na di
 PKP016	[è un po' insipida questa]
+PKP017	[mi puoi dare una fet~ (.) una fetti]na di
 PKP013	piadina o [crescenti]na?
 PKP017	[(di) piadina
 PKP017	ma me la puoi prender tu eh
@@ -599,15 +599,15 @@ PKP022	[ci sono]
 PKP017	[vole]vo
 PKP022	le frattaglie
 PKP017	sentir no (.) quel qu~ quel: s~ rag~ quel: arrosto con [quel sughi]no al: (.) all'arancio
-PKP013	[arrosto]
 PKP016	[xxx]
+PKP013	[arrosto]
 PKP013	[ragù]
 PKP013	ah
 PKP013	tanto ne è rimasto un sacco
 PKP016	>soppa che s[ugo< che ti è venuto ma]mma
 PKP017	[vuoi provare a sentirlo]?
-PKP013	[no]
 PKP017	[con] col:
+PKP013	[no]
 PKP016	ti piace questo pane?
 PKP022	è quello alla zucca?
 PKP016	[mh]
@@ -633,8 +633,8 @@ PKP013	irlanda?
 PKP022	grazie
 PKP017	mh?
 PKP013	in irlanda?
-PKP013	[no]
 PKP017	[mh]
+PKP013	[no]
 PKP022	°xxx lì dietro°
 PKP016	(ma) tienili tu
 PKP022	no (.) xxxx
@@ -652,8 +652,8 @@ PKP017	[(l'abbiamo aper]to [nel:)]
 PKP013	[mh]
 PKP022	[(lo metti) so]lo [nel dol]ce
 PKP013	[mhmh]
-PKP022	[e allora]
 PKP016	[ah l'avete ape]rto là?
+PKP022	[e allora]
 PKP016	e [qua] che: e poi l'hai portato a casa aperto?
 PKP017	[mh]
 PKP017	ce l'ho
@@ -751,10 +751,10 @@ PKP017	[in] sudamericano è ron
 PKP013	ah
 PKP017	prendo un'altra (di quelli lì)
 PKP013	lo posso mettere via?
-PKP013	[prima che cade] e si
 PKP017	[(m~ mi danno tutt~)]
-PKP013	sporca tu]tto
+PKP013	[prima che cade] e si
 PKP017	[(mettilo lì)]
+PKP013	sporca tu]tto
 PKP016	(gua') si tiene tutto lì vicino a lui
 PKP017	no io (.) ve lo dò indietro ma poi dopo lo: lo richiamo allora ilaria me l'ha già dato dieci volte il:
 PKP013	perché tu me l'hai chiesto [dieci volte]
@@ -779,12 +779,12 @@ PKP013	°di poten~°
 PKP017	perdo[no:]
 PKP013	[finché d]iventa analcolica la teniamo
 PKP022	no no beh io non bevo ila
-PKP013	[EH quando dive]nta analcolica te la b[evi]
 PKP017	[>cioè< o è (come u~)]
+PKP013	[EH quando dive]nta analcolica te la b[evi]
 PKP017	[dipe]nde come è fatto il tappo se è completamente sigillato
 PKP022	sì mi sembra che sia un tappo a vite mi sem[(°bra°)]
-PKP013	[perché hai portato via:]?
 PKP017	[se è completamente sigillato no]n perde niente [se (.) se invece]
+PKP013	[perché hai portato via:]?
 PKP016	[il formaggio]?
 PKP016	ah lo por[to]
 PKP013	[NO] no vabbè non lo voglio ma [volevo sapere perché l'hai portato] via
@@ -928,8 +928,8 @@ PKP016	[s]ì
 PKP022	ecco quelle erano piccole piccole
 PKP022	e lui la faceva così
 PKP022	((si_schiarisce_la_voce))
-PKP022	[se no]
 PKP016	[le dà u]n buon sapore però tipo: [di legno]
+PKP022	[se no]
 PKP022	[se no: la faceva a con la:] con la ruta
 PKP017	[m:h]
 PKP013	[di pino]
@@ -1069,8 +1069,8 @@ PKP017	[che è] quel~ che: (.) cos'è [quello un whiskey]?
 PKP022	[ehm un (.) un]o whis[key]
 PKP017	[°un whi]skey°
 PKP016	uno whiskey
-PKP013	[pregiat]o
 PKP017	[scozzese]?
+PKP013	[pregiat]o
 PKP017	scozzese?
 PKP017	scozze[se]
 PKP022	[b~] ehm io non me ne intendo
@@ -1081,8 +1081,8 @@ PKP022	è c~ è come ieri quando abbiamo a[perto il nocino che ho detto] è megl
 PKP017	[o se no c'è scritto american]
 PKP013	[be]h
 PKP022	se no ho detto con matteo portatelo via perché
-PKP022	[evapora]
 PKP016	[no quello (.) quello] fatto in [casa]
+PKP022	[evapora]
 PKP013	forse anche la [vale quello] lo voleva assaggiare
 PKP017	[io no~ n~] ((si_schiarisce_la_voce))
 PKP013	che l'ha fatto lo zio carlo
@@ -1321,8 +1321,8 @@ PKP016	[sì in effetti è cotta (>bene] ilaria<) tieni
 PKP013	fattele prima te
 PKP017	qualcuno vuol sentire il rum?
 PKP016	io
-PKP017	[allora prendo un altro bicchiere]
 PKP016	[così dormo oggi pomeri]ggio
+PKP017	[allora prendo un altro bicchiere]
 PKP017	o:h così ti mettiamo a letto
 PKP013	ma posso tagliar [solo il] bor[do]?
 PKP016	[sì]
@@ -1357,10 +1357,10 @@ PKP022	[no me~ mack]en allora come si CHIAMAVA lisa quel ce[sso]?
 PKP016	[macallan]
 PKP017	[no ma c'è anche il] mac[allan]
 PKP016	[maca]llan
-PKP013	[quel cesso]
 PKP017	[macallan diciott]o:?
-PKP022	[diciott'anni]
+PKP013	[quel cesso]
 PKP016	[docic'anni]
+PKP022	[diciott'anni]
 PKP017	[ce] l'abbiamo
 PKP016	do:[dici]
 PKP017	[d~ do]dici?
@@ -1498,8 +1498,8 @@ PKP017	[aprire una bottiglia]
 PKP022	[ce l'hai lo zucchero a velo]?
 PKP017	[apr~]
 PKP016	[non ne ho]
-PKP017	[aprire una bottiglia:]
 PKP016	[abbiamo lo zucchero a velo]?
+PKP017	[aprire una bottiglia:]
 PKP017	unica al mondo
 PKP016	lo vuoi [di qua] o di qua?
 PKP022	[sì]
@@ -1646,8 +1646,8 @@ PKP013	dAI mangia
 PKP013	tanto va anche nei dolci è come mangiare: un po' di:
 PKP013	pesca all'alcherme[s:]
 PKP016	[e invec]e quando si fa il roast beef ehm scusa
-PKP013	[il roast be]ef?
 PKP016	[(che liquore) ci va]?
+PKP013	[il roast be]ef?
 PKP016	sì
 PKP022	((espressione_di_disgusto))
 PKP013	((ride))
@@ -1708,8 +1708,8 @@ PKP017	si chiama bourbon
 PKP022	a:h
 PKP016	barbou?
 PKP017	[bo]urbon
-PKP022	[ila]
 PKP016	[(ma b]a~ [a:h]
+PKP022	[ila]
 PKP022	[diluito è molto più (buono)]
 PKP017	[bourbon]
 PKP013	[più buono]
@@ -1788,13 +1788,13 @@ PKP022	il barolo è un vino pregia[to]
 PKP013	[mh] mh
 PKP017	il barolo costa: m:h [ehm] ho visto
 PKP022	[eh]
-PKP013	[pensa la grappa allora]
 PKP017	[al supermercato pensavo di pr]endere una bottiglia di barolo
+PKP013	[pensa la grappa allora]
 PKP017	ho detto lo prendo la prossima volta
 PKP022	quanto costa?
 PKP017	a:h van dai tren~ (.) venticinque trenta euro in su
-PKP017	[è è]
 PKP016	[il barolo è un] vino rosso ve[ro]?
+PKP017	[è è]
 PKP017	[sì] del piemonte
 PKP013	pensa quanto costa la grappa
 PKP013	perché per far la grappa
@@ -1872,8 +1872,8 @@ PKP013	[EH per]ché prende anche un po' quello
 PKP016	mh
 PKP017	perché il legno si (.) impregna de~ de~ de~ delle sostanze del dell'alcol e poi lo rilascia
 PKP017	nel liquido nuovo che viene messo dentro
-PKP013	[mh]
 PKP016	[mh]
+PKP013	[mh]
 PKP022	comunque l'hanno gradito ha detto che era buono speriam(o) che sia vero
 PKP013	se se la son bevuta tut[ta]
 PKP022	[no] no tutta no
@@ -1946,10 +1946,10 @@ PKP016	[(il cent')erbe]
 PKP017	[e] questo è [porto]
 PKP013	[a:h ques]to buono questo vorrei prov[are]
 PKP017	xxxx questo qui è vino (.) portoghese [porto]
-PKP013	[non c'è:]
 PKP016	[non c'è:]
-PKP022	[ila ce n'ho una bott~]
+PKP013	[non c'è:]
 PKP016	[hai hai: hai usat]o tutti e due tu?
+PKP022	[ila ce n'ho una bott~]
 PKP016	questo n[o],
 PKP017	[n]:o credo di aver u[sato solo questo]
 PKP022	[toni: siete an]dati voi per caso una volta: i~ in spagna e avete portato a casa

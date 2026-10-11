@@ -62,7 +62,7 @@ TO055	di quella lin~ così proprio
 TO046	però
 TO055	e vivi a torino
 TO046	sì attualmente vivo a torino perché la mia università è al campus einaudi quindi torino
-TO046	abito nella zona di @nomeluogo precisamente in fondo @nomeluogo cioè siamo ancora salvi
+TO046	abito nella zona di precisamente in fondo cioè siamo ancora salvi
 TO055	okay
 TO055	siete ancora salvi
 TO046	eh siamo ancora salvi
@@ -96,7 +96,7 @@ TO055	si spera di trovare il meglio sempre
 TO055	okay quindi mi hai detto che non sei di torino
 TO046	no
 TO055	di dove sei
-TO046	sono di @nomepaese
+TO046	sono di
 TO055	okay
 TO046	una ridente cittadina nel sud del piemonte
 TO055	noto un po' di sarcasmo
@@ -108,7 +108,7 @@ TO055	c'è ridente cittadina del piemont~
 TO046	esatto esatto
 TO046	attualmente faccio la vita da studente fuorisede cioè viaggio x nel weekend rientro a casa in settimana sto a torino
 TO055	okay
-TO046	e mi piace molto questa vita perché mi permette di apprezzare @nomepaese
+TO046	e mi piace molto questa vita perché mi permette di apprezzare
 TO055	okay
 TO046	quel tanto che basta eh per non sentirsi soffocati perché la vita è un po' pesante perché
 TO055	mhmh
@@ -131,9 +131,9 @@ TO055	sì è un po' pesante
 TO046	è un po' pesante sì tornare a vivere con ritmi di altri diventa complicato quando si è abituati ad avere i propri
 TO046	quindi per questi aspetti qua la vita aggettivopaese ma la vita eh nella città natale in generale immagino e un po' soffocante quando si superano i vent'anni almeno
 TO055	sì poi dipende dove ti trovi però cuneo probabilmente eh
-TO046	sì ecco ecco m~ ecco magari il f atto di essere a @nomepaese eh accentua questo aspetto qua
-TO055	a cinquant'anni magari dici::, vabbè torniamoci però
-TO046	esatto magari magari a cinquant'anni con occhi diversi @nomepaese può essere apprezzata molto di più decisamente a vent'anni è difficile difficile
+TO046	sì ecco ecco m~ ecco magari il f atto di essere a eh accentua questo aspetto qua
+TO055	a cinquant'anni magari dici vabbè torniamoci però
+TO046	esatto magari magari a cinquant'anni con occhi diversi può essere apprezzata molto di più decisamente a vent'anni è difficile difficile
 TO055	un po' difficile
 TO055	e hai progetti per quest'estate cosa farai
 TO046	mh

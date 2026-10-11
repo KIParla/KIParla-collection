@@ -3,7 +3,7 @@ BOR006	allora::
 BOR006	e::h la prima domanda è in che zona: di bologna: vivi?
 BOR006	ade:sso
 BOI049	a adesso abito::
-BOI049	in @nomeluogo e che: è: nel quartiere: navile
+BOI049	in e che: è: nel quartiere: navile
 BOR006	mhmh
 BOR006	e: hai sempre vissuto qui?
 BOI049	no
@@ -273,8 +273,8 @@ BOI049	quindi e: da quel punto di vista::
 BOI049	è cambiato tutto °sì sì°
 BOR006	m:h
 BOR006	°immagino°
-BOI049	[noi]:::
 BOR006	[x]
+BOI049	[noi]:::
 BOI049	c'erano ancora:: le cabine telefo:niche:::
 BOI049	°e:::°
 BOR006	((ride))
@@ -409,8 +409,8 @@ BOI049	che siamo qui: a bolo:gna che::
 BOI049	effettivamente:: sì è strano non ((ride))
 BOI049	((ride))
 BOI049	non vederli: dappertutto ecco
-BOI049	[sì]
 BOR006	[ve:ro]
+BOI049	[sì]
 BOR006	(d'a)ccordo
 BOR006	e::
 BOR006	(qu)esta invece:
@@ -470,8 +470,8 @@ BOR006	>più o meno<
 BOR006	d~ quanto:: quanto: lo fai: a settimana?
 BOI049	ah tutti i gio:rni
 BOR006	mh
-BOI049	[tutti i gi]o:rni almeno: un paio d'o:re
 BOR006	[okay]
+BOI049	[tutti i gi]o:rni almeno: un paio d'o:re
 BOR006	mh ottimo
 BOR006	e::hm
 BOR006	resti sempre più o meno: qua nel quartie:re oppure:
@@ -548,8 +548,8 @@ BOR006	c(io)è immagino che cono:sci arpad weisz
 BOI049	sì
 BOR006	l'allenato:re
 BOR006	che avevo visto::
-BOI049	[ebre]o che è finito sì m:h
 BOR006	[x]
+BOI049	[ebre]o che è finito sì m:h
 BOI049	nei campi di: concentramento
 BOR006	mh esa:tto
 BOR006	avevo visto:: a scuo:la un documentario su di lui me lo ricordo
@@ -622,7 +622,7 @@ BOI049	in genera:le e:cco::
 BOI049	e:::
 BOI049	tutta:: quella cla:ssica tipo:: non so
 BOI049	led zeppelin: e: m:h
-BOR006	m mh
+BOR006	mh mh
 BOI049	e:: doors e::
 BOI049	poi: neal young e bob dyla:n
 BOI049	però anche quella::
@@ -681,8 +681,8 @@ BOR006	che mettono sempre in via d'azeglio da: da qualche a:nno
 BOI049	s[ì]
 BOR006	[la] parte con i testi delle:: dei cantau[tori] bologne:si
 BOI049	[ah]
-BOI049	[sì]
 BOR006	[x]
+BOI049	[sì]
 BOR006	li hai visti?
 BOI049	sì sì
 BOR006	e::h secondo me è molto cari:no (.) m::h
@@ -789,7 +789,7 @@ BOR006	mh
 BOR006	s:ì, pr~ prima eravamo: abbastanza invidia:ti [e:: imita~]
 BOI049	[sì eravamo pro]prio:: dei mae:stri °sì sì°
 BOR006	mh, mh,
-BOR006	e:: hm
+BOR006	e:: mh
 BOR006	vai spesso al cinema?
 BOI049	adesso no
 BOR006	((ride)) ovviamen(te)

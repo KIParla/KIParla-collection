@@ -73,8 +73,8 @@ PKP148	che sta: (.) ai bar?
 PKP147	sì:
 PKP147	>sì sì< che sta a melello: (.) [(lì) abitano]
 PKP148	[xxxx] (.) a:h
-PKP149	[mh]
 PKP148	[mh]
+PKP149	[mh]
 PKP148	la:: la su(a) figliola no non me la ricordo ma: sua [mamma me la ric]ordo bene ci saluta sempre quando ci [(si) vede per far] la spesa. sì,
 PKP147	[era piccina]
 PKP147	[ah vedi xx]
@@ -278,7 +278,7 @@ PKP149	oh no
 PKP149	la mat~ la domenica mattina s'alza all'una
 PKP149	mangia,
 PKP147	xxxxxx
-PKP149	#[e arvà a le]tto
+PKP149	# [e arvà a le]tto
 PKP147	mamma mia no io [così no eh]
 PKP149	[guarda x]xx
 PKP148	eh senti io (vi aiuto a) finire sto x[xx:]
@@ -327,7 +327,7 @@ PKP149	quello [l'ha xxx]
 PKP148	[me son fatta un pia][ttino de s]ta bella insalatina e sto s~ m:h (.) squacquerone,
 PKP147	[sì sì (o:h) va finito]
 PKP147	e:::h
-PKP147	#quanta poca voglio c'ho d'arpartire guarda nonna ((ride))
+PKP147	# quanta poca voglio c'ho d'arpartire guarda nonna ((ride))
 PKP148	sì eh
 PKP149	e:h
 PKP147	mh
@@ -355,10 +355,10 @@ PKP147	esat[to]
 PKP148	[st'a]nno è l'anno del drago eh
 PKP147	sì
 PKP148	l'anno bisesto (.) è l'anno del drago
-PKP149	[m::]:h
 PKP147	senti te
+PKP149	[m::]:h
 PKP149	speriamo bene
-PKP147	#sì: alò: sì
+PKP147	# sì: alò: sì
 PKP148	eh oh
 PKP148	andrea
 PKP148	ci sarà per chi è un anno b(u)ono ci sarà per chi è un anno
@@ -558,7 +558,7 @@ PKP147	con la mia mamma (.) una volta la mia mamma è venuta (.) a bologna a ott
 PKP147	s'andò su: al (.) santuario quello che c'è::
 PKP147	a san luca,
 PKP147	a piedi,
-PKP147	#che è (u)n po' (u)na pettatina però (.) >insomma< noi siamo abbastanza abituati quassù
+PKP147	# che è (u)n po' (u)na pettatina però (.) >insomma< noi siamo abbastanza abituati quassù
 PKP147	oh un caldo c'era preso,
 PKP149	eh
 PKP147	<mamma [mia>]
@@ -617,8 +617,8 @@ PKP147	e l'avete venduto alla fine?
 PKP149	(no[i:)]
 PKP148	[no]: è [xx]x
 PKP149	[xxx]
-PKP148	[niente (.) l'<abbiamo tenuto l]à per tanto tempo p[oi]
 PKP147	[no: (no)n se (no)n se vendu~]
+PKP148	[niente (.) l'<abbiamo tenuto l]à per tanto tempo p[oi]
 PKP149	[data] via
 PKP148	e[ra co]sì piccina che la tu(a) zia è piccina (.) non stava a nessuno anche quel [giac]cone (no)n entrava a nes[suno]
 PKP149	[x]
@@ -864,8 +864,8 @@ PKP148	allora lo lascio stare
 PKP148	la finisco per cena
 PKP149	e il borgo qua alla stazione
 PKP148	((tossisce))
-PKP149	[quando]
 PKP147	[per cari]tà
+PKP149	[quando]
 PKP149	lungo lì (.) dove è foni piscine
 PKP148	°mh°
 PKP149	fino davanti al chieli
@@ -880,7 +880,7 @@ PKP147	sì?
 PKP149	fatto già tutto lo (sterro)
 PKP147	non c'ho fatto caso
 PKP148	tre giorni:
-PKP147	#al cantiere di: del >mio babbo< è grosso. citti
+PKP147	# al cantiere di: del >mio babbo< è grosso. citti
 PKP149	eh
 PKP147	stanno rifacendo tutta la fognatura,
 PKP148	io là de lì ci passo con la macchina quando vado (a scuola maestre pi[e)]
@@ -897,7 +897,7 @@ PKP147	[a:h]
 PKP148	[per di] pi[ù:]
 PKP149	[ma] (.) la gente che °deve an[dare:°]
 PKP148	[la gen]te che deve an[dare:]
-PKP149	#[i cit]ti
+PKP149	# [i cit]ti
 PKP148	a prendere i ragaz[zi a scuola]
 PKP149	[eh ades]so siam [xx]
 PKP148	[devon] fare: la d~ e:h [la:] (.) porta roma[na]
@@ -922,8 +922,8 @@ PKP149	scendì lì
 PKP149	ma non è che p(u)oi anda' giù
 PKP147	eh no vai per l'arco della pesa dopo. sal[i su]
 PKP149	[eh eh]
-PKP149	#dopo arvai là
-PKP149	#e i citti (venga) che scappino
+PKP149	# dopo arvai là
+PKP149	# e i citti (venga) che scappino
 PKP149	e:: vanno in su a piedi
 PKP147	vabbè in giù (.) via de pier della francesca non s'è mai fatta comunque [eh]
 PKP149	[eh s]ì (.) no no
@@ -938,7 +938,7 @@ PKP147	((ride))
 PKP148	xx[xx]
 PKP147	[che me sa che] te fa un po' schifo
 PKP148	no:
-PKP147	no che c'hanno a rifà le fognature (.) [] [e: no niente]
+PKP147	no che c'hanno a rifà le fognature (.) [e: no niente]
 PKP148	[m:h]
 PKP149	[oh (.) scherzi]?
 PKP147	beccano qualche:
@@ -1089,13 +1089,13 @@ PKP148	xxxxx
 PKP147	ma ci posso fare per dire anche il risotto:,
 PKP149	xx risotto [è buo]no
 PKP147	[x]
-PKP148	[li met]ti a bagno e più stanno a bagno meglio è. io l'altra sera li [ho messi a bagno]
 PKP147	[eh già]
+PKP148	[li met]ti a bagno e più stanno a bagno meglio è. io l'altra sera li [ho messi a bagno]
 PKP149	[eh van tenuti a ba]gno
 PKP148	de saba[to se~ il saba]to sera
 PKP149	[(devon~) xx]
-PKP148	[in acqua fre(dda)]
 PKP147	[tipo legu:mi]
+PKP148	[in acqua fre(dda)]
 PKP148	le lascio: (.) sì. le lascio li sopra, (.) tutta la notte a bagno
 PKP148	ieri mattina eran belli rinvenuti,
 PKP147	°eh [già°]
@@ -1109,8 +1109,8 @@ PKP148	per vedere se ci sono delle impurità ma sono puliti abbastanza puliti [�
 PKP147	[m:h]
 PKP148	se c'è qualche impurità, qualco[sa, (vedi)]
 PKP147	[qualcuno da but]tare [magari]
-PKP149	[xx]
 PKP148	[qualcuno da] buttare, [ma]
+PKP149	[xx]
 PKP149	[(sab]biolina [la terra)]
 PKP148	[MA:::] m:::h
 PKP148	più che mai c'è un po' de: de terrina, ma: [quella]
@@ -1271,28 +1271,28 @@ PKP149	questa era già pronta
 PKP147	sì
 PKP149	le pizzettine
 PKP147	guarda (.) b(u)ona me piaceva (.) sì sì
-PKP147	#adesso la pizza al taglio è difficile artrovarla al borgo soprattutto
+PKP147	# adesso la pizza al taglio è difficile artrovarla al borgo soprattutto
 PKP149	ma (dov~)
 PKP149	x[xxxxxxx]?
 PKP147	[oddio al ke:nti]a
 PKP149	alla stazione il kentia lì
 PKP147	oddio [(no)n se mangi]a
 PKP148	[xxxx]
-PKP149	#pien(o) de citti
-PKP147	#no a parte pieno de citti (.) ma io ci sono andata con la mia mamma: (.) l'al[tra se]ra,
+PKP149	# pien(o) de citti
+PKP147	# no a parte pieno de citti (.) ma io ci sono andata con la mia mamma: (.) l'al[tra se]ra,
 PKP149	[sì]
 PKP149	(dice che:)
 PKP149	puzz[ava]
-PKP147	#[po:]rca mise~ °ma° semo artornati io m'ero appena lavata i capelli >citti< puzza:vo dopo essere sta[ta due minuti lì]
+PKP147	# [po:]rca mise~ °ma° semo artornati io m'ero appena lavata i capelli >citti< puzza:vo dopo essere sta[ta due minuti lì]
 PKP148	[xxxxxx]
 PKP149	[se vede c]he l'aspiratore funziona [poco]
-PKP147	#[eh no (.) c'era (u)na] mh c'era proprio la nebbia lì dentro [(>io ho detto<) io non c']artorno c[itti]
+PKP147	# [eh no (.) c'era (u)na] mh c'era proprio la nebbia lì dentro [(>io ho detto<) io non c']artorno c[itti]
 PKP148	[(l')aspiratore]
 PKP149	[A:::H allora]
 PKP149	[allora ho c]apito
 PKP148	(ma [lo sai che) (.) lo s]ai te [(che) xxx chiuso]
 PKP149	[xxx]
-PKP149	#[quei citti: (.) erano fuori] che [mangiava(no)]
+PKP149	# [quei citti: (.) erano fuori] che [mangiava(no)]
 PKP147	eh te credo (.) ah pensa davvero?
 PKP149	(sì)
 PKP148	m[e dà l'impressione] che ha chiuso la [carolina]
@@ -1322,9 +1322,9 @@ PKP147	[ma infatti ma quella doveva f]a' la piadina non la ciac[cia]
 PKP149	[e ma] (i)nfatti vedi (.) lei s'è buttata più [lì]
 PKP147	[ah] ecco
 PKP149	eh
-PKP147	#c'hanno arprovato ma non gli è riuscito a far le ciacce
+PKP147	# c'hanno arprovato ma non gli è riuscito a far le ciacce
+PKP147	# [in mille c'hanno arprovato]
 PKP149	[xxx (fa lei) eh]
-PKP147	#[in mille c'hanno arprovato]
 PKP147	le fa?
 PKP149	mh
 PKP147	sì ma
@@ -1333,7 +1333,7 @@ PKP149	su:: (.) calzoni, (.) piadina,
 PKP149	>tutta quella roba lì<
 PKP149	[le pata]tine (no)n le fan più han det[to]
 PKP147	[io:]
-PKP147	#[no:]: tro:ppo lavo:ro citti
+PKP147	# [no:]: tro:ppo lavo:ro citti
 PKP148	[°no°]
 PKP149	eh
 PKP147	uno niente niente butta là anche un po' troppa roba: (.) tra piadine >quello quell'altro< ci scappa anche de fa' le patatine eh
@@ -1365,7 +1365,7 @@ PKP147	sì in[fa]tti
 PKP149	[oh]
 PKP149	la misera [xx]
 PKP147	[in ucrain]a poi
-PKP149	#(no)n argoviscono (.) a sfama' la gente
+PKP149	# (no)n argoviscono (.) a sfama' la gente
 PKP148	molto probabilmente se adesso:: uno avesse il negozio xx devo fare
 PKP148	eh le cose, buone, per il pubblico, devo eh
 PKP148	e:::h av~ non è facile trovare la materia prima buona eh
@@ -1456,8 +1456,8 @@ PKP147	te che u[si °adesso°]?
 PKP148	[ho adotta]to il sistema che uso una farina norma:le
 PKP147	mh
 PKP148	e ci metto un po' d'integrale
-PKP148	[che allo]ra la tiene un pochino più in sé
 PKP147	[ah]
+PKP148	[che allo]ra la tiene un pochino più in sé
 PKP148	però dopo quando vai a (stiglia') quella sfoglia, se sente perché mi piace tanto l'integrale, se sente che
 PKP147	s'attacca ((ride))
 PKP148	((ride))
@@ -1554,7 +1554,7 @@ PKP147	[per] dire. no?
 PKP148	io non c'ho fatto caso se c'è la scade:nza in questo caffè d'orzo
 PKP148	sarebbe xxx
 PKP148	e dopo ieri sera ci volevo guardare quando ho visto che (.) ce n'ho cinque pacchi là
-PKP147	#eh citti
+PKP147	# eh citti
 PKP148	cinque pacchi e poi questo (.) eh
 PKP147	((ride))
 PKP148	ho detto devo guardare la scadenza
@@ -1608,7 +1608,7 @@ PKP148	prima del (.) eh si che xx[xx]
 PKP147	[so' andata] via (.) m'ha venuto a prendere mio zio marco,
 PKP147	tipo:::
 PKP147	che eran tipo le due e mezzo (.) appunto perché il nonno voleva che arrivassi:: un po' (.) sul presto che così loro andavano capito e li salutavo
-PKP147	#e:: e poi: so' artornata dopo cena
+PKP147	# e:: e poi: so' artornata dopo cena
 PKP147	che so' [rimasta dal mi(o) babbo]
 PKP148	[ah era venuto quas]sù marco
 PKP147	so:' scesa giù: (.) glie so' andata (i)ncontro
@@ -1624,10 +1624,10 @@ PKP149	((canta))
 PKP147	sì abbiamo invitato i mi(ei) nonni, (.) e la mi(a) zia ieri
 PKP149	((canta))
 PKP148	la mariaele[na]?
-PKP147	#[la ma]riaelena e le citte
-PKP148	[xx po]co tu(o) babbo eh
+PKP147	# [la ma]riaelena e le citte
 PKP147	[(in)fatti:]
-PKP147	#eh no vabbè m:h (.) ognuno ha: portato qualcosa se no c[itti ((ride)) (devi andare in)]
+PKP148	[xx po]co tu(o) babbo eh
+PKP147	# eh no vabbè m:h (.) ognuno ha: portato qualcosa se no c[itti ((ride)) (devi andare in)]
 PKP148	[xx (.) xx]x[x]
 PKP147	[in quella] cucina minuscola che c'ha
 PKP148	ah la cucina è piccina?
@@ -1645,10 +1645,10 @@ PKP147	a fare gli spet[tacoli qua:]
 PKP148	[fare spet]tacoli qua:
 PKP147	dissemina (.) tutti (.) [ognuno in una] casa ((ride))
 PKP149	[xx]
-PKP148	e:h
 PKP147	((ride))
+PKP148	e:h
 PKP148	((ride))
-PKP147	#eh se no citti gli vien da ridere tutte le [volte x]
+PKP147	# eh se no citti gli vien da ridere tutte le [volte x]
 PKP148	[a pagar]e: (.) a pagargli l'alber[go]
 PKP147	[capi]to?
 PKP148	°eh°

@@ -136,8 +136,8 @@ TO071	di una tua collega
 TO080	si
 TO071	qui che hai incontrato al negozio
 TO071	ma vabbè
-TO080	e sì è @nomepaese
-TO071	è @nomepaese
+TO080	e sì è
+TO071	è
 TO080	che adesso è in provincia di monza e della brianza
 TO071	mhmh
 TO080	prima era sotto milano
@@ -167,7 +167,7 @@ TO080	non è un paesino non è neanche una città
 TO071	okay
 TO080	enorme almeno
 TO080	e noi comunque stiamo un po' più verso la periferia se si può definire periferia
-TO071	quanti abitanti fa @nomepaese?
+TO071	quanti abitanti fa
 TO080	e ventitremila
 TO071	okay comunque una cittadina
 TO080	una cittadina sì
@@ -208,8 +208,8 @@ TO071	ahah
 TO080	però io non me lo ricordo perché ci siamo trasferiti che io avevo due anni
 TO071	ah okay
 TO080	quindi io
-TO071	sempre a @nomepaese
-TO080	sempre a @nomepaese sì
+TO071	sempre a
+TO080	sempre a sì
 TO071	okay
 TO071	ehm
 TO071	poi se non ricordo male l'altra volta parlavamo tu mi hai detto di avere eh origini pugliesi
@@ -335,7 +335,7 @@ TO071	ehm vediamo un po'
 TO071	mettendo a
 TO071	ah hai visssuto domanda preliminare hai vissuto in altre citttà più o meno grandi
 TO071	ne~ ne~ ne~ nella tua vita
-TO080	no eh ho sempre vissuto a @nomepaese
+TO080	no eh ho sempre vissuto a
 TO071	okay
 TO080	prima di
 TO080	torino
@@ -373,7 +373,7 @@ TO080	anche di notte sento i clacson alle tre di notte
 TO080	poi qua esagerano coi clacson quindi
 TO080	e però è bella
 TO071	ti capisco benissimo perché io arrivo da un paese che
-TO071	come dire è un paese anche rispetto a @nomepaese fa settecento abitanti il mio paese
+TO071	come dire è un paese anche rispetto a fa settecento abitanti il mio paese
 TO080	eh sì
 TO080	molto più piccolo
 TO071	anch'io casetta isolata eccetera eccetera sono venuto qui non ho dormito per due mesi
@@ -732,7 +732,7 @@ TO071	può essere
 TO071	dici costituiamo una nicchia
 TO080	esatto
 TO071	oh
-TO071	ehm invece i vicini mh quelli che avevi a casa tu a @nomepaese
+TO071	ehm invece i vicini mh quelli che avevi a casa tu a
 TO071	gli originari
 TO080	no quelli vabbè hanno proprio problemi un figlio grande che non è mai stato curato
 TO080	e cioè proprio non
@@ -768,7 +768,7 @@ TO080	che si è spaventata a morte sentendo il rumore
 TO071	chiaro
 TO071	okay animali invece ne hai mai avuti
 TO080	sì ho un cagnolino un barboncino
-TO071	lì a @nomepaese
+TO071	lì a
 TO080	sì
 TO071	quanti anni ha
 TO080	mh quasi dieci

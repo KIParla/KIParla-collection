@@ -51,7 +51,7 @@ PKP125	e che c'ha messo xx?
 PKP127	solo il pesto
 PKP125	ah
 PKP127	non ti piace?
-PKP125	#no sape e niente sì
+PKP125	# no sape e niente sì
 PKP126	((ride))
 PKP127	adoro
 PKP126	((ride))
@@ -254,7 +254,7 @@ PKP126	io rimasi dissi AH
 PKP126	così tanto olio? però non dissi [niente perché se no sì::]
 PKP127	[vabbè se c'hai detto così]
 PKP126	magari sai
-PKP125	#si mette a chiagne
+PKP125	# si mette a chiagne
 PKP126	poteva: (.) prendersela
 PKP125	eh amo' ma io così lo faccio il pollo
 PKP126	((ride))
@@ -315,7 +315,7 @@ PKP125	quando venimmo a pulire la casa qua no?
 PKP125	che poi anda[i a] mangiare da lei
 PKP127	[eh]
 PKP127	m:h
-PKP125	#facette nu kile e pasta
+PKP125	# facette nu kile e pasta
 PKP127	per quATTRO?
 PKP125	no n~ un kilo settecento grammi di pasta
 PKP127	eh [vabbè ma] perché quello il padre se ne mangia assai io so
@@ -430,7 +430,7 @@ PKP126	ma sono buone
 PKP126	è vero (.) però
 PKP127	no so bruttissime
 PKP126	ROSA
-PKP126	#sanna cunsuma' se fai questa cattiva [pubblicità ALBERTO NON SE LE MANGIA] eh
+PKP126	# sanna cunsuma' se fai questa cattiva [pubblicità ALBERTO NON SE LE MANGIA] eh
 PKP127	[lo so ma non mi PIACCIONO ah]
 PKP125	ma a me neanche piacciono mi piacciono solo quelle di mamma
 PKP126	Sì
@@ -462,7 +462,7 @@ PKP127	no ma ce ne sono delle marche in barattolo che sono buone ma queste sono 
 PKP126	vabbè [queste so]no (.) d'amico in teoria dovrebb~ le x cioè è una marca buona] costa
 PKP127	[xx]
 PKP125	[COSTANO EH]
-PKP127	#°eh [nu me piace°]
+PKP127	# °eh [nu me piace°]
 PKP125	[cos]tano queste
 PKP127	e come ma~ mamma l'ha comprate?
 PKP126	((ride))
@@ -546,7 +546,7 @@ PKP127	[ho ta]nte: qualità ma queste cose si scoccia
 PKP125	°eh si scocc~° ma pure mia mamma
 PKP125	io a volte l'aiuto a mia mamma a farle ma ti uccidi
 PKP125	è proprio: fisicamente stancante
-PKP125	#tagliarle, strizzarle: poi c vo' nu sacch e aceto
+PKP125	# tagliarle, strizzarle: poi c vo' nu sacch e aceto
 PKP127	comunque è impressionante quando passa la gente e parla sembra che sta nel cortile di ma[tteo]
 PKP125	[mhm]h
 PKP126	adesso preparatevi ad avere un orgasmo perché queste melanzane (.) sono (.) spettacolari
@@ -688,7 +688,7 @@ PKP127	[<sto p:er vomi]tare>
 PKP126	la merda
 PKP127	<addirittura>?
 PKP126	sì: [infatti io] (.) la reputai un poco esagerata quella:
-PKP125	#[quanta vuom]mach
+PKP125	# [quanta vuom]mach
 PKP127	con tutto il bene però
 PKP127	vabbè
 PKP126	de gustibus alla fine
@@ -778,7 +778,7 @@ PKP126	((ride))
 PKP126	shady
 PKP125	ricetta svuota f[rigo]
 PKP127	[lo sai] sto proprio bene cioè sento quasi freschetto
-PKP126	#beata a te i sto surann
+PKP126	# beata a te i sto surann
 PKP127	[veramente]?
 PKP125	[io sono in mut]ande
 PKP126	((ride))
@@ -827,12 +827,12 @@ PKP126	è rimasto un altro pancake se vuoi
 PKP127	u::h [ma quanti ne avete fa~]?
 PKP126	[mangiati tu il pancake e io mi mangio il] gelato che ne dici
 PKP126	((ride))
-PKP125	#mo to [chiavo n' faccia] stu pancake
+PKP125	# mo to [chiavo n' faccia] stu pancake
 PKP127	[stronzo]
 PKP125	poi che è rimas~ poi abbiamo mangiato
 PKP126	[io [a pranzo ho esagerato]
 PKP125	[tanto da tua non]na
-PKP125	#quatt gilat sa mangiat 'stu puorco
+PKP125	# quatt gilat sa mangiat 'stu puorco
 PKP126	quattro gelati è esa~ non è vero xx >A PARTE IL FATTO CHE< abbiamo mangiato la STESSA quantità di gelato
 PKP125	tu ne hai mangiati di più
 PKP126	NO ALBERTO
@@ -853,7 +853,7 @@ PKP126	io ho detto voglio questo però voglio anche quello al caramello
 PKP126	quindi ho mangiato UNO DI QUELLI e ho dato L'ALTRO a lui e ho mangiato quello al caramello la stessa quantità che ha mangiato lui uguale identico
 PKP126	quindi la cosa che adesso io sono il porco e tu no
 PKP126	lasci[amo stare]
-PKP127	#[vabbuò comunque] in generale per una giornata:: c'è stato tanto cibo un po' chiatto
+PKP127	# [vabbuò comunque] in generale per una giornata:: c'è stato tanto cibo un po' chiatto
 PKP126	ma è domenica è festa
 PKP127	[eh lo so però::]
 PKP126	[lo sanno tutti]
@@ -867,7 +867,7 @@ PKP126	IERI HO MANGIATO L'INSALATINA
 PKP126	((ride))
 PKP127	no non mi guardare così che ha detto
 PKP126	d[evo mettere l'olio dentro]
-PKP125	[vuoi sapere che c'era n]ell'insalatina dentro l'insalati~> c'erano [i <cub]etti>
+PKP125	[vuoi sapere che c'era n]ell'insalatina dentro l'insalati~>c'erano [i<cub]etti>
 PKP127	[che c'era]?
 PKP127	di formaggio e [di salame l'ha <detto>]
 PKP125	[<di provolone e i cu]betti di sa~ e ti sembra un'isalatina
@@ -906,7 +906,7 @@ PKP125	assumiamoci le responsabilità
 PKP125	che noi già viviamo in una terra di merda che ci porta naturalmente a morire prima poi mangiamo anche molto male
 PKP127	però tipo ieri avete mangiato [patatine fritte]
 PKP126	[parla per te io non abito] qua
-PKP125	#matteo ma va cach
+PKP125	# matteo ma va cach
 PKP127	avete mangiato [xxx]?
 PKP126	[sì ma questo gay dra]ma non ho capito: sta cosa che
 PKP126	per forza dobbiamo litigarci ogni volta
@@ -1072,7 +1072,7 @@ PKP126	cioè tra verità non verità non ho ancora capito [dove sta]
 PKP125	[più tra de]tto e non detto [x]
 PKP126	[esa]tto però il s~ la versione che io credo sia
 PKP126	è che lei ha >iniziato a lavorare in fabbrica<
-PKP126	#mio nonno era onestamente a quanto pare pace all'anima soja ma un uomo::
+PKP126	# mio nonno era onestamente a quanto pare pace all'anima soja ma un uomo::
 PKP126	molto interessato a avere esperienze sessuali con chiunque
 PKP126	e quindi ne ha approfittato de~ di una sua dipendente
 PKP126	e: si è creata questa storia e mia nonna alla è uscita incinta dalla cosa e l'ha convinto a sposarsi e lasciare la moglie
@@ -1092,7 +1092,7 @@ PKP126	[uguale]
 PKP127	amo' però [pure tuo zio]
 PKP126	[bruttissimo]
 PKP126	infatti mia [nonna]
-PKP127	#[a ogni du]e tre tene na [femmena divers]
+PKP127	# [a ogni du]e tre tene na [femmena divers]
 PKP126	[infatti mia nonna] ha un rapporto
 PKP126	di amore e odio con il figlio
 PKP126	[perché è <UGUALE> al marito]
@@ -1115,7 +1115,7 @@ PKP126	[sì perché noi teniamo] questo naso bello particol[are]
 PKP127	[sì:]
 PKP126	però
 PKP126	mio pa:dre e a me sta un po' meglio invece a mio nonno e mio zio sta proprio <male>
-PKP126	#cioè e po pare na::
+PKP126	# cioè e po pare na::
 PKP125	per esempio tua sorella marina un po' assomiglia un po' anche a tua zia claudia ma sempre per questo naso che ha
 PKP126	sì:
 PKP127	eh però l'ho sentito dire spes[sso:]
@@ -1132,7 +1132,7 @@ PKP126	che poi vabbè
 PKP126	con marina tutti quanti hanno un buon rapporto però marina tiene anche il suo carattere quindi:
 PKP126	fino a un certo punto
 PKP125	°in che senso scusa°
-PKP126	#cioè nel senso che sì le vuole bene eccetera però poi ovviamente ((ride)) anche la nonna ha detto na suppurtava chiu a soret che mi chie[de]va:
+PKP126	# cioè nel senso che sì le vuole bene eccetera però poi ovviamente ((ride)) anche la nonna ha detto na suppurtava chiu a soret che mi chie[de]va:
 PKP125	[(vero)]
 PKP126	di: del di fare perché ha chiesto [di fare: la::]
 PKP127	[a:h perché <insi]ste>
@@ -1262,7 +1262,7 @@ PKP126	arrivati
 PKP126	da >sono stati creati in america< anche se in realtà: una storia dice che sono stai creati tipo a GENOVA
 PKP127	x[xx]
 PKP126	[poi da genova so]no arrivati in america e dall'america sono:: [pfum]
-PKP127	#[cu cristoforo colo]mbo so iuti
+PKP127	# [cu cristoforo colo]mbo so iuti
 PKP126	sì tipo hanno fattə nu giro esagerato
 PKP126	però comunque dice la nonna che
 PKP126	nel dopoguerra che hanno iniziato hanno gira:re vari jeans
@@ -1277,7 +1277,7 @@ PKP127	questa globalizzazione ha rotto le scatole un po' a tutt[i]
 PKP126	[sì]:
 PKP126	poi nel frattempo in realtà loro erano ricchi
 PKP126	quindi seocondo me anche la cosa di dire cioè okay
-PKP126	#devo portare avanti questa azienda, lavorare (.) per avere meno di quanto ero abituato ad avere nun ne val manc a pena potevano campare di rendita tranquillamente
+PKP126	# devo portare avanti questa azienda, lavorare (.) per avere meno di quanto ero abituato ad avere nun ne val manc a pena potevano campare di rendita tranquillamente
 PKP126	arrivati a quel momento storico
 PKP127	ma arri[vati pure] alla loro età cioè comunque penso che tua nonna già:: quanti anni aveva?
 PKP126	[e infatti]
@@ -1297,7 +1297,7 @@ PKP126	no?
 PKP125	se lei mo ne ha settantacinque
 PKP126	allora no
 PKP125	era più giovane
-PKP126	#sì anche >perché mio padre l'avuto che teneva< diciotto diciannove anni quindi agg itt na strunz[at]
+PKP126	# sì anche >perché mio padre l'avuto che teneva< diciotto diciannove anni quindi agg itt na strunz[at]
 PKP127	[eh allora no] no[n: cioè effet]tivamente con l'età [era ancora giovane] eh
 PKP126	[ho detto una bugia]
 PKP126	[era giovane allo]ra
@@ -1311,7 +1311,7 @@ PKP126	[sì] e poi anche dal punto di vista della salute lei ha avuto varie bato
 PKP127	[eh ma certo]
 PKP125	[però] alla fine vedi la vita: è: cioè lei ha avuto una vita pie~ pienissiMA
 PKP127	ho capito però con tutto il bene m:h la perdita della figlia io me la sarei risparmiata
-PKP126	#e:h vabbè chi è che a vuless
+PKP126	# e:h vabbè chi è che a vuless
 PKP127	cioè: ho capito il manicomio ho capito quello che vuoi ma secondo me
 PKP125	sì sì ma si sente che è l'unica cosa proprio di cui lei non:
 PKP126	vabbè ma penso sia normale che::
@@ -1429,14 +1429,14 @@ PKP125	ne tanto meno la: il carisma p[er:]
 PKP126	[mio] nonno aveva almeno a quanto dico~ cioè i soldi sicuramente quello x ma anche il carisma di fa~ di riuscire a farlo
 PKP125	beh era comunque [un imprendito~]
 PKP127	[vabbè scusa] tuo zio non l'abbiamo mai visto:: all'opera quindi magari che ne sai
-PKP126	#amo' mio zio è nu cas perz però
+PKP126	# amo' mio zio è nu cas perz però
 PKP125	è veramente difficile credere che lui riesca con le donne
 PKP127	((ride))
 PKP126	cioè
 PKP126	lui (.) la maggior parte delle donne che si è riu~ cioè che che che l'ha FATTO TANTE VOLTE
 PKP126	ma è era (.) donne dell'est che contattava su facebook promett[endogli]: cioè dicendo che era ricco e che aveva una vita wow
 PKP127	[m:h]
-PKP126	#e loro venivano qua: e poi scoprivano che in realtà nun teneva manch n'euro e ((ride)) finivano che mia nonna doveva pagargli il viaggio di ritorno a casa a queste
+PKP126	# e loro venivano qua: e poi scoprivano che in realtà nun teneva manch n'euro e ((ride)) finivano che mia nonna doveva pagargli il viaggio di ritorno a casa a queste
 PKP126	°cioè° e st~ questa cosa è dura~ è successa con <molte donne>
 PKP126	<per molti anni>
 PKP126	quindi
@@ -1495,7 +1495,7 @@ PKP127	[scuola cadute] quelle fatte di amianto
 PKP126	ma l'amianto me lo immagino diverso non lo so poi eh
 PKP125	matteo l'amianto l'hai mai visto [xx] di amia~ (.) eh quel
 PKP126	[sì]
-PKP126	mi sembra: più:[]
+PKP126	mi sembra: più:
 PKP125	[x] però l'amianto effettivamente non è sgretola si [si] si spolveriz[za]
 PKP126	[eh]
 PKP126	[E]SATTO fa le polveri ma non: si s~ non perde i pezzetti~ le briciole

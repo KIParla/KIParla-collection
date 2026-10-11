@@ -240,8 +240,8 @@ BOI073	oppure se matteo può ospitarla esce il sabato sera xxx
 BOI072	esatto dipende tutto se
 BOI072	se matteo ha posto
 BOR018	la unica condizione se matteo ha posto a casa
-BOI072	esatto allora posso uscire
 BOI073	esatto
+BOI072	esatto allora posso uscire
 BOR018	ehm ma ecco
 BOR018	bologna la vedi come una città sicura anche per starci la sera per uscire oppure
 BOI072	mh non molto in realtà cioè per quel che mi riguarda ogni volta che
@@ -263,7 +263,7 @@ BOI072	quasi le otto
 BOI072	e io dovevo prendere il treno per tornare a casa e tipo c'era un gruppo di ragazzi che mi aveva puntato e praticamente
 BOI072	infatti ho dovuto chiamare
 BOI072	tipo mio padre e avvisarlo di venirmi a prendere in alla fermata perché infatti quando sono scesa loro sono scesi con me perché volevano seguirmi e tuttio il resto
-BOR018	mado:'
+BOR018	mado'
 BOI072	sì e quindi io
 BOI072	quando hanno visto poi che sono andata
 BOI072	son salita in macchina con mio padre
@@ -764,9 +764,9 @@ BOI072	cioè i miei genitori erano via così m'ero svegliata voi che dormiva~ do
 BOI073	mh
 BOI072	io stavo facendo pipì
 BOI072	e a un certo punto entro lo
-BOI072	entro nella mail
 BOR018	questa informazione
-BOI072	t m i
+BOI072	entro nella mail
+BOI072	t mh i
 BOI072	too much information
 BOI072	ehm
 BOI072	mi arriva la mail e praticamente dico
@@ -806,7 +806,7 @@ BOI072	mhmh mh
 BOI073	e
 BOR018	me lo sono trovato ricco
 BOI072	eh brava
-BOI073	u' cazz
+BOI073	# u' cazz
 BOI073	e
 BOI073	e quindi cioè
 BOI073	cioè ne~ nel lazio ci stanno un sacco di rossi però
@@ -817,7 +817,7 @@ BOI073	quindi il castello rossi effettevamente potrebbe
 BOI073	appartenere a qualcuno che
 BOI072	è mio
 BOI073	no però dico potebbe avere qualche correlazione
-BOR018	ci pijjam tutt chill che è nostr qua
+BOR018	# ci pijjam tutt chill che è nostr qua
 BOI072	esatto
 BOI073	perché io tipo tra gli amici cioè io conosco tre persone rossi come me però io so l'unico tra tutti e tre che
 BOI073	ha sempre avuto radici in isola del liri cioè dalla parte di mio padre
@@ -997,7 +997,7 @@ BOI072	adesso tipo
 BOI072	ho fatto un colloquio per cui dovrei iniziare a lavorare per
 BOI072	tipo
 BOI072	uno dei ehm
-BOI072	h and m come cassiera
+BOI072	h and mh come cassiera
 BOR018	mh
 BOI072	lì
 BOI072	per cui se magari vado in centro magari vedo anche qualche amico
@@ -1037,7 +1037,7 @@ BOR018	di mhmh s~ sentire il confronto con le altre persone io ho fatto palestra
 BOI072	mhmh
 BOI073	e ma certe persone comunque lo pensano
 BOR018	eh sì
-BOI073	cioè le altre persone in palestra so' tutti un po' sboroni che si confrontano con gli altri
+BOI073	# cioè le altre persone in palestra so' tutti un po' sboroni che si confrontano con gli altri
 BOI073	cioè in palestra c'è sempre sto clima un po' di competizione
 BOI073	anche se non lo dai a vedè
 BOI072	esatto

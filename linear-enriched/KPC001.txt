@@ -1,7 +1,7 @@
 PKP025	faccio il tè
 PKP026	(°allora°)
-PKP025	[accendo]?
 PKP026	[va bene]
+PKP025	[accendo]?
 PKP026	ci fermiamo un attimo e prendiamo il tè e la tisana
 PKP025	(tè)
 PKP025	((accende_il_gas))
@@ -15,9 +15,9 @@ PKP026	quella al caffè e amaretto
 PKP025	<caffè e amarett[o]>
 PKP026	[mh] mh
 PKP025	io?
-PKP025	[limone]
 PKP026	[tè al limo]ne
-PKP025	#voi co fate sabato
+PKP025	[limone]
+PKP025	# voi co fate sabato
 PKP026	sabato: <ho prenotato:> (.) in un ristorante che c'è una cena,
 PKP025	dove
 PKP026	e::h a senigallia, c'è la cena con il dj e volendo: ti puoi mascherare, è il sabato di carneval[e]
@@ -73,7 +73,7 @@ PKP025	[okay >per la cas]a però lei< ha detto che non: vuole niente (.) poi non
 PKP025	pra[nzo]
 PKP026	[>vabbè] però< un pensie:ro per il pra[nzo]
 PKP025	[un pensiero] >però< (.) no(n) regalone
-PKP025	#>co je fo<
+PKP025	# >co je fo<
 PKP026	qualcosa dal fioraio (.) per la casa
 PKP025	>il fioraio<
 PKP026	un soprammobile c'ha delle cose::
@@ -147,13 +147,13 @@ PKP026	[e allora]?
 PKP026	eh >vabbè<
 PKP025	però tipo a giulia:
 PKP026	tu ci vai sempre a ce:na: >stai< con la bambi:na
-PKP025	#[>infatti< io] ho detto in caso:: te fo [da babysi]tter
+PKP025	# [>infatti< io] ho detto in caso:: te fo [da babysi]tter
 PKP026	[cioè]
 PKP026	[ci sta]
 PKP026	che t'ha [invi]tato >è normale<
 PKP025	[boh]
-PKP025	[e quindi sabato]
 PKP026	[io andrei da:l f]iora:io e farei un pensiero lì glielo porta lui, (.) da parte tu:a e stop (.) per la casa
+PKP025	[e quindi sabato]
 PKP025	solo i fiori
 PKP026	ma fiori piante:: fiori finti ci son quelle composizioni belle [proprio che arre]dano
 PKP025	[>allora< glielo:]
@@ -222,7 +222,7 @@ PKP025	[la pianta]
 PKP026	CERTO
 PKP025	no io se è gli faccio il bouquet
 PKP026	ma un BOUQUET
-PKP025	#o n'je fo niente ((ride))
+PKP025	# o n'je fo niente ((ride))
 PKP026	>ci sono quelle composizioni nel< ve:tro: ci sono tante di quelle cose be:lle
 PKP025	°mh°
 PKP026	fa piacere magari sabato lo riceve no?
@@ -396,7 +396,7 @@ PKP025	[esatto]
 PKP025	le porte erano chiuse mentre nell'altra principale era aperto >quindi< (.) più fresco più ((ride)) profumato
 PKP025	all'afro era proprio:
 PKP025	<t[utto annebbiato>]
-PKP026	#[comunque noi siamo stati] costretti a anda(re) via perché lì >ce semo s~ ci siam< fermati (u)n attimo che c'era le po:~ il: posto pe(r) sta(re) sedu:ti
+PKP026	# [comunque noi siamo stati] costretti a anda(re) via perché lì >ce semo s~ ci siam< fermati (u)n attimo che c'era le po:~ il: posto pe(r) sta(re) sedu:ti
 PKP025	dove
 PKP026	in quella lì rossa piccolina, e dei ragazzini <ci guardavano:: malissimo>
 PKP025	((ride))
@@ -419,8 +419,8 @@ PKP025	è che anche la cena: >cioè<
 PKP026	la cena non è cena
 PKP025	ma (.) [la vol]ta prima però (.) le trofie
 PKP026	[>fai la fame<]
-PKP025	[tartufo]
 PKP026	[>°eh vabbè°< c'e]ra i gnocchi
+PKP025	[tartufo]
 PKP025	<la grigliata> °>cioè<° era buo~
 PKP025	i gnocchi con le bacche
 PKP026	°>vabbè< [i gno]cchi erano buoni (.) [però°]
@@ -670,7 +670,7 @@ PKP026	[ah °o]kay°,
 PKP026	ancora è presto non mi va
 PKP025	le quattro
 PKP025	oppure,
-PKP025	#°co prendo°
+PKP025	# °co prendo°
 PKP025	°aiuto°
 PKP025	lo yogurt c'è
 PKP026	no
@@ -682,9 +682,9 @@ PKP026	forse a senigalli[a]
 PKP025	[do]ve
 PKP026	a senigallia in un posto per: il metano
 PKP026	per bloccare il prezzo del metano
-PKP025	#co vol dì
+PKP025	# co vol dì
 PKP026	bloccar le tariffe perché: se no aumenta di continuo
-PKP025	#co(sa) devi blocca'
+PKP025	# co(sa) devi blocca'
 PKP026	il prezzo
 PKP026	fissiamo il contratto:: a una ci[fra]
 PKP025	[ma do]ve
@@ -731,7 +731,7 @@ PKP026	((inspira)) [eh]
 PKP025	[>anche<] gian col padre
 PKP026	co[l p~]
 PKP025	[ho v]isto dove abit[a]
-PKP026	[c]ol padre di lui[]?
+PKP026	[c]ol padre di lui?
 PKP025	[(c]ol)
 PKP025	o:ddio
 PKP025	°ho° fatto un mace°llo°

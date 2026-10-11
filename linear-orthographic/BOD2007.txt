@@ -9,7 +9,7 @@ BO052	grazie
 BO049	bene allora inizierò con alcune domande
 BO049	ti vorrei chiedere intanto dove vivi in che città vivi cosa fai
 BO049	parlami pure di di dove vivi
-BO052	okay allora abito a @nomepaese
+BO052	okay allora abito a
 BO049	okay
 BO052	in una in una casa a due piani
 BO052	sopra abito io con la mia famiglia e sotto abita mia zia
@@ -120,8 +120,8 @@ BO049	okay
 BO052	poi mia sorella quella più grande aveva eh ha preso il diploma lei quindi tutto il giorno sta a suonare il flauto traverso
 BO049	ah
 BO052	e quindi insomma eh diciamo che io mi mi faccio sentire molto meno di di lei quando suono
-BO052	ehm
 BO049	ehm
+BO052	ehm
 BO049	nel nel tuo quartiere ci sono ci abitano anche dei i tuoi amici conosci bene i tuoi vicini che tipo di quartiere è
 BO052	sì ci abitano tantissimi amici ma perché è un quartiere un quartiere residenziale
 BO052	e cioè i miei amici molti amici sono abitano vicino a me ma anche a cinquanta metri da me
@@ -132,11 +132,11 @@ BO052	con~ con alcuni poi chiaro che altri son dall'altra parte della città per
 BO049	sì sì
 BO052	il quartiere è un quartiere molto
 BO052	mh è un quartiere abbastanza mol~ cioè abbastanza nuovo perché
-BO052	ehm diciamo che @nomepaese è una città eh insomma dal punto di vista storico un quartiere abbastanza nuovo addirittura adesso hanno costruito tantissime case nuove si sta proprio espandendo
+BO052	ehm diciamo che è una città eh insomma dal punto di vista storico un quartiere abbastanza nuovo addirittura adesso hanno costruito tantissime case nuove si sta proprio espandendo
 BO049	okay
 BO052	il quartiere
 BO052	eh però sì i miei amici storici sono li ho conosciuti nel quartiere
-BO049	e tu come come ti muovi per @nomepaese
+BO049	e tu come come ti muovi per
 BO052	eh
 BO049	che mezzi di trasporto utilizzi
 BO052	uso spesso la bici
@@ -147,7 +147,7 @@ BO052	uso spesso la bici sì sì sì
 BO049	sei vicino a tutto quindi
 BO052	eh a tutto tutto no
 BO052	per esempio quando facevo atletica
-BO052	eh per i primi due anni sono venuto in bici però essendo dall'altra parte della città perché @nomeluogo è dalla parte opposta
+BO052	eh per i primi due anni sono venuto in bici però essendo dall'altra parte della città perché è dalla parte opposta
 BO052	diciamo che sì facevo
 BO049	però comunque ti piace muoverti perché se vai in bici per andare al campo d'atletica
 BO052	no no ma
@@ -226,10 +226,10 @@ BO052	no no ma infatti cioè a piedi sono venti minuti a piedi si fa
 BO049	si risparmia anche
 BO052	insomma
 BO052	però sì ma io andrei a bologna soprattutto come città
-BO052	perché
 BO049	cosa ti piace di bologna
+BO052	perché
 BO052	eh cioè bologna a me a parte la città che mi sembra cioè mi pare bellissima
-BO052	eh no cioè sicuramente a livello culturale è cioè è tutta un'altra cosa rispetto a @nomepaese che è che è in provincia
+BO052	eh no cioè sicuramente a livello culturale è cioè è tutta un'altra cosa rispetto a che è che è in provincia
 BO052	eh cioè ci sono incontri ci sono cineforum molto più seri di quelli organizzati da noi
 BO052	insomma ci sono tantissimi
 BO052	ci possono essere talmente tanti spunti a bologna che
@@ -266,7 +266,7 @@ BO049	punti a tuo favore
 BO049	ehm quando un giorno vivrai da solo dove ti piacerebbe vivere
 BO052	ehm mi piacerebbe vivere
 BO049	proprio magari in futuro anche al di là dell'università
-BO052	no ma coi mieicoi miei amici stavamo pensando di andare a abitare cioè sempre qui a @nomepaese però in casa in casa per conto nostro
+BO052	no ma coi mieicoi miei amici stavamo pensando di andare a abitare cioè sempre qui a però in casa in casa per conto nostro
 BO049	ah
 BO049	sì
 BO052	e perché alcuni già lavorano e comunque riescono a mantenersi cioè se l'affitto ovviamente non è non è altissimo
@@ -319,15 +319,15 @@ BO052	no ma alla fine io m'adatto molto cioè alle situazioni quindi
 BO049	sì
 BO052	cioè è chiaro che insomma se devo stare se devo patire il freddo in inverno magari no però
 BO052	però si insomma
-BO049	però ti piacerebbe rimanere a @nomepaese nonostante sia una piccola città
-BO052	ma sì @nomepaese si vive bene alla fine
+BO049	però ti piacerebbe rimanere a nonostante sia una piccola città
+BO052	ma sì si vive bene alla fine
 BO049	non vuoi andare in una metropoli
 BO052	cioè ho ho i miei amici qui quindi
 BO052	no ma bologna appunto per~ più che altro per l'esperienza
 BO049	sì
 BO049	bologna per l'esperienz~
 BO052	cioè poi magari e se riesci anche a trovarti il giro e anche il lavoro magari anche star là cioè nel senso
-BO052	non lo metto non lo do comunque per scontato però sì a @nomepaese insomma sto abbastanza bene dai
+BO052	non lo metto non lo do comunque per scontato però sì a insomma sto abbastanza bene dai
 BO052	c'ho gli amici
 BO052	c'ho mia nonna che mi fa da mangiare tutti i giorni
 BO049	ecco
@@ -338,10 +338,10 @@ BO052	insomma è si sente che è spesso da s~ cioè insomma si sente sola quindi
 BO049	è spesso
 BO049	abita lontano da te
 BO052	no abita abita molto vicino eh abita anche lei a cinquanta metri una nonna la nonna materna l'altra nonna invece
-BO052	sempre a @nomeluogo però un po' più lontano
+BO052	sempre a però un po' più lontano
 BO049	ah quindi abitate più o men~ comunque alla fine abitate tutti vicini anche se~ anche se è più lontana l'altra è sempre xxx stesso quartiere
 BO052	sì cioè mia nonna in bici ci metto dieci minuti a andare
-BO052	però cioè @nomeluogo alla fine t'ho detto è un quartiere è un quartiere molto grande poi si è~ si è espanso ancora di più quindi
+BO052	però cioè alla fine t'ho detto è un quartiere è un quartiere molto grande poi si è~ si è espanso ancora di più quindi
 BO052	eh sì insomma ci vuole un po' per girarlo anche anche in bici
 BO052	però sì mia nonna abita mia nonna materna abita molto vicina a me mh mh
 BO049	okay quindi la vedi spesso e e casa sua com'è ti piace casa sua
@@ -370,12 +370,12 @@ BO049	okay
 BO052	eh perché i suoi due figli sono grandi xxx i miei cugini sono sono molto grandi quindi sono già andati via
 BO049	sono usciti di casa
 BO052	una addirittura ehm è sposata ha due figli e
-BO049	e e li vai a trovare ogni tanto sono anche loro a @nomepaese
-BO052	sì si no sono anche loro a @nomepaese
-BO049	tutti a @nomepaese bene
+BO049	e e li vai a trovare ogni tanto sono anche loro a
+BO052	sì si no sono anche loro a
+BO049	tutti a bene
 BO052	sì pratic~
-BO052	è il quartiere xx con una casa nuova e il quartiere di @nomeluogo
-BO049	tutti a @nomeluogo
+BO052	è il quartiere xx con una casa nuova e il quartiere di
+BO049	tutti a
 BO049	ah okay
 BO052	eh no sì insomma
 BO052	siamo molto vici~ cioè in linea d'aria siamo molto vicini poi è chiaro che trovarsi
@@ -478,7 +478,7 @@ BO052	perché
 BO052	sì quindi siamo andati
 BO052	eh anche lì insomma è stato un po'
 BO052	dopo due ore di macchina siamo arrivati prestissimo
-BO052	cioè siamo arrivati lì che la spiaggia era:: cioè non c'era ancora troppa gente quindi
+BO052	cioè siamo arrivati lì che la spiaggia era cioè non c'era ancora troppa gente quindi
 BO052	la mattina ci siam messi subito lì e la spiaggia era bellissima e quello secondo me è stato il momento più più bello della vacanza
 BO052	eh
 BO052	ma perché cioè la gente insomma
@@ -521,9 +521,9 @@ BO052	ma adesso ho ripreso a correre
 BO049	sì
 BO052	eh
 BO049	corri vicino a casa oppure ci son dei posti
-BO052	sì corro sempre per @nomeluogo
-BO049	sempre @nomeluogo
-BO052	no però diciamo che siccome corro abbastanza riesco ad andare anche insomma fuori proprio dalla @nomeluogo residenziale
+BO052	sì corro sempre per
+BO049	sempre
+BO052	no però diciamo che siccome corro abbastanza riesco ad andare anche insomma fuori proprio dalla residenziale
 BO049	okay
 BO052	quasi verso la campagna
 BO052	cioè in zone dove
@@ -579,13 +579,13 @@ BO052	stanno costruendo anche un'altra tipo pompa di benzina di fianco a un'altr
 BO049	si sta allargando molto allora
 BO052	no sì sì quello sì
 BO049	però
-BO052	più che altro tra un po' arriva a inglobare anche gli altri paesini tipo @nomeluogo cioè pian piano
+BO052	più che altro tra un po' arriva a inglobare anche gli altri paesini tipo cioè pian piano
 BO049	in un quartiere unico
 BO052	mh
 BO049	quindi è un quartiere grande in espansione
 BO052	sì sì molto in espansione
 BO049	e ci sono anche dei locali che frequenìnti o con cui
-BO052	no ehm a @nomeluogo ce n'è uno didi pub diciamo
+BO052	no ehm a ce n'è uno didi pub diciamo
 BO049	e tu ci vai spesso oppure
 BO052	però
 BO052	no è un pub che non mi piace molto no spesso quando esco vado in centro
@@ -597,7 +597,7 @@ BO052	che comunque non è lontano da casa mia perché sono comunque
 BO049	sì
 BO049	sempre in bici quindi
 BO052	sempre in bici dieci minuti
-BO052	no da quel punto di vista lì @nomepaese è è una città dalledalle giuste grandezze secondo me
+BO052	no da quel punto di vista lì è è una città dalledalle giuste grandezze secondo me
 BO049	sì
 BO052	anche se è in espansione
 BO049	quindi ti trovi bene a girare

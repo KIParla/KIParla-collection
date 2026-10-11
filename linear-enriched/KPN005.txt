@@ -73,8 +73,8 @@ PKP018	no
 PKP018	cioè non ho mai guardato >anche perché< perché mi addormento guarda
 PKP014	((ride))
 PKP018	il telecomando è vostro fate come volete buon appetito
-PKP014	[buon appetito]
 PKP015	[buon appetito]
+PKP014	[buon appetito]
 PKP013	[buon appe]tito
 PKP018	ah argentero::
 PKP018	è molto carino
@@ -85,8 +85,8 @@ PKP018	la s[posto]?
 PKP014	[inutili] sì
 PKP018	ok
 PKP018	no io guardo cortesie per gli ospiti
-PKP013	[m:h] anch'io sempre
 PKP015	[m:h]
+PKP013	[m:h] anch'io sempre
 PKP018	lui è è è [veramente f]ine
 PKP015	[con csaba]
 PKP013	mhmh
@@ -476,7 +476,7 @@ PKP018	contrattando
 PKP014	sì cioè in teo[ria se vivi qua] dovresti esser sere:no
 PKP018	[per comprare]
 PKP013	mh
-PKP018	io dovrei []veder~ far] vedere quando loro non se ne accorgono la casa nel bosco
+PKP018	io dovrei veder~ far] vedere quando loro non se ne accorgono la casa nel bosco
 PKP014	[come copp~]
 PKP018	presente quel video?
 PKP014	non mi ricordo
@@ -841,8 +841,8 @@ PKP018	tirami su quell'albero dico soccia dici questi fanno voce gro[ssa]
 PKP014	[sì]
 PKP018	poi vengo a sapere dalla caterina due settimane fa dalla nonna
 PKP018	che loro non hanno ancora fatto il compromesso
-PKP018	[perché] lei le ha detto ah non so quando andiamo via
 PKP014	[m:h]
+PKP018	[perché] lei le ha detto ah non so quando andiamo via
 PKP018	dobbiam vedere quanto dobbiam~ spenderemo a ristrutturare quella (.) catapecchia
 PKP018	che è una casa disabitata da cinquant'ann in sasso non c'è il [cesso]
 PKP013	[ma] loro [vogliono::]
@@ -1139,7 +1139,7 @@ PKP015	più che altro sei completamente: xx
 ???	anche da cese da lassù in cima da casa ((dal_video))
 ???	là vai ai fienili e alla stalla ((dal_video))
 ???	ah è un bel sasso questo ((dal_video))
-PKP014	#ah par furz
+PKP014	# ah par furz
 PKP018	allora
 PKP015	((ride))
 PKP014	è a[bitata dai cerbi]atti
@@ -1166,7 +1166,7 @@ PKP018	[non fare (.) no]n fare la vo[ce gros]sa con la marianna
 PKP013	[ah sì]
 PKP018	stai un attimo se[rena]
 PKP015	[no in]fatti
-PKP018	QUELLI DELL~ quelli dell'enel sono andati a tirare su il palo non so ch~ mica l'avevano fatto a posta però loro capito con un tono °((versi)) il (panel)° come se fossero i padroni [del bosco]
+PKP018	QUELLI DELL~ quelli dell'enel sono andati a tirare su il palo non so ch~ mica l'avevano fatto a posta però loro capito con un tono ((versi)) ° il (panel)° come se fossero i padroni [del bosco]
 PKP015	[mhmh]
 PKP018	e: così
 PKP018	ma io sai faccio poi finta di nie~ son [poi (.) loro xxxx]
@@ -1178,8 +1178,8 @@ PKP018	[tanto questi se stan male si fan] male sai chi chiamano?
 PKP013	[ma sì:]
 PKP015	>l'ambulanza<
 PKP013	((ride))
-PKP013	[(chiamano lei)]
 PKP015	[arrivi tu] ((ride))
+PKP013	[(chiamano lei)]
 PKP018	[arri]viam SEMPRE NO::I ((ride))
 PKP018	e gira che ti giri
 PKP015	ah mamma
@@ -1513,7 +1513,7 @@ PKP018	fa ma insomma la solita storia di marzo.
 PKP018	dico sì la gente è dispera:ta vuole una risposta
 PKP018	io gli dò il numero ve:rde
 PKP018	dico però il medico di base o il sostituto >che è< non può dire chiami il centodiciotto per andare a fare il tampone non funziona così:,
-PKP018	cioè:: hm
+PKP018	cioè:: mh
 PKP018	((schiocca_le_labbra))
 PKP018	e quindi: capito ci man[cherebbe figurati]
 PKP013	[sì sì è che la gen]te sì si impanica perché poi appunto non hanno risposte [preci:se]

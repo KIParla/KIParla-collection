@@ -15,9 +15,9 @@ BO147	[(ah bene)]
 BO139	((ride))
 BO146	se poi arriva pure francesco ciao
 BO139	((ride))
-BO146	((ride))
 BO147	((ride))
 BO145	((ride))
+BO146	((ride))
 BO145	alé lì è la fine
 BO147	xx ((ride))
 BO139	non saprei come scrivere mbare però ((ride))
@@ -39,7 +39,7 @@ BO146	((ride))
 BO147	(xx ma io da pallotti ci piglio le paste >cioè:< ci prend[o:=mh le brio~])
 BO146	[le lasagne]
 BO147	[(ah)]
-BO146	([n]on) ce l'ha le brioche [xxxx]
+BO146	([n]on) xxx le brioche [xxxx]
 BO145	[cristobello]tti
 BO146	x (.) [m]:h ce n'ha poche
 BO147	[come no]
@@ -202,8 +202,8 @@ BO147	vabbè c'avra pure lei da studia(re)
 BO139	((ride))
 BO145	chi l'ha detto ((ride))
 BO139	((ride))
-BO146	((ride))
 BO147	((ride))
+BO146	((ride))
 BO147	(lo) dico io
 BO139	perché vuoi fare un figlio?
 BO145	non ho detto questo
@@ -233,7 +233,7 @@ BO147	[eh no eh sì quella da s]tudio
 BO145	((ride))
 BO147	e: praticamente ha fatto:
 BO147	così gli ho detto x gli ho detto eh vincenzo diventerà papà
-BO147	lei AHH
+BO147	lei ((esclamazione_sorpresa))
 BO146	((ride))
 BO139	((ride))
 BO145	io tipo ((ride))
@@ -269,7 +269,7 @@ BO147	[>cioè< io c'ho me]no autorità io? e che è
 BO146	sì °no° no però capito xx magari
 BO145	((ride))
 BO146	non così platealmente neanch'io [xxxxx]
-BO147	[chi se ne frega. >cioè< >non< s]o sta a monaco
+BO147	[chi se ne frega. >cioènon< s]o sta a monaco
 BO139	((ride))
 BO139	((ride))
 BO146	beh ho capito però
@@ -522,7 +522,7 @@ BO147	[no: vanga xxx]
 BO145	non è fatta [come una va]ng[a]
 BO139	[>una< pal(°a°)]
 BO147	[p]ala
-BO146	°((ride))°
+BO146	((ride))
 BO145	vedi?
 BO139	xxxx
 BO146	quindi?
@@ -564,8 +564,8 @@ BO139	eh che sarebbe?
 BO145	((ride))
 BO146	((ride))
 BO145	fa' (vedere)
-BO146	xxx
 BO145	((ride))
+BO146	xxx
 BO139	((ride))
 BO146	una vita ai (piedi) di x?
 BO145	((ride))
@@ -677,7 +677,7 @@ BO146	[xx] xx (disperata)
 BO146	((ride))
 BO145	mh
 BO147	no (s:ì) >cioè< nel senso:
-BO147	>pensavo< >che ne so< mezz:o~=mh undici e cinquanta mezzogiorno a (mangiare)
+BO147	>pensavoche ne so< mezz:o~=mh undici e cinquanta mezzogiorno a (mangiare)
 BO145	eh e (poi) dopo verso le venticinque (dobbiamo) (partire)
 BO145	mezza
 BO147	(mezza?)
@@ -719,8 +719,8 @@ BO145	[sì]
 BO145	((ride))
 BO139	(>se lo<)
 BO139	se me lo vuoi regalare me lo puoi regalare
-BO146	[e lo prendo i]o
 BO145	[na:]
+BO146	[e lo prendo i]o
 BO139	[e se lo vuo~]
 BO139	e s~
 BO139	((ride))

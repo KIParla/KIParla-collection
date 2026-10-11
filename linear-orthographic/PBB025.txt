@@ -121,7 +121,7 @@ BOR030	va bene
 BOR030	e altre tradizioni bolognesi ch~ di cui mh magari sei a conoscenza
 BOI092	mhmh che genere boh
 BOR030	qualsiasi genere
-BOI092	vabbè tradizioni le culinarie cioè conosco i i mangiarini che sono molto buoni
+BOI092	# vabbè tradizioni le culinarie cioè conosco i i mangiarini che sono molto buoni
 BOI092	i tortellini lasagne la torta di riso e
 BOR030	quindi più culinarie comunque
 BOI092	sì più culinarie che altro cioè al momento poi magari se
@@ -251,7 +251,7 @@ BOI092	e e il pandoro mi ricordo che lo mangiavo da piccola con mia mamma lo far
 BOI092	lì mi piaceva però
 BOI092	se devo scegliere adesso mi piace il panettone
 BOI092	e poi mi piace
-BOI092	lo puccio nel tè
+BOI092	# lo puccio nel tè
 BOI092	così
 BOR030	mi dispiace non ho panettone da offrirti
 BOI092	no no gua~ van bene i biscot~
@@ -347,7 +347,7 @@ BOI092	e mi ricordo che all'angolo ehm nella via che va giù che non mi ricordo 
 BOI092	penso di sì
 BOI092	ehm
 BOI092	c'era il primo e
-BOI092	mh la lingua e mc donald che poi si chiamava frisbie della di bologna
+BOI092	mh schiocca la lingua e mc donald che poi si chiamava frisbie della di bologna
 BOI092	quello me lo ricordo
 BOI092	si chiamava frisbie e faceva gli hamburger quelle robe lì
 BOI092	sì era bello
@@ -708,7 +708,7 @@ BOI092	mh
 BOR030	sei appassionata a qualche anche show di quando eri giovane dici ah quello era uno show con cui sono cresciuta
 BOI092	allora cinema ultimamente ci vado poco lo ripeto mh andiamo adesso abbiamo un po' optato per il teatro
 BOI092	e televisione
-BOI092	allora ci sono alcuni film che rimangono tipo grease tipo quelle cose lì che mh rimangono nel cuore tutte le volte che li ridanno li riguardo cioè mh
+BOI092	allora ci sono alcuni film che rimangono tipo grease tipo ride quelle cose lì che mh rimangono nel cuore tutte le volte che li ridanno li riguardo cioè mh
 BOI092	come serie mi viene in mente che mi piaceva un sacco e mi piace ancora ho anche il cd e tutte quelle cose lì the sex and the city
 BOI092	che poi però l'ho mh l'ho scoperta dopo non ho non la guardavo quando c'era quando è uscita
 BOI092	e poi sì mi piacciono le fiction seguo anche su che che fanno sulla rai piuttosto che non so cioè
@@ -744,8 +744,8 @@ BOI092	però non ho nessun abbonamento pe~ anche perché io non ho il wifi in ca
 BOI092	per quelle cose lì non sono molto tecnologica e
 BOI092	per me è inutile quella cosa lì è una cosa che non
 BOR030	ah
-BOR030	mh
 BOI092	che non mi serve perché non è che sono
+BOR030	mh
 BOI092	stra appassionata di televisione di fil mquelle robe lì cioè ogni tanto li guardo
 BOI092	però nella nella nella tv in chiaro non ci sono tanti bei film insomma
 BOI092	è raro

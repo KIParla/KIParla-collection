@@ -90,7 +90,7 @@ BO026	no
 BO026	no
 BO044	no
 BO026	si iscrive solo all'appello
-BO044	perché lei farà poi l'l'orale un altro giorno
+BO044	perché lei farà poi l'lorale un altro giorno
 BO026	l'orale uno odue giorno dopo
 BO044	okay
 BO026	un uno è difficile se siete se sono in tanti a fare lo scritto

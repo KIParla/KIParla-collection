@@ -40,7 +40,7 @@ TOR002	[noi stavamo] in via
 TOI075	[sono stato]
 TOI075	battezzato a maria ausiliatrice
 TOR001	mhmh
-TOI075	sapete dov'è la chiesa (.) [] di maria ausiliatrice?
+TOI075	sapete dov'è la chiesa (.) di maria ausiliatrice?
 TOR001	[sì],
 TOI075	mio padre anche lui era un torinese DOC
 TOI075	lui è stato battezzato alla chiesa dei santi MARTIRI
@@ -63,7 +63,7 @@ TOI075	va giù verso il po
 TOI075	prima di arrivare al fondo,
 TOI075	c'è una piazza,
 TOR001	mhmh
-TOI075	che si chiama x piazza maria teresa (.) [] considerato un quartiere molto chic.
+TOI075	che si chiama x piazza maria teresa (.) considerato un quartiere molto chic.
 TOR001	[okay]
 TOR001	[okay]
 TOI075	[xx]
@@ -103,7 +103,7 @@ TOI075	a torino il quartiere: diciamo
 TOI075	delle persone più
 TOI075	eleganti la crocetta. [xx] avrà sentito (.) xx x noi non c'erano le persone della crocetta. persone norma:li
 TOR001	[mhmh]
-TOI075	operai, artigiani, (.) [] (così nel) genere
+TOI075	operai, artigiani, (.) (così nel) genere
 TOR001	[mhmh]
 TOR001	okay.
 TOR001	e ah lei prima ha accennato alla guerra
@@ -336,7 +336,7 @@ TOI075	[e:::h mah (.) cioè]
 TOI075	c~ c'era xx così sì
 TOI075	la vita è sembrata (.) men~ menomeno meno triste eh perché
 TOI075	almeno c'era libertà di associazione
-TOI075	#per esempio io ero divent~ ero socio della famia turineisa
+TOI075	# per esempio io ero divent~ ero socio della famia turineisa
 TOR002	ah
 TOI075	è un'associazione sì un po' così
 TOI075	nelle tradizioni:, nel xx del piemonte organizzavano il carnevale [(quante)] cose e insomma
@@ -375,7 +375,7 @@ TOI075	controllato dalla censura
 TOR001	certo
 TOR001	vuoi andare avanti tu?
 TOR002	e::hm::
-TOR002	#no beh se::: se ci racconta ancora un po' qualcosa su questa famia [turineisa]
+TOR002	# no beh se::: se ci racconta ancora un po' qualcosa su questa famia [turineisa]
 TOI075	[ma:::h]
 TOI075	per esempio io
 TOI075	io lavoravo con mio padre (.) che aveva un'aziendina così::
@@ -409,7 +409,7 @@ TOI075	[e] quindi
 TOI075	nel frattempo ho continuato così
 TOI075	a vivere:
 TOI075	diciamo:: (.) un po' liberamente
-TOI075	#quindi xx ero socio della famia turineisa ma poi (.) avevo tanti altri interessi
+TOI075	# quindi xx ero socio della famia turineisa ma poi (.) avevo tanti altri interessi
 TOI075	seguivo il cinema:, tea[tro:]
 TOR002	[mhmhmh]
 TOI075	ero stato abbonato al teatro stabile
@@ -440,7 +440,7 @@ TOI075	comunque
 TOI075	io me la cavo ancora ((ride))
 TOI075	quando c'è qualcuno che parla piemontese,
 TOI075	ben contento di parlare ma
-TOR002	#ah mi lu parlu 'l [piemunteis eh]
+TOR002	# ah mi lu parlu 'l [piemunteis eh]
 TOI075	[xxxx] lo [parla]?
 TOR002	[sì sì]
 TOI075	e::h
@@ -535,17 +535,17 @@ TOI075	anche allo[ra]
 TOR001	[già] allora
 TOI075	non è solo adesso eh
 TOR001	mhmhmh
-TOR002	#forse è per questo che son nate anche le:: le associazio:ni, appunto [come la famia turineisa]
-TOI075	#[ma:::h eh] famia turineisa era già nata prima prima della guerra ma comunque
+TOR002	# forse è per questo che son nate anche le:: le associazio:ni, appunto [come la famia turineisa]
+TOI075	# [ma:::h eh] famia turineisa era già nata prima prima della guerra ma comunque
 TOI075	(ma anche) formato altre associazioni
 TOI075	anche quelle
 TOI075	per esempio (.) anche quelle del:
 TOI075	gli immigrati dal meridione hanno formato delle associazioni
-TOI075	#per esempio c'era anche il fogolar furlan
+TOI075	# per esempio c'era anche il fogolar furlan
 TOR002	mhmh
 TOI075	che riuniva i fur~ i i::: gli originari del friuli
 TOR002	mhmhmh
-TOI075	del veneto eh c'è stato un tempo che dal veneto c'è stata molta immigrazione verso (.) [] torino
+TOI075	del veneto eh c'è stato un tempo che dal veneto c'è stata molta immigrazione verso (.) torino
 TOR001	[certo]
 TOI075	poi adesso xxxx sarebbe il contrario
 TOI075	nel veneto (.) sono più ricchi di noi
@@ -774,7 +774,7 @@ TOR002	[eh] beh
 TOR002	e cosa legge di bello?
 TOI075	mah adesso non
 TOI075	appunto quando
-TOI075	#ero socio della famia turineisa
+TOI075	# ero socio della famia turineisa
 TOI075	mi mandavano un giorna[le]
 TOR002	[mh]mh
 TOI075	prima era settimanale e poi mensile

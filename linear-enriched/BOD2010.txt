@@ -7,15 +7,15 @@ BO049	okay,
 BO049	allora,
 BO049	vuoi raccontarmi:: dove vivi?
 BO074	e:::::h in generale?
-BO074	eh allor[a::], vivo a @nomepaese
+BO074	eh allor[a::], vivo a
 BO049	[si]
 BO049	okay
 BO074	che dove è il luogo dove sono nato, ho sempre vissuto qua
 BO049	°okay°
 BO074	anche:: m:::h
-BO074	ho studiato:: da altre parti comunque anche le superiori le ho fatte a @nomepaese
+BO074	ho studiato:: da altre parti comunque anche le superiori le ho fatte a
 BO074	e:: poi anche all'università ho::: studiato a bologna però ho sempre fatto: il pendolare.
-BO049	sempre vissuto a @nomepaese
+BO049	sempre vissuto a
 BO074	esattamente.
 BO049	o:kay
 BO049	e vivi in una casa, in un appartamento:::, in una villa, in un non so cosa?
@@ -170,7 +170,7 @@ BO074	poi vabbè,
 BO074	andare fuori [con:] (.) i vari mezzi
 BO049	[sì]
 BO074	però ul:timamente l'ho visto
-BO074	secondo me il almeno in centro di >@nomepaese< è una cosa che (.) ho visto anche per esempio anche a bologna,
+BO074	secondo me il almeno in centro di è una cosa che (.) ho visto anche per esempio anche a bologna,
 BO074	l'ho visto molto lasciato a se stesso.
 BO049	s:ì
 BO074	molta:: incuria non so
@@ -179,7 +179,7 @@ BO074	boh al comune o a
 BO074	sì probabilmente anche al comune,
 BO074	e l'ho sempre:::
 BO074	>cioè< utlimamente l'ho visto un po' un po' abbandonato e questo mi mi dispiace perché:
-BO074	anche:: nonostante sia una città piccola, >secondo< me il centro di @nomepaese è bello
+BO074	anche:: nonostante sia una città piccola, >secondo< me il centro di è bello
 BO074	e::: vederlo:: sì proprio:
 BO074	molte cose lasciate all'incuria e al degrado: mi dispiace mi:::
 BO074	mi dà fastidio perché comunque è il posto dove sono nato, dove ho sempre vissuto
@@ -237,7 +237,7 @@ BO049	sì
 BO074	ci ho messo un giorno e mezzo
 BO049	ah
 BO074	però ((ride)) ci sono arrivato alla fine
-BO049	e come mai? >cioè< >hai scelto tu il treno<?
+BO049	e come mai? >cioèhai scelto tu il treno<?
 BO049	o:: è stata una casualità non
 BO074	e:h un po' tutte e due >avevamo< visto:::
 BO074	che:: di tempo:: so: ho fatto un viaggio con un mio amico che abbiam fatto il
@@ -458,8 +458,8 @@ BO049	okay
 BO074	perché:: frequentavamo tutti e due san nicolò,
 BO049	okay
 BO074	e poi::
-BO049	che è qua a @nome[paese]
-BO074	[è] qua a @nome[paese,]
+BO049	che è qua a
+BO074	[è] qua a
 BO049	[okay]
 BO074	sì
 BO074	è di fianco a casa mia
@@ -469,7 +469,7 @@ BO049	°okay°
 BO074	e::h quindi ci siam~ conosciuti da:: (.) da bambini
 BO074	poi dopo però non ci frequentavamo tanto dopo per a::h
 BO074	un po' amici in comune comunque
-BO074	ci vedevam sempre perché comunque anche lui essendo: di:: di @nomepaese ci ved~
+BO074	ci vedevam sempre perché comunque anche lui essendo: di:: di ci ved~
 BO074	ci beccavamo in giro, ci vedevamo così,
 BO074	abbiamo iniziato a frequentarci proprio ad uscire insieme verso:: direi quindici, sedici anni più o meno
 BO074	ver~ sì verso i quindici anni più o meno abbiamo iniziato a::
@@ -482,7 +482,7 @@ BO074	sì.
 BO049	sì
 BO074	sì sì [sì]
 BO049	[okay]
-BO049	e::hm e qua a @nomepaese che::
+BO049	e::hm e qua a che::
 BO049	nel tempo libero cosa fai?
 BO074	mah nel tempo libero adesso:: vorrei averne perch[é ((ride)) s]ono molto pieno
 BO049	[ecco] ((ride))
@@ -512,7 +512,7 @@ BO074	mah <adess~> è una cosa che ci sto pensando molto ultimamente,
 BO074	e pensavo che dopo:: dopo la laurea
 BO074	che dovrei laurearmi in marzo del prossimo anno
 BO074	nel duemiladiciotto,
-BO074	mi piacerebbe fare: un'esp~ m:h trasferirmi fuori @nomepaese
+BO074	mi piacerebbe fare: un'esp~ m:h trasferirmi fuori
 BO074	ancora: non so (.) di preciso dove,
 BO074	però::
 BO074	almeno: per un periodo di:: di tempo:: anda~ >cioè< andar via di qua
@@ -525,7 +525,7 @@ BO074	per:: (.) migliorare sicuramente il mio inglese,
 BO049	okay, quello che facciamo tu~ la scusa che usiamo [tutti] per andare ((ride))
 BO074	[esatto]
 BO074	anche perché lo sento un po' (come mancante),
-BO074	l~ l'ho studiato però è da (.) [] tanto che non lo uso quindi
+BO074	l~ l'ho studiato però è da (.) tanto che non lo uso quindi
 BO049	[sì]
 BO074	e:: mi rendo conto di saperlo:: non benissimo come credevo,
 BO049	((ride)) vabbè dai, ci sta.
@@ -550,8 +550,8 @@ BO074	a quello: quello che faccio, di quello che mi occupo
 BO049	°bene° bene,
 BO049	e:: come ti immagini: la tua casa futura?
 BO074	non ho la più pallida ide~
-BO074	[>(cioè)< (zer~) no mai]
 BO049	[zero non (te la senti) (.) cosa pen]si invece
+BO074	[>(cioè)< (zer~) no mai]
 BO049	non sai (.) dove ti piacerebbe abita:re?
 BO049	non
 BO074	vivere ma::h
@@ -575,6 +575,6 @@ BO049	bel ragionamento, ci sta io:: ti ti copierò allora.
 BO074	((ride))
 BO049	e::h no, va bene dai:
 BO049	va bene così.
-BO074	[okay]
 BO049	[grazie].
+BO074	[okay]
 BO074	a te.

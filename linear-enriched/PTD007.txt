@@ -168,7 +168,7 @@ TOI041	esatto, e basta.
 TOR001	okay,
 TOR001	e:::, complessivamente ti piace il tuo lavoro?
 TOI041	molto.
-TOI041	moltissimo [sì.]
+TOI041	moltissimo [sì].
 TOR001	[ti dà soddi]sfa[zione]?
 TOI041	[molto], sì.
 TOR001	okay,
@@ -630,8 +630,8 @@ TOI041	sì:: sì sì.
 TOI041	ci sono delle differenze sensibili,
 TOI041	forse cit turin è più::,
 TOI041	è più::,
-TOI041	#cit turin è madamin come dice sempre mia mamma no,
-TOI041	#cit turin è madamin
+TOI041	# cit turin è madamin come dice sempre mia mamma no,
+TOI041	# cit turin è madamin
 TOI041	invece cenisia forse ha degli,
 TOI041	insomma degli aspetto un po' più popolari che me la rendono,
 TOI041	particolarmente cara, [perché] mi sento,
@@ -646,7 +646,7 @@ TOI041	adesso non è,
 TOI041	non è un quartiere che si possa considerare degradato [da nessun] punto di vista secondo me,
 TOR001	[mh mh]
 TOI041	però è un quartiere molto popolare.
-TOI041	#quindi a differenza di cit turin dove vedi appunto molte madamin col cagnetto,
+TOI041	# quindi a differenza di cit turin dove vedi appunto molte madamin col cagnetto,
 TOI041	al mercato di piazza benefica che fanno,
 TOR001	((ride))
 TOI041	e ti viene quindi un po' se vedi,
@@ -1128,8 +1128,8 @@ TOI041	mi muovo tra:: casa mia e, il centro,
 TOI041	o casa mia e::,
 TOI041	e:::hm
 TOI041	via asinari, quella zona lì
-TOI041	[insomma comunque] mi muovo prevalentemente coi mezzi pubblici.
 TOR001	[mh mh mh mh]
+TOI041	[insomma comunque] mi muovo prevalentemente coi mezzi pubblici.
 TOI041	qualche volta anche con la macchina,
 TOR001	mh mh
 TOI041	che ho, e quindi,
@@ -1206,8 +1206,8 @@ TOI041	[xxx]xxx
 TOR001	[beh bello no, c'è]
 TOI041	ottimo, bellissimo.
 TOI041	direi di sì anche perché è una città bellissima, quindi,
-TOI041	[meno male che],
 TOR001	[sono:: sono d'accordo],
+TOI041	[meno male che],
 TOI041	[entra nei percorsi turistici]
 TOR001	[però],
 TOR001	spesso no, c(io)è adesso xxx
@@ -1267,8 +1267,8 @@ TOI041	che frequento io,
 TOI041	che sono comunque,
 TOI041	in qualche modo,
 TOI041	paracentrali.
-TOI041	[perché] in ogni caso sono dei quar~
 TOR001	[okay]
+TOI041	[perché] in ogni caso sono dei quar~
 TOI041	eh
 TOI041	quando mi sposto,
 TOI041	mi capita anche solo di passare, magari coi mezzi,

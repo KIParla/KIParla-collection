@@ -28,7 +28,7 @@ PKP061	ehm in umido
 PKP057	ah umido okay generico
 PKP061	mh è buono anche quello lì eh fatto così
 PKP057	eh lo so
-PKP061	questo devo dire che è molto liffo
+PKP061	# questo devo dire che è molto liffo
 PKP062	quello alla vicentina è più carico eh
 PKP062	loro lo fan~ fanno almeno quello che ho mangiato là
 PKP061	carico di sapori dici
@@ -38,7 +38,7 @@ PKP062	c'ha la farina dentro non so c'è anche qui mh
 PKP061	anche questo
 PKP062	però c'aveva tut~
 PKP061	anche tua mamma lo fa più più denso
-PKP057	più giotto eh dio va c~ c~ c'è un
+PKP057	# più giotto eh dio va c~ c~ c'è un
 PKP057	un dito di olio quando lo fa la nonna
 PKP061	io c'avrò messo
 PKP062	un po' è così veh anche
@@ -64,7 +64,7 @@ PKP061	forse
 PKP057	beh
 PKP061	mh comunque buono a me piace
 PKP057	molto molto buono
-PKP061	sì quello che fa la nonna è più tacconento
+PKP061	# sì quello che fa la nonna è più tacconento
 PKP062	mh
 PKP057	mh
 PKP061	è più cremoso è più
@@ -147,7 +147,7 @@ PKP061	forse la tradizione è quella lì
 PKP062	gli ingredienti son quelli meh
 PKP062	secondo me può essere semplicemente mh
 PKP062	una variante chiaro che va a insaporire il pesce perché
-PKP062	te tel fe coser con eh con la cipolla
+PKP062	# te tel fe coser con eh con la cipolla
 PKP061	beh anche qua hai visto che ce ne ho messa
 PKP062	dentro no ma le~ legata voglio dire
 PKP057	c'è sicuramente è fatt~
@@ -162,7 +162,7 @@ PKP061	alla fine la farina formaggio e il latte
 PKP062	beh gli ingredienti son poi sempre quelli
 PKP061	quelli lì
 PKP057	questo sughetto è proprio
-PKP061	liffo
+PKP061	# liffo
 PKP057	mh
 PKP061	eh
 PKP057	mh
@@ -183,10 +183,10 @@ PKP062	molto buono
 PKP057	ridosando i grassi
 PKP061	ovviamente ridosando i grassi
 PKP062	beh è molto più magro di di quello che fa la mh la nonna
-PKP061	che sicuramente il eh è più liffo però dopo ragazzi è indigeribile
-PKP057	per me non diventa neanche più liffo quando è troppo grasso cioè
-PKP062	no è molto liffo giada
-PKP057	no no okay però dopo un po' diventa stonoso cioè dopo un po' ti fermi
+PKP061	# che sicuramente il eh è più liffo però dopo ragazzi è indigeribile
+PKP057	# per me non diventa neanche più liffo quando è troppo grasso cioè
+PKP062	# no è molto liffo giada
+PKP057	# no no okay però dopo un po' diventa stonoso cioè dopo un po' ti fermi
 PKP061	no c'è che lo digerisci dopo tre giorni
 PKP057	mh
 PKP061	mh
@@ -200,7 +200,7 @@ PKP057	mi sento un incriccamento qua qua
 PKP061	mh
 PKP057	qui sotto la scapola
 PKP061	sotto la scapola mh
-PKP057	va beh
+PKP057	vabbè
 PKP061	buono anche con il panino però
 PKP057	eh
 PKP061	questo sughetto
@@ -267,7 +267,7 @@ PKP057	cinque o sei e dopo a te rimane da scegliere il vino lì tra quelli propo
 PKP057	e mangi fondamentalmente sì pesce crudo e sushi quindi
 PKP062	e quanto costa
 PKP057	ah lì dipende dai piatti che prendi
-PKP057	c'è il listino dopo te lo faccio vedere c'è il listino p~
+PKP057	c'è il listino dopo te lo faccio vederec'è il listino p~
 PKP061	alla carta
 PKP062	no ma io credevo fosse un pranzo con menù fisso
 PKP057	ah no no no no no scegli tu tra i piatti che vuoi paghi i piatti e poi paghi il vino che prendi
@@ -353,7 +353,7 @@ PKP062	è riportato il simbolo che emh è riportato su un campanile lì di uno d
 PKP062	me l'ha detto e è proprio una uno stemma classico
 PKP061	eh sì si capisce
 PKP062	ma lui voleva aveva visto una bottiglia francese e allora
-PKP062	aveva visto che vetreria era e aveva chiesto quella bottiglia lì e i g'ahn det sì la possiamo fare fa'
+PKP062	# aveva visto che vetreria era e aveva chiesto quella bottiglia lì e i g'ahn det sì la possiamo fare fa'
 PKP062	però cambiamo lo stemma perché quello là non possiamo darvelo
 PKP057	mh
 PKP062	è registrato e allora ha riportato quello ma è molto bella
@@ -571,11 +571,11 @@ PKP062	se uno ha ha un'idea
 PKP057	cioè che mi da molto fastidio quando scegliamo un vino lo beviamo e io non so cosa sto bevendo
 PKP062	quello quello che non
 PKP057	mi da fastidio
-PKP062	eh beh va beh quello eh però
+PKP062	eh beh vabbè quello eh però
 PKP057	che non pretendo di sapere in anticipo che gusto andrò a bere però
 PKP057	mi piacerebbe sapere almeno in che punto d'italia in che
 PKP057	cioè cap~ in in in che cosa mi aspetta 'piu' o meno
-PKP062	beh va beh quello lì sì
+PKP062	beh vabbè quello lì sì
 PKP057	poi ovvio che se si tratta di un vino nuovo n~ non posso saperlo
 PKP062	beh quello lì lo vedi anche dall'etichetta un uno si parte poi così eh
 PKP062	questo vino qua noi non non sapessimo niente
@@ -615,7 +615,7 @@ PKP062	poi dopo c'è da distinguere quando lo metti in bocca
 PKP062	e quando lo mandi giù se il vino dura molto se se sparisce se il gusto sparisce per~ dice il vino è corto oppure lungo
 PKP062	se ti lascia in bocca il sapore per molto tempo il vino è lungo in genere è una caratteristica positiva
 PKP057	mh
-PKP062	s'l'è boun perché sa'l sa ed merda e l'è anca lung l'è un disaster
+PKP062	# s'lè boun perché sa'l sa ed merda e l'è anca lung l'è un disaster
 PKP061	mh
 PKP061	il papà le degustazioni le ha fatte
 PKP061	e quindi sa cosa devi andare a a ricercare beh questo te lo può insegnare veramente il papà
@@ -640,7 +640,7 @@ PKP057	mh mhmh
 PKP062	l'acido lattico è un acido dolce
 PKP057	eh non capisci mh
 PKP062	esatto
-PKP057	beh va beh comunque sì mi interesserebbe molto ecco
+PKP057	beh vabbè comunque sì mi interesserebbe molto ecco
 PKP062	dopo se vuoi fare se uno da lì gli piace così tanto che vuol fare il corso di sommelier perché serve il titolo allora uno lo fa
 PKP061	mh un'altra cosa però secondo me per partire tu hai un papi in casa che è anche bravo non è solo
 PKP057	eh infatti eh lo so

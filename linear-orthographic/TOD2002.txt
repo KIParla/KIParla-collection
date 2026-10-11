@@ -233,8 +233,8 @@ TO081	non lo so non era casa mia forse è stato
 TO081	starci per troppo poco tempo
 TO999	può essere
 TO081	non lo so
-TO081	non so
 TO999	e poi cos'è che mi dicevi che aveva la casa che non ti piaceva
+TO081	non so
 TO081	quella di torino
 TO999	sì
 TO081	non ha il prato
@@ -268,8 +268,8 @@ TO081	xxx tranquillamente
 TO999	effettivamente sì
 TO081	eh e quindi no
 TO081	totalmente sbagliata la cosa del
-TO081	cioè essere nuda
 TO999	anche perché poi fidelizzi il vicino e
+TO081	cioè essere nuda
 TO999	guarda l'ora e si presenta
 TO081	esatto
 TO999	il giorno dopo allo stesso orario

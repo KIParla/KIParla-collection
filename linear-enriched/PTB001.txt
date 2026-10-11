@@ -25,7 +25,7 @@ TOI023	gianni
 TOI023	ciao
 TOI023	scusa anch'io ti ho disturbato. comunque è okay, v~ vai pure avanti con quella cosa lì poi
 TOI023	sì quando c~ avvisami solo che io ci sia poi siamo a posto
-TOI023	#va bin
+TOI023	# va bin
 TOI023	okay
 TOI023	ciao un abbraccio >ciao ciao<
 TOI022	ti vengo a vedere anch(e) io?
@@ -50,8 +50,8 @@ TOR005	[se]ssantacinque, provincia di nascita?
 TOI022	brindisi
 TOR005	brindisi?
 TOR005	e provincia di residenza?
-TOR005	[(torino)]
 TOI022	[torino]
+TOR005	[(torino)]
 TOR005	torino
 TOR005	titolo di studio?
 TOI022	e::h elementare a (que)sto punto
@@ -156,8 +156,8 @@ TOI023	((ride))
 TOR005	quindi prati[camen]te e:h
 TOI023	[sì]
 TOR005	tutti e due vi siete (.) trasferiti
-TOR005	[qui a torino con con le famiglie]?
 TOI022	[ci siamo trasferiti qui a torino, con le fa]miglie
+TOR005	[qui a torino con con le famiglie]?
 TOI023	[sì]
 TOR005	e: vi ricordate un po'::
 TOR005	la differenza fra i luoghi di origine::
@@ -208,8 +208,8 @@ TOI022	c(io)è per me era una co~ quando sono arriva~ mi sono svegliato non ho p
 TOI023	((ride))
 TOI022	(de) certo l'ha presa quel [signore] xx
 TOR005	[e:h]
-TOI023	((ride))
 TOI022	xx xx
+TOI023	((ride))
 TOI022	una cosa:
 TOI022	mi ricorderò sempre che: x
 TOI022	ci sono rimasto malissimo per un anguria che
@@ -360,8 +360,8 @@ TOI022	nel sessantadu~ nel sessantadue
 TOI022	sessan~
 TOI022	nel sessanta io andavo sono andato a scuola sessanta sessantuno c'erano da vedere tutte queste cose
 TOI022	però la guerra era già finita da un sacco di anni
-TOR005	[certo]
 TOI022	[perciò s]e c'erano ancora queste cose è perché probabilmente c'era:
+TOR005	[certo]
 TOI022	c'era questo pericolo
 TOI022	c'era non che c'era noi la vedavamo ogni tanto si sentiva che poi la televisione la avevamo eh nel sessantadue
 TOI022	nel sessantadue una televisione: a gettoni [ce l'aveva]mo
@@ -416,18 +416,18 @@ TOI023	sette otto si [lavora]va già
 TOI022	[ah e:h]
 TOI022	io ho fatto il fabbro
 TOR005	parlatemi un po' di:::
-TOR005	[di quel periodo lì]
 TOI022	[il sa:rto]
+TOR005	[di quel periodo lì]
 TOI022	eh è questa la zona
 TOI022	eh cioè si chiamava (.) la zona del
 TOI022	borgo del fumo
 TOI023	[si chiama ancora x]x
 TOI022	[iniziava con tutte]
 TOI022	sì
-TOI023	#come [soprannome è: nomin]ato burg dal fum
+TOI023	# come [soprannome è: nomin]ato burg dal fum
 TOI022	[viene nominato]
-TOR005	[mh]
 TOI022	[eh]
+TOR005	[mh]
 TOI023	cioè borgo del fumo cioè perché questa zona era:
 TOI023	caratterizzata da u:n miriade di aziende pic[cole]
 TOI022	[le fab]brich[e eh]
@@ -675,8 +675,8 @@ TOI022	[son~] cinqu~ sono: [sessant'anni di differe]nza cinquant'otto anni ma io
 TOI023	[e::h x x]
 TOI022	vedo x le stesse cose che c(io)è si facevano con noi meridion[ali]
 TOR005	[è] cambiato il nemico
-TOR005	[semplicemente c(io)è]
 TOI022	[è cambiato il nemico a ch~] è colorato invece di es[se:re bian]co
+TOR005	[semplicemente c(io)è]
 TOI023	[°xxx°]
 TOI022	quest[o l]a::
 TOR005	[sì]
@@ -801,8 +801,8 @@ TOI023	[sì eh dopo eh] ((ride))
 TOR005	il rin[faccio]
 TOI022	[cioè cazzo] (.) mi ha rubato ((ride))
 TOI023	mi hai sfruttato e:h,
-TOI023	((ride))
 TOI022	mi hai sfruttato sei mesi un anno due quello che so eh cioè: non:
+TOI023	((ride))
 TOI022	comunque venivano su non venivan~ era pochi quelli che partivano con la famiglia ch~ x al seguito
 TOR005	°certo°
 TOI022	(ovvia)mente veniva sempre o il papà o un fratell~ o un figlio più grande
@@ -857,8 +857,8 @@ TOI022	il contratto
 TOI022	((ride)) e il contratto poi dice mia moglie nata cuneo x x x
 TOR005	e::h
 TOI022	quando arriva (me: lì)
-TOI023	auguri ((ride))
 TOI022	[nato a]x xx brindisi caspita
+TOI023	auguri ((ride))
 TOI022	que[sto c'è] rimasto ((ride))
 TOI023	[o:h]
 TOI022	perché aveva sparlato così male dei meridionali:
@@ -1172,8 +1172,8 @@ TOR005	((ride))
 TOI022	ma in qualsiasi altra sala da ballo se non avevi la cravatta e la camicia
 TOI022	che den[tro non entravi]
 TOI023	[non entravi]
-TOR005	[(ammazza)]
 TOI022	[questo:]
+TOR005	[(ammazza)]
 TOI022	tutte le sale da ballo del centro di torino xx~ faro, principe, castellino, aldria~,
 TOI022	cioè tutti (.) le sale da ballo (.) tu
 TOI022	e::h senza cravatta e camicia non entravi dentro
@@ -1447,8 +1447,8 @@ TOI023	quel quelle vetrate che ci sono
 TOI023	che c'è la posta persino sotto an[che no]?
 TOI022	[a:h sì] quel palazzo [alto che] c'è di là del
 TOI023	[sì]
-TOI023	[x xx]
 TOI022	[di lungo d]ora
+TOI023	[x xx]
 TOI023	eh
 TOR005	m:h m:h
 TOR005	a:h ho capito (ho) [capito]
@@ -1628,8 +1628,8 @@ TOI022	i: nostri personaggi storici del quartiere
 TOI022	e::hm:::
 TOI022	siamo
 TOI022	tra il po' e la dora
-TOI022	#e noi ci siamo inventati i personaggi il munsù po
-TOI022	#e madama doi[ra]
+TOI022	# e noi ci siamo inventati i personaggi il munsù po
+TOI022	# e madama doi[ra]
 TOR005	[ah a]:h
 TOI022	che sono andati
 TOI022	tutto il piemonte e la proovincia di torino tutta
@@ -1833,8 +1833,8 @@ TOR005	[che abbia]
 TOI023	[tan]ti che veni:~
 TOI023	venivano da fuori non sapevano dove andare lui li mandava
 TOI023	a ristorante a mangiare pagava lui
-TOI023	[per dire]
 TOI022	[cioè i:o]
+TOI023	[per dire]
 TOI022	pagavamo [noi] ((ride))
 TOI023	[xx e:h sì per~]
 TOI022	non esag[eriamo] ((ride))
@@ -2176,8 +2176,8 @@ TOI022	[che è rima~] è ancora lì
 TOI022	ferma, forte come xx xx come l'hanno fatta
 TOI022	e::h non mi voglio soffermare come quando hanno fatto superga
 TOI022	come cavolo l'han fatta sta cavolo di cappella di cappella di superga?
-TOI023	[sì è quello]
 TOI022	[cioè questo]
+TOI023	[sì è quello]
 TOI022	pensa gli anni che hanno lavorato. non c'erano strade, non c'erano nie~
 TOI022	tutti a tirare corde dalla città
 TOI022	(era) un lavorone
@@ -2312,8 +2312,8 @@ TOI022	allora il sognatore è pericoloso (.) [se poi] vuole realizzare il sogno 
 TOR005	[e:h e:h]
 TOR005	[sì::]
 TOR005	sì:
-TOR005	[sì è vero]
 TOI022	[okay]?
+TOR005	[sì è vero]
 TOR005	vero
 TOI022	cioè tu non devi e poi la prepotenza
 TOR005	sì
@@ -2323,8 +2323,8 @@ TOI022	io sono più bravo di te
 TOI022	ma tu non puoi arrivare con la prepotenza in un posto di comando
 TOI022	e dire a tutti i tuoi sudditi da oggi si fa così
 TOR005	chiaro
-TOR005	[non è politica x]
 TOI022	[questi se possono]
+TOR005	[non è politica x]
 TOI022	ti rovinano
 TOI022	[perché] basta che non facciano una cosa si sono dimenticati, un dipendente che x, un usciere
 TOR005	[sì]
@@ -2370,7 +2370,7 @@ TOR005	con i [cartoni]
 TOI022	[con i no] con i cartoni o addirittura col ferro, andava a [ra]cccogliere il ferro in giro
 TOI023	[sì::]
 TOI023	[eh]
-TOI022	#i feramiun di una vol[ta]
+TOI022	# i feramiun di una vol[ta]
 TOI023	[e:h]
 TOI022	giravano col carretto, c'è gente che si è fatta un impero (.) impero
 TOI022	non ti faccio nomi e cognomi ma

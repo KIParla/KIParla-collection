@@ -120,8 +120,8 @@ PKP112	ma perché lo deve perdere per forza
 PKP119	no non è per forza
 PKP118	ah perché evidentemente non si è attaccato non si è
 PKP119	la natura
-PKP119	vede e provvede sarà
 PKP118	boh
+PKP119	vede e provvede sarà
 PKP119	ha paura di rifare un'altra sally
 PKP118	no dai tanto
 PKP119	no scherzo
@@ -178,8 +178,8 @@ PKP118	ho la bocca piena
 PKP119	ah è vero non si parla con la bocca piena
 PKP112	eh non è xxx
 PKP112	eh già
-PKP119	infatti infatti noi stiamo stiamo mangiando però stiamo parlando
 PKP112	non lo so
+PKP119	infatti infatti noi stiamo stiamo mangiando però stiamo parlando
 PKP112	eh
 PKP118	vuoi un'altra fetta di pane chiara
 PKP112	no basta
@@ -729,7 +729,7 @@ PKP119	son sempre malattie infettive
 PKP119	che è quasi meglio l'aids in questi ultimi tempi perché
 PKP119	almeno uno non te l'attacca in casa così
 PKP118	ah b~ vabbè bisogna arrivare a sasso marconi
-PKP118	e poi da lì prendere uscire dall' autostrada
+PKP118	e poi da lì prendere uscire dall'autostrada
 PKP119	ma ora
 PKP119	io non ce la faccio
 PKP118	eh mh un po' in là eh
@@ -787,7 +787,7 @@ PKP112	tutto intero
 PKP119	sta a vedere chiara
 PKP118	no beh tutto intero no
 PKP119	sta a vedere
-PKP118	è smagoso dai
+PKP118	# è smagoso dai
 PKP112	sì
 PKP118	buono
 PKP119	ma secondo te c'è aggiunta di zucchero qui

@@ -132,7 +132,7 @@ TOR001	certo
 TOI073	anche perché >ese~< i mie nonni avevano una drogheria in zona di m::h
 TOI073	corso peschiera
 TOR001	mh mh
-TOI073	#quando: sono arrivati e hanno aperto: passavano davanti e dicevano no no custi si sun napuli
+TOI073	# quando: sono arrivati e hanno aperto: passavano davanti e dicevano no no custi si sun napuli
 TOR001	((ride))
 TOI073	eh ((ride)) e non entravamo poi col tempo in[somma]
 TOR001	[certo]
@@ -151,8 +151,8 @@ TOI072	e:::h (.) e quindi probabilmente::
 TOI072	m:h ha dovuto perdere in frett[a:: l'acce]nto eccetera
 TOR001	[mh mh mh mh]
 TOI072	i~ e paradosal~ eh ~mente ho imparato: a a::: sa~ a:::: il napoletano dagli amici
-TOR001	((ride))
 TOI072	c(io)é io ho una grande amica che s~ i suoi sono napoletani e vivono a torino
+TOR001	((ride))
 TOI072	da
 TOI072	più di vent'anni ma a casa loro si vive come a napoli c(io)é hanno gli orari di napoli parlano come a napoli e quindi io a forza di frequentare questa casa
 TOR001	((ride))
@@ -487,7 +487,7 @@ TOI072	in[somma di un cer]to valore
 TOR001	[mh mh mh]
 TOR001	quindi hai trova~ c(io)é comunque é stata un'esperienza positiva: sia diciamo la parte pre
 TOR001	in: in collina che la part[e:::]?
-TOI072	[mah eh q]uella: la parte in collina mi é: mi é un po' traumatizan~ (.) [] mi ha un po' traumatizzato
+TOI072	[mah eh q]uella: la parte in collina mi é: mi é un po' traumatizan~ (.) mi ha un po' traumatizzato
 TOR001	[ah okay] ((ride))
 TOI072	peró:
 TOR001	meglio barriera quindi?
@@ -637,12 +637,12 @@ TOR001	((ride))
 TOI072	no?
 TOI074	no va bene
 TOR001	((ride))
-TOI073	((ride))
 TOI072	peró una pizza (.) tipo l'hamburger di chianina: (.) con le: patatine insomma sui dodici euro quindici euro c(io)é [abbastanza:]
+TOI073	((ride))
 TOI074	[a::h che fa]me ((ride))
 TOR001	((ride)) cambiamo argo[mento]
-TOI073	[basta]
 TOI072	[no:]
+TOI073	[basta]
 TOI072	[poi ci sono i tartu]fi i formaggi [i vi]ni
 TOI073	[xxx]
 TOI074	((ride))
@@ -813,7 +813,7 @@ TOI073	decisamente una bella zona ma dal punto di vista della vita:::
 TOI073	e:h <serale> o così non é:
 TOI073	non c'é non c'era granché non (.) ancora anche adesso non c'é granché in realtà [c(io)é é a]ttaccata a san salvario
 TOR001	[mh mh]
-TOI073	p[eró all' epoca san salvario:: scappa da sotto e]cco
+TOI073	p[eró all'epoca san salvario:: scappa da sotto e]cco
 TOI072	[peró all'epoca san salvario:: (.) esatto]
 TOI074	cioé?
 TOI073	er[a::: un quartieracci]o (.) il bronx (.) tipo porta palazzo
@@ -917,8 +917,8 @@ TOI073	[non so] (.) sì sì (.) beh credo di sì peró é é tipico nostro
 TOI073	non lo so
 TOI072	ha manda~ comun[que il sabato pome]riggio far le vasche in centro
 TOI073	[non si usa]?
-TOR001	((ride))
 TOI072	e:::h
+TOR001	((ride))
 TOI072	eh sì e poi: avevo degli amici che abitavano mh in barriera e quindi:
 TOI072	alle volte mi capitva di uscire la sera con loro e di frequentare::
 TOI072	tipo quel si chiama? (.) scirocco
@@ -1454,10 +1454,10 @@ TOR001	beh é molto bella [come zona]
 TOI073	[é bellissimo] il sermig
 TOI073	sei stata mai?
 TOI074	no.
-TOI073	[andiamo]
 TOI072	[e:h]
-TOR001	((ride))
+TOI073	[andiamo]
 TOI072	vai
+TOR001	((ride))
 TOI073	andiamo ((ride))
 TOR001	va bene.
 TOR001	vi: vi ringrazio stoppo qui

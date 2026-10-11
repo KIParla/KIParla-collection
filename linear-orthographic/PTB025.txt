@@ -13,7 +13,7 @@ TOI116	ma lo capi~
 TOI116	sì pro~ allora provano a tradurre a vedere se evidentemente hanno capito proprio no non sembra però
 TOI117	ma io traduco xx
 TOI116	poche cose insomma
-TOI117	t'ai capì co che j'o dicc
+TOI117	# t'ai capì co che j'o dicc
 TOI116	eh
 TOI117	x hai capito cosa ho detto
 TOR001	allora vi faccio compilare mh la liberatoria
@@ -60,8 +60,8 @@ TOI116	eh per quello che lo dicevo
 TOR001	sì c'è da compilare appunto questa parte qui in basso
 TOR001	c'è già tutto
 TOI116	ma no hai solo firmato tu eh non hai compilato
-TOR001	deve compilare
 TOI117	solo firmato
+TOR001	deve compilare
 TOI117	ah è compilato ah eh non ho visto
 TOI117	allora
 TOI117	xxxx
@@ -222,8 +222,8 @@ TOI116	in origine magari
 TOR002	in realtà era di caselle mio nonno
 TOI116	ah quindi xxxx
 TOR002	però
-TOI116	eh poi probabilmente sì come
 TOI117	eh
+TOI116	eh poi probabilmente sì come
 TOR002	lontanamente sì siamo
 TOI116	sì come ogni tanto trovi degli omonimi poi dici ah è paren~ ma chissà da dove viene xx quando però c~ nomi
 TOI117	mah pensavo
@@ -242,10 +242,10 @@ TOR002	mia nonna era di montiglio
 TOI117	vabbè
 TOI116	ah monti~ beh montiglio è vicino a passerano
 TOI117	xxx
-TOI117	muntij muntij certo
-TOR002	muntij
+TOI117	# muntij muntij certo
+TOR002	# muntij
 TOI116	montiglio
-TOI117	muntij
+TOI117	# muntij
 TOI116	ma ha ancora qualche riferimento lì o no
 TOR002	eh no son andati via tu~
 TOI116	no
@@ -503,7 +503,7 @@ TOI117	come la mettiamo adesso è sempre più bello venire qua da
 TOI117	cioè per dire
 TOI117	ma è così eh tu metti
 TOR001	mh mh mh mh
-TOI117	le cose che dividono lascia perdere perché se no non m h
+TOI117	le cose che dividono lascia perdere perché se no non mh h
 TOI117	finisci più perché
 TOI117	d'altra parte poi
 TOI117	a volte non è mica ehm ehm io mai avuto incomprensioni con nessuno
@@ -532,7 +532,7 @@ TOI117	se non si mettono gli straordinari no
 TOI117	è stata dura per quello e allora dico vabbè
 TOI116	beh siamo finiti cioè da do~
 TOI117	vabbè
-TOI117	francesco a dis che si può andare avanti
+TOI117	# francesco a dis che si può andare avanti
 TOI117	no no ma adesso andate avanti voi
 TOI116	no xxxxxx tagliate
 TOI117	no no no no andiamo sullo specifico
@@ -543,7 +543,7 @@ TOR001	vi sembra sia cambiato nel corso del tempo
 TOI116	sì
 TOR001	come
 TOI116	ma non mol~ non moltissimo non moltissimo
-TOI117	rispund ti che lo frequenti
+TOI117	# rispund ti che lo frequenti
 TOR001	mh
 TOI116	diciamo che cioè beh come come r~ mh massaia no che uno frequenta i negozi e allora magari eh
 TOI116	è scomparso quell'esercente perché ha chiuso è andato ha chiuso l'attività è subentrato magari un altro
@@ -622,12 +622,12 @@ TOI117	e dovevo andar dal parrucchiere no
 TOI117	mentre che venivo su perché tanto deve venire la buca delle lettere eccetera
 TOI117	io vabbè tanto ne ho uno da cui vado da da da quarant'anni no
 TOI117	e vengo su e questo era chiuso
-TOI117	vabbè allora pij la macchina anduma su curs belgio magare
+TOI117	# vabbè allora pij la macchina anduma su curs belgio magare
 TOI117	madonna non ne ho trovato uno
 TOI117	tutt~ tutti chiusi nessuno aperto
 TOI117	allora
 TOI117	passo per caso davanti alla sua parrucchiera
-TOI117	e non sono entrato ho telefonato a lei i dije ma vara ma ansuma mentre son qua cos~
+TOI117	# e non sono entrato ho telefonato a lei i dije ma vara ma ansuma mentre son qua cos~
 TOI117	possibile che se vado dalla tua parrucchiera vabbè che è una parrucchiera da donna ma
 TOI117	a~ troverà il modo
 TOI116	xx
@@ -637,14 +637,14 @@ TOI117	e poi guarda caso chi m'ha lavato la testa è una mia ex alunna
 TOI117	guar~ xx dico vedi ve~
 TOI116	xx lavaggio di testa non tu non l'hai fatto l'ha fatto lei
 TOI117	ve~ vedi vedi cosa succede nel tempo adesso tu lavi la testa al tuo professore di matematica
-TOI117	e beh cosa vol di
+TOI117	# e beh cosa vol di
 TOI116	fatto bene lo stesso
 TOI117	adesso le cose son cambiate bon tanto per dire
 TOI117	quindi bisognerebbe però
 TOI117	perché sono tre o quattro eh
-TOI117	a m lu diva l'atar dì
+TOI117	# a mh lu diva l'atar dì
 TOI116	sì dai un'o~ dai un'alternanza però in effetti se vai a prender proprio la settimana di ferragosto
-TOI117	a a l pruchè
+TOI117	# a a l pruchè
 TOI117	a sun tre o qua~ eh por es~
 TOI116	vabbè i capelli te li puoi lavare anche in casa
 TOI116	cioè vabbè il taglio è diverso comunque
@@ -715,7 +715,7 @@ TOI117	sì dall'ottantaquattro fino al duemi~ fino al duemila e dodici xx lì ho
 TOI117	un quarto alle sette là senza avere nulla eh
 TOI117	no no no ma io sono ce l'ho nella testa eh
 TOI117	io io avrei proseguito eh
-TOI117	non m' avessero non avrei proseguito a insegnare per carità
+TOI117	non m'avessero non avrei proseguito a insegnare per carità
 TOI117	la cattedra va a un altro
 TOI117	però mh eh
 TOI117	sarei rimasto per interessarmi della disciplina
@@ -1037,8 +1037,8 @@ TOI117	algebra meno tre più uno
 TOI117	meno tre meno quattro che oh devi far cioè
 TOI117	così eh e il commissario l'ha permesso
 TOI117	non era possibile una roba
-TOR001	già già
 TOI117	un anno è successo così
+TOR001	già già
 TOI117	ma non capitava nulla di co~ ma ma dovevi adeguarti
 TOI117	io al pomeriggio eh con tecnica dividevamo la classe
 TOI117	io una volta arrivo perché lì ne avevo che non ti dico da fare eh
@@ -1088,10 +1088,10 @@ TOI117	no no no lo dico s~
 TOI116	vabbè vabbè
 TOI117	ma i miei colleghi lo sanno
 TOR001	e e dopo quando siete andati in pensione cosa cosa avete iniziato a fare avete avuto più tempo a cosa vi siete dedicati
-TOI117	xxx mi
+TOI117	# xxx mi
 TOI116	allora
 TOI116	allora f~ comincia tu perché ah x abbiamo cominciato
-TOI117	no di ti
+TOI117	# no di ti
 TOI116	allora niente io sono andata in pensione cioè io avrei conti~ av~ cioè avrei continuato nel senso che
 TOI117	precedenze
 TOI116	a volte mh
@@ -1157,10 +1157,10 @@ TOR001	ah sempre
 TOI116	tu~ tutta l'estate
 TOI116	ehm d'inverno no eh d'inverno no ma ci andiamo da da marzo
 TOR001	okay okay okay okay
-TOI117	d'inverno no ma anduma sempi giu eh
+TOI117	# d'inverno no ma anduma sempi giu eh
 TOI116	però andiamo sempre giù tra una stor~ c'è sempre qualcosa eh
-TOI117	stuma nen dui di
-TOI117	eh anduma sempi giu
+TOI117	# stuma nen dui di
+TOI117	# eh anduma sempi giu
 TOI116	o c'è la pioggia o c'è l'infiltrazione oppure c'è qualcosa da concordare
 TOR002	eh beh
 TOI116	e poi ci andiamo volentieri perché comunque lì abbiamo collegamenti gli amici che s~ poi sono
@@ -1177,7 +1177,7 @@ TOI116	è la vita del paese la solita ecco quindi
 TOR001	beh però
 TOR001	un sacco di attività nel paese eh
 TOI116	sì sì insomma
-TOI117	sì sta tranquil che a i na j'è fin che t vole
+TOI117	# sì sta tranquil che a i na j'è fin che t vole
 TOI116	qualcosina sì
 TOI116	sì
 TOI116	ma poi lui se li prende eh cioè non
@@ -1224,7 +1224,7 @@ TOI117	e poi qundi già prima
 TOI117	io voglio preparare sempre mh allora
 TOI117	io cosa porto
 TOI117	ehm di argomenti ormai sì ne ho un certo
-TOI117	numero ma ne preparo anche altri per esempio l'altr'anno ho cominciato al paese no il direttore della biblioteca dice ma perché non facciamo qualcosa
+TOI117	numero ma ne preparo anche altri per esempio l'altranno ho cominciato al paese no il direttore della biblioteca dice ma perché non facciamo qualcosa
 TOI117	allora ho fatto truffe agli anziani e truffe informatiche ho tenuto in~ due incontri di ecologia
 TOR001	ah
 TOI117	un incontro sulle migrazioni quindi argomenti duri
@@ -1409,7 +1409,7 @@ TOR001	mh mh
 TOI116	eh c'è chi xxx vediamo la differenza tra un nostro amico che ha pure la casa in campagna no
 TOI116	eh vive anche lui a torino ma ha la casa vicino a noi
 TOI116	e però è cresciuto sempre a torino
-TOI116	e lui eh turineis eh no no eh conosce tutto conosce le vie conosc~
+TOI116	# e lui eh turineis eh no no eh conosce tutto conosce le vie conosc~
 TOI116	i modi di x anche di
 TOI116	anche di parlare noi il torinese non l'abbiamo mai imparato perché poi parlando piemontese
 TOI116	cioè figuriamoci facciamo dei miscugli che
@@ -1491,7 +1491,7 @@ TOI117	eh quindi quindi no no ah io
 TOI117	qualunque roba ci sia vado in giro e ripren~
 TOR002	beh adesso fan tutto col drone que quelle situazioni lì
 TOI116	eh eh eh
-TOI117	des~ eh c~ il drone saría a j'è co na bela ah cul drone
+TOI117	# des~ eh c~ il drone saría a j'è co na bela ah cul drone
 TOI117	ma eh sì
 TOI117	allora
 TOI117	diciamo una cosa
@@ -1587,7 +1587,7 @@ TOI117	sto attento eh
 TOI117	quello sì
 TOI117	faceva bene
 TOI116	faceva il xx no x eh
-TOI117	andava giù ma poi a na cunt~
+TOI117	# andava giù ma poi a na cunt~
 TOI116	xxx
 TOI116	xxxx
 TOI117	poi po~ poi portava su sto sto filmato dall'africa eh ma tizi molto in gamba eh
@@ -1610,7 +1610,7 @@ TOR001	va beniss~
 TOR002	va
 TOR001	va benissimo va benissimo
 TOR002	benissimo
-TOI117	damla co a mi che a forsa ed parlé
+TOI117	# damla co a mi che a forsa ed parlé
 TOI116	xxxx
 TOI117	ma si può sentir solo qualcosa
 TOI116	xxx

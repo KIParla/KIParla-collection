@@ -7,8 +7,8 @@ TOR006	che lavoro fai
 TOI033	faccio il carrozziere
 TOR006	okay, e::: da quanto tempo?
 TOI033	sono::=ho iniziato il quinto anno
-TOI033	[quinto anno] di carrozzeria
 TOR006	[okay]
+TOI033	[quinto anno] di carrozzeria
 TOR006	okay mi puoi spiegare qualcosa sul tuo lavoro, cos[a fai],
 TOI033	[sì asso]lutamente la mia mansione è detta montaggio e smontaggio,
 TOR006	mhmh,
@@ -24,8 +24,8 @@ TOR006	e:::h quindi cinque anni, quindi in pratica:
 TOR006	tu che::: che superiore hai fatto?
 TOI033	io ho frequentato::: istituto vittone, ho fatto cinqu[e anni] di geometra,
 TOR006	[okay],
-TOI033	[sono uscito col di]ploma da geometra,
 TOR006	[okay]
+TOI033	[sono uscito col di]ploma da geometra,
 TOR006	oka[y]
 TOI033	[e] poi non ho:: poi non ho continuat[o::: quegli s]tudi
 TOR006	[okay]
@@ -60,8 +60,8 @@ TOI033	quello che::: che svolgo:: [all'interno] dell'officina:::
 TOR006	[mhmh]
 TOR006	mhmh
 TOI033	di poter essere in grado io un giorno di:: essere:: autonomo,
-TOI033	[per quanto riguarda]
 TOR006	[tipo ti piacerebbe] aprire un'officina
+TOI033	[per quanto riguarda]
 TOI033	esatto, una carrozzeria: [o anche] solo portare avanti questa (.) assol[utamente]
 TOR006	[come si]
 TOR006	[okay]
@@ -100,8 +100,8 @@ TOI033	pr[o~ per] lavoro che svolgo io
 TOR006	[okay]
 TOI033	sono due realtà molto diverse preferisco quella che:::
 TOI033	che c'è a chieri
-TOI033	[assolutamente in provincia]
 TOR006	[come mai preferisci più] chi~ più la provinci[a],
+TOI033	[assolutamente in provincia]
 TOI033	[ma]:: diciamo che nella grande città:::
 TOI033	xx sempre per il lavoro che [svolgo io] è un altro:::
 TOR006	[mhmh]
@@ -151,8 +151,8 @@ TOI033	alcune cose, quindi
 TOI033	sì assolutamente
 TOR006	e qua invece non ci sono percorsi di::: di formazione,
 TOI033	sì (.) ci sono, dei percorsi di formazione, ci sono i percorsi di formazione classici,
-TOI033	[quelli che] cui devi:::
 TOR006	[mhmh]
+TOI033	[quelli che] cui devi:::
 TOI033	diciamo per forza aderire,
 TOI033	e [se no ci sono an]che corsi a pagamento,
 TOR006	[°mhmh°]
@@ -182,8 +182,8 @@ TOR006	o[kay]
 TOI033	[per for]tuna
 TOR006	anche::: ah quindi ti piace qu[esta zona]
 TOI033	[sì un sa]cco
-TOI033	[xx tantissimo]
 TOR006	[cosa ti piace]
+TOI033	[xx tantissimo]
 TOI033	che non siamo né troppo::: in centro, né troppo fuori di[ciamo (.) me]ttiamola così siamo in una zona neutra, dove però siamo vicini a tutto
 TOR006	[mhmh]
 TOR006	mhmh
@@ -194,8 +194,8 @@ TOI033	mi trovo stra bene qua
 TOR006	okay
 TOR006	e:: quindi hai frequentato anche le scuole qua sem[pre],
 TOI033	[sì]
-TOI033	[da:: asi]lo elementari medie superiori
 TOR006	[okay]
+TOI033	[da:: asi]lo elementari medie superiori
 TOR006	okay
 TOR006	e::h i tuoi amici eh vivono vicino a te, oppure si sono spostati, per esigenze var[ie],
 TOI033	[mh] no la maggior parte dei miei amici, vivono qua
@@ -218,8 +218,8 @@ TOI033	qua in zona,
 TOR006	sì
 TOI033	ma sinceramente ti dico:::
 TOI033	no.
-TOI033	[nel senso] l'unica::: giustamente è un paesino
 TOR006	[°okay°]
+TOI033	[nel senso] l'unica::: giustamente è un paesino
 TOI033	per le mie esigenze per quello che devo fare, qua sto:::
 TOI033	sto benissi[mo assoluta]mente vicino a mezzi pubblici [a::: tutt]o quindi:::
 TOR006	[°stai bene qui°]
@@ -332,14 +332,14 @@ TOI033	sì
 TOI033	no è impossibile
 TOR006	no
 TOI033	(è) sbagliato,
-TOI033	[no beh sì] a volte però:: fac[ciamo]
 TOR006	[pensaci ben~]
+TOI033	[no beh sì] a volte però:: fac[ciamo]
 TOR006	[quindi] due volte a set[timana],
 TOI033	[facciamo an]che due volte a settimana sì
 TOI033	ah [a volte sì]
 TOR006	[o mio dio] (è) bellissimo
-TOI033	[no sì sì]
 TOR006	[perché ti piace andare a] ballare,
+TOI033	[no sì sì]
 TOI033	beh, allora ballare mi piace semplicemente perché io suonavo,
 TOI033	quind[i::: lavora]ndo nei locali,
 TOR006	[°okay°]
@@ -347,8 +347,8 @@ TOI033	sono sempre rimasto::: affezionato [xx]
 TOR006	[ma quindi] aspetta,
 TOR006	(hai) avevi già (.) fatto un lavoro.
 TOI033	se si può chiamare lavoro,
-TOI033	[non è proprio un lavoro]
 TOR006	[vabbè, dai raccontami qual]cosa
+TOI033	[non è proprio un lavoro]
 TOI033	nel senso::: beh io quando ero ragazzino, quando avevo::: (.) quindic(i) anni, [ho iniz~] x mi sono appassionato appunto a suonare come:: [come dj].
 TOR006	[mhmh]
 TOR006	[mhmh]
@@ -358,8 +358,8 @@ TOR006	[mhmh]
 TOI033	(a) fare::: giocare un pochettino così,
 TOR006	mhmh
 TOI033	e poi niente (suoni~) ho iniziato a suona::~ suonicchiare in un locale qua a chieri,
-TOI033	[il=e]::h il pickwick,
 TOR006	[mhmh]
+TOI033	[il=e]::h il pickwick,
 TOR006	okay,
 TOI033	il vecchio pickwick,
 TOI033	e::::hm
@@ -387,8 +387,8 @@ TOR006	c(io)è perché ti pia~ cosa ti piace~ c(io)è quando eri, tipo il dj di 
 TOI033	[sì]
 TOI033	ma in rea[ltà, mi piaceva::: veramente ta]ntissimo far divertire la gente
 TOR006	[cos'è che ti piace]
-TOI033	[poter]=e:::h vedere anche che la gente potesse apprezzare la musica,
 TOR006	[mhmh]
+TOI033	[poter]=e:::h vedere anche che la gente potesse apprezzare la musica,
 TOI033	q[uello che s]uonavo::
 TOR006	[mhmh]
 TOI033	e quello sì:: (.) mi è rimasto.
@@ -464,8 +464,8 @@ TOI033	e:::: e sono andato, mamma infatti non era molto:::
 TOR006	((ride))
 TOI033	contenta di questa cosa::: però:: sì sì (.) era una serata:::
 TOI033	non mi ricordo, sarà finita anche quella alle cinque o alle sei,
-TOI033	e poi alle sette so(no) andato a scuola.
 TOR006	((ride))
+TOI033	e poi alle sette so(no) andato a scuola.
 TOI033	alle sette e mezza dovevo andare a scuola, xx ho fatto il continuato::: °sì sì sì°
 TOR006	e lì sei stato pagato?
 TOI033	qua sì.
@@ -476,8 +476,8 @@ TOR006	[c(io)è i t]uoi momenti di gloria, li [hai avuti dai:::]
 TOI033	[ma assolutamente, sì] sì eh (.) qualche soddisfazione me la son tolta ((ride))
 TOR006	che [bello],
 TOI033	[piccole co]se, però:::
-TOI033	[ne vado fie]ro,
 TOR006	[bello],
+TOI033	[ne vado fie]ro,
 TOR006	ma::: m:::h volevo chiedere questi pezzi che avete prodotto quindi
 TOR006	c(io)è:: non avete mai pensato di tipo pubblicarli su internet, o::: [farci qualcosa],
 TOI033	[ma no:: li abbiamo:::] sempre pubblicati a livello molto amatoriale
@@ -517,7 +517,7 @@ TOI033	[sì]
 TOI033	io entro a lavoro alle sette mezza,
 TOR006	mhmh,
 TOI033	e::: esco alle:: esco all'una,
-TOI033	e (.) [] p:oi rientro alle::: due,
+TOI033	e (.) p:oi rientro alle::: due,
 TOR006	[okay]
 TOI033	((ride)) e::: [esco al]le::: otto, otto e me[zza::]:, più o meno così,
 TOR006	[°(okay)°]
@@ -649,8 +649,8 @@ TOR006	((ride))
 TOR006	((ride))
 TOI033	e:::: ((ride)) e poi:::
 TOI033	diciamo che noi:: ci svegliavamo di media alle due tre di pomeriggio,
-TOI033	[e:::]:h
 TOR006	[°mhmh°]
+TOI033	[e:::]:h
 TOI033	x x x giusto ti mangi, fai u~ un accenno di ba~ di bagno, qualcosa,
 TOI033	e poi dalle dieci di sera, alle dieci di mattina è un non stop per cui:::
 TOI033	xx tutto così::: là hanno questi ritmi quindi è una figata,
@@ -679,8 +679,8 @@ TOR006	((ride))
 TOI033	però ho conosciuto un sacco di ragazze spagnole::: nonostante ciò
 TOR006	((ride))
 TOI033	e::: mi sono divertito.
-TOI033	[non abbas]tanz~ c(io)è x
 TOR006	[va bene]
+TOI033	[non abbas]tanz~ c(io)è x
 TOR006	((ride))
 TOI033	tantissimo eh,
 TOI033	però sotto un certo punto di vista, non abbastanza ((ride)) mettiamola così ((ride))
@@ -692,8 +692,8 @@ TOI033	è che ibiza è tanto costosa. (quello lo) devo ammettere quindi:::
 TOR006	però tu lavori,
 TOI033	sì::: però diciamo che::: ((ride)) (proprio) ((ride)) andarli a spendere tutti in ((ride))
 TOR006	((ride))
-TOI033	[preferirei an]che (.) tenermeli un po', ((ride))
 TOR006	[va bene],
+TOI033	[preferirei an]che (.) tenermeli un po', ((ride))
 TOR006	giusto
 TOI033	sì sì sì,
 TOR006	e:::hm ((ride)) che ridere
@@ -774,8 +774,8 @@ TOI033	xx ci hanno ci hanno chiuso lì::: volevano::: ((ride)) non volevano xx (
 TOI033	e poi bon siamo scappati, e:::
 TOI033	sono andato a scuola. in fin dei conti, quindi sono andato a scuola, con::
 TOR006	((ride))
-TOI033	[questa],
 TOR006	[con l'a]nsia?
+TOI033	[questa],
 TOI033	questa palpitazione:::
 TOI033	sì sì da::: diciamo da::: [dalle escort a s]cuola:::
 TOR006	[oh mio dio],
@@ -808,8 +808,8 @@ TOI033	(in tutto questo) xxx
 TOI033	(tutto) xxx che poi la macchina è della mamma, di un nostro amico per cui dovevamo anche fare attenzione alla macchina
 TOR006	((ride)) quin[di]?
 TOI033	[è sta]ta una::: cosa::: meravigliosa
-TOI033	[bellissimo]
 TOR006	[e però::: son] quelle cose che poi ti ric~ c(io)è ch[e poi:::]
+TOI033	[bellissimo]
 TOI033	[sì::: ti rima]ngono, assolu[tamente],
 TOR006	[raccontera]i, (.) no. forse non racconterai ai tuoi nipoti, o sì
 TOI033	ma neanche ai miei figli, ((ride))
@@ -837,14 +837,14 @@ TOI033	tre ragazze, erano:::
 TOI033	(credo), russe russe bielorusse una cosa, del genere
 TOI033	sì sì sì e poi:::
 TOR006	ho capito.
-TOI033	[vabbè].
 TOR006	[molto] interessante
+TOI033	[vabbè].
 TOI033	sì sì in questa::: [xx xx xxx]
 TOR006	[qualcos'altro di un] po' più l~
 TOR006	in [cui non hai rischiato la vi]ta,
 TOI033	[a::::h legge]ro?
-TOI033	((ride))
 TOR006	((ride))
+TOI033	((ride))
 TOI033	in cui [non ho] rischiato la vita:::
 TOR006	[xx]
 TOR006	c(io)è ma (.) tipo che sei arrivato e non c'era l'attrezzatura::: oppure:::
@@ -885,8 +885,8 @@ TOI033	sì,
 TOR006	[e cosa si fa]
 TOI033	[sono andato a sentire]::: david guetta,
 TOI033	(sono) andato a sentire,
-TOI033	[e:::::h] sì sì (ero) andato a sentire david guetta::: alla fiera di milano, dove han fatto::: m:::h l'expo,
 TOR006	[°o mio dio°]
+TOI033	[e:::::h] sì sì (ero) andato a sentire david guetta::: alla fiera di milano, dove han fatto::: m:::h l'expo,
 TOI033	a rho,
 TOI033	e::::h niente, gli si è spenta la musica:::: niente
 TOI033	parte un sacco di imbarazzo,
@@ -966,8 +966,8 @@ TOI033	ah.
 TOI033	(no ma) ha sempre fatto, un genere:::
 TOI033	dutch, si chiama, [xx] xx dutch house=e::::h
 TOR006	[mhmh],
-TOI033	[ste cose qua],
 TOR006	[ma (.) non è] un po' simile all'hip (.) hop?
+TOI033	[ste cose qua],
 TOI033	la dutch?
 TOR006	no, c(io)è io lo ascoltavo quando faceva hip hop, diplo
 TOI033	sì
@@ -986,7 +986,7 @@ TOI033	popstar,
 TOR006	mh[mh]
 TOI033	[il d]j, quello che ti mette i dischi e basta:::
 TOI033	è un po':::
-TOI033	un po' scomparso, diciamo (.) [] (diciamo) così
+TOI033	un po' scomparso, diciamo (.) (diciamo) così
 TOR006	[sì]
 TOR006	e volevo chiederti un'altra cosa,
 TOR006	m:::::h
@@ -1028,17 +1028,17 @@ TOR006	[sì]
 TOI033	per:::ché
 TOI033	funzio[na::: perché è] commerc~ ma anche d'inverno c(io)è ce lo stanno smaronando vermamente tutto l'anno,
 TOR006	[d'estate],
-TOI033	[e quindi, bon. han ca]pito che funziona::: e:: bon,
 TOR006	[okay]
-TOI033	[se tra] un anno, andrà di moda:::
+TOI033	[e quindi, bon. han ca]pito che funziona::: e:: bon,
 TOR006	[°okay°]
+TOI033	[se tra] un anno, andrà di moda:::
 TOI033	(un) altro::: un altro genere::::
 TOR006	mhmh
 TOI033	il il prog reggaeton
 TOI033	xx sarà xx non so qualcosa,
 TOR006	((ride))
-TOI033	[l'estate pros]sima, sentiremo canzoni, con un'impronta prog reggaeton,
 TOR006	[okay]
+TOI033	[l'estate pros]sima, sentiremo canzoni, con un'impronta prog reggaeton,
 TOR006	cosa pensi della trap, music.
 TOI033	allora.
 TOI033	trap music.
@@ -1088,8 +1088,8 @@ TOI033	si chiama illenium
 TOR006	mhmh,
 TOI033	quel genere lì, mi piace a me (.) quella trap lì
 TOR006	okay
-TOI033	[molto più]
 TOR006	[che è meno]::: commerciale
+TOI033	[molto più]
 TOI033	mo::lto meno commerciale
 TOI033	molto meno commerciale
 TOR006	[okay]
@@ -1131,8 +1131,8 @@ TOR006	((ride))
 TOR006	e:::: ((ride))
 TOR006	e:::: e ti piace, (.) c(io)è vai allo stadio::: o guardi solo a [casa],
 TOI033	[allo stadio::] in realtà, vado a vedere il toro.
-TOI033	((ride))
 TOR006	((ride)) ma per[ché],
+TOI033	((ride))
 TOI033	[e qua] (.) c(io)è (.) disastro. cosa? ((ride))
 TOI033	sì in realtà=(a) san siro, vado,
 TOI033	poco
@@ -1222,8 +1222,8 @@ TOR006	°ho capito°.
 TOI033	quindi c(io)è
 TOI033	ma tante persone sono convinte di questa cosa,
 TOI033	e quindi ti diranno:::: (non) è, razzismo io non sono razzista,
-TOI033	[io lo fac]cio per,
 TOR006	[°mhmh°],
+TOI033	[io lo fac]cio per,
 TOR006	conosci willie peyote,
 TOI033	willie=(il) coyote?
 TOR006	willie pe[yote]
@@ -1233,8 +1233,8 @@ TOI033	[ah].
 TOR006	ascoltati,
 TOR006	e::::h non sono razzista, ma.
 TOI033	ah.
-TOI033	[okay]
 TOR006	[cercala]:: su spoti[fy]
+TOI033	[okay]
 TOI033	[oka]y (.) assolutamente
 TOR006	°parla di questo°
 TOR006	volevo::: chiederti ultime domande,
@@ -1250,8 +1250,8 @@ TOI033	un mattone
 TOI033	mia mamma era (incredula), fa ah sai leggere, quindi sì mamma x xx ((ride))
 TOR006	((ride))
 TOI033	però::: in realtà, (vado a vedere) un po' tutti i generi
-TOI033	[appassionati del]=e::h genere marvel, (.) e::h x cose molte molto commerciali,
 TOR006	[mhmh],
+TOI033	[appassionati del]=e::h genere marvel, (.) e::h x cose molte molto commerciali,
 TOR006	okay,
 TOI033	però, ogni tanto (andavo) a vedere anche film, più::::
 TOI033	diciamo:::
@@ -1291,12 +1291,12 @@ TOI033	(le) partite?
 TOR006	no oltre, alle [partite, c(io)è guardi la tv]?
 TOI033	[a::::h oltre le partite]?
 TOI033	sì::,
-TOI033	[c(io)è]
 TOR006	[cosa] gua[rdi]?
+TOI033	[c(io)è]
 TOI033	[una vo]lta tan~
 TOI033	tanta. adesso in realtà:::: la guardo veramente poco,
-TOI033	[perché] in settimana la guardo:::
 TOR006	[°mhmh°],
+TOI033	[perché] in settimana la guardo:::
 TOI033	uscendo di casa sette e mezza,
 TOI033	entrando a casa praticamente alle nove,
 TOR006	mhmh,

@@ -58,8 +58,8 @@ TOI001	e quindi
 TOI001	tutto ciò che comporta essere un libero professionista
 TOI001	che può essere anche un gestore di un'attività tipo una pizzeria d'asporto insomma
 TOR001	mhmh
-TOI001	che mhmh
 TOR001	okay
+TOI001	che mhmh
 TOR001	va bene
 TOR001	ehm pensi che torino sia un buon posto per lavorare
 TOI001	credo che sia un buon posto per lavorare
@@ -327,8 +327,8 @@ TOI001	è una bella città piena di storia
 TOI001	eh se vuoi divertirti ci son divertimenti
 TOI001	eh se invece vuoi stare tranquillo puoi anche tranquillamente riuscirci insomma
 TOI001	credo che in confronto a molte altre città ci sia molto verde
-TOI001	a torino
 TOR001	mhmh
+TOI001	a torino
 TOI001	ehm
 TOI001	quindi sì in generale mi piace come città
 TOR001	sei legato anche tu a torino come marco e come tutti i torinesi che ho conosciuto
@@ -441,8 +441,8 @@ TOI001	diciamo che
 TOI001	xxx
 TOI001	sei condannato a non veder mai una coppa alza~ ar~ alzata però
 TOI001	per carità
-TOI001	son simpatici
 TOR001	beh però
+TOI001	son simpatici
 TOR001	son più simpatici infatti
 TOI001	sì chiaramen~
 TOR001	cioè
@@ -476,7 +476,7 @@ TOR001	dove
 TOI001	qua a torino
 TOR001	ah
 TOI001	ehm
-TOI001	adesso ho chiesto io di andare ai guns'n'roses ma non c'è e
+TOI001	adesso ho chiesto io di andare ai guns'nroses ma non c'è e
 TOR001	come mai non vai
 TOR002	xxx
 TOR001	ah sei a bologna
@@ -486,7 +486,7 @@ TOR002	eh no xxxx
 TOR001	andate a vedere i foo fighters tu volevi andare
 TOR002	ma non so se a giulio piacciono
 TOR001	ti piacciono i foo fighters
-TOI001	sarei andato ai guns'n'roses sinceramente
+TOI001	sarei andato ai guns'nroses sinceramente
 TOR002	poi comunque come è un bordello andare ai guns è un bordello anche la sera dopo
 TOR001	eh però i guns una volta
 TOR002	in che senso
@@ -510,9 +510,9 @@ TOR001	dimmi dimmi
 TOR002	no volevo fare una domanda io appena finisci quelle serie
 TOR001	vai vai
 TOR001	no no vai vai fai
-TOR002	no cazzo la domanda è spiega il papocc giulio
+TOR002	# no cazzo la domanda è spiega il papocc giulio
 TOI001	ah il papocc
-TOI001	eh il papocc è
+TOI001	# eh il papocc è
 TOR002	ma proprio l'origine
 TOI001	vabbè diciamo che
 TOI001	è il nome di un personaggio de de delle mie parti
@@ -524,7 +524,7 @@ TOI001	e siccome è un cocktail che è fresco
 TOI001	eh
 TOI001	il primo neanche lo senti comunque va giù abbastanza velocemente
 TOI001	finché a un certo punto non ti alzi più dalla sedia o non ti metti a ridere
-TOI001	papocc più o meno era la stessa cosa insomma non te ne accorgevi però non si alzava più dalla sedia a un certo punto
+TOI001	# papocc più o meno era la stessa cosa insomma non te ne accorgevi però non si alzava più dalla sedia a un certo punto
 TOR001	ma non sapevo che era una persona io
 TOI001	xx
 TOR002	mh
@@ -592,7 +592,7 @@ TOI001	sicuramente ti posso dire che non mi piacciono le vacanze di natale boldi
 TOI001	no
 TOI001	ehm
 TOI001	che film mi piacciono oh mh
-TOI001	se vado da solo vado a vedermi se c'è un film francese vado a vedermi un film francese mi son sempre stati i film francesi fanno ridere
+TOI001	se vado da solo vado a vedermi se c'è un film francese vado a vedermi un film francesemi son sempre stati i film francesi fanno ridere
 TOI001	hanno uno humor tutto loro
 TOI001	e quindi
 TOR001	tipo
@@ -1010,7 +1010,7 @@ TOR002	in eccellenza millecinque duemila
 TOI001	sì
 TOI001	c'era uno che faceva xxxx
 TOR002	beh certo magari arriva dalla ci uno o ci due
-TOI001	beh ma eh xx il mio preparatore atletico di una volta quando ero più piccolo
+TOI001	beh ma eh xxil mio preparatore atletico di una volta quando ero più piccolo
 TOI001	lui che giocava nella prima squadra che era in promozione
 TOI001	lui prendeva milledue in promozione
 TOR002	okay
@@ -1042,8 +1042,8 @@ TOI001	eh
 TOI001	dipende da dove giocavo cioè l'anno scorso ne facevamo tre di allenamenti a settimana
 TOI001	quest'anno abbiamo iniziato con tre fino a settem~ metà ottobre poi son diventati due
 TOR001	mhmh
-TOI001	eh ehm
 TOR001	eh
+TOI001	eh ehm
 TOI001	beh tu guarda già solo
 TOI001	quello che era mio compagno di squadra ale il biondino
 TOR002	mhmh
@@ -1123,7 +1123,7 @@ TOI001	oltre a lavorare da me
 TOI001	fai anche allenamenti
 TOR001	ah
 TOI001	mh
-TOI001	però quelle cose lì anche lì poi appena cambi squadra però ti fan fuori eh anche da dipendente non credere
+TOI001	però quelle cose lìanche lì poi appena cambi squadra però ti fan fuori eh anche da dipendente non credere
 TOR001	ciao
 TOR001	certo
 TOR001	eh e rimani a piedi del tutto a quel punto
@@ -1329,7 +1329,7 @@ TOI001	ha cambiato ben poco
 TOI001	eh
 TOR002	che giochiamo
 TOR001	quello che vuoi
-TOR002	quello che vuoi quello che vuoi
+TOR002	quello che vuoiquello che vuoi
 TOI001	diciamo che l'unica città che cambia realmente forse è milano
 TOI001	altre città eh da noi è sempre molto conservatore
 TOI001	che cosa cambia
@@ -1401,8 +1401,8 @@ TOR001	okay quindi
 TOI001	no
 TOR001	no
 TOI001	o peschi
-TOI001	o giochi
 TOR001	o giochi
+TOI001	o giochi
 TOR001	okay
 TOR002	ah okay
 TOR001	va bene
@@ -1530,7 +1530,7 @@ TOR001	mhmh
 TOI001	ehm
 TOI001	altre città come ti dico
 TOI001	parigi
-TOI001	eh non è come milano è più come torino insomma
+TOI001	eh non è come milanoè più come torino insomma
 TOR001	mhmh
 TOI001	ehm
 TOI001	è più residenziale torino in confronto a milano
@@ -1564,8 +1564,8 @@ TOR001	statica no
 TOR001	che invece ho più su milano ma per
 TOI001	sì
 TOR001	cioè
-TOI001	certo
 TOR001	mh solo per per per caso non perché perché sia veramente così
+TOI001	certo
 TOI001	però
 TOI001	cioè se non ci fosse il politecnico a torino
 TOI001	di università chi parte da qualsiasi posto in italia per venire a fare un'università a torino oltre al politecnico
@@ -1580,8 +1580,8 @@ TOR001	sicuramente
 TOI001	sì però obiettivamente
 TOR001	sicuramente
 TOI001	cioè
-TOI001	quello è un suo caso partico~ raro
 TOR001	xxx
+TOI001	quello è un suo caso partico~ raro
 TOR002	xxx
 TOI001	insomma
 TOR001	e scusa quando la facevi tu eravate tutti di torino
@@ -1616,8 +1616,8 @@ TOR002	vai
 TOI001	sì sì
 TOR001	cioè
 TOI001	e
-TOI001	xx mi sa
 TOR001	ce n'è sei da fuori e sembra che sono tutti da fuori invece sei veramente due sfigati
+TOI001	xx mi sa
 TOR002	mh eh cazzo faccio con queste cartacce
 TOR001	beh tanto hai pescato
 TOI001	eh
@@ -1708,7 +1708,7 @@ TOI001	e quindi
 TOI001	tendiamo a rimanere molto
 TOI001	dove siamo sicur~ ma anche perché
 TOI001	quella però è una questione di genitori come impostano le cose
-TOI001	allora potremmo fare
+TOI001	allorapotremmo fare
 TOI001	tavatà tarà
 TOI001	tararà ta ta
 TOI001	ta ta ta tarà ta tatà
@@ -1751,8 +1751,8 @@ TOR001	però questo vale per tutto non è che vale per solo per torino
 TOR002	no no ma infatti
 TOI001	vai
 TOR002	sicuro
-TOI001	ma difatti in generale c'è un immobilismo
 TOR001	cer~
+TOI001	ma difatti in generale c'è un immobilismo
 TOR001	sì abbastanza
 TOI001	eh
 TOI001	ci si sposta solo quando ha la ha si ha la certezza di andarsene
@@ -2058,7 +2058,7 @@ TOI001	ma a brescia bergamo sono molto più inseriti
 TOR002	mh beh perché c'è più soldo
 TOR002	secondo me
 TOI001	eh
-TOI001	eh eh sì sì e quindi è come dire che comunque fronte a una migrazione straniera loro hanno reagito meglio in confronto a noi
+TOI001	eh eh sì sìe quindi è come dire che comunque fronte a una migrazione straniera loro hanno reagito meglio in confronto a noi
 TOI001	vai pure
 TOR001	oh
 TOR001	eh bergamo è ricca ricca ricca eh come città
@@ -2101,8 +2101,8 @@ TOR001	ma hai pescato
 TOR002	no
 TOI001	xxx e è ancora li che pensa
 TOR002	mh ma tocca a me
-TOI001	mh
 TOR001	eh
+TOI001	mh
 TOR002	ah non ho sentito
 TOR001	e cosa dovevi sentire
 TOI001	xx
@@ -2284,8 +2284,8 @@ TOI001	beh prendi il jolly puoi fare quel che vuoi
 TOR001	sì
 TOI001	eh quindi è cuori
 TOR001	aspetta è cuore se lo metti qua
-TOI001	sì
 TOR001	ma se avessi l~ quello di picche te lo prendi lo stesso e lo giochi
+TOI001	sì
 TOI001	ah
 TOI001	okay non distingui te il concetto il concetto è un altro nove
 TOR001	no nel senso che se lo
@@ -2320,7 +2320,7 @@ TOR002	vai
 TOI001	quelle che son buone
 TOR001	vai
 TOI001	puttana eva
-TOI001	vacca logia
+TOI001	# vacca logia
 TOI001	xxxx
 TOI001	che palo che ho preso vai
 TOR002	vai

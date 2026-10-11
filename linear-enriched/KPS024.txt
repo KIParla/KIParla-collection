@@ -83,7 +83,7 @@ PKP125	vabbè
 PKP131	no in realtà (anche no) c(io)è
 PKP131	non lo vogliono nemmeno
 PKP125	no?
-PKP131	#vonno u telefono
+PKP131	# vonno u telefono
 PKP125	((ride))
 PKP125	(giustamente)
 PKP131	tiktok
@@ -140,7 +140,7 @@ PKP131	si è affacciata
 PKP125	((ride))
 PKP131	mamma
 PKP131	stavano facendo i tiktok
-PKP131	#quindi tutt'appost
+PKP131	# quindi tutt'appost
 PKP125	oka(y)
 PKP131	fin quì tutto bene
 PKP131	po:i
@@ -164,7 +164,7 @@ PKP125	adoro ((ride))
 PKP125	((fa un urletto)
 PKP125	((ride))
 PKP131	è successo il panico
-PKP131	#nonna tutta (sgobellata) che non riusciva a:
+PKP131	# nonna tutta (sgobellata) che non riusciva a:
 PKP131	perché veramente
 PKP131	boh
 PKP131	(guarda) che hanno fatto
@@ -189,7 +189,7 @@ PKP125	((ride))
 PKP131	grande?
 PKP125	c(io)è
 PKP125	vabbè ha organizzato una cena a casa
-PKP125	#non ce ne vo una xx ((ride))
+PKP125	# non ce ne vo una xx ((ride))
 PKP131	((ride))
 PKP125	non le faccio io (.) le fai lei
 PKP131	comunque mamma il giorno dopo è dovuta anche andare a pulire
@@ -267,7 +267,7 @@ PKP125	(ancora)?
 PKP131	e::h
 PKP131	praticamente non gliel'hanno dati
 PKP131	perché gli è uscito:
-PKP125	#vuoi u xx?
+PKP125	# vuoi u xx?
 PKP131	eh un a:ttimo
 PKP131	c(io)è piano
 PKP131	sta iniziando
@@ -287,7 +287,7 @@ PKP131	dei poveri
 PKP131	che vabbè
 PKP131	eh
 PKP125	°vabbè°
-PKP131	#VABBUÒ comunque quel cristiano si è sposato
+PKP131	# VABBUÒ comunque quel cristiano si è sposato
 PKP125	m:h
 PKP131	si è sposat[o:]
 PKP125	[t]op
@@ -365,8 +365,8 @@ PKP131	che tra l'altro questa è una cosa bruttissima
 PKP131	perché pure la famiglia glielo dice
 PKP131	>gli dice< no
 PKP131	tu vai là: perché:
-PKP131	#>non lo vuoi< fà venì ca perché ille:
-PKP131	#se trova n'ata
+PKP131	# >non lo vuoi< fà venì ca perché ille:
+PKP131	# se trova n'ata
 PKP125	beh
 PKP125	beh
 PKP125	ma
@@ -405,8 +405,8 @@ PKP131	quello si trova un altro
 PKP131	>quello< ti la:scia
 PKP131	quello ti mette le corna >te ne devi< anda:re:
 PKP131	gli fai venire:
-PKP131	#i complessi d'inferiorità dice perché xxxx
-PKP131	#tengo pure o' figl suoi m l'ha xxxx
+PKP131	# i complessi d'inferiorità dice perché xxxx
+PKP131	# tengo pure o' figl suoi mh l'ha xxxx
 PKP131	beh
 PKP125	((ride))
 PKP125	[m]:h
@@ -704,8 +704,8 @@ PKP125	a:h mh
 PKP125	non lo so
 PKP125	tanto non durerà a lungo xxx
 PKP131	perché?
-PKP131	[ti rico]rdi quando avevi:?
 PKP125	[è così]
+PKP131	[ti rico]rdi quando avevi:?
 PKP131	scusa tutte:
 PKP131	quei gatti
 PKP131	squishy
@@ -875,8 +875,8 @@ PKP131	(non me di')
 PKP131	(paura)
 PKP125	(#sa ne ve ki uttant'anni che vanno a pesc pure loro)
 PKP131	mh
-PKP131	#o parent u t'avuta
-PKP125	#la gente c(he)'ha i soldi (lu xxx pure lui)
+PKP131	# o parent u t'avuta
+PKP125	# la gente c(he)'ha i soldi (lu xxx pure lui)
 PKP125	mh
 PKP125	c'è anche luciana:
 PKP125	oh
@@ -1000,7 +1000,7 @@ PKP125	[ah]
 PKP131	((ride))
 PKP131	((ride))
 PKP125	wap challenge
-PKP125	#mangia questo tutto o pesce
+PKP125	# mangia questo tutto o pesce
 PKP131	no mangialo tu
 PKP125	no m[angialo tu]
 PKP131	[(puoi ballare] quì)
@@ -1021,8 +1021,8 @@ PKP131	comunque perché sta quell'alcool (.) là: dentro?
 PKP125	QUALE ALCOOL?
 PKP131	((ride))
 PKP131	xxx ((ride))
-PKP131	[xx]
 PKP125	[A]:H
+PKP131	[xx]
 PKP125	pensavo la vodka nell'armadio
 PKP131	cosa?
 PKP125	cosa?
@@ -1170,7 +1170,7 @@ PKP125	cioè a me piace antonietta
 PKP125	perché non è la tipa che si perde molto in ragioname~
 PKP125	cioè si perde (.) però
 PKP125	LE FA le cose capito?
-PKP131	#vabbuò sì:
+PKP131	# vabbuò sì:
 PKP131	mi trovo molto bene xxx
 PKP131	xxx
 PKP125	e [(cambia)]
@@ -1191,8 +1191,8 @@ PKP125	che ti mette proprio ansia addo:sso
 PKP125	ma:i >mai mai mai [mai mai ma:i<]
 PKP131	[mai mai]
 PKP125	cioè mi credi
-PKP131	[cioè io manco la cono]sco
 PKP125	[proprio:]
+PKP131	[cioè io manco la cono]sco
 PKP131	ma poco eh
 PKP125	n[o ma è c]osì
 PKP131	[xx]
@@ -1208,7 +1208,7 @@ PKP125	non è così
 PKP125	ma pure il pa~
 PKP125	no il padre è tranquillo per esempio
 PKP131	a me pare esattamente diversi dai loro
-PKP131	#il padre è così mucro
+PKP131	# il padre è così mucro
 PKP131	zitto che xx
 PKP125	eh
 PKP131	(amo)
@@ -1292,7 +1292,7 @@ PKP125	lui subito s'è:
 PKP125	messo a fa'
 PKP125	lo scemo con lei o nel frattempo della rela[zione]?
 PKP131	[no: >no n]o<
-PKP125	#a:h vabbuò dai
+PKP125	# a:h vabbuò dai
 PKP125	allora ecco okay ci s~ c(io)è
 PKP125	d~ lo puoi [comprendere]
 PKP131	[e:h sì pe]rò (sai)
@@ -1538,7 +1538,7 @@ PKP131	sopra il booster
 PKP131	((ride))
 PKP131	xxx
 PKP125	((ride))
-PKP125	#fai u ba:ndo:
+PKP125	# fai u ba:ndo:
 PKP125	>e de~< che devi vi:ncere
 PKP125	>ti dev~< ti devono raccomandare praticamente
 PKP125	perché non vinci ma:i
@@ -1604,8 +1604,8 @@ PKP125	quel tipo pane s[cu~]
 PKP131	[a]:h e:ccoli:
 PKP125	((ride)) che hai scritto (.) dolci dei conigli[e:tti]?
 PKP131	[e:h sì:]
-PKP131	[xxx]
 PKP125	[ti piacciono]?
+PKP131	[xxx]
 PKP125	vedi è un dolce di coniglie:tti
 PKP125	((ride))
 PKP131	te prego
@@ -1616,8 +1616,8 @@ PKP131	basta così
 PKP125	((ride))
 PKP125	che tra l'altro
 PKP125	fanno schifissimo
-PKP131	[pani]ni dolci (.) quelli so' panini
 PKP125	[xx]
+PKP131	[pani]ni dolci (.) quelli so' panini
 PKP125	sì:
 PKP125	è una specie di:
 PKP125	immagina questo è un coniglietto

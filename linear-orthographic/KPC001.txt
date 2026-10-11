@@ -1,7 +1,7 @@
 PKP025	faccio il tè
 PKP026	allora
-PKP025	accendo
 PKP026	va bene
+PKP025	accendo
 PKP026	ci fermiamo un attimo e prendiamo il tè e la tisana
 PKP025	tè
 PKP026	vai
@@ -14,9 +14,9 @@ PKP026	quella al caffè e amaretto
 PKP025	caffè e amaretto
 PKP026	mh mh
 PKP025	io
-PKP025	limone
 PKP026	tè al limone
-PKP025	voi co fate sabato
+PKP025	limone
+PKP025	# voi co fate sabato
 PKP026	sabato ho prenotato in un ristorante che c'è una cena
 PKP025	dove
 PKP026	eh a senigallia c'è la cena con il dj e volendo ti puoi mascherare è il sabato di carnevale
@@ -72,7 +72,7 @@ PKP025	okay per la casa però lei ha detto che non vuole niente poi non è il ma
 PKP025	pranzo
 PKP026	vabbè però un pensiero per il pranzo
 PKP025	un pensiero però non regalone
-PKP025	co je fo
+PKP025	# co je fo
 PKP026	qualcosa dal fioraio per la casa
 PKP025	il fioraio
 PKP026	un soprammobile c'ha delle cose
@@ -143,13 +143,13 @@ PKP026	e allora
 PKP026	eh vabbè
 PKP025	però tipo a giulia
 PKP026	tu ci vai sempre a cena stai con la bambina
-PKP025	infatti io ho detto in caso te fo da babysitter
+PKP025	# infatti io ho detto in caso te fo da babysitter
 PKP026	cioè
 PKP026	ci sta
 PKP026	che t'ha invitato è normale
 PKP025	boh
-PKP025	e quindi sabato
 PKP026	io andrei dal fioraio e farei un pensiero lì glielo porta lui da parte tua e stop per la casa
+PKP025	e quindi sabato
 PKP025	solo i fiori
 PKP026	ma fiori piante fiori finti ci son quelle composizioni belle proprio che arredano
 PKP025	allora glielo
@@ -217,7 +217,7 @@ PKP025	la pianta
 PKP026	certo
 PKP025	no io se è gli faccio il bouquet
 PKP026	ma un bouquet
-PKP025	o n'je fo niente
+PKP025	# o n'je fo niente
 PKP026	ci sono quelle composizioni nel vetro ci sono tante di quelle cose belle
 PKP025	mh
 PKP026	fa piacere magari sabato lo riceve no
@@ -389,7 +389,7 @@ PKP025	esatto
 PKP025	le porte erano chiuse mentre nell'altra principale era aperto quindi più fresco più profumato
 PKP025	all'afro era proprio
 PKP025	tutto annebbiato
-PKP026	comunque noi siamo stati costretti a andare via perché lì ce semo s~ ci siam fermati un attimo che c'era le po~ il posto per stare seduti
+PKP026	# comunque noi siamo stati costretti a andare via perché lì ce semo s~ ci siam fermati un attimo che c'era le po~ il posto per stare seduti
 PKP025	dove
 PKP026	in quella lì rossa piccolina e dei ragazzini ci guardavano malissimo
 PKP026	e alla fine abbiam deciso de anda' a casa
@@ -411,8 +411,8 @@ PKP025	è che anche la cena cioè
 PKP026	la cena non è cena
 PKP025	ma la volta prima però le trofie
 PKP026	fai la fame
-PKP025	tartufo
 PKP026	eh vabbè c'era i gnocchi
+PKP025	tartufo
 PKP025	la grigliata cioè era buo~
 PKP025	i gnocchi con le bacche
 PKP026	vabbè i gnocchi erano buoni però
@@ -657,7 +657,7 @@ PKP026	ah okay
 PKP026	ancora è presto non mi va
 PKP025	le quattro
 PKP025	oppure
-PKP025	co prendo
+PKP025	# co prendo
 PKP025	aiuto
 PKP025	lo yogurt c'è
 PKP026	no
@@ -669,9 +669,9 @@ PKP026	forse a senigallia
 PKP025	dove
 PKP026	a senigallia in un posto per il metano
 PKP026	per bloccare il prezzo del metano
-PKP025	co vol dì
+PKP025	# co vol dì
 PKP026	bloccar le tariffe perché se no aumenta di continuo
-PKP025	cosa devi blocca'
+PKP025	# cosa devi blocca'
 PKP026	il prezzo
 PKP026	fissiamo il contratto a una cifra
 PKP025	ma dove

@@ -20,7 +20,7 @@ TOR001	okay che lavoro fate
 TOI013	io faccio il giuntista di fibre ottiche
 TOR001	okay spiegami un po' che cos'è
 TOI013	e in poche parole
-TOI013	è una m eh è una figura professionale che
+TOI013	è una mh eh è una figura professionale che
 TOI013	si occupa di creare la linea dalle centrale telecom
 TOI013	o fastweb direi qualsiasi altro operatore fino alla cantina
 TOR001	okay
@@ -39,7 +39,7 @@ TOI013	io mi alzo presto alle sei
 TOI013	ehm alle otto sono sul posto di lavoro
 TOI013	e molto spesso è mh nei palazzi e nelle cantine
 TOI013	oppure per strada
-TOI013	e m eh finisco di lavorare alle cinque con un'ora di pausa che è molto variabile eh la gestisco io
+TOI013	e mh eh finisco di lavorare alle cinque con un'ora di pausa che è molto variabile eh la gestisco io
 TOR001	mh mh
 TOI012	ah invece la mia è più complicata perché io girando su turni
 TOI012	e su un nastro di ventidue ore eh dipende dal turno che faccio
@@ -81,7 +81,7 @@ TOR001	mh
 TOI012	e due perché guidi un mezzo talmente grosso
 TOI012	che
 TOI012	passi solo per determinate strade
-TOR002	m eh
+TOR002	mh eh
 TOI012	cioè non ti verrebbe mai in mente di girare in una stradina
 TOI012	tipo questa
 TOR002	certo
@@ -115,7 +115,7 @@ TOI012	sì
 TOR001	va bene
 TOR001	da quanto tempo fate questo lavoro
 TOI013	ma io da
-TOI013	m eh novembre del duemila e sedici
+TOI013	mh eh novembre del duemila e sedici
 TOR001	okay
 TOI012	primo ottobre duemilaquindici
 TOR001	caspita precisione
@@ -131,8 +131,8 @@ TOI012	festa
 TOR001	okay
 TOR001	la domanda dopo è lavori in proprio o sei dipendente ma mi sa che
 TOI012	beh dipendente
-TOI013	dipendente certo
 TOR001	di entrambi vero mh mh
+TOI013	dipendente certo
 TOR001	avete sempre fatto lo stesso lavoro
 TOI013	no assolutamente no
 TOI012	no
@@ -147,7 +147,7 @@ TOR001	mh mh
 TOI013	ho fatto l'elettricista che sarebbe il lavoro per cui mi sono diplomato
 TOR001	mh mh
 TOI013	e poi
-TOI013	ho fatto il eh m eh
+TOI013	ho fatto il eh mh eh
 TOI013	ho lavorato in una libreria
 TOR001	mh mh
 TOI013	col banco o nel magazzino
@@ -187,7 +187,7 @@ TOI013	beh
 TOR001	come come come lavoro
 TOI013	come lavoro
 TOI013	la cosa migliore
-TOI013	eh credo m eh nella libreria
+TOI013	eh credo mh eh nella libreria
 TOR001	mh mh
 TOI013	peggiore
 TOI013	il eh il cameriere in eh alcune situazioni perché appunto quando ho iniziato mi piaceva l'ambiente in quel posto
@@ -219,7 +219,7 @@ TOI013	mh
 TOR001	mh mh
 TOI013	sì è vero sì sì son eh d'accordo
 TOR001	okay
-TOR001	m eh vi piacerebbe andare avanti a fare il lavoro che state facendo adesso
+TOR001	mh eh vi piacerebbe andare avanti a fare il lavoro che state facendo adesso
 TOI012	sì
 TOI013	a me sì
 TOI013	a me sì tanto però vorrei ma~ cambiare mansione nello specifico
@@ -227,8 +227,8 @@ TOR001	okay cosa vorresti fare
 TOI013	eh il mio lavoro raggruppa tantissime mansione dall'attivare il cliente dal lavorare in centrale dal lavorare solo in strada
 TOI013	quindi vorrei mh cambiare
 TOI013	e lavorare solo in strada
-TOI013	eliminare la parte del contatto col pubblico insom~
 TOR001	okay
+TOI013	eliminare la parte del contatto col pubblico insom~
 TOI013	sì sì
 TOR001	è pesante
 TOI013	è no è che lo sto facendo da settembre
@@ -432,7 +432,7 @@ TOI012	o l'editoria forse ancora un pochino
 TOI012	riesci a lavorare se vuoi fare qualunque altro lavoro
 TOI012	o arranchi o preghi nel colpo di fortuna
 TOI012	o se no
-TOR001	puoi dire culo eh non succede niente okay.
+TOR001	puoi dire culo eh non succede niente okay
 TOI012	culo
 TOI012	colpo di culo
 TOI012	ehm eh
@@ -448,7 +448,7 @@ TOI012	a una certa determinata fascia
 TOI012	di cioè mh eh determinata categoria
 TOR001	mh cioè tipo
 TOI012	tipo magari
-TOI012	e che che ne so m eh voglio diventare un ristoratore
+TOI012	e che che ne so mh eh voglio diventare un ristoratore
 TOI012	non apro un ristorante a torino
 TOR001	mh mh
 TOI012	un po' perché il turismo
@@ -494,7 +494,7 @@ TOR001	mh mh
 TOI013	quindi si abbassa molto l'affitto che devi pagare
 TOR001	mh mh mh
 TOR001	mh mh
-TOI013	perché c'è molta concorrenza a livello di supermercati mercati quindi sono ba~ m eh ci sono prezzi più bassi
+TOI013	perché c'è molta concorrenza a livello di supermercati mercati quindi sono ba~ mh eh ci sono prezzi più bassi
 TOR001	mh mh
 TOI013	da quel punto di vista
 TOI012	abbiamo imparato molto a sfruttare le mh offerte varie
@@ -550,7 +550,7 @@ TOI012	sì sì sì sì assolutamente anche perché lo studente avendo una famigl
 TOI013	però sì
 TOI013	ti vedono giovane
 TOI013	ti vedono giovane anche se non sanno se studi o no comunque ti fanno un prezzo da studente
-TOR001	mh mh m eh
+TOR001	mh mh mh eh
 TOR001	mh
 TOR001	però è vero quello che dicevi secondo me eh
 TOI012	o molti affittano solo agli studenti
@@ -568,8 +568,8 @@ TOI012	e per evidente ragioni
 TOI012	vabbè nel nostro caso ci è andata di culo
 TOI012	però tante coppie anche giovani rischiano tra virgolette l'andare a convivere fin da subito che abbassi dimezzi le spese
 TOI013	mh
-TOI013	è vero
 TOR001	eh certo
+TOI013	è vero
 TOI012	mutualmente
 TOR001	beh ma noi abbiamo ini~ adesso non voglio però noi abbiamo iniziato a convivere molto presto perché non essendo di qua
 TOI012	certo
@@ -580,7 +580,7 @@ TOR001	cioè poi va bene siamo contenti va tutto bene
 TOI012	esatto sì sì va tutto benissimo è tutto perfetto
 TOR001	però cioè quando ne abbiam parlato ne abbiamo parlato in questi termini cioè com~ come ci organiziamo
 TOI012	eh si è è un'ottima soluzione eh
-TOR001	eh no per forza cioè m eh
+TOR001	eh no per forza cioè mh eh
 TOI012	inevitabile
 TOI013	poi non voglio divagare però si è aperta anche la condivisione sui mezzi
 TOR001	mh mh
@@ -711,8 +711,8 @@ TOI013	se no se ne hai di più di venticinque paghi cinque euro al mese di abbon
 TOI013	però sempre meno di quattordici centesimi al minuto
 TOI012	vabbè comunque buono
 TOR002	beh buo~ molto meno di enjoy
-TOI013	sì sì
 TOR001	enjoy è carissima
+TOI013	sì sì
 TOI012	che comnque ha ha abbasato le of~ le
 TOI013	enjoy è carissima sì
 TOI013	però enjoy se tu ti fermi per esempio a comprare le sigarette o sali a casa a prendere le chiavi puoi metterla in pausa
@@ -754,14 +754,14 @@ TOR001	ehm eh okay eravamo rimasti a pensi che torino sia un buon posto per lavo
 TOR001	m eh pensate che ci sareb~ che ci sono posti in cui sarebbe meglio
 TOR001	rispetto a torino
 TOI012	in italia
-TOR001	mh m eh
+TOR001	mh mh eh
 TOR001	sì xxx con l'estero dopo okay
 TOI012	nord est
 TOR001	cioè veneto tipo friuli
 TOI012	sì il triveneto
 TOR001	okay
 TOI012	perché comunque
-TOI012	sono sono più vicini mentalmente a m eh svizzera e germania
+TOI012	sono sono più vicini mentalmente a mh eh svizzera e germania
 TOI012	gli stipendi son proporzionati anche il costo della vita per carità
 TOI012	però secondo me
 TOI012	eh
@@ -792,7 +792,7 @@ TOI012	un extra regionale esatto
 TOI013	esatto
 TOR001	un extra regionale mado~
 TOR001	avete mai vissuto fuori torino
-TOI013	m eh m eh no
+TOI013	mh eh m eh no
 TOI012	m eh non veramente
 TOR001	cosa vuol dire non veramente
 TOI012	che ne so ho fatto lunghe soste all'estero ma
@@ -863,7 +863,7 @@ TOI013	n~ non valorizzano non lo so
 TOI013	che noi non abbiamo nemmeno l'idea
 TOI013	nei posti xxx
 TOR001	ma in termini naturalistici o okay
-TOI013	sì sì sì sì assolutamente naturalistici ma anche m eh creati
+TOI013	sì sì sì sì assolutamente naturalistici ma anche mh eh creati
 TOI013	tempi passati nel medioevo cioè di statue enormi scavate nella pietra di trena metri
 TOR001	mh mh
 TOR001	mh mh
@@ -893,10 +893,10 @@ TOI013	nel senso che non brutta
 TOI013	cioè diversa
 TOI013	propio anche per noi è difficile da da capire anche da da abituarsi
 TOR001	ma tipo
-TOI013	tipo che loro mett~ mangiano m eh non hanno i piatti singoli
+TOI013	tipo che loro mett~ mangiano mh eh non hanno i piatti singoli
 TOI013	cioè non ha~ ognuno non ha il suo piatto mettono tutto in mezzo
 TOR001	okay
-TOI013	e m eh ed è una condivisione
+TOI013	e mh eh ed è una condivisione
 TOR001	mh mh
 TOI013	invece dal nostro punto di vista è cioè noi siamo i gli egoisti per loro
 TOR001	mh mh
@@ -991,9 +991,9 @@ TOR001	mh mh
 TOI012	e hanno una cultura mo~ proprio completamente diversa non hanno una religione
 TOR001	mh mh
 TOI012	e cioè non hanno una religione
-TOI012	m eh principale
+TOI012	mh eh principale
 TOR001	mh mh
-TOI012	m eh si dice che i giapponesi nascano scintuisti si sposino cristiani e muoiano buddisti
+TOI012	mh eh si dice che i giapponesi nascano scintuisti si sposino cristiani e muoiano buddisti
 TOR001	okay
 TOI012	quindi è mh proprio una cosa così
 TOI012	eh sul cibo ovviamente il giapponese che magiamo qui non è neanche paragonabile
@@ -1008,7 +1008,7 @@ TOI012	enorme
 TOI012	cioè roma roma è bellissima perché è riuscita a conservare parte della sua ricchezza sorica
 TOR001	mh mh
 TOI012	ma in giappone ancora di più e soprattutto fa molto contrasto perché tu vedi magari
-TOI012	nel quartiere m eh commerciale come potrebbe essere wall street eh per new york
+TOI012	nel quartiere mh eh commerciale come potrebbe essere wall street eh per new york
 TOR001	mh mh mh
 TOI012	eh vedi questi grattacieli iper tecnologici nuovissimi bellissimi
 TOI012	e in mezzo a questi due c'è un tempio del settecento avanti cristo
@@ -1022,7 +1022,7 @@ TOI012	e anche per eh anche per i giapponesi l'ospitalità dello straniero
 TOI012	è fondamentale
 TOR001	mh mh
 TOI012	e a me una cosa che mi piace sempre racocntare
-TOI012	è m eh
+TOI012	è mh eh
 TOI012	due volte mi è capitato di perdermi
 TOR001	mh mh
 TOI012	e gente uno mi ha offerto un passaggio con la loro macchina
@@ -1042,8 +1042,8 @@ TOI012	io ero da solo
 ???	costava meno
 TOI012	e vabbè
 TOI013	è vero
-TOI012	sì m eh
-TOI012	m eh
+TOI012	sì mh eh
+TOI012	mh eh
 TOI013	sono molto più ricchi anche comunque
 ???	ah ques~
 TOI012	sì decisamente
@@ -1059,7 +1059,7 @@ TOR001	okay
 TOI012	di solito sono gli str~ i pochi stranieri che riescono a trovar lavoro in giappone e guadagnano il giusto per sopravvivere e mettersi quattro spicci in tasca
 TOI012	ma niente di eccezionale
 TOI012	e il costo della vita è altissimo
-TOI012	eh in in realtà non è neanche così alto come si possa immaginare nel senso quando uno m eh pensa ai posti ricchissimi a parte gli emirati arabi pensi a stati uniti e giappone
+TOI012	eh in in realtà non è neanche così alto come si possa immaginare nel senso quando uno mh eh pensa ai posti ricchissimi a parte gli emirati arabi pensi a stati uniti e giappone
 TOI012	e il giappone
 TOI012	l'ho trovato caro rispetto all'italia ovviamente perché è molto più caro
 TOI012	però mi immaginavo molto molto di pe~ anzi se xxx in realtà con dieci euro mangi
@@ -1074,13 +1074,13 @@ TOI012	self service eh dei nostri un po' più bellini
 TOI012	in cui con veramente due euro esci pieno e quindi eh u~ un po' di accortezza da turista navigato tra virgolette
 TOI012	riesci a cavartela
 TOI012	però
-TOI012	i mezzi pubblici sono cari come il fuoco considerando che eh m eh si pagano a fermata
+TOI012	i mezzi pubblici sono cari come il fuoco considerando che eh mh eh si pagano a fermata
 TOI013	eh
 TOI012	se devo fare una fermata la pago un euro se devo farne due ne pago due
 TOI012	e di seguito no
 TOI012	esatto
 TOR002	mh
-TOI012	ehm eh oppure m eh
+TOI012	ehm eh oppure mh eh
 TOR001	come in svizzera vedi
 TOI012	i~ il eh i~ il gelato
 TOI012	una cazzata il gelato costa
@@ -1098,7 +1098,7 @@ TOI012	sono amanti dell'italia xxx perché ogni in ogni dove vedi ristoranti ita
 TOI012	e come i nostri giapponesi g~ gestiti da cinesi
 TOI012	più o me~
 TOI012	e
-TOI012	dicevo m eh per quanto riguarda l'accoglienza di stranieri son molto favorevoli
+TOI012	dicevo mh eh per quanto riguarda l'accoglienza di stranieri son molto favorevoli
 TOI012	ma se tu vai lì con l'intenzione di trasferirtici
 TOI012	sei la peggiore merda dell'universo ti trattano malissimo
 TOR001	wow
@@ -1155,7 +1155,7 @@ TOI013	gli fa
 TOI013	xx
 TOI013	e vabbè
 TOI013	eh fallo
-TOI012	no invece il giappone a~ è m eh barba
+TOI012	no invece il giappone a~ è mh eh barba
 TOI012	e capelli ricci
 TOI012	il top
 TOI012	ho ho letto qualche tempo fa la storia di un ragazzo
@@ -1272,7 +1272,7 @@ TOR001	torno all'intervista eh vi trasferireste all'estero per lavorare
 TOI012	sì
 TOI013	io
 TOI013	dipende nel senso che lo farei
-TOI013	ma m eh non ce la farei con eh cioè vorrei
+TOI013	ma mh eh non ce la farei con eh cioè vorrei
 TOR001	mh mh
 TOI013	però n eh non penso di potercela fare
 TOR001	ma perché non vorresti andar via da torino perché comunque cioè
@@ -1396,28 +1396,28 @@ TOI012	non ne abbiamo a lingotto
 TOI012	però
 TOI013	lingotto no
 TOI012	infatti
-TOI012	andiamo a farci degli amici a lingot~ visto che il biscotto del fortuna dice devo farmi nuovi amici
+TOI012	andiamo a farci degli amici a lingotvisto che il biscotto del fortuna dice devo farmi nuovi amici
 TOI013	domani te lo trovo se vuoi
 TOR001	xxx
 TOI013	lo vuole un amico
 TOR001	quindi comunque
 ???	con la foto
-TOI013	con la foto
 TOR001	esatto
+TOI013	con la foto
 TOR001	sparsi per torino g~
 TOI012	sì
 TOI013	sì
 TOR001	okay
 TOR001	em eh vi piace la zona in cui abitate
 TOI013	eh nì
-TOI013	ci sono molte cose che cambierei della mia zona
 TOR001	okay dimmi
+TOI013	ci sono molte cose che cambierei della mia zona
 TOR001	sì dimmi
 TOI013	ehm eh cosa cambierei o cosa non mi piace
 TOR001	sì cosa ti
 TOI012	razzista
 TOR001	cosa non ti piace cosa cambieresti
-TOI013	beh non mi piace m eh
+TOI013	beh non mi piace mh eh
 TOI013	sembra che sembra che sia abbandonata
 TOI013	quindi
 TOR001	okay
@@ -1435,8 +1435,8 @@ TOI012	è colpa di voi meridionali
 TOI013	quarant'anni fa magari sì ora non più
 TOI013	però
 TOI013	eh il comunque il problema dell'immigrazione da noi c'è
-TOI013	veramente da noi c'è sì assolutamente sì
 TOR001	si sente tanto lì
+TOI013	veramente da noi c'è sì assolutamente sì
 TOR001	mh mh
 TOR001	e che conseguenze ha su~ sulla cioè sulla dimensione del quartiere
 TOI013	eh la criminalità
@@ -1495,7 +1495,7 @@ TOI013	in quella zona si sente molto
 TOR001	mh mh mh mh
 TOR001	e invece aspetti positivi della tua zona
 TOI013	eh i servizi
-TOI013	nel senso che m eh i pullman tram eh è mo~ eh è ben fornita
+TOI013	nel senso che mh eh i pullman tram eh è mo~ eh è ben fornita
 TOR001	mh mh
 TOI013	ehm eh
 TOI013	c'è il mercato
@@ -1620,7 +1620,7 @@ TOI012	cose così
 TOR001	okay
 TOI013	io farei una sosta in bagno
 TOR001	vai tranquillo guarda è lì
-TOI012	però m eh
+TOI012	però mh eh
 TOI012	a~ apparte questo
 TOI012	che nel corso degli anni è stato mh piuttosto arginato non del tutto ovviamente
 TOI012	eh xxx è tutt'ora una bellissima zona
@@ -1677,7 +1677,7 @@ TOI013	no no vabbè
 TOR002	sì no no ho capito la zona
 TOI012	e
 TOI012	sembra improponibile perché veramente fai eh s~ s~ siamo a centocinquanta metri da torino
-TOR001	mh mh mh m eh
+TOR001	mh mh mh mh eh
 TOI012	però è tutta un'altra cosa respiri un'aria diversa a parte quando gli zingari all'aeroporto accendono i falò
 TOI013	te li cerchi
 TOI012	si vede che me me li cerco
@@ -1709,7 +1709,7 @@ TOI012	buonanotte buongiorno e via
 ???	è chiusa la serranda
 TOI012	esatto
 TOI012	comunque no bello è una bella zona lati negativi di venaria cioè di dove siamo adesso
-TOI012	eh i fumi tossici che lasciano gli zingari a dal campo rom di di m eh che sta lì all'aeroporto
+TOI012	eh i fumi tossici che lasciano gli zingari a dal campo rom di di mh eh che sta lì all'aeroporto
 TOR001	okay
 TOI012	e e i ragazzini under sedici dove stan lì a far casino al giardinetto sotto casa
 TOI012	ma quello è normale eh son ragazzi
@@ -1717,7 +1717,7 @@ TOR001	okay
 TOR001	ehm eh trovate tutto nella zona in cui state o dovete spostarvi spesso
 TOI013	eh penso di trovare tutto nella mia zona
 TOR001	okay
-TOI013	m eh forse gli ospedali
+TOI013	mh eh forse gli ospedali
 TOI013	gli ospedali
 TOR001	mh
 TOI013	nella mia zona mancano ospedali
@@ -1749,8 +1749,8 @@ TOI013	lingotto
 ???	adesso lui è tutto di lingotto
 TOI012	ah
 TOI012	io vorrei proprio
-TOI013	esatto
 TOR001	xxx lingotto
+TOI013	esatto
 TOI012	l'unica che conosco è il the space eh
 TOI012	in via livorno che è dentro a comunque una sala giochi
 TOI013	sì sì sì sì
@@ -1881,8 +1881,8 @@ TOI013	cioè della circoscrizione tra virgolette
 TOR001	okay okay okay
 TOR001	ma però di~ cioè dicevate prima delle olimpiadi e il cambiamento è positivo immagino no
 TOI012	sì
-TOI013	sì sì sì per me sì
 TOR001	okay
+TOI013	sì sì sì per me sì
 TOR001	e
 TOR001	che tipo di cambiamento ha portato
 TOI013	lui non molto
@@ -1986,13 +1986,13 @@ TOR001	cioè non lo so
 TOI013	sì sì
 TOR001	città d'arte
 TOI012	sì sì
-TOI013	sì
 TOR001	cioè in tre~ cioè non lo so mi immagino non lo so però a me da bambina che c'avevo qua gli zii così per me torino era
+TOI013	sì
 TOR001	grigia la fiat fabbrica eh
 TOI013	era milano
 TOI013	eh torino era milano
 TOI012	eh era
-TOI012	torino era milano quello che adesso è comuqnue m eh
+TOI012	torino era milano quello che adesso è comuqnue mh eh
 TOR001	molto be~
 TOR001	che io venivo da lì per me era facile
 TOI013	sì sì
@@ -2096,7 +2096,7 @@ TOR001	ma dai
 TOR001	eh ma no no
 TOI012	non lo so
 TOI012	studierò i dati e vi farò sapere
-TOR001	no cioè capisco quello che dici però non lo so poi io ho sempre m eh il fatto che non essendo di quà immagine secondo me diversa no
+TOR001	no cioè capisco quello che dici però non lo so poi io ho sempre mh eh il fatto che non essendo di quà immagine secondo me diversa no
 TOI012	sì
 TOR001	è vero che ci sono
 TOR001	a me sembra che siano aumentati in effetti anche se passeggi cioè nel weekend in centro così comunque ce n'è un sacco
@@ -2171,11 +2171,11 @@ TOI013	questa cosa è una cosa degli ultimi an~
 ???	scusa ma non è anche bello sapere che la tua città viene apprezzata anche da
 TOI013	sì no ma infatti sul
 TOI012	sì ma è mia
-TOI013	sul piano del turismo io son contento perché comunque m eh
+TOI013	sul piano del turismo io son contento perché comunque mh eh
 TOI013	viene valorizzata ci son più soldi come dicevamo prima è molto bello sì
 ???	che vengono poi investiti per i torinesi
-TOI013	sì sì sì assolutamente sì
 TOR001	certo
+TOI013	sì sì sì assolutamente sì
 TOI013	però
 TOR001	è un giapponese in realtà
 TOI013	te lo
@@ -2184,7 +2184,7 @@ TOI013	te lo dico
 TOI013	te lo dico adesso che sto lavorando e me ne accorgo meno quindi non passeggio di meno prendo meno pullman anzi non ne prendo quasi più
 TOI013	se me lo chiedevi tre anni fa quattro anni fa quando non lavoravo e di giorno non eh ero in giro ti dicevo oh sì però
 ???	sì sì
-TOR001	mh mh m eh
+TOR001	mh mh mh eh
 TOI012	però la domanda su com'era la domanda
 TOI013	tutto qui
 TOI012	e tre
@@ -2193,8 +2193,8 @@ TOI012	sì
 TOI012	eh eh
 TOI012	torino secondo me è a livello di città italiana è una delle più belle
 TOI013	xxx
-TOI013	mh eh
 TOR001	mh mh
+TOI013	mh eh
 TOI012	non tutte le architetture abbiamo parchi stupendi case stupende
 TOI012	musei stupendi
 TOI012	il po
@@ -2347,7 +2347,7 @@ TOR001	bene
 TOI013	domanda successiva
 TOI012	prossima doma~
 TOR001	seguite lo sport eh
-TOI013	m eh no seguo solo i risultati guardo solo i risultati
+TOI013	mh eh no seguo solo i risultati guardo solo i risultati
 TOR001	ma tifi qualche squadra di calcio o giochi e basta
 TOI013	sì tifo
 TOI013	non guardo le partite non ho nessun abbonamento non guardarmi così
@@ -2440,7 +2440,7 @@ TOI013	se dovessi scegliere allo stadio
 TOI012	se potessi scegliere allo stadio
 TOR001	okay d'accordo
 TOR001	ehm eh okay di calcio direi basta altri sport avete detto
-TOI013	m eh no
+TOI013	mh eh no
 TOR001	no
 ???	skate
 TOI012	poi andavo ne ho praticati tanti quindi li seguo volentieri
@@ -2487,8 +2487,8 @@ TOR001	d'accordo
 TOI013	vabbè certo
 TOR001	e in che zona state di solito
 TOI012	centro
-TOI013	sì in centro
 TOR001	centro
+TOI013	sì in centro
 TOR001	okay
 TOR001	musica ascoltate musica
 TOI013	i sì
@@ -2711,8 +2711,8 @@ TOR001	mh mh
 TOI013	non seguo particolari film eh
 TOI013	cioè un eh un film mi piace lo guardo
 TOR001	okay
-TOI013	tutto qua
 TOR001	va bene
+TOI013	tutto qua
 TOI012	io quello che voi in casa avete tra cd e libri eccetera io ho il doppio in film
 TOR001	okay
 TOR001	molto bene
@@ -2752,7 +2752,7 @@ TOR001	okay
 TOI012	hanno poi tutti seguito quel filone si son buttati tutti dentro
 TOR001	mh mh mh
 TOI012	poi magari sono ignorante perché non l'ho poi più seguito quindi
-TOR001	mh mh m eh
+TOR001	mh mh mh eh
 TOI012	e poi ovviamente da appassionato di fumetti seguo tutti i cinecomics
 TOI012	eh mh saga di fantascienza em eh fantasy
 TOR001	okay
@@ -2834,7 +2834,7 @@ TOI012	a a at~ a tenersi i clienti affezionati e trovare clienti nuovi
 TOR001	okay
 TOI013	eh quello che intendevo appunto che lui l'ha vissuta fin dall'inizio l'ha vissuta molto di più invece per me la play uno è stata la prima ed è sembrato quasi normale
 TOR001	certo
-TOI012	eh sì poi sono nato xxx sono nato e scresciuto con le console otto bit eh m eh quindi è normale che
+TOI012	eh sì poi sono nato xxx sono nato e scresciuto con le console otto bit eh mh eh quindi è normale che
 TOR001	mh mh mh eh
 TOI012	m~ m~ mi so tutta la fase
 TOI012	ehm di avanzamento tecnologico nel eh modo xxx ed è stato uno spetttacolo proprio fico

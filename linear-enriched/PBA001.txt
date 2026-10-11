@@ -7,18 +7,17 @@ BOI006	[mhmh]
 BOR003	di bologna
 BOI006	okay allora io so:no
 BOR003	((si_schiarisce_la_voce))
-BOI006	in @nomeluogo eh vicino a @nomeluogo
+BOI006	in eh vicino a
 BOR003	mhmh
 BOI006	>non so se hai presente< sì perché [(sei] e:h)
 BOR003	[sì]
 BOR003	[mhmh]
 BOI006	[>dove c'è<] anche la: facoltà
 BOI006	è: una parallela
-BOI006	>e che si chiama< @nomeluogo
+BOI006	>e che si chiama<
 BOI006	((schiocca_la_lingua)) e:h praticamente: vediamo
 BOI006	se hai prese:nte:
 BOI006	e:h
-BOI006	@nomeluogo
 BOI006	la: pasticceria:?
 BOR003	<o[kay>]
 BOI006	[(non) so se hai presente]
@@ -26,13 +25,13 @@ BOR003	sì:
 BOR003	no qualcosa mi ricor[do]
 BOI006	[oka]y
 BOI006	e:h vai dritto
-BOI006	da: quella che è @nomeluogo
+BOI006	da: quella che è
 BOI006	quella via lì:
 BOI006	è subito lì a destra
 BOI006	venen~ dalla part[e:]
 BOR003	[mhmh]
 BOI006	e:h verso la le mura
-BOI006	e:h quella è @nomeluogo
+BOI006	e:h quella è
 BOI006	quindi proprio:
 BOI006	nel [centro (.) storico]
 BOR003	[ah lì sei proprio] centro
@@ -45,25 +44,25 @@ BOI006	ma e:h
 BOI006	comoda ((ride))
 BOI006	perché comunque dai
 BOI006	sono vicina: (.) io lavoro poi:
-BOI006	in @nomeluogo
+BOI006	in
 BOR003	a:h [ah okay]
 BOI006	[e:h qui]n[di perché:]
 BOR003	[>sì sì sì<]
 BOI006	lavoro nell'ufficio:
-BOI006	mh @nomeluogo
+BOI006	mh
 BOI006	>non so se< te l'a[vrà detto] forse:
 BOR003	[mhm:h]
 BOR003	sì
 BOI006	e:h
 BOI006	e quindi
-BOI006	presente que~ quando entri in @nomeluogo
+BOI006	presente que~ quando entri in
 BOI006	a sinistra c'è quel e:h
 BOR003	s[ì a:h]
 BOI006	[q~ quell'edific]io:
 BOR003	bel[lissimo con e:h]
 BOI006	[davanti al prato esa]t[to]
 BOR003	[>sì s]ì<
-BOI006	quello è @nomeluogo
+BOI006	quello è
 BOI006	in realtà sono nella:
 BOI006	capannella di fia:nco ((ride))
 BOI006	che è tipo una:
@@ -163,7 +162,7 @@ BOR003	[mamma] mia:
 BOR003	no:
 BOI006	e quindi loro si sono messi a protestare davanti a quest'hotel
 BOI006	come segno per dire:
-BOI006	#mh (ciò)
+BOI006	# mh (ciò)
 BOR003	mhm:h
 BOI006	vogliamo degli affitti accessibi[li]
 BOR003	[s:]ì
@@ -180,7 +179,7 @@ BOI006	[mh]
 BOR003	sarà stato:
 BOR003	da settembre circa a febbraio
 BOI006	[°okay°]
-BOR003	[però io] ho trovato grazie a un' amica che lasciava quindi
+BOR003	[però io] ho trovato grazie a un'amica che lasciava quindi
 BOI006	[e:h]
 BOR003	[non ho avuto] quel problema per fortu[na però]
 BOI006	[infatti]
@@ -761,9 +760,9 @@ BOR003	[meglio]
 BOI006	°sì°
 BOR003	e quindi tu di cosa ti occupi a:
 BOI006	allora io e:h lavoro nell'ufficio
-BOI006	e:h @nomeluogo dell'università di bologna,
+BOI006	e:h dell'università di bologna,
 BOI006	in particolare
-BOI006	in uf~ in un ufficio che si chiama @nomeluogo,
+BOI006	in uf~ in un ufficio che si chiama
 BOI006	che si occupa di dare supporto
 BOI006	e orientamento agli studenti internazionali che vengono a iscriversi all'università di bologna
 BOR003	mhmh
@@ -998,7 +997,7 @@ BOI006	quindi penso sia fattibile ecco poi il mio ragazzo
 BOI006	lavora a forlì
 BOI006	e lavora a scuola quindi
 BOI006	tutte le mattine dalle ott[o]
-BOR003	[ah] quindi[]
+BOR003	[ah] quindi
 BOI006	[è] un po' più difficile:
 BOR003	quindi lui fa il pendolare [a attualmente]
 BOI006	[adesso fa il] pendolare sì

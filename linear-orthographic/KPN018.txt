@@ -2,7 +2,7 @@ PKP145	bene
 PKP145	sì sulla carne secca
 PKP106	brava
 PKP145	eh
-PKP145	vara
+PKP145	# vara
 PKP146	e insomma sai com'è fatta questa carne secca sì o no
 PKP145	sì perché no aspetta deve stare all'aria
 PKP145	deve stare all'aria
@@ -30,8 +30,8 @@ PKP145	l'abbiamo ordinato alle sei
 PKP145	e ci fa gli facciamo eh sì volevo ordinare ehm lo veniamo a prendere
 PKP145	lei fa sì sì tra un quarto d'ora alle sei e un quarto
 PKP145	cioè secondo te vengo a prendere cinese alle sei e un quarto devo cenare non lo so
-PKP145	vara
-PKP145	e siamo andati a prenderlo e fatalità hm poi mi ha scritto marco
+PKP145	# vara
+PKP145	e siamo andati a prenderlo e fatalità mh poi mi ha scritto marco
 PKP145	non mi ricordo
 PKP146	che sta sta facendo dopo
 PKP145	eh niente lavora poi vede la morosa che la~
@@ -164,8 +164,8 @@ PKP106	ah che rottura di scatole
 PKP145	anche quello eh allora
 PKP145	cioè io credo che lo farò da non frequentante perché
 PKP106	ben fai tutto quello che puoi fare
-PKP146	e come farai a farlo da frequentante se non vai
 PKP145	no ma è
+PKP146	e come farai a farlo da frequentante se non vai
 PKP145	non è que~ no lo farò da non frequentante
 PKP146	eh e intanto cosa cambia
 PKP145	no la questione è questa che loro volevano fare laboratorio
@@ -334,7 +334,7 @@ PKP146	e allora devo continuare a pagare il pizzo fammi capire
 PKP145	purtroppo
 PKP146	da te è uguale eh
 PKP106	non so
-PKP146	bisogna che capiscano quelli che l'assumono che uno ga studià da una parte uno ha studiato dall'altra
+PKP146	# bisogna che capiscano quelli che l'assumono che uno ga studià da una parte uno ha studiato dall'altra
 PKP145	ma non è che che funziona solo se assumono di la eh
 PKP106	no xxxxxx
 PKP145	ah eh che non pensi che

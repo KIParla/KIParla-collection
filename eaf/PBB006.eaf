@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:37:09+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:55:47+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="PBB006.mp3" RELATIVE_MEDIA_URL="PBB006.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
 		<TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="576" />
-		<TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="5465" />
-		<TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5418" />
+		<TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="5441" />
+		<TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5441" />
 		<TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6200" />
 		<TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="7295" />
 		<TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="9105" />
@@ -1519,7 +1520,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1514" TIME_VALUE="3166569" />
 		<TIME_SLOT TIME_SLOT_ID="ts1515" TIME_VALUE="3168721" />
 		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BOI020" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -1598,7 +1598,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
-				<ANNOTATION_VALUE>è stato abbastanza casua:le nel senso che una collega m' ha detto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è stato abbastanza casua:le nel senso che una collega m'ha detto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3083,7 +3083,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a368" TIME_SLOT_REF1="ts734" TIME_SLOT_REF2="ts735">
-				<ANNOTATION_VALUE>allora facoltà di ingegneria (.) [] la frequentazione del parco di @nomeluogo e quindi ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora facoltà di ingegneria (.) la frequentazione del parco di @nomeluogo e quindi ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3153,7 +3153,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a388" TIME_SLOT_REF1="ts774" TIME_SLOT_REF2="ts775">
-				<ANNOTATION_VALUE>muse:o: no? ehm (.) [] ogni tanto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>muse:o: no? ehm (.) ogni tanto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3658,7 +3658,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a508" TIME_SLOT_REF1="ts1014" TIME_SLOT_REF2="ts1015">
-				<ANNOTATION_VALUE>penso sia: lei una persona che ha: m un'intelligenza che ha: lucidità e ha la memo:ria di: e la capacità di (ricordare) quindi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>penso sia: lei una persona che ha: mh un'intelligenza che ha: lucidità e ha la memo:ria di: e la capacità di (ricordare) quindi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4418,7 +4418,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a685" TIME_SLOT_REF1="ts1368" TIME_SLOT_REF2="ts1369">
-				<ANNOTATION_VALUE>potrebbe essere lei e: m xxxxxxxxxx di uni:re:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>potrebbe essere lei e: mh xxxxxxxxxx di uni:re:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

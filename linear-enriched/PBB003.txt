@@ -39,13 +39,13 @@ BOI005	o >dentro il comune di bologna< si è spostato fuori
 BOI005	nei comuni limitrofi
 BOR002	e:h vi piace la vostra <zona>? se sì o no
 BOR002	perché?
-BOI004	allora la zona dove abitiamo proprio mh @nomeluogo no
+BOI004	allora la zona dove abitiamo proprio mh no
 BOI004	a me non piace non mi è mai piaciuta neanche quando ero piccola
 BOI004	che era proprio la zona:
 BOI004	quella un po' più malfamata ecco non so come dire
 BOI004	e:hm: come zona la croce di casalecchio come croce di casalecchio sì mi piace molto (.) però la mia zona proprio per niente
 BOI005	a me la mia zona piace,
-BOI005	anche se è sempre: @nomeluogo,
+BOI005	anche se è sempre:
 BOI005	e: mi piace: il contesto del quartiere, mi piace il fatto: che
 BOI005	nei pressi di casa nostra: c'è la pista ciclabile:, che consente: diciamo attività ricreativ~ ricreative,
 BOI005	e:h si può arrivare (.) a bologna a piedi in bicicletta:, si può arrivare a parco talon,
@@ -288,7 +288,7 @@ BOI005	diec'anni?
 BOI004	°anche quello (.) diec'anni° sì
 BOI004	cioè prima: la piazzola era un posto alternativo: dove andavi a prendere >della roba< e anche della bella roba
 BOI004	per me da quando l'hanno rifatto e hanno: appunto fatto sto parcheggione
-BOI004	#in realtà: è cambiato molto anche la piazzola cioè c'è proprio delle ciofeche delle schifezze: °a parte che non non c'è un italiano che è uno°
+BOI004	# in realtà: è cambiato molto anche la piazzola cioè c'è proprio delle ciofeche delle schifezze: °a parte che non non c'è un italiano che è uno°
 BOI004	°ma vabbè pazienza°
 BOI004	e: però anche proprio la roba è molto:
 BOI004	cambiata (.) °insomma quella cosa: a me non: (.) non piace molto ecco°
@@ -591,7 +591,7 @@ BOR002	un po' distruttivo ecco: un'urbanizzazione un po' distruttiva °per:°
 BOI005	[ah beh certo perché:] creare
 BOR002	[°i senzatetto°]
 BOI005	diciamo delle zone d'elite
-BOI005	e:h preclude il fatto che poi delle persone: homeless possano: rifugiar~ (.) <vi> <si> rifugiarvisi
+BOI005	e:h preclude il fatto che poi delle persone: homeless possano: rifugiar~ (.) <visi> rifugiarvisi
 BOI005	e:h sì (.) e: sono: è il prezzo da pagare
 BOI005	>prezzo da pagare< poi diciamo dovendo io li lascerei così ecco
 BOI005	e:hm:
@@ -673,7 +673,7 @@ BOI004	s~ s~ cioè per ora non ci penso proprio anche l~ il fatto di andare alla
 BOI004	di mettere comunque un banco in mezzo fra me e loro °non mi piace°
 BOI004	e:h cioè non sono ancora pronta °non che non mi piace°
 BOI004	°quindi:° nel futuro mi vedo un po' così ecco:: °e poi:°
-BOI004	#dio tal degga no però io sono contenta del mio lavoro e: era quello che volevo fare: e °sono riuscita a farlo ecco quindi°
+BOI004	# dio tal degga no però io sono contenta del mio lavoro e: era quello che volevo fare: e °sono riuscita a farlo ecco quindi°
 BOI004	MI VEDEVO DA PICCOLA COSì::
 BOI004	e da d~ DA GRANDE:: mi
 BOI004	mi vedrò da vecchia: °come insegnante dell'infanzia ecco°
@@ -847,7 +847,7 @@ BOI004	credo che una volta che io ho fatto tre anni di università poi vado a fa
 BOI004	e:h non so due anni in: portogallo
 BOI004	vengo a casa mi propongono di e:h
 BOI004	di lavorare nell'azienda sotto casa a fare: °non so° gli scontrini
-BOI004	#forse mi tira un po' il culo
+BOI004	# forse mi tira un po' il culo
 BOI004	e:h perché dici cacchio cioè non è che ho fatto la scuoletta: del cavolo io sono andato in portogallo e ho visto che là fanno così quindi quello che io ho (.) recepito là
 BOI004	voglio farlo qui
 BOI004	e lo voglio: e lo voglio trasmettere quindi se mi metti a fare solo: l~ gli scontrini mi rompe le balle

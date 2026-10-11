@@ -502,14 +502,14 @@ BOI054	d'impianti
 BOR010	oka~ o[ka~]
 BOI054	[elettricis]ta
 BOI053	[fai]?
-BOI054	[collauda]tore:
 BOI053	[okay]
+BOI054	[collauda]tore:
 BOR010	a:h ok[ay] ((ride))
 BOI054	[per] grandi aziende
 BOR010	che quindi immagino
 BOR010	sia un po' di tempo anche perché
-BOR010	[x xx]
 BOI053	[lui sì]
+BOR010	[x xx]
 BOI054	sì lavorerò tipo:
 BOI054	da::
 BOI054	una decina d'anni
@@ -563,8 +563,8 @@ BOI053	[no]:
 BOI053	sì c(io)è lavorare no
 BOI053	a studiare sì
 BOR010	ah ecco immaginavo ((ride))
-BOR010	[immagino]
 BOI053	[in cina] ovviamente
+BOR010	[immagino]
 BOR010	non avevo dubbi
 BOR010	ma c(io)è perché ti t'ispira proprio la cultura
 BOI053	[anche anche] ma anche per imparare un po' meglio il cinese perché stando qua:
@@ -679,8 +679,8 @@ BOR010	ho detto come come han fatto
 BOR010	e invece voi siete riusciti:
 BOR010	beh dai c(io)è se~ bene comunque
 BOI053	sì perché se stai un po':
-BOI054	[beh sì cas~]
 BOI053	[più: in camp]ag[na diciamo]
+BOI054	[beh sì cas~]
 BOI054	[castel san pie]tro è un p[o':]
 BOR010	[ah beh] giusto è vero
 BOI053	è molto (.) periferica

@@ -154,18 +154,18 @@ BOI014	mh eh tutti si usciva di casa con una seggiola si andava nel cortile alla
 BOI014	gli gli adulti
 BOI014	e cominciavano a raccontare
 BOI014	a raccontare erano tutti episodi di guerra di quelli che ricordo più indietro nel tempo perché la guerra era appena passata
-BOI014	e parlavano di questi tognini
-BOR002	tognini
-BOI014	tognini i tugnéin
+BOI014	# e parlavano di questi tognini
+BOR002	# tognini
+BOI014	# tognini i tugnéin
 BOR002	ah
-BOI014	in dialetto bolognese erano i tugnèin
+BOI014	# in dialetto bolognese erano i tugnèin
 BOR002	okay
 BOI014	io c'ho messo una vita per capire che erano i tedeschi
 BOR002	ah
 BOR002	no infatti non avrei mai ricollegato
 BOI014	eh
-BOI014	tun~ to~ tognini i tugnèin
-BOI014	tugnèin
+BOI014	tun to~ tognini i tugnèin
+BOI014	# tugnèin
 BOI014	che erano i tedeschi
 BOI014	che venivano ovviamente
 BOI014	eh rappresentati come delle persone
@@ -177,7 +177,7 @@ BOI014	potevano essere considerati anche dei
 BOI014	partigiani quindi quando eo scappavano sempre
 BOI014	dovevano scappare capito
 BOI014	e questi
-BOI014	tognini perché poi in italiano erano diventati i tognini ma
+BOI014	# tognini perché poi in italiano erano diventati i tognini ma
 BOI014	loro ne parlavano in dialetto li chiama~ perché allora tutti lì parlavano in dialetto
 BOR002	certo
 BOI014	tutti parlavano in diale~ solo noi coi i miei genitori
@@ -257,7 +257,7 @@ BOR002	che comunque è nata prima di te ti hanno mai raccontato qualcosa perché
 BOI014	me l'ha racco~ questo è de~ de~ de~ del fatto me l'han raccontato i miei fratelli della gue~
 BOR002	ah okay
 BOI014	della guerra raccontavano queste cose qui
-BOI014	mio padre al di' la guerra praticamente non ha mai raccontato perché lui è stato riformato
+BOI014	# mio padre al di' la guerra praticamente non ha mai raccontato perché lui è stato riformato
 BOI014	perché lui aveva l'asma
 BOR002	okay e riformato significa
 BOI014	quindi
@@ -367,7 +367,7 @@ BOR002	perché ah per una
 BOI014	no no non per quello no via dei mille mi~ mille dei garibaldi ecco
 BOR002	i mille quelli di
 BOR002	ah okay
-BOI014	sì b~ adesso c~ eh è c'è dove c'è
+BOI014	sì b~ adesso ceh è c'è dove c'è
 BOI014	anche il mamo mimo mo~
 BOR002	mambo
 BOI014	mambo da quelle parti lì
@@ -444,7 +444,7 @@ BOI014	io pendevo dalle labbra
 BOI014	di queste persone che raccontavano queste cose capendo la meta'
 BOI014	di quello che dicevano perché
 BOR002	perché parlavano in dialetto
-BOI014	no no capivo perfettamente il dialetto ma non avevo riferimenti perché non sapevo niente ti ripeto i tugnini
+BOI014	# no no capivo perfettamente il dialetto ma non avevo riferimenti perché non sapevo niente ti ripeto i tugnini
 BOI014	chi cazzo erano scusami
 BOI014	io cioè ci ho messo veramente una vita per capire che cosa
 BOI014	chi fossero hai capito
@@ -533,7 +533,7 @@ BOI014	e quindi gl~ il l~ l~ il l'amore per la lettura
 BOI014	mia madre me l'ha
 BOI014	me l'ha trasmesso
 BOI014	e dop~ e da qu~ e io dopo ho cominciato a leggere i fumetti leggevo
-BOI014	fetenzìe e più orribili che mi trovavo in casa
+BOI014	# fetenzìe e più orribili che mi trovavo in casa
 BOI014	l'intrepido perché i miei fratelli prendevano l'intre~
 BOR002	cos'è l'intrepido
 BOI014	intrepido è un fumetto
@@ -673,7 +673,7 @@ BOI014	perché era una matricola no
 BOR002	ah ah
 BOI014	ah beh eh in maggio fu il cinque maggio
 BOI014	ei fu sì come immobile
-BOI014	ei f~ eh e che poi ci ho scritto la zirudela proprio
+BOI014	# ei f~ eh e che poi ci ho scritto la zirudela proprio
 BOR002	ah sì
 BOI014	dopo valla a vedere non te la ricordi più eh
 BOR002	no
@@ -928,11 +928,11 @@ BOI014	ci son
 BOI014	mi ricordo che c'ha da piccola
 BOI014	ci si andava
 BOI014	per i bregoli
-BOI014	i bregual
+BOI014	# i bregual
 BOI014	poi si diceva
 BOR002	brigual
-BOI014	i brigual
-BOI014	i brigual bregual non lo so di preciso si faceva la ga~ si camminava
+BOI014	# i brigual
+BOI014	# i brigual bregual non lo so di preciso si faceva la ga~ si camminava
 BOI014	io avevo sempre paura perché c'era
 BOI014	ero fifona da piccola avveo paura delle bestie dei serpenti
 BOR002	ah pensavo dell'altezza o di scivolare
@@ -1210,7 +1210,7 @@ BOR002	ti sentiresti di dare ai giovani
 BOR002	di adesso
 BOR002	che stanno subendo insomma
 BOR002	questa cosa della pandemia che relativamente a tutto quello che hai vissuto tu non è niente
-BOR002	PERÒ cioè dato che sicuramente di periodi di crisi
+BOR002	però cioè dato che sicuramente di periodi di crisi
 BOI014	come non è niente eh è gravissima
 BOR002	e' gravissima no però io per esempio avessi vissuto negli anni sessanta settanta
 BOR002	cioè per la paura di uscire di cioè non sarei uscita di casa
@@ -1252,7 +1252,7 @@ BOR002	mhmh
 BOI014	hai capito cosa voglio dire
 BOR002	sì sì sì certo
 BOI014	ecco io consiglio quello
-BOI014	PERCHÉ io ho visto tante
+BOI014	perché io ho visto tante
 BOI014	insomma adesso li vedi che
 BOI014	aspettano tutti di avere l~ aspett~ non lo so adesso aspettavano di avere la casa di avere
 BOI014	di avere tutti i mobili di avere questo ee

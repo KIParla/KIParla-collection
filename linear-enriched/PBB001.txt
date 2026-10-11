@@ -186,8 +186,8 @@ BOR001	[°mhmh°]
 BOI002	frequenti la <pizzeria> non tanto l'osteria ecco
 BOI002	ma le osterie:: di bologna si son sempre xxxx sia in via zamboni che in via del pratello °una cosa:°
 BOR001	°mhmh°
-BOI002	[°sì°]
 BOR001	[°sì°]
+BOI002	[°sì°]
 BOI002	°sono:°
 BOI002	son sempre le stesse
 BOI002	son sempre <l'orsa> CIOÈ CE NE [SONO TA]N[TE che: sì]
@@ -206,7 +206,7 @@ BOR001	[mhmh]
 BOI002	°da::° dopo di san lazzaro
 BOI002	E POI ci siamo spostati piano piano verso via murri attr[a::~] (.) sì
 BOR001	[°mh°]
-BOI002	in @nomeluogo [poi do]po: °arrivando: fin qua q[uindi] diciamo questa è:°
+BOI002	in [poi do]po: °arrivando: fin qua q[uindi] diciamo questa è:°
 BOR001	[sì]
 BOR001	[sì]
 BOI002	da poco (.) che abitiamo [qua]
@@ -1146,8 +1146,8 @@ BOR001	quando, vado in pensione,
 BOR001	vogl~
 BOI002	per
 BOI002	per poco per vacanza
-BOI002	[sì]
 BOR001	([sì])
+BOI002	[sì]
 BOI002	perché poi comunque c'hai gli affetti c'hai:
 BOI002	tutto
 BOI002	però: si non: non per viverci

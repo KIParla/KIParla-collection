@@ -52,11 +52,11 @@ TO038	cioè se il pavimento fosse stato sopra la pizza sarebbe stato peggio
 TO031	beh sì per tutti noi tra l'altro
 TO039	poi l'olio è protettivo
 TO038	mh
-TO039	x che i batteri ci sguisciano sopra e scivolano via
 TO038	no comunque i peperoni non mi sembra forse nelle olive
+TO039	x che i batteri ci sguisciano sopra e scivolano via
 TO040	mh
-TO040	le olive sanno di peperone
 TO031	forse
+TO040	le olive sanno di peperone
 TO038	sì
 TO040	vero
 TO038	boh
@@ -153,8 +153,8 @@ TO031	che tra l'altro grazie all'evasione fiscale riesco riesco a comprare l'erb
 TO040	e di tutta la droga che hai addosso marchino
 TO038	ma soprattutto sarebbe interessante siccome è un lavoro per l'università dire chi sono i componenti di questo bellissimo pranzo
 TO031	no no
-TO039	no
 TO040	sì
+TO039	no
 TO031	assolutamente
 TO040	sì
 TO039	no
@@ -296,16 +296,16 @@ TO038	ma effettivamente quando uno ha un'idea commer~ non è un'idea particola~ 
 TO031	però dici che proprio xx
 TO031	qual era il tuo ultimo lavo~ sei è un'idea un po' di tutte le le cose che non si possono dire di mariolino
 TO039	ma la cosa più importante è ce l'abbiamo sto scontrino
-TO039	quello dei caffè
 TO038	sì
+TO039	quello dei caffè
 TO031	caffettino
 TO039	mh
 TO038	ce l'ho e ce l'ho separato dalla pizza
 TO038	così non ci son già strappi che torni dipo mezz'ora
 TO039	molto bene
 TO031	che gente
-TO039	ah bravissimo gliel'hai chiesto tu
 TO038	siamo a~ eh sì sì sì dico per favore me li può soltanto fare separati perché se no tutte le volte c'è la scenetta che io devo rimanere lì a mangiare la pizza come se fossi un boa
+TO039	ah bravissimo gliel'hai chiesto tu
 TO038	nel frattempo io sono io quello del caffè che hai appena strappato il biglietto
 TO031	va bene
 TO031	andiamo di caffè
@@ -315,8 +315,8 @@ TO039	yeah
 TO040	sì
 TO031	tu hai mangiato hai finito
 TO040	sì
-TO039	ti ha fatto schifo
 TO031	tu pure
+TO039	ti ha fatto schifo
 TO040	no era buonissimo
 TO038	c'è una peperonata ancora da finire
 TO039	esatto
@@ -562,8 +562,8 @@ TO040	ciao
 TO039	il figlio di zucchero
 TO040	perché lei è bravissima
 TO040	anche tu
-TO039	il figlio di succhero
 TO040	avete sentito la nostra conversazione
+TO039	il figlio di succhero
 TO031	lei xxx le faccio minchia
 TO038	sì scusate avevo promesso che l'avrei riportato ma
 TO040	sì grazie mille
@@ -598,8 +598,8 @@ TO031	no invece no
 TO038	ti sta mettendo paura eh
 TO038	no non è vero
 TO031	al muro
-TO039	grazie a me
 TO038	ma no
+TO039	grazie a me
 TO038	ma poi adesso tu vai a valencia
 TO038	ti fermerai lì di più non dovevi prendere il biglietto di ritorno
 TO031	pensa che ho preso prima il biglietto di ritorno
@@ -611,7 +611,7 @@ TO031	buono
 TO031	poi tutti e due da torino magnifico
 TO031	mi accompagni a caselle
 TO038	è come un medico che chiama già il carro funebre prima di curarti comunque non è giusto
-TO031	beh se sai che costa poco il carro funebre dici vabbè dai muoio nel duemila e:::h
+TO031	beh se sai che costa poco il carro funebre dici vabbè dai muoio nel duemila eh
 TO038	ti porto a caselle sì
 TO038	a cena o a pre~
 TO031	no no la mattina

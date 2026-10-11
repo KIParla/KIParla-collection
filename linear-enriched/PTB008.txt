@@ -186,9 +186,9 @@ TOI024	[e ah c'è una si]gnora
 TOI024	che dov'è andata, ha detto che andava a prendere il caffè che voleva rinnovare la tessera [x]
 ???	[eh vabbè] (a)spetta (u)n att(imo)
 ???	poi deve andar [via]?
-TOI024	#[no non] (è lì) ndua l'è?
+TOI024	# [no non] (è lì) ndua l'è?
 ???	ah
-TOI024	#sai nen
+TOI024	# sai nen
 TOI024	è sparita già?
 TOI024	AH È LEI È LEI È LEI È LEI
 TOI024	È LÌ È LÌ È LÌ È LÌ
@@ -267,13 +267,13 @@ TOR005	ehm::
 TOR005	quindi: ehm:::
 ???	ah sei qua?
 TOI024	eh eh eh
-TOI024	[sta inten~]
 ???	[x]
+TOI024	[sta inten~]
 TOR005	[prego]
 TOI024	[eh]
-TOI024	#a i'è na tessera da fè
-TOI024	[poi ha] detto che dobbiamo a essere in due
+TOI024	# a i'è na tessera da fè
 ???	[eh]?
+TOI024	[poi ha] detto che dobbiamo a essere in due
 TOI024	adesso mi fa qualche domanda
 TOI024	eh
 TOI024	è l'altra mia collega
@@ -400,13 +400,13 @@ TOI024	a:h mi ricordo poco
 TOI024	comunque in via meucci (.) mi pare nove
 TOR005	[ah okay eh va bene]
 TOI024	[mh eh c'era la]
-TOI024	[l'avviamento com]merciale
 ???	[eccomi]
-TOI024	[ecco]
+TOI024	[l'avviamento com]merciale
 ???	[OH]
+TOI024	[ecco]
 TOR005	[salve buongio]rno
-TOI024	[x (.) eh]
 ???	[ce l'ho fatta]
+TOI024	[x (.) eh]
 TOI024	eh questa è: l'altra mia collega
 TOR005	salve
 TOI024	eh
@@ -604,8 +604,8 @@ TOI024	[sì].
 TOR005	[perché:]
 TOI024	[sì nei din]torni nelle:: [nei paesi]
 ???	[sì perché prima non] c'è quasi mai: visto che
-TOI024	[eh]
 ???	[non può]
+TOI024	[eh]
 ???	è un po' famoso
 TOR005	((ride))
 ???	[e:h]
@@ -763,7 +763,7 @@ TOI024	più o [meno]
 ???	la mia non è una bella vita x
 TOI024	((ride))
 TOR005	oh ma
-???	#che am fasa nen ed dumande
+???	# che am fasa nen ed dumande
 TOI024	ne avrà viste di peggio
 TOI024	((ride))
 ???	((ride))
@@ -819,8 +819,8 @@ TOR005	[a]llora
 TOR005	le (.) do la liberatoria intanto
 TOI024	e intanto magari [finiamo]
 TOR005	[la penna]
-TOI024	[(le) domande] per me
 ???	[dammi la biro]
+TOI024	[(le) domande] per me
 TOR005	uno
 TOR005	ehm:::
 TOR005	<allora>
@@ -831,7 +831,7 @@ TOR005	due firme
 TOR005	(no) aspetti [che mi son perso (l'altra)],
 ???	[anche qua bisogna farla] ah solo qua
 TOR005	sì no solo qui sotto la firma, e qui sopra nome e cognome.
-???	#eh semp istess
+???	# eh semp istess
 TOR005	sì:
 TOI024	eh
 TOR005	[però (.) però no~] nome e cognome lo leggo meglio però ((ride))
@@ -865,8 +865,8 @@ TOI024	mah eh torino è una bella città, tranquilla
 TOI024	((ride))
 TOI024	eh insomma più o meno ((ride))
 TOI024	((ride))
-TOI024	[x la] sera [di giorno trovi x]
 ???	[era].
+TOI024	[x la] sera [di giorno trovi x]
 ???	[al~ allora t]ori[no era una bella città]
 TOI024	[se viene in questo borgo]
 ???	[tranq]uilla
@@ -878,8 +878,8 @@ TOI024	le dico vieni ad abitare in questo borgo
 TOI024	[come ho fatto io]
 TOR005	[benissimo]
 ???	sì
-TOI024	[e vedrai che sarai ben(e) accol]to
 ???	[questo sì. (.) xxx]
+TOI024	[e vedrai che sarai ben(e) accol]to
 TOI024	se è un uomo o una donna non lo [so]
 TOR005	[va] bene
 TOI024	sarai ben accolto
@@ -906,8 +906,8 @@ TOI024	((ride))
 ???	[sì sì rimane così ci] dà una mano
 TOR005	e:::h
 TOI024	((ride))
-???	#così chila sa già tut
+???	# così chila sa già tut
 TOR005	((ride))
-TOI024	eh sì ho già (.) ho già risposto
 ???	((ride))
+TOI024	eh sì ho già (.) ho già risposto
 TOR005	ah beh ma poi abbiamo la signora:

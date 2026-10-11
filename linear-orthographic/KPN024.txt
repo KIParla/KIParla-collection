@@ -58,7 +58,7 @@ PKP070	quindi sì mi dispiace ti tocca accontentarti
 PKP070	cosa hai fatto
 PKP080	mi son scottata
 PKP070	ecco cosa mi ero dimenticato di chiederti
-PKP080	col ciomao
+PKP080	# col ciomao
 PKP070	di girarmi una cicca
 PKP080	ah scusa
 PKP080	cioè io non ti ho neanche aspettato
@@ -146,8 +146,8 @@ PKP080	una ma~ un male alla mano
 PKP080	ho male tutto qua tipo perché ieri sera scrivevo come una dannata
 PKP080	cioè ho detto non so mi farò il tunner ca~ tunnel carpale cioè
 PKP080	è la fine
-PKP070	ma tu sei anche abituata a scrivere perché scrivi sempre
 PKP080	e
+PKP070	ma tu sei anche abituata a scrivere perché scrivi sempre
 PKP080	sì
 PKP070	io non scrivo da
 PKP070	il primo anno di università
@@ -201,7 +201,7 @@ PKP080	questo spritz è per il primo gruppo
 PKP070	okay
 PKP080	io stra felice
 PKP080	la mafalda è nel secondo
-PKP080	quindi busa totale
+PKP080	# quindi busa totale
 PKP070	si è lamentata anche di questo
 PKP080	si è lamentata ha cercato di trovare un cambio non non ne veniva fuori
 PKP080	se non che scopre che un nostro compagno di corso è in quarantena tipo
@@ -283,8 +283,8 @@ PKP080	e che per risparmiare tempo ed energie
 PKP080	secondo lui bisognerebbe fare o tutti in presenza
 PKP080	o tutti online
 PKP070	ma potete tutti in presenza
-PKP070	siet~
 PKP080	tutti in presenza lui guarda l'aula fa due conti sui posti dice ci staremo
+PKP070	siet~
 PKP070	mhmh
 PKP070	okay
 PKP080	okay
@@ -397,8 +397,8 @@ PKP080	ma
 PKP080	ma eh eh
 PKP070	ma cosa
 PKP080	i militari
-PKP070	sì
 PKP080	a conscio
+PKP070	sì
 PKP070	infatti
 PKP080	a conscio a controllare che in piazza non ci sia nessuno
 PKP080	se non che ehm
@@ -497,8 +497,8 @@ PKP070	sì sì sì
 PKP070	ma non ha nemmeno amici compagni cioè persone che conosce all'interno del corso
 PKP080	me
 PKP080	ma no ma allora
-PKP070	avvisala
 PKP080	calma
+PKP070	avvisala
 PKP080	no eh no calma
 PKP080	professore manda una mail dicendo chi è intenzionato a fare i lavori di gruppo mi scriva
 PKP070	okay
@@ -551,7 +551,7 @@ PKP080	cioè magari lui poteva un attimo gestire la situazione di~ facendo una r
 PKP080	cercando di
 PKP080	appunto
 PKP080	avere un'altra data
-PKP070	non potevi essere tu il rappresentante degli studenti che reffi tutta la cosa
+PKP070	# non potevi essere tu il rappresentante degli studenti che reffi tutta la cosa
 PKP080	sì amo così morivo
 PKP080	morivo
 PKP080	già mi sta venendo un malore a
@@ -623,7 +623,7 @@ PKP080	cioè non è che sono alle superiori che non ho visto la lezione di ieri 
 PKP070	no
 PKP080	anche perché io ci cioè ci sto dietro comunque voglio dire cioè la magistrale o spingi o spingi nel senso
 PKP080	però
-PKP080	dio bon cioè
+PKP080	# dio bon cioè
 PKP080	così che mi dici che devo scriverti un paper ogni settimana
 PKP070	eh
 PKP070	cioè praticamente ogni settimana fino a fine dicembre
@@ -645,15 +645,15 @@ PKP080	togli anche natale per favore
 PKP070	no no f~ intendo fine dicembre tipo fine
 PKP080	ah
 PKP070	lezioni
-PKP070	non so quando finisci tu
 PKP080	sì cioè
+PKP070	non so quando finisci tu
 PKP080	io ne ho parlato anche con la mia e la isi e la mia mi fa
 PKP080	beh dai vedi il lato positivo almeno non hai un esame a gennaio
 PKP080	sì ho capito
 PKP080	ma
 PKP080	come faccio a studiare per quelli di gennaio se adesso mi
 PKP070	infatti
-PKP080	cioè che poi inizia adesso sto corso ma inizia a settembre dio bon
+PKP080	# cioè che poi inizia adesso sto corso ma inizia a settembre dio bon
 PKP070	sì sì
 PKP080	inizi a settembre
 PKP080	finisci a novembre
@@ -740,8 +740,8 @@ PKP070	e già prima erano in una situazione di merda
 PKP080	ma è ridicolo
 PKP080	o tutti chiusi o tutti aperti
 PKP070	ma infatti pi~ cioè più che altroci sono posti che
-PKP070	non fanno chiudere
 PKP080	io l'ho detto
+PKP070	non fanno chiudere
 PKP080	anche alla sara e la fede cioè
 PKP080	ieri tipo a treviso c'è stato il disastro di gente
 PKP070	ma era tipo una manifestazione cos'era
@@ -753,7 +753,7 @@ PKP070	mhmh
 PKP080	eh chi voleva andava okay
 PKP070	sì sì sì
 PKP080	io
-PKP080	cioè tu la vedi la vedi l'immagine di piazza dei signori e dici dio bon qua viene fuori no un focolaio di più
+PKP080	# cioè tu la vedi la vedi l'immagine di piazza dei signori e dici dio bon qua viene fuori no un focolaio di più
 PKP080	però allo stesso tempo non mi sento neanche di giudicarli
 PKP070	no
 PKP080	cioè dico okay mi cago addosso se so che una persona è andata a quella manifestazione
@@ -791,7 +791,7 @@ PKP080	estrema destra
 PKP080	centri sociali
 PKP070	strano
 PKP080	e ultras
-PKP080	ma dio bon
+PKP080	# ma dio bon
 PKP070	vabbè quelli sono lì per far casino e basta
 PKP080	sì ma tu mi devi spiegare
 PKP070	come sempre
@@ -805,7 +805,7 @@ PKP070	vabbè
 PKP080	dimmi
 PKP080	cos'è un lavoro
 PKP070	no non è un lavoro sono solamente coglioni e basta
-PKP080	ti pagano per andare a sigare sullo stadio
+PKP080	# ti pagano per andare a sigare sullo stadio
 PKP070	cioè non hanno senso nell'esistenza proprio ma ancora prima del covid
 PKP080	hanno sfondato gucci
 PKP080	non so se hai visto
@@ -822,8 +822,8 @@ PKP070	vabbè adesso non ha chiuso
 PKP080	eh m~
 PKP070	perché i negozi non chiudono
 PKP080	è una guerra
-PKP070	però
 PKP080	tra chi non ha i so~ cioè
+PKP070	però
 PKP080	tu sei chiuso allora ti schianti sulla vetrina di uno che resta aperto per rubargli la roba dentro
 PKP070	sei stupido e basta
 PKP080	è stato come
@@ -866,7 +866,7 @@ PKP080	che poi lo facciano anche in piazza a roma okay perché alla fine
 PKP080	anche
 PKP080	oggi ho visto al telegiornale tipo nazionale okay che gente che dice io ho comprato disinfettanti dispositivi plexiglass
 PKP070	eh anche quello
-PKP080	ho tolto i tavoli ho messo questo go messo queo desso so serà da novo
+PKP080	# ho tolto i tavoli ho messo questo go messo queo desso so serà da novo
 PKP080	cioè
 PKP080	la gente si impegna e cioè non puoi considera~ con più che tutti i contagi stanno avvenendo in famiglia
 PKP070	eh sì la maggior parte sì
@@ -955,7 +955,7 @@ PKP080	poi ieri ho letto una boiata
 PKP080	atroce
 PKP070	sto male
 PKP080	su
-PKP080	le tose di zaia
+PKP080	# le tose di zaia
 PKP080	gruppo di instagram
 PKP070	adoro
 PKP080	ma ci saranno ti giuro almeno centomila donne là dentro eh
@@ -973,8 +973,8 @@ PKP080	praticamente
 PKP080	la la
 PKP080	sta tipa scrive che lei fa ogni due settimane tipo il tampone
 PKP080	perché lavora in una casa di cura
-PKP070	mhmh
 PKP080	e che secondo lei almeno dovrebbero passargli i test rapidi
+PKP070	mhmh
 PKP080	che sono meno invasivi e lei non tipo non ne può più
 PKP080	oh
 PKP080	ma chi ti credi di essere la regina elisabetta cioè

@@ -76,7 +76,7 @@ BO150	ah fai finta di: ((ride))
 BO149	fai che::
 BO149	tagli il salame a pezzettini che tanto si::
 BO149	sembra tipo >pasta di salsiccia ci metti un po'di< strutto per insaporirlo,
-BO150	°((ride))°
+BO150	((ride))
 BO149	e viene abbastanza simile.
 BO150	[a::h]
 BO151	[ma è] ne[cessario lo st]rutto?
@@ -174,7 +174,7 @@ BO152	grazie,
 BO150	ah scusami ho fatto::
 BO150	((ride))
 ???	a::h okay (n=acco) ((ride))
-BO151	°((ride))°
+BO151	((ride))
 ???	qui
 BO149	°(non posso parlare se sta in mez[zo])°
 BO150	[sc]usi io::
@@ -184,7 +184,7 @@ BO149	m:h ((ride)) oh poverino vuoi un po' di:::
 BO149	pasta frolla?
 BO150	((ride))
 BO152	((ride))
-BO149	°((ride))°
+BO149	((ride))
 BO149	allora frank com'è questa torta?
 BO149	descri[vicela],
 BO151	[buona]
@@ -818,7 +818,7 @@ BO151	((ride))
 BO149	((ride))
 BO151	questa è per neut(ri)
 BO152	ormai ho già taglia[to]
-BO149	°((ride))°
+BO149	((ride))
 BO149	[è] per gender neutri
 BO150	infatti ha un sacco di ergonomia cavolo
 BO152	>ha senso che potrebbe finire cinquanta e cinquanta cioè in effetti non ha senso [che sia così::<]
@@ -833,11 +833,11 @@ BO151	[e::h sì]
 BO152	((ride))
 BO152	una volta ho provato a parlarne con lorenzo e lui continuava a dire eh NO
 BO152	perché è una cosa che scegli tu.
-BO150	°((ride))°
+BO150	((ride))
 BO152	e io [no ti ti giur]o ((ride))
 BO150	[s:ì come se]
 BO150	come se fosse (suo) ((ride))
-BO149	°((ride))°
+BO149	((ride))
 BO152	sì perché::
 BO149	m::h
 BO151	[ma in che senso]?
@@ -964,7 +964,7 @@ BO151	beh un pochino
 ???	ah sì?
 BO152	[ma è un video]?
 BO151	[cosa sta succeden]do? sì è un video ma che [ca::] ((fa_vedere_un_video))
-BO150	°((ride))°
+BO150	((ride))
 BO149	[sta ingrassa]ndo?
 BO151	((fa_vedere_un_video))
 BO150	((ride))
@@ -1101,7 +1101,7 @@ BO151	((canta))
 BO151	((canta))
 BO150	un'altra cosa che potremmo provare a fare, è::: fare una canzone,
 BO150	e:: sperare che tra qualche anno, finisca in una meme e diventa~ capitalizzare su spotify perché raggiungiamo il boom di
-BO152	°((ride))°
+BO152	((ride))
 BO152	((ride))
 BO149	((ride))
 BO151	beh (.) basta far fare una canzone:
@@ -1119,7 +1119,7 @@ BO151	[perché c'è tropicana]
 BO149	sì e[satto]
 BO150	[di lei che è tipo una] prostitut[a::, e::]
 BO151	[maracaibo] ((canta))
-BO149	[a:h e:: >cioè< >cioè:<]
+BO149	[a:h e:: >cioècioè:<]
 BO151	[mare forza] ((canta))
 BO149	[ogni due linee] cambia
 BO149	((ride))

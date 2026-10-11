@@ -393,7 +393,7 @@ BOI021	no~ non ha contribuito a
 BOI021	a costruirli ad arricchirli a viverli
 BOI021	mh
 BOI021	li usa li
-BOI021	eh e bona insomma
+BOI021	# eh e bona insomma
 BOR002	mhmh
 BOR005	mh
 BOR002	ehm
@@ -462,7 +462,7 @@ BOI021	mh
 BOI021	mh mh mh delegò i quartieri di allora che erano ancora
 BOI021	eh sperimentali insomma vabbè
 BOI021	a ehm
-BOI021	costituire se volevano cioè c'era una politica per gli anziani
+BOI021	costituire se volevanocioè c'era una politica per gli anziani
 BOI021	dentro alla quale i quartieri se volevano potevano istituire
 BOI021	delle zone ortive e
 BOI021	assegnare un lotto che eh
@@ -683,8 +683,8 @@ BOI021	che intenzionalmente facciamo tutti gli anni è
 BOI021	questi due anni no
 BOI021	è un'iniziativa sul due agosto
 BOI021	chiamandoci
-BOI021	centro @nomecentro
-BOR005	centro @nomeluogo
+BOI021	centro
+BOR005	centro
 BOR002	mhmh
 BOI021	eh e siamo partiti qui questo sì dodic'anni fa lì f~
 BOI021	lì attaccata alla porta c'è la
@@ -928,8 +928,8 @@ BOR002	come mai il centro sociale è stato chiamato
 ???	nel momento
 BOR002	eh
 BOR002	centro sociale insomma
-BOR002	mh @nomeluogo
-BOR002	come mai è stato scelto @nomeluogo?
+BOR002	mh
+BOR002	come mai è stato scelto
 BOI021	eh è stato il suggerimento del sindaco rossi
 BOR002	ah
 BOI021	quando ci fu la strage si inaugurava
@@ -949,17 +949,17 @@ BOI021	eh
 BOI021	si apriva qua
 BOI021	e lui eh non era ancora stato
 BOI021	denominato se non
-BOI021	@nomeluogo cioè col nome della via
+BOI021	cioè col nome della via
 BOI021	e fu lui
 BOI021	che era sindaco in quel periodo a suggerire
-BOI021	di di intitolarlo @nomeluogo, perché era
+BOI021	di di intitolarlo perché era
 BOI021	era quell'anno cioè l'anno
 BOR002	mhmh
 BOI021	eh fu accolto insomma
 BOI021	ce ne sono altri eh di centri a bologna
 BOI021	ce n'è uno a casalecchio
 BOR002	mh
-BOI021	sempre lo mh intitolato @nomeluogo perché quelli che erano aperti in quell'epoca
+BOI021	sempre lo mh intitolato perché quelli che erano aperti in quell'epoca
 BOR002	ah
 BOR005	mh
 BOI021	era normale insomma veniva spontaneo
@@ -972,7 +972,7 @@ BOR005	principalmente adesso vedendo di là le persone che c'erano al momento
 BOI021	principalmente
 BOI021	vabbè dipende dagli orari
 BOI021	se vai a vedere di là adesso alla
-BOI021	al reperti cioè ovvio che al~ fino alle sei la gente lavora per cui non è che
+BOI021	al reperticioè ovvio che al~ fino alle sei la gente lavora per cui non è che
 BOI021	comunque va bene no no ma la maggioranza è sicuramente gente di una
 BOR005	bene
 BOR005	sì
@@ -1146,7 +1146,7 @@ BOI021	che non ho letto su libri che non ho letto su
 BOI021	eh
 BOI021	mh che però ho sentito raccontare tante volte da mia suocera
 BOI021	perché quello che secondo me non si considera
-BOI021	non da mio marito anche perché lui cioè non
+BOI021	non da mio marito anche perché luicioè non
 BOI021	non era piccolo cioè non non non ne poteva
 BOR002	certo
 BOI021	ma aveva una una sorella di nove anni
@@ -1169,7 +1169,7 @@ BOI021	eh
 BOI021	per due o tre anni in giro da parenti con questi due bambini
 BOI021	a farsi ospitare
 BOI021	non so come abbia potuto incidere
-BOI021	a mia suocera sicuramente era venuto
+BOI021	a mia suocera sicuramente era venuto ride
 BOI021	una forma di non so come chiamarla nevrosi insomma che
 BOI021	parlava parlava parlava parlava parlava
 BOI021	e tutti dicevano che era da quel momento lì che lei è aveva cominciato a
@@ -1203,9 +1203,9 @@ BOI021	se parlava d'altro era normalissima ma se
 BOI021	eh bastava un un'immagine di una
 BOI021	di una rivista bastava ehm
 BOI021	cioè
-BOI021	e ri~ eh e rico~ e cominciava se parché qua là
+BOI021	# e ri~ eh e rico~ e cominciava se parché qua là
 BOI021	e che
-BOI021	tal ninein vabbè insomma
+BOI021	# tal ninein vabbè insomma
 BOI021	perché e lei credeva di sapere chi era stato a
 BOI021	a far la delaz~ eh eh sì eh sì
 BOR005	mhmh

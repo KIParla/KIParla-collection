@@ -161,7 +161,7 @@ PKP108	[infatti è tornata a] casa che:
 PKP108	era un po':
 PKP107	di[sorien(tata)]
 PKP108	[demotiva]:ta
-PKP107	e:h sì[]
+PKP107	e:h sì
 PKP108	[di]cia:mo
 PKP110	((ride))
 PKP108	((ride))
@@ -352,8 +352,8 @@ PKP110	d~ d~ (dalla) camera all'altra
 PKP109	((ride))
 PKP110	si sente che ru:ssi ((ride))
 PKP110	((ride)) da due camere di dista:nza
-PKP108	[xxx]
 PKP107	[sì ma tu sei un po'] sensibil[e:]
+PKP108	[xxx]
 PKP110	[sì: io tantissimo]
 PKP107	[AI a:l ru:sso]
 PKP110	[c(io)è] io devo
@@ -711,8 +711,8 @@ PKP110	anche la ciga
 PKP110	qua non si dice
 PKP110	ti[po:]
 PKP107	[la che]?
-PKP110	#la ci:ga
-PKP110	#tipo mi ha dato una ciga della madonna [xx]
+PKP110	# la ci:ga
+PKP110	# tipo mi ha dato una ciga della madonna [xx]
 PKP109	[sgrida]:[ta]?
 PKP110	[eh] una sgridata
 PKP110	però (a me) tipo ieri l'ho detto con giovanni
@@ -802,8 +802,8 @@ PKP110	°non mi va [il prosciutto°]
 PKP109	[dai (dopo) questa] quì
 PKP109	finiamolo >dai dai> su
 PKP108	finiamola dai
-PKP108	[su]
 PKP109	[eh]
+PKP108	[su]
 PKP108	x[xx]
 PKP107	[°io non lo so più xx°]
 PKP110	[<fini]:tela>
@@ -820,8 +820,8 @@ PKP108	((ride))
 PKP109	(poi la) finisci tu
 PKP107	la fi[nisci tu]
 PKP108	[infa:tti]
-PKP108	[>me la<]
 PKP107	[io] se vuo[i:]
+PKP108	[>me la<]
 PKP108	[me] [la date tutta a me]
 PKP107	[pulisco la pentola]
 PKP109	va bene pulisci [la pentola]
@@ -875,8 +875,8 @@ PKP109	hanno fatto in fretta a farlo eh
 PKP108	mado'
 PKP109	(è dura)
 PKP109	sarà che se vogliono
-PKP108	[qui~ qui~ q]uindici (mesi)
 PKP107	[e:h infatti]
+PKP108	[qui~ qui~ q]uindici (mesi)
 PKP108	((tossisce))
 PKP107	(puoi)?
 PKP107	ci sei nonna?
@@ -1476,8 +1476,8 @@ PKP109	non vengono loro più che altro
 PKP107	ma
 PKP107	hai capito po:[i]?
 PKP108	[o] lo mangi o o
-PKP108	[xxx]x
 PKP107	[che]
+PKP108	[xxx]x
 PKP107	[no ti ha de:tto]
 PKP109	ma [mariari]ta:
 PKP107	[c'è stata una]
@@ -1485,8 +1485,8 @@ PKP108	[xxxx]
 PKP109	[fai fai schifo da:i]
 PKP108	xx la fe:tta
 PKP110	((ride))
-PKP108	[o:h]
 PKP109	[adesso te la] ma[ngi eh]
+PKP108	[o:h]
 PKP107	[spie]ga[gli:]
 PKP110	[certo] che me la mangio
 PKP109	ma lo [so ma]

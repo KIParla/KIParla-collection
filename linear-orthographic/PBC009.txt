@@ -130,10 +130,10 @@ BOI023	eh ma guarda ma non intenerirti
 BOI022	x
 BOI022	no ma hai visto c'era anche il xx
 BOI023	eh sì sì ah fan di tutto
-BOI023	eh sì una cosa x cambiamenti enormi insomma io avevo questa vecchia dada in realtà era una specie di custode che ancora mio nonno abitava la casetta qui sotto
+BOI023	# eh sì una cosa x cambiamenti enormi insomma io avevo questa vecchia dada in realtà era una specie di custode che ancora mio nonno abitava la casetta qui sotto
 BOI023	mio nonno prese questi custodi marito e moglie il marito era molto vecchio e morì molto prima
-BOI023	eh lei mi fece un po' da dada perché io appunto ero la più piccola e mi mi stava dietro un po'
-BOI023	eh e sì insomma lei alla sera d'estate prendeva la sedia faceva tutte le scale e si trovava nella casa di fronte che fa il bivio con @nomeluogo
+BOI023	# eh lei mi fece un po' da dada perché io appunto ero la più piccola e mi mi stava dietro un po'
+BOI023	eh e sì insomma lei alla sera d'estate prendeva la sedia faceva tutte le scale e si trovava nella casa di fronte che fa il bivio con
 BOI022	sì
 BOR002	mhmh
 BOI023	in quel triangolo lì mi ricordo queste quindici sedici anziane signore sedute tutta l'estate
@@ -459,10 +459,10 @@ BOI022	però per persone co~ come noi adesso io fa~ faccio il mio esempio
 BOI022	c'era un bisogno di fare delle attività che
 BOI022	nel sociale io per esempio dopo l'universi~
 BOI022	dunque prima cosa autonomia dalla famiglia che era un tema eh che il sessantotto ha posto
-BOI022	e quindi io ho cercato di avere un lavoro anche prima di aver concluso l'università son finito all'@nomeazienda
+BOI022	e quindi io ho cercato di avere un lavoro anche prima di aver concluso l'università son finito all'
 BOI022	e e poi ehm
 BOI022	dopo ho fatto la scelta di lavorare col sindacato
-BOI022	da attraverso la mia azienda che era l'@nomeazienda
+BOI022	da attraverso la mia azienda che era l'
 BOI022	poi il grosso delle mie eseprienze sono legate appunto a~ alla mia azienda a queste cose una azienda che in una certa fase ha avuto
 BOI022	un eh certo prestigio perché c'era rossi che era un famoso dirigente che veniva dal privato che ha
 BOI022	portato avanti dei principi innovativi per una azienda di servizi
@@ -503,14 +503,14 @@ BOR002	ma giusto per curiosità ma in che banca lavorava
 BOI023	eh io ne ho son sempre stata nell'ambito di una banca ma ne ho cambiate cinque perché io sono degli anni delle fusioni han cominciato
 BOR002	eh
 BOR002	eh
-BOI023	comunque io entrai i primi anni ero banca @nomeazienda
+BOI023	comunque io entrai i primi anni ero banca
 BOR002	ah okay
 BOI023	disperatamente scelta dopo la svolta della mia vita
 BOI023	mi separai
 BOI023	eh non trovavo lavoro come sociologa
 BOI023	l'università me l'ero giocata senza saperlo eh non sono una martire
 BOI023	me l'ero giocata perché
-BOI023	ero laureata con la lode con bianchi ero la prima donna che si laureava con bianchi
+BOI023	ero laureata con la lode con bianchi ero la prima donna che silaureava con bianchi
 BOI023	dicevano sempre che lui laureava pochissime persone e quasi sempre erano uomini
 BOI023	eh e poi io feci doman~ ci laureammo in due
 BOI023	con un compagno di studi
@@ -533,13 +533,13 @@ BOI023	però furono anni appunto di grandi snodi organizzativi per cui boh s~ no
 BOI023	dopo tre anni e io intanto io mi ero separata dissi eh vabbè basta
 BOI023	e bianchi appunto mi disse ma lei va dove il mondo xxx
 BOI023	avrei preferito vederlo pulsare qui ma vabbe
-BOI023	e comunque si va be a parte ste storie personali sì secondo me insomma
+BOI023	e comunque si vabbè a parte ste storie personali sì secondo me insomma
 BOI023	noi forse ecco io ho sempre avuto il fatto di vivere qui
 BOI023	e mantenere sto legame
 BOI023	col territorio ci sono stati degli anni in cui sono stata nella sezione dei bancari perché c'erano ancora le
 BOI023	sezioni di luoghi di lavoro
 BOI022	sì
-BOI023	io son stata quindi alla banca @nomebanca che poi dopo è stata cominciata ad essere assorbita ho finito la carriera in banca come @nomeazienda
+BOI023	io son stata quindi alla banca che poi dopo è stata cominciata ad essere assorbita ho finito la carriera in banca come
 BOR002	mhmh
 BOI023	eh però poi ho conqui~ abbiamo conquistato il part-time
 BOR002	e invece rimanendo un po' sulla storia diciamo del quartiere e storia
@@ -557,7 +557,7 @@ BOI022	io mh meditavo
 BOI022	qui parliamo del duemila e nove duemila e dieci
 BOI022	io già c'avevo in testa di scrivere qualcosa sulla storia di mio padre che è stato un partigiano
 BOI022	però intanto ho ritenuto aldilà di muovermi in modo singolo così a caso un po'
-BOI022	eh di fare questa scelta valoriale di aderire all' associazione dei partigiani
+BOI022	eh di fare questa scelta valoriale di aderire all'associazione dei partigiani
 BOI022	quando sono andato a iscrivermi che allora era in un altro posto non in via san felice dove è oggi ma
 BOI023	via rizzoli no dov'era
 BOI022	quella era prima ancora
@@ -1013,7 +1013,7 @@ BOI023	storici dell'arte della filosofia fondatori di future università lui era
 BOI023	con mario neri l'unico filosofo italiano dell'esistenzialismo
 BOI023	cioè lui scoprì che c'era un mondo fuori da questi confini italiani o dal suo confine che un regime gli aveva inscatolato
 BOI023	e quindi lui diceva che in fin dei conti il campo di concentramento avendo tempo enorme a disposizione
-BOI023	era aveva studiato aveva fatto delle cose aveva imparato che esisteva una cultura che esisteva una storia che esisteva un un' idea politica che potesse non essere quella fascista
+BOI023	era aveva studiato aveva fatto delle cose aveva imparato che esisteva una cultura che esisteva una storia che esisteva un un'idea politica che potesse non essere quella fascista
 BOR002	mhmh
 BOI023	quindi sì
 BOI023	esperienze grandiose
@@ -1090,7 +1090,7 @@ BOR002	allora io per quanto riguarda soprattutto la seconda guerra mondiale sono
 BOR002	perché avevo una professoress~ eh no eh infatti
 BOI022	vedi le me~
 BOR002	avevo una professoressa che ci stava molto sull'argomento
-BOR002	e oltretutto invitò uno degli ultimi rimasti dell' eccidio di monte sole a testimonianza
+BOR002	e oltretutto invitò uno degli ultimi rimasti dell'eccidio di monte sole a testimonianza
 BOI023	eh caspita certo sì
 BOR002	eh mh
 BOI023	xx paradigmatica

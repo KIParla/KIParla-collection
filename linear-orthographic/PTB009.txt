@@ -1,4 +1,4 @@
-TOI035	proprio una turineisa
+TOI035	# proprio una turineisa
 TOR001	u~ una delle pochissime
 TOR003	mhmh
 TOI035	mh è vero
@@ -51,7 +51,7 @@ TOR001	okay
 TOI035	perché qui
 TOR003	ogni tanto
 TOI035	mi piace sentire quelli che parlano il vecchio torinese
-TOI035	cerea madamin
+TOI035	# cerea madamin
 TOR003	ci sono
 TOI035	ma io li sto a sentire perché proprio mi piace
 TOI035	sentire il vecchio torinese
@@ -655,7 +655,7 @@ TOI035	c'era secondo chi
 TOI035	perché io non avevo antipatia per gli s~ i meridionali
 TOI035	ma tanti come dico c'erano i cartelli non si affitta ai meridionali
 TOR001	mh mh mh
-TOI035	adesso ancura grassie
+TOI035	# adesso ancura grassie
 TOR003	eh sì adesso al~ sono altri che
 TOI035	eh
 TOR003	adesso si è spostata su altri la
@@ -668,14 +668,14 @@ TOI035	una volta si parlava piemontese da per tutto
 TOR001	eh eh
 TOI035	mia nonna parlava quel torinese che era diverso dal piemontese
 TOI035	assomigliava più al francese
-TOI035	con le sue sorelle maman
+TOI035	# con le sue sorelle maman
 TOI035	e s~ parlavano questo torinese che era molto bello
 TOR001	mh mh mh mh mh
 TOI035	mh
 TOR001	e adesso
 TOI035	eh adesso non si va più nei negozi
 TOR001	xxx
-TOI035	a bundì madama cuma c'a va eh no
+TOI035	# a bundì madama cuma c'a va eh no
 TOI035	anche se probabilmente molti gestori non sono piemontesi
 TOI035	insomma si son mescolati molto
 TOR001	mh mh mh mh
@@ -929,8 +929,8 @@ TOI035	sì era una zona che non c'era un granché non
 TOI035	xxx
 ???	buongiorno
 TOI035	buongiorno
-TOR003	buongiorno
 TOR001	salve
+TOR003	buongiorno
 TOI035	poi
 TOI035	un pochino la barriera è migliorata han fatto qualche casa nuova
 TOI035	han messo qualche negozio perché prima era una zona anche tanti artigiani
@@ -1157,14 +1157,14 @@ TOI035	tant'è vero che una volta
 TOI035	hanno fatto il pranzo non so dei cinquant'anni non so si son trovati
 TOI035	e a me piaceva servire perché son sempre stata un tipo che mi piace far qualcosa
 TOI035	han detto a mio papà
-TOI035	ma c'a i cumpra n ostu a sta fia
+TOI035	# ma c'a i cumpra n ostu a sta fia
 TOI035	le compri un'osteria a questa ragazza
 TOR001	e ti sarebbe piaciuto
 TOI035	eh beh insomma era fuori dai nostri dai nostri abitudini
 TOR001	eh certo
 TOI035	non mi piaceva
 TOI035	lì c'era tutta questa mi ricordo versavo il vino
-TOI035	ma pila nen per el col la buta
+TOI035	# ma pila nen per el col la buta
 TOI035	la prendevo non la prendevo nel modo giusto
 TOR003	ah ti dicev~
 TOI035	non dovevo prender dal collo ma dal dietro
@@ -1179,8 +1179,8 @@ TOI035	ci sono delle differenze una volta ho sentito una conferenza
 TOI035	xx
 TOI035	per esempio il falegname
 TOI035	dicono
-TOI035	al minusié
-TOI035	el el f~ el fabosc non mi ricordo
+TOI035	# al minusié
+TOI035	# el el f~ el fabosc non mi ricordo
 TOI035	ha tanti modi
 TOR001	diversi
 TOI035	addirittura nello stesso territorio
@@ -1210,8 +1210,8 @@ TOI035	arrivo
 TOI035	e
 TOI035	prendo i miei salami li metto in due borse che mio papà aveva due borsoni neri
 TOI035	poi ritorno prendo il treno e mi guarda~ diceva
-TOI035	ma sta fia
-TOI035	dan se burse neire
+TOI035	# ma sta fia
+TOI035	# dan se burse neire
 TOI035	porta qualco~
 TOI035	dentro la borsa nera si chiamava la borsa nera
 TOR001	sì

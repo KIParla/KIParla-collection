@@ -30,7 +30,7 @@ PKP048	come
 PKP048	valentina cosa fai a scuola pappa
 PKP040	la merenda
 PKP048	gioia
-PKP039	è pigghiato vedi eh il fuoco
+PKP039	# è pigghiato vedi eh il fuoco
 PKP040	è andato
 PKP040	mh ha preso il fuoco
 PKP048	ma sto cristiano non capisco se non c'ha collo se ha le spalle più alte del collo
@@ -207,7 +207,7 @@ PKP040	il sole non è mica xx
 PKP041	ho letto che in veneto è la festa dei fidanzati
 PKP048	ah sì
 PKP048	e allora vai x paese vai là eh
-PKP040	invece qua si dice santa lucia tanta la notte e tanta la dia
+PKP040	# invece qua si dice santa lucia tanta la notte e tanta la dia
 PKP040	allora siccome gli mando il pupazzo
 PKP040	allora giulia
 PKP040	e lui auguri giulia
@@ -224,7 +224,7 @@ PKP048	sai ma quando io
 PKP039	con le categorie professionali del tennis
 PKP039	tutta sta ripresa sto anno sabbatico
 PKP039	ma non vuole
-PKP040	sta male pa'::
+PKP040	sta male pa
 PKP040	deve fare un'altra operazione
 PKP040	ma lui stava non stava mh
 PKP040	l'hanno messo all'ospedale xxx
@@ -310,7 +310,7 @@ PKP041	eh
 PKP040	eh
 PKP040	per uno basta
 PKP041	stavo dicendo gli amici miei
-PKP041	quando sono tornati da milano samo sentito un freddo assurdo
+PKP041	# quando sono tornati da milano samo sentito un freddo assurdo
 PKP040	beh che le case di milano sono più calde e le case loro
 PKP048	senti te ne ho fatto abbastanza
 PKP048	tua madre te lo fa i zucchino e ti ha xxxxxxxx
@@ -388,7 +388,7 @@ PKP040	che quello di sopra ha gia' in messo la messo la stella prima di lei
 PKP040	oh ha detto
 PKP048	ha detto xxxx
 PKP040	ha lanciato il guanto della sfida
-PKP048	ma dappertutto le batterie errano nelle scale niel del la porta ma anche troppo esagerata
+PKP048	ma dappertutto le batterie erano nelle scale niel del la porta ma anche troppo esagerata
 PKP040	lo è sempre stata
 PKP048	sempre sì sempre stata
 PKP048	e mia madre era così
@@ -494,7 +494,7 @@ PKP040	è stitica
 PKP041	i pop corn
 PKP041	perché una volta fece una figuraccia
 PKP041	che sbagliò gruppo di whatsapp e scrisse nel guppo di whatsapp della persona di cui stava sparlando
-PKP040	uh GESÙ
+PKP040	uh gesù
 PKP041	e mi vado a prendere i pop corn così gl~ glieli butto in testa
 PKP040	xxx
 PKP041	a vabbè devo mettere tante tante cosette così che sono tutte le caratteristiche che ci fanno ridere
@@ -604,9 +604,9 @@ PKP039	va bene
 PKP039	eh sì
 PKP048	per la xxxx no
 PKP039	xxxx
-PKP040	chiederemo anche vah se telefoniamo già da qua
+PKP040	chiederemo anche va se telefoniamo già da qua
 PKP039	un servizio xxxx
-PKP041	ma sono stati quiddro xxx la crepa
+PKP041	# ma sono stati quiddro xxx la crepa
 PKP041	ti ricordi la cre~
 PKP041	no non quella che si fece da sola eh vah quella quando
 PKP040	sbattuto la porta
@@ -654,7 +654,7 @@ PKP040	la regalai ai venticinque anni di matrimonio
 PKP040	a me e a papà
 PKP041	ma chi
 PKP040	zia mariella chi
-PKP040	a papà lu braccialetto
+PKP040	# a papà lu braccialetto
 PKP041	ma che stai dicendo
 PKP039	a me il braccialetto
 PKP040	sì
@@ -678,8 +678,8 @@ PKP048	deve andare con le cose sue xxx
 PKP040	eh andrà da lei
 PKP048	ma la fasc
 PKP040	parcheggiare in centro fare
-PKP040	mh
 PKP048	mh
+PKP040	mh
 PKP040	m'han dato io il xx
 PKP048	ah m'ha detto quando a sono andati dall'oculista
 PKP041	ah può essere

@@ -36,13 +36,13 @@ TOR001	grazie.
 TOI002	ma è un'intervista doppia o singola?
 TOR001	doppia doppia la fate insie[me]
 TOI002	[ti]po le iene?
+TOR001	((ride))
 TOI003	((ride))
-TOR001	((ride))
 TOI003	chi è più bravo a letto? lui.
-TOR003	((ride))
-TOI002	((ride))
-TOR002	((ride))
 TOR001	((ride))
+TOR002	((ride))
+TOI002	((ride))
+TOR003	((ride))
 TOI003	e::h devo crocettare gli ultimi due [quadratini, giusto]?
 TOI002	[tutto sì, crocetta e firma] dai xx (minchia) non finiamo più
 TOR001	[vai vai]
@@ -56,8 +56,8 @@ TOR001	e:hm le abitudini di giovani (.) lavoratori torinesi quindi gli argomenti
 TOI002	okay
 TOR001	bene quindi iniziamo che lavoro fate?
 TOI003	operaio.
-TOI002	[io metalmeccanico]
 TOR001	[mh mh]
+TOI002	[io metalmeccanico]
 TOI003	[°xxxx°]
 TOR001	okay
 TOR001	da quanto tempo?
@@ -67,10 +67,10 @@ TOI003	quattro anni
 TOR001	ah caspita un sacco
 TOI002	dodici.
 TOI003	un sacco
+TOR002	((ride))
+TOI002	((ride))
 TOR003	((ride))
 TOI003	((ride))
-TOI002	((ride))
-TOR002	((ride))
 TOR001	((ride))
 TOI003	[x]
 TOR001	[in] cosa consiste il lavoro, cioè cosa fate?
@@ -108,20 +108,20 @@ TOI002	no io gestisco cantieri sto sui cantieri (.) [noi] siamo: un'azienda fami
 TOR001	[okay]
 TOR001	okay
 TOI002	mio cugino:: è in un ufficio e segue la parte amministrativa e io (s~ s~) gestisco i cantieri
-TOI003	[è nato] con la camicia pratica[(mente)]
 TOR001	[(okay)]
+TOI003	[è nato] con la camicia pratica[(mente)]
 TOR001	((ride))
 TOR003	[però]
 TOI002	il t~ (.) il tempo lo passo (.) più che altro al bar [(no,)]
 TOI003	[acqua] gasata o xx?
-TOI002	((ride))
 TOR001	((ride))
+TOI002	((ride))
 TOI003	fa (u)na bellissima vita
 TOI003	nella prossima vita vorrei nascere mario rossi
-TOR003	((ride))
-TOI002	((ride))
-TOR002	((ride))
 TOR001	((ride))
+TOR002	((ride))
+TOI002	((ride))
+TOR003	((ride))
 TOR001	eh quindi lavori in proprio o sei dipendente in realtà l'avete già risposto
 TOI003	mh
 TOR001	tu sei dipen[dente] tu invece lavori in proprio, (.) okay
@@ -147,10 +147,10 @@ TOR001	okay va bene
 TOR002	però non sei di quelli che fan(no) le perizie per l'assicurazione,
 TOI003	m:h (.) MAGARI
 TOI003	sai quanta corruzione (.) sai quanti soldi no purtroppo no (.) hanno provato a corrompermi anche lì però,
-TOR003	((ride))
-TOI002	((ride))
-TOR002	((ride))
 TOR001	((ride))
+TOR002	((ride))
+TOI002	((ride))
+TOR003	((ride))
 TOI003	avevi era più quello che (.) che perdevi che quello che guadagnavi perché poi venivano anche gli ispettori (.) della regione
 TOR002	ah
 TOI003	eh cammuffati da:: (.) da un privato
@@ -174,15 +174,15 @@ TOI003	poi ovviamente dopo:
 TOI003	dopo: anni di magari di avvocati e processi magari (.) però (.) sei rovinato.
 TOR003	nel dubbio
 TOI003	meglio andare in messico.
-TOR003	((ride))
-TOI002	((ride))
-TOR002	((ride))
 TOR001	((ride))
+TOR002	((ride))
+TOI002	((ride))
+TOR003	((ride))
 TOR001	(nel dubbio meglio) il messico
 TOR001	tu invece hai sempre fatto lo [stesso lavoro]?
 TOI002	[eh io purtroppo] un anno ho lavorato ((ride))
-TOR003	((ride))
-TOR002	((ride))
 TOR001	((ride))
+TOR002	((ride))
+TOR003	((ride))
 TOI002	no ho fatto:: mh (.) pavimenti in resina (.) da operaio (.) [in una ditta]: (.) che conoscevamo
 TOR001	[okay]

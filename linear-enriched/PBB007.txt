@@ -186,7 +186,7 @@ BOI024	sta nella sua [zona]
 BOI025	[anche perché negli u]ltimi due anni la gente non ha neanche maga[ri affittato l'appartamento]
 BOR005	((ride))
 BOI024	[ma questa è una cosa che è successa] anche prima amo c(io)è
-BOI024	veniamo da: (.) diec'anni di crisi economica c(io)è (.) e:: hm
+BOI024	veniamo da: (.) diec'anni di crisi economica c(io)è (.) e:: mh
 BOI024	che che bologna si sia svuotata
 BOI024	e:h che mh i prezzi siano inavvicinabili in centro è così da diec'anni non è il covid
 BOI024	(secon~) io la penso così
@@ -423,8 +423,8 @@ BOI025	il parcheggio x (.) problema più grosso di bologna è il parcheggio sì
 BOR005	ma solo in centro o in generale?
 BOI025	comune di bologna se[condo] me
 BOR005	[mh]
-BOI025	[secondo me proprio com~]
 BOI024	[sì in gene]ral[e: è: è una criticità]
+BOI025	[secondo me proprio com~]
 BOI025	[comune di bologna quindi anche] la prima periferia di bologna quindi zona di corticella zone limitrofe
 BOI025	è è un problema perché non si trova se si trova
 BOI025	hanno aumentato nell'ultimo periodo anche i prezzi quindi (in)somma è sempre più: diffi[coltoso non c'è il culto del parcheggio]
@@ -454,8 +454,8 @@ BOI024	[dov]e (.) chi viene dalla non dalla periferia (.) ma dalla provincia
 BOI024	può (.) arrivare con la sua macchina
 BOI024	lasciarla (.) in una zona sicura
 BOI024	e prendere il mezzo pubblico per raggiungere il centro non ci sono queste zone di interscambio mo me ne viene in mente una che la stanno abbattendo adesso
-BOI025	[(il giuriolo)]
 BOI024	[lì dietro al (cado]ro)
+BOI025	[(il giuriolo)]
 BOI025	il giurio[lo]
 BOI024	[(eh)] il giuriolo lì c(io)è
 BOI024	in teoria quelli dovevano esser[e dovevano essere dei]
@@ -537,7 +537,7 @@ BOI024	sì p~ poverini
 BOR005	((ride))
 BOI024	che vita or[ribile]
 BOI025	[eh e qui]ndi secondo me °m:h°
-BOI024	#c(io)è subito sgamati pr[oprio] ((ride))
+BOI024	# c(io)è subito sgamati pr[oprio] ((ride))
 BOI025	[eh] ((ride))
 BOI024	io [che: (.) io che avevo la] la la la firma falsa di mamma
 BOI025	[xxxxxx]
@@ -548,9 +548,9 @@ BOI024	[a:]h è vero andava[mo al bowling noi]
 BOI025	[c(io)è noi si faceva fuga c]'era il [bowling]
 BOR005	[dove]?
 BOI024	andavamo al bowling
-BOI025	bowling di @nome[luogo]
+BOI025	bowling di
 BOR005	[era in cen]tro?
-BOI024	in @nomeluogo
+BOI024	in
 BOR005	°ah vicino casa mia°
 BOI024	sì (.) non girava bella gente al [bowling]
 BOI025	[no br]uttissima
@@ -590,8 +590,8 @@ BOI025	mh
 BOI024	che non ha mangiato al flower burger
 BOR005	buonissimo flower bur[ger]
 BOI024	[mh] okay
-BOI025	((ride))
 BOI024	stendiamo un velo pietoso su flower burger
+BOI025	((ride))
 BOI024	però prima di andare lì
 BOI024	eravamo in centro (.) vicino all'osteria dell'orsa
 BOI024	io ho notato
@@ -617,7 +617,7 @@ BOI024	è ovvio che
 BOI024	la smorzi la vita notturna per quello ti sto dicendo che il centro è vuoto
 BOI024	perché se tu all'una in centro in via del pratello
 BOI024	tiri giù le serrande la gente non ci va
-BOI024	<non> <noi> io mi ricordo che
+BOI024	<nonnoi> io mi ricordo che
 BOI024	quando::
 BOI024	xx quando uscivo il sabato sera
 BOI024	a volte mangiavo
@@ -775,8 +775,8 @@ BOI024	c'era anche quello che ti diceva aiu:tami che so:no messo ma:le ((ride))
 BOR005	((ride))
 BOI024	questo in via ugo ba[ssi]
 BOI025	[c'era la] contro:lla
-BOI025	[xxx]
 BOI024	[c'era la] donna dei fio:ri
+BOI025	[xxx]
 BOR005	lo sai che la controlla è in carcere?
 BOI024	per[ché]?
 BOI025	[come] è in carcere,
@@ -790,8 +790,8 @@ BOI024	ma io non me la ricordo
 BOR005	fabrizia la controlla
 BOI025	è una che è un po squilibrata
 BOR005	((ride))
-BOI025	[ti veniva a fissare a due] centimetri dal volto
 BOI024	[non me la ricordo]
+BOI025	[ti veniva a fissare a due] centimetri dal volto
 BOI024	no non me la ricordo
 BOR005	e [xxx~ mh]
 BOI024	[c'era questo qui:]: questo:: artista di strada che suonava in via: ugo bassi
@@ -1008,8 +1008,8 @@ BOI024	[l'unica città che c'ha i portici]
 BOI024	[simili a] bologna ma non belli come i nostri torino
 BOR005	mhmh
 BOI024	torino ha anche è una città di portici anche torino
-BOI025	[però]
 BOI024	[però]:
+BOI025	[però]
 BOI025	((ride))
 BOI024	la quantità di portici che ci sono a bologna: °è::°
 BOI024	c(io)è la rende proprio speciale
@@ -1038,7 +1038,7 @@ BOI025	vivendoli tutti i giorni ti sembra normale °dici beh è normale°
 BOI025	come è giusto che sia poi quando vai effettivamente °in un'altra città dici° ma ma come
 BOI025	incredibile che non ci siano
 BOI025	quanto (.) sono comodi quelli che abbiamo a bologna
-BOI024	#o:i
+BOI024	# o:i
 BOR005	((ride))
 BOR005	bene allora
 BOR005	noi abbiamo finito <vi ringrazio molto per la [disponibili]tà>

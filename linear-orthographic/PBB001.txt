@@ -183,8 +183,8 @@ BOR001	mhmh
 BOI002	frequenti la pizzeria non tanto l'osteria ecco
 BOI002	ma le osterie di bologna si son sempre xxxx sia in via zamboni che in via del pratello una cosa
 BOR001	mhmh
-BOI002	sì
 BOR001	sì
+BOI002	sì
 BOI002	sono
 BOI002	son sempre le stesse
 BOI002	son sempre l'orsa cioè ce ne sono tante che sì
@@ -203,7 +203,7 @@ BOR001	mhmh
 BOI002	da dopo di san lazzaro
 BOI002	e poi ci siamo spostati piano piano verso via murri attra~ sì
 BOR001	mh
-BOI002	in @nomeluogo poi dopo arrivando fin qua quindi diciamo questa è
+BOI002	in poi dopo arrivando fin qua quindi diciamo questa è
 BOR001	sì
 BOR001	sì
 BOI002	da poco che abitiamo qua
@@ -1142,8 +1142,8 @@ BOR001	quando vado in pensione
 BOR001	vogl~
 BOI002	per
 BOI002	per poco per vacanza
-BOI002	sì
 BOR001	sì
+BOI002	sì
 BOI002	perché poi comunque c'hai gli affetti c'hai
 BOI002	tutto
 BOI002	però si non non per viverci

@@ -684,7 +684,7 @@ TOI078	altrimenti è sempre io parlo
 TOI078	personalmente di persone che conosco
 TOR001	mh mh mh
 TOI078	e s~ all'inizio è sempre un po'
-TOI078	tutto ciò che va che è fora via no come si dice in piemontese tutto ciò che è fuori da
+TOI078	# tutto ciò che va che è fora via no come si dice in piemontese tutto ciò che è fuori da
 TOR001	mh mh
 TOI078	i i canonici quello che fanno tutti gli altri
 TOR001	mh mh
@@ -1048,7 +1048,7 @@ TOI078	pourquoi pas
 TOI078	però mh
 TOI078	però sto bene a torino ripeto
 TOR001	okay
-TOI078	detto sinceramente io sono uno di quelli bugia nen
+TOI078	# detto sinceramente io sono uno di quelli bugia nen
 TOI078	cioè nel senso che
 TOI078	eh
 TOI078	mi piace sono credo molto in questa città comunque sia

@@ -11,8 +11,8 @@ BOR036	sugli abitanti della città (no,)
 BOI107	mh[mh]
 BOR036	[voi], comunque, siete: (.) di qui
 BOR036	o: no?
-BOI107	[nati qui],
 BOI106	[provincia] cioè nel comune di bolo(gna)
+BOI107	[nati qui],
 BOI106	cioè proprio provincia di bologna
 BOR036	provincia di bolo[gna],
 BOI106	[perché] io abito a granarolo
@@ -56,8 +56,8 @@ BOI107	della ca[sa dei] suoi genitori che si era: liberata,
 BOI106	[sì]
 BOI107	perché prima era in affitto,
 BOR036	a:h okay
-BOI107	[e quindi::
 BOI106	[sì prima era in affitto], poi: col covid:
+BOI107	[e quindi::
 BOI106	questa coppia che era dentro era venuta a abitare a bologna,
 BOI106	e: io: mi sono invece spostato lì, °perché:° col covid poi sempre in casa con i miei ((ride))
 BOI106	stava [diventan]do abbastanza:
@@ -153,7 +153,7 @@ BOI107	>non so< anche solo: pensare di: spostarsi e andare a lavoro:
 BOI107	(poi) adesso lavoro in due ospedali diversi quindi,
 BOI107	e:hm
 BOI107	se devo andare:
-BOI107	per dire al @nomeluogo so che ci metterò quaranta minuti se devo andare al @nomeluogo
+BOI107	per dire al so che ci metterò quaranta minuti se devo andare al
 BOI107	non è pensabi[le andare:]
 BOR036	[no il bellaria è lontano].
 BOI107	eh
@@ -240,12 +240,12 @@ BOI107	e quindi::: ho continuato, a fare in realtà, l'attività che facevo:,
 BOI107	e: in un ambulatorio:
 BOI107	m:h di neuropsichiatria infantile,
 BOI107	e:hm:
-BOI107	adesso (.) col fatto che quest'ambulatorio dal @nomeluogo si è spostato al @nomeluogo,
+BOI107	adesso (.) col fatto che quest'ambulatorio dal si è spostato al
 BOI107	e:: mi hanno splittato su due [xx]x >e quindi< da un lato, c'è:
 BOR036	[okay]
-BOI107	quest'ambulatorio al @nomeluogo
+BOI107	quest'ambulatorio al
 BOI107	e dall'altro invece:, (.) ambulatorio obesità:: °m:h° diabete:
-BOI107	e::h altre patologie: xx sidrome me~ di sindrome metabolica, è al @nomeluogo
+BOI107	e::h altre patologie: xx sidrome me~ di sindrome metabolica, è al
 BOI107	quindi, sono xx lì da una parte, xx dall'al(tra)
 BOI107	e::hm (.) motivo per cui: mh
 BOI107	adesso sarebbe utile: trovare un:
@@ -268,8 +268,8 @@ BOR036	tu quindi hai lavorato, e fatto la magistrale.
 BOI107	((ride)) [è stata lunga]
 BOR036	[perché io pensavo che tu stess]i:
 BOR036	che tu stessi già lavorando e basta.
-BOI107	[no no no (.) ho fa]tto entrambi.
 BOR036	[cioè (le) m:h]
+BOI107	[no no no (.) ho fa]tto entrambi.
 BOI107	che poi (.) m:h
 BOI107	per fortuna, che x [lavora]ndo,
 BOI106	[prima, la magistrale].
@@ -338,7 +338,7 @@ BOI106	[sia scriver]lo, che::
 BOR036	io non so proprio cosa fai:
 BOI106	io lavoro in un'azienda di macchine automatiche,
 BOI106	a rastignano,
-BOI106	si chiama @nomeazienda,
+BOI106	si chiama
 BOI106	e: faccio: il tecnico commerciale
 BOR036	ah
 BOI106	da: circa due anni
@@ -555,8 +555,8 @@ BOR036	[(la si) potrebbe] fare sì
 BOI107	((ride))
 BOR036	(sì sì sì)
 BOR036	quindi, comunque, il piatto forte è quel[lo. sì]
-BOI107	[sì]
 BOI106	[sì]
+BOI107	[sì]
 BOR036	sì sì e anche, [da x]
 BOI106	[ma il tort]ellino, (è il) piatto forte forse un po':
 BOI106	((ride)) in tutti i mesi dell'anno perché (anche) a ferragosto (li facciamo) i tortellini in brodo ((ride))
@@ -866,7 +866,7 @@ BOR036	(o)kay
 BOI107	mh
 BOR036	(o)kay
 BOI106	e:h (.) sì
-BOR036	E (.) ci siete stati per: turismo insomma: (.) [] per adesso
+BOR036	E (.) ci siete stati per: turismo insomma: (.) per adesso
 BOI106	[sì]
 BOI107	(io) [xx]
 BOI106	[tempo] fa ((ride)) (.) tropp[o tempo fa forse]
@@ -954,8 +954,8 @@ BOR036	ma,
 BOR036	perché poi i (.) i greci io non non non conosco nessuno,
 BOR036	e a volte, secondo me, abbiamo la tentazione di pensare che sono simili a noi,
 BOR036	perché siamo [xx]
-BOI107	[MH]
 BOI106	((ride))
+BOI107	[MH]
 BOR036	però, [non lo so]
 BOI107	[mediterranei]
 BOR036	n~
@@ -1001,8 +1001,8 @@ BOI107	[però ogni tanto],
 BOI107	e:h (.) si riusciva >anche< a organizzare per a:h
 BOI107	°non so° fare: (.) una sera, abbiam fatto una cena insieme italiana
 BOI107	e gli ho cucinato io qualcosa
-BOI107	[e:] (.) gli >avevo< fatto la cotoletta >alla< bolognese,
 BOI106	[>cos'avevi< fatt(o)]
+BOI107	[e:] (.) gli >avevo< fatto la cotoletta >alla< bolognese,
 BOI107	[che poi non è vero era solo] cotoletta non era col prosciutto, perché [non (potevo:)]
 BOI106	[addirittura] ((ride))
 BOR036	[c(io)è hai impana]to: propr[io:]
@@ -1086,8 +1086,8 @@ BOI107	va un po' a mode magari c'è la cosa che va: tantissimo in quel momento l
 BOI107	e allora la propone anche lui
 BOR036	beh sì [x giusto]
 BOI107	[ed effettivamen]te, è molto:,
-BOI107	[molto buono]
 BOR036	[(°giusto giusto°)]
+BOI107	[molto buono]
 BOR036	e (in)vece, mi dicevate che (.) nel (.) (in)somma
 BOR036	vi piace viaggiare mi sembra di: di aver capito
 BOR036	che (.) che viaggi avete fatto: che vi son piaciuti particolarmente
@@ -1129,8 +1129,8 @@ BOR036	ed è visibile
 BOI107	mhmh
 BOI106	oddio visibile:
 BOI106	visibile per me no
-BOI107	[eh]
 BOI106	[nel senso] che cioè c'hanno poi (>quando tu gli abbiam fatto domande<) spiegato un po': questa casta: non può: ricevere cibo fatto magari da una casta inferiore, e:h ci sono i bramini che: m:h
+BOI107	[eh]
 BOI106	fanno (po~) determinate cose:, e:h m:h vivono di questo, vivono di donazioni
 BOI107	mhmh
 BOI106	e::h ci sono i: l'ultima casta che non può muoversi non può: diciamo: sposare una casta inferiore
@@ -1162,8 +1162,8 @@ BOR036	ma m:h mi sembrate invece: [abbastanza tranquilli]
 BOI107	[no su quello] sì
 BOI107	su quello tranquillo infatti non non era [non era il peggio]
 BOI106	[purtroppo è così]
-BOI107	((ride))
 BOI106	cioè
+BOI107	((ride))
 BOI106	purtroppo sì sicuramente: è molto sporca: loro sotto alcuni aspetti sono: incivili
 BOI106	perché (.) qualsiasi cosa che non gli serve la buttano: così
 BOR036	mh cioè da da quel punto di vista [però]
@@ -1285,18 +1285,18 @@ BOR036	n~ non sono cioè non non sono musulmani però [non c'entra]
 BOI107	[no] sono in[dù]
 BOR036	[sì]
 BOR036	infatti
-BOI107	[ce ne sono ce ne sono] anche di musulma[ni]
 BOI106	[però ci sono anche i musulmani eh]
+BOI107	[ce ne sono ce ne sono] anche di musulma[ni]
 BOI106	[ci] sono anche i cristiani
-BOI107	[sì esatto c'è] una minoranza cristiana e una musulmana
 BOI106	x
+BOI107	[sì esatto c'è] una minoranza cristiana e una musulmana
 BOI107	la maggior parte però [sono indù almeno in] quella: in quello stato lì
 BOI106	[però sono indù]
 BOI106	anche un po' buddisti credo siano: verso la cina
 BOR036	mh sì beh sì (.) [ci sta] sìsì
 BOI106	[nord est (no)]?
-BOI107	[sì]
 BOI106	[però] la maggioranza è indù sì
+BOI107	[sì]
 BOR036	però ev~ evidentemente è lo stesso
 BOI107	sì: °sì sì°
 BOR036	e [in marocco no invece non è lì:]
@@ -1358,8 +1358,8 @@ BOI107	[sì]
 BOI107	sì
 BOR036	perché [io]
 BOI107	[non ci fai:]
-BOI107	[caso]
 BOR036	[sì]
+BOI107	[caso]
 BOI107	non ci fai caso e dici beh tanto è fa caldo nel senso [okay] mi metto una maglietta ma poi non era sta cosa [che:]
 BOR036	[sìsì]
 BOR036	[no no]
@@ -1390,16 +1390,16 @@ BOR036	come in [marocco]
 BOI106	[come] in marocco [è vero]
 BOR036	[sìsì]
 BOR036	tantissimo
-BOI107	[ecco in effetti sia in marocco]
 BOI106	[sì (ti~ ti aggrediscono) purtroppo sì è ve~] sia in marocco che [in india: è pesante (questa cosa)]
+BOI107	[ecco in effetti sia in marocco]
 BOI107	[che in india cioè le occhiate] sono: sono continue continue
 BOI106	difficil[mente ti riesci] a integrare nella: [nelle persone che hai intorno resti comunque:]
 BOI107	[e:h mh]
 BOI107	[perché: non non riesci]
-BOI107	[esterno sì]
 BOI106	[diverso esterno]
-BOI107	[e:h]
+BOI107	[esterno sì]
 BOI106	[sanno già cosa sei] e quindi:
+BOI107	[e:h]
 BOI106	s~ cioè pensano solamente a: poter ricavare [qualcosa da te] nel senso [quindi]
 BOR036	[qualcosa]
 BOI107	[sì]
@@ -1411,8 +1411,8 @@ BOI106	[sì e molto] faticoso per me
 BOI107	mh
 BOI106	mamma [mia]
 BOR036	[in] india
-BOI107	[sì]
 BOI106	[in india]
+BOI107	[sì]
 BOI107	in marocc[o: sì ma meno]
 BOI106	[secondo me siamo anche cascati] ((ride))
 BOR036	ah [io non mi] immagino allora [perché già] in marocco io l'avevo un po' sofferto
@@ -1477,17 +1477,17 @@ BOI107	[mh]
 BOR036	e:h
 BOI107	sì non siamo abituati a [questo]
 BOI106	[te lo fai:] te lo fai andare giù
-BOI107	[si anche perché] non è che puoi: chiedere scusi si si tolga sta a me
 BOR036	x
+BOI107	[si anche perché] non è che puoi: chiedere scusi si si tolga sta a me
 BOI106	no come glielo dici ((ride)) [come glielo dici]
 BOI107	come glie[lo dici]
 BOI107	[infatti]
 BOR036	[no: la] cosa del pacchetto: mi è piaciuta
 BOI107	((ride))
-BOI107	ma tra l'altro e:h non mi ricordo chi ci ha raccontato
 BOI106	((ride))
-BOI107	[che]
+BOI107	ma tra l'altro e:h non mi ricordo chi ci ha raccontato
 BOI106	[perché] sia quello che ci ha fermato il primo, e il secondo, che quello del tuctuc l'autista,
+BOI107	[che]
 BOI107	eh
 BOI106	lavoravano tutti per quest[o: questa agenzia]
 BOR036	[eh certo °sìsì°]
@@ -1522,8 +1522,8 @@ BOI107	no alla [fine:] abbiamo trovato una soluzione alternati[va]
 BOI106	[no]
 BOI106	[abbiamo] chiamato e:h ci siamo fatti spostare in una sorta di villaggio
 BOI106	che però era in una situazione veramente:
-BOI107	[inabi~ (l'abi) per i lo]cals
 BOI106	[cioè fuori]
+BOI107	[inabi~ (l'abi) per i lo]cals
 BOI106	[il villaggio per] i locali per gli indi[ani]
 BOR036	[sì]?
 BOI107	[esa]tto esatto
@@ -1534,8 +1534,8 @@ BOI106	abbiam fatto il deserto in marocco e abbiamo visto una certa situazione
 BOI106	cioè e:h m:h non so delle tende, perse in mezzo alle: alle dune:, e:h questa cena magari nella: nella tenda più grande tutti insieme,
 BOI106	e:h tutto insomma organizzato:
 BOI106	e invece (.) questo villaggio: per per locals ((ride))
-BOI107	((ride))
 BOI106	sembrava tipo la sagra della castagna di ((ride))
+BOI107	((ride))
 BOR036	(beh è) fantastico
 BOI106	la sagra della castagna di: di calderina sembrava
 BOI107	((ride))
@@ -1553,8 +1553,8 @@ BOI106	due indiani che passavano mi fa m:h non ti conviene forse
 BOI107	((ride))
 BOI106	poi dopo andando un po' avanti ho visto vetri, °plastica°, °carta°
 BOR036	tosto
-BOI107	[in quel se]nso è: disorganizzato cioè non disorgan[izzato sporco nel senso che comunque] loro [non hanno nes]sun tipo di cura del [del luogo]
 BOI106	[sì]
+BOI107	[in quel se]nso è: disorganizzato cioè non disorgan[izzato sporco nel senso che comunque] loro [non hanno nes]sun tipo di cura del [del luogo]
 BOI106	[sì (pure)]
 BOR036	[sìsì]
 BOI106	[vabbè]
@@ -1565,14 +1565,14 @@ BOI107	infatti c'è una campagna che stavano portando avanti:
 BOI107	che stava portando avanti: [il governo non so il presidente]
 BOI106	[il presidente sì il governo]
 BOI107	per tenere: le città e: (cioè) i luoghi più puliti perché loro non hanno:
-BOI107	#non hanno un pattume [(un rusco) dove mettere le] cose cioè e:h
+BOI107	# non hanno un pattume [(un rusco) dove mettere le] cose cioè e:h
 BOI106	[non hanno un pattume]
 BOI106	non ce l'hanno
 BOI107	buttano tutto così
 BOI107	incredibile
 BOI106	tutto così
-BOI107	[sì]
 BOR036	[però] comunque a proposito della m:h
+BOI107	[sì]
 BOI107	x
 BOR036	gente che è d'acco[rdo:]
 BOI106	[mh]
@@ -1598,8 +1598,8 @@ BOI106	ah lì cer[cano x] ognuno deve dare lavoro: [all'altro anche lì in india
 BOR036	[sì sì sì]
 BOR036	[sì esatto esatto esatto] sì sì
 BOI106	ognuno deve avere il suo: spaziettino: la sua fetta
-BOI107	[che ride]re
 BOR036	[eh beh]
+BOI107	[che ride]re
 BOI106	è vero anche questo
 BOR036	e è una cosa [fanta]stica
 BOI107	[(già)]
@@ -1625,8 +1625,8 @@ BOR036	[cioè proprio a vivere]?
 BOR036	cioè più di di qua [perché secondo me in ita]lia c'è abbastanza
 BOI107	[secondo me sì]
 BOI107	mh
-BOI107	[sì però lì:] secondo me di più [cioè non lo so] (beh) un po' anche:
 BOR036	[o no]?
+BOI107	[sì però lì:] secondo me di più [cioè non lo so] (beh) un po' anche:
 BOI106	[eh lì è proprio:]
 BOI106	[sì di più]
 BOI107	non so dalle persone a cui abbiamo parlat[o: alla fine: mh]
@@ -1639,6 +1639,6 @@ BOI107	sì
 BOI106	sì
 BOR036	se è una costrizione: insomma
 BOI107	un po' meno
-BOI107	((ride))
 BOR036	infatti
+BOI107	((ride))
 BOR036	va bene dai

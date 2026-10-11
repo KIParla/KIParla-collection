@@ -86,7 +86,7 @@ BO119	personale
 BO120	personale sì
 BO119	e quanto sei stato in quella
 BO120	mh
-BO120	quanto sono stato in casa in via @nomeluogo?
+BO120	quanto sono stato in casa in via
 BO120	due anni
 BO119	non te lo ricordi
 BO120	due anni pen~ due anni due anni sì due anni no due anni sì
@@ -179,8 +179,8 @@ BO120	sempre là è la nostra casa
 BO119	state tutto~ tutta l'estate
 BO120	è la nostra casa~ la dimora estiva della famiglia
 BO120	perché anche lì i miei nonni costruirono una casa
-BO120	dove~ un palazzo dove poter stare tutti insieme come hanno fatto per @nomeluogo così hanno fatto per
-BO120	per @nomeluogo che è il posto
+BO120	dove~ un palazzo dove poter stare tutti insieme come hanno fatto per così hanno fatto per
+BO120	per che è il posto
 BO120	dove andiamo noi l'estate
 BO119	ed è lontano
 BO120	da la mia città è un'ora di distanza

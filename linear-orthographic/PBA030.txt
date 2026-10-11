@@ -8,8 +8,8 @@ BOR031	okay
 BOR031	mhmh
 BOI115	più vicino a ganzanigo comunque sempre una frazione di medicina
 BOR031	ah okay
-BOR031	mhmh
 BOI115	comunque sì sempre a medicina
+BOR031	mhmh
 BOR031	okay e quindi avete frequentato le scuole qua a medicina o xxxx
 BOI115	sì il liceo tutti e due a medicina il liceo scientifico e
 BOI116	si xx
@@ -213,8 +213,8 @@ BOR031	vi co~ considereste bologna come una città dove magare poter andare a vi
 BOR031	cioé se vi immaginate di potervi trasferire lì eventualmente
 BOI115	no io sinceramente no
 BOR031	non vi piace
-BOR031	okay
 BOI115	ma proprio città città non mi piace vivere
+BOR031	okay
 BOR031	ah
 BOI115	perché è troppo caotica secondo me preferisco stare un po' in periferia
 BOR031	okay
@@ -267,8 +267,8 @@ BOR031	quello sì sicuramente sì
 BOR031	mhmh
 BOR031	no poi c'è da considerare che col tempo comunque sta anche cambiando bologna ehm
 BOR031	da quello che so prima era anche meno caotica non so se poi col tempo cambierà questa cosa
-BOR031	però
 BOI115	non mh non lo sapevo
+BOR031	però
 BOR031	sì mh tanti turisti tante
 BOR031	cioè mh
 BOR031	che prima non c'erano effettivamente
@@ -283,8 +283,8 @@ BOI115	mh non ci sono magari troppe
 BOI115	attrazioni per noi ragazzi di vent'anni
 BOI116	è un po' s~ è un po' spenta è un po' spenta
 BOI115	sì
-BOR031	okay
 BOI115	cioè mh sì è un po' spenta
+BOR031	okay
 BOI115	però comunque
 BOI115	mh una volta che hai
 BOI115	appunto vent'anni
@@ -303,8 +303,8 @@ BOR031	ah
 BOI115	sì sì esatto
 BOI116	sì
 BOR031	eh beh a te che piace il verde
-BOR031	é buona cosa
 BOI115	esatto esatto
+BOR031	é buona cosa
 BOR031	ehm
 BOR031	sì cioè quindi
 BOR031	mh nel senso mh magari l'avete cam~ vista cambiare medicina siccome avete sempre vissuto qua
@@ -338,7 +338,7 @@ BOI115	sì
 BOI116	sì sì sì l'hanno l'hanno rinnovato per~ hanno cambiato gestione
 BOR031	okay
 BOI115	esatto
-BOI116	x rinnovato da quanti tre anni mh
+BOI116	xxxx rinnovato da quanti tre anni mh
 BOI115	esatto
 BOI115	mhmh
 BOI115	sì da mh non so da quanto però da poco comunque prima ad esempio io non ci andavo quasi mai al bar della piscina adesso invece
@@ -437,8 +437,8 @@ BOI115	sì ci sono andata con mia mamma
 BOR031	ah e c~ c~ cosa ne pensi ti è piaciuto
 BOI115	bello mh
 BOI115	bello più che altro quando arrivi in cima
-BOR031	mhmh
 BOI115	mh perché poi
+BOR031	mhmh
 BOI115	tutta la gradinata dopo un po' stanca cioè è un po' diciamo pallosa
 BOR031	eh sì sì è faticoso
 BOR031	okay
@@ -625,8 +625,8 @@ BOR031	okay okay
 BOR031	no mh ci sta
 BOR031	e ci sono eh dei locali particolari
 BOR031	eh per uscire tipo la sera non so se se mai se andate mai a bologna la sera
-BOR031	xxx
 BOI115	ehmh
+BOR031	xxx
 BOI115	poco
 BOR031	mhmh
 BOI115	cioè eh
@@ -689,8 +689,8 @@ BOR031	okay
 BOI115	esatto
 BOR031	bello
 BOI115	e comunque sì imola mi piace x
-BOR031	okay
 BOI115	anche più mh bellina
+BOR031	okay
 BOR031	mhmh e avete gli amici lì non lo so perché dato che fate pallavolo a sesto imolese
 BOI115	sì sì sì ci sono alcuni che abitano a ferrara
 BOR031	okay
@@ -774,8 +774,8 @@ BOI116	sì
 BOR031	eh è strano
 BOR031	cioé non hanno tolto le cose è soltanto spe~ cioé non attiva
 BOI115	no
-BOR031	strano
 BOI115	sì sì
+BOR031	strano
 BOI115	la stanno usando come deposito degli autobus come si dice
 BOI116	stazione degli autobus
 BOI115	stazione degli autobus
@@ -819,8 +819,8 @@ BOR031	modifiche~ cioé che non vi piacciono magari
 BOR031	eh per i come per come è organizzata per come non lo so mh
 BOI115	mh
 BOR031	certi aspetti
-BOR031	eh
 BOI115	mh mh mh
+BOR031	eh
 BOR031	ma se non
 BOI115	ci devo pensare
 BOR031	okay
@@ -1068,8 +1068,8 @@ BOI115	l'anno scorso invece
 BOI115	con ctf
 BOR031	okay
 BOI115	son dovuta andare al navile
-BOR031	ah sì
 BOI115	ehm è tutta la struttura nuova molto bella eh cioé davvero bellissima
+BOR031	ah sì
 BOI115	si vede che è nuova però è più difficile da raggiungere sopratutto con gli autobus
 BOR031	mh
 BOR031	ah non è collegata bene
@@ -1165,8 +1165,8 @@ BOI116	xx
 BOI116	con la cipolla caramella~
 BOR031	ah beh perfetto
 BOI116	la cipolla caramellata molto cotta mh xxx lasciata molto andare però
-BOR031	ah buona
 BOI115	mh
+BOR031	ah buona
 BOR031	okay
 BOI115	sì
 BOI115	che si mette di solito dentro i panini o le piadine
@@ -1429,7 +1429,7 @@ BOI115	solo che dopo cinque mesi eh son venuta a medicina
 BOR031	non eh
 BOR031	non
 BOI115	no no no oltre che eravamo in trenta in classe
-BOR031	osta
+BOR031	# osta
 BOI115	ed eravamo tantissimi
 BOR031	tantissimi sì
 BOI115	e poi gli insegnanti bravi ma non si facevano rispettare

@@ -1,7 +1,7 @@
 BOR030	okay
 BOR030	quindi inizierei chiedendoti in che zona di bologna vivi
 BOI091	attualmente a sala bolognese che è un paesino di ottomila persone vicino a bologna
-BOI091	prima eh vivevo invece in @nomeluogo
+BOI091	prima eh vivevo invece in
 BOI091	che è un
 BOI091	un quartie~ mh mh eh fa parte del quartiere savena vicino a san lazzaro
 BOR030	ok~
@@ -23,14 +23,14 @@ BOI091	amici della scuola mh non li frequento quasi più ci sentiamo ogni tanto
 BOI091	e
 BOI091	una mia carissima amica delle scuole che si chiama arianna sì è ancora lì ancora
 BOI091	non in saragozza ma ehm
-BOI091	in vicino @nomeluogo quartiere savena le a lei abita lì
+BOI091	in vicino quartiere savena le a lei abita lì
 BOI091	e veniva a scuola con me
 BOR030	ecco
 BOR030	d'accordo
 BOR030	mentre ritornando alla zona attuale in cui vivi eh hai pareri ti piace questa zona
 BOI091	diciamo che a livello di traffico l'adoro
 BOI091	nel senso che quando vado a trovare mia mamma che abita
-BOI091	ancora in @nomeluogo ehm il traffico è tremendo e
+BOI091	ancora in ehm il traffico è tremendo e
 BOI091	mentre invece qui
 BOI091	è molto più tranquillo
 BOI091	però c'è il contro che a sala bolognese c'è poco o niente a livello di
@@ -322,7 +322,7 @@ BOI091	mi piace anche il mare diciamo che non sono una fan del sole perché mi b
 BOI091	però il relax del mare mi piace molto
 BOI091	ehm
 BOI091	non sono una che passa le ore in acqua anche perché qui da noi nella riviera insomma è un po'
-BOI091	un po' diverso che magari andare che ne so a reggio calabria che c'ha dell' a~ del mare stupendo
+BOI091	un po' diverso che magari andare che ne so a reggio calabria che c'ha dell'a~ del mare stupendo
 BOI091	ehm
 BOI091	quindi eh magari fare sai le delle parole crociate sotto l'ombrellone rilassarsi
 BOR030	d'accordo
@@ -486,22 +486,22 @@ BOI091	e da lì so che si vede san luca
 BOR030	va bene allora passerei alle domande invece un po' più sulla tua persona adesso
 BOI091	vai
 BOR030	ti chiedo innanzitutto che lavoro fai
-BOI091	in questo momento lavoro in @nomeazienda sono un'operatrice di call center
+BOI091	in questo momento lavoro in sono un'operatrice di call center
 BOR030	okay e da quanto tempo
 BOI091	dal novantanove ottobre novantanove
 BOR030	d'accordo
 BOR030	e hai sempre fatto questo lavoro
-BOI091	no eh prima di questo ho lavorato per due anni al @nomeluogo in centro
+BOI091	no eh prima di questo ho lavorato per due anni al in centro
 BOI091	quando ti dicevo che giravo in centro era perché lavoravo lì
-BOI091	uscita dalla scuola sono andata subito a lavorare al @nomeluogo e poi dopo un anno e mezzo due anni
-BOI091	sono andata in @nomeluogo quindi ho sempre fatto questo
+BOI091	uscita dalla scuola sono andata subito a lavorare al e poi dopo un anno e mezzo due anni
+BOI091	sono andata in quindi ho sempre fatto questo
 BOR030	d'accordo
 BOR030	e avresti mai il desiderio di cambiare magari
 BOI091	diciamo che io sono una persona ehm
 BOI091	che non ama tanto i cambiamenti quindi la paura di affrontare un cambiamento del genere così grande eh ti direi no
-BOI091	poi è chiaro che eh se c'è la necessità come al @nomeluogo un po' sai non è che
-BOI091	cioè per carità niente di male a lavorare al @nomeluogo però
-BOI091	quando poi sono andata in @nomeazienda mi son resa conto che ho ho fatto bene a farlo nonostante avessi paura comunque perché poi un anno e mezzo
+BOI091	poi è chiaro che eh se c'è la necessità come al un po' sai non è che
+BOI091	cioè per carità niente di male a lavorare al però
+BOI091	quando poi sono andata in mi son resa conto che ho ho fatto bene a farlo nonostante avessi paura comunque perché poi un anno e mezzo
 BOI091	conoscevi tutti sapevi il lavoro eh
 BOI091	e quindi ogni tanto ci vuole un po' di
 BOI091	eh
@@ -516,9 +516,9 @@ BOI091	sì
 BOI091	sì sì
 BOI091	per me sì
 BOI091	è anche vero che ehm
-BOI091	sia al @nomeluogo che in @nomeazienda
+BOI091	sia al che in
 BOI091	di persone proprio bolognesi non è che ne abbia trovate tantissime eh
-BOI091	eh in @nomeazienda c'è stata un'ondata dei padovani
+BOI091	eh in c'è stata un'ondata dei padovani
 BOI091	poi c'è stata l'ondata
 BOI091	eh dei milanesi poi c'è stata l'ondata dei napoletani
 BOI091	e dei romani c'era anche quindi insomma sono stati un po' tutti
@@ -527,7 +527,7 @@ BOR030	però in generale comunque lavorare a bologna
 BOI091	sì sì sì
 BOI091	sì sì sì sì sì
 BOI091	nonostante bologna sia una città molto cara c'è poco da nasconderci quindi
-BOI091	eh probabilmente lo stipendio che tu hai in @nomeazienda rapportato in un'altra città magari ti fa fare delle robe
+BOI091	eh probabilmente lo stipendio che tu hai in rapportato in un'altra città magari ti fa fare delle robe
 BOI091	di diverse maggiori rispetto a quelle che ti puoi permettere a bologna
 BOI091	però eh però bologna sì eh
 BOR030	bologna è bologna
@@ -572,7 +572,7 @@ BOI091	poi è vero che ci sono i posti il nuovo luna per esempio eh il posto
 BOI091	dove si potrebbe andare però
 BOI091	però si deve avere anche la compagnia per fare una cosa così
 BOR030	certamente
-BOI091	perché la devi fare in in balotta per divertirsi
+BOI091	# perché la devi fare in in balotta per divertirsi
 BOR030	mhmh
 BOR030	e più o meno quante volte a settimana esci se ne hai la possibilità
 BOI091	mh
@@ -649,7 +649,7 @@ BOI091	eh e me ne dovevo occupare anch'io però il cagnolino era di mio fratello
 BOI091	o lo chiamiamo come voglio io o io non aiuto
 BOI091	vabbè come lo vuoi chiamare nicky da nicola berti
 BOI091	allora una volta arriva l'inter a giocare a bologna
-BOI091	e andiamo con mia mamma e degli altri all' all'albergo dove c'erano i calciatori
+BOI091	e andiamo con mia mamma e degli altri all~ all'albergo dove c'erano i calciatori
 BOI091	io e un'altra ragazzina ch'eravamo piccole avevamo avuto sedici diciassette anni entriamo ci fanno entrare per andare a vedere i giocatori
 BOI091	arriva nicola berti
 BOI091	io tutta emozionata non riuscivo a parlare

@@ -12,7 +12,7 @@ PKP030	noi siamo beh (.) [cioè ci~ ci:~]
 PKP008	[a giulia],
 PKP032	[ma] il primo cos'è: i santi? i morti? [°cos'è?°]
 PKP030	[tutti i] santi
-PKP008	#>i santi< no ze i morti
+PKP008	# >i santi< no ze i morti
 PKP032	ma i ristoranti?
 PKP030	[CERTO CHE: tutti questi] che hanno il ristorante >se si vedono chiudere< un'altra volta van[no: (.) °cioè°]
 PKP008	[io ho detto a giulia]
@@ -83,7 +83,7 @@ PKP008	[no] ma lì avevi l'xxx da parcheggiare no?
 PKP030	eh per[ò::: non s~ sì cioè:]
 PKP008	[eri messo male distante]?
 PKP008	[(si può?)]
-PKP030	>alla fine< ha parcheggia[to davanti da~] davanti al locale:: ho visto che c'erano altre macchine non c'erano divieti non c'era niente c'era una specie di: ((schiocca_la_bocca)) [] mhmh marcapiede co:n tipo con i sampietrini >ho detto< boh tanto son qua al massimo vedo se mi viene a prendere ((ride)) []
+PKP030	>alla fine< ha parcheggia[to davanti da~] davanti al locale:: ho visto che c'erano altre macchine non c'erano divieti non c'era niente c'era una specie di: ((schiocca_la_bocca)) mhmh marcapiede co:n tipo con i sampietrini >ho detto< boh tanto son qua al massimo vedo se mi viene a prendere ((ride))
 PKP008	[o al panorama],
 PKP032	[uhm]
 PKP032	[ma] dove xxxxxxxx [all'inizio lato panorama o: °all'inizio?°]
@@ -109,7 +109,7 @@ PKP032	[bah]
 PKP008	[ma masche]rine? [sì] (.) e allora
 PKP030	[sì]
 PKP030	>mascherine sì<
-PKP008	l'importante è quello che non ci siano gli assembramenti (.) [] <senza masche[rina>]
+PKP008	l'importante è quello che non ci siano gli assembramenti (.) <senza masche[rina>]
 PKP030	[mhmh]
 PKP030	[esatto]
 PKP008	°perché° prima c'erano senza mascherina prima (.) [°e dopo°]
@@ -122,7 +122,7 @@ PKP008	[perché] non ti prepari per tempo massi
 PKP032	ecco qua [preparà do teglie]
 PKP008	>devi essere più< ah] che bra:vo stavolta brav[o:]
 PKP030	[((°ride°)) buono comunque]
-PKP032	#[ciò ma mentre voi in~ iniziavate a magia]re io aprivo la bottiglia xx crederghe
+PKP032	# [ciò ma mentre voi in~ iniziavate a magia]re io aprivo la bottiglia xx crederghe
 PKP008	[grazie]
 PKP008	ma in sto locale si mangiava?
 PKP030	sì volendo sì ma noi >siamo andati< dopo cena perché:
@@ -130,7 +130,7 @@ PKP032	°è anche lo stesso vino non si può x[xx°]
 PKP030	[NO NO ma bel]lo carino anche dentro è u:n °ristoran[te° un po'] irish pub
 PKP008	[uhm]
 PKP008	[a:h]
-PKP032	((ride)) []
+PKP032	((ride))
 PKP030	[stile]
 PKP008	come si chiama?
 PKP030	xxx qualcosa >'desso non mi< non mi ric[ordo perché]
@@ -144,7 +144,7 @@ PKP030	hai capito?
 PKP008	°mhmh°
 PKP008	perché se tu mi dici che è proprio stile pub
 PKP030	[sì]
-PKP008	#[quello è] na vita che ze là e [cambia sempre nome (.) ogni tanto cambia no]me
+PKP008	# [quello è] na vita che ze là e [cambia sempre nome (.) ogni tanto cambia no]me
 PKP030	[°sì°]
 PKP030	[ecco (.) ah okay] ((ride))
 PKP008	[>però] è sempre quello<
@@ -166,18 +166,18 @@ PKP032	[ma prima de paolo? prima de paolo]?
 PKP030	[capito dov'è allora]?
 PKP008	°>capito<° prima?
 PKP032	de paolo,
-PKP008	#°chi ze paolo?°
+PKP008	# °chi ze paolo?°
 PKP008	sì: prima di paolo
 PKP032	ze queo de: (.) [che vendeva] ricambi
 PKP008	°sì: prima° (.) molto prima massi
 PKP008	>paolo è quasi< a alla fine di xxxxxxxx
 PKP030	sul put cioè: corrono come dei matti no nel senso
 PKP030	effettivamente anch'io a mestre la mia città so le strade
-PKP008	((ride)) []
+PKP008	((ride))
 PKP030	[vado un po'] più sparato però insomma là ((ride)) (abbiamo) fatto due volte,
 PKP032	>guarda< che la tua città è xxxx
 PKP030	[E::H e allora] la sua sarebbe xxxx [xxxx cioè na~ <ragazzi> (i)nso]mma non esageriamo
-PKP032	((ride)) []
+PKP032	((ride))
 PKP008	[e::h (.) chiamarla città] ((ride))
 PKP008	la sua città è mestre anche se xxxx (è grosso) xxxx dai
 PKP008	no è bella (.) bella insomma
@@ -202,7 +202,7 @@ PKP030	[°buono sto vino°]
 PKP032	[mhmh]
 PKP032	è sempre quello [eh]
 PKP030	[>very go]od< e oggi lo sento più buono
-PKP032	#(eh sì) o go comprà perché sapevo che >stava finendo< quell'[altra bottiglia questa] è in offerta,
+PKP032	# (eh sì) o go comprà perché sapevo che >stava finendo< quell'[altra bottiglia questa] è in offerta,
 PKP008	[che era] ((tossisce))
 PKP032	°da dove arriva questo qua?° (.) dal salento.
 PKP030	((ride)) (.) >doveva organizzare< un pranzo co:n?
@@ -250,9 +250,9 @@ PKP032	((ride))
 PKP032	sì perché sto qua che urla:: (.) [un locale chiuso]
 PKP008	[espelle (liquidi) (.) no]
 PKP030	[ma (.) aveva la mascherina o no]? a::h
-PKP032	#no:: ti ga capio cioè su una tavolata erano quanti? una decina (.) perché erano più tavoli
+PKP032	# no:: ti ga capio cioè su una tavolata erano quanti? una decina (.) perché erano più tavoli
 PKP008	erano due tavoli di amici:
-PKP032	#°cioè ti ga capio mi so scampà via°
+PKP032	# °cioè ti ga capio mi so scampà via°
 PKP030	mhmh
 PKP008	poi io non ho capito adesso la mascherina se tu vai a berè il caffè
 PKP008	la to[gli bevi il caffè (.) esatto]
@@ -286,19 +286,19 @@ PKP008	[giova:nni come va]?
 PKP030	[sì:]
 PKP030	sì sì sì mad[onna ho la macchina xx]x
 PKP008	[te sembra? te se]
-PKP008	#no ze più pecenìn
-PKP032	#>ti te< ricordi quando 'ndavimo torlo VANTI [INDRIO ANDARLO] TOR PORTIO QUA MAGNA ripo~
+PKP008	# no ze più pecenìn
+PKP032	# >ti te< ricordi quando 'ndavimo torlo VANTI [INDRIO ANDARLO] TOR PORTIO QUA MAGNA ripo~
 PKP030	[ah]?
 PKP008	[°madona°]
-PKP008	#[quando che te gavevi mal al piede (ti) te ricordi]? quella volt~ no schiena cos'era [schiena sì]
-PKP032	#[che so] mama no meo ga neanca portà 'na volta x va ben vanti
+PKP008	# [quando che te gavevi mal al piede (ti) te ricordi]? quella volt~ no schiena cos'era [schiena sì]
+PKP032	# [che so] mama no meo ga neanca portà 'na volta x va ben vanti
 PKP008	venivo [qua: coa pand~ coa] CLIO no coa pandina con la clio venivamo eh sì
 PKP032	[e adesso è:]
 PKP030	°con la clio°
 PKP008	a prenderte °e [a portarte casa°]
-PKP032	#[e anca] col golf 'ndavimo
+PKP032	# [e anca] col golf 'ndavimo
 PKP030	>poi andavamo anche a por[tare< la]
-PKP008	#[no ma] quando che te stavi mal ti te ricor[di]? °che venivo mi° ti sì te si sempre 'nda torlo (.) °>andavi a< prenderlo° e dopo te ve[nivi casa] da mi
+PKP008	# [no ma] quando che te stavi mal ti te ricor[di]? °che venivo mi° ti sì te si sempre 'nda torlo (.) °>andavi a< prenderlo° e dopo te ve[nivi casa] da mi
 PKP032	[°ah sì°]
 PKP030	[°se°]
 PKP030	[°a prendermi°]
@@ -308,11 +308,11 @@ PKP032	alla sera il sa[bato cos'era] >il venerdì< il sabato [sera]
 PKP030	[alla sera]
 PKP030	[sabato sera]
 PKP030	((ride))
-PKP032	#che giri che ti ga fatto eh,
-PKP008	#[mi] sì veramente a: clio ea go: usa[da]
+PKP032	# che giri che ti ga fatto eh,
+PKP008	# [mi] sì veramente a: clio ea go: usa[da]
 PKP030	((ride))
 PKP032	ea panda no?
-PKP008	#ea panda anca ma meno giri cioè go veramente fatto tanti giri
+PKP008	# ea panda anca ma meno giri cioè go veramente fatto tanti giri
 PKP032	°tu:: avanti e [indietro]°
 PKP008	[e quella volta de]lla neve che è arrivata la neve (.) quell'anno: che ha fatto tantissima neve.
 PKP030	tipo >cos'(era)< a capodanno?
@@ -320,7 +320,7 @@ PKP032	no [era (in mezzo)]
 PKP030	ah >no no no no<
 PKP030	[un di~ un dicembre sì sì]
 PKP032	[>il giorno< (.) il giorno che c'era] la <finale> della coppa intercontinentale tra estudiantes e [barcelona]
-PKP008	((ride)) [] che riferi[mento]
+PKP008	((ride)) che riferi[mento]
 PKP032	[sì::] (.) eh sì no (.) perché figurati (u)na roba u[na roba storica]
 PKP008	[c'erano i cavalcavia] no è è è stat~ c'è stata una grossa polemica perché c'è s~ >era la neve< era prevista ma hanno preso un po' alla legge[ra]
 PKP030	[<sì> sì sì]
@@ -330,10 +330,10 @@ PKP030	mi ricordo >che siamo [andati< su a meno: dieci quella vol~]
 PKP032	[e io (.) e~ esatto. io puntualmente] ho mandato una mail al comune di: xxx dicendo MA COME MAI?
 PKP008	[e io],
 PKP008	[(che) i se vergogna]
-PKP032	#ghe ze i altri paesi de fianco che i ga netà tutte e strade e qua ghe ze a neve ancora?
+PKP032	# ghe ze i altri paesi de fianco che i ga netà tutte e strade e qua ghe ze a neve ancora?
 PKP008	[ea laura a go ea go x]
 PKP008	sì ma inizialmente laga~ hanno sbagliato [tutto]
-PKP032	#[si deve] identificare i me ga scritto
+PKP032	# [si deve] identificare i me ga scritto
 PKP008	giusto chi~ [chiun]que si lamenti.
 PKP032	[°eh vabbè°]
 PKP008	>quella volta< la giulia era <bloccata> a pezzan perché l'autobus arrivava fino a là
@@ -346,25 +346,25 @@ PKP008	[no no era] un pomerig[gio u:n un rientro era],
 PKP030	[un pomeriggio (.) mhmh]
 PKP008	io ho dovuto con la me macchinetta andar prendar sti ragazzi e portar casa anca i ragazzi compagni dea giulia [°me ricor]do° (.) perché no:n
 PKP030	[eh sì]
-PKP008	#ancora me vien in mente perché ze brutto eh far el cavalcavia col giasso
+PKP008	# ancora me vien in mente perché ze brutto eh far el cavalcavia col giasso
 PKP032	però [ragazzi:]
 PKP030	[che poi] tutti quelli che vien zz (.) [no no ragazzi]
 PKP008	[°no: (.) bruttissimo°]
 PKP032	[sono] tre bistecche
 PKP008	e:h
-PKP032	#bon sto vin va [zo:: va zo] liscio eh ges[bocio (mi)]
+PKP032	# bon sto vin va [zo:: va zo] liscio eh ges[bocio (mi)]
 PKP008	[>vai vai vai<]
 PKP008	[vai cocinero]?
 PKP032	QUINCE MINUTO?
 PKP032	((ride))
-PKP008	((ride)) []
-PKP008	#°quanto manca? ((ride)) (piccenìn)°
+PKP008	((ride))
+PKP008	# °quanto manca? ((ride)) (piccenìn)°
 PKP032	no no dev'essere una roba::
 PKP008	COMUNQUE siamo ancora [indecisi do]ve andare a fare questo pranzo.
 PKP032	[ALLOR~]
 PKP030	mhmh
 PKP030	[°eh°]
-PKP032	#[perché ea ze peo]ciosa ea vol (.) risparmiar eora ea serca:
+PKP032	# [perché ea ze peo]ciosa ea vol (.) risparmiar eora ea serca:
 PKP030	meh beh allora gli agri[turismi ci sono] agriturismi tranquilli
 PKP032	[posti:]
 PKP032	[°posti che costa manco° ma no le ho detto andiamo da xxx]
@@ -385,14 +385,14 @@ PKP008	[non avresti problemi]?
 PKP008	oka[y allora quindi (anche) possiamo anche xx] possiamo anche:: (.) estenderci al montello mauri lorenzo ha detto che [non è un problema]
 PKP030	[>anche perché< comunque sì °eh non è° x]
 PKP032	[(a)scolta ma] se andiamo da xxx qua
-PKP032	#cioè vien i fioi vien iori qua viss[ìn (.) mi stago tranquio (.) mi pago] basta, ((ride))
+PKP032	# cioè vien i fioi vien iori qua viss[ìn (.) mi stago tranquio (.) mi pago] basta, ((ride))
 PKP030	[sì: va bene].
 PKP008	[mangiano quello che vogliono, (.) tu sei mai stato da xxx]?
-PKP008	#[sì: ta portà]?
+PKP008	# [sì: ta portà]?
 PKP030	una volta
 PKP008	vabbé il mangiare si mangia bene (dai)
 PKP030	sì
-PKP032	#e se no 'ndemo al xxxx
+PKP032	# e se no 'ndemo al xxxx
 PKP030	(al) xxxx sul montello sì mi ricor~
 PKP008	quella volta >te lo ricordi<?
 PKP030	no sarebbe bello in realtà far qual[cosa di: di più di diverso]
@@ -402,7 +402,7 @@ PKP030	[°mezzogiorno°]
 PKP008	in ogni caso se vai da xxx facciamo a mezzogiorno (.) [domenica]
 PKP032	[°sì okay° ma devi prenotare:]
 PKP030	°qua quanti [sono? terapie intensi(ve,)°]
-PKP032	#[°là devi prenotare°] (.) quanto ze el veneto oggi?
+PKP032	# [°là devi prenotare°] (.) quanto ze el veneto oggi?
 PKP030	uno in più in terapia inten[siva]?
 PKP032	[quattrocen]to e:: (.) e rotti
 PKP030	[e cinquanta in::]
@@ -414,23 +414,23 @@ PKP030	certo
 PKP008	e peccano un po' sul,
 PKP008	su:ll'estetica del tavolo [(insomma)]
 PKP030	[a:h] (.) vabbé ma [(tanto mangia le) xx niente]
-PKP008	#[ma a to papà no ghe piase ghe ze a toa: cerata]
+PKP008	# [ma a to papà no ghe piase ghe ze a toa: cerata]
 PKP032	[quanti sono (gli aumenti?)]
 PKP032	[>ae]ora< (.) xxx [è un posto un posto <serio> da fighetti]
 PKP008	[(ma a to papà:)]
 PKP030	[xxx (è un posto) (.) serio]
 PKP008	[a te non pia]ce la tovaglietta di plastica con la: carta [sopra]
-PKP032	#[miseria nera] almanco una volta all~ all'anno che vado a magnar coi fioi che magno (.) [cioè]
-PKP008	((ride)) []
+PKP032	# [miseria nera] almanco una volta all~ all'anno che vado a magnar coi fioi che magno (.) [cioè]
+PKP008	((ride))
 PKP030	[e quella? e tipo dove an]davamo: >ancora quando< faceva la nonna le: a dicembre là eh >siamo andati< (u)na volta,
 PKP008	dove? parli di cosa?
 PKP030	quando: che festeggiava tua mamma [il compleanno eh che siamo] andati (.) [e::h aiuto]
 PKP008	[a nonna:: a nonna mia xx]
 PKP032	°con la nonna in cariola?°
 PKP030	se
-PKP032	((ride)) []
+PKP032	((ride))
 PKP030	una volta verso::
-PKP032	((ride)) []
+PKP032	((ride))
 PKP008	[(ti ricordi,)]
 PKP030	[>un agriturismo] che c'era< una donna molto:
 PKP030	[non so se era un ristorante o un agriturismo]
@@ -438,7 +438,7 @@ PKP032	[(in carne)]
 PKP008	[A:H che siamo sta]ti che c'era anche la: morosa vecchia di matteo?
 PKP030	che c'era: sì forse sì adesso non mi~ era tanti anni [fa c'era ancora (.) c'era ancora carlo]
 PKP032	[°ea morosa xxxx non l'ha mai vista°]
-PKP008	#[CHI]? (.) [lu no ga mai visto a bar~]]?
+PKP008	# [CHI]? (.) [lu no ga mai visto a bar~]]?
 PKP032	[non so se l'hai mai (vista)],
 PKP030	[la morosa vec]chia di matteo [sì:]
 PKP008	[xxxxxx (.) ma ti s~ quella volta là sì: >madonna<]
@@ -454,14 +454,14 @@ PKP032	[è quello:]?
 PKP008	e::h
 PKP030	non so perché avev~ un ricordo un po' vago (direi)
 PKP008	>non mi ricordo il nome<
-PKP032	#[si ma] mi ricordo ghe zera anca: i: (.) chi c'erano? aspetta [°i::]
+PKP032	# [si ma] mi ricordo ghe zera anca: i: (.) chi c'erano? aspetta [°i::]
 PKP008	[tutti]
 PKP032	tutti di:: tuo fratello tutti gli albanesi: (gli italiani)
 PKP030	((ride))
 PKP008	<tutti>
 PKP032	°tutta la banda°
 PKP008	tutti tutti (.) sì sì c'è ancora >quello là<
-PKP008	#noi >avevamo mangiato< bene io ricordo di aver mangiato bene [dopo ghe ze sta] dee critiche perché [là::] non c'era tanto::
+PKP008	# noi >avevamo mangiato< bene io ricordo di aver mangiato bene [dopo ghe ze sta] dee critiche perché [là::] non c'era tanto::
 PKP030	[sì. sì]
 PKP032	[vabbé ma anche],
 PKP032	ma anche quello:: per andare a: (.) oderzo
@@ -469,11 +469,11 @@ PKP030	quello che (.) >che abbiamo fatto< sì quello ch~ pranzo più recente là
 PKP008	non mi ricordo
 PKP032	>abbiamo fatto< natale là due volte
 PKP008	(era il xxx xxx gera) (.) °sì (dai)° siamo andati anche io e te una volta
-PKP032	#[mi e ti] ghemo ze rivà a morena fatalità
+PKP032	# [mi e ti] ghemo ze rivà a morena fatalità
 PKP030	((ride))
 PKP008	[sì anche quello].
-PKP032	((ride)) []
-PKP032	#ma cossa i [fassevi eà]?
+PKP032	((ride))
+PKP032	# ma cossa i [fassevi eà]?
 PKP008	[ma siamo andati ancora] coa nonna qualche altra volta che lo faseva sempre ai tempi in cui stava be(ne)
 PKP030	[sì] sì sì >(per) quello< magari: (.) [uno di quei posti là an]che no è::
 PKP032	[stava ben, stava un po' meglio]
@@ -502,7 +502,7 @@ PKP008	((ride))
 PKP032	perché se i numeri schizzano a: ventimila come o trentamila come in francia vedrai che:
 PKP030	>però< dico [caspita prim~] prima o poi si stabilizzerà anche st~ anche 'sta crescita o andremo avanti così a botte d[i:]
 PKP032	[torna]
-PKP032	#[sì] se ze >come in argentina< che i ze rivai a un million?
+PKP032	# [sì] se ze >come in argentina< che i ze rivai a un million?
 PKP030	eh ma
 PKP008	[ah dobbiamo] telefonare a carla oggi.
 PKP032	[e diecimila]
@@ -522,7 +522,7 @@ PKP008	è l'ultima ad aprire [e la] prima a chiudere
 PKP030	[cioè]
 PKP030	°sì::° ragazzi vabbè
 PKP008	la dice [tutta]
-PKP030	((tossisce)) []
+PKP030	((tossisce))
 PKP008	forse dovrebbero fare perché i trasporti come fai a a a incrementare non è semplice
 PKP008	[fare:: non è brutta l'idea] di di xx che ha detto di fare (.) a scaglioni [cioè: non è male]
 PKP030	[°e:h lo devi fare (però)°]
@@ -531,7 +531,7 @@ PKP008	[no]
 PKP008	[non è male]
 PKP032	[vado]?
 PKP032	calda?
-PKP030	#[O SI FA COME IN ARGEN]TINA che tutti si improvvisano [tassisti e ti ciapi] ((ride))
+PKP030	# [O SI FA COME IN ARGEN]TINA che tutti si improvvisano [tassisti e ti ciapi] ((ride))
 PKP008	[xx xx]
 PKP008	[fa' fumo massi vai]
 PKP030	no? in ar~ [in argentina tutti] son tassisti [prendi il taxi vai a scuo~ così dai la]voro a un sacco di gen[te che magari è rimasta a casa]
@@ -541,22 +541,22 @@ PKP032	[oh ieri]
 PKP032	[ieri abbiamo visto la diretta:] del peronismo:
 PKP030	ah sì?
 PKP032	settan[tacinque anni dalla na]scita del peronismo.
-PKP030	((ride)) []
+PKP030	((ride))
 PKP008	>mi ha fatto vedere< la città di buenos aires
-PKP032	#ea gianna se ga curà do ore de:
+PKP032	# ea gianna se ga curà do ore de:
 PKP030	eh no vabbé ma è bello dai
-PKP008	#[no] a me piace perché: (.) a~ a~ ascoltare qualcosa nella lingua che te piasarìa imparar ti aiuta
+PKP008	# [no] a me piace perché: (.) a~ a~ ascoltare qualcosa nella lingua che te piasarìa imparar ti aiuta
 PKP030	[°sì°]
 PKP008	[fin] troppo::
-PKP032	#ara sta bistecca ga proprio forma da argentina >vara ara< ara questa
+PKP032	# ara sta bistecca ga proprio forma da argentina >vara ara< ara questa
 PKP030	((ride))
-PKP032	#<misiones> (.) <buenos aires> (.) <patagonia> v[ara]
+PKP032	# <misiones> (.) <buenos aires> (.) <patagonia> v[ara]
 PKP008	[mhmh]
 PKP030	[((°ride°))]
-PKP032	#[VARA parfin] (.) guarda (.) guarda parfin terra del fuoco [qua °el triangoino°]
-PKP008	#[È VERO ze vero] è vero >è vero è vero<
+PKP032	# [VARA parfin] (.) guarda (.) guarda parfin terra del fuoco [qua °el triangoino°]
+PKP008	# [È VERO ze vero] è vero >è vero è vero<
 PKP032	quella >me la mangio< io ((ride))
-PKP030	((ride)) []
+PKP030	((ride))
 PKP032	questa?
 PKP030	(>però<) va ben dentro le scuole in realtà: funzionano anche abbastanza tutte le >per esempio< [da mia mamma
 PKP008	[han detto sì han detto]
@@ -578,7 +578,7 @@ PKP030	non è no~ non stava male nel senso di febbre alta aveva un po' di insomm
 PKP030	>allora< l'ulss ha deciso di chiudere (.) la scuola perché essendo una scuola piccola
 PKP030	non ci sono insegnanti che siano solo di una classe o di un'altra e di far fare il tampone a tutta la classe di [questo raga]zzo [e a tutto il cor]po docen[ti ESCLUSE] TRE PERSONE,
 PKP008	[ah]
-PKP032	((sospira)) []
+PKP032	((sospira))
 PKP008	[è chiaro]
 PKP030	tra cui mia mamma e altri due perché loro <avendo> avuto quella classe <quattro giorni prima> [non rientravano nel quindi l'ulss ovviamente se può ehm snellire]
 PKP008	[è giusto (.) è giusto è giusto (.) è giusto è giusto]
@@ -596,7 +596,7 @@ PKP008	quello è:: uno de~
 PKP008	io ho cominciato anche palestra e::
 PKP030	(bisogna) vedere se è:
 PKP032	no sta più (a)ndar in [paestra].
-PKP008	#[(vara)] me o dize ogni volta to papà ze 'na [xxx]
+PKP008	# [(vara)] me o dize ogni volta to papà ze 'na [xxx]
 PKP030	[ma: >tu cosa fai<]? pilates?
 PKP032	non devi andare [più: basta]
 PKP030	[siete distanzia~]?
@@ -609,7 +609,7 @@ PKP032	[(a)scolta non so quanto cotta è questa cosa].
 PKP008	[aprono] (.) perché la re~ la:: il regolamento dice >questo che< la palestra è alta è altissima (.) [quindi <aprono>]
 PKP030	[ah okay (.) beh dai] meglio
 PKP030	°okay°
-PKP032	#(te) dago a ti >l'argenti[na< tea] metto con quea che a ze più granda xx
+PKP032	# (te) dago a ti >l'argenti[na< tea] metto con quea che a ze più granda xx
 PKP030	[boh]
 PKP030	((ride))
 PKP030	beh >allora< vabbè pilates non è uno sp~ è anche uno sport individuale nel senso che comunque [stai nella tua postazio~]
@@ -639,7 +639,7 @@ PKP008	[se]
 PKP030	>hanno chiesto> di fare: oggi gli ho detto vara [ragazzi cioè io son io sono da mio papà]
 PKP032	[dai sti (cimici) (.) do ore]?
 PKP030	SE VOLETE qua è pieno di bar ((ride)) [e pasticcerie:] c'è anche xxxx [venit]e qua [tanto guid]a la anna la anna mi fa sì sì vengo
-PKP008	((ride)) []
+PKP008	((ride))
 PKP032	[madonna c'è anche an~ quella nuova]
 PKP008	[ah]
 PKP008	ma non c'è la alessia qua? non [c'entra]
@@ -657,15 +657,15 @@ PKP032	°sì sì°
 PKP008	metto a te? cicci,
 PKP032	dai
 PKP008	°dove?°
-PKP032	#sull'angolino che no (ga ciapà el sugo) (.) ((ride)) eh ciò no ti ga da missiar tutto [sennò]
-PKP008	((ride)) []
-PKP030	((ride)) []
-PKP008	#[figurite] se lo porto a mangiare in un agriturismo con: (.) con la tela [cerata ta~ e: la carta da piz]zeria sora
-PKP032	#[coa te coa te~ ea tecia]
+PKP032	# sull'angolino che no (ga ciapà el sugo) (.) ((ride)) eh ciò no ti ga da missiar tutto [sennò]
+PKP008	((ride))
+PKP030	((ride))
+PKP008	# [figurite] se lo porto a mangiare in un agriturismo con: (.) con la tela [cerata ta~ e: la carta da piz]zeria sora
+PKP032	# [coa te coa te~ ea tecia]
 PKP032	[(grazie)]
 PKP008	[poi no so perché fanno] così ma perch~ perché li rovi[na:]?
-PKP032	#[perché] i ze miserabi no?
-PKP008	#miserai (.) >vabbè<
+PKP032	# [perché] i ze miserabi no?
+PKP008	# miserai (.) >vabbè<
 PKP030	°sì sì ma poi mi metto io tranquilla°
 PKP008	dai bravi::ssimo giovanni
 PKP030	poi tra l'altro: °mhmh° insomma è morta la nonna della xxx [(questa) settimana per cui]
@@ -681,13 +681,13 @@ PKP030	e:::
 PKP008	<centotré> anni?
 PKP030	cento no centoquattro forse so che >abbiamo< fatto la festa dei cento che ci hanno invitati anche noi,
 PKP008	°mamma mia°
-PKP030	sì:: proprio una cosa eh ehm senza figli senza marito ((ride)) []
-PKP008	((ride)) []
-PKP032	#eh ti ga capio [qual è (il segreto)]
+PKP030	sì:: proprio una cosa eh ehm senza figli senza marito ((ride))
+PKP008	((ride))
+PKP032	# eh ti ga capio [qual è (il segreto)]
 PKP008	[per quello >per quello< è vissuta così tanto]
 PKP030	((ride)) [il segreto] de eh vabbé invece l'a~ l'altra sua nonna >aveva< fatto un ictus un mese fa
 PKP032	[b(u)ona grande (massi)]
-PKP030	[sembrava]: le avevano detto guardi che: [potrebbe:] (.) eh, (.) [] buona
+PKP030	[sembrava]: le avevano detto guardi che: [potrebbe:] (.) eh, (.) buona
 PKP008	[BRAVO MASSI]
 PKP008	>buona<
 PKP032	vedi che ogni tanto so bon far qualcossa
@@ -724,29 +724,29 @@ PKP008	xx
 PKP030	ha imparato ogni numero corrisponde a una persona
 PKP008	ma lei non si lamenta che è dentro: una casa di cura? u:n cos~
 PKP008	[ma è buona]?
-PKP030	#[>stavolta< xx]x mi ha detto perché (.) i omeni (.) i ze gentii (.) i ze boni (.) te fa' tutto (.) e fie ze [<bisbetiche> da morir]
-PKP032	#[ma chi? (.) chi zea 'sta qua]?
+PKP030	# [>stavolta< xx]x mi ha detto perché (.) i omeni (.) i ze gentii (.) i ze boni (.) te fa' tutto (.) e fie ze [<bisbetiche> da morir]
+PKP032	# [ma chi? (.) chi zea 'sta qua]?
 PKP008	[a::] ((ride))
-PKP008	#ea: nonna che a ze in casa de riposo
+PKP008	# ea: nonna che a ze in casa de riposo
 PKP032	a venezia,
 PKP030	°sì°
-PKP030	#ea fa' me par de esser in coegio (.) ((ride))
-PKP008	#[in coegio]?
-PKP030	#[i ze tuti] (.) qua i ze tuti disgrassiai (.) [volevo (dirle perché) stai] benissimo (.) ((ride))
-PKP008	((ride)) []
+PKP030	# ea fa' me par de esser in coegio (.) ((ride))
+PKP008	# [in coegio]?
+PKP030	# [i ze tuti] (.) qua i ze tuti disgrassiai (.) [volevo (dirle perché) stai] benissimo (.) ((ride))
+PKP008	((ride))
 PKP008	anche mia mamma chiamava vecchi [gli altri]
 PKP032	((ride))
-PKP008	#>quello< queo ze vecio (.) ((ride))
+PKP008	# >quello< queo ze vecio (.) ((ride))
 PKP032	((ride))
 PKP008	mia mamma non è mai piaciuto andare (.) mai
 PKP030	ma non è una cosa be~ cioè,
 PKP008	mia suocera invece sì: eh
 PKP030	°a:h sì?°
-PKP008	#coccoeada
+PKP008	# coccoeada
 PKP030	eh vedi?
 PKP008	(i)nfatti >io ho il terrore< che a viva fin a cento e ro~ rotti anni
 PKP008	a lucia,
-PKP032	anche [perché] economicamente:: ((ride)) []
+PKP032	anche [perché] economicamente:: ((ride))
 PKP030	[quanti anni ha]?
 PKP008	[te dissa~] te dis~ dissangua
 PKP030	((°ride°))
@@ -754,7 +754,7 @@ PKP032	eh sì
 PKP008	°eh°
 PKP008	oggi c'è il nuovo dpcm eh
 PKP030	sì ma: an~ anche qua non potevano farne uno direttame[nte cioè (.) HO CAPITO MA per]
-PKP008	#eh ma se ga aggravà de colpo: le fanno man man giovanni]
+PKP008	# eh ma se ga aggravà de colpo: le fanno man man giovanni]
 PKP030	[è ve]ro però per vedere gli effetti delle misure devi aspettare: dieci giorni non
 PKP008	eh ma siccome gli effetti [sono negativi adesso] (.) eh fanno stringono (.) >ma [hanno ragione secon]do me a farlo<
 PKP032	[e anche il pros~ (settimana,)]
@@ -766,7 +766,7 @@ PKP032	io ho la parrucchiera in casa dopo me li ta[glia].
 PKP030	((ride))
 PKP032	mh
 PKP008	el coprifuoco non so a cosa serva sinceramente [ho i me dubbi].
-PKP032	#[ara ea coso] ea:
+PKP032	# [ara ea coso] ea:
 PKP030	(per) evitare la movida [ma °mhmh°]
 PKP032	[vabbè >come si] chiama<?
 PKP008	perché secondo te no:n (.) vanno dentro una casa: o::
@@ -797,7 +797,7 @@ PKP030	ah il ventinove?
 PKP032	°uhm°
 PKP008	>il ventinove di questo mese<?
 PKP030	sto studiando come se fosse dopodomani ma:
-PKP008	((sospira)) []]
+PKP008	((sospira)) ]
 PKP032	bravo meglio no?
 PKP030	eh beh ma è un esame <tosto> eh x
 PKP032	>eh beh< te lo togli dalle scatole no?

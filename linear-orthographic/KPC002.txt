@@ -41,7 +41,7 @@ PKP094	ma non c'andava neanche quest'estate col pieno sole eh
 PKP093	eh so non è mica il bronx
 PKP094	ecco quindi figurati se ci va ora ora nci va non torna da sola nemmeno se la paghi
 PKP093	sì ma io gli dicevo ascolta vai a piedi e non rompere le palle
-PKP094	no povera citta dai su lasciala stare
+PKP094	# no povera citta dai su lasciala stare
 PKP093	eh
 PKP094	ogg~ a te quando so~ tornato
 PKP056	mh
@@ -173,8 +173,8 @@ PKP094	no jakob l'ho conosciuto
 PKP093	ma cosa ci facevi a colonia cioè non
 PKP094	studiavo tedesco
 PKP056	eh
-PKP093	sei andato a fare cosa
 PKP056	da jakob
+PKP093	sei andato a fare cosa
 PKP093	sei andato in pe~ per fare tipo un corso oppure m
 PKP094	no per fare un po' di di pratica c'era m un amico
 PKP094	era un amico della elena rossi che faceva il corso di tedesco con me lei è una germanista ha fatto quella carriera lì è diventata una germanista
@@ -299,8 +299,8 @@ PKP093	ma gli mandi una cosina semplice dici guarda
 PKP056	gli mandi la foto di questo questa è la foto della mia macchina
 PKP094	sì ma bisogna trovare lì la polizia quella che deve fare qualcuno che che se ne occupa e che loro vogliono quel quel foglio lì
 PKP056	ma dovresti anda~ dai carab~ telefona~ ai carabinieri eh
-PKP093	ma complicano di più la situazione lascia fare
 PKP094	i carabinieri che ti dicono che ti dicono i carabinieri
+PKP093	ma complicano di più la situazione lascia fare
 PKP056	tramite loro
 PKP094	no l'unico potrebbe essere jakob ~ste cose si fa difficili ho pensato subito guarda chiamo jakob e sai cosa gli dico
 PKP093	eh infatti
@@ -598,8 +598,8 @@ PKP094	non so se c'è c'è ancora perché l'ultima volta non c'era
 PKP056	a volte sì a volte no
 PKP093	ma te dai fumetto
 PKP056	sì
-PKP093	l'hai letto
 PKP056	xxx
+PKP093	l'hai letto
 PKP056	sì è bellino
 PKP056	me l'hai regalato te
 PKP093	eh lo so volevo sapere se l'avevi letto
@@ -1222,8 +1222,8 @@ PKP094	ti sei fermato lì ti sei affacciato a guardare
 PKP093	sì
 PKP094	bravo
 PKP056	allora sei te
-PKP093	no no
 PKP056	allora sei te l'umarel
+PKP093	no no
 PKP093	no ma c'era l'oblò
 PKP093	cioè
 PKP093	se se se

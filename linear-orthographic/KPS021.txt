@@ -50,7 +50,7 @@ PKP125	e che c'ha messo xx
 PKP127	solo il pesto
 PKP125	ah
 PKP127	non ti piace
-PKP125	no sape e niente sì
+PKP125	# no sape e niente sì
 PKP127	adoro
 PKP127	no intendevo il pesto in generale non ti piace
 PKP127	dico comunque è vero il pesto non è molto saporito
@@ -149,6 +149,7 @@ PKP126	l'ho trovato già
 PKP126	più volte dentro casa e
 PKP127	ah sì
 PKP126	non mi piace come atteggiamento
+PKP127	ride
 PKP127	è troppo prepotente
 PKP126	sì
 PKP126	non dov~ non deve comportarsi così
@@ -242,7 +243,7 @@ PKP126	io rimasi dissi ah
 PKP126	così tanto olio però non dissi niente perché se no sì
 PKP127	vabbè se c'hai detto così
 PKP126	magari sai
-PKP125	si mette a chiagne
+PKP125	# si mette a chiagne
 PKP126	poteva prendersela
 PKP125	eh amo' ma io così lo faccio il pollo
 PKP127	bah
@@ -301,7 +302,7 @@ PKP125	quando venimmo a pulire la casa qua no
 PKP125	che poi andai a mangiare da lei
 PKP127	eh
 PKP127	mh
-PKP125	facette nu kile e pasta
+PKP125	# facette nu kile e pasta
 PKP127	per quattro
 PKP125	no n~ un kilo settecento grammi di pasta
 PKP127	eh vabbè ma perché quello il padre se ne mangia assai io so
@@ -412,7 +413,7 @@ PKP126	ma sono buone
 PKP126	è vero però
 PKP127	no so bruttissime
 PKP126	rosa
-PKP126	sanna cunsuma' se fai questa cattiva pubblicità alberto non se le mangia eh
+PKP126	# sanna cunsuma' se fai questa cattiva pubblicità alberto non se le mangia eh
 PKP127	lo so ma non mi piacciono ah
 PKP125	ma a me neanche piacciono mi piacciono solo quelle di mamma
 PKP126	sì
@@ -444,7 +445,7 @@ PKP127	no ma ce ne sono delle marche in barattolo che sono buone ma queste sono 
 PKP126	vabbè queste sono d'amico in teoria dovrebb~ le x cioè è una marca buona costa
 PKP127	xx
 PKP125	costano eh
-PKP127	eh nu me piace
+PKP127	# eh nu me piace
 PKP125	costano queste
 PKP127	e come ma~ mamma l'ha comprate
 PKP125	ha fatto i soldi
@@ -522,7 +523,7 @@ PKP127	ho tante qualità ma queste cose si scoccia
 PKP125	eh si scocc~ ma pure mia mamma
 PKP125	io a volte l'aiuto a mia mamma a farle ma ti uccidi
 PKP125	è proprio fisicamente stancante
-PKP125	tagliarle strizzarle poi c vo' nu sacch e aceto
+PKP125	# tagliarle strizzarle poi c vo' nu sacch e aceto
 PKP127	comunque è impressionante quando passa la gente e parla sembra che sta nel cortile di matteo
 PKP125	mhmh
 PKP126	adesso preparatevi ad avere un orgasmo perché queste melanzane sono spettacolari
@@ -659,7 +660,7 @@ PKP127	sto per vomitare
 PKP126	la merda
 PKP127	addirittura
 PKP126	sì infatti io la reputai un poco esagerata quella
-PKP125	quanta vuommach
+PKP125	# quanta vuommach
 PKP127	con tutto il bene però
 PKP127	vabbè
 PKP126	de gustibus alla fine
@@ -744,7 +745,7 @@ PKP125	meno male che non c'è mariarita
 PKP126	shady
 PKP125	ricetta svuota frigo
 PKP127	lo sai sto proprio bene cioè sento quasi freschetto
-PKP126	beata a te i sto surann
+PKP126	# beata a te i sto surann
 PKP127	veramente
 PKP125	io sono in mutande
 PKP127	adoro
@@ -753,6 +754,7 @@ PKP127	due secondi di pausa
 PKP127	ah
 PKP127	dalla vita proprio
 PKP127	mi devo allargare la cintura vedi
+PKP127	ride
 PKP126	io l'alzo il pantaloncino così si nasconde un po' di più la pancia
 PKP126	vabbè non abbiamo esagerato dai raga
 PKP127	per i miei standard
@@ -783,12 +785,12 @@ PKP125	beh oggi abbiamo fatto colazione co~ pa~ pancake con nutella
 PKP126	è rimasto un altro pancake se vuoi
 PKP127	uh ma quanti ne avete fa~
 PKP126	mangiati tu il pancake e io mi mangio il gelato che ne dici
-PKP125	mo to chiavo n' faccia stu pancake
+PKP125	# mo to chiavo n' faccia stu pancake
 PKP127	stronzo
 PKP125	poi che è rimas~ poi abbiamo mangiato
 PKP126	io a pranzo ho esagerato
 PKP125	tanto da tua nonna
-PKP125	quatt gilat sa mangiat 'stu puorco
+PKP125	# quatt gilat sa mangiat 'stu puorco
 PKP126	quattro gelati è esa~ non è vero xx a parte il fatto che abbiamo mangiato la stessa quantità di gelato
 PKP125	tu ne hai mangiati di più
 PKP126	no alberto
@@ -809,7 +811,7 @@ PKP126	io ho detto voglio questo però voglio anche quello al caramello
 PKP126	quindi ho mangiato uno di quelli e ho dato l'altro a lui e ho mangiato quello al caramello la stessa quantità che ha mangiato lui uguale identico
 PKP126	quindi la cosa che adesso io sono il porco e tu no
 PKP126	lasciamo stare
-PKP127	vabbuò comunque in generale per una giornata c'è stato tanto cibo un po' chiatto
+PKP127	# vabbuò comunque in generale per una giornata c'è stato tanto cibo un po' chiatto
 PKP126	ma è domenica è festa
 PKP127	eh lo so però
 PKP126	lo sanno tutti
@@ -822,7 +824,7 @@ PKP127	vabbè s'è mangiato l'insalata ieri eh
 PKP126	ieri ho mangiato l'insalatina
 PKP127	no non mi guardare così che ha detto
 PKP126	devo mettere l'olio dentro
-PKP125	vuoi sapere che c'era nell'insalatina dentro l'insalati~ c'erano i cubetti
+PKP125	vuoi sapere che c'era nell'insalatina dentro l'insalaticerano icubetti
 PKP127	che c'era
 PKP127	di formaggio e di salame l'ha detto
 PKP125	di provolone e i cubetti di sa~ e ti sembra un'isalatina
@@ -861,7 +863,7 @@ PKP125	assumiamoci le responsabilità
 PKP125	che noi già viviamo in una terra di merda che ci porta naturalmente a morire prima poi mangiamo anche molto male
 PKP127	però tipo ieri avete mangiato patatine fritte
 PKP126	parla per te io non abito qua
-PKP125	matteo ma va cach
+PKP125	# matteo ma va cach
 PKP127	avete mangiato xxx
 PKP126	sì ma questo gay drama non ho capito sta cosa che
 PKP126	per forza dobbiamo litigarci ogni volta
@@ -1025,7 +1027,7 @@ PKP126	cioè tra verità non verità non ho ancora capito dove sta
 PKP125	più tra detto e non detto x
 PKP126	esatto però il s~ la versione che io credo sia
 PKP126	è che lei ha iniziato a lavorare in fabbrica
-PKP126	mio nonno era onestamente a quanto pare pace all'anima soja ma un uomo
+PKP126	# mio nonno era onestamente a quanto pare pace all'anima soja ma un uomo
 PKP126	molto interessato a avere esperienze sessuali con chiunque
 PKP126	e quindi ne ha approfittato de~ di una sua dipendente
 PKP126	e si è creata questa storia e mia nonna alla è uscita incinta dalla cosa e l'ha convinto a sposarsi e lasciare la moglie
@@ -1045,7 +1047,7 @@ PKP126	uguale
 PKP127	amo' però pure tuo zio
 PKP126	bruttissimo
 PKP126	infatti mia nonna
-PKP127	a ogni due tre tene na femmena divers
+PKP127	# a ogni due tre tene na femmena divers
 PKP126	infatti mia nonna ha un rapporto
 PKP126	di amore e odio con il figlio
 PKP126	perché è uguale al marito
@@ -1067,7 +1069,7 @@ PKP126	sì perché noi teniamo questo naso bello particolare
 PKP127	sì
 PKP126	però
 PKP126	mio padre e a me sta un po' meglio invece a mio nonno e mio zio sta proprio male
-PKP126	cioè e po pare na
+PKP126	# cioè e po pare na
 PKP125	per esempio tua sorella marina un po' assomiglia un po' anche a tua zia claudia ma sempre per questo naso che ha
 PKP126	sì
 PKP127	eh però l'ho sentito dire spessso
@@ -1084,7 +1086,7 @@ PKP126	che poi vabbè
 PKP126	con marina tutti quanti hanno un buon rapporto però marina tiene anche il suo carattere quindi
 PKP126	fino a un certo punto
 PKP125	in che senso scusa
-PKP126	cioè nel senso che sì le vuole bene eccetera però poi ovviamente anche la nonna ha detto na suppurtava chiu a soret che mi chiedeva
+PKP126	# cioè nel senso che sì le vuole bene eccetera però poi ovviamente anche la nonna ha detto na suppurtava chiu a soret che mi chiedeva
 PKP125	vero
 PKP126	di del di fare perché ha chiesto di fare la
 PKP127	ah perché insiste
@@ -1213,7 +1215,7 @@ PKP126	arrivati
 PKP126	da sono stati creati in america anche se in realtà una storia dice che sono stai creati tipo a genova
 PKP127	xxx
 PKP126	poi da genova sono arrivati in america e dall'america sono pfum
-PKP127	cu cristoforo colombo so iuti
+PKP127	# cu cristoforo colombo so iuti
 PKP126	sì tipo hanno fattə nu giro esagerato
 PKP126	però comunque dice la nonna che
 PKP126	nel dopoguerra che hanno iniziato hanno girare vari jeans
@@ -1227,7 +1229,7 @@ PKP127	questa globalizzazione ha rotto le scatole un po' a tutti
 PKP126	sì
 PKP126	poi nel frattempo in realtà loro erano ricchi
 PKP126	quindi seocondo me anche la cosa di dire cioè okay
-PKP126	devo portare avanti questa azienda lavorare per avere meno di quanto ero abituato ad avere nun ne val manc a pena potevano campare di rendita tranquillamente
+PKP126	# devo portare avanti questa azienda lavorare per avere meno di quanto ero abituato ad avere nun ne val manc a pena potevano campare di rendita tranquillamente
 PKP126	arrivati a quel momento storico
 PKP127	ma arrivati pure alla loro età cioè comunque penso che tua nonna già quanti anni aveva
 PKP126	e infatti
@@ -1246,7 +1248,7 @@ PKP126	no
 PKP125	se lei mo ne ha settantacinque
 PKP126	allora no
 PKP125	era più giovane
-PKP126	sì anche perché mio padre l'avuto che teneva diciotto diciannove anni quindi agg itt na strunzat
+PKP126	# sì anche perché mio padre l'avuto che teneva diciotto diciannove anni quindi agg itt na strunzat
 PKP127	eh allora no non cioè effettivamente con l'età era ancora giovane eh
 PKP126	ho detto una bugia
 PKP126	era giovane allora
@@ -1260,7 +1262,7 @@ PKP126	sì e poi anche dal punto di vista della salute lei ha avuto varie batost
 PKP127	eh ma certo
 PKP125	però alla fine vedi la vita è cioè lei ha avuto una vita pie~ pienissima
 PKP127	ho capito però con tutto il bene mh la perdita della figlia io me la sarei risparmiata
-PKP126	eh vabbè chi è che a vuless
+PKP126	# eh vabbè chi è che a vuless
 PKP127	cioè ho capito il manicomio ho capito quello che vuoi ma secondo me
 PKP125	sì sì ma si sente che è l'unica cosa proprio di cui lei non
 PKP126	vabbè ma penso sia normale che
@@ -1377,13 +1379,13 @@ PKP125	ne tanto meno la il carisma per
 PKP126	mio nonno aveva almeno a quanto dico~ cioè i soldi sicuramente quello x ma anche il carisma di fa~ di riuscire a farlo
 PKP125	beh era comunque un imprendito~
 PKP127	vabbè scusa tuo zio non l'abbiamo mai visto all'opera quindi magari che ne sai
-PKP126	amo' mio zio è nu cas perz però
+PKP126	# amo' mio zio è nu cas perz però
 PKP125	è veramente difficile credere che lui riesca con le donne
 PKP126	cioè
 PKP126	lui la maggior parte delle donne che si è riu~ cioè che che che l'ha fatto tante volte
 PKP126	ma è era donne dell'est che contattava su facebook promettendogli cioè dicendo che era ricco e che aveva una vita wow
 PKP127	mh
-PKP126	e loro venivano qua e poi scoprivano che in realtà nun teneva manch n'euro e finivano che mia nonna doveva pagargli il viaggio di ritorno a casa a queste
+PKP126	# e loro venivano qua e poi scoprivano che in realtà nun teneva manch n'euro e finivano che mia nonna doveva pagargli il viaggio di ritorno a casa a queste
 PKP126	cioè e st~ questa cosa è dura~ è successa con molte donne
 PKP126	per molti anni
 PKP126	quindi

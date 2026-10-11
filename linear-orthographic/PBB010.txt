@@ -194,14 +194,14 @@ BOR007	sì
 BOI030	e niente
 BOI030	e ti parlo il duemilatredici
 BOR007	mhmh
-BOI030	il primo lavoro che io ho lavorato in italia era sempre san giovanni in persiceto @nomeluogo
+BOI030	il primo lavoro che io ho lavorato in italia era sempre san giovanni in persiceto
 BOR007	sì
 BOI030	ho fatto un colloquio
 BOI030	e e veramente
 BOI030	parlavo di merda l'italiano che non parlavo un cazzo
 BOR007	sì
 BOI030	e mi chiedeva signora sarebbe la titolare
-BOI030	mh di @nomeluogo ma tu
+BOI030	mh di ma tu
 BOI030	sai parlare italiano
 BOI030	poco hai mai lavorato questo lavoro
 BOI030	sì
@@ -221,7 +221,7 @@ BOI030	rispetto al duemilatredici
 BOI030	eh e niente martedì
 BOI030	eh ho fatto un colloquio e mercoledì mi arriva una chiamata no giovedì sera
 BOR007	mhmh
-BOI030	e mi dice guarda io sono la titolare di @nomeluogo
+BOI030	e mi dice guarda io sono la titolare di
 BOI030	eh ti va di venire domani sera a far la prova
 BOR007	mhmh
 BOI030	io ero una
@@ -241,12 +241,11 @@ BOI030	per lo stipendio che ho trovato
 BOI030	che mi davano di più sempre vicino e
 BOR007	mhmh
 BOR007	sì
-BOI030	@nomeluogo
-BOI030	che si chiamava ristorante @nomeluogo
+BOI030	che si chiamava ristorante
 BOR007	mhmh
 BOI030	duemilaquattordici
 BOI030	da lì mi sono spostata e io gli ho detto anche alla signora di ehm
-BOI030	la titolare del eh @nomeluogo
+BOI030	la titolare del eh
 BOR007	sì
 BOI030	guarda io ho trovato un altro posto e
 BOI030	quindi
@@ -258,14 +257,14 @@ BOI030	se abbiam bisogno come ex xxx certo
 BOR007	sì
 BOI030	io ci sono sempre
 BOR007	sì sì
-BOI030	da lì sono andata in @nomeluogo in questo posto si chiamava g~ eh ristorante @nomeluogo
+BOI030	da lì sono andata in in questo posto si chiamava g~ eh ristorante
 BOR007	mhmh a bologna o sempre a san giova~
 BOI030	a san giovanni vicino
 BOR007	sempre a san giovanni
 BOI030	duemilaquattordici e
 BOR007	mhmh
 BOI030	questo tipo
-BOI030	era uno che lavorava a @nomeluogo milano marittima
+BOI030	era uno che lavorava a milano marittima
 BOR007	sì
 BOI030	lì mi mi chiedeva
 BOI030	eh ma tu potresti fare anche
@@ -283,7 +282,7 @@ BOI030	normale
 BOR007	sì
 BOI030	e da lì ho iniziato anche a lavorare là
 BOR007	mhmh
-BOI030	in questa questa @nomeluogo
+BOI030	in questa questa
 BOR007	e quindi
 BOR007	come mh come barista però non come cameriera
 BOI030	no no no come eh la l~ eh la ragazza immagine o hostess
@@ -301,7 +300,7 @@ BOI030	e niente poi lì da duemilaquattordici fino a duemila diciassette
 BOR007	mhmh
 BOI030	poi ho cambiato il lavoro e da lì proprio ho smesso comunque
 BOR007	sì
-BOI030	duemiladiciotto eh lavoravo a @nomeluogo
+BOI030	duemiladiciotto eh lavoravo a
 BOI030	in questo ristorante
 BOR007	mhmh
 BOR007	qua a bologna questo
@@ -316,7 +315,7 @@ BOI030	ho già ero qua a bologna
 BOR007	mhmh
 BOR007	sì
 BOI030	a bologna
-BOI030	ho cambiato il lavoro da @nomeluogo fino al duemiladiciotto e dal duemiladiciotto
+BOI030	ho cambiato il lavoro da fino al duemiladiciotto e dal duemiladiciotto
 BOI030	mi son licenziata per a alcuni motivi
 BOR007	mhmh
 BOI030	poi era anche un po' che non stavo bene in quel momento
@@ -515,7 +514,7 @@ BOR007	e invece per quanto riguarda
 BOR007	ehm
 BOR007	la la zona in cui vivi a bolo~ in in che zona vivi tu
 BOR007	a bologna
-BOI030	allora vi~ eh @nomeluogo dove c'è @nomeluogo
+BOI030	allora vi~ eh dove c'è
 BOR007	mhmh
 BOI030	proprio di fronte quindi se c'ho bisongo se sto male vado a piedi
 BOR007	ehm
@@ -541,7 +540,7 @@ BOR007	mhmh sì
 BOR007	sì
 BOR007	ehm c~
 BOI030	e da lì sono ora sono
-BOI030	dove @nomeluogo è quell'edificio in @nomeluogo
+BOI030	dove è quell'edificio in
 BOR007	mhmh
 BOR007	sì
 BOR007	e come zona ti piace

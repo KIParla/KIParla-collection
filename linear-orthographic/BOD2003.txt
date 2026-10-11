@@ -4,7 +4,7 @@ BO057	allora
 BO057	parliamo un po'
 BO057	rispondi tranquillamente alle mie domande senza nessun problema
 BO057	da dove vieni
-BO070	da @nomepaese in provincia di catanzaro
+BO070	da in provincia di catanzaro
 BO057	quindi in calabria
 BO070	mh mh
 BO057	ti piace la calabria
@@ -320,7 +320,7 @@ BO070	eh mh in via dei platani
 BO070	eh mh
 BO070	descrivo la casa magari
 BO070	eh la casa è molto piccola è un monolocale
-BO070	e abito con eh una ragazza di @nomepaese
+BO070	e abito con eh una ragazza di
 BO070	eh martina
 BO070	e ci siamo conosciuti grazie alla alla politica
 BO070	diciamo che no non pesa tantissimo
@@ -359,7 +359,7 @@ BO070	e la cosa più vicina che vedo sono le ciminiere dell'hera
 BO057	ti piace quindi tutto sommato la tua vista
 BO070	se non ci fossero le ciminiere sì
 BO070	ma siccome ci sono mh no
-BO057	le differenze tra bologna e @nomepaese
+BO057	le differenze tra bologna e
 BO070	mh l'aria che si respira
 BO070	anche perché quando esco dal eh mh
 BO070	qui da casa

@@ -376,7 +376,7 @@ PKP057	ah
 PKP057	mh
 PKP057	secondo me però ha ragione
 PKP057	non ci sta bene nel tuo
-PKP057	perché i tuoi sono già tacconenti e appiccicosi
+PKP057	# perché i tuoi sono già tacconenti e appiccicosi
 PKP060	lo saprà meglio di me
 PKP057	e son già belli saporiti
 PKP057	cioè secondo me è un po' inutile la salsa di soia xx
@@ -612,9 +612,9 @@ PKP057	una mega ciotolona con sotto il fuoco piena di brodo
 PKP057	e c'è in realtà penso sia
 PKP057	non è proprio un brodo è un'acqua salata
 PKP057	e ti danno un sacco di ingredienti crudi e tu li metti dentro
-PKP057	subito metti le verdure che stan lì a padire eccetera eccetera eh
+PKP057	# subito metti le verdure che stan lì a padire eccetera eccetera eh
 PKP057	ehm
-PKP060	padire
+PKP060	# padire
 PKP057	sì ehm
 PKP057	e poi pian piano metti la carne
 PKP057	quindi l'acqua si insaporisce

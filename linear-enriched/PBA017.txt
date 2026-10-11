@@ -22,7 +22,7 @@ BOI080	no eravamo in parco del guasto
 BOI081	parco del guasto del guasto (.) proprio brutto [parco]
 BOI080	((ride))
 BOI080	((ride))
-BOI080	#[sì] smarzissimo ((ride))
+BOI080	# [sì] smarzissimo ((ride))
 BOI081	((ride)) mamma mia
 BOI080	praticamente le nostre: morose: rispettive sono: compagne di corso e quindi:
 BOI081	[ancora] non, (.) all'inizio
@@ -263,23 +263,23 @@ BOI080	tra l'altro
 BOI081	[m::h] BE:NE: a parte che sta sclerando l'anima perché gli hanno dato un'ora in più anche og[gi]
 BOI080	[va bene]?
 BOI080	[uh] sai che invece a me hanno messo gli straordinari e son contentissimo,
-BOI081	#sì, è perché son più schei?
+BOI081	# sì, è perché son più schei?
 BOI080	sì
 BOI080	anche
 BOI081	((ride))
 BOI080	e in più sono straordinari di domenica quindi::
-BOI081	#doppio di schei ((ride))
+BOI081	# doppio di schei ((ride))
 BOI080	sì esatto ((ride))
 BOI080	no però (.) e:hm
 BOI080	come dire tipo hanno dato cinque ore di straordinario:
-BOI080	all' eh c(io)è tipo la x la l'azienda ha concesso cinque ore al negozio
+BOI080	all~ eh c(io)è tipo la x la l'azienda ha concesso cinque ore al negozio
 BOI080	tutte e cinque sono state assegnate a me
 BOI080	quindi è una buona cosa
 BOI081	[o:ttimo]
 BOI080	[perché comunq]ue:: mh vuol dire che tra tutto: lo staff eh
 BOI081	e:h
 BOI080	((cantando)) hanno scelto me::
-BOI081	#(dai di) sche:i ((ride))
+BOI081	# (dai di) sche:i ((ride))
 BOI080	yuhu:
 BOI081	poi ovviamente venti minuti li perderai in bagno perché: insomma c'hai un po' di mal di stomaco e cose x
 BOI080	no mai
@@ -346,7 +346,7 @@ BOI080	eh (.) se conosci qualcuno
 BOI081	((ride)) e che negozio è cos'è che vende?
 BOI080	si può dire?
 BOR022	vai vai
-BOI080	ah @nomeazienda
+BOI080	ah
 BOI080	vinta[ge]
 BOI081	[a]:h
 BOR022	[ah] okay
@@ -507,8 +507,8 @@ BOI081	[c'è una vento]tto
 BOI081	una
 BOI080	eh si potrebbe: pens[a::::::]:::[:::]::
 BOI081	[<son cent(o)'euro e:h>]
-BOI081	#[<è na piotta]
-BOI081	#è na piotta
+BOI081	# [<è na piotta]
+BOI081	# è na piotta
 BOI080	(non) lo facciamo
 BOR022	((ride))
 BOI081	però il quindici arriva lo stipendio
@@ -1028,7 +1028,7 @@ BOR022	((ride))
 BOI080	figurati
 BOI081	((ride))
 BOI080	quelli son viscidi come la merda
-BOI081	#tasi va là
+BOI081	# tasi va là
 BOI080	no qua invece sono super fiscalissimi
 BOR022	ok[ay]
 BOI080	[su ste co]se qua::
@@ -1039,7 +1039,7 @@ BOI080	ma posso dirli i nom[i]?
 BOR022	[s]ì sì puoi dirli x[xxx]
 BOI080	[ah ok] vabbè xxx perché non sapevo se::
 BOR022	puoi: puoi dire tutto [ciò che vuoi]
-BOI080	[okay okay] no prima ero da @nomeazienda (e) adesso sono da @nomeazienda
+BOI080	[okay okay] no prima ero da (e) adesso sono da
 BOR022	((ride))
 BOR022	<ah oka[y> (.) okay]
 BOI080	[e quindi (.) c(io)è sono] proprio due: aziende:
@@ -1134,8 +1134,8 @@ BOI080	intendi di: mh,
 BOI081	[(chi fa) la p]roduzione c(io)è poi al[la fine]
 BOI080	[A:H]
 BOI080	[sì si]curamen[te]
-BOI081	[non f]anno solo: @nomeazienda ma faranno anche altri marchi: [(che tipo:)]
-BOI080	[però il la pelle @no]meazienda viene comunque comprata
+BOI081	[non f]anno solo: ma faranno anche altri marchi: [(che tipo:)]
+BOI080	[però il la pelle viene comunque comprata
 BOI080	e lavorata
 BOI080	quella sì in inghilterra
 BOI080	perché hanno pr[oprio] un::a serie di trattamenti: specifici
@@ -1177,7 +1177,7 @@ BOI081	e::: sì
 BOI081	<piuttosto>
 BOI081	<meglio prendere da un'azienda piccola>
 BOI080	chia[ro]
-BOI081	[che] da °una grande c(io)è poi° alla fine sì @nomeazienda è grande
+BOI081	[che] da °una grande c(io)è poi° alla fine sì è grande
 BOI080	sì sì (d[ai) xxx sì]
 BOI081	[però nel colle]ttivo è piccola
 BOI081	[c(io)è (.) xxxx (macchine)]

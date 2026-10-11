@@ -24,7 +24,7 @@ TOI023	gianni
 TOI023	ciao
 TOI023	scusa anch'io ti ho disturbato comunque è okay v~ vai pure avanti con quella cosa lì poi
 TOI023	sì quando c~ avvisami solo che io ci sia poi siamo a posto
-TOI023	va bin
+TOI023	# va bin
 TOI023	okay
 TOI023	ciao un abbraccio ciao ciao
 TOI022	ti vengo a vedere anche io
@@ -47,8 +47,8 @@ TOR005	sessantacinque provincia di nascita
 TOI022	brindisi
 TOR005	brindisi
 TOR005	e provincia di residenza
-TOR005	torino
 TOI022	torino
+TOR005	torino
 TOR005	torino
 TOR005	titolo di studio
 TOI022	eh elementare a questo punto
@@ -149,8 +149,8 @@ TOI023	a prender le ciliegie
 TOR005	quindi praticamente eh
 TOI023	sì
 TOR005	tutti e due vi siete trasferiti
-TOR005	qui a torino con con le famiglie
 TOI022	ci siamo trasferiti qui a torino con le famiglie
+TOR005	qui a torino con con le famiglie
 TOI023	sì
 TOR005	e vi ricordate un po'
 TOR005	la differenza fra i luoghi di origine
@@ -348,8 +348,8 @@ TOI022	nel sessantadu~ nel sessantadue
 TOI022	sessan~
 TOI022	nel sessanta io andavo sono andato a scuola sessanta sessantuno c'erano da vedere tutte queste cose
 TOI022	però la guerra era già finita da un sacco di anni
-TOR005	certo
 TOI022	perciò se c'erano ancora queste cose è perché probabilmente c'era
+TOR005	certo
 TOI022	c'era questo pericolo
 TOI022	c'era non che c'era noi la vedavamo ogni tanto si sentiva che poi la televisione la avevamo eh nel sessantadue
 TOI022	nel sessantadue una televisione a gettoni ce l'avevamo
@@ -403,18 +403,18 @@ TOI023	sette otto si lavorava già
 TOI022	ah eh
 TOI022	io ho fatto il fabbro
 TOR005	parlatemi un po' di
-TOR005	di quel periodo lì
 TOI022	il sarto
+TOR005	di quel periodo lì
 TOI022	eh è questa la zona
 TOI022	eh cioè si chiamava la zona del
 TOI022	borgo del fumo
 TOI023	si chiama ancora xx
 TOI022	iniziava con tutte
 TOI022	sì
-TOI023	come soprannome è nominato burg dal fum
+TOI023	# come soprannome è nominato burg dal fum
 TOI022	viene nominato
-TOR005	mh
 TOI022	eh
+TOR005	mh
 TOI023	cioè borgo del fumo cioè perché questa zona era
 TOI023	caratterizzata da un miriade di aziende piccole
 TOI022	le fabbriche eh
@@ -656,8 +656,8 @@ TOI022	son~ cinqu~ sono sessant'anni di differenza cinquant'otto anni ma io
 TOI023	eh x x
 TOI022	vedo x le stesse cose che cioè si facevano con noi meridionali
 TOR005	è cambiato il nemico
-TOR005	semplicemente cioè
 TOI022	è cambiato il nemico a ch~ è colorato invece di essere bianco
+TOR005	semplicemente cioè
 TOI023	xxx
 TOI022	questo la
 TOR005	sì
@@ -834,8 +834,8 @@ TOI022	il contratto
 TOI022	e il contratto poi dice mia moglie nata cuneo x x x
 TOR005	eh
 TOI022	quando arriva me lì
-TOI023	auguri
 TOI022	nato ax xx brindisi caspita
+TOI023	auguri
 TOI022	questo c'è rimasto
 TOI023	oh
 TOI022	perché aveva sparlato così male dei meridionali
@@ -1141,8 +1141,8 @@ TOI022	eh entravi era l'unico giorno praticamente era la domenica che nessuno ti
 TOI022	ma in qualsiasi altra sala da ballo se non avevi la cravatta e la camicia
 TOI022	che dentro non entravi
 TOI023	non entravi
-TOR005	ammazza
 TOI022	questo
+TOR005	ammazza
 TOI022	tutte le sale da ballo del centro di torino xx~ faro principe castellino aldria~
 TOI022	cioè tutti le sale da ballo tu
 TOI022	eh senza cravatta e camicia non entravi dentro
@@ -1411,8 +1411,8 @@ TOI023	quel quelle vetrate che ci sono
 TOI023	che c'è la posta persino sotto anche no
 TOI022	ah sì quel palazzo alto che c'è di là del
 TOI023	sì
-TOI023	x xx
 TOI022	di lungo dora
+TOI023	x xx
 TOI023	eh
 TOR005	mh mh
 TOR005	ah ho capito ho capito
@@ -1588,8 +1588,8 @@ TOI022	i nostri personaggi storici del quartiere
 TOI022	ehm
 TOI022	siamo
 TOI022	tra il po' e la dora
-TOI022	e noi ci siamo inventati i personaggi il munsù po
-TOI022	e madama doira
+TOI022	# e noi ci siamo inventati i personaggi il munsù po
+TOI022	# e madama doira
 TOR005	ah ah
 TOI022	che sono andati
 TOI022	tutto il piemonte e la proovincia di torino tutta
@@ -1784,8 +1784,8 @@ TOR005	che abbia
 TOI023	tanti che veni~
 TOI023	venivano da fuori non sapevano dove andare lui li mandava
 TOI023	a ristorante a mangiare pagava lui
-TOI023	per dire
 TOI022	cioè io
+TOI023	per dire
 TOI022	pagavamo noi
 TOI023	xx eh sì per~
 TOI022	non esageriamo
@@ -2107,8 +2107,8 @@ TOI022	che è rima~ è ancora lì
 TOI022	ferma forte come xx xx come l'hanno fatta
 TOI022	eh non mi voglio soffermare come quando hanno fatto superga
 TOI022	come cavolo l'han fatta sta cavolo di cappella di cappella di superga
-TOI023	sì è quello
 TOI022	cioè questo
+TOI023	sì è quello
 TOI022	pensa gli anni che hanno lavorato non c'erano strade non c'erano nie~
 TOI022	tutti a tirare corde dalla città
 TOI022	era un lavorone
@@ -2240,8 +2240,8 @@ TOI022	allora il sognatore è pericoloso se poi vuole realizzare il sogno a tutt
 TOR005	eh eh
 TOR005	sì
 TOR005	sì
-TOR005	sì è vero
 TOI022	okay
+TOR005	sì è vero
 TOR005	vero
 TOI022	cioè tu non devi e poi la prepotenza
 TOR005	sì
@@ -2251,8 +2251,8 @@ TOI022	io sono più bravo di te
 TOI022	ma tu non puoi arrivare con la prepotenza in un posto di comando
 TOI022	e dire a tutti i tuoi sudditi da oggi si fa così
 TOR005	chiaro
-TOR005	non è politica x
 TOI022	questi se possono
+TOR005	non è politica x
 TOI022	ti rovinano
 TOI022	perché basta che non facciano una cosa si sono dimenticati un dipendente che x un usciere
 TOR005	sì
@@ -2297,7 +2297,7 @@ TOR005	con i cartoni
 TOI022	con i no con i cartoni o addirittura col ferro andava a racccogliere il ferro in giro
 TOI023	sì
 TOI023	eh
-TOI022	i feramiun di una volta
+TOI022	# i feramiun di una volta
 TOI023	eh
 TOI022	giravano col carretto c'è gente che si è fatta un impero impero
 TOI022	non ti faccio nomi e cognomi ma

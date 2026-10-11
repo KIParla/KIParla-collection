@@ -123,13 +123,13 @@ PKP085	tantissimo proprio
 PKP083	io sinc~ se devo essere sincera non pensavo si potesse fare aglio olio e peperoncino cremosa
 PKP085	ma tantissimo perché tu
 PKP084	basta che la ma~ fai risottare
-PKP084	binu di 'ollisi
+PKP084	# binu di 'ollisi
 PKP085	perché tu
-PKP085	du 'ollu
+PKP085	# du 'ollu
 PKP085	grazie
 PKP083	mh
 PKP085	perché
-PKP084	binu di 'ollisi
+PKP084	# binu di 'ollisi
 PKP083	quello è buono
 PKP083	eh mo no c'ho la l'acqua
 PKP084	no perché non ce n'è più eh
@@ -241,7 +241,7 @@ PKP084	mischinu
 PKP085	no da vocale
 PKP084	ah
 PKP084	x
-PKP083	puresciu
+PKP083	# puresciu
 PKP085	da vocale
 PKP083	la u
 PKP085	s c
@@ -250,14 +250,14 @@ PKP084	mh
 PKP085	preceduta e seguita da vocale
 PKP083	vabbè e che ne so
 PKP085	vabbè ce ne s~
-PKP084	dessiu
+PKP084	# dessiu
 PKP085	preceduta e seguita da vocale
 PKP084	la esse
 PKP085	singola
 PKP084	ah e vabbè dai allora qua
 PKP085	eh è esse perché è doppia in quel caso sì
 PKP084	eh
-PKP085	e x non diresti dessiu
+PKP085	# e x non diresti dessiu
 PKP083	non lo so se hai detto una cosa vera oppure no
 PKP085	sì
 PKP085	ci ho fatto uno studio
@@ -387,7 +387,7 @@ PKP085	che si pronuncia con la esse
 PKP085	anzi noi facciamo diventare sono~
 PKP085	eh noi ci facciamo diventare
 PKP085	sonore anche quelle che in realtà son sorde quando quando le leghiamo
-PKP085	per esempio deu seu diventa deu seu
+PKP085	# per esempio deu seu diventa deu seu
 PKP083	mh
 PKP085	capito
 PKP084	il mio coltello per favore

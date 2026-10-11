@@ -141,8 +141,8 @@ PKP001	[tu] puoi iniziare l'università verso i quarantatre quarantaquattro,
 PKP004	con molta calma
 PKP001	>con< molta calma
 PKP004	c'è la::: la ricotta (.) prendetela
-PKP003	[la::] mortadella?
 PKP004	[(che fa)]?
+PKP003	[la::] mortadella?
 PKP004	fa troppo caldo eh, (.) bisogna:: mangiarla
 PKP003	no ci sono alcuni che sono ingegneri (.) MOLTI ingengneri [(lì)]
 PKP001	[vabbè certo],
@@ -483,8 +483,8 @@ PKP001	beh, due settimane
 PKP004	mh
 PKP001	>ci sta< anche flic e floc penso che:: scalpitino un po' perché se ne devono andare
 PKP004	allora giulia, (.) m:::::h adesso dice che va a lezioni di chitarra
-PKP003	[mo]?
 PKP001	[ah sì]?
+PKP003	[mo]?
 PKP004	mh (.) come mo? (.) è vero,
 PKP003	e? (.) mo si attiva >che deve fare< chitarra?
 PKP001	QUAL E' il problema?
@@ -535,8 +535,8 @@ PKP004	ce l'avevamo infatti poi non so °che fine [abbia fatto]°
 PKP001	>[ma io] mi ricordo< una chitarra a casa di nonna infatti
 PKP004	se mi sa che >se l'è presa< luca poi (.) credo
 PKP001	ah può darsi (.) tra le varie cose
-PKP005	[EHI] (.) ci vediamo oggi allora
 PKP004	[mh]
+PKP005	[EHI] (.) ci vediamo oggi allora
 PKP004	mh
 PKP005	t'ho detto io finisco eh, poi vado là [velocemente]
 PKP004	[e allora] n:: non penso che ci vediamo
@@ -607,7 +607,7 @@ PKP001	[e quello è]
 PKP001	no sì ci sta,
 PKP004	mh
 PKP004	perché quando fa caldo fa caldo non puoi stare:
-PKP001	>no no infatti< m madò: l'altro giorno che fatica perché stavamo pulendo: la mia camera no?
+PKP001	>no no infatti< mh madò: l'altro giorno che fatica perché stavamo pulendo: la mia camera no?
 PKP001	>allora< io stavo facendo l'armadio e luca stava facendo le finestre da dentro,
 PKP001	quelle di fuori non le abbiam fatte tanto poi piove >cazzi e mazzi<
 PKP004	e vabbè

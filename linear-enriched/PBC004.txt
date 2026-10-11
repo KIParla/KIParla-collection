@@ -15,12 +15,12 @@ BOI011	passavo dei lunghi periodi in centro dai nonni
 BOR004	mh[m:h]
 BOI011	[p]erò:
 BOI011	e:h m~ >il domicilio lo avevo qua insomma (no)<
-BOI011	e:h i nonni stavano in u~ i nonni paterni stavano in @nomeluogo
+BOI011	e:h i nonni stavano in u~ i nonni paterni stavano in
 BOI011	numero quarantaquattro
 BOR004	((ride)) okay
 BOR004	°e:h[m::°]
-BOI011	[e pe]r il resto ho sempre abitato qui nel senso prima in @nomeluogo
-BOI011	poi dopo dopo sposata qua in @nomeluogo
+BOI011	[e pe]r il resto ho sempre abitato qui nel senso prima in
+BOI011	poi dopo dopo sposata qua in
 BOI011	non mi sono mai sposta:ta dalla mia città
 BOI011	poi?
 BOR004	e::h no le piace come:: città::?
@@ -44,8 +44,8 @@ BOI011	coniugata bianchi
 BOI011	la persona a cui è riuscito a torna:re più indietro nel tempo è un tale rossi valerio
 BOI011	che nel milleottocentodieci stava a porta santo ste~ a in piazza santo stefano
 BOI011	la famiglia dei miei è di lì
-BOI011	mio padre è nato in @nomeluogo mia nonna in @nomeluogo
-BOI011	mio nonno in @nomeluogo quindi noi siamo proprio bolognesi
+BOI011	mio padre è nato in mia nonna in
+BOI011	mio nonno in quindi noi siamo proprio bolognesi
 BOI011	nel centro che più centro non si può la casa dove mio padre è nato è tuttora in piedi restaurata ma è ancora lì
 BOR004	mhmh
 BOI011	cioé papà mi ha fatto vedere la finestra della camera da letto in cui lui è nato
@@ -532,7 +532,7 @@ BOI011	ci sono lapidi dove dicono per esempio qui ha abitato leopardi
 BOI011	in: santo stefano qui c'era il teatro del corso andato distrutto dalle bombe
 BOI011	tutte queste lapidi se uno alzasse gli occhi
 BOI011	una volta si diceva dalle vetrine adesso si direbbe dallo smartphone
-BOR004	°mhmh ((ride))°
+BOR004	°mhmh ° ((ride))
 BOI011	se uno alzasse gli occhi così:
 BOI011	di queste lapidi ne vedrebbe veramente tante
 BOI011	è una grande parte della storia di bologna da queste lapidi si può vedere
@@ -559,7 +559,7 @@ BOI011	mi sfugge il nome in questo momento
 BOI011	che era deceduto nei campi di concentramento.
 BOI011	>io mi son precipitata a fotografarla<
 BOR004	mhmh
-BOI011	#dopo qualche giorno lo incontro e fa signora l'ho fotografata quella lapide ma com l'è brotta
+BOI011	# dopo qualche giorno lo incontro e fa signora l'ho fotografata quella lapide ma com l'è brotta
 BOI011	((ride)) com'è brutta
 BOR004	((ride))
 BOI011	quelle intorno sono tutte belle antiche quella lì è tutta moderna ma che schifo
@@ -577,7 +577,7 @@ BOI011	o guardando dall'alto
 BOI011	ammettendo che abbia un elicottero un dirigibile quel che vuoi
 BOI011	o alzando gli occhi ogni tanto
 BOI011	guardando su delle case torri
-BOI011	#scapitozzate ne vede
+BOI011	# scapitozzate ne vede
 BOI011	per esempio ce n'è una proprio lì vicino al portico dei servi
 BOI011	però devi andare dall'altra parte della strada vedere
 BOI011	dove c'è una porticina piccola piccola piccola con le mura di selenite intorno alzare gli occhi
@@ -955,7 +955,7 @@ BOI011	allora gli scienziati dicono è il tempo
 BOI011	è l'inesorabile passare del tempo e le monache dicono no
 BOI011	è la santa che ci avvisa che nel mondo c'è troppa poca fede
 BOR004	mh
-BOI011	#ciapa mo
+BOI011	# ciapa mo
 BOR004	((ride))
 BOR004	((ride))
 BOI011	potenza della fede eh
@@ -1027,7 +1027,7 @@ BOI011	vabbè
 BOI011	vabbè comunque
 BOI011	quello che è certo è che a poche a pochi chilometri di distanza le differenze già si sentono perché
 BOI011	ripeto io avevo una nonna di pontecchio marconi e una di bologna
-BOI011	#una delle due diceva anda a ca e l'altra diceva andogna a chesa
+BOI011	# una delle due diceva anda a ca e l'altra diceva andogna a chesa
 BOR004	a:h
 BOI011	per dire andiamo a casa
 BOI011	io non lo sento praticare tanto da dai ragazzi adesso eh
@@ -1043,11 +1043,11 @@ BOI011	eh come dire per esempio m::h
 BOI011	se io dico accendi no
 BOI011	eh accendi quella luce
 BOI011	uno che crede di parlare mh eh dice:
-BOI011	#azzend cla luz
+BOI011	# azzend cla luz
 BOR004	m:h
-BOI011	#pe~ invece il bolognese dice impeia
+BOI011	# pe~ invece il bolognese dice impeia
 BOR004	ah
-BOI011	#accendere e spegnere sono impier e smorzer
+BOI011	# accendere e spegnere sono impier e smorzer
 BOR004	si
 BOI011	oppure spegni quella lu~ dicono delle:
 BOI011	strafalcionate m:h abbastanza imponenti insomma poveri~ non è colpa loro non
@@ -1066,10 +1066,10 @@ BOI011	un tempo sì c'era questa mitologia della laurea ma adesso di più
 BOI011	perché eh le famiglie si sono rese conto che più il tuo titolo di studio è alto più
 BOI011	per quanto poche larvate siano ora le possibilità di lavoro ne hai qualcuna in più
 BOI011	quindi la frequentazione del dialetto è andata scemando proprio per motivi culturali cioé
-BOI011	#brisa scor in dialat scori in itaian
+BOI011	# brisa scor in dialat scori in itaian
 BOI011	c'è anche una famosa canzone di mingardi che uno dice
-BOI011	#scor bar in italian e quell'altro gli risponde
-BOI011	#perdonate fa der in dal cul
+BOI011	# scor bar in italian e quell'altro gli risponde
+BOI011	# perdonate fa der in dal cul
 BOI011	vai a prendere in quel posto eh io parlo dialetto [poi tu fai que]llo che ti pare
 BOR004	((ride))
 BOR004	[mhmh]
@@ -1099,20 +1099,20 @@ BOI011	abbiamo anche delle invenzioni
 BOI011	come dire curiose per esempio per dire
 BOI011	che hai detto una cosa ovvia
 BOI011	in molti dialetti si dice hai scoperto l'acqua calda noi ce l'abbiamo eh
-BOI011	#t'a squer l'acqua chelda
-BOI011	#però ne abbiamo una molto più elaborate che dice t'è squer la macchina par tagher al brod
+BOI011	# t'a squer l'acqua chelda
+BOI011	# però ne abbiamo una molto più elaborate che dice t'è squer la macchina par tagher al brod
 BOI011	hai scoperto la macchina per affettare il brodo
 BOI011	cioè una cosa completamente inutiLE
 BOR004	((ride))
 BOI011	e:cco
 BOI011	abbiamo delle parole che si prestano anche a degli equivoci clamorosi
-BOI011	#per esempio oggi noi diciamo incù
+BOI011	# per esempio oggi noi diciamo incù
 BOI011	non ti dico nient'altro
 BOI011	una volta un un collega di mio padre che non era bolognese lo sentì che parlava con mia mamma
 BOI011	e disse °ma come parli con la tua fidanzata°
 BOI011	>disse< perché cos'ho detto
 BOI011	°l'hai mandata a:°
-BOI011	#dice no guarda che per noi incù vuol dire oggi lui no::
+BOI011	# dice no guarda che per noi incù vuol dire oggi lui no::
 BOI011	°sì°
 BOI011	ecco piuttosto io ho sentiti il fenomeno contrario
 BOI011	di persone non più giovani
@@ -1120,8 +1120,8 @@ BOI011	che
 BOI011	volendo darsi una patente di nobiltà per parlare un italiano che non erano in grado di parlare
 BOR004	mhmh
 BOI011	facevano dei travasi allucinanti del tipo per esempio in bologna
-BOI011	#a bologna la carota si dice la pistinega
-BOI011	#e: i piselli si dice l'arvaia
+BOI011	# a bologna la carota si dice la pistinega
+BOI011	# e: i piselli si dice l'arvaia
 BOI011	e: questi qui volevano parlare in italiano e dicevano ho comprato dell'arviglia
 BOR004	ma mh
 BOI011	dai c(io)é
@@ -1177,8 +1177,8 @@ BOI011	portarono pazienza fino alla fine
 BOI011	quando arriva la fine
 BOI011	arriva il rodolfo e dice la poveretta è agli estremi mettetela sul letto no
 BOI011	°me~° poveretta è agli estremi mettetela sul letto parte la voce dal loggione che fa
-BOI011	#di so cinein
-BOI011	#fa ban du viaz
+BOI011	# di so cinein
+BOI011	# fa ban du viaz
 BOI011	dai mo ragazzo fai due giri
 BOI011	a causa della mole
 BOR004	((ride))
@@ -1193,7 +1193,7 @@ BOI011	e forse troppi bicchier ne ho tracannato vado fuori all'aperto voce dal l
 BOI011	portati la carta
 BOI011	non specifichiamo che tipo di carta
 BOR004	((ride))
-BOI011	#tu tig la cherta ((ride)) e poi
+BOI011	# tu tig la cherta ((ride)) e poi
 BOI011	risata generale [di tutt il] teatro il poveretto
 BOR004	[mhmh]
 BOR004	((ride))
@@ -1215,18 +1215,18 @@ BOI011	più tardi in tempo di guerra
 BOI011	rimasta vedova anche del secondo marito aveva trovato anche un terzo pretendente a cui lei
 BOI011	non voleva aderire a nessun costo
 BOI011	e questo vecchietto poveretto per andarla a trovare aveva l'enfisema no arrivava su per le scale ((suono_soffocato))
-BOR004	°((ride))°
-BOI011	#signora anna l'am vol spuser
+BOR004	((ride))
+BOI011	# signora anna l'am vol spuser
 BOI011	e lei NO
 BOR004	((ride))
 BOI011	un bel giorno arriva a casa nostra mia nonna aveva ottant'anni pigliava gli autobus e giù come come ridere sì sì sì
 BOI011	e dice o:h
-BOI011	#c'al ciat c'am vulevam spuser l'è mort
+BOI011	# c'al ciat c'am vulevam spuser l'è mort
 BOI011	>dice< quel nonnino [che mi voleva spo]sare è morto
 BOR004	[ah ah]
-BOI011	#meno male c'a nl'ho brisa spusè
+BOI011	# meno male c'a nl'ho brisa spusè
 BOI011	dice meno male che non l'ho sposato
-BOI011	#avan salvada tri volt al porta sgrazia
+BOI011	# avan salvada tri volt al porta sgrazia
 BOI011	rimanere vedova tre volte porta sfortuna
 BOR004	((ride))
 BOI011	ecco

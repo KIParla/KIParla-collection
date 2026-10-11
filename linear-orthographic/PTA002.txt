@@ -46,8 +46,8 @@ TOR001	ehm le abitudini di giovani lavoratori torinesi quindi gli argomenti sono
 TOI002	okay
 TOR001	bene quindi iniziamo che lavoro fate
 TOI003	operaio
-TOI002	io metalmeccanico
 TOR001	mh mh
+TOI002	io metalmeccanico
 TOI003	xxxx
 TOR001	okay
 TOR001	da quanto tempo
@@ -92,8 +92,8 @@ TOI002	no io gestisco cantieri sto sui cantieri noi siamo un'azienda familiare
 TOR001	okay
 TOR001	okay
 TOI002	mio cugino è in un ufficio e segue la parte amministrativa e io s~ s~ gestisco i cantieri
-TOI003	è nato con la camicia praticamente
 TOR001	okay
+TOI003	è nato con la camicia praticamente
 TOR003	però
 TOI002	il t~ il tempo lo passo più che altro al bar no
 TOI003	acqua gasata o xx

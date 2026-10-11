@@ -17,7 +17,7 @@ BOI034	no sì a mh no questa qua eh la bolognina dall'altra parte ferrarese eh e
 BOR005	mh
 BOR005	mhmh
 BOI033	però è sempre bolognina
-BOI034	è sempre bolognina sì via @nomeluogo quindi
+BOI034	è sempre bolognina sì via quindi
 BOR005	mhmh
 BOI034	è sempre la stessa zona
 BOR005	mhmh
@@ -59,8 +59,8 @@ BOI034	a lovoleto
 BOI034	si chiamava lovoleto
 BOI033	si chiama ancora
 BOI034	dodici chilometri
-BOI034	e vi~
 BOR005	mhmh
+BOI034	e vi~
 BOI034	quindi lo co~ lo conosco la zona
 BOI034	era una gran bella zona alberata
 BOR005	mh
@@ -142,7 +142,7 @@ BOI034	una villa
 BOR005	ah
 BOI034	villa hai capito che era
 BOI034	è ancora
-BOI033	diciamo loro giovani della @nomeassociazione ecco
+BOI033	diciamo loro giovani della ecco
 BOI034	x x x
 BOI034	xx
 BOI034	xx
@@ -163,8 +163,8 @@ BOI034	hai capito
 BOI034	sì ma s~ tipo e quei discorsi volati così
 BOI034	e lì c'era un signore che ehm sui quarant'anni che era il sarto del proprietario della villa
 BOR005	mhmh
-BOI034	al dis debbo andare a provare i vestiti al padrone di verdi si chiama
-BOI034	al dis glielo chiedo
+BOI034	# al dis debbo andare a provare i vestiti al padrone di verdi si chiama
+BOI034	# al dis glielo chiedo
 BOI034	così
 BOI034	allora e hai capito
 BOI034	dopo sì fece la riunione dice guardate ragazzi
@@ -333,7 +333,7 @@ BOI033	aspetta che ci fa la domanda
 BOI033	aspetta che ci fa un'altra domanda
 BOR005	e visto che parlavamo adesso qua del quartiere
 BOI034	mh
-BOR005	mh mi chiedevo quando avete iniziato a frequentare invece proprio questo circolo il circolo @nomeluogo
+BOR005	mh mi chiedevo quando avete iniziato a frequentare invece proprio questo circolo il circolo
 BOI034	ah i cento passi qua ho cominciato mhmh quando ha cominciato a far le feste
 BOI034	le feste del xx
 BOI033	sì nel duemilasette abbiamo iniziato
@@ -456,8 +456,8 @@ BOR005	ah
 BOI033	ne son già nate siamo già alla quinta credo
 BOR005	ah davvero così tante
 BOI033	nei vari punti della città è riuscita a far nascere
-BOI034	avevamo avevamo una bella struttura però eh personale
 BOI033	ade~ però prima eravamo tutto pi di capito
+BOI034	avevamo avevamo una bella struttura però eh personale
 BOR005	mhmh
 BOI034	una bellastruttura una bella struttura abbiam montato tutto pezzo per pezzo
 BOI033	sì sì sì
@@ -641,7 +641,7 @@ BOI033	quindi noi come pi di è un'altra cosa
 BOR005	okay
 BOI033	è una cosa a parte ecco
 BOR005	ah oka~
-BOR005	e voi qua come appunto come circolo qua all'interno della zona del @nomeluogo organizzate anche qualche iniziativa sociale proprio per il quartiere
+BOR005	e voi qua come appunto come circolo qua all'interno della zona del organizzate anche qualche iniziativa sociale proprio per il quartiere
 BOI033	più che altro sono poche perché adesso in questo periodo
 BOR005	mhmh
 BOR005	vabbe il periodo non lo permette
@@ -753,12 +753,12 @@ BOI034	ce n'erano cinque sì
 BOI033	bolognina nanni reggiani chiarini
 BOI033	eh la polischi
 BOI034	e poi e po~ e
-BOI033	e poi chi c'era e poi c'eravamo noi la @nomeluogo
-BOI034	c'erano la @nomeluogo
+BOI033	e poi chi c'era e poi c'eravamo noi la
+BOI034	c'erano la
 BOI033	quindi
 BOI033	almeno cinque
 BOI034	sì
-BOI033	@nomeluogo chiarini
+BOI033	chiarini
 BOI033	polischi
 BOI033	nanni reggiani
 BOI033	e bolognina
@@ -783,7 +783,7 @@ BOI033	diciamo adesso io non so lui io quelli che ho vissuto io
 BOI033	passaggio di berlinguer quando tutti protestavano e
 BOI034	no con te
 BOR005	mh
-BOI033	li abbiam fatto nel nostro circolo @nomeluogo che era sicuramente più vissuto
+BOI033	li abbiam fatto nel nostro circolo che era sicuramente più vissuto
 BOR005	mh
 BOI033	gli ultimi congressi che abbiamo fatto qui ahimè purtroppo
 BOI033	renzi
@@ -890,14 +890,14 @@ BOI033	erano tutti là
 BOI034	un gio~
 BOI034	un giorno dice i il co~ l'ufficiale delle cose le quell~
 BOI034	il responsabile diciamo del carrarmato lì
-BOI034	al dis ascolta
-BOI034	al di~ perché non si poteva tener fer~ al chiuso tutti a un po' de eh
+BOI034	# al dis ascolta
+BOI034	# al di~ perché non si poteva tener fer~ al chiuso tutti a un po' de eh
 BOI033	eh no
-BOI034	al dis ascolta vieni qua
-BOI034	al dis chi eser quello là
+BOI034	# al dis ascolta vieni qua
+BOI034	# al dis chi eser quello là
 BOI033	chi sono
 BOI034	e di~ e dico mio cugino
-BOI034	al fe
+BOI034	# al fe
 BOI034	apri l'occhio
 BOI034	eh aveva capito tutto tutto
 BOI034	per eh però
@@ -919,7 +919,7 @@ BOI034	mi ricordo ancora fritz
 BOI034	era un officiale fritz
 BOI034	tutto stracciato e a piedi
 BOI033	ah beh lo credo
-BOI034	al dis ed ehm ma mi sembra e dice hanno distrutto tutti i miei compagni tutti mor~
+BOI034	# al dis ed ehm ma mi sembra e dice hanno distrutto tutti i miei compagni tutti mor~
 BOI034	dice adesso vado a casa
 BOI033	e vai a casa
 BOI034	no vai a casa adesso ti prendono e ti fan fuori
@@ -931,8 +931,8 @@ BOI034	poi dopo ci penso io e
 BOI034	dopo lo pe~ lo lo l'ho inserito eh
 BOI033	ah l'ha assegnato
 BOI034	in mezzo eh eh poi dopo non vuoi più tu
-BOI034	chissà quanti anni
 BOI033	chissà quanti anni chissà quanti anni aveva poi
+BOI034	chissà quanti anni
 BOR005	mh
 BOI033	perché c'erano anche dei soldati che avevan sedici anni
 BOI034	xxxxxxx
@@ -1002,7 +1002,7 @@ BOI033	e la gente si mangiava con quello lì dice io ero diventato bianco magro
 BOI033	mia madre mi ha trasferito a castel maggiore che è poco lontano da qui
 BOR005	mhmh
 BOR005	sì
-BOI033	al dis trasferito a castel maggiore
+BOI033	# al dis trasferito a castel maggiore
 BOI033	dopo due mesi han cominciato a bombardare castel maggiore
 BOR005	maggiore
 BOI033	però sì sai se lui è venuto qua nel quarantatré bologna era una città che veniva bombardata sì
@@ -1174,7 +1174,7 @@ BOI033	io pensavo che fossi
 BOI034	io quando avevo il negozio
 BOI034	quando avevo il negozio
 BOI034	fra il caffè e le sigarette ero riuscito a non far più tre gradini e andare in casa
-BOI033	ah socc
+BOI033	# ah socc
 BOI034	a quarantaquattro anni
 BOI034	ho venduto l'attività sono andato a fare la guardia giurata
 BOI034	capito
@@ -1206,7 +1206,7 @@ BOR005	quello è bello
 BOI034	ascolta fino a
 BOI033	col trenino
 BOI034	la bicicletta per me è stata una salute
-BOI033	ah sì sì però soccia andare fino a san luca in bicicletta
+BOI033	# ah sì sì però soccia andare fino a san luca in bicicletta
 BOI034	e ne ho fatte tutti i colori
 BOI033	non c'ho il fisico io non c'ho il fisico
 BOI034	e ho fatto la montagna ho fatto la pianura ho fatto di tutto
@@ -1307,8 +1307,8 @@ BOI033	ah io non l'ho mai visto il tram quindi
 BOI034	speriamo che lo facciano un'altra volta
 BOI033	beh sì adesso lo fanno
 BOR005	ah c'era il tram a bologna
-BOI034	ben
 BOI033	sì
+BOI034	ben
 BOR005	ah sì
 BOI033	fino al sessantatré
 BOI033	al sessantatré
@@ -1372,7 +1372,7 @@ BOI033	saragozza
 BOI034	e si chiamava via bregoli
 BOI033	sì i brigoli
 BOI033	i famosi brigoli da noi si dice
-BOI034	perché sai perché i bregoli per noi in dialetto sono e il rottame dei de~ de~ del legno
+BOI034	# perché sai perché i bregoli per noi in dialetto sono e il rottame dei de~ de~ del legno
 BOR005	mh
 BOI033	su e giù per i brigoli
 BOI033	c'è il famoso detto qui
@@ -1382,13 +1382,13 @@ BOI034	diciamo bel~ io non ho mai
 BOI034	li ho conosciuti leggendo
 BOI033	sì perché
 BOR005	comu~ comunque gino adesso che ha detto bregoli devo dire che io da studente fuorisede ci son delle parole bolognesi proprio in dialetto che non le capisco proprio
-BOI034	sì dai bregoli i bregoli erano
+BOI034	# sì dai bregoli i bregoli erano
 BOI033	non sei mica l'unico
 BOI034	ehm co~ quando fanno la legna
 BOR005	mhmh
 BOI034	che fan la legna tu~ tutti i pezzettini della legna così
 BOR005	mhmh
-BOI034	sì noi li chiama~ guarda quanto xx al breghel quant al breghel
+BOI034	# sì noi li chiama~ guarda quanto xx al breghel quant al breghel
 BOI033	xx xx
 BOI034	allora poi dopo in italiano allora i brigoli
 BOR005	ma a voi capita spesso di parlare in dialetto

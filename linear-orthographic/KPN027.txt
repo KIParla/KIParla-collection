@@ -104,7 +104,7 @@ PKP115	allora dopo un po' fa
 PKP115	il cameriere
 PKP115	vabbè
 PKP115	potete andarci anche in tre alla volta io se
-PKP115	non son da sola
+PKP115	non son da sola ride
 PKP115	allora andiamo prendiamo da mangiare
 PKP115	tutto normale
 PKP115	xx poi vabbè
@@ -243,10 +243,10 @@ PKP115	x ma questa che stai dicendo te
 PKP115	è quella che andava alle medie con me
 PKP116	eh
 PKP115	questa è la mia ami~
-PKP115	la mi~ la mara con la m
+PKP115	la mi~ la mara con la mh
 PKP115	non nara
 PKP115	con la n
-PKP115	mara con la m
+PKP115	mara con la mh
 PKP115	è questa mia amica riccia
 PKP115	hai presente l'hai vista alta
 PKP116	me la ricordo poco sai
@@ -1031,7 +1031,7 @@ PKP115	ah
 PKP115	poi aspe~
 PKP115	gli fa
 PKP115	aspetta ad arrivare a casa
-PKP115	po te facc veder i
+PKP115	# po te facc veder i
 PKP115	poi in diale~ cioè
 PKP115	tutto questo in dialetto
 PKP115	rende la cosa ancora più

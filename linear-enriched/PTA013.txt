@@ -243,7 +243,7 @@ TOR001	[mh mh mh mh]
 TOR001	d'[accordo]
 TOI001	°[sei] una merda°
 TOR001	[e::h]
-TOR002	°[x potevi a]verne uno dei due ((ride))°
+TOR002	°[x potevi a]verne uno dei due ° ((ride))
 TOR001	po po po
 TOR001	dunque al lavoro mi hai detto che andresti avanti potendo scegliere andresti avanti a fare quello che fai giusto?
 TOI015	sì
@@ -342,7 +342,7 @@ TOR001	okay
 TOI015	c'è un tabaccaio e basta
 TOR001	okay
 TOI015	e poi c'è il mercato ma ((ride)) è troppo distante quindi a piedi è irraggiungibile
-TOR001	°((ride))°
+TOR001	((ride))
 TOR001	d'accordo
 TOR001	quindi in termini di servizi proprio di offerta di cose da (.) [fare lì]?
 TOI015	[°sì° esatto]
@@ -686,8 +686,8 @@ TOI015	e nonostante ciò lui ti dice io ho bisogno di fare le serate per camp[ar
 TOR001	[mh] mh
 TOI015	per a[ssurdo]
 TOR001	[cer]to
-TOI001	[sì]
 TOI015	e:: la ferragni ha iniziato a farlo però la ferragni secondo me non ha nemmeno bisogno di farlo
+TOI001	[sì]
 TOI015	cioè ha iniziato a farlo così un po' per gioco e adesso si ritrova ad essere uno dei dei trender più::
 TOI015	più seguiti (.) delle persone più seguite::
 TOI015	sul panorama di instagram quindi
@@ -700,8 +700,8 @@ TOI015	[appen]a uscirà magari un nuovo social network:
 TOI015	sparisce anche da lì
 TOI001	sì però se uno è stato curato nelle sue cose ma eh
 TOI001	vale per quello come può valere su questioni economiche tipo i bitcoin no?
-TOI001	[sono: la moneta]
 TOI015	[no okay però tu guarda]
+TOI001	[sono: la moneta]
 TOI001	c'è [chi ha c]avalcato quell'onda
 TOI015	[il]
 TOI001	[s(i) è arrichi]to all'epoca adesso ci sta andando a perde[re probabilmente]
@@ -1224,7 +1224,7 @@ TOR002	[o di] quattro
 TOR001	all[ora andiamo avanti]
 TOI001	[sì lì fai scopa con] [tu](tto)
 TOR001	[eh]m:: cosa fai durante il tempo libero?
-TOI001	poi c(i) ho anche un' evolu~
+TOI001	poi c(i) ho anche un'evolu~
 TOI001	un'altra domanda
 TOR001	eh no mo falla però [ti prego s~]
 TOI001	[no: vai vai] [fai fa](i)
@@ -1446,8 +1446,8 @@ TOI001	eh [dammi un indirizzo g]enerico
 TOI015	[stai zitto]
 TOI015	e::h
 TOI015	italiane
-TOI001	[ital]iane
 TOI015	[non si x]
+TOI001	[ital]iane
 TOI015	non si chiede [quali]
 TOR001	[itali]ane?
 TOI015	canzoni itali[ane]

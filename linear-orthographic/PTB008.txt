@@ -178,9 +178,9 @@ TOI024	e ah c'è una signora
 TOI024	che dov'è andata ha detto che andava a prendere il caffè che voleva rinnovare la tessera x
 ???	eh vabbè aspetta un attimo
 ???	poi deve andar via
-TOI024	no non è lì ndua l'è
+TOI024	# no non è lì ndua l'è
 ???	ah
-TOI024	sai nen
+TOI024	# sai nen
 TOI024	è sparita già
 TOI024	ah è lei è lei è lei è lei
 TOI024	è lì è lì è lì è lì
@@ -257,13 +257,13 @@ TOR005	ehm
 TOR005	quindi ehm
 ???	ah sei qua
 TOI024	eh eh eh
-TOI024	sta inten~
 ???	x
+TOI024	sta inten~
 TOR005	prego
 TOI024	eh
-TOI024	a i'è na tessera da fè
-TOI024	poi ha detto che dobbiamo a essere in due
+TOI024	# a i'è na tessera da fè
 ???	eh
+TOI024	poi ha detto che dobbiamo a essere in due
 TOI024	adesso mi fa qualche domanda
 TOI024	eh
 TOI024	è l'altra mia collega
@@ -386,13 +386,13 @@ TOI024	ah mi ricordo poco
 TOI024	comunque in via meucci mi pare nove
 TOR005	ah okay eh va bene
 TOI024	mh eh c'era la
-TOI024	l'avviamento commerciale
 ???	eccomi
-TOI024	ecco
+TOI024	l'avviamento commerciale
 ???	oh
+TOI024	ecco
 TOR005	salve buongiorno
-TOI024	x eh
 ???	ce l'ho fatta
+TOI024	x eh
 TOI024	eh questa è l'altra mia collega
 TOR005	salve
 TOI024	eh
@@ -582,8 +582,8 @@ TOI024	sì
 TOR005	perché
 TOI024	sì nei dintorni nelle nei paesi
 ???	sì perché prima non c'è quasi mai visto che
-TOI024	eh
 ???	non può
+TOI024	eh
 ???	è un po' famoso
 ???	eh
 TOI024	è famo~
@@ -735,7 +735,7 @@ TOI024	più o meno
 ???	oh me me
 ???	la mia non è una bella vita x
 TOR005	oh ma
-???	che am fasa nen ed dumande
+???	# che am fasa nen ed dumande
 TOI024	ne avrà viste di peggio
 TOI024	o sentite di peggio
 TOR005	assolutamente
@@ -789,8 +789,8 @@ TOR005	allora
 TOR005	le do la liberatoria intanto
 TOI024	e intanto magari finiamo
 TOR005	la penna
-TOI024	le domande per me
 ???	dammi la biro
+TOI024	le domande per me
 TOR005	uno
 TOR005	ehm
 TOR005	allora
@@ -801,7 +801,7 @@ TOR005	due firme
 TOR005	no aspetti che mi son perso l'altra
 ???	anche qua bisogna farla ah solo qua
 TOR005	sì no solo qui sotto la firma e qui sopra nome e cognome
-???	eh semp istess
+???	# eh semp istess
 TOR005	sì
 TOI024	eh
 TOR005	però però no~ nome e cognome lo leggo meglio però
@@ -833,8 +833,8 @@ TOR005	anziché andare a milano o aosta
 TOR005	okay
 TOI024	mah eh torino è una bella città tranquilla
 TOI024	eh insomma più o meno
-TOI024	x la sera di giorno trovi x
 ???	era
+TOI024	x la sera di giorno trovi x
 ???	al~ allora torino era una bella città
 TOI024	se viene in questo borgo
 ???	tranquilla
@@ -846,8 +846,8 @@ TOI024	le dico vieni ad abitare in questo borgo
 TOI024	come ho fatto io
 TOR005	benissimo
 ???	sì
-TOI024	e vedrai che sarai bene accolto
 ???	questo sì xxx
+TOI024	e vedrai che sarai bene accolto
 TOI024	se è un uomo o una donna non lo so
 TOR005	va bene
 TOI024	sarai ben accolto
@@ -872,6 +872,6 @@ TOR005	allora io la ringrazio intanto
 TOR005	rimanga qui con noi se vuole intervenire assolutamente
 ???	sì sì rimane così ci dà una mano
 TOR005	eh
-???	così chila sa già tut
+???	# così chila sa già tut
 TOI024	eh sì ho già ho già risposto
 TOR005	ah beh ma poi abbiamo la signora

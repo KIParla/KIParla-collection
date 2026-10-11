@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:37:08+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:55:44+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="PBA008.mp3" RELATIVE_MEDIA_URL="PBA008.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -2167,7 +2168,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts2162" TIME_VALUE="2562045" />
 		<TIME_SLOT TIME_SLOT_ID="ts2163" TIME_VALUE="2562981" />
 		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BOI067" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -3041,7 +3041,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a269" TIME_SLOT_REF1="ts536" TIME_SLOT_REF2="ts537">
-				<ANNOTATION_VALUE>#e:::: proprio in balotta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e:::: proprio in balotta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3306,7 +3306,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a355" TIME_SLOT_REF1="ts708" TIME_SLOT_REF2="ts709">
-				<ANNOTATION_VALUE>#no meglio sì un po:' a volte troppo me ne sbatt' u' cazz'</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># no meglio sì un po:' a volte troppo me ne sbatt' u' cazz'</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4231,7 +4231,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a653" TIME_SLOT_REF1="ts1304" TIME_SLOT_REF2="ts1305">
-				<ANNOTATION_VALUE>e ora ne he rimasto un pezzo grande c~ di queste dimensioni qua</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e ora ne eh rimasto un pezzo grande c~ di queste dimensioni qua</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4536,7 +4536,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a749" TIME_SLOT_REF1="ts1496" TIME_SLOT_REF2="ts1497">
-				<ANNOTATION_VALUE>#sì molto (.) son delle cartole</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># sì molto (.) son delle cartole</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

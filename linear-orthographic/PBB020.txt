@@ -96,7 +96,7 @@ BOI059	perché anche lì ho visto nascere
 BOI059	il primo grande supermercato
 BOI059	il primo supermercato di bologna che era appunto il centro borgo che oh grande ipercoop e tutto il resto è stato tanta roba per per noi
 BOI059	io
-BOI059	con le cassiere scherzo sempre io ero una delle cinne che saltellava sul gonfiabile all'apertura adesso
+BOI059	# con le cassiere scherzo sempre io ero una delle cinne che saltellava sul gonfiabile all'apertura adesso
 BOI059	ci vengo a fare l~ mh le mie spese da
 BOI059	eh donna con una famiglia con una casa ecco
 BOR017	credi che ci siano delle differenze tra i vari quartieri a bologna e tra le persone
@@ -158,7 +158,7 @@ BOI059	senza per forza aver
 BOI059	del
 BOI059	mh
 BOI059	della remora oddio devo andare per una mostra figa fino a milano
-BOI059	anche lì quando ero cinna io dovevi andare fuori per vedere cose belle
+BOI059	# anche lì quando ero cinna io dovevi andare fuori per vedere cose belle
 BOI059	adesso invece
 BOI059	parte di bologna che mi piace della modifica
 BOI059	adesso è facile
@@ -169,7 +169,7 @@ BOI059	da bolognese ti dico che
 BOI059	se per mercato intendi la mon~ la piazzola
 BOI059	solo in certi momenti
 BOI059	perché anche lì
-BOI059	se c'è del fitto in piazzola è un po' un casino io n~
+BOI059	# se c'è del fitto in piazzola è un po' un casino io n~
 BOI059	non amo il fitto
 BOI059	però il martedì mattina alla barca piuttosto che il mercoledì a san giovanni che è un comune lievemente fuori ma comunque sempre dell'hinterland bolognese
 BOI059	piuttosto che se no a borgo panigale sotto il comune sotto il quartiere che è il vecchio comune
@@ -217,13 +217,13 @@ BOI059	quindi i giovani in generale è un discorso fin troppo vago
 BOI059	avendo avuto a che fare con voi che
 BOI059	vuoi forza mh lavoro quello che vuoi siete costretti anche
 BOI059	a portare a casa gli esami ma anche con i vostri amici che vengono a trovarvi
-BOI059	ho capito in realtà che è fisiologico il momento di sbrago totale
+BOI059	# ho capito in realtà che è fisiologico il momento di sbrago totale
 BOI059	però poi alla fine si ritorna sempre nei binari quindi
 BOI059	trovo anche
 BOI059	che siate in realtà adesso poi ci emozioneremo nel dirci queste cose
 BOI059	un piccolo tesoro nascosto perché potete dare tanto
 BOI059	a chi come me all'inizio era un po' paraocchi perché
-BOI059	cinno di merda fai ca~ fai del casino e basta
+BOI059	# cinno di merda fai ca~ fai del casino e basta
 BOI059	in realtà potete dare tanto a questo posto a questa città ed è una cosa figa
 BOI059	quindi sì penso che
 BOI059	sono contenta che i giovani vengano qui e e penso che sì il mio
@@ -241,12 +241,12 @@ BOI059	xx appunto non è che l'unica portiera l'unico eh mh dipendente di portin
 BOI059	principalmente bolognese
 BOI059	io vi devo insegnare tre cose
 BOR017	mh
-BOI059	che la spazzatura è il rusco
-BOI059	che il ragazzo è il cinno e declina regolare italiano quindi cinno cinna cinni cinne
+BOI059	# che la spazzatura è il rusco
+BOI059	# che il ragazzo è il cinno e declina regolare italiano quindi cinno cinna cinni cinne
 BOI059	e che
 BOI059	quando vuoi farti aprire da lontano
 BOR017	esatto
-BOI059	chiedi il tiro
+BOI059	# chiedi il tiro
 BOR017	sì
 BOR017	mi ricordo
 BOI059	questo per me
@@ -269,15 +269,15 @@ BOI059	esatto sulla nuova
 BOR017	sul nuovo posto
 BOI059	esatto sul~ esatto
 BOR017	ed è fondamentale eh
-BOI059	sì anche perché altrimenti ascolta mi dai il tiro tu non sai cos'è dici cosa devo fare di questo campanello in cui c'è scritto tiro
-BOR017	io le prime volte ero sconvolto da dammi un tiro
+BOI059	# sì anche perché altrimenti ascolta mi dai il tiro tu non sai cos'è dici cosa devo fare di questo campanello in cui c'è scritto tiro
+BOR017	# io le prime volte ero sconvolto da dammi un tiro
 BOI059	eh certo
 BOR017	cioè non capivo con tutto che lo sapevo non capivo
 BOI059	anche perché
 BOI059	anche la sigaretta è un tiro
 BOR017	eh certo
-BOI059	può essere anche un cuccio
-BOI059	ma un cuccio di sigaretta è più nei
+BOI059	# può essere anche un cuccio
+BOI059	# ma un cuccio di sigaretta è più nei
 BOI059	se so che sei bolognese dico oh ascolta dammi ben un cuccio di sigaretta se no è dammi un tiro
 BOI059	anche di quello che è diverso da dammi il tiro
 BOR017	okay
@@ -479,11 +479,11 @@ BOI059	faccio molta fatica
 BOI059	la cosa che mi manca di più in realtà e che mi dispiace di più sono i vecchi quando
 BOI059	adesso io non li ho mai visti perché sono xx per assurdo anche troppo piccola
 BOI059	mio marito ha sei anni più di me
-BOI059	lui andava in centro a bologna da cinno
-BOI059	appunto perché cinno è automatico
+BOI059	# lui andava in centro a bologna da cinno
+BOI059	# appunto perché cinno è automatico
 BOI059	e c'erano i capannelli di vecchietti che parlavano in dialetto
 BOI059	tu potevi arrivar lì e parlare
-BOI059	ma a scor in dialat
+BOI059	# ma a scor in dialat
 BOI059	no solo in dialetto quindi c'era un modo per impararla
 BOI059	gli anziani pian piano son diventati morti
 BOI059	gli adulti pian piano non lo sapevano più quindi non non si pratica più così tanto mi dispiace tantissimo
@@ -566,7 +566,7 @@ BOR017	xxx
 BOI059	ma che ero
 BOI059	nei portici di via santo stefano perché sono i nostri portici sono casa per noi letteralmente
 BOR017	ah okay
-BOI059	tutti i vari scrumazzi fatti perché hai la scarpa slacciata
+BOI059	# tutti i vari scrumazzi fatti perché hai la scarpa slacciata
 BOI059	ma tanto sei sotto al portico e non ti smerdi di fango
 BOR017	esatto
 BOR017	ehm
@@ -603,7 +603,7 @@ BOI059	alla struttura perché altrimenti la struttura veniva giù
 BOI059	in più
 BOI059	ha di particolare il fatto che
 BOI059	ehm
-BOI059	è da lì che nasce il tiro di bologna nel senso
+BOI059	# è da lì che nasce il tiro di bologna nel senso
 BOR017	okay
 BOI059	si dice sempre stesso discorso che ci fosse la chiusura
 BOI059	sulle porte
@@ -611,7 +611,7 @@ BOI059	e
 BOI059	praticamente
 BOI059	al piano superiore
 BOI059	all'altezza della porta c'era una corda
-BOI059	che era legata alla porta del piano di sotto quindi da giù oh dammi il tiro
+BOI059	# che era legata alla porta del piano di sotto quindi da giù oh dammi il tiro
 BOI059	tu tiravi la corda che non era questione di contrappeso era proprio tiravi su la porta
 BOR017	wow
 BOI059	per aprire la porta sotto quindi il nostro dammi il tiro
@@ -662,7 +662,7 @@ BOI059	se è proprietà della chiesa che la chiesa lo sistemi se è patrimonio d
 BOI059	che son consumati uno sì e mh eh
 BOR017	sì sì è rischioso è rischioso
 BOI059	è più difficile al di là di rischioso
-BOI059	l'è più difezil andar sò eh oh si fa della fatica per niente ecco
+BOI059	# l'è più difezil andar sò eh oh si fa della fatica per niente ecco
 BOR017	vero
 BOR017	verissimo
 BOR017	ma ho visto che prima hai citato il cibo passiamo dunque al cibo
@@ -710,14 +710,14 @@ BOI059	zucchine e basta
 BOI059	perché son poi le robe che anche lì coltiviamo anche noi eh x
 BOI059	come fai a sapere
 BOI059	se un piatto va nel se una verdura va nel gran fritto
-BOI059	la carota è la pistinaga
+BOI059	# la carota è la pistinaga
 BOI059	nel nostro dialetto più antico e quindi ci va
-BOI059	lo zucchino sono i zucchini quindi hanno comunque un'accezione
+BOI059	# lo zucchino sono i zucchini quindi hanno comunque un'accezione
 BOI059	dialettale quindi ci va
-BOI059	la carota di sicuro perché appunto pistinaga mamma mi chiamava la mia piccola pistinaga
+BOI059	# la carota di sicuro perché appunto pistinaga mamma mi chiamava la mia piccola pistinaga
 BOR017	vero
 BOI059	sì
-BOI059	io ero tutto l'orto per mia mamma la pistinaga rimane sempre la mia preferita
+BOI059	# io ero tutto l'orto per mia mamma la pistinaga rimane sempre la mia preferita
 BOI059	quindi gran fritto bolognese assolutamente tortellino
 BOI059	in brodo
 BOR017	sempre rigorosamente
@@ -793,7 +793,7 @@ BOI059	poi li tiri fuori li pani in un misto di
 BOI059	eh x
 BOI059	tiri fuori il doratino
 BOI059	lì dov'è lo pani in un misto di pangrattato e grana grattugiato
-BOI059	poi se sei veramente una brutta persona lo ripucci in altro olio e di nuovo in pangrattato e uovo
+BOI059	# poi se sei veramente una brutta persona lo ripucci in altro olio e di nuovo in pangrattato e uovo
 BOI059	mh cioè ma non prima pangrattato e poi formaggio formaggio e non uovo
 BOI059	non separati insieme
 BOR017	insieme
@@ -822,8 +822,8 @@ BOI059	lo fai perché lo fai con amore
 BOI059	è il discorso di prima
 BOI059	bologna è una città figa
 BOI059	facciamo il tortellino di pollo
-BOI059	per quei cristian ch~
-BOI059	che quei cristian non è perché non son cristiani appunto
+BOI059	# per quei cristian ch~
+BOI059	# che quei cristian non è perché non son cristiani appunto
 BOI059	che non possono mangiare il il il maiale cioè è è così per noi
 BOI059	il tortellino è un misto di più carni di maiale tendenzialmente vari pezzettini lonzina coscina pezzettini vari e mortadella
 BOI059	quindi chi becca il pepe è la persona fortunata

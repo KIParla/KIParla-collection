@@ -22,7 +22,7 @@ PKP100	no
 PKP101	[a:h]
 PKP103	[augu]ri:
 PKP102	((applaude))
-PKP100	((ride)) []
+PKP100	((ride))
 PKP102	[auguri]
 PKP101	auguri
 PKP102	[>allo]ra<
@@ -151,11 +151,11 @@ PKP101	[ecco] qua
 PKP100	grazi[e]
 PKP101	[o]kay
 PKP101	poi ci sono que:sti
-PKP100	[brava ma era~ erano i tuoi erano i] [tuoi ho sbagliato]
 PKP101	[(ma io ce l'ho)]
+PKP100	[brava ma era~ erano i tuoi erano i] [tuoi ho sbagliato]
 PKP102	[x x x] x x
-PKP100	[scusa]te
 PKP101	[(>ah va bene<)]
+PKP100	[scusa]te
 PKP101	questi qua
 PKP100	te li do
 PKP101	(vai)
@@ -204,8 +204,8 @@ PKP101	e poi (.) chi la vuole una più?
 PKP101	ilaria?
 PKP100	grazie
 PKP101	tu la vuoi?
-PKP102	[ah a:h]
 PKP101	[ah, va]bbè dai
+PKP102	[ah a:h]
 PKP101	okay
 PKP103	no: vabbè x x ma cos'è >non mi ricordo più< [una mozzarelli:na o] [un:]?
 PKP102	[non lo sappiamo]
@@ -305,8 +305,8 @@ PKP101	ma po:i:
 PKP101	son successo:ni però: eh
 PKP100	ma
 PKP100	m:h
-PKP100	[x x x]
 PKP101	[x x x]
+PKP100	[x x x]
 PKP100	le ho viste delle puntate forse era::
 PKP103	mh
 PKP103	e forse su:: mediaset [extra]
@@ -324,8 +324,8 @@ PKP101	eh. sì.
 PKP103	no ma era una cagata: ((ride))
 PKP100	((ride))
 PKP103	non faceva nie:nte ma
-PKP100	[facevan le belle]
 PKP101	[ma: sì:]
+PKP100	[facevan le belle]
 PKP101	canta:vano
 PKP103	canta:vano, e ogni tanto piange:vano
 PKP101	>poi c'eran già dei giochini<, stupida:[ggini]
@@ -344,8 +344,8 @@ PKP103	ma poi è andata proprio alla riba:lta perché (le ha de~ tu devi fare) l
 PKP101	[eh]
 PKP101	sì sì
 PKP102	di che?
-PKP100	[ambra angiolini]
 PKP101	[(la) angiolini]
+PKP100	[ambra angiolini]
 PKP102	beh mica c'ha x x x x
 PKP101	eh?
 PKP102	tutto [x x x] e:h
@@ -418,8 +418,8 @@ PKP102	quando fa (.) sai che so >proprio< x x x x
 PKP103	mh
 PKP101	[io pure sì]
 PKP103	[e:h papà:] (ei::)
-PKP100	[sono ti~] (.) ma sono tipo ze:ppole alla fine (.) sono tutte (impasti)
 PKP101	[buoni]
+PKP100	[sono ti~] (.) ma sono tipo ze:ppole alla fine (.) sono tutte (impasti)
 PKP101	sono delle pa~ delle:: non sono buone, [no]?
 PKP102	[mh]
 PKP103	[mh]mh
@@ -427,8 +427,8 @@ PKP102	son buone
 PKP101	eh sì sì
 PKP102	[x x x]
 PKP100	[non mangiare xx]
-PKP102	[così]?
 PKP101	[eh (.) (nos]tre)
+PKP102	[così]?
 PKP102	e allra stamm [buon]
 PKP101	[no:] no no no: il sapo[re sa di]
 PKP103	[e:h m:h]
@@ -486,8 +486,8 @@ PKP101	ah sì::?
 PKP103	ah io sapevo così poi non lo so eh
 PKP101	e: allo[ra x così]
 PKP103	[e poi:: mh] è stata con alle:gri e allegri invece (l'ha piantata x x pure) ((ride))
-PKP102	[x x x]
 PKP101	[ma lei poi è un po'::] lei l'ha detto che è un po' sfortuna:ta già
+PKP102	[x x x]
 PKP100	non ha:::
 PKP101	(io sì poi quindi)
 PKP100	no: aspe~
@@ -624,7 +624,7 @@ PKP103	po::i
 PKP100	[(no i~)]
 PKP103	[(noi) le] stupide m:h
 PKP100	sì
-PKP100	m boi e:h m::h boia:te
+PKP100	mh boi e:h m::h boia:te
 PKP100	e poi que[sti qua che poi] devo vedere [da:: da x]
 PKP101	[ci siamo eh]
 PKP102	[senti la metto] su:: la mando su coso allora sta foto che dici eh?
@@ -686,8 +686,8 @@ PKP103	con quelli be:lli però
 PKP100	no °quelli brutti°
 PKP100	m::h
 PKP100	(que~ la guarda per altri venti minu:ti)
-PKP100	[vabbé ma]gari ce le facciamo più belle: non lo so davanti l'albero come: ah, °ce le fa no:no davanti l'alberò° ((ride))
 PKP101	[okay]
+PKP100	[vabbé ma]gari ce le facciamo più belle: non lo so davanti l'albero come: ah, °ce le fa no:no davanti l'alberò° ((ride))
 PKP103	[m:::h]
 PKP101	[oka]y
 PKP100	vai mam(m)a
@@ -696,8 +696,8 @@ PKP103	daje sto riso:tto::oh [mamma]:
 PKP101	[sì sì sì]
 PKP100	da:je ro:ma:
 PKP103	daje
-PKP100	((ride))
 PKP101	a x vedi che non lo voglio cru:do eh
+PKP100	((ride))
 PKP101	no
 PKP100	meno ma~
 PKP103	daje:
@@ -735,8 +735,8 @@ PKP103	m:h
 PKP102	[x x x]
 PKP103	(orga[nizzarlo) a casa no:stra] in poche parole (vai)
 PKP101	[x x (prendi quello)]
-PKP100	[e:: il fatto è] che dovrei invi[tare più ge:]nte tipo le coinquiiline di matteo >qui[ndi<]
 PKP101	[(come è venuto fuori?)]
+PKP100	[e:: il fatto è] che dovrei invi[tare più ge:]nte tipo le coinquiiline di matteo >qui[ndi<]
 PKP101	[(vuoi il piccante?)]
 PKP102	[m::]h no
 PKP102	ah c'era un profu:mo qua
@@ -851,8 +851,8 @@ PKP102	[il ri:so] (.) fore no:n
 PKP103	[E INVECE MAMMA]
 PKP102	il riso un pochino:
 PKP102	non lo so
-PKP102	[(come no)]
 PKP101	[(come no)]
+PKP102	[(come no)]
 PKP102	(poi) [è cari:no eh]
 PKP103	[no (.) per me c]i voleva un po più di sa:le
 PKP100	e si [può aggiu:ngere quello]
@@ -861,8 +861,8 @@ PKP100	io lo aggiungerei
 PKP103	ma invece mamma federico (è) suo fi:glio
 PKP101	e quella è (u)na bambi:na [o un bambi:no no]:: un figlio non so ora che
 PKP103	[ah una bambina]
-PKP100	[a:::h ve::ro]::
 PKP101	[era con la (canottina)]
+PKP100	[a:::h ve::ro]::
 PKP100	quanti anni ha:?
 PKP101	eh l'[età di marianna]
 PKP103	[du:e]?
@@ -948,8 +948,8 @@ PKP100	(sta[vo con i grandi io)]
 PKP102	[è figlia di una amica tua]?
 PKP102	((sii_schiarisce_la_voce))
 PKP103	amica
-PKP100	[mh]
 PKP101	[la figlia di] marisa bianchi
+PKP100	[mh]
 PKP101	x x [x x]
 PKP103	[amica]. tua. mamma.
 PKP100	((ride))
@@ -1073,8 +1073,8 @@ PKP103	al lido
 PKP103	lei era amica di u:na
 PKP103	che in realtà ho scope:rto che era la fi:glia
 PKP103	della professore:ssa di e >storia e filosofi:a< di alessia isabella e laura
-PKP100	[mhmh]
 PKP101	[a::h]
+PKP100	[mhmh]
 PKP103	mh
 PKP100	non lo s[o]
 PKP103	[che ve]niva pure al lido a quanto pa:re
@@ -1260,8 +1260,8 @@ PKP103	no, perché io magari dopo un po', a scoppio ritardato la raggiungo eh
 PKP101	((ride))
 PKP103	no: però è ve:ra sta [cosa:]
 PKP100	[io sai, in s]ti giorni non ho per niente fame: mangio perché::
-PKP100	[>so che è ora] di mangiare< ma:: non ho mai fa:me [mi sento sempre] un po' pie:na
 PKP101	[ah sì]
+PKP100	[>so che è ora] di mangiare< ma:: non ho mai fa:me [mi sento sempre] un po' pie:na
 PKP101	[dave:ro]?
 PKP101	ma non ti senti bene però ve:di c'è qualcosa che
 PKP100	no: non s~ non è: tanto per que:llo c(io)è [non è u:n].
@@ -1333,10 +1333,10 @@ PKP101	[sì sì no n]e sto assaggiando un altro pochi:no ne sto assaggi[a:ndo]
 PKP102	[a::h s]ì >però metto io< a::h
 PKP101	[>no no no va]do io<
 PKP102	[(allo]ra questi)
-PKP100	[mi fate parlare]?
 PKP101	[x x x x x]
-PKP102	[ah sì scusa]
+PKP100	[mi fate parlare]?
 PKP101	[vai vai vai]
+PKP102	[ah sì scusa]
 PKP100	eh ((ride))
 PKP100	e::::h
 PKP101	mh
@@ -1345,8 +1345,8 @@ PKP101	eh
 PKP100	ch[e:::]
 PKP101	[al gio:rno no]?
 PKP100	no
-PKP100	[(in tempi)] in tota:le sì
 PKP101	[ah in tu:tto]
+PKP100	[(in tempi)] in tota:le sì
 PKP101	ah
 PKP100	e::: e poi hanno
 PKP100	io dico
@@ -1391,8 +1391,8 @@ PKP101	le faccia:mo e poi ce le tenie~ le
 PKP101	le congelia:mo e ce le mangiamo un'altra vo:lta
 PKP101	perché le alici vanno <ma[ngia:te>]
 PKP100	[come volet(i)]
-PKP102	[°sì sì°]
 PKP101	[mamma mia mi sen]to pie:na qua
+PKP102	[°sì sì°]
 PKP103	a:h x [x]
 PKP102	[x]
 PKP101	eh xx a me era piena piena
@@ -1450,7 +1450,7 @@ PKP100	[l]a cena norma:le
 PKP101	le solite cene che fanno lo:ro insomma °primo seco:ndo [x°]
 PKP103	[mhmh]
 PKP100	però sarebbe bello un capodanno con e: °>cioè ti~<°
-PKP100	m m:h EH
+PKP100	mh m:h EH
 PKP100	come giu:lia coso: °e i genitori di e::h°
 PKP101	be~ be~ bello (.) dispendioso ((ride)) chissà che ((ride))
 PKP100	vabbé non p~ qa per fo:rza °>insomma<° ((ride))
@@ -1472,7 +1472,7 @@ PKP101	[e:h] (.) il ventiqattro non lo so se ci siamo anche noi magari poi
 PKP101	capit(o)?
 PKP101	poi diventa::: eh complica:ta la co:sa
 PKP101	ci dobbiamo riprendere economicame:nte
-PKP100	hh m
+PKP100	hh mh
 PKP101	là tre giorni per tre:: pranzo, cena, e colazione, s~ abbiamo fatto tutto::
 PKP102	quella casa c'è sempre quella::
 PKP101	eh ieri fino a ieri c'era mo (fa) oggi non ho guarda:to
@@ -1519,8 +1519,8 @@ PKP102	e allora x x c(io)è::: trenta e trentuno no invece::: [x x x x]
 PKP100	[>non ha più senso trenta] e< trentu:no e u:no
 PKP101	e::h
 PKP100	dormire: l'u:no
-PKP100	[e poi che ri]parto il [du:e]
 PKP101	[sì: sì:]
+PKP100	[e poi che ri]parto il [du:e]
 PKP102	[e dopo v]e ne e: fate anche l'u[no (là poi)]
 PKP100	[anzi io ri]partirei anche l'uno se:ra, non so se: poi::
 PKP100	vabbé >oddio< se si fa
@@ -1531,8 +1531,8 @@ PKP100	e po:: l'uno:: >non dormiamo là< potrei anche riparti:re
 PKP101	>vabbé< basta che sappiamo che dobbiamo ancora prenota:re [(se non) rimani] là eh
 PKP100	[s:ì:],
 PKP103	[ah] è ve:ro non avete ancora pre[nota(to)]
-PKP100	[eh no:] non so quando:: che giorni:: sta:nno
 PKP101	[e non] sappia e non so quando x x x]
+PKP100	[eh no:] non so quando:: che giorni:: sta:nno
 PKP101	non sa quanto: quanti giorni sta
 PKP101	se no t(i) rimani a:l x riman eh ((ride)) [auto]stop ((ride))
 PKP100	[poi quello va]
@@ -1554,7 +1554,7 @@ PKP101	[sì e po]i x x (A:H)
 PKP101	e e è sull'appenni:no insomma è:: e cari:na la zo:na insomma [m::h]
 PKP100	[no a me] ha stranito quando sono andata la prima volta perché
 PKP100	c'era tutta questa stra:da
-PKP100	<e tutto intorno monta><gne< cioè la cosa era pia:na
+PKP100	<e tutto intorno montagne< cioè la cosa era pia:na
 PKP101	eh
 PKP100	ma non finivano più x cioè:: poteva esere infinita qu[esta strada c'e]rano tutto intorno monta:gne
 PKP101	[sì sì]
@@ -1564,8 +1564,8 @@ PKP101	[x x x]
 PKP101	((ride))
 PKP100	>invece no<
 PKP100	pure i nonni stanno:::
-PKP100	[m::hmh]
 PKP101	[ad alvito]?
+PKP100	[m::hmh]
 PKP100	no: non è al[vi:to] è un altro pae:se però sempre::
 PKP102	[mh]
 PKP100	nelle monta:gne
@@ -1605,8 +1605,8 @@ PKP101	e:h
 PKP100	e sta' là
 PKP101	eh
 PKP102	mh
-PKP100	[a~]
 PKP101	[che] (.) gli do ragione che è beli:n[a gae]:ta
+PKP100	[a~]
 PKP103	[m:h]
 PKP100	ah bellina si °indubbiame~°
 PKP101	e fate mar[cello] (.) con la sua fami:glia
@@ -1650,8 +1650,8 @@ PKP100	>sì sì<
 PKP101	eh
 PKP101	no: no:
 PKP102	((ride))
-PKP100	[co:sa] ((ride))
 PKP101	[e c'ha:: comunque i s]uoi cinquataquattr'anni ce l'ha
+PKP100	[co:sa] ((ride))
 PKP100	((ride))
 PKP101	cinquantatré:? cinquantaqattr[o],
 PKP100	[s]ì
@@ -1684,8 +1684,8 @@ PKP101	dopo un [po non si s]oppor~
 PKP100	[x x]
 PKP100	una [settimana là] >che magari ci sono anche stata< dopo un po':::
 PKP103	[no vabbé]
-PKP102	((ride))
 PKP101	((ride))
+PKP102	((ride))
 PKP103	((ride))
 PKP103	no: n[o ma], eh m::h che ha questi toni infantili: eh sono fastidiosi eh
 PKP100	[cioè]
@@ -1886,8 +1886,8 @@ PKP100	[non ci ha fatto pagare]
 PKP100	sai che:: non lo so
 PKP102	ma chi x x padre x x x
 PKP101	[eh niente è di matte:o]
-PKP100	[no::]
 PKP101	[x matteo x]
+PKP100	[no::]
 PKP100	[e >all]ora< il pa:dre
 PKP100	aiu:ta >barra lavora::< nel: e::
 PKP100	e:h locale del fratello del e:: la moglie
@@ -1900,7 +1900,7 @@ PKP101	mh
 PKP102	>lavorava< e quindi (stanno) [x x]
 PKP100	[e an]che:: marco, in [fratello ci] lavo:ra x
 PKP101	[x]
-PKP102	(ehm he em)
+PKP102	(ehm eh em)
 PKP101	nel lo[ca:le? no]n lavora con la:: la: quella d[i:tta lì::]
 PKP100	[sì]
 PKP100	[no vabb~]. qualche vo:lta ci ha lavorato a sette:mbre finché [c'erano le] sera:te
@@ -1926,8 +1926,8 @@ PKP101	uno si deve [ricor]dare poi che cosa di~ [x x x x [x x x]
 PKP100	[no]
 PKP100	[il fate:[llo la p]rima volta che l'ho] conosciu:to
 PKP103	[[e:h e]:h x x x]
-PKP100	[non che è st]ato antipatico però:
 PKP101	[cretino]
+PKP100	[non che è st]ato antipatico però:
 PKP100	me l'aveva detto matteo che si sarebbe messo a fare o battute c(io)è o che lo sfotte: e [ba:sta, fra l'a:]ltro aveva portato la raga:zza
 PKP101	[(ce~ ce~)]
 PKP101	eh
@@ -2071,8 +2071,8 @@ PKP101	mhmh
 PKP100	aspe' altre foto [a:h allora c'ha solo foto::]
 PKP103	[x x già i quattro evangeli]sti qua
 PKP100	del fi:sico
-PKP102	[m:h]
 PKP101	[eh]
+PKP102	[m:h]
 PKP100	c'ha solo fot[o:]
 PKP103	[no eh] se [invece di ma] (.) tteo c'è matti:a non sono già più i quattro::: [x x mattia]
 PKP100	[del fisi(co)
@@ -2128,8 +2128,8 @@ PKP102	m:h
 PKP100	mh
 PKP100	°quello è°
 PKP102	fratello maggio:re
-PKP102	[se:]
 PKP101	[x x] x x eh
+PKP102	[se:]
 PKP100	sì [°esatto°]
 PKP102	[noi altri fratelli] maggio:ri siamo::: siamo (gra[duati)]
 PKP101	[siamo spiri]to:si
@@ -2272,7 +2272,7 @@ PKP100	((ride))
 PKP103	ah s[e:mpre proprio:]
 PKP102	[e io so selva~ s::el]va:ggio x (selva)
 PKP101	[accendiamoli u][n po' va]
-PKP100	[no: i:o] in realtà >vabbé< >non metto parola<, però sto bene
+PKP100	[no: i:o] in realtà >vabbénon metto parola<, però sto bene
 PKP101	accendiamoli un pochino dai
 PKP103	c(io)è [quindi mamma] che [di:ci che mi pensa:][::]
 PKP101	[e:h]
@@ -2304,8 +2304,8 @@ PKP102	[x x] [x [x x]]
 PKP103	[vo[lo, vis, v]olui, velle]
 PKP101	[[mettiamo]: >un una ce~ un coso] più< giovanni vedi::
 PKP102	(allora)
-PKP102	[presente] (.) vo[lo? (.) vis]?
 PKP101	[(>giovanni<)]
+PKP102	[presente] (.) vo[lo? (.) vis]?
 PKP101	[prendi le:]:
 PKP101	prendi [u:n e:: u][na (scodella) più g][ra:nde]
 PKP103	[volui, velle]
@@ -2335,8 +2335,8 @@ PKP103	[[vi:s quello è vis]], ro:boris, ro[bori]
 PKP101	[volo], vi:s [(punto) è vo:]glio:
 PKP103	vim, (v e~)
 PKP100	vo::l
-PKP100	[vo:lo:]
 PKP101	[vi:s, robori]s. è fo:rza
+PKP100	[vo:lo:]
 PKP101	eh
 PKP103	no [volo: [è vole:re] pa']
 PKP102	[x x [x x x]]
@@ -2380,8 +2380,8 @@ PKP101	[NO::: >no no no] no no<
 PKP102	vim, vis, vi, vires, viribus, vir[ibus]
 PKP101	no:: è vis, rob[oris]
 PKP100	[[rob]]oris è il e:: geniti:vo, non può essere a[lla terza:: cosa]
-PKP102	[x x x x x x]
 PKP101	[[vis, ro:boris]]
+PKP102	[x x x x x x]
 PKP101	[(quello che vuoi giova')]
 PKP100	[non è] volo, vis, ro:boris, che ro:boris, è il geniti:vo
 PKP102	[x x x]
@@ -2417,7 +2417,7 @@ PKP101	[<vi:]s, ro:boris, giovanni>]
 PKP102	[poi, plurale, (gua~) vires], virum, vir[ibus], (.) vires, vires,
 PKP101	[[no:]].
 PKP103	[[ma] plura:le pa' d~]
-PKP101	v:s:, vis è gio. è nominati:vo, <vis, roboris>, <volo> <non c'entra niente< poi c'è volo, vis, vult. è voglio, vuoi, vu e::h vuo:le
+PKP101	v:s:, vis è gio. è nominati:vo, <vis, roboris>, <volonon c'entra niente< poi c'è volo, vis, vult. è voglio, vuoi, vu e::h vuo:le
 PKP101	io vuole, [tu vuoi, egli eh sì sì]
 PKP100	[sì: sì: sì: pa:]
 PKP102	[m:h]
@@ -2429,14 +2429,14 @@ PKP100	m: nominativo e genitivo
 PKP100	se tu metti roboris alla terza vo:ce è (ac) è::: accusati:vo, >però< <i:s::> è la desinenza del geniti:vo, quello per fo:rza
 PKP100	volo, vis, ro:boris?
 PKP101	vis è nominati:vo
-PKP102	no, (.) ma >trovatelo un a~< >lo potete [trovare<]
+PKP102	no, (.) ma >trovatelo un a~lo potete [trovare<]
 PKP101	[ce:rto]
 PKP100	[tro:valo]
-PKP100	[ma (io) come ti fi:::]
 PKP101	[x x mettilo sul sul comp]u:ter [giovanni]
+PKP100	[ma (io) come ti fi:::]
 PKP100	[come ti fi]::ssi
 PKP102	m:h
-PKP101	n[o:: vi:s]:[]. vi:s: è] la fo:rza, vi:[s:]
+PKP101	n[o:: vi:s]:. vi:s: è] la fo:rza, vi:[s:]
 PKP102	[e:h sì]
 PKP102	[(sono d'acordo con te)]
 PKP102	[eh]
@@ -2455,8 +2455,8 @@ PKP100	e:h. si
 PKP103	mh
 PKP103	>allora<
 PKP102	a ricreazio:ne °c'avete?°
-PKP102	[aspetta as]petta >no io lo voglio:< >lo voglio< il piatto fondo io
 PKP101	[allora]
+PKP102	[aspetta as]petta >no io lo voglio:lo voglio< il piatto fondo io
 PKP101	ah. va bene [sta qui]
 PKP103	[vo:lo], nolo e ma:lo infatti era
 PKP100	volo nolo e ma:[lo],
@@ -2613,7 +2613,7 @@ PKP101	lui è be:llo (l'as~ l'azio:ne)
 PKP103	eh infatti mamma è u: u:
 PKP100	((ride))
 PKP101	eh?
-PKP100	quello he °tro:mba° (.) (°forse non è normale°)
+PKP100	quello eh °tro:mba° (.) (°forse non è normale°)
 PKP103	((ride))
 PKP100	mado lu:i non so come [si fa a pre]ndere sul se:rio
 PKP103	[e:cco]
@@ -2625,8 +2625,8 @@ PKP100	((ride))
 PKP103	e:h i::h ((cantanto))
 PKP102	buone pure le co:zze eh
 PKP101	eh?
-PKP102	[buone]
 PKP101	[buone]
+PKP102	[buone]
 PKP100	m:h
 PKP103	anzi lui è migliora:to comunque prima era veramente bruttice:llo
 PKP100	ma chi quello in mezzo?
@@ -2661,8 +2661,8 @@ PKP101	ne vuoi un altro po:' ilaria?
 PKP100	inzuppo questo
 PKP101	non le vuoi altre du:e cozze?
 PKP100	no: grazie perché so' già pie:na è inutile che mi riempio::
-PKP100	[x x]
 PKP101	[te ne metto altre du:]e giova:nni?
+PKP100	[x x]
 PKP102	(tentamelo) x x x
 PKP100	ma
 PKP100	m:h
@@ -2763,8 +2763,8 @@ PKP100	[sta quieta STAI QUIETA]
 PKP100	e::h m:h che avevamo quella visita: e:h scusa, quella:: guida turi:stica
 PKP100	a::: m::h ((ride)) [a gerusale:m]me
 PKP101	[x x x]
-PKP100	[che ci aveva detto] ((ride))
 PKP101	[ma quanto parla]:va quella
+PKP100	[che ci aveva detto] ((ride))
 PKP103	ma:mma mi[a (ve~)] ((ride))
 PKP100	[aspe~] ((ride)) >aveva detto< scrivete un vostro pensie:ro, un vostro deside:rio:: [>e p]oi l~< lo mettete là nelle fosse del mu:ro
 PKP101	[mh]
@@ -2831,8 +2831,8 @@ PKP103	[invece mam][ma (>mi ricordo) pure<] quella ca:zzo di crocera (avevo mess
 PKP102	[ah pure? >ne so' rimasti<]
 PKP103	[(ho avuto)]
 PKP101	[avevi (se]ntito) be:ne x x x
-PKP100	((ride))
 PKP101	((ride))
+PKP100	((ride))
 PKP103	((ride))
 PKP100	quando ((ride)) al (cielo) ((ride)) io stavo vomitando >seduta< stavo vomitando così ((ride)) e >mamm~<
 PKP100	((ride))
@@ -2889,7 +2889,7 @@ PKP101	[eh]
 PKP101	[eh]
 PKP103	(oh) >che poi ho vomitato< e eh
 PKP100	((ride))
-PKP103	poi abbiamo fatto pure un gi:ro, >siamo andat~< m mi sentivo già, inviavo già a sentirmi male, poi, ho vomitato proprio in via mascare:lla gua~
+PKP103	poi abbiamo fatto pure un gi:ro, >siamo andat~< mh mi sentivo già, inviavo già a sentirmi male, poi, ho vomitato proprio in via mascare:lla gua~
 PKP101	((ride))
 PKP100	in una delle piantine davanti il negozio di erboristeri:a ((ride))
 PKP101	((ride))
@@ -2930,10 +2930,10 @@ PKP100	dormivamo io e te
 PKP100	nel letto di so:tto e papà: si era messo nel letto di so:pra
 PKP100	(>magari<) io, quella notte ho vomitato un casino di vo:lte e ogni volta ti sveglia:vo x x ((ride))
 PKP101	((ride))
+PKP101	((ride))
 PKP100	((ride))
 PKP101	((ride))
 PKP100	(in realtà) ti pote:vo lasciare dormi:re >invece<
-PKP101	((ride))
 PKP100	mamma ((ride)) mamma ((ride))
 PKP101	((ride))
 PKP100	che poi vomitavo e mi rimettevo a dormi:re magari tu
@@ -3074,7 +3074,7 @@ PKP103	NO:: amy winehouse fa parte del c[ircolo ventise:tte]
 PKP101	[no no no e~ no:: whitney houston] no è gra::nde [no: no: è morta ade:sso (mo) ha fatto]
 PKP100	[anche:: whitney houston]
 PKP103	whitney housto è morta gra:nde esa:tto
-PKP101	aveva fato il co::so è m orta da poco, da poco te[mpo (eh)]
+PKP101	aveva fato il co::so è mh orta da poco, da poco te[mpo (eh)]
 PKP103	[sì, da] una decina d'a:nni [più o me:no]
 PKP101	[sì: sì:]
 PKP101	aveva:: fatto:: il coso avev~ una? (.) >ventina<? (.) tren'a:nni >forse< [ma pure xx mi se::~]
@@ -3096,8 +3096,8 @@ PKP101	[(eh) duemilaventitré]:: [é stato]
 PKP103	[no: cinqu]a:nta >ne aveva perché e [morto nel duemila~<] e lui er[a del cinquanto]:tto
 PKP101	cinqua:(nta)
 PKP100	[duemilano:ve]
-PKP100	[°duemilanove]
 PKP101	[sì il cinquanto]tto
+PKP100	[°duemilanove]
 PKP102	[m:h]
 PKP103	[>io me lo ri]cordo< x x x [quanto hanno rotto le] pa:lle con michael jackson quando [è mo:r]to
 PKP100	[era esta:te]
@@ -3142,7 +3142,7 @@ PKP100	[sì]
 PKP100	a parte che io avevo letto che::
 PKP101	>era< diventato un: cru uno (scun.) x l'o:mbra di se stesso >era proprio< una cosa:
 PKP100	no:: >però< tipo:: m::h ahm
-PKP100	m:h [mo non dico pedo~] >però< >cioè< aveva: <qualche cosa strana> con i bambi:ni un'ossessione [s:trana con i bambi:ni]
+PKP100	m:h [mo non dico pedo~] >peròcioè< aveva: <qualche cosa strana> con i bambi:ni un'ossessione [s:trana con i bambi:ni]
 PKP101	[x x x]
 PKP101	[sì no no pare che fosse ped~ >allora<] l'hanno accusato di pedofili:a [l'hanno accusato [non so se ho] capi]to
 PKP103	[sì sì sì]
@@ -3261,8 +3261,8 @@ PKP101	e:: allora le fas~
 PKP102	se li fai.
 PKP101	([s:~ x)]
 PKP102	[no]. se li fai pe:r pe~ pe: per conserva::re dici no::n: e::
-PKP102	[se no for]se non vale la pe:na
 PKP101	[eh]?
+PKP102	[se no for]se non vale la pe:na
 PKP101	>vabbé<
 PKP101	cos(e) vuoi, t~ tutto quello che vuoi fare tu, io le posso pure fa:re
 PKP102	oh ve~ dai che un pochino ve lo mangia:te voi
@@ -3501,8 +3501,8 @@ PKP103	[>ma, voi vi ri]cordate< quando c'è stata una volta a e dopo lì che ero
 PKP102	[sì: sì:]
 PKP101	[allora] è andato a farsi la co[munio:~]
 PKP103	[no:], ha detto anche lu:i (te lo dico) sì:
-PKP100	((ride))
 PKP101	((ride))
+PKP100	((ride))
 PKP103	>e la madre ha detto< no: no: lui no °però°
 PKP101	((ride))
 PKP103	((ride))
@@ -3679,8 +3679,8 @@ PKP100	[a:::h]
 PKP100	((ride))
 PKP100	[e come]
 PKP101	[x x] x
-PKP100	[ma]
 PKP101	[>e infatti<] è strano che cade l'a:lbero (.) eh
+PKP100	[ma]
 PKP100	ma loro hanno l'albero un po' più pi:ccolo del no:stro
 PKP101	non lo so perché l'anno scorso l'ho visto però: mh non ci ho fa:tto caso co[m'e(ra)]
 PKP102	[>dice] che< a:: giorgia gli è piaciuto molti:simo il e: [il pres]epe no:stro, gli è piaciuto molto il prese~

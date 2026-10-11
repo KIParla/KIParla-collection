@@ -65,10 +65,10 @@ TOI018	non non an~ non andava bene magari se la ritiravano
 TOI017	non lavorava per gli altri per conto terzi lavorava per lei
 TOI018	lavoravo solo per me lavorato ho lavorato
 TOI018	sì qualche cosa aveva fatto ma qualcosa non è
-TOI018	e chi canusceive
+TOI018	# e chi canusceive
 TOI018	la prima settimana aveva fatto il soprabito al eh
 TOI018	alla sorella de
-TOI018	cognato di cummare gina là di cummare gina
+TOI018	# cognato di cummare gina là di cummare gina
 TOI018	comunque ho sempre fatto qualche cosetta ma solo
 TOI018	chi conosceva non non e poi ho lavorato sempre per noi ho fatto tutto per loro per pure per i nipoti non solo per i figli
 TOR004	mh
@@ -121,7 +121,7 @@ TOI017	c'era il il figlio
 TOI017	di mia sorella aveva un mese
 TOR004	eh
 TOI017	gigi
-TOI018	eh gigione u chiamaine mh
+TOI018	# eh gigione u chiamaine mh
 TOI017	aveva un mese
 TOI017	siamo andati a comprare le scarpette lei ha voluto farci un regalo al bambino
 TOI018	lei
@@ -167,7 +167,7 @@ TOR004	no io ti volevo chiedere invece
 TOR004	com era la tua vita a volturino e poi
 TOI018	a volturino si lavorava eh si lavorava in campagna si cuciva si ricamava si filava di tutto abbiamo
 TOR004	quindi ce n'avevi ce n'avevi da fare
-TOI017	dicci per prendere l'acqua quella volta che m hai fatto spaventare dovevamo ancora sposarci
+TOI017	dicci per prendere l'acqua quella volta che mh hai fatto spaventare dovevamo ancora sposarci
 TOI018	andava a prendere l'acqua alla fontana perché non c'era l'acqua a casa
 TOR004	voi eravate nell'entroterra della puglia quindi
 TOI018	sì
@@ -267,7 +267,7 @@ TOI018	che prendevano e non potevano
 TOI018	e mi ricordo c'era un omone alto io era piccola piccola e st'omone era grosso grosso io era lì così
 TOI018	messa così e questo qui m'ha m'ha preso una corona
 TOI018	e me l'ha messe là e m'ha detto che dovevo pregare per lui eh m'ha fatto il segno della croce
-TOI018	e fa mamma mamma m'aveva detto che la corona ce l'aveva data la mamma e che doveva pregare per lui m ha fatto
+TOI018	e fa mamma mamma m'aveva detto che la corona ce l'aveva data la mamma e che doveva pregare per lui mh ha fatto
 TOR004	tu puoi
 TOR004	sì ma tu dovevi pregare per il tuo piede in quel momento non per lui
 TOI018	doveva pregare
@@ -808,7 +808,7 @@ TOI018	e poi son venuta qua
 TOI018	lui se n'è venuto subito perché
 TOI017	doveva lavorare
 TOI018	doveva lavorare
-TOI018	poi io so venoute
+TOI018	# poi io so venoute
 TOI018	dopo
 TOI018	son stata un un po' là che mi so ripresa un pochino e poi son venuta a torino
 TOR004	e ma senti ma eh ogni tanto andavate a fare delle gite magari in campagna quando eravate qui in città o non avevate tempo
@@ -869,7 +869,7 @@ TOR004	sì in campagna
 TOI018	dice la prendiamo noi a metà dice se fa eh ci vende metà
 TOI018	la prendiamo anche la prendiamo a metà noi
 TOI018	e così abbiamo fatto
-TOI017	e no u sacce
+TOI017	# e no u sacce
 TOI018	tutta la casa lì loro lavoravano noi abbiamo fatto di tutto là si cuciva mi portavo la macchina da cucire
 TOR004	stavolta però la capivi la macchina da cucire
 TOI017	è mauro
@@ -909,9 +909,9 @@ TOI018	cose dice
 TOR004	ma non è così diverso il dialetto
 TOI018	no no
 TOR004	lui dice che chiamate la pasta in modo diverso
-TOI018	ma no lui dice per esempio noi diciamo il piede lui dice u pide noi diciamo u pede noi dicia~ qualche parola no
+TOI018	# ma no lui dice per esempio noi diciamo il piede lui dice u pide noi diciamo u pede noi dicia~ qualche parola no
 TOR004	ah ma non cambia tanto
-TOI018	qualche vo~ e ogni tanto fa e già perché tu sei de n'aute paiese
+TOI018	# qualche vo~ e ogni tanto fa e già perché tu sei de n'aute paiese
 TOI018	e abbiamo sempre scherzato sempre non
 TOI018	mi son trovata bene per con marito sono stata
 TOI018	e il primo anno che mi vedeva sola

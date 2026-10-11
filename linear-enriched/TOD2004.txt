@@ -114,8 +114,8 @@ TO084	eh bel~ la zona è bellissima.
 TO999	ci andate spesso al mare:: è [vostra o l'affittate]?
 TO084	[sì >sì sì sì<].
 TO084	no no no è proprio nostra.
-TO999	[mhmh],
 TO084	[quindi]::,
+TO999	[mhmh],
 TO084	cioè è di mio nonno allora,
 TO084	la sfruttiamo.
 TO999	ti capita di andarci da sola?

@@ -413,7 +413,7 @@ BOI021	no~ non ha contribuito a:
 BOI021	a costruirli, ad arricchirli, a viverli,
 BOI021	m:h
 BOI021	li usa li::
-BOI021	#e:h e bona insomma
+BOI021	# e:h e bona insomma
 BOR002	mhmh
 BOR005	mh
 BOR002	e:hm::
@@ -484,7 +484,7 @@ BOI021	m::h
 BOI021	m:h mh mh delegò i quartieri di allora che erano ancora:,
 BOI021	e:h sperimentali insomma >vabbè<
 BOI021	a: e::hm:
-BOI021	costitui:re se >volevano< >cioè< c'era una: politica per gli anzia:ni
+BOI021	costitui:re se >volevanocioè< c'era una: politica per gli anzia:ni
 BOI021	dentro alla quale i quartieri se volevano potevano istitui:re,
 BOI021	delle zone ortive e:
 BOI021	assegna:re un lotto che: eh
@@ -709,8 +709,8 @@ BOI021	che intenzionalmente facciamo tutti gli a:nni è:
 BOI021	questi due anni no
 BOI021	è un'iniziativa sul due agosto.
 BOI021	chiamandoci
-BOI021	[centro @nomecentro]
-BOR005	[>centro< @nomeluogo]
+BOI021	[centro
+BOR005	[>centro<
 BOR002	mhmh
 BOI021	eh (.) e: siamo partiti qui, questo sì (.) dodic'anni fa lì f~
 BOI021	lì attaccata alla porta c'è la
@@ -958,12 +958,12 @@ BOR002	come mai:? il centro sociale:, è stato chiama[to:]
 BOR002	[e:h]
 BOR002	centro sociale: >insomma<
 ???	((suona_un_telefono))
-BOR002	mh @nomeluogo
-BOR002	>come mai è stato scelto [@nomeluogo]<?
+BOR002	mh
+BOR002	>come mai è stato scelto
 BOI021	[eh è: stato il] suggerimento del sindaco rossi.
 BOR002	ah
 BOI021	quando: ci fu la stra:ge si inaugurava
-???	xx (.) [] una xxx
+???	xx (.) una xxx
 BOI021	[il ce~]
 BOI021	eh
 BOI021	scusate,
@@ -979,17 +979,17 @@ BOI021	e:::h
 BOI021	si apriva qua:,
 BOI021	e lu:i eh non era ancora stato:
 BOI021	denominato se non
-BOI021	@nomeluogo cioè col nome >della via<
+BOI021	cioè col nome >della via<
 BOI021	e fu lui
 BOI021	che era sindaco in quel periodo a: (.) suggerire
-BOI021	di: di intitolarlo @nomeluogo, perché era:
+BOI021	di: di intitolarlo perché era:
 BOI021	era quell'anno, (.) °cioè l'anno°
 BOR002	mhmh
 BOI021	°e::h fu accolto insomma°
 BOI021	ce ne sono altri eh di centri a bologna
 BOI021	ce n'è uno a casalecchio,
 BOR002	mh
-BOI021	°sempre lo° m::h intitolato @nomeluogo >perché< [quelli] che erano ap[erti in que]ll'epoca:
+BOI021	°sempre lo° m::h intitolato >perché< [quelli] che erano ap[erti in que]ll'epoca:
 BOR002	[ah]
 BOR005	[m:h]
 BOI021	era NORMA:LE insomma veniva spontaneo
@@ -1002,7 +1002,7 @@ BOR005	principalmente [>adesso< vedendo:] di là le persone [che c'erano al mome
 BOI021	[principalmente]
 BOI021	[vabbè dipende dagli ora:ri]
 BOI021	se vai a vedere di là adesso alla:
-BOI021	>al reperti< >cioè< ovvio che: al~ fino alle sei la gente lavora per cui non è che
+BOI021	>al reperticioè< ovvio che: al~ fino alle sei la gente lavora per cui non è che
 BOI021	comunque [va bene no no] ma: la maggioranza è [sicuram]ente gente di una:
 BOR005	[(bene)]
 BOR005	[sì]
@@ -1181,7 +1181,7 @@ BOI021	che non ho le:tto su libri che non ho letto su:
 BOI021	e:h
 BOI021	mh che però: ho sentito raccontare tante volte da mia suocera, ((tossisce))
 BOI021	perché quello che, ((tamburella_sul_tavolo)) secondo me non si considera ((tamburella_sul_tavolo))
-BOI021	non da mio marito >anche perché lui< >cioè< non:
+BOI021	non da mio marito >anche perché luicioè< non:
 BOI021	°non° era piccolo cioè non non [non] ne pote:va
 BOR002	[certo]
 BOI021	ma aveva >una< (.) una sorella di nove anni
@@ -1240,9 +1240,9 @@ BOI021	se parlava d'altro era normalissima >ma se<
 BOI021	eh bastava un:: un:'immagine di una:
 BOI021	di una rivista: bastava ehm:
 BOI021	cioè:
-BOI021	#e ri~ eh e rico~ e comincia:va se: parché: qua là,
+BOI021	# e ri~ eh e rico~ e comincia:va se: parché: qua là,
 BOI021	e: che:
-BOI021	#TAL NINEIN >vabbè insomma<
+BOI021	# TAL NINEIN >vabbè insomma<
 BOI021	perché: e lei credeva di sapere chi era sta:to a:
 BOI021	a far la delaz~ [eh eh] sì eh sì
 BOR005	[mhmh]

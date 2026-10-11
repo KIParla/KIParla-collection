@@ -409,7 +409,7 @@ BOI058	tante persone specialmente i giovani adesso non lo capiscono molto il
 BOI058	il dialetto
 BOI058	eh tanto meno lo parlano perciò
 BOI058	però mi sarebbe piaciuto che anche le mie nipoti avessero imparato un po' a parlare il dialetto ma
-BOI058	proprio ne volen brisa saver a scorrer in dialèt
+BOI058	# proprio ne volen brisa saver a scorrer in dialèt
 BOR016	e ti diaspiace che comunque i giovani lo parlano meno
 BOI058	ma sì mi dispiace un po' perché comunque è la nostra cultura è il nostro dialetto eh
 BOI058	mi sarebbe piaciuto appunto che
@@ -622,6 +622,7 @@ BOI058	eh andiamo a casa finiamo
 BOI058	e anche lì con queste zucchine c'era da mettere un semino ogni buca
 BOI058	a un certo punto nascono queste zucchine in una in un buco in un eh ne avevo messe ventotto
 BOI058	perciò io facevo prima facevo presto a finire
+BOR016	ride
 BOI058	i semini della zucca d'altra parte
 BOR016	semi
 BOI058	avevo sette otto anni perciò
@@ -744,7 +745,7 @@ BOI058	c'eran le classi miste insomma
 BOI058	eh
 BOI058	c'erano un insegnante unica non c'era quella di italiano di matematica
 BOI058	d'inglese come c'è adesso perché allora l'inglese
-BOI058	scurreva in dialèt brisa in inglese
+BOI058	# scurreva in dialèt brisa in inglese
 BOI058	eh l~ poi avevi un'unica maestra che faceva le varie
 BOI058	le varie materie insomma
 BOR016	e quali erano le materia se te le ricordi

@@ -4,7 +4,7 @@ TO026	sì grazie.
 TO028	permesso?
 TO026	buongiorno, pre[go],
 TO028	[bu]ongiorno,
-TO026	ha già incontrato @nomepersona?
+TO026	ha già incontrato
 TO028	sì (.) [e mi ha detto tutto, si si si appo]sto
 TO026	[sì (.) che le ha detto benissimo]
 TO028	già ho compilato tutto,
@@ -187,7 +187,7 @@ TO026	ah ho capito. [sì sì],
 TO028	[se no::] metto [l'a::ltro e perdo tre] crediti. sì quello sopra [è da sei] e quello sotto è da nove.
 TO026	[e questo sarebbe da sei]?
 TO026	[quello sopra]
-TO026	sì va bene, (.) [] sì sì sei [e sei] (.) sì sì
+TO026	sì va bene, (.) sì sì sei [e sei] (.) sì sì
 TO028	[bon]
 TO028	[okay]
 TO028	allora: io com[pilo]
@@ -223,7 +223,7 @@ TO028	okay
 TO026	però non mi pare sia scritto da nessuna parte che l'altra università deve fornire delle competenze (.) per cui lo studente <possa> fare l'erasmus no: direi di no. non possono chiederlo no [(diciamo né da madrid né) xx]
 TO028	[no: c'è SCRITTO] sarà e:hm onere non è onere sarà:: a responsabilità: del (.) dell'università di partenza,
 TO028	verificare che abbiate il livello di [competenza richiesto]
-TO026	[ah verificare a:h sì però dice che non vi chiede nessun livello di compe[]tenza voglio dire (.) e [quindi]
+TO026	[ah verificare a:h sì però dice che non vi chiede nessun livello di competenza voglio dire (.) e [quindi]
 TO028	[no]
 TO028	[no richi]ede il bi uno ma non richiede documenti che lo attestino
 TO026	ah ho capito.
@@ -284,8 +284,8 @@ TO028	io ne do cinque via
 TO028	due dei quali erano nel secondo semestre,
 TO028	qua (.) quest'anno
 TO028	quindi
-TO028	((ride))
 TO026	((ride))
+TO028	((ride))
 TO026	eh sì sì sì,
 TO028	quindi vediamo
 TO028	okay
@@ -293,8 +293,8 @@ TO026	eh beh appunto se:: se si~ usiamo i crediti liberi per quando tornerà qui
 TO028	e:h è quello
 TO026	eh bisogna decidere sì
 TO028	sì sì sì
-TO028	((ride))
 TO026	((ride))
+TO028	((ride))
 TO026	eh beh [eh beh è una questione strategica no? diciamo sì]
 TO028	[no ma se mi approva il learn sono apposto sì sì] ma se mi approva quel learn lì us[o:: solo sei] crediti liberi e quindi il resto:: dovrei riuscire a fare tutto
 TO026	[sì sì quello::]

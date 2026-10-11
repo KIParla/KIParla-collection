@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:46:19+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:53:34+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="TOD2012.mp3" RELATIVE_MEDIA_URL="TOD2012.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -2557,7 +2558,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts2552" TIME_VALUE="2731300" />
 		<TIME_SLOT TIME_SLOT_ID="ts2553" TIME_VALUE="2731777" />
 		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="TO071" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -5178,7 +5178,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a248" TIME_SLOT_REF1="ts494" TIME_SLOT_REF2="ts495">
-				<ANNOTATION_VALUE>non lo so &gt;seco~&lt; &gt;secondo me dann&lt;o: danno un qualcosa in più</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non lo so &gt;seco~secondo me dann&lt;o: danno un qualcosa in più</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5718,7 +5718,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a390" TIME_SLOT_REF1="ts778" TIME_SLOT_REF2="ts779">
-				<ANNOTATION_VALUE>((ride)) [] sì ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>((ride)) sì ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6853,7 +6853,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a717" TIME_SLOT_REF1="ts1432" TIME_SLOT_REF2="ts1433">
-				<ANNOTATION_VALUE>e::h pedonale &gt;diciamo&lt; &gt;ecco&lt; le macchine non potevano:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h pedonale &gt;diciamoecco&lt; le macchine non potevano:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8283,7 +8283,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1107" TIME_SLOT_REF1="ts2212" TIME_SLOT_REF2="ts2213">
-				<ANNOTATION_VALUE>e quindi sono&gt; sono entrata</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi sono&gt;sono entrata</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

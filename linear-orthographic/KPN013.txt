@@ -206,13 +206,13 @@ PKP057	sì
 PKP058	poi anche quello chilli
 PKP059	pollo chilli
 ???	il pollo tandoori sono coscette il chicken tandoori
+PKP058	sì
 PKP059	sì
 PKP057	sì
-PKP058	sì
 ???	okay invece il pollo chilli chilli chicken
 PKP057	sì
-PKP059	sì
 PKP058	sì
+PKP059	sì
 ???	okay
 PKP057	poi prendiamo
 PKP058	le lenticchie
@@ -380,7 +380,7 @@ PKP058	cioè tu hai un mega maglione
 PKP059	sì
 PKP057	bellissimo
 PKP058	sì veramente
-PKP059	solo che è un po' lungo perché non c'era la s ho preso la m
+PKP059	solo che è un po' lungo perché non c'era la s ho preso la mh
 PKP057	però
 PKP058	però non so xx non ti ho vista in piedi
 PKP059	eh ma perché
@@ -523,8 +523,8 @@ PKP057	mamma che bello che è
 PKP057	mamma
 PKP057	mh
 PKP059	buon appetito
-PKP057	buon appetito
 PKP058	buon appetito raga
+PKP057	buon appetito
 PKP057	ci conviene tipo
 PKP058	aprirlo
 PKP057	aprirlo perché
@@ -682,8 +682,8 @@ PKP058	xx maestria
 PKP057	grazie appoggia pure
 PKP059	grazie
 ???	metto in mezzo
-PKP057	sì sì tanto dividi~
 PKP058	sì dai
+PKP057	sì sì tanto dividi~
 ???	e qua c'è il chilli chicken
 PKP057	benissimo
 PKP058	grazie
@@ -1369,10 +1369,10 @@ PKP058	meno male che non è una persona normale se no
 PKP057	allora se la tira mi aspettavo peggio
 PKP059	mh
 PKP057	è che proprio
-PKP057	cioè è un è un bambi~ cioè un bamboccio fa delle battute veramente da cinno cioè sembra
+PKP057	# cioè è un è un bambi~ cioè un bamboccio fa delle battute veramente da cinno cioè sembra
 PKP058	è stupido
 PKP058	cosa ridi eh eh
-PKP057	sembra veramente un cinnazzo stupido delle medie cioè non fa
+PKP057	# sembra veramente un cinnazzo stupido delle medie cioè non fa
 PKP057	non fanno per niente ridere le sue battute
 PKP058	tremendo
 PKP057	infatti ci son stati dei momenti molto imbarazzanti ma
@@ -1389,8 +1389,8 @@ PKP057	dal cringe assoluto
 PKP057	l'irene lì
 ???	siete a posto
 PKP057	sì gra~ sì sì a posto
-PKP059	sì
 PKP058	sì
+PKP059	sì
 PKP057	sì
 PKP057	l'irene è rimasta lì
 PKP057	guardato
@@ -1505,7 +1505,7 @@ PKP058	non è sicura che le piaccia ma anzi
 PKP058	però ha detto che è molto curiosa
 PKP059	non piacciono le spezie
 PKP058	ma sì lei ha detto che non vuol~ cioè ha paura solo del piccante
-PKP058	però le ho detto guarda che io sono cioè tranquilla cioè
+PKP058	però le ho dettoguarda che io sono cioè tranquilla cioè
 PKP057	basta dire
 PKP058	soprattutto anche per il piccante
 PKP058	ovvio che devi essere un po' aperto di sapori cioè

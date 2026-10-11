@@ -21,7 +21,7 @@ PKP041	[buonissima]
 PKP047	[ti] devi vedere x facto[r]?
 PKP041	[si] ho messo già pausa
 PKP040	ma sta piovendo ancora?
-PKP040	#ma: a un certo punto è fattu na scaricata proprio
+PKP040	# ma: a un certo punto è fattu na scaricata proprio
 PKP041	a casa di [lorenzo]
 PKP040	[c(io)è proprio]: (.) la: <buttava a catinelle>
 PKP041	a casa di lorenzo hanno tremato le porte
@@ -31,14 +31,14 @@ PKP040	sì sì come dice: come fa lorenzo sì sì
 PKP040	france' ma domani è un anno che ti se[i::] laurea[to]]?
 PKP041	[si]
 PKP047	[d]omani
-PKP040	#ce co:sa
+PKP040	# ce co:sa
 PKP039	dieci anni sembrano
 PKP040	no che dieci a:nni:
 PKP040	l'ultimo viaggio che abbiamo [fatto]
 PKP041	[quei gio]rni sono stati belliss[imi]
 PKP047	[do]mani finisco il giro dell'oca non a caso i soldi che mi avevano regalato ritorno direttamente al punto di partenza ((ride))
 PKP040	perché?
-PKP047	#ca poi si nd'annu sciutu tutti
+PKP047	# ca poi si nd'annu sciutu tutti
 PKP047	ah bugia vabbè dai c'è l'affitto di oggi e le altre cose
 PKP041	bellissimi quei giorni vero?
 PKP040	mh andammo a ve[dere la mostra di] chaga:[l]
@@ -99,7 +99,7 @@ PKP047	la nonna la faceva sempre questa
 PKP040	però lo doveva dire che era piccante
 PKP041	alm~ e[h::] allora
 PKP039	[>te l'ho detto<]?
-PKP047	#sta parlava: tu~ tu capivi quando parlav[a]?
+PKP047	# sta parlava: tu~ tu capivi quando parlav[a]?
 PKP041	[io] non capivo quando parlava francesco:
 PKP040	parlava su quell[o]
 PKP041	[c]he voleva che io scegliessi ve:locemente e mentre guardavo le focacce: francesco faceva questo ((movimento_del_corpo))
@@ -126,7 +126,7 @@ PKP040	si cura però eh
 PKP047	[ma con i farmaci]
 PKP041	[si cura] con i farmaci
 PKP040	sì sì però si cura la schizofrenia si tiene sotto controllo
-PKP047	#[ei] addà sai ce nc'era commentatu? [mi sa ca: più~] più ca schizofrenia addà n'atra cosa era ((ride))
+PKP047	# [ei] addà sai ce nc'era commentatu? [mi sa ca: più~] più ca schizofrenia addà n'atra cosa era ((ride))
 PKP041	[E CHE POI non è una cosa stupida]
 PKP040	può darsi pure che:
 PKP039	<[allucinazioni]>
@@ -142,7 +142,7 @@ PKP040	[ci sono] tante persone che sono schizofreniche ma:
 PKP040	come ci sono tante persone che hann[o: (.) eh: (.) sì]
 PKP039	[la schizofrenia comunque è il grado più~] più grav[e:]
 PKP040	[è una dissociazi[ione]
-PKP047	#[OH COMUNQUE] sta mangiati eh
+PKP047	# [OH COMUNQUE] sta mangiati eh
 PKP047	io e anna ci siamo divisi due pezzi ancora
 PKP039	e io [un pezzo con la mamma]
 PKP041	[uno se ne sono diviso loro]
@@ -237,7 +237,7 @@ PKP040	[e][h:]?
 PKP041	[a] monaco [l'abbiamo mangiato]
 PKP040	[ma il migliore a vie]nna amo
 PKP040	lei non c'era noi a vienna
-PKP039	#alla casina di caccia addai
+PKP039	# alla casina di caccia addai
 PKP040	grinzing al grinzing si chiamava
 PKP039	lo mangiammo pure que~ [xxx]
 PKP040	[eh si]
@@ -260,7 +260,7 @@ PKP040	ti piace la sacher?
 PKP041	a me non piace per nie:nte la [sacher]
 PKP047	[mh]
 PKP040	ti faccio fare la sacher
-PKP047	#st'anno ca no si nvita nessuno: si sparagna
+PKP047	# st'anno ca no si nvita nessuno: si sparagna
 PKP040	hai visto: ah no mo ti faccio vedere le foto: della figlia di:: mh: di marta rossi che oggi faceva diciott' anni
 PKP040	bella mia so:li [loro]
 PKP041	[chi è]
@@ -280,12 +280,12 @@ PKP040	no?
 PKP041	mh buonissima questa
 PKP039	quella al pomodoro [era buona]
 PKP040	[peccato io l'u]nica che ho mangiato era pure piccante
-PKP039	#che poi quella è la puddica eh [xxxx]
+PKP039	# che poi quella è la puddica eh [xxxx]
 PKP040	[eh si però:] (.) però non è piccante di solito eh: ci sono [i come si chia:ma i: ca~ i ca:pperi] magari ma lì hanno messo proprio c'era proprio il peperoncino
 PKP047	[papà ma come la stai versando l'acqua]
 PKP040	mi sta facendo tutto il palato
 PKP040	c'hai la felpa è come i tuoi occh[i]
-PKP047	#[o]ggi marco manda la foto le chiacchiere stanno a zero sta a face' le tigelle
+PKP047	# [o]ggi marco manda la foto le chiacchiere stanno a zero sta a face' le tigelle
 PKP040	mh
 PKP047	ah si sta~ si è fatto a pranzo come antipasto dieci tige:lle
 PKP047	c'erano dieci dieci piattini di pla:stica
@@ -303,12 +303,12 @@ PKP041	[eh] masco[linità to]ssica è questa
 PKP047	[si]
 PKP047	poi poi dal dermatologo si fa dare la cremi:na per le punti:ne per i cape:lli gro:ssi
 PKP047	cioè
-PKP041	#stasera abbiamo minatu tanti:giorni: di: attenzione
+PKP041	# stasera abbiamo minatu tanti:giorni: di: attenzione
 PKP047	eh
 PKP039	un pezzetto di focaccia abbiamo mangiato
 PKP047	vabbè mamma cioè se ordini fuori non è che [cioè]
 PKP041	[però era molto] [lievitata]
-PKP047	[a brindisi] insalata io non so~ non so chi è che fa [l' insalata]
+PKP047	[a brindisi] insalata io non so~ non so chi è che fa [l'insalata]
 PKP040	[no quella]: focaccia là queste un po' meno
 PKP040	[ma quella focaccia là] ti assicuro che quando me la mangio io non sto per niente male
 PKP041	[xx xx]
@@ -322,10 +322,10 @@ PKP047	quelli di x factor:
 PKP041	quelli di x factor?
 PKP047	con i capelli:: a quella con i capelli rasati (.) certi vo~ ogni tanto sembra che c'ha qualche tic (.) [quelli bravi]
 PKP040	[ma chi sta in:] cima?
-PKP041	#quella è una brusco:na
+PKP041	# quella è una brusco:na
 PKP041	anc[ora] n~ non si è capacitata che è uscita ma io dico ma al livello che siete
 PKP047	[si]?
-PKP041	#potete bruscare perché [siete usciti] da x factor?
+PKP041	# potete bruscare perché [siete usciti] da x factor?
 PKP040	[ma perché]
 PKP040	ma perché ho letto: no: non è possibile emma ha fatto fuori: chi ha fatto fuor[i],
 PKP041	[mh] ad agosto ha fatto fuori roccuzzo
@@ -350,7 +350,7 @@ PKP041	chi è?
 PKP040	un ex primo ministro
 PKP040	°frances[e°]
 PKP039	[>pr]esidente della repubblica<
-PKP040	presidente della repu~ vabbe là è::: repubblica presidenZIALE
+PKP040	presidente della repu~ vabbè là è::: repubblica presidenZIALE
 PKP040	no?
 PKP047	SEMI presidenziale
 PKP040	perché semi?
@@ -441,7 +441,7 @@ PKP040	vuoi la frutta?
 PKP040	vuo~
 PKP047	vuoi la frutta [la']?
 PKP040	[ho] portato le arance là domani mattina ve la fate una spremuta::?
-PKP041	#noni::
+PKP041	# noni::
 PKP040	non tu lu:i:
 PKP047	e la fai anche per gli al[tri]
 PKP040	[ve] la fate tu e francesco?
@@ -593,7 +593,7 @@ PKP040	e una volta si è sbagliato.
 PKP040	[ha buttato il sigaro nel le::tto] e si è buttato dalla fine:stra
 PKP041	[ha buttato il sigaro nel le::tto] ((ride))
 PKP040	che detta così è una freddura ma lu:i ti fa morire dal ridere
-PKP039	#be ca diciottu diciottu diciottu dicio:ttu dicio:ttu
+PKP039	# be ca diciottu diciottu diciottu dicio:ttu dicio:ttu
 PKP040	beh pure diciotto diciotto è un~ (.) quindi è proprio che quando c'hai l'umorismo
 PKP047	dichidi
 PKP041	a m(e) (.) m(i) pia::ce
@@ -631,8 +631,8 @@ PKP047	lui ha mandato e~ d: alla bocconi in onda ha detto quando vi dicono di sp
 PKP039	questa quella di mesagne dev'essere ((riferimento_alla_tv))
 PKP040	la mamma di valentina si
 PKP039	oggi faceva ventiquattr'anni
-PKP040	#la ragazza? none
-PKP041	#no::ni la picc[e::nna valentina]
+PKP040	# la ragazza? none
+PKP041	# no::ni la picc[e::nna valentina]
 PKP040	[ah:: no::] [questa] valentina di monopoli
 PKP039	[ah::]
 PKP041	ormai non parlano proprio più di quella valentina

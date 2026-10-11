@@ -91,8 +91,8 @@ PKP063	ma st'estate io ho fatto quell'addio al nubilato
 PKP068	xxx da beppe vessicchio
 PKP063	che l'ho fat~ s~ dell'amica di
 PKP067	te hai fatto un addio al nubilato
-PKP068	l'amica del fratello
 PKP063	sì perché l'amica di giacomo si è sposata
+PKP068	l'amica del fratello
 PKP067	ah pensavo te non xx gianni che devi dì
 PKP063	eh magari
 PKP068	però dicevi caterina rossi ma anche te dopo
@@ -289,7 +289,7 @@ PKP063	s~
 PKP063	sette otto dicembre
 PKP068	sì
 PKP068	che adesso il dodici tredici e quattordici cioè n~ manco una notte due perché non ce piaceva una sola
-PKP068	annamo a fano a fà
+PKP068	# annamo a fano a fà
 PKP067	cft maledetto
 PKP068	sì
 PKP068	un'uscita di formazione per i tirocinanti
@@ -306,8 +306,8 @@ PKP068	e poi te fai passar a cioè te raccolgo a a fano
 PKP067	in stazione
 PKP068	e andiamo perché io la mattina c'ho la bianchi
 PKP063	ah
-PKP068	e quindi da urbino vado a fano
 PKP063	quindi
+PKP068	e quindi da urbino vado a fano
 PKP063	scendi giù
 PKP067	dopo ce coordinamo con gli orari
 PKP068	sì sì dopo vediamo
@@ -405,7 +405,7 @@ PKP067	no jonatan non ce l'ho
 PKP068	ce so' i codini
 PKP067	no i codini non ce l'ho
 PKP067	e no i bambini so' però so' tutti carini i bimbi
-PKP067	e poi c'è 'na bambina che va beh c'ha un pochetto de problemi sta bambina è tipo epilettica
+PKP067	e poi c'è 'na bambina che vabbè c'ha un pochetto de problemi sta bambina è tipo epilettica
 PKP067	c'ha un deficit dell'attenzione importante quindi è anche difficile da gesti' in classe
 PKP067	me voglio vede' quando dovrò gesti' io una lezione me metterò a piange penso
 PKP063	no guarda c'è
@@ -584,9 +584,9 @@ PKP063	mh c'ho sonno sì
 PKP068	uno è ale
 PKP067	ah ah sto bambino è fantastico ah gianni x sto monello allora mo parto
 PKP068	ale
-PKP068	è il monello che adesso 'st'anno è passato in reparto
+PKP068	è il monello che adesso stanno è passato in reparto
 PKP063	già rido
-PKP067	abbiamo fatto tipo 'na gara de orienteering va beh praticamente così
+PKP067	abbiamo fatto tipo 'na gara de orienteering vabbè praticamente così
 PKP068	xxxx no però è carinissimo
 PKP067	allora c'era un capo che faceva glie stava a spiega' una cosa
 PKP067	e lui giocava tipo con gli starlight
@@ -630,10 +630,10 @@ PKP067	e praticamente
 PKP067	ce viene lì da noi e ce fa
 PKP067	antonia aveva nascosto il telefono
 PKP067	xxx
-PKP067	e noi gli famo
+PKP067	# e noi gli famo
 PKP067	ma grazie ale che ce l'hai detto adesso comunque
 PKP068	provvederemo
-PKP063	glie famo un culo così
+PKP063	# glie famo un culo così
 PKP067	provvederemo tutto così m'ha fatto
 PKP067	ma che gli dite
 PKP067	e noi gli facciamo guarda ale adesso dopo ci pensiamo noi non ti preoccupare anzi grazie che ce l'hai detto
@@ -709,8 +709,8 @@ PKP063	lei insegna inglese al liceo allora
 PKP067	ah sì
 PKP068	ah non lo sapevo
 PKP063	sì
-PKP068	lui ha anche al~
 PKP063	cioè so' giovani
+PKP068	lui ha anche al~
 PKP067	sì sì giovanissimi
 PKP068	giovanissimi
 PKP063	beh è
@@ -836,8 +836,8 @@ PKP063	quindi quando sei
 PKP063	quando sei all'estero ti colleghi alla vpn italiana quindi risulta che il tuo computer è in italia collegato a una rete italiana
 PKP068	ah okay
 PKP063	e quindi da lì
-PKP068	xx
 PKP063	perché ad esempio non so se voi l'avete mai guardato il sito library genesis
+PKP068	xx
 PKP067	no
 PKP063	che è sto sito dove ci sono tutti articoli scientifici e libri universitari gratis
 PKP067	ah
@@ -895,8 +895,8 @@ PKP063	comunque alla fine ieri sera siamo andati da felix
 PKP067	ah sì
 PKP063	ho preso la pizzetta
 PKP068	c'era gente
-PKP068	zente
 PKP063	sì
+PKP068	zente
 PKP063	c'era zente
 PKP068	c'era zentio
 PKP063	e laura m'ha riconosciuto subito ciao
@@ -943,8 +943,8 @@ PKP068	e zia dopo un po' aveva detto senti
 PKP063	ah okay
 PKP068	nun me a~ perché loro abitano anche vicini quella villa de loro
 PKP063	ah
-PKP068	grossa
 PKP063	'petta qual è
+PKP068	grossa
 PKP068	ehm ehm no allora
 PKP068	ehm c'è il cuppari qua
 PKP063	sì
@@ -972,8 +972,8 @@ PKP067	è il fratello
 PKP063	è il fratello è il fratello vero
 PKP068	è il fratello
 PKP067	e c'ha anche l'acca ventidue
-PKP068	sì
 PKP063	sì
+PKP068	sì
 PKP067	eh
 PKP063	però lui è un pentito mafioso
 PKP068	se dice così in realtà non
@@ -998,8 +998,8 @@ PKP063	commenta tutit i commenti xx
 PKP068	che figlio de in realtà
 PKP067	quello che stava co' tu cugina
 PKP063	che
-PKP068	sì anche il padre si chiama andrea
 PKP063	quello che sta adesso con carmen
+PKP068	sì anche il padre si chiama andrea
 PKP063	eh
 PKP063	che lui è del duemil~
 PKP067	che sta co' anna
@@ -1041,8 +1041,8 @@ PKP063	e inizia a parlare
 PKP068	ma cercala secondo me la sai
 PKP067	com'è che si chiamava
 PKP063	e inizia a parlare
-PKP068	ehm paula ponches
 PKP063	paula ponches
+PKP068	ehm paula ponches
 PKP063	e
 PKP067	xx
 PKP063	in pratica niente arriva parla con la zia che intanto non so glie regala non so quante teglie de paste
@@ -1079,8 +1079,8 @@ PKP063	no faceva la barista
 PKP068	ah la barista è vero
 PKP063	eh tanto xxxx
 PKP067	la barista al
-PKP068	ehm al noir comunque que~ eh esatto
 PKP063	al noir e al mama
+PKP068	ehm al noir comunque que~ eh esatto
 PKP067	e quello chi era xx un f~
 PKP068	no questo mi sa i fratelli non so è questa comunque
 PKP067	tutti fratelli
@@ -1118,8 +1118,8 @@ PKP068	fuggivamo da rossi
 PKP067	rossi
 PKP068	xxxx rossi
 PKP067	è quello che c'ha l'edicola verso
-PKP068	xxxx
 PKP063	ah
+PKP068	xxxx
 PKP067	sabato scorso gianni quattro volte xxx beccato cioè non ne potevamo più
 PKP068	no no
 PKP063	no che io so che lui adesso compie trent'anni xxx
@@ -1160,8 +1160,8 @@ PKP068	però lui è nato
 PKP067	adesso
 PKP067	cioè st'anno
 PKP068	no però
-PKP068	all~ no pi~
 PKP063	allora è del novantuno
+PKP068	all~ no pi~
 PKP068	no rossi
 PKP068	ha trent'anni
 PKP067	rossi è del novantuno
@@ -1303,7 +1303,7 @@ PKP063	sì infatti c'è il cartello fuori
 PKP067	prima a seco~ prima a seconda a terza a bla bla bla
 PKP067	quella dove faccio irocinio io io faccio tirocinio in prima a
 PKP067	ehm l'hanno mandata invece a palazzo farotti
-PKP067	quindi tipo io fo lezione con i soffitti affrescati dentro le aule
+PKP067	# quindi tipo io fo lezione con i soffitti affrescati dentro le aule
 PKP063	beh che bello
 PKP067	eh lo so però
 PKP067	cioè i bambini non lo apprezzano un po' stolti sono
@@ -1325,8 +1325,8 @@ PKP067	pippi maledetto
 PKP068	la sorella de giulia roxxx
 PKP063	eh
 PKP068	la sorella de giu~ de giulia bianchini sai
-PKP068	xxx
 PKP063	sì
+PKP068	xxx
 PKP063	giulia okay la sorella
 PKP068	ecco la sorella
 PKP068	credo che poi la madre è la signora rosselli che sta
@@ -1341,7 +1341,7 @@ PKP068	sì
 PKP067	esatto
 PKP067	vabbè pippi fa
 PKP068	qua~ oggi
-PKP067	oggi oggi c'è stato un bellissimo dissing una cat fight tra pippi e antonio neri io gioiosa
+PKP067	# oggi oggi c'è stato un bellissimo dissing una cat fight tra pippi e antonio neri io gioiosa
 PKP068	oggi
 PKP068	no e non me lo dici
 PKP068	no xsissimo
@@ -1394,7 +1394,7 @@ PKP067	io xx macchè ma figurati io me godo qua
 PKP068	xx
 PKP063	i gossip x non partecipi
 PKP067	esatto
-PKP068	e le botte e risposta
+PKP068	e le botte e risposta ride
 PKP067	e antonio
 ???	posso togliere
 PKP067	sì sì
@@ -1473,8 +1473,8 @@ PKP063	io no
 PKP067	per quanto tutor cerco sempre di confrontarmi su quello che vedo sento anche magari non è sempre giusto
 PKP063	io laura no
 PKP067	po' fa non è bla bla bla okay
-PKP068	xxxx
 PKP063	e come
+PKP068	xxxx
 PKP067	continua
 PKP067	continua
 PKP063	ma come finisce
@@ -1565,7 +1565,7 @@ PKP063	va via
 PKP067	sono pronta a creare il mio impero
 PKP063	dove
 PKP063	dove va
-PKP067	va a fa' la capogruppo e si toglie dai coglioni almeno decide solo pia non c'ha nisciuno con cui anda' d'accordo gua'
+PKP067	# va a fa' la capogruppo e si toglie dai coglioni almeno decide solo pia non c'ha nisciuno con cui anda' d'accordo gua'
 PKP068	sì infatti
 PKP063	mhmh
 PKP063	mamma mia ma devo iniziare a fare scout anch'io

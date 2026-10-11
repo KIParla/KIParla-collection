@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:37:11+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:55:50+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="PBC015.mp3" RELATIVE_MEDIA_URL="PBC015.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -1227,7 +1228,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1222" TIME_VALUE="1943665" />
 		<TIME_SLOT TIME_SLOT_ID="ts1223" TIME_VALUE="1944400" />
 		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BOR010" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -3158,7 +3158,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a304" TIME_SLOT_REF1="ts606" TIME_SLOT_REF2="ts607">
-				<ANNOTATION_VALUE>#e poi e:h i: carrelli del rusco messi come dio non vuole, per cui</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e poi e:h i: carrelli del rusco messi come dio non vuole, per cui</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3943,7 +3943,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a514" TIME_SLOT_REF1="ts1026" TIME_SLOT_REF2="ts1027">
-				<ANNOTATION_VALUE>e:h francamente ((ride)) sembrava un po' un' impresa titanica insomma eh sembrava che non non saremmo andati da nessuna parte</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h francamente ((ride)) sembrava un po' un'impresa titanica insomma eh sembrava che non non saremmo andati da nessuna parte</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

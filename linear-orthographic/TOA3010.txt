@@ -362,10 +362,8 @@ TO085	ma poi hai la macchina tu
 TO086	quella dei miei
 TO085	ma tu abiti vicino a dante
 TO085	no
-TO086	@nomeluogo
-TO085	@nomeluogo
 TO086	xx xxx
-TO085	@nomeluogo è prima di dante
+TO085	è prima di dante
 TO086	xxxxxx
 TO085	sai che ieri sono andata
 TO085	a mangiare i panzerotti da un'amica della mia coninquilina

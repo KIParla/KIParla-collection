@@ -31,11 +31,11 @@ PKP097	uno schifo
 PKP096	eh glielo devo dire ad antonio che non ci ha portato i pupirati
 PKP097	io non li ho visti in giro veramen~
 PKP096	non li hai visti
-PKP096	vabbè li mangeremo a natale
 PKP095	ah co cinque~
+PKP096	vabbè li mangeremo a natale
 PKP095	ah grazie xx co cinquecento euro s~ può si può comprare un'ottima bicicletta
-PKP096	sì
 PKP095	cinquecento euro
+PKP096	sì
 PKP096	si soprattutto se hanno fatto di nuovo la passerella ciclabile
 PKP095	eh eh
 PKP096	al mare
@@ -62,7 +62,7 @@ PKP096	oh
 PKP095	le pianole
 PKP096	i canti sul balcone
 PKP095	eh
-PKP097	fa nu fridd
+PKP097	# fa nu fridd
 PKP096	momenti di aggregazione distanziata
 PKP095	anche perché
 PKP096	di empatia
@@ -98,8 +98,8 @@ PKP096	revo eh evoca moltissimo il gesto del rapinatore poi
 PKP096	quest'inverno avremo pure il ehm il cappellino di lana in testa
 PKP096	saremo perfetti
 PKP095	no ma anche un'altra cosa i guanti
-PKP096	i guanti
 PKP095	i guanti
+PKP096	i guanti
 PKP095	perché i guanti hanno una pluralità di funzioni
 PKP096	mh
 PKP095	e sì
@@ -116,7 +116,7 @@ PKP096	beh basta
 PKP097	basta comunismo
 PKP096	ma scusate ma
 PKP096	di che ci meravigliamo
-PKP097	ma sta angor pcciet xxx
+PKP097	# ma sta angor pcciet xxx
 PKP096	del fatto che che la curva è in ascesa
 PKP096	se era stato già preannunciato che in autunno sarebbe arrivato tutto questo
 PKP097	infatti io non mi meraviglio
@@ -148,12 +148,12 @@ PKP095	state fonte di gravi danni
 PKP097	di gravidanze
 PKP095	di gravi danni
 PKP095	tant'è vero che che i i primi contagi so cominciati a scoppiati al bil~ al billionaire
-PKP095	tant p fa n'esempio
+PKP095	# tant p fa n'esempio
 PKP096	tra i vips
 PKP095	eh
 PKP096	che poi si scopriva che invece era prostratite
 PKP096	eh
-PKP095	ni ev prostratite jev quache ata qualche altra cosa insomma prostratite
+PKP095	# ni ev prostratite jev quache ata qualche altra cosa insomma prostratite
 PKP095	malattie veneree
 PKP096	malattie di testa
 PKP096	ma dopo che facciamo
@@ -169,16 +169,16 @@ PKP096	le mando pure un bel mazzo di fiori
 PKP096	cimitoriali
 PKP097	xx
 PKP096	oh ma sto naso
-PKP096	eh
 PKP097	eh il covid eh che ci posso fare
+PKP096	eh
 PKP096	e allora distanziati mettiti le la mascherina
 PKP096	e lavati le mani
 PKP095	mettiti i guanti eh individua la prossima banca
 PKP096	e togliti il naso
 PKP095	di individua la banca più vicina p~
-PKP096	p fa che
-PKP097	p fa a rapin
-PKP095	p fa a rapin a rapin
+PKP096	# p fa che
+PKP095	# p fa a rapin a rapin
+PKP097	# p fa a rapin
 PKP095	qua nei pressi ci sono parecchie banche
 PKP097	sì sì perccato che sono tutte vuote
 PKP096	tieni mi dai l'acqua
@@ -188,20 +188,20 @@ PKP096	sono di proprietà privata
 PKP097	sì sono unipersonali
 PKP095	quella quella dell'avvocato x
 PKP096	evvé
-PKP097	la pubblictà la farina uè
+PKP097	# la pubblictà la farina uè
 PKP096	oh oh
 PKP095	la farina per far le torte
 PKP097	eh si
 PKP095	sempre nel corso del lockdown
-PKP097	na fest jè
+PKP097	# na fest jè
 PKP095	un'alt~ un'altra volta da sola sta mara mara venier
 PKP096	cì scusa ma noi finora di cosa abbiamo parlato
 PKP096	io non ho più voce
 PKP096	le mie corde vocali secondo me
 PKP096	sono seriamente compromesse
 PKP096	dagli anni di lavoro
-PKP096	perché dovrei stare xx
 PKP097	metti la mascherina mara
+PKP096	perché dovrei stare xx
 PKP096	quell mo a domenica in dobbiamo capire che cosa sta accadendo perché finora non l'abbiamo capito
 PKP095	eh
 PKP096	meno male che ci sono questi programmi
@@ -241,7 +241,7 @@ PKP097	sì tamponi come se piovesse oramai
 PKP097	che sarà mai
 PKP095	e adesso devono chiudere la televisione italiana perché carlo conti faceva c'aveva tutte le trasmissioni lui
 PKP096	che è successo a questo qua
-PKP095	tè u covid
+PKP095	# tè u covid
 PKP096	no il fratello di
 PKP095	di panariello
 PKP095	avrà perso il panarello x per andare all'asilo
@@ -285,19 +285,19 @@ PKP095	eh certamente se mangiavo il lambagioni eheh quelli sono sono
 PKP096	col panarello il panarello
 PKP095	come dire quelli sono propulsori i lamb i lambacioni
 PKP096	ma che c'entra
-PKP096	il panarello tu tu perché andavi a scuola
 PKP095	sono dei dei pro dei propellenti
+PKP096	il panarello tu tu perché andavi a scuola
 PKP096	col panarello che cos'era il panarello
 PKP095	per avere un po' di fortuna eh
-PKP096	il panarell
 PKP095	come si dice a roma una bo~
+PKP096	il panarell
 PKP095	invece di dire una botta de culo dice una botta de panariello
-PKP096	ma tu tu
 PKP095	perché na botta de culo è troppo è troppo brutta come espressione allora l'hanno aggiustata
+PKP096	ma tu tu
 PKP095	una botta de panariello però il senso è lo stesso
 PKP096	ah ma tu il panarello ce l'avevi o no
-PKP096	secondo me
 PKP095	eheh ce l'avevi que ce l'hanno tutti che che che un uomo senza pa
+PKP096	secondo me
 PKP095	un uomo senza panariello che uomo è
 PKP095	cioè la mamma ha fatto un mostro
 PKP095	un mostro ha fatto un mostro di di di bambino senza panariello eh eh che che xx
@@ -310,7 +310,7 @@ PKP096	tu hai detto andavi a scuola col panarello
 PKP095	eh
 PKP096	ma il panarello
 PKP096	era incluso a te o era in aggiunta a te
-PKP095	no c'era una diciamo una cosa a parte dcim una sorta di propaggine del panariello centrale
+PKP095	# no c'era una diciamo una cosa a parte dcim una sorta di propaggine del panariello centrale
 PKP095	c'era una una succursale una propaggine
 PKP096	e questa propaggine
 PKP095	eh
@@ -331,16 +331,16 @@ PKP096	tu mica mangiavi il panarello
 PKP095	no x custodiva la il panino il panino con la mortadella e
 PKP096	oh quindi era possiam~ e l'uva pure ti portavi
 PKP095	e l e l'uva anche quando c'era quando c'era
-PKP096	quindi tu trova tro~ il cachino trova un sinonimo di panarello
 PKP095	oppure il il il cachi~ il cachi~ il il cachino se c'è il cachino
+PKP096	quindi tu trova tro~ il cachino trova un sinonimo di panarello
 PKP096	propagine è troppo generico trova un altro sinonimo
 PKP095	per panare~ e te l'ho detto prima parafrasando quella quella frase dei romani una botta de
 PKP096	no no se il tuo panarello se il tuo panarello
 PKP096	se il tuo panarello conteneva il panino l'uva o il cachino
 PKP095	eh
 PKP096	come potresti chiamare tu a in un altro modo panarello
-PKP096	come lo oh
 PKP095	il cestino
+PKP096	come lo oh
 PKP096	ah
 PKP095	oh
 PKP096	oh quindi il panaro
@@ -351,11 +351,11 @@ PKP095	no perché uno sente panaro può
 PKP095	può se può può capire che era il tanaro che è un fiume insomma non è che
 PKP096	ma tu l'avevi fatto diventare pure un'altra cosa
 PKP095	certamente
-PKP096	mamma mia che fatica
 PKP095	perché que~ perché quello porta fortuna insomma
+PKP096	mamma mia che fatica
 PKP096	chi
-PKP096	il panaro
 PKP095	il pa il pa
+PKP096	il panaro
 PKP095	il panaro il pa pa
 PKP096	il panaro che non è poi in questo caso in questa accezione non è il cestino
 PKP095	no è quella dei e quella dei latini una botta de culo
@@ -423,8 +423,8 @@ PKP096	e che suore erano se erano severe
 PKP095	erano un po' severe diciamo un po'
 PKP096	che rapporto avevano col panarello
 PKP095	e quello lo sequestravano e lo lo tiravano fuori quando quando
-PKP096	lo tiravano fuori
 PKP095	facevano facevano sto sequestro preventivo sequestro probatorio e poi tiravano fuori
+PKP096	lo tiravano fuori
 PKP095	e poi una volta che uno mangiava lo sequestravano da capo come se ma tanto dentro non rimaneva più niente
 PKP096	ma perché uno poteva conservare il panino di un compagno
 PKP095	ah è certo si e perciò quello poi lo sequestravano da capo e lo restituivano all'uscita
@@ -442,8 +442,8 @@ PKP096	tiravi calci e pugni
 PKP095	perché pure sa c'è la leg~ l'eccesso sa però
 PKP095	un bambino può mai distinguere la legittima difesa eccesso di legittima difesa
 PKP096	nono no
-PKP096	deve solo di~
 PKP095	ma non lo distingue uno grande figuriamoci il bambino
+PKP096	deve solo di~
 PKP096	dev~ deve solo difendersi
 PKP096	e no e vabbè quindi
 PKP095	o leg~ o leggittima difesa putativa o errore
@@ -475,8 +475,8 @@ PKP096	oltre ad aprire e chiudere il panarello che xx
 PKP095	nono si disegnavamo sui quaderni insomma ste cose qua
 PKP096	avevate i quaderni
 PKP095	co~ co~ coloravamo
-PKP096	oh oh
 PKP095	coi colori
+PKP096	oh oh
 PKP096	oh oh ma erano cose vostre oppure loro davano fogli colori
 PKP095	ci davano i fo~ no eh iinsomma un po' ci davano loro un po' compravamo noi i quaderni insomma
 PKP096	possibile
@@ -528,7 +528,7 @@ PKP096	tornavate da soli
 PKP095	mia madre
 PKP096	ma che dici
 PKP095	mia madre mh ci veniva a prendere tutti e tre
-PKP096	mado'
+PKP096	mado
 PKP095	e c~ e ci accompagnava a scuola
 PKP096	vi veniva a prendere e vi accompagnava a s~
 PKP095	cioè forse ci accompagnava nostro padre e poi xx mia madre ci veniva a prendere
@@ -568,8 +568,8 @@ PKP095	sì
 PKP096	sì
 PKP096	e chi ricordi dei tuoi amici
 PKP095	e ricordo uno che si chiamava bianch~ bianchini
-PKP096	ma era delinquente
 PKP095	giocava a pallone
+PKP096	ma era delinquente
 PKP096	è diventato delinquente
 PKP095	diciamo però al mom~ quel ehm quando giocavamo noi a pallone che eravamo piccoli non era ancora xx
 PKP096	diciamo che non te ne accorgevi

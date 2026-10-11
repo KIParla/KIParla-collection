@@ -1,7 +1,7 @@
 TO085	io ci provo va bene
 TO094	cosa
-TO092	a registrare
 TO085	a registrare
+TO092	a registrare
 TO093	c'è la schedina piena
 TO085	no ho cancellato due file
 TO085	cosa fai
@@ -58,8 +58,8 @@ TO094	è stupendo
 TO094	tu hai presente mh
 TO094	la giamaica la spiaggia
 TO092	sì
-TO092	ma io c'andavo ci sono andata un po' di anni fa
 TO094	xxx
+TO092	ma io c'andavo ci sono andata un po' di anni fa
 TO092	che non c'era ancora nessuno
 TO092	cioè che passavo proprio in mezzo al lago per arrivare in giamaica
 TO094	eh infatti mi hanno raccontato che una volta era molto più xxxxx
@@ -92,8 +92,8 @@ TO094	mh
 TO094	tu l'hai visto mai
 TO085	boh
 TO092	è bella sirmione a me piace un sacco
-TO092	è un po' è un po' ci so~ ci sono un sacco di tedeschi
 TO094	bello
+TO092	è un po' è un po' ci so~ ci sono un sacco di tedeschi
 TO085	secondo me ma dov'è
 TO094	allora
 TO085	como lago di como
@@ -111,8 +111,8 @@ TO092	e di qua c'è milano
 TO085	no non credo di esserci mai stata
 TO085	però lo conosco
 TO094	va~ vabbè
-TO094	allora in realtà
 TO085	di nome
+TO094	allora in realtà
 TO094	mi piace sì e no
 TO094	per~ cioè adesso è proprio tanto
 TO094	cioè se tu giri proprio lì a sirmione
@@ -123,19 +123,19 @@ TO094	cioè mega
 TO094	brava
 TO094	gelaterie tutti
 TO094	mh come dire souvenir cose
-TO094	per i turisti
 TO085	mh
+TO094	per i turisti
 TO092	però vabbè comunque è piacevole andare
 TO094	certo
 TO094	cioè lì anche il lago è spettacolare
 TO092	sì
 TO085	ma la spiaggia è libera
-TO092	sì
 TO094	sì
+TO092	sì
 TO092	c'è sia la spiaggia delle bionde
 TO085	almeno quella dai
-TO092	che si chia~ sì
 TO085	delle bionde
+TO092	che si chia~ sì
 TO092	si chiama così perché all'epoca andavan' tutte le tedesche eran' tutte bionde
 TO085	ah
 TO092	come si chiamava la spiaggia delle bionde
@@ -175,8 +175,8 @@ TO094	no
 TO094	dico alle sette o alle otto
 TO085	diciotto va bene
 TO092	io credo che lo prenderò verso le sei
-TO094	cioè più altro boh vedo un attimo come s~ son messa coi te~
 TO085	xxx
+TO094	cioè più altro boh vedo un attimo come s~ son messa coi te~
 TO092	xxxx
 TO092	vado in bagno e poi vado
 TO092	mamma mia l'idea di arrivare fino là mi mi spezza
@@ -197,8 +197,8 @@ TO085	vero xx anche tu che hai il treno alle sette
 TO093	e come faccio
 TO085	a cosa a lavare i piatti
 TO093	ah ma a lavare i piatti sì
-TO093	il minimo
 TO085	la casa
+TO093	il minimo
 TO093	la casa no la casa l'abbiamo l'avete lavata ieri
 TO085	bravo
 TO085	ha corretto il verbo all'ultimo
@@ -223,8 +223,8 @@ TO085	la mia lampada la vediamo tra un mese
 TO093	la vediamo tra una set~ ma è vero
 TO093	ma perché sono un idiota
 TO085	no vabbè ma non è un problema
-TO093	me ne ero com~ eh no
 TO085	però io te lo ricordo
+TO093	me ne ero com~ eh no
 TO093	sì xxx
 TO085	così
 TO085	non rimane lì
@@ -295,8 +295,8 @@ TO085	sì
 TO094	poi son stata lì a ballarmela proprio
 TO085	che cos'è che han fatto
 TO094	ma era tipo elettronica
-TO094	però
 TO085	ah
+TO094	però
 TO085	ma io avevo letto indie pop rock
 TO094	no
 TO094	boh magari prima
@@ -313,7 +313,7 @@ TO094	cioè vabbè eravamo lì tranquil~ no poi abbiamo ballato un po' sì dai m
 TO085	luogo e data di nascita dove hai frequentato le superiori
 TO092	luogo di cosa della data di
 TO085	di nascita
-TO085	@nomeluogo non l'avrei mai indovinato
+TO085	non l'avrei mai indovinato
 TO092	e luogo di eh
 TO085	data e xxx
 TO092	data l'ho già messa dietro
@@ -373,8 +373,8 @@ TO094	ciao
 TO093	ciao
 TO092	ciao
 TO085	ciao ciao
-TO092	xxxxxxx
 TO094	okay
+TO092	xxxxxxx
 TO094	mi ricordo il momento in cui ho fatto così
 TO092	xxxx
 TO085	sì sì
@@ -384,8 +384,8 @@ TO092	e dicevo mah
 TO092	chissà vuol dire xxx detto
 TO085	no
 TO092	ciao
-TO093	ciao
 TO085	ciao eli
+TO093	ciao
 TO085	buon ritorno
 TO092	gra~
 TO092	grazie per l'affetto

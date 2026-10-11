@@ -96,9 +96,9 @@ PKP122	elamadosca
 PKP121	eh mi dispiace ne comprate un altro
 PKP120	quindi questo pezzo te lo devi godere proprio perché se no
 PKP123	mh eh eh si eh perché
-PKP120	è un casein
+PKP120	# è un casein
 PKP121	il tuo turno
-PKP120	in romagna si dice l'è un casein
+PKP120	# in romagna si dice l'è un casein
 PKP122	è veramente buona
 PKP121	no no no
 PKP122	lo devo mettere adesso
@@ -455,8 +455,8 @@ PKP120	non ha detto niente e secondo me questo è proprio
 PKP123	vedi xx
 PKP123	è chiaro
 PKP120	lavarsene le mani cioè non è proprio il lavoro di un medico
-PKP123	no certo
 PKP120	non lo so poi cosa deve fare un medico
+PKP123	no certo
 PKP122	come non ha risposto neanche
 PKP120	no
 PKP122	davvero
@@ -673,8 +673,8 @@ PKP123	sì
 PKP123	è il secondo sì
 PKP120	ah vabbè quanti anni ha
 PKP123	non è grande
-PKP123	vabbè non so quanti x ha quindi x
 PKP120	vabbè va bene
+PKP123	vabbè non so quanti x ha quindi x
 PKP123	eh non lo so quanti anni ha
 PKP123	quanti anni ha può avere
 PKP123	sì sì va bene
@@ -1118,8 +1118,8 @@ PKP120	oh
 PKP120	anche questo
 PKP122	mh
 PKP120	madonna
-PKP123	ela
 PKP120	vai
+PKP123	ela
 PKP120	dicevo sto coltello è innocuo tanto non avrò rovinato sotto perché è innocuo
 PKP123	xx
 PKP123	sì infatti
@@ -1170,8 +1170,8 @@ PKP120	è buona
 PKP122	mh
 PKP121	è buona cazzo
 PKP120	mh
-PKP121	brava
 PKP120	io adoro questa torta è molto semplice
+PKP121	brava
 PKP123	mhmh
 PKP120	è molto molto semplice c'è solo un po' da smadonn~
 PKP123	bella da vedere

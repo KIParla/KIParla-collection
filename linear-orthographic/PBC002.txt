@@ -192,7 +192,7 @@ BOI008	in visita due tre giorni o un giorno
 BOI008	ma
 BOI008	dobbiamo dire anche un po' purtroppo ci sono nella città di bologna tanti stranieri
 BOR003	mhmh
-BOI008	tanti son nati e si sono inseriti però poc poc mel
+BOI008	# tanti son nati e si sono inseriti però poc poc mel
 BOR003	mhmh
 BOI008	cioè
 BOI008	male
@@ -205,7 +205,7 @@ BOI007	risente molto della presente degli studenti cioè
 BOR003	sì
 BOI008	ecco c'è una città universitaria che ha circa
 BOI008	centomila
-BOI008	beh so centomila studenti universitari
+BOI008	# beh so centomila studenti universitari
 BOI008	capisci che
 BOI008	genera un po' di problemi
 BOR003	è vero
@@ -231,20 +231,20 @@ BOI007	per cui tu capisci che la città
 BOI007	è veramente frequentata da persone che non sono residenti
 BOI007	c'è molto movimento
 BOI007	è anche sempre piaciuta per quello poi
-BOI007	adesso il clima è cambiato dappper tutto i bolognesi son sempre stati chiamati biassanot cioè quelli che vivono anche di notte tranquillo potevi uscire
+BOI007	# adesso il clima è cambiato dappper tutto i bolognesi son sempre stati chiamati biassanot cioè quelli che vivono anche di notte tranquillo potevi uscire
 BOR003	mhmh
 BOI007	senza problemi
-BOI008	tu sai come sono gl~ gli umarel
+BOI008	# tu sai come sono gl~ gli umarel
 BOR003	sì e quelli dei no
 BOR003	quelli dei cantieri
 BOI008	esatto
 BOR003	okay
-BOI008	gli umarel sono quelli che si mettono
+BOI008	# gli umarel sono quelli che si mettono
 BOI008	al bordo con le mani dietro la schiena
 BOR003	sì
 BOI008	a guardare cosa fanno cosa non fanno
 BOR003	sì
-BOI008	gli umarel
+BOI008	# gli umarel
 BOR003	è vero è vero
 BOI008	xxxxxxx
 BOR003	e quindi tra gli aspetti più negativi della città potremmo dire un po' questo
@@ -868,7 +868,7 @@ BOR003	parlano mai
 BOI008	qualc~ qualche battuta
 BOI007	son proprio due di noi
 BOI008	io xx
-BOI008	se voi xx a ma so brisa
+BOI008	# se voi xx a ma so brisa
 BOR003	e pensate che
 BOR003	cioè sia una cosa che è andata un po' persa vi dispiace che per esempio i giovani non non lo parlino
 BOI007	eh guarda io ho un nipote abbiamo un nipote che ha quarantadue anni

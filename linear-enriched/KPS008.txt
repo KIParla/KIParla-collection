@@ -32,7 +32,7 @@ PKP039	cinque metri dal mare >da là<
 PKP040	e si vedeva: una nave:: e laf~ come si dice? la fonda?
 PKP039	alla fonda
 PKP040	alla fonda
-PKP039	#non che sta affonda
+PKP039	# non che sta affonda
 PKP041	((ride))
 PKP041	io voglio il cucchiaio però
 PKP040	na prendilo
@@ -109,7 +109,7 @@ PKP039	eh
 PKP041	arrivava a casa stanchissimo pure:: se:: cercava di studiare la::: o in metro:: ci metteva un'ora per arrivare
 PKP040	che poi a roma non è milano quando ti faci coi mezzi: ti stressi
 PKP041	buone
-PKP040	#mh sta arriva' pure nella chiesa eh tremate tremate
+PKP040	# mh sta arriva' pure nella chiesa eh tremate tremate
 PKP040	secondo me domani (.) ai battesimi rischiano qualche:::
 PKP041	oggi la birreria sta aperta (.) del casale (.) dalle undici alle diciotto
 PKP039	mh
@@ -164,7 +164,7 @@ PKP041	vedi qua:: ((riferimento_tv))
 PKP040	la violenza è sempre violenza
 PKP040	non si può giustificare
 PKP041	beh so' stati bravi ((riferimento_tv))
-PKP039	#nc'ha dato na buona idea (.) la prossima vota la fanno
+PKP039	# nc'ha dato na buona idea (.) la prossima vota la fanno
 PKP040	[no] l'hanno lanciato una molotov non hanno colpito il monumento
 PKP041	((ride))
 PKP040	fammi vedere
@@ -179,7 +179,7 @@ PKP039	mà nce l'ha dittu? basta (.) [viditi]vila vui
 PKP040	eh [no]
 PKP040	ho detto dillo a scuola fallo presente
 PKP041	perché fanno vedere: il monopattino? ((riferimento_alla_tv))
-PKP039	#un xx teni quistu a ventisette anni
+PKP039	# un xx teni quistu a ventisette anni
 PKP040	ha scritto questa qua
 PKP040	((legge)) st~ ma::: dunque ma:::la situazione è molto seria ieri appena arrivata mi hanno fatto eccezionalmente entrare in terapia intensiva
 PKP040	ho visto luca ma lo spe<ttacolo> non è bello (.) il responsabile della terapia intensiva è molto intransigente sul rispetto delle regole mi ha detto che non entrerò più
@@ -187,7 +187,7 @@ PKP040	lui non vuole neanche che vada a parlare con i medici ma su questo vediam
 PKP039	[di chi sta parlando? ah di maura: xxx:: l'amica tua]
 PKP040	ieri sera quando mi <hanno> chiamato per aggiornarmi mi hanno detto che si forma catarro e che glielo aspirano >il problema è che potrebbe essere dovuto ad un'altra infezione
 PKP040	le infezioni sono a rischio (.) in terapia intensiva la situazione viene monitora~ altro problema è che causa covid i tempi per il trapianto potrebbero allungarsi perché ci sono ospedali che non hanno neanche il tempo di fare (.) gli espianti
-PKP040	almeno questo mi hanno detto i medici < poi luca ha gruppo zero (.) dobbiamo unirci nella preghiera e nel pensiero ottimista che deve farci sempre (.) sperare
+PKP040	almeno questo mi hanno detto i medici <poi luca ha gruppo zero (.) dobbiamo unirci nella preghiera e nel pensiero ottimista che deve farci sempre (.) sperare
 PKP041	divieto per i minorenni?
 PKP040	((al_telefono)) #lu beddu lu beddu lu beddu:: buongio::rno ciao (.) mangiato?
 PKP040	che mangi? (.) paparella (.) una papparella
@@ -216,7 +216,7 @@ PKP041	[cosa]?
 PKP040	[ma sopratutto ho lasciato il telefono a casa ((ridendo)) basta (.) no]
 PKP041	[bello] (.) gra[zie]
 PKP040	[no] non ne voglio sentire più niente non si capisce più niente france'
-PKP040	#sta mpaccimu quai
+PKP040	# sta mpaccimu quai
 PKP040	e quindi: così la giornata è molto molto bella:
 PKP041	però c'è vento
 PKP040	però c'è vento
@@ -258,7 +258,7 @@ PKP041	ma un casino stava
 PKP040	mh se al ristorante è così
 PKP041	al ristorante?
 PKP040	mh
-PKP041	#e va va:
+PKP041	# e va va:
 PKP040	xxx ma questo bianchi è amico di master?
 PKP041	che ne so io non s~ [non sapevo] neanche chi fosse
 PKP039	[penso di si]
@@ -271,12 +271,12 @@ PKP040	speriamo che:::
 PKP041	pa' me la apri?
 PKP040	che abbiamo le do:si
 PKP041	mamma mia
-PKP040	#siccome non è pesante quel melograno quasi quasi nci lu porto a piedi no?
+PKP040	# siccome non è pesante quel melograno quasi quasi nci lu porto a piedi no?
 PKP041	no non ti conviene
 PKP041	sto morendo di sonno
 PKP040	solo che devo vedere la messa a che ora è domani perché: mo cambia l'orario no?
 PKP041	ma così l'avresti aperta?
-PKP039	#me::na giù
+PKP039	# me::na giù
 PKP041	((ride))
 PKP040	senti la tua amica:: che sta a edimburgo che dice? (.) tappata in casa no?
 PKP041	no: la situazione a edimburgo non la so
@@ -315,8 +315,8 @@ PKP040	be non credo che si possa f[are]
 PKP039	[be eppure molte]
 PKP040	[mo] col centro dell'impiego si vede subito eh
 PKP039	alcuni li hanno fatti eh
-PKP039	#hanno assuntu la moglie lu figghio le cose: (.) e li ha messi in cassa integrazione
-PKP039	#eh paiati dallo stato
+PKP039	# hanno assuntu la moglie lu figghio le cose: (.) e li ha messi in cassa integrazione
+PKP039	# eh paiati dallo stato
 PKP039	intanto se tu stato hai fatto un incentivo per fare assumere
 PKP039	e uno ha assunto a settembre e mo stai chiudendo
 PKP039	mettendo la [cassa integrazione]
@@ -350,7 +350,7 @@ PKP040	((legge)) laura antonelli gira in rete una poesia [attribuita a xxx]
 PKP041	[l'ho visto]
 PKP040	regole per non ammalarsi
 PKP040	che però non è sua il mio contributo contro le >fake poems<
-PKP040	#mamma mi faci muriri la bianchi
+PKP040	# mamma mi faci muriri la bianchi
 PKP040	eh io quando parla aldo non lo capisco
 PKP040	non ti preoccupare:: antonella non lo capisco nemmeno io
 PKP040	ha detto ma io non so a scuola come fa lo paraculano perché non lo capi[scono]
@@ -360,7 +360,7 @@ PKP040	al discorso
 PKP040	cioè tu stai parlando del covid [perché il covid]
 PKP041	[vabbè che io non facevo informatica]
 PKP040	[la statistica] la cosa la tit~ e ti perdi e dici scusa ma (.) da che punto eravamo partiti
-PKP040	#e ieri gli hanno tolto la parola è scuccato e si ndi sciutu
+PKP040	# e ieri gli hanno tolto la parola è scuccato e si ndi sciutu
 PKP041	mo che chiudo devo fare vedere un video a papà
 PKP040	quello?
 PKP041	ah l'ho già vista sta cosa ((riferimento_alla_tv))

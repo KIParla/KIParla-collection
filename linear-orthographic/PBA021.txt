@@ -39,10 +39,10 @@ BOI090	che è comodissimo perché è nel mio comune
 BOI090	ci sono gli autobus passano sempre
 BOI090	però direi che il mezzo di mh il mezzo più comodo è il treno
 BOI090	sì
-BOR030	e guidi
 BOI090	io mi muovo
-BOR030	anche
+BOR030	e guidi
 BOI090	sì anche guido ho la macchina
+BOR030	anche
 BOI090	ed è facilmente raggiungibile tutto
 BOR030	d'accordo
 BOR030	bologna è cambiata molto negli ultimi anni
@@ -66,8 +66,8 @@ BOI090	più che tradizioni abbiamo tanti slang abbiamo tante x x un modo di vive
 BOI090	nel senso che bologna è un mondo a sè
 BOI090	abbiamo tanti modi di dire che nessuno capisce tante
 BOI090	è è bello così
-BOR030	come polleg
-BOI090	esatto come polleg come rusco
+BOR030	# come polleg
+BOI090	# esatto come polleg come rusco
 BOI090	che è il bidone della spazzatura
 BOI090	come il tiro
 BOI090	che è
@@ -231,8 +231,8 @@ BOI090	anche la costruzione dell'albero che la facciam sempre lo stesso giorno n
 BOI090	per noi
 BOI090	è la giornata albero e presepe
 BOI090	lo facciamo tutti insieme rigorosamente tutti insieme in famiglia e lo facciamo di un colore solo per ogni albero che facciamo insomma
-BOR030	d'accordo
 BOI090	sì
+BOR030	d'accordo
 BOR030	e mentre in riferimento sempre al cibo natalizio voi siete
 BOI090	ah ah
 BOR030	team pandoro o team panettone
@@ -363,8 +363,8 @@ BOI090	davvero presa a cuore da bologna questa f~ festività se vogliam chiamarl
 BOI090	però sì
 BOI090	cioè mh
 BOI090	è molto presa a cuore
-BOR030	mh
 BOI090	sì
+BOR030	mh
 BOR030	tu per caso sei mai andata al pratello il venticinque
 BOI090	no
 BOI090	no
@@ -424,8 +424,8 @@ BOI090	perché tu sai che tutta notte in spiaggia ci sarà la musica ci saranno 
 BOI090	posti in cui ci si può divertire senza fare danni ecco
 BOI090	quindi sì
 BOI090	però ecco quello è il luogo dove tutti i bolognesi vanno d'estate
-BOR030	mh
 BOI090	quindi se tu chiedi a un qualsiasi bolognese lui va a lido di spina d'estate
+BOR030	mh
 BOR030	quindi tu come la maggior parte dei bolognesi da quel che dici siete per la riviera siete per il mare
 BOI090	sì
 BOI090	sì sì sì
@@ -455,8 +455,8 @@ BOI090	ti trovi qui a bologna e poi al mare li ritrovi casualmente nel tuo stess
 BOI090	che erano del tuo stesso posto cioè è bellissimo perché è un ritrovo estivo uguale a quello invernale
 BOR030	bello bello
 BOR030	però secondo te il fatto che bologna si svuoti
-BOR030	soprattutto negli ultimi anni è dettato anche dal clima che è diventato
 BOI090	mhmh
+BOR030	soprattutto negli ultimi anni è dettato anche dal clima che è diventato
 BOI090	oh si
 BOI090	certo
 BOI090	a bologna fa caldissimo d'estate cioè non non ci si può stare
@@ -492,8 +492,8 @@ BOI090	bello
 BOR030	allora
 BOR030	sappiamo che bologna è
 BOR030	carichissima di una tradizione culinaria
-BOR030	potente
 BOI090	sì sì
+BOR030	potente
 BOR030	e tu per caso conosci osterie o trattorie o posti dove andare a mangiare
 BOI090	certo
 BOI090	certo tantissimi
@@ -620,8 +620,8 @@ BOI090	però è stato bello cioè proprio una
 BOI090	una bella atmosfera anche perché lo fanno in piazza maggiore
 BOI090	con
 BOI090	l~ la mh la chiesa da un lato cioè è bellissimo
-BOR030	mhmh
 BOI090	io ci son stata e molto bello
+BOR030	mhmh
 BOI090	poi queste iniziative qui in piazza maggiore son bellissime come anche tipo la festa del primo maggio
 BOR030	mh
 BOI090	la fanno in piazza maggiore e sempre
@@ -789,8 +789,8 @@ BOI090	senza esperienza
 BOI090	negli ultimi
 BOI090	due anni ho trovato ben tre lavori
 BOI090	quindi se ce l'ho fatta io che non avevo esperienza in nessun tipo di campo ci riescono tutti
-BOR030	che tipi di lavori hai fatto se puoi andare un po' più nel dettaglio
 BOI090	parer mio
+BOR030	che tipi di lavori hai fatto se puoi andare un po' più nel dettaglio
 BOI090	sì
 BOI090	allora come primo lavoro
 BOI090	dovevo
@@ -845,8 +845,8 @@ BOI090	bologna o la nos~ mh l'emilia romagna in generale è piena
 BOI090	di modellisti
 BOI090	e di sarti è una cosa che io non credevo l'ho scoperto col tempo
 BOI090	e in realtà è molto facile anche trovare lavoro su questo settore qui
-BOR030	mh
 BOI090	quindi io personalmente non mi muoverei né all'estero e né tantomeno in italia
+BOR030	mh
 BOR030	d'accordo
 BOR030	allora passo alle domande invece sul tempo libero
 BOI090	mhmh
@@ -871,8 +871,8 @@ BOR030	d'accordo
 BOR030	e in zona universitaria ad esempio non andate mai
 BOI090	no
 BOI090	allora non mi è mai capitato di andare in zona universitaria a bologna
-BOR030	mh
 BOI090	perché non mh i miei amici a parte che studian tutti da fuori sede
+BOR030	mh
 BOI090	più o meno tutti da fuori sede quindi
 BOI090	diciamo che la zona universitaria a parte che è un po' scomodo raggiungerla di sera
 BOI090	però non non è una cosa diciamo che che va tanto di moda nel nostro gruppetto ecco
@@ -886,7 +886,7 @@ BOI090	è sicura
 BOI090	di notte cioè per me è come la storia di capodanno che raccontavo prima
 BOI090	per me bologna di sera cioè s~
 BOI090	cambia completamente
-BOI090	fuorchè magari quando ci sono quelle manifestazioni come il primo maggio no che magari è piena di
+BOI090	fuorché magari quando ci sono quelle manifestazioni come il primo maggio no che magari è piena di
 BOI090	di sicurezza proprio nel vero senso della parola però le feste tipo capodanno o
 BOI090	le serate normali come il sabato sera
 BOI090	meglio evitarla bologna
@@ -926,8 +926,8 @@ BOR030	e ti chiedo invece il calcio
 BOI090	mhmh okay
 BOR030	visto che abbiam parlato del del basket
 BOI090	il calcio in casa siamo tutti tifosi
-BOR030	okay
 BOI090	bologna proprio anche quello è il è il culto
+BOR030	okay
 BOI090	cioè purtroppo e mi tocca dirlo perché per me il calcio non è proprio la la forma migliore di sport e di sportività in generale però
 BOI090	per me il calcio i~ in casa come in tutta bologna proprio culto
 BOR030	mhmh e avete scelto cioé hai scelto di tifare il bologna
@@ -938,8 +938,8 @@ BOI090	perché tutti tifano bologna ovviamente
 BOI090	i miei mio fratello sono molto più
 BOI090	inglobati in questa cosa che è il calcio io
 BOI090	tifo bologna perché i miei tifano bologna
-BOR030	d'accordo
 BOI090	è è quello
+BOR030	d'accordo
 BOR030	e sei mai andata a vedere le partite dal vivo o preferisci televisione
 BOI090	televisione
 BOI090	cioè io non ci son mai stata allo stadio devo dire è un'esperienza che dovrei fare
