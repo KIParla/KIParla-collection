@@ -8,12 +8,15 @@ The KIParla collection results from the merging of the available modules.
 
 At the moment, available modules are:
 
-| Module      | repository                         |
-| ----------- | ---------------------------------- |
-| KIP         | https://github.com/KIParla/KIP     |
-| ParlaBO     | https://github.com/KIParla/ParlaBO |
-| ParlaTO     | https://github.com/KIParla/ParlaTO |
-| KIPasti     | https://github.com/KIParla/KIPasti |
+| Module       | repository                              |
+| ------------ | --------------------------------------- |
+| KIP          | https://github.com/KIParla/KIP          |
+| ParlaBO      | https://github.com/KIParla/ParlaBO      |
+| ParlaTO      | https://github.com/KIParla/ParlaTO      |
+| KIPasti      | https://github.com/KIParla/KIPasti      |
+| ParlaBZ      | https://github.com/KIParla/ParlaBZ      |
+| Stra-ParlaBO | https://github.com/KIParla/Stra-ParlaBO |
+| Stra-ParlaTO | https://github.com/KIParla/Stra-ParlaTO |
 
 Should you find inconsistencies in the data, please refer to the [original module](./modules.md) to correct them.
 This is not a working environment, it is purely meant as a joint repository for consultation.
