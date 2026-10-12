@@ -25,7 +25,7 @@ This is not a working environment, it is purely meant as a joint repository for 
 
 The `KIParla` corpus on NoSketch Engine is generated from this collection. Since the modules do not all provide the same information, **it only offers what every module offers**: the conversation code, type, duration (and duration range), participants, year, the presence of unidentified speakers, the annotation flag, and, for each transcription unit, the speaker's occupation, gender and age range, plus audio, time and error-report links. Word-level `lemma`/`upos` are also present.
 
-What is specific to a module is available in the module's own NoSketch corpus, and is described in the module's README (each corpus links to it from its information page):
+What is specific to a module is available in the module's own NoSketch corpus, and is described in the module's README. Each corpus has an *annotation level* (0 base transcription, 1 with code variation, 2 with translation), explained in the [annotation levels](https://kiparla.github.io/docs-site/portal/1.0/nosketch/annotation-levels.html) page of the documentation, which each corpus links from its information page. `KIParla` is at level 0:
 
 | Module       | Available only in the module's own corpus                                                                                      |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------ |
