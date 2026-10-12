@@ -21,6 +21,24 @@ At the moment, available modules are:
 Should you find inconsistencies in the data, please refer to the [original module](./modules.md) to correct them.
 This is not a working environment, it is purely meant as a joint repository for consultation.
 
+## The aggregated corpus in NoSketch Engine
+
+The `KIParla` corpus on NoSketch Engine is generated from this collection. Since the modules do not all provide the same information, **it only offers what every module offers**: the conversation code, type, duration (and duration range), participants, year, the presence of unidentified speakers, the annotation flag, and, for each transcription unit, the speaker's occupation, gender and age range, plus audio, time and error-report links. Word-level `lemma`/`upos` are also present.
+
+What is specific to a module is available in the module's own NoSketch corpus, and is described in the module's README (each corpus links to it from its information page):
+
+| Module       | Available only in the module's own corpus                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| KIP          | collection point; speaker's school region                                                                                      |
+| KIPasti      | code variation (`contains_code_variation`, `variety`, `nonce`); collection point, collection region, macro region; languages; birth region, study level, L1 |
+| ParlaBO      | code variation; collection point; languages; birth region, study level, L1                                                     |
+| ParlaTO      | code variation; collection point; languages; birth region, study level                                                         |
+| ParlaBZ      | speaker's school region and study level                                                                                        |
+| Stra-ParlaBO | code variation; translation of the transcription units; community; collection point; languages; speaker's mother tongue, age of arrival and years in Italy; birth region, study level |
+| Stra-ParlaTO | the same as Stra-ParlaBO                                                                                                       |
+
+The `#`, `#*` and `$` markers of the transcription remain in the words of the aggregated corpus; the labels that make them searchable (`variety`, `nonce`, `contains_code_variation`) are offered only where the module uses these conventions.
+
 ## Repository organization
 
 This repository contains:
