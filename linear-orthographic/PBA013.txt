@@ -1074,7 +1074,7 @@ BOR018	come si dice da noi
 BOI075	# dare un pugno ti no ti ietto
 BOR018	eh
 BOR018	# ti iett~ t'inde ietto uno
-BOI075	tin~ ti ietto uno sì un
+BOI075	# t'in~ ti ietto uno sì un
 BOI074	oddio
 BOI075	è proprio
 BOI074	ecco
@@ -1247,7 +1247,7 @@ BOI074	mh no è una bella serie
 BOI074	adesso che è arrivata la seconda me la guardo di gusto
 BOI074	poi dipende cioè mh
 BOR018	# ti sciali
-BOI075	ti sciali a guardarla
+BOI075	# ti sciali a guardarla
 BOI074	si ma a me esatto esatto eh mh
 BOI074	dipende perché anche lì non è che c'ho
 BOI074	una sta~
@@ -1614,11 +1614,11 @@ BOI074	sì
 BOI074	sì
 BOR018	dice ah sentitemi alla radio lui è in cella mette la radio sente la sua canzone
 BOR018	cantata dall'altra e dice
-BOR018	o chiatti'
+BOR018	# o chiatti'
 BOR018	# perché il chiattillo suonava il pianoforte quindi hanno fatto la canzone insieme
 BOI074	ah
 BOR018	# o chiatti' c'hann fottut 'o piez chiatti'
-BOI075	chann fottut o piez
+BOI075	# c'hann fottut o piez
 BOR018	lui con il xx che arriva alle ginocchia
 BOI074	terribile
 BOI074	mamma mia
@@ -1772,7 +1772,7 @@ BOI074	se tu sei una brava persona lo sei a prescindere
 BOR018	esatto
 BOR018	va bene
 BOI074	# se sei unu chiattil
-BOR018	se sei un chiattil aliora sei buono a prescindere
+BOR018	# se sei un chiattil aliora sei buono a prescindere
 BOI074	eh capito sei buono
 BOI075	infatti lui del nord vien chiuso nel carcere a napoli
 BOI074	ah ma perché non c'è più posto al nord lo mandano giù

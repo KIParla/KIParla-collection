@@ -539,7 +539,7 @@ BOR030	bologna è bologna
 BOI091	bologna è bologna
 BOR030	va bene
 BOR030	mentr[e: passia]mo ((ride)) alle attività del tempo libero
-BOI091	(#bulagna è bula~)
+BOI091	# (bulagna è bula~)
 BOR030	e:h ti chiedo innanzitutto se fai attività sportiva
 BOI091	in questo momento no
 BOI091	ne ho fatta tanta ma adesso no

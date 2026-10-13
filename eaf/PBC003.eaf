@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:55:49+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-13T08:47:54+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<MEDIA_DESCRIPTOR MEDIA_URL="PBC003.mp3" RELATIVE_MEDIA_URL="PBC003.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
@@ -13952,7 +13952,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1239" TIME_SLOT_REF1="ts2476" TIME_SLOT_REF2="ts2477">
-				<ANNOTATION_VALUE>[#[comunque io] quella storiella de: al set che gl'ott (.) l'ho imparata da: dalla si[mona] che lei è bolognese bolognese bolognese]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [[comunque io] quella storiella de: al set che gl'ott (.) l'ho imparata da: dalla si[mona] che lei è bolognese bolognese bolognese]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14287,7 +14287,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1410" TIME_SLOT_REF1="ts2818" TIME_SLOT_REF2="ts2819">
-				<ANNOTATION_VALUE>[#ades quast chi l'è dal domiledznov ma xx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [ades quast chi l'è dal domiledznov ma xx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

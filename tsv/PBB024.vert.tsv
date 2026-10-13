@@ -4324,9 +4324,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 540-5	BOR030	540	5	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 540-6	BOR030	540	6	tempo	tempo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 540-7	BOR030	540	7	libero	libero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1677.457	_	_	_	_
-541-0	BOI091	541	0	(#bulagna	#bulagna	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=1674.37	_	_	0-8(0)	_
-541-1	BOI091	541	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-1(0)	_
-541-2	BOI091	541	2	bula~)	bula~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=1674.964	_	_	0-5(0)	_
+541-0	BOI091	541	0	# (bulagna	bulagna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1674.37	_	_	0-7(0)	_
+541-1	BOI091	541	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-1(0)	_
+541-2	BOI091	541	2	bula~)	bula~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	End=1674.964	_	_	0-5(0)	_
 542-0	BOR030	542	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1678.439	0x1	_	_	_
 542-1	BOR030	542	1	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 542-2	BOR030	542	2	chiedo	chiedo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

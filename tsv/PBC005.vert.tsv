@@ -1330,12 +1330,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 171-4	BOR002	171	4	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(37)
 171-5	BOR002	171	5	ricollegato]	ricollegato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=537.94	_	_	_	0-11(37)
 172-0	BOI014	172	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=535.7|End=536.18	_	_	_	0-2(36)
-173-0	BOI014	173	0	]#tun~	#tun~	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=536.315	_	_	_	_
-173-1	BOI014	173	1	to~	to~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
-173-2	BOI014	173	2	togni]ni	tognini	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
-173-3	BOI014	173	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-173-4	BOI014	173	4	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-173-5	BOI014	173	5	tugnèin	tugnèin	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=538.98	_	_	_	_
+173-0	BOI014	173	0	# ]tun~	tun~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	Begin=536.315	_	_	_	_
+173-1	BOI014	173	1	to~	to~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+173-2	BOI014	173	2	togni]ni	tognini	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
+173-3	BOI014	173	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
+173-4	BOI014	173	4	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+173-5	BOI014	173	5	tugnèin	tugnèin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=538.98	_	_	_	_
 174-0	BOI014	174	0	# tugnèin	tugnèin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=540.167|End=540.9	_	_	_	_
 175-0	BOI014	175	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=540.962	_	_	_	_
 175-1	BOI014	175	1	erano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6166,7 +6166,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 955-0	BOI014	955	0	°poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2396.26	_	_	_	_
 955-1	BOI014	955	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 955-2	BOI014	955	2	[diceva°]	diceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2397.56	_	_	_	0-6(239)
-956-0	BOR002	956	0	[#brigual]	#brigual	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=2396.85|End=2397.53	_	_	_	0-8(239)
+956-0	BOR002	956	0	# [brigual]	brigual	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2396.85|End=2397.53	_	_	_	0-7(239)
 957-0	BOI014	957	0	# i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2397.59	_	_	_	_
 957-1	BOI014	957	1	brigual	brigual	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2398.29	_	_	_	_
 958-0	BOI014	958	0	# i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2398.52	_	_	_	_

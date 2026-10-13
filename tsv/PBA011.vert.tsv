@@ -4454,10 +4454,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 746-2	BOI071	746	2	balotte	balotte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1400.578	_	_	_	_
 747-0	BOI070	747	0	# le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1400.673	_	_	_	_
 747-1	BOI070	747	1	balott[e]	balotte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1401.375	_	_	_	6-7(170)
-748-0	BOR021	748	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1401.223	_	_	_	_
-748-1	BOR021	748	1	[#eh]	#eh	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	0-3(170)
-748-2	BOR021	748	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-748-3	BOR021	748	3	balotte	balotte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1402.115	_	_	_	_
+748-0	BOR021	748	0	# ((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=1401.223	_	_	_	_
+748-1	BOR021	748	1	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(170)
+748-2	BOR021	748	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+748-3	BOR021	748	3	balotte	balotte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1402.115	_	_	_	_
 749-0	BOI070	749	0	proprio::	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1402.02|End=1402.904	6x2	_	_	_
 750-0	BOR021	750	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1402.66	_	_	_	_
 750-1	BOR021	750	1	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

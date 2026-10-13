@@ -1235,7 +1235,7 @@ BOI010	anche bologna se te p~
 BOI010	vai dentro in un in un centro per anziani
 BOI010	e mettere ehm quattro persone BOlognesi a far una partita a carte è impossibile
 BOI010	non n~ n~ non li trovi quattro bolognesi che giocano ehm cio[è:]
-BOI009	[#[comunque io] quella storiella de: al set che gl'ott (.) l'ho imparata da: dalla si[mona] che lei è bolognese bolognese bolognese]
+BOI009	# [[comunque io] quella storiella de: al set che gl'ott (.) l'ho imparata da: dalla si[mona] che lei è bolognese bolognese bolognese]
 BOI010	[sì]
 BOI010	[ma certo certo eh perché lei >è proprio< vera bolo]gne[se]
 BOR001	[ah]
@@ -1406,7 +1406,7 @@ BOR001	[a:h]
 BOI010	i proverbi i: detti
 BOI010	[le stori]e del di bologna
 BOR001	[m:h]
-BOI009	[#ades quast chi l'è dal domiledznov ma xx
+BOI009	# [ades quast chi l'è dal domiledznov ma xx
 BOI010	# [ben cusa gh'interessa a lia] l'ha sol [da truvar e]:h
 BOR001	[sì]
 BOI009	# [NO a dig è:]

@@ -7897,7 +7897,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1155-1	BOI097	1155	1	ba~]	ba~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=2243.635	_	_	_	0-3(404)
 1156-0	BOR036	1156	0	# burazzo	burazzo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2246.898|End=2247.614	_	_	_	_
 1157-0	BOI097	1157	0	# bura[zzo]	burazzo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2248.021|End=2248.569	_	_	_	4-7(?)
-1158-0	BOI098	1158	0	[#bu]razzo	#burazzo	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=2248.569|End=2249.167	_	_	_	0-3(?)
+1158-0	BOI098	1158	0	# [bu]razzo	burazzo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2248.569|End=2249.167	_	_	_	0-2(?)
 1159-0	BOI098	1159	0	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2249.614|End=2250.125	0x1	_	_	0-2(405)
 1160-0	BOR036	1160	0	[però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2249.719	_	_	_	0-4(405)
 1160-1	BOR036	1160	1	voi]	voi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(405)

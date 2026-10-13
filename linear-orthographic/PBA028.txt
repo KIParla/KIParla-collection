@@ -387,7 +387,7 @@ BOR031	e
 BOI110	è in via della~ ind~ indipendenza x lì
 BOR031	okay
 BOI110	l'ho fatto dopo un bellissimo esame di geografia andato male
-BOR031	osta
+BOR031	# osta
 BOI110	e quindi dovevo ubriacarmi
 BOR031	ah
 BOI110	no non è vero dai dovevo mangiare volevo mangiare perché dovevo salutare le mie amiche perché dopo loro tornavano

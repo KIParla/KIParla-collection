@@ -1219,7 +1219,7 @@ BOI010	anche bologna se te p~
 BOI010	vai dentro in un in un centro per anziani
 BOI010	e mettere ehm quattro persone bolognesi a far una partita a carte è impossibile
 BOI010	non n~ n~ non li trovi quattro bolognesi che giocano ehm cioè
-BOI009	comunque io quella storiella de al set che gl'ott l'ho imparata da dalla simona che lei è bolognese bolognese bolognese
+BOI009	# comunque io quella storiella de al set che gl'ott l'ho imparata da dalla simona che lei è bolognese bolognese bolognese
 BOI010	sì
 BOI010	ma certo certo eh perché lei è proprio vera bolognese
 BOR001	ah
@@ -1384,7 +1384,7 @@ BOR001	ah
 BOI010	i proverbi i detti
 BOI010	le storie del di bologna
 BOR001	mh
-BOI009	ades quast chi l'è dal domiledznov ma xx
+BOI009	# ades quast chi l'è dal domiledznov ma xx
 BOI010	# ben cusa gh'interessa a lia l'ha sol da truvar eh
 BOR001	sì
 BOI009	# no a dig è

@@ -164,7 +164,7 @@ BOI014	io c'ho messo una vita per capire che erano i tedeschi
 BOR002	ah
 BOR002	no infatti non avrei mai ricollegato
 BOI014	eh
-BOI014	tun to~ tognini i tugnèin
+BOI014	# tun~ to~ tognini i tugnèin
 BOI014	# tugnèin
 BOI014	che erano i tedeschi
 BOI014	che venivano ovviamente
@@ -930,7 +930,7 @@ BOI014	ci si andava
 BOI014	per i bregoli
 BOI014	# i bregual
 BOI014	poi si diceva
-BOR002	brigual
+BOR002	# brigual
 BOI014	# i brigual
 BOI014	# i brigual bregual non lo so di preciso si faceva la ga~ si camminava
 BOI014	io avevo sempre paura perché c'era

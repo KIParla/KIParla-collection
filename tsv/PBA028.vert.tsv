@@ -2388,8 +2388,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 403-8	BOI110	403	8	geografia	geografia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 403-9	BOI110	403	9	andato	andato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 403-10	BOI110	403	10	male	male	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=728.21	_	_	_	_
-404-0	BOR031	404	0	(#osta)	#osta	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=728.25	_	_	0-5(0)	_
-404-1	BOR031	404	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=729.55	_	_	_	_
+404-0	BOR031	404	0	# (osta)	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=728.25	_	_	0-4(0)	_
+404-1	BOR031	404	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=729.55	_	_	_	_
 405-0	BOI110	405	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=729.59	_	_	_	_
 405-1	BOI110	405	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 405-2	BOI110	405	2	dovevo	dovevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

@@ -1887,7 +1887,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 302-3	BOI118	302	3	insieme)	insieme	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-7(0)	0-7(106)
 302-4	BOI118	302	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(106)
 302-5	BOI118	302	5	cose]	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=611.834	_	_	_	0-4(106)
-303-0	BOR031	303	0	[#osta]	#osta	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=617.93|End=618.52	_	_	_	0-5(107)
+303-0	BOR031	303	0	# [osta]	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=617.93|End=618.52	_	_	_	0-4(107)
 304-0	BOI117	304	0	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=618.66	_	_	_	_
 304-1	BOI117	304	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 304-2	BOI117	304	2	loro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

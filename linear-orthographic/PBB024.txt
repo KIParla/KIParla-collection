@@ -534,7 +534,7 @@ BOR030	bologna è bologna
 BOI091	bologna è bologna
 BOR030	va bene
 BOR030	mentre passiamo alle attività del tempo libero
-BOI091	bulagna è bula~
+BOI091	# bulagna è bula~
 BOR030	eh ti chiedo innanzitutto se fai attività sportiva
 BOI091	in questo momento no
 BOI091	ne ho fatta tanta ma adesso no

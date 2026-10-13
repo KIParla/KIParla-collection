@@ -336,8 +336,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 57-0	BOR031	57	0	[okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=104.67	_	_	_	0-4(26)
 57-1	BOR031	57	1	okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=105.41	_	_	_	0-4(26)
 58-0	BOR031	58	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=107.395|End=108.394	_	_	_	_
-59-0	BOR031	59	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=110.32	_	_	_	_
-59-1	BOR031	59	1	#osta	#osta	_	_	_	_	_	error	_	ContainsVariation=No	_	End=110.93	_	_	_	_
+59-0	BOR031	59	0	# ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=110.32	_	_	_	_
+59-1	BOR031	59	1	osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=110.93	_	_	_	_
 60-0	BOR032	60	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=110.97	_	_	_	_
 60-1	BOR032	60	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=111.29	_	_	_	_
 61-0	BOI094	61	0	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	Begin=111.4	_	_	_	_
@@ -6857,7 +6857,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1124-13	BOI094	1124	13	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1124-14	BOI094	1124	14	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1124-15	BOI094	1124	15	panama	panama	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2284.815	_	_	_	_
-1125-0	BOR031	1125	0	[#osta]	#osta	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=2279.87|End=2280.353	_	_	_	0-5(728)
+1125-0	BOR031	1125	0	# [osta]	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2279.87|End=2280.353	_	_	_	0-4(728)
 1126-0	BOI093	1126	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2279.87|End=2280.353	_	_	_	0-2(728)
 1127-0	BOR031	1127	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2282.99|End=2283.22	_	_	_	0-2(464)
 1128-0	BOR031	1128	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2284.87	_	_	_	_

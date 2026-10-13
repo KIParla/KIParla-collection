@@ -706,16 +706,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 120-2	BOI055	120	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 120-3	BOI055	120	3	bosco	bosco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 120-4	BOI055	120	4	eh,	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=280.96	_	_	_	_
-121-0	BOI055	121	0	°#adesa	#adesa	_	_	_	_	_	error	_	ContainsVariation=No	Volume=Low	Begin=281.2	_	_	_	_
-121-1	BOI055	121	1	aiò	aiò	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-121-2	BOI055	121	2	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-121-3	BOI055	121	3	starnut,	starnut	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	_	_	_	_	_
-121-4	BOI055	121	4	an	an	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-121-5	BOI055	121	5	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-121-6	BOI055	121	6	brisa	brisa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-121-7	BOI055	121	7	cum	cum	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-121-8	BOI055	121	8	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-121-9	BOI055	121	9	metem°	metem	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=283.98	_	_	_	_
+121-0	BOI055	121	0	# °adesa	adesa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	Begin=281.2	_	_	_	_
+121-1	BOI055	121	1	aiò	aiò	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	_
+121-2	BOI055	121	2	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	_
+121-3	BOI055	121	3	starnut,	starnut	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising|Volume=Low	_	_	_	_	_
+121-4	BOI055	121	4	an	an	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	_
+121-5	BOI055	121	5	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	_
+121-6	BOI055	121	6	brisa	brisa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	_
+121-7	BOI055	121	7	cum	cum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	_
+121-8	BOI055	121	8	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	_
+121-9	BOI055	121	9	metem°	metem	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	End=283.98	_	_	_	_
 122-0	BOR014	122	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=283.309|End=283.92	_	_	_	_
 123-0	BOR014	123	0	[fallo	fallo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=284.01	_	_	_	0-5(29)
 123-1	BOR014	123	1	p]ure	pure	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(29)

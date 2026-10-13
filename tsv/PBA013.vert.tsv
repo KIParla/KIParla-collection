@@ -7353,15 +7353,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1132-4	BOR018	1132	4	inde	inde	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1132-5	BOR018	1132	5	ietto	ietto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1132-6	BOR018	1132	6	[uno]	uno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2098.965	_	_	_	0-3(356)
-1133-0	BOI075	1133	0	[#t'	#t'	_	_	_	_	_	error	_	ContainsVariation=No	SpaceAfter=No	Begin=2098.669	_	_	_	0-3(357)
-1133-1	BOI075	1133	1	in~]	in~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	0-3(357)
-1133-2	BOI075	1133	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-1133-3	BOI075	1133	3	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1133-4	BOI075	1133	4	ietto	ietto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1133-5	BOI075	1133	5	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1133-6	BOI075	1133	6	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
-1133-7	BOI075	1133	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-1133-8	BOI075	1133	8	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2100.676	_	_	_	_
+1133-0	BOI075	1133	0	# [t'	t'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	Begin=2098.669	_	_	_	0-2(357)
+1133-1	BOI075	1133	1	in~]	in~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	0-3(357)
+1133-2	BOI075	1133	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
+1133-3	BOI075	1133	3	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1133-4	BOI075	1133	4	ietto	ietto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1133-5	BOI075	1133	5	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1133-6	BOI075	1133	6	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
+1133-7	BOI075	1133	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
+1133-8	BOI075	1133	8	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2100.676	_	_	_	_
 1134-0	BOR018	1134	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2099.331|End=2101.0	_	_	_	_
 1135-0	BOI074	1135	0	oddio:	oddio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2100.841|End=2101.351	4x1	_	_	_
 1136-0	BOR018	1136	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2101.702|End=2102.59	_	_	_	_
@@ -8521,11 +8521,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1312-3	BOI074	1312	3	[m:h]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2440.061	0x1	_	_	0-2(401)
 1313-0	BOR018	1313	0	# [ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2439.73	_	_	_	0-2(401)
 1313-1	BOR018	1313	1	scia]li	sciali	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2440.37	_	_	_	0-4(401)
-1314-0	BOI075	1314	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2440.503	_	_	_	_
-1314-1	BOI075	1314	1	[#ti	#ti	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	0-3(402)
-1314-2	BOI075	1314	2	sciali	sciali	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(402)
-1314-3	BOI075	1314	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(402)
-1314-4	BOI075	1314	4	guardarla]	guardarla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2442.453	_	_	_	0-9(402)
+1314-0	BOI075	1314	0	# ((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=2440.503	_	_	_	_
+1314-1	BOI075	1314	1	[ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(402)
+1314-2	BOI075	1314	2	sciali	sciali	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-6(402)
+1314-3	BOI075	1314	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-1(402)
+1314-4	BOI075	1314	4	guardarla]	guardarla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2442.453	_	_	_	0-9(402)
 1315-0	BOI074	1315	0	[si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2440.801	_	_	_	0-2(402)
 1315-1	BOI074	1315	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(402)
 1315-2	BOI074	1315	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(402)
@@ -10815,9 +10815,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1706-2	BOR018	1706	2	altra	altra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1706-3	BOR018	1706	3	(e)	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-1(0)	_
 1706-4	BOR018	1706	4	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3028.813	_	_	_	_
-1707-0	BOR018	1707	0	((prende_fiato))	((prende_fiato))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3028.847	_	_	_	_
-1707-1	BOR018	1707	1	#o	#o	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-1707-2	BOR018	1707	2	chiatti'	chiatti'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes	End=3029.821	_	_	_	_
+1707-0	BOR018	1707	0	# ((prende_fiato))	((prende_fiato))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=3028.847	_	_	_	_
+1707-1	BOR018	1707	1	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1707-2	BOR018	1707	2	chiatti'	chiatti'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	End=3029.821	_	_	_	_
 1708-0	BOR018	1708	0	# perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	Begin=3029.85	_	_	_	_
 1708-1	BOR018	1708	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 1708-2	BOR018	1708	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
@@ -10843,11 +10843,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1711-6	BOR018	1711	6	piez]	piez	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	0-4(554)
 1711-7	BOR018	1711	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 1711-8	BOR018	1711	8	chiatti'	chiatti'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	End=3037.078	_	_	_	_
-1712-0	BOI075	1712	0	[#c'	#c'	_	_	_	_	_	error	_	ContainsVariation=No	SpaceAfter=No	Begin=3034.989	_	_	_	0-3(554)
-1712-1	BOI075	1712	1	hann	hann	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(554)
-1712-2	BOI075	1712	2	fottut	fottut	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(554)
-1712-3	BOI075	1712	3	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(554)
-1712-4	BOI075	1712	4	piez]	piez	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3036.633	_	_	_	0-4(554)
+1712-0	BOI075	1712	0	# [c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	Begin=3034.989	_	_	_	0-2(554)
+1712-1	BOI075	1712	1	hann	hann	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(554)
+1712-2	BOI075	1712	2	fottut	fottut	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-6(554)
+1712-3	BOI075	1712	3	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-1(554)
+1712-4	BOI075	1712	4	piez]	piez	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=3036.633	_	_	_	0-4(554)
 1713-0	BOR018	1713	0	lui	lui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3037.162	_	_	_	_
 1713-1	BOR018	1713	1	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1713-2	BOR018	1713	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -11837,16 +11837,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1883-1	BOI074	1883	1	sei]	sei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(615)
 1883-2	BOI074	1883	2	unu	unu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1883-3	BOI074	1883	3	chiattil	chiattil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=3288.79	_	_	_	_
-1884-0	BOR018	1884	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3289.074	_	_	_	_
-1884-1	BOR018	1884	1	#se	#se	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-1884-2	BOR018	1884	2	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1884-3	BOR018	1884	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1884-4	BOR018	1884	4	chiattil	chiattil	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1884-5	BOR018	1884	5	>alIora<	aliora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	Fast=0-6(0)	_	_
-1884-6	BOR018	1884	6	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1884-7	BOR018	1884	7	buono	buono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1884-8	BOR018	1884	8	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1884-9	BOR018	1884	9	prescindere	prescindere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3291.119	_	_	_	_
+1884-0	BOR018	1884	0	# ((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=3289.074	_	_	_	_
+1884-1	BOR018	1884	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1884-2	BOR018	1884	2	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1884-3	BOR018	1884	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1884-4	BOR018	1884	4	chiattil	chiattil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1884-5	BOR018	1884	5	>alIora<	aliora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	_	_	Fast=0-6(0)	_	_
+1884-6	BOR018	1884	6	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1884-7	BOR018	1884	7	buono	buono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1884-8	BOR018	1884	8	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1884-9	BOR018	1884	9	prescindere	prescindere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=3291.119	_	_	_	_
 1885-0	BOI074	1885	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3291.183	_	_	_	_
 1885-1	BOI074	1885	1	capito	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1885-2	BOI074	1885	2	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
