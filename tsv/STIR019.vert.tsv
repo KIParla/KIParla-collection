@@ -691,7 +691,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 103-11	PST050	103	11	mio]	mio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(21)
 103-12	PST050	103	12	papà:?	papà	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=274.246	3x1	_	_	_
 104-0	PST213	104	0	[((riide))]	((riide))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=272.302|End=273.259	_	_	_	X(21)
-105-0	PST212	105	0	[((xxxx))]	((xxxx))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=273.265|End=273.802	_	_	_	X(22)
+105-0	PST212	105	0	[(xxxx)]	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=273.265|End=273.802	_	_	0-4(0)	0-4(21)
 106-0	PST213	106	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=274.896|End=275.509	_	_	_	_
 107-0	PST050	107	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=275.796	_	_	_	_
 107-1	PST050	107	1	no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_

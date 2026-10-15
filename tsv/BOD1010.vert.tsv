@@ -3383,7 +3383,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 404-20	??	404	20	beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 404-21	??	404	21	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 404-22	??	404	22	standard	standard	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-404-23	??	404	23	((xxx))	((xxx))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1846.139	_	_	_	_
+404-23	??	404	23	(xxx)	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	End=1846.139	_	_	0-3(0)	_
 405-0	BO103	405	0	[lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1845.33	_	_	_	0-2(4)
 405-1	BO103	405	1	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(4)
 405-2	BO103	405	2	già]	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(4)

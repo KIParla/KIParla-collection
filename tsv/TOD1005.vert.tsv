@@ -187,7 +187,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 35-9	??	35	9	ulteriori	ulteriori	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 35-10	??	35	10	conoscenze	conoscenze	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 35-11	??	35	11	linguistiche	linguistiche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-35-12	??	35	12	((xxx))	((xxx))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
+35-12	??	35	12	(xxx)	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	_	_	_	0-3(0)	_
 35-13	??	35	13	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 35-14	??	35	14	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 35-15	??	35	15	avevo	avevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

@@ -17,7 +17,7 @@ authors:
     orcid: "https://orcid.org/0000-0003-0713-8961"
   - family-names: Francesco
     given-names: Suriano
-version: 1.0.3
+version: 1.0.4
 date-released: 2026-10-15
 url: "https://github.com/KIParla/KIParla-collection"
 license: CC-BY-NC-SA-4.0
