@@ -3657,7 +3657,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 715-2	PKP048	715	2	fai	fai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 715-3	PKP048	715	3	le::	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1537.945	1x2	_	_	_
 716-0	PKP040	716	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1538.136|End=1538.798	_	_	_	_
-717-0	???	717	0	((telegiornale))	((telegiornale))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1539.771|End=1541.185	_	_	_	_
+717-0	??	717	0	((telegiornale))	((telegiornale))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1539.771|End=1541.185	_	_	_	_
 718-0	PKP040	718	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1541.292	_	_	_	_
 718-1	PKP040	718	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 718-2	PKP040	718	2	ginosa°	ginosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1542.28	_	_	_	_
@@ -3939,7 +3939,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 772-9	PKP040	772	9	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 772-10	PKP040	772	10	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 772-11	PKP040	772	11	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=1655.21	_	_	_	_
-773-0	???	773	0	((riproduzione_video))	((riproduzione_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1654.944|End=1660.18	_	_	_	_
+773-0	??	773	0	((riproduzione_video))	((riproduzione_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1654.944|End=1660.18	_	_	_	_
 774-0	PKP040	774	0	guarda	guarda	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1655.334	_	_	_	_
 774-1	PKP040	774	1	ma:	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1655.965	1x1	_	_	_
 775-0	PKP040	775	0	aspett~	aspett~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=1659.605|End=1660.17	_	_	_	_
@@ -3960,7 +3960,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 779-2	PKP040	779	2	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 779-3	PKP040	779	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 779-4	PKP040	779	4	ingrandirlo?	ingrandirlo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1664.385	_	_	_	_
-780-0	???	780	0	((riproduzione_video))	((riproduzione_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1663.756|End=1700.93	_	_	_	_
+780-0	??	780	0	((riproduzione_video))	((riproduzione_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1663.756|End=1700.93	_	_	_	_
 781-0	PKP040	781	0	s:::h	sh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1665.402|End=1666.62	0x3	_	_	_
 782-0	PKP041	782	0	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1676.66	_	_	_	_
 782-1	PKP041	782	1	detto	detto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4015,7 +4015,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 786-1	PKP041	786	1	paglia:ccia	pagliaccia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x1	_	_	_
 786-2	PKP041	786	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 786-3	PKP041	786	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1701.86	_	_	_	_
-787-0	???	787	0	((riproduzione_video))	((riproduzione_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1701.863|End=1737.416	_	_	_	_
+787-0	??	787	0	((riproduzione_video))	((riproduzione_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1701.863|End=1737.416	_	_	_	_
 788-0	PKP041	788	0	vedila	vedila	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1705.32	_	_	_	_
 788-1	PKP041	788	1	vedila	vedila	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1706.281	_	_	_	_
 789-0	PKP040	789	0	°paglia:cc(ia)°	pagliaccia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1712.172|End=1713.169	5x1	_	8-10(0)	_

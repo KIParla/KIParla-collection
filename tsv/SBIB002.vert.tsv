@@ -3192,13 +3192,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 808-4	PSB026	808	4	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 808-5	PSB026	808	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 808-6	PSB026	808	6	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1052.2	_	_	_	_
-809-0	???	809	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	Begin=1050.52	_	_	_	_
-809-1	???	809	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-809-2	???	809	2	#ristorante	ristorante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-809-3	???	809	3	#indiano	indiano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-809-4	???	809	4	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-809-5	???	809	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-809-6	???	809	6	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1052.2	_	_	_	_
+809-0	??	809	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	Begin=1050.52	_	_	_	_
+809-1	??	809	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
+809-2	??	809	2	#ristorante	ristorante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+809-3	??	809	3	#indiano	indiano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+809-4	??	809	4	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
+809-5	??	809	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
+809-6	??	809	6	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1052.2	_	_	_	_
 810-0	PSB005	810	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1052.25	_	_	_	_
 810-1	PSB005	810	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 810-2	PSB005	810	2	indiano	indiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3818,7 +3818,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 966-0	PSB005	966	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=1267.56	_	_	_	_
 966-1	PSB005	966	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 966-2	PSB005	966	2	u[na:]	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1268.46	2x1	_	_	0-3(343)
-967-0	???	967	0	[buonasera:]	buonasera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1268.15|End=1268.87	8x1	_	_	0-9(?)
+967-0	??	967	0	[buonasera:]	buonasera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1268.15|End=1268.87	8x1	_	_	0-9(?)
 968-0	PSB026	968	0	[buona]sera:	buonasera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1268.56|End=1269.35	8x1	_	_	0-5(344)
 969-0	PSB026	969	0	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1270.9	_	_	_	_
 969-1	PSB026	969	1	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5400,7 +5400,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1367-1	PSB026	1367	1	(transi[°xx°)]	transixx	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1790.32	_	_	0-8(0)	6-8(490)
 1368-0	PSB005	1368	0	[senti	senti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1789.55	_	_	_	0-5(490)
 1368-1	PSB005	1368	1	pure]	pure	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1790.26	_	_	_	0-4(490)
-1369-0	???	1369	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1791.63|End=1792.77	_	_	_	_
+1369-0	??	1369	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1791.63|End=1792.77	_	_	_	_
 1370-0	PSB026	1370	0	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1801.88	_	_	_	_
 1370-1	PSB026	1370	1	tranquillo	tranquillo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1370-2	PSB026	1370	2	lui	lui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5411,7 +5411,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1370-7	PSB026	1370	7	stampar[e]	stampare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1804.6	_	_	_	7-8(491)
 1371-0	PSB005	1371	0	[o]kay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1804.48	_	_	_	0-1(491)
 1371-1	PSB005	1371	1	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1805.37	_	_	_	_
-1372-0	???	1372	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1806.05|End=1807.29	_	_	_	_
+1372-0	??	1372	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1806.05|End=1807.29	_	_	_	_
 1373-0	PSB026	1373	0	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1809.82	_	_	_	_
 1373-1	PSB026	1373	1	dimmi	dimmi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1373-2	PSB026	1373	2	scusa	scusa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5629,7 +5629,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1420-1	PSB026	1420	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1420-2	PSB026	1420	2	avvocato	avvocato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1420-3	PSB026	1420	3	@nomeluogo	@nomeluogo	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	End=1881.64	_	_	_	_
-1421-0	???	1421	0	[a:h]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1881.64|End=1882.11	0x1	_	_	0-2(506)
+1421-0	??	1421	0	[a:h]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1881.64|End=1882.11	0x1	_	_	0-2(506)
 1422-0	PSB005	1422	0	[a:h]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1881.65|End=1882.11	0x1	_	_	0-2(506)
 1423-0	PSB026	1423	0	bravo	bravo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1882.38	_	_	_	_
 1423-1	PSB026	1423	1	$ragazì	ragazì	_	_	_	_	_	linguistic	_	ContainsVariation=No|Nonce=Yes	_	End=1883.22	_	_	_	_
@@ -5838,8 +5838,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1469-5	PSB026	1469	5	ie	ie	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1469-6	PSB026	1469	6	chobi	chobi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1469-7	PSB026	1469	7	ashe	ashe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1944.941	_	_	_	_
-1471-0	???	1471	0	#_ shada	shada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1945.034	_	_	_	_
-1471-1	???	1471	1	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1946.41	_	_	_	_
+1471-0	??	1471	0	#_ shada	shada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1945.034	_	_	_	_
+1471-1	??	1471	1	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1946.41	_	_	_	_
 1473-0	PSB026	1473	0	#_ kuno	kuno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1946.494	_	_	_	_
 1473-1	PSB026	1473	1	page	page	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1473-2	PSB026	1473	2	ashe	ashe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -5853,7 +5853,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1475-1	PSB026	1475	1	kothaa	kothaa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1475-2	PSB026	1475	2	ta	ta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1475-3	PSB026	1475	3	bujsen?	bujsen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1951.02	_	_	_	_
-1477-0	???	1477	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=1951.3|End=1952.234	_	_	_	_
+1477-0	??	1477	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=1951.3|End=1952.234	_	_	_	_
 1478-0	PSB026	1478	0	[poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1952.54	_	_	_	0-3(527)
 1478-1	PSB026	1478	1	dottore]ssa	dottoressa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-7(527)
 1478-2	PSB026	1478	2	scrive	scrive	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

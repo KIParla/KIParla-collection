@@ -5138,20 +5138,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 770-10	BOR018	770	10	ca[pito]	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1461.021	_	_	_	2-6(223)
 771-0	BOI075	771	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1459.706|End=1460.176	_	_	_	_
 772-0	BOI074	772	0	[PENS]O	penso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1460.767	_	_	_	0-4(224)
-772-1	BOI074	772	1	fosse	fosse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-772-2	BOI074	772	2	()		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-772-3	BOI074	772	3	.	.	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-772-4	BOI074	772	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-772-5	BOI074	772	5	l~	l~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
-772-6	BOI074	772	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-772-7	BOI074	772	7	rossa	rossa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-772-8	BOI074	772	8	()		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-772-9	BOI074	772	9	.	.	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-772-10	BOI074	772	10	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-772-11	BOI074	772	11	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-772-12	BOI074	772	12	realtà	realtà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-772-13	BOI074	772	13	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-772-14	BOI074	772	14	mora	mora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1463.624	_	_	_	_
+772-1	BOI074	772	1	fosse.	fosse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+772-4	BOI074	772	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+772-5	BOI074	772	4	l~	l~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
+772-6	BOI074	772	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+772-7	BOI074	772	6	rossa.	rossa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+772-10	BOI074	772	8	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+772-11	BOI074	772	9	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+772-12	BOI074	772	10	realtà	realtà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+772-13	BOI074	772	11	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+772-14	BOI074	772	12	mora	mora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1463.624	_	_	_	_
 773-0	BOR018	773	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1463.806|End=1463.972	_	_	_	_
 774-0	BOI074	774	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1464.093	_	_	_	_
 774-1	BOI074	774	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

@@ -7213,12 +7213,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1522-0	TOR002	1522	0	[sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3414.401	_	_	_	0-6(266)
 1522-1	TOR002	1522	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(266)
 1522-2	TOR002	1522	2	rovigo],	rovigo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=3415.212	_	_	_	0-6(266)
-1523-0	TOI118	1523	0	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	Begin=3416.315	_	_	_	_
-1523-1	TOI118	1523	1	antica	antica	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1523-2	TOI118	1523	2	roma	roma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1523-3	TOI118	1523	3	ro~	ro~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
-1523-4	TOI118	1523	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-1523-5	TOI118	1523	5	[gio]vane	giovane	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3420.008	_	_	_	0-3(267)
+1523-1	TOI118	1523	0	antica	antica	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3416.315	_	_	_	_
+1523-2	TOI118	1523	1	roma	roma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1523-3	TOI118	1523	2	ro~	ro~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
+1523-4	TOI118	1523	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+1523-5	TOI118	1523	4	[gio]vane	giovane	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3420.008	_	_	_	0-3(267)
 1524-0	TOI119	1524	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3419.197|End=3419.614	_	_	_	0-2(267)
 1525-0	TOI119	1525	0	bello	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3420.228	_	_	_	_
 1525-1	TOI119	1525	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3420.897	_	_	_	_

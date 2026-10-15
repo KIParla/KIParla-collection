@@ -3,21 +3,21 @@ PST125	mh
 PST122	#_ pero apaga la televisión no
 PST123	sì
 PST123	tanto lui non guarda
-???	guardo
+??	guardo
 PST125	sì tanto lui che
 PST122	non ci sta non ci stanno
 PST122	non ci sono i pigiamask no
 PST125	vabbè adesso parliamo in italiano
-???	no eh no noi siamo i pigiamask
+??	no eh no noi siamo i pigiamask
 PST122	facciamo finta
 PST122	ah noi
-???	sì
+??	sì
 PST122	io son~ pigia~ io sono
 PST125	noi per esempio anche a lavoro parliamo un mix eh italiano spagnolo esatto
 PST122	xx
-???	sì e io sono
+??	sì e io sono
 PST122	xx
-???	no io
+??	no io
 PST125	perché io cerco di parlare in spagnolo però poi ovviamente mi esce l'italiano
 PST096	eh certo
 PST127	eh sì
@@ -159,15 +159,15 @@ PST127	eh beh
 PST127	no eh
 PST125	no
 PST125	#_ que pasa
-???	ma vedi xx xx cosa c'è
+??	ma vedi xx xx cosa c'è
 PST125	sh
 PST122	cosa ti devo dire
 PST125	vuoi la torta
-???	ma però ha detto che xx
+??	ma però ha detto che xx
 PST125	ma però
 PST122	madonna che xx che sei cosa ti devo dire
 PST125	vuoi un pezzo di torta
-???	x vedere solo che c'è
+??	x vedere solo che c'è
 PST122	che c'è
 PST127	se specializzarmi in qualcosa o no
 PST127	no se no puoi fare anche la specializzazione in ingegneria
@@ -233,13 +233,13 @@ PST123	per per due giorni
 PST123	venticinque euro al giorno gli danno più le partite che fa sabato e domenica che fa l'arbitro
 PST127	mh
 PST122	chiedi alla mamma
-???	mamma xxx
+??	mamma xxx
 PST123	prende centocinquanta
 PST125	xxx
 PST127	mh
 PST123	a settimana
 PST127	ah ma lui che faceva
-???	mamma xxx
+??	mamma xxx
 PST122	#_ por favor
 PST123	l'allenatore
 PST127	ah l'allenatore
@@ -247,7 +247,7 @@ PST124	posso fare io
 PST123	al bacigalupo
 PST125	sì sì tanto
 PST127	ah al baci
-???	mami mami voglio voglio la torta
+??	mami mami voglio voglio la torta
 PST123	ma due volte a settimana
 PST123	più un giorno di pratica
 PST125	#_ ya mi amor
@@ -257,7 +257,7 @@ PST125	#_ dame un platito dame un platito
 PST123	centocinquanta euro
 PST127	ah
 PST123	cosa ti manca
-???	x x
+??	x x
 PST127	ma
 PST123	a me va bene seicento euro
 PST127	certo
@@ -273,7 +273,7 @@ PST127	sì
 PST123	lui ha fatto l'allenatore lui è il presidente dell' associazione
 PST123	allenatori della mia città
 PST127	ah beh
-???	cosa c'è
+??	cosa c'è
 PST123	lui è affiliato eh della federazione di calcio peruviana
 PST122	xxxxx
 PST127	sì
@@ -366,22 +366,22 @@ PST123	è difficile però
 PST127	certo
 PST123	quindi
 PST125	invece per esempio tira con la sinistra e col destro destra e sinistra
-???	papa'
-???	papa'
+??	papa'
+??	papa'
 PST123	ehi
 PST127	ah bravo
 PST125	prima giocava tirava solo col de~ sinistro
-???	io son bravo a calcio
+??	io son bravo a calcio
 PST127	sì
 PST125	solo sinistro
 PST125	adesso il mio suocero quando se lo portava al parco gli gli ha insegnato destro sinistro destro sinistro destro sinistro
-???	papa'
+??	papa'
 PST127	sì
-???	io son bravo di calcio
+??	io son bravo di calcio
 PST127	eh sì
 PST123	tu sei forte
 PST127	eh biso~ bisogna iniziare fin da piccoli così ti abitui
-???	xxx di forte
+??	xxx di forte
 PST125	sì sì
 PST127	eh
 PST125	infatti quello che stava facendo mio suocero è fare
@@ -435,19 +435,19 @@ PST125	gli scottex
 PST123	ah prendo questi
 PST123	eccoli
 PST125	scottex
-???	scusa papà mi puoi dare un po' di the
+??	scusa papà mi puoi dare un po' di the
 PST123	sì
-???	tanto
+??	tanto
 PST123	nel tuo bicchiere o nel biberon
 PST125	#poquito
-???	sì di spiderman
+??	sì di spiderman
 PST125	#poquito
 PST127	di spiderman
 PST123	un pochino
 PST123	un goccio
-???	no xx
+??	no xx
 PST125	#_ este quiere este este
-???	è sul tavolo
+??	è sul tavolo
 PST125	#_ este
 PST123	sì lo so lo so no xxx
 PST125	ah pensavo che prendevi là
@@ -455,9 +455,9 @@ PST123	xxx
 PST125	eh
 PST125	com'è la torta
 PST125	è buona
-???	sì
+??	sì
 PST125	mh
-???	anche squisita
+??	anche squisita
 PST125	anche squisita
 PST127	carino
 PST125	quando il mio suocero dice
@@ -471,10 +471,10 @@ PST123	mio nonno peruviano
 PST123	o o alle volte dice spagnolo
 PST125	spagnolo
 PST122	#_ en la mesa por si lo pones ahí
-???	no tanto
+??	no tanto
 PST123	è tanto
 PST122	è tanto
-???	no
+??	no
 PST127	grazie
 PST125	e come ti chiamano qualcuno ti chiama o no
 PST127	no no mi chiamano mister
@@ -551,38 +551,38 @@ PST125	che non vuoi aspettare
 PST122	non vuole fare niente sto bambino
 PST122	e non vuoi colorare non vuoi camminare
 PST125	ma è piccolo è piccolino
-???	no attento
+??	no attento
 PST122	no non vuoi camminare ha detto la maestra
 PST122	fai x col naso no
-???	sì
-???	sì che l'ha detto
+??	sì
+??	sì che l'ha detto
 PST125	ma è vero che non vuoi fare le cose a scuola
 PST122	che non vuoi neanche fare il sussidiario
 PST122	non colori
-???	ecco un attimo
-???	xxxx xx
+??	ecco un attimo
+??	xxxx xx
 PST125	#_ con cuidado
-???	è meglio xxx
+??	è meglio xxx
 PST125	cosa fai
-???	x x mettendo il mio costume x in azione
+??	x x mettendo il mio costume x in azione
 PST127	dove vai bomber
 PST122	il tuo costume per andare
-???	eh
+??	eh
 PST127	non andare
 PST125	dove vai
 PST127	dove devi andare
-???	in azione
+??	in azione
 PST123	in azione
-???	sì come i ragni io sono un ragno guarda x
+??	sì come i ragni io sono un ragno guarda x
 PST123	sei un ragno
-???	sì
-???	quindi mi fai passare
+??	sì
+??	quindi mi fai passare
 PST127	dove devi passare
-???	qui
+??	qui
 PST125	si chiede per favore
 PST127	qui dietro
 PST123	eh
-???	per favore
+??	per favore
 PST127	e poi
 PST125	eh
 PST123	eh
@@ -594,9 +594,9 @@ PST127	ah dovevi fare il giro così
 PST123	ah
 PST127	eh ci sta ci sta
 PST127	ha senso
-???	pim
+??	pim
 PST127	eccolo
-???	ran~ ragnatele pam
+??	ran~ ragnatele pam
 PST124	vabbè
 PST122	ah con l'elastico
 PST123	proprio uguale
@@ -691,23 +691,23 @@ PST122	d'altronde lo sai
 PST125	quando c'hai a che fare son liberi eh
 PST127	lo butto via va bene
 PST125	sì o no
-???	no
-???	no
+??	no
+??	no
 PST127	è sparito dov'è finito
-???	eh di LA
+??	eh di LA
 PST127	eh l'ho buttato eh eh ormai è andato via
-???	una mela
+??	una mela
 PST123	vieni che ti devo lavare la mela
-???	mela mela
+??	mela mela
 PST125	ma hai finito la torta
 PST123	sì l'ha già finita
-???	mh non vog~ si'
+??	mh non vog~ si'
 PST122	no
 PST123	no ha lasciato un pezzo
 PST125	eh no finisci la torta
-???	non voglio
+??	non voglio
 PST123	vuole avere la mela x
-???	ma a me non mi piace
+??	ma a me non mi piace
 PST125	eh hai detto che era squisita
 PST122	l'altra volta ha mangiato un'arancia una mela e due muffin
 PST122	vorrei solo dire
@@ -721,14 +721,14 @@ PST125	no no no no no no no
 PST122	mangia proprio la parte schifosa
 PST125	cioè proprio lì lo stai mangiando
 PST122	che biricchino
-???	tu sei una mel~ una monella
+??	tu sei una mel~ una monella
 PST122	tu sei un monello
-???	no tu sei una mo~
+??	no tu sei una mo~
 PST122	tu
 PST122	io ti porto dalla dottoressa
-???	no è papà che un monello una monella
+??	no è papà che un monello una monella
 PST122	ah xxx
-???	cos'è
+??	cos'è
 PST122	dai oh
 PST125	va bene c'era gente oggi
 PST124	dove
@@ -773,34 +773,34 @@ PST123	non ti lasciano fare dico ti schiacciano i piedi
 PST125	che cosa
 PST122	io sarò la mantenuta più ricca del mondo
 PST122	cosa stai facendo mamma mia
-???	e io quando è natale mi vestirò da da da
+??	e io quando è natale mi vestirò da da da
 PST122	da natale non si traveste tesoro non so in che mondo vivi
-???	da
+??	da
 PST125	a natale
 PST122	#_ mh no quiere comprender
-???	da halloween
-???	x xx x
+??	da halloween
+??	x xx x
 PST122	halloween
 PST125	halloween
-???	da halloween mi vesto da da
-???	quello
+??	da halloween mi vesto da da
+??	quello
 PST127	questo
 PST125	da xx
 PST123	da spin
-???	sì
+??	sì
 PST127	da spin
-???	mamma può comprare il costume di pin
+??	mamma può comprare il costume di pin
 PST123	di pin
 PST125	va bene
 PST123	pin
 PST122	io mi travesto da hulk
-???	pin
+??	pin
 PST122	posso vestirmi io da hulk
-???	no
+??	no
 PST127	ma quando è uscito questo
 PST122	perché no
 PST125	tu
-???	perché è un maschio
+??	perché è un maschio
 PST123	eh c'è praticamente mi sembra che c'è spiderman in tanti molti multiversi
 PST122	è questo
 PST127	ah
@@ -838,7 +838,7 @@ PST125	mh
 PST122	adesso uscirà nel vocale che siamo razzisti
 PST122	solo è razzista
 PST125	no lui è maschilista
-???	è come xx
+??	è come xx
 PST122	no è culturalista lui
 PST125	eh
 PST125	le donne guidano la macchina
@@ -850,45 +850,45 @@ PST125	i supereroi sono solo maschi
 PST125	le femminie non possono come no sì
 PST123	possono anche le femmine xx
 PST125	chi sono i supereroi i maschi o le femmine
-???	eh eh decido io
+??	eh eh decido io
 PST123	decido io
-???	eh
-???	vediamo un po'
-???	xxx xxx
+??	eh
+??	vediamo un po'
+??	xxx xxx
 PST124	ah xx legge il libro di spiderman e poi da lì sceglie
 PST123	vediamo
-???	aspetta un attimo
-???	xxxx a questo xx giocare con le ragnatele
-???	xxx
-???	xxxx x capito niente
-???	eh eh
+??	aspetta un attimo
+??	xxxx a questo xx giocare con le ragnatele
+??	xxx
+??	xxxx x capito niente
+??	eh eh
 PST125	comunque non stai rispondendo alla mia domanda
-???	e poi
+??	e poi
 PST123	è apolitico lui
-???	e poi xxx go spider
+??	e poi xxx go spider
 PST127	esatto
-???	io xx
-???	le lo e le lo pim
-???	e papà xx
+??	io xx
+??	le lo e le lo pim
+??	e papà xx
 PST125	eh
 PST122	che schifoso
-???	e va bene la spidey
-???	e lui e lei chi è
+??	e va bene la spidey
+??	e lui e lei chi è
 PST122	la mamma
 PST125	eh non lo so
-???	x x eh eh
+??	x x eh eh
 PST122	uh mamma mia
 PST123	e non ha risposto
 PST122	non ha risposto
 PST125	e non ha risposto
 PST127	no
 PST125	comunque i maschi sono i supereroi o le donne
-???	anche le donne
+??	anche le donne
 PST125	ah
 PST122	adesso fai così no
-???	anche una femmina xx go spider e i maschi xxx
+??	anche una femmina xx go spider e i maschi xxx
 PST122	e se io voglio essere spidey
-???	xxxx è spidey
+??	xxxx è spidey
 PST125	ah la prossima settimana è il tuo compleanno eh
 PST127	prossima ah è vero
 PST125	eh diciotto
@@ -1232,26 +1232,26 @@ PST122	non guadagni no io ho bisogno
 PST122	di soldi
 PST125	penso tutti abbiamo bisogno di soldi
 PST125	tu cosa vuoi fare da grande
-???	mh
+??	mh
 PST127	spidey
-???	aspetta vediamo un po'
+??	aspetta vediamo un po'
 PST125	oh
 PST122	#_ oh qué aburre
-???	da grande eh ah xxx xxx xxx
+??	da grande eh ah xxx xxx xxx
 PST122	ma tu che lavoro vuoi fare da grande
-???	mh
-???	da
-???	vediamo un po'
+??	mh
+??	da
+??	vediamo un po'
 PST125	il poliziotto
 PST122	l'idraulico
 PST122	il meccanico
-???	questo
+??	questo
 PST122	poliziotto
 PST127	ah
-???	chase chase
+??	chase chase
 PST125	un poliz~ chase
 PST127	chase vuole fare chase
-???	chase
+??	chase
 PST127	onesto
 PST125	bravo
 PST122	xxx
@@ -1646,37 +1646,37 @@ PST122	vediamo domani guarda domani ho la verifica di
 PST122	dov'è matematica
 PST125	#_ que estás haciendo
 PST122	di sistemi di equazioni di due incognite con tutti e quattro i metodi
-???	sto prendendo il mio bicchiere
+??	sto prendendo il mio bicchiere
 PST125	non si prende da lì
 PST122	e la retta
 PST125	#dame il #vaso #que #te #ha #dado prima #tu #papà
 PST127	come
-???	sì ma ma adesso non ce l'ho
+??	sì ma ma adesso non ce l'ho
 PST127	ah la verifica
 PST122	su questo guarda
 PST122	scendi da x
 PST125	quello di vetro
 PST127	ah ci sta ci sta
-???	quello di spiderman
-???	pim me l'avevi xxx
+??	quello di spiderman
+??	pim me l'avevi xxx
 PST127	sistemi di equazioni in due incognite
 PST122	tipo la retta i sistemi di equazioni
-???	pim facciamo
-???	pum pum pum
+??	pim facciamo
+??	pum pum pum
 PST127	e poi la retta
-???	e poi facciamo pum
+??	e poi facciamo pum
 PST127	mh
 PST124	xx xxxx
-???	tanto
+??	tanto
 PST125	ma tu hai o~ lezioni obbligatorie
 PST122	#_ basta amor
 PST096	mh no
-???	di piu'
+??	di piu'
 PST125	son tutte facoltative
-???	di piu' di piu' mamma di piu'
+??	di piu' di piu' mamma di piu'
 PST124	scendi però
 PST096	facoltative
-???	mamma di piu'
+??	mamma di piu'
 PST125	ah
 PST096	sì solo i labora~ ~tori sono mh ehm frequenza obbligatoria
 PST122	ma in che anno sei di università
@@ -1702,25 +1702,25 @@ PST122	mi spiace ma
 PST122	non sono
 PST127	vieni cucciolo
 PST127	vieni che ti faccio vedere spidey
-???	miau
+??	miau
 PST127	miau
-???	miau
+??	miau
 PST124	oh
 PST122	oh
-???	miau
+??	miau
 PST127	bau
-???	miao
+??	miao
 PST124	okay
-???	sono un gatto
+??	sono un gatto
 PST127	sei un gatto
-???	miao
+??	miao
 PST125	gatto #boy
-???	sì
+??	sì
 PST127	gatto #boy
 PST122	gatto #boy
-???	gattuno
+??	gattuno
 PST125	questo è un gatto però
-???	gattuno è gatto #boy
+??	gattuno è gatto #boy
 PST127	e invece materia preferita
 PST124	io ho cambiato indirizzo sto facendo il linguistico quindi spagnolo francese
 PST127	mh
@@ -1777,13 +1777,13 @@ PST122	vuoi cambiare famiglia
 PST122	eh allora smettila
 PST125	chiamiamo un'altra mamma
 PST122	un'altra sorella
-???	mhmh
+??	mhmh
 PST122	vai a vivere con loro eh
 PST127	sì
-???	mhmh
+??	mhmh
 PST122	e allora
 PST125	vabbè
-???	xx concentrato
+??	xx concentrato
 PST125	sei concentrato
 PST125	eh
 PST125	e quindi basta è finita la gita puoi ritornare mh
@@ -2015,7 +2015,7 @@ PST127	eh buono
 PST122	#_ ahí se va romper
 PST125	perché almeno così
 PST125	ih guarda che lo rompi eh
-???	no
+??	no
 PST125	ciccio
 PST122	te l'ho detto
 PST127	ma che sta facendo
@@ -2215,7 +2215,7 @@ PST124	ah
 PST122	non stanno assieme
 PST127	no n~ no vabbè ma avrete visto altre storie son stato con un po' di ragazze
 PST122	sì
-PST122	h ah eh devi pensare allo studio prima
+PST122	mh ah eh devi pensare allo studio prima
 PST127	ah vabbè no ma mia mamma lo sa pure
 PST127	alcune le ha conosciute
 PST124	alcune
@@ -2246,9 +2246,9 @@ PST127	qualche amico speciale
 PST122	ma quelli sempre
 PST124	ma come sempre
 PST122	ma xx ma #xx
-???	xxxx xx il letto a castello
+??	xxxx xx il letto a castello
 PST122	no no
-???	chi vuole
+??	chi vuole
 PST127	il re del castello
 PST122	no ho avuto solo un ragazzo e basta
 PST127	mh
@@ -2296,20 +2296,20 @@ PST122	grazie
 PST125	non vuole rispondere
 PST122	amore
 PST122	quante fidanzate hai
-???	sto vedendo quelle xxxxx
+??	sto vedendo quelle xxxxx
 PST122	va bene ma rispondimi quante fidanzate hai
 PST122	una solo
 PST127	xx
-???	xxx
+??	xxx
 PST125	ah
 PST122	oh
 PST124	dai dai
 PST122	#aburre
-???	una due
+??	una due
 PST125	eh sì sì
-???	eh e l'ultima
+??	eh e l'ultima
 PST125	fai
-???	è
+??	è
 PST125	eh le sorelle
 PST122	eh
 PST125	eh
@@ -2411,29 +2411,29 @@ PST122	ha pulito
 PST127	e stai a posto
 PST125	ha puli~
 PST122	quando vuole pulire se no
-???	xxxx xxx nodo
-???	mamma xxx di lanciare quella pallina
-???	ma dove posso xxare non c'è posto
+??	xxxx xxx nodo
+??	mamma xxx di lanciare quella pallina
+??	ma dove posso xxare non c'è posto
 PST125	eh no
 PST127	non c'è posto
 PST124	non c'è posto
-???	sempre solo di sopra
+??	sempre solo di sopra
 PST125	vabbè vai a vedere sopra
 PST122	uh mamma mia domani c'è scuola
-???	x chi c'è
+??	x chi c'è
 PST125	papà
-???	oh ma ci x stava mangiando la torta
+??	oh ma ci x stava mangiando la torta
 PST125	mh
 PST122	stava mangiando la torta
 PST125	l'avrà già finito tato
-???	no
+??	no
 PST127	no
 PST124	chi è tato
 PST125	#_ deja ahi deja ahí deja ahí deja ahí deja ahí
 PST125	#_ no se toca
-???	cos'è la mia $lampa
+??	cos'è la mia $lampa
 PST125	la tua $lampa
-???	sì e saltare xxx
+??	sì e saltare xxx
 PST122	quindi adesso non hai nessuna dici
 PST127	mh no
 PST122	sei un'anima libera
@@ -2717,33 +2717,33 @@ PST127	ah brava
 PST122	sì
 PST127	io c'ho un sacco di ritardi
 PST127	mamma mia
-???	mamma
+??	mamma
 PST122	uh
 PST124	perché
-???	mamma
+??	mamma
 PST122	perché non va a scuola
 PST127	perché mi sveglio tardi a volte entro in seconda dipende
-???	mamma
-???	mamma
-???	domani non si va a scuola
+??	mamma
+??	mamma
+??	domani non si va a scuola
 PST122	hm
 PST125	sì
 PST122	sì che si va a scuola
 PST127	no non si va domani
 PST122	#_ ya mañana viene a recogerte
 PST127	sì
-???	domani non si va a scuola
+??	domani non si va a scuola
 PST125	sì che si va a scuola
-???	no
+??	no
 PST122	chi l'ha detto
 PST127	ha già capito tutto
-???	tu
+??	tu
 PST122	io io non ho detto niente
-???	sì
+??	sì
 PST122	no amo' domani si va a scuola
 PST127	tranquillo
 PST127	devi andare
-???	sto facendo un ponte di tutti i colori
+??	sto facendo un ponte di tutti i colori
 PST124	a volte lui balza
 PST124	rimane qua a casa
 PST127	xxx
@@ -2801,7 +2801,7 @@ PST125	va a scuola anche luglio e agosto poveraccio
 PST127	mado
 PST127	grande
 PST127	ehi come stai
-???	facendo il ponte
+??	facendo il ponte
 PST127	x
 PST125	xxx
 PST127	ma davvero
@@ -2820,27 +2820,27 @@ PST127	sì sì
 PST127	che #best
 PST122	vanno a nuoto
 PST122	cosa vuoi di più dalla vita
-???	no
-???	domani non abbiamo il nuoto
+??	no
+??	domani non abbiamo il nuoto
 PST122	hai percezioni domani
 PST125	no
-???	sì
+??	sì
 PST122	ah
 PST122	cosa fanno a percezioni
 PST127	tieni
 PST125	cosa fai a percezioni
-???	mi serve per fare il ponte
+??	mi serve per fare il ponte
 PST122	ascoltate la musica a percezioni
 PST127	ti sta parlando ti sta parlando
-???	mi serve
+??	mi serve
 PST125	no no no no
 PST122	no no no #deja
 PST127	cosa prendi
 PST127	dammi il gel
 PST127	facciamo scambio facciamo scambio guarda
-???	no
+??	no
 PST127	contemporaneamente
-???	no io vengo lì con te
+??	no io vengo lì con te
 PST122	mamma
 PST122	venerdì esco con te io
 PST122	così
@@ -2850,36 +2850,36 @@ PST122	anch'io
 PST127	xxx
 PST125	dopo pranzo la pennichella
 PST127	sì esatto
-???	quel ragno mi serve
+??	quel ragno mi serve
 PST125	ah due ore due ore di pennichella
 PST122	io la faccio ancora
-???	quel ragno mi serve
+??	quel ragno mi serve
 PST127	dimmi cucciolo
 PST122	c'è gente che può e che non può
-???	quel ragno mi serve
+??	quel ragno mi serve
 PST127	cosa c'è
 PST125	mh
 PST122	tu ti fai la pennichella
 PST127	che cos'è il ragno
-???	eh
+??	eh
 PST127	no io non riesco
-???	eh un ragno pi~
+??	eh un ragno pi~
 PST127	no oggi sì
 PST127	oggi l'ho fatta sì
-???	del pi~
+??	del pi~
 PST122	io faccio al massimo dalle tre alle sei
-???	mi serve anche pim
+??	mi serve anche pim
 PST127	chi è
 PST122	xxx dalle tre alle sei la pe~
-???	è un ragno
+??	è un ragno
 PST122	no in realtà tre sei e mezza perché poi arriva papà e mi devo svegliare
-???	è un ragno
+??	è un ragno
 PST124	ma non l'ho visto io
-???	è quello con gli occhi di spidey
+??	è quello con gli occhi di spidey
 PST125	tu fai la pennichella il pomeriggio
 PST125	no
 PST127	no ma non l'ho visto
-???	e poi xxx
+??	e poi xxx
 PST122	e cosa fate al pomeriggio allora
 PST127	non l'ho visto
 PST127	io alleno i piccoli di solito
@@ -2888,27 +2888,27 @@ PST122	vabbè ma tu perché
 PST122	perché devi fare il mister
 PST127	dimmi cucciolo cosa c'è
 PST122	tu rosa cosa fai al pomeriggio
-???	io ho visto
+??	io ho visto
 PST122	se quando non hai università
 PST127	occhio che ti fai male qua guarda qua ti fai male guarda
 PST096	a volte vado in palestra se no comincio a sistemare gli appunti con calma
 PST096	prima degli esami
 PST122	io dico sempre ah magari in classe li prendo veloce gli appunti poi dico sì sì poi arriva a casa e me li faccio in bella
 PST127	vieni vieni dai
-???	io ho visto in un un ragno
+??	io ho visto in un un ragno
 PST122	c'ho un ammasso così di appunti
 PST122	tutti sparsi
 PST127	mi dai un bacino
 PST122	dai un bacio prima
-???	con
-???	io ho vis~
+??	con
+??	io ho vis~
 PST127	cosa c'è
-???	io ho visto un ragno
+??	io ho visto un ragno
 PST125	guarda guarda la
 PST127	un ragno
 PST127	hai visto
 PST127	ti fa paura
-???	sì
+??	sì
 PST127	sì davvero
 PST122	con quello così diventerà la sua faccia
 PST125	l'altra vol~ hai visto
@@ -2918,15 +2918,15 @@ PST127	ah
 PST127	ah sì ce l'hanno detto sì
 PST125	mh
 PST122	minchia sembra un braccio di hulk
-???	mi dai il ragno
+??	mi dai il ragno
 PST122	grosso così è
 PST125	e e l~
 PST127	ma quale ragno non lo so dov'è
-???	e l~ e l~ con gli occhi
+??	e l~ e l~ con gli occhi
 PST125	e lui non si è avvicinato sabato
 PST127	no davvero
 PST125	e lui adora eh
-???	me lo dai x
+??	me lo dai x
 PST125	ma sabato proprio non l'ha calcolato
 PST127	vero
 PST122	ma ha un coso così che io
@@ -2971,7 +2971,7 @@ PST124	ah no a dormire no
 PST125	no
 PST122	mi hanno invitato a una grigliata
 PST122	scusami è venuta qua a dormire
-PST122	mi ha chiesto xx invito alla grigl~ h
+PST122	mi ha chiesto xx invito alla grigl~ eh
 PST122	perché loro hanno una casa gigante
 PST122	perché sono fuori milano
 PST122	e han~ e vanno tutta tipo questo nostro retro ma tipo nel bosco quindi molto più grande
@@ -3047,7 +3047,7 @@ PST122	a me piace correggere la gente
 PST122	sopra~ i per~ i peruviani lì che parlano e io gli faccio no si dice così
 PST122	e lui mi fa no basta #cállate io faccio no
 PST122	quello sì mi piace correggere la gente anche quando voi sbagliate o quando sbaglia
-???	xx xx
+??	xx xx
 PST122	chi è
 PST125	no
 PST122	ma è di ieri
@@ -3087,16 +3087,16 @@ PST127	quindi dopo che do la maturità
 PST125	ah subito quando finisci la maturità
 PST127	mh
 PST127	alcuni
-???	mi scappa la pipì
+??	mi scappa la pipì
 PST125	vai che c'è papà vai vai
 PST122	vai che c'è papà
-???	ma io non voglio xxxx
+??	ma io non voglio xxxx
 PST122	dai c'è papà no no no
 PST125	vai vai vai vai vai
 PST125	vai vai vai vai che c'è papà
 PST122	e quindi farai l'architetto
 PST125	vai vai vai
-???	no non voglio xxxx
+??	no non voglio xxxx
 PST096	eh sì
 PST125	andiamo andiamo andiamo
 PST096	speriamo
@@ -3105,11 +3105,11 @@ PST122	così mi costruisci casa
 PST122	eh s~ sì ci sono quelli che costruiscono le ca~
 PST096	va bene
 PST096	tieni ti ti ridò questo
-???	ma no
-???	no
+??	ma no
+??	no
 PST122	corri corri che te la fai addosso
-???	eccolo
-???	dov'è la non la s~ non lo xx
+??	eccolo
+??	dov'è la non la s~ non lo xx
 PST127	poverino
 PST125	#_ ay pobrecito xx
 PST127	sì
@@ -3215,7 +3215,7 @@ PST127	io faccio il giocatore
 PST122	mh il giocatore quello che non si
 PST122	però sei andato
 PST127	ma se~ serate
-PST122	o non sei mai a~ h non sei mai andato
+PST122	o non sei mai ah non sei mai andato
 PST127	no serate di solito in
 PST122	oh
 PST127	le facciamo nel #chill in zona
@@ -3325,7 +3325,7 @@ PST124	taglia
 PST127	taglia
 PST125	xxxx
 PST125	xxxx vai di là
-???	non la voxx xxxx
+??	non la voxx xxxx
 PST122	non lavoro
 PST124	xxxx
 PST122	boh

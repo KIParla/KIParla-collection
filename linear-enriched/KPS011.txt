@@ -715,7 +715,7 @@ PKP048	e mo datti una regolata anche a te a uscire
 PKP039	eh
 PKP048	visto che fai le::
 PKP040	xx
-???	((telegiornale))
+??	((telegiornale))
 PKP040	°ah a ginosa°
 PKP040	°(cambia)°
 PKP040	(a)bbiamo:: i mandarini buonissimi,
@@ -771,21 +771,21 @@ PKP048	l'audio
 PKP048	xx che (ho) sonno però:
 PKP040	°giulia (bianchini) vediamo°
 PKP040	qua se (se) si to:cca (le) le immagini che è un xx
-???	((riproduzione_video))
+??	((riproduzione_video))
 PKP040	guarda ma:
 PKP040	aspett~
 PKP040	aspetta
 PKP041	[ma non capirà nie:nte ma>] (no:)
 PKP040	[come si fa a ingrandir(lo)]?
 PKP040	come si fa a ingrandirlo?
-???	((riproduzione_video))
+??	((riproduzione_video))
 PKP040	s:::h
 PKP041	ha detto il signore sta portando all'asilo
 PKP040	(sentila) che canta
 PKP040	LEI CANTA IN INGLESE E LEI FA NO NO NO NO ALL'ASILO NO NO NO ((ride))
 PKP048	no ha detto che per natale voleva venire a (bari) ma (.) di sti tempi non lo so se potrà venire
 PKP041	(che) paglia:ccia che è
-???	((riproduzione_video))
+??	((riproduzione_video))
 PKP041	vedila vedila
 PKP040	°paglia:cc(ia)°
 PKP048	<che ro:ba>

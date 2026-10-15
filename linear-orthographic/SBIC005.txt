@@ -1627,10 +1627,10 @@ PSB005	mhmh
 PSB009	mh sì
 PSB005	è difficile
 PSB009	difficile ma
-???	allora porto via i vuoti
+??	allora porto via i vuoti
 PSB009	ehm
 PSB005	grazie
-???	l'acqua te la lascio
+??	l'acqua te la lascio
 PSB005	mhmh
 PSB009	è difficile ma
 PSB009	eh ho guardato il testo in cinese

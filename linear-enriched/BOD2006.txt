@@ -61,7 +61,7 @@ BO049	dovrebbe essere morto
 BO049	sei in camera da solo perché sei figlio unico?
 BO051	si, sono figlio unico.
 BO049	figlio unico.
-???	ah, solite interviste?
+??	ah, solite interviste?
 BO049	sí, sí.
 BO049	continuano.
 BO049	((ride))

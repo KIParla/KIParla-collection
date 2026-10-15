@@ -85,7 +85,7 @@ PSB017	qual è la verità
 PSB025	era venuto con con cammello adesso sta girando con
 PSB017	con che cosa
 PSB025	con la range rover
-???	con la macchina
+??	con la macchina
 PSB017	no è sbagliato sono venuto con col gommone
 PSB025	ah bravo
 PSB017	a dirti la verità col gommone #xūya
@@ -259,7 +259,7 @@ PSB005	sì sì
 PSB005	e loro capiscono
 PSB017	lingua
 PSB017	sì sì certo
-???	nome abbiamo bisogno di te
+??	nome abbiamo bisogno di te
 PSB005	eh ma prego prego
 PSB017	eh de
 PSB005	io
@@ -629,7 +629,7 @@ PSB025	devi avere la casa sempre
 PSB025	se una ha lavorato esempio cinque anni
 PSB025	lavorava
 PSB025	arriva u- un un certo punto
-???	sì tredici c'era anche
+??	sì tredici c'era anche
 PSB025	perde lavoro okay
 PSB005	mh mh
 PSB025	licenziato l'azienda ha fallita non lo so comunque

@@ -154,8 +154,8 @@ BO032	e il quindici è un sabato
 BO031	ah okay
 BO032	il quattordici
 BO029	il quattordici allora
-???	il quattordici
-???	sì
+??	il quattordici
+??	sì
 BO026	eh però dipende da~ anche dal numero degli iscritti eh
 BO026	deve essere una cosa ragionevole per tutti cioè
 BO030	noi cerchermo comunque di iscriver~
@@ -169,7 +169,7 @@ BO028	in modo da poter fare un uno scam~
 BO026	questa questa esigenza l'affido a voi così è stato anche l'anno scorso non posso occuparmi in dettaglio di
 BO028	okay
 BO032	no vabbè certo magari posso
-???	posso interromperla xx un secondo le chiedo soltan~ scusate ragazze eh scusate
+??	posso interromperla xx un secondo le chiedo soltan~ scusate ragazze eh scusate
 BO026	sì sì
 BO026	eh mh
 BO026	okay
@@ -206,4 +206,4 @@ BO030	okay grazie
 BO032	l'importante è si risolv~
 BO026	va bene
 BO026	arrivederci
-???	buona giornata
+??	buona giornata

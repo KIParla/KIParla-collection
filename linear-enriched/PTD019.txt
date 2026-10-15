@@ -1,11 +1,11 @@
 TOI010	((ride))
 TOI011	((ride))
-???	((ride))
+??	((ride))
 TOR001	no no figurati adesso la cerchiamo ((ride))
-???	xx
+??	xx
 TOR001	sì ma di chi è:?
-???	c'era qualcosa che c'entra coi soldi penny,
-???	[(cioè un nome che)],
+??	c'era qualcosa che c'entra coi soldi penny,
+??	[(cioè un nome che)],
 TOI011	pennywi[se penny::],
 TOR001	[ah diretta~ aspetta aspetta],
 TOR001	aspetta perché si apre (.) (as)petta arrivo.
@@ -14,9 +14,9 @@ TOR001	eh ma eh c'è la registrazione accesa.
 TOI010	>sì sì sì<.
 TOR001	no no ma stavo cercando la canzone (.) (as)petta (eh),
 TOR001	arrivo.
-???	c'entra penny.
+??	c'entra penny.
 TOR001	((ride)) (aspetta),
-???	sixpence none the richer.
+??	sixpence none the richer.
 TOR001	sì (.) fatto.
 TOR001	ma non: non mi ha detto mo~ tante (cose) dì più però (.) cioè non so chi siano vabbè comunque insomm(a),
 TOR001	okay,
@@ -29,7 +29,7 @@ TOI011	e::h sviluppatore software.
 TOI010	la stessa cosa.
 TOR001	mhmh.
 TOR001	in [cosa consiste] in pratica?
-???	[xxx]
+??	[xxx]
 TOI010	programmiamo.
 TOR001	okay.
 TOI010	(in gene~) m:h creiamo:::,
@@ -75,12 +75,12 @@ TOI010	uno:: (.) un software gestionale per: condomini (.) e:h,
 TOR001	okay.
 TOR001	tutto [bene (aspetta)],
 TOI011	[e::h] ((ride))
-???	è caduto qualcosa ma non ho capito co~ [a:h è mio].
+??	è caduto qualcosa ma non ho capito co~ [a:h è mio].
 TOR001	[neanch'io].
-???	okay.
+??	okay.
 TOI010	sc[usa].
 TOR001	[tutto a] posto?
-???	tutto a posto.
+??	tutto a posto.
 TOR001	((ride)) no figurati (.) [scusa mi dicevi]?
 TOI011	[un: software dic]ev(a) per: condomini sì [e::],
 TOI010	[sì anche se],
@@ -137,15 +137,15 @@ TOR001	okay (.) perfetto.
 TOR001	(allora) da quanto tempo fate questo lavoro?
 TOI010	e::h vent'anni (.) credo ((ride)) [o]kay.
 TOR001	[okay] ((ride))
-???	in questa società o in assoluto?
+??	in questa società o in assoluto?
 TOR001	no in assoluto.
 TOI010	s:ì (.) più o meno vent'anni.
 TOI011	bah no eh sì vent'anni io::,
 TOI011	da qua~ da quant'è che lavoro in (.) cinque?
-???	duemila:=e=tre.
+??	duemila:=e=tre.
 TOI011	no duemila=e=tredici.
-???	tredici scusami sì.
-???	((ride))
+??	tredici scusami sì.
+??	((ride))
 TOR001	((ride))
 TOI010	xx duemila=e=tredici,
 TOI011	quindi ci:nque più un paio d'anni prima sei se~ sette [ti direi].
@@ -208,7 +208,7 @@ TOI010	insomma:: d:ella responsabilità che magari non ti compete nemmeno,
 TOR001	mhmh.
 TOI010	e: reperibilità: da ospedale: appunto: (.) cioè (.) ovviamente,
 TOI010	(cosa? (.) [no vabbè ade~])
-???	[un po' esagerato non è che xxx] ((ride))
+??	[un po' esagerato non è che xxx] ((ride))
 TOR001	) ((ride))
 TOI010	[adesso esa~ no vabbè (ma perché) io mi baso mi ba]so anche sul passato ovviamente adesso non è più così [però qua]ndo,
 TOR001	[mhmh].
@@ -390,7 +390,7 @@ TOI011	ma e:: la mia considerazione è strettamente personale nel senso che io s
 TOI011	per::,
 TOI011	per fare l'università (.) che poi non ho finito al[trimenti non saremmo qua],
 TOR001	[mhmh] ((ride))
-???	((ride))
+??	((ride))
 TOI011	e::hm:::,
 TOI011	e quindi:: per me: cioè nel senso non è casa mia.
 TOR001	mhmh.
@@ -472,7 +472,7 @@ TOI010	(l')ho dovuto fare (cioè) la eh
 TOI010	la spesa la dovevo fa:re: dovevo comunicare comunque un po' con la gente (.) e alla fine mi sono arrangiato.
 TOR001	certo.
 TOR001	[e in ir]landa e california dove sei stato?
-???	[eh].
+??	[eh].
 TOI010	in: california a cupertino e san fran[cisco],
 TOR001	[mh (o)kay].
 TOI010	e::hm: io vivevo: diciamo nella: south bay però: comunque mi spostavo tantissi[mo],
@@ -494,11 +494,11 @@ TOI010	sì è: un:: è una come c(io)è (.) infatti la definiscono:: il la la pi
 TOI010	la più bella piccola città del mondo.
 TOI010	[(no)].
 TOR001	è molto (a me era) piaciuta un sacco.
-???	chi cork? io in[vece lo] ricordo come un posto orrendo.
+??	chi cork? io in[vece lo] ricordo come un posto orrendo.
 TOI010	[sì].
 TOR001	e a [me forse un] po' piacciono (quei postiun po') xxx ((ride))
 TOI010	[no a me pia(ce)].
-???	[xxx]
+??	[xxx]
 TOI010	[cioè pensa pensa che: (.) dicono (che) è la seconda città più gros]sa:: del: dell'irlanda cioè ((ride)) una [è dublino (cioè)].
 TOR001	[è un buco] madonna.
 TOI010	sì è un buco che ti giri: in due ore (.) per[ò: i]nsomma un:: un centro città cari:[no no:]? sì sì sì anch'io.
@@ -537,63 +537,63 @@ TOI010	o anche magari nelle piccole città californiane in pochissimo magari c'h
 TOI010	un un sacco di negozi un sacco di vita che magari poi è (.) delimitata,
 TOI010	a quattro isola[ti però (.) c]i son[o].
 TOR001	[mhmh mh].
-???	[pe]rò intorno non c'è un ca:zzo (pro:prio e quindi de[vi fare) ancora::],
+??	[pe]rò intorno non c'è un ca:zzo (pro:prio e quindi de[vi fare) ancora::],
 TOI010	[eh beh ma nei paesi non] c'è: proprio:: u~ [u:n],
-???	[vabbè] xx (quando) c'è un paese,
+??	[vabbè] xx (quando) c'è un paese,
 TOI010	cioè io magari anche x,
-???	[voglio] vedere quanti abitanti fa adesso cork.
+??	[voglio] vedere quanti abitanti fa adesso cork.
 TOI010	m:: [(medio)].
-???	[(f)arà cen]tomi:la d[ai].
+??	[(f)arà cen]tomi:la d[ai].
 TOI010	[no:] no di più: (.) secondo me di più.
-???	dire:: città come: de~ dell'emilia:: reggio emilia non è che c'è nie:nte den[tro].
+??	dire:: città come: de~ dell'emilia:: reggio emilia non è che c'è nie:nte den[tro].
 TOI011	ah beh sticazzi quindi pic[cola xx (piccola)].
 TOI010	[no ma cork >no no< ma cork è: (c'è eh no (.) eh)].
 TOR001	[no no (.) è piccolissima però c]omunque,
 TOI010	e intorno sì c'è: [il nulla].
-???	[centodici]annove.
+??	[centodici]annove.
 TOI010	(cioè) (.) pensa che addirittura [vengono],
 TOR001	[ah già che tu se]i fissato con: le popola[zioni x] ((ride))
 TOI011	[sì sì sì].
 TOI010	cioè (.) l~ la sera venivano dalle città vici:ne a cork per fare serata [no da:: limerick cosa c'è xx cosa],
 TOR001	[eh sì beh anche perché intorno (.) eh sì (infatti)].
-???	centodiciannove ti direi come parma.
+??	centodiciannove ti direi come parma.
 TOR001	(ma) come pa:r[ma] ((ride))
-???	[(vediamo) parma].
+??	[(vediamo) parma].
 TOI010	[a centodiciannove] cos'è a:sti forse?
-???	ma a[sti me::no xxx],
+??	ma a[sti me::no xxx],
 TOI011	[no:: no xxx] (.) parma ne ha di più.
 TOR001	[meno].
-???	centonovantacinque.
+??	centonovantacinque.
 TOR001	((ride))
-???	((ride))
+??	((ride))
 TOI010	quanti?
-???	centonovantacinque. mantova
+??	centonovantacinque. mantova
 TOR001	(adesso va a) a tentati:vi.
-???	eh beh certo come,
+??	eh beh certo come,
 TOR001	((ride))
-???	xxx [xxx]?
+??	xxx [xxx]?
 TOR001	[no no x] adesso sono appassionata quanti ne ha mantova?
-???	((tossisce))
-???	quarantanove.
+??	((tossisce))
+??	quarantanove.
 TOI010	quaran[tanove]?
 TOI011	[quarantano]ve (.) e ba[sta].
-???	[quarantano]ve xx.
+??	[quarantano]ve xx.
 TOI010	ma [scusa ma c'ha più::],
 TOR001	[cioè ha meno abitant]i di rho:?
 TOI010	ma s[cusa ma xxo]?
-???	[sai quanti] capoluoghi fanno meno di cinquantamila abita[(nti)]?
+??	[sai quanti] capoluoghi fanno meno di cinquantamila abita[(nti)]?
 TOI010	[ma al]camo:: in sicilia ha più abitan[ti] (.) ((ride)) ma sì alcamo penso che f[accia],
-???	[(i::a)],
+??	[(i::a)],
 TOR001	((ride))
 TOI011	[m:h xx sessanta].
-???	[alcamo].
+??	[alcamo].
 TOR001	((ride)) [alcamo]
 TOI010	[no allora] (ehm) sì m:h (.) di più ne ha.
 TOR001	((ride))
 TOI010	di sicuro.
 TOR001	e in california sei riuscito a girare? o: lavorando::,
 TOI010	s:ì no vabbè non tantissimo come volevo però sì quanto?
-???	quarantacinque.
+??	quarantacinque.
 TOI010	e:h infat[ti cioè vacca (.) è come man]tova (.) no sì ho girato vabbè san fra~ tu~ tutta la:: in realtà la:: m:h la baia,
 TOR001	[vedi]? ((ride))
 TOR001	mhmh.
@@ -607,11 +607,11 @@ TOI010	in california non è che sia così tanto: comunque: cioè che ci sia ques
 TOR001	[mhmh mh (.) eh sì].
 TOI010	(in) tutta la la parte d[i:: s]an francisco fino: a: (.) [san josè],
 TOR001	[mhmh].
-???	[°scusa°].
+??	[°scusa°].
 TOR001	mhmh.
 TOI010	è: abbastanza piena cioè passi (.) continuamente da un: da un paese all'altro.
 TOI010	dove poi ci sono appunto tutti [questi] colossi::,
-???	[savona]
+??	[savona]
 TOI010	molto: molto di san francisco soprattutto all'inizio nella parte:: sud (.) e: m:h città dormitorio.
 TOR001	[mhmh].
 TOR001	mhmh.
@@ -627,9 +627,9 @@ TOR001	[mhmh mh].
 TOI010	un milioncino.
 TOR001	((ride)) molto bene ((ride))
 TOI010	((ride))
-???	xxx ho trovato vice:nza centoundi[ci].
+??	xxx ho trovato vice:nza centoundi[ci].
 TOR001	[o:::h] bravissimo ((ride))
-???	come vice[nza].
+??	come vice[nza].
 TOI011	[come vic]en[za].
 TOI010	[co]me vice(nza).
 TOI010	e::hm:: e quindi poi vabbè c'è quella quella parte lì [poi] d~ da lì,
@@ -639,7 +639,7 @@ TOI010	e:: monterey non c'è: più nulla (.) [ci sono:] solamente: cittadine cos
 TOR001	[okay].
 TOI010	e: santa cruz (.) [dove] c'è l'università,
 TOR001	[okay].
-???	(quello è) xxx,
+??	(quello è) xxx,
 TOI010	e anche:: l'(acquario) cioè quella (parte lì) e poi (.) di nuovo praticamente [più nu:lla] fino a los ange[les].
 TOR001	[più nulla],
 TOR001	[mh mh]m mh[mh].
@@ -650,13 +650,13 @@ TOI010	e: chiedendo anche a delle persone dicendo ma scusa [ma (.) sacram~]
 TOI011	[(praticamente) sta diven]tando il monolo[go di davide xx (questa intervista non ho capito)] cioè:,
 TOI010	[sacrame~ (.) mi fa delle doma:nde mi fa delle doma:nde].
 TOR001	((ride))
-???	no io sono sconvolto dal (wrest[ling) che non: non ave]ndo la tv (dico) [xx],
+??	no io sono sconvolto dal (wrest[ling) che non: non ave]ndo la tv (dico) [xx],
 TOI010	[sacra~ sacramento].
 TOR001	((ride))
 TOR001	[sacrame]nto è orribile [è uno dei posti più bru:tt(i)].
 TOI010	[no ma sacramento mi ha(n) detto che è una ghos]t town ((ride))
 TOR001	è orri~ io ci ho fatto un mese a sacramento è uno dei posti più brutti [in cui abbia mai stat~ (.) son stata un mese a sacramento].
-???	[sei mesi xxx].
+??	[sei mesi xxx].
 TOI010	[a:h ma (quindi) è per quello che mi fai le doman(de)],
 TOI011	[a:h] oka:y.
 TOI010	no comunque:: sì: e::h los angeles due volte,
@@ -664,11 +664,11 @@ TOI010	san diego non ci sono anda[to],
 TOR001	[mh]mh.
 TOI010	e:: dovevo andare al lago tahoe anche: quello: [sfumato],
 TOR001	[è molto bello] (.) [è molto bello].
-???	[xxx].
+??	[xxx].
 TOI010	e:: anche:: il lago tahoe e l'altro:: m:h,
 TOR001	((ride))
 TOI010	yosemite (.) n:on s[ono riuscito ad an]dare,
-???	[xx].
+??	[xx].
 TOR001	((ride))
 TOI010	e::,
 TOI010	poi ho fatto anche un voletto sul: sull'aereo::,
@@ -683,9 +683,9 @@ TOI010	sì.
 TOI010	e:: da paloalto fino a san francis[co (aiuto no)] era: fino a:: m:h petaluma
 TOR001	[mhmh].
 TOR001	ok[ay].
-???	([allo]ra),
+??	([allo]ra),
 TOI010	[xxx].
-???	[va a x]xx.
+??	[va a x]xx.
 TOR001	((ride))
 TOI010	xxx (stati lì) era il petaluma e dovevo (arrivà il),
 TOI010	pollo quello lì chicker e::h chicken::,
@@ -708,7 +708,7 @@ TOR001	[okay].
 TOR001	[mhmh mhmh okay].
 TOR001	((ride)) adesso la faccio prima a te la domanda così ci alter[nia]mo ((ride))
 TOI011	[mh],
-???	((ride))
+??	((ride))
 TOI011	xx.
 TOR001	ti trasferiresti all'estero per lavorare?
 TOI011	(mi) trasferirei all'estero per lavorare,
@@ -755,22 +755,22 @@ TOR001	[o]kay.
 TOI010	non dico: (di no) mi piacerebbe sempre::,
 TOI010	ovviamente:: ora lo sforzo: per farlo sarebbe de[cisamente maggiore],
 TOR001	[certo xx].
-???	solo che pi[ù che il matrimo]nio (hai) anche un figlio che nasce tra due me:si.
+??	solo che pi[ù che il matrimo]nio (hai) anche un figlio che nasce tra due me:si.
 TOI010	[e::],
 TOR001	((ride))
 TOI010	eh [sì: e una] (.) e una e una moglie [che sta],
-???	[che aggiungerei],
-???	[(è vero) c]he magari non è inere:nte però,
+??	[che aggiungerei],
+??	[(è vero) c]he magari non è inere:nte però,
 TOI010	e una moglie che sta portando i suoi genitori dalla cina a vivere in i[talia: permanentemente] no?
 TOR001	[ah okay quindi:: okay].
 TOR001	((ride))
 TOI010	e quindi: ((ride))
-???	[xxx]
+??	[xxx]
 TOI011	([un paio] di robe in ballo (.) questi che [ti ri]ncorrono)
 TOI010	[eh (sì)],
 TOR001	((ride))
 TOI010	e:cco quindi in realtà e::h mi piacerebbe per[ò::],
-???	[(quindi] imparano) a parlare l'italiano.
+??	[(quindi] imparano) a parlare l'italiano.
 TOI010	non so mi sono anche:: un po' abituato a questa cosa qui,
 TOI010	certo è che guarda (.) ul~ l~ il mio: compromesso adesso sarebbe::,
 TOI010	non magari (.) e:h trasferirmi completamente all'estero però,
@@ -784,18 +784,18 @@ TOR001	[no scusa guardavo lui non] volevo.
 TOI010	[xxx]
 TOR001	((ride))
 TOI010	a~ anche anche.
-???	non dire no
+??	non dire no
 TOI010	((ride))
 TOI010	E [NON SI VEDE (.) NON S]I VE:DE.
-???	[SEI REGISTRATO].
-???	[xxx]
+??	[SEI REGISTRATO].
+??	[xxx]
 TOR001	[tanto non c'è il video sei s]iamo tutti salvi.
 TOI010	((ride))
 TOI010	[no (è)],
 TOI011	<[mettia~] mettiamo a verbale che (.) ha effet[tuato il gesto]>?
-???	((ride))
+??	((ride))
 TOR001	((ride))
-???	[xxx]
+??	[xxx]
 TOR001	((ride))
 TOI010	dello spingito~ no è::: una cosa:: che però,
 TOR001	((ride))
@@ -809,16 +809,16 @@ TOR001	mhmh.
 TOI010	cioè per me (.) par~ è stato proprio paradossale perché mi ha fatto diventare un po' meno::,
 TOI010	m::h come dire::,
 TOI010	l:: l~ l~ l=mh,
-???	campanilista.
+??	campanilista.
 TOI010	no no: (no),
 TOI010	li~ [liberti~ non liberti:no libera~ (.) no].
 TOI011	[liberista (.) un po' (leghista) sei diven]tato.
 TOR001	((ride))
-???	[xxx].
+??	[xxx].
 TOI011	[(ma sì lui (.) è questo)].
 TOI010	[no] no un po' più [leghista però] (.) ecco meno un po' meno liberale (.) un po' meno liberale [(ma nel senso che)],
-???	[liberale].
-???	[ma quello secondo me è es]serti sposato una cine:se secondo [me ma in senso buono] ((ride))
+??	[liberale].
+??	[ma quello secondo me è es]serti sposato una cine:se secondo [me ma in senso buono] ((ride))
 TOR001	((ride))
 TOI010	[vabbè (.) ma sei talmente così liberale].
 TOI010	no però nel senso che i:o quello che: cioè (.) fuori,
@@ -828,10 +828,10 @@ TOI010	cioè sull'immigrazione o: su:: qualsiasi cosa [no]?
 TOR001	[mh]mh.
 TOI010	ci sono burocrazie che sono mo:lto più rigide,
 TOI010	e col cazzo che ce la fai a scavalcarle no scusa.
-???	((ride))
+??	((ride))
 TOR001	((ride))
 TOI010	[xx]
-???	[e tu vorresti vivere in un p]osto così?
+??	[e tu vorresti vivere in un p]osto così?
 TOI010	ma (.) cioè m:h in che senso? non è che cioè ti bacchettano sono: però semplicemente vengono rispettate le regole che son stabilite.
 TOI010	no (.) mentre (cioè),
 TOI010	e questo qua è il paese invece del buonsenso no? [dove::] va=b:ene insomma la legge poi la::,
@@ -905,21 +905,21 @@ TOR001	((ride))
 TOI010	la la no la la ((ride))
 TOI011	((tossisce)) (scusate).
 TOI010	no no questa l'ho aggiunta io in realtà è stata una mia digressione proprio gratui[ta (questa)] ((ride))
-???	[(sul museo egi:)]zio e il,
+??	[(sul museo egi:)]zio e il,
 TOR001	((ride)) in che zona di torino vivete?
 TOI010	e::m:h io sono ab~ abito in centro ma: vabbè ho: sono vissu:to nato e vissuto in barriera di milano.
 TOR001	okay.
 TOI011	ah io ho avuto da quando [ho iniziato:],
-???	[xxx] è in borgo vittoria.
+??	[xxx] è in borgo vittoria.
 TOI010	borgo [in b~ in] barriera di milano al limite al limite.
 TOI010	piazza rebaudengo dai.
-???	(no ma) lì è barriera piena.
+??	(no ma) lì è barriera piena.
 TOI010	°eh e:h (infatti è lì)° no vabbè barriera piena è: quella:: (in corso [giulio cesare]).
 TOR001	((ride))
-???	[(lì è barriera piena)].
+??	[(lì è barriera piena)].
 TOI010	è al limite (.) comunque sì inizia da lì.
 TOI010	quella lì è già re baudengo:: [falchera].
-???	[a: su quel tratto lì].
+??	[a: su quel tratto lì].
 TOR001	su quel lato lì:?
 TOR001	okay ((ride))
 TOI011	vabbè allora adesso io sono::,
@@ -933,7 +933,7 @@ TOI011	[°a::h°],
 TOR001	((ride))
 TOI010	(mi dicono [che) comunque è frejus].
 TOI011	[e::h],
-???	[e] bengasi.
+??	[e] bengasi.
 TOR001	[e bengasi (.) e sofia:].
 TOI011	[bengasi bengasi].
 TOI010	[e sofi:a].
@@ -943,15 +943,15 @@ TOI010	[e:h],
 TOI010	[anche le:i xxx],
 TOR001	[okay].
 TOI010	racco:[nigi] ((ride))
-???	[che però xxxx è molto lungo come merca]to e mol[to xx e:h].
+??	[che però xxxx è molto lungo come merca]to e mol[to xx e:h].
 TOR001	((ride))
 TOI011	[a:: vattene affan]c[ulo].
 TOI010	[eh].
-???	[è lungo] due chilometri.
+??	[è lungo] due chilometri.
 TOI011	(v)abè: ma il quartiere è quello.
 TOI011	e: però sono stato:: a~ m:::h all'inizio ero vicino a porta nuov[a:=e:] crocetta però al limite con: san salvario,
 TOR001	[mhmh].
-???	((tossisce))
+??	((tossisce))
 TOI011	e: poi sono stato in san salvar[io],
 TOR001	[mh]m.
 TOI011	e poi sono stato (.) per un breve te~ periodo invece crocetta un po' più: crocetta:: vip diciamo.
@@ -966,12 +966,12 @@ TOR001	okay (io) abito in zona comunque no? è vicino a dove abito io.
 TOR001	io non [so un (cavolo) non so nea]nche dove abit[o anch'io abito lì allora] siamo a [posto] (.) sì (.) bravo.
 TOI011	[vicino a piazza rivoli].
 TOI011	[vicino a:: (.) ah].
-???	[via
+??	[via
 TOI010	via [a:h ho cap]ito [xx sì].
 TOR001	[via
-???	[via
+??	[via
 TOI011	so[no a::] c~ sei sei minuti:: eh sette minuti a piedi dalla metro di: piazza rivoli
-???	[(sedici)].
+??	[(sedici)].
 TOR001	eh io di monte grappa.
 TOI011	a:h okay sei un po' più in là (va bene)
 TOR001	va bene (.) e:hm:: vi piace la zona in cui vivete?
@@ -999,7 +999,7 @@ TOI010	[xxx].
 TOR001	((ride))
 TOI010	[sì esatto].
 TOI010	[mai] preso xx pupazzetto alla fine: quello,
-???	((ride))
+??	((ride))
 TOI010	eh?
 TOI011	cioè non so se ti dovrei dire quello che ti dovrei [dire o quello che effettivame]nte è,
 TOR001	[no di' quello che vuoi].
@@ -1010,14 +1010,14 @@ TOI011	[xx (questo qua dietro e ci ripa:ssi)].
 TOI011	[(allora) questo è quello (.) questo è quello più tre]ndy.
 TOI010	quale?
 TOI011	questo in [piazza benefica].
-???	[eh (.) questo è per i ve]stiti per il [cibo (questo) fa cagare eh].
+??	[eh (.) questo è per i ve]stiti per il [cibo (questo) fa cagare eh].
 TOI010	[eh].
 TOI011	[per i vestiti c'è un botto di roba ma per il] cibo (va:) (.) (va a cagare).
 TOI010	ma che è?
-???	>questo (genere di)< salame buono quanto costa? tre e cinqua:nta sì all'etto (.) quindi vuol dire trentacinque euro [al chilo].
+??	>questo (genere di)< salame buono quanto costa? tre e cinqua:nta sì all'etto (.) quindi vuol dire trentacinque euro [al chilo].
 TOI011	[al ne]tto.
 TOI010	a~ al al (.) al nerx (.) to x to.
-???	[(su:ca)].
+??	[(su:ca)].
 TOI011	vabbè comunque stavam dicendo [e::h],
 TOR001	[e:h perché] ti piace la tua [zona].
 TOI011	[perché mi pia]ce la mia zona? ma principalmente per il mercato.
@@ -1054,7 +1054,7 @@ TOR001	((ride))
 TOR001	mh.
 TOI011	e::h (.) comunque sei lì vicino perché sei: su: cors~ cos'è corso trapani quello:::,
 TOI011	eh che poi va: (.) [allora] è è (.) comunque abbastanza comodo anche per la macch[ina perché (lo] pigli) da fuori [(quindi)],
-???	[sì].
+??	[sì].
 TOR001	[okay].
 TOR001	[sì].
 TOI011	ci metti poco ad arrivare,
@@ -1071,10 +1071,10 @@ TOR001	[e da] quindi da quando?
 TOI010	e::h l'a~ l'anno scor[so (no)]? eh si (.) [mhmh no no sì l'anno],
 TOR001	[okay].
 TOR001	[eh non lo so (non uso) la macchina],
-???	ma se è in base al reddito adesso.
+??	ma se è in base al reddito adesso.
 TOI010	eh.
 TOI010	me l'han quadruplicato prima non er[a::],
-???	[(e)] col reddito che hai come fanno a avertela quadruplicata?
+??	[(e)] col reddito che hai come fanno a avertela quadruplicata?
 TOI010	eh vabbè ma eh si somma meh eh guarda che: in realtà non è proprio bassissimo eh.
 TOI010	cioè: la soglia è abbastanza::: bassa.
 TOI010	comunque,
@@ -1089,7 +1089,7 @@ TOR001	[okay].
 TOI010	e::hm cioè in realtà vivo proprio in questo isolato.
 TOR001	okay.
 TOI010	e::h (.) (cos'è cos'è ((ride)) questo isolato),
-???	(ti) manca un po' il mercato di corso racconi:gi [(però)],
+??	(ti) manca un po' il mercato di corso racconi:gi [(però)],
 TOR001	((ride))
 TOI010	[sì sì] sì.
 TOI011	(oh minchia [dovresti venire xx dovresti trasferiti da: da me: (.) figata)].
@@ -1107,9 +1107,9 @@ TOI011	non si trova parcheggio quindi,
 TOI010	((ride))
 TOI011	((ride))
 TOI010	ma non hai la macchina ((ride))
-???	((ride))
+??	((ride))
 TOR001	((ride))
-???	però ho amici che vengono a trovarmi in macchina al mattino quando c'è il mercato.
+??	però ho amici che vengono a trovarmi in macchina al mattino quando c'è il mercato.
 TOR001	((ride))
 TOI010	((ride))
 TOI010	ah.
@@ -1120,7 +1120,7 @@ TOI011	e:: quando mi sposto in macchina,
 TOI011	trovare posto è davvero (.) davvero davvero (.) un casino.
 TOI011	cioè:: ci sono:: la domenica sera quando arri:vi piuttosto che: altri momenti un po' caldi,
 TOI011	cioè devi girare come un pazzo per t~ eh per trovare:: il posto (.) e quello è una rottura di cazz(o) poi (io) non so se::,
-???	((tossisce))
+??	((tossisce))
 TOI011	si può dire cazzo?
 TOR001	si può dire cazz[o: se]ntiti libero.
 TOI011	[okay].
@@ -1142,10 +1142,10 @@ TOI011	quando (vivevo) san salvario cioè boh è una [figata atomi]ca perché: t
 TOR001	[(è un'altra roba)],
 TOI011	e:: c'erano molte: facilities anche per quanto riguarda il: recupero di::,
 TOI011	e::: (.) droga (.) per esempio.
-???	[droga]
+??	[droga]
 TOI011	(è vero comunque) ((ride))
 TOR001	((ride))
-???	però [quella che] trovi [a san] salvario (dai),
+??	però [quella che] trovi [a san] salvario (dai),
 TOI011	[no],
 TOI011	[però],
 TOI011	vabbè ho ca~ no vabbè comunque c'erano un sacco di cose [che xx]a::,
@@ -1237,11 +1237,11 @@ TOR001	[mhmh:].
 TOR001	[è vero],
 TOR001	ci sono un sacco di ferramenta. ((ride))
 TOI011	fighissimo fighissimo.
-???	i pensionati cos[a (f]anno)?
+??	i pensionati cos[a (f]anno)?
 TOI011	[e:],
 TOI011	esatto i pensionati cosa fanno vanno (nel[le ferramenta)].
 TOI010	[vado in ferramenta sì].
-???	[e attaccano roba].
+??	[e attaccano roba].
 TOI011	[e (.) le:]: quindi: no (.) dove sono lì io è un::,
 TOI011	cioè se mi serve qualcosa esco e in cinque minuti ce l'ho e,
 TOI011	ci sono anche vicino supermercati un pochino più gra[ndi (.) come dic]eva mattia nel senso che c'è:,
@@ -1263,11 +1263,11 @@ TOI010	e::: dipende.
 TOI010	no e::hm ((tossisce))
 TOI011	dipende.
 TOI010	eh dipende dove devo an[dare no no n]el spe~ ne:~ nel senso che se devo andare:::,
-???	[certo].
+??	[certo].
 TOI010	cioè (.) a:vendo molte cose vicino,
 TOI010	spesso non ho bisogno di prendere la mac[china].
 TOR001	[mhmh] quindi a pie[di]?
-???	[(se no)].
+??	[(se no)].
 TOI010	e: a sì a piedi o::: adesso è da un po' che non lo fa~ però in bici (.) (s[e no)].
 TOR001	[okay].
 TOI010	per~ e:: oppure prendo la macchina (.) comunque io ho la mac[china] (quindi).
@@ -1285,7 +1285,7 @@ TOI011	metro che prendo (.) tendenzialmente tutti i giorni,
 TOI010	e il longboard.
 TOI011	e:: longboard però vabbè:,
 TOI011	longboard è più una cosa ch[e:] (.) fa colo:re se lo vuoi mettere ah sì: (no) (que)sti giovani che si spostano in longboard,
-???	[(sì:)]?
+??	[(sì:)]?
 TOR001	((ride))
 TOI011	è uno skateboard ma più lungo.
 TOI011	cioè:: (vabbè).
@@ -1295,7 +1295,7 @@ TOI010	sì?
 TOI011	però forse non faceva parte della:: [(°domanda°)].
 TOI010	[m:h].
 TOR001	no no ma ((ride))
-???	ma al mercato ci vai a piedi in longboard o in metro?
+??	ma al mercato ci vai a piedi in longboard o in metro?
 TOI011	vado a piedi ma me lo porto dietro.
 TOI011	si sa mai.
 TOI010	ma lo u[si ancora]?
@@ -1312,12 +1312,12 @@ TOI010	((ride))
 TOI011	venti per~ no non lo so un ottanta per c~ sessanta per cento perché ero ubriaco [un quaranta] per cento perché,
 TOR001	[okay].
 TOI011	(c'era) la strada dove c'era s~ era stato fatto un: una toppa,
-???	io ho avuto lo stesso problema cioè un:: bu:ca così mi sono scassato una caviglia ma ci ho messo un sacco a recuperare,
-???	sai quelle cose che dicono minchia dovevi chiamare i vigili e far causa al comune di torino sì (minchia) [ubriaco come una] merda xx i vigili xxx una buca ue ue ue.
+??	io ho avuto lo stesso problema cioè un:: bu:ca così mi sono scassato una caviglia ma ci ho messo un sacco a recuperare,
+??	sai quelle cose che dicono minchia dovevi chiamare i vigili e far causa al comune di torino sì (minchia) [ubriaco come una] merda xx i vigili xxx una buca ue ue ue.
 TOI010	[sì sì sì].
 TOR001	((ride))
 TOI011	eh sì.
-???	((ride))
+??	((ride))
 TOR001	((ride))
 TOI011	comunque (.) non c'è una domanda sulle strade?
 TOR001	no.
@@ -1332,7 +1332,7 @@ TOR001	[eh sì comodo].
 TOI011	e: quando ho bisogno di traspostare qualco[sa],
 TOR001	[mh] mhmh.
 TOI011	nel senso che:: (tipo) quando devo spostare (ad esempio) un [mobile]::,
-???	[(la casa)]?
+??	[(la casa)]?
 TOR001	((ride))
 TOI011	ma co:~
 TOI011	che cazzo ne so la bici un mobile qualcosa di un po' pi[ù: volumi]noso un elettrodomestico eccetera eccetera non ho: la macchina e quella [roba lì è (tot]ale),
@@ -1384,11 +1384,11 @@ TOI011	quella cosa lì gli ha dato uno sprint che era una roba che se non fosse 
 TOR001	mhmh.
 TOI011	no[n:],
 TOI010	[ci s]arebbe anc~
-???	sì?
+??	sì?
 TOI011	è mio?
-???	sì sì.
+??	sì sì.
 TOI011	ah.
-???	[xxx]
+??	[xxx]
 TOI010	[ci sarebbe x],
 TOI011	[ah sì scusami].
 TOI011	[sì sì sì sì].
@@ -1522,7 +1522,7 @@ TOI010	(tipo) ruzza:nte: la mandragola no? xx
 TOI011	[xxx].
 TOR001	((ride)) [la mandragola] ((ride))
 TOI010	((ride)) [no la (.) la] ((ride))
-???	[stavo per dire la mandragora perché lui lavorava in un posto che si chiamava (madragola) xxx machiavelli chi cazzo lo conosce].
+??	[stavo per dire la mandragora perché lui lavorava in un posto che si chiamava (madragola) xxx machiavelli chi cazzo lo conosce].
 TOI010	[xx si chiamava MANDRAGOLA lo:] ((ride))
 TOR001	((ride))
 TOI010	no ((ride))
@@ -1534,15 +1534,15 @@ TOR001	okay.
 TOI010	qualcosa di gol[doni no]?
 TOI011	[è triste? do]vrei dire [più cose]?
 TOR001	[no no figura]ti quello che vuoi ((ride))
-???	((ride))
+??	((ride))
 TOI010	((ride))
 TOI011	se riuscite a xx (della mia) vita triste,
-???	((ride))
+??	((ride))
 TOI010	((ride))
 TOR001	((ride))
 TOI011	non penso che la gente faccia tante cose in più [cioè nel senso x],
 TOR001	[no no (.) figura]ti va beni~ sport nient'altro oltre al[lo sci]?
-???	((ride)) [giochi a squa]sh.
+??	((ride)) [giochi a squa]sh.
 TOI011	ah no [ecco ho una volt]a sono andato a giocare a squash e mi sono rotto un ginocchio [coi miei colleghi quindi rientra anche],
 TOI010	[a squash (giochi)]?
 TOR001	[xxx] ((ride))
@@ -1601,15 +1601,15 @@ TOI010	cioè di: almeno di rimettermi: così a:,
 TOI010	perché:: era una cosa che mi distraeva tantissimo [e mi s]caricava anche solo che non: sono anora riuscito a riprendere.
 TOR001	[mhmh].
 TOR001	o[(kay)].
-???	[per il] software di musica.
+??	[per il] software di musica.
 TOR001	((ride))
 TOI010	(è vero).
-???	(per) impa[rare],
+??	(per) impa[rare],
 TOI010	[pi:] (.) pi: (.) [pi: (.) pi:].
 TOI011	[xxx].
 TOI010	e:h ((ride))
 TOR001	abbiam finito graz[ie],
 TOI011	[abbiam f]inito?
-???	e io ho una domanda (.) [ma c]ol tuo cazzo di dottorato di linguis[tica cosa c'en~]
+??	e io ho una domanda (.) [ma c]ol tuo cazzo di dottorato di linguis[tica cosa c'en~]
 TOR001	[eh]?
 TOR001	[(asc~)] ((ride))

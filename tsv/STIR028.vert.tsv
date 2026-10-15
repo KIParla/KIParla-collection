@@ -3326,7 +3326,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 530-1	PST082	530	1	îmi	îmi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 530-2	PST082	530	2	place	place	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1192.24	_	_	_	_
 532-0	PST082	532	0	[#îmi	îmi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1192.295	_	_	_	0-4(154)
-532-1	PST082	532	1	#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(154)
+532-1	PST082	532	1	#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(154)
 532-2	PST082	532	2	plașe]	plașe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1193.275	_	_	_	0-5(154)
 533-0	PST091	533	0	[quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1192.32	_	_	_	0-6(154)
 533-1	PST091	533	1	#ș]	ș	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(154)

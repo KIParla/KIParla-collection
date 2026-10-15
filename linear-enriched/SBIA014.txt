@@ -130,16 +130,16 @@ PSB005	[mh okay]
 PSB005	okay okay che c'è la scuola anche ad argenta [quindi]
 PSB079	[sì sì c'è] lì c'è
 PSB079	((ride))
-???	ciao
-???	[ciao]
+??	ciao
+??	[ciao]
 PSB005	[ciao]
 PSB079	ciao
-???	ciao
-???	che bella #xxx
+??	ciao
+??	che bella #xxx
 PSB005	vedete non c'è problema se ci interrrompiamo:
-???	ciao
+??	ciao
 PSB067	#_ salām xxx
-???	#_ lābas lābas
+??	#_ lābas lābas
 PSB005	niente quindi okay ho capito
 PSB005	anche perché bologna da raggiungere è lontano da qui, (.) come si fa?
 PSB079	eh con il treno perché [abbiamo il]: [treno] a: consandolo
@@ -385,7 +385,7 @@ PSB080	due[mila e q~] (.) $dedici
 PSB005	[sì]
 PSB005	okay okay
 PSB005	[circa]::
-???	[xxx]
+??	[xxx]
 PSB080	[xxx]
 PSB067	dodici [dodici]
 PSB079	[dodici]
@@ -451,7 +451,7 @@ PSB079	ma sono nata a casablanca
 PSB005	okay
 PSB005	sì sì sì ho capito sì
 PSB005	okay quindi e~ voi in famiglia sempre (.) sempre marocchino
-???	[x]
+??	[x]
 PSB080	sì
 PSB005	o:: sì
 PSB080	°sì°
@@ -461,9 +461,9 @@ PSB079	eh i miei i miei parlano solo italiano tra di loro
 PSB005	e le due bambine come parlano fra di loro?
 PSB080	eh la casa arabo
 PSB080	fuori italiano
-???	mh
+??	mh
 PSB005	°okay [quindi°]
-???	[xxx]
+??	[xxx]
 PSB080	poco italiano
 PSB067	tra di loro?
 PSB080	eh italiano
@@ -635,7 +635,7 @@ PSB080	[sud s~]
 PSB079	mh
 PSB005	ma
 PSB005	do~ invece le~ quali sono le parti in cui s~ che sono più caotiche?
-???	casabl[anca]
+??	casabl[anca]
 PSB079	[casa]blanca,
 PSB079	salé,
 PSB079	vicino a rabat,
@@ -673,7 +673,7 @@ PSB079	sono famose per il #fakhar
 PSB067	#_ [x]xxxx
 PSB079	s~ fa [quelle fanno tajine]
 PSB067	xx [terracotta]
-???	taj~
+??	taj~
 PSB079	te[rracotta:],
 PSB005	[ah sì sì okay]
 PSB079	è una città fa[mosa per questa cosa]
@@ -865,10 +865,10 @@ PSB067	si chiama #ṭaʕrīja
 PSB079	e festeggiamo con una cosa non lo so come si chiama #xxx #fi #l-internet
 PSB079	((ride)) festeggiamo con una cosa non lo so come si chiama spetta (.) che la $cerche su
 PSB067	#[ma-]kāyn-ā-sh #smīt #ṭaʕrīja #smīt-ha tampo~ tampone tam[po~]
-???	[asp]etta aspetta che [mi dice questo nome]
+??	[asp]etta aspetta che [mi dice questo nome]
 PSB067	#_ [hādīk xxxx ash smīt-ha?]
 PSB079	come tamburo (.) ma non è un tamburo è una cosa
-???	[tampone]
+??	[tampone]
 PSB005	okay
 PSB005	ma forse non c'è una parola italiana
 PSB079	no [no no quell]a è un'altra ((ride)) sono
@@ -959,7 +959,7 @@ PSB080	sì
 PSB005	[e::]
 PSB067	[no fa~] facciamo: vabbè
 PSB005	un pranzo [una ce:na un pran]zo va bene sì sì
-???	sì sì xxxx su x
+??	sì sì xxxx su x
 PSB067	[un pranzo va bene un pranzo]
 PSB067	col cous cous così assaggi il cous cous
 PSB005	va bene sì sì sì mi piacerebbe moltissimo mi piacerebbe [molti~]
@@ -967,10 +967,10 @@ PSB067	[viene] anche la chiara e poi
 PSB005	ah sì lei sarebbe contenta molto sì sì sì infatti
 PSB080	#_ [kūskūs] trīd ṭājīn
 PSB079	[sì]
-???	[qua]lsiasi cosa sì
+??	[qua]lsiasi cosa sì
 PSB079	ognuna di noi fa qualcosa
 PSB005	anche noi
-???	#_ xxxx
+??	#_ xxxx
 PSB005	anch'io
 PSB005	e io a me piace cucinare ma non ho mai tempo però::
 PSB005	però mi piace faccio la pizza:: (.) ero diventata un po' brava
@@ -1096,7 +1096,7 @@ PSB005	mhmh
 PSB005	e e gli è molto appassionato
 PSB079	sì molto
 PSB079	ha giocato::: a bologna per otto anni
-???	karate?
+??	karate?
 PSB080	e karate tutte e due
 PSB005	chi è che gioca a [karate] chi fa kara[te]?
 PSB080	[karate]
@@ -1909,7 +1909,7 @@ PSB067	((ride))
 PSB080	xxx
 PSB079	mamma [mia]
 PSB005	[hai fatto] bene
-???	#_ hādi jarīma
+??	#_ hādi jarīma
 PSB067	#bāyna #nārī troppo
 PSB080	#mən #təmma #ṣāfi #ma-bqīt-sh #ʕājba-ni la scuola
 PSB079	#wəllat #ʕand-ək $[phobiya]
@@ -1927,7 +1927,7 @@ PSB067	#_ la dāba la
 PSB079	adesso xxxxxxx
 PSB067	xx no
 PSB067	adesso non so
-???	#_ xxx
+??	#_ xxx
 PSB079	ah ha de~ [ha detto in campagna sì]
 PSB067	[o prima sì prima sì]
 PSB005	mh
@@ -1942,9 +1942,9 @@ PSB079	[se lo sgri]di dic~
 PSB005	eh vabbè
 PSB079	sì (.) ma::
 PSB080	#_ xxx
-???	no
+??	no
 PSB080	#_ ah lā lā guddām-i bqā shadd l-ṛās dyāl-ha w-ta-yḍrub fī-ha
-???	#_ xxxxx
+??	#_ xxxxx
 PSB079	((ride)) disastri
 PSB005	non l'avevo mai sentita questa (.) [terribile]
 PSB079	[anch'io la pri][ma volta ((ride))]
@@ -2197,7 +2197,7 @@ PSB005	fa niente non non mi non mi [ricordo]
 PSB079	[eh c'è] in tutte mh sono andata eh in tanti (.) posti
 PSB079	ma s~ sempre ti fregano
 PSB080	#_ xxxxx
-???	ciao
+??	ciao
 PSB080	#_ xxxxxx
 PSB005	wow
 PSB080	#_ xxx
@@ -2206,10 +2206,10 @@ PSB080	#_ [ūrīka]
 PSB080	#_ kull shi zwīn
 PSB079	ah sì è nostro questo nostro: abito tradizionale quello chi: i berberi
 PSB005	ah okay sì ma mi sembrava di averlo già visto infatti
-???	#_ ṛāh ka-ysəmʕu
-???	#_ xxx
+??	#_ ṛāh ka-ysəmʕu
+??	#_ xxx
 PSB005	e
-???	#_ bghīt-ha tsməʕ l-ləbsa she[lḥa]
+??	#_ bghīt-ha tsməʕ l-ləbsa she[lḥa]
 PSB079	[āh] #shəft si chiama #ləbsa #shəlḥawiyya il vestito per i berberi
 PSB005	okay okay
 PSB005	ma la lingua berbera chi è che mi ha detto che la sa
@@ -2221,7 +2221,7 @@ PSB079	somiglia a [cinese]
 PSB080	#_ [lābəs tlāta]
 PSB005	okay quindi è diversissimo sì
 PSB079	e lei è anche lei berbera ma non abbiamo la stessa:
-???	[xxx]
+??	[xxx]
 PSB079	il loro
 PSB079	non è uguale al nostro
 PSB005	mh
@@ -2485,7 +2485,7 @@ PSB079	allora da quel giorno
 PSB079	ciao [ciao no no]
 PSB005	[xxxx]
 PSB079	ma adess[o:] instagram
-???	[vai]
+??	[vai]
 PSB079	e:h e:h ho fatto instagram (.) solo per seguire mio figlio ((ride))
 PSB005	[okay certo]
 PSB079	[per dire la verità] è in quell'età $dodicente allora vedo: faccio un po' di spia
@@ -2502,7 +2502,7 @@ PSB079	sa quindici anni è ancora piccolo
 PSB005	sì sì sta inizia~ sta per ini[ziare sì]
 PSB079	[sì sì]
 PSB005	okay
-???	scusatemi
+??	scusatemi
 PSB005	niente niente
 PSB005	e: va bene va bene forse abbiamo già parlato di tutto il possibile
 PSB005	((ride))

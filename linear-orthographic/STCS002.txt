@@ -24,7 +24,7 @@ PST099	mh mh
 PST072	mi dica
 PST213	poi si scrive tutto strano il francese
 PST098	cioè meno male ho capito cioè ho imparato a leggerlo
-?	xx ti abbiamo un po' escluso
+??	xx ti abbiamo un po' escluso
 PST213	mh mh
 PST098	però ancora mi manca
 PST213	mh
@@ -817,9 +817,9 @@ PST203	eh
 PST203	però appunto non in tutti i paesi funziona
 PST203	funziona così cioè è una cosa più
 PST203	con più elementi
-?	un'altra domanda potrebbe essere tipo magari gli italiani no che vanno lì al ristorante
-?	e per la p~ magari assaggiano per la prima volta
-?	quali sono magari le prime impressioni sui piatti
+??	un'altra domanda potrebbe essere tipo magari gli italiani no che vanno lì al ristorante
+??	e per la p~ magari assaggiano per la prima volta
+??	quali sono magari le prime impressioni sui piatti
 PST203	mh mh
 PST211	mh mh
 PST203	questa è una cosa che si può chiedere direttamente a loro
@@ -974,7 +974,7 @@ PST098	eh la domenica scorsa abbiamo mangiato il #ceviche ma che non
 PST203	no
 PST098	mh mh
 PST203	non era fresco il pesce
-?	non era #ceviche
+??	non era #ceviche
 PST098	mh no a parte che era caldo
 PST203	era caldo
 PST098	cioè non caldo nel senso era era tiepido
@@ -982,7 +982,7 @@ PST072	come
 PST203	sì tiepido
 PST098	mh no così io non mangio il #ceviche
 PST203	aspetta eh lei forse non sa cos'è il #ceviche
-?	è tipo pesce crudo okay
+??	è tipo pesce crudo okay
 PST203	marinato sì
 PST211	e dove l'avete mangiato così non ci andiamo
 PST098	eh non lo so l'avevano portato cioè un delivery

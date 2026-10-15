@@ -847,8 +847,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 96-2	TO007	96	2	un~	un~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 96-3	TO007	96	3	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
 96-4	TO007	96	4	ehm::	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=343.07	2x2	_	_	_
-97-0	???	97	0	°stiamo	stiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=344.488	_	_	_	_
-97-1	???	97	1	disturbando?°	disturbando	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=345.749	_	_	_	_
+97-0	??	97	0	°stiamo	stiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=344.488	_	_	_	_
+97-1	??	97	1	disturbando?°	disturbando	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=345.749	_	_	_	_
 98-0	TO007	98	0	°(no.)	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=346.095	_	_	0-2(0)	_
 98-1	TO007	98	1	assolutamente	assolutamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 98-2	TO007	98	2	no.°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=347.587	_	_	_	_

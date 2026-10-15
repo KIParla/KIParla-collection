@@ -3553,9 +3553,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 479-10	TO045	479	10	bambini],	bambini	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1402.009	_	_	_	0-7(101)
 480-0	TO055	480	0	[°ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1401.333	_	_	_	0-2(101)
 480-1	TO055	480	1	stai	stai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-4(101)
-480-2	TO055	480	2	scher]z~	scherz~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	_	_	_	_	0-5(101)
-480-3	TO055	480	3	°		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-480-4	TO055	480	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1402.733	_	_	_	_
+480-2	TO055	480	2	scher]z~°	scherz~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	_	_	_	_	0-5(101)
+480-4	TO055	480	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1402.733	_	_	_	_
 481-0	TO045	481	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1402.32	_	_	_	_
 481-1	TO045	481	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 481-2	TO045	481	2	teneva	teneva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

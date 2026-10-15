@@ -1,9 +1,9 @@
 token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
-0-0	???	0	0	lascio	lascio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.98	_	_	_	_
-0-1	???	0	1	aperto?	aperto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=4.77	_	_	_	_
+0-0	??	0	0	lascio	lascio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.98	_	_	_	_
+0-1	??	0	1	aperto?	aperto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=4.77	_	_	_	_
 1-0	TO026	1	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.98	_	_	_	_
 1-1	TO026	1	1	grazie.	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=5.535	_	_	_	_
-2-0	???	2	0	°arrivederci°	arrivederci	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=5.78|End=6.342	_	_	_	_
+2-0	??	2	0	°arrivederci°	arrivederci	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=5.78|End=6.342	_	_	_	_
 3-0	TO028	3	0	permesso?	permesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=10.686|End=11.422	_	_	_	_
 4-0	TO026	4	0	buongiorno,	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=11.539	_	_	_	_
 4-1	TO026	4	1	pre[go],	prego	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=12.43	_	_	_	3-5(0)

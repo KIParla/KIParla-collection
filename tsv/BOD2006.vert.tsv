@@ -257,9 +257,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 61-3	BO051	61	3	unico.	unico	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=111.99	_	_	_	_
 62-0	BO049	62	0	figlio	figlio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=112.683	_	_	_	_
 62-1	BO049	62	1	unico.	unico	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=113.463	_	_	_	_
-63-0	???	63	0	ah,	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=113.463	_	_	_	_
-63-1	???	63	1	solite	solite	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-63-2	???	63	2	interviste?	interviste	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=114.78	_	_	_	_
+63-0	??	63	0	ah,	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=113.463	_	_	_	_
+63-1	??	63	1	solite	solite	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+63-2	??	63	2	interviste?	interviste	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=114.78	_	_	_	_
 64-0	BO049	64	0	sí,	sí	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=114.79	_	_	_	_
 64-1	BO049	64	1	sí.	sí	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=115.17	_	_	_	_
 65-0	BO049	65	0	continuano.	continuano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=115.443|End=116.46	_	_	_	_

@@ -1,4 +1,4 @@
-???	((televisione_accesa_di_sottofondo))
+??	((televisione_accesa_di_sottofondo))
 PKP061	sentiamo come sono
 PKP061	secondo me la nonna vedeva,
 PKP057	pensava che fossero pezzi di [verdure],
@@ -283,9 +283,9 @@ PKP057	ha annusato un po' gli altri pezzi, poi è stata lì a pulirsi
 PKP061	((ride))
 PKP057	sul tavolo e:: poi è tornata giù è tornata giù
 PKP061	tornata giù. (.) o:ke:y
-???	((squilla_un_telefono))
+??	((squilla_un_telefono))
 PKP061	mh forse è il papà.
-???	((squilla_un_telefono))
+??	((squilla_un_telefono))
 PKP061	pronto papi?
 PKP061	((al_telefono)) ciao.
 PKP061	((al_telefono)) o. sei già partito da un po' alora?
@@ -336,7 +336,7 @@ PKP057	è meglio che tu ci vada in qualsiasi caso.
 PKP061	comunque, adesso (.) glielo chiedo
 PKP057	anche perché io non sap (.) rei che domande fare se ci fossero delle domande: da fare,
 PKP057	non saprei neanche cosa chiedere quindi::
-PKP061	°xxxxxx tre giorni:: poi ° ((bisbiglia))
+PKP061	°xxxxxx tre giorni:: poi° ((bisbiglia))
 PKP057	ti sei truccata be:ne.
 PKP061	GRAzie °cucciola°
 PKP061	e::h mangi della frutta o sei a posto?

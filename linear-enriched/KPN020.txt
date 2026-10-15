@@ -797,7 +797,7 @@ PKP030	ah il ventinove?
 PKP032	°uhm°
 PKP008	>il ventinove di questo mese<?
 PKP030	sto studiando come se fosse dopodomani ma:
-PKP008	((sospira)) ]
+PKP008	((sospira))
 PKP032	bravo meglio no?
 PKP030	eh beh ma è un esame <tosto> eh x
 PKP032	>eh beh< te lo togli dalle scatole no?

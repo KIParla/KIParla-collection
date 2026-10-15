@@ -327,7 +327,7 @@ PKP070	eh si
 PKP079	ma gente importanti contatti
 PKP071	mh
 PKP079	gente importante
-???	tutto bene
+??	tutto bene
 PKP071	sì grazie
 PKP078	perfette
 PKP079	sono buone grazie
@@ -728,7 +728,7 @@ PKP078	ehm
 PKP078	erre
 PKP078	no signora è una effe eh provi quella dopo
 PKP078	ehm
-PKP078	esse no no no no no e h ze~ no scusi scusi no eh zeta zeta
+PKP078	esse no no no no no eh ze~ no scusi scusi no eh zeta zeta
 PKP079	sbagliava tutto
 PKP078	tutto così giuro tutto così e infatti io ero tipo oddio adesso cioè la la manda via ma perché già dalle prime
 PKP079	mh
@@ -1236,8 +1236,8 @@ PKP079	tornavamo a casa era già finito il sabato praticamente
 PKP078	perché comunque potevi fare i compiti il sabato mattina e il sabato pomeriggio eri libero invece chi aveva scuola al sabato il sabato pomeriggio
 PKP071	eh infatti
 PKP071	invece no poi avevamo magari il lunedì verifiche
-???	scusa stai mangiando o porto di là scusa non avevo visto
-???	x xxx
+??	scusa stai mangiando o porto di là scusa non avevo visto
+??	x xxx
 PKP070	grazie
 PKP079	grazie
 PKP070	cosa ridi cosa ridi
@@ -1365,15 +1365,15 @@ PKP070	aspetta
 PKP078	grazie
 PKP078	ma cioè l'ha detto a voi no
 PKP070	no no n~ eh no attraverso persone
-???	caffè amaro
+??	caffè amaro
 PKP070	eh
 PKP070	ci pensiamo un attimo
 PKP070	grazie
-???	vi dico i dolci xx
+??	vi dico i dolci xx
 PKP070	sì
 PKP071	sì dai
 PKP070	sì sì sì
-???	allora ho il tiramusù xx al pistacchio di bronte una torta di ricotta e zucca torta al cioccolato biscottini di pasta frolla con crema al mascarpone xx al mandarino e la crema al caffè
+??	allora ho il tiramusù xx al pistacchio di bronte una torta di ricotta e zucca torta al cioccolato biscottini di pasta frolla con crema al mascarpone xx al mandarino e la crema al caffè
 PKP079	grazie
 PKP078	grazie
 PKP070	okay grazie

@@ -2801,9 +2801,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 360-13	PSB007	360	13	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 360-14	PSB007	360	14	persona,	persona	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1291.474	_	_	_	_
 361-0	PSB007	361	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1291.588	_	_	_	_
-361-1	PSB007	361	1	<PARLA	parla	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	Slow=0-5(0)	_	_
-361-2	PSB007	361	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	Slow=0-4(0)	_	_
-361-3	PSB007	361	3	>		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+361-1	PSB007	361	1	<PARLA>	parla	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	Slow=0-5(0)	_	_
+361-2	PSB007	361	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	Slow=0-4(0)	_	_
 361-4	PSB007	361	4	ITALIANO	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 361-5	PSB007	361	5	SUPER	super	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 361-6	PSB007	361	6	EXTRA	extra	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
@@ -5244,7 +5243,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 708-1	PSB007	708	1	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-3(0)	_	_
 708-2	PSB007	708	2	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-1(0)	_	_
 708-3	PSB007	708	3	meno<	meno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
-708-4	PSB007	708	4	<VIC[INO:>,]	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	_	5x1	Slow=0-6(0)	_	3-6(185)
+708-4	PSB007	708	4	<VIC[INO:,>]	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	_	5x1	Slow=0-6(0)	_	3-6(185)
 708-5	PSB007	708	5	dalla	dalla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 708-6	PSB007	708	6	scuola	scuola	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 708-7	PSB007	708	7	dove:	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2500.787	3x1	_	_	_
@@ -6544,7 +6543,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 908-4	PSB005	908	4	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(217)
 908-5	PSB005	908	5	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3138.474	_	_	_	0-2(217)
 909-0	PSB007	909	0	[questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3138.649	_	_	_	0-6(218)
-909-1	PSB007	909	1	situazione],:	situazione,:	_	_	_	_	_	error	_	ContainsVariation=No	_	End=3140.629	_	_	_	0-10(218)
+909-1	PSB007	909	1	situazione,]:	situazione,:	_	_	_	_	_	error	_	ContainsVariation=No	_	End=3140.629	_	_	_	0-10(218)
 910-0	PSB005	910	0	[comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3138.67	_	_	_	0-8(218)
 910-1	PSB005	910	1	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(218)
 910-2	PSB005	910	2	nella	nella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(218)

@@ -1101,9 +1101,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 245-2	TOR002	245	2	a]verne	averne	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-1(48)
 245-3	TOR002	245	3	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 245-4	TOR002	245	4	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-245-5	TOR002	245	5	due	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-245-6	TOR002	245	6	°		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-245-7	TOR002	245	7	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=399.16	_	_	_	_
+245-5	TOR002	245	5	due°	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+245-7	TOR002	245	6	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=399.16	_	_	_	_
 246-0	TOR001	246	0	po	po	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=399.521	_	_	_	_
 246-1	TOR001	246	1	po	po	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 246-2	TOR001	246	2	po	po	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=400.121	_	_	_	_

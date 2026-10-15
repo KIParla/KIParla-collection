@@ -276,7 +276,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 42-25	PSB165	42	25	roba	roba	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=114.849	_	_	_	_
 43-0	PSB165	43	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=115.617	_	_	_	_
 43-1	PSB165	43	1	CIAO	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=116.403	_	_	_	_
-44-0	???	44	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=116.443|End=116.725	_	_	_	_
+44-0	??	44	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=116.443|End=116.725	_	_	_	_
 45-0	PSB165	45	0	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=118.214|End=119.591	0x3	_	_	_
 46-0	PSB165	46	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=120.107	_	_	_	_
 46-1	PSB165	46	1	allora::	allora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	5x2	_	_	_
@@ -3130,7 +3130,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 455-12	PSB165	455	12	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 455-13	PSB165	455	13	techno	techno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 455-14	PSB165	455	14	pe~	pe~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=972.532	_	_	_	_
-456-0	???	456	0	((clacson))	((clacson))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=971.725|End=972.802	_	_	_	_
+456-0	??	456	0	((clacson))	((clacson))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=971.725|End=972.802	_	_	_	_
 457-0	PSB164	457	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=974.293	_	_	_	_
 457-1	PSB164	457	1	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 457-2	PSB164	457	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7404,7 +7404,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1005-2	PSB164	1005	2	all'	all'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 1005-3	PSB164	1005	3	acquere[llo]	acquerello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2291.324	_	_	_	6-10(453)
 1006-0	PSB165	1006	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2290.921|End=2291.609	_	_	_	_
-1007-0	???	1007	0	(xxx)	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=2291.646|End=2292.431	_	_	0-3(0)	_
+1007-0	??	1007	0	(xxx)	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=2291.646|End=2292.431	_	_	0-3(0)	_
 1008-0	PSB164	1008	0	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2293.058	_	_	_	_
 1008-1	PSB164	1008	1	vicino	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1008-2	PSB164	1008	2	all'	all'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -10357,9 +10357,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1343-21	PSB165	1343	21	[(°ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	_	_	_	0-3(0)	0-3(634)
 1343-22	PSB165	1343	22	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	_	_	_	0-3(0)	0-3(634)
 1343-23	PSB165	1343	23	mai°)]	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=3180.296	_	_	0-3(0)	0-3(634)
-1344-0	???	1344	0	([chiudo	chiudo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3179.934	_	_	0-6(0)	0-6(634)
-1344-1	???	1344	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	0-3(634)
-1344-2	???	1344	2	p]iove)	piove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3180.714	_	_	0-5(0)	0-1(634)
+1344-0	??	1344	0	([chiudo	chiudo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3179.934	_	_	0-6(0)	0-6(634)
+1344-1	??	1344	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	0-3(634)
+1344-2	??	1344	2	p]iove)	piove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3180.714	_	_	0-5(0)	0-1(634)
 1345-0	PSB164	1345	0	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3180.767	_	_	_	_
 1345-1	PSB164	1345	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1345-2	PSB164	1345	2	chiudere	chiudere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -11277,7 +11277,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1454-1	PSB165	1454	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1454-2	PSB165	1454	2	[po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(685)
 1454-3	PSB165	1454	3	(s~)]	s~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=3453.046	_	_	0-2(0)	0-2(685)
-1455-0	???	1455	0	([xx]xx)	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=3452.879|End=3453.757	_	_	0-4(0)	0-2(685)
+1455-0	??	1455	0	([xx]xx)	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=3452.879|End=3453.757	_	_	0-4(0)	0-2(685)
 1456-0	PSB164	1456	0	SÍ	sí	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=High	Begin=3454.292	_	_	_	_
 1456-1	PSB164	1456	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 1456-2	PSB164	1456	2	SI	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
@@ -11285,7 +11285,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1456-4	PSB164	1456	4	[BENE	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-4(686)
 1456-5	PSB164	1456	5	O]GGI	oggi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=3456.691	_	_	_	0-1(686)
 1457-0	PSB165	1457	0	[CIAO]	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=3455.769|End=3456.198	_	_	_	0-4(686)
-1458-0	???	1458	0	(xxx)	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=3457.209|End=3458.088	_	_	0-3(0)	_
+1458-0	??	1458	0	(xxx)	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=3457.209|End=3458.088	_	_	0-3(0)	_
 1459-0	PSB164	1459	0	(xxx)	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=3458.099|End=3458.575	_	_	0-3(0)	_
 1460-0	PSB164	1460	0	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3461.638	_	_	_	_
 1460-1	PSB164	1460	1	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

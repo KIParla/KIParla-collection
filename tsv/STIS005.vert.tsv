@@ -265,7 +265,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 51-5	PST038	51	5	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 51-6	PST038	51	6	avuto	avuto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 51-7	PST038	51	7	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-51-8	PST038	51	8	far?e	far?e	_	_	_	_	_	error	_	ContainsVariation=No	_	End=103.96	_	_	_	_
+51-8	PST038	51	8	fare?	fare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=103.96	_	_	_	_
 52-0	PST038	52	0	ehm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=104.325	2x1	_	_	_
 52-1	PST038	52	1	ospitalità	ospitalità	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=106.305	_	_	_	_
 53-0	PST211	53	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=106.34	_	_	_	_

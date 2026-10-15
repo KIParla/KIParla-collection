@@ -501,8 +501,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 103-0	TOI076	103	0	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=185.62	_	_	_	_
 103-1	TOI076	103	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 103-2	TOI076	103	2	do:po	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=186.8	1x1	_	_	_
-104-0	???	104	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=185.64|End=186.28	_	_	_	_
-105-0	???	105	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=186.59|End=187.66	_	_	_	_
+104-0	??	104	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=185.64|End=186.28	_	_	_	_
+105-0	??	105	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=186.59|End=187.66	_	_	_	_
 106-0	TOI076	106	0	s:::	s	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=187.15|End=187.66	0x3	_	_	_
 107-0	TOI077	107	0	guarda	guarda	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=187.67	_	_	_	_
 107-1	TOI077	107	1	là	là	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1254,7 +1254,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 239-9	TOI077	239	9	lomb~	lomb~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 239-10	TOI077	239	10	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 239-11	TOI077	239	11	lombardo	lombardo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=420.64	_	_	_	_
-240-0	???	240	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=418.148|End=421.418	_	_	_	_
+240-0	??	240	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=418.148|End=421.418	_	_	_	_
 241-0	TOI076	241	0	s::	s	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=420.645|End=420.965	0x2	_	_	_
 242-0	TOI076	242	0	°m[ar]co°	marco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=421.08|End=421.44	_	_	_	1-3(770)
 243-0	TOR004	243	0	[m:h]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=421.2|End=421.41	0x1	_	_	0-2(770)
@@ -2244,7 +2244,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 403-2	TOR004	403	2	sili]cone	silicone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(118)
 403-3	TOR004	403	3	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 403-4	TOR004	403	4	cialde?	cialde	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=699.01	_	_	_	_
-404-0	???	404	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=699.043|End=703.043	_	_	_	_
+404-0	??	404	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=699.043|End=703.043	_	_	_	_
 405-0	TOI077	405	0	certe	certe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=699.794	_	_	_	_
 405-1	TOI077	405	1	parti	parti	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 405-2	TOI077	405	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4994,7 +4994,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 824-10	TOI076	824	10	amici	amici	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 824-11	TOI076	824	11	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 824-12	TOI076	824	12	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1428.62	_	_	_	_
-825-0	???	825	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1428.52|End=1429.01	_	_	_	_
+825-0	??	825	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1428.52|End=1429.01	_	_	_	_
 826-0	TOI076	826	0	[e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1429.23	0x2	_	_	0-2(270)
 826-1	TOI076	826	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(270)
 826-2	TOI076	826	2	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(270)
@@ -7327,7 +7327,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1163-4	TOI077	1163	4	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1163-5	TOI077	1163	5	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1163-6	TOI077	1163	6	paese:	paese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2046.85	4x1	_	_	_
-1164-0	???	1164	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2046.39|End=2048.6	_	_	_	_
+1164-0	??	1164	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2046.39|End=2048.6	_	_	_	_
 1165-0	TOI077	1165	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2048.929	_	_	_	_
 1165-1	TOI077	1165	1	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1165-2	TOI077	1165	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7774,9 +7774,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1245-2	TOR004	1245	2	ameri]cani	americani	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 1245-3	TOR004	1245	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 1245-4	TOR004	1245	4	po:i	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2169.782	1x1	_	_	_
-1246-0	???	1246	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2169.782	_	_	_	_
-1246-1	???	1246	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1246-2	???	1246	2	stanco	stanco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2171.185	_	_	_	_
+1246-0	??	1246	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2169.782	_	_	_	_
+1246-1	??	1246	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1246-2	??	1246	2	stanco	stanco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2171.185	_	_	_	_
 1247-0	TOR004	1247	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2171.185	0x2	_	_	_
 1247-1	TOR004	1247	1	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(420)
 1247-2	TOR004	1247	2	sta:]nco	stanco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2172.35	2x1	_	_	0-3(420)
@@ -7786,7 +7786,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1249-2	TOI076	1249	2	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	PauseAfter=Yes|Syllables=3	_	_	_	_	_
 1249-3	TOI076	1249	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 1249-4	TOI076	1249	4	e::h?	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=2173.36	0x2	_	_	_
-1250-0	???	1250	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2173.36|End=2174.32	_	_	_	_
+1250-0	??	1250	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2173.36|End=2174.32	_	_	_	_
 1251-0	TOI077	1251	0	gioca	gioca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2173.905	_	_	_	_
 1251-1	TOI077	1251	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1251-2	TOI077	1251	2	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7828,7 +7828,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1259-1	TOI076	1259	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(424)
 1259-2	TOI076	1259	2	me]	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(424)
 1259-3	TOI076	1259	3	piacerebbe:	piacerebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2186.415	9x1	_	_	_
-1260-0	???	1260	0	p[apà::]::	papà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2187.465|End=2188.275	3x4	_	_	1-4(425)
+1260-0	??	1260	0	p[apà::]::	papà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2187.465|End=2188.275	3x4	_	_	1-4(425)
 1261-0	TOI077	1261	0	[new	new	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2187.61	_	_	_	0-3(425)
 1261-1	TOI077	1261	1	york]	york	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2188.055	_	_	_	0-4(425)
 1262-0	TOI076	1262	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2188.465	_	_	_	_
@@ -7903,7 +7903,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1270-0	TOI076	1270	0	beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2212.21|End=2212.4	_	_	_	_
 1271-0	TOI077	1271	0	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2212.47	_	_	_	_
 1271-1	TOI077	1271	1	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	End=2212.82	_	_	_	_
-1272-0	???	1272	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2212.986|End=2213.321	_	_	_	_
+1272-0	??	1272	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2212.986|End=2213.321	_	_	_	_
 1273-0	TOI076	1273	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2213.54	_	_	_	_
 1273-1	TOI076	1273	1	costruirmi::	costruirmi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	9x2	_	_	_
 1273-2	TOI076	1273	2	appunto	appunto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7931,7 +7931,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1275-1	TOI076	1275	1	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1275-2	TOI076	1275	2	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1275-3	TOI076	1275	3	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2223.52	_	_	_	_
-1276-0	???	1276	0	((fa_dei_versi))	((fa_dei_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2221.75|End=2223.52	_	_	_	_
+1276-0	??	1276	0	((fa_dei_versi))	((fa_dei_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2221.75|End=2223.52	_	_	_	_
 1277-0	TOR004	1277	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2223.775	_	_	_	_
 1277-1	TOR004	1277	1	mah	mah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1277-2	TOR004	1277	2	no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
@@ -7993,7 +7993,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1294-3	TOR004	1294	3	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 1294-4	TOR004	1294	4	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1294-5	TOR004	1294	5	animali	animali	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2243.555	_	_	_	_
-1295-0	???	1295	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2243.872|End=2246.6	_	_	_	_
+1295-0	??	1295	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2243.872|End=2246.6	_	_	_	_
 1296-0	TOI076	1296	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2244.16	0x2	_	_	_
 1296-1	TOI076	1296	1	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1296-2	TOI076	1296	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8172,12 +8172,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1326-13	TOI076	1326	13	[punto	punto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(443)
 1326-14	TOI076	1326	14	fisso	fisso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(443)
 1326-15	TOI076	1326	15	e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2293.612	0x1	_	_	0-2(443)
-1327-0	???	1327	0	[ca::rlot]ta:	carlotta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2292.489|End=2294.17	1x2,7x1	_	_	0-6(443)
+1327-0	??	1327	0	[ca::rlot]ta:	carlotta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2292.489|End=2294.17	1x2,7x1	_	_	0-6(443)
 1328-0	TOR004	1328	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2293.666|End=2294.146	_	_	_	_
 1329-0	TOR004	1329	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2294.382|End=2294.892	_	_	_	_
 1330-0	TOI076	1330	0	per[ò::::]	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2294.382|End=2295.85	3x4	_	_	3-4(445)
 1331-0	TOI077	1331	0	[xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=2294.781|End=2295.141	_	_	_	0-2(804)
-1332-0	???	1332	0	[vieni]	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2295.327|End=2295.853	_	_	_	0-5(445)
+1332-0	??	1332	0	[vieni]	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2295.327|End=2295.853	_	_	_	0-5(445)
 1333-0	TOR004	1333	0	arri:vo	arrivo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2296.203	3x1	_	_	_
 1333-1	TOR004	1333	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1333-2	TOR004	1333	2	attimo	attimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8349,7 +8349,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1371-8	TOR004	1371	8	stanno	stanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1371-9	TOR004	1371	9	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1371-10	TOR004	1371	10	buffalo	buffalo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2347.068	_	_	_	_
-1372-0	???	1372	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2346.18|End=2347.46	_	_	_	_
+1372-0	??	1372	0	((fa_versi))	((fa_versi))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2346.18|End=2347.46	_	_	_	_
 1373-0	TOI077	1373	0	va:i	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2348.495	1x1	_	_	_
 1373-1	TOI077	1373	1	[s~]	s~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=2348.88	_	_	_	0-2(457)
 1374-0	TOI076	1374	0	[bu]:f[falo	buffalo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2348.72	1x1	_	_	0-2(457),3-7(807)
@@ -12219,7 +12219,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2069-3	TOR004	2069	3	de]i	dei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(840)
 2069-4	TOR004	2069	4	laghi	laghi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2069-5	TOR004	2069	5	an~	an~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=3306.86	_	_	_	_
-2070-0	???	2070	0	[VIE:::::]NI	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=3306.844|End=3308.414	2x5	_	_	0-3(744)
+2070-0	??	2070	0	[VIE:::::]NI	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=3306.844|End=3308.414	2x5	_	_	0-3(744)
 2071-0	TOI076	2071	0	[eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3306.866	_	_	_	0-2(744)
 2071-1	TOI076	2071	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(744)
 2071-2	TOI076	2071	2	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(744)
@@ -12260,9 +12260,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2077-1	TOR004	2077	1	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2077-2	TOR004	2077	2	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2077-3	TOR004	2077	3	tornarci:	tornarci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3318.395	7x1	_	_	_
-2078-0	???	2078	0	[VIE::::NI	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=3317.035	2x4	_	_	0-5(747)
-2078-1	???	2078	1	A]	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-1(747)
-2078-2	???	2078	2	GIOCA::::RE::::	giocare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=3320.787	4x4,6x4	_	_	_
+2078-0	??	2078	0	[VIE::::NI	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=3317.035	2x4	_	_	0-5(747)
+2078-1	??	2078	1	A]	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-1(747)
+2078-2	??	2078	2	GIOCA::::RE::::	giocare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=3320.787	4x4,6x4	_	_	_
 2079-0	TOI077	2079	0	(ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3319.541	_	_	0-2(0)	_
 2079-1	TOI077	2079	1	poi)	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3319.871	_	_	0-3(0)	_
 2080-0	TOR004	2080	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3320.895|End=3321.225	_	_	_	_
@@ -12336,7 +12336,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2093-6	TOR004	2093	6	ti]	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(752)
 2093-7	TOR004	2093	7	piacerebbe	piacerebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2093-8	TOR004	2093	8	[vedere]?	vedere	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=3341.94	_	_	_	0-6(753)
-2094-0	???	2094	0	[VIE]:NI	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=3341.466|End=3342.671	2x1	_	_	0-3(753)
+2094-0	??	2094	0	[VIE]:NI	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=3341.466|End=3342.671	2x1	_	_	0-3(753)
 2095-0	TOI076	2095	0	arri[viamo]	arriviamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3342.792|End=3343.362	_	_	_	4-9(754)
 2096-0	TOI077	2096	0	[mah	mah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3343.006	_	_	_	0-3(754)
 2096-1	TOI077	2096	1	allo]ra	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(754)
@@ -12369,7 +12369,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2097-11	TOI076	2097	11	[che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(756)
 2097-12	TOI076	2097	12	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(756)
 2097-13	TOI076	2097	13	è]?	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=3348.676	_	_	_	0-1(756)
-2098-0	???	2098	0	[VIE:::]NI::::	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=3348.123|End=3349.297	2x3,4x4	_	_	0-3(756)
+2098-0	??	2098	0	[VIE:::]NI::::	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=3348.123|End=3349.297	2x3,4x4	_	_	0-3(756)
 2099-0	TOI076	2099	0	(piacerebbe)	piacerebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3350.1	_	_	0-10(0)	_
 2099-1	TOI076	2099	1	andare.	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
 2099-2	TOI076	2099	2	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

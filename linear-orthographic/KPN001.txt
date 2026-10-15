@@ -7,10 +7,10 @@ PKP135	sempre che non ti vuoi far taggare da nessuna parte
 PKP007	beh hai messo una mia cosa l'altro giorno
 PKP135	bello
 PKP135	eh sempre che
-???	ecco ragazze a voi
+??	ecco ragazze a voi
 PKP135	grazie
 PKP007	grazie
-???	eccola
+??	eccola
 PKP135	grazie
 PKP007	grazie
 PKP135	assaggiamo
@@ -115,19 +115,19 @@ PKP135	mhmh
 PKP007	emh
 PKP135	si cioè perché non è che poi lei si
 PKP007	e lei quindi poi si è stupita perché
-???	allora questo è il pane
+??	allora questo è il pane
 PKP007	grazie
 PKP135	grazie
-???	pollo con xxx
+??	pollo con xxx
 PKP135	grazie
-???	prego
-???	qua sono le melanzane arrostite con salsa di cipolla
-???	il riso bianco
+??	prego
+??	qua sono le melanzane arrostite con salsa di cipolla
+??	il riso bianco
 PKP135	grazie
-???	formaggio con piselli xxx
+??	formaggio con piselli xxx
 PKP007	grazie mille
 PKP135	grazie mille
-???	di niente
+??	di niente
 PKP135	minchia è un botto di riso
 PKP135	aspetta
 PKP007	bisogna mettere un po' nel piattino ma queste sono anche per te da assaggiare te lo dico
@@ -977,30 +977,30 @@ PKP135	e gli dico cioè vediamo se ci possiamo aiutare
 PKP135	però appunto ho visto che tra di loro si parlavano in inglese
 PKP135	quindi ho pensato magari
 PKP135	se io gli scrivo un messaggio glielo scrivo
-???	tutto a posto posso sparecchiare
+??	tutto a posto posso sparecchiare
 PKP007	tutto a posto grazie sì sì
 PKP135	tutto bene grazie sì sì tutto buonissimo
 PKP007	l'unica cosa il vino non siamo riuscite a finirlo ce l'hai ancora il tappo
-???	sì sì
+??	sì sì
 PKP007	così al massimo la portiamo a casa
 PKP135	ce lo riportiamo
-???	perfetto non è un problema
+??	perfetto non è un problema
 PKP135	mh grazie
 PKP007	comunque era buonissimo questo era buonissimo
 PKP135	no davvero
-???	grazie
+??	grazie
 PKP135	tutto il pollo fantastico
-???	mhmh
+??	mhmh
 PKP135	sì sì
-???	x la prima volta allora
+??	x la prima volta allora
 PKP135	per me sì che che mangio mh cibo indiano sì
 PKP007	no io no
 PKP135	lei no
 PKP135	però
-???	sempre da noi o un altro
+??	sempre da noi o un altro
 PKP007	no qua è la prima volta sì sì
 PKP135	no perché lei era fuori
-???	ah okay okay
+??	ah okay okay
 PKP007	sì sì sì
 PKP135	non vive in italia da un po'
 PKP007	più o meno
@@ -1028,11 +1028,11 @@ PKP007	sputare nel cibo ovvio
 PKP135	ma veramente
 PKP007	ciucciare le posate prima di metterle dentro
 PKP135	che schifo baby
-???	ci ho messo il tappo guarda
+??	ci ho messo il tappo guarda
 PKP007	grazie
 PKP007	ah perfetto grazie mille
 PKP135	grazie
-???	prego
+??	prego
 PKP007	ma questo è un altro tappo
 PKP135	eh te l'ho detto ne han preso uno uguale ma
 PKP007	ma questo è tipo di un liquore
@@ -1047,9 +1047,9 @@ PKP135	che terribile che sei
 PKP135	baby ci stan cacciando secondo me
 PKP007	andiamo
 PKP007	veniamo di là a pagare
-???	no no non chiude adesso eh solo b~ l~ se volete stare anc~
+??	no no non chiude adesso eh solo b~ l~ se volete stare anc~
 PKP007	un minuto finiamo l'acqua e arriviamo
-???	xx non è un problema guarda
+??	xx non è un problema guarda
 PKP135	grazie
 PKP135	ehm
 PKP135	facevi quelle robe

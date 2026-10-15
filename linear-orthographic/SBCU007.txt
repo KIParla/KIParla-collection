@@ -1078,9 +1078,9 @@ PSB036	ah
 PSB130	ma di solito si mangiano solo così o no
 PSB128	ah no
 PSB036	tanti suppongo
-???	scusate devo guardare una cosa
+??	scusate devo guardare una cosa
 PSB036	ah sì sì prego pre~
-???	vado via scusa
+??	vado via scusa
 PSB128	la vostra casa
 PSB128	le vostre cose come st~
 PSB128	sapete

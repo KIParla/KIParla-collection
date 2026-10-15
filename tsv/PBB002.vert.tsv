@@ -2558,9 +2558,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 345-15	BOI003	345	15	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 345-16	BOI003	345	16	bologna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=981.64	_	_	_	_
 346-0	BOR001	346	0	[°questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=975.153	_	_	_	_
-346-1	BOR001	346	1	cos~	cos~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	_	_	_	_	_
-346-2	BOR001	346	2	°		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-346-3	BOR001	346	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=975.74	_	_	_	_
+346-1	BOR001	346	1	cos~°	cos~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	_	_	_	_	_
+346-3	BOR001	346	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=975.74	_	_	_	_
 347-0	BOI003	347	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=981.667	_	_	_	_
 347-1	BOI003	347	1	tante	tante	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 347-2	BOI003	347	2	volte	volte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

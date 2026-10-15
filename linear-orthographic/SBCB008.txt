@@ -2526,16 +2526,16 @@ PSB152	eh
 PSB152	ha iscritto diverso modo
 PSB151	sì
 PSB152	ognuno iscritto modo
-???	hai una sigaretta tu
+??	hai una sigaretta tu
 PSB151	ra~ ne ha scritte
 PSB151	sì
 PSB151	hanno anche scritto cose diverse però
-???	okay a xxxx perché non so bene come farla
+??	okay a xxxx perché non so bene come farla
 PSB151	sì sì tranquilla
-???	scusami eh
+??	scusami eh
 PSB151	tranquilla tranquilla
-???	te la porto qua perché se no ti faccio un casino
-???	grazie
+??	te la porto qua perché se no ti faccio un casino
+??	grazie
 PSB151	ma figurati
 PSB151	non ti preoccupare
 PSB151	abbiamo avuto visite
@@ -2816,9 +2816,9 @@ PSB151	piove vieni qua
 PSB152	che me la tutt~
 PSB151	ti bagni
 PSB152	che xx
-???	frate posso la sedia
+??	frate posso la sedia
 PSB151	sì certo
-???	non vi serve
+??	non vi serve
 PSB151	no no prendi prendi
 PSB152	sì sì vai
 PSB152	non hai capito

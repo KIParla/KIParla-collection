@@ -102,8 +102,8 @@ TOI076	[s]ì
 TOI076	>sì sì<
 TOI076	e poi vabbè avevamo la sede qua a fiano quindi
 TOI076	tutto il do:po
-???	((fa_versi))
-???	((fa_versi))
+??	((fa_versi))
+??	((fa_versi))
 TOI076	s:::
 TOI077	guarda là marco
 TOI076	tutto il dopo:
@@ -238,7 +238,7 @@ TOI077	comunque: in piemonte
 TOI077	però:
 TOI077	diciamo dove:
 TOI077	c'è molto più lavoro c'è: nel nel: lomb~ nel lombardo
-???	((fa_versi))
+??	((fa_versi))
 TOI076	s::
 TOI076	°m[ar]co°
 TOR004	[m:h]
@@ -402,7 +402,7 @@ TOI077	cioè le cialde ricaricabili adesso: sembra una:
 TOI077	una cazzata ma:
 TOI077	tr[a un po':]
 TOR004	[ma di sili]cone le cialde?
-???	((fa_versi))
+??	((fa_versi))
 TOI077	certe parti (.) c(io)è, la ciald[a: pri]ncipale ha parti in acciaio, che [quindi si può]: l'acciaio inox si può lavare::
 TOR004	[mh]
 TOI076	[s:::]
@@ -823,7 +823,7 @@ TOI076	[eh ecco]
 TOI077	[di]ciamo è lei che gli chie~ gli ha detto: di venire che sapeva quando c'era un [posto libero e::h]
 TOR004	[c'era un posto]
 TOI076	[mi ha dato il contatto] (.) comunque eravamo tutti tipo amici diciamo così
-???	((fa_versi))
+??	((fa_versi))
 TOI076	[e::h quindi siamo usciti an]che una volta a mangiar fuori a mc donald ad esempio tutti insie:me:
 TOI077	[per quello ci siamo conosciuti]
 TOI076	e:::h
@@ -1161,7 +1161,7 @@ TOI076	[io per me:, per mio figlio, per noi, me ne andrei subi]to ne abbiam parl
 TOR004	sì:? e dove andreste?
 TOI077	c(io)è io col me l'azienda se devo pensare alla mia azienda,
 TOI077	dovrei pensare di andare in un paese:
-???	((fa_versi))
+??	((fa_versi))
 TOI077	((ride)) in un paese che ti con~
 TOR004	((ride))
 TOI076	si è svegliato (.) ma:h
@@ -1243,11 +1243,11 @@ TOI077	sì ma min[chia come parlano s]tretto gli americani
 TOI076	[buonissimo]
 TOI076	[e:::h]
 TOR004	eh gli ameri]cani (.) po:i
-???	io sono stanco
+??	io sono stanco
 TOR004	e::h [è sta:]nco
 TOI076	[a:::h]
 TOI076	xx xx xxx (.) e::h?
-???	((fa_versi))
+??	((fa_versi))
 TOI077	gioca un po' in ca[mera e poi ri]:~ (e andiamo)
 TOI076	[s:::~]
 TOI077	okay e::h? a far la nanna
@@ -1257,7 +1257,7 @@ TOI077	comincia a andare tu
 TOR004	e dove:=ehm::?
 TOR004	e [quindi se]
 TOI076	[allora a me] piacerebbe:
-???	p[apà::]::
+??	p[apà::]::
 TOI077	[new york]
 TOI076	a me piacerebbe:::
 TOI076	f:~
@@ -1269,11 +1269,11 @@ TOI076	è sempre stato un po' il mio sogno::, lo stile di vita::, mi sono sempre
 TOI076	aprirmi: (alla) mia casa la fattoria, il mio ranch con gli anima:li, dove avere anche il laboratorio per appunto costruire tutte le cose e insieme anche a lui
 TOI076	beh
 TOI077	su x
-???	okay
+??	okay
 TOI076	quindi costruirmi:: appunto la mia casa con anche il mio::: lavoro e::
 TOI076	poi vabbè a me piace proprio lo stile di vita: così
 TOI076	sottofondo: solo noi eh
-???	((fa_dei_versi))
+??	((fa_dei_versi))
 TOR004	((ride)) mah no: ((ride))
 TOR004	e:::h
 TOR004	e:h s:enti
@@ -1292,7 +1292,7 @@ TOI076	ma[ialino] non lo so:
 TOI077	[vai su]
 TOR004	[però]
 TOR004	però danno lavoro e:h gli animali
-???	((fa_versi))
+??	((fa_versi))
 TOI076	e::h però è quello che mi piacerebbe fare cioè proprio:: (.) alla mosca x
 TOR004	co~ cos'è che fai? non ho ca[pito]
 TOI076	[#ciapu] la mosca
@@ -1324,12 +1324,12 @@ TOR004	cioè c'è zia:: zia ha ha posto anche no?
 TOI076	mah sì
 TOI076	x x stai su amore:
 TOI076	mah sì quello ci ho sempre pensato c'è lei sempre il mio [punto fisso e:h]
-???	[ca::rlot]ta:
+??	[ca::rlot]ta:
 TOR004	((ride))
 TOR004	((ride))
 TOI076	per[ò::::]
 TOI077	[xx]
-???	[vieni]
+??	[vieni]
 TOR004	arri:vo un attimo marco ((ride))
 TOI076	però prendessi:::, avessi l'opportunità e prendessi coraggio:::
 TOR004	sì:
@@ -1369,7 +1369,7 @@ TOI077	a:h
 TOR004	in due città mi pare
 TOI076	n[o::]
 TOR004	[ma] mamma invece ha i parenti trentini che stanno a buffalo
-???	((fa_versi))
+??	((fa_versi))
 TOI077	va:i [s~]
 TOI076	[bu]:f[falo già:]
 TOR004	[i:: figli di::]
@@ -2067,7 +2067,7 @@ TOI077	[e::h]
 TOR004	[sì sicuro]
 TOI077	[quello che volevam vedere è il sequoia]
 TOR004	[o la regione de]i laghi an~
-???	[VIE:::::]NI
+??	[VIE:::::]NI
 TOI076	[eh non me lo ricordo]
 TOR004	[arrivo]
 TOI076	[con i cava]:lli, tut~ a:h
@@ -2075,7 +2075,7 @@ TOI076	ci farei il giro dei parchi così
 TOI076	cioè mi piacerebbe abbinare il giro dei parchi e poi
 TOI076	anche solo due tre giorni a new york
 TOR004	((ride)) così per tornarci:
-???	[VIE::::NI A] GIOCA::::RE::::
+??	[VIE::::NI A] GIOCA::::RE::::
 TOI077	(ma poi)
 TOR004	((ride))
 TOR004	ARRIVO ARRIVO MARCO ((ride))
@@ -2091,11 +2091,11 @@ TOI076	solo?
 TOI077	no
 TOI076	no: s[olo dico come città]?
 TOR004	[e ma tipo una città che ti] piacerebbe [vedere]?
-???	[VIE]:NI
+??	[VIE]:NI
 TOI076	arri[viamo]
 TOI077	[mah allo]ra londra non sono mai stato e parigi an[che che non siamo mai stati volevamo andare]
 TOI076	[pari:gi ci piacerebbe andare visto che a noi piace la] francia. [che c'è]?
-???	[VIE:::]NI::::
+??	[VIE:::]NI::::
 TOI076	(piacerebbe) andare. poi a me piacciono in realtà::
 TOI076	eh le città: magari:::
 TOI076	giù qualcosa in germania::

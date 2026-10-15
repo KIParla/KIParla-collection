@@ -1215,13 +1215,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 117-2	BOR010	117	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
 117-3	BOR010	117	3	immagino	immagino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 117-4	BOR010	117	4	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=497.908	_	_	_	_
-118-0	???	118	0	((vibrazione))	((vibrazione))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=495.686|End=503.885	_	_	_	_
+118-0	??	118	0	((vibrazione))	((vibrazione))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=495.686|End=503.885	_	_	_	_
 119-0	BOR010	119	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=500.18	_	_	_	_
 119-1	BOR010	119	1	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 119-2	BOR010	119	2	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=1	_	_	_	_	_
 119-3	BOR010	119	3	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=1	_	_	_	_	_
 119-4	BOR010	119	4	x°	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=1	End=502.93	_	_	_	_
-120-0	???	120	0	((registrazione_interrotta_per_privacy))	((registrazione_interrotta_per_privacy))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=503.885|End=505.658	_	_	_	_
+120-0	??	120	0	((registrazione_interrotta_per_privacy))	((registrazione_interrotta_per_privacy))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=503.885|End=505.658	_	_	_	_
 121-0	BOR010	121	0	OKAY	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=506.083	_	_	_	_
 121-1	BOR010	121	1	ehm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
 121-2	BOR010	121	2	°cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
@@ -5742,7 +5742,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 686-3	BOI038	686	3	rispondere	rispondere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2365.638	_	_	_	_
 687-0	BOR010	687	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2365.77	_	_	_	_
 687-1	BOR010	687	1	xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=3	End=2366.2765	_	_	_	_
-688-0	???	688	0	((registrazione_interrotta_per_privacy))	((registrazione_interrotta_per_privacy))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2366.2765|End=2367.87	_	_	_	_
+688-0	??	688	0	((registrazione_interrotta_per_privacy))	((registrazione_interrotta_per_privacy))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2366.2765|End=2367.87	_	_	_	_
 689-0	BOR010	689	0	xxxxxxxxx	xxxxxxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=9	Begin=2366.302|End=2369.12	_	_	_	_
 690-0	BOR010	690	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2370.06	_	_	_	_
 690-1	BOR010	690	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

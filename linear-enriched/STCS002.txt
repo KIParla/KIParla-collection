@@ -25,7 +25,7 @@ PST099	mh mh
 PST072	mi dica
 PST213	poi si scrive tutto strano il francese
 PST098	c(io)è [meno male ho capito (.) c](io)è ho imparato a leggerlo,
-?	[xx (ti abbiamo) un po' escluso]
+??	[xx (ti abbiamo) un po' escluso]
 PST213	mh mh
 PST098	però ancora mi manca.
 PST213	m::h
@@ -58,7 +58,7 @@ PST213	ma andate nella stessa scuola?
 PST090	m:h
 PST213	okay
 PST203	aspettiamo che torna poi
-?	((ride))
+??	((ride))
 PST211	((ride))
 PST203	beh dai tanto c'era l'altra volta
 PST211	[mh mh]
@@ -545,7 +545,7 @@ PST072	#_ pollo [a la brasa]
 PST213	[alla brace]
 PST098	pollo al[la braccia]
 PST211	((ride))
-?	((ride))
+??	((ride))
 PST072	((ride))
 PST099	sì quello
 PST072	se llama el restaurante acá
@@ -859,9 +859,9 @@ PST203	e::::h
 PST203	però appunto non in tutti i paesi funziona::
 PST203	funziona così cioè è una cosa più:: ((ride))
 PST203	con più elementi
-?	un'altra domanda potrebbe essere tipo magari, (.) gli italiani no che vanno lì al ristora:nte,
-?	e >per la p~ magari< assaggiano per la prima vo:lta
-?	quali sono magari le prime [impressioni]:: sui piatti::
+??	un'altra domanda potrebbe essere tipo magari, (.) gli italiani no che vanno lì al ristora:nte,
+??	e >per la p~ magari< assaggiano per la prima vo:lta
+??	quali sono magari le prime [impressioni]:: sui piatti::
 PST203	[mh mh]
 PST211	mh mh
 PST203	questa è una cosa che si può chiedere direttamente a loro
@@ -870,7 +870,7 @@ PST211	[eh infatti]
 PST203	che cosa avete mangia:to: (.) vi è piaciuto: era molto abbonda:nte::
 PST203	avete mangiato poco::
 PST203	era tanto piccante: ((ride)) non avete
-?	((ride))
+??	((ride))
 PST203	non siete riusciti a fini:rlo: ((ride))
 PST211	sì sì
 PST211	sì perché c'era:: nell'intervista che diceva che spesso le porzioni sono:::
@@ -892,7 +892,7 @@ PST213	((ride))
 PST211	((ride))
 PST098	io mangio questo:: non mangio per fino a una settimana ((ride))
 PST211	((ride))
-?	((ride))
+??	((ride))
 PST211	eh sì
 PST211	sì sì
 PST203	c'è anche il qua vicino è bello::: abbondante
@@ -947,7 +947,7 @@ PST072	°okay°
 PST203	ma parliamo di una cosa un po' diverte:nte
 PST203	in italia ci sono tantissimi vegetaria:ni:.
 PST203	esistono i vegetariani in sudamerica?
-?	((ride))
+??	((ride))
 PST098	ah ah
 PST215	[xx xx]
 PST098	[è una bella xx]
@@ -1013,7 +1013,7 @@ PST203	((ride))
 PST098	((ride))
 PST211	((ride))
 PST089	((ride))
-?	((ride))
+??	((ride))
 PST072	>guarda io< mi prendo l'impegno di trovare un ristora:nte
 PST072	[andiamo insieme]
 PST203	[guarda]
@@ -1032,7 +1032,7 @@ PST098	eh la domenica scorsa abbiamo mangiato (il) #ceviche, ma: che no::n
 PST203	no:?
 PST098	mh mh
 PST203	non era [fre:sco il pesce]?
-?	[non era #ceviche]?
+??	[non era #ceviche]?
 PST098	m::h no a parte che era caldo.
 PST203	era caldo?
 PST098	[cioè non caldo] nel senso:[: era (.) e]ra tiepido
@@ -1040,12 +1040,12 @@ PST072	[come]?
 PST203	[sì tiepido]
 PST098	m:h no così io non mangio il #ceviche
 PST203	aspetta eh lei forse non sa cos'è il #ceviche
-?	è tipo:: pesce crudo:: okay
+??	è tipo:: pesce crudo:: okay
 PST203	marinato sì
 PST211	e dove l'avete mangiato. (.) così non ci andiamo.
 PST203	((ride))
 PST211	((ride))
-?	((ride))
+??	((ride))
 PST098	eh non lo so:: l'avevano portato cioè un delivery,
 PST211	ah oka[y]
 PST203	[a]:h un deliv~
@@ -1082,7 +1082,7 @@ PST203	((ride)) era poco ed è stat~ e costava mo:lto
 PST211	((ride))
 PST203	infatti: (.) mai più ((ride))
 PST211	((ride))
-?	((ride))
+??	((ride))
 PST213	cos'è invece il #leche #de #trig~ #de #tigre?
 PST098	e:::h (.) c(io)è quasi lo stesso che lo #ceviche
 PST213	ah ah
@@ -1190,7 +1190,7 @@ PST072	quindi è da un po' di settimane che il sabato mattina, chiamo, faccio il
 PST211	eh no pensavo lo facessi tu:: ((ride))
 PST072	((ride))
 PST213	((ride))
-?	((ride))
+??	((ride))
 PST072	guarda che è un lavorone
 PST072	è un lavorone
 PST098	((ride))

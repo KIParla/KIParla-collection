@@ -1695,9 +1695,9 @@ PSB005	si è spento si è spento.
 PSB022	((sospira))
 PSB005	((sospira))
 PSB005	°a:h sì sì°
-???	((audio_da_video))
+??	((audio_da_video))
 PSB005	eh ma l'ho v~
-???	((audio_da_video))
+??	((audio_da_video))
 PSB005	li ho visti sì sì.
 PSB022	quando. un mese fa: vicin(a) a mia casa.
 PSB022	vista: d~ a:h se: d~ m:h
@@ -1728,7 +1728,7 @@ PSB022	oh
 PSB005	non so [proprio]
 PSB022	[ho ho] ho questa,
 PSB022	guarda.
-???	((audio_da_video))
+??	((audio_da_video))
 PSB022	>questa mia città<
 PSB022	bomba
 PSB005	°m[:h]°
@@ -2359,7 +2359,7 @@ PSB005	va bene ma (.) adesso
 PSB005	io (.) penso [che ti] saluto,
 PSB022	[x]
 PSB005	vediamo.
-???	((registrazione_interrotta))
+??	((registrazione_interrotta))
 PSB022	xx b:ruttissima.
 PSB022	a bimbi (.) sempre da me da me da me
 PSB022	(e) lei (.) gelosa

@@ -29,14 +29,14 @@ BO072	della gente per metterti su una roccia circondato dalle tigri con una cann
 BO048	ti fai il vecchio e il mare tra le tigri
 BO072	posso chiederti una cosa
 BO021	sì
-???	eh ho perso il mio caricabatterie e alla fine non l'avevano xxx tu xx
+??	eh ho perso il mio caricabatterie e alla fine non l'avevano xxx tu xx
 BO021	sì no ti giu~ cioè io l'ho portato al custode e gli ho detto guarda le ragazze davanti a me se l'erano dimenticato tientelo
-???	eh allora se lo sarà preso qualcuno xx
+??	eh allora se lo sarà preso qualcuno xx
 BO021	che stronzo però beh io l'ho davvero proprio lasciato a lui
-???	sì sì no ma figurati è solo che non so quale custode sia e
+??	sì sì no ma figurati è solo che non so quale custode sia e
 BO021	quello giovane
-???	va bene niente grazie
-???	ciao
+??	va bene niente grazie
+??	ciao
 BO048	ciao
 BO071	ciao
 BO072	eh andre

@@ -11679,7 +11679,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2222-0	PSB073	2222	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4108.723	_	_	_	_
 2222-1	PSB073	2222	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2222-2	PSB073	2222	2	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2222-3	PSB073	2222	3	[#*]		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	End=4110.426	_	_	_	0-2(581)
+2222-3	PSB073	2222	3	[#*]	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	End=4110.426	_	_	_	0-2(581)
 2223-0	PSB072	2223	0	[cosa]	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4109.8|End=4110.159	_	_	_	0-4(581)
 2224-0	PSB071	2224	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4110.534|End=4111.507	0x2	_	_	_
 2225-0	PSB072	2225	0	cosa?	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=4112.078|End=4112.447	_	_	_	_
@@ -16415,7 +16415,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 3155-0	PSB071	3155	0	[le]	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=5529.767	_	_	_	0-2(947)
 3155-1	PSB071	3155	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 3155-2	PSB071	3155	2	chiama[vano]	chiamavano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	6-10(948)
-3155-3	PSB071	3155	3	#*		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
+3155-3	PSB071	3155	3	#*	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 3155-4	PSB071	3155	4	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 3155-5	PSB071	3155	5	[sono]	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=5532.185	_	_	_	0-4(949)
 3156-0	PSB072	3156	0	[le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5530.723	_	_	_	0-2(948)

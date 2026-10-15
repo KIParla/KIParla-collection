@@ -363,7 +363,7 @@ PSB031	mi piace fare tutto mi piace anche camminare, mi piace (.) e:hm visitare 
 PSB030	pos[ti]
 PSB031	[pu~]
 PSB031	posti
-PSB031	mi piace cucinare, mi piace guardare: ehm adesso: e: h noi guardiamo m:h film italiani
+PSB031	mi piace cucinare, mi piace guardare: ehm adesso: e:h noi guardiamo m:h film italiani
 PSB005	mhmh
 PSB031	e:hm per (.) studiare ((ride))
 PSB030	come moderna o: [più vec]chi(a)?
@@ -421,18 +421,18 @@ PSB031	[sì]
 PSB031	[sì]
 PSB030	seriale o xx?
 PSB031	sì eh e f~ film e seriale
-???	((bussa_alla_porta))
+??	((bussa_alla_porta))
 PSB005	sì?
-???	ragazze sono qui i ragazzi
-??	okay
-???	xxx gli altri (.) con la eh
-??	okay okay
-???	scusa [un attimo]
+??	ragazze sono qui i ragazzi
+???	okay
+??	xxx gli altri (.) con la eh
+???	okay okay
+??	scusa [un attimo]
 PSB005	[prego prego] sì sì
-???	volevo dirti una cosa (.) [così ti re]goli
+??	volevo dirti una cosa (.) [così ti re]goli
 PSB005	[sì sì]
 PSB005	dimmi dimmi
-???	((registrazione_interrotta))
+??	((registrazione_interrotta))
 PSB005	vi incontrate raramente
 PSB030	sì
 PSB030	sì solo: a $curs(o)

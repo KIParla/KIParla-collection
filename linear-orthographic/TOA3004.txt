@@ -505,11 +505,11 @@ TO038	sai quando vai a trovarla alla fine
 TO039	parto il eh minchia ieri cioè proprio guardo pirati in viaggio che dice sconti fino alle diciannove di ryanair
 TO039	ho trovato un volo da paura a ottanta euro visto che xxxx costano duecento quindi parto venerdì
 TO040	ah sai quando parti
-???	venerdì
+??	venerdì
 TO039	venerdì quattordici aprile
 TO039	e torno domenica ventitré
 TO040	minchia
-???	hai un filtrino
+??	hai un filtrino
 TO039	sto nove giorni
 TO040	benissimo
 TO039	arrivo a valencia volevo andarmi a fare un festival dub
@@ -568,9 +568,9 @@ TO031	lei xxx le faccio minchia
 TO038	sì scusate avevo promesso che l'avrei riportato ma
 TO040	sì grazie mille
 TO031	sì grazie
-???	non c'è problema tanto
+??	non c'è problema tanto
 TO038	abbi pazienza
-???	nessun problema
+??	nessun problema
 TO038	grazie fas~
 TO031	interferenza di un barista non si sa se xx dell'università
 TO040	però così rompi la quarta parete si capisce che non siamo spontanei
@@ -659,23 +659,23 @@ TO038	ah era un altro morosini
 TO038	tu non le sai ste cose
 TO031	non ancora
 TO031	xx però noi andiamo a venezia con carovana migranti
-???	dove andate
+??	dove andate
 TO038	partiamo dalla val di susa
 TO031	milano brescia
-???	quindi da chiomonte
+??	quindi da chiomonte
 TO038	no pare andiamo prima a fare un giro al cantiere col comit~ contro osservatorio che conosciamo eccetera
 TO038	poi andiamo ai maflow che è una fabbrica recuperata
-???	ma cosa c'entra coi migranti
+??	ma cosa c'entra coi migranti
 TO038	è una roba vabbè è una riflessione un po' più ampia che si fa quest'anno è sui fattori ambientali che spingono alle migrazioni
 TO031	okay
 TO038	poi maflow e remake che è un centro sociale a milano che si occupa anche di accoglienza e una fabbrica recuperata a trezzano sul naviglio figo un progetto figo
 TO038	poi andiamo a brescia
 TO038	università di bergamo
-???	dai in caso di' anche il link eh il professore così poi
+??	dai in caso di' anche il link eh il professore così poi
 TO038	e
 TO039	così può supportare
 TO038	su facebook eh ah c'è un crowdfunding
-???	esatto
+??	esatto
 TO038	se fosse interessato nella pagina facebook di carovane migranti oltre che sul sito la piattaforma qual è la piattaforma di quest'anno mi sembra
 TO038	non lo so più non mi ricor~ porca troia
 TO038	era un piccione eh
@@ -697,23 +697,23 @@ TO039	ma scusa quanto dura
 TO038	dura e due settimane quasi
 TO031	due settimane piene anche perché poi torniamo su con eh la barca no
 TO038	guarda se vuoi la sigaretta volentieri una sigaretta
-???	una sigaretta è veleno
+??	una sigaretta è veleno
 TO038	eh lo so che è veleno però
-???	xxxx
+??	xxxx
 TO038	mi spiace
-???	è veleno
+??	è veleno
 TO038	eh lo so
 TO031	eh sì
 TO031	è vero
 TO031	arrivederci
-???	sai quante ne sai quante sigarette fumavo io
+??	sai quante ne sai quante sigarette fumavo io
 TO038	tante quante
-???	trenta sigarette al giorno
+??	trenta sigarette al giorno
 TO038	ohi
-???	xxxxxxx
-???	che lavorava all'iveco
+??	xxxxxxx
+??	che lavorava all'iveco
 TO038	quanti da quanti anni ha smesso
-???	xxxxxxxxxx
+??	xxxxxxxxxx
 TO038	e non ha più fumato nessuna volta nella sua vita
 TO038	arrivederci
 TO031	eh ha ragione xxx
@@ -742,7 +742,7 @@ TO031	le ho quasi rotte ieri
 TO038	ah pure il fatto il fighe~ quando gli ho detto se vuoi usarle usale pure lui infa~ cioè mi ha detto eh però qua i tacchetti sono un po' consumati
 TO038	scusa le porto a risuolare prima di prestartele
 TO031	ci pensavo no
-???	xxxxxxxx
+??	xxxxxxxx
 TO038	abbiamo appena parlato delle sigarette
 TO038	no ci mancherebbe
 TO038	ma io mi dimentico continuamente delle cose siamo nella stessa barca
@@ -772,7 +772,7 @@ TO031	infatti minchia xxxxxx con i social
 TO038	perfetto un altro giorno verdi che ha fatto il ragionamento
 TO031	verdi si chiama lui
 TO031	perfetto perfetto
-???	posso chiedervi solo un accendino scusate
+??	posso chiedervi solo un accendino scusate
 TO039	sì
 TO031	non lo so l'ultimo capitolo
 TO031	figata

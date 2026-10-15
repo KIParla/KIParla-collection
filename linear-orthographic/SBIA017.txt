@@ -284,7 +284,7 @@ PSB147	le macchine esatto
 PSB146	mhmh okay i macchinari
 PSB147	#machine
 PSB147	sì i macchinari dal eh
-PSB147	eh non so come si chiama #_ dyāl xyāṭa machine _ dyāl xyāṭa
+PSB147	eh non so come si chiama #_ dyāl xyāṭa machine dyāl xyāṭa
 PSB153	mhmh
 PSB147	#_ dyāl xyāṭa
 PSB153	#ma-ʕrəft-sh non lo so
@@ -1491,9 +1491,9 @@ PSB153	per me sono p- eh
 PSB147	ma fa tutto
 PSB147	tanti
 PSB153	per me solo mangiare
-???	xxx
+??	xxx
 PSB146	va bene adesso possono veni-
-???	x
+??	x
 PSB153	no no grazie
 PSB146	sì sì ma non c 'è proble-
 PSB153	eh continuare

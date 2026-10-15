@@ -5,7 +5,7 @@ TO091	strozzati
 TO090	mi strozzo
 TO089	e comunque poi dobbiamo
 TO089	andare a prendere la roba
-???	prendere la roba e poi dobbiamo xx
+??	prendere la roba e poi dobbiamo xx
 TO090	ma lei che è tutta polentona
 TO090	come si fa
 TO085	chi è polentona
@@ -32,7 +32,7 @@ TO090	i posteri lo sanno
 TO089	però devo far la pipì prima di andare
 TO091	eh ma adesso tanto dobbiamo sali'
 TO085	quando farò uno studio e userò questi dati ve lo dico
-???	okay
+??	okay
 TO085	dico c'è una vostra frase in un saggio se mai diventerò qualcuno
 TO085	grazie
 TO090	grazie
@@ -93,7 +93,7 @@ TO090	ehm what is the date of this day
 TO091	diceva quindici
 TO089	ue esce game of thrones
 TO089	sì è uscito ieri notte
-???	ieri è uscito
+??	ieri è uscito
 TO085	ah
 TO085	l'avete visto
 TO089	no ma devo troppo vederlo
@@ -121,7 +121,7 @@ TO085	torino
 TO090	vabbè adesso sai anche il mio liceo
 TO085	vabbè va bene
 TO085	ben venga
-???	anch'io scriverà il mio liceo xxx
+??	anch'io scriverà il mio liceo xxx
 TO090	vai così non mi fai sembrare stupid
 TO090	xxxxxxxxxxxx
 TO085	vai siediti lì di fronte a me
@@ -142,7 +142,7 @@ TO089	no il mio accento polentone rimane
 TO091	xxx prende~ per il culo perché sono xxx
 TO090	ma stai già registrando
 TO085	sì
-???	serie di esclamazioni
+??	serie di esclamazioni
 TO089	no
 TO091	devo scrivere data di nascita e luogo di nascita
 TO090	e prova e prova
@@ -188,12 +188,12 @@ TO089	io
 TO089	ti sembro fusa
 TO085	sì
 TO085	eheh vedi
-???	come aldo proprio
+??	come aldo proprio
 TO085	in maniera molto molto simpatica
 TO089	immagino
 TO090	prova a firmare se riesci
 TO085	è vero
-???	non lo so bip
+??	non lo so bip
 TO090	bip
 TO090	non è che bippi te tutto te bippano loro
 TO085	no no mica si bippano le parolacce
@@ -226,7 +226,7 @@ TO091	brava
 TO090	no scusa mi sono persa
 TO085	sì sì
 TO091	xxxx sfasata mamma mia ripigliati
-???	così
+??	così
 TO085	è giustissimo
 TO085	giustissimo
 TO091	mamma mia
@@ -253,8 +253,8 @@ TO085	giovedì palazzo nuovo
 TO091	questo xx
 TO085	e cavallerizza
 TO091	ma io so
-???	no cavallerizza
-???	ma in che giorno
+??	no cavallerizza
+??	ma in che giorno
 TO089	ma com'è la festa a palazzo nuovo è tipo ci uno
 TO085	bella
 TO091	perché noi arriviamo sempre che è chiusa
@@ -274,7 +274,7 @@ TO089	musica cioè che è si beve si mangia o mettono discoteca tipo u
 TO091	velocissimi
 TO091	velocissimo
 TO085	no no cioè cioè tipo discoteca
-???	che devi fa
+??	che devi fa
 TO085	poi si beve a pochissimo
 TO090	xx xx la fotocamera
 TO089	però entri gratis comunque come al ci uno
@@ -328,16 +328,16 @@ TO085	e prende sti dati e li può usare
 TO090	trenta
 TO085	trenta cioè
 TO085	e lode
-???	io ho collaborato
+??	io ho collaborato
 TO089	ero io quella
 TO090	dammi un po' di trenta che mi xxxx
 TO089	xxxx dici cazzo xxxxxxx
-???	xxxxx
+??	xxxxx
 TO085	vabbè tanto è impossibile risalire alla persona
 TO089	certo ovvio
 TO085	cioè tipo anche se esce fuori
 TO085	la via dove abiti o il nome di tua madre cioè si bippa
-???	bippa bippa
+??	bippa bippa
 TO089	per forza
 TO085	però le parolacce no
 TO091	anche anche perché noi c'abbiamo degli aggressori alle spalle
@@ -491,7 +491,7 @@ TO085	hanno i bagni privati
 TO090	sì
 TO085	ah okay
 TO085	beh allora ci sta
-???	solo la cucina in comune
+??	solo la cucina in comune
 TO090	però è un po' triste tutti sti muri bianchi
 TO091	no tutte le porte ver~ cioè sembra proprio un ospedale
 TO090	le porte verdi

@@ -797,7 +797,7 @@ PSB005	[cib]o:
 PSB005	del bangladesh
 PSB005	ci sono: i ristoranti:?
 PSB026	c'è #indian #restaurant c'è qua
-???	c'è #ristorante #indiano c'è qua
+??	c'è #ristorante #indiano c'è qua
 PSB005	ma è indiano o del bangladesh?
 PSB026	india bangladesh anche (u)guale
 PSB005	a:h [okay okay la cuc]ina è uguale
@@ -951,7 +951,7 @@ PSB005	sì
 PSB028	x xx x xx
 PSB026	lingua
 PSB005	c'è u[na:]
-???	[buonasera:]
+??	[buonasera:]
 PSB026	[buona]sera:
 PSB026	tutto hai capito?
 PSB026	((ride))
@@ -1342,10 +1342,10 @@ PSB026	sì [sì]
 PSB005	[be]ne bene e:h fai pure:
 PSB026	la (transi[°xx°)]
 PSB005	[senti pure]
-???	xxx
+??	xxx
 PSB026	vai tranquillo lui arriva un(a) email poi stampar[e]
 PSB005	[o]kay okay
-???	xxx
+??	xxx
 PSB026	tu dimmi scusa e:h se: (adesso) se lavoro?
 PSB005	e:h [no]
 PSB026	[(adesso)]
@@ -1394,7 +1394,7 @@ PSB005	in via piazza verdi dove si[amo]? (qui)
 PSB028	[sì]
 PSB026	xxxxxx
 PSB026	e::h io avvocato
-???	[a:h]
+??	[a:h]
 PSB005	[a:h]
 PSB026	bravo $ragazì
 PSB026	(qua) bravo bravo [quando io] non ce l'ho $documentari vado qua
@@ -1440,10 +1440,10 @@ PSB005	bene bene
 PSB005	bene bene okay
 PSB026	xxx lasciali
 PSB026	#_ na niashche shudu mane apner ie chobi ashe
-???	#_ shada xx
+??	#_ shada xx
 PSB026	#_ kuno page ashe nai shudu oi email tay ashche
 PSB026	#_ xxx kothaa ta bujsen?
-???	xxxx
+??	xxxx
 PSB026	[poi dottore]ssa scrive sì #italy tutto bene
 PSB005	[(°va bene°)]
 PSB028	((ride))

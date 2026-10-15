@@ -5,15 +5,15 @@ BO151	[a::h ma >alla fine mi son dimenticato]<.
 BO150	[è sicuramente meglio (.) che lo zucchero no]r[male].
 BO149	[a:::h oka]y
 BO150	x
-???	eh (.) (posso se c'è un tavolo?)
+??	eh (.) (posso se c'è un tavolo?)
 BO152	sta andan[do]?
-???	[e] terrazza
+??	[e] terrazza
 BO151	sì:
 BO151	molto antisg[amo].
 BO152	[okay].
-???	[xxx]
+??	[xxx]
 BO150	datti uno sle[go frank]
-???	[vai]
+??	[vai]
 BO151	((ride))
 BO149	((ride))
 BO149	°vez::°
@@ -50,11 +50,11 @@ BO149	come mini[mo sarà dura come un sa]sso perché
 BO152	[oddio sembra buonissimo]
 BO152	perché [è vegana]?
 BO149	[n:on ci puoi me]ttere tut[te le robe]::
-???	[salve]
+??	[salve]
 BO149	tipo strutto,
 BO149	bur(ro)
 BO150	((ride)) nella crostata ((ride))
-???	s[alve]
+??	s[alve]
 BO149	[e:::h] se è (sen[za)]
 BO150	[con lo stru]tto
 BO149	senza burro,
@@ -154,28 +154,28 @@ BO149	sì:
 BO149	prosciutto cotto,
 BO149	e
 BO149	aceto bal[samico],
-???	[l'altra sa]la è dietro [la tenda gialla]
+??	[l'altra sa]la è dietro [la tenda gialla]
 BO149	[e qualcos'altro che] non mi ri[cordo],
-???	[no di:]: di qua,
+??	[no di:]: di qua,
 BO151	[ha fatto uno st]ra[no mix]
-???	[tenda] ((ride))
-???	[grazie] ((ride))
-???	°xxxx°
+??	[tenda] ((ride))
+??	[grazie] ((ride))
+??	°xxxx°
 BO149	mai più
-???	xxx
+??	xxx
 BO150	gra[zie],
-???	[prego]
+??	[prego]
 BO149	°[grazie]°
-???	[a voi]
+??	[a voi]
 BO151	°[grazie]°
 BO150	prendi pure frank io ho già il cappuccino
 BO151	a:h quando::
 BO152	grazie,
 BO150	ah scusami ho fatto::
 BO150	((ride))
-???	a::h okay (n=acco) ((ride))
+??	a::h okay (n=acco) ((ride))
 BO151	((ride))
-???	qui
+??	qui
 BO149	°(non posso parlare se sta in mez[zo])°
 BO150	[sc]usi io::
 BO149	((ride))
@@ -191,18 +191,18 @@ BO151	[buona]
 BO152	potrebbe essere la cosa più salutare che mangi
 BO152	nell'ultimo mese
 BO151	quella?
-???	(però [mi dispiace])
+??	(però [mi dispiace])
 BO152	[n:o quella]
 BO151	[ah]
 BO152	[per x]x[x]
-???	[gra:]zie
-???	(a)de[sso::: x][xxxx]
+??	[gra:]zie
+??	(a)de[sso::: x][xxxx]
 BO151	[secondo me],
 BO151	[manca un po' di strut][to]
-???	[lo vu]oi?
+??	[lo vu]oi?
 BO150	((ride))
 BO149	sicura[mente però]
-???	[vai arrivo] io allora
+??	[vai arrivo] io allora
 BO152	come si fa a mangiarlo?
 BO149	beh oggi ho mangiato delle tagliatelle al ragù
 BO149	non sono abbastanza salutari?
@@ -219,9 +219,9 @@ BO152	anche nelle tagliatelle
 BO150	purtroppo salut[are non vuol dir]e genuino
 BO151	[uou]
 BO150	se fosse così anch'io mangerei beni[ssimo]
-???	[grazie] xxxx
+??	[grazie] xxxx
 BO149	((ride))
-???	grazie
+??	grazie
 BO151	un s[aluto al giorno]
 BO149	[ieri ho mangiato una piz]za,
 BO152	mh?
@@ -261,7 +261,7 @@ BO149	[farlo:: è veram]e~
 BO152	e::::h
 BO149	((ride))
 BO149	mh
-???	ciao
+??	ciao
 BO151	m:h
 BO152	(a)ndia[mo a zocca]?
 BO151	[ho trovato un po]sto,
@@ -314,7 +314,7 @@ BO151	sì
 BO152	m:::h
 BO149	((ride))
 BO149	di[amine]
-???	[ciao]
+??	[ciao]
 BO152	eh eh
 BO151	o anche non adesso,
 BO149	mh,
@@ -399,12 +399,12 @@ BO152	((ride))
 BO149	mh?
 BO151	il tabaccaio che ti dà il pesto al posto del ta[ba(cco)]
 BO150	((ride)) [oh vuoi fuma]rti un po' di?
-???	[sì] ((ride))
+??	[sì] ((ride))
 BO149	più [che altro la sagra di zo]cca?
 BO150	[xxx]
 BO152	((ride))
 BO150	e::h c'è sta[ta:::]
-???	[perché]? ((ride))
+??	[perché]? ((ride))
 BO150	a ottobre
 BO152	non siamo and[ati quest'anno]?
 BO149	[eh sì ma:: l'ottob]re prossi[mo]
@@ -487,7 +487,7 @@ BO152	era inquietante perché era[va]mo
 BO149	[mh]
 BO152	le uniche tre perso[ne:]
 BO149	[ma an]che solo nella spiaggia lì
-???	ve le porto subito sai?
+??	ve le porto subito sai?
 BO152	m::h
 BO151	o [a me manca::: il ven]to
 BO149	[anche se ci fosse gente in gi(ro)]
@@ -505,14 +505,14 @@ BO149	che era anche abbastanza comodo
 BO150	par[kour]
 BO151	[>cioè<] c'era della roba lì non c'erano i chi[odi]?
 BO149	((ride))
-???	[e::::]:[:::h sì mi pare di sì]
+??	[e::::]:[:::h sì mi pare di sì]
 BO151	[no]?
 BO150	[no no],
 BO149	[ah no è] vero [vero adesso mi rico]rdo che sembrava di essere::
 BO151	[c'era xxx].
 BO152	[m:h]?
 BO149	sì.
-???	cinque e il sei,
+??	cinque e il sei,
 BO150	c'erano dei chiodi?
 BO151	boh mi pareva ci fosse qualcosa che feriva i piedi
 BO150	io non l'ho vista
@@ -527,8 +527,8 @@ BO149	((ride))
 BO150	e:h?
 BO152	((ride))
 BO151	beh avevamo i secchi avevamo il::
-???	prego
-???	le v[olevamo chiedere:: se ci fosse posto] fuo[ri]?
+??	prego
+??	le v[olevamo chiedere:: se ci fosse posto] fuo[ri]?
 BO149	[e dovevamo fare il trappolone a franci]?
 BO152	[no a f]ra[nk]
 BO149	[a frank]?
@@ -542,12 +542,12 @@ BO150	((ride))
 BO150	([eas]y)
 BO150	((ride))
 BO151	in co[ma] ((ride))
-???	[e::h]=[m::::h]
+??	[e::h]=[m::::h]
 BO152	[buttarvi l'acqua] ad[dosso dal nulla] ma
 BO151	((ride))
 BO150	[xxxx]
 BO152	non mi ricordo se l'ho fat[to]
-???	[va] bene gr[azie]
+??	[va] bene gr[azie]
 BO149	[mi pare] di no
 BO151	a:h >io non mi ricordo<
 BO152	forse c'ho provato ma non ci sono riuscita
@@ -558,8 +558,8 @@ BO151	eh [provare senza riuscir]e è::: classico
 BO150	°[perché xx]°
 BO151	è più difficile non riuscire senza provare
 BO149	esatto
-???	ciao:
-???	ah gra[zie]
+??	ciao:
+??	ah gra[zie]
 BO151	[cavolo]
 BO152	è più dif[ficile]
 BO151	[ci dovrei prova]re
@@ -823,7 +823,7 @@ BO149	[è] per gender neutri
 BO150	infatti ha un sacco di ergonomia cavolo
 BO152	>ha senso che potrebbe finire cinquanta e cinquanta cioè in effetti non ha senso [che sia così::<]
 BO150	[non so che ge]ne >cioè< non (credo) d[i::]
-???	[gra]zie
+??	[gra]zie
 BO150	da cosa venga c~
 BO150	da (.) che cosa sia causata questa:: (que)s[ta roba]
 BO151	[dal demon]io
@@ -899,7 +899,7 @@ BO150	[puoi già na]scere col tatuaggio [e::h sì]
 BO151	[a::h] che figo
 BO151	beh ci sta
 BO151	>bello<
-???	qua ragazzi
+??	qua ragazzi
 BO151	sì sì sì
 BO151	solo che quando nasci dopo >cioè<
 BO150	[xxx]
@@ -961,7 +961,7 @@ BO152	perché?
 BO151	non lo so
 BO149	ma non è un po' grassa?
 BO151	beh un pochino
-???	ah sì?
+??	ah sì?
 BO152	[ma è un video]?
 BO151	[cosa sta succeden]do? sì è un video ma che [ca::] ((fa_vedere_un_video))
 BO150	((ride))

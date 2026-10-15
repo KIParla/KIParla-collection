@@ -2769,7 +2769,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 604-2	PKP102	604	2	mai]	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=847.391	_	_	_	0-3(1403)
 605-0	PKP103	605	0	[ve	ve	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=846.658	_	_	_	0-2(1403)
 605-1	PKP103	605	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(1403)
-605-2	PKP103	605	2	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(1403)
+605-2	PKP103	605	2	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(1403)
 605-3	PKP103	605	3	portata	portata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(1403)
 605-4	PKP103	605	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(1403)
 605-5	PKP103	605	5	bam]bino	bambino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(1403)
@@ -7060,7 +7060,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1473-1	PKP101	1473	1	dobbiamo	dobbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1473-2	PKP101	1473	2	riprendere	riprendere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1473-3	PKP101	1473	3	economicame:nte	economicamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2170.689	10x1	_	_	_
-1474-0	PKP100	1474	0	hh	hh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2171.024	_	_	_	_
+1474-0	PKP100	1474	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2171.024	_	_	_	_
 1474-1	PKP100	1474	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2171.514	_	_	_	_
 1475-0	PKP101	1475	0	là	là	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2171.989	_	_	_	_
 1475-1	PKP101	1475	1	tre	tre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9170,8 +9170,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1850-2	PKP102	1850	2	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	_	_	_	_	_
 1850-3	PKP102	1850	3	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	_	_	_	_	_
 1850-4	PKP102	1850	4	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	End=2705.995	_	_	_	_
-1851-0	PKP101	1851	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2706.13	_	_	_	_
-1851-1	PKP101	1851	1	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2706.505	_	_	_	_
+1851-0	PKP101	1851	0	eh:	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2706.13|End=2706.505	1x1	_	_	_
 1852-0	PKP102	1852	0	(n)o:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2707.237|End=2707.496	1x1	_	0-1(0)	_
 1853-0	PKP100	1853	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2707.513	_	_	_	_
 1853-1	PKP100	1853	1	[quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(591)

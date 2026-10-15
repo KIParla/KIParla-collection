@@ -772,10 +772,10 @@ PSB005	è molto: piovoso
 PSB005	è una zona molto piovo[sa]
 PSB020	[è stato] terribile i primi: (.) quattro cinque mesi
 PSB020	perché non: e::h (.) anche xx
-???	((rumore_forte))
+??	((rumore_forte))
 PSB020	anche le ragazze
-???	((rumore_forte))
-???	scusate
+??	((rumore_forte))
+??	scusate
 PSB005	niente
 PSB020	((ride))
 PSB005	fa niente ((ride))
@@ -854,7 +854,7 @@ PSB020	è aperto (.) solo d'estate per i turisti che c'è un albe(rgo) (.) alber
 PSB020	e:: bar e ristorante
 PSB020	e: poi: il resto:: si porta tutto dall'
 PSB020	i prodotti tutto quanto
-???	(va bene)?
+??	(va bene)?
 PSB020	sì sì [grazie mi]lle
 PSB005	[grazie]
 PSB005	beh hai fatto un'esperienza: [forte]

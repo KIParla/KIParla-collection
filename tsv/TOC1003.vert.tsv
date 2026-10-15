@@ -2193,7 +2193,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 234-4	TO006	234	4	ah.	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
 234-5	TO006	234	5	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 234-6	TO006	234	6	scusi.	scusi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=769.507	_	_	_	_
-235-0	???	235	0	[°(posso)?°]	posso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	Begin=768.165|End=768.666	_	_	0-5(0)	0-5(87)
+235-0	??	235	0	[°(posso)?°]	posso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	Begin=768.165|End=768.666	_	_	0-5(0)	0-5(87)
 236-0	TO006	236	0	dunque.	dunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=771.934	_	_	_	_
 236-1	TO006	236	1	dicevamo.	dicevamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
 236-2	TO006	236	2	ormai	ormai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

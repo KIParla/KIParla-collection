@@ -944,21 +944,21 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 215-0	PSB039	215	0	i~	i~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=417.91	_	_	_	_
 215-1	PSB039	215	1	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 215-2	PSB039	215	2	[g~]	g~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=418.45	_	_	_	0-2(53)
-216-0	???	216	0	[@cate]rina	@caterina	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=418.16	_	_	_	0-5(53)
-216-1	???	216	1	scusa	scusa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-216-2	???	216	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-216-3	???	216	3	attimo.	attimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=419.91	_	_	_	_
+216-0	??	216	0	[@cate]rina	@caterina	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=418.16	_	_	_	0-5(53)
+216-1	??	216	1	scusa	scusa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+216-2	??	216	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+216-3	??	216	3	attimo.	attimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=419.91	_	_	_	_
 217-0	PSB005	217	0	sì:?	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=419.93|End=420.3	1x1	_	_	_
-218-0	???	218	0	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=420.62	_	_	_	_
-218-1	???	218	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-218-2	???	218	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-218-3	???	218	3	mondo	mondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-218-4	???	218	4	sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-218-5	???	218	5	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
-218-6	???	218	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-218-7	???	218	7	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=422.94	_	_	_	_
-219-0	???	219	0	scusate	scusate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=424.12|End=424.95	_	_	_	_
-220-0	???	220	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=425.0|End=425.59000000000003	_	_	_	_
+218-0	??	218	0	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=420.62	_	_	_	_
+218-1	??	218	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+218-2	??	218	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+218-3	??	218	3	mondo	mondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+218-4	??	218	4	sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+218-5	??	218	5	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
+218-6	??	218	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+218-7	??	218	7	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=422.94	_	_	_	_
+219-0	??	219	0	scusate	scusate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=424.12|End=424.95	_	_	_	_
+220-0	??	220	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=425.0|End=425.59000000000003	_	_	_	_
 221-0	PSB005	221	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=425.59000000000003	_	_	_	_
 221-1	PSB005	221	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=426.5	_	_	_	_
 222-0	PSB005	222	0	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=426.74	_	_	_	_
@@ -1226,9 +1226,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 273-0	PSB039	273	0	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=541.18|End=541.79	0x1	_	_	_
 274-0	PSB005	274	0	<è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=542.1	_	Slow=0-1(0)	_	_
 274-1	PSB005	274	1	famosa	famosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-6(0)	_	_
-274-2	PSB005	274	2	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Slow=0-4(0)	_	_
-274-3	PSB005	274	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-274-4	PSB005	274	4	>		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+274-2	PSB005	274	2	solo>	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Slow=0-4(0)	_	_
+274-3	PSB005	274	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 274-5	PSB005	274	5	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 274-6	PSB005	274	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 274-7	PSB005	274	7	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -2399,7 +2398,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 491-8	PSB039	491	8	#food	food	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 491-9	PSB039	491	9	#how	how	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 491-10	PSB039	491	10	#did	did	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-491-11	PSB039	491	11	#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+491-11	PSB039	491	11	#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 491-12	PSB039	491	12	you:	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	2x1	_	_	_
 491-13	PSB039	491	13	#how	how	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 491-14	PSB039	491	14	#did	did	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_

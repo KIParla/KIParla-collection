@@ -2918,10 +2918,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 394-17	BOI097	394	17	sarei]	sarei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(135)
 394-18	BOI097	394	18	volut[o:]	voluto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=853.662	5x1	_	_	5-6(136)
 395-0	BOR036	395	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=852.436|End=852.803	_	_	_	0-4(135)
-396-0	???	396	0	[pos]so	posso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=853.499	_	_	_	0-3(136)
-396-1	???	396	1	prendere	prendere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-396-2	???	396	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-396-3	???	396	3	vuoti?	vuoti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=854.394	_	_	_	_
+396-0	??	396	0	[pos]so	posso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=853.499	_	_	_	0-3(136)
+396-1	??	396	1	prendere	prendere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+396-2	??	396	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+396-3	??	396	3	vuoti?	vuoti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=854.394	_	_	_	_
 397-0	BOR036	397	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=854.394	_	_	_	_
 397-1	BOR036	397	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 397-2	BOR036	397	2	gra[zie]	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=855.099	_	_	_	3-6(137)

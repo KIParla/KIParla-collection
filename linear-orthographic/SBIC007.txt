@@ -37,7 +37,7 @@ PSB035	ehm
 PSB014	e
 PSB033	perché
 PSB035	perché io vive quasi sette anni
-???	gente molt~ molto gentile
+??	gente molt~ molto gentile
 PSB035	ehm
 PSB033	gentili
 PSB035	qua c'è clienti molto gentile
@@ -197,7 +197,7 @@ PSB014	ah
 PSB033	okay
 PSB033	di che città
 PSB035	vicina a wenzhou
-???	#_ nǐ gēn zài cǎi fǎng yǒu rén zài cǎi fǎng tā děng yī xià ò
+??	#_ nǐ gēn zài cǎi fǎng yǒu rén zài cǎi fǎng tā děng yī xià ò
 PSB033	ah
 PSB035	vicino a
 PSB014	sud nord

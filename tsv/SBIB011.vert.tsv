@@ -1857,8 +1857,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 204-9	PSB062	204	9	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 204-10	PSB062	204	10	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 204-11	PSB062	204	11	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	End=770.77	_	_	_	0-3(25)
-205-0	???	205	0	[buonasera]	buonasera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=769.82	_	_	_	0-9(25)
-205-1	???	205	1	maestro	maestro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=771.149	_	_	_	_
+205-0	??	205	0	[buonasera]	buonasera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=769.82	_	_	_	0-9(25)
+205-1	??	205	1	maestro	maestro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=771.149	_	_	_	_
 206-0	PSB062	206	0	sto	sto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=771.149	_	_	_	_
 206-1	PSB062	206	1	facendo	facendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 206-2	PSB062	206	2	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1880,7 +1880,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 208-0	PSB062	208	0	[e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=774.112	0x2	_	_	0-2(26)
 208-1	PSB062	208	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(26)
 208-2	PSB062	208	2	ciao]	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=775.559	_	_	_	0-4(26)
-209-0	???	209	0	°ciao°	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=775.559|End=776.164	_	_	_	_
+209-0	??	209	0	°ciao°	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=775.559|End=776.164	_	_	_	_
 210-0	PSB062	210	0	e::[mh	emh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=776.217	0x2	_	_	1-3(29)
 210-1	PSB062	210	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(29)
 210-2	PSB062	210	2	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(29)

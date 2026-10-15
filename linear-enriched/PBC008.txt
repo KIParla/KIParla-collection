@@ -373,14 +373,14 @@ BOI021	penso ai condomini
 BOR005	mh
 BOI021	>cioè< a~ anche anche noi abbiamo:
 BOI021	due appartamenti nel condo~ nel nostro condominio
-???	((bussa_alla_porta))
+??	((bussa_alla_porta))
 BOI021	affittati a studenti
 BOI021	((tossisce))
-???	la signora federica?
+??	la signora federica?
 BOI021	no: è di là.
-???	grazie
+??	grazie
 BOI021	e:hm:
-???	((chiude_la_porta))
+??	((chiude_la_porta))
 BOI021	>allora< mentre prima ti:,
 BOI021	mh mh non che ti: mh
 BOI021	o~ ognuno andasse in casa po~ in casa dagli a:ltri >eccetera<
@@ -484,7 +484,7 @@ BOI021	m::h
 BOI021	m:h mh mh delegò i quartieri di allora che erano ancora:,
 BOI021	e:h sperimentali insomma >vabbè<
 BOI021	a: e::hm:
-BOI021	costitui:re se >volevanocioè< c'era una: politica per gli anzia:ni
+BOI021	costitui:re se >volevano cioè< c'era una: politica per gli anzia:ni
 BOI021	dentro alla quale i quartieri se volevano potevano istitui:re,
 BOI021	delle zone ortive e:
 BOI021	assegna:re un lotto che: eh
@@ -604,11 +604,11 @@ BOI021	in realtà però il responsabile è il pre~ il presidente del centro
 BOI021	il responsabile di tutto quel che succede nell'or(to)
 BOI021	per cui
 BOI021	e:h
-???	scusa eh che poi vado via.
+??	scusa eh che poi vado via.
 BOI021	ma
-???	((suono_metallico))
+??	((suono_metallico))
 BOI021	°perché li dai a me?°
-???	e:h?
+??	e:h?
 BOI021	°eh >va bene< sì°
 BOI021	la mettiamo nel cassetto
 BOI021	comunque
@@ -760,21 +760,21 @@ BOI021	l~ le:: m:h
 BOI021	>allora< lì (.) si fa tutti gli anni,
 BOI021	e:hm:
 BOI021	a me piace moltissimo questa [cosa]
-???	[x xx]
-???	i (nerd) della della riparazione abbiamo la sala pie:na
+??	[x xx]
+??	i (nerd) della della riparazione abbiamo la sala pie:na
 BOI021	allora fa~ andiam su?
-???	no (.) curio:si no no adesso: oh ve~
+??	no (.) curio:si no no adesso: oh ve~
 BOI021	[eh]
-???	[sai] (.) abbiamo già cominciato:
+??	[sai] (.) abbiamo già cominciato:
 BOI021	ah ho capito eh oggi chissà perché so arrivati tutti pres(to)
-???	ma perché l'altra volta eran le quattro
-???	[x xx xxx e poi x x e poi l'a]ltra volta la gente non è riu[scita a con]cludere [secondo] me,
+??	ma perché l'altra volta eran le quattro
+??	[x xx xxx e poi x x e poi l'a]ltra volta la gente non è riu[scita a con]cludere [secondo] me,
 BOI021	[ah a::h ho capito dopo si sono eh]
 BOI021	[mh]
 BOI021	[eh]
 BOI021	eh (.) allora
 BOI021	((tossisce)) [e:hm]
-???	[delle] penne qua?
+??	[delle] penne qua?
 BOI021	e::h
 BOI021	>io< vi stavo dicendo?
 BOI021	allora eh questo rappo:rto particola:re che abbiamo
@@ -948,29 +948,29 @@ BOI021	e::h per cui >insomma<
 BOI021	anche eh
 BOI021	conoscenze personali e abbiamo anche una consuetudine di progettualità comune
 BOR002	mh
-???	qua (di lana) x chiedere
+??	qua (di lana) x chiedere
 BOI021	coll'anpi
 BOR002	e:hm::
 BOR002	io >avevo< una curiosità:, e::hm:
 BOR002	come mai:? il centro sociale:, è stato chiama[to:]
-???	[siam riusciti a be]ccare:
-???	[>nel< mome]nto:
+??	[siam riusciti a be]ccare:
+??	[>nel< mome]nto:
 BOR002	[e:h]
 BOR002	centro sociale: >insomma<
-???	((suona_un_telefono))
+??	((suona_un_telefono))
 BOR002	mh
 BOR002	>come mai è stato scelto
 BOI021	[eh è: stato il] suggerimento del sindaco rossi.
 BOR002	ah
 BOI021	quando: ci fu la stra:ge si inaugurava
-???	xx (.) una xxx
+??	xx (.) una xxx
 BOI021	[il ce~]
 BOI021	eh
 BOI021	scusate,
 BOI021	stan registrand[o]
-???	>[qu]ella lì< in fondo EH?
+??	>[qu]ella lì< in fondo EH?
 BOI021	federica stan regis[trando].
-???	[sì sì]
+??	[sì sì]
 BOI021	e:hm m::h
 BOI021	e::h
 BOI021	e (.) questo centro era in un'altra zona in un'altra
@@ -1029,7 +1029,7 @@ BOI021	>(un po')< fondato l'anpi in saragozza:
 BOI021	eh abitava qua dietro,
 BOI021	[era is]critto qua: insomma >non<
 BOR005	[mh]
-???	((bussano_alla_porta))
+??	((bussano_alla_porta))
 BOR005	mh
 BOI021	però:
 BOI021	>eh (.) no (.) scusa (.) ciao<
@@ -1084,7 +1084,7 @@ BOI021	e:h
 BOI021	>cioè< porta lame ad esempio
 BOI021	io me la rico~ io l~ e:hm bologna
 BOI021	bombarda:ta >cioè< la
-???	((squilla_un_telefono))
+??	((squilla_un_telefono))
 BOI021	eh eh i segni della battaglia di porta lame io mi ricordo eh abitavo lì,
 BOI021	che (.) li vedevo insomma li avevo visti
 BOI021	((tossisce))
@@ -1098,7 +1098,7 @@ BOI021	°no°
 BOR002	dei rico:rdi, o::
 BOR002	delle storie che le son state <raccontate:> riguardanti la guerra, la resistenza, i partigiani, [così]
 BOI021	[allora]
-???	x
+??	x
 BOR002	>soprattutto< su bologna e[cco]
 BOI021	[sì]
 BOI021	beh bologna: e:h e::h e la campagna un po' >cioè< (c'ho non è)
@@ -1115,7 +1115,7 @@ BOI021	e:hm:
 BOI021	e:h
 BOI021	mirella?
 BOI021	scusa.
-???	(eh dimmi)
+??	(eh dimmi)
 BOI021	eh (.) no e:h
 BOI021	stan registrando si sente il rumore di sottofondo
 BOI021	e:hm:
@@ -1403,13 +1403,13 @@ BOR005	mh
 BOI021	in que~ eh
 BOI021	poi il tempo è breve, >cioè:<
 BOI021	fine ma:ggio giugno poi dopo si accorcian le giorna:te >bisogna< andarci prima
-???	scusate,
+??	scusate,
 BOI021	s~ s~
-???	(>allora<) avrei bisogno di una borsina chi è che me la può dare?
+??	(>allora<) avrei bisogno di una borsina chi è che me la può dare?
 BOI021	no io no
-???	>allora< chi altro c'è? il bar[ista]?
+??	>allora< chi altro c'è? il bar[ista]?
 BOI021	[al bar] °sì chiedi al bar°
-???	eh devo portare a casa una roba io:
+??	eh devo portare a casa una roba io:
 BOI021	eh
 BOI021	e:h
 BOI021	m::h

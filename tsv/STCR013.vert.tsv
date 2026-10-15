@@ -699,7 +699,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 134-6	PST092	134	6	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	0-2(47)
 134-7	PST092	134	7	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	0-2(47)
 134-8	PST092	134	8	mio	mio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-3(0)	_	0-3(47)
-134-9	PST092	134	9	telefono<?]	telefono	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=233.13	_	Fast=0-8(0)	_	0-8(47)
+134-9	PST092	134	9	telefono?<]	telefono	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=233.13	_	Fast=0-8(0)	_	0-8(47)
 135-0	PST211	135	0	[ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=231.34	_	_	_	0-2(47)
 135-1	PST211	135	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(47)
 135-2	PST211	135	2	possiamo	possiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-8(47)

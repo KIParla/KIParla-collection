@@ -626,7 +626,7 @@ PSB066	[sì]
 PSB065	è vicino sasso marcon(i) e casalecchio, (.) che tante cose qua
 PSB005	e vi piace di più: ferrara, bologna,
 PSB066	((sospira)) (.) per me bologn[a]
-PSB065	((sospira_,ride))
+PSB065	((sospira_ride))
 PSB065	[anch'io]
 PSB066	[°sì°]
 PSB066	eh [perché bologna c'è (sole) ma:] non so perché io sì
@@ -641,24 +641,24 @@ PSB065	[sì:]
 PSB065	[sì:]
 PSB065	[no anch'io vado con] mio marito nel castello quello con [cla xx xxxx]
 PSB066	[se:]
-???	((bussano))
+??	((bussano))
 PSB066	[sì °castello°].
-???	#_ xx?
+??	#_ xx?
 PSB005	prego nessun [problema]
 PSB066	[sì]
 PSB005	mi stava raccontando s[cxx]
 PSB065	#_ yāk-ma d-drāri ka-ydīru shi ḥāja?
 PSB065	#_ l-yūma gha-ttqtənni
-???	#_ xxx
+??	#_ xxx
 PSB066	((ride))
 PSB065	((ride))
-???	#_ xx
+??	#_ xx
 PSB066	sì [#sīri]
 PSB065	#_ [xx] nārī, a-xti, ḍārra-h ḍ-ḍaṛṣa gha-nəddi-h ʕand ṭ-ṭbīb °ḥshūma°
-???	#_ xx
+??	#_ xx
 PSB066	#_ l-muhimm ma-taʕṭā-sh lī-h°
 PSB065	[ah]
-???	#_ xx
+??	#_ xx
 PSB066	#_ a-sīri [a-sīri]
 PSB065	#_ [wāh] a-xti ṛā-h [(.)] a-sīri a-[sīri]
 PSB066	[#sīri]
@@ -891,7 +891,7 @@ PSB065	[io]
 PSB066	[io]
 PSB066	xx dai ((ride))
 PSB065	NO NO VAI DA:I XX
-PSB066	((ride_,sospira)) è di casablanca conosce casablanca?
+PSB066	((ride_sospira)) è di casablanca conosce casablanca?
 PSB005	[okay]
 PSB005	e:h (.) non ci sono stata però: [di nome sì]
 PSB066	[casabla]nca sì: sì:
@@ -1197,7 +1197,7 @@ PSB065	#ḥammām marocchino [o (quello) turco]
 PSB066	[marocchino o tu]rco?
 PSB066	c'è turco e marocchi[no]
 PSB005	[sono] anda[ta e:]
-???	[fatto le:] le[:]
+??	[fatto le:] le[:]
 PSB005	[Sì]
 PSB066	sì[::] (.) [io vado] marocco il quindici
 PSB065	[questo xx]
@@ -1228,7 +1228,7 @@ PSB065	((ride))
 PSB005	e: c'erano anche delle mamme con le loro [figlie piccoli:ne]
 PSB066	[FI:GLI SÌ:]
 PSB065	[con i bambini] sì °sì°
-???	((ride))
+??	((ride))
 PSB005	poi c'erano queste ragazze con questi capelli lunghi (.) [BEL]LISSIMI capelli bel[lissimi]
 PSB065	A[:H]
 PSB066	((ride))
@@ -1405,7 +1405,7 @@ PSB066	[ah sì c'è anche iper] tosano
 PSB065	°sì: iper tos[ano° c'è tanti] c'è una parte di marocchi[ni]
 PSB066	[sì:]
 PSB066	[di] maroc[co]
-???	[sì]
+??	[sì]
 PSB005	fantastico ((ride))
 PSB065	((ride)) [sì]
 PSB066	sì[:]
@@ -1480,7 +1480,7 @@ PSB066	Ah.
 PSB005	eh noi solo per
 PSB005	per natale quando è natale [io vado] dalla mia mamma e cuciniamo tutta la mattina (.) [sì]
 PSB065	[ah]
-???	[Ah].
+??	[Ah].
 PSB066	[Ah. tutto la mamma sì] (.) sì:
 PSB005	que[sto sempre]
 PSB065	[la tua ma]mma dove abita?
@@ -1488,7 +1488,7 @@ PSB065	[a bologna]?
 PSB005	[a bologna s]ì [sì]
 PSB065	[è vi]cina sì: sì
 PSB005	[sì le]i è di o- di origine di lecce della puglia
-???	puglia xx sì
+??	puglia xx sì
 PSB005	però sono: tren:-
 PSB005	trent[a:cinque] anni che è qui [sì]
 PSB066	[chi]?
@@ -1575,7 +1575,7 @@ PSB066	[e:h] trovo un po' di: cambio un po' di c[a:mbio sì]:
 PSB005	[okay]
 PSB066	n- non trovo questa °ehm° questa: lingua ((ride))
 PSB005	quindi un po' di cambiamento [c'è secondo te]
-???	[(sì xx)]
+??	[(sì xx)]
 PSB066	un pochet~ s(ì) #_ un peu
 PSB066	sì (.) sì sì (.) sì
 PSB005	eh [ma le lin]gue [(.) cambiano] (.) [sì]
@@ -1619,7 +1619,7 @@ PSB066	[mhmh mhmh]
 PSB066	po:vera ((ride))
 PSB005	decisamen[te no] ((ride)) (.) e: comunque okay no vediamo
 PSB066	[sì:] ((ride))
-???	((ride))
+??	((ride))
 PSB005	vediamo se trovo qualcosa di divertente da chiedervi A:H Sì que- avete festeggiato la festa musulmana che c'è [stata:]
 PSB066	[SÌ: °sì°]
 PSB066	che del DEL: pec(x) ((ride))
@@ -1762,7 +1762,7 @@ PSB066	[sì] fatto la la $priera la matti[na]
 PSB005	[mh] ok[ay]
 PSB066	[fa]cciamo la preghiera la mattina e dopo:
 PSB066	facciamo queste cose che ha detto:
-??	((voce_di_bambino))
+???	((voce_di_bambino))
 PSB065	(un pochi[no) xx]
 PSB066	[a::h xx figlio]
 PSB005	[vai vai sì]
@@ -1787,7 +1787,7 @@ PSB066	fe- una festa semplice: e:h le bambine mettono le vestite nuove: anche le
 PSB066	le:: come di- le dolce come i biscotti queste e basta
 PSB005	okay okay [e]
 PSB066	[que]sta la seconda c'è: quante feste? abbiamo?
-???	((bussano)) posso?
+??	((bussano)) posso?
 PSB066	quante feste
 PSB066	quante fe- #_ ʕand-na jūj (də-)l-ʕayād
 PSB065	sì questo di ramadan [(.) e] l'altro di: festa di: ehm [(.) e:]:hm
@@ -1896,15 +1896,15 @@ PSB065	[sì]
 PSB065	sì anche la moschea senti #l-adān [#əṣ-ṣalāt]
 PSB066	[per] noi la moschea un [ba:xx grande] sì sente tu: sente il marocco tutto
 PSB065	[sì sì]
-??	°mamma::°
+???	°mamma::°
 PSB005	[quindi] è diverso quindi
 PSB066	sì mh [diver]sissimo [sì sì]
 PSB065	[sì]
-??	[mamma]
+???	[mamma]
 PSB065	°xx xx°
 PSB066	mia mamma fatto il [ramadan da noi:] due o tre [volte ma detto no:] dobbiamo andare al marocco per fare: (.) quest'anno l'ha fatto marocco e <conten[tissima]> eh [ma eh]
-??	[mamma:]
-??	[mamma]
+???	[mamma:]
+???	[mamma]
 PSB065	((ride))
 PSB005	[cari:na]
 PSB065	[sì anche mio] papà è detto [così (.) sì ma adesso lui] morto da: [°un anno sì°]
@@ -2049,7 +2049,7 @@ PSB005	okay,
 PSB066	di bologna
 PSB005	[okay]
 PSB066	[e:]:h
-??	MA[MMA]
+???	MA[MMA]
 PSB066	[di] bologna conosce
 PSB005	no
 PSB065	[°xxx°]
@@ -2061,17 +2061,17 @@ PSB066	meraville bravissima [meraville] lavora lì: dentro [lavora lì]
 PSB005	[meraville sì]
 PSB005	[sì sì sì certo]
 PSB066	[l'altra lavora] a bologna
-??	[ma:mma]
+???	[ma:mma]
 PSB005	[quindi studiano] e lavo[rano] son bravi[ssime]
-??	[mamma:]
+???	[mamma:]
 PSB066	[lavorano]
 PSB066	[sì] sì studiano lavorano per quello
-??	[mamma:] [(.)] mamma:
+???	[mamma:] [(.)] mamma:
 PSB005	[sì sì]
 PSB065	[°dimmi°]
 PSB066	non è una [problema]
 PSB005	[non fa niente]
-??	[mamma:]
+???	[mamma:]
 PSB005	non è un problema
 PSB005	se se dovete andare che sono stan[chi]:
 PSB066	[xx]

@@ -10,7 +10,7 @@ PST119	la vuoi?
 PST120	(xxx) #_ cum vorbea românește
 PST119	#_ el da el nu
 PST119	#_ nu nu vorbește
-???	sono acidi
+??	sono acidi
 PST119	eh?
 PST119	togli
 PST118	ha la tipa s~
@@ -19,7 +19,7 @@ PST119	c'era l'a:l[tra (.) no]rmale
 PST120	[va bene]
 PST119	pizza: regina
 PST120	#_ vrei să începem?
-??	da
+???	da
 PST120	tatăl nostru
 PST119	#termin-o
 PST119	#_ și dacă te întreabă el (traduce ce)
@@ -51,7 +51,7 @@ PST119	eh?
 PST119	ah ah
 PST119	no?
 PST120	(ha mal di gola)
-??	ho mal di gola
+???	ho mal di gola
 PST119	hai mal di gola?
 PST120	#_ am pus prea puțin (.) sugo
 PST119	#_ și s-o ars
@@ -700,7 +700,7 @@ PST120	#_ acolo în partea aia
 PST118	#_ nu este nimic
 PST119	#_ nici-un sirop (.) nici de patlagină nici de alt ceva
 PST120	#_ mai esra când l-ai cumparat
-??	xx
+???	xx
 PST120	ah?
 PST120	(pappa reale?)
 PST118	eh ma:
@@ -726,7 +726,7 @@ PST119	MA NO:: MA:
 PST119	#_ xx pentru xx
 PST119	e::h gonfiore #stoma:c
 PST119	#xx [xx]
-??	[#xx]
+???	[#xx]
 PST120	#xx
 PST118	#_ dar ce-i patlagină
 PST119	#_ plantagină e o plantă

@@ -2506,7 +2506,6 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 231-0	TO055	231	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=979.055	_	_	_	_
 231-1	TO055	231	1	stai	stai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 231-2	TO055	231	2	scherzan~	scherzan~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|ProsodicLink=Yes	_	_	_	_	_
-231-3	TO055	231	3			_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
 231-4	TO055	231	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=979.88	_	_	_	_
 232-0	TO046	232	0	no.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=979.888|End=980.4	_	_	_	_
 233-0	TO046	233	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=981.115	_	_	_	_
@@ -3843,7 +3842,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 377-0	TO055	377	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1474.045	_	_	_	_
 377-1	TO055	377	1	rossi	rossi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1475.37	_	_	_	_
 378-0	TO046	378	0	rossi	rossi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1475.386|End=1475.876	_	_	_	_
-379-0	???	379	0	xxxxx	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=5	Begin=1475.894|End=1477.027	_	_	_	_
+379-0	??	379	0	xxxxx	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=5	Begin=1475.894|End=1477.027	_	_	_	_
 380-0	TO046	380	0	(hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1477.076	_	_	0-3(0)	_
 380-1	TO046	380	1	interrotto?)	interrotto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1477.846	_	_	0-10(0)	_
 381-0	TO055	381	0	vai.	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1478.876|End=1479.167	_	_	_	_

@@ -1,16 +1,16 @@
 TO018	sì no no lo so lo so che lei assiste ma lei si chiama?
-???	e::h
-???	arancioni
-???	ales[sio]
+??	e::h
+??	arancioni
+??	ales[sio]
 TO018	[ara]ncioni okay quindi ho,
 TO018	risolto il problema=lei ha ricevuto una serie di miei messaggi,
 TO019	okay.
-???	°no.°
+??	°no.°
 TO018	allora dopo ci rimettiamo d'accordo:
 TO018	perché le devo spiegare come funziona l'esame.
 TO018	per altro lei ri~ risulta immatricolato senza foto.
 TO018	già questa è una cosa strana per l'ateneo di torino.
-???	°sì?°
+??	°sì?°
 TO018	sì.
 TO018	vabbè.
 TO019	e:: scu[si pe]r mandare avanti è questo di qua giusto?
@@ -1341,7 +1341,7 @@ TO018	differenza forse le femmine sono un peli~
 TO018	forse:
 TO018	°neanche,°
 TO019	e:h=per il valore biologico della carne quindi diciamo il contenuto di prote[ine],
-???	[assoluta]mente no.
+??	[assoluta]mente no.
 TO019	e::h=mh
 TO018	è molto più::
 TO018	zootecnica la motivazione.
@@ -1351,10 +1351,10 @@ TO018	[lei ha detto] che i maschi diventano ventun chili,
 TO019	sì.
 TO018	[e le femmine dodi]ci.
 TO019	[e le femmine dodici].
-???	alla stessa età?
+??	alla stessa età?
 TO019	sì.
 TO018	no.
-???	((ride))
+??	((ride))
 TO018	beh, no.
 TO018	è lì la questione.
 TO019	[e::h],
@@ -1366,7 +1366,7 @@ TO018	>venti settimane aspetti che faccio il cont[o. venti settimane<],
 TO019	[~spetti sto andando in pa]lla.
 TO018	sono cin[que per quattro >cinque per quattro son] cinque mesi<.
 TO019	[allora e::h],
-???	°nì.°
+??	°nì.°
 TO018	nì (.) cioè nel senso che si può anche essere una una:=e::h
 TO018	ci possono essere degli allevamenti di punta che forse riescono in cinque mesi: può darsi che si fermino,
 TO018	pelino in meno da questo punto di vista quindi su un peso comunque intorno ai venti chili però mediamente noi cioè mediamente in generale noi che cosa diciamo che nell'allevamento del tacchino facciamo del maschio due cicli per anno.
@@ -1381,7 +1381,7 @@ TO018	nelle femmine però non arriviamo a un periodo di tempo così lungo la fem
 TO019	°di più?°
 TO018	no:,
 TO018	alla fine la ma[celliamo prima].
-???	[per fare diec]i chili.
+??	[per fare diec]i chili.
 TO019	[°xx xx sì sì sì no certo].
 TO018	[abbiam detto che la macelliamo a docici chili dieci dodici] chili.
 TO018	se la macelliamo a dieci dodici chili vuol dire c~ e tenendo conto che la femmina cresce un po' meno velocem[ente],
@@ -1449,17 +1449,17 @@ TO018	[alla velocità di sv]iluppo delle [piume remi]ganti cioè delle [piume de
 TO019	[esatto].
 TO019	[io vado a riconoscere],
 TO019	[le]: le femmine e i [maschi].
-???	[°il sesso] (diciamo).
+??	[°il sesso] (diciamo).
 TO018	okay si fa un sessaggio in questo modo.
-???	c'è ancora (.) un sistema per sessare gli animali.
-???	(per) i polli,
+??	c'è ancora (.) un sistema per sessare gli animali.
+??	(per) i polli,
 TO019	e:::h,
-???	perché ci sono casi in cui,
-???	il sessaggio col colore,
-???	o il sessaggio all'ala,
+??	perché ci sono casi in cui,
+??	il sessaggio col colore,
+??	o il sessaggio all'ala,
 TO019	non possono essere=eh suffic[ienti].
 TO018	[è il ter]zo caso.
-???	°manca uno.°
+??	°manca uno.°
 TO019	e:::[h],
 TO018	[che è] quello più tradizionale se vuo[le].
 TO019	[quel]lo individuale.
@@ -1478,6 +1478,6 @@ TO019	[°xx xx°]
 TO018	va bene si accomodi.
 TO018	(ac)comodatevi pure.
 TO018	possiamo staccare?
-???	°sì sì°
+??	°sì sì°
 TO018	bellissimo registratore.
 TO018	glielo posso rubare questo registratore?

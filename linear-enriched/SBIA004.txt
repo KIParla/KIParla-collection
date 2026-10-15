@@ -85,7 +85,7 @@ PSB017	qual è la veri[tà]
 PSB025	[era venuto] con (.) con cammello adesso sta girando con
 PSB017	con che cosa
 PSB025	[con la range rover]
-???	[con la macchina]
+??	[con la macchina]
 PSB017	no è sbagliato sono venuto con (.) col gommone
 PSB005	((ride))
 PSB025	°ah bravo°
@@ -261,11 +261,11 @@ PSB005	[sì sì]
 PSB005	e loro [capisco]no
 PSB017	[lingua]
 PSB017	sì sì certo
-???	(nome) abbiamo bisogno di te
+??	(nome) abbiamo bisogno di te
 PSB005	eh [ma prego pre]go
 PSB017	[(eh de)]
 PSB005	io
-???	((registrazione_interrotta))
+??	((registrazione_interrotta))
 PSB005	a:h rico- ri- ri- riproviamo
 PSB005	e:hm
 PSB005	no stavamo dicendo che quando c'è da parlare dei compiti
@@ -632,7 +632,7 @@ PSB025	devi avere la casa sempre
 PSB025	se una ha lavorato esempio cinque anni
 PSB025	lavorava
 PSB025	arriva u- un un certo pu[nto]
-???	[(sì)] tredici c'era anche
+??	[(sì)] tredici c'era anche
 PSB025	perde lavoro (.) ok[ay]
 PSB005	[mh] mh
 PSB025	licenziato::: l'azienda ha fallita non lo so comunque

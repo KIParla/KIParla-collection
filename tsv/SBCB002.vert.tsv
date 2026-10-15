@@ -302,7 +302,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 69-1	PSB093	69	1	s	s	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 69-2	PSB093	69	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 69-3	PSB093	69	3	problem	problem	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=117.187	_	_	_	_
-70-0	???	70	0	#_ xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=117.44|End=120.666	_	_	_	_
+70-0	??	70	0	#_ xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=117.44|End=120.666	_	_	_	_
 71-0	PSB093	71	0	#_ eita	eita	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=121.1	_	_	_	_
 71-1	PSB093	71	1	haray	haray	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 71-2	PSB093	71	2	jabena	jabena	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -323,14 +323,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 71-17	PSB093	71	17	niashbo	niashbo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 71-18	PSB093	71	18	naki	naki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 71-19	PSB093	71	19	khor[bo]	khorbo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=128.5	_	_	_	4-6(27)
-73-0	???	73	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=122.746|End=123.453	_	_	_	0-2(25)
-74-0	??	74	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=124.65|End=125.56	_	_	_	0-3(26)
-75-0	??	75	0	#_ [dorja]	dorja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=128.0	_	_	_	0-5(27)
-75-1	??	75	1	khola	khola	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-75-2	??	75	2	ami	ami	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-75-3	??	75	3	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-75-4	??	75	4	ante	ante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-75-5	??	75	5	[gechilam]	gechilam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=130.56	_	_	_	0-8(28)
+73-0	??	73	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=122.746|End=123.453	_	_	_	0-2(25)
+74-0	???	74	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=124.65|End=125.56	_	_	_	0-3(26)
+75-0	???	75	0	#_ [dorja]	dorja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=128.0	_	_	_	0-5(27)
+75-1	???	75	1	khola	khola	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+75-2	???	75	2	ami	ami	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+75-3	???	75	3	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+75-4	???	75	4	ante	ante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+75-5	???	75	5	[gechilam]	gechilam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=130.56	_	_	_	0-8(28)
 77-0	PSB095	77	0	[°>sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=130.06	_	Fast=0-2(0)	_	0-2(28)
 77-1	PSB095	77	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	Fast=0-2(0)	_	0-2(28)
 77-2	PSB095	77	2	sì<],	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	_	_	Fast=0-2(0)	_	0-2(28)
@@ -375,12 +375,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 86-4	PSB005	86	4	lentamente	lentamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 86-5	PSB005	86	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 86-6	PSB005	86	6	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=144.7	_	_	_	_
-87-0	???	87	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=143.47|End=144.01	_	_	_	_
-88-0	???	88	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=144.35|End=144.76	_	_	_	_
+87-0	??	87	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=143.47|End=144.01	_	_	_	_
+88-0	??	88	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=144.35|End=144.76	_	_	_	_
 89-0	PSB005	89	0	ciao,	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=144.77	_	_	_	_
 89-1	PSB005	89	1	[>ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	0-4(465)
 89-2	PSB005	89	2	ciao<]	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=145.78	_	Fast=0-4(0)	_	0-4(465)
-90-0	??	90	0	#_ [xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=145.092|End=145.945	_	_	_	0-3(465)
+90-0	???	90	0	#_ [xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=145.092|End=145.945	_	_	_	0-3(465)
 91-0	PSB093	91	0	#[ekhn]	ekhn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=145.11	_	_	_	1-5(465)
 91-1	PSB093	91	1	ami	ami	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 91-2	PSB093	91	2	#nilam	nilam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
@@ -401,7 +401,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 91-17	PSB093	91	17	#nhite	nhite	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 91-18	PSB093	91	18	#hobe	hobe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 91-19	PSB093	91	19	#amake	amake	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=151.36	_	_	_	_
-93-0	??	93	0	#_ [xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=147.026|End=148.253	_	_	_	0-3(34)
+93-0	???	93	0	#_ [xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=147.026|End=148.253	_	_	_	0-3(34)
 94-0	PSB005	94	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=151.625	_	_	_	_
 94-1	PSB005	94	1	ripetimi	ripetimi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 94-2	PSB005	94	2	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

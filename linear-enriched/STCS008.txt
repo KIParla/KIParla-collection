@@ -3,21 +3,21 @@ PST125	m[:h]
 PST122	#_ [pero] apaga la televisión no?
 PST123	sì
 PST123	tanto lui non gua:rda
-???	[guardo]
+??	[guardo]
 PST125	[sì: tanto (lui che::)]
 PST122	[non ci sta: non ci sta]nno
 PST122	non ci sono i pigiamask no?
 PST125	vabbè [adesso parliamo in italiano]
-???	[no eh no] [noi siamo] i pigiamask
+??	[no eh no] [noi siamo] i pigiamask
 PST122	[fa]cciamo finta:
 PST122	ah noi?
-???	sì
+??	sì
 PST122	io son~ pigia~ io son[o:]
 PST125	[noi] per esempio anche a lavoro: [parliamo: un mix] [e:h] italiano spagn[olo esatto]
 PST122	[xx]
-???	[sì e io sono]
+??	[sì e io sono]
 PST122	[xx]
-???	[no io]::
+??	[no io]::
 PST125	perché io CERco di parlare in spagnolo però poi ovvia[me:nte mi esce l'ital]iano
 PST096	[eh ce:rto]
 PST127	eh sì
@@ -56,7 +56,7 @@ PST125	[per neces]sità
 PST096	[mhmh]
 PST125	perché se no se non li aiuti tu,
 PST125	[infatti no:i abbia]mo mo:ltissimi clie:nti latini appunto per quello
-PST096	[(mh be:.llo)]
+PST096	[(mh be:llo)]
 PST125	perché: entri a fare il tuo sette e tre:nta e io ti parlo tutto in spagno:lo e tu sei tranquillo e riesci a capire bene quello che stai fa[cendo]
 PST127	[eh]
 PST125	mentre magari vai in un ca:f e:h
@@ -161,15 +161,15 @@ PST127	[eh beh]
 PST127	[(no eh)]
 PST125	no:
 PST125	#_ que pa:sa:
-???	(MA VEDI) XX XX COSA C'è
+??	(MA VEDI) XX XX COSA C'è
 PST125	sh::
 PST122	[cosa ti devo di:re:] ((al_fratellino))
 PST125	VUOI LA TO:RTA:?
-???	MA PERÒ HA DETTO CHE [XX]
+??	MA PERÒ HA DETTO CHE [XX]
 PST125	ma p[erò:]
 PST122	[mado:]nna che xx che sei (cosa ti de[vo) dire:]
 PST125	[vuoi un pezzo di] to:rta:?
-???	X VEDERE (.) SOLO CHE C'è
+??	X VEDERE (.) SOLO CHE C'è
 PST122	che c'è
 PST127	se specializzarmi in qualcosa o no
 PST127	no se no puoi fare anche la: specializzazione in: ingegneria:
@@ -235,13 +235,13 @@ PST123	[per per] due giorni
 PST123	venticinque euro al giorno gli danno più: (.) le partite che fa:: sabato e domenica [che:] [fa l'arbitro]
 PST127	[mh]
 PST122	chiedi alla mamma ((rivolta_al_fratellino))
-???	[mamma] xxx
+??	[mamma] xxx
 PST123	[prende centocinquanta]
 PST125	[xxx]
 PST127	[m:h]
 PST123	a settima[na]
 PST127	[ah m:a: lui (che faceva)]
-???	[mamma xxx]
+??	[mamma xxx]
 PST122	#_ [por favo:r]
 PST123	l'allenatore
 PST127	ah l'alle[natore]
@@ -249,7 +249,7 @@ PST124	[>posso fare io<]
 PST123	[al bacigalupo]
 PST125	[sì sì] (.) [tanto:]
 PST127	[ah al baci]
-???	[mami] (.) [mami voglio (.) voglio la] tor[ta]
+??	[mami] (.) [mami voglio (.) voglio la] tor[ta]
 PST123	[ma due volte a settimana]
 PST123	[più: (.) un giorno di: (.) pratica]
 PST125	#_ [ya mi amor]
@@ -259,7 +259,7 @@ PST125	#_ [dame] un platito dame un platito]
 PST123	[centocinquanta euro]
 PST127	[a:h]
 PST123	[(co:sa ti manca)]
-???	[X X]
+??	[X X]
 PST127	[ma]
 PST123	[(a me va be]ne) seicento euro
 PST127	ce:rto
@@ -275,7 +275,7 @@ PST127	sì
 PST123	lui ha fatto: l'allenatore lui è il presidente dell' associazione:
 PST123	[allenatori della mia città]
 PST127	a:h (.) [be:h]
-???	[cosa c'è]?
+??	[cosa c'è]?
 PST123	[lui] è affiliato e:::h (della) federazione di calcio peruvia[na]
 PST122	[xxxxx]
 PST127	[sì]
@@ -369,22 +369,22 @@ PST123	è difficile però
 PST127	certo
 PST123	quind[i:]
 PST125	[invece] per esempio tira] con la sini:stra e col [destro] destra e sini[stra]
-???	[PAPA']
-???	[PAPA']
+??	[PAPA']
+??	[PAPA']
 PST123	[EHI]
 PST127	a::h [bra:vo]
 PST125	[prima giocava tirava solo col de~] sinistro
-???	[IO SON BRAVO A CALCIO]
+??	[IO SON BRAVO A CALCIO]
 PST127	sì[:]
 PST125	[so]lo sinistro
 PST125	adesso il mio suo:cero quando se lo portava al parc[o gli: gli] ha inse[gnato] >destro sinistro [destro sinistro destro sinistro]<
-???	[PAPA']
+??	[PAPA']
 PST127	[sì:]
-???	[IO SON BRAVO DI CALCIO]
+??	[IO SON BRAVO DI CALCIO]
 PST127	[e:h sì]
 PST123	[tu sei forte]
 PST127	[e:h biso~ bisogna iniziare] fin da pi:cco[li: così ti abi:tui]
-???	[XXX DI] FOR[TE]
+??	[XXX DI] FOR[TE]
 PST125	[sì sì:]
 PST127	[e:h]
 PST125	infatti quello che sta(va) facendo mio suocero è: fare:
@@ -440,19 +440,19 @@ PST125	gli scottex
 PST123	ah prendo questi
 PST123	eccoli
 PST125	scotte:x
-???	scusa papà mi puoi dare un po' di the?
+??	scusa papà mi puoi dare un po' di the?
 PST123	sì::,
-???	tanto
+??	tanto
 PST123	n:el tuo bicchiere [o: nel biberon]
 PST125	[#POQUI:TO]
-???	[sì: di spider]man
+??	[sì: di spider]man
 PST125	#POQUITO
 PST127	di spiderman ((ride))
 PST123	un pochi:no:?
 PST123	un goccio:?
-???	NO (.) [XX]
+??	NO (.) [XX]
 PST125	#_ [este quiere] este [este]
-???	[è] sul tavolo
+??	[è] sul tavolo
 PST125	#_ es[te]
 PST123	[sì] lo so lo so no: [xxx]
 PST125	[a:h pensavo che] prendevi [(là:)]
@@ -460,9 +460,9 @@ PST123	[xxx]
 PST125	eh
 PST125	com'è la to:rta:?
 PST125	è buo:na:?
-???	sì
+??	sì
 PST125	m:h
-???	anche squisita
+??	anche squisita
 PST125	anche squisi:ta:
 PST127	cari:no ((ride))
 PST125	quando il mio suocero dice:
@@ -478,10 +478,10 @@ PST127	((ride))
 PST123	o o alle volte dice spagnolo
 PST125	spagno:lo:
 PST122	#_ en la me:sa por si lo pones ahí
-???	no: tanto:
+??	no: tanto:
 PST123	è [tanto]?
 PST122	[è ta:nto]
-???	no::
+??	no::
 PST127	grazie
 PST125	e come ti chiamano: qualcuno ti chiama o no
 PST127	no: [no:] mi chiamano mister
@@ -560,39 +560,39 @@ PST125	[che non vuoi aspettare]
 PST122	[non vuole fare nie:nte sto bambi:no:]
 PST122	[e non vuoi colora:re non vuoi cammina:re]
 PST125	[ma è pi::ccolo è piccoli:no:]
-???	no (attento)
+??	no (attento)
 PST127	((ride))
 PST122	no non vuoi cammina:re ha detto la maestra
 PST122	[(fai x col na:so)] no
-???	[sì:]
-???	sì: che l'ha detto
+??	[sì:]
+??	sì: che l'ha detto
 PST125	ma è ve:ro che non vuoi fare le cose a scuola
 PST122	che non vuoi neanche fare il sussidia:rio:
 PST122	non col[o:ri:]
-???	[ecco] un attimo
-???	xxxx (.) xx
+??	[ecco] un attimo
+??	xxxx (.) xx
 PST125	#_ con cuida:do:
-???	è meglio xxx
+??	è meglio xxx
 PST125	cosa fai,
-???	x x mettendo il mio costume x in azione
+??	x x mettendo il mio costume x in azione
 PST127	dove vai bomber
 PST122	[il tuo] costume [(per andare)]
-???	[eh]
+??	[eh]
 PST127	[non andare]
 PST125	[dove vai]
 PST127	[dove devi andare]
-???	[in azio]::ne
+??	[in azio]::ne
 PST123	in azione?
-???	sì come i ragni (.) io sono un ragno guarda x
+??	sì come i ragni (.) io sono un ragno guarda x
 PST123	sei un ragno
-???	sì
-???	quindi mi fai passare
+??	sì
+??	quindi mi fai passare
 PST127	do:ve devi passare
-???	qui
+??	qui
 PST125	[si chiede per f]avo:r[e:]
 PST127	[qui dietro:]
 PST123	[e:h]
-???	per favo:re
+??	per favo:re
 PST127	e p[oi]?
 PST125	[eh]
 PST123	[eh]
@@ -607,9 +607,9 @@ PST127	ah dovevi fare il giro così:
 PST123	a:h
 PST127	e:h ci sta ci sta
 PST127	ha senso ((ride))
-???	pi:::m
+??	pi:::m
 PST127	eccolo: ((ride))
-???	ra:n~ (.) ragnatele (.) pam
+??	ra:n~ (.) ragnatele (.) pam
 PST124	vabbè
 PST122	ah con l'ela:stico ((ride))
 PST123	proprio uguale
@@ -704,23 +704,23 @@ PST122	(d'altronde [lo sa:i)]
 PST125	[quando] c'hai a che fare:: son liberi eh
 PST127	lo butto [via va] bene
 PST125	[sì o no]
-???	[no]
-???	NO::
+??	[no]
+??	NO::
 PST127	è spari:to dov'è finito
-???	e::h DI LA':
+??	e::h DI LA':
 PST127	e:h l'ho butta:to eh eh ormai è andato via
-???	una me:[la:]?
+??	una me:[la:]?
 PST123	[vie]ni che ti devo lavare la [mela]
-???	[ME:]LA MELA::
+??	[ME:]LA MELA::
 PST125	ma hai finito la to:rta:
 PST123	sì: [l'ha già finita]
-???	[mh non vog~ (.) SI']
+??	[mh non vog~ (.) SI']
 PST122	[no::]
 PST123	[no:] ha lasciato un pezzo
 PST125	[eh no: finisci la] torta
-???	[non voglio]
+??	[non voglio]
 PST123	[(vuole avere la mela x)]
-???	[ma a me non mi pia:]ce:
+??	[ma a me non mi pia:]ce:
 PST125	e:::h hai detto che era squisi:ta:
 PST122	l'altra volta ha mangiato un'arancia una mela e due mu:ffi:n
 PST122	vorrei solo dire
@@ -734,14 +734,14 @@ PST125	NO NO NO NO NO NO NO
 PST122	mangia proprio la parte schi[fo:sa]
 PST125	[cioè] proprio lì: lo stai mangiando
 PST122	che biricchi:no
-???	tu sei una mel~ una monella
+??	tu sei una mel~ una monella
 PST122	tu sei un monello
-???	no: tu sei una mo~
+??	no: tu sei una mo~
 PST122	tu
 PST122	[io ti porto dalla dottoressa]
-???	[no è papà che un monello] una mone:lla:
+??	[no è papà che un monello] una mone:lla:
 PST122	ah (.) xxx
-???	cos'è
+??	cos'è
 PST122	dai oh
 PST125	((sospira))
 PST125	va bene (.) c'era gente oggi?
@@ -787,34 +787,34 @@ PST123	non ti lasciano fare (dico) ti schiacciano i piedi
 PST125	che co[sa]?
 PST122	[io] sarò la mantenuta più ricca del mo:ndo: ((ride))
 PST122	cosa stai face::ndo:: ma:mma: [mi::a:]
-???	[e io quando è na]tale mi vestirò da: da: [da:]
+??	[e io quando è na]tale mi vestirò da: da: [da:]
 PST122	[da] natale non si traveste tesoro non so in che mondo vivi
-???	da::
+??	da::
 PST125	a nata:le:
 PST122	#_ m:h no [quiere (comprender)]
-???	[da halloween]
-???	x [xx] [x]
+??	[da halloween]
+??	x [xx] [x]
 PST122	[halloween]
 PST125	[ha]:lloween
-???	da halloween mi: vesto da:: da::
-???	que:llo:
+??	da halloween mi: vesto da:: da::
+??	que:llo:
 PST127	questo: ((ride))
 PST125	[da xx]
 PST123	[da spin]
-???	[sì:]
+??	[sì:]
 PST127	da spin
-???	mamma può: (.) comprare il costume di pi::n?
+??	mamma può: (.) comprare il costume di pi::n?
 PST123	di pin
 PST125	va: be:ne
 PST123	pi:n
 PST122	io mi travesto da hulk
-???	p[i::n]
+??	p[i::n]
 PST122	posso vestirmi io da hulk
-???	no:
+??	no:
 PST127	[ma quando è usci][to questo]
 PST122	[perché no]
 PST125	[tu]
-???	[perché: è] un maschio
+??	[perché: è] un maschio
 PST123	eh c'è:: praticamente: mi sembra che c'è spiderman in: tanti: molti:[: (.) multiversi]
 PST122	[è que:sto:]
 PST127	a::h
@@ -852,7 +852,7 @@ PST125	[mh]
 PST122	[adesso] uscirà nel vocale che siamo razzi:sti ((ride))
 PST122	solo è razzista
 PST125	no: lui è [ma:schilista]
-???	[è come xx]
+??	[è come xx]
 PST122	no è cu:lturali:sta (.) lui
 PST125	eh
 PST125	le do:nne guidano la ma:cchina:
@@ -864,45 +864,45 @@ PST125	i supereroi sono so:lo ma:schi:
 PST125	le femminie non possono come no: sì ((ride))
 PST123	°possono anche le femmine xx°
 PST125	chi sono i supereroi i maschi o le femmine
-???	e:h e:h decido io
+??	e:h e:h decido io
 PST123	decido io ((ride))
-???	e::h
-???	vediamo un po':
-???	xxx xxx
+??	e::h
+??	vediamo un po':
+??	xxx xxx
 PST124	ah xx legge il libro di spiderman e poi da lì sceglie
 PST123	vediamo
-???	aspetta un attimo
-???	xxxx a questo xx giocare con le ragnatele
-???	xxx
-???	xxxx x capito niente
-???	eh eh
+??	aspetta un attimo
+??	xxxx a questo xx giocare con le ragnatele
+??	xxx
+??	xxxx x capito niente
+??	eh eh
 PST125	comunque non stai rispondendo alla mia doma:nda: ((ride))
-???	e poi
+??	e poi
 PST123	è apolitico lui
-???	e poi xxx go spider
+??	e poi xxx go spider
 PST127	esa:tto: ((ridendo))
-???	io xx
-???	le lo (.) e le lo pim
-???	e papà [xx]
+??	io xx
+??	le lo (.) e le lo pim
+??	e papà [xx]
 PST125	[e:h (.)
 PST122	[che schifo:so:]
-???	[e va bene] la::: spidey
-???	e lui e lei chi è::?
+??	[e va bene] la::: spidey
+??	e lui e lei chi è::?
 PST122	la [mamma]
 PST125	[eh non lo s]o
-???	x x (.) e:h e::h
+??	x x (.) e:h e::h
 PST122	uh: ma:mma mia:
 PST123	e non ha risposto
 PST122	non [ha rispo:sto:]
 PST125	e [non ha rispos]to
 PST127	[no:] ((ride))
 PST125	comu:nque i ma:schi sono i superero:i o le do:nne:
-???	anche le donne
+??	anche le donne
 PST125	A::::[::H]
 PST122	[ade:sso fai così] no:
-???	anche (.) una femmina xx go spider (.) e i maschi xxx
+??	anche (.) una femmina xx go spider (.) e i maschi xxx
 PST122	e [se io voglio essere] spidey?
-???	[xxxx] è spidey
+??	[xxxx] è spidey
 PST125	a:h la prossima settimana è il tuo complea:nno e:h
 PST127	prossima (.) ah è ve:[ro]
 PST125	[e:]:h [diciotto]
@@ -1254,27 +1254,27 @@ PST125	((ride))
 PST127	((ride))
 PST125	penso tu:tti abbiamo bisogno di soldi
 PST125	tu cosa vuoi fare da grande
-???	m:[:h]
+??	m:[:h]
 PST127	[spi]dey
-???	aspetta vediamo un po'
+??	aspetta vediamo un po'
 PST125	[O::::::::H
 PST122	#_ [O::::::H qué aburre:
-???	da grande:: e:::h a::h xxx xxx xxx
+??	da grande:: e:::h a::h xxx xxx xxx
 PST122	ma tu: che lavoro vuoi fare da grande
-???	m:h
-???	da::
-???	vediamo un po'
+??	m:h
+??	da::
+??	vediamo un po'
 PST125	il poliziotto?
 PST122	l'idraulico?
 PST122	il meccanico?
-???	questo
+??	questo
 PST122	poliziotto?
 PST127	a[:h]
-???	[chase] (.) chase
+??	[chase] (.) chase
 PST125	[un poliz~ ((ride)) chase]
 PST127	[chase (.) vuole fare chase] ((ride))
 PST122	((ride))
-???	[chase]
+??	[chase]
 PST127	one:sto
 PST125	bravo
 PST122	xxx
@@ -1677,37 +1677,37 @@ PST122	vediamo domani guarda domani ho la verifica di:
 PST122	dov'è matematica
 PST125	#_ que estás haciendo
 PST122	di: [sistemi di equazioni di due incognite] [con tutti e quattro i metodi]
-???	[sto prendendo il mio bicchiere]
+??	[sto prendendo il mio bicchiere]
 PST125	[non si prende da lì]
 PST122	e la [retta]
 PST125	#dame il #vaso] #que #te #ha #dado prima #tu #papà
 PST127	come
-???	sì (.) [ma (.)] ma adesso non ce l'ho
+??	sì (.) [ma (.)] ma adesso non ce l'ho
 PST127	[ah la verifica]
 PST122	[su questo (guarda)]
 PST122	scendi da x
 PST125	quello di vetro
 PST127	a:h [ci sta] ci sta
-???	[quello di spiderman]
-???	pim (.) me l'avevi [xxx]
+??	[quello di spiderman]
+??	pim (.) me l'avevi [xxx]
 PST127	[sistemi di equazioni in due incognite]
 PST122	[ti:po la re:tta i sistemi di equaz]ioni
-???	[pim (.) facciamo]
-???	[pum pum pum]
+??	[pim (.) facciamo]
+??	[pum pum pum]
 PST127	[e poi la retta]
-???	[e poi facciamo pum]
+??	[e poi facciamo pum]
 PST127	m[:h]
 PST124	[xx xxxx]
-???	TANTO
+??	TANTO
 PST125	ma tu hai o~ [lezioni obbligato:rie]:
 PST122	#_ [basta amor]
 PST096	[m::h] no
-???	[DI PIU']
+??	[DI PIU']
 PST125	[son tutte::::] [facoltativ]e
-???	[DI PIU' DI PIU' MAMMA DI PIU']
+??	[DI PIU' DI PIU' MAMMA DI PIU']
 PST124	[scendi però]
 PST096	[facoltative]
-???	[MAMMA] [DI PIU']
+??	[MAMMA] [DI PIU']
 PST125	a:[:h]
 PST096	[sì solo i labora]~ (.) ~tori sono:: m:h e:hm frequenza obbligatoria
 PST122	ma in che anno sei di università
@@ -1733,26 +1733,26 @@ PST122	[mi spiace ma]
 PST122	non sono
 PST127	[vieni cucciolo]
 PST127	vie:ni che ti faccio vedere [spidey]
-???	[miau]
+??	[miau]
 PST125	((ride))
 PST127	((ride)) miau
-???	miau:
+??	miau:
 PST124	[o::h]
 PST122	[o::h]
-???	miau:
+??	miau:
 PST127	bau
-???	mia:o
+??	mia:o
 PST124	okay
-???	sono un gatto
+??	sono un gatto
 PST127	sei un gatto?
-???	miao
+??	miao
 PST125	gatto #bo:y
-???	sì
+??	sì
 PST127	gatto #bo:y: ((ridendo))
 PST122	gatto #boy
-???	gattu:no:
+??	gattu:no:
 PST125	[questo è un gatto (però)]
-???	[gattuno è gatto #boy]
+??	[gattuno è gatto #boy]
 PST127	e invece materia preferita
 PST124	io ho cambiato: indirizzo sto facendo il linguistico quindi spagno:lo: (.) [france:]se
 PST127	[m:h]
@@ -1811,15 +1811,15 @@ PST122	vuoi cambiare famiglia?
 PST122	eh allora smet[tila]
 PST125	[chia]miamo un'altra ma:mma:?
 PST122	un'altra sore:lla:?
-???	mhmh
+??	mhmh
 PST122	vai a [vivere con lo]ro eh
 PST127	[sì:]
-???	mhmh
+??	mhmh
 PST122	e allora
 PST127	((ride))
 PST124	((ride))
 PST125	va:bbè:
-???	xx concentrato
+??	xx concentrato
 PST125	sei concentrato
 PST125	e:h?
 PST125	e quindi (.) ba:sta è finita la gi::ta puoi ritornare:: mh
@@ -2055,7 +2055,7 @@ PST127	eh buono
 PST122	#_ °ahí se va [romper]°
 PST125	[perché almeno] così:
 PST125	i:h guarda che lo rompi e:h
-???	[NO:]
+??	[NO:]
 PST125	[ciccio:]
 PST122	te l'ho detto
 PST127	ma che sta facendo
@@ -2265,7 +2265,7 @@ PST124	[a:h]
 PST122	°non stanno assieme°
 PST127	no: n~ no vabbè ma avrete visto altre sto:rie son stato [con un po' di] ragazze
 PST122	[s:ì]
-PST122	h::: ah eh devi pensare allo [studio prima:]
+PST122	mh::: ah eh devi pensare allo [studio prima:]
 PST127	[a:h vabbè no: ma] mia mamma lo sa pure
 PST127	alcune le ha conosciu:te
 PST124	alcu:ne:
@@ -2298,9 +2298,9 @@ PST127	[qualche amico specia:le]
 PST122	[ma quelli se:mpre:]
 PST124	ma come (sempre) ((ridendo))
 PST122	[ma xx (.)] ma #xx
-???	[xxxx] [xx] il letto a castello?
+??	[xxxx] [xx] il letto a castello?
 PST122	no: no:
-???	chi vuole?
+??	chi vuole?
 PST127	il re del [castello]?
 PST122	[no:] ho avuto solo un ragazzo e ba:sta
 PST127	mh
@@ -2351,20 +2351,20 @@ PST122	gra:zie
 PST125	non vuole rispo:n[dere]
 PST122	[(A)MORE:]
 PST122	quante fidanzate hai
-???	sto vedendo quelle (.) [xxxxx]
+??	sto vedendo quelle (.) [xxxxx]
 PST122	[va bene ma rispondimi] quante fidanzate hai
 PST122	una [solo]
 PST127	[xx]
-???	xxx
+??	xxx
 PST125	[A:::::::H]
 PST122	[O:::::::H]
 PST124	da:i [dai]
 PST122	#abu:[rre:]
-???	[una] due
+??	[una] due
 PST125	e::h [sì: sì::]
-???	[e::h e l'ultima]
+??	[e::h e l'ultima]
 PST125	(fai)
-???	è
+??	è
 PST125	e::h le sore:lle:
 PST122	e::h
 PST125	[e::h]
@@ -2472,29 +2472,29 @@ PST122	[ha] pul[ito]
 PST127	[e stai] a po:st[o]
 PST125	[ha puli:~]
 PST122	[quando vuole puli:]re se no
-???	[xxxx xxx] nodo
-???	mamma xxx di lanciare (.) quella pallina
-???	ma dove posso xxare (.) non c'è posto
+??	[xxxx xxx] nodo
+??	mamma xxx di lanciare (.) quella pallina
+??	ma dove posso xxare (.) non c'è posto
 PST125	e:h no
 PST127	°non c'è posto°
 PST124	non c'è po:sto:
-???	[sempre solo di] sopra
+??	[sempre solo di] sopra
 PST125	vabbè vai a vedere sopra
 PST122	u:h mamma mia [domani c'è s]cuo::[la]
-???	[x chi c'è]
+??	[x chi c'è]
 PST125	[papà]
-???	o:h ma ci x (.) stava mangiando la to:rta:
+??	o:h ma ci x (.) stava mangiando la to:rta:
 PST125	m::h
 PST122	stava mangiando la torta ((ride))
 PST125	l'avrà già fini:to tato
-???	no:
+??	no:
 PST127	no ((ride))
 PST124	chi [è tato]
 PST125	#_ DEJA AHI (.) deja ahí deja ahí deja ahí deja ahí
 PST125	#_ no: se toca
-???	cos'è la mia $lampa?
+??	cos'è la mia $lampa?
 PST125	la tua $lampa?
-???	sì: (.) e sa:ltare [xxx]
+??	sì: (.) e sa:ltare [xxx]
 PST122	[quindi adesso non hai nessuna (dici)]
 PST127	m:::::h [no:]
 PST122	[sei un'anima li]bera
@@ -2792,33 +2792,33 @@ PST127	[a:h brava]
 PST122	sì:]
 PST127	io c'ho un s:acco di ritardi
 PST127	[mamma mia]
-???	[MA::MMA]
+??	[MA::MMA]
 PST122	[u::::h]
 PST124	per[ché]
-???	[MA::]MMA
+??	[MA::]MMA
 PST122	perché [non va a scuola]
 PST127	[perché mi sveglio ta:]rdi a volte: [entro in seco:nda] dipende
-???	[MA::MMA]
-???	[MA::MMA]
-???	[domani] [non si va] a scuola?
+??	[MA::MMA]
+??	[MA::MMA]
+??	[domani] [non si va] a scuola?
 PST122	[h:::m]
 PST125	[sì::]
 PST122	[sì che si va a] scuola
 PST127	no: non si va domani
 PST122	#_ ya mañana viene a recogerte
 PST127	s[ì:]
-???	[doma]ni non si va a scuola?
+??	[doma]ni non si va a scuola?
 PST125	sì: che si va a scuo[la]
-???	[no::]
+??	[no::]
 PST122	chi l'ha de:tto
 PST127	ha già capito [tu:tto] ((ridendo))
-???	[tu:]
+??	[tu:]
 PST122	io? io non ho detto niente
-???	sì:
+??	sì:
 PST122	no amo' domani si va a scuola
 PST127	tranquillo
 PST127	devi anda:re
-???	sto facendo un ponte di tutti i colori
+??	sto facendo un ponte di tutti i colori
 PST124	a volte lui balza
 PST127	((ride))
 PST124	ri[mane qua a ca:]sa
@@ -2882,7 +2882,7 @@ PST125	va a scuola anche luglio e ago:sto poveraccio ((ride))
 PST127	[ma:do':]
 PST127	grande
 PST127	ehi come stai
-???	facendo il ponte
+??	facendo il ponte
 PST127	((ride)) [x]
 PST125	[xxx]
 PST127	ma davvero ((ride))
@@ -2901,27 +2901,27 @@ PST127	[sì: sì:]
 PST127	che [(#be:st)]
 PST122	[vanno a nuo:]to
 PST122	cosa [vuoi] di più dalla [vita]
-???	[no::]
-???	[doma]ni non abbiamo il nuoto
+??	[no::]
+??	[doma]ni non abbiamo il nuoto
 PST122	[hai percezioni doma]ni
 PST125	[no::]
-???	sì:
+??	sì:
 PST122	ah
 PST122	cosa fanno a percezioni
 PST127	°tieni
 PST125	cosa fai a percezioni
-???	mi serve per fare il [ponte]
+??	mi serve per fare il [ponte]
 PST122	[asco]ltate la musica a percezioni
 PST127	ti [sta parla:]ndo ti sta parlando
-???	[mi serve:]
+??	[mi serve:]
 PST125	[NO: no no no]
 PST122	[NO: no no] (.) #deja
 PST127	[cosa pre:ndi:]
 PST127	dammi il gel
 PST127	facciamo [scambio] facciamo scambio guarda
-???	[no]
+??	[no]
 PST127	[contemporaneamente]
-???	[no:: io] [vengo] lì co[n te]
+??	[no:: io] [vengo] lì co[n te]
 PST122	[mamma]
 PST122	[venerdì esco con] te io
 PST122	così:
@@ -2932,37 +2932,37 @@ PST122	[anch'i:o:]
 PST127	xx[x]
 PST125	[dopo pran]zo la penniche:lla:
 PST127	sì: e[satto]
-???	[quel ragno mi serve]
+??	[quel ragno mi serve]
 PST125	[a:h due o:re: due ore] di [penniche:lla]
 PST122	[i:o la faccio anco:ra]
-???	[quel ragno mi] ser[ve]
+??	[quel ragno mi] ser[ve]
 PST127	[dimmi cucciolo]
 PST122	[c'è gente che può:] e che [non può]
-???	[quel ragno mi serve]
+??	[quel ragno mi serve]
 PST127	[cosa c'è]
 PST125	mh.
 PST122	[tu ti fai la pennichella
 PST127	[che cos'(è) il ragno]
-???	e:h
+??	e:h
 PST127	[no: io non rie:sco]
-???	[e:h un] ragno [pi~]
+??	[e:h un] ragno [pi~]
 PST127	[no: oggi] sì
 PST127	oggi l'ho [fatta sì]
-???	[del pi~]
+??	[del pi~]
 PST122	io faccio al massimo [dalle tre alle sei]
-???	[mi serve anche pim]
+??	[mi serve anche pim]
 PST127	chi è
 PST124	((ride))
 PST122	xxx [dalle tre alle sei] la pe~
-???	[è un ragno]
+??	[è un ragno]
 PST122	no [in realtà tre sei e me:zza perché poi] arriva (papà) e mi devo svegliare
-???	[è un ragno]
+??	[è un ragno]
 PST124	[ma non l'ho visto io]
-???	è quello (.) [con gli occhi di spi]dey
+??	è quello (.) [con gli occhi di spi]dey
 PST125	[tu fai la pennichella il pomeriggio]
 PST125	no:?
 PST127	[no: ma non l'ho visto]
-???	[e poi xxx]
+??	[e poi xxx]
 PST122	[e cosa fate al pomeri]ggio allora:
 PST127	non l'ho visto
 PST127	io alleno i piccoli: di solito
@@ -2971,27 +2971,27 @@ PST122	[vabbè ma tu perché:]
 PST122	perché devi fare il mi:ste:r
 PST127	dimmi [cucciolo cosa c'è]
 PST122	[tu: rosa cosa fai] al pome[riggio]
-???	[io ho] visto
+??	[io ho] visto
 PST122	se quando [non hai università]
 PST127	[occhio che ti fai male qua] guarda [qua ti fai male guarda]
 PST096	[a vo:lte vado in] pale:stra se no comincio a: sistemare gli appu:nti con ca:lma
 PST096	prima degli [esa:mi]
 PST122	[io dico] sempre ah magari in classe li prendo veloce gli appunti poi dico sì sì: poi arriva a casa e me li faccio in bella
 PST127	[vieni vieni [dai]
-???	[io ho visto] in un: [un ragno]
+??	[io ho visto] in un: [un ragno]
 PST122	[c'ho un ammasso così di appu:nti:] ((ride))
 PST122	[tutti spa:rsi] ((ride))
 PST127	[mi dai un ba]cino
 PST122	[dai un bacio] prima
-???	[con::]
-???	io [ho vis~]
+??	[con::]
+??	io [ho vis~]
 PST127	[cosa c'è]
-???	io ho visto un [ragno]
+??	io ho visto un [ragno]
 PST125	[gua:rda] guarda la
 PST127	un ragno?
 PST127	hai vi:sto:?
 PST127	ti fa paura?
-???	sì:
+??	sì:
 PST127	sì: davvero?
 PST122	con (.) [quello così (diventerà la sua faccia)]
 PST125	[l'altra vol~ hai visto:]
@@ -3002,15 +3002,15 @@ PST127	[a:h sì:] ce l'hanno detto sì
 PST125	m:h
 PST122	minchia sembra un braccio di hu:lk
 PST127	((ride))
-???	mi dai il [ragno]?
+??	mi dai il [ragno]?
 PST122	[grosso così: è:]
 PST125	[e:::: e l:~]
 PST127	[ma quale ragno non lo so do]v'è?
-???	[e l~ e l~ con gli occhi]
+??	[e l~ e l~ con gli occhi]
 PST125	[e lui non si è avvicina:to sabato]
 PST127	[no:: davv]ero
 PST125	e lui: adora eh]
-???	[me lo dai x]?
+??	[me lo dai x]?
 PST125	ma: sabato proprio non l'ha calcola:to
 PST127	((ride)) (vero
 PST122	ma=ha: un coso così: (che io:)]
@@ -3055,7 +3055,7 @@ PST124	[°ah no a dormire no°]
 PST125	[no]
 PST122	[mi hanno invitato a una griglia]ta
 PST122	scu:sami è venuta qua a dormi:re:
-PST122	mi ha (chiesto) xx invito: alla grigl~ h:
+PST122	mi ha (chiesto) xx invito: alla grigl~ eh:
 PST122	perché loro hanno una casa giga:nte:,
 PST122	perché sono fuori milano
 PST122	e han~ e vanno: tutta: tipo: questo nostro retro ma: tipo nel bo:sco quindi molto più grande
@@ -3141,7 +3141,7 @@ PST122	sopra~ i per:~ i: peruviani lì che parla(no) e io gli faccio no: si dice
 PST122	e lui mi fa no: ba:sta #cállate io faccio no
 PST122	quello sì mi piace: correggere la gente anche quando voi sbagliate o quando sbaglia
 PST127	((ride))
-???	xx [xx]
+??	xx [xx]
 PST122	[chi è]?
 PST125	no
 PST122	ma è di ieri:
@@ -3181,16 +3181,16 @@ PST127	quindi [dopo che do la maturità]
 PST125	[a::h subito quando] finisci la maturi[tà::]
 PST127	[mh]
 PST127	[alcuni:]
-???	[mi scappa la] pipì
+??	[mi scappa la] pipì
 PST125	[vai che c'è papà:] vai vai
 PST122	[vai che c'è papà:]
-???	ma io non voglio [xxxx]
+??	ma io non voglio [xxxx]
 PST122	[DA:I c'è papà: no: no:] [no]
 PST125	[vai vai] vai vai vai
 PST125	vai vai vai vai [(che c'è papà)]
 PST122	[e quindi farai] l'archite[tto]
 PST125	[>vai vai vai<]
-???	[no non voglio xxxx]
+??	[no non voglio xxxx]
 PST096	[e:h sì]
 PST125	>[andiamo] andiamo andiamo<
 PST096	[speria:mo]
@@ -3200,11 +3200,11 @@ PST096	((ride))
 PST122	e:h [(s~ sì ci sono)] quelli che costruiscono [le ca~]
 PST096	[va bene]
 PST096	[tieni ti: [ti ridò que:]sto
-???	[ma: no:]
-???	no:
+??	[ma: no:]
+??	no:
 PST122	co:rri [corri che te la fai] addosso
-???	[eccolo]
-???	dov'è la (.) non la s~ (.) non lo xx
+??	[eccolo]
+??	dov'è la (.) non la s~ (.) non lo xx
 PST127	((ride)) poveri:no ((ride))
 PST125	#_ ((ride)) a::y pobrecito [xx]
 PST127	[sì:]
@@ -3315,7 +3315,7 @@ PST127	io faccio il giocato:re
 PST122	mh il giocatore quello che non si
 PST122	però se:i anda:to:
 PST127	[ma:: se~ serate::]
-PST122	[o non sei mai a~ h:: non sei mai] anda:to:?
+PST122	[o non sei mai ah:: non sei mai] anda:to:?
 PST127	no: serate [di soli]to:: in::
 PST122	[o:h]
 PST127	le facciamo: nel #chill: in zo:na
@@ -3433,7 +3433,7 @@ PST124	[taglia]
 PST127	[ta:glia:]
 PST125	°xxxx°
 PST125	xxxx vai di là
-???	°non la voxx xxxx°
+??	°non la voxx xxxx°
 PST122	°(non lavoro)°
 PST124	xxxx
 PST122	boh

@@ -3,7 +3,7 @@ PSB014	posso?
 PSB033	°me lhai mandato°
 PSB014	poggio qua
 PSB035	a:h
-???	((musica))
+??	((musica))
 PSB014	ehm:
 PSB014	vai
 PSB014	[vai tu]?
@@ -38,7 +38,7 @@ PSB035	ehm
 PSB014	[e:]
 PSB033	[perché]?
 PSB035	perché io: vive quasi sette [a:nni]
-???	[gente] °molt~° molto [gentile]
+??	[gente] °molt~° molto [gentile]
 PSB035	[ehm:]
 PSB033	gen[tili]?
 PSB035	[qua c'è] clienti: molto gentile:
@@ -198,7 +198,7 @@ PSB014	[a:h]
 PSB033	[okay]
 PSB033	di che città?
 PSB035	vicina a: [wenzhou]
-???	#_ [nǐ gēn (.)] [zài cǎi] fǎng (.) [yǒu rén zài] cǎi fǎng tā (.) [děng yī xià ò.]
+??	#_ [nǐ gēn (.)] [zài cǎi] fǎng (.) [yǒu rén zài] cǎi fǎng tā (.) [děng yī xià ò.]
 PSB033	[ah]
 PSB035	[vicino a:]
 PSB014	[sud nord]
@@ -636,7 +636,7 @@ PSB014	°x cose: [siamo a posto: vediamo°]
 PSB033	[°okay (.)] vediamo quanto abbiamo fatto?°
 PSB035	quindici [minuti]?
 PSB014	[sì] quindici minuti
-???	((ride))
+??	((ride))
 PSB033	va bene
 PSB014	[e::h sì], noi siamo a [posto]
 PSB035	[xxx]

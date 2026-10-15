@@ -887,7 +887,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 123-3	PST045	123	3	nessuna	nessuna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(57)
 123-4	PST045	123	4	zero	zero	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-4(57)
 123-5	PST045	123	5	(.)]	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(57)
-123-6	PST045	123	6	zer.o.	zer.o.	_	_	_	_	_	error	_	ContainsVariation=No	_	End=233.329	_	_	_	_
+123-6	PST045	123	6	zero.	zero	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=233.329	_	_	_	_
 124-0	PST211	124	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=233.315	_	_	_	_
 124-1	PST211	124	1	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=233.969	0x1	_	_	_
 125-0	PST211	125	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=234.054	_	_	_	_
@@ -1891,7 +1891,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 253-8	PST045	253	8	#ț	ț	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 253-9	PST045	253	9	[con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(115)
 253-10	PST045	253	10	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(115)
-253-11	PST045	253	11	#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(115)
+253-11	PST045	253	11	#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(115)
 253-12	PST045	253	12	î	î	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(115)
 253-13	PST045	253	13	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(115)
 253-14	PST045	253	14	tanto:].	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	End=526.707	4x1	_	_	0-5(115)

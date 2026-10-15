@@ -145,34 +145,34 @@ TO085	sono innamorata
 TO091	ma quindi stai registrando registrando
 TO085	mh
 TO095	vuoi fa' un saluto
-???	ah dai ho già pre~ eh sì prenotato
+??	ah dai ho già pre~ eh sì prenotato
 TO091	hai già prenotato
-???	ho già ho già firmato l'opuscolo quindi posso parlare
+??	ho già ho già firmato l'opuscolo quindi posso parlare
 TO085	hai già firmato esatto
 TO091	io non ho firmato
 TO085	no dopo ti faccio firmare
 TO095	noi ormai siamo schedate
-???	devi mettere nome cognome scrivere istituto
+??	devi mettere nome cognome scrivere istituto
 TO085	esatto
 TO085	voi praticamente posso anche mettervi i microfoni nascosti xxx
 TO091	esatto
-???	mi stai profanando
+??	mi stai profanando
 TO085	non ti profano tesoro no
-???	ma quand'è che devi consegnarlo
+??	ma quand'è che devi consegnarlo
 TO085	già consegnata la vostra
 TO095	è piaciuta
 TO095	abbiam fatto successo
 TO085	è piaciuta c'è stato un po' di vento
-???	tanti bip
+??	tanti bip
 TO085	sì vabbè ma
 TO085	tanto c'era luciana che faceva i bip da sola quindi
-???	ah è vero luciana se l'è presa un po' troppo si no perché lei deve fare questo progetto
-???	boh racconta te io non so
+??	ah è vero luciana se l'è presa un po' troppo si no perché lei deve fare questo progetto
+??	boh racconta te io non so
 TO085	raccogliere dati
 TO091	okay
-???	del gergo giovanile
+??	del gergo giovanile
 TO085	ma non per forza qualsiasi cosa viene fuori è bello
-???	parlata spontanea
+??	parlata spontanea
 TO085	è bello poi studiarlo
 TO091	anche la nonna puoi registrare
 TO085	devo registrare delle nonne
@@ -251,14 +251,14 @@ TO085	ventuno
 TO085	ventuno duecentoundici
 TO085	io vado venite
 TO085	dai minchia venite
-???	a che ore sono
+??	a che ore sono
 TO095	io non li ho mai sentiti non
 TO085	son bravi
 TO091	io li ho sentiti due volte son molto bravi
 TO085	son bravi
 TO085	dieci euro
 TO085	che ore sono
-???	meno un quarto
+??	meno un quarto
 TO095	tu vai a lezione
 TO085	sì
 TO085	devo presentare a antonio
@@ -373,7 +373,7 @@ TO091	sì lo so però so' andata
 TO091	'nsomma so' andata a 'na serata
 TO095	ah sì
 TO095	a manituana
-???	'nsomma
+??	'nsomma
 TO091	al manituana
 TO091	con leo
 TO095	con leo
@@ -392,13 +392,13 @@ TO095	ma do' sta che zona sta
 TO091	sta 'n barriera praticamente dopo il cimitero
 TO085	manituana
 TO095	xxx verso di là
-???	no sta di fronte al cimitero
+??	no sta di fronte al cimitero
 TO095	eh di qua
-???	sì è barriera vicino a corso novara
+??	sì è barriera vicino a corso novara
 TO091	è xxx dall'altro lato non è dal lato mio xxx
-???	no è aurora
-???	no è aurora rega
-???	l'entrata però è dalla parte opposta di corso novara
+??	no è aurora
+??	no è aurora rega
+??	l'entrata però è dalla parte opposta di corso novara
 TO091	vabbè noi dal bunker a piedi il bunker è in barriera
 TO091	da lì a piedi c'avem messo dieci minuti
 TO085	va bene

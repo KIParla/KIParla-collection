@@ -319,16 +319,16 @@ PTD008	semistructured-interview	00:31:09	3	TOR001;TOI058;TOI059	2019	TO	yes
 PTD004	semistructured-interview	01:15:14	4	TOR001;TOI042;TOI043;TOI044	2019	TO	no
 PTD017	semistructured-interview	00:38:22	2	TOR001;TOI078	2019	TO	no
 PTB026	semistructured-interview	01:07:53	3	TOR002;TOI118;TOI119	2019	TO	no
-BXA4001	free-conversation	0:45:51	4	BX001;BX002;BX003;BX004	2021		no
-BZA4001	free-conversation	0:29:08	2	BZ012;BZ009	2022		no
-BZA5001	semistructured-interview	0:21:48	2	BZ001;BZ002	2021		no
-BZA5002	semistructured-interview	0:30:11	2	BZ001;BZ003	2021		no
-BZA5003	semistructured-interview	0:26:26	2	BZ001;BZ004	2021		no
-BZA5004	semistructured-interview	0:37:50	2	BZ001;BZ005	2021		no
-BZA5005	semistructured-interview	0:49:11	2	BZ001;BZ006	2021		no
-BZA5006	semistructured-interview	0:31:15	2	BZ001;BZ007	2021		no
-BZA5007	semistructured-interview	0:19:25	2	BZ010;BZ008	2020		no
-BZA5008	semistructured-interview	0:24:20	2	BZ001;BZ009	2022		no
+BXA4001	free-conversation	00:45:51	4	BX001;BX002;BX003;BX004	2021		no
+BZA4001	free-conversation	00:29:08	2	BZ012;BZ009	2022		no
+BZA5001	semistructured-interview	00:21:48	2	BZ001;BZ002	2021		no
+BZA5002	semistructured-interview	00:30:11	2	BZ001;BZ003	2021		no
+BZA5003	semistructured-interview	00:26:26	2	BZ001;BZ004	2021		no
+BZA5004	semistructured-interview	00:37:50	2	BZ001;BZ005	2021		no
+BZA5005	semistructured-interview	00:49:11	2	BZ001;BZ006	2021		no
+BZA5006	semistructured-interview	00:31:15	2	BZ001;BZ007	2021		no
+BZA5007	semistructured-interview	00:19:25	2	BZ010;BZ008	2020		no
+BZA5008	semistructured-interview	00:24:20	2	BZ001;BZ009	2022		no
 SBCA001	free-conversation	00:46:42	4	PSB033;PSB045;PSB044;PSB043	2025	BO	yes
 SBCA002	free-conversation	00:49:12	3	PSB083;PSB084;PSB085	2025	BO	no
 SBCA003	free-conversation	00:21:27	2	PSB099;PSB100	2025	BO	no

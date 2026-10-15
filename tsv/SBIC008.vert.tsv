@@ -2095,7 +2095,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 395-0	PSB005	395	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=983.987	_	_	_	_
 395-1	PSB005	395	1	tante	tante	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 395-2	PSB005	395	2	persone::	persone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=985.333	6x2	_	_	_
-396-0	???	396	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=985.753|End=987.346	_	_	_	_
+396-0	??	396	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=985.753|End=987.346	_	_	_	_
 397-0	PSB037	397	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=987.567	_	_	_	_
 397-1	PSB037	397	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=988.327	_	_	_	_
 398-0	PSB037	398	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=988.88	_	_	_	_
@@ -3399,7 +3399,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 550-4	PSB005	550	4	certo	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1525.605	_	_	_	_
 551-0	PSB036	551	0	[certo]	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1525.04|End=1525.54	_	_	_	0-5(17)
 552-0	PSB005	552	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1526.18|End=1526.607	_	_	_	_
-553-0	???	553	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1527.826|End=1529.746	_	_	_	_
+553-0	??	553	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1527.826|End=1529.746	_	_	_	_
 554-0	PSB005	554	0	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1530.017	_	_	_	_
 554-1	PSB005	554	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 554-2	PSB005	554	2	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

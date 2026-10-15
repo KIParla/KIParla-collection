@@ -1407,11 +1407,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 188-2	BO073	188	2	facendo	facendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 188-3	BO073	188	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 188-4	BO073	188	4	lavo:ro	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=483.503	3x1	_	_	_
-189-0	???	189	0	xxxxxx	xxxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=6	Begin=484.71	_	_	_	_
-189-1	???	189	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=486.975	_	_	_	_
-190-0	???	190	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=487.286	_	_	_	_
-190-1	???	190	1	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-190-2	???	190	2	xx?	xx	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=488.761	_	_	_	_
+189-0	??	189	0	xxxxxx	xxxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=6	Begin=484.71	_	_	_	_
+189-1	??	189	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=486.975	_	_	_	_
+190-0	??	190	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=487.286	_	_	_	_
+190-1	??	190	1	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+190-2	??	190	2	xx?	xx	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=488.761	_	_	_	_
 191-0	BO021	191	0	[no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=489.356	_	_	_	0-2(64)
 191-1	BO021	191	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(64)
 191-2	BO021	191	2	dispiace]	dispiace	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-8(64)
@@ -1424,7 +1424,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 192-3	BO073	192	3	dispiace	dispiace	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-8(64)
 192-4	BO073	192	4	ciao]	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=490.717	_	_	_	0-4(64)
 193-0	BO073	193	0	[ciao]	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=491.821|End=492.365	_	_	_	0-4(65)
-194-0	???	194	0	[ciao]	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=491.821|End=492.365	_	_	_	0-4(65)
+194-0	??	194	0	[ciao]	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=491.821|End=492.365	_	_	_	0-4(65)
 195-0	BO021	195	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=492.396|End=492.891	_	_	_	_
 196-0	BO073	196	0	e::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=493.28|End=494.219	0x2	_	_	_
 197-0	BO073	197	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=496.628	_	_	_	_
@@ -5405,8 +5405,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 731-8	BO072	731	8	sacco	sacco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 731-9	BO072	731	9	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 731-10	BO072	731	10	cose,	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1862.923	_	_	_	_
-732-0	???	732	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1862.925	_	_	_	_
-732-1	???	732	1	accendino?	accendino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1863.203	_	_	_	_
+732-0	??	732	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1862.925	_	_	_	_
+732-1	??	732	1	accendino?	accendino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1863.203	_	_	_	_
 733-0	BO021	733	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1863.203	_	_	_	_
 733-1	BO021	733	1	certo	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 733-2	BO021	733	2	tieni,	tieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1864.211	_	_	_	_

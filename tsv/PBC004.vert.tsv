@@ -3949,9 +3949,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 533-8	BOI011	533	8	direbbe	direbbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 533-9	BOI011	533	9	dallo	dallo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 533-10	BOI011	533	10	smartphone	smartphone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1396.786	_	_	_	_
-534-0	BOR004	534	0	°mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1396.9	_	_	_	_
-534-1	BOR004	534	1	°		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-534-2	BOR004	534	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1398.499	_	_	_	_
+534-0	BOR004	534	0	°mhmh°	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1396.9	_	_	_	_
+534-2	BOR004	534	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1398.499	_	_	_	_
 535-0	BOI011	535	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1397.409	_	_	_	_
 535-1	BOI011	535	1	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 535-2	BOI011	535	2	alzasse	alzasse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8313,11 +8312,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1143-2	BOI011	1143	2	stai	stai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1143-3	BOI011	1143	3	scomodo	scomodo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1143-4	BOI011	1143	4	te?	te	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=2984.841	_	_	_	_
-1144-0	???	1144	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2984.841	_	_	_	_
-1144-1	???	1144	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1144-2	???	1144	2	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1144-3	???	1144	3	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1144-4	???	1144	4	[anzi]	anzi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2985.989	_	_	_	0-4(20)
+1144-0	??	1144	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2984.841	_	_	_	_
+1144-1	??	1144	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1144-2	??	1144	2	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1144-3	??	1144	3	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1144-4	??	1144	4	[anzi]	anzi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2985.989	_	_	_	0-4(20)
 1145-0	BOI011	1145	0	[i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2985.674	_	_	_	0-1(20)
 1145-1	BOI011	1145	1	di]vertimenti	divertimenti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(20)
 1145-2	BOI011	1145	2	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9776,7 +9775,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1350-2	BOI011	1350	2	tette	tette	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3505.849	_	_	_	_
 1351-0	BOR004	1351	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3505.866	_	_	_	_
 1351-1	BOR004	1351	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=3508.024	_	_	_	_
-1352-0	???	1352	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3506.416|End=3507.102	_	_	_	_
+1352-0	??	1352	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3506.416|End=3507.102	_	_	_	_
 1353-0	BOI011	1353	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3507.491	_	_	_	_
 1353-1	BOI011	1353	1	cremona	cremona	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1353-2	BOI011	1353	2	torrone	torrone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

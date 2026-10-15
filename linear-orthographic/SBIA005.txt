@@ -456,7 +456,7 @@ PSB005	no però io conosco la mia la la vostra non tanto bene
 PSB027	xx
 PSB027	ah
 PSB005	quindi se vuoi spiegare tutto
-???	posso
+??	posso
 PSB005	sì sì certo
 PSB005	voglio sapere tutto del ramadan e del corano di tutto mi vuoi spiegare tutto
 PSB027	ramadan un mese sacro per noi
@@ -994,9 +994,9 @@ PSB027	vai
 PSB027	diciamo a un'agenzia
 PSB027	per affittare un locale o un monolocale o un appartamento
 PSB027	forse ti chiedon ah ce n'è uno prima di te
-???	qualcuno fa le fotocopie di queste
-???	no
-???	posso fare solo
+??	qualcuno fa le fotocopie di queste
+??	no
+??	posso fare solo
 PSB005	sì sì
 PSB005	eh
 PSB005	di l'affitto

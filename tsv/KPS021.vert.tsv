@@ -5270,8 +5270,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 985-3	PKP125	985	3	[detto]	detto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(214)
 985-4	PKP125	985	4	>cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
 985-5	PKP125	985	5	cose<	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1893.567	_	Fast=0-4(0)	_	_
-986-0	PKP127	986	0	[e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1892.782	0x1	_	_	0-1(214)
-986-1	PKP127	986	1	h]	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1893.181	_	_	_	0-1(214)
+986-0	PKP127	986	0	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1892.782|End=1893.181	0x1	_	_	0-2(214)
 987-0	PKP125	987	0	POI	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1894.031	_	_	_	_
 987-1	PKP125	987	1	CHISSà	chissà	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 987-2	PKP125	987	2	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_

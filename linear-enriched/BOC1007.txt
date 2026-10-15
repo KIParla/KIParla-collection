@@ -579,5 +579,5 @@ BO104	arrivederci.
 BO144	arrivederci.
 BO104	sì avanti,
 BO104	salve, ecco abbiamo finito.
-???	grazie mille per la disponibili[tà]
+??	grazie mille per la disponibili[tà]
 BO104	[nie]:nte,

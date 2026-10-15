@@ -131,16 +131,16 @@ BO096	cioè pare che la legge non esiste più che
 BO096	la gente segue solo quello che dice
 BO096	il popolo arrabbiato
 BO096	è un problema
-???	buongiorno
+??	buongiorno
 BO095	buongiorno
-???	onion rings
+??	onion rings
 BO095	grazie
-???	patatine
+??	patatine
 BO095	pure
-???	con bacon xx
-???	nachos e noccioline posso portarli via
+??	con bacon xx
+??	nachos e noccioline posso portarli via
 BO096	sì sì
-???	buon appetito
+??	buon appetito
 BO095	grazie
 BO095	buon pranzo
 BO096	buon pranzo
@@ -529,7 +529,7 @@ BO096	le puntate di prima erano più brutali comunque
 BO095	tu dici
 BO096	cioè
 BO096	ce n'era
-???	tutto bene
+??	tutto bene
 BO095	sì il menu per i dolci per favore
 BO096	ti dicevo
 BO096	sì avevo visto una puntata prima
@@ -644,7 +644,7 @@ BO095	cioè a sentirlo mi deprimo
 BO096	eh sì sì
 BO096	è normale
 BO095	grazie
-???	prego
+??	prego
 BO095	la tentazione più xxx xxxx xx
 BO096	allora
 BO096	come terzo provo pere e cioccolato o mango
@@ -718,7 +718,7 @@ BO095	e quindi questo era scritto nei commenti forse
 BO096	sì xxx
 BO096	eh sì io prendo tre fondant
 BO096	eh uno al caramello cioccolato bianco e mango
-???	mango
+??	mango
 BO096	sì
 BO095	una torta di mele grazie
 BO096	e poi l'avevo visto in un altro video che si sentiva effettivamente la registrazione di quest'uomo che diceva queste cose su michael jackson
@@ -828,7 +828,7 @@ BO096	drogata di zuccheri
 BO096	e poi
 BO096	diciamo
 BO096	xxxxx
-???	apple pie
+??	apple pie
 BO095	qua grazie
 BO095	diglielo tu xxxx xxx
 BO095	io gliel'avevo detto
@@ -931,9 +931,9 @@ BO096	era per natale forse
 BO095	sì era per natal~ in genere i dolci li facciamo per natale perché
 BO096	può essere che c'ero
 BO095	non mi pare xx
-???	ragazze apposto
+??	ragazze apposto
 BO095	sì a posto così
-???	volete un caffè qualcos'altro
+??	volete un caffè qualcos'altro
 BO095	no no nulla
 BO096	allora non avevo partecipato alla insomma
 BO096	alla cucina sicuro però me lo ricordo

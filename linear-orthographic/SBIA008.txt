@@ -559,7 +559,7 @@ PSB005	e tuo marito ru~ è rumeno mi hai detto
 PSB042	sì sì
 PSB005	e lui parla un po' di rumeno con il bimbo o proprio solo italiano
 PSB042	no rom~
-PSB042	sì rumeno ma è fue normale
+PSB042	sì rumeno ma è fue- normale
 PSB042	se la tua lingua materna è
 PSB005	mh
 PSB005	sì
@@ -796,7 +796,7 @@ PSB042	c'è #des cose grigliata #des cose che fare con la riso con~ come le #tur
 PSB005	ah sì ah sì sì
 PSB042	è buono lo sai queste cose che mette la riso
 PSB005	sì sì sì
-PSB042	eh piace allo~ eh è mangiato a #déjà visito la turkish #istanbul e piace
+PSB042	eh piace allo~ eh è mangiato a- #déjà visito la turkish #istanbul e piace
 PSB005	mh okay sì ah che bello molto
 PSB005	istanbul è molto bella
 PSB042	eh mangiato le grigliata #des cose piace e #*le romeni uguale le cose
@@ -1134,7 +1134,7 @@ PSB042	dice alla nome da dio questa bambina o bambino si chiama così
 PSB042	capi~
 PSB005	una specie come da noi il battesimo sì
 PSB042	ma è~
-PSB042	ah ma per mio figlio anda col papà de la per mia permesso
+PSB042	ah ma per mio figlio anda- col papà de la per mia permesso
 PSB005	sì sì
 PSB042	#quand prende la permesso dopo #quand fare mio bambino un anno
 PSB042	eh andare fare una festa compra mio padre pecora e fare festa

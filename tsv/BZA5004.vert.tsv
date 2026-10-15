@@ -153,7 +153,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 15-9	BZ001	15	9	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 15-10	BZ001	15	10	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 15-11	BZ001	15	11	parlato.	parlato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=56.034	_	_	_	_
-16-0	BZ005	16	0	h.	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=56.247|End=56.491	_	_	_	_
+16-0	BZ005	16	0	.h	.h	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=56.247|End=56.491	_	_	_	_
 17-0	BZ005	17	0	[lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=56.569	_	_	_	0-2(2)
 17-1	BZ005	17	1	par-]	par-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	0-4(2)
 17-2	BZ005	17	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -263,7 +263,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 36-13	BZ005	36	13	nove	nove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
 36-14	BZ005	36	14	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
 36-15	BZ005	36	15	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-1(0)	_	_
-36-16	BZ005	36	16	quin[di:],<	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=98.583	5x1	Fast=0-6(0)	_	4-6(10)
+36-16	BZ005	36	16	quin[di:,]<	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=98.583	5x1	Fast=0-6(0)	_	4-6(10)
 37-0	BZ001	37	0	[certo],	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=98.118|End=98.526	_	_	_	0-5(10)
 38-0	BZ005	38	0	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=99.214	_	_	_	_
 38-1	BZ005	38	1	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -740,7 +740,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 108-10	BZ005	108	10	fare]	fare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(33)
 108-11	BZ005	108	11	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 108-12	BZ005	108	12	linguistico,	linguistico	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=269.884	_	_	_	_
-109-0	BZ001	109	0	[((h.))]	((h.))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=268.81|End=269.166	_	_	_	X(33)
+109-0	BZ001	109	0	[((.h))]	((.h))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=268.81|End=269.166	_	_	_	X(33)
 110-0	BZ001	110	0	okay,	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=270.541|End=270.914	_	_	_	_
 111-0	BZ005	111	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=271.132	_	_	_	_
 111-1	BZ005	111	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -772,7 +772,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 114-7	BZ005	114	7	strada	strada	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 114-8	BZ005	114	8	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 114-9	BZ005	114	9	realtà.	realtà	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=285.128	_	_	_	_
-115-0	BZ001	115	0	[h.]	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=285.471|End=285.845	_	_	_	0-1(36)
+115-0	BZ001	115	0	[.h]	.h	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=285.471|End=285.845	_	_	_	X(36)
 116-0	BZ005	116	0	[per]ché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=285.724	_	_	_	0-3(36)
 116-1	BZ005	116	1	mh:,	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=286.878	1x1	_	_	_
 117-0	BZ005	117	0	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=287.076	_	_	_	_
@@ -2161,7 +2161,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 295-16	BZ005	295	16	portoghesi	portoghesi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 295-17	BZ005	295	17	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 295-18	BZ005	295	18	che,	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=795.029	_	_	_	_
-296-0	BZ001	296	0	[h.:]	h.:	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=792.634|End=793.139	_	_	_	0-1(81)
+296-0	BZ001	296	0	[.h:]	.h:	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=792.634|End=793.139	_	_	_	X(81)
 297-0	BZ001	297	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=795.123	_	_	_	_
 297-1	BZ001	297	1	canzoni	canzoni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 297-2	BZ001	297	2	sono?	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=795.881	_	_	_	_
@@ -2565,8 +2565,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 348-7	BZ005	348	7	faceva	faceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 348-8	BZ005	348	8	un'	un'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 348-9	BZ005	348	9	analisi	analisi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-348-10	BZ005	348	10	di,.	di,.	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-348-11	BZ005	348	11	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=948.246	_	_	_	_
+348-10	BZ005	348	10	di,	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
+348-11	BZ005	348	11	.h	.h	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=948.246	_	_	_	_
 349-0	BZ005	349	0	eh:m	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=948.646	1x1	_	_	_
 349-1	BZ005	349	1	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 349-2	BZ005	349	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2792,7 +2792,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 367-22	BZ005	367	22	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 367-23	BZ005	367	23	dalle	dalle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 367-24	BZ005	367	24	registrazioni:,	registrazioni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1032.951	12x1	_	_	_
-368-0	BZ001	368	0	[h.]	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1028.695|End=1029.182	_	_	_	0-1(90)
+368-0	BZ001	368	0	[.h]	.h	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1028.695|End=1029.182	_	_	_	X(90)
 369-0	BZ005	369	0	no-	no-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=1033.382	_	_	_	_
 369-1	BZ005	369	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 369-2	BZ005	369	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2935,7 +2935,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 388-8	BZ005	388	8	siano]	siano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(96)
 388-9	BZ005	388	9	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 388-10	BZ005	388	10	utili,	utili	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1082.656	_	_	_	_
-389-0	BZ001	389	0	[h.]	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1081.137|End=1081.837	_	_	_	0-1(96)
+389-0	BZ001	389	0	[.h]	.h	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1081.137|End=1081.837	_	_	_	X(96)
 390-0	BZ005	390	0	eh:	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1084.181	1x1	_	_	_
 390-1	BZ005	390	1	col	col	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 390-2	BZ005	390	2	tedesco	tedesco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3189,7 +3189,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 419-4	BZ001	419	4	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 419-5	BZ001	419	5	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 419-6	BZ001	419	6	intendi?	intendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1188.106	_	_	_	_
-420-0	BZ005	420	0	h.	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1188.318	_	_	_	_
+420-0	BZ005	420	0	.h	.h	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1188.318	_	_	_	_
 420-1	BZ005	420	1	metodologia	metodologia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 420-2	BZ005	420	2	<nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-3(0)	_	_
 420-3	BZ005	420	3	senso	senso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-5(0)	_	_
@@ -3491,7 +3491,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 453-6	BZ005	453	6	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 453-7	BZ005	453	7	ecco	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 453-8	BZ005	453	8	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1297.613	_	_	_	_
-454-0	BZ005	454	0	h.	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1298.269|End=1298.857	_	_	_	_
+454-0	BZ005	454	0	.h	.h	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1298.269|End=1298.857	_	_	_	_
 455-0	BZ005	455	0	e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1299.107	0x2	_	_	_
 455-1	BZ005	455	1	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 455-2	BZ005	455	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3776,8 +3776,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 496-26	BZ005	496	26	boh	boh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1405.937	_	_	_	_
 497-0	BZ005	497	0	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1406.18	_	_	_	_
 497-1	BZ005	497	1	regole	regole	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-497-2	BZ005	497	2	ortografiche,.	ortografiche,.	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-497-3	BZ005	497	3	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
+497-2	BZ005	497	2	ortografiche,	ortografiche	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
+497-3	BZ005	497	3	.h	.h	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 497-4	BZ005	497	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 497-5	BZ005	497	5	eh:	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
 497-6	BZ005	497	6	ai	ai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

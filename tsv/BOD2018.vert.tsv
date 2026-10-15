@@ -1234,12 +1234,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 123-4	BO140	123	4	tavolo	tavolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 123-5	BO140	123	5	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 123-6	BO140	123	6	cucina::,	cucina	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	5x2	_	_	_
-123-7	BO140	123	7	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-123-8	BO140	123	8	h:	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
-123-9	BO140	123	9	stavam	stavam	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-123-10	BO140	123	10	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-123-11	BO140	123	11	tutte	tutte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-123-12	BO140	123	12	insieme.	insieme	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=474.43	_	_	_	_
+123-7	BO140	123	7	eh:	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
+123-9	BO140	123	8	stavam	stavam	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+123-10	BO140	123	9	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+123-11	BO140	123	10	tutte	tutte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+123-12	BO140	123	11	insieme.	insieme	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=474.43	_	_	_	_
 124-0	BO118	124	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=474.43	_	_	_	_
 124-1	BO118	124	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 124-2	BO118	124	2	eran	eran	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

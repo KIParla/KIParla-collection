@@ -3205,8 +3205,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 563-7	TOI117	563	7	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 563-8	TOI117	563	8	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 563-9	TOI117	563	9	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
-563-10	TOI117	563	10	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-563-11	TOI117	563	11	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1182.453	_	_	_	_
+563-10	TOI117	563	10	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1182.453	_	_	_	_
 564-0	TOI117	564	0	finisci	finisci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1182.555	_	_	_	_
 564-1	TOI117	564	1	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 564-2	TOI117	564	2	perché:	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1184.169	5x1	_	_	_

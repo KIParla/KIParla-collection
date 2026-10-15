@@ -184,6 +184,7 @@ TO094	0-Students	F	TOA3013	lombardia	21-25
 TO095	0-Students	F	TOA3014	umbria	21-25	
 TO999	2-Professionals	M	TOD2001;TOD2002;TOD2003;TOD2004;TOD2006;BOD2001;BOA1025;BOD1001	piemonte	26-30	
 TO049	_	_	TOA3007	_	_	
+??	_	_	BOA1002;BOA1004;BOA1016;BOA3001;BOA3002;BOA3004;BOA3006;BOA3010;BOA3016;BOA3019;BOC1002;BOC1003;BOC1004;BOC1005;BOC1007;BOC1009;BOD1001;BOD1003;BOD1004;BOD1005;BOD1006;BOD1010;BOD1011;BOD2005;BOD2006;BOD2014;TOA1001;TOA1002;TOA1003;TOA1004;TOA1005;TOA3001;TOA3004;TOA3012;TOA3014;TOC1001;TOC1002;TOC1003;TOC1004;TOC1007;TOD1002;TOD1005;TOD1005bis;TOD1008;TOD1014;TOD1015;TOD1016;TOD2002;TOD2010;TOD2013;TOD2014;TOD2015	_	_	
 PKP001	0-Students	F	KPS006;KPS005	basilicata	21-25	university-degree-ongoing
 PKP003	0-Students	M	KPS005;KPS006	basilicata	16-20	university-degree-ongoing
 PKP004	2-Professionals	F	KPS005;KPS006	puglia	51-55	technical-vocational-diploma
@@ -329,6 +330,7 @@ PKP146	3-Technicians	M	KPN018	veneto	56-60	technical-vocational-diploma
 PKP147	0-Students	F	KPC011	umbria	21-25	university-degree-ongoing
 PKP148	0-Retired	M	KPC011	toscana	81-85	primary-school
 PKP149	0-Retired	F	KPC011	toscana	76-80	primary-school
+environment	_	_	KPS007	_	_	_
 BOI001	4-Clerical-Workers	M	PBC001	emilia-romagna	61-65	technical-vocational-diploma
 BOI002	5-Service-Workers	F	PBB001	estero	51-55	liceo-diploma
 BOI003	4-Clerical-Workers	F	PBB002	emilia-romagna	56-60	technical-vocational-diploma
@@ -560,6 +562,7 @@ TOR007	0-Students	F	PTB015;PTB023	lombardia	21-25	university-degree-ongoing
 TOR009	0-Students	F	PTB021;PTD011;PTB020;PTB019	sicilia	21-25	university-degree-ongoing
 TOR010	N/A	F	PTD013;PTD014	piemonte	N/A	university-degree
 TOR015	2-Professionals	M	PTB024	piemonte	31-35	phd
+???	_	_	PTB014	_	_	_
 BZ001	2-Professionals	M	BZA5001;BZA5002;BZA5003;BZA5004;BZA5005;BZA5006;BZA5008	trentino-alto-adige	21-25	university-degree
 BZ002	2-Professionals	F	BZA5001	trentino-alto-adige	21-25	university-degree
 BZ003	0-Students	F	BZA5002	trentino-alto-adige	21-25	university-degree
@@ -852,3 +855,6 @@ PST220	0-Students	F	STIA020;STCS003	liguria	21-25	university-degree-ongoing
 PST222	0-Students	M	STIA022;STCA009;STCA010	egitto	26-30	university-degree
 PST223	0-Students	F	STIA016	piemonte	21-25	university-degree-ongoing
 PST225	0-Students	F	STIS003	piemonte	21-25	university-degree-ongoing
+????	_	_	STCA002;STCA003;STCR003;STCR006;STCR007;STCR008	_	_	_
+?????	_	_	STCA003;STCR006	_	_	_
+??????	_	_	STCR006	_	_	_

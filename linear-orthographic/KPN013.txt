@@ -205,19 +205,19 @@ PKP058	brava
 PKP057	sì
 PKP058	poi anche quello chilli
 PKP059	pollo chilli
-???	il pollo tandoori sono coscette il chicken tandoori
+??	il pollo tandoori sono coscette il chicken tandoori
 PKP058	sì
 PKP059	sì
 PKP057	sì
-???	okay invece il pollo chilli chilli chicken
+??	okay invece il pollo chilli chilli chicken
 PKP057	sì
 PKP058	sì
 PKP059	sì
-???	okay
+??	okay
 PKP057	poi prendiamo
 PKP058	le lenticchie
 PKP057	le lenticchie
-???	gialle karkadè
+??	gialle karkadè
 PKP058	sì
 PKP057	sì
 PKP057	e le cime di rapa
@@ -226,28 +226,28 @@ PKP058	il riso con le verdure
 PKP059	il riso con le verdure
 PKP058	e del pane normale
 PKP057	e il pane semplice
-???	okay
-???	volete tutto insieme
+??	okay
+??	volete tutto insieme
 PKP057	vogliam tutto insieme
 PKP058	ma sergio viene giusto
 PKP058	cioè
 PKP057	cioè
 PKP058	nel senso
 PKP058	mangiamo tutti e tutto
-???	okay
+??	okay
 PKP057	sì ci dividiamo tutto quindi
-???	okay quindi xx facciamo il chicken tandoori con il naan e dopo i primi
+??	okay quindi xx facciamo il chicken tandoori con il naan e dopo i primi
 PKP058	va bene
 PKP057	sì
 PKP059	va bene
-???	perché pensavo che ognuno avesse il suo e invece xx xx condividete tutto
+??	perché pensavo che ognuno avesse il suo e invece xx xx condividete tutto
 PKP058	no no tutto insieme condividiamo
 PKP057	sì sì ci dividiamo
-???	e da bere siete a posto così
+??	e da bere siete a posto così
 PKP057	per orasì
 PKP058	sì
 PKP057	grazie
-???	il livello del piccanto basso medio
+??	il livello del piccanto basso medio
 PKP059	basso
 PKP057	per me med~
 PKP059	eh
@@ -262,9 +262,9 @@ PKP059	eh
 PKP058	ah
 PKP057	no no va bene bassa
 PKP059	va bene bassa
-???	vi prendo solo via i calici
+??	vi prendo solo via i calici
 PKP058	sì grazie
-???	grazie a voi
+??	grazie a voi
 PKP058	gia lo so che siamo tristi
 PKP057	no
 PKP059	no anche a me piace piccante io l'ho detto per te x
@@ -492,7 +492,7 @@ PKP059	zona espositiva musei
 PKP059	oppure c'era un frantoio in umbria che xx
 PKP057	eccolo
 PKP058	bello
-???	le coscette di pollo
+??	le coscette di pollo
 PKP057	sì
 PKP058	grazie
 PKP059	grazie
@@ -563,7 +563,7 @@ PKP057	direi che siamo a cavallo
 PKP058	top
 PKP058	sai già qualcosa
 PKP057	devo prendere accordo con lui su cosa usare com~
-???	xx xx semplice
+??	xx xx semplice
 PKP058	grazie
 PKP059	grazie
 PKP057	mamma che buono
@@ -612,10 +612,10 @@ PKP057	eh ehm cose che dovevam recuperare così
 PKP057	siamo stati un sacco impegnati fino a circa metà settembre
 PKP058	mhmh
 PKP057	quindi fino a poco tempo fa
-???	cime di rapa
+??	cime di rapa
 PKP057	sì
 PKP057	grazie
-???	xxx ordine
+??	xxx ordine
 PKP058	grazie
 PKP057	grazie
 PKP057	ehm e niente
@@ -678,16 +678,16 @@ PKP057	che non so bene come si divida
 PKP059	non lo toglie
 PKP058	gia finiamo il tè
 PKP058	xx maestria
-???	xx le lenticchi gialle
+??	xx le lenticchi gialle
 PKP057	grazie appoggia pure
 PKP059	grazie
-???	metto in mezzo
+??	metto in mezzo
 PKP058	sì dai
 PKP057	sì sì tanto dividi~
-???	e qua c'è il chilli chicken
+??	e qua c'è il chilli chicken
 PKP057	benissimo
 PKP058	grazie
-???	che è pollo fatto con verdure xx e salsa piccante
+??	che è pollo fatto con verdure xx e salsa piccante
 PKP057	grazie
 PKP059	grazie
 PKP058	rega facciamo una storia alla nostra tavolta bellissima davvero
@@ -1387,7 +1387,7 @@ PKP057	c'è stato un momento in cui ha fatto una battuta all'irene
 PKP057	cioè noi ci siamo tipo ghiacciate da
 PKP057	dal cringe assoluto
 PKP057	l'irene lì
-???	siete a posto
+??	siete a posto
 PKP057	sì gra~ sì sì a posto
 PKP058	sì
 PKP059	sì
@@ -1436,11 +1436,11 @@ PKP059	però lei ha cominciato da falsa prima
 PKP057	sì sì
 PKP057	ma infatti
 PKP057	cioè meno male che ci sono le altre perché
-???	xx dolce caffè
+??	xx dolce caffè
 PKP057	ma io prendo il caffè
 PKP059	io sono a posto
 PKP058	anch'io caffè
-???	due caffè
+??	due caffè
 PKP057	sì grazie
 PKP057	e mh
 PKP057	e sì

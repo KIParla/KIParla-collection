@@ -2020,7 +2020,7 @@ PSB033	[io mettevo sempre il ro]ss[etto]
 PSB044	[ma il ro]ssetto rosso oltretutto
 PSB043	okay
 PSB044	la professoressa questa qua di matematica passava pe~ pe~
-???	((suona_il_citofono))
+??	((suona_il_citofono))
 PSB044	e::::h passavano per i banchi così stava spiegando
 PSB044	a un certo punto vedi la
 PSB044	completamente <disinteressata> a tutto quello che la professoressa stava dicendo
@@ -2043,13 +2043,13 @@ PSB044	[no::]: no:: (ti) sei messa
 PSB044	°lei°
 PSB044	neri:::
 PSB044	ma cosa fai::: ti metti il rossetto in classe io sto spiegando
-???	ciao
+??	ciao
 PSB044	cia::[:o:]
 PSB033	[cia::]o:
 PSB044	ciao
 PSB033	°aveva ragi[one]°
 PSB043	[ci]ao
-???	[serve una] mano?
+??	[serve una] mano?
 PSB043	a posto
 PSB033	mh
 PSB043	((ride))
@@ -2062,7 +2062,7 @@ PSB044	sì sì mi ricordo ch[e]
 PSB033	[sì:]: [sì sì]
 PSB044	[ci sia]mo visti un'altra volta
 PSB043	okay
-???	altre due volte penso
+??	altre due volte penso
 PSB033	sì:::
 PSB044	sì::[: sì::]
 PSB033	[i due compleanni de]lla fa[tima]
@@ -2075,8 +2075,8 @@ PSB045	[sì]
 PSB045	°sì sì sì°
 PSB043	okay
 PSB043	vuoi mangiare qua?
-???	sì sì vado a prepara(re)
-???	(mo torno)
+??	sì sì vado a prepara(re)
+??	(mo torno)
 PSB043	okay
 PSB044	°ma s'è fatto bello però°
 PSB045	((ride))
@@ -2322,7 +2322,7 @@ PSB043	cosa vuol dire adesso (mi) ascoltami cosa vuol dire puttana
 PSB033	((ride))
 PSB045	((ride))
 PSB044	((ride))
-???	cosa?
+??	cosa?
 PSB045	per finire ((ride))
 PSB033	((ride))
 PSB043	ah?
@@ -2340,7 +2340,7 @@ PSB045	((ride)) c(io)è
 PSB045	ma
 PSB045	vabbè
 PSB033	così che vuol di~
-???	che ha detto?
+??	che ha detto?
 PSB033	m:h
 PSB033	okay
 PSB045	mi ha chiesto cosa vuol dire puttana

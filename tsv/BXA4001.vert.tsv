@@ -330,7 +330,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 43-2	BX002	43	2	li	li	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	0-2(13)
 43-3	BX002	43	3	trovi	trovi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	0-5(13)
 43-4	BX002	43	4	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-1(0)	_	0-1(13)
-43-5	BX002	43	5	soldi<?]	soldi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=98.581	_	Fast=0-5(0)	_	0-5(13)
+43-5	BX002	43	5	soldi?<]	soldi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=98.581	_	Fast=0-5(0)	_	0-5(13)
 44-0	BX001	44	0	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=98.606	_	_	_	_
 44-1	BX001	44	1	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 44-2	BX001	44	2	comunità::	comunità	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	7x2	_	_	_
@@ -6000,7 +6000,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 770-4	BX001	770	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 770-5	BX001	770	5	[>(funziona)	funziona	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-8(0)	0-8(0)	0-8(345)
 770-6	BX001	770	6	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-7(0)	_	0-7(345)
-770-7	BX001	770	7	bene<.]	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|PauseAfter=Yes	_	_	Fast=0-4(0)	_	0-4(345)
+770-7	BX001	770	7	bene.<]	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|PauseAfter=Yes	_	_	Fast=0-4(0)	_	0-4(345)
 770-8	BX001	770	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 770-9	BX001	770	9	xx,	xx	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1997.672	_	_	_	_
 771-0	BX002	771	0	[(si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1995.492	_	_	_	0-2(345)

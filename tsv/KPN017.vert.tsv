@@ -1,5 +1,5 @@
 token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
-0-0	???	0	0	((televisione_accesa_di_sottofondo))	((televisione_accesa_di_sottofondo))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.0|End=4.732	_	_	_	_
+0-0	??	0	0	((televisione_accesa_di_sottofondo))	((televisione_accesa_di_sottofondo))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.0|End=4.732	_	_	_	_
 1-0	PKP061	1	0	sentiamo	sentiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	_	_
 1-1	PKP061	1	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1-2	PKP061	1	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.045	_	_	_	_
@@ -1760,13 +1760,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 284-1	PKP061	284	1	giù.	giù	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
 284-2	PKP061	284	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 284-3	PKP061	284	3	o:ke:y	okey	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=955.737	0x1,2x1	_	_	_
-285-0	???	285	0	((squilla_un_telefono))	((squilla_un_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=966.469|End=967.768	_	_	_	_
+285-0	??	285	0	((squilla_un_telefono))	((squilla_un_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=966.469|End=967.768	_	_	_	_
 286-0	PKP061	286	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=967.768	_	_	_	_
 286-1	PKP061	286	1	forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 286-2	PKP061	286	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 286-3	PKP061	286	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 286-4	PKP061	286	4	papà.	papà	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=969.433	_	_	_	_
-287-0	???	287	0	((squilla_un_telefono))	((squilla_un_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=974.885|End=976.701	_	_	_	_
+287-0	??	287	0	((squilla_un_telefono))	((squilla_un_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=974.885|End=976.701	_	_	_	_
 288-0	PKP061	288	0	pronto	pronto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=976.701	_	_	_	_
 288-1	PKP061	288	1	papi?	papi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=977.833	_	_	_	_
 289-0	PKP061	289	0	((al_telefono))	((al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=978.895	_	_	_	_
@@ -2139,9 +2139,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 338-0	PKP061	338	0	°xxxxxx	xxxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=6	Begin=1148.571	_	_	_	_
 338-1	PKP061	338	1	tre	tre	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 338-2	PKP061	338	2	giorni::	giorni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	5x2	_	_	_
-338-3	PKP061	338	3	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-338-4	PKP061	338	4	°		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-338-5	PKP061	338	5	((bisbiglia))	((bisbiglia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1154.653	_	_	_	_
+338-3	PKP061	338	3	poi°	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+338-5	PKP061	338	4	((bisbiglia))	((bisbiglia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1154.653	_	_	_	_
 339-0	PKP057	339	0	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1159.618	_	_	_	_
 339-1	PKP057	339	1	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 339-2	PKP057	339	2	truccata	truccata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

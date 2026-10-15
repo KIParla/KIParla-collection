@@ -1977,9 +1977,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 262-12	BO113	262	12	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 262-13	BO113	262	13	[certe	certe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(2)
 262-14	BO113	262	14	cose],	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=775.793	_	_	_	0-4(2)
-263-0	???	263	0	[arrivederci]	arrivederci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=775.116	_	_	_	0-11(2)
-263-1	???	263	1	bella	bella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-263-2	???	263	2	gente	gente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=776.336	_	_	_	_
+263-0	??	263	0	[arrivederci]	arrivederci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=775.116	_	_	_	0-11(2)
+263-1	??	263	1	bella	bella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+263-2	??	263	2	gente	gente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=776.336	_	_	_	_
 264-0	BO115	264	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=776.67	_	_	_	_
 264-1	BO115	264	1	ara.	ara	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=777.33	_	_	_	_
 265-0	BO113	265	0	oh	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=777.33	_	_	_	_
@@ -1987,7 +1987,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 265-2	BO113	265	2	aro,	aro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 265-3	BO113	265	3	buon	buon	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 265-4	BO113	265	4	esame.	esame	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=778.83	_	_	_	_
-266-0	???	266	0	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=779.125|End=779.641	_	_	_	_
+266-0	??	266	0	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=779.125|End=779.641	_	_	_	_
 267-0	BO115	267	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=780.24	_	_	_	_
 267-1	BO115	267	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 267-2	BO115	267	2	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

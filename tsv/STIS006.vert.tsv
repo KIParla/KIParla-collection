@@ -5115,7 +5115,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 499-8	PST043	499	8	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 499-9	PST043	499	9	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 499-10	PST043	499	10	piccolo	piccolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-499-11	PST043	499	11	(n.ove	n.ove	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+499-11	PST043	499	11	nove	nove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 499-12	PST043	499	12	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 499-13	PST043	499	13	avrò	avrò	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 499-14	PST043	499	14	avuto	avuto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

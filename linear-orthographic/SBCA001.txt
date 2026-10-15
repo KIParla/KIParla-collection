@@ -1859,13 +1859,13 @@ PSB044	no no ti sei messa
 PSB044	lei
 PSB044	neri
 PSB044	ma cosa fai ti metti il rossetto in classe io sto spiegando
-???	ciao
+??	ciao
 PSB044	ciao
 PSB033	ciao
 PSB044	ciao
 PSB033	aveva ragione
 PSB043	ciao
-???	serve una mano
+??	serve una mano
 PSB043	a posto
 PSB033	mh
 PSB044	ciao
@@ -1875,7 +1875,7 @@ PSB044	sì sì mi ricordo che
 PSB033	sì sì sì
 PSB044	ci siamo visti un'altra volta
 PSB043	okay
-???	altre due volte penso
+??	altre due volte penso
 PSB033	sì
 PSB044	sì sì
 PSB033	i due compleanni della fatima
@@ -1888,8 +1888,8 @@ PSB045	sì
 PSB045	sì sì sì
 PSB043	okay
 PSB043	vuoi mangiare qua
-???	sì sì vado a preparare
-???	mo torno
+??	sì sì vado a preparare
+??	mo torno
 PSB043	okay
 PSB044	ma s'è fatto bello però
 PSB043	è cresciuto
@@ -2104,7 +2104,7 @@ PSB033	ah io anche ho fatto ogni tanto dò una cucchiaiatina
 PSB044	no perché è troppo buon~
 PSB043	i~ io faccio faccio una domanda io
 PSB043	cosa vuol dire adesso mi ascoltami cosa vuol dire puttana
-???	cosa
+??	cosa
 PSB045	per finire
 PSB043	ah
 PSB043	e sì sì ma
@@ -2116,7 +2116,7 @@ PSB045	cioè
 PSB045	ma
 PSB045	vabbè
 PSB033	così che vuol di~
-???	che ha detto
+??	che ha detto
 PSB033	mh
 PSB033	okay
 PSB045	mi ha chiesto cosa vuol dire puttana

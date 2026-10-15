@@ -156,11 +156,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 25-2	BO087	25	2	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(9)
 25-3	BO087	25	3	capito].	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=65.239	_	_	_	0-6(9)
 26-0	BO087	26	0	AVANTI.	avanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=High	Begin=65.333|End=66.12	_	_	_	_
-27-0	???	27	0	buongiorno.	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=68.521|End=69.296	_	_	_	_
+27-0	??	27	0	buongiorno.	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=68.521|End=69.296	_	_	_	_
 28-0	BO087	28	0	buongiorno.	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=69.439|End=70.18	_	_	_	_
-29-0	???	29	0	attendo.	attendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=70.256	_	_	_	_
-29-1	???	29	1	attendo	attendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-29-2	???	29	2	fuori.	fuori	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=71.26	_	_	_	_
+29-0	??	29	0	attendo.	attendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=70.256	_	_	_	_
+29-1	??	29	1	attendo	attendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+29-2	??	29	2	fuori.	fuori	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=71.26	_	_	_	_
 30-0	BO087	30	0	grazie.	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=71.26|End=71.96	_	_	_	_
 31-0	BO090	31	0	beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=72.597	_	_	_	_
 31-1	BO090	31	1	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

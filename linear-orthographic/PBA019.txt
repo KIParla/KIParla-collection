@@ -372,7 +372,7 @@ BOI084	c'è tutto fondamentalmente i prezzi so' un po' alti però se ti sai muov
 BOI084	trovi prezzi contenuti sia per il cibo che per l'alcool o per gli hobby che hai
 BOR022	sì
 BOI084	e questo
-???	altro ragazzi
+??	altro ragazzi
 BOR022	no grazie
 BOI084	ma io sì media grazie
 BOR022	okay
@@ -408,10 +408,10 @@ BOR022	ehm che mi sono dimenticata che volevo dire
 BOI084	te le devi scrivere le domande
 BOR022	ehm
 BOR022	eh sì hai ragione
-???	campari social eccolo qua
+??	campari social eccolo qua
 BOR022	campari social
 BOI083	eccolo qua grazie
-???	xxxx la mezza
+??	xxxx la mezza
 BOI083	aspetta
 BOR022	ah ecco qual è dopo cioè voi state qua da un po' qual è il post~ il vostro posto preferito di bologna
 BOI083	mhmh
@@ -570,9 +570,9 @@ BOR022	sì cioè cosa succede qua il venticinque aprile
 BOI084	ah okay
 BOI083	eh c'è un delirio nel senso che
 BOI084	grazie grazie
-???	ah sei libero
+??	ah sei libero
 BOI083	oggi libero
-???	grazie
+??	grazie
 BOI083	e grazie a te
 BOI084	sta pieno di gente non si cammina
 BOI083	non si cammina tutto vuoto tutti tutta gente che beve che fa pipì in piedi

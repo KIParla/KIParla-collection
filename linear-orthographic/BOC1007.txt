@@ -579,5 +579,5 @@ BO104	arrivederci
 BO144	arrivederci
 BO104	sì avanti
 BO104	salve ecco abbiamo finito
-???	grazie mille per la disponibilità
+??	grazie mille per la disponibilità
 BO104	niente

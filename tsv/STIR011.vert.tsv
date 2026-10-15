@@ -267,7 +267,6 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 51-2	PST034	51	2	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 51-3	PST034	51	3	manca	manca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 51-4	PST034	51	4	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
-51-5	PST034	51	5			_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
 51-6	PST034	51	6	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=103.004	_	_	_	_
 52-0	PST212	52	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=102.755|End=103.004	_	_	_	0-2(7)
 53-0	PST212	53	0	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=103.151	_	_	_	_

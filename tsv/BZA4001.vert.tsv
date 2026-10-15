@@ -1978,7 +1978,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 381-13	BZ012	381	13	[già	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(102)
 381-14	BZ012	381	14	ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(102)
 381-15	BZ012	381	15	xx],	xx	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=926.28	_	_	_	0-2(102)
-382-0	BZ009	382	0	[<basta>.]	basta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=925.383|End=926.843	_	Slow=0-5(0)	_	0-5(102)
+382-0	BZ009	382	0	[<basta.>]	basta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=925.383|End=926.843	_	Slow=0-5(0)	_	0-5(102)
 383-0	BZ009	383	0	fido	fido	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=931.048	_	_	_	_
 383-1	BZ009	383	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 383-2	BZ009	383	2	cosa,	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_

@@ -48,8 +48,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 21-1	PST119	21	1	@antonio	@antonio	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	_	_	_	_	_
 21-2	PST119	21	2	nu	nu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 21-3	PST119	21	3	vorbește	vorbește	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=31.215	_	_	_	_
-23-0	???	23	0	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=31.32	_	_	_	_
-23-1	???	23	1	acidi	acidi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=32.34	_	_	_	_
+23-0	??	23	0	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=31.32	_	_	_	_
+23-1	??	23	1	acidi	acidi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=32.34	_	_	_	_
 24-0	PST119	24	0	eh?	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=34.48|End=34.79	_	_	_	_
 25-0	PST119	25	0	togli	togli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=34.945|End=35.545	_	_	_	_
 26-0	PST118	26	0	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=35.6	_	_	_	_
@@ -76,7 +76,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 32-0	PST120	32	0	#_ vrei	vrei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=44.77	_	_	_	_
 32-1	PST120	32	1	să	să	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 32-2	PST120	32	2	începem?	începem	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=45.71	_	_	_	_
-34-0	??	34	0	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=45.74|End=46.24	_	_	_	_
+34-0	???	34	0	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=45.74|End=46.24	_	_	_	_
 36-0	PST120	36	0	tatăl	tatăl	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=47.815	_	_	_	_
 36-1	PST120	36	1	nostru	nostru	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=48.75	_	_	_	_
 38-0	PST119	38	0	#termin-o	termin-o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=51.54|End=52.5	_	_	_	_
@@ -218,10 +218,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 86-1	PST120	86	1	mal	mal	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	_
 86-2	PST120	86	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	_
 86-3	PST120	86	3	gola)	gola	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=128.82	_	_	0-4(0)	_
-87-0	??	87	0	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=129.23	_	_	_	_
-87-1	??	87	1	mal	mal	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-87-2	??	87	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-87-3	??	87	3	gola	gola	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=130.04	_	_	_	_
+87-0	???	87	0	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=129.23	_	_	_	_
+87-1	???	87	1	mal	mal	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+87-2	???	87	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+87-3	???	87	3	gola	gola	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=130.04	_	_	_	_
 88-0	PST119	88	0	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=130.29	_	_	_	_
 88-1	PST119	88	1	mal	mal	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 88-2	PST119	88	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1405,8 +1405,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 557-2	PST120	557	2	blindato	blindato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=847.69	_	_	_	_
 558-0	PST119	558	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=848.19	_	_	_	_
 558-1	PST119	558	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-558-2	PST119	558	2	#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-558-3	PST119	558	3	[#]		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=850.65	_	_	_	0-1(11)
+558-2	PST119	558	2	#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+558-3	PST119	558	3	[#]	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=850.65	_	_	_	0-1(11)
 559-0	PST120	559	0	[#*mica-s]	mica-s	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	Begin=850.09	_	_	_	0-8(11)
 559-1	PST120	559	1	#din	din	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 559-2	PST120	559	2	#fier	fier	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=851.08	_	_	_	_
@@ -2111,7 +2111,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 803-4	PST118	803	4	#ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 803-5	PST118	803	5	#dar	dar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1168.015	_	_	_	_
 806-0	PST120	806	0	# carabinieri	carabinieri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1172.051	_	_	_	_
-806-1	PST120	806	1	#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1174.804	_	_	_	_
+806-1	PST120	806	1	#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1174.804	_	_	_	_
 807-0	PST118	807	0	#da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1172.051|End=1172.628	_	_	_	_
 810-0	PST119	810	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1176.11	_	_	_	_
 810-1	PST119	810	1	secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2211,7 +2211,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 846-1	PST118	846	1	știu	știu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1227.33	_	_	_	_
 848-0	PST119	848	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1228.464|End=1229.185	_	_	_	_
 849-0	PST119	849	0	((con_la_bocca_piena))	((con_la_bocca_piena))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=1230.144	_	_	_	_
-849-1	PST119	849	1	#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1232.989	_	_	_	_
+849-1	PST119	849	1	#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1232.989	_	_	_	_
 850-0	PST120	850	0	#_ o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1233.02	_	_	_	_
 850-1	PST120	850	1	zis	zis	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 850-2	PST120	850	2	că	că	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -2580,8 +2580,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 944-1	PST119	944	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 944-2	PST119	944	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 944-3	PST119	944	3	carico	carico	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-944-4	PST119	944	4	[		_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-944-5	PST119	944	5	]		_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1397.402	_	_	_	_
+944-4	PST119	944	4	[	_	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+944-5	PST119	944	5	]	_	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1397.402	_	_	_	_
 946-0	PST120	946	0	[nu	nu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1394.505	_	_	_	0-2(78)
 946-1	PST120	946	1	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(78)
 946-2	PST120	946	2	ăștia	ăștia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(78)
@@ -2685,8 +2685,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 969-5	PST120	969	5	[mă	mă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(80)
 969-6	PST120	969	6	iubeau	iubeau	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(80)
 969-7	PST120	969	7	da::r]	dar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1469.907	1x2	_	_	0-3(80)
-971-0	PST119	971	0	#_ [		_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1468.5	_	_	_	_
-971-1	PST119	971	1	]		_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+971-0	PST119	971	0	#_ [	_	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1468.5	_	_	_	_
+971-1	PST119	971	1	]	_	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 971-2	PST119	971	2	pentru	pentru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1471.03	_	_	_	_
 972-0	PST120	972	0	#_ nu	nu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1471.16	_	_	_	_
 972-1	PST120	972	1	nu	nu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -3087,7 +3087,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1139-2	PST120	1139	2	când	când	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1139-3	PST120	1139	3	l-ai	l-ai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1139-4	PST120	1139	4	cumparat	cumparat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1753.745	_	_	_	_
-1141-0	??	1141	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1754.268|End=1754.7	_	_	_	_
+1141-0	???	1141	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1754.268|End=1754.7	_	_	_	_
 1142-0	PST120	1142	0	ah?	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=1754.783|End=1755.505	_	_	_	_
 1143-0	PST120	1143	0	(pappa	pappa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1755.68	_	_	0-5(0)	_
 1143-1	PST120	1143	1	reale?)	reale	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1756.66	_	_	0-5(0)	_
@@ -3142,7 +3142,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1178-2	PST119	1178	2	#stoma:c	stomac	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1801.91	4x1	_	_	_
 1180-0	PST119	1180	0	#xx	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1802.3	_	_	_	_
 1180-1	PST119	1180	1	[xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1803.11	_	_	_	0-2(42)
-1182-0	??	1182	0	[#xx]	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1802.66|End=1803.12	_	_	_	0-3(42)
+1182-0	???	1182	0	[#xx]	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1802.66|End=1803.12	_	_	_	0-3(42)
 1184-0	PST120	1184	0	#xx	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1803.423|End=1805.82	_	_	_	_
 1186-0	PST118	1186	0	#_ dar	dar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1805.98	_	_	_	_
 1186-1	PST118	1186	1	ce-i	ce-i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -3152,7 +3152,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1188-2	PST119	1188	2	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1188-3	PST119	1188	3	plantă	plantă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1809.83	_	_	_	_
 1190-0	PST120	1190	0	#patlagină	patlagină	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1810.0|End=1811.27	_	_	_	_
-1192-0	PST120	1192	0	#_ 		_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1811.44|End=1812.856	_	_	_	_
+1192-0	PST120	1192	0	#_ 	_	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1811.44|End=1812.856	_	_	_	_
 1193-0	PST120	1193	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1812.93	_	_	_	_
 1193-1	PST120	1193	1	pomodoro	pomodoro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1193-2	PST120	1193	2	verde	verde	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

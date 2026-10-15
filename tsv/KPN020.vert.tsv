@@ -5911,8 +5911,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 798-4	PKP030	798	4	fosse	fosse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 798-5	PKP030	798	5	dopodomani	dopodomani	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 798-6	PKP030	798	6	ma:	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1792.82	1x1	_	_	_
-799-0	PKP008	799	0	((sospira))	((sospira))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1792.86	_	_	_	_
-799-1	PKP008	799	1	]		_	_	_	_	_	error	_	ContainsVariation=No	_	End=1793.46	_	_	_	_
+799-0	PKP008	799	0	((sospira))	((sospira))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1792.86|End=1793.46	_	_	_	_
 800-0	PKP032	800	0	bravo	bravo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1793.51	_	_	_	_
 800-1	PKP032	800	1	meglio	meglio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 800-2	PKP032	800	2	no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1794.82	_	_	_	_

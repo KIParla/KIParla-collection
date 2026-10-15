@@ -218,13 +218,13 @@ TO081	((ride))
 TO081	secondo me metto in pausa.
 TO999	[come] stai? ((verso_altra_persona))
 TO081	no non ho imparato.
-???	bene. c'è xx in arci (scusa)
+??	bene. c'è xx in arci (scusa)
 TO999	ma in arci dove?
-???	in via verdi. mandagl~ digli che sei qua
+??	in via verdi. mandagl~ digli che sei qua
 TO999	ah adesso gli scrivo allora.
-???	dai
+??	dai
 TO999	ciao [sara].
-???	[ciao]
+??	[ciao]
 TO999	il gatto nella macchina che non ti fa partire,
 TO081	esatto che no:n no che non ti fa partire quindi queste cose di vivere in città in effetti non sono male.
 TO081	ci sto pensando per la prima volta nella vita. ((ride))

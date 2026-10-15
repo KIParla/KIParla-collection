@@ -757,7 +757,7 @@ PSB005	è una zona molto piovosa
 PSB020	è stato terribile i primi quattro cinque mesi
 PSB020	perché non eh anche xx
 PSB020	anche le ragazze
-???	scusate
+??	scusate
 PSB005	niente
 PSB005	fa niente
 PSB005	dimmi dimmi
@@ -835,7 +835,7 @@ PSB020	è aperto solo d'estate per i turisti che c'è un albergo albergo
 PSB020	e bar e ristorante
 PSB020	e poi il resto si porta tutto dall'
 PSB020	i prodotti tutto quanto
-???	va bene
+??	va bene
 PSB020	sì sì grazie mille
 PSB005	grazie
 PSB005	beh hai fatto un'esperienza forte

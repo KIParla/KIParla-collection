@@ -2175,7 +2175,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 331-8	PSB136	331	8	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 331-9	PSB136	331	9	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 331-10	PSB136	331	10	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-331-11	PSB136	331	11	[#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(49)
+331-11	PSB136	331	11	[#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(49)
 331-12	PSB136	331	12	ti]po	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=778.8	_	_	_	0-2(49)
 333-0	PSB137	333	0	[sì::]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=777.66|End=778.57	1x2	_	_	0-2(49)
 334-0	PSB137	334	0	aspetta:	aspetta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=778.88	6x1	_	_	_
@@ -6142,9 +6142,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 783-4	PSB137	783	4	ordinato	ordinato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 783-5	PSB137	783	5	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 783-6	PSB137	783	6	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-783-7	PSB137	783	7	ricordo	ricordo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-783-8	PSB137	783	8	°		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-783-9	PSB137	783	9	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=2139.69	_	_	_	_
+783-7	PSB137	783	7	ricordo°	ricordo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+783-9	PSB137	783	8	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=2139.69	_	_	_	_
 784-0	PSB137	784	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2140.82	_	_	_	_
 784-1	PSB137	784	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 784-2	PSB137	784	2	avevo	avevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

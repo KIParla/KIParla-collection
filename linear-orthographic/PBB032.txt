@@ -577,11 +577,11 @@ BOI117	vabbè
 BOI117	aspetta
 BOI118	trattori~ no
 BOI117	fede
-???	ei
+??	ei
 BOI117	come si chiama la trattoria vicino al comune l'unica che c'è a medicina poi
-???	cosa
+??	cosa
 BOI117	la trattoria vicino al comune
-???	l'osteria di medicina
+??	l'osteria di medicina
 BOI118	l'osteria di medicina
 BOI117	ah l'osteria si chiama l'osteria
 BOR031	l~ l'osteria di non ho capito aspetta

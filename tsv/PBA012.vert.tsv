@@ -6525,9 +6525,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1054-0	BOI072	1054	0	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2193.99	_	_	_	_
 1054-1	BOI072	1054	1	dei:	dei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
 1054-2	BOI072	1054	2	ehm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2194.98	_	_	_	_
-1055-0	BOI072	1055	0	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2195.07	_	_	_	_
+1055-0	BOI072	1055	0	aitch	aitch	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2195.07	_	_	_	_
 1055-1	BOI072	1055	1	and	and	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1055-2	BOI072	1055	2	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1055-2	BOI072	1055	2	em	em	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1055-3	BOI072	1055	3	come:	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x1	_	_	_
 1055-4	BOI072	1055	4	cassiera	cassiera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2196.89	_	_	_	_
 1056-0	BOR018	1056	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2197.49|End=2197.817	_	_	_	_

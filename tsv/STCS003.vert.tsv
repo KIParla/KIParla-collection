@@ -3120,9 +3120,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 653-0	PST203	653	0	[mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1367.213	_	_	_	0-2(120)
 653-1	PST203	653	1	mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1367.475	_	_	_	0-2(120)
 654-0	PST203	654	0	[>mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1368.088	_	Fast=0-2(0)	_	0-2(121)
-654-1	PST203	654	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Fast=0-2(0)	_	0-2(121)
-654-2	PST203	654	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(121)
-654-3	PST203	654	3	<		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+654-1	PST203	654	1	mh<	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Fast=0-2(0)	_	0-2(121)
+654-2	PST203	654	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(121)
 654-4	PST203	654	4	mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1368.9	_	_	_	0-2(121)
 655-0	PST098	655	0	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1368.925	_	_	_	_
 655-1	PST098	655	1	prodotti	prodotti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3374,7 +3373,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 713-7	PST098	713	7	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 713-8	PST098	713	8	[cocco]	cocco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1473.7	_	_	_	0-5(136)
 714-0	PST203	714	0	[>mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1473.275	_	Fast=0-2(0)	_	0-2(136)
-714-1	PST203	714	1	mh<?]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1473.775	_	Fast=0-2(0)	_	0-2(136)
+714-1	PST203	714	1	mh?<]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1473.775	_	Fast=0-2(0)	_	0-2(136)
 715-0	PST203	715	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1477.013	_	_	_	_
 715-1	PST203	715	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 715-2	PST203	715	2	versione	versione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6030,7 +6029,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1361-0	PST203	1361	0	vas-	vas-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=2608.85	_	_	_	_
 1361-1	PST203	1361	1	m::h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2609.475	0x2	_	_	_
 1362-0	PST203	1362	0	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2609.675	_	_	_	_
-1362-1	PST203	1362	1	a:n.de,	a:n.de,	_	_	_	_	_	error	_	ContainsVariation=No	_	End=2610.825	_	_	_	_
+1362-1	PST203	1362	1	a:nde,	ande	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2610.825	0x1	_	_	_
 1363-0	PST220	1363	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2611.975	_	_	_	_
 1363-1	PST220	1363	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1363-2	PST220	1363	2	ande	ande	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

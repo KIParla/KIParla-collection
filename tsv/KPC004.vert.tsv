@@ -4683,9 +4683,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 755-19	PKP028	755	19	stagione	stagione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1562.84	_	_	_	_
 756-0	PKP028	756	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1563.771	_	_	_	_
 756-1	PKP028	756	1	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-756-2	PKP028	756	2	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+756-2	PKP028	756	2	aitch	aitch	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 756-3	PKP028	756	3	and	and	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-756-4	PKP028	756	4	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+756-4	PKP028	756	4	em	em	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 756-5	PKP028	756	5	>tutte	tutte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	_
 756-6	PKP028	756	6	quelle	quelle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-6(0)	_	_
 756-7	PKP028	756	7	robe	robe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_

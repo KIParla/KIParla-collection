@@ -5110,7 +5110,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 958-10	TOR003	958	10	liceo]	liceo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(200)
 958-11	TOR003	958	11	insieme	insieme	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 958-12	TOR003	958	12	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	End=1862.472	_	_	_	0-3(199)
-959-0	???	959	0	[buongiorno]	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1860.356|End=1861.253	_	_	_	0-10(200)
+959-0	??	959	0	[buongiorno]	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1860.356|End=1861.253	_	_	_	0-10(200)
 960-0	TOR001	960	0	[in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1861.64	_	_	_	0-2(199)
 960-1	TOR001	960	1	barriera]	barriera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1862.472	_	_	_	0-8(199)
 961-0	TOR003	961	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1862.507	_	_	_	_
@@ -5135,7 +5135,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 966-9	TOI035	966	9	granché	granché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 966-10	TOI035	966	10	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1869.506	_	_	_	_
 967-0	TOI035	967	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1869.814|End=1870.668	_	_	_	0-3(203)
-968-0	???	968	0	[buongiorno]	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1869.814|End=1870.668	_	_	_	0-10(203)
+968-0	??	968	0	[buongiorno]	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1869.814|End=1870.668	_	_	_	0-10(203)
 969-0	TOI035	969	0	[buongiorno]	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1870.956|End=1871.746	_	_	_	0-10(296)
 970-0	TOR001	970	0	[salve]	salve	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1870.956|End=1871.746	_	_	_	0-5(296)
 971-0	TOR003	971	0	[buongiorno]	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1870.956|End=1871.746	_	_	_	0-10(296)

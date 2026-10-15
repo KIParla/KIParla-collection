@@ -5405,7 +5405,6 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1549-3	PST006	1549	3	sì::	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x2	_	_	_
 1549-4	PST006	1549	4	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	ProsodicLink=Yes	_	_	_	_	_
 1549-5	PST006	1549	5	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	ProsodicLink=Yes	_	_	_	_	_
-1549-6	PST006	1549	6			_	_	_	_	_	error	_	ContainsVariation=Yes	ProsodicLink=Yes	_	_	_	_	_
 1549-7	PST006	1549	7	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	ProsodicLink=Yes	_	_	_	_	_
 1549-8	PST006	1549	8	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1549-9	PST006	1549	9	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2015.483	_	_	_	_
@@ -5732,7 +5731,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1634-0	PST005	1634	0	#[exactamen~]	exactamen~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	Begin=2124.533|End=2125.317	_	_	_	1-11(437)
 1635-0	PST006	1635	0	[sì::]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2125.334|End=2126.027	1x2	_	_	0-2(438)
 1636-0	PST006	1636	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2126.18	_	_	_	_
-1636-1	PST006	1636	1	#*		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
+1636-1	PST006	1636	1	#*	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 1636-2	PST006	1636	2	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1636-3	PST006	1636	3	#también	también	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1636-4	PST006	1636	4	#igual:	igual	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	4x1	_	_	_

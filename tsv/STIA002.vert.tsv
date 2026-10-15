@@ -7336,10 +7336,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 931-14	PST054	931	14	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 931-15	PST054	931	15	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 931-16	PST054	931	16	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2741.488	_	_	_	_
-932-0	PST009	932	0	°#street	street	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=Low	Begin=2742.974	_	_	_	_
-932-1	PST009	932	1	football	football	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=Low	_	_	_	_	_
-932-2	PST009	932	2	°		_	_	_	_	_	error	_	ContainsVariation=Yes	_	_	_	_	_	_
-932-3	PST009	932	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=2744.409	_	_	_	_
+932-0	PST009	932	0	# °street	street	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified|Language=NO_ISO_CODE	Volume=Low	Begin=2742.974	_	_	_	_
+932-1	PST009	932	1	football°	football	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	_
+932-3	PST009	932	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=2744.409	_	_	_	_
 933-0	PST054	933	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2744.418	_	_	_	_
 933-1	PST054	933	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 933-2	PST054	933	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

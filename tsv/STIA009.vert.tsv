@@ -461,10 +461,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 128-5	PST017	128	5	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 128-6	PST017	128	6	programma	programma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 128-7	PST017	128	7	era::	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=245.91	2x2	_	_	_
-130-0	PST206	130	0	[erae,ra	erae,ra	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=246.23	_	_	_	0-6(24)
-130-1	PST206	130	1	già:	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	0-3(24)
-130-2	PST206	130	2	avanzato,	avanzato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	0-8(24)
-130-3	PST206	130	3	xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=248.85	_	_	_	0-2(24)
+130-0	PST206	130	0	[era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=246.23	_	_	_	0-3(24)
+130-4	PST206	130	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(24)
+130-1	PST206	130	2	già:	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	0-3(24)
+130-2	PST206	130	3	avanzato,	avanzato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	0-8(24)
+130-3	PST206	130	4	xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=248.85	_	_	_	0-2(24)
 131-0	PST017	131	0	[era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=246.245	_	_	_	0-3(24)
 131-1	PST017	131	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(24)
 131-2	PST017	131	2	eh,	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	0-2(24)

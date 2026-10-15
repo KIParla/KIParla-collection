@@ -3360,9 +3360,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 513-7	TOR006	513	7	c~	c~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 513-8	TOR006	513	8	traslocato?	traslocato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1205.31	_	_	_	_
 514-0	TOI034	514	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1205.41	_	_	_	_
-514-1	TOI034	514	1	>		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-514-2	TOI034	514	2	((P))	((P))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	Fast=0-1(0)	_	_
-514-3	TOI034	514	3	abbiam	abbiam	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-6(0)	_	_
+514-7	TOI034	514	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+514-1	TOI034	514	2	>abbiam	abbiam	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 514-4	TOI034	514	4	fatto<	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	_
 514-5	TOI034	514	5	tre	tre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 514-6	TOI034	514	6	traslochi	traslochi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1207.01	_	_	_	_

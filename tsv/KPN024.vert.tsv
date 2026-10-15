@@ -4482,12 +4482,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 729-2	PKP070	729	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 729-3	PKP070	729	3	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 729-4	PKP070	729	4	prima	prima	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1932.81	_	_	_	_
-730-0	PKP070	730	0	e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1933.14	0x2	_	_	_
-730-1	PKP070	730	1	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-730-2	PKP070	730	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-730-3	PKP070	730	3	andato:	andato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x1	_	_	_
-730-4	PKP070	730	4	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-730-5	PKP070	730	5	posta	posta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1935.3	_	_	_	_
+730-0	PKP070	730	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1933.14	0x2	_	_	_
+730-2	PKP070	730	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+730-3	PKP070	730	2	andato:	andato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x1	_	_	_
+730-4	PKP070	730	3	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+730-5	PKP070	730	4	posta	posta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1935.3	_	_	_	_
 731-0	PKP070	731	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1936.11	_	_	_	_
 731-1	PKP070	731	1	inviare	inviare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 731-2	PKP070	731	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

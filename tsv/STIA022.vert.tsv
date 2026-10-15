@@ -4310,7 +4310,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 847-4	PST222	847	4	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 847-5	PST222	847	5	attività	attività	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 847-6	PST222	847	6	sono::	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x2	_	_	_
-847-7	PST222	847	7	m:.h	m:.h	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+847-7	PST222	847	7	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 847-8	PST222	847	8	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 847-9	PST222	847	9	$moracchini	moracchini	_	_	_	_	_	linguistic	_	ContainsVariation=No|Nonce=Yes	_	End=1582.71	_	_	_	_
 848-0	PST144	848	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1582.71|End=1583.05	_	_	_	_

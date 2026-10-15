@@ -2552,7 +2552,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 506-1	PSB129	506	1	>ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	0-2(566)
 506-2	PSB129	506	2	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-3(0)	_	0-3(566)
 506-3	PSB129	506	3	fatta	fatta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	0-5(566)
-506-4	PSB129	506	4	male<?]	male	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=876.353	_	Fast=0-4(0)	_	0-4(566)
+506-4	PSB129	506	4	male?<]	male	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=876.353	_	Fast=0-4(0)	_	0-4(566)
 507-0	PSB086	507	0	[n]o:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=876.18|End=876.646	1x1	_	_	0-1(566)
 508-0	PSB036	508	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=877.056|End=877.7094999999999	_	_	_	_
 509-0	PSB129	509	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=877.7094999999999|End=878.571	_	_	_	_

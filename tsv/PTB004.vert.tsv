@@ -5963,9 +5963,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 902-3	TOI019	902	3	italiane	italiane	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 902-4	TOI019	902	4	erano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 902-5	TOI019	902	5	bel[li:ss(ime)],	bellissime	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2146.338	4x1	_	7-10(0)	3-10(133)
-903-0	???	903	0	[figli	figli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2145.551	_	_	_	0-5(133)
-903-1	???	903	1	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(133)
-903-2	???	903	2	lu]pa.	lupa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2146.549	_	_	_	0-2(133)
+903-0	??	903	0	[figli	figli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2145.551	_	_	_	0-5(133)
+903-1	??	903	1	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(133)
+903-2	??	903	2	lu]pa.	lupa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2146.549	_	_	_	0-2(133)
 904-0	TOR004	904	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2146.768	_	_	_	_
 904-1	TOR004	904	1	[i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(134)
 904-2	TOR004	904	2	figli	figli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(134)

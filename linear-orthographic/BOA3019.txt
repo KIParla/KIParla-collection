@@ -5,15 +5,15 @@ BO151	ah ma alla fine mi son dimenticato
 BO150	è sicuramente meglio che lo zucchero normale
 BO149	ah okay
 BO150	x
-???	eh posso se c'è un tavolo
+??	eh posso se c'è un tavolo
 BO152	sta andando
-???	e terrazza
+??	e terrazza
 BO151	sì
 BO151	molto antisgamo
 BO152	okay
-???	xxx
+??	xxx
 BO150	datti uno slego frank
-???	vai
+??	vai
 BO149	vez
 BO151	eh
 BO152	per favore
@@ -42,11 +42,11 @@ BO149	come minimo sarà dura come un sasso perché
 BO152	oddio sembra buonissimo
 BO152	perché è vegana
 BO149	non ci puoi mettere tutte le robe
-???	salve
+??	salve
 BO149	tipo strutto
 BO149	burro
 BO150	nella crostata
-???	salve
+??	salve
 BO149	eh se è senza
 BO150	con lo strutto
 BO149	senza burro
@@ -142,26 +142,26 @@ BO149	sì
 BO149	prosciutto cotto
 BO149	e
 BO149	aceto balsamico
-???	l'altra sala è dietro la tenda gialla
+??	l'altra sala è dietro la tenda gialla
 BO149	e qualcos'altro che non mi ricordo
-???	no di di qua
+??	no di di qua
 BO151	ha fatto uno strano mix
-???	tenda
-???	grazie
-???	xxxx
+??	tenda
+??	grazie
+??	xxxx
 BO149	mai più
-???	xxx
+??	xxx
 BO150	grazie
-???	prego
+??	prego
 BO149	grazie
-???	a voi
+??	a voi
 BO151	grazie
 BO150	prendi pure frank io ho già il cappuccino
 BO151	ah quando
 BO152	grazie
 BO150	ah scusami ho fatto
-???	ah okay n acco
-???	qui
+??	ah okay n acco
+??	qui
 BO149	non posso parlare se sta in mezzo
 BO150	scusi io
 BO152	la confondiamo
@@ -173,17 +173,17 @@ BO151	buona
 BO152	potrebbe essere la cosa più salutare che mangi
 BO152	nell'ultimo mese
 BO151	quella
-???	però mi dispiace
+??	però mi dispiace
 BO152	no quella
 BO151	ah
 BO152	per xxx
-???	grazie
-???	adesso xxxxx
+??	grazie
+??	adesso xxxxx
 BO151	secondo me
 BO151	manca un po' di strutto
-???	lo vuoi
+??	lo vuoi
 BO149	sicuramente però
-???	vai arrivo io allora
+??	vai arrivo io allora
 BO152	come si fa a mangiarlo
 BO149	beh oggi ho mangiato delle tagliatelle al ragù
 BO149	non sono abbastanza salutari
@@ -198,8 +198,8 @@ BO152	anche nelle tagliatelle
 BO150	purtroppo salutare non vuol dire genuino
 BO151	uou
 BO150	se fosse così anch'io mangerei benissimo
-???	grazie xxxx
-???	grazie
+??	grazie xxxx
+??	grazie
 BO151	un saluto al giorno
 BO149	ieri ho mangiato una pizza
 BO152	mh
@@ -235,7 +235,7 @@ BO149	no vez eh
 BO149	farlo è verame~
 BO152	eh
 BO149	mh
-???	ciao
+??	ciao
 BO151	mh
 BO152	andiamo a zocca
 BO151	ho trovato un posto
@@ -286,7 +286,7 @@ BO152	adesso
 BO151	sì
 BO152	mh
 BO149	diamine
-???	ciao
+??	ciao
 BO152	eh eh
 BO151	o anche non adesso
 BO149	mh
@@ -363,11 +363,11 @@ BO150	qualsiasi posto anche in anche in tabaccheria trovi
 BO149	mh
 BO151	il tabaccaio che ti dà il pesto al posto del tabacco
 BO150	oh vuoi fumarti un po' di
-???	sì
+??	sì
 BO149	più che altro la sagra di zocca
 BO150	xxx
 BO150	eh c'è stata
-???	perché
+??	perché
 BO150	a ottobre
 BO152	non siamo andati quest'anno
 BO149	eh sì ma l'ottobre prossimo
@@ -448,7 +448,7 @@ BO152	era inquietante perché eravamo
 BO149	mh
 BO152	le uniche tre persone
 BO149	ma anche solo nella spiaggia lì
-???	ve le porto subito sai
+??	ve le porto subito sai
 BO152	mh
 BO151	o a me manca il vento
 BO149	anche se ci fosse gente in giro
@@ -464,14 +464,14 @@ BO152	mh
 BO149	che era anche abbastanza comodo
 BO150	parkour
 BO151	cioè c'era della roba lì non c'erano i chiodi
-???	eh sì mi pare di sì
+??	eh sì mi pare di sì
 BO151	no
 BO150	no no
 BO149	ah no è vero vero adesso mi ricordo che sembrava di essere
 BO151	c'era xxx
 BO152	mh
 BO149	sì
-???	cinque e il sei
+??	cinque e il sei
 BO150	c'erano dei chiodi
 BO151	boh mi pareva ci fosse qualcosa che feriva i piedi
 BO150	io non l'ho vista
@@ -483,8 +483,8 @@ BO149	okay
 BO150	cioè era il tetto dei trappoloni
 BO150	eh
 BO151	beh avevamo i secchi avevamo il
-???	prego
-???	le volevamo chiedere se ci fosse posto fuori
+??	prego
+??	le volevamo chiedere se ci fosse posto fuori
 BO149	e dovevamo fare il trappolone a franci
 BO152	no a frank
 BO149	a frank
@@ -494,11 +494,11 @@ BO150	a franci l'abbiamo fatto il trappolone è quasi andato in coma
 BO152	no io volevo
 BO150	easy
 BO151	in coma
-???	eh mh
+??	eh mh
 BO152	buttarvi l'acqua addosso dal nulla ma
 BO150	xxxx
 BO152	non mi ricordo se l'ho fatto
-???	va bene grazie
+??	va bene grazie
 BO149	mi pare di no
 BO151	ah io non mi ricordo
 BO152	forse c'ho provato ma non ci sono riuscita
@@ -509,8 +509,8 @@ BO151	eh provare senza riuscire è classico
 BO150	perché xx
 BO151	è più difficile non riuscire senza provare
 BO149	esatto
-???	ciao
-???	ah grazie
+??	ciao
+??	ah grazie
 BO151	cavolo
 BO152	è più difficile
 BO151	ci dovrei provare
@@ -736,7 +736,7 @@ BO149	è per gender neutri
 BO150	infatti ha un sacco di ergonomia cavolo
 BO152	ha senso che potrebbe finire cinquanta e cinquanta cioè in effetti non ha senso che sia così
 BO150	non so che gene cioè non credo di
-???	grazie
+??	grazie
 BO150	da cosa venga c~
 BO150	da che cosa sia causata questa questa roba
 BO151	dal demonio
@@ -791,7 +791,7 @@ BO150	puoi già nascere col tatuaggio eh sì
 BO151	ah che figo
 BO151	beh ci sta
 BO151	bello
-???	qua ragazzi
+??	qua ragazzi
 BO151	sì sì sì
 BO151	solo che quando nasci dopo cioè
 BO150	xxx
@@ -849,7 +849,7 @@ BO152	perché
 BO151	non lo so
 BO149	ma non è un po' grassa
 BO151	beh un pochino
-???	ah sì
+??	ah sì
 BO152	ma è un video
 BO151	cosa sta succedendo sì è un video ma che ca
 BO149	sta ingrassando

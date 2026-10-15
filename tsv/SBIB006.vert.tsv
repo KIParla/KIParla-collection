@@ -5919,14 +5919,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 970-13	PSB049	970	13	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=2	_	_	_	_	_
 970-14	PSB049	970	14	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=3	_	_	_	_	_
 970-15	PSB049	970	15	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=2	_	_	_	_	_
-970-16	PSB049	970	16	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=2	_	_	_	_	_
-970-17	PSB049	970	17	°		_	_	_	_	_	error	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
-970-18	PSB049	970	18	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-970-19	PSB049	970	19	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-970-20	PSB049	970	20	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-970-21	PSB049	970	21	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-970-22	PSB049	970	22	chiamato:	chiamato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	7x1	_	_	_
-970-23	PSB049	970	23	@donatella	@donatella	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	End=3443.725	_	_	_	_
+970-16	PSB049	970	16	xx°	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low|Syllables=2	_	_	_	_	_
+970-18	PSB049	970	17	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+970-19	PSB049	970	18	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+970-20	PSB049	970	19	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+970-21	PSB049	970	20	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+970-22	PSB049	970	21	chiamato:	chiamato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	7x1	_	_	_
+970-23	PSB049	970	22	@donatella	@donatella	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	End=3443.725	_	_	_	_
 971-0	PSB049	971	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3444.493	_	_	_	_
 971-1	PSB049	971	1	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 971-2	PSB049	971	2	arrivato:	arrivato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	7x1	_	_	_

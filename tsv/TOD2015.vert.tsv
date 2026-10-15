@@ -293,9 +293,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 31-2	TO071	31	2	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(4)
 31-3	TO071	31	3	succede:	succede	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	6x1	_	_	0-7(4)
 31-4	TO071	31	4	(a)spetta]	aspetta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=108.15	_	_	0-1(0)	0-7(4)
-32-0	???	32	0	(è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=111.33	_	_	0-1(0)	_
-32-1	???	32	1	qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	_
-32-2	???	32	2	romana?)	romana	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=112.958	_	_	0-6(0)	_
+32-0	??	32	0	(è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=111.33	_	_	0-1(0)	_
+32-1	??	32	1	qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	_
+32-2	??	32	2	romana?)	romana	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=112.958	_	_	0-6(0)	_
 33-0	TO071	33	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=113.299	_	_	_	_
 33-1	TO071	33	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 33-2	TO071	33	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -319,7 +319,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 33-20	TO071	33	20	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 33-21	TO071	33	21	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 33-22	TO071	33	22	nessuno.	nessuno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=120.537	_	_	_	_
-34-0	???	34	0	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=121.88|End=122.45	_	_	_	_
+34-0	??	34	0	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=121.88|End=122.45	_	_	_	_
 35-0	TO071	35	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=122.45	_	_	_	_
 35-1	TO071	35	1	magari	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 35-2	TO071	35	2	sbagliamo	sbagliamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4737,8 +4737,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 433-14	TO073	433	14	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 433-15	TO073	433	15	disco	disco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 433-16	TO073	433	16	[bar]	bar	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1451.23	_	_	_	0-3(108)
-434-0	???	434	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1450.314	_	_	_	0-2(108)
-434-1	???	434	1	okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1451.24	_	_	_	0-4(108)
+434-0	??	434	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1450.314	_	_	_	0-2(108)
+434-1	??	434	1	okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1451.24	_	_	_	0-4(108)
 435-0	TO073	435	0	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1451.351	_	_	_	_
 435-1	TO073	435	1	[disco	disco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(109)
 435-2	TO073	435	2	bar	bar	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(109)

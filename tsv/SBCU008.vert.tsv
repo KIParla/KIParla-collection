@@ -16,7 +16,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2-1	PSB005	2	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2-2	PSB005	2	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2-3	PSB005	2	3	@alessandra	@alessandra	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	End=5.02	_	_	_	_
-3-0	???	3	0	@irina	@irina	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=5.11|End=5.47	_	_	_	_
+3-0	??	3	0	@irina	@irina	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=5.11|End=5.47	_	_	_	_
 4-0	PSB091	4	0	@irina	@irina	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=5.53|End=6.01	_	_	_	_
 5-0	PSB005	5	0	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=6.05	_	_	_	_
 5-1	PSB005	5	1	visto	visto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -37,7 +37,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 9-4	PSB005	9	4	vi	vi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 9-5	PSB005	9	5	assomigliate	assomigliate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 9-6	PSB005	9	6	tanti[ssimo]	tantissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=12.74	_	_	_	5-10(1)
-10-0	???	10	0	[a:h]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=12.16|End=12.75	0x1	_	_	0-2(1)
+10-0	??	10	0	[a:h]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=12.16|End=12.75	0x1	_	_	0-2(1)
 11-0	PSB091	11	0	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=12.76	_	_	_	_
 11-1	PSB091	11	1	dicono	dicono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 11-2	PSB091	11	2	TUTTI	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
@@ -51,7 +51,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 13-3	PSB005	13	3	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 13-4	PSB005	13	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 13-5	PSB005	13	5	italiano?	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=17.37	_	_	_	_
-14-0	???	14	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=17.56|End=18.0	_	_	_	_
+14-0	??	14	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=17.56|End=18.0	_	_	_	_
 15-0	PSB005	15	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=18.017	_	_	_	_
 15-1	PSB005	15	1	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 15-2	PSB005	15	2	[solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(3)

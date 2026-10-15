@@ -181,18 +181,18 @@ TOR005	x
 TOI024	ecco questa è un'altra: signora che
 TOR005	salve buongiorno
 TOI024	((ride))
-???	vado solo a togliere [un po' di x]
+??	vado solo a togliere [un po' di x]
 TOI024	[e ah c'è una si]gnora
 TOI024	che dov'è andata, ha detto che andava a prendere il caffè che voleva rinnovare la tessera [x]
-???	[eh vabbè] (a)spetta (u)n att(imo)
-???	poi deve andar [via]?
+??	[eh vabbè] (a)spetta (u)n att(imo)
+??	poi deve andar [via]?
 TOI024	# [no non] (è lì) ndua l'è?
-???	ah
+??	ah
 TOI024	# sai nen
 TOI024	è sparita già?
 TOI024	AH È LEI È LEI È LEI È LEI
 TOI024	È LÌ È LÌ È LÌ È LÌ
-???	ARRIVO ARRIVO:
+??	ARRIVO ARRIVO:
 TOI024	cosa voleva, cosa
 TOR005	x
 TOI024	((ride))
@@ -215,8 +215,8 @@ TOR005	eh[m:: va] bene
 TOI024	[mh]
 TOR005	[ehm]: quel
 TOI024	[eh]
-???	comunque non non ci siamo comunque perché diciotto
-???	giovedì diciotto è d~ è lunedì diciotto
+??	comunque non non ci siamo comunque perché diciotto
+??	giovedì diciotto è d~ è lunedì diciotto
 TOI024	domenca diciassette
 TOI024	domenica ne abbiamo diciassette [vero]?
 TOR005	[control]lo subito
@@ -230,16 +230,16 @@ TOI024	dovevano mettere oggi ne abbiamo tre
 TOR005	[oggi è quattordici]?
 TOI024	[tre (.) quattor]dici
 TOI024	x metter quat~ eh vabbè
-???	ma (.) comunque
+??	ma (.) comunque
 TOI024	chi lavora sbaglia eh
-???	comunque aldo, aldo: (.) m(i) ave(v)a detto
-???	questo giovedì
+??	comunque aldo, aldo: (.) m(i) ave(v)a detto
+??	questo giovedì
 TOI024	eh e allora aspetti aspetti
 TOI024	aspetti
 TOI024	con fiducia
 TOI024	aspetti con fiducia
-???	va bene
-???	grazie
+??	va bene
+??	grazie
 TOR005	ehm: e ha sempre fatto questo di lavoro, >sempre quello dì c(io)è finché ha lavorato ha [sempre fatto il lavoro di commessa no]?
 TOI024	[sì eh c(io)è: da c~] da che ho:: mh
 TOI024	ho sono andata nel negozio di mio marito poi [nel (no~) ci] siamo sposati
@@ -265,14 +265,14 @@ TOI024	[eh infatti sì sì] sì
 TOR005	[esattamente]
 TOR005	ehm::
 TOR005	quindi: ehm:::
-???	ah sei qua?
+??	ah sei qua?
 TOI024	eh eh eh
-???	[x]
+??	[x]
 TOI024	[sta inten~]
 TOR005	[prego]
 TOI024	[eh]
 TOI024	# a i'è na tessera da fè
-???	[eh]?
+??	[eh]?
 TOI024	[poi ha] detto che dobbiamo a essere in due
 TOI024	adesso mi fa qualche domanda
 TOI024	eh
@@ -400,34 +400,34 @@ TOI024	a:h mi ricordo poco
 TOI024	comunque in via meucci (.) mi pare nove
 TOR005	[ah okay eh va bene]
 TOI024	[mh eh c'era la]
-???	[eccomi]
+??	[eccomi]
 TOI024	[l'avviamento com]merciale
-???	[OH]
+??	[OH]
 TOI024	[ecco]
 TOR005	[salve buongio]rno
-???	[ce l'ho fatta]
+??	[ce l'ho fatta]
 TOI024	[x (.) eh]
 TOI024	eh questa è: l'altra mia collega
 TOR005	salve
 TOI024	eh
 TOR005	[le ah lo le:]
-???	[(le me) ci siam già] vis[ti]
+??	[(le me) ci siam già] vis[ti]
 TOR005	[sì] le mh diamo una sedia alla signora o:: mh gliela faccio dopo l'intervista?
-???	cosa devo:
+??	cosa devo:
 TOI024	com[e vuol]e vuoi finir[e::: a me (u)n attimo]?
 TOR005	[mh]
 TOR005	[sì sì allora la la la possiamo fare dopo (.) la]
 TOI024	[sì ma può stare anche lei] tanto non è niente [di:]
 TOR005	[ass~ assoluta]mente così almeno vede [com'è:]: l'inte[rvista x]
 TOI024	[eh]
-???	[eh]
+??	[eh]
 TOI024	[eh eh eh]
 TOR005	[no allora]
 TOI024	[m'ha fatto delle dom]ande solo cosa facevo di lavoro prima [dove abitavo::]
-???	[ah okay <okay> nessun problema]
+??	[ah okay <okay> nessun problema]
 TOR005	[proprio:::]
 TOI024	[dove abita]vo e tutte [quelle ba~ cose] lì ah
-???	sì sì sì
+??	sì sì sì
 TOR005	va bene
 TOR005	ehm:: okay quindi abbiamo detto le scuole allora
 TOR005	[qui] c'è mo c'è una domanda un po' strana io c'ho questa tra[ccia allora]
@@ -440,7 +440,7 @@ TOI024	((ride))
 TOR005	che si (.) si pos[sono dire mh]
 TOI024	[adesso sono] qua
 TOR005	[un milione di cose]
-???	[xxx]
+??	[xxx]
 TOI024	[eh perché qua bal]liamo due volte alla set[timana], a volte giochiamo a bocce quando abbiamo voglia
 TOR005	[ah ah]
 TOI024	giochiamo carte quando abbiamo voglia
@@ -461,27 +461,27 @@ TOR005	qui al centro di incon[tro]
 TOI024	[ah si] fa tante cose
 TOI024	eh appunto carte, bocce,
 TOI024	e::h [pranzi come] le ho detto [prima ballo due] volte [alla settimana martedì e venerdì:]
-???	[ballo]
+??	[ballo]
 TOR005	[ballo pure]
-???	[due volte a(lla) settimana]
-???	[balli di gruppo::]
+??	[due volte a(lla) settimana]
+??	[balli di gruppo::]
 TOI024	[si fa un po' di] tutto
 TOR005	<e:: le> attività tipo carte e bocce eh come dire:
 TOR005	mh in genere uomini uomini e donne tendono a: giocare separata[mente o:::]
 TOI024	[EH EH MA HA MESSO HA MESSO IL DITO SULLA PIAGA]
-???	[no:::]
+??	[no:::]
 TOR005	[eh]?
 TOR005	[no:]?
 TOI024	[HA MES]SO IL DI[TO SULLA PIA~]
-???	[c'è un misc]uglio
+??	[c'è un misc]uglio
 TOR005	è un miscuglio?
 TOI024	(u)na volta giocavamo tutti insieme adesso bisogna dir la verità
 TOI024	gli uomini
 TOI024	ci tollerano [poco]
-???	[ma (da:::i)]
+??	[ma (da:::i)]
 TOI024	[diciamo la] verità [no no io dico la verità]
 TOR005	[x]
-???	[quando pigli il] caf[fè]
+??	[quando pigli il] caf[fè]
 TOR005	[forse perché fo~]
 TOI024	[dico le] verità
 TOI024	((ride))
@@ -603,19 +603,19 @@ TOR005	sì esibisce nei dintorni di[ciamo eh]
 TOI024	[sì].
 TOR005	[perché:]
 TOI024	[sì nei din]torni nelle:: [nei paesi]
-???	[sì perché prima non] c'è quasi mai: visto che
-???	[non può]
+??	[sì perché prima non] c'è quasi mai: visto che
+??	[non può]
 TOI024	[eh]
-???	è un po' famoso
+??	è un po' famoso
 TOR005	((ride))
-???	[e:h]
+??	[e:h]
 TOI024	[è famo~]
 TOI024	((ride))
-???	e in piemonte non viene mai
+??	e in piemonte non viene mai
 TOR005	è [sempre un]
-???	[non lo paga]no abbastanza bene
+??	[non lo paga]no abbastanza bene
 TOR005	((ride))
-???	((ride))
+??	((ride))
 TOR005	[è sempre:]
 TOI024	[nei paesi] pagano di più
 TOR005	[sì per~]
@@ -636,9 +636,9 @@ TOI024	[esatto sì].
 TOI024	[ah ma] (là è) più di un giorno all'anno
 TOR005	[mh]
 TOI024	[o]mar codazzi
-???	sì perché io son stato parecchio in pro loco quind[i]
+??	sì perché io son stato parecchio in pro loco quind[i]
 TOI024	[eh]
-???	cinque (o) sei giorno ci so[no]
+??	cinque (o) sei giorno ci so[no]
 TOI024	[esa]tto
 TOR005	[ottimo]
 TOI024	[eh eh] (.) eh
@@ -673,10 +673,10 @@ TOR005	avrà vissuto e:h m:h c~ c~ come era la vita dei giovani, cioè che facev
 TOI024	cosa facevamo negli anni sessanta?
 TOI024	andava~ io andavo tanto tanto a ballare
 TOI024	andavo tanto a ballare nelle sale da ballo
-???	ma io negli [sessanta]
+??	ma io negli [sessanta]
 TOI024	[perché allora:]
 TOI024	[anche se uno non aveva ancora fidan]zato o coso
-???	[no momento ma io son più giovane]
+??	[no momento ma io son più giovane]
 TOR005	mh mh
 TOI024	e:::h potevi prendere il tram qui a torino
 TOI024	dal centro arrivavi a casa tranquillamente non ti succedeva nulla
@@ -738,10 +738,10 @@ TOI024	[eh] e:h
 TOI024	non vuole: così non (.) vuole intervistare anche a noi
 TOI024	eh se volete venire anche una
 TOI024	eh
-???	quant'è x?
-???	cosa è succ~
-???	hai già pa~,
-???	già già pos[so]
+??	quant'è x?
+??	cosa è succ~
+??	hai già pa~,
+??	già già pos[so]
 TOI024	[ma] fa~ facciamo: mh
 TOR005	facciamo misto va bene sì sì sì assolutamente
 TOR005	però e::hm le do: una sedia, signora cioè
@@ -755,89 +755,89 @@ TOI024	eh
 TOR005	allora <una>
 TOI024	eh
 TOI024	da parte della mia famiglia non c'è stato nessun eh
-???	eh sì eh
+??	eh sì eh
 TOI024	e:h adesso
 TOI024	e:h niente fa: domande su: tutta la vita
 TOI024	più o [meno]
-???	[oh] me me
-???	la mia non è una bella vita x
+??	[oh] me me
+??	la mia non è una bella vita x
 TOI024	((ride))
 TOR005	oh ma
-???	# che am fasa nen ed dumande
+??	# che am fasa nen ed dumande
 TOI024	ne avrà viste di peggio
 TOI024	((ride))
-???	((ride))
+??	((ride))
 TOI024	(o) sentite di peg[gio]
 TOR005	[a]ssolutamente
 TOR005	allora
 TOR005	eh[m::]:
-???	[eh]
+??	[eh]
 TOR005	[io] spiego anche a voi quello che [stiamo] facendo così [almeno]
-???	[eh]
-???	[dimmi]
-???	[xx]
+??	[eh]
+??	[dimmi]
+??	[xx]
 TOR005	io sto raccogliendo:, dati
 TOR005	[o]kay,
-???	[mh mh]
+??	[mh mh]
 TOR005	m::h sui: cittadini e le cittadine: torinesi
 TOR005	e:h mh: per quanto riguarda gli ultimi::: ultimo mezzo secolo
 TOR005	dalla città di torino quidi: appunto
 TOR005	intervisto persone anziane intervisto
 TOR005	per sapere
 TOR005	come è torino oggi [e come era::] (.) all'epoca
-???	[bra::vo:]
+??	[bra::vo:]
 TOR005	nulla di più chiedo::
 TOR005	che sto anche:
-???	solo vuoi solo donne?
+??	solo vuoi solo donne?
 TOR005	no anche uo[mini]
-???	[ah]
+??	[ah]
 TOI024	[vo~] eh [dovrebbe a]v~ eh [esserci un] uomo ma chi prendo?
 TOR005	[infatti se:]
-???	[eh]
-???	ma ce n'è uomini lì eh
+??	[eh]
+??	ma ce n'è uomini lì eh
 TOI024	c'era prima antonio
 TOI024	però è sparito adesso
-???	no se vuole vado a (cer~) xxx
+??	no se vuole vado a (cer~) xxx
 TOI024	vuoi recuperare un uomo?
-???	eh?
-???	eh [sì]
+??	eh?
+??	eh [sì]
 TOI024	[giocan] tutti a c[arte]
-???	[al po]sto mio così due donne e un uomo
+??	[al po]sto mio così due donne e un uomo
 TOR005	vab~ ah lo [possiamo:] possiamo fare anche dopo eh il [non: non è necessario farlo adesso quindi pos]siamo aspet[tare]
-???	[eh],
-???	[ah]
+??	[eh],
+??	[ah]
 TOI024	[ah beh (.) sì sì sì sì]
 TOI024	[sì] sì.
 TOR005	ehm:: ecco però
 TOR005	chiaramente per fare quest(a) intervista vi (.) chiedo qualche dato, nome cogno[me co]sì
-???	[mh]
+??	[mh]
 TOR005	e (.) vi chiederò di firmare (.) la liberatoria
 TOR005	perché così [insomma: sia~ sia~ sia~ siamo si]curi::: che
 TOI024	[sì io ho già firmato]
-???	certo cer[to]
+??	certo cer[to]
 TOR005	[a]llora
 TOR005	le (.) do la liberatoria intanto
 TOI024	e intanto magari [finiamo]
 TOR005	[la penna]
-???	[dammi la biro]
+??	[dammi la biro]
 TOI024	[(le) domande] per me
 TOR005	uno
 TOR005	ehm:::
 TOR005	<allora>
-???	allora
+??	allora
 TOR005	x la signora margherita
 TOR005	stavamo
 TOR005	due firme
 TOR005	(no) aspetti [che mi son perso (l'altra)],
-???	[anche qua bisogna farla] ah solo qua
+??	[anche qua bisogna farla] ah solo qua
 TOR005	sì no solo qui sotto la firma, e qui sopra nome e cognome.
-???	# eh semp istess
+??	# eh semp istess
 TOR005	sì:
 TOI024	eh
 TOR005	[però (.) però no~] nome e cognome lo leggo meglio però ((ride))
-???	[MA PRATICAMENTE]
+??	[MA PRATICAMENTE]
 TOR005	in genere rispetto alle [firme]
-???	[ah]
+??	[ah]
 TOR005	>eh va~ va bene signora margherita io guardi le chiedo< [ehm:: un~]
 TOI024	[un co~]
 TOR005	un'ul[timis]sima cosa.
@@ -865,20 +865,20 @@ TOI024	mah eh torino è una bella città, tranquilla
 TOI024	((ride))
 TOI024	eh insomma più o meno ((ride))
 TOI024	((ride))
-???	[era].
+??	[era].
 TOI024	[x la] sera [di giorno trovi x]
-???	[al~ allora t]ori[no era una bella città]
+??	[al~ allora t]ori[no era una bella città]
 TOI024	[se viene in questo borgo]
-???	[tranq]uilla
+??	[tranq]uilla
 TOI024	è tranquill[issimo]
-???	[questo qui] è [sul]
+??	[questo qui] è [sul]
 TOI024	[è] ancora [un bel borgo questo qua].
-???	[qui si sta benisssimo]
+??	[qui si sta benisssimo]
 TOI024	le dico vieni ad abitare in questo borgo
 TOI024	[come ho fatto io]
 TOR005	[benissimo]
-???	sì
-???	[questo sì. (.) xxx]
+??	sì
+??	[questo sì. (.) xxx]
 TOI024	[e vedrai che sarai ben(e) accol]to
 TOI024	se è un uomo o una donna non lo [so]
 TOR005	[va] bene
@@ -896,18 +896,18 @@ TOR005	[va benissimo]
 TOI024	basta che siano bravi
 TOR005	gr[azie]
 TOI024	[è ve]ro?
-???	eh
+??	eh
 TOR005	[okay]
-???	[x]
+??	[x]
 TOI024	[eh]
 TOR005	allora io la ringrazio intanto
 TOR005	rimanga qui con noi se vuole inter[venire assolutamente]
 TOI024	((ride))
-???	[sì sì rimane così ci] dà una mano
+??	[sì sì rimane così ci] dà una mano
 TOR005	e:::h
 TOI024	((ride))
-???	# così chila sa già tut
+??	# così chila sa già tut
 TOR005	((ride))
-???	((ride))
+??	((ride))
 TOI024	eh sì ho già (.) ho già risposto
 TOR005	ah beh ma poi abbiamo la signora:

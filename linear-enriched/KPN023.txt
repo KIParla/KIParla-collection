@@ -347,7 +347,7 @@ PKP070	eh si ((ride))
 PKP079	ma gente importanti contat[ti]
 PKP071	[mh],
 PKP079	gente importante
-???	tutto bene?
+??	tutto bene?
 PKP071	s[ì grazie]
 PKP078	[perfette]
 PKP079	[sono buone graz]ie
@@ -784,7 +784,7 @@ PKP078	erre
 PKP078	no signora è una effe e:h provi quella dopo
 PKP070	((ride))
 PKP078	e:hm:
-PKP078	esse no no no no no e:: h ze~ no scusi scusi no [e:h zeta z]eta
+PKP078	esse no no no no no e::h ze~ no scusi scusi no [e:h zeta z]eta
 PKP079	[sbagliava tutto]
 PKP078	tutto cos[ì giuro t]utto c[osì: e infatti] io ero tipo: (.) oddio adesso c(io)è la la manda via (.) ma perché già dalle prime
 PKP079	[m:h]
@@ -1330,8 +1330,8 @@ PKP079	[tornavamo a cas]a era già finito il [sabato praticamente]
 PKP078	[perché comunque potevi fare i] compi[ti il sabato mattina e] il sabato pomeriggio eri libero invece chi aveva s[cuola al sabato il sabato pomeriggio]
 PKP071	[eh infatti]
 PKP071	[invece no: poi avevamo magari il] lunedì verifiche,
-???	(scusa stai mangiando) o porto di là scusa non avevo visto
-???	x xxx
+??	(scusa stai mangiando) o porto di là scusa non avevo visto
+??	x xxx
 PKP070	grazie
 PKP079	grazie
 PKP070	cosa ridi [cosa r:idi]
@@ -1472,15 +1472,15 @@ PKP070	°(a)spetta°
 PKP078	grazie
 PKP078	ma c(io)è l'ha detto a voi, no:
 PKP070	no no n~ e:h n::o attraverso persone
-???	caffè amaro?
+??	caffè amaro?
 PKP070	e::h
 PKP070	ci pensiamo un attimo,
 PKP070	grazie
-???	[vi di]co i dolci? xx
+??	[vi di]co i dolci? xx
 PKP070	sì
 PKP071	sì dai
 PKP070	[sì sì sì]
-???	allora ho il tiramusù xx al pistacchio di bronte una torta di ricotta e zucca torta al cioccolato biscottini di pasta frolla con crema al mascarpone xx al mandarino e la crema al caffè
+??	allora ho il tiramusù xx al pistacchio di bronte una torta di ricotta e zucca torta al cioccolato biscottini di pasta frolla con crema al mascarpone xx al mandarino e la crema al caffè
 PKP079	g[razie]
 PKP078	[grazie]
 PKP070	[okay gr]azie

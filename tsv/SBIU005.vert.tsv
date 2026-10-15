@@ -4230,9 +4230,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 531-1	PSB019	531	1	preside	preside	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 531-2	PSB019	531	2	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 531-3	PSB019	531	3	detto:	detto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1447.448	4x1	_	_	_
-532-0	???	532	0	((un_cane_abbaia))	((un_cane_abbaia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1447.913|End=1449.913	_	_	_	_
+532-0	??	532	0	((un_cane_abbaia))	((un_cane_abbaia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1447.913|End=1449.913	_	_	_	_
 533-0	PSB019	533	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1451.479|End=1451.841	_	_	_	_
-534-0	???	534	0	scusate	scusate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1452.233|End=1452.726	_	_	_	_
+534-0	??	534	0	scusate	scusate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1452.233|End=1452.726	_	_	_	_
 535-0	PSB019	535	0	[figurati]	figurati	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1452.749|End=1453.148	_	_	_	0-8(140)
 536-0	PSB005	536	0	[niente]	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1452.767|End=1453.154	_	_	_	0-6(140)
 537-0	PSB019	537	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1454.982	_	_	_	_
@@ -5663,7 +5663,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 719-2	PSB005	719	2	vedere	vedere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 719-3	PSB005	719	3	se:	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1947.301	1x1	_	_	_
 720-0	PSB005	720	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1950.325|End=1951.08	0x1	_	_	_
-721-0	???	721	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1951.48|End=1953.62	_	_	_	_
+721-0	??	721	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1951.48|End=1953.62	_	_	_	_
 722-0	PSB005	722	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1962.307	_	_	_	_
 722-1	PSB005	722	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 722-2	PSB005	722	2	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

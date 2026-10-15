@@ -6432,12 +6432,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 773-3	PSB020	773	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 773-4	PSB020	773	4	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 773-5	PSB020	773	5	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=2404.93	_	_	_	_
-774-0	???	774	0	((rumore_forte))	((rumore_forte))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2403.36|End=2404.93	_	_	_	_
+774-0	??	774	0	((rumore_forte))	((rumore_forte))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2403.36|End=2404.93	_	_	_	_
 775-0	PSB020	775	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2405.56	_	_	_	_
 775-1	PSB020	775	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 775-2	PSB020	775	2	ragazze	ragazze	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2406.81	_	_	_	_
-776-0	???	776	0	((rumore_forte))	((rumore_forte))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2406.85|End=2408.66	_	_	_	_
-777-0	???	777	0	scusate	scusate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2408.97|End=2409.67	_	_	_	_
+776-0	??	776	0	((rumore_forte))	((rumore_forte))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2406.85|End=2408.66	_	_	_	_
+777-0	??	777	0	scusate	scusate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2408.97|End=2409.67	_	_	_	_
 778-0	PSB005	778	0	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2409.676|End=2410.35	_	_	_	_
 779-0	PSB020	779	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2410.182|End=2411.137	_	_	_	_
 780-0	PSB005	780	0	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2411.621	_	_	_	_
@@ -7024,8 +7024,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 855-1	PSB020	855	1	prodotti	prodotti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 855-2	PSB020	855	2	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 855-3	PSB020	855	3	quanto	quanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2650.029	_	_	_	_
-856-0	???	856	0	(va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2650.235	_	_	0-2(0)	_
-856-1	???	856	1	bene)?	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=2650.809	_	_	0-4(0)	_
+856-0	??	856	0	(va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2650.235	_	_	0-2(0)	_
+856-1	??	856	1	bene)?	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=2650.809	_	_	0-4(0)	_
 857-0	PSB020	857	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2650.8	_	_	_	_
 857-1	PSB020	857	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 857-2	PSB020	857	2	[grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(248)

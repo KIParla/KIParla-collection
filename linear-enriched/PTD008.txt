@@ -262,15 +262,15 @@ TOR001	okay
 TOR001	quindi
 TOR001	però oltre ai servizi?
 TOI059	vieni vieni (.) tranquillo
-???	((fa_versi))
-???	((fa_versi))
-???	non c'è niente [xxxxxx]
+??	((fa_versi))
+??	((fa_versi))
+??	non c'è niente [xxxxxx]
 TOI058	[non c'è niente]?
 TOI058	che tristezza
 TOI058	possiamo metter agli atti sto bambino triste qua che ha bisogno del tablet?
 TOR001	((ride))
 TOI058	spegni la tele
-???	sì
+??	sì
 TOR001	okay
 TOR001	quindi
 TOR001	appunto dicevo oltre a::i servizi? ci sono delle cose che secondo voi sono:: particolarmente positive di questo quar[tiere]?
@@ -292,9 +292,9 @@ TOI058	c'[è:: ruffi]ni °insomma:°
 TOI059	[°sì::°]
 TOR001	mh mh [>mh mh m:h<]
 TOI058	[senza:]
-???	papi:
+??	papi:
 TOI058	e:h vieni qua
-???	c'è un avviso sul diario
+??	c'è un avviso sul diario
 TOI058	e::h dopo me lo fai vedere fede
 TOR001	((ride))
 TOR001	okay

@@ -56,13 +56,13 @@ PSB082	mhmh
 PSB081	anche di qualcuno sp~ fatto consumato dare anche mancia qualcuno ruba
 PSB082	mh
 PSB082	ah xxè
-???	ciao
+??	ciao
 PSB081	ciao dimmi
-???	duo cappuccio
+??	duo cappuccio
 PSB081	due cappuccino va benissimo
-???	duo bottiglie acqua
+??	duo bottiglie acqua
 PSB081	uno bottiglie acqua
-???	due
+??	due
 PSB081	due bottiglie acqua
 PSB081	due cappuccino due bottiglie acqua
 PSB081	okay
@@ -229,7 +229,7 @@ PSB081	dopo c'è un altro via via
 PSB082	ah ah
 PSB005	ah è da lì quindi
 PSB081	è davanti dritto a via
-???	non capisco il nome della via nelle malle non ci sono nomi simili vicino a via bolognesi
+??	non capisco il nome della via nelle malle non ci sono nomi simili vicino a via bolognesi
 PSB005	okay
 PSB082	sì
 PSB005	ah deve essere dritto dalla parte opposta della stazione
@@ -244,9 +244,9 @@ PSB005	okay
 PSB081	io la~ lavoro lì via per l'incrocio di di ah non mi ricordo bene però lavoro $bastanza bene
 PSB005	okay
 PSB081	ciao prego
-???	ciao lattementa xx
+??	ciao lattementa xx
 PSB081	lattementa
-???	xx
+??	xx
 PSB005	e ti piaceva stare a forlì
 PSB081	eh forlì forlì molto piaciuto
 PSB081	per me per me forlì è bellissimo
@@ -270,37 +270,37 @@ PSB082	xx
 PSB082	sì è comunque una città cioè con le dinamiche della città
 PSB082	eh
 PSB005	e poi questa zona di bologna è particolarmente incasinata no
-???	xxx
+??	xxx
 PSB081	sì
-???	ghiaccio
+??	ghiaccio
 PSB081	un po' di ghiaccio
 PSB081	tu fare due morsi dopo facciamo ghiaccio
 PSB005	perché se no esce la s~
 PSB081	sì
-???	no calda eh
+??	no calda eh
 PSB005	perché è troppo pieno
-???	no no sempre dopo eh
+??	no no sempre dopo eh
 PSB081	mettiamo due basta
-???	sì
-???	quattro cinque
+??	sì
+??	quattro cinque
 PSB081	quattro non ci sta
-???	poco
-???	poco
+??	poco
+??	poco
 PSB082	xx
-???	butta via
+??	butta via
 PSB082	rovesciarne un po'
-???	sì butta via
+??	sì butta via
 PSB081	ah
-???	prima fatto il x prima ghiaccio dopo il latte
+??	prima fatto il x prima ghiaccio dopo il latte
 PSB081	ah sì io però io non so che tu vuole ghiaccio
-???	beh è bravo eh
-???	a posto basta basta
+??	beh è bravo eh
+??	a posto basta basta
 PSB082	stai lavorando al cantiere tu
-???	sì xxx al cantiere
+??	sì xxx al cantiere
 PSB005	e e vivete anche in questa zona
 PSB005	o lavorate solo
 PSB081	no io
-???	bisogna bere adesso
+??	bisogna bere adesso
 PSB081	a vicino a ospedale maggiore
 PSB005	mhmh okay e come ti trovi nella zona dell'ospedale maggiore
 PSB081	xxx con viverci perché è mo~ molto silenziosa xx una piccola pia~ piaxx xxx xxxx
@@ -371,7 +371,7 @@ PSB081	diventa povero
 PSB082	eh sì
 PSB005	io non conosco nessuno che non lavora lavorano tutti
 PSB082	eh io conosco chi può non lavorare
-???	ha bisogno
+??	ha bisogno
 PSB082	eh
 PSB081	a me meglio meglio così si è tutti amici si lavora va bene
 PSB005	mh certo sì sì c'è qualcuno che cerca lavoro però tutti vogliono lavorare sì
@@ -382,7 +382,7 @@ PSB081	eh
 PSB081	è capito giocano macchinetta andato fuori x giardino xxxx è tutto il gruppo quello lì
 PSB082	ah ah
 PSB082	eh certo
-???	non riesco proprio a capire di cosa stia parlando
+??	non riesco proprio a capire di cosa stia parlando
 PSB081	perché se no come io non si entra capito giocano macchinetta invece io non piace come si entra là
 PSB082	devi adattarti dici
 PSB081	sì invece loro
@@ -416,7 +416,7 @@ PSB081	perché non conosco qua nessuno venire qua almeno amico parente
 PSB082	certo
 PSB082	ma non c'era non avevi nessuno
 PSB081	io io c'avevo una volta c'avevo c'avevo una parente un po' lontano però vive olanda
-???	ciao
+??	ciao
 PSB081	ma da piccola pensare che è andato là
 PSB082	ah sì
 PSB081	dopo quel parente muoio
@@ -592,9 +592,9 @@ PSB081	per me questo non va bene perché io girano poco
 PSB005	mhmh
 PSB081	perché bologna in centro secondo me
 PSB081	perché è un po' qua vicino alla stazione veramente un po' casino
-???	oh scusa scusa scusa
+??	oh scusa scusa scusa
 PSB005	scusa te sono io ecco così
-???	no no bene
+??	no no bene
 PSB081	perché qua eh qua vicino stazione è casino quasi xxx
 PSB005	mh sì sì ma ti piacerebbe vivere in centro qui vicino al bar o no
 PSB081	no no no se esempio se io sono xx per lavoro qua se io dormire se la casa xxx a me piace
@@ -1307,7 +1307,7 @@ PSB081	quando quanto io posso comprare un hamburger
 PSB081	perché prima solo città molto grande c'è o xx o pechino
 PSB081	in altre città non c'era è vero
 PSB082	mhmh
-???	xx goccetto d'acqua
+??	xx goccetto d'acqua
 PSB081	sì naturale
 PSB081	un euro e quaranta
 PSB082	xx xxx
@@ -1324,7 +1324,7 @@ PSB005	ma ehm
 PSB005	tu tu parli un dialetto cinese giusto
 PSB081	sì
 PSB082	mi daresti un acqua xx con il ghiaccio
-???	sì ehm frizzante o naturale
+??	sì ehm frizzante o naturale
 PSB082	naturale
 PSB005	tu parli un dialetto cinese
 PSB081	sì certo
@@ -1356,13 +1356,13 @@ PSB081	perché solo a scuola
 PSB082	grazie mille
 PSB005	mhmh
 PSB081	adesso perché la bambine se no andare a scuola già imparato bene
-???	lo vuoi acqua
+??	lo vuoi acqua
 PSB005	no no grazie sono a posto grazie mille
 PSB081	vuoi ancora un po' di acqua
 PSB005	eh no no davvero stai stai tranquillo no no sono a posto
 PSB081	xxx xxx xx
 PSB081	hai capito perché la gente già gioca vedere con video bambino
-???	xx
+??	xx
 PSB081	guarda tv
 PSB005	mhmh
 PSB082	eh certo

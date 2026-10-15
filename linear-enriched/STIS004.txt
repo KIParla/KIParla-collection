@@ -85,7 +85,7 @@ PST008	((tossicchia))
 PST008	sì: io lavoro #en #*un ristorante:,
 PST008	[a la (.) a la] sera:
 PST201	[oka(y)]
-PST201	[e tu: in[vece]?]
+PST201	[e tu: in[vece?]]
 PST008	[°a la sera: s[olo°]]
 PST007	[anche i:]o: lavoro (#en) #*u:n (.) ristorante: italiano $iguale alla sera:,
 PST008	no: [io no: io:, #e:n #*un ristorante peru]viano:,
@@ -958,7 +958,7 @@ PST007	milletrecento:, e lavorava #en (altro) lavoro: e::
 PST007	(tu sa che,)
 PST007	tutto #el mese:, in soldi: mile e #ocho ce~ (.) mille e #ocho::
 PST008	#ocho,
-PST008	o: (.) [cen~ (.) <#o[cho] cento>.]
+PST008	o: (.) [cen~ (.) <#o[cho] cento.>]
 PST201	[otto, cent[o:]]
 PST007	[[o(t)]to:ce:nto] ((ride))
 PST007	mille ottocento:

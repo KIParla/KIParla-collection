@@ -2594,7 +2594,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 741-0	PST107	741	0	#_ āh	āh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1131.43	_	_	_	_
 741-1	PST107	741	1	ngūlu	ngūlu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 741-2	PST107	741	2	[ms~	ms~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	0-3(190)
-741-3	PST107	741	3	]		_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1132.56	_	_	_	_
+741-3	PST107	741	3	]	_	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1132.56	_	_	_	_
 743-0	??	743	0	#_ [bi-ḷḷāh]	bi-ḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1131.85	_	_	_	0-7(?)
 743-1	??	743	1	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1133.0	_	_	_	_
 745-0	PST107	745	0	#_ ʕrəft	ʕrəft	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1132.88	_	_	_	_
@@ -2840,11 +2840,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 874-1	PST107	874	1	ttā	ttā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 874-2	PST107	874	2	ghādi	ghādi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 874-3	PST107	874	3	ta-tṭīḥ	ta-tṭīḥ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1221.28	_	_	_	_
-876-0	?	876	0	#_ [hād	hād	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1221.69	_	_	_	0-3(225)
-876-1	?	876	1	l-qaḍiya]	l-qaḍiya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(225)
-876-2	?	876	2	āsh	āsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-876-3	?	876	3	y-dīrū	y-dīrū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-876-4	?	876	4	bīh	bīh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1222.68	_	_	_	_
+876-0	???	876	0	#_ [hād	hād	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1221.69	_	_	_	0-3(225)
+876-1	???	876	1	l-qaḍiya]	l-qaḍiya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(225)
+876-2	???	876	2	āsh	āsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+876-3	???	876	3	y-dīrū	y-dīrū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+876-4	???	876	4	bīh	bīh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1222.68	_	_	_	_
 878-0	??	878	0	#_ ʔamār	ʔamār	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1223.39	_	_	_	_
 878-1	??	878	1	[jīb-lī	jīb-lī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(?)
 878-2	??	878	2	s-sīr]	s-sīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1224.41	_	_	_	0-5(?)
@@ -4100,12 +4100,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1398-0	??	1398	0	#_ ghāli	ghāli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1792.291	_	_	_	_
 1398-1	??	1398	1	cento	cento	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1793.691	_	_	_	_
 1400-0	PST108	1400	0	#_ ʔālū	ʔālū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1795.727|End=1796.236	_	_	_	_
-1402-0	?	1402	0	#_ [shkūun]	shkūun	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1797.082	_	_	_	0-6(328)
-1402-1	?	1402	1	lli	lli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1402-2	?	1402	2	ḥaṭṭa	ḥaṭṭa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1402-3	?	1402	3	hādi	hādi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1402-4	?	1402	4	l-ʕayba	l-ʕayba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1402-5	?	1402	5	ṭāḥət	ṭāḥət	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1798.709	_	_	_	_
+1402-0	???	1402	0	#_ [shkūun]	shkūun	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1797.082	_	_	_	0-6(328)
+1402-1	???	1402	1	lli	lli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1402-2	???	1402	2	ḥaṭṭa	ḥaṭṭa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1402-3	???	1402	3	hādi	hādi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1402-4	???	1402	4	l-ʕayba	l-ʕayba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1402-5	???	1402	5	ṭāḥət	ṭāḥət	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1798.709	_	_	_	_
 1404-0	??	1404	0	#_ [shku::n]	shkun	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1797.118|End=1797.673	3x2	_	_	0-5(328)
 1406-0	PST107	1406	0	#_ tədwi	tədwi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1798.836	_	_	_	_
 1406-1	PST107	1406	1	l-na	l-na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -4162,9 +4162,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1430-3	PST108	1430	3	tlāta	tlāta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(438)
 1430-4	PST108	1430	4	dyāl	dyāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(438)
 1430-5	PST108	1430	5	xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1822.04	_	_	_	0-2(438)
-1432-0	?	1432	0	#_ [xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	Begin=1819.11	_	_	_	0-2(438)
-1432-1	?	1432	1	wulla	wulla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1432-2	?	1432	2	hādi	hādi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1822.81	_	_	_	_
+1432-0	???	1432	0	#_ [xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	Begin=1819.11	_	_	_	0-2(438)
+1432-1	???	1432	1	wulla	wulla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1432-2	???	1432	2	hādi	hādi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1822.81	_	_	_	_
 1434-0	PST107	1434	0	[ah]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1821.66|End=1822.16	_	_	_	0-2(438)
 1435-0	??	1435	0	a:h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1823.254	0x1	_	_	_
 1435-1	??	1435	1	mia	mia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4487,12 +4487,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1505-1	PST107	1505	1	māl-ək	māl-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1505-2	PST107	1505	2	ma-səjjīlt-ih	ma-səjjīlt-ih	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1505-3	PST107	1505	3	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1970.19	_	_	_	_
-1507-0	?	1507	0	#_ anta	anta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1970.96	_	_	_	_
-1507-1	?	1507	1	ʕārf-hum	ʕārf-hum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1507-2	?	1507	2	dyāl	dyāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1507-3	?	1507	3	wlādi	wlādi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1507-4	?	1507	4	hādu	hādu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1507-5	?	1507	5	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1972.69	_	_	_	_
+1507-0	???	1507	0	#_ anta	anta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1970.96	_	_	_	_
+1507-1	???	1507	1	ʕārf-hum	ʕārf-hum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1507-2	???	1507	2	dyāl	dyāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1507-3	???	1507	3	wlādi	wlādi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1507-4	???	1507	4	hādu	hādu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1507-5	???	1507	5	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1972.69	_	_	_	_
 1509-0	PST107	1509	0	#_ w-ṛāh	w-ṛāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1972.67	_	_	_	_
 1509-1	PST107	1509	1	ḥaṭṭīt-u	ḥaṭṭīt-u	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1509-2	PST107	1509	2	āna	āna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -4502,21 +4502,21 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1509-6	PST107	1509	6	wāḥda	wāḥda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1509-7	PST107	1509	7	[l-taḥt	l-taḥt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(347)
 1509-8	PST107	1509	8	w-l-fūq]	w-l-fūq	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1975.99	_	_	_	0-7(347)
-1511-0	?	1511	0	#_ [xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	Begin=1975.46	_	_	_	0-2(347)
-1511-1	?	1511	1	məxzən	məxzən	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1511-2	?	1511	2	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1976.9	_	_	_	_
+1511-0	???	1511	0	#_ [xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	Begin=1975.46	_	_	_	0-2(347)
+1511-1	???	1511	1	məxzən	məxzən	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1511-2	???	1511	2	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1976.9	_	_	_	_
 1513-0	PST107	1513	0	#_ aʕūdu	aʕūdu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1977.25	_	_	_	_
 1513-1	PST107	1513	1	bi-ḷḷāh	bi-ḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1978.11	_	_	_	_
 1515-0	??	1515	0	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1978.11	_	_	_	_
 1515-1	??	1515	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1515-2	??	1515	2	mondo	mondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1515-3	??	1515	3	arabo	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1979.5	_	_	_	_
-1516-0	?	1516	0	#_ shi	shi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1978.47	_	_	_	_
-1516-1	?	1516	1	lā	lā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1516-2	?	1516	2	yḥaṭṭ-ha	yḥaṭṭ-ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1516-3	?	1516	3	hāda	hāda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1516-4	?	1516	4	ʕlāsh	ʕlāsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1516-5	?	1516	5	ka-yḥǎṭṭ-ha	ka-yḥǎṭṭ-ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1980.11	_	_	_	_
+1516-0	???	1516	0	#_ shi	shi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1978.47	_	_	_	_
+1516-1	???	1516	1	lā	lā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1516-2	???	1516	2	yḥaṭṭ-ha	yḥaṭṭ-ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1516-3	???	1516	3	hāda	hāda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1516-4	???	1516	4	ʕlāsh	ʕlāsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1516-5	???	1516	5	ka-yḥǎṭṭ-ha	ka-yḥǎṭṭ-ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1980.11	_	_	_	_
 1518-0	PST107	1518	0	#_ ngūl-līk	ngūl-līk	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1980.0	_	_	_	_
 1518-1	PST107	1518	1	xall	xall	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1518-2	PST107	1518	2	hādāk	hādāk	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_

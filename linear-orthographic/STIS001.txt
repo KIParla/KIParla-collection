@@ -183,7 +183,7 @@ PST001	superga sì bella
 PST001	la vista torino molto bello sì
 PST002	#todo torino
 PST001	ehm
-PST001	niente na h #de ahí o altro #lugares no #no #hemos #podido visitare
+PST001	niente na #de ahí o altro #lugares no #no #hemos #podido visitare
 PST002	mmmh
 PST200	mhmhmhmhmh
 PST002	la falta
@@ -1162,7 +1162,7 @@ PST200	però in realtà ci sono parecchi peruviani in~ a torino quindi magari se
 PST001	sì
 PST200	qualcuno perché ci sono peruviani sì sì sì sì che ci sono ci sono
 PST001	mhmh
-PST001	sìsì sì sì
+PST001	sì sì sì sì
 PST002	#bastante
 PST200	e dobbiamo anche chiedere questa cosa qua
 PST201	sì

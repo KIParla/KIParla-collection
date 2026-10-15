@@ -3,8 +3,8 @@ BO087	ecco buongiorno
 BO089	xxx
 BO087	no ho un po' freddo si può chiudere la porta
 BO087	vi dispiace
-???	a ma per chiudere
-???	xxx vado io
+??	a ma per chiudere
+??	xxx vado io
 BO087	allora lei
 BO089	bibliografia sì
 BO087	bibliografia

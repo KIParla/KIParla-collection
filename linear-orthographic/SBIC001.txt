@@ -941,7 +941,7 @@ PSB005	mhmh
 PSB001	$nete #yǒu #wǎng
 PSB002	ah bene
 PSB001	#_ zhī zhū wǎng
-PSB002	ragnatel come si ra
+PSB002	ragnatel- come si ra
 PSB005	okay ho ca~ forse ho capito rete
 PSB002	x
 PSB005	forse vuoi dire sì
@@ -1012,7 +1012,7 @@ PSB001	laure~
 PSB005	mhmh
 PSB001	sì
 PSB001	laureo
-PSB001	a ma ma~ a marzo
+PSB001	a ma- ma~ a marzo
 PSB005	sì
 PSB002	ah
 PSB001	ma adesso
@@ -1020,7 +1020,7 @@ PSB001	ancora mi sono mh manca
 PSB001	manca un esame sì
 PSB002	ti manca
 PSB005	okay
-PSB001	anche u anche no ancora no finito la tesi
+PSB001	anche u- anche no ancora no finito la tesi
 PSB005	sì
 PSB001	quindi devo mh
 PSB001	fino fino a
@@ -1323,7 +1323,7 @@ PSB005	immaginavo sì
 PSB002	sì
 PSB001	sì grande
 PSB002	con due tipi di peperoncini
-PSB001	sì sì sì è anche va~ vapore comunque è al vapore
+PSB001	sì sì sìè anche va~ vapore comunque è al vapore
 PSB005	mhmh
 PSB002	sì
 PSB005	ah è giusto sì
@@ -1851,7 +1851,7 @@ PSB002	ah sì ah sì sì sì sì sì sì
 PSB005	fra il nostro natale e il vostro okay
 PSB001	mhmh
 PSB002	sì esatto sì
-PSB005	come importanza per la famigliase ho capito sì
+PSB005	come importanza per la famiglia se ho capito sì
 PSB002	sì sì
 PSB002	sì
 PSB005	sì sì
@@ -2019,7 +2019,7 @@ PSB002	quindi un po' di
 PSB002	eh come
 PSB002	cioè vicino a
 PSB002	#_ nán jīng huà
-PSB005	io comunque non conosco io non sonulla
+PSB005	io comunque non conosco io non so nulla
 PSB002	eh di nanchino cioè il dialetto
 PSB005	okay quindi spiegatemi tutto sì
 PSB002	vici~ vicino
@@ -2079,7 +2079,7 @@ PSB005	esatto
 PSB002	sì
 PSB005	e ti piaceva parlare
 PSB002	eh
-PSB005	cioè l'hai imparato facilmente ve o no
+PSB005	cioè l'hai imparato facilmente ve- o no
 PSB002	sì
 PSB002	sì sì
 PSB005	sì
@@ -2097,7 +2097,7 @@ PSB005	situazione
 PSB005	okay
 PSB001	quindi sì d~ della casa
 PSB001	di solito sì parliam~ ehm sì parliamo
-PSB001	dia~ dialogo il dia
+PSB001	dia~ dialogo il dia-
 PSB002	dialetto
 PSB002	dialetto
 PSB001	sì dial~ ah sì dialetto
@@ -2224,7 +2224,7 @@ PSB001	sì coniugare
 PSB002	sì sì sì
 PSB001	anche c'è
 PSB001	mh e poi secondo è
-PSB001	coniuga collegato per du~ due due parole
+PSB001	coniuga- collegato per du~ due due parole
 PSB001	collega
 PSB005	mhmh
 PSB001	come si dice
@@ -2308,7 +2308,7 @@ PSB001	no non sì
 PSB001	eh non non riesco a capire
 PSB005	no la radio
 PSB002	sì
-PSB005	la radionon so se è una buona idea
+PSB005	la radio non so se è una buona idea
 PSB002	sì sì
 PSB001	ah sì sì
 PSB005	io non la consiglio no
@@ -2387,7 +2387,7 @@ PSB002	sì
 PSB002	suonato la tastiera
 PSB005	okay
 PSB002	e la chitarra
-PSB005	ahche bello
+PSB005	ah che bello
 PSB002	sì
 PSB002	sì però solo
 PSB002	se~ sette anni
@@ -2436,7 +2436,7 @@ PSB005	ehm
 PSB005	forse posso chiedere a di più che altro
 PSB005	se ehm
 PSB002	sì
-PSB005	perché n~ per esempiolei mi diceva che frequenta molte persone
+PSB005	perché n~ per esempio lei mi diceva che frequenta molte persone
 PSB005	molte più amici cinesi che persone italiane invece tu
 PSB002	ah
 PSB005	hai frequentazioni più

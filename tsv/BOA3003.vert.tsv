@@ -9750,10 +9750,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1680-12	BO017	1680	12	po'.	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=3919.8	_	_	_	_
 1681-0	BO016	1681	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=3919.8	_	_	_	_
 1681-1	BO016	1681	1	mh,	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=3920.298	_	_	_	_
-1682-0	BO017	1682	0	mhh	mhh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=3924.249	_	_	_	_
-1682-1	BO017	1682	1	mhh	mhh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
-1682-2	BO017	1682	2	m.hh	m.hh	_	_	_	_	_	error	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
-1682-3	BO017	1682	3	m.hh	m.hh	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+1682-0	BO017	1682	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3924.249	_	_	_	_
+1682-1	BO017	1682	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1682-2	BO017	1682	2	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1682-3	BO017	1682	3	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1682-4	BO017	1682	4	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1682-5	BO017	1682	5	sembra	sembra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1682-6	BO017	1682	6	ovvio,	ovvio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_

@@ -361,7 +361,7 @@ PSB031	mi piace fare tutto mi piace anche camminare mi piace ehm visitare nuovi
 PSB030	posti
 PSB031	pu~
 PSB031	posti
-PSB031	mi piace cucinare mi piace guardare ehm adesso e h noi guardiamo mh film italiani
+PSB031	mi piace cucinare mi piace guardare ehm adesso eh noi guardiamo mh film italiani
 PSB005	mhmh
 PSB031	ehm per studiare
 PSB030	come moderna o più vecchia
@@ -418,13 +418,13 @@ PSB031	sì
 PSB030	seriale o xx
 PSB031	sì eh e f~ film e seriale
 PSB005	sì
-???	ragazze sono qui i ragazzi
-??	okay
-???	xxx gli altri con la eh
-??	okay okay
-???	scusa un attimo
+??	ragazze sono qui i ragazzi
+???	okay
+??	xxx gli altri con la eh
+???	okay okay
+??	scusa un attimo
 PSB005	prego prego sì sì
-???	volevo dirti una cosa così ti regoli
+??	volevo dirti una cosa così ti regoli
 PSB005	sì sì
 PSB005	dimmi dimmi
 PSB005	vi incontrate raramente

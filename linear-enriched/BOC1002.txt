@@ -4,8 +4,8 @@ BO089	xxx
 BO087	((tossisce))
 BO087	no. ho un po' freddo, si può chiudere la porta?
 BO087	vi dispiace?
-???	(a ma per chiudere?)
-???	xxx vado io.
+??	(a ma per chiudere?)
+??	xxx vado io.
 BO087	allora lei,
 BO089	[bibliografia (.) sì].
 BO087	[<bibliografia>],
@@ -254,7 +254,7 @@ BO087	cioè=s (.) in un libro, cinese (.) nel frontespizio di un libro cinese (.
 BO087	gou morou?
 BO089	sì.
 BO087	sì.
-BO087	quindi (.) > io trovo scritto< prima il congome, e poi il no[me].
+BO087	quindi (.) >io trovo scritto< prima il congome, e poi il no[me].
 BO089	mh mh,
 BO087	uno si scri~ non si presentano così?
 BO089	sì anche=mh (.) an~ (.) quando si chiaman[o, non è che si chi]amano per nome (.) [si chiamano per nome, (.) della famiglia].

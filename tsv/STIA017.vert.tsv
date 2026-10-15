@@ -2970,8 +2970,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 751-2	PST088	751	2	devono	devono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 751-3	PST088	751	3	rispettare	rispettare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 751-4	PST088	751	4	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-751-5	PST088	751	5	genitori	genitori	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
-751-6	PST088	751	6	.sopratutto,	.sopratutto,	_	_	_	_	_	error	_	ContainsVariation=No	_	End=1282.95	_	_	_	_
+751-5	PST088	751	5	genitori.	genitori	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
+751-6	PST088	751	6	sopratutto,	sopratutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1282.95	_	_	_	_
 752-0	PST088	752	0	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1283.34	_	_	_	_
 752-1	PST088	752	1	ragazzi.	ragazzi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1284.09	_	_	_	_
 753-0	PST088	753	0	devi	devi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1284.92	_	_	_	_
@@ -5766,8 +5766,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1454-3	PST088	1454	3	a:~	a~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=2509.058	0x1	_	_	_
 1455-0	PST088	1455	0	ad	ad	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2509.81	_	_	_	_
 1455-1	PST088	1455	1	adorare	adorare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1455-2	PST088	1455	2	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
-1455-3	PST088	1455	3	.perché	.perché	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+1455-2	PST088	1455	2	bene.	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
+1455-3	PST088	1455	3	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1455-4	PST088	1455	4	adorare	adorare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1455-5	PST088	1455	5	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1455-6	PST088	1455	6	vuol	vuol	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

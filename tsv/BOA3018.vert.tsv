@@ -653,9 +653,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 128-1	BO145	128	1	nella	nella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 128-2	BO145	128	2	maglietta	maglietta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 128-3	BO145	128	3	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-128-4	BO145	128	4	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+128-4	BO145	128	4	aitch	aitch	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 128-5	BO145	128	5	and	and	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-128-6	BO145	128	6	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=255.146	_	_	_	_
+128-6	BO145	128	6	em	em	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=255.146	_	_	_	_
 129-0	BO145	129	0	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=255.536	_	_	_	_
 129-1	BO145	129	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 129-2	BO145	129	2	zara	zara	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

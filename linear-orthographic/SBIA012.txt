@@ -629,20 +629,20 @@ PSB065	sì
 PSB065	no anch'io vado con mio marito nel castello quello con cla xx xxxx
 PSB066	se
 PSB066	sì castello
-???	#_ xx
+??	#_ xx
 PSB005	prego nessun problema
 PSB066	sì
 PSB005	mi stava raccontando scxx
 PSB065	#_ yāk-ma d-drāri ka-ydīru shi ḥāja
 PSB065	#_ l-yūma gha-ttqtənni
-???	#_ xxx
-???	#_ xx
+??	#_ xxx
+??	#_ xx
 PSB066	sì #sīri
 PSB065	#_ xx nārī a-xti ḍārra-h ḍ-ḍaṛṣa gha-nəddi-h ʕand ṭ-ṭbīb ḥshūma
-???	#_ xx
+??	#_ xx
 PSB066	#_ l-muhimm ma-taʕṭā-sh lī-h
 PSB065	ah
-???	#_ xx
+??	#_ xx
 PSB066	#_ a-sīri a-sīri
 PSB065	#_ wāh a-xti ṛā-h a-sīri a-sīri
 PSB066	#sīri
@@ -1171,7 +1171,7 @@ PSB065	#ḥammām marocchino o quello turco
 PSB066	marocchino o turco
 PSB066	c'è turco e marocchino
 PSB005	sono andata e
-???	fatto le le
+??	fatto le le
 PSB005	sì
 PSB066	sì io vado marocco il quindici
 PSB065	questo xx
@@ -1370,7 +1370,7 @@ PSB066	ah sì c'è anche iper tosano
 PSB065	sì iper tosano c'è tanti c'è una parte di marocchini
 PSB066	sì
 PSB066	di marocco
-???	sì
+??	sì
 PSB005	fantastico
 PSB065	sì
 PSB066	sì
@@ -1440,7 +1440,7 @@ PSB066	ah
 PSB005	eh noi solo per
 PSB005	per natale quando è natale io vado dalla mia mamma e cuciniamo tutta la mattina sì
 PSB065	ah
-???	ah
+??	ah
 PSB066	ah tutto la mamma sì sì
 PSB005	questo sempre
 PSB065	la tua mamma dove abita
@@ -1448,7 +1448,7 @@ PSB065	a bologna
 PSB005	a bologna sì sì
 PSB065	è vicina sì sì
 PSB005	sì lei è di o- di origine di lecce della puglia
-???	puglia xx sì
+??	puglia xx sì
 PSB005	però sono tren-
 PSB005	trentacinque anni che è qui sì
 PSB066	chi
@@ -1531,7 +1531,7 @@ PSB066	eh trovo un po' di cambio un po' di cambio sì
 PSB005	okay
 PSB066	n- non trovo questa ehm questa lingua
 PSB005	quindi un po' di cambiamento c'è secondo te
-???	sì xx
+??	sì xx
 PSB066	un pochet~ sì #_ un peu
 PSB066	sì sì sì sì
 PSB005	eh ma le lingue cambiano sì
@@ -1739,7 +1739,7 @@ PSB066	fe- una festa semplice eh le bambine mettono le vestite nuove anche le ma
 PSB066	le come di- le dolce come i biscotti queste e basta
 PSB005	okay okay e
 PSB066	questa la seconda c'è quante feste abbiamo
-???	posso
+??	posso
 PSB066	quante feste
 PSB066	quante fe- #_ ʕand-na jūj də-l-ʕayād
 PSB065	sì questo di ramadan e l'altro di festa di ehm ehm
@@ -1848,15 +1848,15 @@ PSB065	sì
 PSB065	sì anche la moschea senti #l-adān #əṣ-ṣalāt
 PSB066	per noi la moschea un baxx grande sì sente tu sente il marocco tutto
 PSB065	sì sì
-??	mamma
+???	mamma
 PSB005	quindi è diverso quindi
 PSB066	sì mh diversissimo sì sì
 PSB065	sì
-??	mamma
+???	mamma
 PSB065	xx xx
 PSB066	mia mamma fatto il ramadan da noi due o tre volte ma detto no dobbiamo andare al marocco per fare quest'anno l'ha fatto marocco e contentissima eh ma eh
-??	mamma
-??	mamma
+???	mamma
+???	mamma
 PSB005	carina
 PSB065	sì anche mio papà è detto così sì ma adesso lui morto da un anno sì
 PSB066	anche tuo papà sì x sì
@@ -2000,7 +2000,7 @@ PSB005	okay
 PSB066	di bologna
 PSB005	okay
 PSB066	eh
-??	mamma
+???	mamma
 PSB066	di bologna conosce
 PSB005	no
 PSB065	xxx
@@ -2012,17 +2012,17 @@ PSB066	meraville bravissima meraville lavora lì dentro lavora lì
 PSB005	meraville sì
 PSB005	sì sì sì certo
 PSB066	l'altra lavora a bologna
-??	mamma
+???	mamma
 PSB005	quindi studiano e lavorano son bravissime
-??	mamma
+???	mamma
 PSB066	lavorano
 PSB066	sì sì studiano lavorano per quello
-??	mamma mamma
+???	mamma mamma
 PSB005	sì sì
 PSB065	dimmi
 PSB066	non è una problema
 PSB005	non fa niente
-??	mamma
+???	mamma
 PSB005	non è un problema
 PSB005	se se dovete andare che sono stanchi
 PSB066	xx

@@ -6310,13 +6310,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1699-0	PSB005	1699	0	°a:h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2769.73	0x1	_	_	_
 1699-1	PSB005	1699	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 1699-2	PSB005	1699	2	sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2770.56	_	_	_	_
-1700-0	???	1700	0	((audio_da_video))	((audio_da_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2769.75|End=2771.58	_	_	_	_
+1700-0	??	1700	0	((audio_da_video))	((audio_da_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2769.75|End=2771.58	_	_	_	_
 1701-0	PSB005	1701	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2771.63	_	_	_	_
 1701-1	PSB005	1701	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1701-2	PSB005	1701	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 1701-3	PSB005	1701	3	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1701-4	PSB005	1701	4	v~	v~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=2772.34	_	_	_	_
-1702-0	???	1702	0	((audio_da_video))	((audio_da_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2772.18|End=2773.19	_	_	_	_
+1702-0	??	1702	0	((audio_da_video))	((audio_da_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2772.18|End=2773.19	_	_	_	_
 1703-0	PSB005	1703	0	li	li	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2773.19	_	_	_	_
 1703-1	PSB005	1703	1	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1703-2	PSB005	1703	2	visti	visti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6450,7 +6450,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1731-2	PSB022	1731	2	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1731-3	PSB022	1731	3	questa,	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2832.1	_	_	_	_
 1732-0	PSB022	1732	0	guarda.	guarda	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=2832.86|End=2833.25	_	_	_	_
-1733-0	???	1733	0	((audio_da_video))	((audio_da_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2833.64|End=2834.9635	_	_	_	_
+1733-0	??	1733	0	((audio_da_video))	((audio_da_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2833.64|End=2834.9635	_	_	_	_
 1734-0	PSB022	1734	0	>questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2834.9635	_	Fast=0-6(0)	_	_
 1734-1	PSB022	1734	1	mia	mia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-3(0)	_	_
 1734-2	PSB022	1734	2	città<	città	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2835.67	_	Fast=0-5(0)	_	_
@@ -8772,7 +8772,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2364-0	PSB022	2364	0	[x]	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	Begin=3891.19|End=3891.47	_	_	_	0-1(499)
 2365-0	PSB022	2365	0	@giacomo?	@giacomo	_	_	_	_	_	anonymized	_	ContainsVariation=No	Intonation=Rising|Anonymized=Yes	Begin=3892.76|End=3893.16	_	_	_	_
 2366-0	PSB005	2366	0	vediamo.	vediamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=3894.05|End=3894.5	_	_	_	_
-2367-0	???	2367	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3904.41|End=3905.89	_	_	_	_
+2367-0	??	2367	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3904.41|End=3905.89	_	_	_	_
 2368-0	PSB022	2368	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=3927.19	_	_	_	_
 2368-1	PSB022	2368	1	b:ruttissima.	bruttissima	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=3928.5	0x1	_	_	_
 2369-0	PSB022	2369	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3928.99	_	_	_	_

@@ -918,7 +918,7 @@ TOR001	in barriera
 TOR003	sì sì
 TOR003	in zona lì
 TOR003	eh sì perché si son cosciuti al liceo andavano al liceo insieme xxx
-???	buongiorno
+??	buongiorno
 TOR001	in barriera
 TOR003	sì in barriera
 TOR001	okay okay va bene
@@ -927,7 +927,7 @@ TOR001	okay
 TOI035	insomma
 TOI035	sì era una zona che non c'era un granché non
 TOI035	xxx
-???	buongiorno
+??	buongiorno
 TOI035	buongiorno
 TOR001	salve
 TOR003	buongiorno

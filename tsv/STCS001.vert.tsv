@@ -1473,7 +1473,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 232-3	PST068	232	3	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	_
 232-4	PST068	232	4	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-3(0)	_	0-3(72)
 232-5	PST068	232	5	potresti	potresti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-8(0)	_	0-8(72)
-232-6	PST068	232	6	farlo<?]	farlo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=405.712	_	Fast=0-5(0)	_	0-5(72)
+232-6	PST068	232	6	farlo?<]	farlo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=405.712	_	Fast=0-5(0)	_	0-5(72)
 233-0	PST069	233	0	[di::]	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=404.83|End=405.6	1x2	_	_	0-2(72)
 234-0	PST068	234	0	[xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	PauseAfter=Yes|Syllables=3	Begin=405.725	_	_	_	0-3(746)
 234-1	PST068	234	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(746)

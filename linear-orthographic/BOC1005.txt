@@ -1,10 +1,10 @@
-???	allora io sarò sarò qui accanto
+??	allora io sarò sarò qui accanto
 BO104	d'accordo noi ne avremo penso per una ventina di minuti perché poi l'esame è diviso in due parti quindi
-???	perfetto
-???	grazie mille
+??	perfetto
+??	grazie mille
 BO104	prego
 BO105	ciao
-???	a fra poco
+??	a fra poco
 BO104	allora senti ti vorrei chiedere di parlare di valutazione
 BO105	sì
 BO104	intanto che cosa s'intende con valutazione testing
@@ -440,5 +440,5 @@ BO104	e basta chiamiamo anche
 BO104	il tirocinante che era grazie anche per aver dato l'autorizzazione alla registrazione
 BO105	non c'è problema
 BO104	non abbiamo schiacciato niente
-???	eh
-???	ti faccio firmare
+??	eh
+??	ti faccio firmare

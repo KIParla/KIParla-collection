@@ -530,9 +530,9 @@ PSB019	ci voleva veramente poco per me il loro livello di inglese era molto bass
 PSB019	quando mia madre >ha sentito che mi< vuole bocciare °mamma° è andata a litigare con
 PSB019	mia madre le piace litigare quindi è andata a litigare con quel professore °le fa° le faccia una qualsiasi domanda in inglese se non sa rispondere la può bocciare anche l'anno p~ successivo
 PSB019	il preside ha detto:
-???	((un_cane_abbaia))
+??	((un_cane_abbaia))
 PSB019	((ride))
-???	scusate
+??	scusate
 PSB019	[figurati]
 PSB005	[niente]
 PSB019	non gli è piaciuto quel signore
@@ -719,7 +719,7 @@ PSB005	non ti preoccupare
 PSB019	°ah okay vedi te°
 PSB005	mh: fammi vedere se:
 PSB005	e:h
-???	((registrazione_interrotta))
+??	((registrazione_interrotta))
 PSB005	okay allora qua non dovremmo più avere problemi di audio
 PSB019	((ride))
 PSB005	e: però volevo mettere in (.) °in modalità aereo°

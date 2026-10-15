@@ -5610,11 +5610,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 699-0	TOI020	699	0	°poss(o)°?	posso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	Begin=2049.86|End=2050.168	_	_	4-5(0)	_
 700-0	TOR004	700	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2050.414	_	_	_	_
 700-1	TOR004	700	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2050.922	_	_	_	_
-701-0	???	701	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=2051.804	_	_	_	_
-701-1	???	701	1	marcello	marcello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-701-2	???	701	2	mangia	mangia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-701-3	???	701	3	[come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(206)
-701-4	???	701	4	un]	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2054.185	_	_	_	0-2(206)
+701-0	??	701	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=2051.804	_	_	_	_
+701-1	??	701	1	marcello	marcello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+701-2	??	701	2	mangia	mangia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+701-3	??	701	3	[come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(206)
+701-4	??	701	4	un]	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2054.185	_	_	_	0-2(206)
 702-0	TOI020	702	0	[no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2053.792	1x1	_	_	0-2(206)
 702-1	TOI020	702	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(206)
 702-2	TOI020	702	2	sai]	sai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(206)

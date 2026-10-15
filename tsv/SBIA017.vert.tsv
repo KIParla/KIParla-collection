@@ -5173,7 +5173,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1278-0	PSB147	1278	0	[ci]	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1675.774|End=1676.102	_	_	_	0-2(425)
 1279-0	PSB146	1279	0	[chimi]ca?	chimica	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=1676.284|End=1676.732	_	_	_	0-5(426)
 1280-0	PSB147	1280	0	chimica	chimica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1676.873	_	_	_	_
-1280-1	PSB147	1280	1	>		_	_	_	_	_	error	_	ContainsVariation=Yes	_	_	_	_	_	_
+1280-1	PSB147	1280	1	>	_	_	_	_	_	_	error	_	ContainsVariation=Yes	_	_	_	_	_	_
 1280-2	PSB147	1280	2	#_ sciences	sciences	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-8(0)	_	_
 1280-3	PSB147	1280	3	chimiques<	chimiques	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-9(0)	_	_
 1280-4	PSB147	1280	4	[$simica]	simica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE|Nonce=Yes	_	End=1678.745	_	_	_	0-7(427)
@@ -6299,14 +6299,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1552-1	PSB153	1552	1	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1552-2	PSB153	1552	2	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1552-3	PSB153	1552	3	mangiare	mangiare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2036.874	_	_	_	_
-1553-0	???	1553	0	°xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=3	Begin=2036.907|End=2037.747	_	_	_	_
+1553-0	??	1553	0	°xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=3	Begin=2036.907|End=2037.747	_	_	_	_
 1554-0	PSB146	1554	0	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2038.7	_	_	_	_
 1554-1	PSB146	1554	1	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1554-2	PSB146	1554	2	adesso:	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	5x1	_	_	_
 1554-3	PSB146	1554	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 1554-4	PSB146	1554	4	possono	possono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1554-5	PSB146	1554	5	°ve[ni-]°	veni-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	End=2040.592	_	_	_	2-5(515)
-1555-0	???	1555	0	[x]	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	Begin=2040.187|End=2040.613	_	_	_	0-1(515)
+1555-0	??	1555	0	[x]	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	Begin=2040.187|End=2040.613	_	_	_	0-1(515)
 1556-0	PSB153	1556	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2041.767	_	_	_	_
 1556-1	PSB153	1556	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1556-2	PSB153	1556	2	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2042.454	_	_	_	_
@@ -6317,7 +6317,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1557-4	PSB146	1557	4	c	c	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1557-5	PSB146	1557	5	'è	'è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes	_	_	_	_	_
 1557-6	PSB146	1557	6	proble-	proble-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=2043.668	_	_	_	_
-1558-0	???	1558	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2043.794|End=2044.46	_	_	_	_
+1558-0	??	1558	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2043.794|End=2044.46	_	_	_	_
 1559-0	PSB153	1559	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2044.603	0x1	_	_	_
 1559-1	PSB153	1559	1	continuare	continuare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2045.626	_	_	_	_
 1560-0	PSB147	1560	0	°dai°	dai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2045.816|End=2046.264	_	_	_	_

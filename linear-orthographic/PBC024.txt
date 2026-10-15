@@ -122,7 +122,7 @@ BOI103	eh
 BOR036	erano simpatici
 BOI103	x
 BOR036	eran simpatici
-BOI103	e h ce n'era dei buffi
+BOI103	eh ce n'era dei buffi
 BOI103	ce n'era da ce n'era un po' di tutte le qualità sai benissimo in una scuola dove ci sono tanti tanti figli e
 BOI103	eh mh e questi ragazzi erano tutti quanti sorvegliati dai geni~ dai suoi professori
 BOR036	mhmh
@@ -400,7 +400,7 @@ BOI103	alla mia età non conosco quasi più nessuno perché non vado neanche pi�
 BOI103	alla mia eta ehm mh è tutto esaurito insomma eh mh
 BOR036	mh eh lo so
 BOI103	è un po'
-???	xxx
+??	xxx
 BOI103	è un po' se vogliamo dire ehm ehm
 BOR036	mh
 BOI103	sono isolata piutto~ pro~
@@ -798,7 +798,7 @@ BOI103	hai capito queste cose qua ti racconto io di cesare
 BOR036	beh giusto va bene giusto giusto
 BOI103	e poi cosa volete ancora
 BOR036	no ma no direi che gua~ guardami un attimo
-???	sì guardo sì
+??	sì guardo sì
 BOI103	per non dire anche quando che magari andavamo alla biblioteca
 BOR036	ehm
 BOR036	qui
@@ -826,7 +826,7 @@ BOI103	e l~ eh e lui diceva no no no no io voglio quello lì
 BOI103	uscì quello della bestia no~ non so se lo~ te lo
 BOI103	# macchè t'ha xx con una lotta con su meder andò a firmer
 BOI103	t'ho detto di andare a firmare lei perché lui voleva la bestia
-???	è un libro per adulti x x
+??	è un libro per adulti x x
 BOI104	non mi ricordo francamente
 BOR036	eh
 BOR036	era precoce
@@ -974,9 +974,9 @@ BOI104	mh capito sì sì
 BOR036	io secondo me ci sono andata fino ai quindici così
 BOI104	mhmh
 BOR036	quindici sedici forse più quindici
-???	xx
+??	xx
 BOR036	cioè perché dopo
-???	xxx
+??	xxx
 BOI103	non t'ho mica raccontato
 BOR036	era più in difficoltà
 BOR036	dimmi
@@ -1000,7 +1000,7 @@ BOI103	eh de~ de~ cose che eh le canzoni e gli raccontavo anche delle favole io 
 BOI103	mh quando era brutto tempo che mh era freddo allora ci mettevamo la nella stanzina con un panno in terra
 BOI103	e poi dopo eh mh io le leggevo dei libri che lei mi portava
 BOI103	che e il il
-???	zigo zago
+??	zigo zago
 BOI103	il p~
 BOI104	zigo zago
 BOI104	zigo zago
@@ -1023,7 +1023,7 @@ BOI103	li porti alla bella marinara
 BOR036	la sai questa
 BOI104	sì
 BOI103	eh ma io non lo so
-???	secondo me la sapeva
+??	secondo me la sapeva
 BOR036	non la sai questa poi cantava
 BOR036	no ce n'è un'altra
 BOR036	mh
@@ -1191,5 +1191,5 @@ BOI103	era questa la~ era questa la
 BOR036	xx x
 BOR036	sì sì
 BOI103	ah era questo
-???	xx
+??	xx
 BOR036	altroché

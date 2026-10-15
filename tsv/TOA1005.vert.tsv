@@ -3945,7 +3945,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 673-0	TO075	673	0	°sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1782.998	_	_	_	_
 673-1	TO075	673	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 673-2	TO075	673	2	questa°	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1784.265	_	_	_	_
-674-0	???	674	0	((squilla_un_telefono))	((squilla_un_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1784.306|End=1784.849	_	_	_	_
+674-0	??	674	0	((squilla_un_telefono))	((squilla_un_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1784.306|End=1784.849	_	_	_	_
 675-0	TO075	675	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1794.928	_	_	_	_
 675-1	TO075	675	1	eccoci	eccoci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 675-2	TO075	675	2	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1796.32	_	_	_	_

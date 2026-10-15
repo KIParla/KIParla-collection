@@ -972,7 +972,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 90-14	BZ002	90	14	applicazioni	applicazioni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-12(0)	_	_
 90-15	BZ002	90	15	[di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	0-2(15)
 90-16	BZ002	90	16	lingua]<,	lingua	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=315.003	_	Fast=0-6(0)	_	0-6(15)
-91-0	BZ001	91	0	[((h.::))]	((h.::))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=314.448|End=314.988	_	_	_	X(15)
+91-0	BZ001	91	0	[((.h::))]	((.h::))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=314.448|End=314.988	_	_	_	X(15)
 92-0	BZ002	92	0	e:::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=315.663	0x3	_	_	_
 92-1	BZ002	92	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 92-2	BZ002	92	2	be'	be'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes	_	_	_	_	_
@@ -1113,8 +1113,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 101-30	BZ002	101	30	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 101-31	BZ002	101	31	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 101-32	BZ002	101	32	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-101-33	BZ002	101	33	ritmo,.	ritmo,.	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-101-34	BZ002	101	34	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=364.16	_	_	_	_
+101-33	BZ002	101	33	ritmo,	ritmo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
+101-34	BZ002	101	34	.h	.h	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=364.16	_	_	_	_
 102-0	BZ002	102	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=364.77	_	_	_	_
 102-1	BZ002	102	1	studiare	studiare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 102-2	BZ002	102	2	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

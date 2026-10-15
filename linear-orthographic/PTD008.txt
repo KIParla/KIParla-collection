@@ -245,12 +245,12 @@ TOR001	okay
 TOR001	quindi
 TOR001	però oltre ai servizi
 TOI059	vieni vieni tranquillo
-???	non c'è niente xxxxxx
+??	non c'è niente xxxxxx
 TOI058	non c'è niente
 TOI058	che tristezza
 TOI058	possiamo metter agli atti sto bambino triste qua che ha bisogno del tablet
 TOI058	spegni la tele
-???	sì
+??	sì
 TOR001	okay
 TOR001	quindi
 TOR001	appunto dicevo oltre ai servizi ci sono delle cose che secondo voi sono particolarmente positive di questo quartiere
@@ -271,9 +271,9 @@ TOI058	c'è ruffini insomma
 TOI059	sì
 TOR001	mh mh mh mh mh
 TOI058	senza
-???	papi
+??	papi
 TOI058	eh vieni qua
-???	c'è un avviso sul diario
+??	c'è un avviso sul diario
 TOI058	eh dopo me lo fai vedere fede
 TOR001	okay
 TOR001	e invece secondo voi ci sono dei punti deboli di questo quartiere

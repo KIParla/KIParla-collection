@@ -35,7 +35,7 @@ PKP135	vedi tu
 PKP010	mh
 PKP135	mami
 PKP010	be se fai la brava qualcosa forse ti arriva
-???	buonasera
+??	buonasera
 PKP135	niente non posso farmi il piatto io
 PKP010	eh vabbè
 PKP010	no dopo ce lo fai tu dopo ce lo fai
@@ -199,7 +199,7 @@ PKP010	e poi
 PKP010	questi mh
 PKP010	bea maronna guarda questo musetto
 PKP010	minchia è ancora tutto
-???	eh ti dicevo ci andavo con lei all'inizio non lo so
+??	eh ti dicevo ci andavo con lei all'inizio non lo so
 PKP135	scusa un secondo
 PKP010	mh
 PKP010	buoni mh
@@ -343,11 +343,11 @@ PKP010	i briganti
 PKP135	come noi
 PKP135	poi
 PKP010	da dove vengono gli arrosticini
-???	questi qui li prendiamo da un fornitore veramente buono tant'è che dopo ce lo dici tu
-???	gliene ho fatti fare otto normali e due di fegato
+??	questi qui li prendiamo da un fornitore veramente buono tant'è che dopo ce lo dici tu
+??	gliene ho fatti fare otto normali e due di fegato
 PKP135	grazie
 PKP010	ah
-???	sono di villa celiera
+??	sono di villa celiera
 PKP135	ah vabbè sì
 PKP010	ah ah ok
 PKP010	okay
@@ -558,12 +558,12 @@ PKP135	eahm
 PKP135	no per quello ti dico cioè mh mi sembra che milli stia molto ehm
 PKP135	all'amo di una persona che gli fa così poi magari si può lamentare quello che gli pare ma ehm
 PKP010	basta così ti piace
-???	papà la vuoi
+??	papà la vuoi
 PKP010	eh questo
 PKP135	cioè finché le con~ non le condizioni però finché uno è xx
 PKP135	immagino ne abbia parlato ehm la situazione è questa cioè
 PKP010	eh però capito lei
-???	vallo a mettere qua sul divanetto
+??	vallo a mettere qua sul divanetto
 PKP135	no per carità dai mi dispiace ma
 PKP010	e comunque credo che
 PKP010	purtroppo mh
@@ -573,7 +573,7 @@ PKP135	stare per forza con una persona
 PKP010	eh sì lo so però lei comunque
 PKP010	sai che cos'è fa~ fabri' che fino a una certa età fino a quando sei giovane sei ragazza okay gli piaci anche ridere così
 PKP010	poi arrivato a cinquant'anni uno l'ho visto su di me cinquan~ cinquant'anni cinquantacinque quasi più senti nostalgia di voler avere affianco una persona con la quale uomo o donna che sia insomma così mh
-???	vado a prendere la maglia mario vado a piglia' la maglia in macchina grande
+??	vado a prendere la maglia mario vado a piglia' la maglia in macchina grande
 PKP010	una persona con le quali condividere veramente in maniera tranquilla
 PKP135	ma sì ma io non dico
 PKP010	cioè finisce quell'euforia di eh strava~ a meno che non vivi in un contesto sociale
@@ -655,10 +655,10 @@ PKP135	mhmh
 PKP010	nel senso che ho detto okay
 PKP010	ma io un'altra storia cioè
 PKP010	eh amicizie pesanti in questo mome~
-???	tutto bene
+??	tutto bene
 PKP135	sì sì benissimo grazie
 PKP010	ottime ottime ottime
-???	com'è andata l'a~ l'aperitivo
+??	com'è andata l'a~ l'aperitivo
 PKP010	gli arrosticini proprio ottimi
 PKP010	e
 PKP010	e quindi
@@ -680,7 +680,7 @@ PKP010	stop finito
 PKP135	e niente
 PKP135	non è detto che tutte le persone ehm
 PKP135	eh debbano viversi mh una relazione onde cioè
-???	col lei
+??	col lei
 PKP135	grazie
 PKP135	ma mi ha appena dato del lei
 PKP010	scherziamo

@@ -477,7 +477,7 @@ PST015	io cucino da solo
 PST015	io vivo ancora da solo
 PST205	ti piace la cucina italiana
 PST015	sì
-PST205	eh cucini piatti italiani a casaquali quali piatti cucini
+PST205	eh cucini piatti italiani a casa quali quali piatti cucini
 PST015	sì
 PST015	e allora pasta eh polpette
 PST015	eh faccio spezzatino

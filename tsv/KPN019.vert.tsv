@@ -1106,9 +1106,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 146-15	PKP144	146	15	[napoetan	napoetan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-8(54)
 146-16	PKP144	146	16	°no°]	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	End=420.035	_	_	_	0-2(54)
 147-0	PKP009	147	0	[°mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=418.86	_	_	_	0-2(54)
-147-1	PKP009	147	1	es]atto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-2(54)
-147-2	PKP009	147	2	°		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-147-3	PKP009	147	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=420.88	_	_	_	_
+147-1	PKP009	147	1	es]atto°	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-2(54)
+147-3	PKP009	147	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=420.88	_	_	_	_
 148-0	PKP144	148	0	((RIDE))	((RIDE))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=420.325|End=424.655	_	_	_	_
 149-0	PKP009	149	0	esa:tto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=421.695|End=422.465	2x1	_	_	_
 150-0	PKP030	150	0	[°e]h°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=424.4|End=424.825	_	_	_	0-1(57)
@@ -1285,9 +1284,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 170-15	PKP009	170	15	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-1(68)
 170-16	PKP009	170	16	zia	zia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(68)
 170-17	PKP009	170	17	antonea	antonea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-7(68)
-170-18	PKP009	170	18	°		_	_	_	_	_	error	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
-170-19	PKP009	170	19	((P))	((P))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	Volume=Low	_	_	_	_	X(68)
-170-20	PKP009	170	20	ea	ea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	0-2(68)
+170-23	PKP009	170	18	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(68)
+170-18	PKP009	170	19	°ea	ea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(68)
 170-21	PKP009	170	21	zera	zera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	0-4(68)
 170-22	PKP009	170	22	megera.°]	megera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Falling|Volume=Low	End=482.8	_	_	_	0-6(68)
 171-0	PKP144	171	0	# [E::H	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	Begin=475.72	0x2	_	_	0-2(68)

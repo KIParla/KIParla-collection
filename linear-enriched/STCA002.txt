@@ -773,7 +773,7 @@ PST107	#_ [wǝlā ka-ykūn sḥāl]
 PST108	[xx]
 ??	#_ xx ghāda tgūlī-ha l-u [xx]
 PST107	#_ ykūn ttā ghādi ta-tṭīḥ
-?	#_ [hād l-qaḍiya] āsh y-dīrū bīh
+???	#_ [hād l-qaḍiya] āsh y-dīrū bīh
 ??	#_ ʔamār [jīb-lī s-sīr]
 ??	#_ [xx] garanzia non va bene
 PST108	#_ wəḷḷāh [mā-]kāyna
@@ -1141,7 +1141,7 @@ PST107	#_ w-āji kǝmmǝl
 PST108	#_ xx ka-yshra mǝn xx
 ??	#_ ghāli cento
 PST108	#_ ʔālū
-?	#_ [shkūun] lli ḥaṭṭa hādi l-ʕayba ṭāḥət
+???	#_ [shkūun] lli ḥaṭṭa hādi l-ʕayba ṭāḥət
 ??	#_ [shku::n]
 PST107	#_ tədwi l-na tamma ash dār-lǝk
 PST110	#_ wālākīn ʕlāsh [ka-ysǝjjǝl]
@@ -1157,7 +1157,7 @@ PST217	sì le scarico adesso
 PST107	#_ ʔaw ʕāt-mshīw ʕā-tǝltmīya kīlū diyāl ḥshīsh ((ride))
 PST108	#_ hādīk::
 PST108	#_ tatlaʕ flūs [milions tlāta dyāl xx]
-?	#_ [xx] wulla hādi
+???	#_ [xx] wulla hādi
 PST107	[ah]
 ??	a:h mia figlia studia lì
 PST217	ah sì? che cosa studia
@@ -1230,12 +1230,12 @@ PST217	(classico)
 ??	ma:: mh?
 PST217	però è diverso da quello che stai parlando
 PST107	#_ tta māl-ək ma-səjjīlt-ih xx
-?	#_ anta ʕārf-hum dyāl wlādi hādu xx
+???	#_ anta ʕārf-hum dyāl wlādi hādu xx
 PST107	#_ w-ṛāh ḥaṭṭīt-u āna dyāl məxzən ḥaṭṭīt-u wāḥda [l-taḥt w-l-fūq]
-?	#_ [xx] məxzən xx
+???	#_ [xx] məxzən xx
 PST107	#_ aʕūdu bi-ḷḷāh
 ??	tutti il mondo arabo
-?	#_ shi lā yḥaṭṭ-ha hāda ʕlāsh ka-yḥǎṭṭ-ha
+???	#_ shi lā yḥaṭṭ-ha hāda ʕlāsh ka-yḥǎṭṭ-ha
 PST107	#_ ngūl-līk xall hādāk sṭīla ʕāmra
 ??	arabo #fuṣḥā
 PST107	#_ xass-ni ʕārfǝ-kum ash ka-tdīru

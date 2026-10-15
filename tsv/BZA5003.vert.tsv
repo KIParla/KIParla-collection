@@ -169,7 +169,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 19-2	BZ004	19	2	temp-]	temp-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=59.995	_	_	_	0-5(3)
 20-0	BZ001	20	0	>come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=61.755	_	Fast=0-4(0)	_	_
 20-1	BZ001	20	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	_
-20-2	BZ001	20	2	[chiama]?<	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=62.495	_	Fast=0-6(0)	_	0-6(4)
+20-2	BZ001	20	2	[chiama?]<	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=62.495	_	Fast=0-6(0)	_	0-6(4)
 21-0	BZ004	21	0	[@nomeluogo]	@nomeluogo	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=62.0	_	_	_	0-10(4)
 21-1	BZ004	21	1	@nomeluogo	@nomeluogo	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	End=63.16	_	_	_	_
 22-0	BZ001	22	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=63.175	_	_	_	_
@@ -660,7 +660,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 96-12	BZ004	96	12	altro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 96-13	BZ004	96	13	giorno,	giorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=251.63	_	_	_	_
 97-0	BZ001	97	0	[>dodici	dodici	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=251.94	_	Fast=0-6(0)	_	0-6(16)
-97-1	BZ001	97	1	luglio<?]	luglio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=252.84	_	Fast=0-6(0)	_	0-6(16)
+97-1	BZ001	97	1	luglio?<]	luglio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=252.84	_	Fast=0-6(0)	_	0-6(16)
 98-0	BZ004	98	0	[sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=251.96	_	_	_	0-4(16)
 98-1	BZ004	98	1	trentotto]	trentotto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-9(16)
 98-2	BZ004	98	2	anni.	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=253.47	_	_	_	_

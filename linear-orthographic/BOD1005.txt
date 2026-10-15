@@ -98,11 +98,11 @@ BO094	eh
 BO094	voi dovreste avere il foglietto proprio nel materiale didattico
 BO094	con
 BO094	formalizzazione rispetto ai quantificatori numerici
-???	al massimo almeno esattamente
+??	al massimo almeno esattamente
 BO094	al massimo almeno esattamente
 BO094	sono quelli va bene
 BO094	eh vi sentite tutti molto famigliari con
-???	no
+??	no
 BO094	no ecco eh sempre così mai fare questa domanda
 BO094	va bene allora vediamo intanto di
 BO094	eh
@@ -124,8 +124,8 @@ BO094	ics è studente e manda messaggini
 BO094	e ipsilon è studente e manda messaggini
 BO094	vi sembra vi sembra che renda
 BO094	esiste almeno due
-???	no
-???	esistono due
+??	no
+??	esistono due
 BO094	oh no perché potrebbero coincidere
 BO094	quando io xx il fatto di usare due variabili distinte
 BO094	ics e ipsilon
@@ -158,7 +158,7 @@ BO094	tutte le volte che io uso il quantificatore esistenziale vuol dire che alm
 BO094	eh invece quando io dico esistono al massimo devo considerare il caso che nessuno esista
 BO094	allora cosa faccio
 BO094	uso che cosa
-???	per ogni
+??	per ogni
 BO094	il per ogni eh uso una parafrasi molto noiosa
 BO094	va bene
 BO094	perché io dico
@@ -1072,4 +1072,4 @@ BO094	eh diciamo per una lettura umana questo non non non acqu~ aggiunge signifi
 BO094	però per una macchina
 BO094	è molto importante poter lavorare con delle strutture ben codificate va bene
 BO094	facciamo cinque minuti di intervallopoi riprendiamo
-???	io comunque ora le chiedo punto uno quello che ha spiegato ieri se ci sono le slides o cose tipo sai di base così so come recuperarlo punto due xxx
+??	io comunque ora le chiedo punto uno quello che ha spiegato ieri se ci sono le slides o cose tipo sai di base così so come recuperarlo punto due xxx

@@ -27,10 +27,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 3-9	PSB005	3	9	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-6(0)	_	_
 3-10	PSB005	3	10	>no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(1)	_	_
 3-11	PSB005	3	11	no<	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=8.958	_	Fast=0-2(1)	_	_
-4-0	???	4	0	[°se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=6.7	_	_	_	0-2(0)
-4-1	???	4	1	n'	n'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	_	_	_	_	0-2(0)
-4-2	???	4	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-1(0)
-4-3	???	4	3	andata°]	andata	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=8.186	_	_	_	0-6(0)
+4-0	??	4	0	[°se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=6.7	_	_	_	0-2(0)
+4-1	??	4	1	n'	n'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	_	_	_	_	0-2(0)
+4-2	??	4	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-1(0)
+4-3	??	4	3	andata°]	andata	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=8.186	_	_	_	0-6(0)
 5-0	PSB005	5	0	>okay<	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=9.03|End=9.427	_	Fast=0-4(0)	_	_
 6-0	PSB005	6	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=9.91|End=10.314	0x1	_	_	_
 7-0	PSB005	7	0	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=11.26	_	_	_	_

@@ -4297,7 +4297,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1020-6	PST160	1020	6	nueve	nueve	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1020-7	PST160	1020	7	dieci	dieci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1581.825	_	_	_	_
 1022-0	PST160	1022	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1582.06	_	_	_	_
-1022-1	PST160	1022	1	#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1022-1	PST160	1022	1	#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1022-2	PST160	1022	2	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(397)
 1022-3	PST160	1022	3	#*no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	0-4(397)
 1022-4	PST160	1022	4	pensava	pensava	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-7(397)
@@ -4757,7 +4757,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1124-0	PST165	1124	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1784.45	_	_	_	_
 1124-1	PST165	1124	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1784.87	_	_	_	_
 1125-0	PST160	1125	0	#entonces	entonces	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1784.98	_	_	_	_
-1125-1	PST160	1125	1	#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1125-1	PST160	1125	1	#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1125-2	PST160	1125	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1125-3	PST160	1125	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1125-4	PST160	1125	4	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4961,7 +4961,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1172-0	PST160	1172	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1873.27	_	_	_	_
 1172-1	PST160	1172	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1172-2	PST160	1172	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1172-3	PST160	1172	3	nov.e:	nov.e:	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+1172-3	PST160	1172	3	nove:	nove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x1	_	_	_
 1172-4	PST160	1172	4	dieci:	dieci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x1	_	_	_
 1172-5	PST160	1172	5	dormiva	dormiva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1875.67	_	_	_	_
 1173-0	PST160	1173	0	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1875.78	_	_	_	_

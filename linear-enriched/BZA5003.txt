@@ -18,7 +18,7 @@ BZ004	sì,
 BZ001	e poi?
 BZ001	[quando siete ritor]nati al tuo paese era,
 BZ004	[poi in temp-]
-BZ001	>come si [chiama]?<
+BZ001	>come si [chiama?]<
 BZ001	ah=ah,
 BZ004	perché lì non bombardavano.
 BZ004	allora mio papà ci ha portati là.
@@ -94,7 +94,7 @@ BZ001	eh sì.
 BZ004	capito,
 BZ001	e tu quindi adesso da quanti anni sei qui?
 BZ004	allora che sono qui il do- eh: il dodici, quando era l'altro giorno,
-BZ001	[>dodici luglio<?]
+BZ001	[>dodici luglio?<]
 BZ004	[sono trentotto] anni.
 BZ001	dodici luglio?
 BZ004	che sono in questa casa [però].

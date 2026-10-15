@@ -848,7 +848,7 @@ BOR006	se vuoi: posso:
 BOR006	sì volevo chiederle una co:sa
 BOR006	cioè visto che è
 BOR006	penso un: uno degli argomenti che le preme di più cioè ce ne ha <parlato>.
-???	((cade_una_tazza))
+??	((cade_una_tazza))
 BOI026	s:ì
 BOR004	ops
 BOR006	disastro

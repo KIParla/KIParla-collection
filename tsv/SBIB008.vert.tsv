@@ -758,7 +758,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 166-2	PSB028	166	2	zona?	zona	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=256.118	_	_	_	_
 167-0	PSB057	167	0	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=256.627	_	_	_	_
 167-1	PSB057	167	1	zona	zona	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=257.471	_	_	_	_
-168-0	???	168	0	#_ salamhuleikum	salamhuleikum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=258.314|End=259.039	_	_	_	_
+168-0	??	168	0	#_ salamhuleikum	salamhuleikum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=258.314|End=259.039	_	_	_	_
 170-0	PSB057	170	0	#_ oi	oi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=261.0	_	_	_	_
 170-1	PSB057	170	1	maiya	maiya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 170-2	PSB057	170	2	friend	friend	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -769,14 +769,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 170-7	PSB057	170	7	interview	interview	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 170-8	PSB057	170	8	nite	nite	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 170-9	PSB057	170	9	asche	asche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=265.039	_	_	_	_
-172-0	???	172	0	a:h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=265.314|End=265.941	0x1	_	_	_
+172-0	??	172	0	a:h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=265.314|End=265.941	0x1	_	_	_
 173-0	PSB028	173	0	salve	salve	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=266.255|End=266.961	_	_	_	_
 174-0	PSB057	174	0	mia	mia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=267.098	_	_	_	_
 174-1	PSB057	174	1	suocera	suocera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=267.726	_	_	_	_
 175-0	PSB028	175	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=267.726	_	_	_	_
 175-1	PSB028	175	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 175-2	PSB028	175	2	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=268.667	_	_	_	_
-176-0	???	176	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=270.431|End=271.059	_	_	_	_
+176-0	??	176	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=270.431|End=271.059	_	_	_	_
 177-0	PSB028	177	0	cia[o]	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=271.078|End=271.627	_	_	_	3-4(63)
 178-0	PSB054	178	0	[sal]ve	salve	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=271.235|End=271.765	_	_	_	0-3(63)
 179-0	PSB028	179	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=273.196	0x1	_	_	_
@@ -934,18 +934,18 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 215-0	PSB054	215	0	quanti	quanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=321.451	_	_	_	_
 215-1	PSB054	215	1	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 215-2	PSB054	215	2	ha[nno]	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=322.314	_	_	_	2-5(79)
-216-0	???	216	0	[voi]	voi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=322.098	_	_	_	0-3(79)
-216-1	???	216	1	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-216-2	???	216	2	abiti	abiti	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
-216-3	???	216	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-216-4	???	216	4	vicino?	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=324.137	_	_	_	_
+216-0	??	216	0	[voi]	voi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=322.098	_	_	_	0-3(79)
+216-1	??	216	1	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+216-2	??	216	2	abiti	abiti	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
+216-3	??	216	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+216-4	??	216	4	vicino?	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=324.137	_	_	_	_
 217-0	PSB028	217	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=324.196	_	_	_	_
 217-1	PSB028	217	1	io:,	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	1x1	_	_	_
 217-2	PSB028	217	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 217-3	PSB028	217	3	@nomeluogo	@nomeluogo	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	End=326.02	_	_	_	_
 218-0	PSB028	218	0	quindi:	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=326.373	5x1	_	_	_
 218-1	PSB028	218	1	[centro]	centro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=327.667	_	_	_	0-6(80)
-219-0	???	219	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=326.882|End=327.882	_	_	_	0-3(80)
+219-0	??	219	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=326.882|End=327.882	_	_	_	0-3(80)
 220-0	PSB028	220	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=328.137	_	_	_	_
 220-1	PSB028	220	1	confusione:	confusione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	9x1	_	_	_
 220-2	PSB028	220	2	pazzesca	pazzesca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5275,11 +5275,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1250-4	PSB028	1250	4	effettivamente	effettivamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1250-5	PSB028	1250	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1976.933	_	_	_	_
 1251-0	PSB057	1251	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1976.267|End=1976.933	_	_	_	_
-1252-0	???	1252	0	#_ °xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1978.933|End=1980.588	_	_	_	_
+1252-0	??	1252	0	#_ °xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1978.933|End=1980.588	_	_	_	_
 1253-0	PSB057	1253	0	#_ °xx°	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1982.411|End=1983.5	_	_	_	_
-1254-0	???	1254	0	#_ °xx°	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1984.013|End=1984.613	_	_	_	_
+1254-0	??	1254	0	#_ °xx°	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1984.013|End=1984.613	_	_	_	_
 1255-0	PSB057	1255	0	#_ °xx°	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1984.711|End=1985.8	_	_	_	_
-1256-0	???	1256	0	#_ °xx°	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1986.089|End=1987.089	_	_	_	_
+1256-0	??	1256	0	#_ °xx°	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1986.089|End=1987.089	_	_	_	_
 1257-0	PSB028	1257	0	°madonna	madonna	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1992.522	_	_	_	_
 1257-1	PSB028	1257	1	mia	mia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 1257-2	PSB028	1257	2	sto	sto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_

@@ -477,11 +477,11 @@ PST015	io cucino da solo
 PST015	io vivo ancora da solo
 PST205	ti piace la cucina italiana?
 PST015	sì::,
-PST205	e::h cucini piatti italiani a ca:s[aq,uali quali] piatti cucini
+PST205	e::h cucini piatti italiani a ca:s[a quali, quali] piatti cucini
 PST015	s:ì::,
 PST015	e allora:: pa::sta (.) e:::h polpe::tte
 PST015	e:::h faccio:: (.) spezzatino
-PST015	°e::h insomma ° (.) (ho) provato persino una volta=a fare la polenta
+PST015	°e::h insomma° (.) (ho) provato persino una volta=a fare la polenta
 PST205	com'è venu[ta]?
 PST015	[(ride)] mangiabile via
 PST205	o[ka:y]

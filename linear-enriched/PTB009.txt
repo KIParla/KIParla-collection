@@ -957,7 +957,7 @@ TOR003	sì sì
 TOR001	((ride))
 TOR003	in zona lì
 TOR003	eh sì perché si son cosciuti a:l liceo [andavano al liceo] insieme [xxx]
-???	[buongiorno]
+??	[buongiorno]
 TOR001	[in barriera]
 TOR003	sì [in barriera]
 TOR001	[okay ok]ay [va bene]
@@ -966,7 +966,7 @@ TOR001	okay
 TOI035	insomma::
 TOI035	sì era una zona che non c'era un granché non
 TOI035	[xxx]
-???	[buongiorno]
+??	[buongiorno]
 TOI035	[buongiorno]
 TOR001	[salve]
 TOR003	[buongiorno]

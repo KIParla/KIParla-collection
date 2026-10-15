@@ -81,10 +81,10 @@ PKP061	mh (.) carino però
 PKP057	sì
 PKP057	sai che il colore della fame è il rosso
 PKP057	stimola la [fame]
-???	[<GNOC]CHI>
+??	[<GNOC]CHI>
 PKP057	per (.) me grazie'
 PKP061	grazie
-???	BUON [APPETITO]
+??	BUON [APPETITO]
 PKP061	gra[zie]
 PKP061	[grazie].
 PKP061	buon appetito [cucciola]
@@ -129,7 +129,7 @@ PKP057	>no no<
 PKP057	a me ne han dato un sacco di gnocchi comunque
 PKP061	anche di pasta ce n'è tanta
 PKP061	bella [calda questa]
-???	[a posto signori]?
+??	[a posto signori]?
 PKP057	[gentilissimo grazie]
 PKP061	[sì gentilissimo grazie]
 PKP061	[xxxxx]
@@ -248,47 +248,47 @@ PKP061	anche un signore che c'era lì fa (.) io ho preso un antidolorifico per d
 PKP061	prend[evo].
 PKP057	[che] non fa bene fra [l'altro].
 PKP061	[arriva xx]
-???	[signore posso]?
+??	[signore posso]?
 PKP057	[sì]
 PKP061	[sì]
-???	avete anche un secondo?
+??	avete anche un secondo?
 PKP057	[no]
 PKP061	[no] posso chiederle:, che carne c'è nel ragù?
-???	questo qu[a]?
+??	questo qu[a]?
 PKP061	[sì]
-???	ma glielo devo dire no[n:]?
+??	ma glielo devo dire no[n:]?
 PKP061	[no] ((ride))
 PKP057	((ride))
 PKP061	non lo so, faccia come [vuole]
-???	[penso] che sia ragù di salsiccia
-???	[penso eh]
+??	[penso] che sia ragù di salsiccia
+??	[penso eh]
 PKP061	[eh ma c'è una carne] diversa anche xx [er~ ero curio]sa [di:]
 PKP057	[molto buona]
 PKP057	[molto] particolare
 PKP057	i tocchi un po' più grossi.
-???	a:h, quella lì è m:h
+??	a:h, quella lì è m:h
 PKP061	[è spalla di ma~] ah è manzo?
-???	[è manzo signora]
+??	[è manzo signora]
 PKP061	mh [buonissimo].
-???	[ah >perché questo qua< è] ragù napoletano.
-???	ci sono i pezzi di carne.
+??	[ah >perché questo qua< è] ragù napoletano.
+??	ci sono i pezzi di carne.
 PKP057	[eh infatti è buono]
 PKP061	[è buonissimo (.) buonissimo, sì]
-???	è bello saporito, è buono
+??	è bello saporito, è buono
 PKP061	eh è molto buono, >infatti per quello< [che le chie~]
 PKP057	[sì è diverso da: dal nostro]
 PKP061	[da quello che facciamo <noi> esatto sì
 PKP061	sì
-???	volete anche il dolce?
+??	volete anche il dolce?
 PKP057	le:: li guardi[amo]?
 PKP061	[sì].
-???	al[lora] come dolce c'è >la torta al cioccolatino, la crostata di marmellata d'arancia, la torta mele caramellate e nutella<
+??	al[lora] come dolce c'è >la torta al cioccolatino, la crostata di marmellata d'arancia, la torta mele caramellate e nutella<
 PKP061	[cos'ha]?
-???	>poi c'è la panna cotta con caramello di mo:re<
-???	c'è la zuppa inglese e il dolce mattone salame al cioccolato.
+??	>poi c'è la panna cotta con caramello di mo:re<
+??	c'è la zuppa inglese e il dolce mattone salame al cioccolato.
 PKP061	la torta di mele:
-???	mele caramellate e nutella è molto buona
-???	[<particolare>]
+??	mele caramellate e nutella è molto buona
+??	[<particolare>]
 PKP061	[quella lì]
 PKP057	io ne sento un pezzo dala [>si fa anche in due<]
 PKP061	[l'assaggiamo] insieme sì
@@ -326,9 +326,9 @@ PKP061	se c~ (.) che cos'è [che danno mh]
 PKP057	[son delle mancan]ze grosse oppure no,
 PKP057	perché molte volte la gente dice delle: scafandrate assurde.
 PKP061	[grazie]
-???	[A VOI SIGNORE]
+??	[A VOI SIGNORE]
 PKP057	[grazie mille]
-???	[PR]EGO
+??	[PR]EGO
 PKP061	che bella cera che ha
 PKP057	>cioè< tra le critiche °inaccettabile che il cameriere giri in ciabatte?°
 PKP057	>CIOÈ<
@@ -422,12 +422,12 @@ PKP057	>cioè< cosa c'entra se gira in ciabatte non è che ti mette i pie[di::] 
 PKP061	[sul tavolo]
 PKP061	l'importante è che
 PKP057	a parte ch'è in birkenstock >cioè< non è in infradito::
-???	a posto [signore]?
+??	a posto [signore]?
 PKP057	[sì grazie].
 PKP061	[sì].
-???	[pre]ndiamo il caffè?
+??	[pre]ndiamo il caffè?
 PKP061	[°sì grazie°]
-???	[du]e caffè n[ormali]?
+??	[du]e caffè n[ormali]?
 PKP057	[sì grazie]
 PKP061	[>sì sì sì< grazie]
 PKP057	>cioè<
@@ -463,9 +463,9 @@ PKP057	e c'ha detto che non: non rispettano: le distanze >cioè< hanno i tavoli 
 PKP057	bene cambiamo punto.
 PKP057	cam~ pr~ andiamo da n'altra parte
 PKP061	°non va bene (.) no [assolu~]° [grazie]
-???	[A VOI].
+??	[A VOI].
 PKP057	[GRAZIE].
-???	prego
+??	prego
 PKP061	non va assolutamente bene.
 PKP057	no
 PKP061	adesso (.) se si va fuori (.) bisogna andare in posti giada dove::
@@ -547,7 +547,7 @@ PKP061	m::h non è che:
 PKP057	sì sì sì
 PKP061	m:h,
 PKP057	no mamma s~
-PKP057	dopo > ((P)) cioè< è la scelta migliore anche perché
+PKP057	dopo (.) >cioè< è la scelta migliore anche perché
 PKP057	una cosa su cui io ho pensato:::
 PKP057	>insomma< da ieri, da quando m'han chiamato,
 PKP057	è che appunto con questi contratti qua,

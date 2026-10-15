@@ -4148,9 +4148,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 394-0	BOR010	394	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1632.52	_	_	_	_
 394-1	BOR010	394	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 394-2	BOR010	394	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-394-3	BOR010	394	3	anzi:	anzi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	3x1	_	_	_
-394-4	BOR010	394	4	°		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-394-5	BOR010	394	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1633.53	_	_	_	_
+394-3	BOR010	394	3	anzi:°	anzi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	3x1	_	_	_
+394-5	BOR010	394	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1633.53	_	_	_	_
 395-0	BOR010	395	0	>cioè:<	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1634.08	3x1	Fast=0-4(0)	_	_
 395-1	BOR010	395	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 395-2	BOR010	395	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

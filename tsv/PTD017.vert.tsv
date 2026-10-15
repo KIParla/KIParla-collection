@@ -3894,7 +3894,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 594-11	TOI078	594	11	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 594-12	TOI078	594	12	ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 594-13	TOI078	594	13	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
-594-14	TOI078	594	14	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+594-14	TOI078	594	14	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 594-15	TOI078	594	15	ancora	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 594-16	TOI078	594	16	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1206.717	_	_	_	_
 595-0	TOI078	595	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1207.405	_	_	_	_

@@ -57,10 +57,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 19-0	PST203	19	0	>vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=36.327	_	Fast=0-3(0)	_	_
 19-1	PST203	19	1	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-3(0)	_	_
 19-2	PST203	19	2	vai<	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=36.726	_	Fast=0-3(0)	_	_
-20-0	???	20	0	#ahora?	ahora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=37.012	_	_	_	_
-20-1	???	20	1	pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-20-2	???	20	2	xxxxx	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=5	_	_	_	_	_
-20-3	???	20	3	la,	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=38.586	_	_	_	_
+20-0	??	20	0	#ahora?	ahora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=37.012	_	_	_	_
+20-1	??	20	1	pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
+20-2	??	20	2	xxxxx	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=5	_	_	_	_	_
+20-3	??	20	3	la,	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=38.586	_	_	_	_
 21-0	PST203	21	0	(tranquillo)	tranquillo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=38.854|End=39.459	_	_	0-10(0)	_
 22-0	PST074	22	0	#_ tre:s	tres	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=40.526	2x1	_	_	_
 22-1	PST074	22	1	do::s	dos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	1x2	_	_	_
@@ -662,11 +662,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 97-1	PST203	97	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 97-2	PST203	97	2	(#qué	qué	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	0-4(0)	_
 97-3	PST203	97	3	#pasó)	pasó	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=326.964	_	_	0-5(0)	_
-99-0	???	99	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=327.22|End=327.903	_	_	_	_
+99-0	??	99	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=327.22|End=327.903	_	_	_	_
 100-0	PST203	100	0	(e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=328.804	_	_	0-1(0)	_
 100-1	PST203	100	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-6(0)	_
 100-2	PST203	100	2	sì)	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=329.585	_	_	0-2(0)	_
-101-0	??	101	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=329.585|End=330.195	_	_	_	_
+101-0	???	101	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=329.585|End=330.195	_	_	_	_
 102-0	PST203	102	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=332.41	_	_	_	_
 102-1	PST203	102	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 102-2	PST203	102	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_

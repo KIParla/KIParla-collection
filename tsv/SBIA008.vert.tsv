@@ -609,7 +609,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 104-8	PSB005	104	8	[in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(15)
 104-9	PSB005	104	9	quale	quale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(15)
 104-10	PSB005	104	10	paes]e.	paese	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=273.87	_	_	_	0-4(15)
-105-0	PSB042	105	0	[vente:~.]	vente~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Interrupted=Yes	Begin=272.557|End=273.907	4x1	_	_	0-6(15)
+105-0	PSB042	105	0	[vente~.]	vente~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Interrupted=Yes	Begin=272.557|End=273.907	_	_	_	0-6(15)
 106-0	PSB005	106	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=274.0	_	_	_	_
 106-1	PSB005	106	1	quale	quale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 106-2	PSB005	106	2	[città:]	città	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=274.758	4x1	_	_	0-5(16)
@@ -648,7 +648,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 115-6	PSB005	115	6	fermata	fermata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 115-7	PSB005	115	7	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 115-8	PSB005	115	8	italia.	italia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=291.816	_	_	_	_
-116-0	PSB042	116	0	[<no>.]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=289.832|End=290.482	_	Slow=0-2(0)	_	0-2(18)
+116-0	PSB042	116	0	[<no.>]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=289.832|End=290.482	_	Slow=0-2(0)	_	0-2(18)
 117-0	PSB042	117	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=292.328	_	_	_	_
 117-1	PSB042	117	1	prima	prima	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 117-2	PSB042	117	2	vo[lt]a?	volta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=293.46	_	_	_	2-4(19)
@@ -934,7 +934,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 173-5	PSB005	173	5	italiana,	italiana	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 173-6	PSB005	173	6	è:.	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=418.47	0x1	_	_	_
 174-0	PSB042	174	0	[m:h]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=416.453|End=416.907	0x1	_	_	0-2(31)
-175-0	PSB042	175	0	<s[ì>.]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=418.992|End=419.735	_	Slow=0-2(0)	_	1-2(32)
+175-0	PSB042	175	0	<s[ì.>]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=418.992|End=419.735	_	Slow=0-2(0)	_	1-2(32)
 176-0	PSB005	176	0	[ter]ribile.	terribile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=419.599|End=420.249	_	_	_	0-3(32)
 177-0	PSB042	177	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=420.907	_	_	_	_
 177-1	PSB042	177	1	nuova	nuova	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2173,7 +2173,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 405-14	PSB005	405	14	pae]si	paesi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(82)
 405-15	PSB005	405	15	arabi	arabi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 405-16	PSB005	405	16	no.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=948.599	_	_	_	_
-406-0	PSB042	406	0	[<sì>.]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=946.992|End=947.782	_	Slow=0-2(0)	_	0-2(82)
+406-0	PSB042	406	0	[<sì.>]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=946.992|End=947.782	_	Slow=0-2(0)	_	0-2(82)
 407-0	PSB005	407	0	quasi	quasi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=948.928	_	_	_	_
 407-1	PSB005	407	1	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 407-2	PSB005	407	2	quasi	quasi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2765,7 +2765,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 534-0	PSB005	534	0	[o]	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1195.908	_	_	_	0-1(127)
 534-1	PSB005	534	1	france[se	francese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	6-8(128)
 534-2	PSB005	534	2	gius~]	gius~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=1197.098	_	_	_	0-5(128)
-535-0	PSB042	535	0	[<sì>.]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1196.508|End=1197.048	_	Slow=0-2(0)	_	0-2(128)
+535-0	PSB042	535	0	[<sì.>]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1196.508|End=1197.048	_	Slow=0-2(0)	_	0-2(128)
 536-0	PSB042	536	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1197.408	_	_	_	_
 536-1	PSB042	536	1	trovare	trovare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 536-2	PSB042	536	2	scrive	scrive	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2947,7 +2947,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 573-1	PSB042	573	1	rumeno.	rumeno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
 573-2	PSB042	573	2	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 573-3	PSB042	573	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-573-4	PSB042	573	4	fue.-	fue.-	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+573-4	PSB042	573	4	fue-.	fue-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Interrupted=Yes	_	_	_	_	_
 573-5	PSB042	573	5	normale.	normale	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1268.094	_	_	_	_
 574-0	PSB042	574	0	[s]:e	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1268.647	0x1	_	_	0-1(148)
 574-1	PSB042	574	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4244,7 +4244,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 813-3	PSB042	813	3	eh.	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	_	_	_	_	_
 813-4	PSB042	813	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 813-5	PSB042	813	5	mangiato	mangiato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-813-6	PSB042	813	6	a.-	a.-	_	_	_	_	_	error	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
+813-6	PSB042	813	6	a-.	a-	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling|Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 813-7	PSB042	813	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 813-8	PSB042	813	8	#déjà	déjà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 813-9	PSB042	813	9	visito	visito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4471,7 +4471,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 859-8	PSB005	859	8	and	and	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 859-9	PSB005	859	9	breakfast.	breakfast	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
 859-10	PSB005	859	10	giusto?	giusto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1916.798	_	_	_	_
-860-0	PSB042	860	0	[<sì>.]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1914.787|End=1915.843	_	Slow=0-2(0)	_	0-2(228)
+860-0	PSB042	860	0	[<sì.>]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1914.787|End=1915.843	_	Slow=0-2(0)	_	0-2(228)
 861-0	PSB042	861	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1917.187	_	_	_	_
 861-1	PSB042	861	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 861-2	PSB042	861	2	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5862,7 +5862,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1162-2	PSB042	1162	2	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1162-3	PSB042	1162	3	mio	mio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1162-4	PSB042	1162	4	figlio	figlio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1162-5	PSB042	1162	5	anda:.-	anda:.-	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+1162-5	PSB042	1162	5	anda:-.	anda-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Interrupted=Yes	_	3x1	_	_	_
 1162-6	PSB042	1162	6	col	col	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1162-7	PSB042	1162	7	papà	papà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1162-8	PSB042	1162	8	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6060,7 +6060,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1207-9	PSB005	1207	9	avevo	avevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(325)
 1207-10	PSB005	1207	10	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(325)
 1207-11	PSB005	1207	11	visto].	visto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2599.487	_	_	_	0-5(325)
-1208-0	PSB042	1208	0	[<sì>.]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=2598.277|End=2599.467	_	Slow=0-2(0)	_	0-2(325)
+1208-0	PSB042	1208	0	[<sì.>]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=2598.277|End=2599.467	_	Slow=0-2(0)	_	0-2(325)
 1209-0	PSB042	1209	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2601.077	_	_	_	_
 1209-1	PSB042	1209	1	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1209-2	PSB042	1209	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

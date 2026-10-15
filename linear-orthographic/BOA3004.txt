@@ -8,7 +8,7 @@ BO021	mh stat chien e' fagiolini
 BO021	dite la verità l'avete
 BO047	e tu hai mangiato
 BO021	mh ma io non ho fame
-???	maria sicura che non hai fame
+??	maria sicura che non hai fame
 BO021	mi sono mangiata una fetta stamattina a colazione una fetta della torta salata che ha fatto silvia
 BO021	buona
 BO046	come l'ha fatta
@@ -93,7 +93,7 @@ BO046	so che la mamma operazioni varie cose ci sta figurati
 BO046	minchia
 BO046	allora io giada so che in teoria fino a fine mese dovrebbe restare
 BO021	che maurizio se ne va il venticinque
-???	posso invitarvi a questa conferenza vi lascio il volantino
+??	posso invitarvi a questa conferenza vi lascio il volantino
 BO046	grazie
 BO046	che cos'è maria
 BO021	è identità sovversive la costruzione sociale del genere la violenza della normalità
@@ -181,7 +181,7 @@ BO021	appienn t cose non ci vado alla cena dei miei coinquilini
 BO021	eccetera
 BO021	solo che poi dopo alla fine quando è arrivato il momento di sta birra
 BO021	maria stuarda se n'era andata perché doveva raggiunge' gli amici al pratello
-???	fanculo
+??	fanculo
 BO021	quindi io sono rimasta con la coppietta
 BO021	comunque molto simpatica
 BO021	quindi da che il mio prospetto era vedermi con maria stuarda ho finito per rimanere con la coppietta che mi ha offerto una serie di cose
@@ -189,7 +189,7 @@ BO021	dopo di che loro se ne sono andati
 BO021	cioè dopo di che siamo usciti che dovevamo andare da mark e infatti è lì che ho avevo chiamato giada per dirle
 BO021	oh noi stiamo andato da mark venite anche voi
 BO021	e lei poi abbiamo avuto la conversazione di cui sopra
-???	gulag
+??	gulag
 BO021	solo che mentre andavamo da mark passa~
 BO021	loro volevano fa serata alla caserma abbandonata che c'è stata sabato
 BO046	ah ho visto che c'è stata l'articolo
@@ -222,23 +222,23 @@ BO021	non lo so cioè io non me lo spiego
 BO021	cioè xx
 BO021	tra l'altro non è che dici boh metto grignani però metto ti raserò l'aiuola in un momento di trash
 BO021	no
-???	esatto
-???	canzoni
+??	esatto
+??	canzoni
 BO021	no com'era prossima eh prendo un treno che va a paradiso città
-???	oh cristo dio
+??	oh cristo dio
 BO021	che a me ha subito attivato le reminescenze del capodanno di grignani
 BO021	per cui io mi sono messa a fare la cazzona imitando
 BO021	però da cioè
 BO021	questa qua per me è stata la cosa che mi ha lasciato più allibita di tutte
 BO021	cioè non mi era mai successo di arrivare ad una festa e gente che tra tutte le canzoni possibili che tu puoi mettere ad una festa grignani
-???	grignani
+??	grignani
 BO046	cazzo di festa era
 BO021	una festa un po' improbabile
 BO047	evidentemente erano davvero molto ubriachi
 BO046	raggiungi un tale livello di ubriachezza livello grignani
 BO021	no ma poi l'altra cosa strana è che cioè nel senso
 BO021	erano davvero anni che non avevo così problemi di socialità durante una festa
-???	veramente
+??	veramente
 BO021	cioè allora con~
 BO047	vabbè ma
 BO047	sei arrivata comunque dopo
@@ -260,7 +260,7 @@ BO021	eh
 BO046	è arrivato il catering
 BO021	mentre i ragazzi boh cioè io con un paio cioè allora con quelli là che conoscevo dopo du' chiacchiere sono anche riuscita a farle
 BO021	però tipo io di solito sono abituata che vado alle feste e conosco gente che non cono~ faccio conoscenza
-???	avoglia
+??	avoglia
 BO021	oh sti qua io boh provavo ad inserirmi nel discorso a dire una frase una cosa
 BO021	mi ris~ un sacco di volte mi hanno risposto a monosillabi si sono girati e se ne sono andati
 BO021	c'è fra' oh
@@ -269,7 +269,7 @@ BO047	ma erano di giurisprudenza per caso
 BO046	tutto si spiega
 BO021	no non lo so so solo che sono di san benedetto
 BO046	mica la casa era in santo stefano
-???	ah
+??	ah
 BO046	capito emilio eh
 BO046	avevano gli affreschi in casa
 BO021	no quella è casa mia
@@ -319,14 +319,14 @@ BO021	chi è che ha scritto perché io mi chi è che ha scritto il corpo del rea
 BO046	eh carlo bonini
 BO046	che però non è
 BO021	ma lui ha parlato al
-???	xxx beautiful girl
+??	xxx beautiful girl
 BO046	ciao
 BO046	no grazie niente
-???	don't worry be happy
+??	don't worry be happy
 BO021	no grazie non abbiamo niente
 BO046	no nulla veramente
 BO046	non abbiamo niente predili pure
-???	ciao e buona giornata
+??	ciao e buona giornata
 BO046	ciao buona giornata
 BO021	ciao
 BO046	ehm
@@ -508,13 +508,13 @@ BO046	ma vaffanculo che io ne ho fatti tre di procedura penale
 BO047	ah ah ah ah
 BO046	non mi devi rompere i coglioni emilio
 BO046	c'è chi ha dato tutti gli esami del terzo anno con una media altissima e chi no
-???	eh
+??	eh
 BO046	c'è chi va in erasmus e chi no
 BO047	c'è chi ha dato c'è chi ha dato canonico e chi no
 BO047	era un esame del terzo anno eh
 BO046	tu ancora non l'hai dato quello x ecclesiastico
 BO047	no
-???	ah
+??	ah
 BO046	dallo emilio
 BO046	ma dallo in erasmus
 BO047	no io do ecclesiastico
@@ -675,7 +675,7 @@ BO021	non l'hai mai~ no quello è buonissimo
 BO021	davvero il kebab più buono di bologna
 BO047	quello è molto rinomato
 BO021	però l'unico problema è che c'è sempre una fila allucinante
-???	eh
+??	eh
 BO046	mi ricordo il venticinque aprile c'era una fila che si faceva tutto il pratello
 BO021	vabbè il venticinque aprile era impossibile fare qualsiasi cosa
 BO047	vabbè il venticinque aprile
@@ -768,10 +768,10 @@ BO021	e già parte lo sbadiglio
 BO046	stanotte mi so' svegliata ho dormito poi mi so' un attimo ripresa ho messo a posto tutto l'armadio
 BO021	ciao xx
 BO046	ciao
-???	a posto
+??	a posto
 BO046	niente guarda grazie
 BO021	sì non abbiamo niente
-???	xx xx orologi
+??	xx xx orologi
 BO046	eh lo so ma abbiamo tutto grazie
 BO021	mi spiace
 BO046	xx xx c'ho solo
@@ -1328,10 +1328,10 @@ BO046	ero particolarmente scazzata quindi l'ho spento
 BO021	no però lì poi dopo appunto quando le ho detto
 BO021	come ho nominato i vaucher lei ovviamente si è attivata
 BO021	perché da imprenditrice figlia di imprenditori
-???	ta ta ta ta ta ta ta
+??	ta ta ta ta ta ta ta
 BO021	xx vaucher
 BO021	no e lì devo dire
-???	xx interesse din din din
+??	xx interesse din din din
 BO021	no e li devo dire abbiamo avuto una conversazione abbastanza interessante e sono stata ben felice di stoppare la mia radio per parlare di vaucher con lei
 BO046	beh ci sta almeno ti dà un punto di vista concreto
 BO021	che ci sta
@@ -1339,7 +1339,7 @@ BO046	che ne pensa lei dei vaucher
 BO021	ma lei appunto dice
 BO021	non andavano aboliti andavano regolamentati un po' meglio
 BO021	dopo di che lei ha pure un po' l'occhio del padrone
-???	eh
+??	eh
 BO021	ha ha decisamente un po' l'occhio del padrone
 BO021	però logicam~ cioè appunto
 BO021	il suo primo pensiero è andato al giardiniere che loro si prendono d'estate
@@ -1372,7 +1372,7 @@ BO048	metafore sparate a caso così
 BO021	no ma poi gli facevano anche domande del cazzo tipo
 BO021	ah ma perché lo fai ma ti pagano ma perché non ti vuoi trov~
 BO048	come se delle domande fatte da uno stronze potessero cambiargli una mentalità che gli va avanti da quando sono nati
-???	sì certo
+??	sì certo
 BO021	sì capito
 BO046	ma ultimamente le iene si stanno un attimo
 BO048	ti porto a fare un lavoro vero
@@ -1394,7 +1394,7 @@ BO021	cioè appunto sono persone così
 BO021	danneggia~ no non solo danneggiate non mi viene in mente mo la parola
 BO021	però l'abuso è così radicato dentro di loro che appunto non è la conversazione con lo sconosciuto
 BO021	cioè tu sei così abusato che neanche ti rendi conto che questi sono abusi
-???	sì non è che offri un
+??	sì non è che offri un
 BO021	continuare a fare tutte quelle domande alla fi~ e il modo in cui erano poste e il modo in cui era strutturato l'articolo
 BO021	fondamentalmente l'unica cosa era dare una situazione di scandalo in pasto al voyeurismo dello spettatore medio
 BO046	esatto
@@ -1408,7 +1408,7 @@ BO021	eh ma alla fine in quest'italia
 BO021	con la giustizia che non funziona
 BO021	almeno le iene striscia
 BO048	berlusconi si è pensato che comunque il diritto non fosse uguale per tutti basta che c'hai i soldi
-???	perché
+??	perché
 BO021	sì sì sì no ha det~
 BO046	xxxxx
 BO048	xxxxx
@@ -1429,12 +1429,12 @@ BO021	ah che schifo il campo rom
 BO021	è il covo di criminalità che io mi aspettavo
 BO021	mi fa ancora più schifo
 BO021	la polizia è arrivata solo dopo che le iene sono andate che come pensiero almeno quello sulla polizia ci può anche stare
-???	è vero però
+??	è vero però
 BO021	no è vero
 BO021	però io da un servizio giornalistico
 BO021	mi aspetto anche qualche cosa in più su perché c'è stato bisogno di voi
 BO021	per fare intervenire la polizia
-???	eh
+??	eh
 BO021	perché la polizia non è intervenuta
 BO021	e poi io non è che fermo il servizio a
 BO021	la polizia gli assistenti sociali che arrivano e si portano via i creaturi che io ho mostrato in video
@@ -1447,7 +1447,7 @@ BO048	o se invece hanno continuato a fare ste cose e quindi la situazione è pul
 BO048	quindi non è detto che
 BO048	che finisca con quest'immagine della macchina della polizia che va
 BO048	che salva i bambini capito
-???	boh
+??	boh
 BO048	il punto è che sì hanno delle delle modalità che fanno cagare
 BO048	ma che funzionano di brutto
 BO021	sì ma che appunto
@@ -1484,7 +1484,7 @@ BO046	che sarebbe
 BO046	che sarebbe questa timeline
 BO048	cioè non l'hai manco visto
 BO021	lo so
-???	ma
+??	ma
 BO021	per questo riman~
 BO021	no come timeline
 BO048	non puoi prendertela più xx
@@ -1508,7 +1508,7 @@ BO046	ho ancora un buono coop per un centrifugato a un euro e cinquanta
 BO046	quindi oggi che vado a correre torno a casa dalla corsa me lo prendo
 BO048	bella
 BO046	vediamo com'è
-???	farà cagare
+??	farà cagare
 BO048	io non c'ho voglia di andare a lezione
 BO046	a che ora l'hai
 BO048	cinque
@@ -1516,7 +1516,7 @@ BO048	sono in una modalità che proprio non c'ho voglia di far niente
 BO046	benvenuta nel club
 BO046	io mi so' attivata troppo presto stamattina
 BO046	per me la giornata può finire ora
-???	ah
+??	ah
 BO021	io volevo scrivere un'analisi di pulp fiction
 BO046	bello quel film
 BO021	tra l'altro il professore mi ha risposto malissimo ci sono rimasta di merda
@@ -1556,7 +1556,7 @@ BO021	su otto quindi sono più o meno a metà
 BO046	bomba
 BO021	però devo fare ancora i compiti finali di fine capitolo perché cioè
 BO021	se io non faccio il compito finale del terzo capitolo non posso fare quello del quarto
-???	ah xxx
+??	ah xxx
 BO021	e quello
 BO021	sì e quello là del terzo sarebbe il sog~ di scrivere il sogg~ un soggetto cinematografico
 BO021	e
@@ -1564,9 +1564,9 @@ BO021	su quello là mi sto intagliando un sacco perché mi stanno venendo un sac
 BO021	ne ho fatto un altro che si chiama un amore per cui lottare
 BO048	oh mio dio
 BO021	lei figlia di celerini
-???	oh yes
+??	oh yes
 BO021	lui figlio del sessantotto
-???	oh my god
+??	oh my god
 BO021	s'incontrano in vacanza a praia a mare e s'innamorano
 BO021	ovviamente la storia è un po' tra~
 BO048	quella bella di lodi
@@ -1605,21 +1605,21 @@ BO046	ragà è stupendo
 BO021	la eh tu non la conosc~
 BO021	si chiama reggae neomelodico
 BO021	è bellissima
-???	madonna ragà
+??	madonna ragà
 BO021	anche se la mia frase preferita è
 BO046	bellissima
 BO021	tu col tuo primo di ma~ no xx tu col tuo primo di maggio io che apro il concerto a rosario miraggio
 BO021	ma perché ste tu ti sei persa il fatto che ieri io ci so' finita sotto coi neomelodici
 BO046	veramente
 BO021	svegliata spalancato finestre messo a tutto volume sul computer
-???	che bello
-???	no vabbè
+??	che bello
+??	no vabbè
 BO021	no è genial~ oppure l'altra mia preferita era
 BO021	no grazie
-???	oh mio dio
+??	oh mio dio
 BO021	sì sì
 BO021	no è d~
-???	neomelodico
+??	neomelodico
 BO021	mi son sentita proprio na vajassa infatti la prossima volta che faccio le pulizie le sparo proprio a palla e lì
 BO021	puoi uscire da napoli ma napoli non esce da te
 BO048	invece esci dal piemonte e il piemonte esce di te

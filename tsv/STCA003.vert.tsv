@@ -651,12 +651,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 207-2	PST211	207	2	cr[e:do:]	credo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=266.787	2x1,4x1	_	_	2-5(39)
 208-0	PST108	208	0	[solo]	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=266.387	_	_	_	0-4(39)
 208-1	PST108	208	1	@anas	@anas	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	End=267.247	_	_	_	_
-209-0	?	209	0	#_ wāḥəd	wāḥəd	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=267.682	_	_	_	_
-209-1	?	209	1	litri	litri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-209-2	?	209	2	dyāl	dyāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-209-3	?	209	3	l-ḥlīb	l-ḥlīb	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-209-4	?	209	4	ḷḷāh	ḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-209-5	?	209	5	yḥafḍ-ək	yḥafḍ-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=268.887	_	_	_	_
+209-0	???	209	0	#_ wāḥəd	wāḥəd	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=267.682	_	_	_	_
+209-1	???	209	1	litri	litri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+209-2	???	209	2	dyāl	dyāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+209-3	???	209	3	l-ḥlīb	l-ḥlīb	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+209-4	???	209	4	ḷḷāh	ḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+209-5	???	209	5	yḥafḍ-ək	yḥafḍ-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=268.887	_	_	_	_
 211-0	PST110	211	0	#_ hā	hā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=268.887	_	_	_	_
 211-1	PST110	211	1	hūwa	hūwa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 211-2	PST110	211	2	[hā	hā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(40)
@@ -664,8 +664,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 211-4	PST110	211	4	xūya	xūya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 211-5	PST110	211	5	wrā	wrā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 211-6	PST110	211	6	t-tīd	t-tīd	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=270.957	_	_	_	_
-213-0	?	213	0	#_ [fin	fin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=269.527	_	_	_	0-3(40)
-213-1	?	213	1	hūwa]	hūwa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=270.0	_	_	_	0-4(40)
+213-0	???	213	0	#_ [fin	fin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=269.527	_	_	_	0-3(40)
+213-1	???	213	1	hūwa]	hūwa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=270.0	_	_	_	0-4(40)
 215-0	PST110	215	0	#_ hā	hā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=271.967	_	_	_	_
 215-1	PST110	215	1	hūwa	hūwa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 215-2	PST110	215	2	shūf	shūf	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=272.679	_	_	_	_
@@ -703,8 +703,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 219-7	PST108	219	7	o]ggi	oggi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(42)
 219-8	PST108	219	8	[(troppo)]	troppo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=281.677	_	_	0-6(0)	0-6(43)
 220-0	PST211	220	0	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=280.63|End=281.1	0x1	_	_	0-2(42)
-221-0	?	221	0	#_ [hūwa]	hūwa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=281.198	_	_	_	0-4(43)
-221-1	?	221	1	[hāda]	hāda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=282.14	_	_	_	0-4(44)
+221-0	???	221	0	#_ [hūwa]	hūwa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=281.198	_	_	_	0-4(43)
+221-1	???	221	1	[hāda]	hāda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=282.14	_	_	_	0-4(44)
 223-0	PST110	223	0	#_ [āh	āh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=281.802	_	_	_	0-2(44)
 223-1	PST110	223	1	hū]wa	hūwa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(44)
 223-2	PST110	223	2	hādak	hādak	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=282.837	_	_	_	_
@@ -1407,24 +1407,24 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 417-5	PST108	417	5	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=558.487	_	_	_	_
 418-0	PST108	418	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=558.837	_	_	_	_
 418-1	PST108	418	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=559.347	_	_	_	_
-419-0	???	419	0	#_ s-salāmu	s-salāmu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=559.957	_	_	_	_
-419-1	???	419	1	ʕalāy-kum	ʕalāy-kum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-419-2	???	419	2	kull	kull	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-419-3	???	419	3	shi	shi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-419-4	???	419	4	labās	labās	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=560.897	_	_	_	_
+419-0	????	419	0	#_ s-salāmu	s-salāmu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=559.957	_	_	_	_
+419-1	????	419	1	ʕalāy-kum	ʕalāy-kum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+419-2	????	419	2	kull	kull	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+419-3	????	419	3	shi	shi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+419-4	????	419	4	labās	labās	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=560.897	_	_	_	_
 421-0	PST108	421	0	#_ s-salāmu	s-salāmu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=560.9	_	_	_	_
 421-1	PST108	421	1	ʕalāy-kum	ʕalāy-kum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=561.497	_	_	_	_
 423-0	PST107	423	0	#_ xū-ya	xū-ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=561.548|End=562.05	_	_	_	_
 425-0	PST108	425	0	#_ ki	ki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=562.05	_	_	_	_
 425-1	PST108	425	1	dāyr	dāyr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=562.555	_	_	_	_
-427-0	???	427	0	#_ ahlan	ahlan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=562.585	_	_	_	_
-427-1	???	427	1	ahlan	ahlan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-427-2	???	427	2	ahlan	ahlan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=564.24	_	_	_	_
-429-0	???	429	0	#_ kull	kull	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=564.44	_	_	_	_
-429-1	???	429	1	shi	shi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-429-2	???	429	2	b-xīr	b-xīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-429-3	???	429	3	w-ʕla	w-ʕla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-429-4	???	429	4	xīr	xīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=565.347	_	_	_	_
+427-0	????	427	0	#_ ahlan	ahlan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=562.585	_	_	_	_
+427-1	????	427	1	ahlan	ahlan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+427-2	????	427	2	ahlan	ahlan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=564.24	_	_	_	_
+429-0	????	429	0	#_ kull	kull	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=564.44	_	_	_	_
+429-1	????	429	1	shi	shi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+429-2	????	429	2	b-xīr	b-xīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+429-3	????	429	3	w-ʕla	w-ʕla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+429-4	????	429	4	xīr	xīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=565.347	_	_	_	_
 431-0	PST108	431	0	#_ e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=565.92	0x2	_	_	_
 431-1	PST108	431	1	b-xīr	b-xīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=566.67	_	_	_	_
 433-0	PST107	433	0	#_ ki	ki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=566.67	_	_	_	_
@@ -1436,34 +1436,34 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 433-6	PST107	433	6	b-xīr	b-xīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 433-7	PST107	433	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 433-8	PST107	433	8	hāni?	hāni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=568.84	_	_	_	_
-435-0	???	435	0	#_ s-salāmu	s-salāmu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=569.12	_	_	_	_
-435-1	???	435	1	ʕalāy-kum	ʕalāy-kum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=569.85	_	_	_	_
+435-0	????	435	0	#_ s-salāmu	s-salāmu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=569.12	_	_	_	_
+435-1	????	435	1	ʕalāy-kum	ʕalāy-kum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=569.85	_	_	_	_
 437-0	PST108	437	0	#_ @salim	@salim	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	Begin=569.89	_	_	_	_
 437-1	PST108	437	1	ḷḷāh	ḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 437-2	PST108	437	2	yḥafḍ-ək	yḥafḍ-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 437-3	PST108	437	3	[xamsa]	xamsa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=571.13	_	_	_	0-5(94)
-439-0	???	439	0	@salah:::	@salah	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	Begin=570.75	5x3	_	_	_
-439-1	???	439	1	@salah	@salah	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	_	_	_	_	_
-439-2	???	439	2	#saxsiyyən	saxsiyyən	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-439-3	???	439	3	eh::	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x2	_	_	_
-439-4	???	439	4	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-439-5	???	439	5	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=575.04	_	_	_	_
-441-0	???	441	0	#_ s-salāmu	s-salāmu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=575.117	_	_	_	_
-441-1	???	441	1	ʕalāy-kum	ʕalāy-kum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=576.197	_	_	_	_
-443-0	???	443	0	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=576.197	_	_	_	_
-443-1	???	443	1	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-443-2	???	443	2	ragazzi	ragazzi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=577.484	_	_	_	_
+439-0	????	439	0	@salah:::	@salah	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	Begin=570.75	5x3	_	_	_
+439-1	????	439	1	@salah	@salah	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	_	_	_	_	_
+439-2	????	439	2	#saxsiyyən	saxsiyyən	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+439-3	????	439	3	eh::	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x2	_	_	_
+439-4	????	439	4	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
+439-5	????	439	5	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=575.04	_	_	_	_
+441-0	????	441	0	#_ s-salāmu	s-salāmu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=575.117	_	_	_	_
+441-1	????	441	1	ʕalāy-kum	ʕalāy-kum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=576.197	_	_	_	_
+443-0	????	443	0	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=576.197	_	_	_	_
+443-1	????	443	1	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+443-2	????	443	2	ragazzi	ragazzi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=577.484	_	_	_	_
 444-0	PST217	444	0	[sì:]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=577.567|End=578.167	1x1	_	_	0-2(95)
-445-0	???	445	0	#_ l-ḥamdu	l-ḥamdu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=577.597	_	_	_	_
-445-1	???	445	1	li-ḷḷāh	li-ḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-445-2	???	445	2	ramāḍān	ramāḍān	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-445-3	???	445	3	karīm	karīm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
-445-4	???	445	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-445-5	???	445	5	yāḷḷāh	yāḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-445-6	???	445	6	[xū-ya	xū-ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(96)
-445-7	???	445	7	sīr]	sīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(96)
-445-8	???	445	8	aḷḷāh	aḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-445-9	???	445	9	yḥafḍ-ək	yḥafḍ-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=581.727	_	_	_	_
+445-0	????	445	0	#_ l-ḥamdu	l-ḥamdu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=577.597	_	_	_	_
+445-1	????	445	1	li-ḷḷāh	li-ḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+445-2	????	445	2	ramāḍān	ramāḍān	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+445-3	????	445	3	karīm	karīm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+445-4	????	445	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
+445-5	????	445	5	yāḷḷāh	yāḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+445-6	????	445	6	[xū-ya	xū-ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(96)
+445-7	????	445	7	sīr]	sīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(96)
+445-8	????	445	8	aḷḷāh	aḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+445-9	????	445	9	yḥafḍ-ək	yḥafḍ-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=581.727	_	_	_	_
 447-0	PST108	447	0	#_ [aḷḷāh	aḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=580.12	_	_	_	0-5(96)
 447-1	PST108	447	1	yḥafḍ-ək	yḥafḍ-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(96)
 447-2	PST108	447	2	xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=581.04	_	_	_	0-2(96)
@@ -3964,7 +3964,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1157-8	PST108	1157	8	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1746.287	_	_	_	_
 1158-0	PST211	1158	0	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1746.437	0x1	_	_	_
 1158-1	PST211	1158	1	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1747.117	0x1	_	_	_
-1159-0	????	1159	0	#_ w-sālām	w-sālām	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1747.14|End=1748.0	_	_	_	_
+1159-0	?????	1159	0	#_ w-sālām	w-sālām	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1747.14|End=1748.0	_	_	_	_
 1161-0	PST107	1161	0	#nʕam?	nʕam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=1749.75|End=1750.43	_	_	_	_
 1163-0	PST110	1163	0	#_ xaṣṣ-ək	xaṣṣ-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1750.46	_	_	_	_
 1163-1	PST110	1163	1	l-flūs	l-flūs	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -3975,44 +3975,44 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1167-0	PST107	1167	0	#_ bāghi	bāghi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1753.77	_	_	_	_
 1167-1	PST107	1167	1	tqadda	tqadda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1167-2	PST107	1167	2	nta?	nta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1754.88	_	_	_	_
-1169-0	????	1169	0	#briusha?	briusha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=1755.76|End=1756.7	_	_	_	_
-1171-0	????	1171	0	#_ ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1758.0	_	_	_	_
-1171-1	????	1171	1	āsh	āsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1171-2	????	1171	2	bghīti	bghīti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1171-3	????	1171	3	xūdi	xūdi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1171-4	????	1171	4	āsh	āsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1171-5	????	1171	5	bghīti	bghīti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1759.54	_	_	_	_
+1169-0	?????	1169	0	#briusha?	briusha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=1755.76|End=1756.7	_	_	_	_
+1171-0	?????	1171	0	#_ ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1758.0	_	_	_	_
+1171-1	?????	1171	1	āsh	āsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1171-2	?????	1171	2	bghīti	bghīti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1171-3	?????	1171	3	xūdi	xūdi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1171-4	?????	1171	4	āsh	āsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1171-5	?????	1171	5	bghīti	bghīti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1759.54	_	_	_	_
 1173-0	PST108	1173	0	#_ [dāyra	dāyra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1758.29	_	_	_	0-5(231)
 1173-1	PST108	1173	1	ʕāshra	ʕāshra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(231)
 1173-2	PST108	1173	2	ʔūrū?]	ʔūrū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1759.28	_	_	_	0-4(231)
-1175-0	????	1175	0	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1760.3	_	_	_	_
-1175-1	????	1175	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1175-2	????	1175	2	prendere	prendere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1175-3	????	1175	3	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1175-4	????	1175	4	vuoi	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1761.42	_	_	_	_
-1176-0	????	1176	0	lascia	lascia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1762.1	_	_	_	_
-1176-1	????	1176	1	stare	stare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1762.88	_	_	_	_
-1177-0	????	1177	0	prendi	prendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1763.2	_	_	_	_
-1177-1	????	1177	1	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1177-2	????	1177	2	prendi	prendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1177-3	????	1177	3	prendi	prendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1764.59	_	_	_	_
-1178-0	????	1178	0	prendi	prendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1765.48	_	_	_	_
-1178-1	????	1178	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-1178-2	????	1178	2	questa?	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1766.68	_	_	_	_
-1179-0	????	1179	0	marocco	marocco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1769.16	_	_	_	_
-1179-1	????	1179	1	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1179-2	????	1179	2	roba	roba	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1179-3	????	1179	3	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1179-4	????	1179	4	marocco	marocco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1771.07	_	_	_	_
-1180-0	????	1180	0	prendi	prendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1772.12	_	_	_	_
-1180-1	????	1180	1	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1180-2	????	1180	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1180-3	????	1180	3	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1773.21	_	_	_	_
-1181-0	????	1181	0	#_ ṛāh	ṛāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1780.28	_	_	_	_
-1181-1	????	1181	1	ma-bghāt	ma-bghāt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1181-2	????	1181	2	taxud	taxud	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1181-3	????	1181	3	wālu	wālu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1181-4	????	1181	4	hādi	hādi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1781.61	_	_	_	_
+1175-0	?????	1175	0	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1760.3	_	_	_	_
+1175-1	?????	1175	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1175-2	?????	1175	2	prendere	prendere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1175-3	?????	1175	3	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1175-4	?????	1175	4	vuoi	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1761.42	_	_	_	_
+1176-0	?????	1176	0	lascia	lascia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1762.1	_	_	_	_
+1176-1	?????	1176	1	stare	stare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1762.88	_	_	_	_
+1177-0	?????	1177	0	prendi	prendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1763.2	_	_	_	_
+1177-1	?????	1177	1	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1177-2	?????	1177	2	prendi	prendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1177-3	?????	1177	3	prendi	prendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1764.59	_	_	_	_
+1178-0	?????	1178	0	prendi	prendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1765.48	_	_	_	_
+1178-1	?????	1178	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+1178-2	?????	1178	2	questa?	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1766.68	_	_	_	_
+1179-0	?????	1179	0	marocco	marocco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1769.16	_	_	_	_
+1179-1	?????	1179	1	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1179-2	?????	1179	2	roba	roba	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1179-3	?????	1179	3	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1179-4	?????	1179	4	marocco	marocco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1771.07	_	_	_	_
+1180-0	?????	1180	0	prendi	prendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1772.12	_	_	_	_
+1180-1	?????	1180	1	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1180-2	?????	1180	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1180-3	?????	1180	3	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1773.21	_	_	_	_
+1181-0	?????	1181	0	#_ ṛāh	ṛāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1780.28	_	_	_	_
+1181-1	?????	1181	1	ma-bghāt	ma-bghāt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1181-2	?????	1181	2	taxud	taxud	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1181-3	?????	1181	3	wālu	wālu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1181-4	?????	1181	4	hādi	hādi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1781.61	_	_	_	_
 1183-0	PST217	1183	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1893.314	_	_	_	_
 1183-1	PST217	1183	1	vuoi	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1183-2	PST217	1183	2	vi	vi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4459,7 +4459,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1335-0	PST217	1335	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2100.5	_	_	_	_
 1335-1	PST217	1335	1	[u:na]	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2101.483	0x1	_	_	0-3(258)
 1336-0	PST107	1336	0	#_ [ʕālāmī	ʕālāmī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2100.865	_	_	_	0-6(258)
-1336-1	PST107	1336	1	]		_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1336-1	PST107	1336	1	]	_	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1336-2	PST107	1336	2	ṣāfi	ṣāfi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2101.87	_	_	_	_
 1338-0	PST217	1338	0	siete::	siete	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2105.204	4x2	_	_	_
 1338-1	PST217	1338	1	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

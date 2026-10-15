@@ -126,7 +126,7 @@ PST211	$scioccobasita tota:le:
 PST086	devi fare attenzione a chi lo dici
 PST092	non [xx]
 PST086	[e sai] a chi mi riferisco
-PST092	[>allora no l'ho appena detto ma il mio telefono<?]
+PST092	[>allora no l'ho appena detto ma il mio telefono?<]
 PST211	[ma eh possiamo spostare ques]ta ghirlan[da]?
 PST087	[non lo] so
 PST086	sì

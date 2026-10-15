@@ -349,7 +349,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 36-3	BZ006	36	3	sulle	sulle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 36-4	BZ006	36	4	lin[gue.	lingue	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	3-6(9)
 36-5	BZ006	36	5	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	0-2(9)
-36-6	BZ006	36	6	]		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+36-6	BZ006	36	6	]	_	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
 36-7	BZ006	36	7	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 36-8	BZ006	36	8	piaceva,	piaceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=136.93	_	_	_	_
 37-0	BZ001	37	0	[mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=135.625	_	_	_	0-2(9)
@@ -360,9 +360,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 38-3	BZ006	38	3	allora,	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 38-4	BZ006	38	4	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 38-5	BZ006	38	5	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-38-6	BZ006	38	6	>insomma	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Fast=0-7(0)	_	_
-38-7	BZ006	38	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-38-8	BZ006	38	8	<		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+38-6	BZ006	38	6	>insomma<	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Fast=0-7(0)	_	_
+38-7	BZ006	38	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 38-9	BZ006	38	9	dalle	dalle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 38-10	BZ006	38	10	elementari	elementari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 38-11	BZ006	38	11	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1001,7 +1000,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 104-0	BZ001	104	0	[mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=350.951	_	_	_	0-2(39)
 104-1	BZ001	104	1	mh].	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=351.591	_	_	_	0-2(39)
 105-0	BZ006	105	0	[<ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=350.951	_	Slow=0-2(0)	_	0-2(39)
-105-1	BZ006	105	1	amo>.]	amo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=351.591	_	Slow=0-3(0)	_	0-3(39)
+105-1	BZ006	105	1	amo.>]	amo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=351.591	_	Slow=0-3(0)	_	0-3(39)
 106-0	BZ006	106	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=352.116	_	_	_	_
 106-1	BZ006	106	1	francese	francese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 106-2	BZ006	106	2	<i>	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-1(0)	_	_
@@ -8176,7 +8175,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1016-6	BZ006	1016	6	lingua	lingua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1016-7	BZ006	1016	7	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1016-8	BZ006	1016	8	dire,	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2640.288	_	_	_	_
-1017-0	BZ006	1017	0	h.	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=2644.438	_	_	_	_
+1017-0	BZ006	1017	0	.h	.h	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2644.438	_	_	_	_
 1017-1	BZ006	1017	1	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1017-2	BZ006	1017	2	secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1017-3	BZ006	1017	3	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

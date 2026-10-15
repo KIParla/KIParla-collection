@@ -6958,7 +6958,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1397-3	PST086	1397	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1397-4	PST086	1397	4	trofeo	trofeo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1397-5	PST086	1397	5	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1397-6	PST086	1397	6	rom.ania.	rom.ania.	_	_	_	_	_	error	_	ContainsVariation=No	_	End=2195.56	_	_	_	_
+1397-6	PST086	1397	6	romania.	romania	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2195.56	_	_	_	_
 1398-0	PST203	1398	0	vediamo,	vediamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2195.973|End=2196.786	_	_	_	_
 1399-0	PST083	1399	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2196.786	_	_	_	_
 1399-1	PST083	1399	1	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

@@ -67,11 +67,11 @@ PSB005	sì sì
 PSB094	sì
 PSB093	ehm
 PSB093	#_ there's no problem
-???	#_ xxx
+??	#_ xxx
 PSB093	#_ eita haray jabena oikhane rekhegele ami to konodin jante parbona bhujteo parbona oikhane rekegese ami ki niashbo naki khorbo
-???	eh
-??	xxx
-??	#_ dorja khola ami to ante gechilam
+??	eh
+???	xxx
+???	#_ dorja khola ami to ante gechilam
 PSB095	sì sì sì è solo da mettere a posto
 PSB093	bangla #acha #thikache #ami #thaole #ektu #pore #thike #shater #kotha #boli #sorry scusa
 PSB005	no no no niente niente
@@ -81,11 +81,11 @@ PSB005	bangla
 PSB093	bangla
 PSB005	okay
 PSB005	sto imparando a riconoscere lentamente
-???	ciao
+??	ciao
 PSB005	ciao ciao ciao
-??	#_ xxx
+???	#_ xxx
 PSB093	#ekhn ami #nilam #amake #janio #oke #ami #dekhi #ami #hae ami dekhi #ami stampelle #nhite #hobe #amake
-??	#_ xxx
+???	#_ xxx
 PSB005	allora ripetimi cosa devo dire a quella ragazza
 PSB093	eh noi siamo un oh cooperativa si chiama
 PSB005	okay

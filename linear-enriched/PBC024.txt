@@ -125,7 +125,7 @@ BOI103	eh?
 BOR036	erano simpatici?
 BOI103	[x]
 BOR036	[eran] simpatici?
-BOI103	e:: h ce n'era dei buffi
+BOI103	e::h ce n'era dei buffi
 BOI103	ce n'era da: ce n'era un po' di tutte le qualità, sai benissimo in una scuola dove ci sono tanti: tanti figli e:
 BOI103	e:h mh (.) e questi ragazzi erano tutti quanti sorvegliati dai geni~ [dai su]oi: profess[ori]
 BOR036	[mhmh]
@@ -407,7 +407,7 @@ BOI103	[al]la mia età non conosco quasi più nessuno perché non vado neanche p
 BOI103	alla mia eta e::hm mh è tutto esaurito insom[ma eh mh]
 BOR036	[mh eh l]o so
 BOI103	[è un po::']
-???	[xxx]
+??	[xxx]
 BOI103	[è] un po' (.) se vogliamo dire (.) e:hm e:hm
 BOR036	[mh]
 BOI103	sono <isolata> piutto~ [pro~]
@@ -820,7 +820,7 @@ BOI103	hai capito, queste cose qua ti racconto io [di cesare] ((ride))
 BOR036	[beh giusto va bene giusto gius]to
 BOI103	e poi cosa volete ancora?
 BOR036	°no ma no° direi che (.) gua~ guardami un attimo
-???	sì guardo sì
+??	sì guardo sì
 BOI103	per non dire anche [quando che] magari andavamo alla: (.) biblioteca
 BOR036	[ehm]
 BOR036	qui,
@@ -851,7 +851,7 @@ BOI103	uscì quello della bestia no~ non so se lo~ te lo:
 BOI103	# macchè (.) t'ha xx con una lotta con su meder andò a firmer
 BOI103	t'ho detto di andare a firmare lei perché lui voleva la bestia
 BOI103	((ride))
-???	è un libro per [adulti x x]
+??	è un libro per [adulti x x]
 BOI104	[non mi ricordo francamente]
 BOR036	[eh]
 BOR036	era precoce
@@ -1010,9 +1010,9 @@ BOI104	mh °capito° sì sì
 BOR036	io secondo me ci sono andata fino: (.) ai quindici:: così
 BOI104	mhmh
 BOR036	quindici sedici forse più quindici
-???	xx
+??	xx
 BOR036	cioè perché dop[o::]
-???	[xxx]
+??	[xxx]
 BOI103	[non t'ho mi]ca raccontato,
 BOR036	[era più i]n difficoltà
 BOR036	dimmi
@@ -1037,7 +1037,7 @@ BOI103	[e:h] de~ de~ (cose che) eh le canzoni (.) e gli raccontavo anche delle f
 BOI103	mh quando era brutto tempo che mh era: freddo (.) allora ci mettevamo la nella stanzina con un panno in terra
 BOI103	e poi dopo:: eh mh io le leggevo dei libri che lei mi portava
 BOI103	che:: e: i::l (.) il
-???	zigo zago?
+??	zigo zago?
 BOI103	i:::l p~
 BOI104	zigo zago
 BOI104	z[igo] zago
@@ -1061,7 +1061,7 @@ BOI103	((canta)) li porti alla bella marinara
 BOR036	la sai questa?
 BOI104	[sì]
 BOI103	[eh] ma io non lo so
-???	[secondo me la sapeva]
+??	[secondo me la sapeva]
 BOR036	[non la sa]i questa? poi cantava::
 BOR036	no ce n'è un'altra
 BOR036	[m::h]
@@ -1236,5 +1236,5 @@ BOI103	e[ra questa la~] era questa [la:]:
 BOR036	[xx x]?
 BOR036	[sì sì]
 BOI103	ah era questo?
-???	[xx]?
+??	[xx]?
 BOR036	altroché

@@ -1,15 +1,15 @@
 TOR002	ma guarda qua c'è da sparecchiare
 TOI005	dai dagli una mano al xx dai una mano xx
-???	no sto qua seduta
+??	no sto qua seduta
 TOR001	ma ascolta
-???	mi siedo sul divano dai va bene
+??	mi siedo sul divano dai va bene
 TOR001	ma no ma stai ma figurati
 TOI005	dai vabbè
 TOI005	no
-???	no mi siedo qua
+??	no mi siedo qua
 TOI005	ti posso dire una cosa è fastidiosa
 TOR001	va bene
-???	ma no stefano piuttosto
+??	ma no stefano piuttosto
 TOI005	sta lì a fissarmi e a rompermi xx
 TOI005	xx
 TOR001	francesco lo fai dopo quel lavoro lì per favore
@@ -32,12 +32,12 @@ TOI005	ho bevuto un pochino
 TOR002	xxx
 TOR001	allora
 TOI005	stoppa e cancella
-???	sì sì
+??	sì sì
 TOI005	quella puoi tenerla come ricordo
 TOR001	la tengo come suoneria del cellulare allora
 TOR002	dio boia
 TOI005	eh ecco
-???	anche
+??	anche
 TOR001	i primi venti secondi li cancelliamo magari
 TOI005	siamo siamo amici io e lui eh siamo amici
 TOR001	allora che lavoro fai
@@ -113,7 +113,7 @@ TOR001	okay
 TOR002	il peggior dipendente possibile
 TOI005	possiamo anche vederla in quella maniera
 TOI005	cioè non hai non hai i pregi del dipendente
-???	sei dipendente ma hai tutti i cazzi dell'imprenditore
+??	sei dipendente ma hai tutti i cazzi dell'imprenditore
 TOI005	pieno pieno poi quando lavori col padre
 TOI005	è fantastico
 TOI005	quando lavori con la famiglia è bellissimo
@@ -214,7 +214,7 @@ TOR001	mh mh
 TOI005	uno perché la gente è andata a peggiorare
 TOI005	incontrandone tutti i giorni che poi le scuse
 TOI005	le motivazioni possono essere perché c'è meno soldi
-???	xxxx
+??	xxxx
 TOI005	o chissà quale altra motivazione
 TOR001	mh mh mh mh
 TOI005	la gente è diventata più scorbutica non è facile rapportarsi
@@ -845,11 +845,11 @@ TOR001	e quand'è che ti sei trasferito invece
 TOI005	sì
 TOR001	venite eh non è che dovete stare lì
 TOR002	no non volevamo rompere i coglioni
-???	xxxxxx
+??	xxxxxx
 TOI005	nono
 TOR001	quand'è che ti sei tras~ quand'è che vi siete trasferiti xx
 TOI005	eh sei mesi fa più o meno
-???	quattro esattamente
+??	quattro esattamente
 TOI005	maggio primo
 TOI005	no ma me lo ricordo primo maggio
 TOI005	xx
@@ -864,7 +864,7 @@ TOI005	poi vabbè è cambiato tante cose
 TOI005	nel senso sai e inizi a convivere
 TOI005	si sono allargate le amicizie
 TOI005	però ti devo dire gli amici
-???	xx anche i miei amici
+??	xx anche i miei amici
 TOI005	gli amici
 TOI005	sarà che il football era collegato a mio fratello
 TOI005	perché io ho iniziato a giocare tramite mio cugino e mio fratello
@@ -905,22 +905,22 @@ TOI005	non abitua~
 TOR002	è l'unica casa tua che ho visto io forse
 TOI005	eh
 TOR002	forse è l'unica casa tua che ho visto
-???	sì corso monte cucco
+??	sì corso monte cucco
 TOI005	che sei venuto quando siam tornati dalla vacanza
 TOI005	era quella
 TOR002	eh
 TOI005	quando siam tornati dalla calabria che siete saliti su a fare i conti
-???	sì
+??	sì
 TOR002	ah è vero
 TOI005	quella era cors~
 TOR002	ma ero venuto forse un'altra volta
 TOI005	tu sei venuto
-???	la xxxx
+??	la xxxx
 TOR002	no
 TOI005	alla jambalaia ma non era là
 TOR002	sì può essere
 TOR002	no no
-???	sì era là
+??	sì era là
 TOI005	ah la jambalaia era là è vero
 TOR002	era lì che c'eravate tu e tua mamma più
 TOI005	sì tu hai visto
@@ -944,7 +944,7 @@ TOI005	ma dai lavori che stan facendo poi
 TOI005	io abito in via
 TOI005	ma eh la mia giornata è su corso racconigi
 TOI005	perché vanno a tirare giù un ponte tirato xx
-???	xxxxx su via
+??	xxxxx su via
 TOI005	sì su via reiss romoli
 TOR001	mh mh
 TOI005	così
@@ -957,7 +957,7 @@ TOI005	e ogni giorno ci lavoran cinque persone
 TOI005	e ci sono venti vigili per gestire il traffico malamente
 TOR002	ma ancora adesso
 TOI005	ancora adesso fra ma un anno ma lasciamo stare
-???	hanno appena iniziato
+??	hanno appena iniziato
 TOI005	dove stiam parlando di una zona
 TOI005	che era la zona più industriale di torino
 TOI005	cosa che l'han fatta decadere anche quella
@@ -988,8 +988,8 @@ TOR001	mh mh mh mh
 TOI005	o che pensi da ignorante è quello
 TOR001	mh mh mh mh
 TOI005	mah
-???	invece di via di nanni il parcheggio
-???	il parcheggio
+??	invece di via di nanni il parcheggio
+??	il parcheggio
 TOI005	ah beh via di nanni lasciam perde~
 TOR002	non è vero non parcheggi lì
 TOI005	okay non c'è parcheggio però c'ha anche la sua motivazione
@@ -1010,17 +1010,17 @@ TOI005	pochi controlli ci son solo loro
 TOI005	ma non che ti faccian del male però lo vedi
 TOI005	che c'è chi non lo so
 TOI005	mh non è sicura come può essere
-???	xxx si sonoammazzati con la bottiglia di vetro
-???	quest'estate non so se l'avevate sentito
+??	xxx si sonoammazzati con la bottiglia di vetro
+??	quest'estate non so se l'avevate sentito
 TOR002	ma forse sì xxx
 TOR001	ma qui in via di nanni
-???	sì era piazza sabotino
+??	sì era piazza sabotino
 TOR001	ah beh ma
 TOR002	è peruviano un peruviano xx
 TOI005	poi un cas~ un caso è un caso però
-???	non lo so
+??	non lo so
 TOI005	parlo di cosa tu senti nell'aria
-???	forse anche cioè
+??	forse anche cioè
 TOR001	mh mh mh mh
 TOI005	l'estate almeno per esser la prima estate lì è quella
 TOR001	mh mh mh
@@ -1045,7 +1045,7 @@ TOI005	è tutto nei negozi lavorano perché si conoscon tutti è proprio
 TOI005	era la via dei pugliesi quella
 TOI005	pugliese
 TOR002	non è vero
-???	beh ma anche via di na~ è tutta zona campana
+??	beh ma anche via di na~ è tutta zona campana
 TOR002	non è vero
 TOI005	sì
 TOI005	tutta zona san paolo è la zona dei pugliesi
@@ -1098,23 +1098,23 @@ TOR001	perché lui no perché compriamo le birre lui le porta sempre fuori
 TOR001	e rimaniamo sempre senza ho detto portale ma ricomprale
 TOR002	e adesso la vai a ricomprare la birra
 TOR001	vai a cagare va
-???	beh comunque noi da quando viviamo insieme alla fine
-???	beviamo birra praticamente a ogni cena
+??	beh comunque noi da quando viviamo insieme alla fine
+??	beviamo birra praticamente a ogni cena
 TOI005	oh birra e vivo in continuazio~
-???	xxxxx
+??	xxxxx
 TOR002	ma io ultimamente bevo molto più vino che birra
 TOI005	anch'io
 TOR002	per un po' perché la birra mi gonfia
 TOI005	però vedi sì però vedi ti dico
 TOI005	cosa che prima con mia madre non bevevo niente
-???	sì anch'io con i miei
+??	sì anch'io con i miei
 TOI005	noi adesso a casa
 TOI005	la sera comunque il bicchiere di vino
 TOI005	oramai è dive~ come
 TOI005	sempre il formaggio a fine pasto
 TOI005	ah lo so è per quello che si ingrassa quando si va a convi~
 TOR002	eh
-???	non perché c'è una che cucina
+??	non perché c'è una che cucina
 TOI005	no è perché ma~
 TOI005	comunque ritornando al discorso
 TOI005	ti posso dire
@@ -1125,8 +1125,8 @@ TOI005	perché se tu devi pensare a
 TOI005	cambio una zona vuol dire che
 TOI005	mentalmente ti sei ristretto grazie
 TOR002	che è anche più difficile
-???	sì sì sì
-???	è anche più difficile
+??	sì sì sì
+??	è anche più difficile
 TOR002	grazie
 TOR001	ce n'è al~ un'altra mh quando l'hai presa
 TOR002	no questa
@@ -1141,9 +1141,9 @@ TOR002	cin
 TOI005	ci~ ci~ ci~
 TOR001	perché fai sempre la faccia da xx
 TOR002	xx
-???	xxx
+??	xxx
 TOR002	perché festeggio sempre
-???	quindi cosa miglioreresti
+??	quindi cosa miglioreresti
 TOI005	non iniziare tornatene seduta là
 TOI005	ecco lei
 TOI005	si può mettere lei
@@ -1159,16 +1159,16 @@ TOI005	vuoi mangiar la pizza c'hai tre pizzerie quattro
 TOR001	mh mh mh mh
 TOI005	vuoi il ristorantino c'è qualcosa
 TOI005	xxx no
-???	xxx
+??	xxx
 TOR001	cosa
-???	il lavasciuga abbiamo
+??	il lavasciuga abbiamo
 TOI005	lei ha scoperto la lavasciuga per la mia roba di lavoro è fantastica
 TOR001	cos'ha scoperto fichissimo
 TOI005	eh
 TOI005	però
 TOR002	ma quello a gettoni quello grosso
 TOI005	sì sì
-???	sì sì
+??	sì sì
 TOR001	beh figo aver la roba già asciugata
 TOI005	eh ma soprattutto per la mia roba di lavoro che lovi~ rovina la lavatrice vabbè
 TOR001	la lavatrice
@@ -1197,15 +1197,15 @@ TOR001	mh anche secondo me
 TOI005	cioè a me piace il mio divano
 TOI005	il nostro stare a casa il non lo so
 TOR001	mh
-???	sì però comunque veramente c'è tutto
-???	cioè scendiamo e c'è il verduriere
-???	il bar il ferramenta il negozio di internet
+??	sì però comunque veramente c'è tutto
+??	cioè scendiamo e c'è il verduriere
+??	il bar il ferramenta il negozio di internet
 TOR002	no no quello sì
 TOI005	c'è il bar c'è il bar
-???	la pizzeria
+??	la pizzeria
 TOR002	il negozio di internet
-???	sì quello dove avevo fatto xx è sotto casa
-???	le pompe funebri abbiamo
+??	sì quello dove avevo fatto xx è sotto casa
+??	le pompe funebri abbiamo
 TOR002	beh è un bel xxxx
 TOR002	scusa
 TOI005	no no ti dico guarda c'è il bar
@@ -1213,14 +1213,14 @@ TOI005	è forte questo
 TOI005	scendi casa c'è
 TOI005	quello dove andiamo sempre
 TOI005	un bar dove una brioche la paghi l'ira di dio
-???	sì
+??	sì
 TOI005	fatta dal panettiere dentro loro che fanno anche il pane
 TOI005	è bellissimo perché sta genete oramai
 TOI005	i vecchietti della zona
 TOI005	entran là loro li conoscon tutti di nome
 TOI005	però hai la qualità
 TOI005	ma se provi a mangiar due cose prendi una brioche spendi sette euro
-???	lì costa tantissimo
+??	lì costa tantissimo
 TOI005	però ci va un botto di gente sono il primo ad andare perché
 TOI005	fanno quello che ti dicevo prima
 TOR001	mh mh mh mh
@@ -1262,9 +1262,9 @@ TOI005	e anche se so che sto spendendo di più
 TOI005	è quello che ti dicevo prima lo accetto
 TOR001	vabbè ma è anche quello certo
 TOI005	se invece vai dall'altra parte che è
-???	vai davanti e c'è
+??	vai davanti e c'è
 TOI005	vabbè ma c'è il cinese che fa scassare
-???	xxx
+??	xxx
 TOI005	poi hai il bar del cinese dove però ha una sua clientela
 TOI005	attenzione vedi proprio
 TOI005	ecco in questo caso ora non è proprio fare il classico discorso
@@ -1284,26 +1284,26 @@ TOR001	mh mh mh mh
 TOI005	chi sta meglio o chi sta peggio o chi
 TOI005	vive in una certa maniera e chi invece non può più
 TOR001	mh mh mh
-???	anche il ristorante cinese c'è su via di nanni
-???	e poi il fantastico cinema
+??	anche il ristorante cinese c'è su via di nanni
+??	e poi il fantastico cinema
 TOR002	beh c'è il greco in via di nanni eh ragazzi
 TOI005	sì c'è il greco
-???	in via monginevro
+??	in via monginevro
 TOR002	ah è in via monginevro quello
-???	sìsì
+??	sìsì
 TOR002	xxx
 TOI005	ecco anche il cinema
 TOI005	non è che ci piacesse era un po' vecchio certe volte
 TOI005	scherzando
 TOI005	tu vai là
 TOI005	eh comunque tutti i vecchi della zona tu li vedi a una certa ora x
-???	sì alle xx
+??	sì alle xx
 TOR001	ma che carino
 TOI005	x son tutti della zona
-???	xxx xx la domenica alle cinque
+??	xxx xx la domenica alle cinque
 TOR002	beh ma poi l'eliseo è particolare
 TOI005	lo so però
-???	xxx
+??	xxx
 TOI005	l'eliseo particolare però da quel film carino tipo
 TOI005	noi che ce l'abbiam due passi
 TOI005	la domenica che veramente
@@ -1314,7 +1314,7 @@ TOI005	guardiamo questo non c'entrava niente con gli altri
 TOI005	parcheggiamo andiamo a piedi noi in mezz~ ah
 TOI005	centomila vecchi vabbè
 TOI005	no a prescindere dopo un po' c'è stato un odore in quella sala che
-???	sì
+??	sì
 TOI005	ma non è catti~ non è cattiveria
 TOI005	prima o poi anche noi
 TOI005	involontariamente puzzeremo in quella maniera ma è giusto
@@ -1322,8 +1322,8 @@ TOI005	poi c'era anche chi non si lavava perché la realtà dei fatti è quella
 TOI005	però c'era proprio da
 TOI005	il vecchietto che ha iniziato a russare dal primo minuto
 TOI005	la vecchietta che gli squilla il telefono
-???	il cellulare
-???	xxx
+??	il cellulare
+??	xxx
 TOI005	la vedi quando si è alzata dalla sedia
 TOI005	ma non lo dico per raccontare così
 TOI005	si è alzata così
@@ -1351,8 +1351,8 @@ TOI005	però sai perché va avanti guarda
 TOI005	ecco l'altro giorno dicevo
 TOI005	quest'estate
 TOI005	l'eliseo lo vedo chiudere che fa vacanza
-???	sì
-???	sì x chiuso un casi~
+??	sì
+??	sì x chiuso un casi~
 TOI005	un cinema che fa vacanza cioè
 TOI005	gli faccio ma anche l'eliseo fa vacanza e noi no
 TOI005	l'eliseo fa vacanza
@@ -1361,12 +1361,12 @@ TOI005	cioè l'eliseo è proprio casareccio c'ha i suoi vecchietti di clienti
 TOI005	che è vero che tanti anni fa l'eliseo ha fatto il boom
 TOI005	io quando è arrivato mio nonno
 TOR002	infatti era figo
-???	sì sì
+??	sì sì
 TOR002	cioè tu avevi un cinema degli anni ottanta figo
-???	perché era era uno dei primi multisala secondo me
+??	perché era era uno dei primi multisala secondo me
 TOI005	guarda ti posso raccontare
 TOI005	ti dico questo se ti può interessare forse ti aiuta ancora di più
-???	sì è vero
+??	sì è vero
 TOR001	dimmi dimmi
 TOI005	non quello che ti racconto io perché
 TOI005	quello che ti racconto io
@@ -1422,11 +1422,11 @@ TOI005	particola~
 TOI005	lui è il pugliese che però ha imparato a sciare
 TOR001	che figo
 TOI005	si è comprato la ca~
-???	xxxx
+??	xxxx
 TOI005	va
 TOI005	lui è un amante dello sci si è comprato la casa
 TOI005	la casa in montagna tu devi capire che lui lavorava in fabbrica
-???	la bella casina
+??	la bella casina
 TOI005	è sempre stato uno diligente eh
 TOI005	apriva la fabbrica lui era mezz'ora prima a lavoro
 TOI005	lavorava
@@ -1486,7 +1486,7 @@ TOI005	però sento anche parlare mio padre che più piccolo
 TOI005	comunque è del sessanta
 TOI005	però è proprio diverso come si vivevano la città loro
 TOR001	mh mh mh
-???	beh suo padre l'ha vissuto a barriera
+??	beh suo padre l'ha vissuto a barriera
 TOI005	l'ha vissuta a barriera ~indi stiam parlan~
 TOI005	e mio padre l'ha vissuta nella
 TOR002	beh è un'altra zona operaia eh insom~
@@ -1511,10 +1511,10 @@ TOI005	molto presto
 TOI005	in proporzione
 TOI005	aveva ottant'anni ma a xxx
 TOI005	in proprorzione al tutto a mia nonna e ai miei a mio padre
-???	sì perché su~ suo padre
-???	x a che età l'ha fatto tuo nonno tuo padre a quarant'anni
+??	sì perché su~ suo padre
+??	x a che età l'ha fatto tuo nonno tuo padre a quarant'anni
 TOI005	sì mio padre l'ha anzi ha quarantaquattro quindi stiam parlando cioè
-???	è più piccolo di tua xx
+??	è più piccolo di tua xx
 TOI005	proprio un altro un'altra filosofia cioè un'altra xx
 TOR001	mh mh mh
 TOI005	però sì se tu parli con tutti loro comunque sia
@@ -1537,7 +1537,7 @@ TOI005	in questa età siamo un po' più cupi
 TOR001	mh mh mh mh mh
 TOI005	poi non lo so mh
 TOI005	magari sono io che
-???	vabbè dai hai e~ esteso la domanda
+??	vabbè dai hai e~ esteso la domanda
 TOI005	si ma non so il perché
 TOI005	comunque
 TOR001	allora come ti muovi in città abitualmente
@@ -1611,9 +1611,9 @@ TOI005	che dà lavoro ma
 TOR001	mh mh mh mh
 TOI005	per la gente che vi vive
 TOI005	ma è diventata povera anche quella zona
-???	anche la zona dove lavori s'è svuotata no
+??	anche la zona dove lavori s'è svuotata no
 TOI005	dove
-???	in via reiss romoli così hanno chiuso un sacco di fabbriche
+??	in via reiss romoli così hanno chiuso un sacco di fabbriche
 TOI005	ma vabbè ma quello sì quello sì però
 TOR001	mh mh mh
 TOR001	quindi diciamo un cambiamento comunque negativo
@@ -1646,12 +1646,12 @@ TOR001	mh mh mh
 TOI005	non sanno dove metterli tu non ti puoi avvicinare
 TOI005	e ve lo dico perché son cresciuto anche in quella zona cioè racchiude il lingotto
 TOR001	mh mh mh
-???	piena di miei clienti xx
+??	piena di miei clienti xx
 TOI005	racchiude
 TOI005	quella racchiude racchiude la la mia zona
 TOR002	ma xx son case occupate cos'è
 TOI005	sono occupate
-???	a xx sì occupate
+??	a xx sì occupate
 TOR001	occupate
 TOI005	sono occupate dove c'è perennemente
 TOI005	le camionette di militari davanti che non fanno niente
@@ -1795,17 +1795,17 @@ TOI005	per di più alle tre di notte son scoglionati sono pippati come delle mer
 TOI005	e rompono anche i coglioni
 TOI005	boh non lo accetto
 TOR001	mh mh mh mh
-???	più che secondo me comunque è così xx posso dare
+??	più che secondo me comunque è così xx posso dare
 TOI005	non lo accetto cioè per me è xx
-???	il è vero che c'è più turismo ma secondo me da pochi anni
+??	il è vero che c'è più turismo ma secondo me da pochi anni
 TOR001	eh no no infatti
-???	cioè
-???	cinque a dir tanto
+??	cioè
+??	cinque a dir tanto
 TOR001	mh mh mh mh mh
-???	secondo me
+??	secondo me
 TOR001	mh mh mh mh mh
-???	cioè dieci anni fa che alla fine noi eravamo già grandicelli
-???	mh no cioè non notavo xx punto
+??	cioè dieci anni fa che alla fine noi eravamo già grandicelli
+??	mh no cioè non notavo xx punto
 TOR001	mh mh mh mh
 TOR001	sì
 TOI005	no ma poi c'è chi può condividere però sarà che io
@@ -1814,9 +1814,9 @@ TOI005	io non cammino di giorno a san salvario
 TOI005	o veramente ehm
 TOI005	piazza santa giulia
 TOI005	che c'è quel cazzo di angoletto vicino alla panetteria
-???	cioè adesso per
+??	cioè adesso per
 TOI005	sono in dieci
-???	santa giulia è peggiorata in tre anni
+??	santa giulia è peggiorata in tre anni
 TOR001	un sacco
 TOI005	okay e perché
 TOI005	tutti quelli che spacciavano ai murazzi li hanno spostati di là
@@ -1844,11 +1844,11 @@ TOI005	ma pieno è pieno solo che la gente non lo vuole vedere
 TOI005	ma la realtà dei fatti è diver~
 TOR002	più che altro gira tra chiun~ cioè veramente trasversale
 TOI005	tra chiun~
-???	sì sì
+??	sì sì
 TOI005	il problema è che la trovi ovunque
 TOR002	dal ragazzino delle superiori al
 TOI005	son pippa~
-???	eh
+??	eh
 TOI005	ecco il problema che un tempo
 TOI005	ai tempi dei nostri genitori c'era l'eroina
 TOR002	xx xx
@@ -1864,16 +1864,16 @@ TOI005	che ce l'hanno veramente chiunque
 TOI005	cioè proprio il ragazzino si pippa l'impossibile
 TOR002	beh anche perché è meno
 TOI005	e si fa anche di acidi
-???	sì però è meno male cioè con l'eroina
+??	sì però è meno male cioè con l'eroina
 TOI005	cioè ragazzi gli acidi gli acidi girano in tutta la maniera possibile
 TOR002	cioè rispetto a bucarti le vene farti una striscia è una cosa
 TOR002	cioè fa meno impressione fa meno eh
-???	sì
+??	sì
 TOI005	non tutti hanno il coraggio di farsi di eroina
 TOR001	eh certo
-???	ma poi ti fai ti fai di coca ti puoi far la serata
+??	ma poi ti fai ti fai di coca ti puoi far la serata
 TOI005	poca
-???	ti fai una cosa in vena cioè rimani xx
+??	ti fai una cosa in vena cioè rimani xx
 TOI005	ragazzi io ho a che fare con i carro~ carrattrezzisti
 TOI005	vi garantisco che l'ambiente per la strada è brutto
 TOI005	e ne sento eh ma tanti
@@ -1892,18 +1892,18 @@ TOI005	però
 TOI005	dai san salvario facciamo finta di niente a dire che è bella san
 TOI005	cioè chiudi gli occhi per dire san salvario è bella eh
 TOI005	no
-???	sì sì sì sì no xx
+??	sì sì sì sì no xx
 TOR002	a me è sempre stata un po' sul cazzo san salvario
-???	il concetto c'è
+??	il concetto c'è
 TOR002	ma non cioè no in realtà non è vero
 TOR002	c'è stato un periodo prima che diventasse di moda
 TOR002	tra virgolette san salvario
 TOR002	c~ che era la dimensione giusta
 TOI005	sì
-???	ma poi ha un sacco di locali carini se stai xxxxx
+??	ma poi ha un sacco di locali carini se stai xxxxx
 TOR001	mh
 TOR002	che sono quelli storici tipo il biberon che è un posto storico di san salvario
-???	sì
+??	sì
 TOR002	quegli altri lì che son posti che ci sono sempre stati
 TOR002	era un posto un po' particolare dove non trovavi il bordello del centro
 TOI005	scusa
@@ -1913,20 +1913,20 @@ TOI005	eh però non è di~ non era quello che è adesso dai
 TOR002	adesso è un cesso cioè
 TOR001	ma io sono arrivata che era già così infatti a me san salvario non è mai piaciuta
 TOR001	perché quando sono arrivata era già
-???	sì sì
+??	sì sì
 TOR001	cioè un casino infernale ogni volta
 TOR002	cioè il primo hiroshima era a san salvario
 TOR002	prima di essere in zona lingotto
 TOI005	certo certo
-???	sì
+??	sì
 TOI005	però beh io vabbè sono su quello poi
 TOR001	mh mh mh mh
 TOR001	ma sta diventando così anche vanchiglia
 TOI005	cioè
-???	sì
+??	sì
 TOR001	cioè santa giulia è cambiata tantissimo in pochissimo tempo
 TOR002	eh è cambiata sì
-???	sì è cambiata tantissimo è vero
+??	sì è cambiata tantissimo è vero
 TOI005	eh ma fa schifo
 TOR002	locali del cazzo
 TOR001	adesso fa xx
@@ -1936,12 +1936,12 @@ TOR001	ne aprono sempre di più tutti uguali tra loro
 TOR001	tutti xx cioè
 TOI005	e poi parliamoci anche della qualità
 TOI005	andiamo a vedere la qualità che fa schifo
-???	no no no io ho trovato due cocktail
-???	a cinque euro con la smart card
-???	poi son stata male tutto il giorno dopo
+??	no no no io ho trovato due cocktail
+??	a cinque euro con la smart card
+??	poi son stata male tutto il giorno dopo
 TOR001	molto bene
 TOI005	eh eh però è quello che ti voglio dire
-???	però sappilo se hai una smart card
+??	però sappilo se hai una smart card
 TOI005	ecco non c'è neanche la qualità oramai
 TOR001	no no è vero hai ragione
 TOI005	xxx cioè fa schifo eh
@@ -1963,9 +1963,9 @@ TOR002	abbiam pagato un sacco per mangiare delle cose
 TOR002	boh normali
 TOI005	no ma non
 TOR002	alla fine a me non frega niente di spenderli per una roba buona
-???	sì sì
+??	sì sì
 TOR002	per una roba che cioè se me la faccio a casa viene uguale oh
-???	sì sì
+??	sì sì
 TOI005	certo cer~
 TOR002	cioè
 TOI005	no no no ma quello
@@ -1981,25 +1981,25 @@ TOR001	cioè teneva insieme un po' entrambe le cose no
 TOI005	certo
 TOR001	però tipo l'altro giorno son passata la mattina c'è il mercato
 TOR001	c'erano pochissime bancarelle non c'è quasi più non c'è quasi più niente
-???	sì sì
-???	ah sì
+??	sì sì
+??	ah sì
 TOI005	eh perché i soldi li fa di notte non li fa più di giorno
 TOR001	eh sì cioè proprio
-???	che triste
+??	che triste
 TOR001	m'ha preso una tristezza
-???	io mi ricordo perché anna la nostra amica abitava proprio lì in piazza
+??	io mi ricordo perché anna la nostra amica abitava proprio lì in piazza
 TOR001	mh mh
 TOR002	minchia che serata lì
-???	e c'era proprio
-???	sì infatti
+??	e c'era proprio
+??	sì infatti
 TOR001	io andavo sempre al mer~ cioè io uscivo la mattina presto lasciavo la spesa
-???	ma poi c'era la
+??	ma poi c'era la
 TOR001	poi tornavo andavo a studia~ sì sì
-???	sì era anche buonisimo poi non era tanto grande
+??	sì era anche buonisimo poi non era tanto grande
 TOR001	sì era pi~ s~ esatto esatto
-???	avevi le tue bancarelle sì era molto carino
+??	avevi le tue bancarelle sì era molto carino
 TOR001	c'avevo il mio fruttivendolo il mio formaggiaio mi tenevan le cose cioè
-???	xxx
+??	xxx
 TOI005	però voglio dirti perché non c'è più
 TOR001	xxx
 TOR001	eh no no certo cambia il quartiere
@@ -2017,12 +2017,12 @@ TOI005	basta non mi rompere
 TOI005	non ah io non lo accetto poi dopo basta
 TOR001	mh mh mh mh
 TOI005	scusa
-???	niente niente
+??	niente niente
 TOI005	comunque
 TOR001	ah
 TOI005	poi io mi divulgo
 TOR001	no e la domanda dopo era sei contento della tua città però insomma
-???	xxxx
+??	xxxx
 TOI005	io amo allora no io amo la mia città
 TOR002	xxxx
 TOI005	e penso che
@@ -2044,7 +2044,7 @@ TOI005	alleno a football mi alleno sto con lei
 TOI005	famiglia che tra cose
 TOR001	tempo libero
 TOI005	sì tempo libero vabbè
-???	sono il suo hobby
+??	sono il suo hobby
 TOI005	sì sì lei è programmata come quando vado ad allenare eh
 TOI005	oggi vedo te domani alleno
 TOI005	poi a pranzo mi alleno
@@ -2053,16 +2053,16 @@ TOI005	beh allenare cinque anni
 TOR001	mh
 TOR002	già cinque
 TOI005	eh sì mi sembra eh già
-???	no cinque
-???	ma va noi stiamo insieme da
-???	quasi sei anni tu un anno hai giocato quattro
+??	no cinque
+??	ma va noi stiamo insieme da
+??	quasi sei anni tu un anno hai giocato quattro
 TOI005	ehi
 TOI005	allenavo allenavo
 TOI005	quando io e te ci siam messi insieme che mi son spaccato
-???	eh era quell'anno lì
+??	eh era quell'anno lì
 TOI005	diciamo
 TOI005	sì però
-???	secondo me quattro
+??	secondo me quattro
 TOI005	no sono sono sono quasi cinque anni
 TOR001	beh è comunque tanto
 TOI005	sì abbastanza
@@ -2184,21 +2184,21 @@ TOI005	mi alleno almeno
 TOI005	per adesso no però mi alleno
 TOR001	mh
 TOI005	son fermo
-???	vai al cinema
+??	vai al cinema
 TOR001	ah è vero prima dicevate del cinema
 TOI005	una volta ogni tanto non stiamo neanche andando più a quello
-???	sì adesso non ci andiamo più tanto però normalmen~
+??	sì adesso non ci andiamo più tanto però normalmen~
 TOI005	tempo libero
 TOI005	sarò a casa io e lei
-???	no p~ più che altro è molto difficile andare al cinema
-???	perché impieghiamo tutta l'ora prima litigando sul film
-???	quindi alla fine non ci andiamo più
+??	no p~ più che altro è molto difficile andare al cinema
+??	perché impieghiamo tutta l'ora prima litigando sul film
+??	quindi alla fine non ci andiamo più
 TOR002	dimmi qualcosa che non so
 TOI005	sì forse abbiamo rinunciato un po' a quello
-???	secondo me sì perché poi ti scoglioni cioè
+??	secondo me sì perché poi ti scoglioni cioè
 TOI005	no la realtà dei fatti è anche gli orari cioè
 TOR002	alla fine ti chiudi a guardare i telefilm a casa
-???	sì
+??	sì
 TOI005	ammettia~ sì c'hai i telefilm
 TOI005	poi sei a casa tua
 TOI005	non lo so
@@ -2206,7 +2206,7 @@ TOR001	dopo aver discusso per il telefilm vabbè
 TOI005	ma per fortuna adesso l'abbiam trovato
 TOI005	meno male che sono due stagio~ eh
 TOR001	cosa guardate
-???	how i met your mother
+??	how i met your mother
 TOR001	ah okay
 TOI005	nove stagioni siamo alla quinta quindi
 TOR001	xxx noi l'abbiam già io l'ho già vista
@@ -2222,7 +2222,7 @@ TOR002	mh un po' a sprazzi
 TOI005	è fighissimo
 TOR002	non l'ho visto xx
 TOR001	bello
-???	sherlock sì io non ho visto xxxx
+??	sherlock sì io non ho visto xxxx
 TOR002	le ultime puntate non mi son piaciute
 TOI005	però su netlix mi manca
 TOR002	di sherlock
@@ -2230,7 +2230,7 @@ TOI005	eh io sono arrivato quando lui ha
 TOI005	fatto finta di morire
 TOR001	mh
 TOR002	sì
-???	no un po' più avanti siamo arrivati
+??	no un po' più avanti siamo arrivati
 TOI005	sono arrivato
 TOR002	che è la fine della penultima
 TOI005	xxx aspetta io
@@ -2241,11 +2241,11 @@ TOR001	okay
 TOR001	okay
 TOI005	ehm
 TOI005	no aspetta s~ tappati le orecchie se no te lo perdi
-???	ma no perché glielo devi raccontare
+??	ma no perché glielo devi raccontare
 TOR001	xx ma l'hai finito
-???	l'hai visto fino alla fine
+??	l'hai visto fino alla fine
 TOI005	eh non so quant'è la fine
-???	sì sì era la era l'ultima puntata
+??	sì sì era la era l'ultima puntata
 TOR002	che c'è il fatto lì
 TOR001	sì
 TOI005	eh quello allora sì
@@ -2260,19 +2260,19 @@ TOR001	gli attori sono super bravi
 TOR002	no vabbè lu~ ma anche watson è bravo
 TOI005	sì
 TOR001	sì
-???	invece verdi mi aveva suggerito better call saul
+??	invece verdi mi aveva suggerito better call saul
 TOR001	bellissimo
-???	non so io ho visto una puntata e non mi è piaciuto
+??	non so io ho visto una puntata e non mi è piaciuto
 TOR001	io lo adoro
-???	così come breaking bad ne abbiam viste un po'
-???	e poi però ci siam rotti
+??	così come breaking bad ne abbiam viste un po'
+??	e poi però ci siam rotti
 TOR002	ma io lo sto guardando ma è be~ cioè è fatto bene
 TOR002	xxx
 TOI005	allora
 TOR001	sì è lento lui ci mette dodici anni a guardare una serie tivù
-???	è vero comunque
+??	è vero comunque
 TOR002	vabbè ma minchia ma è lento il telefilm
-???	anche noi
+??	anche noi
 TOR002	io non sopporto che minchia vedi le puntate non succede un cazzo
 TOR001	ma è come se guardasse adesso beverly hills capito
 TOR002	xxxx
@@ -2280,40 +2280,40 @@ TOR001	l'han finito tutti ma basta
 TOI005	ti devo dire allora
 TOI005	breaking bad è fatto benissimo
 TOI005	e gli attori valgono
-???	sì no no è fatto bene
+??	sì no no è fatto bene
 TOI005	però se parlando di u~
 TOI005	di un discorso che a me non piace
 TOI005	è un film di droga io no
 TOI005	vabbè ho dei problemi non riesco a guardarli dopo un po' mi
 TOR001	eh ma dai ma better call saul non è sulla droga
 TOI005	no non lo so no quello quello non l'ho visto
-???	no ma l'ho visto solo io lui non l'ha visto
+??	no ma l'ho visto solo io lui non l'ha visto
 TOR001	a me è piaciuto più better call saul
 TOI005	ah io sono da vikings
-???	no io ne ho vista una
+??	no io ne ho vista una
 TOI005	io guardo guardati vikings
 TOR002	vikings
 TOI005	ma l'hai mai visto
 TOR002	no forse ho visto la prima
 TOR001	no
 TOI005	allora ascolta
-???	ma è è più da edo non è da fra
+??	ma è è più da edo non è da fra
 TOI005	e io no
-???	xxx
+??	xxx
 TOI005	io e edo io e edo
 TOR001	secondo me non lo guarda
-???	xxxxxxxxxx
+??	xxxxxxxxxx
 TOI005	no e~ io e edo condividiamo lo stesso pensiero
 TOI005	io ho iniziato a vederlo grazie a se~ a se vabbè
 TOR001	i vichinghi
 TOI005	siamo degli animali quindi ci piaccion queste storie
 TOI005	però
-???	io mentre studiavo per l'esame ero così disperata
-???	che a volte lo guardavo
+??	io mentre studiavo per l'esame ero così disperata
+??	che a volte lo guardavo
 TOI005	ma gli è piaciuto il problema è che gli è piaciuto anche a lei
-???	xxxx
+??	xxxx
 TOI005	poi ora fa la gradassa però il discorso è questo
-???	eh no vabbè
+??	eh no vabbè
 TOI005	sai perché t~ ti potrebbe piacere
 TOI005	poi non lo so se ti piace il genere però
 TOI005	tu ti guardi il trono di spade
@@ -2348,35 +2348,35 @@ TOI005	perché n~ all'inizio non ti aspetti
 TOI005	però è fatto bene
 TOI005	è anche molto semplice
 TOI005	quindi non è che fanno chissà
-???	ah no e poi vabbè
-???	noi ci siam scassati adesso ci manca l'ultima serie di big bang theory
+??	ah no e poi vabbè
+??	noi ci siam scassati adesso ci manca l'ultima serie di big bang theory
 TOI005	beh racconta anche bene
 TOR002	ma
 TOR002	ma a me dopo un po' cioè trovo sempre le solite
 TOI005	eh lo so però big bang theory è già
-???	sì ma noi xxxx
+??	sì ma noi xxxx
 TOI005	allora gli alti e bassi dopo nove anni di serie ci sta
 TOR001	eh certo
 TOI005	però big bang theory è un'opera d'arte
 TOR002	no vabbè cioè le prime eran belle belle
-???	sì
+??	sì
 TOR001	mh
 TOR002	poi adesso c'è mille persone che non conosco
 TOI005	però quando si sono unite
 TOI005	le i nuovi personaggi
 TOI005	comunque sono riusciti a mantenere un bel
-???	sì quando ha iniziato ad esserci anche le altre due ragazze cioè
+??	sì quando ha iniziato ad esserci anche le altre due ragazze cioè
 TOI005	eh
 TOR001	eh si poi diventano xx
 TOI005	cosa che di solito invece perdono sono riusciti a tenere bene
 TOR001	sì
 TOI005	il xxxxx
 TOR001	li hanno integrati bene secondo me è vero
-???	sì sì
+??	sì sì
 TOI005	però è un'opera d'arte xxxx
 TOR002	a me era piaciuta la s~ cioè
 TOR001	adesso tira una fuori un'altra serie anni novanta
-???	friends
+??	friends
 TOI005	dai friends ha fatto la storia anche lei dai
 TOR002	xxxx tanto non non le so neanche quelle no
 TOR002	sons of anarchy avevo guardato
@@ -2385,7 +2385,7 @@ TOR002	ma è simpa~ poi c'è il protagonista che è uguale
 TOR001	e quella che io dormo sempre
 TOR002	è quella che è uguale a kurt cobain il protagonista
 TOI005	sì sì sì
-???	sì
+??	sì
 TOR001	dopo aver fatto tre anni di palestra
 TOR002	xx è un po' grosso boh
 TOR002	no ma è simpatico eh
@@ -2393,7 +2393,7 @@ TOI005	no eh ho visto una puntata
 TOR002	una cagata lì perché si picchia tutto il tempo però
 TOI005	eh
 TOI005	ho iniziato
-???	no vabbè tu guardi anche poi quelle minchiate là
+??	no vabbè tu guardi anche poi quelle minchiate là
 TOI005	poi vabbè io guardo tutti quelli di marvel
 TOI005	cioè no quelli della dc o quelli
 TOR002	ah sì
@@ -2403,9 +2403,9 @@ TOI005	luke cage è figo
 TOI005	ma quello che ti devi guardare è punisher
 TOI005	l'hai visto
 TOR002	ma io non ho vi~ volevo vedere il film prima
-???	no ma xx se tu guardi anche quell'altro di
+??	no ma xx se tu guardi anche quell'altro di
 TOI005	no guardate allora
-???	dello spazio
+??	dello spazio
 TOI005	vabbè star trek
 TOI005	c'è il telefilm di star trek
 TOR002	c'è tutto star trek
@@ -2426,16 +2426,16 @@ TOI005	però è figo comunque neanch'io ero pratico però mi
 TOI005	è piaciuto
 TOI005	però io tutti quelli che guardo sono della dc o della marvel
 TOI005	a me piacciono i super eroi
-???	eh
+??	eh
 TOR002	vabbè xx
 TOI005	ma guarda punisher
-???	poi ti chiede xxxxx xx
+??	poi ti chiede xxxxx xx
 TOI005	ma guardati punisher è fighissimo è sanguinario
 TOR001	xxxx
-???	xxxx
+??	xxxx
 TOI005	in una maniera assurda e poi xx
 TOR001	xxxxx
-???	io ho visto l'altro tot anni fa basta mi basta
+??	io ho visto l'altro tot anni fa basta mi basta
 TOI005	punisher non c'entra con gli altri eh
 TOR002	dovrebbero fare una serie wolverine
 TOR002	magari viene anche meglio dei film
@@ -2446,16 +2446,16 @@ TOI005	wolverine
 TOR002	sì
 TOI005	vado fuori da questa porta
 TOR002	no ma guarda che a me il fumetto piace veramente un sacco
-???	a me piace
+??	a me piace
 TOI005	no no xx
 TOI005	e invece e invece
-???	no a me i film son piaciuti
+??	no a me i film son piaciuti
 TOR002	il film
 TOI005	guarda ti devo dire
-???	qual è l'ultimo che abbiam visto
+??	qual è l'ultimo che abbiam visto
 TOI005	se
 TOI005	se ti piacciono i fumetti di wolverine
-???	che c'era la figlia
+??	che c'era la figlia
 TOI005	a differenza di tutti gli altri super eroi imitati
 TOR001	non lo so io me li confondo tutti insieme
 TOI005	lui è l'unico che son riusciti a tenerlo
@@ -2463,7 +2463,7 @@ TOI005	l'ultimo
 TOI005	è il vero wolverine
 TOI005	cioè se tu guardi l'ultimo wolverine
 TOI005	fatto dove lui muore no
-???	sì
+??	sì
 TOI005	l'hai visto l'ultimo
 TOR002	sì sì sì
 TOI005	che è crudele
@@ -2510,11 +2510,11 @@ TOR001	ecco quando vuoi andare al cinema chiama lui
 TOI005	però
 TOR001	secondo me abbiam risolto
 TOI005	però vedi perché batman
-???	ah sì questo lo s~
+??	ah sì questo lo s~
 TOR002	xxx
-???	quindi anche voi litigate per questo motivo
+??	quindi anche voi litigate per questo motivo
 TOR001	sì sì regolarmente
-???	cioè che lui vuole vedere questo genere non l'avrei detto che volevi vedere questo genere
+??	cioè che lui vuole vedere questo genere non l'avrei detto che volevi vedere questo genere
 TOR002	no ma io in realtà alterno questo genere e
 TOI005	e tanti altri
 TOR002	film troppo del
@@ -2523,10 +2523,10 @@ TOR001	e la palestina capito cioè lui
 TOR001	oscilla come un pendolo
 TOI005	xxxx
 TOR001	saltando xxx xxx
-???	vabbè ma c'hai beh dai meglio la palestina
+??	vabbè ma c'hai beh dai meglio la palestina
 TOR002	vabbè minchia
 TOR001	xxx
-???	devi essere in fase perché se no no
+??	devi essere in fase perché se no no
 TOI005	xxx
 TOI005	ma quello che sbaglia lei allora
 TOI005	io capisco che puoi non voler vedere quel film
@@ -2539,32 +2539,32 @@ TOI005	tu stacchi da tutti gli altri film
 TOI005	perché devi vederlo per il contesto che è
 TOR001	mh
 TOI005	e dai una valutazione per il fi~
-???	no io thor l'ho visto nel contesto che è
-???	un cretino biondo col bastone cioè
-???	cosa ti devo dire
+??	no io thor l'ho visto nel contesto che è
+??	un cretino biondo col bastone cioè
+??	cosa ti devo dire
 TOI005	ma infa~
 TOR002	daredevil sarebbe
-???	col martello no thor ma non l'ultimo quello
+??	col martello no thor ma non l'ultimo quello
 TOR002	ah thor
-???	b~ tot anni fa
-???	tre ore era durato quella roba
-???	tre ore cioè
-???	non so
+??	b~ tot anni fa
+??	tre ore era durato quella roba
+??	tre ore cioè
+??	non so
 TOI005	se vieni a vedere fast and furious
 TOI005	lo guardi fa c'è una tamarraggine da paura
-???	sì ma anche lì fast and furious sì ma
-???	i primi an~ ancora ancora
-???	ma dai questi ultimi porca troia cioè
-???	e la macchina che salta nel vuoto con il fuoco no
+??	sì ma anche lì fast and furious sì ma
+??	i primi an~ ancora ancora
+??	ma dai questi ultimi porca troia cioè
+??	e la macchina che salta nel vuoto con il fuoco no
 TOI005	chi ti ha de~ ma chi ti ha detto
 TOI005	ma tu
 TOI005	non puoi giudicare la macchina che salta nel fuoco
 TOI005	se no non stai guardando fast and furious
-???	non è vero perché invece abbiam visto l'ultimo di star wars
-???	dove c'è leila che oscilla nell'universo
-???	e poi ritorna
+??	non è vero perché invece abbiam visto l'ultimo di star wars
+??	dove c'è leila che oscilla nell'universo
+??	e poi ritorna
 TOI005	ha fatto cagare
-???	fa caga~ ha fatto cagare perché è un'esagerazione
+??	fa caga~ ha fatto cagare perché è un'esagerazione
 TOI005	grazie al ca~
 TOI005	beh ma qua stai parlando s~
 TOI005	no no non qua è perché
@@ -2618,7 +2618,7 @@ TOI005	questo è stato i~
 TOI005	è bello perché dici cavolo continuo a guardarmi star wars
 TOI005	ma non perché è il vero star wars
 TOI005	ma vaffanculo poi dai
-???	meglio xx
+??	meglio xx
 TOI005	ma dopo dart fener ti arriva sto deficiente con la faccia così
 TOI005	da de~ xx sto mongoloide
 TOI005	dart fener che quando hanno voluto riprendere
@@ -2654,7 +2654,7 @@ TOR001	abbiam quasi finito
 TOI005	perché non so se tu devi riascoltarti tutto sto popozzo di roba
 TOR001	ovviamente
 TOI005	ci siamo trainati ecco perchédovevate stare laggiù
-???	vabbè andrà avanti veloce sì eh
+??	vabbè andrà avanti veloce sì eh
 TOI005	dovevate stare laggiù a parlare
 TOR002	ma in realtà alcune le ha già fatte eh
 TOR001	no ma ho quasi finito in realtà
@@ -2666,7 +2666,7 @@ TOI005	però mi piace io son genere linkin park
 TOR001	okay
 TOI005	poi mi piace il jazz
 TOR001	mh
-???	ac dc
+??	ac dc
 TOI005	eh sì vabbè linkin park ac dc musica del gen~
 TOI005	varia da cosa poi mi ricorda
 TOI005	tipo linkin park così erano pre partita
@@ -2689,24 +2689,24 @@ TOI005	dovevo andare ai linkin park la volta prima
 TOI005	ma qualcuno ha sbagliato i biglietti
 TOR001	come ha fatto a sbagliare i biglietti
 TOI005	lasciam perdere
-???	non lo so ho preso i green day
+??	non lo so ho preso i green day
 TOI005	le son piaciuti eh
-???	stavamo anche da neanche un anno
-???	ma io cioè fino al momento in cui glieli ho dati ero convinta
-???	infatti vedo lui che guarda ah bello
-???	gli faccio ma come perché reagisci così
-???	sono i tuoi cantanti preferiti mi fa
-???	no
-???	e niente e quindi siamo andati noi e i quindicenni al concerto dei green day
+??	stavamo anche da neanche un anno
+??	ma io cioè fino al momento in cui glieli ho dati ero convinta
+??	infatti vedo lui che guarda ah bello
+??	gli faccio ma come perché reagisci così
+??	sono i tuoi cantanti preferiti mi fa
+??	no
+??	e niente e quindi siamo andati noi e i quindicenni al concerto dei green day
 TOR002	no vabbè ma io sarei andato
 TOI005	però è stato bello xx
-???	no ma infatti è stato carino eh
+??	no ma infatti è stato carino eh
 TOR002	ai green day xxx
 TOI005	no no no ti devo dire son sta~ è stato bello eh
 TOR001	ma quando questo
-???	era nel duemila e tredici
+??	era nel duemila e tredici
 TOI005	quando mi è uscita la spalla
-???	duemila e tredici a a mi~ no a rho forse eravamo xxx sì
+??	duemila e tredici a a mi~ no a rho forse eravamo xxx sì
 TOI005	a rho
 TOR001	eh infatti
 TOR001	immagino a rho fiera
@@ -2723,7 +2723,7 @@ TOR001	eh eh
 TOI005	fantastico
 TOR001	da solo sei andato
 TOI005	da solo
-???	ma da santana non eri andato anche
+??	ma da santana non eri andato anche
 TOI005	perché
 TOI005	aspetta ah sì è vero santana che mi piace tantissimo
 TOI005	sono andato a roma da solo perché doveva venir lei
@@ -2750,35 +2750,35 @@ TOI005	santana è proprio proprio bello
 TOI005	perché n~ n~ ripeto la gente che gli suona intorno
 TOI005	sono artisti
 TOI005	e poi cosa eh poi
-???	e poi
+??	e poi
 TOI005	xx siamo andati ai xx
-???	eh tipo a marzo dell'anno scorso
-???	two cel~ cellos
+??	eh tipo a marzo dell'anno scorso
+??	two cel~ cellos
 TOI005	two two cella~ two cellos
 TOI005	fanno schifo
-???	sono i due violoncellisti che
+??	sono i due violoncellisti che
 TOR002	sì sì ho capito chi sono
 TOI005	allora quello che fanno loro
-???	no è stato bello dai
+??	no è stato bello dai
 TOI005	tra virgolette puoi riderci sopra perché loro fanno le cover
 TOR001	okay
 TOI005	fatte con ah
 TOR001	col violoncello
 TOI005	sì
-???	sì
-???	sia dei film sia delle canzoni famose
+??	sì
+??	sia dei film sia delle canzoni famose
 TOI005	ma
 TOI005	però infatti hanno fatto qua in italia
 TOR001	carino
-???	sì no no xxxxxx
+??	sì no no xxxxxx
 TOI005	tipo hanno iniziato con dietro
 TOI005	eh proiettando una parodia ma suonando
 TOI005	la musica del padrino
-???	dai a te non piacciono
+??	dai a te non piacciono
 TOI005	però ti devo dire
 TOR002	sì
 TOI005	sono degli artisti cioè c'è lui
-???	sì poi adesso son diventati dei commerciali però
+??	sì poi adesso son diventati dei commerciali però
 TOI005	per t~ stare in piedi
 TOI005	ma c'è lui il quello che ha creato il gruppo il duo
 TOR001	mh mh
@@ -2793,9 +2793,9 @@ TOI005	belli~ era pienissimo
 TOI005	il problema che poi becchi camminando la gente ignorante che minchia
 TOI005	ma che cosa siam venuti a vedere
 TOI005	han suonato le canzoni le cove~ eh beh grazie
-???	vabbè con due violoncelli cioè
+??	vabbè con due violoncelli cioè
 TOR002	ma più che altro lo spettacolo è quello cioè
-???	sì infatti
+??	sì infatti
 TOI005	cioè
 TOI005	apprezza anche come suonano quelle canzon~
 TOI005	cioè han suonato il gladiatore con sti violoncelli che è stato
@@ -2808,38 +2808,38 @@ TOI005	e ora son famo~
 TOR001	e dove han suonato
 TOI005	milano sempre
 TOR001	ah
-???	sì
+??	sì
 TOI005	tanto è tutto là
-???	non mi ricordo dov'era
+??	non mi ricordo dov'era
 TOR001	ma un teatro o
 TOI005	no no no era il palazzetto
 TOR001	palazzetto
-???	dove dove c'è la passerella
+??	dove dove c'è la passerella
 TOR002	il forum
-???	sì sì sì assago forum sì
+??	sì sì sì assago forum sì
 TOR001	al forum con un posto così grande
 TOR001	caspita
-???	xxx
+??	xxx
 TOR002	sì sì ma guarda che riempie
 TOI005	no era pieno eh
-???	era l'assago forum
+??	era l'assago forum
 TOI005	era pienissimo eh pieno pieno
-???	sì sì è vero
+??	sì sì è vero
 TOI005	o figo
 TOI005	ci siamo divertiti
-???	figo sì
+??	figo sì
 TOI005	e basta
-???	sì xx xx
+??	sì xx xx
 TOR001	quindi i linkin park solo una volta alla fine
 TOI005	eh è morto lui
 TOR001	eh no sì no
-???	no dovevi andare ~st'estate ma poi c'era la finale
+??	no dovevi andare ~st'estate ma poi c'era la finale
 TOI005	xxx dovevo andare ma s~ c'era
 TOR001	ah e non sei andato
 TOI005	la finale di football poi lui si è suicidato
 TOR001	eh lo so il venti luglio
 TOI005	sì
-???	quindi po~
+??	quindi po~
 TOI005	un'altra volta me lo sarei goduto
 TOI005	ah e poi è sta~ tu l'ave~ li avevi visti i linkin park
 TOR001	no
@@ -2851,9 +2851,9 @@ TOI005	ah okay
 TOI005	eh no era suo amico
 TOR001	eh lo so lo so
 TOI005	per quello che si è ha ri~ ha ripreso la data
-???	chi è che si è impiccato il mese prima
+??	chi è che si è impiccato il mese prima
 TOR001	il cantante dei soundgarden e degli audioslave
-???	ah
+??	ah
 TOI005	loro si scrivevano molto li aveva avevano un
 TOR001	eh sì erano molto amici sì sì
 TOI005	corrispondenza di depressione
@@ -2876,29 +2876,29 @@ TOR001	era bello pieno
 TOR001	mh mh
 TOI005	però come canta ma va
 TOI005	allora
-???	cantava è morto
+??	cantava è morto
 TOI005	eh infatti eh
 TOR001	ma però tipo due mie amiche sono andate a vederlo l'ultima volta
 TOR001	cos'era monza o milano
-???	monza forse
+??	monza forse
 TOR001	monza vero
 TOI005	eh monza forse
-???	sì
+??	sì
 TOR001	e han detto è piaciuto un sacco
 TOR001	molto xxx
 TOI005	no no allora ti devo dire son proprio bravi cioè
-???	però era era un mix
-???	non c'eran solo loro secondo me
+??	però era era un mix
+??	non c'eran solo loro secondo me
 TOR001	era tipo festival secondo me
-???	xx c'erano i blink
+??	xx c'erano i blink
 TOI005	no
 TOI005	c'erano i blink prima
 TOR001	ma lo stesso giorno
-???	sì
-???	erano blink più linkin park
+??	sì
+??	erano blink più linkin park
 TOR001	madonna
 TOI005	sì è vero io invece sono andato solo loro
-???	xxx
+??	xxx
 TOR001	eh son più belli i concerti sì
 TOI005	e ti devo dire
 TOI005	no però ti devo dire a prescindere non pensavo
@@ -2929,15 +2929,15 @@ TOI005	tan~
 TOI005	cioè tanti ecco
 TOI005	però dal vivo son stati fantasti~
 TOI005	cioè lui ha una vo~ aveva una voce quando piantava sti dai cioè
-???	sì comunque solo che adesso
-???	sto leggendo il il libro che sto leggendo
-???	c'è il personaggio che
-???	è tipo di una band come fossero i linkin park stra famosa
-???	e dice che inso~ fondamentalmente si è rotto i coglioni
-???	dopo dieci anni di suonar sempre le stesse cose cioè
-???	immaginati loro quindici anni
+??	sì comunque solo che adesso
+??	sto leggendo il il libro che sto leggendo
+??	c'è il personaggio che
+??	è tipo di una band come fossero i linkin park stra famosa
+??	e dice che inso~ fondamentalmente si è rotto i coglioni
+??	dopo dieci anni di suonar sempre le stesse cose cioè
+??	immaginati loro quindici anni
 TOI005	eh beh io c'ho gianni verdi tu l'hai mai conosciuto il mio amico il batterista
-???	e ancore che devi
+??	e ancore che devi
 TOR002	eh no
 TOI005	l'hai visto
 TOR002	me ne hai sempre parlato però non l'abbiam~ mai visto
@@ -2960,9 +2960,9 @@ TOI005	non è proprio uguale eh
 TOR002	no ma poi al di là delle cover
 TOR002	cioè comunque è un lavoro
 TOR002	cioè
-???	sì sì sì certo
+??	sì sì sì certo
 TOR002	c'è la volta che hai il lavoro che ti piace
-???	e magari hai fatto già ogni lavoro
+??	e magari hai fatto già ogni lavoro
 TOR002	c'è la volta che non te ne frega un cazzo della roba che stai suonando
 TOI005	certo certo
 TOR001	sì è anche vero che cioè sì è vero che è un lavoro però
@@ -3000,14 +3000,14 @@ TOR001	abbiam finito allora
 TOI005	eh non
 TOI005	allora apprezzo che sono degl~
 TOI005	se lo guardi bene cioè
-???	se lo guardi bene da vicino
+??	se lo guardi bene da vicino
 TOI005	nel senso intendo dire
-???	guardi i mondiali dai
+??	guardi i mondiali dai
 TOI005	no no
 TOI005	vedo
 TOR001	ecco abbiamo risolto anche il problema dei mondiali quest'anno
 TOI005	vedo gli atleti
-???	ma non li recuperano
+??	ma non li recuperano
 TOI005	no ma va là son fuori
 TOI005	vedo che sono degli atleti fenomenali
 TOI005	ma dopo che giochi a football americano mi spiace
@@ -3016,20 +3016,20 @@ TOI005	no vabbè a me piace il basket
 TOI005	poi rugby non lo so a me piace più altro contatto
 TOR001	okay
 TOI005	poi vedo loro son d~ il pensiero di saper giostrare una palla
-???	no più di questo si guarda tipo
-???	le olimpiadi l'atletica il nuoto quelle robe lì
+??	no più di questo si guarda tipo
+??	le olimpiadi l'atletica il nuoto quelle robe lì
 TOR001	okay
 TOI005	vabbè quello mi piace tantissimo
 TOR002	era un'altra soddisfazione cioè
 TOI005	però no quello che io vedo nel nel calcio
 TOI005	che sono veramente degli atleti assurdi
 TOI005	perché per giostrare la palla in quella maniera
-???	puoi fare lo scambio di sigaretta
+??	puoi fare lo scambio di sigaretta
 TOR001	no ma senza scambio cioè
-???	ma no non è x
+??	ma no non è x
 TOR001	ma va tranquilla tanto
 TOR001	fumo l'ultima sì sì fumo l'ultima
-???	sicura
+??	sicura
 TOI005	per giostrare la palla in quella maniera devi essere un fenomeno
 TOR001	mh mh mh
 TOI005	fare certe cose è un fenomeno
@@ -3037,9 +3037,9 @@ TOI005	però proprio il sistema di gioco in sé che non mi attira
 TOI005	non mi piace non mi piace
 TOR001	bene
 TOR001	sei libero
-???	grazie a te comunque
+??	grazie a te comunque
 TOI005	sei libera te che io xx
-???	ha risposto in maniera pertinente alcune domande
+??	ha risposto in maniera pertinente alcune domande
 TOR001	certo no no ma va benissimo
 TOR002	infatti è più una chiaccherata che
 TOI005	beh certo

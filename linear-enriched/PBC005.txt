@@ -1295,10 +1295,10 @@ BOI014	sc~ m:h
 BOI014	VIVERE secondo
 BOI014	°i i m:h°
 BOI014	la anche la biologia
-???	((suona_il_campanello))
+??	((suona_il_campanello))
 BOR002	ah se vuoi andare ad [aprire]
 BOI014	[°vado] ad aprire (.) sì°
-???	qui ho interrotto e ripreso la registrazione per via del campanello, quindi ci sono due suoni sovrapposti che in realtà non lo sarebbero
+??	qui ho interrotto e ripreso la registrazione per via del campanello, quindi ci sono due suoni sovrapposti che in realtà non lo sarebbero
 BOR002	faccio giusto
 BOI014	CIOE' DI SEGUIRE LA BIOLOGIA
 BOI014	ECCO (.) non aspetta~
@@ -1351,7 +1351,7 @@ BOI014	dal punto di vista biologico °secondo me°
 BOI014	io: sono molto contenta per lei perché
 BOI014	per ME
 BOI014	vive una vita piena ecco
-???	((suona_il_cellulare))
+??	((suona_il_cellulare))
 BOI014	°o:h (.) sarà la fabrizia°
 BOR002	al telefono? vabbè non ti preoccupare
 BOI014	°non possono (.) è finita dai°
@@ -1469,5 +1469,5 @@ BOI014	sì ma era così (.) in maniera [diffusa eh °non°]
 BOR002	[NO MA HA TUTTO ESA]TTO HA [TUTTO (.) <UN] SUO [SENSO> assolutamente]
 BOI014	[eh]
 BOI014	[eh eh perché l~ eh beh] eh eh (.) °per esempio le persone° altolocate non c'è dubbio che °parlassero in dialetto°
-???	((suona_il_campanello))
+??	((suona_il_campanello))
 BOR002	adesso

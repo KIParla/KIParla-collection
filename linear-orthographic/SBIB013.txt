@@ -190,7 +190,7 @@ PSB076	speciali sì anche costa anche un
 PSB005	molto
 PSB076	molto
 PSB076	anche molto
-???	eh
+??	eh
 PSB075	xx
 PSB005	dove dove si comprano
 PSB076	no~ nostro paese an~ bangladesh anche india
@@ -233,59 +233,59 @@ PSB075	cioè
 PSB075	non mi ricordo se proprio in quella giornata comunque
 PSB075	s'erano messe d'accordo che tutti dovevano vestirsi con nello stesso modo e quindi
 PSB075	una persona
-???	ciao
+??	ciao
 PSB076	scusa
-???	ciao
+??	ciao
 PSB076	ciao xxx ciao
 PSB075	ciao
 PSB005	ciao
 PSB005	ciao
 PSB076	ciao
 PSB076	tutto bene
-???	tutto a posto voi tutto a posto
+??	tutto a posto voi tutto a posto
 PSB076	sì sì tutto posto tutto posto
 PSB075	bene
 PSB075	hai visto
 PSB076	dove vai
 PSB075	saluta
-???	facciamo un giro con xxx
-??	l'ho già salutata
+??	facciamo un giro con xxx
+???	l'ho già salutata
 PSB076	ah
 PSB076	xx
 PSB076	x xxx
-???	facevamo un giro due passi cioè
+??	facevamo un giro due passi cioè
 PSB076	sì
-???	prima che arriva il caldo
+??	prima che arriva il caldo
 PSB076	ah
-???	poi dopo viene più caldo
+??	poi dopo viene più caldo
 PSB005	mhmh
 PSB076	eh certo
-???	allora facevamo un giretto sì sì
-???	ah la infatti dopo devo andarla a prendere che ha fatto un pigiama party allora devo passarla a prendere
+??	allora facevamo un giretto sì sì
+??	ah la infatti dopo devo andarla a prendere che ha fatto un pigiama party allora devo passarla a prendere
 PSB005	xxx
-???	facciamo il giretto poi andiamo a prenderla là dietro
+??	facciamo il giretto poi andiamo a prenderla là dietro
 PSB076	sì
-???	eh sì
+??	eh sì
 PSB076	mamma mia
-???	eh è andata a fare ieri sera col suo pigiama party adesso vediamo com'è andata
+??	eh è andata a fare ieri sera col suo pigiama party adesso vediamo com'è andata
 PSB076	ah
-???	ti xx poi
+??	ti xx poi
 PSB076	dov'è
-???	ma lì dietro in via irma bandiera xxx xxx
+??	ma lì dietro in via irma bandiera xxx xxx
 PSB076	ah bandiera sì sì alla bandiera si vicino quello
-???	qua
-???	sì con la navetta
+??	qua
+??	sì con la navetta
 PSB076	sì dopo quello credo sì
-???	basta
+??	basta
 PSB076	bene
-???	va bene
+??	va bene
 PSB076	va bene ciao
-???	ciao
+??	ciao
 PSB075	ciao
 PSB005	ciao
 PSB075	ciao
 PSB076	ciao ciao
-??	ciao
+???	ciao
 PSB076	ciao
 PSB075	ciao
 PSB005	sono
@@ -422,8 +422,8 @@ PSB005	cioè si sente il rimbalzo della palla
 PSB075	sì
 PSB075	no comunque dicevamo
 PSB075	cioè non quanto xx ha detto mia mamma comunque san giorgio
-???	mh
-??	xxxx
+??	mh
+???	xxxx
 PSB075	pure essendo un paese piccolino
 PSB005	mhmh
 PSB075	cioè di dimensioni veramente ridotte
@@ -869,7 +869,7 @@ PSB005	e il piccolo è bravo
 PSB076	no anche piccolo bravo
 PSB005	sei bravo
 PSB076	gentile anche
-???	molto
+??	molto
 PSB076	molto
 PSB005	sì sì sì ed era bravo anche quando era cioè ha sempre studiato tanto quindi anche quando era più piccolo
 PSB076	sì sì lui è sempre
@@ -1128,12 +1128,12 @@ PSB005	e come
 PSB076	proprio tempo x là
 PSB005	cos'avete fatto
 PSB076	eh preso una posto per
-???	piccolo
+??	piccolo
 PSB076	no grande
-???	è piccolo
+??	è piccolo
 PSB076	no non è piccolo grande
 PSB075	non è piccolo
-???	è davvero una stanzina
+??	è davvero una stanzina
 PSB076	grande
 PSB076	no anche tanti persone io invitare tanti persone anche insieme con loro
 PSB076	tanto tanto tanto
@@ -1141,7 +1141,7 @@ PSB076	che ridere
 PSB005	è stato bello
 PSB076	eh sì è stato tanto bello
 PSB005	quanti a~ quanti anni hai compiuto
-???	nove
+??	nove
 PSB076	nove
 PSB005	nove okay
 PSB005	okay
@@ -1155,10 +1155,10 @@ PSB076	un nome scritto
 PSB075	#kashmiri
 PSB076	#kashmiri
 PSB076	è bellissimo
-???	bello
+??	bello
 PSB076	io piaciuto tanto
 PSB076	tanto tanto mi è piaciuto
-???	no que~
+??	no que~
 PSB076	#kashmiri mh
 PSB075	cioè lei erano andati loro tre io ero rimasto qui
 PSB005	okay okay
@@ -1181,17 +1181,17 @@ PSB076	xxx un me~ un mese
 PSB005	un un un caso particolare sì
 PSB076	sì
 PSB075	quindi per questo lui ha dovuto mancare un atti~ un un mesetto di scuola anche quest'anno
-???	eh
+??	eh
 PSB076	io non piace io non piace quando c'è scuola aperta io non voglio andare io non è piace
 PSB005	eh
-???	in realtà due mesi
+??	in realtà due mesi
 PSB075	perché non giochi
-???	eh
+??	eh
 PSB076	quando chiusa va bene però quando a chiusa
 PSB075	gioca
-???	xx
+??	xx
 PSB075	xx
-???	eh
+??	eh
 PSB076	mio paese c'è tanto caldo molto molto caldo io non è piace però
 PSB005	certo c'è sempre questo problema s~
 PSB076	eh
@@ -1199,7 +1199,7 @@ PSB005	vabbè ma lui è bravo ha saltato un mese n~
 PSB005	è bravo
 PSB076	eh però lui quando è andato sempre male
 PSB076	sempre arriva male per lui
-???	ospedale
+??	ospedale
 PSB076	malattia ma sempre
 PSB005	eh okay
 PSB076	quando c'è caldo tanto caldo anche $diaria quest'anno anche quando andato
@@ -1305,7 +1305,7 @@ PSB076	mio paese
 PSB005	mhmh
 PSB076	anche loro
 PSB076	piaciuto tanto
-???	anche a casa parli
+??	anche a casa parli
 PSB075	no ogni tanto le capita che c'è qualche parola in italiano gli dici ma guarda che loro non ti capiscono se dici quello
 PSB005	eh beh
 PSB075	cioè è ve~ ogni tanto viene naturale qualcosa cioè
@@ -1433,8 +1433,8 @@ PSB005	mh
 PSB075	ci vuole un po' di tempo ma anche un semplice video su facebook tra tagli vari e xxx x x x
 PSB005	è lungo
 PSB005	no è lungo
-???	tutta
-???	tutta
+??	tutta
+??	tutta
 PSB005	bisogna farlo come business
 PSB005	bisogna aprire un business
 PSB075	esatto
@@ -1764,7 +1764,7 @@ PSB005	okay
 PSB076	perché noi
 PSB076	non piace tanto piccante però io metto sempre un
 PSB005	mhmh
-???	a me piace
+??	a me piace
 PSB076	un pochino
 PSB005	un pochino
 PSB076	però
@@ -1908,9 +1908,9 @@ PSB075	eccetera
 PSB075	bengalesi cristiani anche perché con gli inglesi c'è stato anche una derivazione cristiana
 PSB005	sì sì sì sì
 PSB075	ma anche prima degli inglesi in verità
-???	mamma
+??	mamma
 PSB075	i missionari c'erano già
-???	mi va la xx te che dici
+??	mi va la xx te che dici
 PSB075	da tempo
 PSB075	ehm
 PSB075	ora si è un pochino ridotta
@@ -2406,11 +2406,11 @@ PSB005	è è è terribile no non si fa però la mia nonna ha le foto di lei che 
 PSB075	no io
 PSB076	eh no
 PSB076	sì
-???	a me passa anche là
+??	a me passa anche là
 PSB075	mhmh
 PSB076	no no no
 PSB075	no ma infatti cioè adesso diciamo anche quan~
-???	appena xxx
+??	appena xxx
 PSB076	no è xx
 PSB075	okay c'è rimasta una parte più conservatrice cioè come sempre in tutte le cose però
 PSB075	è diven~ cioè
@@ -2817,8 +2817,8 @@ PSB005	sì
 PSB075	ehm
 PSB075	allora pa~ ce~
 PSB075	cioè che sempre nella nostra credenza no tipo come ti dicevo ogni~ ogni rappresentazione divina è sempre xx rappresentzaione dello stesso xx no
-???	non puoi parlare xxx xxx pomeriggio xx
-??	no
+??	non puoi parlare xxx xxx pomeriggio xx
+???	no
 PSB075	e come avrai capito siamo molto attaccati alla natura al terreno eccetera
 PSB075	proprio però è solo un tramite con cui parlare con diciamo questa è l'azione con cui parlare con l'altra parte
 PSB005	mhmh

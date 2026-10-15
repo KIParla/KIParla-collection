@@ -153,15 +153,15 @@ PST217	eh sì
 PST217	eh lo sapevo
 PST211	eh ci credo
 PST108	solo
-?	#_ wāḥəd litri dyāl l-ḥlīb ḷḷāh yḥafḍ-ək
+???	#_ wāḥəd litri dyāl l-ḥlīb ḷḷāh yḥafḍ-ək
 PST110	#_ hā hūwa hā hūwa xūya wrā t-tīd
-?	#_ fin hūwa
+???	#_ fin hūwa
 PST110	#_ hā hūwa shūf
 PST108	mamma mia che freddo c'è oggi
 PST211	sì oggi sì ma anche ieri c'era freddo ma almeno c'era il sole oggi invece
 PST108	no ma ieri meno oggi mamma mia oggi troppo
 PST211	eh
-?	#_ hūwa hāda
+???	#_ hūwa hāda
 PST110	#_ āh hūwa hādak
 PST217	ma voi lo conoscete il ristorante #al-jazīra
 PST108	sì #al-jazīra sì
@@ -345,21 +345,21 @@ PST108	sì
 PST217	in forno però no
 PST108	sì in forno sì sì
 PST108	sì sì
-???	#_ s-salāmu ʕalāy-kum kull shi labās
+????	#_ s-salāmu ʕalāy-kum kull shi labās
 PST108	#_ s-salāmu ʕalāy-kum
 PST107	#_ xū-ya
 PST108	#_ ki dāyr
-???	#_ ahlan ahlan ahlan
-???	#_ kull shi b-xīr w-ʕla xīr
+????	#_ ahlan ahlan ahlan
+????	#_ kull shi b-xīr w-ʕla xīr
 PST108	#_ eh b-xīr
 PST107	#_ ki dāyr al-mʕāllə m kull shi b-xīr hāni
-???	#_ s-salāmu ʕalāy-kum
+????	#_ s-salāmu ʕalāy-kum
 PST108	#_ ḷḷāh yḥafḍ-ək xamsa
-???	#saxsiyyən eh tutto bene
-???	#_ s-salāmu ʕalāy-kum
-???	tutto bene ragazzi
+????	#saxsiyyən eh tutto bene
+????	#_ s-salāmu ʕalāy-kum
+????	tutto bene ragazzi
 PST217	sì
-???	#_ l-ḥamdu li-ḷḷāh ramāḍān karīm yāḷḷāh xū-ya sīr aḷḷāh yḥafḍ-ək
+????	#_ l-ḥamdu li-ḷḷāh ramāḍān karīm yāḷḷāh xū-ya sīr aḷḷāh yḥafḍ-ək
 PST108	#_ aḷḷāh yḥafḍ-ək xx
 PST107	marocchi~ marocchino hanno mangiato
 PST107	xxx no~ normali
@@ -995,21 +995,21 @@ PST108	sì
 PST108	siamo stati tante volte
 PST108	cioè quando andiamo lì è come casa nostra lì
 PST211	mh mh
-????	#_ w-sālām
+?????	#_ w-sālām
 PST107	#nʕam
 PST110	#_ xaṣṣ-ək l-flūs w-lā
 PST107	#_ xaṣṣ-ək tmshi l-būsṭa
 PST107	#_ bāghi tqadda nta
-????	#briusha
-????	#_ ah āsh bghīti xūdi āsh bghīti
+?????	#briusha
+?????	#_ ah āsh bghīti xūdi āsh bghīti
 PST108	#_ dāyra ʕāshra ʔūrū
-????	vieni a prendere cosa vuoi
-????	lascia stare
-????	prendi qua prendi prendi
-????	prendi questa
-????	marocco questa roba di marocco
-????	prendi una di questo
-????	#_ ṛāh ma-bghāt taxud wālu hādi
+?????	vieni a prendere cosa vuoi
+?????	lascia stare
+?????	prendi qua prendi prendi
+?????	prendi questa
+?????	marocco questa roba di marocco
+?????	prendi una di questo
+?????	#_ ṛāh ma-bghāt taxud wālu hādi
 PST217	se vuoi vi faccio una foto
 PST108	sì certo
 PST108	voglio fare quello senza va bene senza dai

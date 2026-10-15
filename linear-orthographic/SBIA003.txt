@@ -340,10 +340,10 @@ PSB005	ciao certo
 PSB024	arriviamo al punto di affitto schiacciano l'allerta rossa
 PSB024	psss tu
 PSB024	puoi rimanere anche fuori a dormire non me ne frega un cavolo a nessuno
-???	ti posso stai è un'intervista scusami eh
+??	ti posso stai è un'intervista scusami eh
 PSB005	sì sì sì
 PSB005	no ma interrompo un secondo
-???	è solo per un iniziativ~
+??	è solo per un iniziativ~
 PSB005	okay
 PSB005	ci siamo
 PSB024	sì va bene adesso come abbiamo detto

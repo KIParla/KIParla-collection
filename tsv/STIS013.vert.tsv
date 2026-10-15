@@ -3582,7 +3582,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 473-7	PST072	473	7	>un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	_
 473-8	PST072	473	8	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-3(0)	_	_
 473-9	PST072	473	9	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	_
-473-10	PST072	473	10	fat[ica<.]	fatica	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1204.454	_	Fast=0-6(0)	_	3-6(365)
+473-10	PST072	473	10	fat[ica.<]	fatica	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1204.454	_	Fast=0-6(0)	_	3-6(365)
 474-0	PST213	474	0	[mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1204.1	_	_	_	0-2(365)
 474-1	PST213	474	1	mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1205.076	_	_	_	0-2(365)
 475-0	PST212	475	0	[okay].	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1204.11|End=1205.076	_	_	_	0-4(365)

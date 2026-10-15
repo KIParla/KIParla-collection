@@ -1899,9 +1899,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 221-5	PKP090	221	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 221-6	PKP090	221	6	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 221-7	PKP090	221	7	ragio[neria	ragioneria	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	4-10(78)
-221-8	PKP090	221	8	°		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-221-9	PKP090	221	9	((P))	((P))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	Volume=Low	_	_	_	_	X(78)
-221-10	PKP090	221	10	cioè°	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-4(78)
+221-12	PKP090	221	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(78)
+221-8	PKP090	221	9	°cioè°	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(78)
 221-11	PKP090	221	11	da:i].	dai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=551.22	1x1	_	_	0-3(78)
 222-0	PKP089	222	0	# [no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	Begin=549.38	1x1	_	_	0-2(78)
 222-1	PKP089	222	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(78)
@@ -4813,9 +4812,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 573-0	PKP090	573	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1235.414	_	_	_	_
 573-1	PKP090	573	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 573-2	PKP090	573	2	comu:nque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x1	_	_	_
-573-3	PKP090	573	3	>		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-573-4	PKP090	573	4	((P))	((P))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
-573-5	PKP090	573	5	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+573-8	PKP090	573	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+573-3	PKP090	573	4	>che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 573-6	PKP090	573	6	volevo	volevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 573-7	PKP090	573	7	di'>?	di'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Truncated=Yes	End=1237.05	_	_	_	_
 574-0	PKP090	574	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1237.1	_	_	_	_
@@ -6486,9 +6484,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 815-15	PKP088	815	15	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	_	_	_	_	_
 815-16	PKP088	815	16	avrei	avrei	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 815-17	PKP088	815	17	mangia:ta°.	mangiata	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	_	5x1	_	_	_
-815-18	PKP088	815	18	°		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-815-19	PKP088	815	19	((P))	((P))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-815-20	PKP088	815	20	però°,	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	End=1658.585	_	_	_	_
+815-21	PKP088	815	18	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+815-18	PKP088	815	19	°però°,	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1658.585	_	_	_	_
 816-0	PKP090	816	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1654.493|End=1655.686	_	_	_	_
 817-0	PKP088	817	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1658.699	_	_	_	_
 817-1	PKP088	817	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7239,36 +7236,37 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 884-2	PKP090	884	2	infatti	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 884-3	PKP090	884	3	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 884-4	PKP090	884	4	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-884-5	PKP090	884	5	portat(e)°giù	portategiù	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	6-7(0)	_
-884-6	PKP090	884	6	[pe:r°boh.°	perboh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|PauseAfter=Yes	_	1x1	_	_	0-6(355)
-884-7	PKP090	884	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(355)
-884-8	PKP090	884	8	IN	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-2(355)
-884-9	PKP090	884	9	REALTA'	realta'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes|Volume=High	_	_	_	_	0-7(355)
-884-10	PKP090	884	10	ERON]	eron	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-4(355)
-884-11	PKP090	884	11	[GIA'	gia'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes|Volume=High	_	_	_	_	0-4(356)
-884-12	PKP090	884	12	GIÙ:	giù	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	2x1	_	_	0-3(356)
-884-13	PKP090	884	13	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-4(356)
-884-14	PKP090	884	14	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(356)
-884-15	PKP090	884	15	°nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(356)
-884-16	PKP090	884	16	se:nso:.	senso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	1x1,4x1	_	_	0-5(356)
-884-17	PKP090	884	17	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(356)
-884-18	PKP090	884	18	mangia':.	mangia':.	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	0-7(356)
-884-19	PKP090	884	19	cioè]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(356)
-884-20	PKP090	884	20	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-884-21	PKP090	884	21	so'	so'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes	_	_	_	_	_
-884-22	PKP090	884	22	piena	piena	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-884-23	PKP090	884	23	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-884-24	PKP090	884	24	o:ggi	oggi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
-884-25	PKP090	884	25	qui:ndi.	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|PauseAfter=Yes	_	2x1	_	_	_
-884-26	PKP090	884	26	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-884-27	PKP090	884	27	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-884-28	PKP090	884	28	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-884-29	PKP090	884	29	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
-884-30	PKP090	884	30	°		_	_	_	_	_	error	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
-884-31	PKP090	884	31	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-884-32	PKP090	884	32	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-884-33	PKP090	884	33	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-884-34	PKP090	884	34	questi[o:ne°].	questione	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1856.424	6x1	_	_	6-9(357)
+884-5	PKP090	884	5	portat(e)°	portate	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	6-7(0)	_
+884-6	PKP090	884	6	giù	giù	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+884-35	PKP090	884	7	[pe:r	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	0-3(355)
+884-36	PKP090	884	8	boh.	boh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|PauseAfter=Yes	_	_	_	_	0-3(355)
+884-7	PKP090	884	9	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(355)
+884-8	PKP090	884	10	IN	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-2(355)
+884-9	PKP090	884	11	REALTÀ	realtà	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-6(355)
+884-10	PKP090	884	12	ERON]	eron	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-4(355)
+884-11	PKP090	884	13	[GIÀ	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-3(356)
+884-12	PKP090	884	14	GIÙ:	giù	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	2x1	_	_	0-3(356)
+884-13	PKP090	884	15	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-4(356)
+884-14	PKP090	884	16	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(356)
+884-15	PKP090	884	17	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(356)
+884-16	PKP090	884	18	se:nso:.	senso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	1x1,4x1	_	_	0-5(356)
+884-17	PKP090	884	19	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(356)
+884-18	PKP090	884	20	mangia':.	mangia':.	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	0-7(356)
+884-19	PKP090	884	21	cioè]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(356)
+884-20	PKP090	884	22	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+884-21	PKP090	884	23	so'	so'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes	_	_	_	_	_
+884-22	PKP090	884	24	piena	piena	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+884-23	PKP090	884	25	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+884-24	PKP090	884	26	o:ggi	oggi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
+884-25	PKP090	884	27	qui:ndi.	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|PauseAfter=Yes	_	2x1	_	_	_
+884-26	PKP090	884	28	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+884-27	PKP090	884	29	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+884-28	PKP090	884	30	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+884-29	PKP090	884	31	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
+884-31	PKP090	884	32	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+884-32	PKP090	884	33	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+884-33	PKP090	884	34	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+884-34	PKP090	884	35	questi[o:ne.°]	questione	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=1856.424	6x1	_	_	6-9(357)
 885-0	PKP089	885	0	[io:	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1847.363	1x1	_	_	0-2(355)
 885-1	PKP089	885	1	b~	b~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	0-2(355)
 885-2	PKP089	885	2	no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	0-2(355)
@@ -9786,7 +9784,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1190-10	PKP090	1190	10	s'	s'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
 1190-11	PKP090	1190	11	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-1(0)	_	_
 1190-12	PKP090	1190	12	andata	andata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-6(0)	_	5-6(?)
-1190-13	PKP090	1190	13	[xxx<,]	xxx	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2554.3	_	Fast=0-2(0)	_	0-3(?)
+1190-13	PKP090	1190	13	[xxx<]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	End=2554.3	_	Fast=0-2(0)	_	0-3(?)
 1191-0	PKP089	1191	0	[ASPE:TTA:]	aspetta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=2553.401|End=2554.3	3x1,6x1	_	_	0-7(468)
 1192-0	PKP090	1192	0	>cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2554.36	_	Fast=0-4(0)	_	_
 1192-1	PKP090	1192	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	_
@@ -10431,9 +10429,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1264-10	PKP090	1264	10	ma:i.	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	1x1	_	_	_
 1264-11	PKP090	1264	11	perché:	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x1	_	_	_
 1264-12	PKP090	1264	12	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
-1264-13	PKP090	1264	13	>		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-1264-14	PKP090	1264	14	((P))	((P))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	Fast=0-1(0)	_	_
-1264-15	PKP090	1264	15	cioè<].	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2694.69	_	Fast=0-4(0)	_	_
+1264-16	PKP090	1264	13	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+1264-13	PKP090	1264	14	>cioè<].	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2694.69	_	_	_	_
 1265-0	PKP089	1265	0	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2691.79|End=2694.67	0x1	_	_	0-2(498)
 1266-0	PKP090	1266	0	no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2694.82	1x1	_	_	_
 1266-1	PKP090	1266	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -10446,16 +10443,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1266-8	PKP090	1266	8	piace	piace	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	_
 1266-9	PKP090	1266	9	ta:~<	ta~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|PauseAfter=Yes	_	1x1	Fast=0-3(0)	_	_
 1266-10	PKP090	1266	10	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-1266-11	PKP090	1266	11	[>cioè:	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x1	Fast=0-4(1)	_	0-4(499)
-1266-12	PKP090	1266	12	<		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-1266-13	PKP090	1266	13	((P))	((P))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	X(499)
-1266-14	PKP090	1266	14	preferisco	preferisco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-10(499)
-1266-15	PKP090	1266	15	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(499)
-1266-16	PKP090	1266	16	gr]een:	green	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	4x1	_	_	0-2(499)
-1266-17	PKP090	1266	17	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-1266-18	PKP090	1266	18	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1266-19	PKP090	1266	19	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1266-20	PKP090	1266	20	perico[lo:so]?	pericoloso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=2699.81	7x1	_	_	6-10(500)
+1266-11	PKP090	1266	11	[>cioè:<	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	3x1	Fast=0-4(1)	_	0-4(499)
+1266-13	PKP090	1266	12	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(499)
+1266-14	PKP090	1266	13	preferisco	preferisco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-10(499)
+1266-15	PKP090	1266	14	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(499)
+1266-16	PKP090	1266	15	gr]een:	green	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	4x1	_	_	0-2(499)
+1266-17	PKP090	1266	16	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+1266-18	PKP090	1266	17	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1266-19	PKP090	1266	18	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+1266-20	PKP090	1266	19	perico[lo:so]?	pericoloso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=2699.81	7x1	_	_	6-10(500)
 1267-0	PKP089	1267	0	[no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2696.675	1x1	_	_	0-2(499)
 1267-1	PKP089	1267	1	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(499)
 1267-2	PKP089	1267	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(499)
@@ -10709,9 +10705,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1310-14	PKP090	1310	14	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1310-15	PKP090	1310	15	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1310-16	PKP090	1310	16	maddalena.	maddalena	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2759.08	_	_	_	_
-1311-0	PKP088	1311	0	°		_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=2757.87	_	_	_	_
-1311-1	PKP088	1311	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-1311-2	PKP088	1311	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+1311-4	PKP088	1311	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2757.87	_	_	_	_
+1311-0	PKP088	1311	1	°i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1311-3	PKP088	1311	3	[colte:l°]	coltel	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2760.21	4x1	_	_	0-6(514)
 1312-0	PKP090	1312	0	[quei	quei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2759.14	_	_	_	0-4(515)
 1312-1	PKP090	1312	1	du(e)	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	2-3(0)	0-3(515)
@@ -11074,7 +11069,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1349-25	PKP090	1349	25	>[anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	0-5(527)
 1349-26	PKP090	1349	26	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	1-2(2)	0-2(527)
 1349-27	PKP090	1349	27	(no)n	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-3(0)	0-1(2)	0-3(527)
-1349-28	PKP090	1349	28	saluta:va].<	salutava	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2842.54	5x1	Fast=0-8(0)	_	0-7(527)
+1349-28	PKP090	1349	28	saluta:va.]<	salutava	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2842.54	5x1	Fast=0-8(0)	_	0-8(527)
 1350-0	PKP088	1350	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2837.28|End=2839.07	_	_	_	_
 1351-0	PKP089	1351	0	# [a:h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2841.57	0x1	_	_	0-2(528)
 1351-1	PKP089	1351	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(528)
@@ -13110,10 +13105,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1706-11	PKP089	1706	11	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1706-12	PKP089	1706	12	po':	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3415.245	1x1	_	_	_
 1707-0	PKP090	1707	0	((mangia))	((mangia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3416.078	_	_	_	_
-1707-1	PKP090	1707	1	°		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-1707-2	PKP090	1707	2	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-1707-3	PKP090	1707	3	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-1707-4	PKP090	1707	4	(no)°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=3417.337	_	_	0-2(0)	_
+1707-1	PKP090	1707	1	°ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+1707-3	PKP090	1707	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+1707-4	PKP090	1707	3	(no)°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=3417.337	_	_	0-2(0)	_
 1708-0	PKP089	1708	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3417.337	_	_	_	_
 1708-1	PKP089	1708	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1708-2	PKP089	1708	2	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

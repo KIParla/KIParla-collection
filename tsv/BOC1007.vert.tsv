@@ -3853,9 +3853,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 580-1	BO104	580	1	ecco	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 580-2	BO104	580	2	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 580-3	BO104	580	3	finito.	finito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1518.32	_	_	_	_
-581-0	???	581	0	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1518.48	_	_	_	_
-581-1	???	581	1	mille	mille	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-581-2	???	581	2	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-581-3	???	581	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-581-4	???	581	4	disponibili[tà]	disponibilità	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1520.195	_	_	_	11-13(31)
+581-0	??	581	0	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1518.48	_	_	_	_
+581-1	??	581	1	mille	mille	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+581-2	??	581	2	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+581-3	??	581	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+581-4	??	581	4	disponibili[tà]	disponibilità	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1520.195	_	_	_	11-13(31)
 582-0	BO104	582	0	[nie]:nte,	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1519.892|End=1520.55	2x1	_	_	0-3(31)

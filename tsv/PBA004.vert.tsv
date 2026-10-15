@@ -1468,7 +1468,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 294-0	BOI060	294	0	buono	buono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=566.03	_	_	_	_
 294-1	BOI060	294	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 294-2	BOI060	294	2	[sapersi]	sapersi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=566.81	_	_	_	0-7(45)
-295-0	BOR018	295	0	]		_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=566.46	_	_	_	_
+295-0	BOR018	295	0	]	_	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=566.46	_	_	_	_
 295-1	BOR018	295	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=566.87	_	_	_	_
 296-0	BOR018	296	0	allo:ra	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=567.84|End=568.889	3x1	_	_	_
 297-0	BOR018	297	0	ehm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=570.2|End=571.05	2x1	_	_	_

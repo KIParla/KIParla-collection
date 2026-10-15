@@ -380,7 +380,7 @@ BZ012	non vorrei che per,
 BZ009	no,
 BZ009	(porca troia.)
 BZ012	dargli una sciacquata che non si prenda magari il raffreddore o la tosse [già ce xx],
-BZ009	[<basta>.]
+BZ009	[<basta.>]
 BZ009	fido ma cosa, cosa c'è?
 BZ009	o gli è strano vedermi a casa, non lo so,
 BZ012	[(x)]

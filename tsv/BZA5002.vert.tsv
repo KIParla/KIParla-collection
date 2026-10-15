@@ -1283,8 +1283,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 121-9	BZ003	121	9	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 121-10	BZ003	121	10	inglese.	inglese	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
 121-11	BZ003	121	11	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-121-12	BZ003	121	12	.	.	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-121-13	BZ003	121	13	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+121-12	BZ003	121	12	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
+121-13	BZ003	121	13	.h	.h	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
 121-14	BZ003	121	14	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=503.68	_	_	_	_
 122-0	BZ003	122	0	e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=504.785|End=505.835	0x2	_	_	_
 123-0	BZ003	123	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=506.195	_	_	_	_

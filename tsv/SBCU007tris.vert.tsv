@@ -3172,7 +3172,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 708-7	PSB086	708	7	pizzoccheri]	pizzoccheri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-11(278)
 708-8	PSB086	708	8	[quelli]	quelli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=971.253	_	_	_	0-6(415)
 709-0	PSB128	709	0	[>che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=969.937	_	Fast=0-3(0)	_	0-3(415)
-709-1	PSB128	709	1	cosa<?]	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=970.591	_	Fast=0-4(0)	_	0-4(415)
+709-1	PSB128	709	1	cosa?<]	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=970.591	_	Fast=0-4(0)	_	0-4(415)
 710-0	PSB036	710	0	[sono:]	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=970.519	3x1	_	_	0-4(415)
 710-1	PSB036	710	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 710-2	PSB036	710	2	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

@@ -240,7 +240,7 @@ PKP043	che palle: mo xx il telefono (.) xxxx un microonde:
 PKP053	# immagina tu quando xxx scire la rossetti
 PKP043	a:h
 PKP053	immagina tu la rossetti (.) menomale (.) ringrazia al cielo
-???	# la rossetti faci xx senza darli xxx vuoi
+??	# la rossetti faci xx senza darli xxx vuoi
 PKP053	[si vabbe:]
 PKP043	[no esatto] (.) pensa te ma quando mai
 PKP053	VOGLIAMO PARLARE DEL FATTO CHE::::: L'ALTRO GIORNO::
@@ -367,8 +367,8 @@ PKP053	la rossetti ci diede da fare una::: una relazione sull'esperimento di:: f
 PKP053	solo che io avevo un dubbio però la rossetti non la vedevo piu fino al giorno della consegna
 PKP053	e quindi chiesi una cosa alla bianchi su::: sull'incertezza ma era una roba una puttanata proprio un dubbio così
 PKP053	e:: mi disse no non ti posso dire niente perché:: non è:: non è materia mia (.) non ti posso dire niente
-???	xxxxxxxxxxxxxxxxx
-???	(proprio strano)
+??	xxxxxxxxxxxxxxxxx
+??	(proprio strano)
 PKP053	ma si non lo farà mai (.) non lo farà mai perché se poi qualcuno glielo va a dire alla rossetti e::h fidati già sta in [rapporti]
 PKP052	[chi]?
 PKP053	[con la preside]
@@ -389,7 +389,7 @@ PKP052	che:: il lavoro si vede che è un lavoro accurato
 PKP052	approfondi:to
 PKP052	l'unica cosa è che deve stare più tranquilla perché evidentemente ha notato che lei ci tiene molto e quindi
 PKP052	è stato:: no è stato dolce
-???	e se con la carne è (assuoso)
+??	e se con la carne è (assuoso)
 PKP052	ma perché l'hai fatta cuocere troppo
 PKP053	nel nel microonde si secca
 PKP052	stavo dicendo che dovevo fare a chi dovevo cercare
@@ -431,7 +431,7 @@ PKP053	no:: è molto meglio uscire prima:::
 PKP052	perché uscire (.) ma io non esco mai prima:
 PKP053	madonna che [xxx]
 PKP052	[perché poi mi tratten]gono sempre a scuola mi trattengono
-???	ma (se) devi andare perché non te ne vai
+??	ma (se) devi andare perché non te ne vai
 PKP053	sto a dirglielo
 PKP052	perché sono troppo ligia
 PKP053	VOGLIO UN TELEFONO DA
@@ -503,8 +503,8 @@ PKP052	artigianale
 PKP052	l'altra volta (.) perché da chiara molto spesso c'è tanta confusione
 PKP052	dimmi li c''è un xxxxxx (nero)
 PKP052	se non c'è confusione da chiara xx x da chiara (.) se invece (.) non c'è confusione va da quest'altro
-???	non mi far xx chiara eh
-???	il casale
+??	non mi far xx chiara eh
+??	il casale
 PKP052	beh comunque c'ha [parecchia concorrenza] c'ha i suoi clienti ma tutti hanno un po di clienti da loro
 PKP043	[c'ha i clienti suoi]
 PKP053	embe chi altro sta al casale scusami

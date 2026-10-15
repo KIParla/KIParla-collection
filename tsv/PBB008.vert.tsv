@@ -5838,7 +5838,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 850-12	BOR006	850	12	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 850-13	BOR006	850	13	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 850-14	BOR006	850	14	<parlato>.	parlato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2321.525	_	Slow=0-7(0)	_	_
-851-0	???	851	0	((cade_una_tazza))	((cade_una_tazza))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2321.0|End=2321.66	_	_	_	_
+851-0	??	851	0	((cade_una_tazza))	((cade_una_tazza))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2321.0|End=2321.66	_	_	_	_
 852-0	BOI026	852	0	s:ì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2321.72|End=2322.14	0x1	_	_	_
 853-0	BOR004	853	0	ops	ops	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2322.18|End=2322.49	_	_	_	_
 854-0	BOR006	854	0	disastro	disastro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2322.575|End=2323.045	_	_	_	_

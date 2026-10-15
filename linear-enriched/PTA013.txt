@@ -243,7 +243,7 @@ TOR001	[mh mh mh mh]
 TOR001	d'[accordo]
 TOI001	°[sei] una merda°
 TOR001	[e::h]
-TOR002	°[x potevi a]verne uno dei due ° ((ride))
+TOR002	°[x potevi a]verne uno dei due° ((ride))
 TOR001	po po po
 TOR001	dunque al lavoro mi hai detto che andresti avanti potendo scegliere andresti avanti a fare quello che fai giusto?
 TOI015	sì

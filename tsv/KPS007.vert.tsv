@@ -5399,9 +5399,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 747-7	PKP134	747	7	tra	tra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 747-8	PKP134	747	8	benetton	benetton	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 747-9	PKP134	747	9	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-747-10	PKP134	747	10	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+747-10	PKP134	747	10	aitch	aitch	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 747-11	PKP134	747	11	and	and	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-747-12	PKP134	747	12	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
+747-12	PKP134	747	12	em	em	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 747-13	PKP134	747	13	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 747-14	PKP134	747	14	metti	metti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 747-15	PKP134	747	15	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

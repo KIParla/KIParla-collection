@@ -1,5 +1,5 @@
-???	xxx adesso xxx
-???	c'era lei che comunque xxx
+??	xxx adesso xxx
+??	c'era lei che comunque xxx
 TO070	allora preferite sempre se uso il microfono? almeno per iniziare?
 TO070	va bene
 TO070	sì in fondo
@@ -16,20 +16,20 @@ TO070	ve ne do degli altri oggi,
 TO070	e quindi comincio a distribuirveli,
 TO070	°passateli::°
 TO070	xxx anche da dietro perché xxx. eh?
-???	adesso che ce l'abbiamo
-???	passa anche dietro non so se xxx
-???	((ride))
-???	comunque ieri,
-???	sono:: per curiosità sono andata a vedere::
-???	un un una cosa che chiedeva:: il (tizio) xxx
-???	eh all'esame (.) sono andata anch'io lì
-???	infatti gli ho detto no non xxx perché::
-???	sì mi ha detto xxxxare mh mh mh
-???	sì sì però è vero. xxxxxare
-???	sì con le fonti letterarie: alla fine (ti rimane)
-???	ma (.) e invece l'uno è bellissimo xx
-???	(quanto) mi dive::rto.
-???	e ognuno vaga xxx
+??	adesso che ce l'abbiamo
+??	passa anche dietro non so se xxx
+??	((ride))
+??	comunque ieri,
+??	sono:: per curiosità sono andata a vedere::
+??	un un una cosa che chiedeva:: il (tizio) xxx
+??	eh all'esame (.) sono andata anch'io lì
+??	infatti gli ho detto no non xxx perché::
+??	sì mi ha detto xxxxare mh mh mh
+??	sì sì però è vero. xxxxxare
+??	sì con le fonti letterarie: alla fine (ti rimane)
+??	ma (.) e invece l'uno è bellissimo xx
+??	(quanto) mi dive::rto.
+??	e ognuno vaga xxx
 TO070	((si_schiarisce_la_voce))
 TO070	allora abbiamo accennato
 TO070	>sì sì< (.) ma ma: sì.
@@ -544,10 +544,10 @@ TO070	a::h non ho ancora fatto il login.
 TO070	avete tutti modo di leggere, o avete bisogno che proietti il testo?
 TO070	ditemi qualcosa
 TO070	proi[etto il testo]?
-???	[vediamo il testo].
+??	[vediamo il testo].
 TO070	ci vedete tutti?
 TO070	>ditemi voi come siet[e più comodi] per me è indifferente io voglio che voi siate comodi<
-???	[sì sì]
+??	[sì sì]
 TO070	che abbiate il massimo profitto da questi ascolti.
 TO070	vabbè (.) io nel dubbio lo proietto.
 TO070	allora
@@ -555,7 +555,7 @@ TO070	°un momento (.) eh°
 TO070	dio sono andata in crisi
 TO070	°testi°
 TO070	vabbè (.) mi assicurate che riuscite a leggere tutti?
-???	sì
+??	sì
 TO070	va bene. d'accordo.
 TO070	((fa_partire_un_brano))
 TO070	mh sentiamola ancora una volta perché l'inizio è stato: a dir proprio::
@@ -692,7 +692,7 @@ TO070	eh?
 TO070	vi ritrovate nella storia perché ve la racconto un po' a spizzichi a seconda della scena che facciamo
 TO070	eh?
 TO070	è chiaro a tutti?
-???	mh mh mh mh [mh]
+??	mh mh mh mh [mh]
 TO070	[va be]ne.
 TO070	((si_schiarisce_la_voce))
 TO070	quindi (di) nuovo un'aria: in fondo in cui dà le disposizioni come un padrone di casa,
@@ -1347,8 +1347,8 @@ TO070	eccezionalità.
 TO070	eh?
 TO070	ecco eh
 TO070	andate però a dire lei l'aveva chiesto prima dica [poi (arrivo)]
-???	[com'è che si chiama::] questo::: utilizzo dei dodici suoni?
-???	xx[x]?
+??	[com'è che si chiama::] questo::: utilizzo dei dodici suoni?
+??	xx[x]?
 TO070	[e]hmh (.) totale cromatico. eh?
 TO070	se qualcuno di voi ha studiato::: qualche strumento quando si v~ le scale
 TO070	poi ci sono le scale cromatiche le scale cromatiche sono quelle dove voi fare tutti:
@@ -1404,7 +1404,7 @@ TO070	m::::h non so se ho imbroglaito ancora di più le carte o mi sono spiega:t
 TO070	e::h?
 TO070	°va bene?°
 TO070	le[i invece cosa chiedeva la stessa doma]nda? sì.
-???	[è la stessa domanda]
+??	[è la stessa domanda]
 TO070	va bene.
 TO070	°sì ma sentiamolo°
 TO070	ma comunque non (.) non spaventatevi che poi intanto p~ io::: penso anche a come:: magari prendervi degli altri esempi e via via
@@ -1471,11 +1471,11 @@ TO070	se rileggendo i vostri appunti trovate delle cose che non sono chiare segn
 TO070	sono utili a tutti a me per capire cosa non vi è chiaro e:: anche ai vostri compagni
 TO070	per=e:::::
 TO070	che in genere son dubbi comuni. dica
-???	m:::h ascoltando l'aria
+??	m:::h ascoltando l'aria
 TO070	sì::? l'aria di don ottavio?
-???	no no l:: l~ l'ultima il concertato ecco
+??	no no l:: l~ l'ultima il concertato ecco
 TO070	>eh sì il concertato<
-???	non mi sono reso conto del momento in cui:: entrano i tromboni
+??	non mi sono reso conto del momento in cui:: entrano i tromboni
 TO070	sì devo dire questa: eh
 TO070	n::on ha torto. e::h entrano quando lui
 TO070	eh vabbè solo in quel grande accordo iniziale dove inizia la scena

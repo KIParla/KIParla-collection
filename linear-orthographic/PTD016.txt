@@ -1193,7 +1193,7 @@ TOI077	sì ma minchia come parlano stretto gli americani
 TOI076	buonissimo
 TOI076	eh
 TOR004	eh gli americani poi
-???	io sono stanco
+??	io sono stanco
 TOR004	eh è stanco
 TOI076	ah
 TOI076	xx xx xxx eh
@@ -1206,7 +1206,7 @@ TOI077	comincia a andare tu
 TOR004	e dove ehm
 TOR004	e quindi se
 TOI076	allora a me piacerebbe
-???	papà
+??	papà
 TOI077	new york
 TOI076	a me piacerebbe
 TOI076	f~
@@ -1218,7 +1218,7 @@ TOI076	è sempre stato un po' il mio sogno lo stile di vita mi sono sempre eh se
 TOI076	aprirmi alla mia casa la fattoria il mio ranch con gli animali dove avere anche il laboratorio per appunto costruire tutte le cose e insieme anche a lui
 TOI076	beh
 TOI077	su x
-???	okay
+??	okay
 TOI076	quindi costruirmi appunto la mia casa con anche il mio lavoro e
 TOI076	poi vabbè a me piace proprio lo stile di vita così
 TOI076	sottofondo solo noi eh
@@ -1269,10 +1269,10 @@ TOR004	cioè c'è zia zia ha ha posto anche no
 TOI076	mah sì
 TOI076	x x stai su amore
 TOI076	mah sì quello ci ho sempre pensato c'è lei sempre il mio punto fisso eh
-???	carlotta
+??	carlotta
 TOI076	però
 TOI077	xx
-???	vieni
+??	vieni
 TOR004	arrivo un attimo marco
 TOI076	però prendessi avessi l'opportunità e prendessi coraggio
 TOR004	sì
@@ -1971,7 +1971,7 @@ TOI077	eh
 TOR004	sì sicuro
 TOI077	quello che volevam vedere è il sequoia
 TOR004	o la regione dei laghi an~
-???	vieni
+??	vieni
 TOI076	eh non me lo ricordo
 TOR004	arrivo
 TOI076	con i cavalli tut~ ah
@@ -1979,7 +1979,7 @@ TOI076	ci farei il giro dei parchi così
 TOI076	cioè mi piacerebbe abbinare il giro dei parchi e poi
 TOI076	anche solo due tre giorni a new york
 TOR004	così per tornarci
-???	vieni a giocare
+??	vieni a giocare
 TOI077	ma poi
 TOR004	arrivo arrivo marco
 TOI077	poi quello che ci piacerebbe ma anche solo semplice son qualche città europea così
@@ -1993,11 +1993,11 @@ TOI076	solo
 TOI077	no
 TOI076	no solo dico come città
 TOR004	e ma tipo una città che ti piacerebbe vedere
-???	vieni
+??	vieni
 TOI076	arriviamo
 TOI077	mah allora londra non sono mai stato e parigi anche che non siamo mai stati volevamo andare
 TOI076	parigi ci piacerebbe andare visto che a noi piace la francia che c'è
-???	vieni
+??	vieni
 TOI076	piacerebbe andare poi a me piacciono in realtà
 TOI076	eh le città magari
 TOI076	giù qualcosa in germania

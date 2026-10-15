@@ -49,16 +49,16 @@ PKP068	rosa è d~ è del giro
 PKP067	vabbè lei è del giro però
 PKP067	grazie mille
 PKP063	grazie
-???	prego
+??	prego
 PKP067	lei è del giro ho capito però xx un bel posto
 PKP068	ah ehm secondo voi xx mi ha portato degli stecchini al posto della cannuccia ma a cosa serve secondo voi
 PKP063	ma in che senso è del giro
 PKP067	no perché praticamente andiamo fuori ehm aspetta che devo vede' la storia xxx
-???	guarda che prendo la se~ seggiola eh
+??	guarda che prendo la se~ seggiola eh
 PKP067	la
 PKP063	sì grazie
 PKP067	ah c'è anche questa guarda
-???	grazie
+??	grazie
 PKP067	prego
 PKP067	ehm
 PKP063	mhmh
@@ -151,7 +151,7 @@ PKP068	ehm cacio e pepe
 PKP063	grazie mille
 PKP067	grazie
 PKP068	grazie mille
-???	prego ragazzi
+??	prego ragazzi
 PKP067	grazie mille
 PKP068	e e poi sta cacio e pepe con crema di fave e chips di carciofi
 PKP067	buonissimo
@@ -1396,17 +1396,17 @@ PKP063	i gossip x non partecipi
 PKP067	esatto
 PKP068	e le botte e risposta ride
 PKP067	e antonio
-???	posso togliere
+??	posso togliere
 PKP067	sì sì
 PKP068	sì sì grazie mille
 PKP063	sì grazie
-???	grazie ragazzi
+??	grazie ragazzi
 PKP063	di nulla
-???	grazie mille
+??	grazie mille
 PKP067	prego ci mancherebbe
 PKP063	è tipo più
 PKP068	vai
-???	così vi libero un po' il tavolo eh
+??	così vi libero un po' il tavolo eh
 PKP067	sì sì
 PKP063	grazie mille
 PKP068	grazie mille

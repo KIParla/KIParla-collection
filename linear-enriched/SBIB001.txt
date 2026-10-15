@@ -1703,7 +1703,7 @@ PSB005	[lunga],
 PSB021	sì sì
 PSB021	cena:, in senso,
 PSB021	>noi possiamo<, mangiare,
-PSB021	e:h >dopo il tramonto del [sole],< e l'alba quindi, eccetera,
+PSB021	e:h >dopo il tramonto del [sole,]< e l'alba quindi, eccetera,
 PSB005	[mhmh]
 PSB021	cioè, all'alba, doppiamo stoppare a mangia[re],
 PSB005	[sì]
@@ -1719,7 +1719,7 @@ PSB021	quindi mangiamo, alziamo alle quattro, tipo, non lo so,
 PSB021	alle sette, il sole, va giù,
 PSB005	mh[mh]
 PSB021	>[qui]ndi alle sette<, mangiamo, proprio perché non abbiamo mangiato fin~ l'[intera giornata],
-PSB005	[certo ho capito, cioè], fate una cena>,e poi una specie di colazione molto pre[sto],<
+PSB005	[certo ho capito, cioè,] fate una cena, >e poi una specie di colazione molto pre[sto,]<
 PSB021	[esa]tto, esatto,
 PSB021	sì si può dire [anche] così
 PSB005	[okay]
@@ -1733,7 +1733,7 @@ PSB005	com'è andata?
 PSB021	sinceramente solo ba~ in bangladesh,
 PSB021	andava beniss[imo]
 PSB005	[mhmh]
-PSB021	perché tu,- >la festa si fa insie~ insieme alla fami[glia],<
+PSB021	perché tu, >la festa si fa insie~ insieme alla fami[glia,]<
 PSB005	[mhmh]
 PSB021	insieme: alla famiglia >o con i cugini<, con i vestiti eleganti, perché noi abbiamo dei vestiti molto eleganti
 PSB021	di tradizione [no]?
@@ -1763,7 +1763,7 @@ PSB005	[non hai], dico, po~
 PSB021	[cosa]?
 PSB005	>forse potevi dire<, che era un giorno:[:]
 PSB021	[s]ì m[a:: dovev~]
-PSB005	>[in cui, non potevi andare]?<
+PSB005	>[in cui, non potevi andare?]<
 PSB021	no:,
 PSB021	dovevo fare obbligatoria l'interrogazione,
 PSB021	e: sono uscita prima,
@@ -1827,11 +1827,11 @@ PSB005	sì
 PSB021	che vanno via poi,
 PSB005	sì sì
 PSB005	esatto sì
-PSB021	°sì sì° >e tipo, è que[sto],<
+PSB021	°sì sì° >e tipo, è que[sto,]<
 PSB005	[e tu] rie~, c'(io)è:,
 PSB005	sei brava?
 PSB021	>sì sì sì sì< [io, ho fatto:],
-PSB005	>[poi che bella],<
+PSB005	>[poi che bella,]<
 PSB005	>non hai una foto<?
 PSB021	certo, certo sì, °[adesso te la faccio] >è bellissim-<°
 PSB005	[EH, vediamo],
@@ -1863,7 +1863,7 @@ PSB005	che sono: musulmane >[e sono del ban]gladesh come te<?
 PSB021	[sì sì]
 PSB005	[le fami]glie del [bangladesh]
 PSB021	[sì sì]
-PSB021	>[per esempio qua],< ha messo un, vestito, tra[dizionale]
+PSB021	>[per esempio qua,]< ha messo un, vestito, tra[dizionale]
 PSB005	[ma è bello],
 PSB021	questo,
 PSB005	figata,
@@ -1916,7 +1916,7 @@ PSB021	>[sì] sì sì sì< sì:
 PSB005	e hanno circa la tua età?
 PSB021	tutti nati qua, tutti: sì sì sì,
 PSB005	eh, [vanno a scuola, e son più grandi]?
-PSB021	[eh no, >no no no no<,] no no, età no,
+PSB021	[eh no, >no no no no,<] no no, età no,
 PSB021	lei fa:, scientifico, scienze umane,
 PSB021	quindi fa, il,
 PSB021	terzo superiore, [sì]
@@ -1939,7 +1939,7 @@ PSB021	e un giorno siamo andati,
 PSB021	e:: ci siamo: a
 PSB021	abbiamo parlato tanto::,
 PSB021	e::
-PSB005	>avete fatto amici[zia],<
+PSB005	>avete fatto amici[zia,]<
 PSB021	[amici]zia, >[anche perché] non facciamo amicizia< quindi,
 PSB005	[sì sì]
 PSB021	adesso da cinque anni, che:

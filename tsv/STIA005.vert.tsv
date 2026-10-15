@@ -902,7 +902,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 98-30	PST013	98	30	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 98-31	PST013	98	31	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 98-32	PST013	98	32	studiato	studiato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-98-33	PST013	98	33	$		_	_	_	_	_	warning	_	ContainsVariation=No|Nonce=Yes	_	_	_	_	_	_
+98-33	PST013	98	33	$	_	_	_	_	_	_	warning	_	ContainsVariation=No|Nonce=Yes	_	_	_	_	_	_
 98-34	PST013	98	34	approfodo~	approfodo~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 98-35	PST013	98	35	$approfondamente	approfondamente	_	_	_	_	_	linguistic	_	ContainsVariation=No|Nonce=Yes	_	End=492.352	_	_	_	_
 99-0	PST013	99	0	ehm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=492.808	_	_	_	_
