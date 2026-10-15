@@ -1,7 +1,7 @@
 = KIParla-collection
 
 The KIParla-collection aggregates all available KIParla corpus modules into a single repository.
-It is rebuilt automatically whenever any module publishes a new release.
+It is rebuilt, locally and in one pass, after the modules publish a release.
 
 This is a *read-only reference repository* — do not edit files here directly.
 If you find an inconsistency in the data, correct it in the xref:collection::index.adoc#modules[originating module].
@@ -63,10 +63,10 @@ All transcriptions follow the xref:portal:transcription-conventions.adoc[KIParla
 
 == How it is built
 
-The collection is rebuilt automatically via GitHub Actions whenever a module publishes a new release.
-The build workflow:
+The collection is rebuilt with `tools/regenerate_local.py` after the modules publish a release.
+The script:
 
-. Clones the latest `main` of all four modules.
+. Reads the latest release tag of all seven modules.
 . Syncs TSV and EAF files.
 . Regenerates linear formats using `tools/tsv2formats.py`.
 . Merges metadata using `tools/merge_metadata.py`.
