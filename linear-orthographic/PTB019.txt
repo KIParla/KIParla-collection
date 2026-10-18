@@ -1345,7 +1345,7 @@ TOI071	senti io voglio stare al mio paese
 TOI080	tolta la croce
 TOI071	ognuno fa quello che v~ tu se vuoi stare qua stai qua
 TOI071	io x xx
-TOI080	che agge a fa me son fatto la casa come te
+TOI080	# che agge a fa me son fatto la casa come te
 TOI080	devo stare qua
 TOI071	ah
 TOI071	vabbè

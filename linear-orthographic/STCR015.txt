@@ -481,7 +481,7 @@ PST118	#da #da
 PST118	#rom
 PST118	#_ nu știu de ce
 PST118	cioè #da #știu #de #ce #dar
-PST120	# carabinieri
+PST120	carabinieri
 PST118	#da
 PST119	ma secondo te è #adevărat
 PST118	#da
@@ -697,7 +697,6 @@ PST120	#xx
 PST118	#_ dar ce-i patlagină
 PST119	#_ plantagină e o plantă
 PST120	#patlagină
-PST120	#_
 PST120	è pomodoro verde
 PST118	ah
 PST120	pomodoro quando un pomodori sono verdi

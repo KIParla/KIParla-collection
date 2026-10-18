@@ -341,7 +341,7 @@ PKP125	ma lei mo sta qua
 PKP131	mo se ne dovrebbe anda'
 PKP131	metà settembre
 PKP131	sta dicendo mo me ne vado mo me ne vado mo me ne vado da giugno
-PKP131	è ancora ca
+PKP131	# è ancora ca
 PKP125	vuole solo taggare il maritino ma nel frattempo magari si trova anche un'altra donna
 PKP131	che tra l'altro questa è una cosa bruttissima
 PKP131	perché pure la famiglia glielo dice
@@ -436,7 +436,7 @@ PKP125	su
 PKP131	beh
 PKP131	già xxxx
 PKP125	x
-PKP131	damme na foto a vede'
+PKP131	# damme na foto a vede'
 PKP125	eh ce l'ho sul telefono che al momento non posso prendere
 PKP131	eh vabbè dopo
 PKP131	qualcuno t'ha detto che xxxx
@@ -695,7 +695,7 @@ PKP131	ua
 PKP125	che xx
 PKP131	perché stai
 PKP131	qual è il range di età a cui stai insegnando
-PKP125	xx non lo sacc
+PKP125	# xx non lo sacc
 PKP125	io faccio finta di
 PKP125	mh
 PKP125	al momento dai
@@ -827,7 +827,7 @@ PKP131	mh
 PKP125	quei castellani malefici
 PKP131	non me di'
 PKP131	paura
-PKP125	sa ne ve ki uttant'anni che vanno a pesc pure loro
+PKP125	# sa ne ve ki uttant'anni che vanno a pesc pure loro
 PKP131	mh
 PKP131	# o parent u t'avuta
 PKP125	# la gente che'ha i soldi lu xxx pure lui
@@ -1000,7 +1000,7 @@ PKP125	voi siete bambini
 PKP125	io non me la faccio con i bambini
 PKP131	allora non sei proprio come xxx
 PKP125	xx
-PKP125	che paccia quella
+PKP125	# che paccia quella
 PKP131	subito
 PKP125	proprio impazzita
 PKP131	tiene problemi
@@ -1041,7 +1041,7 @@ PKP131	lorenzo
 PKP125	ah no questa è un'altra storia
 PKP125	ah no queste storie qua non le so neanch'io
 PKP125	non le so neanch'io
-PKP131	vabbuò i
+PKP131	# vabbuò i
 PKP125	i retroscena proprio
 PKP131	in poche parole
 PKP131	praticamente questo ave~ av~
@@ -1180,7 +1180,7 @@ PKP131	no
 PKP125	pensavo ai genitori di e infatti ho detto
 PKP125	madonna queste cose no
 PKP131	e la mamma di antonietta andò là in mezzo
-PKP131	o centro
+PKP131	# o' centro
 PKP125	meh no no eh
 PKP131	vicino alla signora che scaturì la lite
 PKP125	è una molto così

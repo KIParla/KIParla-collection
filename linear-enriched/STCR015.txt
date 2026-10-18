@@ -500,7 +500,7 @@ PST118	#da #da
 PST118	#rom
 PST118	#_ nu știu de ce
 PST118	c(io)è #da #știu #de #ce #dar
-PST120	# carabinieri
+PST120	carabinieri
 PST118	#da
 PST119	ma secondo te è #adevărat
 PST118	#da
@@ -576,7 +576,7 @@ PST120	#_ și s~ sunt multe chestii care care de exemplu tu nu trebuie să stai,
 PST120	xx #după #normele #de sicurezza
 PST120	#_ nu trebuie să stai
 PST119	penso che è ovvio che #nu #poți #să #stai
-PST119	#_ dedesupt la un carico [ ]
+PST119	#_ dedesupt la un carico
 PST120	[nu mai ăștia care xxx] care-i trimit acolo la noi o zis că chiar dacă îi vezi că-s ancorate cu xxx deastea o zis că
 PST120	#_ nu poți să știi dacă poate să cedeze și nici nu-ți dai seama că
 PST120	xxx #o #zis #că non stare mai lascia #*se #rupe (.) #se #strică
@@ -591,7 +591,7 @@ PST119	#_ ai lucrat un an acolo din vedere
 environment	((telegiornale))
 PST119	ma alla
 PST120	#_ bă ți-am zis că ăștia [mă iubeau da::r]
-PST119	#_ [ ] pentru
+PST119	#_ pentru
 PST120	#_ nu nu nu
 PST120	#_ cred că lucra pentru greenthesis [(.)] prentru partea aia
 PST119	[#da]
@@ -731,7 +731,6 @@ PST120	#xx
 PST118	#_ dar ce-i patlagină
 PST119	#_ plantagină e o plantă
 PST120	#patlagină
-PST120	#_
 PST120	è pomodoro verde
 PST118	a::h
 PST120	pomodoro quando un pomodori sono verdi,

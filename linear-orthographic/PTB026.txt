@@ -39,7 +39,7 @@ TOR002	# parliamo in italiano parliamo piemunteis parliamo un po' come volete vo
 TOI118	abbiamo finito di vivere eh
 TOR002	no ma non é niente
 TOI118	# alora se niente fuma niente
-TOR002	se niente fuma niente
+TOR002	# se niente fuma niente
 TOI118	xxx
 TOI119	qua qua sotto la firma
 TOR002	sì sì sì poi ci sono qualche informazione da completare ma beh
@@ -648,7 +648,7 @@ TOR002	vabbé
 TOI119	vabbé
 TOI118	# occhio all'euro eh tanto ormai suma ant la bagna
 TOR002	eh ormai
-TOR002	urmai
+TOR002	# urmai
 TOR002	e invece dicevi degli stranieri
 TOI118	# a mi l'an fame niente
 TOI118	# però se a stan a so pais am fan an piasi
@@ -808,7 +808,7 @@ TOI118	però
 TOI118	# giust che i siu co lur però a steisu a so pais a l'è mei
 TOI118	perché
 TOI118	# an pruvà a vene sì cun le roulotte si suta a dorme però suma riusu a telefuné al cumun e mandeje
-TOR002	ma si andua j'è el mercà
+TOR002	# ma si andua j'è el mercà
 TOI118	# si suta sì
 TOR002	ah
 TOI119	qua nel posteggio qua
@@ -1157,7 +1157,7 @@ TOI118	# l'ai fait anche el genepì
 TOR002	ah il genepì
 TOI118	# vole testelu
 TOR002	# dopu sì
-TOR002	o un'autra volta
+TOR002	# o un'autra volta
 TOI118	no
 TOI118	ma poi delinque
 TOR002	eh
@@ -1231,7 +1231,7 @@ TOI118	sei sicur
 TOI119	se vuoi un tovagliolo
 TOI118	# ma dilu nen eh
 TOI118	# eh a mielizia se no a a venu tuti si a beive
-TOR002	no a i lu disu nen va bin
+TOR002	# no a i lu disu nen va bin
 TOI118	# ai lu diu mi va
 TOI119	ma sì xxx
 TOR002	tanto sabato siam di nuovo qua
@@ -1257,7 +1257,7 @@ TOR002	io t'ho fatto bere
 TOR002	# a l'é ti che it vole fe tasté tut
 TOI118	professor rossi
 TOI118	# chiel a l'a fame beive
-TOR002	ecco xxx disumlu diciamolo anche al registratore così lo sanno anche a lavoro
+TOR002	# ecco xxx disumlu diciamolo anche al registratore così lo sanno anche a lavoro
 TOI119	ecco no
 TOI119	mamma mia
 TOI119	eh

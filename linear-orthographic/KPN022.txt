@@ -118,7 +118,7 @@ PKP075	beh dai
 PKP075	è stati anche bravi però dai
 PKP075	na cosa diversa
 PKP075	e loro dove stavano
-PKP075	vi aspettavano in piassa
+PKP075	vi aspettavano in #piassa
 PKP076	giravano con la macchina per controllarci
 PKP070	pff
 PKP076	andavano in giro per conscio
@@ -141,7 +141,7 @@ PKP077	xx xx
 PKP076	quella a dosson penso
 PKP075	eh
 PKP076	quella a dosson
-PKP077	sì dime marco
+PKP077	# sì dime marco
 PKP075	quella a dosson
 PKP070	regina margherita
 PKP076	mh mh
@@ -335,7 +335,7 @@ PKP070	perché c'è anche un ristorante ca del galletto
 PKP075	un hotel
 PKP077	albergo xx ci passi davanti
 PKP070	ah l'hotel
-PKP075	eh vabbè eh te ghe passi davanti xx
+PKP075	# eh vabbè eh te ghe passi davanti xx
 PKP077	dopo il semaforo è sulla destra
 PKP077	cento metri più avanti comunque
 PKP070	sì però la scuola dopo devi andare per dentro
@@ -343,10 +343,10 @@ PKP077	eh anche da là vai su dritto a un certo punto c'è l'incrocio c'è il un
 PKP075	e giri a destra
 PKP077	la strada che giri a sinistra
 PKP075	sinistra o destra
-PKP077	sinistra par qua
+PKP077	sinistra #par qua
 PKP077	# par la a le a sinistra
-PKP075	mh pensavo a destra mi andando su
-PKP077	no girar a destra te va verso
+PKP075	mh pensavo a destra #mi andando su
+PKP077	# no girar a destra te va verso
 PKP076	no a sinistra
 PKP077	pino
 PKP075	mh
@@ -356,9 +356,9 @@ PKP070	c'è ancora il bar là dalla fermata
 PKP077	# ghe ne e poste davanti
 PKP076	quale fermata
 PKP076	quella vicino al galletto
-PKP077	a destra ghe ne e poste
+PKP077	# a destra ghe ne e poste
 PKP070	sì
-PKP077	e subito là ghe ne a stradina che te gira dentro
+PKP077	# e subito là ghe ne a stradina che te gira dentro
 PKP070	cioè vabbè
 PKP077	dove che abitava la paola na volta
 PKP070	no~ dove ti fermi davanti
@@ -479,7 +479,7 @@ PKP070	immaginati gli altri si saranno persi loro lì
 PKP070	e noi invece
 PKP070	primi
 PKP070	abbiamo anche la foto
-PKP075	quella volta che avevate il calsettoni
+PKP075	quella volta che avevate il #calsettoni
 PKP070	no penso che sia stato per la
 PKP070	campestre
 PKP076	eh quella era s~
@@ -589,7 +589,7 @@ PKP075	perché
 PKP070	eh perché non puoi stare al tavolo più di sei persone
 PKP075	eh fate due tavoli
 PKP070	che senso ha
-PKP075	eh beh parlè ehi là cosa prendi te x tanto i tavoi no xe che i sia da un chilometro de distanza eh
+PKP075	# eh beh parlè ehi là cosa prendi te x tanto i tavoi no xe che i sia da un chilometro de distanza eh
 PKP077	# eh eh sì cioè
 PKP070	infatti la mati la mati doveva fare tipo aperitivo domani non fa niente
 PKP075	perché
@@ -608,11 +608,11 @@ PKP076	non tutti ma alcuni sì
 PKP075	ma in quanti siete alla fine
 PKP070	eh ti facevi dare il regalo e basta
 PKP076	vabbè
-PKP075	dovete dirlo sapete perché bisogna prenotare mi go da disdir da chealtra parte
+PKP075	# dovete dirlo sapete perché bisogna prenotare mi go da disdir da chealtra parte
 PKP076	eh colpa mia
 PKP075	devo disdire
 PKP076	eh lo so
-PKP077	perché dove avei prenotà
+PKP077	# perché dove avei prenotà
 PKP075	lago verde
 PKP077	# no i va pi là
 PKP075	no
@@ -629,7 +629,7 @@ PKP075	vai
 PKP076	in mezzo al nulla
 PKP070	i campi
 PKP075	c'è tutto buio là
-PKP077	e cossa gai da andar far fora
+PKP077	# e cossa gai da andar far fora
 PKP076	niente però
 PKP077	eh scusa
 PKP075	# però i xe qua insomma
@@ -701,7 +701,7 @@ PKP075	ma dai
 PKP077	no
 PKP076	guarda
 PKP075	ah
-PKP075	e allora el to colega cosa xx
+PKP075	# e allora el to colega cosa xx
 PKP077	mh
 PKP070	ecco
 PKP076	ti stanno chiamando
@@ -713,7 +713,7 @@ PKP075	pronto
 PKP075	hei ciao
 PKP077	# ma cossa gaea el vivavoce
 PKP070	eh eh no penso che sia tipo il cellulare che sì è al massimo
-PKP077	madona te sente fin in fondo
+PKP077	# madona te sente fin in fondo
 PKP075	sì sì sì
 PKP075	eh
 PKP076	ieri mattina
@@ -835,7 +835,7 @@ PKP070	e quindi non avete visto film horror
 PKP076	no
 PKP076	ma no
 PKP076	alla mariarita non piacciono
-PKP077	cossa gaea comprà
+PKP077	# cossa gaea comprà
 PKP070	ah ok
 PKP070	qualcuno di normale
 PKP076	cosa vuoi tu
@@ -894,31 +894,31 @@ PKP070	mh io sono più vicino ai ventiquattro che ai ventitré
 PKP076	eh vabbè
 PKP075	e allora non so se la mirella ti fa la torta
 PKP076	perché
-PKP075	perché praticame~ tasi che no semo s~ mai sta a contatto co a sti giorni qua
+PKP075	# perché praticame~ tasi che no semo s~ mai sta a contatto co a sti giorni qua
 PKP076	oh dio
 PKP077	# cossa xe sucesso
-PKP075	perché a xe anda su sabato venerdì a xe anda su al colloquio in macchina co un tosato e el xe risultà positivo
+PKP075	# perché a xe anda su sabato venerdì a xe anda su al colloquio in macchina co un tosato e el xe risultà positivo
 PKP070	ah cazzo
 PKP076	oh dio
 PKP075	e
 PKP076	beh io non la vedo da due settimane la mirella
-PKP077	e no gavea e mascherine
+PKP077	# e no gavea e mascherine
 PKP075	# eh a ga dito in macchina sì sempre però dopo quando che i xe andai a magnar el toast i xe andai a magnarse un toast no te pol magnar co a mascherina
 PKP075	# però a ga dito che a iera a distansa
 PKP077	mh
 PKP075	# adesso a ga da fa~
 PKP070	deve fare il tampone
-PKP075	a ga da far el tampon
+PKP075	# a ga da far el tampon
 PKP075	ta~ tampone e dopodiché
 PKP076	nessuno di noi l'ha vista recentemente
-PKP077	eh ma bisogna che a spete ades a far el tampon
+PKP077	# eh ma bisogna che a spete ades a far el tampon
 PKP070	no
 PKP070	ma quand'è che è andata scusa
 PKP077	# bisogna che a spete tre quatro giorni sinque
 PKP075	eh beh venerdì
 PKP070	poi abbiamo visto la zia
 PKP077	ah
-PKP075	venerdì e il tampone ndarà
+PKP075	# venerdì e il tampone ndarà
 PKP070	abbiamo visto la zia
 PKP070	vabbè anche voi quella volta che siete andati a fare il tampone che non erano passati abbastanza giorni
 PKP077	eh lo so
@@ -927,13 +927,13 @@ PKP070	non volevo i miei amici lo stesso
 PKP075	# beh vabbè se i sintomi no i ghe xe venerdì dopo x deve fare
 PKP070	vabbè è quello il problema mamma
 PKP075	il secondo tampone quando
-PKP077	ah non so di ghe dirà lori dopo
+PKP077	# ah non so di ghe dirà lori dopo
 PKP075	# perché anca una me collega de lavoro oggi a xe stada casa par~ e ea i la ga l'ha chiamata proprio il
 PKP070	no
 PKP075	il ministero della salute
 PKP077	mh
 PKP075	di non muoversi da casa lei il marito e
-PKP077	e beh se lo~ se le positiva sì eh
+PKP077	# e beh se lo~ se le positiva sì eh
 PKP075	no e le no
 PKP075	# a xe sta a contatto con un positivio i xe stai a contatto con u~ molto probabilmente i xe andai el xe risultà positivo iu ga fatto i nomi de quei che i xe sta
 PKP077	sì sì sì
@@ -941,25 +941,25 @@ PKP075	l'ultimo i gli ultimi giorni qua
 PKP076	a contatto
 PKP075	# e sicchè i xe sta ciamada che no a se mova da casa i xei andà a far el tampone stamattina
 PKP075	negativo
-PKP075	però adesso no so quanto che i sta casa
-PKP075	e n'altra invesse a xe anda a casa al pomeriggio
+PKP075	# però adesso no so quanto che i sta casa
+PKP075	# e n'altra invesse a xe anda a casa al pomeriggio
 PKP077	mh
 PKP075	# perché a donna de e puisie pensate a fa quattro ore e a ga anca a donna de e puisie assemo perdar
 PKP075	# a la ga ciamada che
-PKP070	se a ga i soldi
-PKP075	che a iera che a iera positiva iera a gavea a febre alta
-PKP077	beh ma a gavea a febre alta ma no che l'era positiva
-PKP075	eh ha fatto il tampone a gaveva tutti i sintomi fatto il tampone positiva
+PKP070	# se a ga i soldi
+PKP075	# che a iera che a iera positiva iera a gavea a febre alta
+PKP077	# beh ma a gavea a febre alta ma no che l'era positiva
+PKP075	# eh ha fatto il tampone a gaveva tutti i sintomi fatto il tampone positiva
 PKP077	ah
 PKP070	eh vabbè tanto ormai cioè siamo destinati a prenderlo tutti
 PKP075	beh speriamo di no
 PKP070	eh s~ beh è fuori controllo abbastanza la situazione
-PKP075	speriamo di no ma eh cioè a parte positivo xe che che i sintomi cioè xe come una forte influenza par i giovani par noaltri
-PKP077	sì sì beh che discorsi le che te te toca star casa perché se no te va co~
-PKP075	xe
-PKP075	il disagio xe che devi star
+PKP075	# speriamo di no ma eh cioè a parte positivo xe che che i sintomi cioè xe come una forte influenza par i giovani par noaltri
+PKP077	# sì sì beh che discorsi le che te te toca star casa perché se no te va co~
+PKP075	# xe
+PKP075	# il disagio xe che devi star
 PKP076	beh
-PKP077	contagiar anca chealtri
+PKP077	# contagiar anca chealtri
 PKP075	che devi stare in quarantena
 PKP076	per voi un po' meno
 PKP077	# eora
@@ -970,7 +970,7 @@ PKP070	più a ris~ beh più a rischio può succedere anche a noi
 PKP076	sì no nel senso per noi magari è anche un po' meno grave la cosa
 PKP076	però per lui è un pochino
 PKP070	bah staremo a vedere
-PKP075	ghe sarà carmelo che
+PKP075	# ghe sarà carmelo che
 PKP070	sì infatti avrà il mamma mia
 PKP076	mamma lo zio
 PKP076	poretto

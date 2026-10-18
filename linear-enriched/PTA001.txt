@@ -560,7 +560,7 @@ TOR002	no volevo fare una domanda [io appena fini]sci [quelle serie]
 TOR001	[vai vai]
 TOR001	[no: no va]i vai f[ai]
 TOR002	# [no] cazzo >la domanda è< spiega il papocc giulio
-TOI001	((ride)) #ah il papocc
+TOI001	# ((ride)) ah il papocc
 TOI001	# e:h il papocc è::
 TOR002	ma proprio l'origine::
 TOI001	vabbè diciamo che::

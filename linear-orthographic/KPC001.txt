@@ -208,7 +208,7 @@ PKP026	eh
 PKP026	troppo personale
 PKP025	perché i fiori costano e poi tanto dopo tre giorni
 PKP026	una pianta vera non i fiori che appassiscono
-PKP025	ma co ci fa
+PKP025	# ma co ci fa
 PKP026	non c'ha un angolino nella casa una composizione ci son quei fiori belli finti
 PKP025	boh
 PKP025	e la spedisce pure la pianta

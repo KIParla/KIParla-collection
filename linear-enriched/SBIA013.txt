@@ -3,7 +3,7 @@ PSB005	allora la prima domanda è (.) com'è nata questa scuola e che attività:
 PSB067	ah devo rispondere io allora a questa qui
 PSB005	sì
 PSB067	ah allora quest~ questa scuola è nata: l'anno scorso
-PSB067	dopo una fatica: di: di ricercamenti> perché: tutti vogliono studiare l'arabo
+PSB067	dopo una fatica: di: di <$ricercamenti> perché: tutti vogliono studiare l'arabo
 PSB067	e poi l'arabo si st~ si studiava prima in moschea che non potevano: farlo lì
 PSB067	hanno deciso di pa~ eh di comprare questo eh
 PSB067	>questo diciamo< questa zona qui e l'hanno costruito,
@@ -33,8 +33,8 @@ PSB067	#_ shnū smīt-ək
 PSB005	è diverso sì
 PSB005	[°mi sembra°]
 PSB067	[no~ non] tanto però è un po' diverso però le altre: tipo
-PSB067	le carote, in arabo si dice l-jazar
-PSB067	però in marocchino >si dice< xīzzū
+PSB067	le carote, in arabo si dice #l-jazar
+PSB067	però in marocchino >si dice< #xīzzū
 PSB069	((ride))
 PSB067	dire che c'è molto diffe[renza]
 PSB005	[°è diverso] sì sì°
@@ -372,7 +372,7 @@ PSB067	[fa] l'autista
 PSB069	#_ [ʕandī-sh, mā f-ṛās-i]
 PSB005	[l'autista sì]
 PSB067	#gūli fa l'autista
-PSB066	#_ [ māl-ha?]
+PSB066	#_ [māl-ha?]
 PSB069	((ride)) #_ [mā f-ṛās-i]
 PSB066	#_ wāh bravo bravo
 PSB067	[sì sì fa l'autista]
@@ -526,7 +526,7 @@ PSB068	°non tutti°
 PSB005	°okay°
 PSB067	perché dicono se uno va a lavorare non deve far~ non deve stare a digiuno perché ha:
 PSB067	bis[ogno dell'acqua xx]
-PSB069	#_ [mṭābqīn, sharḥa-ha jinn ]
+PSB069	#_ [mṭābqīn, sharḥa-ha jinn]
 PSB068	[perché: perché]: e:h
 PSB067	[sì]
 PSB068	[ob]bligo obbligo obbligo
@@ -891,7 +891,7 @@ PSB068	con albero (.) tanto
 PSB005	okay
 PSB066	#_ [fəssri li-ha xx]
 PSB067	[sì non puoi uscire perché c'è (rischio)]
-PSB069	#_ [ma-ka-yqdar-sh, ma-kāyn-sh l-xx ]
+PSB069	#_ [ma-ka-yqdar-sh, ma-kāyn-sh l-xx]
 PSB005	okay sì
 PSB005	no n~ io non lo so non: non conosco quindi (.) chiedo ma
 PSB067	sì nemmeno io béni mellal sì ma
@@ -1094,7 +1094,7 @@ PSB005	[così]
 PSB005	[sì]
 PSB067	#_ āsh walīlī
 PSB005	c(io)è è [piccolino]
-PSB068	#_ [no no walīlī mā-kāyna-sh tamma ]
+PSB068	#_ [no no walīlī mā-kāyna-sh tamma]
 PSB068	aspetta
 PSB066	#_ [xx]
 PSB068	#_ [bəllāti]
@@ -1752,7 +1752,7 @@ PSB069	piace marocc[o]
 PSB067	[no] io
 PSB066	#_ [āna bənt-i ktār mn marrāt mshāt fī-h hād l-ʕām]
 PSB067	io l'anno sco~ [sono tre anni (.) che non (torno)]
-PSB069	#_ [ka-tmshīw ]
+PSB069	#_ [ka-tmshīw]
 PSB066	#_ [gha-tmshi ktār ʕad tmshi ʕawd tānī hiyya s-sətta]
 PSB069	#_ [xx]
 PSB005	mh

@@ -1230,7 +1230,7 @@ PSB147	no #physique #_ sciences chimiques
 PSB153	cimic- eh chimica
 PSB147	ci
 PSB146	chimica
-PSB147	chimica #_ sciences chimiques $simica
+PSB147	chimica #sciences #chimiques #simica
 PSB153	sì chimica
 PSB147	sì chimica
 PSB146	ah c'è una solo chimica alle superiori in marocco

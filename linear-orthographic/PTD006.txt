@@ -375,7 +375,7 @@ TOI055	posso dire l'a~ l'azienda
 TOR004	sì sì
 TOI055	si chiama
 TOR004	ah ma è famoso mi sa
-TOI055	che è in vi~ in vi via nomeluogo sì ehm
+TOI055	# che è in vi~ in vi via sì ehm
 TOI055	io mh non ho mh non ho avuto una bellissima esperienza in questo
 TOR004	ma secondo te è dip~ cioè è dipendente dall'azienda o
 TOI055	ma si sono un po' eh

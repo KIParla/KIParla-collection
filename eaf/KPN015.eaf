@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:29+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-17T17:31:54+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="KPN015.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="KPN015.mp3" />
     </HEADER>
@@ -6890,7 +6890,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a241">
-                <ANNOTATION_VALUE>con un #sac d'oli: e cos a boier,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># con un sac d'oli: e cos a boier,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7245,7 +7245,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a706" ANNOTATION_REF="a705">
-                <ANNOTATION_VALUE>ma quello perché comunque ha m:h il v~ il vino è acido di per sè quindi: (.) #a ghè tredes grèd ahn.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ma quello perché comunque ha m:h il v~ il vino è acido di per sè quindi: (.) a ghè tredes grèd ahn.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

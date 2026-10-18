@@ -465,7 +465,7 @@ PST200	sì sì sì sì sì
 PST201	sì
 PST001	#_ y y en perù no
 PST200	mh
-PST001	#el #queso también no #en~ en la ma~ #en la colazione o #si no in in la cena
+PST001	#el #queso #también no #en~ en la ma~ #en la colazione o #si no in in la cena
 PST200	mh
 PST200	la cena sì
 PST001	#pero en #el pranzo e è riso il pollo l'in~ insalata tutto insieme si mangia
@@ -492,7 +492,7 @@ PST200	sì sì sì
 PST001	in perù #es una tazza
 PST002	in perù
 PST002	tazza grande tazza
-PST001	pero #no #es #tan spesso #es más
+PST001	#pero #no #es #tan spesso #es #más
 PST200	mh
 PST002	ah ah
 PST200	sì sì sì
@@ -660,7 +660,7 @@ PST200	mh mhmh
 PST001	#y
 PST001	poco a poco #aún no #sea
 PST200	mh mhmhmh
-PST001	a #vamos a a $imparar #seguir imparando #*el italiano per #poder parlare
+PST001	a #vamos #a a $imparar #seguir imparando #*el italiano per #poder parlare
 PST002	mh piano piano
 PST200	mh
 PST200	mhmh mh ma è una lingua che vi piace o o no
@@ -942,7 +942,7 @@ PST200	mh
 PST001	#por mio figlio #más #que #todo no #por mio figlio #por #eso #como #que
 PST001	#nos #hemos #privado #en #en #salir uscire no #salir
 PST200	mh mh
-PST001	ah #por mio figlio #para #cuidarlo #con #su #salud #para #que #no no no #se #contagie con la tosse
+PST001	ah #por mio figlio #para #cuidarlo #con #su #salud #para #que #no #no #no #se #contagie con la tosse
 PST002	#influencia
 PST001	con l' #influencia no #el il dottore #también #no #sabía ha detto che che #permanezca #en a casa
 PST001	#_ y ya

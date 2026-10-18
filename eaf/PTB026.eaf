@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T20:21:39+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-17T17:32:49+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="PTB026.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="PTB026.mp3" />
     </HEADER>
@@ -6371,7 +6371,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a97">
-                <ANNOTATION_VALUE>((ride)) #se [nient]e fuma nien[te]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((ride)) se [nient]e fuma nien[te]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7326,7 +7326,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1402" ANNOTATION_REF="a1401">
-                <ANNOTATION_VALUE>((ride)) #urmai</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((ride)) urmai</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7501,7 +7501,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1744" ANNOTATION_REF="a1743">
-                <ANNOTATION_VALUE>ma #si andua j'è el mercà?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ma si andua j'è el mercà?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7926,7 +7926,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2460" ANNOTATION_REF="a2459">
-                <ANNOTATION_VALUE>((ride)) [#o un'au]tra volta</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((ride)) [o un'au]tra volta</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8031,7 +8031,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2620" ANNOTATION_REF="a2619">
-                <ANNOTATION_VALUE>((ride)) #no a i lu disu nen va bin</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((ride)) no a i lu disu nen va bin</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8096,7 +8096,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2676" ANNOTATION_REF="a2675">
-                <ANNOTATION_VALUE>((ride)) #ecco xxx disumlu diciamolo anche al registratore così [lo sanno anche a lavoro] ((ride))</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((ride)) ecco xxx disumlu diciamolo anche al registratore così [lo sanno anche a lavoro] ((ride))</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

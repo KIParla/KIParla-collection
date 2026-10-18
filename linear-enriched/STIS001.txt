@@ -403,7 +403,7 @@ PST001	[°mh mh°]
 PST001	sì[:]
 PST002	[°mh mh°]
 PST200	[per gli in]terventi sì
-PST002	#_ pues ya: [°sì sì ] dependìa s~ si nos quedemos pues°
+PST002	#_ pues ya: [°sì sì] dependìa s~ si nos quedemos pues°
 PST200	[°sì sì°]
 PST201	((ride))
 PST001	sì. #va:: #como #se dice: #depende::r #si:
@@ -482,7 +482,7 @@ PST200	[sì (.) sì sì sì sì]
 PST201	[sì]
 PST001	#_ y:: y en perù no.
 PST200	°mh°
-PST001	#el #queso, (.) también no, #en~ e:n la ma~ #en la colazio:ne o #si no in in la cena
+PST001	#el #queso, (.) #también no, #en~ e:n la ma~ #en la colazio:ne o #si no in in la cena
 PST200	mh
 PST200	°la cena sì°
 PST001	#pero: en #el pranzo: e: (.) è ri:so il po:llo l'in~ insalata tutto insi[eme (.) °si mangia°].
@@ -511,7 +511,7 @@ PST001	[in perù: #e]s una tazza
 PST002	[°in perù:°]
 PST001	((ride))
 PST002	°tazza grande [tazza°]
-PST001	pero]: #no #es #tan spesso [#es má:s]
+PST001	[#pero]: #no #es #tan spesso [#es #má:s]
 PST200	[°mh°].
 PST002	ah ah,
 PST200	[°sì sì sì°]
@@ -702,7 +702,7 @@ PST200	°mh [mhmh°]
 PST001	[#y:::]
 PST001	poco a poco (.) [#aún no? #>°sea°<]
 PST200	[°mh mhmhmh°]
-PST001	a: #vamos a: (.) a $imparar #se[guir impara]ndo #*el i]talia:no per #poder parlare
+PST001	a: #vamos #a: (.) a $imparar #se[guir impara]ndo #*el i]talia:no per #poder parlare
 PST002	°mh (.) [piano piano°]
 PST200	[°mh°]
 PST200	mhmh °mh° (.) ma è: una lingua che vi pia:ce, o[:: o no]
@@ -955,7 +955,7 @@ PST002	[eh m:h mh],
 PST200	[a::h] sì [sìsì]
 PST002	[°viola°]
 PST001	°sì°
-PST002	°e::h° > #_ ya tengo< que,
+PST002	°e::h° #_ >ya tengo< que,
 PST001	#cargarlo ((ridendo))
 PST001	#lo carga #en #*el collo:?
 PST200	a:h [sì sì] lo mette=lo mette sulle spa:lle.
@@ -989,7 +989,7 @@ PST200	[°mh°]
 PST001	#por mio fi:glio #más #que #todo °no°? #por mio figlio >#por #eso #como #que<
 PST001	#nos #hemos #priva:do (.) #en:: #en: #sali::r uscire >°no°<? [#sali::r]
 PST200	[°mh mh,°]
-PST001	ah, #por mio figlio #para #cuidarlo: #con #su #salud #para #que #no (.) no:::: no #se #contagie con la to:sse::
+PST001	ah, #por mio figlio #para #cuidarlo: #con #su #salud #para #que #no (.) #no:::: #no #se #contagie con la to:sse::
 PST002	°#influencia°
 PST001	con l' #influe:ncia °no?° (.) #el=il dottore #también #no #sabía: (.) ha detto che: (.) che #permanezca #en=a casa,
 PST001	#_ y ya°
@@ -1181,7 +1181,7 @@ PST001	e::: #e:s: #más parla:re °no°? parla:re #dialoga:::r (.) e:hm
 PST001	e lui un poco no no n~ no capisce, no capisce e:h e::h >#entonces< (.) #por #eso #era #°no°?
 PST002	no:, #este:: (.) u~ un po' un po' (.) ehm e:::h
 PST002	#_ más, (.) más era este: por por lo >de mi hijo<
-PST002	#_ > o sea,< eh. (.) dejarlo so:lo
+PST002	#_ >o sea,< eh. (.) dejarlo so:lo
 PST001	[a::h]
 PST200	[°mhmh°],
 PST002	e::h. #_ como que él (.) está mal no? qualquier cosa le puede pasar °no más°

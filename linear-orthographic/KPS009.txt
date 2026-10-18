@@ -73,7 +73,7 @@ PKP040	perché lui fa sempre li battute quella non le capisce
 PKP041	è lenta
 PKP039	c'eri c'eri pure tu
 PKP040	no so x
-PKP039	ca scusa
+PKP039	# ca scusa
 PKP039	anna se non hai le prove taci
 PKP040	lau
 PKP041	un po' troppo no

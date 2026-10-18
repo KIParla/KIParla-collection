@@ -223,7 +223,7 @@ PKP034	no no io mangio sempre quel~ le cose xxxx
 PKP034	fave che mi piacciono
 PKP033	okay
 PKP034	son da calare
-PKP035	xxxx ce mangi oggi xx se se cociono
+PKP035	# xxxx ce mangi oggi xx se se cociono
 PKP034	perché se tu vuoi mangiare diciamo questo xxxx le metti nel freezer e sta a posto
 PKP033	mhmh
 PKP034	quindi
@@ -624,7 +624,7 @@ PKP034	non a casa mia
 PKP033	ah
 PKP034	mhmh mh
 PKP035	funziona xx
-PKP035	il brustulaturu si chiama
+PKP035	il #brustulaturu si chiama
 PKP034	ah quello per abbrustolirlo
 PKP035	per abbrustolirlo
 PKP034	non per cucinarlo
@@ -1751,7 +1751,7 @@ PKP034	no quello non volevo vedere però le solite inutili fesserie
 PKP035	co~ coperchi io li chiamo
 PKP034	non è vero fanno vedere proprio la xxxx
 PKP035	ma
-PKP035	io m'assetto a nu bar a tirare due
+PKP035	# io m'assetto a nu bar a tirare due
 PKP034	ma non è vero no allora
 PKP035	eh eh
 PKP034	questo che sta dicendo a quello quando siamo andati in jugoslavia in jugoslavia allora

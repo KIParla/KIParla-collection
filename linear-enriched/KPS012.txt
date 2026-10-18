@@ -14,7 +14,7 @@ PKP049	E BELLO:: che pensi che ti sazi oggi con quello
 PKP050	mh
 PKP051	guarda che sei tu eh che fai:: troppi grammi sa
 PKP050	ma lo vedi che centoquaranta [grammi ha fatto]
-PKP049	[#ce sacciu]
+PKP049	# [ce sacciu]
 PKP050	centoquaranta:: ne ho fatti marce'
 PKP050	non è che la pasta si moltiplica i grammi quelli sono
 PKP049	e::h
@@ -166,7 +166,7 @@ PKP049	vedrai che il tuo professore non ne xxxx
 PKP049	[xx xxx[
 PKP051	[io mi trovav~] l'anno scorso mi trovavo benissimo quello spiegava analisi sa spiegare analisi e l'altro sa spiegare entrambi
 PKP049	[ma ti pare::]
-PKP051	[#mo io] non so perché hanno cambiato tutto:: nu casinu
+PKP051	# [mo io] non so perché hanno cambiato tutto:: nu casinu
 PKP049	per questo ma non ti devi privare della vita per dire non farò mai: non mi iscriverò mai: dove
 PKP051	sicuramente non era: la mia materia preferita: perché (ora) non si capisce niente
 PKP049	ma tutte le materie un qualco~ qualcuna sempre la dovrai trovare::: non è che ti vai a trovare una facoltà dove non farai ni:nte di tutto quello che dici tu e::h
@@ -506,7 +506,7 @@ PKP051	no ((ride)) (.) mi sento sempre che::: io mangio (.) riso::
 PKP050	vabbè tu sei [un caso a parte]
 PKP051	[o ceci::]
 PKP051	e quindi:: ieri poi hai indovinato xxxxx i ceci
-PKP051	) ((ride))
+PKP051	((ride))
 PKP050	ma perché (.) tu sei proprio (monotona) cioè tu mangi veramente sempre le stesse [cose]
 PKP049	[ma lui] si riferisce a noi:: o a te::
 PKP050	a te:::

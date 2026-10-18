@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T20:30:34+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-17T17:31:58+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="KPN019.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="KPN019.mp3" />
     </HEADER>
@@ -3886,7 +3886,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a103">
-                <ANNOTATION_VALUE>((ride)) #ea maloxx</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((ride)) ea maloxx</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4006,7 +4006,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a303">
-                <ANNOTATION_VALUE>((RIDE)) [#EL CAFFÈ BOR~ caffè borbone]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((RIDE)) [EL CAFFÈ BOR~ caffè borbone]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4081,7 +4081,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a414" ANNOTATION_REF="a413">
-                <ANNOTATION_VALUE>[#°vara°]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [°vara°]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4366,7 +4366,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a678" ANNOTATION_REF="a677">
-                <ANNOTATION_VALUE>((sospira)) #la parte del cappuccio (.) che sarìa el proiettile (.) no il bossolo (.) ze restada in canna</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((sospira)) la parte del cappuccio (.) che sarìa el proiettile (.) no il bossolo (.) ze restada in canna</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4731,7 +4731,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1162" ANNOTATION_REF="a1161">
-                <ANNOTATION_VALUE>((tossisce)) #me sembra che ea sia inglese ((tossisce))</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((tossisce)) me sembra che ea sia inglese ((tossisce))</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6255,7 +6255,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a376" ANNOTATION_REF="a375">
-                <ANNOTATION_VALUE>((ride)) #al fio ghe domando E A TI NO: ti se in dieta ((ride))</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((ride)) al fio ghe domando E A TI NO: ti se in dieta ((ride))</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6350,7 +6350,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a464" ANNOTATION_REF="a463">
-                <ANNOTATION_VALUE>((ride)) [#cossa]?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((ride)) [cossa]?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6760,7 +6760,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a954" ANNOTATION_REF="a953">
-                <ANNOTATION_VALUE>((tossisce)) #ma quando ze el compleanno? °dea silvia°</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((tossisce)) ma quando ze el compleanno? °dea silvia°</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6805,7 +6805,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a992" ANNOTATION_REF="a991">
-                <ANNOTATION_VALUE>[#SÌ TI VA e:: ti va anca] per marco no?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [SÌ TI VA e:: ti va anca] per marco no?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6820,12 +6820,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1006" ANNOTATION_REF="a1005">
-                <ANNOTATION_VALUE>((ride)) #e cossa [ghe portemo aea maria chiara]?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((ride)) e cossa [ghe portemo aea maria chiara]?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1010" ANNOTATION_REF="a1009">
-                <ANNOTATION_VALUE>((sospira)) #la ca:rta [&lt;pacco di carte&gt; ((ride)) E:H E CARTE qualche zogo de carte]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((sospira)) la ca:rta [&lt;pacco di carte&gt; ((ride)) E:H E CARTE qualche zogo de carte]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7025,7 +7025,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1186" ANNOTATION_REF="a1185">
-                <ANNOTATION_VALUE>((ride)) #che che piove FIRENSE me par sì firenze gera</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((ride)) che che piove FIRENSE me par sì firenze gera</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

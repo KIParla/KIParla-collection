@@ -958,7 +958,7 @@ PKP147	non ci credo
 PKP149	eh no
 PKP147	no vabbè
 PKP147	prima zanzara dell'anno
-PKP147	il venti de gennaio citti
+PKP147	# il venti de gennaio citti
 PKP149	eh
 PKP148	ma ieri quando s'è preso la macchina
 PKP148	quant'era la eh

@@ -501,7 +501,7 @@ PST091	eh dicono #îmi #plașe
 PST082	#plași sì
 PST091	al posto di #îmi #place
 PST082	#_ pla~ îmi place
-PST082	#îmi plașe
+PST082	#îmi #plașe
 PST091	quindi #ș #ș tanto #ș sì c'è un sacco di #ș
 PST082	quella #ș
 PST091	su ogni cosa praticamente

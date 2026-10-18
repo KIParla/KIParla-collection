@@ -274,7 +274,7 @@ PST008	dovrebbe:
 PST008	$dovreo
 PST007	#el $dovriava,
 PST201	((ride))
-PST007	((ride)) [ #_ que sabe:]
+PST007	((ride)) #_ [que sabe:]
 PST008	[bueno, (.) parla]re #en inglese:
 PST201	[°okay°]
 PST008	[per forze:]
@@ -922,7 +922,7 @@ PST007	milano:,
 PST008	sì:
 PST201	m[:h]
 PST007	[e:]:h milano i troppa gent[e:]
-PST201	[e:h] [=e:h eh],
+PST201	[e:h] [e:h eh],
 PST008	[troppa gen[te] no:]?
 PST007	[tanti lat]ini:, a milano: [sì: xx]
 PST008	[tanti latini:],

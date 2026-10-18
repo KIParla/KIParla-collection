@@ -3,7 +3,7 @@ PSB005	allora la prima domanda è com'è nata questa scuola e che attività ci s
 PSB067	ah devo rispondere io allora a questa qui
 PSB005	sì
 PSB067	ah allora quest~ questa scuola è nata l'anno scorso
-PSB067	dopo una fatica di di ricercamenti perché tutti vogliono studiare l'arabo
+PSB067	dopo una fatica di di $ricercamenti perché tutti vogliono studiare l'arabo
 PSB067	e poi l'arabo si st~ si studiava prima in moschea che non potevano farlo lì
 PSB067	hanno deciso di pa~ eh di comprare questo eh
 PSB067	questo diciamo questa zona qui e l'hanno costruito
@@ -33,8 +33,8 @@ PSB067	#_ shnū smīt-ək
 PSB005	è diverso sì
 PSB005	mi sembra
 PSB067	no~ non tanto però è un po' diverso però le altre tipo
-PSB067	le carote in arabo si dice l-jazar
-PSB067	però in marocchino si dice xīzzū
+PSB067	le carote in arabo si dice #l-jazar
+PSB067	però in marocchino si dice #xīzzū
 PSB067	dire che c'è molto differenza
 PSB005	è diverso sì sì
 PSB067	eh troppo differenza c'è

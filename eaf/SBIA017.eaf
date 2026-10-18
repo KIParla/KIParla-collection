@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:32+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-18T15:27:55+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="SBIA017.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="SBIA017.mp3" />
     </HEADER>
@@ -16804,7 +16804,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a597" ANNOTATION_REF="a595">
-                <ANNOTATION_VALUE>eh: non so come (si chiama) #_ dyāl xyāṭa? (.) #machine #_ dyāl xyāṭa?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>eh: non so come (si chiama) #_ dyāl xyāṭa? (.) machine dyāl xyāṭa?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18364,7 +18364,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2538" ANNOTATION_REF="a2537">
-                <ANNOTATION_VALUE>chimica &gt; #_ sciences chimiques&lt; [$simica]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>chimica &gt;#sciences #chimiques&lt; [$simica]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

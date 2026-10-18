@@ -295,7 +295,7 @@ PSB147	le macchine esatto
 PSB146	°mhmh okay° (.) [i macchinari]
 PSB147	#machine
 PSB147	sì i macchinari dal: e:h
-PSB147	eh: non so come (si chiama) #_ dyāl xyāṭa? (.) #machine #_ dyāl xyāṭa?
+PSB147	eh: non so come (si chiama) #_ dyāl xyāṭa? (.) machine dyāl xyāṭa?
 PSB153	mhmh
 PSB147	#_ dyāl xyāṭa
 PSB153	#ma-ʕrəft-sh ((ride)) [non lo so] ((ride))
@@ -1259,7 +1259,7 @@ PSB147	[no::] #physique:> #_ sciences chimiques<
 PSB153	cimic- [e:h chimica]
 PSB147	[ci]
 PSB146	[chimi]ca?
-PSB147	chimica > #_ sciences chimiques< [$simica]
+PSB147	chimica >#sciences #chimiques< [$simica]
 PSB153	[sì (.) chi]mic[a]
 PSB147	[sì] chimica
 PSB146	ah c'è una solo chimica alle superi[ori in marocco]?

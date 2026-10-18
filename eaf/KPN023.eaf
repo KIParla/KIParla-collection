@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:30+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-17T17:32:09+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="KPN023.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="KPN023.mp3" />
     </HEADER>
@@ -17597,7 +17597,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1532" ANNOTATION_REF="a1531">
-                <ANNOTATION_VALUE>t~ t[u ti ricordi in au]toscuola (.) nostra come ce li avevano fatti c(io)è (.) #do minuti neanche</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># t~ t[u ti ricordi in au]toscuola (.) nostra come ce li avevano fatti c(io)è (.) do minuti neanche</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18172,7 +18172,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2188" ANNOTATION_REF="a2187">
-                <ANNOTATION_VALUE>[#un bel piato de pasta]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [un bel piato de pasta]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

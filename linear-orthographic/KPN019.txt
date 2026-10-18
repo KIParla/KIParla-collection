@@ -45,7 +45,7 @@ PKP030	venti euro ma va avanti un'ora e mezza non è tanti secondo pensavo fosse
 PKP009	ma dai
 PKP030	io non lo farei m~ cioè in un periodo magari di crisi che non so che cavolo fare mi affido anche ai santoni però normalmente
 PKP030	niente ma tu cosa pensi di questa persona cosa pensa di me e vediamo le carte
-PKP144	ea maloxx
+PKP144	# ea maloxx
 PKP030	no ma in realtà perché l'ho anche sentito per telefono
 PKP009	eh
 PKP030	non è anche pr~ professionale nel senso che tu devi fare le domande giuste cioè che cosa vuoi sapere
@@ -135,7 +135,7 @@ PKP144	# se ti tol lì lì caffè no ti riesci a véder niente perché no ze nap
 PKP009	mh esatto
 PKP009	esatto
 PKP030	eh
-PKP144	EL caffè bor~ caffè borbone
+PKP144	# el caffè bor~ caffè borbone
 PKP009	# cossa te ga dito
 PKP030	e ha detto questo ragazzo sta male poi è andata avanti con le carte vedo cose negative mhmh questo ragazzo andrà via non vado avanti perché non mi piace più
 PKP009	eh
@@ -170,7 +170,7 @@ PKP009	xx
 PKP144	eh
 PKP009	prenditelo tu sai dove l'hai messo
 PKP009	# ti more cossa ti vol
-PKP009	al fio ghe domando e a ti no ti se in dieta
+PKP009	# al fio ghe domando e a ti no ti se in dieta
 PKP030	quello che c'è
 PKP144	# po' a se mette rider anca ze na cativa
 PKP009	# eora ghe ze a caciotta
@@ -188,7 +188,7 @@ PKP009	# dove ze
 PKP144	ah ah
 PKP030	tanto poi ho anche l'esame quindi non è che
 PKP009	# e mi a prossima settimana go el color
-PKP144	vara
+PKP144	# vara
 PKP030	ah ben così
 PKP144	# me sa che ti ga da metterteo via el coeor
 PKP009	ma no non chiudono nico
@@ -207,7 +207,7 @@ PKP009	esatto fine
 PKP030	un giro camminare fa freddo xxxxxx no non so
 PKP009	xxxxxx il coprifuoco fino alla notte di halloween niente travestimenti
 PKP144	# no ze a rischio
-PKP009	cossa
+PKP009	# cossa
 PKP030	che tra l'altro i travestimenti sei travestito non passa il virus cioè
 PKP009	# a proposito vàrdite el corvo
 PKP144	# ea ze sta mutuata sta festa stupida
@@ -313,7 +313,7 @@ PKP144	# i usa dei bossoli finti in modo che quando ghe i fa e riprese i vede co
 PKP030	mh
 PKP144	# e in questo caso probabilmente i ga usà una d~ pallottola de queste
 PKP144	# nel momento stesso che ghe ze sta' el sparo per così dire
-PKP144	la parte del cappuccio che sarìa el proiettile no il bossolo ze restada in canna
+PKP144	# la parte del cappuccio che sarìa el proiettile no il bossolo ze restada in canna
 PKP144	restando in canna non pulendo la pistola
 PKP144	# quando che i ga messo a cartuccia a salve
 PKP144	# che fa un'esplosione ancora più potente perché ti ga da véder davanti el ea pistola ti ga da ver veder la fiammata però non parte il proiettile
@@ -439,7 +439,7 @@ PKP009	# ma federico speta i risultati de tre fioi che ze stai a contatto coi po
 PKP030	dove insegna o del dei piccoli
 PKP009	non lo s~ no no dove che insegna xx
 PKP009	# i fioi picoi gera pieni de rafredor per queo no semo 'ndai
-PKP009	ma quando ze el compleanno dea silvia
+PKP009	# ma quando ze el compleanno dea silvia
 PKP030	ehm dopodomani
 PKP009	# ah si ricordime
 PKP030	lunedì perché la ila fa il venti
@@ -458,15 +458,15 @@ PKP030	la ale
 PKP144	ah per la ale
 PKP030	per l'alessia sì no pensavi per la stella no la silvia vado alla xxxxx a pendere i lego là
 PKP009	# pe el so complenno
-PKP009	SÌ ti va e ti va anca per marco no
+PKP009	# sì ti va e ti va anca per marco no
 PKP030	predo due confezioni che tanto poi giocano tutti assieme
 PKP009	mh
 PKP030	tanto comunque la maria chiara non fa storie dai o no
 PKP030	mettiamo un pupazzetto
 PKP144	# puareta
-PKP009	e cossa ghe portemo aea maria chiara
+PKP009	# e cossa ghe portemo aea maria chiara
 PKP030	e cosa le portiamo
-PKP009	la carta pacco di carte eh e carte qualche zogo de carte
+PKP009	# la carta pacco di carte eh e carte qualche zogo de carte
 PKP030	no se fosse stato il contrario gliel'a~ l'abbiamo gliel'hanno prese le carte mh
 PKP009	# ah e ga già tolte
 PKP030	# ancora carte vara che hanno un paccone così ma' tutto che xx siamo stati a mettere in ordine l'altro
@@ -539,7 +539,7 @@ PKP009	# ghe ze po' po' l'attore brand dai
 PKP009	perché
 PKP009	ten queso
 PKP144	e xxntra in questo collegio cioè deve andare in sto specie di collegio
-PKP144	me sembra che ea sia inglese
+PKP144	# me sembra che ea sia inglese
 PKP030	# occio
 PKP009	atención ten cuidado
 PKP144	e no bisogna parlar quando se magna
@@ -550,7 +550,7 @@ PKP143	ma cosa
 PKP144	sembra una località non so toscana qualcosa del genere
 PKP009	xxxxx benvenuti al sud
 PKP144	no firenze o
-PKP009	che che piove firense me par sì firenze gera
+PKP009	# che che piove firense me par sì firenze gera
 PKP144	# e insomma arriva che ghe ze 'na 'na 'na 'na tempesta un nubifragio
 PKP143	ma chi cosa
 PKP144	e appena che arriva là arriva là con xxxxx

@@ -986,7 +986,7 @@ PKP149	eh no
 PKP147	((sospira))
 PKP147	no vabbè
 PKP147	prima zanzara dell'anno
-PKP147	((ride)) #il venti de gennaio citti
+PKP147	# ((ride)) il venti de gennaio citti
 PKP149	eh
 PKP147	((ride))
 PKP148	ma ieri quando s'è preso la macchina,

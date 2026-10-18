@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:30+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-18T15:28:38+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="STIA005.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="STIA005.mp3" />
     </HEADER>
@@ -2812,7 +2812,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a197">
-                <ANNOTATION_VALUE>il francese per forza è la seconda lingua, è come~ per me è come l'arabo, e:: l'inglese, più o meno: ehm uguale al all'italiano perché e:hm non l'abbiamo studiato $ approfodo~ $approfondamente</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>il francese per forza è la seconda lingua, è come~ per me è come l'arabo, e:: l'inglese, più o meno: ehm uguale al all'italiano perché e:hm non l'abbiamo studiato $approfodo~ $approfondamente</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

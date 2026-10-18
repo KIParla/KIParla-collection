@@ -49,7 +49,7 @@ PKP030	<io> non lo farei m~ >cioè< (.) in un periodo magari di crisi che non so
 PKP009	((ride))
 PKP009	((°ride°))
 PKP030	(niente) ma tu cosa pensi di questa persona cosa pensa di me e vediamo le carte ((ride))
-PKP144	((ride)) #ea maloxx
+PKP144	# ((ride)) ea maloxx
 PKP030	NO MA in realtà >perché l'ho anche sentito< per telefono
 PKP009	e:h,
 PKP030	(non) >è anche pr~< professionale nel senso che tu >devi fare< le domande giuste (.) cioè: che cosa vuoi sapere
@@ -149,7 +149,7 @@ PKP009	[°mh es]atto° ((ride))
 PKP144	((RIDE))
 PKP009	esa:tto
 PKP030	[°e]h°
-PKP144	((RIDE)) [#EL CAFFÈ BOR~ caffè borbone]
+PKP144	# ((RIDE)) [EL CAFFÈ BOR~ caffè borbone]
 PKP009	# [°cossa te ga dito?°]
 PKP030	[e ha detto questo ragazzo sta ma]le >poi è andata avanti con le carte< vedo cose ne[gative mhmh] questo ragazzo [an]drà via non vado avanti perché non mi piace più
 PKP144	((ride))
@@ -185,7 +185,7 @@ PKP009	xx
 PKP144	eh?
 PKP009	prenditelo tu (.) sai dove l'hai messo
 PKP009	# ti more cossa ti vol?
-PKP009	((ride)) #al fio ghe domando E A TI NO: ti se in dieta ((ride))
+PKP009	# ((ride)) al fio ghe domando E A TI NO: ti se in dieta ((ride))
 PKP030	>quello< che c'è
 PKP144	# po' a se mette rider anca ((ride)) ze na cativa
 PKP009	((°ride°))
@@ -204,7 +204,7 @@ PKP009	# [dove ze]?
 PKP144	°ah° (.) °a::h°
 PKP030	tanto poi ho anche l'esame quindi >non è che<
 PKP009	# e mi a pro[ssima setti]mana go: el color (.) ((ride))
-PKP144	[#°vara°]
+PKP144	# [°vara°]
 PKP030	ah ben °così°
 PKP144	# >me sa che< ti ga da metterteo via °el coeor°
 PKP009	ma no: non chiudono nico
@@ -229,7 +229,7 @@ PKP009	[xxxxxx il coprifuoco] fi:no alla notte di halloween (.) niente travestim
 PKP144	((ride))
 PKP144	((°ride°))
 PKP144	# no, ze a rischio
-PKP009	((ride)) [#cossa]?
+PKP009	# ((ride)) [cossa]?
 PKP030	[che tra l'altro] i travestimenti sei travestito non passa: il virus °cioè° ((ride))
 PKP009	# >a proposito< vàrdite el cor[vo]
 PKP144	# [ea z]e sta mutuata sta festa stupida
@@ -336,7 +336,7 @@ PKP144	# i usa dei bossoli finti in modo che quando ghe i fa e riprese i vede co
 PKP030	[mh]
 PKP144	# e in questo caso probabilmente i ga usà (.) una d~ pallottola de queste,
 PKP144	# nel momento stesso che ghe ze sta' (.) el sparo per così dire
-PKP144	((sospira)) #la parte del cappuccio (.) che sarìa el proiettile (.) no il bossolo (.) ze restada in canna
+PKP144	# ((sospira)) la parte del cappuccio (.) che sarìa el proiettile (.) no il bossolo (.) ze restada in canna
 PKP144	restando in canna non pulendo (.) la pistola
 PKP144	# quando che i ga messo a cartuccia (.) a salve
 PKP144	# che fa un'esplosione ancora più potente perché ti ga da véder davanti e:l ea pistola >ti ga da ver< veder la fiammata. (.) però non parte il proi[ettile]
@@ -474,7 +474,7 @@ PKP009	# ma federico speta i risultati de <tre> (.) fioi: (.) che ze stai a cont
 PKP030	dove insegna? o de:l d[ei piccoli]?
 PKP009	[non lo s~] no no dove che insegna xx
 PKP009	# i fioi picoi >gera pieni de rafredor< per queo no semo 'ndai
-PKP009	((tossisce)) #ma quando ze el compleanno? °dea silvia°
+PKP009	# ((tossisce)) ma quando ze el compleanno? °dea silvia°
 PKP030	e::hm (.) dopodomani
 PKP009	# ah si? °ricordime°
 PKP030	>lunedì< perché: la ila fa il venti.
@@ -493,16 +493,16 @@ PKP030	la ale
 PKP144	ah per la ale?
 PKP030	°per l'alessia sì [NO: PENSAVI PER LA] STELLA? ((RIDE)) no la silvia vado alla xxxxx a pendere: (.) [i lego là]
 PKP009	# [°pe el so complenno°]
-PKP009	[#SÌ TI VA e:: ti va anca] per marco no?
+PKP009	# [SÌ TI VA e:: ti va anca] per marco no?
 PKP030	predo due: confezioni (.) che tanto poi giocano tutti assieme
 PKP009	°mh°
 PKP030	>tanto comunque< la maria chiara non fa storie da:i (.) o no?
 PKP009	((sospira))
 PKP030	mettiamo un pupazzetto?
 PKP144	# °puareta°
-PKP009	((ride)) #e cossa [ghe portemo aea maria chiara]?
+PKP009	# ((ride)) e cossa [ghe portemo aea maria chiara]?
 PKP030	[e cosa le portiamo]?
-PKP009	((sospira)) #la ca:rta [<pacco di carte> ((ride)) E:H E CARTE qualche zogo de carte]
+PKP009	# ((sospira)) la ca:rta [<pacco di carte> ((ride)) E:H E CARTE qualche zogo de carte]
 PKP030	((°ride°)) [>no se fosse stato< il contrario gliel'a~ (.) l'abbiamo gliel'hanno pre]se le carte (.) [°mh°]
 PKP009	# [°a:h e ga già tol]te?°
 PKP030	# ancora carte vara che hanno un paccone così [ma' tutto che xx] siamo stati a: mettere in ordine l'altr[o]
@@ -578,7 +578,7 @@ PKP009	perch[é::]
 PKP144	((tossisce))
 PKP009	ten queso
 PKP144	e xxntra in questo collegio (.) >cioè deve andare< in sto specie di collegio
-PKP144	((tossisce)) #me sembra che ea sia inglese ((tossisce))
+PKP144	# ((tossisce)) me sembra che ea sia inglese ((tossisce))
 PKP030	# <OCCIO>
 PKP009	atenció:n ten cuidado
 PKP144	e no bisogna parlar quando se magna
@@ -590,7 +590,7 @@ PKP143	ma [cosa]?
 PKP144	sembra (.) una località non so toscana °qualcosa del genere°
 PKP009	xxxxx ((ride)) benvenuti [al sud]
 PKP144	[no: fire]nze o::
-PKP009	((ride)) #che che piove FIRENSE me par sì firenze gera
+PKP009	# ((ride)) che che piove FIRENSE me par sì firenze gera
 PKP144	# e::: insomma arriva che ghe ze: >'na 'na °'na°< 'na tempesta un nubifragio
 PKP143	MA CHI? [COSA]?
 PKP144	e:: [appena che arriva là arriva] là con xxxxx

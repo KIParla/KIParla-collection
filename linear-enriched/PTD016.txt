@@ -1295,7 +1295,7 @@ TOR004	però danno lavoro e:h gli animali
 ??	((fa_versi))
 TOI076	e::h però è quello che mi piacerebbe fare cioè proprio:: (.) alla mosca x
 TOR004	co~ cos'è che fai? non ho ca[pito]
-TOI076	[#ciapu] la mosca
+TOI076	# [ciapu] la mosca
 TOR004	((ride))
 TOI077	ah vabbè ovviamente dovresti partire da:: noi ne parliamo spesso però
 TOR004	ma vi pia[cerebbe]?
@@ -1636,10 +1636,10 @@ TOI076	perché
 TOI076	ho sempre fatto [campeggio io]
 TOI077	[questa ha detto dove mi ha po]rtato minchia i:~
 TOI076	ho chiamato [mia mamma xx xx] mah sì:
-TOI077	[#in mes ai singher]
+TOI077	# [in mes ai singher]
 TOR004	((ride))
 TOI076	[un attimo]
-TOR004	[(#sta sintu)] ((ride))
+TOR004	# [(sta sintu)] ((ride))
 TOI077	((ride))
 TOI076	avevamo il campe:r un hymere
 TOI076	e:h vecchi[ssim]o dei suoi

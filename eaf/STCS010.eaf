@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:30+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-18T15:28:35+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="STCS010.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="STCS010.mp3" />
     </HEADER>
@@ -23304,7 +23304,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1914" ANNOTATION_REF="a1913">
-                <ANNOTATION_VALUE>e # [e #*no pensava ((ride)]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e [e #*no pensava ((ride)]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23604,7 +23604,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2100" ANNOTATION_REF="a2098">
-                <ANNOTATION_VALUE>#entonces # è un po' difficile:: #ese #logro per me</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#entonces è un po' difficile:: #ese #logro per me</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

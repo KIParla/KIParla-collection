@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:29+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-17T17:32:05+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="KPN022.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="KPN022.mp3" />
     </HEADER>
@@ -5671,7 +5671,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2002" ANNOTATION_REF="a2001">
-                <ANNOTATION_VALUE>[#se a ga i s]oldi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [se a ga i s]oldi</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7505,7 +7505,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a692" ANNOTATION_REF="a691">
-                <ANNOTATION_VALUE>[(eh vabbè) (.) eh] #te ghe passi davanti xx]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [(eh vabbè) (.) eh] te ghe passi davanti xx]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7785,7 +7785,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1236" ANNOTATION_REF="a1235">
-                <ANNOTATION_VALUE>eh beh #parlè [ehi là cosa] prendi te: x #tanto i tavoi no xe che i sia da un chilometro de dist[anza eh]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># eh beh parlè [ehi là cosa] prendi te: x tanto i tavoi no xe che i sia da un chilometro de dist[anza eh]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7815,7 +7815,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1278" ANNOTATION_REF="a1277">
-                <ANNOTATION_VALUE>dovete dirlo sapete perché bisogna prenotare #mi go da disdir [da chealtra parte]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># dovete dirlo sapete perché bisogna prenotare mi go da disdir [da chealtra parte]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7990,7 +7990,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1476" ANNOTATION_REF="a1475">
-                <ANNOTATION_VALUE>e allora #el to colega cosa xx</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># e allora el to colega cosa xx</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8060,12 +8060,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1896" ANNOTATION_REF="a1895">
-                <ANNOTATION_VALUE>perché praticame~ #tasi che no semo s~ mai sta a contatto co a sti giorni qua</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># perché praticame~ tasi che no semo s~ mai sta a contatto co a sti giorni qua</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1902" ANNOTATION_REF="a1901">
-                <ANNOTATION_VALUE>[#perché] a xe anda su: sabato venerdì a xe anda su al colloquio in macchina co un tosato e: el xe risultà positivo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [perché] a xe anda su: sabato venerdì a xe anda su al colloquio in macchina co un tosato e: el xe risultà positivo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8090,7 +8090,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1924" ANNOTATION_REF="a1923">
-                <ANNOTATION_VALUE>[#a ga] da far el tampon,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [a ga] da far el tampon,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8105,7 +8105,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1944" ANNOTATION_REF="a1943">
-                <ANNOTATION_VALUE>venerdì [e il tampone #ndarà]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># venerdì [e il tampone ndarà]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8160,12 +8160,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1992" ANNOTATION_REF="a1991">
-                <ANNOTATION_VALUE>però adesso #no so quanto che i sta casa</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># però adesso no so quanto che i sta casa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1994" ANNOTATION_REF="a1993">
-                <ANNOTATION_VALUE>[#e n'a]ltra invesse a xe anda a casa al pomeriggio ((ride))</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [e n'a]ltra invesse a xe anda a casa al pomeriggio ((ride))</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8180,12 +8180,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2004" ANNOTATION_REF="a2003">
-                <ANNOTATION_VALUE>((ride)) #che a iera: che a iera positiva iera a gavea a febre alta</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ((ride)) che a iera: che a iera positiva iera a gavea a febre alta</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2008" ANNOTATION_REF="a2007">
-                <ANNOTATION_VALUE>[eh ha fatto il ta]mpone #a gaveva [tutti i sintomi fa]tto il tampone positiva</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [eh ha fatto il ta]mpone a gaveva [tutti i sintomi fa]tto il tampone positiva</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8195,17 +8195,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2018" ANNOTATION_REF="a2017">
-                <ANNOTATION_VALUE>speriamo di no: ma eh c(io)è a parte: positivo #xe che: che: (.) i sintomi c(io)è xe come u:na forte influenza par i [giovani par noaltri]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># speriamo di no: ma eh c(io)è a parte: positivo xe che: che: (.) i sintomi c(io)è xe come u:na forte influenza par i [giovani par noaltri]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2022" ANNOTATION_REF="a2021">
-                <ANNOTATION_VALUE>[#xe]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [xe]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2024" ANNOTATION_REF="a2023">
-                <ANNOTATION_VALUE>[#il disa]gio xe ch[e devi] star</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [il disa]gio xe ch[e devi] star</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8220,7 +8220,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2050" ANNOTATION_REF="a2049">
-                <ANNOTATION_VALUE>[#ghe sarà] carmelo che:</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [ghe sarà] carmelo che:</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12603,7 +12603,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a291">
-                <ANNOTATION_VALUE>[#sì dime ma]rco</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [sì dime ma]rco</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12718,7 +12718,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a714" ANNOTATION_REF="a713">
-                <ANNOTATION_VALUE>no: #girar a destra [te va verso:]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># no: girar a destra [te va verso:]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12733,12 +12733,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a734" ANNOTATION_REF="a733">
-                <ANNOTATION_VALUE>[a destra #ghe ne e poste]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [a destra ghe ne e poste]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a738" ANNOTATION_REF="a737">
-                <ANNOTATION_VALUE>[e su]bito là #ghe ne a stradina che te gira dentro</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [e su]bito là ghe ne a stradina che te gira dentro</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12853,7 +12853,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1286" ANNOTATION_REF="a1285">
-                <ANNOTATION_VALUE>perché dove #avei prenotà</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># perché dove avei prenotà</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12873,7 +12873,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1320" ANNOTATION_REF="a1319">
-                <ANNOTATION_VALUE>[#e cossa ga]i da andar far fora</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [e cossa ga]i da andar far fora</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12908,7 +12908,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1500" ANNOTATION_REF="a1499">
-                <ANNOTATION_VALUE>[#madona] te sente fin in fondo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [madona] te sente fin in fondo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12973,7 +12973,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1764" ANNOTATION_REF="a1763">
-                <ANNOTATION_VALUE>[#cossa gaea] comprà</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [cossa gaea] comprà</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12983,7 +12983,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1912" ANNOTATION_REF="a1911">
-                <ANNOTATION_VALUE>[#e no gavea e mas]cherine</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [e no gavea e mas]cherine</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12993,7 +12993,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1930" ANNOTATION_REF="a1929">
-                <ANNOTATION_VALUE>[#eh ma] [bisogna che a s]pete ades a far el tampon</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [eh ma] [bisogna che a s]pete ades a far el tampon</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13018,7 +13018,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1964" ANNOTATION_REF="a1963">
-                <ANNOTATION_VALUE>ah non so #di: ghe dirà lori dopo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># ah non so di: ghe dirà lori dopo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13028,7 +13028,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1976" ANNOTATION_REF="a1975">
-                <ANNOTATION_VALUE>[#e beh s]e lo~ se le positiva sì eh</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [e beh s]e lo~ se le positiva sì eh</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13043,7 +13043,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2006" ANNOTATION_REF="a2005">
-                <ANNOTATION_VALUE>beh ma #a gavea a febre alta ma no: che [l'era positiva]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># beh ma a gavea a febre alta ma no: che [l'era positiva]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13053,12 +13053,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2020" ANNOTATION_REF="a2019">
-                <ANNOTATION_VALUE>[sì sì beh che discorsi] #le che te:: [te t]oca star casa perché se no [te va co~]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [sì sì beh che discorsi] le che te:: [te t]oca star casa perché se no [te va co~]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2028" ANNOTATION_REF="a2027">
-                <ANNOTATION_VALUE>[#contagiar] anca chealtri</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE># [contagiar] anca chealtri</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

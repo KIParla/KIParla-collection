@@ -763,7 +763,7 @@ PKP079	[ah]
 PKP070	rincoglioniti per strada
 PKP071	[se vai tu a caso là a farl]i
 PKP079	[c(io)è io mi ricordo:]
-PKP079	t~ t[u ti ricordi in au]toscuola (.) nostra come ce li avevano fatti c(io)è (.) #do minuti neanche
+PKP079	# t~ t[u ti ricordi in au]toscuola (.) nostra come ce li avevano fatti c(io)è (.) do minuti neanche
 PKP071	[stai la:]
 PKP079	che colore vedi rosso giallo verd[e], a [b],
 PKP078	[beh io]
@@ -1091,7 +1091,7 @@ PKP078	[perché la se]ra (.) a casa mia non si mangia mai pas[ta nel wee]kend: b
 PKP070	[mh]
 PKP079	[beh]
 PKP078	i[o (.) sto sognando un pia]tto di pasta in rosso (.) n[ormalis]simo
-PKP079	[#un bel piato de pasta]
+PKP079	# [un bel piato de pasta]
 PKP070	((ride))
 PKP079	[m:h]
 PKP079	fattelo la sera tu

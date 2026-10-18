@@ -708,7 +708,7 @@ PKP079	ah
 PKP070	rincoglioniti per strada
 PKP071	se vai tu a caso là a farli
 PKP079	cioè io mi ricordo
-PKP079	t~ tu ti ricordi in autoscuola nostra come ce li avevano fatti cioè do minuti neanche
+PKP079	# t~ tu ti ricordi in autoscuola nostra come ce li avevano fatti cioè do minuti neanche
 PKP071	stai la
 PKP079	che colore vedi rosso giallo verde a b
 PKP078	beh io
@@ -1017,7 +1017,7 @@ PKP078	perché la sera a casa mia non si mangia mai pasta nel weekend bene o mal
 PKP070	mh
 PKP079	beh
 PKP078	io sto sognando un piatto di pasta in rosso normalissimo
-PKP079	un bel piato de pasta
+PKP079	# un bel piato de pasta
 PKP079	mh
 PKP079	fattelo la sera tu
 PKP078	no ma la sera non mi va la pasta no
