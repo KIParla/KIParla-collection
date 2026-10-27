@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:26+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-27T15:23:51+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="BOA1001.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="BOA1001.mp3" />
     </HEADER>
@@ -3989,7 +3989,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a31">
-                <ANNOTATION_VALUE>e:h ho visto: eh loro dovrebbero averlo risolto perché dieci giorni fa l'ha segnalto una studentessa.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e:h ho visto: eh loro dovrebbero averlo risolto perché dieci giorni fa l'ha segnalato una studentessa.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4194,7 +4194,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a223">
-                <ANNOTATION_VALUE>cioè la lingua straniera per gli apprendenti di italiano elle due no, l[a lingua] straniera la lingua:: studiata a scuola per gli apprendenti di italiano elle due?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>cioè la lingua straniera per gli apprendenti di italiano elledue no, l[a lingua] straniera la lingua:: studiata a scuola per gli apprendenti di italiano elledue?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4359,7 +4359,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a422" ANNOTATION_REF="a421">
-                <ANNOTATION_VALUE>se c'è (.) una: rapporto tra e:h l'insegnanti di: l'insegnante di italiano elle due e di laboratorio (.) e l'insegnante di lingua:: straniera per esempio di inglese o di tedesco o di:,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>se c'è (.) una: rapporto tra e:h l'insegnanti di: l'insegnante di italiano elledue e di laboratorio (.) e l'insegnante di lingua:: straniera per esempio di inglese o di tedesco o di:,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4539,7 +4539,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a566" ANNOTATION_REF="a565">
-                <ANNOTATION_VALUE>allora questa è &gt;in geneale quale delle quattro abilità è più sviluppata&lt;?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>allora questa è &gt;in generale quale delle quattro abilità è più sviluppata&lt;?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4549,7 +4549,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a572" ANNOTATION_REF="a571">
-                <ANNOTATION_VALUE>ai neo arrivati:,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ai neoarrivati:,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4774,12 +4774,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a714" ANNOTATION_REF="a713">
-                <ANNOTATION_VALUE>l'italiano elle due,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>l'italiano elledue,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a716" ANNOTATION_REF="a715">
-                <ANNOTATION_VALUE>e la lingua straniera che viene appresa a scuola °no cioè° gli apprendenti di italiano elle due,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e la lingua straniera che viene appresa a scuola °no cioè° gli apprendenti di italiano elledue,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4939,7 +4939,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a812" ANNOTATION_REF="a811">
-                <ANNOTATION_VALUE>tra gli insegnanti di laboratorio e di italiano elle due,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tra gli insegnanti di laboratorio e di italiano elledue,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4959,7 +4959,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a820" ANNOTATION_REF="a819">
-                <ANNOTATION_VALUE>nella:=m::h nella &lt;programmazione nei materiali nella&gt; a volte l'insegnante di italiano elle due è anche l~ è anche l'insegnante di l~ di elle esse.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nella:=m::h nella &lt;programmazione nei materiali nella&gt; a volte l'insegnante di italiano elledue è anche l~ è anche l'insegnante di l~ di ellesse.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5044,12 +5044,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a924" ANNOTATION_REF="a923">
-                <ANNOTATION_VALUE>agli insegnanti di elle esse di lingua straniera,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>agli insegnanti di ellesse di lingua straniera,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a926" ANNOTATION_REF="a925">
-                <ANNOTATION_VALUE>e agli insegnanti di italiano elle due.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e agli insegnanti di italiano elledue.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5109,7 +5109,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a958" ANNOTATION_REF="a957">
-                <ANNOTATION_VALUE>le competenze (de~ mh mh) nell'italiano elle due e nella lingua straniera.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>le competenze (de~ mh mh) nell'italiano elledue e nella lingua straniera.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5124,7 +5124,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a964" ANNOTATION_REF="a963">
-                <ANNOTATION_VALUE>e deve imparare (.) deve iniziare a imparare l'italiano e poi nell'ora di inglese deve fare anche ingese o francese o spagnolo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e deve imparare (.) deve iniziare a imparare l'italiano e poi nell'ora di inglese deve fare anche inglese o francese o spagnolo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5169,12 +5169,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a986" ANNOTATION_REF="a985">
-                <ANNOTATION_VALUE>no le anche le valutazioni::: in cors~ innn,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>no le anche le valutazioni::: in cors~ in::,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a988" ANNOTATION_REF="a987">
-                <ANNOTATION_VALUE>e:::h=l a metà dopo un certo periodo naturalmente d~ di inserimento dell'alunno.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e:::h=l::a metà dopo un certo periodo naturalmente d~ di inserimento dell'alunno.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5204,7 +5204,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1004" ANNOTATION_REF="a1003">
-                <ANNOTATION_VALUE>quale o quali lingue straniere si insegnano nella sua scuola.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>quale o quali lingue straniere sì insegnano nella sua scuola.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5214,7 +5214,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1010" ANNOTATION_REF="a1009">
-                <ANNOTATION_VALUE>[c'è un] laboratorio di italiano elle due cioè di~ le dividerei in due blocchi pensando di indirizzarlo,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[c'è un] laboratorio di italiano elledue cioè di~ le dividerei in due blocchi pensando di indirizzarlo,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5229,7 +5229,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1016" ANNOTATION_REF="a1015">
-                <ANNOTATION_VALUE>e:h di italiano elle due.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e:h di italiano elledue.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5389,7 +5389,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1114" ANNOTATION_REF="a1113">
-                <ANNOTATION_VALUE>[ecco lì ci sar~] ci sono diversi materali nnel corso degli anni insomma,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[ecco lì ci sar~] ci sono diversi materali nel corso degli anni insomma,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5424,7 +5424,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1130" ANNOTATION_REF="a1129">
-                <ANNOTATION_VALUE>mettere in relazione le due lingue che vengono apprese (.) simultaneamenete nello stesso,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mettere in relazione le due lingue che vengono apprese (.) simultaneamente nello stesso,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5479,7 +5479,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1162" ANNOTATION_REF="a1161">
-                <ANNOTATION_VALUE>[sì non]più come dice lei non più di venti.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[sì non] più come dice lei non più di venti.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5514,7 +5514,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1180" ANNOTATION_REF="a1179">
-                <ANNOTATION_VALUE>sui (.) profili linguistici, sui (.) temi che vengono indagati per l'italiano elle due,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sui (.) profili linguistici, sui (.) temi che vengono indagati per l'italiano elledue,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5804,7 +5804,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1352" ANNOTATION_REF="a1351">
-                <ANNOTATION_VALUE>l[a:: adesso] io e::h=le darò alcune indicazioni anch'io che però non riguardano l'italiano elle due riguarano altre lingue.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>l[a:: adesso] io e::h=le darò alcune indicazioni anch'io che però non riguardano l'italiano elledue riguardano altre lingue.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5904,12 +5904,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1406" ANNOTATION_REF="a1405">
-                <ANNOTATION_VALUE>su elle esse,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>su ellesse,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1408" ANNOTATION_REF="a1407">
-                <ANNOTATION_VALUE>e elle due.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e elledue.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6024,7 +6024,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1484" ANNOTATION_REF="a1483">
-                <ANNOTATION_VALUE>soprattutto italiano elle due elle,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>soprattutto italiano elledue elle,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8373,7 +8373,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a135">
-                <ANNOTATION_VALUE>e:h c'è una percentuale ciè c'è un (sacco) abbastanza=mh [più],</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e:h c'è una percentuale c' è c'è un (sacco) abbastanza=mh [più],</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8438,7 +8438,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a181">
-                <ANNOTATION_VALUE>sì o co[munque su]ll'integrazione tra eh elle due ed elle esse.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sì o co[munque su]ll'integrazione tra eh elledue ed ellesse</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8448,7 +8448,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a191">
-                <ANNOTATION_VALUE>e:h per studenti che imparano: l'italiano elle due imparano la lingua straniera.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e:h per studenti che imparano: l'italiano elledue imparano la lingua straniera.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8488,7 +8488,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a227">
-                <ANNOTATION_VALUE>sì e l'interazione quindi tra elle due ed elle [esse e:h]=mh sì più o meno era questo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sì e l'interazione quindi tra elledue ed elle[esse e:h]=mh sì più o meno era questo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8908,7 +8908,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a486" ANNOTATION_REF="a485">
-                <ANNOTATION_VALUE>cioè io devo dare massimo tre possiiblità quattro possibilità,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>cioè io devo dare massimo tre possibilità quattro possibilità,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9028,7 +9028,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a618" ANNOTATION_REF="a617">
-                <ANNOTATION_VALUE>siccome lo farebbe o l'insegnante di italiano &gt;risponderebb[e l'insegna]te di italiano o l'insegnante di lingua ma io credo l'insegnante di italiano&lt;.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>siccome lo farebbe o l'insegnante di italiano &gt;risponderebb[e l'insegnan]te di italiano o l'insegnante di lingua ma io credo l'insegnante di italiano&lt;.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9053,7 +9053,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a632" ANNOTATION_REF="a631">
-                <ANNOTATION_VALUE>deii:,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>dei:,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9178,7 +9178,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a788" ANNOTATION_REF="a787">
-                <ANNOTATION_VALUE>&lt;la elle due l'italiano elle due&gt;,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&lt;la elledue italiano elledue&gt;,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9563,7 +9563,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1214" ANNOTATION_REF="a1213">
-                <ANNOTATION_VALUE>ho cercato:: la favaro(g) e:h[e:] mi è venuto fuori xx [sesamo però non ci ho xx],</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ho cercato:: la favaro (g~) e:h [e:] mi è venuto fuori xx [sesamo però non ci ho xx],</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9613,7 +9613,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1276" ANNOTATION_REF="a1275">
-                <ANNOTATION_VALUE>nella lingua straniera nella lingua elle due.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nella lingua straniera nella lingua elledue.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9738,7 +9738,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1428" ANNOTATION_REF="a1427">
-                <ANNOTATION_VALUE>beh sicuramente anche] inglese,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>beh sì sicuramente hanno anche] l' inglese,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9863,7 +9863,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1548" ANNOTATION_REF="a1547">
-                <ANNOTATION_VALUE>eh=elle esse ed elle due.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>eh=ellesse ed elledue.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
