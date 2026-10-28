@@ -21,6 +21,23 @@ At the moment, available modules are:
 Should you find inconsistencies in the data, please refer to the [original module](./modules.md) to correct them.
 This is not a working environment, it is purely meant as a joint repository for consultation.
 
+### Size of the collection
+
+Hours are the total duration of the recorded conversations (from `duration` in the conversation metadata); linguistic tokens are the rows of type `linguistic` in the verticalized files (pauses, nonverbal behaviors, unintelligible spans and errors are not counted). Figures refer to the module releases the current collection is built from.
+
+| Module       | Conversations | Hours | Linguistic tokens |
+| ------------ | ------------: | ----: | ----------------: |
+| KIP          |           121 |  69.4 |           582,985 |
+| ParlaBO      |            85 |  65.7 |           617,878 |
+| ParlaTO      |            67 |  49.5 |           485,904 |
+| KIPasti      |            63 |  42.8 |           411,548 |
+| ParlaBZ      |            10 |   5.3 |            51,217 |
+| Stra-ParlaBO |            84 |  67.9 |           599,297 |
+| Stra-ParlaTO |            82 |  48.5 |           437,975 |
+| **KIParla collection** |   **496** | **341.3** |     **3,108,589** |
+
+The collection total is lower than the sum of the modules (512 conversations, 349.1 hours, 3,186,804 tokens) because 16 conversations (TOD2001-TOD2016) belong to both KIP and ParlaTO and are counted only once.
+
 ## The aggregated corpus in NoSketch Engine
 
 The `KIParla` corpus on NoSketch Engine is generated from this collection. Since the modules do not all provide the same information, **it only offers what every module offers**: the conversation code, type, duration (and duration range), participants, year, the presence of unidentified speakers, the annotation flag, and, for each transcription unit, the speaker's occupation, gender and age range, plus audio, time and error-report links. Word-level `lemma`/`upos` are also present.
