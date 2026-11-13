@@ -142,8 +142,8 @@ TO057	tatatatan
 TO058	sì sì no lo sapevo
 TO071	e che mi son laureato a l'aquila sì
 TO058	sì me l'avevi detto
-TO057	xx
 TO071	e che stavi a fa a l'aquila
+TO057	xx
 TO058	no solo stavo lì per volontariato
 TO071	per che cosa
 TO058	con la protezione civile
@@ -465,8 +465,8 @@ TO058	con il tram
 TO071	quale
 TO058	il sedici
 TO071	il sedici chiaro
-TO057	mhmh
 TO058	cioè è proprio davanti casa ed è qui davanti
+TO057	mhmh
 TO058	quindi è proprio ci vuole
 TO071	eh inf~ infatti lo prendo pure io quello pass~ x pa~ parte
 TO058	un quarto d'ora
@@ -481,8 +481,8 @@ TO071	ah okay quindi lo prendi qui ah sì io scendevo a quella livorno quella do
 TO058	io qui industria prendo la fermata industria
 TO058	okay quella dopo
 ??	se
-TO057	quattro anni fa pure io perché vivevo in
 TO071	pure tu scen~ eh lo vedi
+TO057	quattro anni fa pure io perché vivevo in
 TO057	cambiate tantissime case
 TO071	eh
 TO058	eh
@@ -502,8 +502,8 @@ TO057	allora fammi fare il conto
 TO071	eh
 TO057	allora inizialmente il primo anno in realtà non ero in una casa ma in un istituto femminile
 TO071	okay
-TO057	okay
 TO058	mhmh
+TO057	okay
 TO057	qui in centro in via l'istituto vittorio veneto
 TO057	non mi son trovata bene
 TO071	aha
@@ -1085,7 +1085,7 @@ TO057	di quelle donne che stanno fuori dal balcone a chiacchierare di continuo e
 TO071	e si urlano
 TO057	in realtà son vere perché le ho vissute e poi
 TO071	in brianza
-TO057	no no no no no giù ride
+TO057	no no no no no giù
 TO071	ah giù questo già okay
 TO058	no giù
 TO057	eh poi dieci dieci famiglie almeno quindi immagina almeno dieci donne che parlavano
@@ -1337,8 +1337,8 @@ TO057	ho parlato poco
 TO057	eh ma per me la casa è un argomento molto
 TO057	scottante
 TO071	vabbè parliamo allora per due minuti di quello che faremo fra poco okay
-TO057	esattamente
 TO071	lo lasciamo agli annali lo lasciamo fra poco andremo a vedere una tesina di
+TO057	esattamente
 TO071	eh filologia semitica di cui ci parlerà licia
 TO057	filologia semitica
 TO057	ma come io perché
@@ -1421,8 +1421,8 @@ TO057	perché le cose le sapevo
 TO057	però alcune mi erano sfuggite a causa del modo in cui lui fa lezione non capisci cosa vuole da te
 TO071	mh
 TO071	sì esatto
-TO057	diciamo
 TO071	sì è vero
+TO057	diciamo
 TO058	eh io è questo che non
 TO057	ma io ora l'ho capito cosa vuole da noi
 TO057	tu quello che ti devi da quel che ho capito innanzitutto
@@ -1500,8 +1500,8 @@ TO071	mhmh
 TO058	che poi il guerriero persiano è x
 TO057	non lo chiede
 TO071	va va portato o no
-TO057	no
 TO071	e che ne so
+TO057	no
 TO071	n~ aspetta
 TO071	eh quando stava spiegando cioè ha cominciato 'sta lezione a un certo punto parlava delle città
 ??	eh
@@ -1603,8 +1603,8 @@ TO057	grammatica
 TO057	no in quel corso là non c'era niente di xxale
 TO058	quindi comunque tutto dovevi portare all'esame cioè era
 TO057	esatto
-TO057	esatto
 TO058	okay
+TO057	esatto
 TO057	quando lui si vede che magari mentre stava camminando mentre andava in bagno perché a volte è così
 TO071	ha detto la cosa
 TO057	ha detto una cosa e io in quel momento magari mi son chinata a prender~ 'na roba
