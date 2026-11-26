@@ -566,7 +566,7 @@ TOR015	2-Professionals	M	PTB024	piemonte	31-35	phd
 BZ001	2-Professionals	M	BZA5001;BZA5002;BZA5003;BZA5004;BZA5005;BZA5006;BZA5008	trentino-alto-adige	21-25	university-degree
 BZ002	2-Professionals	F	BZA5001	trentino-alto-adige	21-25	university-degree
 BZ003	0-Students	F	BZA5002	trentino-alto-adige	21-25	university-degree
-BZ004	0-Retired	F	BZA5003	veneto	over85	elementary-school
+BZ004	0-Retired	F	BZA5003	veneto	over85	primary-school
 BZ005	0-Students	F	BZA5004	trentino-alto-adige	21-25	university-degree-ongoing
 BZ006	0-Students	M	BZA5005	trentino-alto-adige	26-30	university-degree
 BZ007	0-Students	F	BZA5006	trentino-alto-adige	26-30	phd
