@@ -218,7 +218,7 @@ PKP031	0-Students	M	KPN002	veneto	21-25	university-degree-ongoing
 PKP032	4-Clerical-Workers	M	KPN020	estero	56-60	technical-vocational-diploma
 PKP033	2-Professionals	F	KPN031;KPS004	emilia-romagna	26-30	university-degree
 PKP034	0-Retired	F	KPS004	puglia	81-85	technical-vocational-diploma
-PKP035	0-Retired	M	KPS004	puglia	over 85	technical-vocational-diploma
+PKP035	0-Retired	M	KPS004	puglia	over85	technical-vocational-diploma
 PKP036	2-Professionals	F	KPN031	lazio	26-30	university-degree
 PKP037	2-Professionals	M	KPN031	lazio	26-30	university-degree
 PKP038	2-Professionals	F	KPN002	veneto	21-25	university-degree
@@ -349,7 +349,7 @@ BOI015	3-Technicians	F	PBB005	emilia-romagna	56-60	technical-vocational-diploma
 BOI016	3-Technicians	M	PBB005	emilia-romagna	56-60	technical-vocational-diploma
 BOI017	6-Craft-Workers	F	PBC006	emilia-romagna	66-70	liceo-diploma
 BOI018	3-Technicians	M	PBC006	emilia-romagna	71-75	university-degree
-BOI019	0-Retired	F	PBC007	emilia-romagna	over 85	liceo-diploma
+BOI019	0-Retired	F	PBC007	emilia-romagna	over85	liceo-diploma
 BOI020	2-Professionals	M	PBB006	emilia-romagna	51-55	university-degree
 BOI021	0-Retired	F	PBC008	emilia-romagna	71-75	liceo-diploma
 BOI022	0-Retired	M	PBC009	emilia-romagna	71-75	university-degree
@@ -364,7 +364,7 @@ BOI030	5-Service-Workers	F	PBB010	estero	31-35	middle-school
 BOI031	5-Service-Workers	F	PBB011	basilicata	31-35	technical-vocational-diploma
 BOI032	0-Retired	F	PBC011	emilia-romagna	76-80	technical-vocational-diploma
 BOI033	0-Retired	F	PBC012	emilia-romagna	61-65	middle-school
-BOI034	0-Retired	M	PBC012	emilia-romagna	over 85	primary-school
+BOI034	0-Retired	M	PBC012	emilia-romagna	over85	primary-school
 BOI035	0-Retired	F	PBC013	emilia-romagna	76-80	technical-vocational-diploma
 BOI036	0-Retired	M	PBC014	emilia-romagna	76-80	primary-school
 BOI037	0-Retired	M	PBC015	emilia-romagna	61-65	university-degree
@@ -432,7 +432,7 @@ BOI099	6-Craft-Workers	M	PBB028	emilia-romagna	31-35	technical-vocational-diplom
 BOI100	6-Craft-Workers	M	PBB028	emilia-romagna	31-35	technical-vocational-diploma
 BOI101	3-Technicians	M	PBB029	emilia-romagna	31-35	liceo-diploma
 BOI102	2-Professionals	F	PBB030	emilia-romagna	31-35	university-degree
-BOI103	0-Retired	F	PBC024	emilia-romagna	over 85	middle-school
+BOI103	0-Retired	F	PBC024	emilia-romagna	over85	middle-school
 BOI104	0-Retired	F	PBC024	emilia-romagna	66-70	university-degree
 BOI105	3-Technicians	M	PBA026	emilia-romagna	16-20	technical-vocational-diploma
 BOI106	3-Technicians	M	PBA027	emilia-romagna	26-30	technical-vocational-diploma
